@@ -82,7 +82,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
-&emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury lawenforcement organization in investigations and undercover law enforcement operations; and
+&emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
 &emsp;&emsp;(H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 
@@ -154,7 +154,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;&emsp;(i) under any law enforced or administered by the United States Customs Service or the United States Coast Guard, in the case of fiscal year 1993; and
 
-&emsp;&emsp;&emsp;(ii) under any law enforced or administered by the Department of the Treasurylaw enforcement organizations or the United States Coast Guard, in the case of fiscal years beginning after 1993; and
+&emsp;&emsp;&emsp;(ii) under any law enforced or administered by the Department of the Treasury law enforcement organizations or the United States Coast Guard, in the case of fiscal years beginning after 1993; and
 
 &emsp;&emsp;(B) the estimated total value of all such property transferred to any State or local law enforcement agency; and
 
@@ -206,7 +206,7 @@ Appropriations.—
 
 &emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>1</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
-&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not bemade by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
+&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
 (h)
 
@@ -294,6 +294,8 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 (Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779, §9703; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered §9705 and amended Pub. L. 114–22, title I, §105(c)(1), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, §4(b), Dec. 21, 2018, 132 Stat. 5251.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
@@ -368,6 +370,8 @@ Subsec. (g)(4)(A). Pub. L. 103–322, §90205(c)(2), struck out "(i)" after "(A)
 
 Subsec. (e). Pub. L. 103–182, §685(3), substituted "may" for "shall" before "be kept on deposit".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -376,7 +380,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -30,7 +30,7 @@
 
 (d)(1) The Administrator or the Secretary may pay premium pay to any air traffic controller of the Federal Aviation Administration or the Department of Defense who is assigned by the Administrator or the Secretary to provide on-the-job training to another air traffic controller while such other air traffic controller is directly involved in the separation and control of live air traffic.
 
-(2) Premium pay paid under paragraph (1) of this subsection shall be paid at the rate of 10 per centum of the applicable hourly rate of basic pay times the number of hours and portion of an hour during which the air traffic controller of the Federal Aviation Administration or the Department of Defense provides on-the-job training.
+(2) Premium pay paid under paragraph (1) of this subsection shall be paid at the rate of 10 per centum of the applicable hourly rate of basicpay times the number of hours and portion of an hour during which the air traffic controller of the Federal Aviation Administration or the Department of Defense provides on-the-job training.
 
 (e)(1) The Administrator or the Secretary may pay premium pay to any air traffic controller or flight service station specialist of the Federal Aviation Administration or the Department of Defense who, while working a regularly scheduled eight-hour period of service, is required by his supervisor to work during the fourth through sixth hour of such period without a break of thirty minutes for a meal.
 
@@ -42,13 +42,15 @@
 
 (Added Pub. L. 97–276, §151(c)(1), (d), Oct. 2, 1982, 96 Stat. 1200, 1201; amended Pub. L. 97–377, title I, §145(a), formerly §145, Dec. 21, 1982, 96 Stat. 1917, renumbered Pub. L. 98–78, title III, §320(1), Aug. 15, 1983, 97 Stat. 473; Pub. L. 98–525, title XV, §1537(c)(1)–(6)(A), Oct. 19, 1984, 98 Stat. 2635, 2636.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–525, §1537(c)(6)(A), inserted "and the Department of Defense" in section catchline.
 
 Subsec. (a). Pub. L. 98–525, §1537(c)(1)(A), inserted "and the Secretary of Defense (hereafter in this section referred to as the 'Secretary')" in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–525, §1537(c)(1)(B), inserted "or the Department of Defense" in provisions precedingsubpar. (A) and "or the Secretary" in provisions following subpar. (C).
+Subsec. (a)(1). Pub. L. 98–525, §1537(c)(1)(B), inserted "or the Department of Defense" in provisions preceding subpar. (A) and "or the Secretary" in provisions following subpar. (C).
 
 Subsec. (a)(2). Pub. L. 98–525, §1537(c)(1)(C), inserted "or the Department of Defense" and "or the Secretary".
 
@@ -57,6 +59,8 @@ Subsecs. (c)(1), (d), (e)(1), (f)(1). Pub. L. 98–525, §1537(c)(2)–(5)(A), i
 Subsec. (f)(2). Pub. L. 98–525, §1537(c)(5)(B), inserted "and the Secretary".
 
 <b>1982</b>—Subsec. (a)(3). Pub. L. 97–377 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

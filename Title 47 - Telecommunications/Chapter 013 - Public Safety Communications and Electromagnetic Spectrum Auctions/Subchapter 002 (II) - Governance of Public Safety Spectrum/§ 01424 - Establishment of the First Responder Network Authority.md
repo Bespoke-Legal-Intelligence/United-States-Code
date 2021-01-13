@@ -106,7 +106,7 @@ There is established as an independent authority within the NTIA the "First Resp
 
 #### (3) Vacancies
 
-&emsp;A vacancy in the membership of the Board shall not affect the Board's powers, and shall be filled in the same manner as the original member was appointed.
+&emsp;A vacancy in the membership of the Board shall not affect the Board's powers, and shallbe filled in the same manner as the original member was appointed.
 
 #### (d) Chair
 
@@ -147,6 +147,8 @@ Eight members of the Board shall constitute a quorum, including at least 6 of th
 &emsp;A member of the Board appointed under subparagraphs (A) through (C) of subsection (b)(1) shall serve without additional pay, and shall not otherwise benefit, directly or indirectly, as a result of their service to the First Responder Network Authority, but shall be allowed a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the First Responder Network Authority.
 
 (Pub. L. 112–96, title VI, §6204, Feb. 22, 2012, 126 Stat. 208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -52,7 +52,7 @@ The Board may, for the purpose of carrying out its responsibilities under this s
 
 #### (f) Assistance from certain agencies of Federal Government
 
-With the consent of and under appropriate support arrangements with the Nuclear Regulatory Commission, the Board may obtain the advice and recommendations of the staff of the Commission on matters relating to the Board's responsibilities and may obtain the advice and recommendations of the Advisory Committee on Reactor Safeguards on such matters.
+With the consent of and under appropriate support arrangements with the Nuclear Regulatory Commission, the Board may obtain the advice and recommendations of the staff of theCommission on matters relating to the Board's responsibilities and may obtain the advice and recommendations of the Advisory Committee on Reactor Safeguards on such matters.
 
 #### (g) Assistance from organizations outside Federal Government
 
@@ -72,15 +72,57 @@ The Board may evaluate information received from the scientific and industrial c
 
 &emsp;(1) events or practices at any Department of Energy defense nuclear facility; or
 
-&emsp;(2) suggestions for specific measures to improve the content of standards described insection 2286a(b)(1) of this title, the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
+&emsp;(2) suggestions for specific measures to improve the content of standards described in section 2286a(b)(1) of this title, the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
-(Aug. 1, 1946, ch. 724, title I, §313, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2079; amended Pub. L. 101–510, div. C, title XXXII, §3202, Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXII, §3202(a), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(g), Jan. 2, 2013, 126 Stat. 2220; Pub. L. 113–291, div. C, title XXXII, §3203(a), Dec. 19, 2014, 128 Stat. 3903; Pub. L. 114–92, div. C, title XXXII, §3202(b)(2), Nov. 25, 2015, 129 Stat. 1218; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(A), (4), Dec. 20, 2019, 133 Stat. 1963, 1964.)
+#### (k) Nonpublic collaborative discussions
+
+#### (1) In general
+
+&emsp;Notwithstanding section 552b of title 5, a quorum of the members of the Board may hold a meeting that is not open to public observation to discuss official business of the Board if—
+
+&emsp;&emsp;(A) no formal or informal vote or other official action is taken at the meeting;
+
+&emsp;&emsp;(B) each individual present at the meeting is a member or an employee of the Board;
+
+&emsp;&emsp;(C) at least one member of the Board from each political party is present at the meeting, unless all members of the Board are of the same political party at the time of the meeting; and
+
+&emsp;&emsp;(D) the general counsel of the Board, or a designee of the general counsel, is present at the meeting.
+
+#### (2) Disclosure of nonpublic collaborative discussions
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided by subparagraph (B), not later than two business days after the conclusion of a meeting described in paragraph (1), the Board shall make available to the public, in a place easily accessible to the public—
+
+&emsp;&emsp;&emsp;(i) a list of the individuals present at the meeting; and
+
+&emsp;&emsp;&emsp;(ii) a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under section 552b(c) of title 5.
+
+#### (B) Information about matters withheld from public
+
+&emsp;&emsp;If the Board properly determines under subparagraph (A)(ii) that a matter may be withheld from the public under section 552b(c) of title 5, the Board shall include in the summary required by that subparagraph as much general information as possible with respect to the matter.
+
+#### (3) Rules of construction
+
+&emsp;Nothing in this subsection may be construed—
+
+&emsp;&emsp;(A) to limit the applicability of section 552b of title 5 with respect to—
+
+&emsp;&emsp;&emsp;(i) a meeting of the members of the Board other than a meeting described in paragraph (1); or
+
+&emsp;&emsp;&emsp;(ii) any information that is proposed to be withheld from the public under paragraph (2)(A)(ii); or
+
+&emsp;&emsp;(B) to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5.
+
+(Aug. 1, 1946, ch. 724, title I, §313, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2079; amended Pub. L. 101–510, div. C, title XXXII, §3202, Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXII, §3202(a), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(g), Jan. 2, 2013, 126 Stat. 2220; Pub. L. 113–291, div. C, title XXXII, §3203(a), Dec. 19, 2014, 128 Stat. 3903; Pub. L. 114–92, div. C, title XXXII, §3202(b)(2), Nov. 25, 2015, 129 Stat. 1218; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(A), (4), Dec. 20, 2019, 133 Stat. 1963, 1964; Pub. L. 116–283, div. C, title XXXII, §3202, Jan. 1, 2021, 134 Stat. 4394.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (k). Pub. L. 116–283 added subsec. (k).
 
 <b>2019</b>—Subsec. (b)(1)(A). Pub. L. 116–92, §3202(a)(4)(A), substituted "section 2286(c)(6)" for "section 2286(c)(7)".
 
@@ -96,7 +138,7 @@ Subsec. (b)(4). Pub. L. 116–92, §3202(a)(4)(B), added par. (4).
 
 <b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–190, §3202(a)(1), substituted "150" for "100".
 
-Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted "Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may" for "The Board may".
+Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted "Notwithstanding any other provision of law relatingto the use of competitive procedures, the Board may" for "The Board may".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted "including such scientific and technical personnel as the Board may determine necessary," after "Board," in subpar. (A), and added par. (2).
 

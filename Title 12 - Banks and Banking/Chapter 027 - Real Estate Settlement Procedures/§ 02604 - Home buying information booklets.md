@@ -22,7 +22,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(3) A list and explanation of lending practices, including those prohibited by the Truth in Lending Act or other applicable Federal law, and of other unfair practices and unreasonable or unnecessary charges to be avoided by the prospective buyer with respect to a real estate settlement.
 
-&emsp;(4) A list and explanation of questions a consumer obtaining a federally related mortgageloan should ask regarding the loan, including whether the consumer will have the ability to repay the loan, whether the consumer sufficiently shopped for the loan, whether the loan terms include prepayment penalties or balloon payments, and whether the loan will benefit the borrower.
+&emsp;(4) A list and explanation of questions a consumer obtaining a federally related mortgage loan should ask regarding the loan, including whether the consumer will have the ability to repay the loan, whether the consumer sufficiently shopped for the loan, whether the loan terms include prepayment penalties or balloon payments, and whether the loan will benefit the borrower.
 
 &emsp;(5) An explanation of the right of rescission as to certain transactions provided by sections 125 and 129 of the Truth in Lending Act \[15 U.S.C. 1635, 1639\].
 
@@ -52,13 +52,15 @@ Each lender shall include with the booklet a good faith estimate of the amount o
 
 #### (d) Distribution by lenders to loan applicants at time of receipt or preparation of applications
 
-Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide thebooklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 
 #### (e) Printing and distribution by lenders of booklets approved by Bureau
 
 Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
 (Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide th
 <b>1992</b>—Subsec. (d). Pub. L. 102–550 substituted "Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period." for "Such booklet shall be provided at the time of receipt or preparation of such application."
 
 <b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted "or for whom it prepares a written application" for "an application" and inserted "or preparation" after "receipt", and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

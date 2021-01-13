@@ -30,7 +30,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where with reasonable diligence jurisdiction in any State court of the Federal courts cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this subsection may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this paragraph such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(3) The total liability of any guarantor shall be limited to the aggregate amount which theguarantor has provided as evidence of financial responsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
 (4) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
@@ -80,7 +80,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;(C) the material used in the construction or lining of the tank is compatible with the substance to be stored.
 
-(2) Notwithstanding paragraph (1), if soil tests conducted in accordance with ASTM StandardG57–78, or another standard approved by the Administrator, show that soil resistivity in an installation location is 12,000 ohm/cm or more (unless a more stringent standard is prescribed by the Administrator by rule), a storage tank without corrosion protection may be installed in that location during the period referred to in paragraph (1).
+(2) Notwithstanding paragraph (1), if soil tests conducted in accordance with ASTM Standard G57–78, or another standard approved by the Administrator, show that soil resistivity in an installation location is 12,000 ohm/cm or more (unless a more stringent standard is prescribed by the Administrator by rule), a storage tank without corrosion protection may be installed in that location during the period referred to in paragraph (1).
 
 #### (h) EPA response program for petroleum
 
@@ -194,7 +194,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (A) In general
 
-&emsp;&emsp;As used in this subchapter, the terms "owner" and "operator" do not include aperson that, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, or marketing, holds indicia of ownership primarily to protect the person's security interest.
+&emsp;&emsp;As used in this subchapter, the terms "owner" and "operator" do not include a person that, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, or marketing, holds indicia of ownership primarily to protect the person's security interest.
 
 #### (B) Security interest holders
 
@@ -210,7 +210,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities andshall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 
@@ -298,7 +298,7 @@ The Administrator shall require each State that receives funding under this subc
 
 &emsp;This subsection does not relieve any person from any obligation or requirement under this subchapter.
 
-(Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698; Pub. L. 104–208, div.A, title II, §2503, Sept. 30, 1996, 110 Stat. 3009–468; Pub. L. 109–58, title XV, §§1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, 119 Stat. 1093, 1096, 1097, 1102, 1105; Pub. L. 109–168, §1(a)(2), Jan. 10, 2006, 119 Stat. 3580.)
+(Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698; Pub. L. 104–208, div. A, title II, §2503, Sept. 30, 1996, 110 Stat. 3009–468; Pub. L. 109–58, title XV, §§1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, 119 Stat. 1093, 1096, 1097, 1102, 1105; Pub. L. 109–168, §1(a)(2), Jan. 10, 2006, 119 Stat. 3580.)
 
 #### References in Text
 
@@ -350,7 +350,7 @@ Pub. L. 109–58, title XV, §1530(b), Aug. 8, 2005, 119 Stat. 1104, provided th
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2505, Sept. 30, 1996, 110 Stat. 3009–468, provided that: "The amendments made by this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. A, title II, §2505, Sept. 30, 1996, 110 Stat. 3009–468, provided that: "The amendments madeby this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\]."
 
 #### Regulations
 

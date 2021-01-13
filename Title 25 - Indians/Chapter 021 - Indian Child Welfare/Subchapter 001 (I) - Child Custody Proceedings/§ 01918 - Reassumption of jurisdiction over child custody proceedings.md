@@ -2,7 +2,7 @@
 
 #### (a) Petition; suitable plan; approval by Secretary
 
-Any Indian tribe which became subject to State jurisdiction pursuant to the provisions of the Act of August 15, 1953 (67 Stat. 588), as amended by title IV of the Act of April 11, 1968 (82 Stat. 73, 78), or pursuant to any other Federal law, may reassume jurisdiction over childcustody proceedings. Before any Indian tribe may reassume jurisdiction over Indian child custody proceedings, such tribe shall present to the Secretary for approval a petition to reassume such jurisdiction which includes a suitable plan to exercise such jurisdiction.
+Any Indian tribe which became subject to State jurisdiction pursuant to the provisions of the Act of August 15, 1953 (67 Stat. 588), as amended by title IV of the Act of April 11, 1968 (82 Stat. 73, 78), or pursuant to any other Federal law, may reassume jurisdiction over child custody proceedings. Before any Indian tribe may reassume jurisdiction over Indian child custody proceedings, such tribe shall present to the Secretary for approval a petition to reassume such jurisdiction which includes a suitable plan to exercise such jurisdiction.
 
 #### (b) Criteria applicable to consideration by Secretary; partial retrocession
 
@@ -16,7 +16,7 @@ Any Indian tribe which became subject to State jurisdiction pursuant to the prov
 
 &emsp;(iv) the feasibility of the plan in cases of multitribal occupation of a single reservation or geographic area.
 
-(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section 1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
+(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
 
 #### (c) Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval
 
@@ -27,6 +27,8 @@ If the Secretary approves any petition under subsection (a), the Secretary shall
 Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction, except as may be provided pursuant to any agreement under section 1919 of this title.
 
 (Pub. L. 95–608, title I, §108, Nov. 8, 1978, 92 Stat. 3074.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

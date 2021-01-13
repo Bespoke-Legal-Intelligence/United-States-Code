@@ -54,11 +54,13 @@ Provisions as to maintenance of clerks' offices were omitted as covered by secti
 
 The following provisions were omitted as either executed or covered by section 501 \[now 541\] et seq. and section 541 \[now 561\] et seq. of this title, containing similar provisions as to United States attorneys and marshals:
 
-"A. The senior district judge for the district of Indiana in office immediately prior to April 21, 1928, shallbe the district judge for the southern district as constituted by this section; the junior district judge for the district of Indiana immediately prior to April 21, 1928, shall be the district judge for the northern district as constituted by this section; and the district attorney and marshal for the district of Indiana in office immediately prior to April 21, 1928, shall be during the remainder of their present terms of office the district attorney and marshal for the southern district as constituted by this section.
+"A. The senior district judge for the district of Indiana in office immediately prior to April 21, 1928, shall be the district judge for the southern district as constituted by this section; the junior district judge for the district of Indiana immediately prior to April 21, 1928, shall be the district judge for the northern district as constituted by this section; and the district attorney and marshal for the district of Indiana in office immediately prior to April 21, 1928, shall be during the remainder of their present terms of office the district attorney and marshal for the southern district as constituted by this section.
 
 "B. The President is authorized and directed to appoint, by and with the advice and consent of the Senate, a district attorney and a marshal for the United States District Court for the Northern District of Indiana."
 
 Changes in arrangement and phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

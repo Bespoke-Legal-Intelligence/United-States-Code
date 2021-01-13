@@ -18,7 +18,7 @@
 
 (4) References in this subchapter to the "purchase" or "sale" of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in section 78c(a)(78) of this title), as the context may require.
 
-(May 27, 1933, ch. 38, title I, §2A, as added Pub. L. 106–554, §1(a)(5) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–451; amended Pub. L. 111–203, title VII, §762(c)(1), July 21, 2010, 124 Stat. 1759.)
+(May 27, 1933, ch. 38, title I, §2A, as added Pub. L. 106–554, §1(a)(5) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–451; amended Pub. L.111–203, title VII, §762(c)(1), July 21, 2010, 124 Stat. 1759.)
 
 #### Amendments
 

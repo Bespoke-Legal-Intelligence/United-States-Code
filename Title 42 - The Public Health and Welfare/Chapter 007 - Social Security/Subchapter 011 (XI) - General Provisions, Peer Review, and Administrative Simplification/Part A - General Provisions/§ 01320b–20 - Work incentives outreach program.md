@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Commissioner, in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, shall establish a community-based work incentives planning and assistanceprogram for the purpose of disseminating accurate information to disabled beneficiaries on work incentives programs and issues related to such programs.
+&emsp;The Commissioner, in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, shall establish a community-based work incentives planning and assistance program for the purpose of disseminating accurate information to disabled beneficiaries on work incentives programs and issues related to such programs.
 
 #### (2) Grants, cooperative agreements, contracts, and outreach
 
@@ -64,7 +64,7 @@
 
 #### (D) Exclusion for conflict of interest
 
-&emsp;&emsp;The Commissioner may not award a grant, cooperative agreement, or contract underthis section to any entity that the Commissioner determines would have a conflict of interest if the entity were to receive a grant, cooperative agreement, or contract under this section.
+&emsp;&emsp;The Commissioner may not award a grant, cooperative agreement, or contract under this section to any entity that the Commissioner determines would have a conflict of interest if the entity were to receive a grant, cooperative agreement, or contract under this section.
 
 #### (2) Services provided
 
@@ -140,7 +140,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), 
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV,§401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
+Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 
 Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out as a note under section 1382 of this title.
 

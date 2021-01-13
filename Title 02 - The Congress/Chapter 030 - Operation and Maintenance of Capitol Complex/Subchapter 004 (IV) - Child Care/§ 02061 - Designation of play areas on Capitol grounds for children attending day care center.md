@@ -22,6 +22,8 @@ The day care center referred to in S. Res. 269, Ninety-eighth Congress, first se
 
 (Pub. L. 98–392, §3, Aug. 21, 1984, 98 Stat. 1362; Pub. L. 104–186, title II, §221(14), Aug. 20, 1996, 110 Stat. 1750.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), is dated Nov. 14, 1983, and reads as follows: "<i>Resolved</i>, That payment is authorized from the contingent fund of the Senate in an amount not to exceed $20,000 for the start-up costs, including the procurement of the services of individual consultants or organizations, for a Senate day care center, which shall be ready for occupancy by January 1, 1984.
@@ -41,6 +43,8 @@ Section was classified to section 214b of former Title 40, prior to the enactmen
 #### Amendments
 
 <b>1996</b>—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,9 +4,13 @@ Any money accruing from the Department of Veterans Affairs or other governmental
 
 (Feb. 25, 1933, ch. 124, 47 Stat. 907; Pub. L. 102–54, §13(j)(1), June 13, 1991, 105 Stat. 276.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration" and "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

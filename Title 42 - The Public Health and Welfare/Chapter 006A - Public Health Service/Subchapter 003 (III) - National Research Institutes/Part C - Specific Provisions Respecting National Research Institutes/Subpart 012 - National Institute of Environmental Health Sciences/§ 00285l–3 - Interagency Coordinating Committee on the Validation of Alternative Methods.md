@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2 to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except tothe extent inconsistent with sections 285l–2 to 285l–5 of this title.
+With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2 to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except to the extent inconsistent with sections 285l–2 to 285l–5 of this title.
 
 #### (b) Purposes
 
@@ -100,7 +100,7 @@ The ICCVAM shall, consistent with the purposes described in subsection (b), carr
 
 &emsp;(6) Make available to the public final ICCVAM test recommendations to appropriate Federal agencies and the responses from the agencies regarding such recommendations.
 
-&emsp;(7) Prepare reports to be made available to the public on its progress under sections 285l–2to 285l–5 of this title. The first report shall be completed not later than 12 months after December 19, 2000, and subsequent reports shall be completed biennially thereafter.
+&emsp;(7) Prepare reports to be made available to the public on its progress under sections 285l–2 to 285l–5 of this title. The first report shall be completed not later than 12 months after December 19, 2000, and subsequent reports shall be completed biennially thereafter.
 
 (Pub. L. 106–545, §3, Dec. 19, 2000, 114 Stat. 2721.)
 

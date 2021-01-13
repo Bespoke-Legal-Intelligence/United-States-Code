@@ -52,7 +52,7 @@ Other funding not to be affected.—Amounts which have or may become available f
 
 &emsp;(5)
 
-Recovery of costs.—Before transferring to an agency in accordance with paragraph (1) any amounts becoming available from the sale of a semipostal over any period, the Postal Service shall ensure that it has recovered thefull costs incurred by the Postal Service in connection with such semipostal through the end of such period.
+Recovery of costs.—Before transferring to an agency in accordance with paragraph (1) any amounts becoming available from the sale of a semipostal over any period, the Postal Service shall ensure that it has recovered the full costs incurred by the Postal Service in connection with such semipostal through the end of such period.
 
 (e)
 
@@ -70,7 +70,7 @@ In general.—Except as provided in subsection (c), the Postal Service shall pre
 
 &emsp;(2)
 
-Notice and comment.—Before any regulation is issued under this section, a copy of the proposed regulation shall be published in the Federal Register, and an opportunity shall be provided for interested parties to present written and, where practicable, oral comment. All regulations necessary to carry out this section shall be issued not later than 30 days before the date on which semipostals are first made available to the public under this section.
+Notice and comment.—Before any regulation is issued under this section, a copy of the proposed regulation shall be published in the Federal Register, and an opportunity shall beprovided for interested parties to present written and, where practicable, oral comment. All regulations necessary to carry out this section shall be issued not later than 30 days before the date on which semipostals are first made available to the public under this section.
 
 (f)
 
@@ -98,11 +98,15 @@ Termination.—This section shall cease to be effective at the end of the 10-yea
 
 (Added Pub. L. 106–253, §2(a), July 28, 2000, 114 Stat. 634; amended Pub. L. 107–67, title VI, §652(c)(1), Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–117, div. B, §1201, Jan. 10, 2002, 115 Stat. 2335.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–117 amended Pub. L. 107–67. See 2001 Amendment note below.
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–67, as amended by Pub. L. 107–117, substituted "of not less than 15 percent" for "of not to exceed 25 percent" in par. (1) and inserted at end of concluding provisions "The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -160,7 +164,7 @@ Proceeds not to be offset.—In accordance with section 416(d)(4) of such title 
 
 &emsp;"(2)
 
-Duration.—The Multinational Species Conservation Funds Semipostal Stamp shall be madeavailable to the public for a period of at least 6 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
+Duration.—The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 6 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
 
 &emsp;"(3)
 
@@ -274,5 +278,5 @@ Pub. L. 106–253, §2(b), July 28, 2000, 114 Stat. 636, provided that: "Each ag
 
 #### Reports by the Government Accountability Office
 
-Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House ofCongress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
+Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
 

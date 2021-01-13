@@ -4,6 +4,8 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (Aug. 11, 1955, ch. 800, §3, 69 Stat. 685.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.

@@ -110,6 +110,8 @@ To ensure that adequate malaria controls are established and implemented, the Ce
 
 (Pub. L. 108–25, title III, §304, May 27, 2003, 117 Stat. 737; Pub. L. 110–293, title III, §304, July 30, 2008, 122 Stat. 2961.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (f) and (g), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
@@ -117,6 +119,8 @@ This chapter, referred to in subsecs. (f) and (g), was in the original "this Act
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–293 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to a pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

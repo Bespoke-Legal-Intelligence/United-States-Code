@@ -12,6 +12,8 @@ Mandatory punishment provisions were rephrased in the alternative.
 
 Minor change in phraseology was made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $1,000".

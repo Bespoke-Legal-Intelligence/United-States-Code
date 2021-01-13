@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) submit such framework to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;(B) make such framework publically <sup>1</sup> available on the Internet website of the Department of Health and Human Services.
+&emsp;&emsp;(B) make such framework publically available on the Internet website of the Department of Health and Human Services.
 
 #### (b) Identification of recalcitrant cancer
 
@@ -123,6 +123,4 @@ The Director of the Institute shall consider each relevant scientific framework 
 In this section, the term "recalcitrant cancer" means a cancer for which the five-year relative survival rate is below 50 percent.
 
 (July 1, 1944, ch. 373, title IV, §417G, as added Pub. L. 112–239, div. A, title X, §1083, Jan. 2, 2013, 126 Stat. 1960.)
-
-<i><sup>1</sup></i><i> So in original. Probably should be "publicly".</i>
 

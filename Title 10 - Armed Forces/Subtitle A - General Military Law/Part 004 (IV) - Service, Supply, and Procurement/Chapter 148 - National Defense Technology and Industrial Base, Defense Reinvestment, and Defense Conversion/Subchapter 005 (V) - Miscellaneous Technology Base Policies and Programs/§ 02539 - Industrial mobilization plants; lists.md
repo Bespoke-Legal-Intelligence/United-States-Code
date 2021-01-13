@@ -14,7 +14,15 @@ Conversion Plans.—The Secretary of Defense may prepare comprehensive plans for
 
 (Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1705.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after section 4882, and redesignated as section 4883 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

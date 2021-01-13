@@ -12,21 +12,33 @@
 
 &emsp;(B) at the time of the order or authorization, the director, officer, or executive employee advised the Secretary in writing of acting under this subparagraph and subparagraph (A).
 
-(c) A person violating any other provision of this chapter or other regulation prescribedunder this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+(c) A person violating section 4312(b) of this title is liable to the United States Government for a civil penalty of not more than—
 
-(d) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+&emsp;(1) $100 for the first offense;
 
-(e) The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+&emsp;(2) $250 for the second offense; and
 
-(f) A person is not subject to a penalty under this chapter if the person—
+&emsp;(3) $500 for any subsequent offense.
 
-&emsp;(1) establishes that the person did not have reason to know, in exercising reasonable care, that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
+(d) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+
+(e) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+
+(f) The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+
+(g) A person is not subject to a penalty under this chapter if the person—
+
+&emsp;(1) establishes that the person did not have reason to know, in exercising reasonable care,that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
 
 &emsp;(2) holds a certificate issued by the manufacturer of that recreational vessel or associated equipment to the effect that the recreational vessel or associated equipment conforms to all applicable recreational vessel safety standards of the Government, unless the person knows or reasonably should have known that the recreational vessel or associated equipment does not so conform.
 
-(g) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
+(h) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 534; Pub. L. 98–557, §8(b), (c), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title IV, §406, Aug. 9, 2004, 118 Stat. 1043; Pub. L. 109–241, title IX, §901(e), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 534; Pub. L. 98–557, §8(b), (c), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title IV, §406, Aug. 9, 2004, 118 Stat. 1043; Pub. L. 109–241, title IX, §901(e), July 11, 2006, 120 Stat. 564; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(b), Jan. 1, 2021, 134 Stat. 4699.)
+
+#### Amendment by Pub. L. 116–283
+
+<i>Amendment by Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the Coast Guard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in section 8316(a) of Pub. L. 116–283 (amending section 4312 of this title) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -68,7 +80,11 @@ A person violating any of the prohibited acts specified in section 4307(a)(1) is
 
 This section also contains an alternate procedure for the collection of a civil penalty of not more than $200 through a U.S. magistrate in lieu of the civil penalty procedures of the Coast Guard. It also directs the district courts of the United States to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a recreational vessel or associated equipment that does not conform to applicable safety standards. Finally, compliance with this chapter or standards, regulations, or orders does not relieve a person from liability at common law or under State law.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsecs. (c) to (h). Pub. L. 116–283 added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively.
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–241 inserted a space after "4307(a)".
 
@@ -81,6 +97,12 @@ This section also contains an alternate procedure for the collection of a civil 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–557, §8(b), inserted "defect or the" before "nonconformity".
 
 Subsec. (f)(1). Pub. L. 98–557, §8(c), inserted provisions relating to advice by the Secretary or manufacturer of the vessel, equipment or component respecting defects creating substantial risk of personal injury to the public.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: "The amendments made in subsections (a) and (b) \[amending this section and section 4312 of this title\] shall take effect 90 days after the date of the enactment of this section \[Jan. 1, 2021\], unless the Commandant \[of the Coast Guard\], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) \[see section 4312(b) of this title\] would not promote recreational boating safety."
 
 #### Change of Name
 

@@ -42,7 +42,7 @@ Eligible officers.—An officer described in paragraph (1) is an officer of the 
 
 &emsp;&emsp;(C) has at least eight years of creditable service (computed as described in section 302b(f) of this title) or has completed any active-duty service commitment incurred for psychology education and training;
 
-&emsp;&emsp;(D) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into the agreement under this subsection); and
+&emsp;&emsp;(D) has completed initial residency training (or will complete such training beforeSeptember 30 of the fiscal year in which the officer enters into the agreement under this subsection); and
 
 &emsp;&emsp;(E) holds a valid State license to practice as a doctoral level psychologist.
 
@@ -79,6 +79,8 @@ Retention bonus.—An officer who does not complete the period of active duty sp
 Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2018.
 
 (Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(1), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §612(b)(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §612(b)(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §612(b)(1), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §612(b)(1), Dec. 12, 2017, 131 Stat. 1421.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

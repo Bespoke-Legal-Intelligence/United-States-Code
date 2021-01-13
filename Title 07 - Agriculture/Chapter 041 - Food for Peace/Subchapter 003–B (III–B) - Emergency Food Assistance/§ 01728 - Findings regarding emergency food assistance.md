@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) acute food crises continue to cause loss of life, severe malnutrition, and general human suffering in many areas of the Third World, especially in sub-Saharan Africa;
 
-&emsp;(2) the United States continues to respond to these needs, as a reflection of its humanitarian concern for the people of the Third World, with emergency food and other necessary assistance to alleviate the suffering of those affected by severe food shortages;
+&emsp;(2) the United States continues to respond to these needs, as a reflection of its humanitarian concern for the people of the ThirdWorld, with emergency food and other necessary assistance to alleviate the suffering of those affected by severe food shortages;
 
 &emsp;(3) the timely provision of food and other necessary assistance to those in need is of paramount importance if the worst effects of such food crises are to be mitigated; and
 

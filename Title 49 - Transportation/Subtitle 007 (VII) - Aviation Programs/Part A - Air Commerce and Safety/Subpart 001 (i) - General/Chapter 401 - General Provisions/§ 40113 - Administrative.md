@@ -22,7 +22,7 @@ Assistance to Foreign Aviation Authorities.—
 
 &emsp;(1)
 
-Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator may also provide technical assistance related to all aviation safety-related training and operational services in connection with bilateral and multilateral agreements, including further bolstering the components of airmanship. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
 &emsp;(2)
 
@@ -42,11 +42,15 @@ Crediting appropriations.—Funds received by the Administrator pursuant to this
 
 Reporting.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
 
+&emsp;(5)
+
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+
 (f)
 
 Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. K, title I, §1991(c)(2), Oct. 5, 2018, 132 Stat. 3627.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. K, title I, §1991(c)(2), Oct. 5, 2018, 132 Stat.3627; Pub. L. 116–260, div. V, title I, §119(g), Dec. 27, 2020, 134 Stat. 2342.)
 
 Historical and Revision Notes
 
@@ -113,6 +117,10 @@ In subsection (c), the words "department, agency, and instrumentality" are subst
 In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted because of 49:322(a).
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(1). Pub. L. 116–260, §119(g)(1), inserted "The Administrator may also provide technical assistance related to all aviation safety-related training and operational services in connection with bilateral and multilateral agreements, including further bolstering the components of airmanship." after "safety or efficiency."
+
+Subsec. (e)(5). Pub. L. 116–260, §119(g)(2), added par. (5).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(c)(2)(A), substituted "the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by that Administrator or" for "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or", "carried out by that Administrator" for "carried out by the Administrator", and ", Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration," for ", Under Secretary, or Administrator,".
 

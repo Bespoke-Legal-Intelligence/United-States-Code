@@ -36,6 +36,8 @@ There is no sound reason for differentiating between types of credit, insurance,
 
 The blanket provision for punishment of "any person who willfully violates any other provision of this Act" was omitted as useless, in view of the specific provisions for penalties elsewhere in the Act.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56 substituted "10 years" for "five years" in two places.
@@ -48,19 +50,23 @@ The blanket provision for punishment of "any person who willfully violates any o
 
 <b>1961</b>—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Abolition of Home Owners' Loan Corporation
+
+For dissolution and abolition of Home Owners' Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, §21, 67 Stat. 126, see note set out under section 1463 of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
 #### Exceptions From Transfer of Functions
 
 Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of Reconstruction Finance Corporation
 
-Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
-
-#### Abolition of Home Owners' Loan Corporation
-
-For dissolution and abolition of Home Owners' Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, §21, 67 Stat. 126, see note set out under section 1463 of Title 12, Banks and Banking.
+Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
 
 #### Farm Credit Administration
 
-Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
+Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 

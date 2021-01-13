@@ -4,6 +4,8 @@ Nothing in this subchapter shall be construed to impair in any manner any powers
 
 (Mar. 9, 1933, ch. 1, title II, §210, 48 Stat. 5; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.

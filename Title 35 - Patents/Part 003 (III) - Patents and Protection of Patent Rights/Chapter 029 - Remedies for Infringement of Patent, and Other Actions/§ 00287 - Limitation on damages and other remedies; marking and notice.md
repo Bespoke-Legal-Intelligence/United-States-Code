@@ -30,7 +30,7 @@
 
 > The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
-(4)(A) For purposes of this subsection, a "request for disclosure" means a written requestmade to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
+(4)(A) For purposes of this subsection, a "request for disclosure" means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
 &emsp;(i) which is made by a person regularly engaged in the United States in the sale of the same type of products as those manufactured by the person to whom the request is directed, or which includes facts showing that the person making the request plans to engage in the sale of such products in the United States;
 
@@ -68,7 +68,7 @@
 
 &emsp;(D) the term "professional affiliation" shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
 
-&emsp;(E) the term "body" shall mean a human body, organ or cadaver, or a nonhuman animalused in medical research or instruction directly relating to the treatment of humans.
+&emsp;(E) the term "body" shall mean a human body, organ or cadaver, or a nonhuman animal used in medical research or instruction directly relating to the treatment of humans.
 
 &emsp;(F) the term "patented use of a composition of matter" does not include a claim for a method of performing a medical or surgical procedure on a body that recites the use of a composition of matter where the use of that composition of matter does not directly contribute to achievement of the objective of the claimed method.
 
@@ -89,6 +89,8 @@
 Based on Title 35, U.S.C., 1946 ed., §49 (R.S. 4900, amended Feb. 7, 1927, ch. 67, 44 Stat. 1058).
 
 Language is changed. The proviso in the corresponding section of existing statute is omitted as being temporary in character and now obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -131,6 +133,8 @@ Subsec. (b)(4)(A)(ii). Pub. L. 103–465, §533(b)(5)(B)(iii), substituted "use,
 Subsec. (b)(4)(C). Pub. L. 103–465, §533(b)(5)(B)(iv), (v), substituted "have been offered for sale or sold" for "have been sold" and "United States, or imported by the person into the United States, before" for "United States before".
 
 <b>1988</b>—Pub. L. 100–418 inserted "and other remedies" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

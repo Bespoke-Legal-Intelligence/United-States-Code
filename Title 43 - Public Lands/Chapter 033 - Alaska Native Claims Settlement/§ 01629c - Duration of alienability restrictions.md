@@ -20,7 +20,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 &emsp;(ii) in the case of an amendment submitted by the board of directors of the corporation pursuant to a shareholder petition, not more than once every two years.
 
-(2) An amendment authorized by paragraph (1) shall specify the time of termination, either by establishing a date certain or by describing thespecific event upon which alienability restrictions shall terminate.
+(2) An amendment authorized by paragraph (1) shall specify the time of termination, either by establishing a date certain or by describing the specific event upon which alienability restrictions shall terminate.
 
 (3) Dissenters rights may be granted by the corporation in connection with the rejection of an amendment to terminate alienability restrictions in accordance with section 1629d of this title. Once dissenters rights have been so granted, they shall not be granted again in connection with subsequent amendments to terminate alienability restrictions.
 
@@ -60,7 +60,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) In lieu of approving the amendment to the articles of incorporation described in clause (i) and submitting such amendment to a vote of the shareholders, at any time prior to January 1, 1991, the board of directors of a Native Corporation that has approved a resolution described in paragraph (1)(A) may approve a new resolution rescinding that prior resolution. Upon approval of the new resolution rescinding a resolution described in paragraph (1)(A), the latter resolution shall be void and alienability restrictions on the Settlement Common Stock of such corporation shall continue subsequent to December 18, 1991, until such time as the alienability restrictions are terminated pursuant to the procedure described in subsection (b).
 
-(iii) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of any provision in clause (ii) shall be barred unless it is filed within one year after the date of the vote of the board of directors approving a resolution to rescind a prior opt-in election under paragraph (1)(A). Any such civil action shall be filed in accordance with section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987 (101 Stat. 1813–1814).
+(iii) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of any provision in clause (ii) shall be barred unless it is filed within one year after the date of the vote of the board of directors approving a resolution to rescind a prior opt-in election under paragraph (1)(A). Any such civil action shall be filed in accordance with section16(b) of the Alaska Native Claims Settlement Act Amendments of 1987 (101 Stat. 1813–1814).
 
 (C) An amendment submitted pursuant to subparagraph (B) and any amendment submitted pursuant to subparagraph (D) may provide for an extension of alienability restrictions for—
 
@@ -141,6 +141,8 @@ Alienability restrictions shall continue until terminated in accordance with the
 (C) The statement required by subparagraph (B) shall be verified by the transferee before a notary public or other official authorized to administer oaths in accordance with the laws of the jurisdiction of the transferee or in which the transfer is made.
 
 (Pub. L. 92–203, §37, as added Pub. L. 100–241, §8, Feb. 3, 1988, 101 Stat. 1797; amended Pub. L. 101–378, title III, §301, Aug. 17, 1990, 104 Stat. 471; Pub. L. 102–201, title III, §301, Dec. 10, 1991, 105 Stat. 1633.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -8,7 +8,7 @@ Grants allocated under this chapter shall be available only for approved activit
 
 &emsp;(3) provide rental assistance to such persons under section 12908 of this title;
 
-&emsp;(4) facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings (SROs) that would be made available only to such persons under section 12909 of this title;
+&emsp;(4) facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings\(SROs) that would be made available only to such persons under section 12909 of this title;
 
 &emsp;(5) facilitate the development of community residences for eligible persons under section 12910 of this title;
 

@@ -50,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnelshall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 
@@ -65,6 +65,8 @@ In deriving the baseline for any budget year or outyear, current-year amounts sh
 Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
 
 (Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, §10209(a), Aug. 5, 1997, 111 Stat. 710; Pub. L. 113–67, div. A, title I, §121(9), Dec. 26, 2013, 127 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +141,8 @@ Par. (11). Pub. L. 100–119, §102(b)(6), added par. (11).
 Par. (12). Pub. L. 100–119, §102(b)(7), added par. (12).
 
 Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 

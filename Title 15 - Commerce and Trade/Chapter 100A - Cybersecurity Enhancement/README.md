@@ -13,6 +13,7 @@
 |  |  |
 | :--- | ---: |
 | [7431\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Research%20and%20Development/%C2%A7%2007431%20-%20Federal%20cybersecurity%20research%20and%20development.md) | Federal cybersecurity research and development. |
+| [7432\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Research%20and%20Development/%C2%A7%2007432%20-%20National%20cybersecurity%20challenges.md) | National cybersecurity challenges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +23,7 @@
 | :--- | ---: |
 | [7441\.](Subchapter%20002%20%28II%29%20-%20Education%20and%20Workforce%20Development/%C2%A7%2007441%20-%20Cybersecurity%20competitions%20and%20challenges.md) | Cybersecurity competitions and challenges. |
 | [7442\.](Subchapter%20002%20%28II%29%20-%20Education%20and%20Workforce%20Development/%C2%A7%2007442%20-%20Federal%20Cyber%20Scholarship-for-Service%20Program.md) | Federal Cyber Scholarship-for-Service Program. |
+| [7443\.](Subchapter%20002%20%28II%29%20-%20Education%20and%20Workforce%20Development/%C2%A7%2007443%20-%20National%20cybersecurity%20awareness%20and%20education%20program.md) | National cybersecurity awareness and education program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,7 +31,7 @@
 
 |  |  |
 | :--- | ---: |
-| [7451\.](Subchapter%20003%20%28III%29%20-%20Cybersecurity%20Awareness%20and%20Preparedness/%C2%A7%2007451%20-%20National%20cybersecurity%20awareness%20and%20education%20program.md) | National cybersecurity awareness and education program. |
+| [7451\.](Subchapter%20003%20%28III%29%20-%20Cybersecurity%20Awareness%20and%20Preparedness/%C2%A7%2007451%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

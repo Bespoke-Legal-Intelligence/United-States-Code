@@ -58,7 +58,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclauses (II) through (V), the Secretary shall establish procedures for nominations and elections to county, area, or local committees.
+&emsp;&emsp;&emsp;&emsp;Subject to subclauses (II) through (V), the Secretary shall establish proceduresfor nominations and elections to county, area, or local committees.
 
 #### (II) Nondiscrimination statement
 
@@ -72,7 +72,7 @@
 
 #### (bb) Outreach
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the ConsolidatedFarm and Rural Development Act (7 U.S.C. 2003(e)(1)).<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;&emsp;In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).<sup>1</sup>
 
 #### (IV) Opening of ballots
 
@@ -136,7 +136,7 @@
 
 #### (II) Report to Congress
 
-&emsp;&emsp;&emsp;&emsp;After each Census of Agriculture, the Secretary shall report to Congress the rate of loss or gain in participation by each socially disadvantaged group, by race, ethnicity, and gender, since the previous Census.
+&emsp;&emsp;&emsp;&emsp;After each Census of Agriculture, the Secretary shall report to Congress therate of loss or gain in participation by each socially disadvantaged group, by race, ethnicity, and gender, since the previous Census.
 
 #### (C) Termination or combination of committees
 
@@ -148,7 +148,7 @@
 
 #### (D) Use of committees
 
-&emsp;&emsp;The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of suchcommittees in carrying out programs under other authorities administered by the Secretary.
+&emsp;&emsp;The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of such committees in carrying out programs under other authorities administered by the Secretary.
 
 #### (E) Regulations
 
@@ -232,7 +232,7 @@ Establishment of county, area, or local committees.—(i) In each county or area
 
 "(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years."
 
-<b>1996</b>—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
+<b>1996</b>—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out formerpars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
 
 Subsec. (b)(6) to (8). Pub. L. 104–127, §336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
 
@@ -260,11 +260,11 @@ Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing tha
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–113, §1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
+<b>1977</b>—Subsec. (b). Pub. L. 95–113, §1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water orthat cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
 
 Subsec. (e). Pub. L. 95–113, §1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item\(2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
+<b>1972</b>—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
 Subsec. (d). Pub. L. 92–419, §606(4), included reference to cl. (6) of section 590g(a) of this title in first par.
 
@@ -394,7 +394,7 @@ Pub. L. 89–504, title I, §107, July 18, 1966, 80 Stat. 293, provided that: "T
 
 #### 1965 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: "The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation."
+Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: "The rates of compensation of persons employedby the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation."
 
 \[Provision effective on first day of first pay period which begins on or after July 1, 1966, see section 109(2) of Pub. L. 89–504.\]
 

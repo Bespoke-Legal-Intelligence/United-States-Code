@@ -4,9 +4,13 @@ The President is authorized to change and reestablish the boundaries of land dis
 
 (R.S. §2253.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2253 derived from act June 29, 1870, ch. 171, 16 Stat. 171.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

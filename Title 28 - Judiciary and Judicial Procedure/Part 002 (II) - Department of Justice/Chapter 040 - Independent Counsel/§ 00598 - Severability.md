@@ -4,11 +4,15 @@ If any provision of this chapter or the application thereof to any person or cir
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §§2(a)(1)(A), 7, Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1306.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to severability for provisions relating to termination of chapter. See section 599 of this title.
 
 <b>1983</b>—Pub. L. 97–409, §§2(a)(1)(A), 7, substituted reference to the date of enactment of the Ethics in Government Act Amendments of 1982 for reference to the date of enactment of this chapter and substituted "independent counsel" for "special prosecutor" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

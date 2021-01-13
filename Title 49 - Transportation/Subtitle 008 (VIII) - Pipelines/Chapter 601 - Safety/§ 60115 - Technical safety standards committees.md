@@ -8,7 +8,7 @@ Organization.—The Technical Pipeline Safety Standards Committee and the Techni
 
 Composition and Appointment.—(1) The Technical Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary of Transportation after consulting with public and private agencies concerned with the technical aspect of transporting gas or operating a gas pipeline facility. Each member must be experienced in the safety regulation of transporting gas and of gas pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting gas or operating a gas pipeline facility, to evaluate gas pipeline safety standards or risk management principles.
 
-(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
+(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field ofengineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
 
 (3) The members of each committee are appointed as follows:
 
@@ -190,7 +190,7 @@ Subsec. (b)(3)(B). Pub. L. 104–304, §10(b)(3), substituted "5" for "4".
 
 Subsec. (b)(3)(C). Pub. L. 104–304, §10(b)(4), substituted "5" for "6".
 
-Subsec. (b)(4)(B). Pub. L. 104–304, §10(b)(5), inserted at end "At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with thenational organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B)."
+Subsec. (b)(4)(B). Pub. L. 104–304, §10(b)(5), inserted at end "At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B)."
 
 Subsec. (b)(4)(C). Pub. L. 104–304, §10(b)(6), inserted after first sentence "At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis."
 

@@ -18,7 +18,7 @@
 
 #### (2) Separate records and audits not required
 
-&emsp;Notwithstanding any other provision of law (including regulations and circulars of any agency (including Office of Management andBudget Circular A–133)), an Indian tribe that has in place an approved plan under this chapter shall not be required—
+&emsp;Notwithstanding any other provision of law (including regulations and circulars of any agency (including Office of Management and Budget Circular A–133)), an Indian tribe that has in place an approved plan under this chapter shall not be required—
 
 &emsp;&emsp;(A) to maintain separate records that trace any service or activity conducted under the approved plan to the program for which the funds were initially authorized or transferred;
 
@@ -73,6 +73,8 @@ The following provisions of law shall apply to plans approved under this chapter
 &emsp;Funds transferred under a plan shall be managed in accordance with the prudent investment standard.
 
 (Pub. L. 102–477, §14, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 115–93, §14, Dec. 18, 2017, 131 Stat. 2035.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

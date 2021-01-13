@@ -1,16 +1,16 @@
 ### §521. Saving life and property
 
-(a) In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
+(a) In order to render aid to distressed individuals, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to individuals and property imperiled by flood, the Coast Guard may:
 
-&emsp;(1) perform any and all acts necessary to rescue and aid persons and protect and save property;
+&emsp;(1) perform any and all acts necessary to rescue and aid individuals and protect and save property;
 
-&emsp;(2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
+&emsp;(2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by individuals legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
 
-&emsp;(3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
+&emsp;(3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to individuals succored by the Coast Guard; and
 
 &emsp;(4) destroy or tow into port sunken or floating dangers to navigation.
 
-(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+(b)(1) Subject to paragraph (2), the Coast Guard may render aid to individuals and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
 (2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) subject to a civil penalty of not more than $1,000 per day for each violation.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501, §88; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, §201, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §205(a)(4), Dec. 18, 2014, 128 Stat. 3025; renumbered §521, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 501, §88; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, §201, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §205(a)(4), Dec. 18, 2014, 128 Stat. 3025; renumbered §521, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(4), Jan. 1, 2021, 134 Stat. 4748.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,11 @@ Derived from title 14, U.S.C., 1946 ed., §§29, 53, 55, 60, 61, 62, 63, 104, an
 
 This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b)(1). Pub. L. 116–283 substituted "individuals" for "persons" wherever appearing.
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 88 of this title as this section.
 
@@ -54,6 +58,8 @@ This section broadens existing law in that it authorizes the Coast Guard to enga
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–278 substituted "on and under the high seas and on and under the waters" for "on the high seas and on waters" in introductory text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -64,5 +70,5 @@ Pub. L. 115–265, title II, §209, Oct. 11, 2018, 132 Stat. 3747, provided that
 
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 
-Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102Stat. 1850, provided that: "The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise."
+Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: "The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise."
 

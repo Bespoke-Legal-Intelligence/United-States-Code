@@ -54,7 +54,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(F) the guarantee of equal opportunity;
 
-&emsp;(2) to maximize opportunities for individuals with disabilities, including individuals with significant disabilities, for competitive integrated employment;
+&emsp;(2) to maximize opportunities for individuals with disabilities, including individuals withsignificant disabilities, for competitive integrated employment;
 
 &emsp;(3) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living;
 
@@ -78,6 +78,8 @@ It is the policy of the United States that all programs, projects, and activitie
 
 (Pub. L. 93–112, §2, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §402, July 22, 2014, 128 Stat. 1631.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -97,6 +99,8 @@ Subsec. (b)(1)(A). Pub. L. 113–128, §402(b)(1)(A), substituted "workforce dev
 Subsec. (b)(2) to (5). Pub. L. 113–128, §402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2010 Amendment
 
@@ -124,7 +128,7 @@ Pub. L. 99–506, §1(a), Oct. 21, 1986, 100 Stat. 1807, provided that: "This Ac
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–221, §1, Feb. 22, 1984, 98 Stat. 17, provided: "That this Act \[enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713 of this title\] may be cited as the 'Rehabilitation Amendments of 1984'."
+Pub. L. 98–221, §1, Feb. 22, 1984, 98 Stat. 17, provided: "That this Act \[enacting sections 780a and 1901 to 1906of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713 of this title\] may be cited as the 'Rehabilitation Amendments of 1984'."
 
 #### Short Title of 1978 Amendment
 
@@ -149,6 +153,8 @@ Pub. L. 93–112, title VI, §601, as added by Pub. L. 105–220, title IV, §40
 Pub. L. 93–112, §1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the "Rehabilitation Act of 1973", prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
 Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the "Employment Opportunities for Handicapped Individuals Act", prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11758. Delegation of Authority of the President
 
@@ -220,7 +226,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance andhealth care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
 Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -262,7 +268,7 @@ Sec. 3. <i>Administration</i>. (a) The Board shall meet when called by the Chair
 
 (c) Members of the Board shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
 
-(d) The Department of Labor shall provide funding and appropriate support to assist the Board in carrying out the activities described in section 2 of this order, including necessary office space, equipment, supplies, services, and staff. The functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, that are applicable to the Commission, shall be performed by the Department of Labor in accordance with guidelines that have been issued by the Administrator of General Services.
+(d) The Department of Labor shall provide funding and appropriate support to assist the Board in carrying out the activities described in section 2 of this order, including necessary office space, equipment, supplies, services, and staff. The functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, that areapplicable to the Commission, shall be performed by the Department of Labor in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (e) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Board such information as it may need for purposes of carrying out the functions described in section 2 of this order.
 

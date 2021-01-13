@@ -16,7 +16,7 @@ The filing of an application for rehearing under subsection (a) shall not, unles
 
 #### (1) In general
 
-&emsp;The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as "permit") required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;The United States Court of Appeals for the circuit in which a facility subject to section717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as "permit") required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 #### (2) Agency delay
 

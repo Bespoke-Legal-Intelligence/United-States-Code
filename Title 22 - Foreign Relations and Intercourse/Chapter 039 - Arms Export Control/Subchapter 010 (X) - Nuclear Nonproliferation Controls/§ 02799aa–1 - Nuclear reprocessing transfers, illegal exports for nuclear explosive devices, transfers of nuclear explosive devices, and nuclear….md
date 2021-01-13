@@ -6,7 +6,7 @@
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
-&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
+&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technologywhich would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
@@ -62,7 +62,7 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term "design information" means specific information that relates to the design of a nuclear explosive device and that is not available to the public; and
+&emsp;(A) the term "design information" means specific information that relates to the designof a nuclear explosive device and that is not available to the public; and
 
 &emsp;(B) the term "component" means a specific component of a nuclear explosive device.
 
@@ -90,6 +90,8 @@ As used in this section, the term "non-nuclear-weapon state" means any country w
 
 (Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -116,6 +118,8 @@ Subsec. (b)(2)(D)(iii). Pub. L. 105–194, §2(a), added cl. (iii).
 
 Subsec. (b)(2)(F). Pub. L. 105–194, §2(b), inserted ", which includes fertilizer" before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9. 2004.
@@ -128,10 +132,6 @@ Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: "The ame
 
 Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
-#### Delegation of Functions
-
-Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
-
 #### Waiver of Certain Sanctions Against North Korea
 
 Pub. L. 110–252, title I, §1405, June 30, 2008, 122 Stat. 2337, as amended by Pub. L. 113–188, title VIII, §801, Nov. 26, 2014, 128 Stat. 2020; Pub. L. 113–235, div. J, title VII, §7034(i), Dec. 16, 2014, 128 Stat. 2624, provided that:
@@ -142,7 +142,7 @@ Waiver Authority.—
 
 &emsp;"(1)
 
-In general.—Except as provided in subsection (b), the President may waive in whole or in part, withrespect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export Control Act (22 U.S.C. 2799aa–1(b)\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
+In general.—Except as provided in subsection (b), the President may waive in whole or in part, with respect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export Control Act (22 U.S.C. 2799aa–1(b)\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
 
 &emsp;&emsp;"(A) the implementation and verification of the compliance by North Korea with its commitment, undertaken in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula; and
 
@@ -249,6 +249,12 @@ Pub. L. 105–277, div. A, §101(a) \[title IX\], Oct. 21, 1998, 112 Stat. 2681,
 #### Effect on Existing Sanctions
 
 Pub. L. 105–194, §2(e), July 14, 1998, 112 Stat. 627, provided that: "Any sanction imposed under section 102(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] before the date of the enactment of this Act \[July 14, 1998\] shall cease to apply upon that date with respect to the items described in the amendments made by subsections (b) and (c) \[amending this section\]. In the case of the amendment made by subsection (a)(3) \[amending this section\], any sanction imposed under section 102(b)(1) of the Arms Export Control Act before the date of the enactment of this Act shall not be in effect during the period beginning on that date and ending on September 30, 1999, with respect to the activities and items described in the amendment."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Sanctions Against India for Detonation of a Nuclear Explosive Device
 

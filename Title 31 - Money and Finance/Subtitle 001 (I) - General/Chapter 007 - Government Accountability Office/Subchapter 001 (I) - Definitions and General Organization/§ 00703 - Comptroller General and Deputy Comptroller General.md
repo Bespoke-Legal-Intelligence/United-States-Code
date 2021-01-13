@@ -118,11 +118,15 @@ In subsection (e)(2), the words "from office" are added for clarity.
 
 In subsection (f), before clause (1), the words "basic pay" are substituted for "compensation" for consistency with other titles of the United States Code. In clauses (1) and (2), the words "of the United States" and "positions at" are omitted as surplus. In clause (1), the words "of subchapter II of chapter 53 of title 5" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1988</b>—Subsec. (e)(1). Pub. L. 100–426 substituted "may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be)" for "retires on becoming 70 years of age".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -133,6 +137,8 @@ Committee on Government Operations of House of Representatives treated as referr
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Salary Increases
 

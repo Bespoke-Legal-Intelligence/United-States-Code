@@ -26,7 +26,7 @@ It shall be unlawful for a labor organization—
 
 #### (d) Opposition to unlawful practices; participation in investigations, proceedings, or litigation
 
-It shall be unlawful for an employer to discriminate against any of his employees or applicants for employment, for an employment agency to discriminate against any individual, or for a labor organization to discriminate against any member thereof or applicant for membership,because such individual, member or applicant for membership has opposed any practice made unlawful by this section, or because such individual, member or applicant for membership has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or litigation under this chapter.
+It shall be unlawful for an employer to discriminate against any of his employees or applicants for employment, for an employment agency to discriminate against any individual, or for a labor organization to discriminate against any member thereof or applicant for membership, because such individual, member or applicant for membership has opposed any practice made unlawful by this section, or because such individual, member or applicant for membership has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or litigation under this chapter.
 
 #### (e) Printing or publication of notice or advertisement indicating preference, limitation, etc.
 
@@ -148,7 +148,7 @@ Preservation of capital.—An interest credit (or an equivalent amount) of less 
 
 &emsp;&emsp;&emsp;(III)
 
-Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meetingthe requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
+Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
 
 &emsp;&emsp;(ii)
 
@@ -320,7 +320,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or\(e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -330,13 +330,15 @@ Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection 
 
 (Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, §123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, §9215(e), Dec. 10, 2015, 129 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subsec. (i)(7), were redesignated subpars. (B) and (C) of section 411(b)(2) of Title 26, Internal Revenue Code, by Pub. L. 101–239, title VII, §7871(a)(1), Dec. 19, 1989, 103 Stat. 2435.
 
 Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in the original "section 203(g)(2)(A) of the Employee Retirement Income Security Act of 1974", and was translated as reading section 204(g)(2)(A) of that Act to reflect the probable intent of Congress, because section 203 does not contain a subsec. (g).
 
-Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009,3009–23, 3009–25, which is set out as a note under this section.
+Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
 The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -410,6 +412,8 @@ Subsec. (g)(1). Pub. L. 98–369 inserted ", and any employee's spouse aged 65 
 
 <b>1978</b>—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -466,7 +470,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;"(2) that terminates after such date of enactment;
 
-&emsp;"(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
+&emsp;"(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of theFair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
 &emsp;"(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 
@@ -568,7 +572,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Effect on Existing Causes of Action.—The amendments made by sections 3 and 4 of this Act \[amending this section and section 630 of this title and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as in effect before January 1, 1987."
 
-Pub. L. 99–592, §3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
+Pub. L. 99–592, §3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) ofPub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
 Pub. L. 99–509, title IX, §9204, Oct. 21, 1986, 100 Stat. 1979, provided that:
 
@@ -650,15 +654,17 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(c)\]\], Sept. 3
 
 &emsp;"(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 \[Sept. 30, 1996\]; and
 
-&emsp;"(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officers that was in effect under applicable State or local law on March 3, 1983."
-
-#### Transfer of Functions
-
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+&emsp;"(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officersthat was in effect under applicable State or local law on March 3, 1983."
 
 #### Study and Guidelines for Performance Tests
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–24, required the Secretary of Health and Human Services to conduct a study on tests assessing the abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters no later than 3 years after Sept. 30, 1996, and to develop and issue advisory guidelines based on the results of the study no later than 4 years after Sept. 30, 1996, and authorized appropriations.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

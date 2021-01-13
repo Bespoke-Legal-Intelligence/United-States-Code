@@ -24,7 +24,7 @@ The depository accounts of the Corporation shall be kept with the Treasurer of t
 
 &emsp;(C) if, when severe financial conditions exist which threaten the stability of a significant number of insured depository institutions or of insured depository institutions possessing significant financial resources, such action is taken in order to lessen the risk to the Corporation posed by such insured depository institution under such threat of instability.
 
-(2)(A) In order to facilitate a merger or consolidation of another <sup>1</sup> insured depository institution described in subparagraph (B) with another insured depository institution or the saleof any or all of the assets of such insured depository institution or the assumption of any or all of such insured depository institution's liabilities by another insured depository institution, or the acquisition of the stock of such insured depository institution, the Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe—
+(2)(A) In order to facilitate a merger or consolidation of another <sup>1</sup> insured depository institution described in subparagraph (B) with another insured depository institution or the sale of any or all of the assets of such insured depository institution or the assumption of any or all of such insured depository institution's liabilities by another insured depository institution, or the acquisition of the stock of such insured depository institution, the Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe—
 
 &emsp;(i) to purchase any such assets or assume any such liabilities;
 
@@ -96,7 +96,7 @@ Rule for liquidations.—For purposes of this subsection, the determination of t
 
 &emsp;(D)
 
-Liquidation costs.—In determining the cost of liquidating any depository institution for the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
+Liquidation costs.—In determining the cost of liquidating any depository institutionfor the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
 
 &emsp;(E)
 
@@ -256,7 +256,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not in derogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
+&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not inderogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
 
 #### (C) Fiduciary responsibility
 
@@ -264,7 +264,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (D) Disposition of assets
 
-&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A)regarding the sale or disposition of assets sold to the Corporation pursuant to paragraph (1), the Corporation shall conduct its operations in a manner which—
+&emsp;&emsp;In exercising any right, power, privilege, or authority described in subparagraph (A) regarding the sale or disposition of assets sold to the Corporation pursuant to paragraph (1), the Corporation shall conduct its operations in a manner which—
 
 &emsp;&emsp;&emsp;(i) maximizes the net present value return from the sale or disposition of such assets;
 
@@ -700,6 +700,8 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 (Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613; Pub. L. 110–343, div. A, title I, §126(c), Oct. 3, 2008, 122 Stat. 3795; Pub. L. 111–22, div. A, title II, §204(d), May 20, 2009, 123 Stat. 1650; Pub. L. 111–203, title III, §363(6), title XI, §1106(b), July 21, 2010, 124 Stat. 1553, 2125.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1730a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
@@ -712,7 +714,7 @@ Section is derived from subsec. (n) of former section 264 of this title. See Cod
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(4)(G)(i). Pub. L. 111–203, §1106(b)(1)(B), inserted "for the purpose of winding upthe insured depository institution for which the Corporation has been appointed receiver" after "provide assistance under this section" in concluding provisions.
+<b>2010</b>—Subsec. (c)(4)(G)(i). Pub. L. 111–203, §1106(b)(1)(B), inserted "for the purpose of winding up the insured depository institution for which the Corporation has been appointed receiver" after "provide assistance under this section" in concluding provisions.
 
 Subsec. (c)(4)(G)(i)(I). Pub. L. 111–203, §1106(b)(1)(A), inserted "for which the Corporation has been appointed receiver" before "would have serious".
 
@@ -866,7 +868,7 @@ Subsec. (c)(9). Pub. L. 101–73, §217(3)(K), added par. (9).
 
 Subsec. (d). Pub. L. 101–73, §217(4), added subsec. (d) and struck out former subsec. (d), changing the structure of the subsection from a single unnumbered paragraph to one consisting of four numbered paragraphs.
 
-Subsec. (e). Pub. L. 101–73, §217(4), added subsec. (e) and struck out former subsec. (e) which read as follows: "No agreement which tends to diminish or defeat the right, title or interest of the Corporation in any asset acquired by it under this section, either as security for a loan or by purchase, shall be valid against the Corporation unless such agreement (1) shall be in writing, (2) shall have been executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank, (3) shall have been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of said board or committee, and (4) shall have been, continuously, from the time of its execution, an official record of the bank."
+Subsec. (e). Pub. L. 101–73, §217(4), added subsec. (e) and struck out former subsec. (e) which read as follows: "No agreement which tends to diminish or defeat the right, title or interest of the Corporation in any asset acquired by it under this section, either as security fora loan or by purchase, shall be valid against the Corporation unless such agreement (1) shall be in writing, (2) shall have been executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank, (3) shall have been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of said board or committee, and (4) shall have been, continuously, from the time of its execution, an official record of the bank."
 
 Subsec. (f)(1). Pub. L. 101–73, §217(5)(C), inserted "savings association" after "out-of-State bank".
 
@@ -986,6 +988,8 @@ Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net 
 
 <b>1978</b>—Subsec. (g). Pub. L. 95–369 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -1098,7 +1102,7 @@ Sections 141(a) and 206(a) of Pub. L. 97–320, which are set out as notes under
 
 Pub. L. 97–320, title II, §204, Oct. 15, 1982, 96 Stat. 1495, provided that: "The Federal Home Loan Bank Board and the Board of Directors of the Federal Deposit Insurance Corporation shall each transmit an annual report to each House of the Congress specifying the types and amounts of net worth certificates purchased from each depository institution and the conditions imposed on each such depository institution."
 
-\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as anote under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
 
 #### Semiannual Audit by Comptroller General of Net Worth Certificate Programs of Federal Deposit Insurance Corporation and Federal Home Loan Bank Board
 

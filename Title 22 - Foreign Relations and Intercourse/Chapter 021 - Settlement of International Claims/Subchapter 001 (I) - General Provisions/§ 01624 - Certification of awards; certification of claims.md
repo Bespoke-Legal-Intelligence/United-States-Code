@@ -1,18 +1,24 @@
 ### §1624. Certification of awards; certification of claims
 
-The Commission shall, as soon as possible, and in the order of the making of such awards, certify to the Secretary of the Treasury and to the Secretary of State copies of the awards made infavor of the Government of the United States or of nationals of the United States under this subchapter. The Commission shall certify to the Secretary of State, upon his request, copies of the formal submissions of claims filed pursuant to subsection (b) of section 1623 of this title for transmission to the foreign government concerned.
+The Commission shall, as soon as possible, and in the order of the making of such awards, certify to the Secretary of the Treasury and to the Secretary of State copies of the awards made in favor of the Government of the United States or of nationals of the United States under this subchapter. The Commission shall certify to the Secretary of State, upon his request, copies of the formal submissions of claims filed pursuant to subsection (b) of section 1623 of this title for transmission to the foreign government concerned.
 
 (Mar. 10, 1950, ch. 54, title I, §5, 64 Stat. 16; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562.)
 
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 
 Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

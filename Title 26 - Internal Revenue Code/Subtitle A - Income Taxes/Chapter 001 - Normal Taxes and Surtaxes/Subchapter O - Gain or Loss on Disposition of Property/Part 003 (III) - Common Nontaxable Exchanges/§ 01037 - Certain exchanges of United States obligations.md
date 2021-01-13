@@ -20,7 +20,7 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### (c) Cross references
 
-&emsp;&emsp;<b>(1) For rules relating to the recognition of gain or loss in a case where subsection (a) would apply except for the fact that the exchange was not made solely for other obligations of the United States, see subsections (b) and (c) of section 1031.</b>
+&emsp;&emsp;<b>(1) For rules relating to the recognition of gain or loss in a case where subsection (a) would apply ex</b><b>cept for the fact that the exchange was not made solely for other obligations of the United States, see subsections (b) and (c) of section 1031.</b>
 
 &emsp;&emsp;<b>(2) For rules relating to the basis of obligations of the United States acquired in an exchange for other obligations described in subsection (a), see subsection (d) of section 1031.</b>
 

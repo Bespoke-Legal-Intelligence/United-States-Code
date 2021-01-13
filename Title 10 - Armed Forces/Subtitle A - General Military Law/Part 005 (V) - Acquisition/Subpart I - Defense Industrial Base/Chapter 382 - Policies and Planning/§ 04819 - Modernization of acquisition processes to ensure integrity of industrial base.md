@@ -1,0 +1,228 @@
+### §4819. Modernization of acquisition processes to ensure integrity of industrial base
+
+(a)
+
+Digitization and Modernization.—The Secretary of Defense shall streamline and digitize the existing Department of Defense approach for identifying and mitigating risks to the defense industrial base across the acquisition process, creating a continuous model that uses digital tools, technologies, and approaches designed to ensure the accessibility of data to key decision-makers in the Department.
+
+(b)
+
+Analytical Framework.—(1) The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of the Defense Counterintelligence and Security Agency and the heads of other elements of the Department of Defense as appropriate, shall develop an analytical framework for risk mitigation across the acquisition process.
+
+(2) The analytical framework required under paragraph (1) shall include the following elements:
+
+&emsp;(A) Characterization and monitoring of supply chain risks, such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and including—
+
+&emsp;&emsp;(i) material sources and fragility, including the extent to which sources, items, materials, and articles are mined, produced, or manufactured within or outside the United States;
+
+&emsp;&emsp;(ii) telecommunications services or equipment;
+
+&emsp;&emsp;(iii) counterfeit parts;
+
+&emsp;&emsp;(iv) cybersecurity of contractors;
+
+&emsp;&emsp;(v) video surveillance services or equipment;
+
+&emsp;&emsp;(vi) vendor vetting in contingency or operational environments;
+
+&emsp;&emsp;(vii) other electronic or information technology products and services; and
+
+&emsp;&emsp;(viii) other risk areas as determined appropriate.
+
+&emsp;(B) Characterization and monitoring of risks posed by contractor behavior that constitute violations of laws or regulations, including those relating to—
+
+&emsp;&emsp;(i) fraud;
+
+&emsp;&emsp;(ii) ownership structures;
+
+&emsp;&emsp;(iii) trafficking in persons;
+
+&emsp;&emsp;(iv) workers' health and safety;
+
+&emsp;&emsp;(v) affiliation with the enemy;
+
+&emsp;&emsp;(vi) foreign influence; and
+
+&emsp;&emsp;(vii) other risk areas as deemed appropriate.
+
+&emsp;(C) Characterization and assessment of the acquisition processes and procedures of the Department of Defense, including—
+
+&emsp;&emsp;(i) market research;
+
+&emsp;&emsp;(ii) responsibility determinations, including consideration of the need for special standards of responsibility to address the risks described in subparagraphs (A) and (B);
+
+&emsp;&emsp;(iii) facilities clearances;
+
+&emsp;&emsp;(iv) the development of contract requirements;
+
+&emsp;&emsp;(v) the technical evaluation of offers and contract awards;
+
+&emsp;&emsp;(vi) contractor mobilization, including hiring, training, and establishing facilities;
+
+&emsp;&emsp;(vii) contract administration, contract management, and oversight;
+
+&emsp;&emsp;(viii) contract audit for closeout;
+
+&emsp;&emsp;(ix) suspension and debarment activities and administrative appeals activities;
+
+&emsp;&emsp;(x) contractor business system reviews;
+
+&emsp;&emsp;(xi) processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to section 3252 of this title; and
+
+&emsp;&emsp;(xii) other relevant processes and procedures.
+
+&emsp;(D) Characterization and monitoring of the health and activities of the defense industrial base, including those relating to—
+
+&emsp;&emsp;(i) balance sheets, revenues, profitability, and debt;
+
+&emsp;&emsp;(ii) investment, innovation, and technological and manufacturing sophistication;
+
+&emsp;&emsp;(iii) finances, access to capital markets, and cost of raising capital within those markets;
+
+&emsp;&emsp;(iv) corporate governance, leadership, and culture of performance; and
+
+&emsp;&emsp;(v) history of performance on past Department of Defense and government contracts.
+
+&emsp;(E) Characterization and assessment of industrial base support policies, programs, and procedures, including—
+
+&emsp;&emsp;(i) limitations and acquisition guidance relevant to the national technology and industrial base (as defined in section 4801(1) of this title);
+
+&emsp;&emsp;(ii) limitations and acquisition guidance relevant to section 4862 of this title;
+
+&emsp;&emsp;(iii) the Industrial Base Analysis and Sustainment program of the Department, including direct support and common design activities;
+
+&emsp;&emsp;(iv) the Small Business Innovation Research Program (as defined in section 9(e) of the Small Business Act (15 U.S.C. 638(e));
+
+&emsp;&emsp;(v) the Manufacturing Technology Program established under section 4841 of this title;
+
+&emsp;&emsp;(vi) programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.); and
+
+&emsp;&emsp;(vii) programs operating in each military department.
+
+(c)
+
+Roles and Responsibilities.—The Secretary of Defense shall designate the roles and responsibilities of organizations and individuals to execute activities under this section, including—
+
+&emsp;(1) the Under Secretary of Defense for Acquisition and Sustainment, including the Office of Defense Pricing and Contracting and the Office of Industrial Policy;
+
+&emsp;(2) service acquisition executives;
+
+&emsp;(3) program offices and procuring contracting officers;
+
+&emsp;(4) administrative contracting officers within the Defense Contract Management Agency and the Supervisor of Shipbuilding;
+
+&emsp;(5) the Defense Counterintelligence and Security Agency;
+
+&emsp;(6) the Defense Contract Audit Agency;
+
+&emsp;(7) each element of the Department of Defense which own or operate systems containing data relevant to contractors of the Department;
+
+&emsp;(8) the Under Secretary of Defense for Research and Engineering;
+
+&emsp;(9) the suspension and debarment official of the Department;
+
+&emsp;(10) the Chief Information Officer; and
+
+&emsp;(11) other relevant organizations and individuals.
+
+(d)
+
+Enabling Data, Tools, and Systems.—(1)(A) The Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Chief Data Officer of the Department of Defense and the Director of the Defense Counterintelligence and Security Agency, shall assess the extent to which existing systems of record relevant to risk assessments and contracting are producing, exposing, and timely maintaining valid and reliable data for the purposes of the Department's continuous assessment and mitigation of risks in the defense industrial base.
+
+(B) The assessment required under subparagraph (A) shall include the following elements:
+
+&emsp;(i) Identification of the necessary source data, to include data from contractors, intelligence and security activities, program offices, and commercial research entities.
+
+&emsp;(ii) A description of the modern data infrastructure, tools, and applications and what changes would improve the effectiveness and efficiency of mitigating the risks described in subsection (b)(2).
+
+&emsp;(iii) An assessment of the following systems owned or operated outside of the Department of Defense that the Department depends upon or to which it provides data:
+
+&emsp;&emsp;(I) The Federal Awardee Performance and Integrity Information System (FAPIIS).
+
+&emsp;&emsp;(II) The System for Award Management (SAM).
+
+&emsp;&emsp;(III) The Federal Procurement Data System–Next Generation (FPDS–NG).
+
+&emsp;&emsp;(IV) The Electronic Data Management Information System.
+
+&emsp;&emsp;(V) Other systems the Secretary of Defense determines appropriate.
+
+&emsp;(iv) An assessment of systems owned or operated by the Department of Defense, including the Defense Counterintelligence and Security Agency and other defense agencies and field activities used to capture and analyze the status and performance (including past performance) of vendors and contractors.
+
+(2) Based on the findings pursuant to paragraph (1), the Secretary of Defense shall develop a unified set of activities to modernize the systems of record, data sources and collection methods, and data exposure mechanisms. The unified set of activities should feature—
+
+&emsp;(A) the ability to continuously collect data on, assess, and mitigate risks;
+
+&emsp;(B) data analytics and business intelligence tools and methods; and
+
+&emsp;(C) continuous development and continuous delivery of secure software to implement the activities.
+
+(e)
+
+Rule of Construction.—Nothing in this section shall be construed to limit or modify any other procurement policy, procedure, requirement, or restriction provided by law.
+
+(f)
+
+Implementation and Reporting Requirements.—The Secretary of Defense shall carry out the implementation phases set forth in, and submit to the congressional defense committees the items of information required by, the following paragraphs:
+
+&emsp;(1)
+
+Phase 1: implementation plan.—Not later than 90 days after the date of the enactment of this section, an implementation plan and schedule for carrying out the framework established pursuant to subsection (b), including—
+
+&emsp;&emsp;(A) a discussion and recommendations for any changes to, or exemptions from, laws necessary for effective implementation, including updating the definitions in section 3252(c) of this title relating to covered procurement, covered system, and covered item of supply, and any similar terms defined in other law or regulation; and
+
+&emsp;&emsp;(B) a process for an entity to contact the Department after the entity has taken steps to remediate, mitigate, or otherwise addressthe risks identified by the Department in conducting activities under subsection (b).
+
+&emsp;(2)
+
+Phase 2: implementation of framework.—Not later than one year after the date of the submission of the implementation plan and schedule required under paragraph (1), a report on the actions taken to implement the framework established pursuant to subsection (b), and supporting policies, procedures, and guidance relating to such actions.
+
+(g)
+
+Comptroller General Reviews.—
+
+&emsp;(1)
+
+Briefing.—Not later than February 15, 2020, the Comptroller General of the United States shall brief the congressional defense committees on Department of Defense efforts over the previous 5 years to continuously assess and mitigate risks to the defense industrial base across the acquisition process, and a summary of current and planned efforts.
+
+&emsp;(2)
+
+Periodic assessments.—The Comptroller General shall submit to the congressional defense committees three periodic assessments of Department of Defense progress in implementing the framework required under subsection (b), to be provided not later than October 15, 2020, March 15, 2022, and March 15, 2024.
+
+(Added Pub. L. 116–92, div. A, title VIII, §845(a), Dec. 20, 2019, 133 Stat. 1500, §2509; renumbered §4819 and amended Pub. L. 116–283, div. A, title VIII, §843(a), title XVIII, §§1867(b), (d)(6), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3765, 4281, 4282, 4294.)
+
+#### References in Text
+
+The Defense Production Act of 1950 (50 U.S.C. 4511 et seq.), referred to in subsec. (b)(2)(E)(vi), probably means act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 4501 of Title 50 and Tables.
+
+The date of the enactment of this section, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1867(b), renumbered section 2509 of this title as this section.
+
+Subsec. (b)(2)(A). Pub. L. 116–283, §843(a)(1)(A)(i), inserted "such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and" after "supply chain risks," in introductory provisions.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 116–283, §843(a)(1)(A)(ii), struck out "(other than optical transmission components)" after "equipment".
+
+Subsec. (b)(2)(C)(xi). Pub. L. 116–283, §1883(b)(2), substituted "section 3252" for "section 2339a".
+
+Pub. L. 116–283, §843(a)(1)(B), added cl. (xi) and redesignated former cl. (xi) as (xii).
+
+Subsec. (b)(2)(C)(xii). Pub. L. 116–283, §843(a)(1)(B)(ii), redesignated cl. (xi) as (xii).
+
+Subsec. (b)(2)(E). Pub. L. 116–283, §843(a)(1)(C), added subpar. (E).
+
+Subsec. (b)(2)(E)(i). Pub. L. 116–283, §1883(b)(2), substituted "section 4801(1)" for "section 2500(1)".
+
+Subsec. (b)(2)(E)(ii). Pub. L. 116–283, §1883(b)(2), substituted "section 4862" for "section 2533a".
+
+Subsec. (b)(2)(E)(v). Pub. L. 116–283, §1883(b)(2), substituted "section 4841" for "section 2521".
+
+Subsec. (f)(1)(A). Pub. L. 116–283, §1867(d)(6), substituted "section 3252(c)" for "section 2339a(e)".
+
+Subsec. (f)(2). Pub. L. 116–283, §843(a)(2), inserted ", and supporting policies, procedures, and guidance relating to such actions" after "subsection (b)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1867(b), (d)(6) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

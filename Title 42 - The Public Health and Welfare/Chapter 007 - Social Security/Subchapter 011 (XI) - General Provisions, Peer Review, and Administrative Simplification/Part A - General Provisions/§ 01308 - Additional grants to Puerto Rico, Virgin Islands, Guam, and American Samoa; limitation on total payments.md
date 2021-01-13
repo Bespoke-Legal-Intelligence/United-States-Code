@@ -76,7 +76,7 @@ A territory to which an amount is paid under subsection (b) of this section may 
 
 #### (f) Total amount certified under subchapter XIX
 
-Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX with respect to a fiscal year for payment to—
+Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX with respect to a fiscal year for payment to—
 
 &emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
@@ -116,29 +116,37 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 &emsp;&emsp;(B) the Virgin Islands shall not exceed—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;&emsp;(ii) for each of fiscal years 2020 through 2021, $126,000,000;
+&emsp;&emsp;&emsp;(ii) for fiscal year 2020, $128,712,500; and
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 2021, $127,937,500;
 
 &emsp;&emsp;(C) Guam shall not exceed—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;&emsp;(ii) for each of fiscal years 2020 through 2021, $127,000,000;
+&emsp;&emsp;&emsp;(ii) for fiscal year 2020, $130,875,000; and
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 2021, $129,712,500;
 
 &emsp;&emsp;(D) the Northern Mariana Islands shall not exceed—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;&emsp;(ii) for each of fiscal years 2020 through 2021, $60,000,000; and
+&emsp;&emsp;&emsp;(ii) for fiscal year 2020, $63,100,000; and
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 2021, $62,325,000; and
 
 &emsp;&emsp;(E) American Samoa shall not exceed—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;&emsp;(ii) for each of fiscal years 2020 through 2021, $84,000,000.
+&emsp;&emsp;&emsp;(ii) for fiscal year 2020, $86,325,000; and
 
-> &emsp;For each fiscal year after fiscal year 2021, the total amount certified for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsection (f) and this subsection for the fiscal year shall be determined as if the preceding subparagraphs were applied to each of fiscal years 2020 through 2021 without regard to clause (ii) of each such subparagraph.
+&emsp;&emsp;&emsp;(iii) for fiscal year 2021, $85,550,000.
+
+> &emsp;For each fiscal year after fiscal year 2021, the total amount certified for Puerto Rico, theVirgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsection (f) and this subsection for the fiscal year shall be determined as if the preceding subparagraphs were applied to each of fiscal years 2020 through 2021 without regard to clause (ii) of each such subparagraph.
 
 #### (3) Fiscal years 2006 and 2007 for certain insular areas
 
@@ -158,7 +166,13 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 #### (4) Exclusion of certain expenditures from payment limits
 
-&emsp;With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, and with respect to fiscal years beginning with fiscal year 2017, if Puerto Rico qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after July 1, 2017) of such fiscal year, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
+#### (A) In general
+
+&emsp;&emsp;With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, and with respect to fiscal years beginning with fiscal year 2017, if Puerto Rico qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after July 1, 2017) of such fiscal year, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
+
+#### (B) Additional exemption
+
+&emsp;&emsp;Payments under section 1396b of this title for medical assistance consisting of routine patient costs (as defined in section 1396d(gg)(1) of this title) shall not be taken into account in applying subsection (f).
 
 #### (5) Additional increase
 
@@ -186,7 +200,7 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 &emsp;(F) Notwithstanding any other provision of subchapter XIX—
 
-&emsp;&emsp;(i) during the period in which the additional funds provided under subparagraphs (C), (D), and (E) are available for Puerto Rico, the Virgin Islands, and the Northern Mariana Islands, respectively, with respect to payments from such additional funds for amounts expended by Puerto Rico, the Virgin Islands, and the Northern Mariana Islands under such subchapter, the Secretary shall increase the Federal medical assistance percentage or other rate that would otherwise apply to such payments to 100 percent; and
+&emsp;&emsp;(i) during the period in which the additional funds provided under subparagraphs (C), (D), and (E) are available for Puerto Rico, the Virgin Islands, and the Northern Mariana Islands, respectively, with respect to payments from such additional funds for amounts expended by Puerto Rico, the Virgin Islands, and the Northern Mariana Islands under such subchapter, the Secretaryshall increase the Federal medical assistance percentage or other rate that would otherwise apply to such payments to 100 percent; and
 
 &emsp;&emsp;(ii) for the period beginning January 1, 2019, and ending September 30, 2019, with respect to payments to Guam and American Samoa from the additional funds provided under subparagraph (A), the Secretary shall increase the Federal medical assistance percentage or other rate that would otherwise apply to such payments to 100 percent.
 
@@ -198,9 +212,9 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 &emsp;&emsp;Subject to subparagraph (B), the amount specified in this paragraph is—
 
-&emsp;&emsp;&emsp;(i) for fiscal year 2020, $2,623,188,000; and
+&emsp;&emsp;&emsp;(i) for fiscal year 2020, $2,716,188,000; and
 
-&emsp;&emsp;&emsp;(ii) for fiscal year 2021, $2,719,072,000.
+&emsp;&emsp;&emsp;(ii) for fiscal year 2021, $2,809,063,000.
 
 #### (B) Additional increase for Puerto Rico
 
@@ -230,7 +244,7 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 #### (ii) PERM requirement
 
-&emsp;&emsp;&emsp;Not later than 18 months after December 20, 2019, Puerto Rico shall publish a plan, developed by Puerto Rico in coordination with the Administrator of the Centers forMedicare \& Medicaid Services and approved by the Administrator, for how Puerto Rico will develop measures to satisfy the payment error rate measurement (PERM) requirements under subpart Q of part 431 of title 42, Code of Federal Regulations (or any successor regulation).
+&emsp;&emsp;&emsp;Not later than 18 months after December 20, 2019, Puerto Rico shall publish a plan, developed by Puerto Rico in coordination with the Administrator of the Centers for Medicare \& Medicaid Services and approved by the Administrator, for how Puerto Rico will develop measures to satisfy the payment error rate measurement (PERM) requirements under subpart Q of part 431 of title 42, Code of Federal Regulations (or any successor regulation).
 
 #### (iii) Contracting reform
 
@@ -250,7 +264,7 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 &emsp;&emsp;&emsp;For each fiscal quarter during the period beginning on January 1, 2020, and ending on September 30, 2021:
 
-&emsp;&emsp;&emsp;&emsp;(I) For every clause under subparagraph (A) with respect to which Puerto Rico does not fully satisfy the requirements described in the clause (including requirements imposed under the terms of a plan described in the clause) in the fiscal quarter, the Federal medical assistance percentage applicable to Puerto Rico under section 1396d(ff) of this title shall be reduced by the number of percentage points determined for the clause and fiscal quarter under subclause (II).
+&emsp;&emsp;&emsp;&emsp;(I) For every clause under subparagraph (A) with respect to which Puerto Rico does not fully satisfy the requirements described in the clause (including requirements imposed under the terms of a plan described in the clause) in the fiscal quarter, the Federal medical assistance percentage applicable to PuertoRico under section 1396d(ff) of this title shall be reduced by the number of percentage points determined for the clause and fiscal quarter under subclause (II).
 
 &emsp;&emsp;&emsp;&emsp;(II) The number of percentage points determined under this subclause with respect to a clause under subparagraph (A) and a fiscal quarter shall be the number of percentage points (not to exceed 2.5 percentage points) equal to—
 
@@ -314,7 +328,15 @@ Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the tota
 
 &emsp;&emsp;&emsp;The term "specified territory" means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
 
-(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96; Pub. L. 111–3, title I, §109, Feb. 4, 2009, 123 Stat. 25; Pub. L. 111–5, div. B, title II, §2101(c), (d)(1), Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title II, §2005(a), (b), title X, §10201(d), Mar. 23, 2010, 124 Stat. 283, 919; Pub. L. 111–152, title I, §1204(b)(1), (2)(A), Mar. 30, 2010, 124 Stat. 1056; Pub. L. 112–96, title IV, §4002(h), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(5), title II, §202(a), May 5, 2017, 131 Stat. 800, 804; Pub. L. 115–123, div. B, title III, §20301(a), (b), title VII, §50711(f), Feb. 9, 2018, 132 Stat. 118, 119, 244; Pub. L. 116–20, title VIII, §802(a), June 6, 2019, 133 Stat. 891; Pub. L. 116–94, div. N, title I, §202(a), (d), Dec. 20, 2019, 133 Stat. 3103, 3108.)
+#### (h) Exclusion of medical assistance expenditures for citizens of freely associated states
+
+Expenditures for medical assistance provided to an individual described in section 1641(b)(8) of title 8 shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).
+
+(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78;Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96; Pub. L. 111–3, title I, §109, Feb. 4, 2009, 123 Stat. 25; Pub. L. 111–5, div. B, title II, §2101(c), (d)(1), Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title II, §2005(a), (b), title X, §10201(d), Mar. 23, 2010, 124 Stat. 283, 919; Pub. L. 111–152, title I, §1204(b)(1), (2)(A), Mar. 30, 2010, 124 Stat. 1056; Pub. L. 112–96, title IV, §4002(h), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(5), title II, §202(a), May 5, 2017, 131 Stat. 800, 804; Pub. L. 115–123, div. B, title III, §20301(a), (b), title VII, §50711(f), Feb. 9, 2018, 132 Stat. 118, 119, 244; Pub. L. 116–20, title VIII, §802(a), June 6, 2019, 133 Stat. 891; Pub. L. 116–94, div. N, title I, §202(a), (d), Dec. 20, 2019, 133 Stat. 3103, 3108; Pub. L. 116–127, div. F, §6009, Mar. 18, 2020, 134 Stat. 209; Pub. L. 116–260, div. CC, title II, §§208(d), 210(d), Dec. 27, 2020, 134 Stat. 2985, 2991.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 210(d) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### References in Text
 
@@ -323,6 +345,24 @@ Subsection (e), referred to in subsec. (c)(2), was repealed by Pub. L. 105–33,
 Section 202 of division N of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (g)(9)(B)(i), is section 202 of div. N of Pub. L. 116–94, which amended this section and sections 1396a, 1396d, and 1396u–5 of this title, and enacted provisions set out as a note under section 1396a of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–260, §208(d)(1), substituted "subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title" for "subsection (g) and section 1396u–5(e)(1)(B) of this title" in introductory provisions.
+
+Subsec. (g)(2)(B). Pub. L. 116–127, §6009(1)(A), substituted "for fiscal year 2020, $128,712,500; and" for "for each of fiscal years 2020 through 2021, $126,000,000;" in cl. (ii) and added cl. (iii).
+
+Subsec. (g)(2)(C). Pub. L. 116–127, §6009(1)(B), substituted "for fiscal year 2020, $130,875,000; and" for "for each of fiscal years 2020 through 2021, $127,000,000;" in cl. (ii) and added cl. (iii).
+
+Subsec. (g)(2)(D). Pub. L. 116–127, §6009(1)(C), substituted "for fiscal year 2020, $63,100,000; and" for "for each of fiscal years 2020 through 2021, $60,000,000; and" in cl. (ii) and added cl. (iii).
+
+Subsec. (g)(2)(E). Pub. L. 116–127, §6009(1)(D), substituted "for fiscal year 2020, $86,325,000; and" for "for each of fiscal years 2020 through 2021, $84,000,000." in cl. (ii) and added cl. (iii).
+
+Subsec. (g)(4). Pub. L. 116–260, §210(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (g)(6)(A)(i). Pub. L. 116–127, §6009(2)(A), substituted "$2,716,188,000" for "$2,623,188,000".
+
+Subsec. (g)(6)(A)(ii). Pub. L. 116–127, §6009(2)(B), substituted "$2,809,063,000" for "$2,719,072,000".
+
+Subsec. (h). Pub. L. 116–260, §208(d)(2), added subsec. (h).
 
 <b>2019</b>—Subsec. (g)(2). Pub. L. 116–94, §202(a)(1)(G), inserted concluding provisions.
 
@@ -358,7 +398,7 @@ Subsec. (g)(9). Pub. L. 116–94, §202(d), added par. (9).
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–123, §50711(f), substituted "613(f), or 674(a)(6)" for "or 613(f)".
 
-Subsec. (g)(4). Pub. L. 115–123, §20301(b), inserted "for a calendar quarter of such fiscal year," after "section1396b(a)(3) of this title" and substituted "of such fiscal year, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year," for "of such fiscal year for a calendar quarter of such fiscal year,".
+Subsec. (g)(4). Pub. L. 115–123, §20301(b), inserted "for a calendar quarter of such fiscal year," after "section 1396b(a)(3) of this title" and substituted "of such fiscalyear, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year," for "of such fiscal year for a calendar quarter of such fiscal year,".
 
 Subsec. (g)(5)(A). Pub. L. 115–123, §20301(a)(1), substituted "subparagraphs (B), (C), (D), and (E)" for "subparagraph (B)".
 
@@ -506,13 +546,27 @@ Subsec. (d). Pub. L. 92–603, §272(b), inserted ", American Samoa, and the Tr
 
 <b>1961</b>—Pub. L. 87–64, substituted "$9,500,000", "$320,000", and "$430,000" for "$9,425,000", "$318,750", and "$425,000", respectively. See Repeals note below.
 
-Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 30, 1961, from $9,000,000 to $9,075,000 and for fiscal year ending June 30, 1962, to $9,425,000; the grants to Virgin Islands and Guam from $315,000 and $420,000 to $318,750 and $425,000, respectively; and payments under section 303(a)(2)(B) of this title to Puerto Rico, Virgin Islands and Guam from $500,000, $15,000 and $20,000 to $625,000, $18,750 and $25,000, respectively. See also Limitation on Payments note below.
+Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 30, 1961, from $9,000,000 to $9,075,000 and for fiscal year ending June 30, 1962, to$9,425,000; the grants to Virgin Islands and Guam from $315,000 and $420,000 to $318,750 and $425,000, respectively; and payments under section 303(a)(2)(B) of this title to Puerto Rico, Virgin Islands and Guam from $500,000, $15,000 and $20,000 to $625,000, $18,750 and $25,000, respectively. See also Limitation on Payments note below.
 
 <b>1960</b>—Pub. L. 86–778 substituted "$9,000,000, of which $500,000 may be used only for payments certified with respect to section 303(a)(2)(B) of this title" for "$8,500,000", "$315,000, of which $15,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title" for "$300,000", "$420,000, of which $20,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title" for "$400,000", and "subchapters I (other than section 303(a)(3) thereof)" for "subchapters I".
 
 <b>1958</b>—Pub. L. 85–840, §§507, 508, amended section. Section 507(a) substituted "$8,500,000" for "$5,312,500" and "$300,000" for "$200,000", and limited the total amount certified for payment to Guam with respect to any fiscal year to not more than $400,000. Section 507(b) amended catchline to include Guam. Section 508 inserted provisions requiring the Secretary, in lieu of the allotments specified in sections 702(a)(2), 712(a)(2) and 722(a) of this title, to allot such smaller amounts as he may deem appropriate to Guam, notwithstanding provisions of such sections and until such time as the Congress may by appropriation or other law otherwise provide.
 
 <b>1956</b>—Act Aug. 1, 1956, substituted "$5,312,500" for "$4,250,000", and "$200,000" for "$160,000".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by section 208(d) of Pub. L. 116–260 applicable to benefits for items and services furnished on or after Dec. 27, 2020, see section 208(e) of Pub. L. 116–260, set out as a note under section 1612 of Title 8, Aliens and Nationality.
+
+Pub. L. 116–260, div. CC, title II, §210(e), Dec. 27, 2020, 134 Stat. 2991, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396u–7 of this title\] shall apply with respect to items and services furnished on or after January 1, 2022.
+
+"(2)
+
+Exception for state legislation.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.), or waiver of such plan, that the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet any requirement imposed by amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396u–7 of this title\], the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 27, 2020\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature."
 
 #### Effective Date of 2018 Amendment
 

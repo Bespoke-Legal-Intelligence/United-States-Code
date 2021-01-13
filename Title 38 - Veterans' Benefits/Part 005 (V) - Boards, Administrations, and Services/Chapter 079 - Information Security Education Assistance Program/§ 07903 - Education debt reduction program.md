@@ -50,6 +50,8 @@ Covered Costs.—For purposes of subsection (b)(3), costs relating to a course o
 
 (Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, §1001(o), Oct. 13, 2010, 124 Stat. 2897.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–275 substituted "paragraph (3)" for "paragraph (2)".

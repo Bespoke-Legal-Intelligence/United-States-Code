@@ -170,7 +170,7 @@ Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429
 
 &emsp;"(8) efforts by the President to negotiate with the member countries of the Southern African Customs Union in order to provide the opportunity to deepen and make permanent the benefits of the Act while giving the United States access to the markets of these African countries for United States goods and services, by reducing tariffs and non-tariff barriers, strengthening intellectual property protection, improving transparency, establishing general dispute settlement mechanisms, and investor-state and state-to-state dispute settlement mechanisms in investment;
 
-&emsp;"(9) a comprehensive and ambitious trade agreement with the Southern African Customs Union, covering all products and sectors, in order to mature the economic relationship between sub-Saharan Africancountries and the United States and because such an agreement would deepen United States economic and political ties to the region, lend momentum to United States development efforts, encourage greater United States investment, and promote regional integration and economic growth;
+&emsp;"(9) a comprehensive and ambitious trade agreement with the Southern African Customs Union, covering all products and sectors, in order to mature the economic relationship between sub-Saharan African countries and the United States and because such an agreement would deepen United States economic and political ties to the region, lend momentum to United States development efforts, encourage greater United States investment, and promote regional integration and economic growth;
 
 &emsp;"(10) regional integration among sub-Saharan African countries and business partnerships between United States and African firms; and
 
@@ -350,7 +350,7 @@ Pub. L. 114–27, title I, §112, June 29, 2015, 129 Stat. 371, provided that: "
 
 &emsp;"(1)
 
-Beneficiary sub-saharan african country.—The term 'beneficiary sub-Saharan African country'means a beneficiary sub-Saharan African country described in subsection (e) of section 506A of the Trade Act of 1974 \[19 U.S.C. 2466a(e)\] (as redesignated by this Act).
+Beneficiary sub-saharan african country.—The term 'beneficiary sub-Saharan African country' means a beneficiary sub-Saharan African country described in subsection (e) of section 506A of the Trade Act of 1974 \[19 U.S.C. 2466a(e)\] (as redesignated by this Act).
 
 &emsp;"(2)
 

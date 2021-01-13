@@ -1,0 +1,44 @@
+### §4508. Contractor performance of acquisition functions closely associated with inherently governmental functions
+
+(a)
+
+Limitation.—The head of an agency may enter into a contract for the performance of acquisition functions closely associated with inherently governmental functions only if the contracting officer for the contract ensures that—
+
+&emsp;(1) appropriate military or civilian personnel of the Department of Defense cannot reasonably be made available to perform the functions;
+
+&emsp;(2) appropriate military or civilian personnel of the Department of Defense are—
+
+&emsp;&emsp;(A) to supervise contractor performance of the contract; and
+
+&emsp;&emsp;(B) to perform all inherently governmental functions associated with the functions to be performed under the contract; and
+
+&emsp;(3) the agency addresses any potential organizational conflict of interest of the contractor in the performance of the functions under the contract, consistent with subpart 9.5 of part 9 of the Federal Acquisition Regulation and the best interests of the Department of Defense.
+
+(b)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "head of an agency" does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
+
+&emsp;(2) The term "inherently governmental functions" has the meaning given such term in subpart 7.5 of part 7 of the Federal Acquisition Regulation.
+
+&emsp;(3) The term "functions closely associated with inherently governmental functions" means the functions described in section 7.503(d) of the Federal Acquisition Regulation.
+
+&emsp;(4) The term "organizational conflict of interest" has the meaning given such term in subpart 9.5 of part 9 of the Federal Acquisition Regulation.
+
+(Added Pub. L. 108–375, div. A, title VIII, §804(a)(1), Oct. 28, 2004, 118 Stat. 2007, §2383; renumbered §4508 and amended Pub. L. 116–283, div. A, title XVIII, §1856(g), (i), Jan. 1, 2021, 134 Stat. 4275.)
+
+#### Prior Provisions
+
+A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966, Pub. L. 89–718, §27, 80 Stat. 1119, which related tests of iron, steel, and other materials, was repealed by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 renumbered section 2383 of this title as this section.
+
+Subsec. (b)(1). Pub. L. 116–283, §1856(i), which directed striking out "has the meaning given in section 2302(1) of this title, except that such term", was executed by striking out "has the meaning given such term in section 2302(1) of this title, except that such term" before "does not include", to reflect the probable intent of Congress.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

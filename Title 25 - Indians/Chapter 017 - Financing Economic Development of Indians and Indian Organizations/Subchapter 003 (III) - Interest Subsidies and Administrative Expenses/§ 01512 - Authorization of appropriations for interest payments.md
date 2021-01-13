@@ -4,6 +4,8 @@ There are authorized to be appropriated for fiscal year 1985, and for each fisca
 
 (Pub. L. 93–262, title III, §302, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §8, Oct. 4, 1984, 98 Stat. 1725.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–449 amended section generally, substituting provisions authorizing appropriations for payment of interest under this subchapter for provisions authorizing appropriations for the Indian Loan Guarantee and Insurance Fund, interest subsidies and administrative expenses.

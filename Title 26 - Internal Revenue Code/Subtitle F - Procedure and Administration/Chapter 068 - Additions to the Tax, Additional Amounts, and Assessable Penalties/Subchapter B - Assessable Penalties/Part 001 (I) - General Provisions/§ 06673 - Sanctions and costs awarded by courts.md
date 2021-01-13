@@ -30,7 +30,7 @@
 
 #### (2) Collection of sanctions and costs
 
-&emsp;In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the United States may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
+&emsp;In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the UnitedStates may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
 
 #### (3) Sanctions and costs awarded by a court of appeals
 

@@ -66,7 +66,7 @@ The Secretary shall evaluate the operations of the demonstration projects and sh
 
 Each demonstration project shall provide for other research to be carried out at the site of such demonstration project including—
 
-&emsp;(1) clinical research on acquired immune deficiency syndrome, concentrating on research on the neurological manifestations resulting from infection with the etiologic agent for such syndrome; and
+&emsp;(1) clinical research on acquired immune deficiency syndrome, concentrating on researchon the neurological manifestations resulting from infection with the etiologic agent for such syndrome; and
 
 &emsp;(2) the study of the psychological and mental health issues related to such syndrome.
 

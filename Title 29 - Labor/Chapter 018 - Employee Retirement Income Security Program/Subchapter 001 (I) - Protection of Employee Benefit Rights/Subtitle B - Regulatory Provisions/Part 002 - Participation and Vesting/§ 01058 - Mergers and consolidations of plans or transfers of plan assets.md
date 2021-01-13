@@ -1,12 +1,16 @@
 ### §1058. Mergers and consolidations of plans or transfers of plan assets
 
-A pension plan may not merge or consolidate with, or transfer its assets or liabilities to, any other plan after September 2, 1974, unless each participant in the plan would (if the plan then terminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitled to receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence shall not apply to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which subchapter III of this chapter applies.
+A pension plan may not merge or consolidate with, or transfer its assets or liabilities to, any other plan after September 2, 1974, unless each participant in the plan would (if the plan thenterminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitled to receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence shall not apply to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which subchapter III of this chapter applies.
 
 (Pub. L. 93–406, title I, §208, Sept. 2, 1974, 88 Stat. 865; Pub. L. 96–364, title IV, §402(b)(1), Sept. 26, 1980, 94 Stat. 1299.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–364 substituted provisions respecting applicability of preceding sentence to transactions under a covered multiemployer plan to which subchapter III applies, for provisions relating to applicability of paragraph to a multiemployer plan only to extent determined by Corporation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

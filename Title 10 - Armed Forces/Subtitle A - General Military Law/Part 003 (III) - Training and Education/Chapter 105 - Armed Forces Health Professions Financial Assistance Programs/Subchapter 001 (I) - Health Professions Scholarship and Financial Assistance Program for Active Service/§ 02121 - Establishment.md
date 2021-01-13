@@ -2,7 +2,7 @@
 
 (a)(1) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified (A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, may establish and maintain a health professions scholarship and financial assistance program for his department.
 
-(2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the programdescribed in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
+(2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the program described in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
 
 &emsp;(A) Social work.
 

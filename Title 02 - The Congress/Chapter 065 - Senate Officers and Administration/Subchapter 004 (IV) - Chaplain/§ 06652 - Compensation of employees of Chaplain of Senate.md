@@ -4,6 +4,8 @@ The Chaplain of the Senate may appoint and fix the compensation of such employee
 
 (Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 100–202, §101(i) \[title I, §2(b)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 101–163, title I, §10, Nov. 21, 1989, 103 Stat. 1046.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 61d–1 of this title prior to editorial reclassification and renumbering as this section.
@@ -13,6 +15,8 @@ Section was formerly classified to section 61d–1 of this title prior to editor
 <b>1989</b>—Pub. L. 101–163 substituted "such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000" for "a secretary".
 
 <b>1987</b>—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: "The Chaplain may appoint and fix the compensation of a secretary at not to exceed $8,541 per annum."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increases in Compensation
 

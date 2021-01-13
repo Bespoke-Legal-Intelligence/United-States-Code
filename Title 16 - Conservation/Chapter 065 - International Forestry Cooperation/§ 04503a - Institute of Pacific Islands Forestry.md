@@ -50,7 +50,7 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 #### References in Text
 
-Section 5(b) of the Hawaii Tropical Forest Recovery Act, referred to in subsec. (b)(1), probably means section 4(b) of that Act, Pub. L. 102–574, which contains provisions regarding an action plan, and which is set out as a note below. Section 5 of that Act, which is set out as a note under section 4502a of this title, does not contain a subsec. (b).
+Section 5(b) of the Hawaii Tropical Forest Recovery Act, referred to in subsec. (b)(1), probably means section 4(b) of that Act, Pub. L. 102–574, which contains provisions regarding an action plan, and which is setout as a note below. Section 5 of that Act, which is set out as a note under section 4502a of this title, does not contain a subsec. (b).
 
 #### Prior Provisions
 

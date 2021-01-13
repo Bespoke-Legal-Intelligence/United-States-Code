@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after June 24, 2019, the Secretary, in cooperation with health care providers, State, local, Tribal, and territorial public health officials, and relevant Federal agencies (including the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology), shall, as necessary, adopt technical and reporting standards, including standards for interoperability as defined by section 300jj of this title, for networks under paragraph (1) and update such standards as necessary. Such standards shall be made available on the internet website of the Department of Health and Human Services, in a manner that does not compromise national security.
+&emsp;&emsp;Not later than 1 year after June 24, 2019, the Secretary, in cooperation with health care providers, State, local, Tribal, and territorial public health officials, and relevant Federal agencies (including the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology), shall, as necessary, adopt technical and reporting standards, including standards for interoperability as defined by section 300jj of this title, for networks under paragraph (1) and update such standards as necessary. Such standards shall be made available on theinternet website of the Department of Health and Human Services, in a manner that does not compromise national security.
 
 #### (B) Deference to standards development organizations
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(iii) in collaboration with State, local, and tribal public health officials, integrate and build upon existing State, local, and tribal capabilities, ensuring simultaneous sharing of data, information, and analyses from the network described in paragraph (1) with State, local, and tribal public health agencies;
 
-&emsp;&emsp;&emsp;(iv) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of datathat States, regions, or other entities collect and report to the network described in paragraph (1); and
+&emsp;&emsp;&emsp;(iv) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1); and
 
 &emsp;&emsp;&emsp;(v) pilot test standards and implementation specifications, consistent with the process described in section 300jj–12(b)(3)(C) of this title, which State, local, Tribal, and territorial public health entities may utilize, on a voluntary basis, as a part of the network.
 
@@ -178,7 +178,7 @@
 
 &emsp;In carrying out this section and consistent with section 247d–7g of this title, the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
 
-&emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for human health (taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health), with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
+&emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for humanhealth (taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health), with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
 
 &emsp;&emsp;(B) identify any duplicative surveillance programs and gaps in surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic;
 
@@ -380,7 +380,7 @@ Subsec. (d)(5). Pub. L. 113–5, §204(a)(5)(C), substituted "3 years after Marc
 
 Subsec. (e). Pub. L. 113–5, §204(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 113–5, §204(a)(3), (6), redesignated subsec. (g) as (f) and substituted "$138,300,000 for each of fiscal years 2014 through 2018" for "such sums as may be necessary in each of fiscal years 2007 through 2011". Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 113–5, §204(a)(3), (6), redesignated subsec. (g) as (f) and substituted "$138,300,000 for each of fiscal years 2014 through 2018" for "such sums as maybe necessary in each of fiscal years 2007 through 2011". Former subsec. (f) redesignated (e).
 
 Subsec. (g). Pub. L. 113–5, §204(a)(7), added subsec. (g). Former subsec. (g) redesignated (f).
 

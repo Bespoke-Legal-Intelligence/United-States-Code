@@ -44,7 +44,7 @@ If—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case maybe, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+&emsp;Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information ratherthan on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
 
 #### (2) Exception
 

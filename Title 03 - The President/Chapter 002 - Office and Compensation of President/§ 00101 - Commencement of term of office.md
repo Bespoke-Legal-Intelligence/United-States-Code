@@ -4,6 +4,8 @@ The term of four years for which a President and Vice President shall be elected
 
 (June 25, 1948, ch. 644, 62 Stat. 678.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–293, §1, Oct. 12, 2000, 114 Stat. 1035, provided that: "This Act \[amending provisions set out as a note under section 102 of this title\] may be cited as the 'Presidential Transition Act of 2000'."
@@ -38,7 +40,7 @@ Establishment of Fund.—There is established in the Treasury a fund for use in 
 
 "(c)
 
-Use of Fund.—Property accepted pursuant to this section or the proceeds from the sale thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest. Any use or sale of property accepted pursuant to this section, and any use of proceeds from such sale, shall be subject to the disapproval of the Administrator of General Services within 30 days after the Administrator receives notice of such use or sale. The Director of the Office of Administration shall not accept any gift under this section that is expressly conditioned on any expenditure not to be met from the gift itself unless such expenditure has been approved by an Act of Congress.
+Use of Fund.—Property accepted pursuant to this section or the proceeds from the sale thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest. Any use or sale of propertyaccepted pursuant to this section, and any use of proceeds from such sale, shall be subject to the disapproval of the Administrator of General Services within 30 days after the Administrator receives notice of such use or sale. The Director of the Office of Administration shall not accept any gift under this section that is expressly conditioned on any expenditure not to be met from the gift itself unless such expenditure has been approved by an Act of Congress.
 
 "(d)
 

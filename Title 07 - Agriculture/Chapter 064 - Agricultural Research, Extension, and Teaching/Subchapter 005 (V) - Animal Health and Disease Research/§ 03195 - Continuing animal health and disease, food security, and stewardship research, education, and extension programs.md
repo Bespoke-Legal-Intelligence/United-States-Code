@@ -92,7 +92,7 @@
 
 #### (4) Additional apportionment
 
-&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carry out the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
+&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carryout the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
 
 &emsp;&emsp;(A) Four percent shall be retained by the Department of Agriculture for administration, program assistance to the eligible institutions, and program coordination.
 
@@ -142,11 +142,11 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted "domestic lives
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1981 Amendment
 

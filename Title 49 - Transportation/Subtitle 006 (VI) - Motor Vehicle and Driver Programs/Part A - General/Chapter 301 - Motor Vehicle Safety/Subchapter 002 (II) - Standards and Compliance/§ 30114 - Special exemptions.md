@@ -74,7 +74,7 @@ Construction.—Except as provided in paragraphs (1) and (4), a registrant shall
 
 State registration.—Nothing in this subsection shall be construed to preempt, affect, or supersede any State titling or registration law or regulation for a replica motor vehicle, or exempt a person from complying with such law or regulation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947; Pub. L. 105–178, title VII, §7107(a), June 9, 1998,112 Stat. 469; Pub. L. 114–94, div. B, title XXIV, §24405(a), Dec. 4, 2015, 129 Stat. 1721.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947; Pub. L. 105–178, title VII, §7107(a), June 9, 1998, 112 Stat. 469; Pub. L. 114–94, div. B, title XXIV, §24405(a), Dec. 4, 2015, 129 Stat. 1721.)
 
 Historical and Revision Notes
 

@@ -6,7 +6,7 @@ The purposes of this subchapter are to—
 
 &emsp;(2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
 
-&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectivenessof Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
+&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
@@ -32,13 +32,15 @@ The purposes of this subchapter are to—
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(3), Aug. 21, 2002, 116 Stat. 1301.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
 #### Prior Provisions
 
-A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m)\[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, related to information for Federal agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -47,6 +49,8 @@ Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, rela
 <b>2002</b>—Par. (8)(B). Pub. L. 107–217 substituted "section 11332 of title 40" for "the Computer Security Act of 1987 (Public Law 100–235)".
 
 <b>2000</b>—Pub. L. 106–398 substituted "subchapter" for "chapter" in introductory provisions and in par. (11).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -156,7 +160,7 @@ Compliance With United States Website Standards.—Any website of an executive a
 
 "(a)
 
-Non-Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\], the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
+Non-Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\],the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
 
 &emsp;"(1) identify public non-digital, paper-based, or in-person Government services; and
 
@@ -206,7 +210,7 @@ Physical Availability.—Each executive agency shall maintain an accessible meth
 
 &emsp;"(3) continually examine the digital service delivery strategy of the executive agency to the public and submit recommendations to the head of the executive agency providing guidance and best practices suitable to the mission of the executive agency;
 
-&emsp;"(4) using qualitative and quantitative data obtained from across the executive agency relating to the experience and satisfaction of customers, identifyareas of concern that need improvement and improve the delivery of customer service;
+&emsp;"(4) using qualitative and quantitative data obtained from across the executive agency relating to the experience and satisfaction of customers, identify areas of concern that need improvement and improve the delivery of customer service;
 
 &emsp;"(5) coordinate and ensure, with the approval of the head of the executive agency, compliance by the executive agency with section 3559 of title 44, United States Code; and
 
@@ -258,7 +262,7 @@ In General.—The head of each agency shall be responsible for—
 
 Performance Integration.—
 
-&emsp;"(1) Agencies shall develop performance measures that demonstrate how electronic government enables progress toward agency objectives, strategic goals, and statutory mandates.
+&emsp;"(1) Agencies shall develop performance measures that demonstrate how electronic government enablesprogress toward agency objectives, strategic goals, and statutory mandates.
 
 &emsp;"(2) In measuring performance under this section, agencies shall rely on existing data collections to the extent practicable.
 
@@ -442,7 +446,7 @@ Privacy and security concerns.—
 
 &emsp;&emsp;&emsp;"(I) by authorizing the filing under seal, and permitting the amendment as of right under seal, of a reference list that—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) identifies each item of unredacted protected information that the attorney or, ifthere is no attorney, the party, certifies is relevant to the case; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) identifies each item of unredacted protected information that the attorney or, if there is no attorney, the party, certifies is relevant to the case; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) specifies an appropriate redacted identifier that uniquely corresponds to each item of unredacted protected information listed; and
 
@@ -990,7 +994,7 @@ Information technology training reporting.—The Director of the Office of Manag
 
 &emsp;"(6)
 
-Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a programunder which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
+Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a program under which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
 
 &emsp;"(7)
 
@@ -1064,7 +1068,7 @@ Exchange program defined.—For purposes of this subsection, the term 'exchange 
 
 &emsp;"(2)
 
-Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
+Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee onGovernmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
 &emsp;"(3)
 
@@ -1260,7 +1264,7 @@ Pilot Projects To Encourage Integrated Collection and Management of Data and Int
 
 &emsp;"(1)
 
-In general.—In order to provide input to the study under subsection (c), the Director shall designate, in consultation with agencies, a series of no more than 5 pilot projects that integrate data elements. The Director shall consult with agencies, theregulated community, public interest organizations, and the public on the implementation of the pilot projects.
+In general.—In order to provide input to the study under subsection (c), the Director shall designate, in consultation with agencies, a series of no more than 5 pilot projects that integrate data elements. The Director shall consult with agencies, the regulated community, public interest organizations, and the public on the implementation of the pilot projects.
 
 &emsp;"(2)
 
@@ -1562,6 +1566,8 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, which related to conf
 
 Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: "Chapter 35 of title 44, United States Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13556. Controlled Unclassified Information
 
 Ex. Ord. No. 13556, Nov. 4, 2010, 75 F.R. 68675, provided:
@@ -1600,7 +1606,7 @@ Sec. 4. <i>Development of CUI Categories and Policies.</i>
 
 (c) The Executive Agent shall convene and chair interagency meetings to discuss matters pertaining to the program established by this order.
 
-(d) Within 1 year of the date of this order, the Executive Agent shall establish and maintain a public CUIregistry reflecting authorized CUI categories and subcategories, associated markings, and applicable safeguarding, dissemination, and decontrol procedures.
+(d) Within 1 year of the date of this order, the Executive Agent shall establish and maintain a public CUI registry reflecting authorized CUI categories and subcategories, associated markings, and applicable safeguarding, dissemination, and decontrol procedures.
 
 (e) If the Executive Agent and an agency cannot reach agreement on an issue related to the implementation of this order, that issue may be appealed to the President through the Director of the Office of Management and Budget.
 
@@ -1660,7 +1666,7 @@ Accordingly, I direct the following:
 
 (2) Agencies shall work with the Steering Committee to develop and launch an introductory version of BusinessUSA. BusinessUSA shall be designed, tested, and built with the active feedback of U.S. businesses and relevant online communities. To the extent appropriate, practicable, and permitted by law, the BusinessUSA platform shall integrate related State and local government services as well as those of private sector partners.
 
-(3) Agencies shall make information regarding their small business and export programs and services accessible through BusinessUSA. To accomplish this in a uniform fashion, the Steering Committee shall developa common set of standards for content available through BusinessUSA, which shall identify the types of programs and services to be included initially on BusinessUSA and a structure for organizing and presenting such information. These standards shall be used by all agencies in the creation, presentation, and delivery of information regarding their programs and services, to the extent practicable and permitted by law.
+(3) Agencies shall make information regarding their small business and export programs and services accessible through BusinessUSA. To accomplish this in a uniform fashion, the Steering Committee shall develop a common set of standards for content available through BusinessUSA, which shall identify the types of programs and services to be included initially on BusinessUSA and a structure for organizing and presenting such information. These standards shall be used by all agencies in the creation, presentation, and delivery of information regarding their programs and services, to the extent practicable and permitted by law.
 
 (4) Agencies shall also work with the Steering Committee to develop new content for BusinessUSA that synthesizes information available across agencies to better serve small businesses and exporters. Among other things, agencies shall work together to aggregate on the BusinessUSA platform statistical, demographic, and other raw Government datasets of particular interest to small businesses and exporters, making Government data more easily accessible and spurring innovative uses of the data through business-oriented web or mobile applications.
 

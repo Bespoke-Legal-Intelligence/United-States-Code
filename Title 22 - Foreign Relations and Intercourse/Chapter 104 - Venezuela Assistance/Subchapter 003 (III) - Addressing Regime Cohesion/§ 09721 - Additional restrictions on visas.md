@@ -4,7 +4,7 @@
 
 The Secretary of State shall impose the visa restrictions described in subsection (c) on any foreign person who the Secretary determines—
 
-&emsp;(1) is a current or former senior official of the Maduro regime, or any foreign person acting on behalf of such regime, who is knowingly responsible for, complicit in, responsible for ordering, controlling, or otherwise directing, or participating in (directly or indirectly) any activity in or in relation to Venezuela, on or after January 23, 2019, that significantly undermines or threatens the integrity of—
+&emsp;(1) is a current or former senior official of the Maduro regime, or any foreign person acting on behalf of such regime, who is knowingly responsible for, complicit in, responsible for ordering, controlling, or otherwise directing,or participating in (directly or indirectly) any activity in or in relation to Venezuela, on or after January 23, 2019, that significantly undermines or threatens the integrity of—
 
 &emsp;&emsp;(A) the democratically-elected National Assembly of Venezuela; or
 
@@ -68,9 +68,11 @@ The President shall issue such regulations, licenses, and orders as may be neces
 
 (Pub. L. 116–94, div. J, title I, §132, Dec. 20, 2019, 133 Stat. 3035.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law113–278), referred to in subsec. (a)(3)(A), is section 5(a) of Pub. L. 113–278, Dec. 18, 2014, 128 Stat. 3011, which is set out in a note under section 1701 of Title 50, War and National Defense. Section 5(a) was not amended by section 163 of title I of div. J of Pub. L. 116–94. However, an earlier version of the Act comprising such title I (S. 1025 of the 116th Cong., 1st Sess.) contained a section 603 that did amend section 5(a) of Pub. L. 113–278, but the amendment was not included anywhere in the version enacted by Pub. L. 116–94.
+Section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278), referred to in subsec. (a)(3)(A), is section 5(a) of Pub. L. 113–278, Dec. 18, 2014, 128 Stat. 3011, which is set out in a note under section 1701 of Title 50, War and National Defense. Section 5(a) was not amended by section 163 of title I of div. J of Pub. L. 116–94. However, an earlier version of the Act comprising such title I (S. 1025 of the 116th Cong., 1st Sess.) contained a section 603 that did amend section 5(a) of Pub. L. 113–278, but the amendment was not included anywhere in the version enacted by Pub. L. 116–94.
 
 Executive Order No. 13692, referred to in subsec. (a)(3)(C), is Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747, which is listed in a table under section 1701 of Title 50, War and National Defense.
 

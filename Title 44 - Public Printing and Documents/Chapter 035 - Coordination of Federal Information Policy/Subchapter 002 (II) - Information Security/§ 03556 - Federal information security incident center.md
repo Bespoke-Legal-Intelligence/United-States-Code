@@ -20,6 +20,8 @@ National Security Systems.—Each agency operating or exercising control of a na
 
 (Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3084.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 3546 of this title prior to repeal by Pub. L. 113–283.

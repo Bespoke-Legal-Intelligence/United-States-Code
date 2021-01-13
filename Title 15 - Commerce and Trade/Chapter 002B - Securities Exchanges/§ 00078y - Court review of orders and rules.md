@@ -16,13 +16,13 @@
 
 (1) A person adversely affected by a rule of the Commission promulgated pursuant to section 78f, 78i(h)(2), 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title may obtain review of this rule in the United States Court of Appeals for the circuit in which he resides or has his principal place of business or for the District of Columbia Circuit, by filing in such court, within sixty days after the promulgation of the rule, a written petition requesting that the rule be set aside.
 
-(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated for that purpose. Thereupon, the Commission shall file in the court the rule under review and any documents referred to therein, the Commission's notice of proposed rulemaking and any documents referred to therein, all written submissions and the transcript of any oral presentations in the rulemaking, factual information not included in the foregoing that was considered by the Commission in the promulgation of the rule or proffered by the Commission as pertinent to the rule, the report of any advisory committee received or considered by the Commission in the rulemaking, and any other materials prescribed by the court.
+(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated for that purpose. Thereupon, the Commission shall file in the court the rule under review and any documents referred to therein, the Commission's notice of proposed rulemaking and any documents referred to therein, all written submissions and the transcript of any oral presentations in the rulemaking, factual informationnot included in the foregoing that was considered by the Commission in the promulgation of the rule or proffered by the Commission as pertinent to the rule, the report of any advisory committee received or considered by the Commission in the rulemaking, and any other materials prescribed by the court.
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the materials set forth in paragraph (2) of this subsection, to affirm and enforce or to set aside the rule.
 
 (4) The findings of the Commission as to the facts identified by the Commission as the basis, in whole or in part, of the rule, if supported by substantial evidence, are conclusive. The court shall affirm and enforce the rule unless the Commission's action in promulgating the rule is found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; or without observance of procedure required by law.
 
-(5) If proceedings have been instituted under this subsection in two or more courts of appeals with respect to the same rule, the Commission shall file the materials set forth in paragraph (2)of this subsection in that court in which a proceeding was first instituted. The other courts shall thereupon transfer all such proceedings to the court in which the materials have been filed. For the convenience of the parties in the interest of justice that court may thereafter transfer all the proceedings to any other court of appeals.
+(5) If proceedings have been instituted under this subsection in two or more courts of appeals with respect to the same rule, the Commission shall file the materials set forth in paragraph (2) of this subsection in that court in which a proceeding was first instituted. The other courts shall thereupon transfer all such proceedings to the court in which the materials have been filed. For the convenience of the parties in the interest of justice that court may thereafter transfer all the proceedings to any other court of appeals.
 
 #### (c) Objections not urged before Commission; stay of orders and rules; transfer of enforcement or review proceedings
 
@@ -54,7 +54,7 @@ The Federal Rules of Appellate Procedure, referred to in subsec. (a)(2), are set
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–29 revised existing provisions into five numbered paragraphs.
 
-Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
+Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically orderedby the court, operate as a stay of the Commission's order.
 
 Subsecs. (c), (d). Pub. L. 94–29 added subsecs. (c) and (d).
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

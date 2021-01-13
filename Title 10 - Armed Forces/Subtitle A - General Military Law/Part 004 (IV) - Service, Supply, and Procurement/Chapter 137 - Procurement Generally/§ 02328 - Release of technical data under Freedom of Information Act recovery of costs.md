@@ -26,6 +26,10 @@ Waiver.—The Secretary of Defense shall waive the payment of costs required by 
 
 (Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1833(o)(2), Jan. 1, 2021, 134 Stat. 4151, 4234, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter III of chapter 275 of this title, as added by section 1833(n) of Pub. L. 116–283, inserted after section 3793, and redesignated as section 3794 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -48,11 +52,15 @@ Subsec. (b). Pub. L. 100–26, §7(a)(7)(A)(ii), substituted "Crediting of recei
 
 Subsec. (c)(3). Pub. L. 100–26, §7(a)(7)(A)(iii), substituted "section 552(a)(4)(A)(iii)" for "section 552(a)(4)(A)".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 1987 Amendment
 
 Pub. L. 100–26, §12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendment to section 2328 of such title made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\]."
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §954(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, §101(c) \[title X,§954(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, §954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §954(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, §101(c) \[title X, §954(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, §954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 

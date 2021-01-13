@@ -8,11 +8,15 @@ The Archivist of the United States shall furnish to the Director of the Governme
 
 Based on 44 U.S. Code, 1964 ed., §191a (R.S. §210; June 20, 1874, ch. 328, 18 Stat. 88; 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950; 15 F.R. 3178, 64 Stat. 1272).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline and text.
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

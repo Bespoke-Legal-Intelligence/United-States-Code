@@ -60,13 +60,15 @@ In subsection (b)(1), the words "coinage metal fund" are substituted for "bullio
 
 In subsection (b)(2), the word "terms" is omitted as being included in "conditions". The words "for at least" are substituted for "at a price not less than the monetary value of" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b)(2), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–201 inserted after second sentence "At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain suchsilver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term 'average world price' means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary."
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–201 inserted after second sentence "At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain such silver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term 'average world price' means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary."
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–274 amended last sentence generally, substituting "shall be deposited by the Secretary in the general fund of the Treasury and shall be used for the sole purpose of reducing the national debt" for "shall be deposited in the general fund of the Treasury".
 
@@ -75,6 +77,8 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b
 Subsec. (b)(1). Pub. L. 99–61, §203(1), (2), substituted "The Secretary may buy silver" for "The Secretary shall buy silver", and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
 
 Subsec. (b)(2). Pub. L. 99–61, §203(3), inserted provision directing that the Secretary obtain the silver for the coins authorized under section 5112(e) of this title by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendments
 

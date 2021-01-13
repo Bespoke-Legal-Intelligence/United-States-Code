@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(I) performance of the contract is in the best interests of the United States; or
 
-&emsp;&emsp;(II) urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
+&emsp;&emsp;(II) urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting forthe decision of the Comptroller General concerning the protest; and
 
 &emsp;(ii) after the Comptroller General is notified of that finding.
 
@@ -72,9 +72,11 @@
 
 (Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, §326(c), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 115–91, div. A, title VIII, §818(c), Dec. 12, 2017, 131 Stat. 1464.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2017</b>—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A)and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
+<b>2017</b>—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
@@ -106,6 +108,8 @@ Subsec. (d). Pub. L. 103–355, §1402(b), amended subsec. (d) generally. Prior 
 
 Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–375 applicable to protests filed under this subchapter that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on Oct. 28, 2004, see section 326(d) of Pub. L. 108–375, set out as a note under section 3551 of this title.
@@ -122,7 +126,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369,set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Construction of 2004 Amendment
 

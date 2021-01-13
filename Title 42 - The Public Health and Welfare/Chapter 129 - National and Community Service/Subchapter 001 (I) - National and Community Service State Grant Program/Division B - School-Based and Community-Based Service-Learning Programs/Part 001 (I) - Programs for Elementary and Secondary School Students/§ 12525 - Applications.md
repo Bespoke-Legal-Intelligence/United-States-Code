@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(E) entity that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in section 12521(a)(5) <sup>2</sup> of this title,
 
-> &emsp;shall prepare, submit to the State educational agency for the State, territory, or Indian tribe, and obtain approval of, an application for the program.
+> &emsp;shall prepare, submit to the State educational agency for the State, territory, or Indiantribe, and obtain approval of, an application for the program.
 
 #### (2) Submission
 

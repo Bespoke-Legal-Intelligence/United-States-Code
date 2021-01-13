@@ -14,6 +14,8 @@ Information Integration.—To deter a transportation security incident, the Secr
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2082; amended Pub. L. 108–293, title VIII, §803(a), Aug. 9, 2004, 118 Stat. 1080.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–293 inserted at end "The system may include a vessel risk profiling component that assigns incoming vessels a terrorism risk rating."

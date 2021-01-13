@@ -32,9 +32,13 @@ Submission to Congress.—Not later than 7 calendar days after completion of the
 
 (Added Pub. L. 115–390, title II, §202(a), Dec. 21, 2018, 132 Stat. 5184.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in subsec. (a), is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

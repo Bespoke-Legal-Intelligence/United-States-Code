@@ -32,6 +32,7 @@
 | [<b>26.</b>](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md) | <b>Dominican Republic-Central America Free Trade</b> | <b>4001</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Bipartisan%20Congressional%20Trade%20Priorities%20and%20Accountability/README.md) | <b>Bipartisan Congressional Trade Priorities and Accountability</b> | <b>4201</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Trade%20Facilitation%20and%20Trade%20Enforcement/README.md) | <b>Trade Facilitation and Trade Enforcement</b> | <b>4301</b> |
+| [<b>29.</b>](Chapter%20029%20-%20United%20States%E2%80%93Mexico%E2%80%93Canada%20Agreement%20Implementation/README.md) | <b>United States–Mexico–Canada Agreement Implementation</b> | <b>4501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,3 +70,4 @@
 - [Chapter 026 - Dominican Republic-Central America Free Trade](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md)
 - [Chapter 027 - Bipartisan Congressional Trade Priorities and Accountability](Chapter%20027%20-%20Bipartisan%20Congressional%20Trade%20Priorities%20and%20Accountability/README.md)
 - [Chapter 028 - Trade Facilitation and Trade Enforcement](Chapter%20028%20-%20Trade%20Facilitation%20and%20Trade%20Enforcement/README.md)
+- [Chapter 029 - United States&#8211;Mexico&#8211;Canada Agreement Implementation](Chapter%20029%20-%20United%20States%E2%80%93Mexico%E2%80%93Canada%20Agreement%20Implementation/README.md)

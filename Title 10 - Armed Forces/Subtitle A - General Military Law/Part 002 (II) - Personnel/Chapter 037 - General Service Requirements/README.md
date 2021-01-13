@@ -7,12 +7,14 @@
 | [653\.](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md) | Minimum service requirement for certain flight crew positions. |
 | \[654. | Repealed.\] |
 | [655\.](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md) | Designation of persons having interest in status of a missing member. |
-| [656\.](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan.md) | Diversity in military leadership: plan. |
+| [656\.](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan%3B%20mentoring%20and%20career%20counseling%20program.md) | Diversity in military leadership: plan; mentoring and career counseling program. |
 | [657\.](%C2%A7%2000657%20-%20Prohibition%20on%20service%20in%20the%20armed%20forces%20by%20individuals%20convicted%20of%20certain%20sexual%20offenses.md) | Prohibition on service in the armed forces by individuals convicted of certain sexual offenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 "Diversity in military leadership: plan".
 
 <b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1711(a)(2), Dec. 26, 2013, 127 Stat. 963, added item 657.
 
@@ -24,7 +26,7 @@ Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, a
 
 <b>1996</b>—Pub. L. 104–106, div. A, title V, §569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 "ReadyReserves: requirement of notification of change of status".
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 "Ready Reserves: requirement of notification of change of status".
 
 <b>1993</b>—Pub. L. 103–160, div. A, title V, §571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
 
@@ -56,7 +58,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. I hereby revoke my memorandum of August 25, 2017, "Military Service by Transgender Individuals," and any other directive I may have made with respect to military service by transgender individuals.
 
-Sec. 2. The Secretary of Defense, and the Secretary of Homeland Security, with respect to the U.S. Coast Guard, may exercise their authority to implement any appropriate policies concerning military service by transgender individuals.
+Sec. 2. The Secretary of Defense, and the Secretary of Homeland Security, with respect to the U.S. Coast Guard, may exercise their authority to implement anyappropriate policies concerning military service by transgender individuals.
 
 Sec. 3. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 
@@ -82,5 +84,5 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 00653 - Minimum service requirement for certain flight crew positions](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md)
 - [&sect; 00654 - Repealed. Pub. L. 111&#8211;321, &sect;2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516](%C2%A7%2000654%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93321%2C%20%C2%A72%28f%29%281%29%28A%29%2C%20Dec.%2022%2C%202010%2C%20124%20Stat.%203516.md)
 - [&sect; 00655 - Designation of persons having interest in status of a missing member](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md)
-- [&sect; 00656 - Diversity in military leadership plan](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan.md)
+- [&sect; 00656 - Diversity in military leadership plan; mentoring and career counseling program](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan%3B%20mentoring%20and%20career%20counseling%20program.md)
 - [&sect; 00657 - Prohibition on service in the armed forces by individuals convicted of certain sexual offenses](%C2%A7%2000657%20-%20Prohibition%20on%20service%20in%20the%20armed%20forces%20by%20individuals%20convicted%20of%20certain%20sexual%20offenses.md)

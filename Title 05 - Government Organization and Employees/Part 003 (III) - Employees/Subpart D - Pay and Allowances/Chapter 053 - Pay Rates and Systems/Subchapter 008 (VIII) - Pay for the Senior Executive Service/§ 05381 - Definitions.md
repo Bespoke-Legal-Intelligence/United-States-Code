@@ -4,9 +4,13 @@ For the purpose of this subchapter, "agency", "Senior Executive Service position
 
 (Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 101–136, title VI, §625(b), Nov. 3, 1989, 103 Stat. 823.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–136 inserted " 'career appointee'," before "and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

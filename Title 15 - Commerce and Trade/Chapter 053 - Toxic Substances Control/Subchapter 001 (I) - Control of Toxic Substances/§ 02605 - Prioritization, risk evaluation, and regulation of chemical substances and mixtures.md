@@ -12,7 +12,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;&emsp;(B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement.
 
-&emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate minimum warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities. The form and content of such minimum warnings and instructions shall be prescribed by the Administrator.
+&emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate minimum warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities.The form and content of such minimum warnings and instructions shall be prescribed by the Administrator.
 
 &emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture or monitor or conduct tests which are reasonable and necessary to assure compliance with the requirements of any rule applicable under this subsection.
 
@@ -62,7 +62,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (B) Additional risk evaluations
 
-&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shall ensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-prioritysubstances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
+&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shall ensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-priority substances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
 
 #### (C) Continuing designations and risk evaluations
 
@@ -132,7 +132,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (iii) Preference
 
-&emsp;&emsp;&emsp;In deciding whether to grant requests under subparagraph (C)(ii), the Administrator shall give preference to requests for risk evaluations on chemical substances for which the Administrator determinesthat restrictions imposed by 1 or more States have the potential to have a significant impact on interstate commerce or health or the environment.
+&emsp;&emsp;&emsp;In deciding whether to grant requests under subparagraph (C)(ii), the Administrator shall give preference to requests for risk evaluations on chemical substances for which the Administrator determines that restrictions imposed by 1 or more States have the potential to have a significant impact on interstate commerce or health or the environment.
 
 #### (iv) Exceptions
 
@@ -260,7 +260,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;(i) the Administrator determines that—
 
-&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date without consideration of costs or other non-risk factors; and
+&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of thechemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date without consideration of costs or other non-risk factors; and
 
 &emsp;&emsp;(II) making such proposed rule so effective is necessary to protect the public interest; and
 
@@ -332,7 +332,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;&emsp;(A) the specific condition of use is a critical or essential use for which no technically and economically feasible safer alternative is available, taking into consideration hazard and exposure;
 
-&emsp;&emsp;(B) compliance with the requirement, as applied with respect to the specific condition of use, would significantly disrupt the national economy, national security, or critical infrastructure; or
+&emsp;&emsp;(B) compliance with the requirement, as applied with respect to the specific conditionof use, would significantly disrupt the national economy, national security, or critical infrastructure; or
 
 &emsp;&emsp;(C) the specific condition of use of the chemical substance or mixture, as compared to reasonably available alternatives, provides a substantial benefit to health, the environment, or public safety.
 
@@ -342,7 +342,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (3) Period of exemption
 
-&emsp;The Administrator shall establish, as part of a rule under this subsection, a time limit onany exemption for a time to be determined by the Administrator as reasonable on a case-by-case basis, and, by rule, may extend, modify, or eliminate an exemption if the Administrator determines, on the basis of reasonably available information and after adequate public justification, the exemption warrants extension or modification or is no longer necessary.
+&emsp;The Administrator shall establish, as part of a rule under this subsection, a time limit on any exemption for a time to be determined by the Administrator as reasonable on a case-by-case basis, and, by rule, may extend, modify, or eliminate an exemption if the Administrator determines, on the basis of reasonably available information and after adequate public justification, the exemption warrants extension or modification or is no longer necessary.
 
 #### (4) Conditions
 
@@ -392,7 +392,7 @@ For the purposes of this chapter, the term "requirement" as used in this section
 
 <b>2016</b>—Pub. L. 114–182, §6(1), substituted "Prioritization, risk evaluation, and regulation of chemical substances and mixtures" for "Regulation of hazardous chemical substances and mixtures" in section catchline.
 
-Subsec. (a). Pub. L. 114–182, §6(2)(A)–(D), in introductory provisions, substituted "determines in accordance with subsection (b)(4)(A)" for "finds that there is a reasonable basis to conclude" and "so that the chemical substance or mixture no longer presents such risk" for "to protect adequately against such risk using the least burdensome requirements", struck out "or will present" after "presents", and inserted "and subject to section 2617 of this title, and in accordance with subsection (c)(2)," after "shall by rule".
+Subsec. (a). Pub. L. 114–182, §6(2)(A)–(D), in introductory provisions, substituted "determines in accordance with subsection (b)(4)(A)" for "finds that there is a reasonable basis to conclude" and "so that the chemical substance or mixture no longer presents such risk" for"to protect adequately against such risk using the least burdensome requirements", struck out "or will present" after "presents", and inserted "and subject to section 2617 of this title, and in accordance with subsection (c)(2)," after "shall by rule".
 
 Subsec. (a)(1)(A), (2)(A). Pub. L. 114–182, §6(2)(E), inserted "or otherwise restricting" after "prohibiting".
 

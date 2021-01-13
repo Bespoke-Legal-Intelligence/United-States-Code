@@ -58,7 +58,7 @@ Review of Operations by Test Range Operators.—The operator of each test range 
 
 (e)
 
-Testing.—The Secretary of Transportation may authorize an operator of a test range described in subsection (a) to administer testingrequirements established by the Administrator for unmanned aircraft systems operations.
+Testing.—The Secretary of Transportation may authorize an operator of a test range described in subsection (a) to administer testing requirements established by the Administrator for unmanned aircraft systems operations.
 
 (f)
 

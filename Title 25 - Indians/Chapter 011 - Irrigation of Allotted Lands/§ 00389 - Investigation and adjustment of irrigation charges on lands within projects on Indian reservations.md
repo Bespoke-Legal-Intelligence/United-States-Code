@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized and directed to cause an investigati
 
 (June 22, 1936, ch. 692, §1, 49 Stat. 1803.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Flathead Indian Irrigation Project
 
 Act July 26, 1947, ch. 340, 61 Stat. 494, provided that notwithstanding any provisions of sections 389 to 389e of this title, the Secretary of the Interior could defer the collection of irrigation construction charges on the Flathead Indian Irrigation Project until January 1, 1949.
@@ -14,11 +16,11 @@ In accordance with sections 389 to 389e of this title, the order of the Secretar
 
 #### Klamath Indian Irrigation Project
 
-In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling$401,440.55 of reimbursable irrigation costs and any accrued interest thereon chargeable to lands in the Klamath Indian irrigation project, was approved by Pub. L. 88–456, Aug. 20, 1964, 78 Stat. 554.
+In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling $401,440.55 of reimbursable irrigation costs and any accrued interest thereon chargeable to lands in the Klamath Indian irrigation project, was approved by Pub. L. 88–456, Aug. 20, 1964, 78 Stat. 554.
 
 #### Oroville-Tonasket Irrigation District
 
-Action of the Secretary of the Interior taken on May 19, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within the Oroville-Tonasket Irrigation District was confirmed by Congress in act Dec. 24, 1942, ch. 816, 56 Stat. 1082.
+Action of the Secretary of the Interior taken on May 19, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within theOroville-Tonasket Irrigation District was confirmed by Congress in act Dec. 24, 1942, ch. 816, 56 Stat. 1082.
 
 #### Uintah Indian Irrigation Project
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment by regulations
 
-Not later than May 1, 1979, the President shall submit to the Congress, and publish in the Federal Register, regulations establishing a unified personnel system for all employees of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C.2151 et seq.\]. In preparing such regulations, the President shall keep the appropriate committees of the Congress fully and currently informed, and shall consult with them on a regular basis, concerning the nature of the unified personnel system to be established.
+Not later than May 1, 1979, the President shall submit to the Congress, and publish in the Federal Register, regulations establishing a unified personnel system for all employees of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\]. In preparing such regulations, the President shall keep the appropriate committees of the Congress fully and currently informed, and shall consult with them on a regular basis, concerning the nature of the unified personnel system to be established.
 
 #### (b) Effective date of regulations
 
@@ -18,9 +18,11 @@ Regulations which take effect pursuant to this section shall have the force and 
 
 (Pub. L. 95–424, title IV, §401, Oct. 6, 1978, 92 Stat. 956; Pub. L. 96–53, title V, §503(a), Aug. 14, 1979, 93 Stat. 378.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of this chapter. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of thischapter. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -29,6 +31,8 @@ Section enacted as part of the International Development and Food Assistance Act
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted "May 1" for "March 15".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

@@ -38,7 +38,7 @@
 
 (f)(1)(A) In each order of restitution, the court shall order restitution to each victim in the full amount of each victim's losses as determined by the court and without consideration of the economic circumstances of the defendant.
 
-(B) In no case shall the fact that a victim has received or is entitled to receive compensationwith respect to a loss from insurance or any other source be considered in determining the amount of restitution.
+(B) In no case shall the fact that a victim has received or is entitled to receive compensation with respect to a loss from insurance or any other source be considered in determining the amount of restitution.
 
 (2) Upon determination of the amount of restitution owed to each victim, the court shall, pursuant to section 3572, specify in the restitution order the manner in which, and the schedule according to which, the restitution is to be paid, in consideration of—
 
@@ -108,6 +108,8 @@
 
 (Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1255, §3580; renumbered §3664, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 101–647, title XXXV, §3596, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §206(a), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 107–273, div. B, title IV, §4002(e)(1), Nov. 2, 2002, 116 Stat. 1810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (o)(1)(A), are set out in the Appendix to this title.
@@ -119,6 +121,8 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (o)(1)(
 <b>1996</b>—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "3663" for "3579".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -10,7 +10,7 @@ In General.—In this chapter:
 
 (b)
 
-Veteran Defined.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term "veteran" means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom.
+Veteran Defined.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term"veteran" means a person who served in the active military, naval, air, or space service, regardless of length of service, and who was discharged or released therefrom.
 
 (2) For purposes of paragraph (1), the term "veteran" excludes a person who—
 
@@ -18,7 +18,9 @@ Veteran Defined.—(1) Notwithstanding section 101(2) of this title and except a
 
 &emsp;(B) was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 109–444, §8(a)(3), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(3), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 114–315, title VII, §701, Dec. 16, 2016, 130 Stat. 1584.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 109–444, §8(a)(3), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(3), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 114–315, title VII, §701, Dec. 16, 2016, 130 Stat. 1584; Pub. L. 116–283, div. A, title IX, §926(a)(33), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -30,6 +32,8 @@ A prior section 2002A was renumbered section 4102A of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
 <b>2016</b>—Pub. L. 114–315 designated existing provisions as subsec. (a), inserted heading, substituted "in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)" for "in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a))" in subsec. (a)(1), and added subsec. (b).
 
 <b>2006</b>—Par. (1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
@@ -37,6 +41,8 @@ A prior section 2002A was renumbered section 4102A of this title.
 Pub. L. 109–461, §1004(a)(3), inserted closing parenthesis before period at end.
 
 Pub. L. 109–444, which inserted closing parenthesis before period at end, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

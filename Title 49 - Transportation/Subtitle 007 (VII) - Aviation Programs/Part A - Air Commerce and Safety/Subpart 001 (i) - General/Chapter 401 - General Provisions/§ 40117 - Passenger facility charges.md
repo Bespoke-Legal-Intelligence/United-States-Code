@@ -32,7 +32,7 @@ Eligible airport-related project.—The term "eligible airport-related project" 
 
 &emsp;(4)
 
-Ground support equipment.—The term "ground support equipment" means serviceand maintenance equipment used at an airport to support aeronautical operations and related activities.
+Ground support equipment.—The term "ground support equipment" means service and maintenance equipment used at an airport to support aeronautical operations and related activities.
 
 &emsp;(5)
 
@@ -230,7 +230,7 @@ Pilot Program for Passenger Facility Charge Authorizations.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish a pilot program to test alternative procedures for authorizing eligible agencies for airports to impose passenger facility charges. An eligible agency may impose in accordance with the provisions of this subsection a passenger facility charge under this section. Forpurposes of the pilot program, the procedures in this subsection shall apply instead of the procedures otherwise provided in this section.
+In general.—The Secretary shall establish a pilot program to test alternative procedures for authorizing eligible agencies for airports to impose passenger facility charges. An eligible agency may impose in accordance with the provisions of this subsection a passenger facility charge under this section. For purposes of the pilot program, the procedures in this subsection shall apply instead of the procedures otherwise provided in this section.
 
 &emsp;(2)
 
@@ -302,7 +302,7 @@ Use of Revenues at Previously Associated Airport.—Notwithstanding the requirem
 
 &emsp;(2) the location of the project to be financed by the new charge is at an airport that was under the control of the same eligible agency that had controlled the airport described in paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638; Pub. L. 115–254, div. B, title I,§121, div. B, title V, §539(b), Oct. 5, 2018, 132 Stat. 3201, 3370.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638; Pub. L. 115–254, div. B, title I, §121, div. B, title V, §539(b), Oct. 5, 2018, 132 Stat. 3201, 3370.)
 
 Historical and Revision Notes
 
@@ -594,7 +594,7 @@ Pub. L. 112–21, §5(j), June 29, 2011, 125 Stat. 235, provided that: "The amen
 
 Pub. L. 112–16, §5(j), May 31, 2011, 125 Stat. 220, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on June 1, 2011."
 
-Pub. L. 112–7, §5(j), Mar. 31, 2011, 125 Stat. 33, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115,47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2011."
+Pub. L. 112–7, §5(j), Mar. 31, 2011, 125 Stat. 33, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2011."
 
 #### Effective Date of 2010 Amendment
 

@@ -46,7 +46,9 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 Promptly after a review by the credit review committee, the committee shall notify the applicant or borrower, as the case may be, in writing of the decision of the committee and the reasons for the decision.
 
-(Pub. L. 92–181, title IV, §4.14, Dec. 10, 1971, 85 Stat. 613; Pub. L. 99–205, title III, §303, Dec. 23, 1985, 99 Stat. 1708; Pub. L. 100–233, title I, §106, title VIII, §805(s), Jan. 6, 1988, 101 Stat. 1580, 1716; Pub. L. 100–399, title I, §103, title VII, §702(b), Aug. 17, 1988, 102 Stat. 990, 1006.)
+(Pub. L. 92–181, title IV, §4.14, Dec. 10, 1971, 85 Stat. 613; Pub. L. 99–205, title III, §303, Dec. 23,1985, 99 Stat. 1708; Pub. L. 100–233, title I, §106, title VIII, §805(s), Jan. 6, 1988, 101 Stat. 1580, 1716; Pub. L. 100–399, title I, §103, title VII, §702(b), Aug. 17, 1988, 102 Stat. 990, 1006.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Subsec. (b)(1). Pub. L. 100–399, §103(a), substituted "before the" for "by a"
 Subsec. (d)(1). Pub. L. 100–399, §103(b), inserted "or (2)".
 
 <b>1985</b>—Pub. L. 99–205, in amending section generally, substituted provisions respecting reconsideration of action on loan application for prior reconsideration provisions which read as follows: "Any applicant who has reason to believe that the action on his application by an association failed to take into account facts pertinent to his application, or has misinterpreted or failed to properly apply the applicable law or rules and regulations governing his application, may, if he so requests in writing within thirty days of the date of that notice, request an informal hearing on his application and the action of the association in reduction or denial thereof, or the reason for such action, in person before the loan committee or officer or employee thereof authorized to act on applications under section 2033(11) or 2093(18) of this title. Promptly after such a hearing, he shall be notified of the decision upon reconsideration and the reasons therefor."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

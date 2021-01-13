@@ -124,9 +124,9 @@ Duties and Powers of Administrator.—The Administrator shall carry out the foll
 
 (h) Section 40101(d) of this title applies to duties and powers specified in subsection (g)(1) of this section. Any of those duties and powers may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers is administratively final.
 
-(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
+(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for theAdministrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 
-(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the "Civil Aeromedical Institute". Research conducted by the institute should take appropriateadvantage of capabilities of other government agencies, universities, or the private sector.
+(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the "Civil Aeromedical Institute". Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
 
 (k)
 
@@ -218,6 +218,10 @@ Limited treatment as federal employees.—An individual who provides voluntary s
 
 Contracts.—The Administrator is authorized to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the functions of the Administrator and the Administration. The Administrator may enter into such contracts, leases, cooperative agreements, and other transactions with any Federal agency (as such term is defined in section 551(1) of title 5) or any instrumentality of the United States, any State, territory, or possession, or political subdivision thereof, any other governmental entity, or any person, firm, association, corporation, or educational institution, on such terms and conditions as the Administrator may consider appropriate.
 
+&emsp;(7)
+
+Prohibition on certain performance-based incentives.—No employee of the Administration shall be given an award, financial incentive, or other compensation, as a result of actions to meet performance goals related to meeting or exceeding schedules, quotas, ordeadlines for certificates issued under section 44704.
+
 (m)
 
 Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
@@ -296,7 +300,7 @@ Meetings.—The Council shall meet on a regular and periodic basis or at the cal
 
 &emsp;&emsp;(C)
 
-Access to documents and staff.—The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the "Freedom of Information Act"), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
+Access to documents and staff.—The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the "Freedom of Information Act"), cost data associated withthe acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
 
 &emsp;(5)
 
@@ -524,7 +528,7 @@ Meetings.—The Committee shall meet at least quarterly and at such other times 
 
 &emsp;&emsp;&emsp;(iii)
 
-Quorum.—Three members of the Committee shall constitute a quorum. Amajority of members present and voting shall be required for the Committee to take action.
+Quorum.—Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
 
 &emsp;&emsp;(H)
 
@@ -652,7 +656,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There shall be a Chief Technology Officer appointed by the ChiefOperating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
+Appointment.—There shall be a Chief Technology Officer appointed by the Chief Operating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
 
 &emsp;&emsp;(B)
 
@@ -720,11 +724,11 @@ Annual performance report.—The Chief Technology Officer shall prepare and tran
 
 (t)
 
-Aviation Safety Whistleblower Investigation Office.—
+Office of Whistleblower Protection and Aviation Safety Investigations.—
 
 &emsp;(1)
 
-Establishment.—There is established in the Federal Aviation Administration (in this subsection referred to as the "Agency") an Aviation Safety Whistleblower Investigation Office (in this subsection referred to as the "Office").
+Establishment.—There is established in the Federal Aviation Administration (in this subsection referred to as the "Agency") the Office of Whistleblower Protection and Aviation Safety Investigations (in this subsection referred to as the "Office").
 
 &emsp;(2)
 
@@ -746,6 +750,10 @@ Term.—The Director shall be appointed for a term of 5 years.
 
 Vacancies.—Any individual appointed to fill a vacancy in the position of the Director occurring before the expiration of the term for which the individual's predecessor was appointed shall be appointed for the remainder of that term.
 
+&emsp;&emsp;(E)
+
+Limitation of duties.— The Director may only perform duties of the Director described in paragraph (3)(A).
+
 &emsp;(3)
 
 Complaints and investigations.—
@@ -754,11 +762,17 @@ Complaints and investigations.—
 
 Authority of director.—The Director shall—
 
-&emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
+&emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
 
-&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determinewhether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred; and
+&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred;
 
-&emsp;&emsp;&emsp;(iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions.
+&emsp;&emsp;&emsp;(iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions;
+
+&emsp;&emsp;&emsp;(iv) receive allegations of whistleblower retaliation by employees of the Agency;
+
+&emsp;&emsp;&emsp;(v) coordinate with and provide all necessary assistance to the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, and the Office of Special Counsel on investigations relating to whistleblower retaliation by employees of the Agency; and
+
+&emsp;&emsp;&emsp;(vi) investigate allegations of whistleblower retaliation by employees of the Agency that have been delegated to the Office by the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, or the Office of Special Counsel.
 
 &emsp;&emsp;(B)
 
@@ -790,17 +804,49 @@ Reporting of criminal violations to inspector general.—If the Director has rea
 
 &emsp;(7)
 
-Annual reports to congress.—Not later than October 1 of each year, the Director shall submit to Congress a report containing—
+Annual reports to congress.—Not later than November 15 of each year, the Director shall submit to Congress a report containing—
 
-&emsp;&emsp;(A) information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding 12-month period;
+&emsp;&emsp;(A) information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding fiscal year;
 
 &emsp;&emsp;(B) summaries of those submissions;
 
-&emsp;&emsp;(C) summaries of further investigations and corrective actions recommended in response to the submissions; and
+&emsp;&emsp;(C) summaries of the resolution of those submissions, including any further investigations and corrective actions recommended in response to the submissions;
 
-&emsp;&emsp;(D) summaries of the responses of the Administrator to such recommendations.
+&emsp;&emsp;(D) summaries of the responses of the Administrator to such recommendations; and
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023; Pub. L. 114–55, title I, §103, Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §103, Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1103, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §103, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §103, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title I, §113, title V, §§545(a), 564, div. K, title I, §1991(a), Oct. 5, 2018, 132 Stat. 3200, 3374, 3385, 3626.)
+&emsp;&emsp;(E) A <sup>1</sup> summary of the activities of the Whistleblower Ombudsman, including—
+
+&emsp;&emsp;&emsp;(i) the number of employee consultations conducted by the Whistleblower Ombudsman in the preceding 12-month period and a summary of such consultations and their resolution (in a de-identified or anonymized form); and
+
+&emsp;&emsp;&emsp;(ii) the number of reported incidents of retaliation during such period and, if applicable, a description of the disposition of such incidents during such period.
+
+&emsp;(8)
+
+Whistleblower ombudsman.—
+
+&emsp;&emsp;(A)
+
+In general.—Within the Office, there shall be established the position of Whistleblower Ombudsman.
+
+&emsp;&emsp;(B)
+
+Ombudsman qualifications.—The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management,<sup>2</sup> and conflict resolution.
+
+&emsp;&emsp;(C)
+
+Duties.—The Ombudsman shall carry out the following duties:
+
+&emsp;&emsp;&emsp;(i) Educate Administration employees about prohibitions against materially adverse acts of retaliation and any specific rights or remedies with respect to those retaliatory actions.
+
+&emsp;&emsp;&emsp;(ii) Serve as an independent confidential resource for Administration employees to discuss any specific retaliation allegation and available rights or remedies based on the circumstances, as appropriate.
+
+&emsp;&emsp;&emsp;(iii) Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Office of Professional Responsibility, and the Office of the Chief Counsel, as necessary.
+
+&emsp;&emsp;&emsp;(iv) Coordinate with the Office of the Inspector General of the Department of Transportation's Whistleblower Protection Coordinator and the Office of the Special Counsel, as necessary.
+
+&emsp;&emsp;&emsp;(v) Conduct outreach and assist in the development of training within the Agency to mitigate the potential for retaliation and promote timely and appropriate processing of any protected disclosure or allegation of materially adverse acts of retaliation.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023; Pub. L. 114–55, title I, §103, Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §103, Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1103, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §103, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §103, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title I, §113, title V, §§545(a), 564, div. K, title I, §1991(a), Oct. 5, 2018, 132 Stat. 3200, 3374, 3385, 3626; Pub. L. 116–260, div. V, title I, §§114, 133(a), (b), Dec. 27, 2020, 134 Stat. 2333, 2353, 2355.)
 
 Historical and Revision Notes
 
@@ -938,6 +984,28 @@ The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pu
 
 #### Amendments
 
+<b>2020</b>—Subsec. (l)(7). Pub. L. 116–260, §114, added par. (7).
+
+Subsec. (t). Pub. L. 116–260, §133(a)(1)(B), substituted "Office of Whistleblower Protection and Aviation Safety Investigations" for "Aviation Safety Whistleblower Investigation Office" in heading.
+
+Subsec. (t)(1). Pub. L. 116–260, §133(a)(1)(A), substituted "the Office of Whistleblower Protection and Aviation Safety Investigations" for "an Aviation Safety Whistleblower Investigation Office".
+
+Subsec. (t)(2)(E). Pub. L. 116–260, §133(a)(2)(B), added subpar. (E).
+
+Subsec. (t)(3)(A)(i). Pub. L. 116–260, §133(a)(2)(A)(i), substituted "(if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system)" for "(if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process)".
+
+Subsec. (t)(3)(A)(iv) to (vi). Pub. L. 116–260, §133(a)(2)(A)(ii)–(iv), added cls. (iv) to (vi).
+
+Subsec. (t)(7). Pub. L. 116–260, §133(a)(2)(C)(i), substituted "November 15" for "October 1" in introductory provisions.
+
+Subsec. (t)(7)(A). Pub. L. 116–260, §133(a)(2)(C)(ii), substituted "paragraph (3)(A)(i) in the preceding fiscal year" for "paragraph (3)(A)(i) in the preceding 12-month period".
+
+Subsec. (t)(7)(C). Pub. L. 116–260, §133(a)(3)(A), inserted "the resolution of those submissions, including any" before "further" and struck out "and" at end.
+
+Subsec. (t)(7)(E). Pub. L. 116–260, §133(a)(3)(B), (C), added subpar. (E).
+
+Subsec. (t)(8). Pub. L. 116–260, §133(b), added par. (8).
+
 <b>2018</b>—Subsec. (g). Pub. L. 115–254, §1991(a), amended subsec. (g) generally. Prior to amendment, text read as follows:
 
 "(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
@@ -946,7 +1014,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pu
 
 &emsp;"(B) additional duties and powers prescribed by the Secretary of Transportation.
 
-"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
+"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
 
 Subsec. (k)(1)(A)–(E). Pub. L. 115–254, §113(a), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
 
@@ -1152,7 +1220,7 @@ Procurement of temporary and intermittent services.—The chairperson of the Sub
 
 Pub. L. 108–176, §202(14)(C), redesignated subpar (D) as (F). Former subpar. (F) redesignated (H).
 
-Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: "
+Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read asfollows: "
 
 Term of chair.—The members of the Subcommittee shall elect for a 2-year term a chairperson from among the members of the Subcommittee."
 
@@ -1214,7 +1282,7 @@ Subsec. (l)(1). Pub. L. 106–181, §307(c)(1), substituted "subsections (a) and
 
 Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of "18" for "15" in section 106(p)(2), without specifying the Code title to be amended, was executed by making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
 
-Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "13 members representingaviation interests, appointed by the President by and with the advice and consent of the Senate."
+Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "13 members representing aviation interests, appointed by the President by and with the advice and consent of the Senate."
 
 Subsec. (p)(3). Pub. L. 106–181, §302(a)(2), designated existing provisions as subpar. (A), inserted subpar. heading, realigned margins, inserted "or (2)(E)" after "paragraph (2)(C)", and added subpars. (B) and (C).
 
@@ -1316,7 +1384,7 @@ Effect on actions prior to appointment of subcommittee.—Nothing in this sectio
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: "The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate."
 
 #### Effective Date of 1996 Amendment
 
@@ -1608,7 +1676,7 @@ Pub. L. 104–264, title II, §221, Oct. 9, 1996, 110 Stat. 3227, provided that:
 
 &emsp;"(13) An independent, thorough, and complete study and assessment must be performed of the costs to the Administration and the costs driven by each segment of the aviation system for safety and operational services, including the use of the air traffic control system and the Nation's airports.
 
-&emsp;"(14) Because the Administration is a unique Federal entity in that it is a participant in the daily operations of an industry, and because the national air transportation system faces significant problems without significant changes, the Administration has been authorized to change the Federal procurement and personnel systems to ensure that the Administration has the ability to keep pace with new technology and is able to match resources with the real personnel needs of the Administration.
+&emsp;"(14) Because the Administration is a unique Federal entity in that it is a participant in the daily operations of an industry, and because the national airtransportation system faces significant problems without significant changes, the Administration has been authorized to change the Federal procurement and personnel systems to ensure that the Administration has the ability to keep pace with new technology and is able to match resources with the real personnel needs of the Administration.
 
 &emsp;"(15) The existing budget system does not allow for long-term planning or timely acquisition of technology by the Administration.
 
@@ -1776,7 +1844,7 @@ Section 1. <i>Establishment of the Air Traffic Organization</i>. (a) The Secreta
 
 (e) The COO shall also enter into a framework agreement with the Administrator that will establish the relationship of the ATO with the other organizations of the FAA.
 
-Sec. 2. <i>Purpose</i>. The FAA's primary mission is to ensure the safety, security, and efficiency of the National Airspace System. The purpose of this order is to enhance that mission and further improve the delivery ofair traffic services to the American public by reorganizing the FAA's air traffic services and related offices into a performance-based, results-oriented, organization. The ATO will be better able to make use of the unique procurement and personnel authorities that the FAA currently has and to better use the additional management reforms enacted by the Congress this year under Air-21. Specifically, the ATO shall:
+Sec. 2. <i>Purpose</i>. The FAA's primary mission is to ensure the safety, security, and efficiency of the National Airspace System. The purpose of this order is to enhance that mission and further improve the delivery of air traffic services to the American public by reorganizing the FAA's air traffic services and related offices into a performance-based, results-oriented, organization. The ATO will be better able to make use of the unique procurement and personnel authorities that the FAA currently has and to better use the additional management reforms enacted by the Congress this year under Air-21. Specifically, the ATO shall:
 
 (a) optimize use of existing management flexibilities and authorities to improve the efficiency of air traffic services and increase the capacity of the system;
 
@@ -1817,4 +1885,8 @@ Administrator.—The term 'Administrator' means the Administrator of the Federal
 &emsp;"(3)
 
 Secretary.—The term 'Secretary' means the Secretary of Transportation."
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

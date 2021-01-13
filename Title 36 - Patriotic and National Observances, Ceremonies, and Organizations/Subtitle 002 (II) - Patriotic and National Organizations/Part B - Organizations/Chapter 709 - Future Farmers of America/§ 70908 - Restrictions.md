@@ -6,7 +6,7 @@ Stock and Dividends.—The FFA may not issue stock or declare or pay a dividend.
 
 (b)
 
-Political Activities.—The FFA or a director, officer, or member acting on behalf of the FFA may not contribute to, support, or assist a political party or candidate for elective public office.
+Political Activities.—The FFA or a director, officer, or member acting on behalf of theFFA may not contribute to, support, or assist a political party or candidate for elective public office.
 
 (c)
 
@@ -65,6 +65,8 @@ Aug. 30, 1950, ch. 823, §§9, 10, 12, 64 Stat. 566.
 In subsection (a), the words "any shares or" and "its objects and purposes being solely educational" are omitted as unnecessary and for consistency in the revised title.
 
 In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "as provided in section 285 of this title" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

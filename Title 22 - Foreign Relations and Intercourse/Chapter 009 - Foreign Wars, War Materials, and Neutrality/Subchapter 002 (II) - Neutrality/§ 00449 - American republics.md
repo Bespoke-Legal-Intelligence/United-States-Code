@@ -4,6 +4,8 @@ This subchapter (except section 452 <sup>1</sup> of this title) shall not apply
 
 (Nov. 4, 1939, ch. 2, §9, 54 Stat. 8.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 452 of this title, referred to in text, was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.

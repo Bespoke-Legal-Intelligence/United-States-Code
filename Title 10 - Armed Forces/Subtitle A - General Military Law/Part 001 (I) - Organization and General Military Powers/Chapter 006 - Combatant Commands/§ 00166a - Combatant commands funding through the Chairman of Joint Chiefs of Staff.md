@@ -90,7 +90,7 @@ Subsec. (e)(1)(C). Pub. L. 108–136, §902(c)(3), substituted "$5,000,000" for 
 
 <b>1997</b>—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted "the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of theJoint Chiefs of Staff for such purpose" for "the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command."
+<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted "the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose" for "the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command."
 
 Subsec. (b)(7). Pub. L. 103–35, §201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: "(including transportation, translation, and administrative expenses)".
 

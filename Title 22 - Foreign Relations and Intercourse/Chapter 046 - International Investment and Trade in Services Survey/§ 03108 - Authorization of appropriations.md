@@ -4,6 +4,8 @@ To carry out this chapter, there are authorized to be appropriated $4,400,000 fo
 
 (Pub. L. 94–472, §9, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, §1, Sept. 22, 1978, 92 Stat. 726; Pub. L. 96–72, §23(a), Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–33, §5, Aug. 7, 1981, 95 Stat. 171.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–33 inserted provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1982, and such sums as might be necessary for any subsequent fiscal years.
@@ -11,6 +13,8 @@ To carry out this chapter, there are authorized to be appropriated $4,400,000 fo
 <b>1979</b>—Pub. L. 96–72 substituted provisions authorizing appropriations of $4,400,000 for fiscal year ending Sept. 30, 1980, and $4,500,000 for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1979.
 
 <b>1978</b>—Pub. L. 95–381 increased authorization from $1,000,000 to $4,000,000, and struck out provisions authorizing appropriation of $1,000,000 for fiscal year ending Sept. 30, 1978.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

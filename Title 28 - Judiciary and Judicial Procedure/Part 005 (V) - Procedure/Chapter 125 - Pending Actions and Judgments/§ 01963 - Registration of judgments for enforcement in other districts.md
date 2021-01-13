@@ -20,6 +20,8 @@ Section 2508 of this title provides for the registration of judgments of the Cou
 
 The phrase "for the recovery of money or property" was not in the committee's draft of Rule 77 of Federal Rules of Civil Procedure but was inserted in the revised section to exclude judgments in divorce actions, and any other actions, the registration of which would serve no useful purpose.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–317 in section catchline substituted "for enforcement in other districts" for "of the district courts and the Court of International Trade", in first undesignated par. substituted "court of appeals, district court, bankruptcy court," for "district court" and "copy of the judgment" for "copy of such judgment", and added undesignated par. at end.
@@ -31,6 +33,8 @@ The phrase "for the recovery of money or property" was not in the committee's dr
 <b>1958</b>—Pub. L. 85–508 struck out provisions which extended provisions of section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 <b>1954</b>—Act Aug. 23, 1954, extended provisions of section to District Court for Territory of Alaska.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

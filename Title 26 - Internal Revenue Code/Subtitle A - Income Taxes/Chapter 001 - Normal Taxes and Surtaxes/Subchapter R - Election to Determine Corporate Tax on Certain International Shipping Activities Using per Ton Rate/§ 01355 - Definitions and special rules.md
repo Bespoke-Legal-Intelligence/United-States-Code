@@ -230,7 +230,7 @@ Subsec. (c)(3). Pub. L. 109–135, §403(g)(2), substituted "determined by treat
 
 &emsp;"(B) by disregarding vessel charters between members of such group."
 
-Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the extent of a partner's ownership or charterinterest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
+Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
 
 #### Effective Date of 2006 Amendment
 

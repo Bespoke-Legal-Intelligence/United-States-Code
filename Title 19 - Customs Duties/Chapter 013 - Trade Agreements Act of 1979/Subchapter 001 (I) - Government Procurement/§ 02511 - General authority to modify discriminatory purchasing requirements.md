@@ -12,7 +12,7 @@ Subject to subsection (f) of this section, the President may waive, in whole or 
 
 The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
 
-&emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
+&emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the USMCA (as defined in section 4502 of this title), and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
 &emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
@@ -28,15 +28,19 @@ The President may modify or withdraw any waiver granted pursuant to subsection (
 
 #### (e) Procurement procedures by certain Federal agencies
 
-Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 1001.1a–2 of the North American Free Trade Agreement to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title) to procure eligible products in compliance with the procedural provisions of chapter 13 of the USMCA.
 
 #### (f) Small business and minority preferences
 
 The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
 
-(Pub. L. 96–39, title III, §301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, §7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, §381(a), Dec. 8, 1993, 107 Stat. 2128.)
+(Pub. L. 96–39, title III, §301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, §7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, §381(a), Dec. 8, 1993, 107 Stat. 2128; Pub. L. 116–113, title V, §505(a), Jan. 29, 2020, 134 Stat. 77.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–113, §505(a)(1), substituted "the USMCA (as defined in section 4502 of this title)" for "the North American Free Trade Agreement".
+
+Subsec. (e). Pub. L. 116–113, §505(a)(2), substituted "Annex 13–A of the USMCA (as defined in section 4502 of this title)" for "Annex 1001.1a–2 of the North American Free Trade Agreement" and "chapter 13 of the USMCA" for "chapter 10 of such Agreement".
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182, §381(a)(1), substituted "Subject to subsection (f) of this section, the President" for "The President".
 
@@ -44,11 +48,33 @@ Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted "or the North American 
 
 Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: "The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy AmericanAct of 1988) unless such other provision specifically refers to and amends this section." See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: "The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section." See Effective and Termination Dates of 1988 Amendment note below.
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–113, title V, §505(c), Jan. 29, 2020, 134 Stat. 77, provided that:
+
+"(1)
+
+In general.—The amendments made by subsections (a) and (b) \[amending this section and section 2518 of this title\] shall—
+
+&emsp;"(A) take effect on the date on which the USMCA enters into force \[July 1, 2020\]; and
+
+&emsp;"(B) apply with respect to a procurement on or after that date.
+
+"(2)
+
+Transition from nafta treatment.—In the case of a procurement before the date on which the USMCA enters into force—
+
+&emsp;"(A) the amendments made by subsections (a) and (b) to sections 301 and 308 of the Trade Agreements Act of 1979 (19 U.S.C. 2511 and 2518) shall not apply with respect to the contract; and
+
+&emsp;"(B) sections 301 and 308 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the contract."
+
+\[For definition of "USMCA" as used in section 505(c) of Pub. L. 116–113, set out above, see section 4502 of this title.\]
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–182, title III, §381(e), Dec. 8, 1993, 107 Stat. 2129, provided that: "The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\]."
+Pub. L. 103–182, title III, §381(e), Dec. 8, 1993, 107 Stat. 2129, which provided that subtitle G of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective and Termination Dates of 1988 Amendment
 

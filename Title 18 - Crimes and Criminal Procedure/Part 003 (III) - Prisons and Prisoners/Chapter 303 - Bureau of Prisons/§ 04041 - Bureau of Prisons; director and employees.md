@@ -12,9 +12,13 @@ The entire second sentence was omitted as executed. All powers and authority ori
 
 Minor changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 struck out "at a salary of $10,000 a year" after "under the Attorney General".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Compensation of Director
 

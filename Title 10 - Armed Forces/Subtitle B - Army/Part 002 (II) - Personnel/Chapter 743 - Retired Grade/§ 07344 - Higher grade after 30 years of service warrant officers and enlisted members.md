@@ -72,5 +72,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title V, §512(f), Dec. 4, 1987, 101 Stat. 1091, provided that: "The amendments made by subsections (a) and (c) \[amending this section and section 8964 of this title\] shall apply to any reserve enlisted member who completes 30 years of service in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactmentof this Act \[Pub. L. 100–180, see Tables for classification\] for any period before the date of the enactment of this Act."
+Pub. L. 100–180, div. A, title V, §512(f), Dec. 4, 1987, 101 Stat. 1091, provided that: "The amendments made by subsections (a) and (c) \[amending this section and section 8964 of this title\] shall apply to any reserve enlisted member who completes 30 years of service in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactment of this Act \[Pub. L. 100–180, see Tables for classification\] for any period before the date of the enactment of this Act."
 

@@ -1,6 +1,6 @@
 ### §5801. Purpose
 
-The purpose of this chapter is to provide a framework for meeting the National EducationGoals established by subchapter I of this chapter by—
+The purpose of this chapter is to provide a framework for meeting the National Education Goals established by subchapter I of this chapter by—
 
 &emsp;(1) promoting coherent, nationwide, systemic education reform;
 
@@ -22,7 +22,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(A) creating a vision of excellence and equity that will guide all Federal education and related programs;
 
-&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitive content and student performance standards and strategies that all students will be expected to achieve;
+&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitivecontent and student performance standards and strategies that all students will be expected to achieve;
 
 &emsp;&emsp;(C) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
 

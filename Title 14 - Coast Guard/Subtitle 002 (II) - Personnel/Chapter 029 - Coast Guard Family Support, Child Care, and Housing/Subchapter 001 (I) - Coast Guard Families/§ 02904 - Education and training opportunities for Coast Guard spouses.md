@@ -22,9 +22,9 @@ In general.—The term "eligible spouse" means the spouse of a member of the Coa
 
 &emsp;&emsp;(B)
 
-Exclusion.—The term "eligible spouse" does not include a person who—
+Exclusion.—The term "eligible spouse" does not include an individual who—
 
-&emsp;&emsp;&emsp;(i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State orterritorial possession of the United States; or
+&emsp;&emsp;&emsp;(i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State or territorial possession of the United States; or
 
 &emsp;&emsp;&emsp;(ii) is eligible for tuition assistance as a member of the Armed Forces.
 
@@ -32,7 +32,9 @@ Exclusion.—The term "eligible spouse" does not include a person who—
 
 Portable career.—The term "portable career" includes an occupation that requires education, training, or both that results in a credential that is recognized by an industry, profession, or specific type of business.
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3030, §542; renumbered §2904, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3030, §542; renumbered §2904, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(49), Jan. 1, 2021, 134 Stat. 4750.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -40,7 +42,11 @@ A prior section 2904 was renumbered section 5104 of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(1)(B). Pub. L. 116–283 substituted "an individual" for "a person" in introductory provisions.
+
 <b>2018</b>—Pub. L. 115–282 renumbered section 542 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Second Expansion of the My Career Advancement Account Program for Military Spouses
 

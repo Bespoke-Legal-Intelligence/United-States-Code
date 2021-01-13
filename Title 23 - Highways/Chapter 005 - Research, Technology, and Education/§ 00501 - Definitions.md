@@ -70,9 +70,13 @@ Standard.—The term "standard" means a document that—
 
 A prior section 501, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 830, related to declaration of policy as to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pars. (2) to (9). Pub. L. 112–141 added pars. (2) to (7), redesignated former par. (2) as (8), and added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

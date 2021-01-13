@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
+Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent ofthe Senate. The appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
 
 &emsp;(A) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 
@@ -68,7 +68,7 @@ Subsecs. (d), (e). Pub. L. 108–375, §507(c), struck out subsecs. (d) and (e) 
 
 #### Change of Name
 
-Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of theUnited States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
+Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
 
 Pub. L. 108–375, div. A, title V, §508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau."
 
@@ -78,5 +78,5 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 #### Treatment of Current Director of the Joint Staff of the National Guard Bureau
 
-Pub. L. 112–81, div. A, title V, §511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: "The officer who is serving as Director of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act \[Dec. 31, 2011\] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) \[amending this section\], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title."
+Pub. L. 112–81, div. A, title V, §511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: "The officer who is serving asDirector of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act \[Dec. 31, 2011\] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) \[amending this section\], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title."
 

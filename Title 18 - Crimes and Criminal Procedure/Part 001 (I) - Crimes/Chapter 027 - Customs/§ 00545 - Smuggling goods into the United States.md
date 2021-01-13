@@ -1,6 +1,6 @@
 ### §545. Smuggling goods into the United States
 
-Whoever knowingly and willfully, with intent to defraud the United States, smuggles, or clandestinely introduces or attempts to smuggle or clandestinely introduce into the United States any merchandise which should have been invoiced, or makes out or passes, or attempts to pass, through the customhouse any false, forged, or fraudulent invoice, or other document or paper; or
+Whoever knowingly and willfully, with intent to defraud the United States, smuggles, or clandestinely introduces or attempts to smuggle orclandestinely introduce into the United States any merchandise which should have been invoiced, or makes out or passes, or attempts to pass, through the customhouse any false, forged, or fraudulent invoice, or other document or paper; or
 
 Whoever fraudulently or knowingly imports or brings into the United States, any merchandise contrary to law, or receives, conceals, buys, sells, or in any manner facilitates the transportation, concealment, or sale of such merchandise after importation, knowing the same to have been imported or brought into the United States contrary to law—
 
@@ -32,6 +32,8 @@ The final paragraph was added to conform with section 1709 of title 19, U.S.C., 
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177, which directed amendment of third par. by substituting "20 years" for "5 years", was executed by making the substitution for "five years", to reflect the probable intent of Congress.
@@ -49,6 +51,8 @@ Pub. L. 103–322, §320903(c), inserted "or attempts to smuggle or clandestinel
 <b>1954</b>—Act Sept. 1, 1954, permitted forfeiture of value of merchandise imported in violation of section.
 
 Act Aug. 24, 1954, increased fine from $5,000 to $10,000 and imprisonment from two years to five years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

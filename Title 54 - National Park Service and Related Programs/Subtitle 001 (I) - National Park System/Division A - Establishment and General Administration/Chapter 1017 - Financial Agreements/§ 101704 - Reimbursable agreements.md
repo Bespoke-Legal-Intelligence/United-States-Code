@@ -10,7 +10,7 @@ In General.—In carrying out work under reimbursable agreements with any State,
 
 (b)
 
-When Amounts Shall Be Credited.—Amounts shall be credited within 90 days of thedate of the original request by the Service for payment.
+When Amounts Shall Be Credited.—Amounts shall be credited within 90 days of the date of the original request by the Service for payment.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3137.)
 

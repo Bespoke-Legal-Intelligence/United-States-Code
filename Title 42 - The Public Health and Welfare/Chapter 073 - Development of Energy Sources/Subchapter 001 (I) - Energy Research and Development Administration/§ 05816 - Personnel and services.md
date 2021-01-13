@@ -30,7 +30,7 @@ The Administrator is authorized to establish advisory boards, in accordance with
 
 #### (h) Employment of noncitizens
 
-The Administrator is authorized to employ persons who are not citizens of the UnitedStates in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
+The Administrator is authorized to employ persons who are not citizens of the United States in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
 
 (Pub. L. 93–438, title I, §106, Oct. 11, 1974, 88 Stat. 1239.)
 

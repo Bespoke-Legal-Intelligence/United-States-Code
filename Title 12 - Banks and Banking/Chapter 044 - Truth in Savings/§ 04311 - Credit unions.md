@@ -10,6 +10,8 @@ Within 90 days of the effective date of any regulation prescribed by the Bureau 
 
 (Pub. L. 102–242, title II, §272, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(P), (Q), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, §1100B(1), (3), July 21, 2010, 124 Stat. 2109, 2110.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100B(1), substituted "Bureau" for "Board".
@@ -17,6 +19,8 @@ Within 90 days of the effective date of any regulation prescribed by the Bureau 
 Subsec. (b). Pub. L. 111–203, §1100B(3), substituted "regulation prescribed by the Bureau" for "regulation prescribed by the Board" in two places.
 
 <b>1992</b>—Pub. L. 102–550 made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

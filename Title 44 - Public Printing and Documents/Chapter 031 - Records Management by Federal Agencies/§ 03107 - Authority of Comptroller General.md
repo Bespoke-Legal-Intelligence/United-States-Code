@@ -8,6 +8,8 @@ Chapters 21, 25, 27,<sup>1</sup> 29, and 31 of this title do not limit the autho
 
 Based on 44 U.S. Code, 1964 ed., §396(g) (June 30, 1949, ch. 288, title V, §506(g), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 27 of this title, referred to in text, was repealed by Pub. L. 95–378, §2(a), Sept. 22, 1978, 92 Stat. 723.

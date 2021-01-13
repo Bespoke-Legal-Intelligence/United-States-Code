@@ -16,9 +16,13 @@ Subsection (a) shall be applied subject to the following limitations:
 
 (Pub. L. 107–372, title II, §230, Dec. 19, 2002, 116 Stat. 3087.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Provisions similar to this section are contained in section 854a–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

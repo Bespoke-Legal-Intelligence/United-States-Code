@@ -32,7 +32,7 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;&emsp;(IV) accelerated learning programs that provide—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual orconcurrent enrollment programs, and early college high schools; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs;
 
@@ -74,7 +74,7 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;(iv) disseminating promising practices related to technology instruction, data security, and the acquisition and implementation of technology tools and applications, including through making such promising practices publicly available on the website of the State educational agency;
 
-&emsp;&emsp;&emsp;(v) providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively, including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
+&emsp;&emsp;&emsp;(v) providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively,including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
 
 &emsp;&emsp;&emsp;(vi) making instructional content widely available through open educational resources, which may include providing tools and processes to support local educational agencies in making such resources widely available.
 

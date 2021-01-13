@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary to carry out the provis
 
 #### (b) Personnel
 
-Of the amounts appropriated pursuant to this section for each fiscal year, $350,000 shall be available for full-time positions in the Department of Commerce to administer the provisions of this part. Of such funds the Secretary shall make available to the Economic Development Administration such sums as may be necessary to establish the position of Director of Adjustment Assistance for Firms and such other full-time positions as may be appropriate to administer the provisions of this part.
+Of the amounts appropriated pursuant to this section for each fiscal year, $350,000 shall beavailable for full-time positions in the Department of Commerce to administer the provisions of this part. Of such funds the Secretary shall make available to the Economic Development Administration such sums as may be necessary to establish the position of Director of Adjustment Assistance for Firms and such other full-time positions as may be appropriate to administer the provisions of this part.
 
 (Pub. L. 93–618, title II, §255, as added Pub. L. 111–5, div. B, title I, §1864(a)(3), Feb. 17, 2009, 123 Stat. 398; amended Pub. L. 111–344, title I, §101(c)(4), Dec. 29, 2010, 124 Stat. 3613; as added and amended Pub. L. 112–40, title II, §§201(b), (c), 221(b), Oct. 21, 2011, 125 Stat. 403, 410; as added and amended Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(2), June 29, 2015, 129 Stat. 374.)
 

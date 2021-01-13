@@ -26,5 +26,5 @@ In accordance with regulations prescribed by the Secretary, the Secretary may re
 
 #### Persons Paying Tax and Registering Before December 1, 1974
 
-Persons registered before Dec. 1, 1974 under this section (as in effect on July 1, 1974) for the year endingJune 30, 1975, not required to reregister under this section for such year, see section 3(d)(2) of Pub. L. 93–499, set out as a note under section 4411 of this title.
+Persons registered before Dec. 1, 1974 under this section (as in effect on July 1, 1974) for the year ending June 30, 1975, not required to reregister under this section for such year, see section 3(d)(2) of Pub. L. 93–499, set out as a note under section 4411 of this title.
 

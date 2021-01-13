@@ -16,7 +16,7 @@ The Administrator may—
 
 #### (1) Convening of Shipping Coordinating Committee
 
-&emsp;On referral of any antifouling system to the technical group described in article 7 of the Convention for consideration of new or additional controls, the Secretary of State shall convene a public meeting of the Shipping Coordinating Committee for the purpose of receiving information and comments regarding controls on such antifouling system. The Secretary of State shall publish advance notice of such meeting in the Federal Register and on the State Department's Web site. The Administrator shall assemble and maintain a public docket containing notices pertaining to that meeting, any comments responding to those notices, the minutes of that meeting, and materials presented at that meeting.
+&emsp;On referral of any antifouling system to the technical group described in article 7 of theConvention for consideration of new or additional controls, the Secretary of State shall convene a public meeting of the Shipping Coordinating Committee for the purpose of receiving information and comments regarding controls on such antifouling system. The Secretary of State shall publish advance notice of such meeting in the Federal Register and on the State Department's Web site. The Administrator shall assemble and maintain a public docket containing notices pertaining to that meeting, any comments responding to those notices, the minutes of that meeting, and materials presented at that meeting.
 
 #### (2) Report by technical group
 

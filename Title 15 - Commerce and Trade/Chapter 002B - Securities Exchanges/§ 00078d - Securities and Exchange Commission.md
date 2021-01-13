@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, whenever any fee is required to be p
 
 #### (f) Reimbursement of expenses for assisting foreign securities authorities
 
-Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall beconsidered a reimbursement to the appropriated funds of the Commission.
+Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
 
 #### (g) Office of the Investor Advocate
 
@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;(A) assist retail investors in resolving significant problems such investors may have with the Commission or with self-regulatory organizations;
 
-&emsp;&emsp;(B) identify areas in which investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
+&emsp;&emsp;(B) identify areas in which investors would benefit from changes in the regulations ofthe Commission or the rules of self-regulatory organizations;
 
 &emsp;&emsp;(C) identify problems that investors have with financial service providers and investment products;
 
@@ -246,7 +246,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;The Advocate for Small Business Capital Formation shall—
 
-&emsp;&emsp;(A) assist small businesses and small business investors in resolving significant problems such businesses and investors may have with the Commission or with self-regulatory organizations;
+&emsp;&emsp;(A) assist small businesses and small business investors in resolving significant problems such businesses and investors may havewith the Commission or with self-regulatory organizations;
 
 &emsp;&emsp;(B) identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
 
@@ -286,7 +286,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
-&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocatefor Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
+&emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
 
@@ -400,7 +400,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions to the Chairman
 
-(a) Subject to the provisions of subsection (b) of this section there are hereby transferred from the Securities and Exchange Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employed under the Commission, (2) the distribution of business among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
+(a) Subject to the provisions of subsection (b) of this section there are hereby transferred from the Securities and Exchange Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employed under the Commission, (2) the distribution ofbusiness among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
 
 (b)(1) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 

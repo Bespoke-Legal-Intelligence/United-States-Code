@@ -112,7 +112,7 @@ In implementing the mandate to maximize the impact of Federal EPSCoR support on 
 
 &emsp;(2) consider modifications to EPSCoR award structures—
 
-&emsp;&emsp;(A) to emphasize long-term investments in building research capacity, potentiallythrough the use of larger, renewable funding opportunities; and
+&emsp;&emsp;(A) to emphasize long-term investments in building research capacity, potentially through the use of larger, renewable funding opportunities; and
 
 &emsp;&emsp;(B) to allow the agency, States, and jurisdictions to experiment with new research and development funding models; and
 

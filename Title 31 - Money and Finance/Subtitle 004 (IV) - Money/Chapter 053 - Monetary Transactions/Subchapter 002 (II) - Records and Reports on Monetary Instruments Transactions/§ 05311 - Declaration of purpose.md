@@ -1,34 +1,348 @@
 ### §5311. Declaration of purpose
 
-It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+It is the purpose of this subchapter (except section 5315) to—
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, §358(a), Oct. 26, 2001, 115 Stat. 326.)
+&emsp;(1) require certain reports or records that are highly useful in—
 
-Historical and Revision Notes
+&emsp;&emsp;(A) criminal, tax, or regulatory investigations, risk assessments, or proceedings; or
 
-<i>Revised Section</i>
+&emsp;&emsp;(B) intelligence or counterintelligence activities, including analysis, to protect against terrorism;
 
-<i>Source (U.S. Code)</i>
+&emsp;(2) prevent the laundering of money and the financing of terrorism through the establishment by financial institutions of reasonably designed risk-based programs to combat money laundering and the financing of terrorism;
 
-<i>Source (Statutes at Large)</i>
+&emsp;(3) facilitate the tracking of money that has been sourced through criminal activity or is intended to promote criminal or terrorist activity;
 
-5311
+&emsp;(4) assess the money laundering, terrorism finance, tax evasion, and fraud risks to financial institutions, products, or services to—
 
-31:1051.
+&emsp;&emsp;(A) protect the financial system of the United States from criminal abuse; and
 
-Oct. 26, 1970, Pub. L. 91–508, §202, 84 Stat. 1118.
+&emsp;&emsp;(B) safeguard the national security of the United States; and
 
-#### Amendments
+&emsp;(5) establish appropriate frameworks for information sharing among financial institutions, their agents and service providers, their regulatory authorities, associations of financial institutions, the Department of the Treasury, and law enforcement authorities to identify, stop, and apprehend money launderers and those who finance terrorists.
 
-<b>2001</b>—Pub. L. 107–56 inserted ", or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism" before period at end.
+(Added Pub. L. 116–283, div. F, title LXI, §6101(a), Jan. 1, 2021, 134 Stat. 4549.)
 
-#### Effective Date of 2001 Amendment
+#### <b>Editorial Notes</b>
 
-Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
+#### Prior Provisions
+
+A prior section 5311, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, §358(a), Oct. 26, 2001, 115 Stat. 326, related to purpose of this subchapter, prior to repeal by Pub. L. 116–283, div. F, title LXI, §6101(a), Jan. 1, 2021, 134 Stat. 4549.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
 This subchapter and chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the "Bank Secrecy Act". See Short Title note set out under section 1951 of Title 12.
+
+#### Severability
+
+Pub. L. 116–283, div. F, title LXV, §6511, Jan. 1, 2021, 134 Stat. 4633, provided that: "If any provision of this division \[see Tables for classification\], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
+
+#### Purposes
+
+Pub. L. 116–283, div. F, §6002, Jan. 1, 2021, 134 Stat. 4547, provided that: "The purposes of this division \[see Tables for classification\] are—
+
+&emsp;"(1) to improve coordination and information sharing among the agencies tasked with administering anti-money laundering and countering the financing of terrorism requirements, the agencies that examine financial institutions for compliance with those requirements, Federal law enforcement agencies, national security agencies, the intelligence community, and financial institutions;
+
+&emsp;"(2) to modernize anti-money laundering and countering the financing of terrorism laws to adapt the government and private sector response to new and emerging threats;
+
+&emsp;"(3) to encourage technological innovation and the adoption of new technology by financial institutions to more effectively counter money laundering and the financing of terrorism;
+
+&emsp;"(4) to reinforce that the anti-money laundering and countering the financing of terrorism policies, procedures, and controls of financial institutions shall be risk-based;
+
+&emsp;"(5) to establish uniform beneficial ownership information reporting requirements to—
+
+&emsp;&emsp;"(A) improve transparency for national security, intelligence, and law enforcement agencies and financial institutions concerning corporate structures and insight into the flow of illicit funds through those structures;
+
+&emsp;&emsp;"(B) discourage the use of shell corporations as a tool to disguise and move illicit funds;
+
+&emsp;&emsp;"(C) assist national security, intelligence, and law enforcement agencies with the pursuit of crimes; and
+
+&emsp;&emsp;"(D) protect the national security of the United States; and
+
+&emsp;"(6) to establish a secure, nonpublic database at FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\] for beneficial ownership information."
+
+\[For definition of "financial institution" as used in section 6002 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Interagency Anti-Money Laundering and Countering the Financing of Terrorism Personnel Rotation Program
+
+Pub. L. 116–283, div. F, title LXI, §6104, Jan. 1, 2021, 134 Stat. 4555, provided that: "To promote greater effectiveness and efficiency in combating money laundering, the financing of terrorism, proliferation financing, serious tax fraud, trafficking, sanctions evasion and other financial crimes, the Secretary \[of the Treasury\] shall maintain and accelerate efforts to strengthen anti-money laundering and countering the financing of terrorism efforts through a personnel rotation program between the Federal functional regulators and the Department of Justice, the Federal Bureau of Investigation, the Department of Homeland Security, the Department of Defense, and such other agencies as the Secretary determines are appropriate."
+
+\[For definition of "Federal functional regulator" as used in section 6104 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### International Coordination
+
+Pub. L. 116–283, div. F, title LXI, §6112(a), Jan. 1, 2021, 134 Stat. 4564, provided that: "The Secretary \[of the Treasury\] shall work with foreign counterparts of the Secretary, including through bilateral contacts, the Financial Action Task Force, the International Monetary Fund, the World Bank, the Egmont Group of Financial Intelligence Units, the Organisation for Economic Co-operation and Development, the Basel Committee on Banking Supervision, and the United Nations, to promote stronger anti-money laundering frameworks and enforcement of anti-money laundering laws."
+
+#### Annual Reporting Requirements
+
+Pub. L. 116–283, div. F, title LXII, §6201, Jan. 1, 2021, 134 Stat. 4565, provided that:
+
+"(a)
+
+Annual Report.—Not later than 1 year after the date of enactment of this Act \[Jan. 1, 2021\], and annually thereafter, the Attorney General, in consultation with the Secretary \[of the Treasury\], Federal law enforcement agencies, the Director of National Intelligence, Federal functional regulators, and the heads of other appropriate Federal agencies, shall submit to the Secretary a report that contains statistics, metrics, and other information on the use of data derived from financial institutions reporting under the Bank Secrecy Act (referred to in this subsection as the 'reported data'), including—
+
+&emsp;"(1) the frequency with which the reported data contains actionable information that leads to—
+
+&emsp;&emsp;"(A) further procedures by law enforcement agencies, including the use of a subpoena, warrant, or other legal process; or
+
+&emsp;&emsp;"(B) actions taken by intelligence, national security, or homeland security agencies;
+
+&emsp;"(2) calculations of the time between the date on which the reported data is reported and the date on which the reported data is used by law enforcement, intelligence, national security, or homeland security agencies, whether through the use of—
+
+&emsp;&emsp;"(A) a subpoena or warrant; or
+
+&emsp;&emsp;"(B) other legal process or action;
+
+&emsp;"(3) an analysis of the transactions associated with the reported data, including whether—
+
+&emsp;&emsp;"(A) the suspicious accounts that are the subject of the reported data were held by legal entities or individuals; and
+
+&emsp;&emsp;"(B) there are trends and patterns in cross-border transactions to certain countries;
+
+&emsp;"(4) the number of legal entities and individuals identified by the reported data;
+
+&emsp;"(5) information on the extent to which arrests, indictments, convictions, criminal pleas, civil enforcement or forfeiture actions, or actions by national security, intelligence, or homeland security agencies were related to the use of the reported data; and
+
+&emsp;"(6) data on the investigations carried out by State and Federal authorities resulting from the reported data.
+
+"(b)
+
+Report.—Beginning with the fifth report submitted under subsection (a), and once every 5 years thereafter, that report shall include a section describing the use of data derived from reporting by financial institutions under the Bank Secrecy Act over the 5 years preceding the date on which the report is submitted, which shall include a description of long-term trends and the use of long-term statistics, metrics, and other information.
+
+"(c)
+
+Trends, Patterns, and Threats.—Each report required under subsection (a) and each section included under subsection (b) shall contain a description of retrospective trends and emerging patterns and threats in money laundering and the financing of terrorism, including national and regional trends, patterns, and threats relevant to the classes of financial institutions that the Attorney General determines appropriate.
+
+"(d)
+
+Use of Report Information.—The Secretary shall use the information reported under subsections (a), (b), and (c)—
+
+&emsp;"(1) to help assess the usefulness of reporting under the Bank Secrecy Act to—
+
+&emsp;&emsp;"(A) criminal and civil law enforcement agencies;
+
+&emsp;&emsp;"(B) intelligence, defense, and homeland security agencies; and
+
+&emsp;&emsp;"(C) Federal functional regulators;
+
+&emsp;"(2) to enhance feedback and communications with financial institutions and other entities subject to requirements under the Bank Secrecy Act, including by providing more detail in the reports published and distributed under section 314(d) of the USA PATRIOT Act (31 U.S.C. 5311 note);
+
+&emsp;"(3) to assist FinCEN \[Financial Crimes Enforcement Network of Department of the Treasury\] in considering revisions to the reporting requirements promulgated under section 314(d) of the USA PATRIOT Act (31 U.S.C. 5311 note); and
+
+&emsp;"(4) for any other purpose the Secretary determines is appropriate.
+
+"(e)
+
+Confidentiality.—Any information received by a financial institution under this section shall be subject to confidentiality requirements established by the Secretary."
+
+\[For definitions of terms used in section 6201 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Establishment of Bank Secrecy Act Innovation Officers
+
+Pub. L. 116–283, div. F, title LXII, §6208, Jan. 1, 2021, 134 Stat. 4573, provided that:
+
+"(a)
+
+Appointment of Officers.—Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of section 310 of title 31, United States Code, as added by section 6103 of this division, an Innovation Officer shall be appointed within FinCEN \[Financial Crimes Enforcement Network of Department of the Treasury\] and each Federal functional regulator.
+
+"(b)
+
+Innovation Officer.—The Innovation Officer shall be appointed by, and report to, the Director of FinCEN or the head of the Federal functional regulator, as applicable.
+
+"(c)
+
+Duties.—Each Innovation Officer, in coordination with other Innovation Officers and the agencies of the Innovation Officers, shall—
+
+&emsp;"(1) provide outreach to law enforcement agencies, State bank supervisors, financial institutions and associations of financial institutions, agents of financial institutions, and other persons (including service providers, vendors and technology companies) with respect to innovative methods, processes, and new technologies that may assist in compliance with the requirements of the Bank Secrecy Act;
+
+&emsp;"(2) provide technical assistance or guidance relating to the implementation of responsible innovation and new technology by financial institutions and associations of financial institutions, agents of financial institutions, and other persons (including service providers, vendors and technology companies), in a manner that complies with the requirements of the Bank Secrecy Act;
+
+&emsp;"(3) if appropriate, explore opportunities for public-private partnerships; and
+
+&emsp;"(4) if appropriate, develop metrics of success."
+
+\[For definitions of terms used in section 6208 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Financial Crimes Tech Symposium
+
+Pub. L. 116–283, div. F, title LXII, §6211, Jan. 1, 2021, 134 Stat. 4575, provided that:
+
+"(a)
+
+Purpose.—The purposes of this section are to—
+
+&emsp;"(1) promote greater international collaboration in the effort to prevent and detect financial crimes and suspicious activities; and
+
+&emsp;"(2) facilitate the investigation, development, and timely adoption of new technologies aimed at preventing and detecting financial crimes and other illicit activities.
+
+"(b)
+
+Periodic Meetings.—The Secretary \[of the Treasury\] shall, in coordination with the Subcommittee on Innovation and Technology established under subsection (d) of section 1564 of the Annunzio-Wylie Anti-Money Laundering Act, as added by section 6207 of this division \[section 1564(d) of title XV of Pub. L. 102–550, set out as a note below\], periodically convene a global anti-money laundering and financial crime symposium focused on how new technology can be used to more effectively combat financial crimes and other illicit activities.
+
+"(c)
+
+Attendees.—Attendees at each symposium convened under this section shall include domestic and international financial regulators, senior executives from regulated firms, technology providers, representatives from law enforcement and national security agencies, academic and other experts, and other individuals that the Secretary determines are appropriate.
+
+"(d)
+
+Panels.—At each symposium convened under this section, the Secretary shall convene panels in order to review new technologies and permit attendees to demonstrate proof of concept.
+
+"(e)
+
+Implementation and Reports.—The Secretary shall, to the extent practicable and necessary, work to provide policy clarity, which may include providing reports or guidance to stakeholders, regarding innovative technologies and practices presented at each symposium convened under this section, to the extent that those technologies and practices further the purposes of this section.
+
+"(f)
+
+FinCEN Briefing.—Not later than 90 days after the date of enactment of this Act \[Jan. 1, 2021\], the Director of FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\] shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the use of emerging technologies, including—
+
+&emsp;"(1) the status of implementation and internal use of emerging technologies, including artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies within FinCEN;
+
+&emsp;"(2) whether artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies can be further leveraged to make data analysis by FinCEN more efficient and effective;
+
+&emsp;"(3) whether FinCEN could better use artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies to—
+
+&emsp;&emsp;"(A) more actively analyze and disseminate the information FinCEN collects and stores to provide investigative leads to Federal, State, Tribal, and local law enforcement agencies and other Federal agencies; and
+
+&emsp;&emsp;"(B) better support ongoing investigations by FinCEN when referring a case to the agencies described in subparagraph (A);
+
+&emsp;"(4) with respect to each of paragraphs (1), (2), and (3), any best practices or significant concerns identified by the Director, and their applicability to artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies with respect to United States efforts to combat money laundering and other forms of illicit finance;
+
+&emsp;"(5) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the agencies described in paragraph (3) through the implementation of innovative approaches to meet the obligations of the agencies under the Bank Secrecy Act and anti-money laundering compliance; and
+
+&emsp;"(6) any other matter the Director determines is appropriate."
+
+\[For definition of "Bank Secrecy Act" as used in section 6211 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Supervisory Team for Encouraging Information Sharing and Public-Private Partnerships
+
+Pub. L. 116–283, div. F, title LXII, §6214, Jan. 1, 2021, 134 Stat. 4579, provided that:
+
+"(a)
+
+In General.—The Secretary \[of the Treasury\] shall convene a supervisory team of relevant Federal agencies, private sector experts in banking, national security, and law enforcement, and other stakeholders to examine strategies to increase cooperation between the public and private sectors for purposes of countering illicit finance, including proliferation finance and sanctions evasion.
+
+"(b)
+
+Meetings.—The supervisory team convened under subsection (a) shall meet periodically to advise on strategies to combat the risk relating to proliferation financing.
+
+"(c)
+
+Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the supervisory team convened under subsection (a) or to the activities of the supervisory team."
+
+#### Review of Regulations and Guidance
+
+Pub. L. 116–283, div. F, title LXII, §6216, Jan. 1, 2021, 134 Stat. 4582, provided that:
+
+"(a)
+
+In General.—The Secretary \[of the Treasury\], in consultation with the Federal functional regulators, the Financial Institutions Examination Council, the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Commissioner of Internal Revenue, shall—
+
+&emsp;"(1) undertake a formal review of the regulations implementing the Bank Secrecy Act and guidance related to that Act—
+
+&emsp;&emsp;"(A) to ensure the Department of the Treasury provides, on a continuing basis, for appropriate safeguards to protect the financial system from threats, including money laundering and the financing of terrorism and proliferation, to national security posed by various forms of financial crime;
+
+&emsp;&emsp;"(B) to ensure that those provisions will continue to require certain reports or records that are highly useful in countering financial crime; and
+
+&emsp;&emsp;"(C) to identify those regulations and guidance that—
+
+&emsp;&emsp;&emsp;"(i) may be outdated, redundant, or otherwise do not promote a risk-based anti-money laundering compliance and countering the financing of terrorism regime for financial institutions; or
+
+&emsp;&emsp;&emsp;"(ii) do not conform with the commitments of the United States to meet international standards to combat money laundering, financing of terrorism, serious tax fraud, or other financial crimes; and
+
+&emsp;"(2) make appropriate changes to the regulations and guidance described in paragraph (1) to improve, as appropriate, the efficiency of those provisions.
+
+"(b)
+
+Public Comment.—The Secretary shall solicit public comment as part of the review required under subsection (a).
+
+"(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Jan. 1, 2021\], the Secretary, in consultation with the Financial Institutions Examination Council, the Federal functional regulators, the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Commissioner of Internal Revenue, shall submit to Congress a report that contains all findings and determinations made in carrying out the review required under subsection (a), including administrative or legislative recommendations."
+
+\[For definitions of "Federal functional regulator" and "Bank Secrecy Act" as used in section 6216 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Establishment of Bank Secrecy Act Information Security Officers
+
+Pub. L. 116–283, div. F, title LXIII, §6303, Jan. 1, 2021, 134 Stat. 4585, provided that:
+
+"(a)
+
+Appointment of Officers.—Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of section 310 of title 31, United States Code, as added by section 6103 of this division, a Bank Secrecy Act Information Security Officer shall be appointed, from among individuals with expertise in Federal information security or privacy laws or Bank Secrecy Act disclosure policies and procedures—
+
+&emsp;"(1) within each Federal functional regulator, by the head of the Federal functional regulator;
+
+&emsp;"(2) within FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\], by the Director of FinCEN; and
+
+&emsp;"(3) within the Internal Revenue Service, by the Secretary.
+
+"(b)
+
+Duties.—Each Bank Secrecy Act Information Security Officer shall, with respect to the applicable regulator, bureau, or Center within which the Officer is located—
+
+&emsp;"(1) be consulted each time Bank Secrecy Act regulations affecting information security or disclosure of Bank Secrecy Act information are developed or reviewed;
+
+&emsp;"(2) be consulted on information-sharing policies under the Bank Secrecy Act, including those that allow financial institutions to share information with each other and foreign affiliates, and those that allow Federal agencies to share with regulated entities;
+
+&emsp;"(3) be consulted on coordination and clarity between proposed Bank Secrecy Act regulations and information security and confidentiality requirements, including with respect to the reporting of suspicious transactions under section 5318(g) of title 31, United States Code;
+
+&emsp;"(4) be consulted on—
+
+&emsp;&emsp;"(A) the development of new technologies that may strengthen information security and compliance with the Bank Secrecy Act; and
+
+&emsp;&emsp;"(B) the protection of information collected by each Federal functional regulator under the Bank Secrecy Act; and
+
+&emsp;"(5) develop metrics of program success."
+
+\[For definitions of "Bank Secrecy Act" and "Federal functional regulator" as used in section 6303 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Revised Due Diligence Rulemaking
+
+Pub. L. 116–283, div. F, title LXIV, §6403(d), Jan. 1, 2021, 134 Stat. 4624, provided that:
+
+"(1)
+
+In general.—Not later than 1 year after the effective date of the regulations promulgated under section 5336(b)(4) of title 31, United States Code, as added by subsection (a) of this section, the Secretary of the Treasury shall revise the final rule entitled 'Customer Due Diligence Requirements for Financial Institutions' (81 Fed. Reg. 29397 (May 11, 2016)) to—
+
+&emsp;"(A) bring the rule into conformance with this division \[see Tables for classification\] and the amendments made by this division;
+
+&emsp;"(B) account for the access of financial institutions to beneficial ownership information filed by reporting companies under section 5336, and provided in the form and manner prescribed by the Secretary \[of the Treasury\], in order to confirm the beneficial ownership information provided directly to the financial institutions to facilitate the compliance of those financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law; and
+
+&emsp;"(C) reduce any burdens on financial institutions and legal entity customers that are, in light of the enactment of this division and the amendments made by this division, unnecessary or duplicative.
+
+"(2)
+
+Conformance.—
+
+&emsp;"(A)
+
+In general.—In carrying out paragraph (1), the Secretary of the Treasury shall rescind paragraphs (b) through (j) of section 1010.230 of title 31, Code of Federal Regulations upon the effective date of the revised rule promulgated under this subsection.
+
+&emsp;"(B)
+
+Rule of construction.—Nothing in this section may be construed to authorize the Secretary of the Treasury to repeal the requirement that financial institutions identify and verify beneficial owners of legal entity customers under section 1010.230(a) of title 31, Code of Federal Regulations.
+
+"(3)
+
+Considerations.—In fulfilling the requirements under this subsection, the Secretary of the Treasury shall consider—
+
+&emsp;"(A) the use of risk-based principles for requiring reports of beneficial ownership information;
+
+&emsp;"(B) the degree of reliance by financial institutions on information provided by FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\] for purposes of obtaining and updating beneficial ownership information;
+
+&emsp;"(C) strategies to improve the accuracy, completeness, and timeliness of the beneficial ownership information reported to the Secretary; and
+
+&emsp;"(D) any other matter that the Secretary determines is appropriate."
+
+\[For definition of "financial institution" as used in section 6403(d) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.\]
+
+#### Statement of Policy
+
+Pub. L. 116–283, div. H, title XCVII, §9712, Jan. 1, 2021, 134 Stat. 4838, provided that: "It is the policy of the United States to—
+
+&emsp;"(1) protect the United States financial sector from abuse by malign actors; and
+
+&emsp;"(2) use all available financial tools to counter adversaries."
 
 #### Stored Value
 
@@ -258,7 +572,7 @@ Additional recommendations.—The report required by paragraph (1) may make diff
 
 "(4)
 
-Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificatesof deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution."
+Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whoseassets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution."
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
@@ -384,7 +698,7 @@ Pub. L. 102–550, title XV, §1518, Oct. 28, 1992, 106 Stat. 4060, provided tha
 
 #### Advisory Group on Reporting Requirements
 
-Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, provided that:
+Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, §6207, title LXIII, §6302, Jan. 1, 2021, 134 Stat. 4572, 4584, provided that:
 
 "(a)
 
@@ -402,7 +716,103 @@ Purposes.—The Advisory Group shall provide a means by which the Secretary—
 
 "(c)
 
-Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a)."
+Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).
+
+"(d)
+
+Subcommittee on Innovation and Technology.—
+
+&emsp;"(1)
+
+Definitions.—In this subsection, the terms 'Bank Secrecy Act', 'State bank supervisor', and 'State credit union supervisor' have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020 \[div. F of Pub. L. 116–283; see note below\].
+
+&emsp;"(2)
+
+Establishment.—There shall be within the Bank Secrecy Act Advisory Group a subcommittee to be known as the 'Subcommittee on Innovation and Technology' to—
+
+&emsp;&emsp;"(A) advise the Secretary of the Treasury regarding means by which the Department of the Treasury, FinCEN, the Federal functional regulators, State bank supervisors, and State credit union supervisors, as appropriate, can most effectively encourage and support technological innovation in the area of anti-money laundering and countering the financing of terrorism and proliferation; and
+
+&emsp;&emsp;"(B) reduce, to the extent practicable, obstacles to innovation that may arise from existing regulations, guidance, and examination practices related to compliance of financial institutions with the Bank Secrecy Act.
+
+&emsp;"(3)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—The subcommittee established under paragraph (1) shall consist of the representatives of the heads of the Federal functional regulators, including, as appropriate, the Bank Secrecy Act Innovation Officers as established in section 6208 of the Anti-Money Laundering Act of 2020 \[see note above\], a representative of State bank supervisors, a representative of State credit union supervisors, representatives of a cross-section of financial institutions subject to the Bank Secrecy Act, law enforcement, FinCEN, and any other representative as determined by the Secretary of the Treasury.
+
+&emsp;&emsp;"(B)
+
+Requirements.—Each agency representative described in subparagraph (A) shall be an individual who has demonstrated knowledge and competence concerning the application of the Bank Secrecy Act.
+
+&emsp;"(4)
+
+Sunset.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the Subcommittee on Innovation and Technology shall terminate on the date that is 5 years after the date of enactment of this subsection \[Jan. 1, 2021\].
+
+&emsp;&emsp;"(B)
+
+Exception.—The Secretary of the Treasury may renew the Subcommittee on Innovation for 1-year periods beginning on the date that is 5 years after the date of enactment of this subsection.
+
+"(e)
+
+Subcommittee on Information Security and Confidentiality.—
+
+&emsp;"(1)
+
+In general.—There shall be within the Bank Secrecy Act Advisory Group a subcommittee to be known as the Subcommittee on Information Security and Confidentiality (in this subsection referred to as the 'Subcommittee') to advise the Secretary of the Treasury regarding the information security and confidentiality implications of regulations, guidance, information sharing programs, and the examination for compliance with and enforcement of the provisions of the Bank Secrecy Act.
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Subcommittee shall consist of the representatives of the heads of the Federal functional regulators, including, as appropriate, the Bank Secrecy Act Information Security Officers as established in section 6303 of the Anti-Money Laundering Act of 2020 \[see note above\], and representatives from financial institutions subject to the Bank Secrecy Act, law enforcement, FinCEN, and any other representatives as determined by the Secretary of the Treasury.
+
+&emsp;&emsp;"(B)
+
+Requirements.—Each agency representative described in subparagraph (A) shall be an individual who has demonstrated knowledge and competence concerning the application of the Bank Secrecy Act and familiarity with and expertise in applicable laws.
+
+&emsp;"(3)
+
+Sunset.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the Subcommittee shall terminate on the date that is 5 years after the date of enactment of this subsection \[Jan. 1, 2021\].
+
+&emsp;&emsp;"(B)
+
+Exception.—The Secretary of the Treasury may renew the Subcommittee for 1-year periods beginning on the date that is 5 years after the date of enactment of this subsection.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Bank secrecy act.—The term 'Bank Secrecy Act' has the meaning given the term in section 6003 of the Anti-Money Laundering Act of 2020 \[see note below\].
+
+&emsp;"(2)
+
+Federal functional regulator.—The term 'Federal functional regulator' has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809).
+
+&emsp;"(3)
+
+FinCEN.—The term 'FinCEN' means the Financial Crimes Enforcement Network of the Department of the Treasury.
+
+&emsp;"(4)
+
+Financial institution.—The term 'financial institution' has the meaning given the term in section 5312 of title 31, United States Code.
+
+&emsp;"(5)
+
+State credit union supervisor.—The term 'State credit union supervisor' means a State official described in section 107A(e) of the Federal Credit Union Act (12 U.S.C. 1757a(e))."
 
 #### GAO Feasibility Study of Financial Crimes Enforcement Network
 
@@ -482,7 +892,7 @@ Negotiations.—(1) The Secretary of the Treasury (hereinafter in this section r
 
 "(d)
 
-Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, in consultation with the Attorney General and the Director of National Drug Control Policy, countries—
+Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, inconsultation with the Attorney General and the Director of National Drug Control Policy, countries—
 
 &emsp;"(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
 
@@ -517,4 +927,62 @@ Definitions.—For the purposes of this section—
 #### International Information Exchange System; Study of Foreign Branches of Domestic Institutions
 
 Pub. L. 99–570, title I, §1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
+
+#### Definitions
+
+Pub. L. 116–283, div. F, §6003, Jan. 1, 2021, 134 Stat. 4548, provided that: "In this division \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Bank secrecy act.—The term 'Bank Secrecy Act' means—
+
+&emsp;&emsp;"(A) section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
+
+&emsp;&emsp;"(B) chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951 et seq.); and
+
+&emsp;&emsp;"(C) subchapter II of chapter 53 of title 31, United States Code.
+
+&emsp;"(2)
+
+Electronic fund transfer.—The term 'electronic fund transfer' has the meaning given the term in section 903 of the Electronic Fund Transfer Act (15 U.S.C. 1693a).
+
+&emsp;"(3)
+
+Federal functional regulator.—The term 'Federal functional regulator'—
+
+&emsp;&emsp;"(A) has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809); and
+
+&emsp;&emsp;"(B) includes any Federal regulator that examines a financial institution for compliance with the Bank Secrecy Act.
+
+&emsp;"(4)
+
+Financial agency.—The term 'financial agency' has the meaning given the term in section 5312(a) of title 31, United States Code, as amended by section 6102 of this division.
+
+&emsp;"(5)
+
+Financial institution.—The term 'financial institution'—
+
+&emsp;&emsp;"(A) has the meaning given the term in section 5312 of title 31, United States Code; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) an electronic fund transfer network; and
+
+&emsp;&emsp;&emsp;"(ii) a clearing and settlement system.
+
+&emsp;"(6)
+
+FinCEN.—The term 'FinCEN' means the Financial Crimes Enforcement Network of the Department of the Treasury.
+
+&emsp;"(7)
+
+Secretary.—The term 'Secretary' means the Secretary of the Treasury.
+
+&emsp;"(8)
+
+State bank supervisor.—The term 'State bank supervisor' has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+
+&emsp;"(9)
+
+State credit union supervisor.—The term 'State credit union supervisor' means a State official described in section 107A(e) of the Federal Credit Union Act (12 U.S.C. 1757a(e))."
 

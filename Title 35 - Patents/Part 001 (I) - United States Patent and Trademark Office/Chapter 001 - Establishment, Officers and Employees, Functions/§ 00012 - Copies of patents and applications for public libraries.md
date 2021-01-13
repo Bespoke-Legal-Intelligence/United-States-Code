@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §78, part (R.S. 4934, Feb. 18, 1922, ch. 5
 
 The proviso in the schedule of fees of the existing statute is made a separate section and some changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12 was renumbered section 11 of this title.
@@ -34,13 +36,15 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(3)\], as amended by Pub. L. 1
 
 <b>1982</b>—Pub. L. 97–247 substituted "section 41(d)" for "section 41(a)9".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4507(3)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4507(3)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicableonly to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

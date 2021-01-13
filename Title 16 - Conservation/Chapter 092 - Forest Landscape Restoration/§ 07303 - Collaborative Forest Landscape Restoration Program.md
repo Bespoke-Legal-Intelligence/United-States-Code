@@ -34,7 +34,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;(E) would carry out any forest restoration treatments that reduce hazardous fuels by—
 
-&emsp;&emsp;&emsp;(i) focusing on small diameter trees, thinning, strategic fuel breaks, and fire use to modify fire behavior, as measured by the projected reduction ofuncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
+&emsp;&emsp;&emsp;(i) focusing on small diameter trees, thinning, strategic fuel breaks, and fire use to modify fire behavior, as measured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
 
 &emsp;&emsp;&emsp;(ii) maximizing the retention of large trees, as appropriate for the forest type, to the extent that the trees promote fire-resilient stands; and
 
@@ -190,7 +190,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried out continues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
+&emsp;&emsp;Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried outcontinues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
 
 #### (B) Limitation
 
@@ -330,7 +330,7 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-Section 7125 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 205 of Public Law 106–393 (16 U.S.C. 500 note)" and was translated asreferring to section 205 of Pub. L. 106–393 as added by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905, which is classified to section 7125 of this title. A prior section 205 of Pub. L. 106–393 containing substantially similar provisions was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+Section 7125 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 205 of Public Law 106–393 (16 U.S.C. 500 note)" and was translated as referring to section 205 of Pub. L. 106–393 as added by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905, which is classified to section 7125 of this title. A prior section 205 of Pub. L. 106–393 containing substantially similar provisions was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 

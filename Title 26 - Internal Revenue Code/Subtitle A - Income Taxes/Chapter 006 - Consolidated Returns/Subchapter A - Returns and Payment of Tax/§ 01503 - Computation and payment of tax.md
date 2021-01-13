@@ -46,7 +46,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock onaccount of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
+&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
 
 &emsp;&emsp;(A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect to such group) without regard to subsections (k) and (n) thereof, and
 
@@ -144,7 +144,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the provisions of this subsection, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection, including regulations—
 
 &emsp;&emsp;(A) to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
 
@@ -226,7 +226,7 @@ Special rule when subsidiary leaves group.—If, by reason of a transaction afte
 
 Retired stock.—
 
-&emsp;"(A) Except as provided in subparagraph (B), if stock issued before November 18, 1989, (or described in paragraph (2)), is retired or acquired after November 17, 1989, by the corporation or another member of thesame affiliated group, such stock shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such retirement or acquisition.
+&emsp;"(A) Except as provided in subparagraph (B), if stock issued before November 18, 1989, (or described in paragraph (2)), is retired or acquired after November 17, 1989, by the corporation or another member of the same affiliated group, such stock shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such retirement or acquisition.
 
 &emsp;"(B) Subparagraph (A) shall not apply to any retirement or acquisition pursuant to an obligation to reissue under a binding written contract in effect on November 17, 1989, and at all times thereafter before such retirement or acquisition.
 

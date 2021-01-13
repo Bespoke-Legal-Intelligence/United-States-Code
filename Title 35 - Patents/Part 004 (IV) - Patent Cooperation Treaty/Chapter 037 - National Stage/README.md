@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–274, §1(i), Jan. 14, 2013, 126 Stat. 2457, struck out item 373 "Improper applicant".

@@ -14,6 +14,8 @@ A grant under this part <sup>1</sup> may be renewed for up to 2 additional year
 
 (Pub. L. 103–322, title III, §31704, Sept. 13, 1994, 108 Stat. 1891.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (b), appearing in the original, is unidentifiable because subtitle Q of title III of Pub. L. 103–322 does not contain parts.

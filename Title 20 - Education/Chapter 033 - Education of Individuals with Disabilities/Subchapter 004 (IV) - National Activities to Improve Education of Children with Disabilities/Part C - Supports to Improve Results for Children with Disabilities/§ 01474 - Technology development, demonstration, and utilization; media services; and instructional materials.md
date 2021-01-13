@@ -112,7 +112,7 @@
 
 #### (5) Liability of the Secretary
 
-&emsp;Nothing in this subsection shall be construed to establish a private right of action against the Secretary for failure to provide instructional materials directly, or for failure by the National Instructional Materials Access Center to perform the duties of such center, or to otherwise authorize a private right of action related to the performance by such center, including through the application of the rights of children and parents established under this chapter.
+&emsp;Nothing in this subsection shall be construed to establish a private right of action against the Secretary for failure to provide instructional materials directly, or for failure by the National Instructional Materials Access Center to perform the duties of such center, or to otherwise authorize a private right of action related to the performance by such center, including through the application ofthe rights of children and parents established under this chapter.
 
 #### (6) Inapplicability
 

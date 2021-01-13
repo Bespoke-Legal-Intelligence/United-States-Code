@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which the transfer of functions specified under section 251 of this title takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positionsinvolving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+&emsp;&emsp;Not later than 1 year after the date on which the transfer of functions specified under section 251 of this title takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
 
 &emsp;&emsp;&emsp;(i) gain some experience in all the major functions performed by such bureau; and
 
@@ -66,9 +66,13 @@ There shall be a principal legal advisor to the Assistant Secretary of the Burea
 
 (Pub. L. 107–296, title IV, §442, Nov. 25, 2002, 116 Stat. 2193.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Part E of this subchapter, referred to in subsecs. (a)(3)(C) and (b)(2)(B), was in the original "subtitle E", meaning subtitle E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2195, which enacted part E (§271 et seq.) of this subchapter, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title. For complete classification of subtitle E to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

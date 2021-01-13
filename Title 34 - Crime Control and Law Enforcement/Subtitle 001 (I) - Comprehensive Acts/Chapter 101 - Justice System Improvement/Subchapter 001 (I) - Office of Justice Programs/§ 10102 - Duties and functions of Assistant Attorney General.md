@@ -10,7 +10,7 @@ The Assistant Attorney General shall—
 
 &emsp;(3) provide information to the President, the Congress, the judiciary, State and local governments, and the general public relating to criminal justice;
 
-&emsp;(4) maintain liaison with public and private educational and research institutions, Stateand local governments, and governments of other nations relating to criminal justice;
+&emsp;(4) maintain liaison with public and private educational and research institutions, State and local governments, and governments of other nations relating to criminal justice;
 
 &emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
 
@@ -21,6 +21,8 @@ The Assistant Attorney General shall—
 The Assistant Attorney General shall submit an annual report to the President and to the Congress not later than March 31 of each year.
 
 (Pub. L. 90–351, title I, §102, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2078; amended Pub. L. 107–296, title II, §236, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 109–162, title XI, §1152, Jan. 5, 2006, 119 Stat. 3113.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ A prior section 102 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 Subsec. (a)(6). Pub. L. 109–162, §1152(b), inserted ", including placing special conditions on all grants, and determining priority purposes for formula grants" before period at end.
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–296 inserted "coordinate and" before "provide".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

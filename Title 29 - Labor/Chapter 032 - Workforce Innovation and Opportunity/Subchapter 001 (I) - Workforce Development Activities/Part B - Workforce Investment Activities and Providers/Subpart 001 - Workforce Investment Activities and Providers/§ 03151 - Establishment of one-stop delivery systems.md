@@ -236,7 +236,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;The criteria and procedures developed under this subsection shall include standards relating to service coordination achieved by the one-stop delivery system with respect to the programs administered by the one-stop partners at the one-stop centers. Such criteria and procedures shall—
 
-&emsp;&emsp;(A) be developed in a manner that is consistent with the guidelines, guidance, andpolicies provided by the Governor and by the State board, in consultation with the chief elected officials and local boards, for such partners' participation under subsections (h)(1) and (i); and
+&emsp;&emsp;(A) be developed in a manner that is consistent with the guidelines, guidance, and policies provided by the Governor and by the State board, in consultation with the chief elected officials and local boards, for such partners' participation under subsections (h)(1) and (i); and
 
 &emsp;&emsp;(B) include such factors relating to the effectiveness, accessibility, and improvement of the one-stop delivery system as the State board determines to be appropriate, including at a minimum how well the one-stop center—
 
@@ -248,7 +248,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (3) Local criteria
 
-&emsp;Consistent with the criteria developed under paragraph (1) by the State, a local board in the State may develop additional criteria (or higher levels of service coordination than required for the State-developed criteria) relating to service coordination achieved by the one-stop delivery system, for purposes of assessments described in paragraph (1), in order to respond to labor market, economic, and demographic, conditions and trends in the local area.
+&emsp;Consistent with the criteria developed under paragraph (1) by the State, a local board in theState may develop additional criteria (or higher levels of service coordination than required for the State-developed criteria) relating to service coordination achieved by the one-stop delivery system, for purposes of assessments described in paragraph (1), in order to respond to labor market, economic, and demographic, conditions and trends in the local area.
 
 #### (4) Effect of certification
 
@@ -298,7 +298,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation withchief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
 
 #### (ii) Special rule
 
@@ -346,11 +346,11 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (iv) Native American programs
 
-&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 ofthis title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
+&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
 
 #### (E) Appeal by one-stop partners
 
-&emsp;&emsp;The Governor shall establish a process, described under section 3112(b)(2)(D)(i)(IV) of this title, for a one-stop partner administering a program described in subsection (b)(1) to appeal a determination regarding the portion of funds to be provided under this paragraph. Such a determination may be appealed under the process on the basis that such determination is inconsistent with the requirements of this paragraph. Such process shall ensure prompt resolution of the appeal in order to ensure the funds are distributed in a timely manner, consistent with the requirements of section 3242(e) of this title.
+&emsp;&emsp;The Governor shall establish a process, described under section 3112(b)(2)(D)(i)(IV) of this title, for a one-stop partner administering a program described in subsection (b)(1) to appeal a determination regarding the portion of funds to be provided underthis paragraph. Such a determination may be appealed under the process on the basis that such determination is inconsistent with the requirements of this paragraph. Such process shall ensure prompt resolution of the appeal in order to ensure the funds are distributed in a timely manner, consistent with the requirements of section 3242(e) of this title.
 
 #### (3) Allocation by Governor
 
@@ -382,6 +382,8 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 (Pub. L. 113–128, title I, §121, July 22, 2014, 128 Stat. 1481.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii), (d)(2)(B)(ii), (e)(1)(E), and (h)(2)(D)(ii)(I), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
@@ -394,7 +396,7 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
 
 Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed by Pub. L. 115–391, title V, §504(a), Dec. 21, 2018, 132 Stat. 5233.
 
@@ -405,6 +407,8 @@ This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128,
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

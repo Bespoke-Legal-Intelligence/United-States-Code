@@ -10,9 +10,11 @@ A law enforcement agency described in subsection (a) shall provide information u
 
 #### (c) Confidentiality
 
-An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretaryshall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
+An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
 
 (Pub. L. 104–330, title II, §208, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, §595(e)(10), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 110–411, title II, §205, Oct. 14, 2008, 122 Stat. 4326.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this Act
 <b>1998</b>—Subsec. (a). Pub. L. 105–276, §595(e)(10)(A), substituted "subsection (b)" for "paragraph (2)".
 
 Subsec. (b). Pub. L. 105–276, §595(e)(10)(B), substituted "subsection (a)" for "paragraph (1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

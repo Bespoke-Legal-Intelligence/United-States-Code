@@ -52,7 +52,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practicesregarding service-learning to other institutions of higher education.
+&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
 
 #### (2) Plan
 

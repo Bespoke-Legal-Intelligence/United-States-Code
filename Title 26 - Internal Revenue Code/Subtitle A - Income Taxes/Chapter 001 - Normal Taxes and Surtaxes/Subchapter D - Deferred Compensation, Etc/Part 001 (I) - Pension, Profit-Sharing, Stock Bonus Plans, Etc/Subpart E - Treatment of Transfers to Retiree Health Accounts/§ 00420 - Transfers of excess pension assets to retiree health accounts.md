@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Requirements relating to pension benefits accruing before transfer
 
-&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
+&emsp;The requirements of this paragraph are met if the plan provides that the accrued pensionbenefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
 
 #### (3) Minimum cost requirements
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The terms "qualified future transfer" and "collectively bargained transfer" mean atransfer which meets all of the requirements for a qualified transfer, except that—
+&emsp;&emsp;The terms "qualified future transfer" and "collectively bargained transfer" mean a transfer which meets all of the requirements for a qualified transfer, except that—
 
 &emsp;&emsp;&emsp;(i) the determination of excess pension assets shall be made under subparagraph (B),
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is providedor financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 
@@ -340,11 +340,11 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "collectively bargained retiree liabilities" means the present value, as of the beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits, and collectively bargained life insurance benefits, (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
+&emsp;&emsp;&emsp;The term "collectively bargained retiree liabilities" means the present value, as ofthe beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits, and collectively bargained life insurance benefits, (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
 
 #### (ii) Reduction for amounts previously set aside
 
-&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year ofthe collectively bargained transfer) of the assets in all health benefits accounts, applicable life insurance accounts, or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree liabilities. The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.
+&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts, applicable life insurance accounts, or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree liabilities. The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.
 
 #### (iii) Key employees excluded
 
@@ -370,11 +370,57 @@ For purposes of this section—
 
 &emsp;&emsp;The term "collectively bargained plan" means a group health plan or arrangement for retired employees and their spouses and dependents, or a group-term life insurance plan or arrangement for retired employees, that is maintained pursuant to 1 or more collective bargaining agreements.
 
+#### (7) Election to end transfer period
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an employer maintaining a plan which has made a qualified future transfer under this subsection, such employer may, not later than December 31, 2021, elect to terminate the transfer period with respect to such transfer effective as of any taxable year specified by the taxpayer that begins after the date of such election.
+
+#### (B) Amounts transferred to plan on termination
+
+&emsp;&emsp;Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified future transfer (and any income allocable thereto) which are not used as of the effective date of the election to terminate the transfer period with respect to such transfer under subparagraph (A), shall be transferred out of the account to the transferor plan within a reasonable period of time. The transfer required by this subparagraph shall be treated as an employer reversion for purposes of section 4980 (other than subsection (d) thereof), unless before the end of the 5-year period beginning after the original transfer period an equivalent amount is transferred back to such health benefits account, or applicable life insurance account, as the case may be. Any such transfer back pursuant to the preceding sentence may be made without regard to section 401(h)(1).
+
+#### (C) Minimum cost requirements continue
+
+&emsp;&emsp;The requirements of subsection (c)(3) and paragraph (2)(D) shall apply with respect to a qualified future transfer without regard to any election under subparagraph (A) with respect to such transfer.
+
+#### (D) Modified maintenance of funded status during original transfer period
+
+&emsp;&emsp;The requirements of paragraph (2)(B) shall apply without regard to any such election, and clause (i) thereof shall be applied by substituting "100 percent" for "120 percent" during the original transfer period.
+
+#### (E) Continued maintenance of funding status after original transfer period
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a plan with respect to which there is an excess described in paragraph (2)(B)(ii) as of the valuation date of the plan year in the last year of the original transfer period, paragraph (2)(B) shall apply for 5 years after the original transfer period in the same manner as during atransfer period by substituting the applicable percentage for "120 percent" in clause (i) thereof.
+
+#### (ii) Applicable percentage
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the applicable percentage shall be determined under the following table:
+
+&nbsp;
+
+| <b>For the valuation date of the plan year in the following year after the original transfer period:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st | 104 percent |
+| 2nd | 108 percent |
+| 3rd | 112 percent |
+| 4th | 116 percent |
+| 5th | 120 percent |
+
+#### (iii) Early termination of continued maintenance period when 120 percent funding reached
+
+&emsp;&emsp;&emsp;If, as of the valuation date of any plan year in the first 4 years after the original transfer period with respect to a qualified future transfer, there would be no excess determined under this subparagraph were the applicable percentage 120 percent, then this subparagraph shall cease to apply with respect to the plan.
+
+#### (F) Original transfer period
+
+&emsp;&emsp;For purposes of this paragraph, the term "original transfer period" means the transfer period under this subsection with respect to a qualified future transfer determined without regard to the election under subparagraph (A).
+
 #### (g) Segment rates determined without pension stabilization
 
 For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–260, div. N, title II, §285(a), Dec. 27, 2020, 134 Stat. 1988.)
 
 #### References in Text
 
@@ -385,6 +431,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(7). Pub. L. 116–260 added par. (7).
 
 <b>2018</b>—Subsec. (c)(1)(A). Pub. L. 115–141 substituted "subsection (e)(1)(E)" for "subsection (e)(1)(D)".
 
@@ -422,7 +470,7 @@ Subsec. (c)(1)(C). Pub. L. 112–141, §40242(e)(2), inserted ", or an applicab
 
 Subsec. (c)(2). Pub. L. 112–141, §40242(g)(4), struck out "(A) In general" before "The requirements of", realigned margins, and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation."
 
-Subsec. (c)(3)(A). Pub. L. 112–141, §40242(c)(1), inserted ", and each group-term life insurance plan under which applicable life insurance benefits are provided," after "health benefits are provided".
+Subsec. (c)(3)(A). Pub. L. 112–141, §40242(c)(1), inserted ", and each group-term life insurance plan under whichapplicable life insurance benefits are provided," after "health benefits are provided".
 
 Subsec. (c)(3)(B)(i). Pub. L. 112–141, §40242(c)(2)(A)(i), redesignated subcls. (I) and (II) as (II) and (III), respectively, and added subcl. (I).
 
@@ -508,7 +556,7 @@ Pub. L. 112–141, §40242(b)(3)(A), redesignated subpar. (D) as (E).
 
 Subsec. (g). Pub. L. 112–141, §40211(a)(2)(D), added subsec. (g).
 
-<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence "In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C)."
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence "In the case of a qualified futuretransfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C)."
 
 Subsec. (f)(2)(D)(i)(I). Pub. L. 110–458, §108(i)(2), struck out "such" after "average amount of".
 
@@ -568,6 +616,10 @@ Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted "and shall not be subject to the minimum benefit requirements of subsection (c)(3)" for "or in calculating applicable employer cost under subsection (c)(3)(B)".
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §285(b), Dec. 27, 2020, 134 Stat. 1989, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2019."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of this title.
@@ -576,7 +628,7 @@ Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013,
 
 Amendment by section 40211(a)(2)(D) of Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
 
-Pub. L. 112–141, div. D, title II, §40241(c), July 6, 2012, 126 Stat. 859, provided that: "The amendments made by this Act \[probably should be "section", amending this section and sections 1021, 1103, and 1108 of Title 29,Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\]."
+Pub. L. 112–141, div. D, title II, §40241(c), July 6, 2012, 126 Stat. 859, provided that: "The amendments made by this Act \[probably should be "section", amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\]."
 
 Pub. L. 112–141, div. D, title II, §40242(h), July 6, 2012, 126 Stat. 864, provided that:
 

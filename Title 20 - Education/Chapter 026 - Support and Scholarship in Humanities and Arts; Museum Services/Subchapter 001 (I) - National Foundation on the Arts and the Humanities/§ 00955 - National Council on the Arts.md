@@ -68,7 +68,7 @@ Members shall receive compensation at a rate to be fixed by the Chairperson but 
 
 #### (f) Advisory functions; policies, programs, and procedures; recommendations; authority of Chairperson; action by Chairperson pursuant to delegation of authority
 
-The Council shall advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson's functions, duties, or responsibilities under this subchapter, and review applications for financial assistance under this subchapter and make recommendations to the Chairperson with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant.The Council shall make recommendations to the Chairperson concerning—
+The Council shall advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson's functions, duties, or responsibilities under this subchapter, and review applications for financial assistance under this subchapter and make recommendations to the Chairperson with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant. The Council shall make recommendations to the Chairperson concerning—
 
 &emsp;(1) whether to approve particular applications for financial assistance under subsections (c) and (p) of section 954 of this title that are determined by panels under section 959(c) of this title to have artistic excellence and artistic merit; and
 

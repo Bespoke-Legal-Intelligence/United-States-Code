@@ -38,6 +38,8 @@ Section 578c of title 28, U.S.C., 1940 ed., providing that United States attorne
 
 Other provisions of section 312 of title 5, U.S.C., 1940 ed., are incorporated in sections 503 \[now 543\] and 507 \[now 509 and 547\] of this title, and other provisions of section 579 of title 28, U.S.C., 1940 ed., are incorporated in section 552 \[see Prior Provisions note for that section\] of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to administration of oaths by marshals, prior to repeal by Pub. L. 89–554, §8(a).
@@ -45,6 +47,8 @@ A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to admini
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, substituting "rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code" for "highest rate of GS–18 of the General Schedule set forth in section 5332 of title 5".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Salary Increases
 
@@ -68,7 +72,7 @@ Pub. L. 88–426, §306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L
 
 #### Alaska, Canal Zone and Virgin Islands
 
-Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: "The salaries of United States attorneys and assistant United States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to the provisions of section 508 of title 28, United States Code \[now this section.\]"
+Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: "The salaries of United States attorneys and assistantUnited States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to the provisions of section 508 of title 28, United States Code \[now this section.\]"
 
 #### Salary Limitations
 

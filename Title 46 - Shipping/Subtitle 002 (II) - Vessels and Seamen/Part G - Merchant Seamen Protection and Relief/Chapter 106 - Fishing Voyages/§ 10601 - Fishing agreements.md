@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 46:531
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–295, §441(a), (b)(1), in introductory provisions, inserted "owner, charterer, or managing operator, or a representative thereof, including the" after "on a voyage, the" and comma after "individual in charge" and substituted "employed" for "enployed".
@@ -33,6 +35,8 @@ Historical and Revision Notes
 Subsecs. (b), (c). Pub. L. 107–295, §441(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The agreement shall be signed also by the owner of the vessel."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "20 gross tons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Agreements Deemed Compliant
 

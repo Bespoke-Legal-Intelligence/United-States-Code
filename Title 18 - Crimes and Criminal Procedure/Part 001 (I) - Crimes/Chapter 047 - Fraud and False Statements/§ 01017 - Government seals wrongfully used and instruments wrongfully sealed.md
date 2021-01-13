@@ -12,6 +12,8 @@ To clarify scope of section and in view of definition of department or agency in
 
 Slight verbal changes were also made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Access to assessments in all member countries
 
-The Secretary of the Treasury shall seek the adoption of policies and procedures, through discussions and negotiations with the other member countries of the multilateral development banks and with the management of such banks, which result in access by governmental agencies and interested members of the public of such member countries, to environmental assessments or documentary information containing comprehensive summaries of such assessments which discuss the environmental impact of prospective projects and programs being considered by such banks. Such assessments or summaries should be made available to such governmental agencies and interested members of the public at least 120 days before scheduled board action, and public participation in review of the relevant environmental information should be encouraged.
+The Secretary of the Treasury shall seek the adoption of policies and procedures, through discussions and negotiations with the other member countries of the multilateral development banks and with the management of such banks,which result in access by governmental agencies and interested members of the public of such member countries, to environmental assessments or documentary information containing comprehensive summaries of such assessments which discuss the environmental impact of prospective projects and programs being considered by such banks. Such assessments or summaries should be made available to such governmental agencies and interested members of the public at least 120 days before scheduled board action, and public participation in review of the relevant environmental information should be encouraged.
 
 #### (c) Consideration of assessment
 
@@ -56,7 +56,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 
 &emsp;The Secretary of the Treasury shall submit to the Committees on Foreign Relations and Environment and Public Works of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives—
 
-&emsp;&emsp;(A) not later than the end of the 1-year period beginning on December 19, 1989, a progress report on the efficacy of efforts bythe United States to encourage consistent and timely environmental impact assessment of actions proposed to be taken by the multilateral development banks and on the progress made by the multilateral development banks in developing and instituting environmental assessment policies and procedures; and
+&emsp;&emsp;(A) not later than the end of the 1-year period beginning on December 19, 1989, a progress report on the efficacy of efforts by the United States to encourage consistent and timely environmental impact assessment of actions proposed to be taken by the multilateral development banks and on the progress made by the multilateral development banks in developing and instituting environmental assessment policies and procedures; and
 
 &emsp;&emsp;(B) not later than January 1, 1993, a detailed report on the matters described in subparagraph (A).
 
@@ -69,6 +69,8 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 In this title,<sup>1</sup> the term "multilateral development bank" means the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the African Development Bank, the African Development Fund, the Asian Development Bank, the Inter-American Development Bank, the Inter-American Investment Corporation, any other institution (other than the International Monetary Fund) specified in section 262r(c)(2) of this title, and any subsidiary of any such institution.
 
 (Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240, title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; amended Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426; Pub. L. 108–447, div. D, title V, §593(a), Dec. 8, 2004, 118 Stat. 3037.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (g). Pub. L. 108–447, §593(a)(2), amended heading and text of subsec.
 Subsec. (a)(2)(A). Pub. L. 105–118, §560(b)(2), struck out "country" after "borrower".
 
 Subsec. (g). Pub. L. 105–118, §560(b)(3), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -1,6 +1,6 @@
 ### §7622. Eligibility; application; agreement
 
-(a) To be eligible to participate in the Tuition Reimbursement Program, an individual must be a full-time employee in the Department permanently assigned to a Department health-care facility and must be enrolled in a course of training offered by an institution approved by the Secretary leading toward completion of (1) an associate or higher degree in nursing, or (2) a masters degree or doctoral degree in nursing.
+(a) To be eligible to participate in the Tuition Reimbursement Program, an individual must bea full-time employee in the Department permanently assigned to a Department health-care facility and must be enrolled in a course of training offered by an institution approved by the Secretary leading toward completion of (1) an associate or higher degree in nursing, or (2) a masters degree or doctoral degree in nursing.
 
 (b) In selecting applicants for acceptance in the Tuition Reimbursement Program, the Secretary (in addition to according priorities as set forth in section 7603(d) of this title) shall give special consideration and emphasis to individuals pursuing a course of study which will expedite an increase in the number of registered nurses employed by the Department. The Secretary shall then give priority, in the following order, to—
 
@@ -10,7 +10,7 @@
 
 (c) An agreement between the Secretary and a participant in the Tuition Reimbursement Program shall (in addition to the requirements set forth in section 7604 of this title) contain the following:
 
-&emsp;(1) The Secretary's agreement to provide the participant with tuition reimbursement following successful completion (as determined, pursuant to regulations prescribed by the Secretary, by the educational institution involved) of (A) a course or courses required for the course of study described in subsection (a) of this section, or (B) a course or courses taken as necessary prerequisites for degreeprogram enrollment if a letter regarding the potential enrollment of the participant from an appropriate official of the institution involved includes a statement specifying such prerequisites.
+&emsp;(1) The Secretary's agreement to provide the participant with tuition reimbursement following successful completion (as determined, pursuant to regulations prescribed by the Secretary, by the educational institution involved) of (A) a course or courses required for the course of study described in subsection (a) of this section, or (B) a course or courses taken as necessary prerequisites for degree program enrollment if a letter regarding the potential enrollment of the participant from an appropriate official of the institution involved includes a statement specifying such prerequisites.
 
 &emsp;(2) The participant's agreement—
 
@@ -23,6 +23,8 @@
 (e) The Secretary may arrange with an educational institution pursuant to which such an institution would provide a course or courses at a Department health-care facility to participants in the Tuition Reimbursement Program. Under such an arrangement, the Secretary may agree to pay to the institution an amount not in excess of an amount determined by multiplying the number of participants in such a course by the amount of tuition reimbursement each participant would receive for enrolling and successfully completing such course.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 525, §4322; renumbered §7622 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(9), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b), Nov. 2, 1994, 108 Stat. 4682.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

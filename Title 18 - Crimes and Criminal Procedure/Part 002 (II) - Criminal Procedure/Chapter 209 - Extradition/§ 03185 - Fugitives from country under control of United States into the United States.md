@@ -56,11 +56,15 @@ Changes were made in phraseology and arrangement.
 
 This section \[section 49\] corrects typographical errors in section 3185 of title 18, U.S.C., by transferring to subdivision (3) the words, "indebtedness, bank notes, or other instruments of public", from subdivision (2) of such section where they had been erroneously included.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Par. (12). Pub. L. 99–646 and Pub. L. 99–654 amended par. (12) identically, substituting "A felony under chapter 109A of this title" for "Rape".
 
 <b>1949</b>—Pars. (2), (3). Act May 24, 1949, transferred "indebtedness, bank notes, or other instruments of public" from par. (2) to par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendments
 

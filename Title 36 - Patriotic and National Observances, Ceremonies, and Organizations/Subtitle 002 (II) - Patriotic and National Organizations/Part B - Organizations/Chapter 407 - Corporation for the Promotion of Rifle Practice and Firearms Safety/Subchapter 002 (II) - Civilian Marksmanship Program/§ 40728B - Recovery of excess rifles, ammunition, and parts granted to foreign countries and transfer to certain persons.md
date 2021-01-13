@@ -4,7 +4,7 @@
 
 Authority to Recover.—(1) Subject to paragraph (2) and subsection (b), the Secretary of the Army may acquire from any person any rifle, ammunition, repair parts, or other supplies described in section 40731(a) of this title which were—
 
-&emsp;(A) provided to any country on a grant basis under the conditions imposed by section 505 ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2314) that became excess to the needs of such country; and
+&emsp;(A) provided to any country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 (22 U.S.C. 2314) that became excess to the needs of such country; and
 
 &emsp;(B) lawfully acquired by such person.
 
@@ -42,9 +42,13 @@ Rifle Defined.—In this section, the term "rifle" has the meaning given such te
 
 (Added Pub. L. 114–328, div. A, title X, §1096(a), Dec. 23, 2016, 130 Stat. 2440.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on Acquisition and Transfer
 

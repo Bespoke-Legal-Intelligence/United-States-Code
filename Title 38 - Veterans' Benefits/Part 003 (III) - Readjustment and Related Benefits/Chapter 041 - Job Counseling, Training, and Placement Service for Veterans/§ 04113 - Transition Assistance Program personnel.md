@@ -18,7 +18,9 @@ Functions.—Contractors under subsection (a) shall provide to members of the Ar
 
 &emsp;(5) Such other services as the Secretary considers appropriate.
 
-(Added Pub. L. 108–183, title III, §309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233,title IV, §402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, §223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
+(Added Pub. L. 108–183, title III, §309(a)(1), Dec. 16, 2003, 117 Stat. 2663; amended Pub. L. 109–233, title IV, §402(e)(2), June 15, 2006, 120 Stat. 411; Pub. L. 112–56, title II, §223(a)(1), Nov. 21, 2011, 125 Stat. 717.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -29,6 +31,8 @@ A prior section 4113, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89
 <b>2011</b>—Pub. L. 112–56 amended section generally. Prior to amendment, section related to outstationing of Transition Assistance Program personnel.
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–233 substituted "section 6304(a)" for "section 7723(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Implementation
 

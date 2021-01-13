@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Whenever the Bureau has reason to believe that any person may be in possession, custody, or control of any documentary material ortangible things, or may have any information, relevant to a violation, the Bureau may, before the institution of any proceedings under the Federal consumer financial law, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to—
+&emsp;Whenever the Bureau has reason to believe that any person may be in possession, custody, or control of any documentary material or tangible things, or may have any information, relevant to a violation, the Bureau may, before the institution of any proceedings under the Federal consumer financial law, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to—
 
 &emsp;&emsp;(A) produce such documentary material for inspection and copying or reproduction in the form or medium requested by the Bureau;
 
@@ -116,7 +116,7 @@
 
 #### (10) Production of documentary material
 
-&emsp;The production of documentary material in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person,if a natural person, to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
+&emsp;The production of documentary material in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
 
 #### (11) Submission of tangible things
 
@@ -240,7 +240,7 @@ At any time during which any custodian is in custody or control of any documenta
 
 #### (1) In general
 
-&emsp;Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hearand determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section.
+&emsp;Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section.
 
 #### (2) Appeal
 
@@ -248,9 +248,13 @@ At any time during which any custodian is in custody or control of any documenta
 
 (Pub. L. 111–203, title X, §1052, July 21, 2010, 124 Stat. 2019.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a)(1) and (b)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

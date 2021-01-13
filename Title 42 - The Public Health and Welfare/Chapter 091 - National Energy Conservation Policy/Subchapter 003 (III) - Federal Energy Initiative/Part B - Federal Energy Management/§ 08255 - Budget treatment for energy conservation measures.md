@@ -1,6 +1,6 @@
 ### §8255. Budget treatment for energy conservation measures
 
-The President shall transmit to the Congress, along with each budget that is submitted to the Congress under section 1105 of title 31, a statement of the amount of appropriations requested in such budget, if any, on an individual agency basis, for—
+The President shall transmit to the Congress, along with each budget that is submitted to the Congress under section 1105 of title 31, a statement of the amount of appropriations requestedin such budget, if any, on an individual agency basis, for—
 
 &emsp;(1) electric and other energy costs to be incurred in operating and maintaining agency facilities; and
 
@@ -14,7 +14,7 @@ The Energy Policy and Conservation Act, referred to in par. (2), is Pub. L. 94�
 
 Executive Order 12003, referred to in par. (2), is Ex. Ord. No. 12003, July 20, 1977, 42 F.R. 37523 which amended Ex. Ord. No. 11912, April 13, 1976, 41 F.R. 15825, set out as a note under section 6201 of this title.
 
-Executive Order 12759, referred to in par. (2), is Ex. Ord. No. 12759, April 17, 1991, 56 F.R. 16257, as amended, which was set out as a note under section 6201 of this title, prior to revocation by Ex. Ord. No. 13123, §604,June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
+Executive Order 12759, referred to in par. (2), is Ex. Ord. No. 12759, April 17, 1991, 56 F.R. 16257, as amended, which was set out as a note under section 6201 of this title, prior to revocation by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
 
 #### Amendments
 

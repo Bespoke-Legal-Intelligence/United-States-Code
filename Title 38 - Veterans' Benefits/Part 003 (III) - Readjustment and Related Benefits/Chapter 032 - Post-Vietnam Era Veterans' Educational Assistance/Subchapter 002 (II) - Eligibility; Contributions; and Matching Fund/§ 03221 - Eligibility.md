@@ -14,6 +14,8 @@
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1621; amended Pub. L. 99–576, title III, §309(a)(3), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, 103 Stat. 2084, 2092, 2093; renumbered §3221 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1621 of this title as this section.
@@ -27,6 +29,8 @@ Subsecs. (c), (e). Pub. L. 101–237, §423(b)(1)(A), (4)(A), substituted "Secre
 Subsec. (f). Pub. L. 101–237, §410, added subsec. (f).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576 inserted "and before July 1, 1985," and "before July 1, 1985" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -56,7 +60,7 @@ Pub. L. 94–502, title IV, §408, Oct. 15, 1976, 90 Stat. 2397, provided that:
 
 &emsp;"(B) any Saturday and Sunday, not excluded under the preceding subparagraph, when either House is not in session.
 
-> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
+> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on thesame day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
 
 "(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1, 1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out 'Veterans' Administration' and inserting in lieu thereof 'Department of Defense'."
 

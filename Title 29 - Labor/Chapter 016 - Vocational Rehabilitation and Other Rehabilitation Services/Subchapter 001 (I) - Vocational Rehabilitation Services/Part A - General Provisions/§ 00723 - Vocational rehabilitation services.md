@@ -30,7 +30,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;(7) maintenance for additional costs incurred while participating in an assessment for determining eligibility and vocational rehabilitation needs or while receiving services under an individualized plan for employment;
 
-&emsp;(8) transportation, including adequate training in the use of public transportation vehicles and systems, that is provided in connectionwith the provision of any other service described in this section and needed by the individual to achieve an employment outcome;
+&emsp;(8) transportation, including adequate training in the use of public transportation vehicles and systems, that is provided in connection with the provision of any other service described in this section and needed by the individual to achieve an employment outcome;
 
 &emsp;(9) on-the-job or other related personal assistance services provided while an individual is receiving other services described in this section;
 
@@ -94,6 +94,8 @@ Vocational rehabilitation services provided for the benefit of groups of individ
 
 (Pub. L. 93–112, title I, §103, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1148; amended Pub. L. 113–128, title IV, §414, July 22, 2014, 128 Stat. 1652.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -117,6 +119,8 @@ Subsec. (b)(2). Pub. L. 113–128, §414(2)(A), struck out subpar. (A) designati
 Subsec. (b)(5). Pub. L. 113–128, §414(2)(B), added par. (5) and struck out former par. (5) which read as follows: "Technical assistance and support services to businesses that are not subject to title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and that are seeking to employ individuals with disabilities."
 
 Subsec. (b)(6) to (9). Pub. L. 113–128, §414(2)(C), added pars. (6) to (9) and struck out former par. (6) which read as follows: "Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

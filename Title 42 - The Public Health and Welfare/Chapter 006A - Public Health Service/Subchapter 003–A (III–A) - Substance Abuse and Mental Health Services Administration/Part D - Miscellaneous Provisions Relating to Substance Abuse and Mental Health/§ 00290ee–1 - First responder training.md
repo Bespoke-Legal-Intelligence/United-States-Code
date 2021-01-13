@@ -32,7 +32,7 @@ An entity shall use a grant received under this section to—
 
 &emsp;(1) make a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose available to be carried and administered by first responders and members of other key community sectors;
 
-&emsp;(2) train and provide resources for first responders and members of other key community sectors on carrying and administering a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose;
+&emsp;(2) train and provide resources for first responders and members of other key community sectors on carrying and administering a drug or device approved or cleared under theFederal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose;
 
 &emsp;(3) establish processes, protocols, and mechanisms for referral to appropriate treatment, which may include an outreach coordinator or team to connect individuals receiving opioid overdose reversal drugs to followup services; and
 

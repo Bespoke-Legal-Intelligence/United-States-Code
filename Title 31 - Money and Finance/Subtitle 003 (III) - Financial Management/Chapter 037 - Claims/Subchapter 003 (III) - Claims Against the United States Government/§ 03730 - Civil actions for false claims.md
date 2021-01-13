@@ -18,7 +18,7 @@ Actions by Private Persons.—(1) A person may bring a civil action for a violat
 
 &emsp;(B) notify the court that it declines to take over the action, in which case the person bringing the action shall have the right to conduct the action.
 
-(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related action based on the facts underlying the pending action.
+(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related actionbased on the facts underlying the pending action.
 
 (c)
 
@@ -58,7 +58,7 @@ Award to Qui Tam Plaintiff.—(1) If the Government proceeds with an action brou
 
 (e)
 
-Certain Actions Barred.—(1) No court shall have jurisdiction over an action brought by a former or present member of the armedforces under subsection (b) of this section against a member of the armed forces arising out of such person's service in the armed forces.
+Certain Actions Barred.—(1) No court shall have jurisdiction over an action brought by a former or present member of the armed forces under subsection (b) of this section against a member of the armed forces arising out of such person's service in the armed forces.
 
 (2)(A) No court shall have jurisdiction over an action brought under subsection (b) against a Member of Congress, a member of the judiciary, or a senior executive branch official if the action is based on evidence or information known to the Government when the action was brought.
 
@@ -152,7 +152,7 @@ In the section, the words "civil action" are substituted for "suit" for consiste
 
 In subsection (a), the words "Attorney General" are substituted for "several district attorneys of the United States \[subsequently changed to 'United States attorneys' because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\] for the respective districts, for the District of Columbia, and for the several Territories" because of 28:509. The words "by persons liable to such suit" are omitted as surplus. The words "and found within their respective districts or Territories" are omitted because of the restatement. The words "If the Attorney General finds that a person has violated or is violating section 3729, the Attorney General may bring a civil action under this section against the person" are substituted for "and to cause them to be proceeded against in due form of law for the recovery of such forfeiture and damages" for clarity and consistency. The words "as the district judge may order" are omitted as surplus. The words "of the Attorney General" are substituted for "the person bringing the suit" for consistency in the section.
 
-In subsection (b)(1), the words "Except as hereinafter provided" are omitted as unnecessary. The words "for a violation of section 3729 of this title" are added because of the restatement. The words "and carried on", "several" and "full power and" are omitted as surplus. The words "of the action" are substituted for "to hear,try, and determine such suit" to eliminate unnecessary words. The words "Trial is in the judicial district within whose jurisdictional limits the person charged with a violation is found or the violation occurs" are substituted for "within whose jurisdictional limits the person doing or committing such act shall be found, shall wheresoever such act may have been done or committed" for consistency in the revised title and with other titles of the Code. The words "withdrawn or" and "judge of the" are omitted as surplus. The words "Attorney General" are substituted for "district attorney \[subsequently changed to 'United States attorneys' because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\], first filed in the case" because of 28:509.
+In subsection (b)(1), the words "Except as hereinafter provided" are omitted as unnecessary. The words "for a violation of section 3729 of this title" are added because of the restatement. The words "and carried on", "several" and "full power and" are omitted as surplus. The words "of the action" are substituted for "to hear, try, and determine such suit" to eliminate unnecessary words. The words "Trial is in the judicial district within whose jurisdictional limits the person charged with a violation is found or the violation occurs" are substituted for "within whose jurisdictional limits the person doing or committing such act shall be found, shall wheresoever such act may have been done or committed" for consistency in the revised title and with other titles of the Code. The words "withdrawn or" and "judge of the" are omitted as surplus. The words "Attorney General" are substituted for "district attorney \[subsequently changed to 'United States attorneys' because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\], first filed in the case" because of 28:509.
 
 In subsection (b)(2), before clause (A), the words "bill of", "Whenever any such suit shall be brought by any person under clause (B) of this section" and "to the effective prosecution of such suit or" are omitted as surplus. The words "served on the Government under rule 4 of the Federal Rules of Civil Procedure (28 App. U.S.C.)" are substituted for "notice . . . shall be given to the United States by serving upon the United States Attorney for the district in which such suit shall have been brought . . . and by sending, by registered mail, or by certified mail, to the Attorney General of the United States at Washington, District of Columbia" because of 28:509 and to eliminate unnecessary words. The words "proceed with the action" are added for clarity. Clause (A) is substituted for "shall fail, or decline in writing to the court, during said period of sixty days to enter any such suit" for clarity and consistency. In clause (B), the words "a period of" and "therein" are omitted as surplus.
 
@@ -165,6 +165,8 @@ In subsection (c), the words "herein provided", "fair and . . . compensation t
 In subsection (c)(2), the words "whether heretofore or hereafter brought" are omitted as unnecessary. The words "bringing the action or settling the claim" are substituted for "who brought such suit and prosecuted it to final judgment, or to settlement" for clarity and consistency. The words "as provided in clause (B) of this section" are omitted as unnecessary. The words "the civil penalty" are substituted for "forfeiture" for clarity and consistency. The words "to his own use", "the court may", and "to be allowed and taxed according to any provision of law or rule of court in force, or that shall be in force in suits between private parties in said court" are omitted as surplus.
 
 Subsection (d) is substituted for 31:232(B)(words between 3d and 4th commas) and (E)(2)(proviso) to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -184,7 +186,7 @@ Subsec. (h)(1). Pub. L. 111–203, §1079A(c)(1), substituted "agent or associat
 
 Subsec. (h)(3). Pub. L. 111–203, §1079A(c)(2), added par. (3).
 
-<b>2009</b>—Subsec. (h). Pub. L. 111–21 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary to make the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys' fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection."
+<b>2009</b>—Subsec. (h). Pub. L. 111–21 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary tomake the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys' fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection."
 
 <b>1994</b>—Subsec. (e)(2)(B). Pub. L. 103–272 substituted "paragraphs (1) through (8)" for "section paragraphs (1) through (8)".
 
@@ -201,6 +203,8 @@ Pub. L. 100–700, §9(a)(1), redesignated former par. (3) as (4).
 <b>1986</b>—Pub. L. 99–562, §3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
 
 Subsec. (h). Pub. L. 99–562, §4, added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

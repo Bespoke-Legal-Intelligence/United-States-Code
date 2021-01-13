@@ -16,7 +16,7 @@
 
 &emsp;(7) other conditions.
 
-(b)(1) Under conditions prescribed by the Secretary, an obligation issued under this chapter and redeemable on demand of the owner or holder may be used to pay the United States Government for taxes imposed by it.
+(b)(1) Under conditions prescribed by the Secretary, an obligation issued under this chapterand redeemable on demand of the owner or holder may be used to pay the United States Government for taxes imposed by it.
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
@@ -38,7 +38,7 @@
 
 (3) The Secretary shall prescribe regulations necessary to carry out this subsection when there is a nominee.
 
-(h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use ofobligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
+(h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
 (2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners' Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
@@ -164,13 +164,15 @@ Act
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §28; added Sept. 3, 1982, Pub. L. 97–248, §310(a), 96 Stat. 595.
 
-In subsection (g)(1), before clause (A), the words "Except as provided in paragraph (2)" and "(2) The term'registration-required obligation' shall not include any obligation if" are omitted because of the restatement. Clause (C) is added for clarity.
+In subsection (g)(1), before clause (A), the words "Except as provided in paragraph (2)" and "(2) The term 'registration-required obligation' shall not include any obligation if" are omitted because of the restatement. Clause (C) is added for clarity.
 
 In subsection (g)(2)(B)(i), the words "territories and" are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (g)(3), the words "(or of any agency or instrumentality thereof)" are omitted as included in "Government". The words "For purposes of subsection (a)" are omitted as surplus. The words "is deemed to be" are substituted for "shall be treated as" for consistency in the revised title and with other titles of the Code.
 
 In subsection (g)(4), the words "or chain of nominees" are omitted as included in "nominee" and because of 1:1.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -205,6 +207,8 @@ Subsec. (g)(2) to (4). Pub. L. 111–147, §502(d)(1), redesignated pars. (3) an
 <b>1986</b>—Subsec. (h). Pub. L. 99–571 added subsec. (h).
 
 <b>1983</b>—Subsec. (g). Pub. L. 97–452 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -242,7 +246,7 @@ Pub. L. 103–202, title II, §202, Dec. 17, 1993, 107 Stat. 2356, provided that
 
 "(a)
 
-Ability to Submit Computer Tenders in Treasury Auctions.—By the end of 1995, any bidder shall bepermitted to submit a computer-generated tender to any automated auction system established by the Secretary of the Treasury for the sale upon issuance of securities issued by the Secretary if the bidder—
+Ability to Submit Computer Tenders in Treasury Auctions.—By the end of 1995, any bidder shall be permitted to submit a computer-generated tender to any automated auction system established by the Secretary of the Treasury for the sale upon issuance of securities issued by the Secretary if the bidder—
 
 &emsp;"(1) meets the minimum creditworthiness standard established by the Secretary; and
 

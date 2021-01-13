@@ -42,9 +42,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Renewal of Temporary Early Retirement Authority
 
-Pub. L. 112–213, title II, §219, Dec. 20, 2012, 126 Stat. 1558, provided that: "For fiscal years 2013 through 2018—
+Pub. L. 112–213, title II, §219, Dec. 20, 2012, 126 Stat. 1558, as amended by Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8213, Jan. 1, 2021, 134 Stat. 4650, provided that: "For fiscal years 2019 through 2025—
 
-&emsp;"(1) notwithstanding subsection (c)(2)(A) of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
+&emsp;"(1) notwithstanding subsection (c)(1) of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
 
 &emsp;&emsp;"(A) the Secretary of Homeland Security shall implement such section with respect to the Coast Guard and, for purposes of that implementation, shall apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel; and
 
@@ -126,7 +126,7 @@ Funding.—(1) Notwithstanding section 1463 of title 10, United States Code, and
 
 "(2) In each fiscal year in which the Secretary of a military department retires a member of the Armed Forces under the authority of this section, the Secretary shall credit to a subaccount (which the Secretary shall establish) within the appropriation account for that fiscal year for pay and allowances of active duty members of the Armed Forces under the jurisdiction of that Secretary such amount as is necessary to pay the retired pay payable to such member for the entire initial period (determined under paragraph (3)) of the entitlement of that member to receive retired pay.
 
-"(3) The initial period applicable under paragraph (2) in the case of a retired member referred to in that paragraph is the number of years (and any fraction of a year) that is equal to the difference between 20 years and the number of years (and any fraction of a year) of service that were completed by the member (as computed under the provision of law used for determining the member's years of service for eligibility to retirement) before being retired under the authority of this section.
+"(3) The initial period applicable under paragraph (2) in the case of a retired member referred to in that paragraph is the number of years (and any fraction of a year) that is equal to the difference between 20 yearsand the number of years (and any fraction of a year) of service that were completed by the member (as computed under the provision of law used for determining the member's years of service for eligibility to retirement) before being retired under the authority of this section.
 
 "(4) The Secretary shall pay the member's retired pay for such initial period out of amounts credited to the subaccount under paragraph (2). The amounts so credited with respect to that member shall remain available for payment for that period.
 

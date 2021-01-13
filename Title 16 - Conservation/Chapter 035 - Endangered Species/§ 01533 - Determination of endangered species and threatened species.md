@@ -36,7 +36,7 @@
 
 (3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) and to the maximum extent prudent and determinable—
 
-&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species,designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
 
 &emsp;(ii) may, from time-to-time thereafter as appropriate, revise such designation.
 
@@ -56,7 +56,7 @@
 
 &emsp;(ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact,of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
 (3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
@@ -244,7 +244,7 @@ Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to 
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, atthe time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
 Subsec. (a)(1)(A). Pub. L. 97–304, §2(a)(1)(A), redesignated subpar. (1) as (A).
 

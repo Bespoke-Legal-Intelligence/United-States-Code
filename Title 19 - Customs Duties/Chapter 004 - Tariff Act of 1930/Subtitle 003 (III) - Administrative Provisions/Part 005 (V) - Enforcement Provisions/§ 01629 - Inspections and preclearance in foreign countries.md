@@ -126,7 +126,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(2) One concern that has come to light is the vulnerability of the international bridges and tunnels along the United States borders.
 
-&emsp;"(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing these bridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States.
+&emsp;"(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing thesebridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States.
 
 &emsp;"(4) Establishing Integrated Border Inspection Areas (IBIAs) would address these concerns by inspecting vehicles before they gained access to the infrastructure of international bridges and tunnels joining the United States and Canada.
 

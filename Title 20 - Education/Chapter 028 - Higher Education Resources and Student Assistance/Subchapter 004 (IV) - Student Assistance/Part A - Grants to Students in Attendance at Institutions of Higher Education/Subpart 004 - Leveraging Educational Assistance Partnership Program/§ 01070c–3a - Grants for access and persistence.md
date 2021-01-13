@@ -98,7 +98,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(i) A description of the State's plan for using the allotted funds.
 
-&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
+&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shallspecify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
 &emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter.
 
@@ -182,7 +182,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Establishment of partnership
 
-&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establish a partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
+&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establisha partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
 
 #### (B) Amount of grants
 
@@ -220,7 +220,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;&emsp;(III) an explanation that student and family eligibility for, and participation in, other Federal means-tested programs may indicate eligibility for a grant for access and persistence and other student aid programs;
 
-&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including anestimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and all other available types of aid from the major Federal and State financial aid programs;
+&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including an estimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and all other available types of aid from the major Federal and State financial aid programs;
 
 &emsp;&emsp;&emsp;&emsp;(V) an explanation that in order to be eligible for a grant for access and persistence, at a minimum, a student shall—
 
@@ -300,7 +300,17 @@ For the two-year period that begins on August 14, 2008, the Secretary shall cont
 
 Not later than three years after August 14, 2008, and annually thereafter, the Secretary shall submit a report describing the activities and the impact of the partnerships under this section to the authorizing committees.
 
-(Pub. L. 89–329, title IV, §415E, as added Pub. L. 105–244, title IV, §407(c)(2), Oct. 7, 1998, 112 Stat. 1666; amended Pub. L. 106–554, §1(a)(1) \[title III, §316(2), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47; Pub. L. 110–315, title IV, §407(c), Aug. 14, 2008, 122 Stat. 3216; Pub. L. 111–39, title IV, §401(a)(6), July 1, 2009, 123 Stat. 1938.)
+(Pub. L. 89–329, title IV, §415E, as added Pub. L. 105–244, title IV, §407(c)(2), Oct. 7, 1998, 112 Stat. 1666; amended Pub. L. 106–554, §1(a)(1) \[title III, §316(2), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47; Pub. L. 110–315, title IV, §407(c), Aug. 14, 2008, 122 Stat. 3216; Pub. L. 111–39, title IV, §401(a)(6), July 1, 2009, 123 Stat. 1938; Pub. L. 116–260, div. FF, title VII, §704(3), (5), Dec. 27, 2020, 134 Stat. 3200.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:</i>
+
+<i>(1) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
+
+<i>(2) in subsection (c)(1)(B)(vii), by striking "automatic zero expected family contribution" and inserting "automatic zero student aid index".</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -310,6 +320,10 @@ Another prior section 415E of Pub. L. 89–329 was classified to section 1070c�
 
 #### Amendments
 
+<b>2020</b>—Subsec. (c)(1)(B)(vii). Pub. L. 116–260, §704(5), substituted "automatic zero student aid index" for "automatic zero expected family contribution".
+
+Subsec. (d)(3)(A)(i). Pub. L. 116–260, §704(3), substituted "a student aid index" for "an expected family contribution".
+
 <b>2009</b>—Subsec. (b)(1)(B). Pub. L. 111–39 substituted "Except as provided in clause (ii), if a" for "If a" in cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to a special leveraging educational assistance partnership program.
@@ -317,6 +331,10 @@ Another prior section 415E of Pub. L. 89–329 was classified to section 1070c�
 <b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(1) \[title III, §316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
 
 Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

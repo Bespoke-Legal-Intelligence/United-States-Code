@@ -2,7 +2,7 @@
 
 #### (a) Guidelines
 
-The Attorney General and the Secretary of State shall develop guidelines to ensure that persons with potential biases against individuals on the grounds of religion, race, nationality, membership in a particular social group, or political opinion, including interpreters and personnel of airlines owned by governments known to be involved in practices which would meet the definition of persecution under international refugee law, shall not in any manner be used to interpret conversations between aliens and inspection or asylum officers.
+The Attorney General and the Secretary of State shall develop guidelines to ensure that persons with potential biases against individuals on the grounds of religion, race, nationality, membership in a particular social group, or political opinion, including interpreters and personnel of airlines owned by governments known to be involved in practices which would meet the definition of persecution under internationalrefugee law, shall not in any manner be used to interpret conversations between aliens and inspection or asylum officers.
 
 #### (b) Training for asylum and immigration officers
 
@@ -14,9 +14,13 @@ The Executive Office of Immigration Review of the Department of Justice shall in
 
 (Pub. L. 105–292, title VI, §603, Oct. 27, 1998, 112 Stat. 2813; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "National Foreign Affairs Training Center".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

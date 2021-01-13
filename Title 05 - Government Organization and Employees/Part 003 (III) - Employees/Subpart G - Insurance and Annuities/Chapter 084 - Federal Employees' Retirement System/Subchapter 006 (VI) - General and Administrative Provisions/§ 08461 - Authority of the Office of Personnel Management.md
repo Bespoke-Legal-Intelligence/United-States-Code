@@ -8,7 +8,7 @@
 
 (d) The Office shall determine questions of disability and dependency arising under the provisions of this chapter administered by the Office. Except to the extent provided under subsection (e), the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under the provisions of this chapter administered by the Office. The Office may suspend or deny annuity for failure to submit to examination.
 
-(e)(1) Subject to paragraph (2), an administrative action or order affecting the rights or interests of an individual or of the United States under the provisions of this chapter administered by the Office may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
+(e)(1) Subject to paragraph (2), an administrative action or order affecting the rights or interests of an individual or of the United States under the provisions of this chapter administered by the Office may be appealed to the MeritSystems Protection Board under procedures prescribed by the Board.
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8451, the procedures under section 7701 shall apply and the decision of the Board shall be subject to judicial review under section 7703.
 
@@ -82,6 +82,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(b), Dec. 28, 2001, 115 Stat. 1242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "has 5 or more years of civilian service creditable under this chapter; and".
@@ -99,6 +101,8 @@ Subsec. (n)(2)(D). Pub. L. 102–378, §2(71)(B), substituted "8347(q)" for "834
 <b>1990</b>—Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
 <b>1986</b>—Subsec. (m)(2). Pub. L. 99–556 struck out ", and from the Thrift Savings Fund," after "from the Fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,7 +4,7 @@
 
 (2) For purposes of paragraph (1) of this subsection, a certification may be made, in the case of a bankruptcy judge or a United States magistrate,<sup>1</sup> by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located.
 
-(3) For purposes of this section, the term "bankruptcy judge" means a bankruptcy judgeappointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984.
+(3) For purposes of this section, the term "bankruptcy judge" means a bankruptcy judge appointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984.
 
 (b) A judge or magistrate judge recalled under this section may exercise all of the powers and duties of the office of judge or magistrate judge held at the time of retirement, including the ability to serve in any other judicial district to the extent applicable, but may not engage in the practice of law or engage in any other business, occupation, or employment inconsistent with the expeditious, proper, and impartial performance of duties as a judicial officer.
 
@@ -12,21 +12,25 @@
 
 (d) A certification under subsection (a) may be terminated in accordance with chapter 16 of this title, and such a certification shall be terminated upon the death of the recalled judge or magistrate judge involved.
 
-(e) Except as provided in subsection (b), nothing in this section shall affect the right of judges or magistrate judges who retire under the provisions of chapter 83 or chapter 84 of title 5 to serve as reemployed annuitants in accordance with the provisions of title 5. A judge or magistrate judge to whom this section applies may be recalled under section 155, 636(h), or 797 of this title, as the case may be, other than during a 5-year period in which a certification under subsection (a) is in effect with respect to that judge or magistrate judge.
+(e) Except as provided in subsection (b), nothing in this section shall affect the right of judges or magistrate judges who retire under the provisions of chapter 83 or chapter 84 of title 5 to serve as reemployed annuitants in accordance with the provisions of title 5. A judge or magistrate judge to whom this section applies may be recalled under section 155, 636(h), or 797 of this title, as the case may be, other than duringa 5-year period in which a certification under subsection (a) is in effect with respect to that judge or magistrate judge.
 
 (f) For purposes of determining the years of service requirements in order to be eligible for recall under this section, any service as a bankruptcy judge or a United States magistrate judge, and any prior service as a referee in bankruptcy or a United States commissioner, may be credited.
 
 (g) Except as provided in subsection (c), a judge or magistrate judge recalled under this section who retired under the applicable provisions of title 5 shall be considered to be a reemployed annuitant under chapter 83 or chapter 84, as the case may be, of title 5.
 
-(h) The Judicial Conference of the United States may promulgate regulations to implement this section.
+(h) The Judicial Conference of the United States shall promulgate regulations to implement this section.
 
-(Added Pub. L. 99–651, title II, §201(b)(1), Nov. 14, 1986, 100 Stat. 3647; amended Pub. L. 100–659, §4(b), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 101–650, title III, §§321, 325(b)(2), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–572, title IX, §904(a), Oct. 29, 1992, 106 Stat. 4517; Pub. L. 107–273, div. C, title I, §11043(d), Nov. 2, 2002, 116 Stat. 1855.)
+(Added Pub. L. 99–651, title II, §201(b)(1), Nov. 14, 1986, 100 Stat. 3647; amended Pub. L. 100–659, §4(b), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 101–650, title III, §§321, 325(b)(2), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–572, title IX, §904(a), Oct. 29, 1992, 106 Stat. 4517; Pub. L. 107–273, div. C, title I, §11043(d), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 116–325, §5, Jan. 12, 2021, 134 Stat. 5094.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 375, added Aug. 28, 1954, ch. 1053, §1, 68 Stat. 918; amended Aug. 3, 1956, ch. 944, §1(b), 70 Stat. 1021; Aug. 22, 1972, Pub. L. 92–397, §1, 86 Stat. 579, provided for annuities to widows of justices, prior to repeal by Pub. L. 96–504, §5, Dec. 5, 1980, 94 Stat. 2742.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h). Pub. L. 116–325 substituted "shall" for "may".
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted "chapter 16" for "section 372(c)".
 
@@ -53,6 +57,8 @@ Subsec. (f). Pub. L. 102–572, §904(a)(4), struck out ", a judge of the Claim
 Subsec. (c). Pub. L. 100–659, §4(b)(2), inserted "under the provisions of section 377 of this title or" after "annuity provided" and inserted at end "The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired."
 
 Subsec. (g). Pub. L. 100–659, §4(b)(3), inserted "who retired under the applicable provisions of title 5" after "section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

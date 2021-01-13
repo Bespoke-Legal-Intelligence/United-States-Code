@@ -38,6 +38,8 @@ Before clause (1), the word "objects" is omitted as included in "purposes".
 
 In clause (1)(A), the words "citizens of the United States" are substituted for "American citizens" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(A)\], substituted "as follows:" for "to—" in introductory provisions.
@@ -51,6 +53,8 @@ Par. (3). Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(B), (D)\], 
 Par. (4). Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(B)\], inserted "To" before "provide".
 
 Par. (5). Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(E)\], added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -4,8 +4,10 @@
 | :--- | ---: |
 | [1561\.](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20investigation%20by%20commanding%20officers.md) | Complaints of sexual harassment: investigation by commanding officers. |
 | [1561a.](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md) | Civilian orders of protection: force and effect on military installations. |
+| [1561b.](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md) | Confidential reporting of sexual harassment. |
 | [1562\.](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md) | Database on domestic violence incidents. |
-| [1563\.](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20for%20posthumous%20and%20honorary%20promotions%20and%20appointments%20procedures%20for%20review.md) | Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review. |
+| [1563\.](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20from%20Members%20of%20Congress%20for%20honorary%20promotions%20procedures%20for%20review%20and%20promotion.md) | Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion. |
+| [1563a.](%C2%A7%2001563a%20-%20Honorary%20promotions%20on%20the%20initiative%20of%20the%20Department%20of%20Defense.md) | Honorary promotions on the initiative of the Department of Defense. |
 | [1564\.](%C2%A7%2001564%20-%20Security%20clearance%20investigations.md) | Security clearance investigations. |
 | [1564a.](%C2%A7%2001564a%20-%20Counterintelligence%20polygraph%20program.md) | Counterintelligence polygraph program. |
 | [1564b.](%C2%A7%2001564b%20-%20Security%20vetting%20for%20foreign%20nationals.md) | Security vetting for foreign nationals. |
@@ -24,6 +26,8 @@
 A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 
@@ -46,6 +50,32 @@ Pub. L. 107–311, §2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
 Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
+
+#### Multidisciplinary Board To Evaluate Suicide Events
+
+Pub. L. 116–283, div. A, title V, §549A, Jan. 1, 2021, 134 Stat. 3620, provided that:
+
+"(a)
+
+Guidance Required.—The Secretary of Defense shall issue guidance that requires each suicide event involving of a member of a covered Armed Force to be reviewed by a multidisciplinary board established at the command or installation level, or by the Chief of the covered Armed Force. Such guidance shall require that, for each suicide event reviewed by such a board, the board shall—
+
+&emsp;"(1) clearly define the objective, purpose, and outcome of the review;
+
+&emsp;"(2) take a multidisciplinary approach to the review and include, as part of the review process, leaders of military units, medical and mental health professionals, and representatives of military criminal investigative organizations; and
+
+&emsp;"(3) take appropriate steps to protect and share information obtained from ongoing investigations into the event (such as medical and law enforcement reports).
+
+"(b)
+
+Implementation by Covered Armed Forces.—Not later than 90 days after the date on which the guidance is issued under subsection (a), the Chiefs of the covered Armed Forces shall implement the guidance.
+
+"(c)
+
+Progress Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Secretary in implementing the guidance required under subsection (a).
+
+"(d)
+
+Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means the Army, Navy, Air Force, Marine Corps, and Space Force."
 
 #### Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations
 
@@ -135,11 +165,11 @@ Single team for proximate installations.—A single multidisciplinary team descr
 
 Purposes.—The purposes of each multidisciplinary team maintained pursuant to subsection (a) shall be as follows:
 
-&emsp;"(1) To provide for the sharing of information among such team and other appropriate personnel on the installation or installations concerned regarding the progress of investigations into and resolutions of incidents of child abuse and other domestic violence involving members of the Armed Forces stationed ator otherwise assigned to the installation or installations.
+&emsp;"(1) To provide for the sharing of information among such team and other appropriate personnel on the installation or installations concerned regarding the progress of investigations into and resolutions of incidents of child abuse and other domestic violence involving members of the Armed Forces stationed at or otherwise assigned to the installation or installations.
 
 &emsp;"(2) To provide for and enhance collaborative efforts among such team and other appropriate personnel of the installation or installations regarding investigations into and resolutions of such incidents.
 
-&emsp;"(3) To enhance the social services available to military families at the installation or installations in connection with such incidents, including through the enhancement of cooperation among specialists and other personnel providing such services to such military families in connection with such incidents.
+&emsp;"(3) To enhance the social services available to military families at the installation or installations in connection with such incidents, including through the enhancement of cooperation among specialistsand other personnel providing such services to such military families in connection with such incidents.
 
 &emsp;"(4) To carry out such other duties regarding the response to child abuse and other domestic violence at the installation or installations as the Secretary concerned considers appropriate for such purposes.
 
@@ -214,8 +244,10 @@ Usage with respect to multiple installations.—For purposes of this section, an
 
 - [&sect; 01561 - Complaints of sexual harassment investigation by commanding officers](%C2%A7%2001561%20-%20Complaints%20of%20sexual%20harassment%20investigation%20by%20commanding%20officers.md)
 - [&sect; 01561a - Civilian orders of protection force and effect on military installations](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md)
+- [&sect; 01561b - Confidential reporting of sexual harassment](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md)
 - [&sect; 01562 - Database on domestic violence incidents](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md)
-- [&sect; 01563 - Consideration of proposals for posthumous and honorary promotions and appointments procedures for review](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20for%20posthumous%20and%20honorary%20promotions%20and%20appointments%20procedures%20for%20review.md)
+- [&sect; 01563 - Consideration of proposals from Members of Congress for honorary promotions procedures for review and promotion](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20from%20Members%20of%20Congress%20for%20honorary%20promotions%20procedures%20for%20review%20and%20promotion.md)
+- [&sect; 01563a - Honorary promotions on the initiative of the Department of Defense](%C2%A7%2001563a%20-%20Honorary%20promotions%20on%20the%20initiative%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 01564 - Security clearance investigations](%C2%A7%2001564%20-%20Security%20clearance%20investigations.md)
 - [&sect; 01564a - Counterintelligence polygraph program](%C2%A7%2001564a%20-%20Counterintelligence%20polygraph%20program.md)
 - [&sect; 01564b - Security vetting for foreign nationals](%C2%A7%2001564b%20-%20Security%20vetting%20for%20foreign%20nationals.md)

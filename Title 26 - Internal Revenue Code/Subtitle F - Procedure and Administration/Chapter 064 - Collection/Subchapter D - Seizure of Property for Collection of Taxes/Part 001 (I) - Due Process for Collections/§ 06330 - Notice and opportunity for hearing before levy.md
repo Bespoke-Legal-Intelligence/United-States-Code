@@ -122,7 +122,7 @@ In the case of any hearing conducted under this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531 (relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
+&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531\(relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
 
 #### (2) Levy upon appeal
 
@@ -196,7 +196,7 @@ Subsec. (d)(1). Pub. L. 109–280, §855(a), reenacted heading without change an
 
 &emsp;"(B) if the Tax Court does not have jurisdiction of the underlying tax liability, to a district court of the United States.
 
-> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court."
+> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the courtdetermination to file such appeal with the correct court."
 
 Subsec. (g). Pub. L. 109–432, §407(b)(1), added subsec. (g).
 

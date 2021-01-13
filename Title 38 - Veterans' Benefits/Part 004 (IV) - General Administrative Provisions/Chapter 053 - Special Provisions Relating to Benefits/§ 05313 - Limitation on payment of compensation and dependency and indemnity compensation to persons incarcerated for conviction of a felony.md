@@ -1,6 +1,6 @@
 ### §5313. Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony
 
-(a)(1) To the extent provided in subsection (d) of this section, any person who is entitled to compensation or to dependency and indemnity compensation and who is incarcerated in a Federal, State, local, or other penal institution orcorrectional facility for a period in excess of sixty days for conviction of a felony shall not be paid such compensation or dependency and indemnity compensation, for the period beginning on the sixty-first day of such incarceration and ending on the day such incarceration ends, in an amount that exceeds—
+(a)(1) To the extent provided in subsection (d) of this section, any person who is entitled to compensation or to dependency and indemnity compensation and who is incarcerated in a Federal, State, local, or other penal institution or correctional facility for a period in excess of sixty days for conviction of a felony shall not be paid such compensation or dependency and indemnity compensation, for the period beginning on the sixty-first day of such incarceration and ending on the day such incarceration ends, in an amount that exceeds—
 
 &emsp;(A) in the case of a veteran with a service-connected disability rated at 20 percent or more, the rate of compensation payable under section 1114(a) of this title; or
 
@@ -30,6 +30,8 @@
 
 (Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 109–461, title X, §1002(f), Dec. 22, 2006, 120 Stat. 3465.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsecs. (a)(1), (b)(3), (c). Pub. L. 109–461 substituted "local, or other penal institution or correctional facility" for "or local penal institution".
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted "1151" for "351" in par. (1) and "1121", "1141", and "1151" for "321", "341", and "351", respectively, in par. (2).
 
 <b>1983</b>—Subsec. (a)(2). Pub. L. 98–160 substituted "paragraph (1) of this subsection" for "paragraph (1) of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

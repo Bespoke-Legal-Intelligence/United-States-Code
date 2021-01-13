@@ -6,7 +6,7 @@
 
 &emsp;(2) a creditor that extends credit to the debtor at the time of the commencement of the case, and obtains, at such time and with respect to such credit, an execution against the debtor that is returned unsatisfied at such time, whether or not such a creditor exists; or
 
-&emsp;(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bona fide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
+&emsp;(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bonafide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
 
 (b)(1) Except as provided in paragraph (2), the trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
 
@@ -28,15 +28,19 @@ Subsection (a) is the "strong arm clause" of current law, now found in Bankruptc
 
 Subsection (b) is derived from current section 70e \[section 110(e) of former title 11\]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers. It follows <i>Moore v. Bay</i>, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted "Except as providedin paragraph (2), the trustee" for "The trustee", and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the trustee" for "The trustee", and added par. (2).
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted "such" after "obtained".
 
 Subsec. (a)(2). Pub. L. 98–353, §459(2), substituted "; or" for "; and".
 
 Subsec. (a)(3). Pub. L. 98–353, §459(3), inserted ", other than fixtures," after "property", and "and has perfected such transfer" after "purchaser" the second place it appeared.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

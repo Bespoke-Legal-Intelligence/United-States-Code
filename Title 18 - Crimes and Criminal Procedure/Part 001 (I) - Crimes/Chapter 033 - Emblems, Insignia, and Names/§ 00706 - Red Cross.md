@@ -2,7 +2,7 @@
 
 Whoever wears or displays the sign of the Red Cross or any insignia colored in imitation thereof for the fraudulent purpose of inducing the belief that he is a member of or an agent for the American National Red Cross; or
 
-Whoever, whether a corporation, association or person, other than the American National Red Cross and its duly authorized employees and agents and the sanitary and hospital authoritiesof the armed forces of the United States, uses the emblem of the Greek red cross on a white ground, or any sign or insignia made or colored in imitation thereof or the words "Red Cross" or "Geneva Cross" or any combination of these words—
+Whoever, whether a corporation, association or person, other than the American National Red Cross and its duly authorized employees and agents and the sanitary and hospital authorities of the armed forces of the United States, uses the emblem of the Greek red cross on a white ground, or any sign or insignia made or colored in imitation thereof or the words "Red Cross" or "Geneva Cross" or any combination of these words—
 
 Shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -29,6 +29,8 @@ Changes were made in phraseology.
 #### 1949 Act
 
 This section \[section 17\] clarifies the wording of section 706 of title 18, U.S.C., to embrace all service sanitary units whether belonging to the Army, Navy, Air Force, or other branches of the Armed services. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

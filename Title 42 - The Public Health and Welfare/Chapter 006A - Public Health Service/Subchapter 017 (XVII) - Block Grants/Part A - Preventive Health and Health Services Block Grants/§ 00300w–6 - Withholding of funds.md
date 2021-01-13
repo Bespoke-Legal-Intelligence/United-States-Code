@@ -6,7 +6,7 @@
 
 (2) The Secretary may not institute proceedings to withhold funds under paragraph (1) unless the Secretary has conducted an investigation concerning whether the State has used its allotment in accordance with the requirements of this part or the certification provided under section 300w–4 of this title. Investigations required by this paragraph shall be conducted within the affected State by qualified investigators.
 
-(3) The Secretary shall respond in an expeditious manner to complaints of a substantial orserious nature that a State has failed to use funds in accordance with the requirements of this part or certifications provided under section 300w–4 of this title.
+(3) The Secretary shall respond in an expeditious manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the requirements of this part or certifications provided under section 300w–4 of this title.
 
 (4) The Secretary may not withhold funds under paragraph (1) from a State for a minor failure to comply with the requirements of this part or certifications provided under section 300w–4 of this title.
 

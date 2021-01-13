@@ -8,7 +8,7 @@ On and after the last day of the 2-year period beginning on November 18, 1988, t
 
 The following shall apply with respect to the standard of the American Society for Testing and Materials referred to in subsection (a):
 
-&emsp;(1) The term "art material or art material product" shall mean any substance marketed or represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act \[21 U.S.C. 301 et seq.\].
+&emsp;(1) The term "art material or art material product" shall mean any substance marketedor represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act \[21 U.S.C. 301 et seq.\].
 
 &emsp;(2) The standard referred to in subsection (a) as modified by this subsection applies to art materials intended for users of any age.
 
@@ -26,7 +26,7 @@ The following shall apply with respect to the standard of the American Society f
 
 #### (c) Revisions incorporated into standard D–4236; notice and hearing; amendment; opportunity for comment; transcript of proceedings
 
-If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) as modified by subsection (b) after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) as modified by subsection (b) is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data,views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) as modified by subsection (b) after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) as modified by subsection (b) is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (d) Guidelines for determining chronically hazardous art materials; issuance; public hearing; scope of criteria; review; amendment
 
@@ -44,7 +44,7 @@ If the Commission determines that a revision proposed by the American Society fo
 
 > Where appropriate, criteria used for assessing risks to children may be the same as those used for adults.
 
-(3) The Commission shall periodically review the guidelines established under paragraph (1) to determine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
+(3) The Commission shall periodically review the guidelines established under paragraph (1) todetermine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
 
 #### (e) Informational and educational materials; development and distribution
 

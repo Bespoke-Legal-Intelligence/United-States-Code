@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department of Justice, under the general authority of the Attorney General, a Bureau of Justice Statistics (hereinafter referred to in this subchapter as "Bureau").
+There is established within the Department of Justice, under the general authority of the Attorney General, a Bureau of Justice Statistics\(hereinafter referred to in this subchapter as "Bureau").
 
 #### (b) Appointment of Director; experience; authority; restrictions
 
@@ -92,7 +92,9 @@ In recommending standards for gathering justice statistics under this section, t
 
 Not later than 1 year after July 29, 2010, and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
 
-(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amendedPub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, §2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, §2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Subsec. (c)(19). Pub. L. 98–473, §605(b)(2)(B), redesignated former par. (17)
 Subsec. (d)(1). Pub. L. 98–473, §605(b)(3)(A), inserted ", and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis".
 
 Subsec. (d)(5). Pub. L. 98–473, §605(b)(3)(B)–(D), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -318,7 +322,7 @@ Issues Addressed.—The study conducted under this section shall include an anal
 
 #### Inclusion of Seniors in National Crime Victimization Survey
 
-Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: "Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: "Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part ofeach National Crime Victimization Survey, the Attorney General shall include statistics relating to—
 
 &emsp;"(1) crimes targeting or disproportionately affecting seniors;
 

@@ -12,6 +12,8 @@ Words "within the special maritime and territorial jurisdiction of the United St
 
 Mandatory punishment provision was rephrased in the alternative.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–132 substituted "seven years" for "three years".

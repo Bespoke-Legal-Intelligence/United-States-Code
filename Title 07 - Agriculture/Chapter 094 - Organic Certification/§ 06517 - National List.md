@@ -26,7 +26,7 @@ The list established under subsection (a) shall contain an itemization, by speci
 
 &emsp;&emsp;&emsp;(i) is used in production and contains an active synthetic ingredient in the following categories: copper and sulfur compounds; toxins derived from bacteria; pheromones, soaps, horticultural oils, fish emulsions, treated seed, vitamins and minerals; livestock parasiticides and medicines and production aids including netting, tree wraps and seals, insect traps, sticky barriers, row covers, and equipment cleansers; or
 
-&emsp;&emsp;&emsp;(ii) is used in production and contains synthetic inert ingredients that are not classified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; and
+&emsp;&emsp;&emsp;(ii) is used in production and contains synthetic inert ingredients that are notclassified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; and
 
 &emsp;&emsp;(C) the specific exemption is developed using the procedures described in subsection (d).
 
@@ -46,7 +46,7 @@ The list established under subsection (a) shall contain an itemization, by speci
 
 #### (1) In general
 
-&emsp;The National List established by the Secretary shall be based upon a proposed national list or proposed amendments to the NationalList developed by the National Organic Standards Board.
+&emsp;The National List established by the Secretary shall be based upon a proposed national list or proposed amendments to the National List developed by the National Organic Standards Board.
 
 #### (2) No additions
 

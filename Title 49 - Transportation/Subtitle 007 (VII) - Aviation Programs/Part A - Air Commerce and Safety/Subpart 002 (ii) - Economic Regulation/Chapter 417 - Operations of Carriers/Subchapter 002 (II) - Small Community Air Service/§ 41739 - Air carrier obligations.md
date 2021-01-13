@@ -1,6 +1,6 @@
 ### §41739. Air carrier obligations
 
-If at least 2 air carriers make an agreement to operate under or use a single carrier designator code to provide air transportation, the carrier whose code is being used shares responsibilitywith the other carriers for the quality of transportation provided the public under the code by the other carriers.
+If at least 2 air carriers make an agreement to operate under or use a single carrier designator code to provide air transportation, the carrier whose code is being used shares responsibility with the other carriers for the quality of transportation provided the public under the code by the other carriers.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152.)
 

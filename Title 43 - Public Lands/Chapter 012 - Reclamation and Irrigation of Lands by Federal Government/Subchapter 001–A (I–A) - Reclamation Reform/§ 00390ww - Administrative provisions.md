@@ -22,7 +22,7 @@ Any nonexcess land which is acquired into excess status pursuant to involuntary 
 
 #### (g) Annual audit of compliance with reclamation laws
 
-In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the UnitedStates, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
+In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the United States, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
 
 #### (h) Recordable contracts executed prior to October 12, 1982
 
@@ -33,6 +33,8 @@ The provisions of section 390ee(c) of this title are and have been applicable to
 When the Secretary finds that any individual or legal entity subject to reclamation law, including this subchapter, has not paid the required amount for irrigation water delivered to a landholding pursuant to reclamation law, including this subchapter, he shall collect the amount of any underpayment with interest accruing from the date the required payment was due until paid. The interest rate shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing marketable issues sold by the Treasury during the period of underpayment.
 
 (Pub. L. 97–293, title II, §224, Oct. 12, 1982, 96 Stat. 1272; Pub. L. 100–203, title V, §5302(a), Dec. 22, 1987, 101 Stat. 1330–268; Pub. L. 103–437, §16(a)(3), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 104–66, title I, §1081(d), Dec. 21, 1995, 109 Stat. 721.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

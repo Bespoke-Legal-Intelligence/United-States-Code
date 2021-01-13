@@ -22,9 +22,13 @@ The Panama Canal, and such other property referred to in paragraph 2(d) of Artic
 
 (Pub. L. 96–70, title I, §1504, Sept. 27, 1979, 93 Stat. 488; Pub. L. 99–223, §7, Dec. 28, 1985, 99 Stat. 1740.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–223 substituted "Before" for "At least 180 days before".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

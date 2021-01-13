@@ -4,11 +4,15 @@ The Secretary is authorized and directed to make such rules and regulations as m
 
 (June 27, 1934, ch. 847, title II, §211, as added Feb. 3, 1938, ch. 13, §3, 52 Stat. 23; amended Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner".
 
 <b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

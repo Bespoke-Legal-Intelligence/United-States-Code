@@ -10,7 +10,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 #### (b) Election by former spouse
 
-If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) less the amount of such election.
+If an election has been made with respect to such former spouse under section 4159 or 4046(f)of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) less the amount of such election.
 
 #### (c) Disqualification
 
@@ -62,6 +62,8 @@ Any individual who on February 14, 1981, was an otherwise qualified former spous
 
 (Pub. L. 96–465, title I, §831, as added Pub. L. 100–204, title I, §188(a), Dec. 22, 1987, 101 Stat. 1370; amended Pub. L. 101–246, title I, §146(b), Feb. 16, 1990, 104 Stat. 37.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 100–238 and is classified to section 4069a–1 of this title.
@@ -69,6 +71,8 @@ Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 #### Amendments
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–246 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -10,7 +10,7 @@ Inquiries Involving More Than One Missing Person.—If it appears to the Secreta
 
 (c)
 
-Composition.—(1) A board appointed under this section to inquire into the whereabouts andstatus of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
+Composition.—(1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
 
 (2) An individual referred to in paragraph (1) is the following:
 
@@ -24,7 +24,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (d)
 
-Duties of Board.—A board appointed to conduct an inquiry into the whereabouts and status of a missing person under this section shall—
+Duties of Board.—A board appointed to conduct an inquiry into the whereabouts andstatus of a missing person under this section shall—
 
 &emsp;(1) collect, develop, and investigate all facts and evidence relating to the disappearance or whereabouts and status of the person;
 
@@ -86,7 +86,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 &emsp;(B) the recommendation of the board under subsection (d) with respect to each person covered by the report; and
 
-&emsp;(C) disclosure of whether classified documents and information were reviewed by theboard or were otherwise used by the board in forming recommendations under subparagraph (B).
+&emsp;(C) disclosure of whether classified documents and information were reviewed by the board or were otherwise used by the board in forming recommendations under subparagraph (B).
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
@@ -98,7 +98,7 @@ Determination by Secretary.—(1) Not later than 30 days after receiving a repor
 
 (2) In reviewing a report under paragraph (1), the Secretary shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
-(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
+(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, theSecretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
 
 &emsp;(A) be declared to be missing;
 

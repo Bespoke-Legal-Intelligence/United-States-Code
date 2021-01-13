@@ -34,6 +34,8 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1808(e), 1814 (related to du
 
 In subsection (a), the words "organized and" and "the State of" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "Pennsylvania" for "Delaware".

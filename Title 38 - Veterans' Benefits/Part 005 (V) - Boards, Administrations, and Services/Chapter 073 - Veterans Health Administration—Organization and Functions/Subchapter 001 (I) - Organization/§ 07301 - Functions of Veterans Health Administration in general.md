@@ -6,7 +6,9 @@
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), (2), Oct. 9, 1992, 106 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted "Under Secretary for Health is" for "Chief Medical Directoris" and inserted at end "The Under Secretary for Health may be referred to as the Chief Medical Director."
+<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted "Under Secretary for Health is" for "Chief Medical Director is" and inserted at end "The Under Secretary for Health may be referred to as the Chief Medical Director."
 

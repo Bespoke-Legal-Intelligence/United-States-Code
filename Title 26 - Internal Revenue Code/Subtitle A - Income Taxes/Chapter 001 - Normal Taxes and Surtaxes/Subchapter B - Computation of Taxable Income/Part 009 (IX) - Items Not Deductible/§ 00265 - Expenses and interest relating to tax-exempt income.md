@@ -124,7 +124,7 @@ No deduction shall be allowed for—
 
 #### (ii) Certain refundings of designated obligations deemed designated
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), in the case of a refunding (or series of refundings)of a qualified tax-exempt obligation, the refunding obligation shall be treated as a qualified tax-exempt obligation (and shall not be taken into account under clause (i)) if—
+&emsp;&emsp;&emsp;Except as provided in clause (iii), in the case of a refunding (or series of refundings) of a qualified tax-exempt obligation, the refunding obligation shall be treated as a qualified tax-exempt obligation (and shall not be taken into account under clause (i)) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the refunding obligation was not taken into account under subparagraph (C) by reason of clause (ii)(III) thereof,
 
@@ -394,7 +394,7 @@ Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the In
 
 "(4)
 
-Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000."
+Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000."
 
 #### Effective Date of 1984 Amendment
 
@@ -426,7 +426,7 @@ Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beg
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\]."
+Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Savings Provision
 

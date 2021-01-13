@@ -42,11 +42,13 @@ Nothing in this section shall be construed to—
 
 &emsp;(1) require the Secretary to approve a contract for legal services by an attorney;
 
-&emsp;(2) amend or repeal the authority of the National Indian Gaming Commission under theIndian Gaming Regulatory Act (25 U.S.C. 2701 et seq.); or
+&emsp;(2) amend or repeal the authority of the National Indian Gaming Commission under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.); or
 
 &emsp;(3) alter or amend any ordinance, resolution, or charter of an Indian tribe that requires approval by the Secretary of any action by that Indian tribe.
 
 (R.S. §2103; Pub. L. 85–770, Aug. 27, 1958, 72 Stat. 927; Pub. L. 106–179, §2, Mar. 14, 2000, 114 Stat. 46.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ R.S. §2103 derived from acts Mar. 3, 1871, ch. 120, §3, 16 Stat. 570; May 21, 
 <b>1958</b>—Par. Second. Pub. L. 85–770 struck out requirement that contracts with Indian tribes be executed before a judge of a court of record.
 
 Par. Sixth. Pub. L. 85–770 struck out par. Sixth enumerating contractual elements to be certified to by the judge.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

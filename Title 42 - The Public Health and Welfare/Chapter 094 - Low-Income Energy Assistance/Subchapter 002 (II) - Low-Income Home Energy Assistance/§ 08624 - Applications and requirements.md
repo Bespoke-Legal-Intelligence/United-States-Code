@@ -92,7 +92,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 #### (c) State plan; revision; public inspection
 
-(1) As part of the annual application required in subsection (a), the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
+(1) As part of the annual application required in subsection (a), the chief executive officer ofeach State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
 
 &emsp;(A) describes the eligibility requirements to be used by the State for each type of assistance to be provided under this subchapter, including criteria for designating an emergency under section 8623(c) of this title;
 
@@ -192,13 +192,13 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 #### (l) State tax credits to energy suppliers who supply home energy at reduced rates to low-income households
 
-(1) Any State may use amounts provided under this subchapter for the purpose of providingcredits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
+(1) Any State may use amounts provided under this subchapter for the purpose of providing credits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
 
 (2) Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–79, title IV, §4006(b), Feb. 7, 2014, 128 Stat. 787.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998,112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–79, title IV, §4006(b), Feb. 7, 2014, 128 Stat. 787.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at e
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
-Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the successof the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
+Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;".
 

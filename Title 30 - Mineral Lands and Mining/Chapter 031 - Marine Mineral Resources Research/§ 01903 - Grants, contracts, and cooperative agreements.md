@@ -60,7 +60,7 @@
 
 #### (B) No compensation
 
-&emsp;&emsp;A review panel member who is not otherwise a Federal employee shall receive no compensation for performing duties under this section, except that, while engaged in the performance of duties away from the home or regular place of business of the member, the member may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as a personemployed intermittently in the Government service under section 5703 of title 5.
+&emsp;&emsp;A review panel member who is not otherwise a Federal employee shall receive no compensation for performing duties under this section, except that, while engaged in the performance of duties away from the home or regular place of business of the member, the member may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as a person employed intermittently in the Government service under section 5703 of title 5.
 
 #### (3) Evaluation
 
@@ -101,6 +101,8 @@ An eligible entity that receives a grant or contract or enters into a cooperativ
 &emsp;(2) in the case of an annual progress report, includes a project plan for the subsequent year.
 
 (Pub. L. 91–631, title II, §203, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3995.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

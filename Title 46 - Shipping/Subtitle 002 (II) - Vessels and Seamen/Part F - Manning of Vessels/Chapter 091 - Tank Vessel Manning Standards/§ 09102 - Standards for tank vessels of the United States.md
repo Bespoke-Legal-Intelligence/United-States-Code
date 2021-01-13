@@ -1,6 +1,6 @@
 ### §9102. Standards for tank vessels of the United States
 
-(a) The Secretary shall prescribe standards for the manning of each vessel of the United States to which chapter 37 of this title applies, related to the duties, qualifications, and training of the officers and crew of the vessel, including standards related to—
+The Secretary shall prescribe standards for the manning of each vessel of the United States to which chapter 37 of this title applies, related to the duties, qualifications, and training of the officers and crew of the vessel, including standards related to—
 
 &emsp;(1) instruction in vessel and cargo handling and vessel navigation under normal operating conditions in coastal and confined waters and on the high seas;
 
@@ -18,9 +18,7 @@
 
 &emsp;(8) instruction in vessel maintenance functions.
 
-(b) The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license or certificate) in effect on October 17, 1978. When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 101–380, title IV, §4114(d), Aug. 18, 1990, 104 Stat. 517.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 101–380, title IV, §4114(d), Aug. 18, 1990, 104 Stat. 517; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8503(b), Jan. 1, 2021, 134 Stat. 4747.)
 
 Historical and Revision Notes
 
@@ -38,9 +36,15 @@ Subsection (a) requires the Secretary of Transportation to prescribe certain sta
 
 Subsection (b) provides for a waiver of any health and physical fitness criteria prescribed under subsection (a).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283 struck out subsec. (a) designation before "The Secretary shall" and struck out subsec. (b) which read as follows: "The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license or certificate) in effect on October 17, 1978. When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed."
+
 <b>1990</b>—Par. (8). Pub. L. 101–380 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

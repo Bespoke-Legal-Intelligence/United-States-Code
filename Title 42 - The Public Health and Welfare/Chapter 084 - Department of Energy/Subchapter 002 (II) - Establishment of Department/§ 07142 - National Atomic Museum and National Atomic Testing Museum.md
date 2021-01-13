@@ -18,7 +18,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 &emsp;(B) provide to volunteers incidental expenses, such as nominal awards, uniforms, and transportation.
 
-(2) Except as provided in paragraphs (3) and (4), a volunteer who is not otherwise employedby the Federal Government is not subject to laws relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, because of service as a volunteer under this subsection.
+(2) Except as provided in paragraphs (3) and (4), a volunteer who is not otherwise employed by the Federal Government is not subject to laws relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, because of service as a volunteer under this subsection.
 
 (3) For purposes of chapter 171 of title 28 (relating to tort claims), a volunteer under this subsection is considered a Federal employee.
 

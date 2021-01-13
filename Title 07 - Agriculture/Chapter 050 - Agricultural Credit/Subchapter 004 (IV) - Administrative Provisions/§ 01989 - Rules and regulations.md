@@ -50,7 +50,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (1) In general
 
-&emsp;Commencing not later than two years after October 28, 1992, the Secretary shall establish a Preferred Certified Lenders Program for lenders who establish their—
+&emsp;Commencing not later than two years after October 28, 1992, the Secretary shall establisha Preferred Certified Lenders Program for lenders who establish their—
 
 &emsp;&emsp;(A) knowledge of, and experience under, the program established under subsection (c);
 
@@ -108,13 +108,13 @@ Interim Regulations.—Not later than 180 days after the date of enactment of th
 
 "(b)
 
-Final Regulations.—Not later than October 1, 1993, the Secretary of Agriculture shall issue such finalregulations as are necessary to implement this Act and the amendments made by this Act."
+Final Regulations.—Not later than October 1, 1993, the Secretary of Agriculture shall issue such final regulations as are necessary to implement this Act and the amendments made by this Act."
 
 Pub. L. 100–233, title VI, §624, Jan. 6, 1988, 101 Stat. 1685, provided that: "Within 150 days after the date of the enactment of this title \[Jan. 6, 1988\], and after considering public comment obtained under section 553 of title 5, United States Code, the Secretary shall issue final regulations to carry out the amendments made by this title \[enacting sections 1981d, 1981e, 1983c, and 2001 to 2005 of this title, amending sections 1927, 1927a, 1981, 1982, 1983b, 1985, 1991, 1997, 1999, and 2000 of this title, and amending provisions set out as a note under section 1999 of this title\]."
 
 #### Study and Report to Congress Before Issuance of Certain Final Regulations
 
-Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
+Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of theenactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
 
 #### Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds
 

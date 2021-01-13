@@ -6,7 +6,7 @@ In General.—The Administrator of the Transportation Security Administration sh
 
 (b)
 
-Expansion.—Not later than 180 days after the date of enactment of the TSA Modernization Act, the Administrator shall enter into an agreement, using other transaction authority under section 114(m) of this title, with at least 2 private sector entities to increase the methods and capabilities available for the public to enroll in the PreCheck Program.
+Expansion.—Not later than 180 days after the date of enactment of the TSA Modernization Act, the Administrator shall enter into an agreement, using other transaction authority under section 114(m) of this title, with at least 2 private sector entities to increase the methodsand capabilities available for the public to enroll in the PreCheck Program.
 
 (c)
 
@@ -222,7 +222,7 @@ Briefings.—
 
 &emsp;"(1)
 
-In general.—The Administrator shall brief, on a biannual basis, the appropriate committees of Congress on the implementation of subsections \[sic\] (a) until the Administrator certifies that only travelers who are members of trusted traveler programs specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at passenger screening checkpoints.
+In general.—The Administrator shall brief, on a biannual basis, the appropriate committees of Congress on the implementation of subsections \[sic\] (a)until the Administrator certifies that only travelers who are members of trusted traveler programs specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at passenger screening checkpoints.
 
 &emsp;"(2)
 

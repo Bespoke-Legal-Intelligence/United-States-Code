@@ -38,7 +38,7 @@
 | [519\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000519%20-%20Noncompliance%20with%20orders%3B%20penalties%3B%20removal%20of%20bridge.md) | Noncompliance with orders; penalties; removal of bridge. |
 | [520\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000520%20-%20Review%20of%20findings%20and%20orders.md) | Review of findings and orders. |
 | [521\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000521%20-%20Regulations%20and%20orders.md) | Regulations and orders. |
-| [522\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000522%20-%20Existing%20provisions%20of%20law.md) | Existing provisions of law. |
+| [522\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000522%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20G%2C%20title%20LVXXXV%20%5BLXXXV%5D%2C%20%C2%A78507%28b%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204754.md) | Repealed. |
 | [523\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000523%20-%20Relocation%20of%20bridges.md) | Relocation of bridges. |
 | [524\.](Subchapter%20002%20%28II%29%20-%20Alteration%20of%20Bridges/%C2%A7%2000524%20-%20Applicability%20of%20administrative%20procedure%20provisions.md) | Applicability of administrative procedure provisions. |
 
@@ -77,6 +77,8 @@
 | [535i.](Subchapter%20004%20%28IV%29%20-%20International%20Bridges/%C2%A7%2000535i%20-%20Reservation%20of%20right%20to%20alter%20or%20repeal.md) | Reservation of right to alter or repeal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Bridge Permits
 

@@ -30,6 +30,8 @@ Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section
 
 (Pub. L. 107–296, title VIII, §856, Nov. 25, 2002, 116 Stat. 2237.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1) heading, is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
@@ -42,7 +44,7 @@ Subsec. (b) of section 657a of title 15, referred to in subsec. (b), was redesig
 
 In subsec. (a)(1), "division C of subtitle I of title 41" substituted for "title III of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(A), "Paragraphs (1), (2), (6), and (7) of subsection (a) of section 3304 of title 41, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of suchsection)." substituted for "Paragraphs (1), (2), (6), and (7) of subsection (c) of section 303 (41 U.S.C. 253), relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section)." on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A), "Paragraphs (1), (2), (6), and (7) of subsection (a) of section 3304 of title 41, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section)." substituted for "Paragraphs (1), (2), (6), and (7) of subsection (c) of section 303 (41 U.S.C. 253), relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section)." on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(1)(B), "Section 4106 of title 41" substituted for "Section 303J (41 U.S.C. 253j)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

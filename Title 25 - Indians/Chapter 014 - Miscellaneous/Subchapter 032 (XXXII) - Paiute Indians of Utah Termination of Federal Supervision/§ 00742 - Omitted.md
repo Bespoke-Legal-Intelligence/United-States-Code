@@ -1,5 +1,7 @@
 ### §742. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §2, 68 Stat. 1100, which set out definitions, was omitted from the Code as being of special and not general application.

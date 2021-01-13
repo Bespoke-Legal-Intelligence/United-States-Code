@@ -22,6 +22,8 @@ A reference to causing to be placed any letter, etc. in any post office, or stat
 
 This section \[section 34\] corrects a typographical error in section 1341 of title 18, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–179 inserted "occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)), or" after "If the violation".
@@ -39,6 +41,8 @@ Pub. L. 103–322, §250006, inserted "or deposits or causes to be deposited any
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department".
 
 <b>1949</b>—Act May 24, 1949, substituted "of" for "or" after "dispose".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

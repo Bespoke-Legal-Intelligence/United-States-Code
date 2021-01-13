@@ -6,7 +6,7 @@ An insured depository institution that is not well capitalized may not accept fu
 
 #### (b) Renewals and rollovers treated as acceptance of funds
 
-Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as anacceptance of funds by such troubled institution for purposes of subsection (a).
+Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a).
 
 #### (c) Waiver authority
 
@@ -88,7 +88,7 @@ The Corporation may impose, by regulation or order, such additional restrictions
 
 #### (3) Inclusion of depository institutions engaging in certain activities
 
-&emsp;Notwithstanding paragraph (2), the term "deposit broker" includes any insured depository institution that is not well capitalized (as defined in section 1831o of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insureddepository institutions in such depository institution's normal market area.
+&emsp;Notwithstanding paragraph (2), the term "deposit broker" includes any insured depository institution that is not well capitalized (as defined in section 1831o of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insured depository institutions in such depository institution's normal market area.
 
 #### (4) Employee
 
@@ -162,6 +162,8 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 (Sept. 21, 1950, ch. 967, §2\[29\], as added Pub. L. 101–73, title II, §224(a), Aug. 9, 1989, 103 Stat. 273; amended Pub. L. 102–242, title III, §301(a), (c), Dec. 19, 1991, 105 Stat. 2343, 2345; Pub. L. 102–550, title XVI, §1605(a)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §337, Sept. 23, 1994, 108 Stat. 2235; Pub. L. 115–174, title II, §202, May 24, 2018, 132 Stat. 1307.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–174, §202(b), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
@@ -191,6 +193,8 @@ Subsec. (d). Pub. L. 102–242, §301(a)(3), added pars. (2) and (3) and closing
 &emsp;"(B) is consistent with the conservator's fiduciary duty to minimize the losses of the institution."
 
 Subsecs. (e) to (h). Pub. L. 102–242, §301(a)(4)–(6), (c), added subsec. (e), redesignated former subsec. (e) as (f) and struck out "troubled" before "institution as the", redesignated former subsecs. (f) and (g) as (g) and (h), respectively, added subsec. (h), and struck out former subsec. (h), as previously redesignated, which defined "troubled institution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

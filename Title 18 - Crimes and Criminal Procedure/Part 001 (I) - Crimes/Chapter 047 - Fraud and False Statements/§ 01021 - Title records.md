@@ -12,6 +12,8 @@ Words "five years" were substituted for "seven years" as more in conformity with
 
 Minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

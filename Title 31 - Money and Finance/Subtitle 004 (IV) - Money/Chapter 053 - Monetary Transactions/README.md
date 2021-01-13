@@ -28,16 +28,19 @@
 | [5320\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005320%20-%20Injunctions.md) | Injunctions. |
 | [5321\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005321%20-%20Civil%20penalties.md) | Civil penalties. |
 | [5322\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005322%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [5323\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005323%20-%20Rewards%20for%20informants.md) | Rewards for informants. |
+| [5323\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005323%20-%20Whistleblower%20incentives%20and%20protections.md) | Whistleblower incentives and protections. |
 | [5324\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005324%20-%20Structuring%20transactions%20to%20evade%20reporting%20requirement%20prohibited.md) | Structuring transactions to evade reporting requirement prohibited. |
 | [5325\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005325%20-%20Identification%20required%20to%20purchase%20certain%20monetary%20instruments.md) | Identification required to purchase certain monetary instruments. |
 | [5326\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20transactions.md) | Records of certain domestic transactions. |
-| \[5327. | Repealed.\] |
-| [5328\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005328%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
+| \[5327, 5328. | Repealed.\] |
 | [5329\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005329%20-%20Staff%20commentaries.md) | Staff commentaries. |
 | [5330\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005330%20-%20Registration%20of%20money%20transmitting%20businesses.md) | Registration of money transmitting businesses. |
 | [5331\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005331%20-%20Reports%20relating%20to%20coins%20and%20currency%20received%20in%20nonfinancial%20trade%20or%20business.md) | Reports relating to coins and currency received in nonfinancial trade or business. |
 | [5332\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005332%20-%20Bulk%20cash%20smuggling%20into%20or%20out%20of%20the%20United%20States.md) | Bulk cash smuggling into or out of the United States. |
+| [5333\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005333%20-%20Safe%20harbor%20with%20respect%20to%20keep%20open%20directives.md) | Safe harbor with respect to keep open directives. |
+| [5334\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005334%20-%20Training%20regarding%20anti-money%20laundering%20and%20countering%20the%20financing%20of%20terrorism.md) | Training regarding anti-money laundering and countering the financing of terrorism. |
+| [5335\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005335%20-%20Prohibition%20on%20concealment%20of%20the%20source%20of%20assets%20in%20monetary%20transactions.md) | Prohibition on concealment of the source of assets in monetary transactions. |
+| [5336\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005336%20-%20Beneficial%20ownership%20information%20reporting%20requirements.md) | Beneficial ownership information reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,7 +87,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. F, title LXIII, §§6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, §6403(b)(3), Jan. 1,2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 "Rewards for informants" and item 5328 "Whistleblower protections". Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
 
 <b>2017</b>—Pub. L. 115–44, title II, §275(b), Aug. 2, 2017, 131 Stat. 938, struck out "coin and currency" before "transactions" in item 5326.
 

@@ -68,7 +68,7 @@
 
 #### (C) Endorsed discount card program; endorsed program
 
-&emsp;&emsp;The terms "endorsed discount card program" and "endorsed program" mean a prescription drug discount card program that isendorsed (and for which the sponsor has a contract with the Secretary) under this section.
+&emsp;&emsp;The terms "endorsed discount card program" and "endorsed program" mean a prescription drug discount card program that is endorsed (and for which the sponsor has a contract with the Secretary) under this section.
 
 #### (D) Negotiated price
 
@@ -144,7 +144,7 @@ For purposes of this section:
 
 #### (B) Use of standard enrollment form
 
-&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in a form and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extent provided under subsection (f), information regarding certification as a transitional assistance eligible individual.
+&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in a form and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extentprovided under subsection (f), information regarding certification as a transitional assistance eligible individual.
 
 #### (C) Enrollment only in one program
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 #### (ii) Change in endorsed program permitted for 2005
 
-&emsp;&emsp;&emsp;The Secretary shall establish a process, similar to (and coordinated with) the process for annual, coordinated elections under section 1395w–21(e)(3) of this title during2004, under which an individual enrolled in an endorsed discount card program may change the endorsed program in which the individual is enrolled for 2005.
+&emsp;&emsp;&emsp;The Secretary shall establish a process, similar to (and coordinated with) the process for annual, coordinated elections under section 1395w–21(e)(3) of this title during 2004, under which an individual enrolled in an endorsed discount card program may change the endorsed program in which the individual is enrolled for 2005.
 
 #### (iii) Additional exceptions
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shallsecure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 #### (B) Treatment of self-certification
 
-&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verified under paragraph (3) as a determination that the individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
+&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verified under paragraph (3) as a determination thatthe individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
 
 #### (3) Verification
 

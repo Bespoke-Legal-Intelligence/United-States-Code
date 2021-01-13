@@ -70,7 +70,7 @@
 
 &emsp;(D) shall not be exempt either as to principal or interest from any taxation now or hereafter imposed by any State or local taxing authority; and
 
-&emsp;(E) except as provided in section 2006(c), shall not be obligations of, nor shall payment of the principal thereof or interest thereon beguaranteed by, the Government of the United States, and the obligations shall so plainly state.
+&emsp;(E) except as provided in section 2006(c), shall not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, and the obligations shall so plainly state.
 
 (5) The Postal Service shall make payments of principal, or interest, or both on obligations issued under this section out of revenues and receipts from competitive products and assets related to the provision of competitive products (as determined under subsection (h)), or for purposes of any period before accounting practices and principles under subsection (h) have been established and applied, the best information available, including the audited statements required by section 2008(e). For purposes of this subsection, the total assets of the Competitive Products Fund shall be the greater of—
 
@@ -82,7 +82,7 @@
 
 (g) A judgment (or settlement of a claim) against the Postal Service or the Government of the United States shall be paid out of the Competitive Products Fund to the extent that the judgment or claim arises out of activities of the Postal Service in the provision of competitive products.
 
-(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and an independent, certified public accounting firm and other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
+(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and anindependent, certified public accounting firm and other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
 
 &emsp;(i) the accounting practices and principles that should be followed by the Postal Service with the objectives of—
 
@@ -121,6 +121,8 @@
 (2) A copy of the most recent report submitted under paragraph (1) shall be included in the annual report submitted by the Postal Regulatory Commission under section 3652(g).
 
 (Added Pub. L. 109–435, title IV, §401(a)(1), Dec. 20, 2006, 120 Stat. 3221.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

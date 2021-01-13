@@ -152,7 +152,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (a)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classifiedgenerally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
 

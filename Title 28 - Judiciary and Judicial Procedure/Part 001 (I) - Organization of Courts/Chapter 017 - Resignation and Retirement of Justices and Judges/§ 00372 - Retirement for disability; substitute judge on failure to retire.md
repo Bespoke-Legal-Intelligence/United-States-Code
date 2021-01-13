@@ -12,7 +12,7 @@ A judge of the Court of International Trade desiring to retire under this sectio
 
 Each justice or judge retiring under this section after serving ten years continuously or otherwise shall, during the remainder of his lifetime, receive the salary of the office. A justice or judge retiring under this section who has served less than ten years in all shall, during the remainder of his lifetime, receive one-half the salary of the office.
 
-(b) Whenever any judge of the United States appointed to hold office during good behavior who is eligible to retire under this section does not do so and a certificate of his disability signed by a majority of the members of the Judicial Council of his circuit in the case of a circuit or district judge, or by the Chief Justice of the United States in the case of the Chief Judge of the Court of International Trade, or by the chief judge of his court in the case of a judge of the Court of International Trade, is presented to the President and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President may make such appointment by and with the advice and consent of the Senate. Whenever any such additional judge is appointed, the vacancy subsequently caused by the death, resignation, orretirement of the disabled judge shall not be filled. Any judge whose disability causes the appointment of an additional judge shall, for purpose of precedence, service as chief judge, or temporary performance of the duties of that office, be treated as junior in commission to the other judges of the circuit, district, or court.
+(b) Whenever any judge of the United States appointed to hold office during good behavior who is eligible to retire under this section does not do so and a certificate of his disability signed by a majority of the members of the Judicial Council of his circuit in the case of a circuit or district judge, or by the Chief Justice of the United States in the case of the Chief Judge of the Court of International Trade, or by the chief judge of his court in the case of a judge of the Court of International Trade, is presented to the President and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President may make such appointment by and with the advice and consent of the Senate. Whenever any such additional judge is appointed, the vacancy subsequently caused by the death, resignation, or retirement of the disabled judge shall not be filled. Any judge whose disability causes the appointment of an additional judge shall, for purpose of precedence, service as chief judge, or temporary performance of the duties of that office, be treated as junior in commission to the other judges of the circuit, district, or court.
 
 (June 25, 1948, ch. 646, 62 Stat. 903; May 24, 1949, ch. 139, §67, 63 Stat. 99; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 85–261, Sept. 2, 1957, 71 Stat. 586; Pub. L. 96–417, title V, §501(9), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 96–458, §3(a), (b), Oct. 15, 1980, 94 Stat. 2036, 2040; Pub. L. 97–164, title I, §112, Apr. 2, 1982, 96 Stat. 29; Pub. L. 98–353, title I, §107, July 10, 1984, 98 Stat. 342; Pub. L. 100–702, title IV, §403(c), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title IV, §402, Dec. 1, 1990, 104 Stat. 5122; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title I, §11043(a)(1), Nov. 2, 2002, 116 Stat. 1855.)
 
@@ -39,6 +39,8 @@ Changes were made in phraseology and arrangement.
 #### 1949 Act
 
 Subsection (a) of this section amends section 372 of title 28, U.S.C., to express the requirement that appointment of successors to justices or judges must be made with confirmation by the Senate. Subsection (b) of this section clarifies the intent of section 372 of title 28, U.S.C., and conforms with the language of section 371 of such title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -97,6 +99,8 @@ Subsec. (c). Pub. L. 96–458, §3(a), added subsec. (c).
 <b>1954</b>—Act Feb. 10, 1954, inserted "; substitute judge on failure to retire" in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted "under this section" after "retire" in third, fourth, and fifth pars.
 
 <b>1949</b>—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted "continuously or otherwise" after "Each justice or judge" in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

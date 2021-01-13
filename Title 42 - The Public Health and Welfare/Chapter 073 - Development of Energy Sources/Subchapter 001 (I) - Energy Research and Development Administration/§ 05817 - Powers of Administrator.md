@@ -28,7 +28,7 @@ Except for public buildings as defined in chapter 33 of title 40, and with respe
 
 (2) The furnishing of medical treatment under subparagraph (A) of paragraph (1) and the furnishing of services and supplies under paragraphs (B) and (C) of paragraph (1) shall be at prices reflecting reasonable value as determined by the Administrator.
 
-(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations or funds which do or will bear all or a part of such cost, or to refund excess sums when necessary; except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governingsuch funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
+(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations or funds which do or will bear all or a part of such cost, or to refund excess sums when necessary; except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governing such funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
 
 #### (d) Acquisition of copyrights and patents
 
@@ -54,7 +54,7 @@ The Administrator is authorized to accept, hold, administer, and utilize gifts, 
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (a), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 

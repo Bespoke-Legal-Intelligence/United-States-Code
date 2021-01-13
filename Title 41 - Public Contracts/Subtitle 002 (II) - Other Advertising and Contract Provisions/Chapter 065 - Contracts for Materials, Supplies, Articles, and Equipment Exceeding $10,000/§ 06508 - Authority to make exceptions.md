@@ -6,7 +6,7 @@ Duty of the Secretary To Make Exceptions.—When the head of an agency of the Un
 
 (b)
 
-Authority of the Secretary To Modify Existing Contracts.—When an agency of the United States and a contractor jointly recommend, the Secretary may modify the terms of an existing contract with respect to minimum wages and maximum hours of labor as the Secretary finds necessary and proper in the public interest or to prevent injustice and undue hardship.
+Authority of the Secretary To Modify Existing Contracts.—When an agency of the United States and a contractor jointly recommend, the Secretary may modify the terms of an existing contract with respect to minimum wages and maximum hours of labor as the Secretary finds necessary and proper in the publicinterest or to prevent injustice and undue hardship.
 
 (c)
 

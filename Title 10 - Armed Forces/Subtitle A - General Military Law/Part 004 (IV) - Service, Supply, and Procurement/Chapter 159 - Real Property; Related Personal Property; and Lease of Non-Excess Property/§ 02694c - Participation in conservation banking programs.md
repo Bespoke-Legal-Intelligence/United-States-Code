@@ -14,7 +14,7 @@ Authority to Participate.—Subject to the availability of appropriated funds, t
 
 (b)
 
-Covered Activities.—Payments to a conservation banking program or "in-lieu-fee" mitigation sponsor under subsection (a) may be made only for the purpose of facilitating one or more of the following activities:
+Covered Activities.—Payments to a conservation banking program or "in-lieu-fee" mitigation sponsor under subsection (a) may bemade only for the purpose of facilitating one or more of the following activities:
 
 &emsp;(1) Military testing, operations, training, or other military activity.
 

@@ -2,9 +2,25 @@
 
 Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–596, §8, 98 Stat. 3138, classified offenses as a felony, misdemeanor, or petty offense.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act \[enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title\] may be cited as the 'Strengthening the Opposition to Female Genital Mutilation Act of 2020' or the 'STOP FGM Act of 2020'."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. O, title X, §1001, Dec. 27, 2020, 134 Stat. 2155, provided that: "This title \[repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title\] may be cited as the 'Clean Up the Code Act of 2019'."
+
+Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act \[enacting section 2261B of this title and amending section 2261A of this title\] may be cited as the 'Combat Online Predators Act'."
+
+Pub. L. 116–179, §1, Oct. 20, 2020, 134 Stat. 855, provided that: "This Act \[amending section 1030 of this title\] may be cited as the 'Defending the Integrity of Voting Systems Act'."
+
+Pub. L. 116–159, div. D, title II, §4201, Oct. 1, 2020, 134 Stat. 741, provided that: "This title \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the 'United States Parole Commission Extension Act of 2020'."
 
 #### Short Title of 2019 Amendment
 
@@ -50,7 +66,7 @@ Pub. L. 114–133, §1, Mar. 9, 2016, 130 Stat. 296, provided that: "This Act \[
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\]may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
+Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
 
 Pub. L. 114–22, title I, §118(a), May 29, 2015, 129 Stat. 247, provided that: "This section \[amending section 1591 of this title\] may be cited as the 'Stop Advertising Victims of Exploitation Act of 2015' or the 'SAVE Act of 2015'."
 
@@ -100,7 +116,7 @@ Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L.111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
 Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: "This Act \[enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title\] may be cited as the 'Foreign Evidence Request Efficiency Act of 2009'."
 
@@ -158,7 +174,7 @@ Pub. L. 109–177, title VI, §601, Mar. 9, 2006, 120 Stat. 251, provided that: 
 
 Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: "This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Terrorist and Military Hoaxes Act of 2004'."
 
-Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: "This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the 'Weapons of Mass Destruction Prohibition Improvement Act of 2004'."
+Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: "This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a,and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the 'Weapons of Mass Destruction Prohibition Improvement Act of 2004'."
 
 Pub. L. 108–458, title VI, §6901, Dec. 17, 2004, 118 Stat. 3769, provided that: "This subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title\] may be cited as the 'Prevention of Terrorist Access to Destructive Weapons Act of 2004'."
 

@@ -8,9 +8,11 @@ Nothing in this Act or an amendment made by this Act shall be construed as creat
 
 (Pub. L. 110–199, §6, Apr. 9, 2008, 122 Stat. 660; Pub. L. 115–391, title V, §502(h), Dec. 21, 2018, 132 Stat. 5231.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Actof 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.
 
 Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199. For complete classification of section 113 of Pub. L. 110–199 to the Code, see Tables.
 

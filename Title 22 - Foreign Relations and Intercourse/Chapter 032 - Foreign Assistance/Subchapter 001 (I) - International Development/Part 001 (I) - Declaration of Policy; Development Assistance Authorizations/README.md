@@ -61,3 +61,4 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 - [&sect; 02152j&#8211;2 - Training requirements regarding the participation of women in conflict prevention and peace building](%C2%A7%2002152j%E2%80%932%20-%20Training%20requirements%20regarding%20the%20participation%20of%20women%20in%20conflict%20prevention%20and%20peace%20building.md)
 - [&sect; 02152j&#8211;3 - Consultation and collaboration](%C2%A7%2002152j%E2%80%933%20-%20Consultation%20and%20collaboration.md)
 - [&sect; 02152j&#8211;4 - Definitions](%C2%A7%2002152j%E2%80%934%20-%20Definitions.md)
+- [&sect; 02152k - Assistance to improve early childhood outcomes globally](%C2%A7%2002152k%20-%20Assistance%20to%20improve%20early%20childhood%20outcomes%20globally.md)

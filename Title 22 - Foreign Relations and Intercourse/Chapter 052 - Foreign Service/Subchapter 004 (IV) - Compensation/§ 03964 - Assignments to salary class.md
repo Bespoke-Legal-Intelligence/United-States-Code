@@ -8,6 +8,8 @@
 
 (Pub. L. 96–465, title I, §404, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 103–236, title I, §180(a)(3), Apr. 30, 1994, 108 Stat. 415.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–236 struck out "who are family members of Government employees paid in accordance with a local compensation plan established under" after "section 3967 of this title or".

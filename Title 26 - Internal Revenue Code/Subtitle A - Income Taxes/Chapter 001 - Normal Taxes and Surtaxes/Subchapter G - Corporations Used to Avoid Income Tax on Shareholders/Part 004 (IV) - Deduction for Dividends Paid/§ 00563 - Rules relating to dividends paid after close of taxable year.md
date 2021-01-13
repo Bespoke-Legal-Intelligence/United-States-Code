@@ -6,7 +6,7 @@ In the determination of the dividends paid deduction for purposes of the accumul
 
 #### (b) Personal holding company tax
 
-In the determination of the dividends paid deduction for purposes of the personal holding company tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
+In the determination of the dividends paid deduction for purposes of the personal holdingcompany tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
 
 &emsp;(1) The undistributed personal holding company income of the corporation for the taxable year, computed without regard to this subsection, or
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10, 1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxableyear beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
+Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10, 1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxable year beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
 
 #### Effective Date of 1969 Amendment
 

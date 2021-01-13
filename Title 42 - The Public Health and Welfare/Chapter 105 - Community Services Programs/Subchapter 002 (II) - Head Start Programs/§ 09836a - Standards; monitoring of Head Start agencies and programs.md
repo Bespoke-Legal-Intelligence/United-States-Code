@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) changes over the period since October 27, 1998, in the circumstances and problems typically facing children and families served by Head Start agencies;
 
-&emsp;&emsp;&emsp;(iii) recommendations from the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences, consistent with section 9844(j) of this title;
+&emsp;&emsp;&emsp;(iii) recommendations from the study on Developmental Outcomes and Assessmentsfor Young Children by the National Academy of Sciences, consistent with section 9844(j) of this title;
 
 &emsp;&emsp;&emsp;(iv) developments concerning research-based practices with respect to early childhood education and development, children with disabilities, homeless children, children in foster care, and family services, and best practices with respect to program administration and financial management;
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(B) include as part of the reviews, a review and assessment of program strengths and areas in need of improvement;
 
-&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs haveadequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
+&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs have adequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
 
 &emsp;&emsp;(D) include as part of the reviews, an assessment of the extent to which the programs address the communitywide strategic planning and needs assessment described in section 9835(g)(1)(C) of this title;
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(F) include as part of the reviews, a valid and reliable research-based observational instrument, implemented by qualified individuals with demonstrated reliability, that assesses classroom quality, including assessing multiple dimensions of teacher-child interactions that are linked to positive child development and later achievement;
 
-&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
+&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, andoverall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
 &emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
 

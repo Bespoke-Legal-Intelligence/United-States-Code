@@ -16,9 +16,13 @@ Section was extended and made applicable to trustees and debtors in possession. 
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–598 substituted "Except as provided in section 1166 of title 11, a trustee" for "A trustee".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

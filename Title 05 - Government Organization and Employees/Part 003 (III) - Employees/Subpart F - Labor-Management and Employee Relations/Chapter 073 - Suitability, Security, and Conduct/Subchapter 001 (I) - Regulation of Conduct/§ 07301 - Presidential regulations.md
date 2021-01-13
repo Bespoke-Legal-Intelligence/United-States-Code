@@ -22,6 +22,8 @@ The words "employees in the executive branch" are substituted for "persons who m
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: "That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the 'Hatch Act Reform Amendments of 1993'."
@@ -142,14 +144,6 @@ Pub. L. 104–52, title VI, §624, Nov. 19, 1995, 109 Stat. 502.
 
 Pub. L. 103–329, title VI, §638, Sept. 30, 1994, 108 Stat. 2432.
 
-#### Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council
-
-Presidential Order of December 8, 1969, provided that:
-
-Pursuant to the provisions of section 4 of Executive Order 11491 \[set out as a note under this section\], I hereby designate the Director of the Bureau of the Budget \[now the Office of Management and Budget\] as a member of the Federal Labor Relations Council. This order of designation shall be published in the Federal Register.
-
-Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
 Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
@@ -186,7 +180,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 &emsp;&emsp;"(iii) the nature, frequency, and type of drug testing proposed to be instituted; and
 
-&emsp;"(C) the Director of the Office of Management and Budget has submitted in writing to the Committees on Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
+&emsp;"(C) the Director of the Office of Management and Budget has submitted in writing to the Committeeson Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
 
 "(2) Notwithstanding subsection (g), for purposes of this subsection, the term "agency" means—
 
@@ -274,6 +268,16 @@ Exclusion.—Subsection (a) does not apply to a gift or memento that has a value
 
 Definitions.—For purposes of this section, the terms 'officer', 'employee', and 'Member of Congress' have the meanings given those terms in sections 2104, 2105, and 2106, respectively, of title 5, United States Code."
 
+#### <b>Executive Documents</b>
+
+#### Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council
+
+Presidential Order of December 8, 1969, provided that:
+
+Pursuant to the provisions of section 4 of Executive Order 11491 \[set out as a note under this section\], I hereby designate the Director of the Bureau of the Budget \[now the Office of Management and Budget\] as a member of the Federal Labor Relations Council. This order of designation shall be published in the Federal Register.
+
+Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Executive Order No. 9845
 
 Ex. Ord. No. 9845, Apr. 28, 1947, 12 F.R. 2799, which permitted Bureau of Reclamation employees to accept appointments as constables or deputy sheriffs under state or territorial laws, was revoked by Ex. Ord. No. 11408, Apr. 25, 1968, 33 F.R. 6459.
@@ -346,7 +350,7 @@ Sec. 4. <i>Drug Testing Procedures</i>. (a) Sixty days prior to the implementati
 
 (d) The Secretary of Health and Human Services is authorized to promulgate scientific and technical guidelines for drug testing programs, and agencies shall conduct their drug testing programs in accordance with these guidelines once promulgated.
 
-Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer any employee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling, and referral for treatment or rehabilitation as appropriate.
+Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer anyemployee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling, and referral for treatment or rehabilitation as appropriate.
 
 (b) Agencies shall initiate action to discipline any employee who is found to use illegal drugs, <i>provided that</i> such action is not required for an employee who:
 
@@ -396,7 +400,7 @@ Sec. 7. <i>Definitions</i>.(a) This Order applies to all agencies of the Executi
 
 (d) For purposes of this Order, the term "employee in a sensitive position" refers to:
 
-(1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, orNoncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
+(1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, or Noncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
 
 (2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of \[former\] Executive Order No. 12356;
 
@@ -470,7 +474,7 @@ Sec. 201. <i>The Office of Government Ethics</i>. The Office of Government Ethic
 
 (c) Promulgating, with the concurrence of the Attorney General, regulations interpreting the provisions of the post-employment statute, section 207 of title 18, United States Code; the general conflict-of-interest statute, section 208 of title 18, United States Code; and the statute prohibiting supplementation of salaries, section 209 of title 18, United States Code.
 
-(d) Promulgating, in consultation with the Attorney General and the Office of Personnel Management, regulations establishing a system of nonpublic (confidential) financial disclosure by executive branch employees to complement the system of public disclosure under the Ethics in Government Act of 1978 \[Pub. L.95–521, see Tables for classification\]. Such regulations shall include criteria to guide agencies in determining which employees shall submit these reports.
+(d) Promulgating, in consultation with the Attorney General and the Office of Personnel Management, regulations establishing a system of nonpublic (confidential) financial disclosure by executive branch employees to complement the system of public disclosure under the Ethics in Government Act of 1978 \[Pub. L. 95–521, see Tables for classification\]. Such regulations shall include criteria to guide agencies in determining which employees shall submit these reports.
 
 (e) Ensuring that any implementing regulations issued by agencies under this order are consistent with and promulgated in accordance with this order.
 
@@ -542,7 +546,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
-Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a)The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
 
 (b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
 
@@ -816,7 +820,7 @@ Sec. 5. <i>Enforcement</i>. (a) The contractual, fiduciary, and ethical commitme
 
 (1) upon receiving information regarding the possible breach of any commitment in a signed pledge, to request any appropriate Federal investigative authority to conduct such investigations as may be appropriate; and
 
-(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurredor will occur or continue, if not enjoined, to commence a civil action on behalf of the United States against the former officer or employee in any United States District Court with jurisdiction to consider the matter.
+(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action on behalf of the United States against the former officer or employee in any United States District Court with jurisdiction to consider the matter.
 
 (d) In such civil action, the Attorney General or his or her designee is authorized to request any and all relief authorized by law, including but not limited to:
 

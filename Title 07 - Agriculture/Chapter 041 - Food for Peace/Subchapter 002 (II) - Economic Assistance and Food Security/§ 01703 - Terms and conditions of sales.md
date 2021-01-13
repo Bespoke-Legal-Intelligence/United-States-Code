@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 104–127, §204(2), struck out "less than 10 nor" before "
 
 Subsec. (d). Pub. L. 104–127, §204(3), substituted "developing country or private entity" for "recipient country" and "5 years" for "7 years".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiringPresident to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
 <b>1987</b>—Subsec. (r). Pub. L. 100–202 added subsec. (r).
 
@@ -72,7 +72,7 @@ Subsec. (l). Pub. L. 97–113, §401(4), struck out requirement that President o
 
 Subsec. (d). Pub. L. 95–88, §201(b), struck out provisions that "friendly country" not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: <i>Provided</i>, That this exclusion from the definition of "friendly country" could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that "friendly country" also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–161, §203(1), substituted "efforts to increase their own agricultural production,especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth" for "efforts to meet their problems of food production and population growth".
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §203(1), substituted "efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth" for "efforts to meet their problems of food production and population growth".
 
 Subsec. (b). Pub. L. 94–161, §203(2), substituted "section 1704 and in section 1706(b)(2) of this title" for "section 1704 of this title".
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1977 Amendment
 

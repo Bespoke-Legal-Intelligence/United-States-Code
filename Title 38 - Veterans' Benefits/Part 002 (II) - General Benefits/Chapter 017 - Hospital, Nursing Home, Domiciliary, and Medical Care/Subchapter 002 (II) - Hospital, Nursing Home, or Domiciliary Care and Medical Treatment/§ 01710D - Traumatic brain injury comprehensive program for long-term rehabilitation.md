@@ -30,6 +30,8 @@ Report.—Not later than one year after the date of the enactment of this sectio
 
 (Added Pub. L. 110–181, div. A, title XVII, §1702(a), Jan. 28, 2008, 122 Stat. 488; amended Pub. L. 112–154, title I, §107(b), Aug. 6, 2012, 126 Stat. 1173; Pub. L. 114–58, title VI, §601(5), Sept. 30, 2015, 129 Stat. 538.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.

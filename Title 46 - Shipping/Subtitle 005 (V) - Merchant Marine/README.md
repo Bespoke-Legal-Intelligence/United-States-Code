@@ -30,6 +30,7 @@
 | [<b>531.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20531%20-%20Maritime%20Security%20Fleet/README.md) | <b>Maritime Security Fleet</b> | <b>53101</b> |
 | [<b>532.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20532%20-%20Cable%20Security%20Fleet/README.md) | <b>Cable Security Fleet</b> | <b>53201</b> |
 | [<b>533.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20533%20-%20Construction%20Reserve%20Funds/README.md) | <b>Construction Reserve Funds</b> | <b>53301</b> |
+| [<b>534.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20534%20-%20Tanker%20Security%20Fleet/README.md) | <b>Tanker Security Fleet</b> | <b>53401</b> |
 | [<b>535.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20535%20-%20Capital%20Construction%20Funds/README.md) | <b>Capital Construction Funds</b> | <b>53501</b> |
 | [<b>537.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20537%20-%20Loans%20and%20Guarantees/README.md) | <b>Loans and Guarantees</b> | <b>53701</b> |
 | [<b>539.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20539%20-%20War%20Risk%20Insurance/README.md) | <b>War Risk Insurance</b> | <b>53901</b> |
@@ -44,7 +45,7 @@
 | [<b>551.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20551%20-%20Coastwise%20Trade/README.md) | <b>Coastwise Trade</b> | <b>55101</b> |
 | [<b>553.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20553%20-%20Passenger%20and%20Cargo%20Preferences/README.md) | <b>Passenger and Cargo Preferences</b> | <b>55301</b> |
 | [<b>555.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20555%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>55501</b> |
-| [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Short%20Sea%20Transportation/README.md) | <b>Short Sea Transportation</b> | <b>55601</b> |
+| [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Marine%20Highways/README.md) | <b>Short Sea Transportation </b><b><sup>1</sup></b> | <b>55601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,7 +77,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3521(b), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 
@@ -85,6 +90,8 @@
 <b>2007</b>—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
 <b>2006</b>—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 "Maritime Security Fleet".
+
+<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

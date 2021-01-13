@@ -10,7 +10,7 @@ Architecture and Art.—The Commission shall build and maintain works of archite
 
 (c)
 
-Control and Supervision of Materials, Design, and Building.—(1) The Commission shall control the materials and design and prescribe regulations for, and supervise the building of, all memorial monuments and buildings inUnited States cemeteries located outside the United States and the territories and possessions of the United States.
+Control and Supervision of Materials, Design, and Building.—(1) The Commission shall control the materials and design and prescribe regulations for, and supervise the building of, all memorial monuments and buildings in United States cemeteries located outside the United States and the territories and possessions of the United States.
 
 (2) The Commission shall control the design and prescribe regulations for the building of all memorial monuments and buildings commemorating the service of American Armed Forces that are built in a foreign country or political division of the foreign country that authorizes the Commission to carry out those duties and powers.
 
@@ -61,6 +61,8 @@ In subsection (a), the words "or shall hereafter serve" are omitted as obsolete.
 In subsection (b), the words "Secretatry \[sic\] of Veterans Affairs" are substituted for "Department of Defense", and the words "the National Cemetery System, as described in section 2400(b) of title 38" are substituted for "cemeteries within the United States, its Territories and possessions", because of section 6 of the National Cemeteries Act of 1973 (Public Law 93-43, 38 U.S.C. 2404 note), which transferred jurisdiction over and responsibility for the national cemeteries (with certain exceptions) from the Secretary of the Army to the Administrator of Veterans' Affairs.
 
 In subsection (c)(2), the words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

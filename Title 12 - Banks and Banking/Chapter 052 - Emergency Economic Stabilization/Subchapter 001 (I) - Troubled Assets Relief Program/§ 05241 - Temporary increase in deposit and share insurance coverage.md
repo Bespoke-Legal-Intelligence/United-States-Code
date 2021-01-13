@@ -14,7 +14,7 @@
 
 #### (1) Increased amount
 
-&emsp;Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) <sup>1</sup> of the Federal CreditUnion Act (12 U.S.C. 1787(k)(5)) shall apply with "$250,000" substituted for "$100,000".
+&emsp;Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) <sup>1</sup> of the Federal Credit Union Act (12 U.S.C. 1787(k)(5)) shall apply with "$250,000" substituted for "$100,000".
 
 #### (2) Borrowing limits temporarily lifted
 
@@ -25,6 +25,8 @@
 The temporary increase in the standard maximum deposit insurance amount made under this section shall not be used to make any inflation adjustment under section 11(a)(1)(F) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)(F)) for purposes of that Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\].
 
 (Pub. L. 110–343, div. A, title I, §136, Oct. 3, 2008, 122 Stat. 3799; Pub. L. 111–22, div. A, title II, §204(a), May 20, 2009, 123 Stat. 1648.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

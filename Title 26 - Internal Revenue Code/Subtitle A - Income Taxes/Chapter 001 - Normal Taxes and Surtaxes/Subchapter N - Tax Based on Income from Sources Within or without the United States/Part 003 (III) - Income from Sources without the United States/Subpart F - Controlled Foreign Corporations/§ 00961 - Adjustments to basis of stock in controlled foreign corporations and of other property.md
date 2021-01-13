@@ -2,7 +2,7 @@
 
 #### (a) Increase in basis
 
-Under regulations prescribed by the Secretary, the basis of a United States shareholder's stock in a controlled foreign corporation, and the basis of property of a United States shareholder by reason of which he is considered under section 958(a)(2) as owning stock of a controlled foreign corporation, shall be increased by the amount required to be included in his gross income under section 951(a) with respect to such stock or with respect to such property, as the case may be, but only to the extent to which such amount was included in the gross income of such United States shareholder. In the case of a United States shareholder who has made an election under section 962 for the taxable year, the increase in basis provided by this subsectionshall not exceed an amount equal to the amount of tax paid under this chapter with respect to the amounts required to be included in his gross income under section 951(a).
+Under regulations prescribed by the Secretary, the basis of a United States shareholder's stock in a controlled foreign corporation, and the basis of property of a United States shareholder by reason of which he is considered under section 958(a)(2) as owning stock of a controlled foreign corporation, shall be increased by the amount required to be included in his gross income under section 951(a) with respect to such stock or with respect to such property, as the case may be, but only to the extent to which such amount was included in the gross income of such United States shareholder. In the case of a United States shareholder who has made an election under section 962 for the taxable year, the increase in basis provided by this subsection shall not exceed an amount equal to the amount of tax paid under this chapter with respect to the amounts required to be included in his gross income under section 951(a).
 
 #### (b) Reduction in basis
 
@@ -16,7 +16,7 @@ Under regulations prescribed by the Secretary, the basis of a United States shar
 
 #### (c) Basis adjustments in stock held by foreign corporations
 
-Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
+Under regulations prescribed by the Secretary, if a United States shareholder is treated undersection 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
 
 &emsp;(1) the basis of such stock, and
 

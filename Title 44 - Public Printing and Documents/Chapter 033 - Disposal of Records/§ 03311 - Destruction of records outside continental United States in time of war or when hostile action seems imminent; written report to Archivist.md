@@ -14,9 +14,13 @@ During a state of war between the United States and another nation, or when host
 
 Based on 44 U.S. Code, 1964 ed., §376 (July 7, 1943, ch. 192, §11, 57 Stat. 382; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

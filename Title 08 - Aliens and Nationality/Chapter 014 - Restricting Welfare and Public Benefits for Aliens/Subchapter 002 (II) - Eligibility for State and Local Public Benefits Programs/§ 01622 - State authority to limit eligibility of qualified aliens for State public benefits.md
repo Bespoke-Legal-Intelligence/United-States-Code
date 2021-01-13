@@ -44,9 +44,11 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 (Pub. L. 104–193, title IV, §412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
@@ -71,6 +73,8 @@ Subsec. (b)(3)(A). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, or a
 Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
 Subsec. (b)(3)(C). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

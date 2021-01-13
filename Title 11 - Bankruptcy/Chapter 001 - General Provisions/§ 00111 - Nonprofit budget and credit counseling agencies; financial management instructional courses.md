@@ -12,7 +12,7 @@
 
 &emsp;(2) The United States trustee (or bankruptcy administrator, if any) shall have determined that such agency or such instructional course fully satisfies the applicable standards set forth in this section.
 
-&emsp;(3) If a nonprofit budget and credit counseling agency or instructional course did not appear on the approved list for the district under subsection (a) immediately before approval under this section, approval under this subsection of such agency or such instructional course shall be for a probationary period not to exceed 6 months.
+&emsp;(3) If a nonprofit budget and credit counseling agency or instructional course did not appear on the approved list for the districtunder subsection (a) immediately before approval under this section, approval under this subsection of such agency or such instructional course shall be for a probationary period not to exceed 6 months.
 
 &emsp;(4) At the conclusion of the applicable probationary period under paragraph (3), the United States trustee (or bankruptcy administrator, if any) may only approve for an additional 1-year period, and for successive 1-year periods thereafter, an agency or instructional course that has demonstrated during the probationary or applicable subsequent period of approval that such agency or instructional course—
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(C) adequate facilities situated in reasonably convenient locations at which such instructional course is offered, except that such facilities may include the provision of such instructional course by telephone or through the Internet, if such instructional course is effective;
 
-&emsp;&emsp;(D) the preparation and retention of reasonable records (which shall include the debtor's bankruptcy case number) to permit evaluation of the effectiveness of such instructional course, including any evaluation of satisfaction of instructional course requirements for each debtor attending such instructional course, which shall be available for inspection and evaluation by the Executive Office for United States Trustees, the United States trustee (or the bankruptcyadministrator, if any), or the chief bankruptcy judge for the district in which such instructional course is offered; and
+&emsp;&emsp;(D) the preparation and retention of reasonable records (which shall include the debtor's bankruptcy case number) to permit evaluation of the effectiveness of such instructional course, including any evaluation of satisfaction of instructional course requirements for each debtor attending such instructional course, which shall be available for inspection and evaluation by the Executive Office for United States Trustees, the United States trustee (or the bankruptcy administrator, if any), or the chief bankruptcy judge for the district in which such instructional course is offered; and
 
 &emsp;&emsp;(E) if a fee is charged for the instructional course, charge a reasonable fee, and provide services without regard to ability to pay the fee; and
 
@@ -68,7 +68,7 @@
 
 (e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counseling agency upon finding such agency does not meet the qualifications of subsection (b).
 
-(f) The United States trustee (or the bankruptcy administrator, if any) shall notify the clerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
+(f) The United States trustee (or the bankruptcy administrator, if any) shall notify theclerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
 
 (g)(1) No nonprofit budget and credit counseling agency may provide to a credit reporting agency information concerning whether a debtor has received or sought instruction concerning personal financial management from such agency.
 
@@ -80,9 +80,13 @@
 
 (Added Pub. L. 109–8, title I, §106(e)(1), Apr. 20, 2005, 119 Stat. 38; amended Pub. L. 111–327, §2(a)(8), Dec. 22, 2010, 124 Stat. 3558.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(1)(E). Pub. L. 111–327 substituted "; and" for period at end and realigned margin.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

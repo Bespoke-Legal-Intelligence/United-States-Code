@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated to carry out the provisions of thi
 
 #### (b) Funding requests
 
-The President shall include in the budget submitted to Congress for each fiscal year undersection 1105 of title 31 a request for amounts for the activities of the Board under this subchapter during such fiscal year.
+The President shall include in the budget submitted to Congress for each fiscal year under section 1105 of title 31 a request for amounts for the activities of the Board under this subchapter during such fiscal year.
 
 (Pub. L. 106–567, title VII, §708, Dec. 27, 2000, 114 Stat. 2863.)
 

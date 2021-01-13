@@ -4,5 +4,5 @@ Section, Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, §2(32), Oct. 
 
 #### Effective Date of Repeal
 
-Repeal effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+Repeal effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, seesection 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 

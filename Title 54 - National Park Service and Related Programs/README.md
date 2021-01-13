@@ -46,6 +46,7 @@
 | :--- | :---: | ---: |
 | [<b>2001.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202001%20-%20Coordination%20of%20Programs/README.md) | <b>Coordination of Programs</b> | <b>200101</b> |
 | [<b>2003.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202003%20-%20Land%20and%20Water%20Conservation%20Fund/README.md) | <b>Land and Water Conservation Fund</b> | <b>200301</b> |
+| [<b>2004.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202004%20-%20National%20Parks%20and%20Public%20Land%20Legacy%20Restoration%20Fund/README.md) | <b>National Parks and Public Land Legacy Restoration Fund</b> | <b>200401</b> |
 | [<b>2005.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202005%20-%20Urban%20Park%20and%20Recreation%20Recovery%20Program/README.md) | <b>Urban Park and Recreation Recovery Program</b> | <b>200501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -160,7 +161,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–9, title II, §2407(b), Mar. 12, 2019, 133 Stat. 750, substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in item for chapter 3084.
 
@@ -665,6 +670,8 @@ Disposition Table
 | 16 U.S.C. 5982 | Previously repealed. |
 | 16 U.S.C. 5991 through 5995 | Previously repealed. |
 | 16 U.S.C. 6011 | Repealed as obsolete. Required the Secretary to submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Resources and Appropriations of the House of Representatives, not later than one year after November 13, 1998, a report on law enforcement programs of the National Park Service. |
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enactment of Title
 

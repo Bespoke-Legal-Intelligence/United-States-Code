@@ -28,7 +28,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### (e) Allocation of funds
 
-The President may allocate or transfer to any agency of the United States Government anyfunds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
+The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
 
 #### (f) Utilization of other Government agency services and facilities
 
@@ -62,11 +62,13 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 &emsp;(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, §5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, §203, Oct. 9, 2018, 132 Stat. 3655.)
+(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360;Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, §5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, §203, Oct. 9, 2018, 132 Stat. 3655.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act.For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -106,17 +108,21 @@ Subsec. (h). Pub. L. 95–331, §5(a)(3), added subsec. (h).
 
 <b>1963</b>—Subsec. (a)(3). Pub. L. 88–200 inserted provision for transfer of property.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
 
-#### Delegation of Functions; Allocation of Funds
-
-Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under section 2501 of this title.
-
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
 Pub. L. 97–113, title VI, §604(c), Dec. 29, 1981, 95 Stat. 1543, provided: "To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions; Allocation of Funds
+
+Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 

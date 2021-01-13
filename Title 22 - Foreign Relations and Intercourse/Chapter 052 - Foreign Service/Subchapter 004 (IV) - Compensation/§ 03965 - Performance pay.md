@@ -8,7 +8,7 @@ Subject to subsection (e), members of the Senior Foreign Service who are serving
 
 &emsp;(2) under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service,
 
-> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
+> shall be eligible to compete for performance pay in accordance with this section. Performancepay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
 
 #### (b) Criteria; limitations
 
@@ -38,6 +38,8 @@ Notwithstanding any other provision of law, the Secretary of State may provide f
 
 (Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, §312(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 108–447, div. B, title IV, §412(b), Dec. 8, 2004, 118 Stat. 2905.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(4). Pub. L. 108–447 inserted ", or the limitation under section 3962(a)(3) of this title, whichever is higher" before period at end.
@@ -54,7 +56,9 @@ Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 
 <b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year."
 
-<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year." and added par. (5).
+<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a memberof the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year." and added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -76,7 +80,7 @@ Awards in Subsequent Fiscal Years.—The Secretary may not make a performance aw
 
 Application to USIA, AID, and ACDA.—Subsections (a) and (b) shall apply to the United States Information Agency, the Agency for International Development, and the United States Arms Control and Disarmament Agency in the same manner as such subsections apply to the Department of State, except that the Director of the United States Information Agency, the Administrator of the Agency for International Development, and the Director of the United States Arms Control and Disarmament Agency shall be subject to the limitations and authority of the Secretary of State under subsections (a) and (b) for their respective agencies."
 
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title, and for abolition, transfer offunctions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title, and for abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Review of Performance Pay Programs
 

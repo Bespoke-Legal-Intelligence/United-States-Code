@@ -112,7 +112,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any cost paid or incurred after the date which is 10years after the date of the enactment of the Tax Cuts and Jobs Act.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any cost paid or incurred after the date which is 10 years after the date of the enactment of the Tax Cuts and Jobs Act.
 
 #### (3) Election to have this section not apply
 
@@ -248,19 +248,13 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (4) Exemption for aging process of beer, wine, and distilled spirits
 
-#### (A) In general
+&emsp;For purposes of this subsection, the production period shall not include the aging period for—
 
-&emsp;&emsp;For purposes of this subsection, the production period shall not include the aging period for—
+&emsp;&emsp;(A) beer (as defined in section 5052(a)),
 
-&emsp;&emsp;&emsp;(i) beer (as defined in section 5052(a)),
+&emsp;&emsp;(B) wine (as described in section 5041(a)), or
 
-&emsp;&emsp;&emsp;(ii) wine (as described in section 5041(a)), or
-
-&emsp;&emsp;&emsp;(iii) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-
-#### (B) Termination
-
-&emsp;&emsp;This paragraph shall not apply to interest costs paid or accrued after December 31, 2020.
+&emsp;&emsp;(C) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
 
 #### (5) Definitions
 
@@ -330,7 +324,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "artist" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a picture, painting, sculpture, statue, etching, drawing, cartoon, graphic design, or original print edition.
+&emsp;&emsp;&emsp;The term "artist" means any individual if the personal efforts of such individualcreate (or may reasonably be expected to create) a picture, painting, sculpture, statue, etching, drawing, cartoon, graphic design, or original print edition.
 
 #### (ii) Criteria
 
@@ -378,13 +372,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064; Pub. L. 115–97, title I, §§13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, 131 Stat. 2103, 2113, 2169, 2170; Pub. L. 116–94, div. Q, title I, §144(a)(1), Dec. 20, 2019, 133 Stat. 3234.)
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064; Pub. L. 115–97, title I, §§13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, 131 Stat. 2103, 2113, 2169, 2170; Pub. L. 116–94, div. Q, title I, §144(a)(1), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §106(a)(1), Dec. 27, 2020, 134 Stat. 3041.)
 
 #### References in Text
 
 The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(4). Pub. L. 116–260 amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) and (B) relating to exemption for aging process of beer, wine, and distilled spirits, and termination of such exemption after Dec. 31, 2020, respectively.
 
 <b>2019</b>—Subsec. (f)(4)(B). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
 
@@ -414,7 +410,7 @@ In general.—In the case of a personal service corporation, this subsection sha
 
 "(ii)
 
-Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is an employee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
+Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is anemployee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
 
 "(iii)
 
@@ -447,6 +443,10 @@ Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "p
 Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted "allocable (as determined under paragraph (2)) to" for "incurred or continued in connection with" and inserted "(as so determined)" after "allocable".
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection \[amending this section\] shall apply to interest costs paid or accrued after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
@@ -590,7 +590,7 @@ Pub. L. 115–97, title I, §13809, as added by Pub. L. 115–123, div. D, title
 
 #### Allocation Ratio for Apportioning Storage Costs and Related Handling Costs
 
-Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: "The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986))."
+Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: "The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year andby multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986))."
 
 #### Amortization of Past Service Pension Costs
 

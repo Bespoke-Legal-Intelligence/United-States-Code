@@ -40,7 +40,7 @@
 
 (d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) of subsection (c)(4).
 
-(e)(1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter madeby the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
+(e)(1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
 
 (2)(A) Except as provided in this paragraph, part 1 of subtitle E, relating to withdrawal liability, takes effect on September 26, 1980.
 
@@ -99,6 +99,8 @@
 (i) The preceding provisions of this section shall not apply with respect to amendments made to this subchapter in provisions enacted after October 22, 1986.
 
 (Pub. L. 93–406, title IV, §4402, formerly §4082, Sept. 2, 1974, 88 Stat. 1034; S. Res. 4, Feb. 4, 1977; Pub. L. 95–214, §1, Dec. 19, 1977, 91 Stat. 1501; S. Res. 30, Mar. 7, 1979; Pub. L. 96–24, June 19, 1979, 93 Stat. 70; Pub. L. 96–239, Apr. 30, 1980, 94 Stat. 341; Pub. L. 96–293, §1, June 30, 1980, 94 Stat. 610; renumbered and amended Pub. L. 96–364, title I, §108(a)–(c)(1), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 98–369, div. A, title V, §558(b)(1)(B), (C), July 18, 1984, 98 Stat. 899; Pub. L. 99–514, title XVIII, §1852(i), Oct. 22, 1986, 100 Stat. 2869; Pub. L. 101–239, title VII, §§7862(a), 7894(h)(5)(A), Dec. 19, 1989, 103 Stat. 2431, 2451; Pub. L. 112–141, div. D, title II, §40234(b)(2), July 6, 2012, 126 Stat. 858.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ Subsec. (c)(4). Pub. L. 95–214, §1(a)(4), substituted "July 1, 1979" for "Jan
 Subsec. (c)(4)(D). Pub. L. 95–214, §1(a)(5), substituted "June 30, 1979" for "December 31, 1977".
 
 Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

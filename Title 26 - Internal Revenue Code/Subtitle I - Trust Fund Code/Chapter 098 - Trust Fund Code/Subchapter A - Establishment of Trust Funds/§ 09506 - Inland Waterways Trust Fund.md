@@ -30,7 +30,7 @@ Section 102(a) of the Water Resources Development Act of 1986 (as in effect on t
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 made technical corrections to directory language of Pub. L. 99–499, §521(b)(3), see 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499, as amended by Pub. L. 100–647, §1018(u)(18), inserted at end "The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b)."
+<b>1986</b>—Subsec. (b). Pub. L. 99–499, as amended by Pub. L. 100–647, §1018(u)(18), inserted at end "The precedingsentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b)."
 
 #### Effective Date of 1988 Amendment
 

@@ -6,11 +6,15 @@
 
 (c) Upon approval by the President the names of officers selected for promotion by a board convened under section 2106 of this title shall be promptly disseminated to the service at large.
 
-(d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any person not a member of the board.
+(d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any individual who is not a member of the board.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181, §261; amended Pub. L. 112–213, title II, §208(b), Dec. 20, 2012, 126 Stat. 1549; renumbered §2118 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181, §261; amended Pub. L. 112–213, title II, §208(b), Dec. 20, 2012, 126 Stat. 1549; renumbered §2118 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(16), Jan. 1, 2021, 134 Stat. 4748.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 116–283 substituted "individual who is" for "person".
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 261 of this title as this section.
 
@@ -19,6 +23,8 @@ Subsecs. (a), (c). Pub. L. 115–282, §123(b)(2), substituted "section 2106" fo
 Subsec. (d). Pub. L. 115–282, §123(b)(2), substituted "section 2120" for "section 263".
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–213 substituted "selection board, including a special selection board convened under section 263," for "selection board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

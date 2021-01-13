@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 "Temporary extension of section 2388".

@@ -28,7 +28,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 (3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
-(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall be paid at a rate determined by the Secretary concerned, which rate may not exceed the following:
+(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall bepaid at a rate determined by the Secretary concerned, which rate may not exceed the following:
 
 &emsp;(A) $10,000 per year, if the officer has less than three years of creditable service.
 
@@ -54,7 +54,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 Active-Duty Agreement.—(1) An officer may not be paid additional special pay under paragraph (4) or (6) of subsection (a) for any 12-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
-(2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by paragraph (4) or (6) of subsection (a). If such entitlement is terminated, the officer concernedshall be subject to the repayment provisions of section 303a(e) of this title.
+(2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by paragraph (4) or (6) of subsection (a). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (c)
 
@@ -92,6 +92,8 @@ Reserve Dental Officers Special Pay.—(1) A reserve dental officer described in
 
 (Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789; Pub. L. 109–163, div. A, title VI, §§625, 626, 687(b)(6), Jan. 6, 2006, 119 Stat. 3295, 3328; Pub. L. 109–364, div. A, title VI, §615(a), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §616(a), Jan. 28, 2008, 122 Stat. 150.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted "at a rate determined by the Secretary concerned, which rate may not exceed the following" for "at the following rates" in introductory provisions.
@@ -110,7 +112,7 @@ Subsec. (a)(6). Pub. L. 109–163, §625(a)(2), added par. (6).
 
 Subsec. (b). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)" in two places.
 
-Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentence which read as follows: "If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement."
+Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentencewhich read as follows: "If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement."
 
 Subsec. (d). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)".
 
@@ -176,6 +178,8 @@ Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
 <b>1980</b>—Pub. L. 96–284 struck out ", in addition to any other pay or allowances to which he is entitled," after "entitled" and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. A, title VI, §616(b), Jan. 28, 2008, 122 Stat. 150, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to agreements entered into under section 302b(b) of title 37, United States Code, on or after the date of the enactment of this Act \[Jan. 28, 2008\]."
@@ -224,5 +228,5 @@ Pub. L. 99–145, title VI, §639(d), Nov. 8, 1985, 99 Stat. 651, as amended by 
 
 "(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title."
 
-\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, setout as an Effective Date of 1986 Amendment note under section 301 of this title.\]
+\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.\]
 

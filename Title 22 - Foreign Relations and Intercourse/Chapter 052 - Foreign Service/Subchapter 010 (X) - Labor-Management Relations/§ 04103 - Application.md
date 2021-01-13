@@ -16,13 +16,17 @@ The President may by Executive order exclude any subdivision of the Department f
 
 The President may by Executive order suspend any provision of this subchapter with respect to any post, bureau, office, or activity of the Department, if the President determines in writing that the suspension is necessary in the interest of national security because of an emergency.
 
-(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug.24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(3), title XIV, §1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(3), title XIV, §1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1422(b)(4)(C), substituted "Agency for International Development" for "United States International Development Cooperation Agency".
 
 Pub. L. 105–277, §1335(k)(3), substituted "Broadcasting Board of Governors" for "United States Information Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

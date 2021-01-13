@@ -34,7 +34,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 (1) There is hereby established the Na Hoa Pili O Kaloko-Honokōhau (The Friends of Kaloko-Honokōhau), an Advisory Commission for the park. The Commission shall be composed of nine members, appointed by the Secretary, at least five of whom shall be selected from nominations provided by native Hawaiian organizations. All members of the Commission shall be residents of the State of Hawaii, and at least six members shall be native Hawaiians. Members of the Commission shall be appointed for five-year terms except that initial appointment(s) shall consist of two members appointed for a term of five years, two for a term of four years, two for a term of three years, two for a term of two years, and one for a term of one year. No member may serve more than one term consecutively.
 
-(2) The Secretary shall designate one member of the Commission to be Chairman. Any vacancy in the Commission shall be filled by appointment for the remainder of the term.
+(2) The Secretary shall designate one member of the Commission to be Chairman. Any vacancyin the Commission shall be filled by appointment for the remainder of the term.
 
 (3) Members of the Commission shall serve without compensation. The Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this section on vouchers signed by the Chairman.
 

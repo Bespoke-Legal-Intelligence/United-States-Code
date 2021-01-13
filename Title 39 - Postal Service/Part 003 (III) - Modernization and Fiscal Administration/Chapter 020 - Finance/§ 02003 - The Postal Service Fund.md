@@ -14,7 +14,7 @@
 
 &emsp;(5) any other receipts of the Postal Service;
 
-&emsp;(6) the balance in the Post Office Department Fund established under former section 2202 of title 39 as of the commencement of operations of the Postal Service;
+&emsp;(6) the balance in the Post Office Department Fund established under former section2202 of title 39 as of the commencement of operations of the Postal Service;
 
 &emsp;(7) amounts (including proceeds from the sale of forfeited items) from any civil forfeiture conducted by the Postal Service;
 
@@ -32,11 +32,13 @@
 
 (f) Notwithstanding any other provision of this section, any amounts appropriated to the Postal Service under subsection (d) of section 2401 of this title and deposited into the Fund shall be expended by the Postal Service only for the purposes provided in such subsection.
 
-(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after thedate on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
+(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after the date on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
 
 (h) Liabilities of the former Post Office Department to the Employees' Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739; Pub. L. 94–421, §2(c), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 97–35, title XVII, §1725, Aug. 13, 1981, 95 Stat. 760; Pub. L. 97–258, §3(l)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–500, §101(m) \[title II, §201(b)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, §101(m) \[title II, §201(b)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VI, §6252, Nov. 18, 1988, 102 Stat. 4362; Pub. L. 101–239, title IV, §4004(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 102–393, title VI, §638(g), Oct. 6, 1992, 106 Stat. 1790; Pub. L. 105–33, title VII, §7003(a)(2)(B), (b), Aug. 5, 1997, 111 Stat. 663; Pub. L. 109–435, title IV, §401(b)(3), title VI, §603(c)(2), title X, §1008(c)(1), Dec. 20, 2006, 120 Stat. 3225, 3241, 3260; Pub. L. 114–22, title I, §105(c)(2)(A)(iii), May 29, 2015, 129 Stat. 237.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,7 @@ Subsec. (b). Pub. L. 109–435, §401(b)(3)(B), substituted "Except as otherwise
 
 Subsec. (b)(9). Pub. L. 109–435, §1008(c)(1), added par. (9).
 
-Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
+Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) allexpenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
 
 <b>1997</b>—Subsec. (e)(2). Pub. L. 105–33, §7003(a)(2)(B), substituted "section 2401" for "sections 2401 and 2004" in two places.
 
@@ -83,6 +85,8 @@ Subsec. (e)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title II, §20
 <b>1981</b>—Subsec. (e). Pub. L. 97–35 redesignated existing provisions as par. (1) and added par. (2).
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–421 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment; Savings Provisions
 
@@ -114,7 +118,7 @@ Pub. L. 101–239, title IV, §4004(b), Dec. 19, 1989, 103 Stat. 2135, provided 
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XVII, §1727, Aug. 13, 1981, 95 Stat. 761, provided that: "The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title\] (other than section 1726 andthis section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–35, title XVII, §1727, Aug. 13, 1981, 95 Stat. 761, provided that: "The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title\] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
 
 #### Effective Date
 

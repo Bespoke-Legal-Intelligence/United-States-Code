@@ -21,7 +21,7 @@
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 | [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices. |
 | [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
-| [2568a.](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md) | Damaged personal protective equipment: award to members separating from the armed forces and veterans.<sup>1</sup> |
+| [2568a.](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md) | Damaged personal protective equipment: award to members separating from the Armed Forces and veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,6 +30,8 @@
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(39), Jan. 1, 2021, 134 Stat. 3873, substituted "Damaged personal protective equipment: award to members separating from the Armed Forces and veterans" for "Damaged personal protective equipment: award to members separating from the armed forces and veterans" in item 2568a.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title V, §592(c)(2), title XVII, §1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted "Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans" for "Provision of assistance for adaptive sports programs for members of the armed forces" in item 2564a and amended item 2568a without change.
 
@@ -53,7 +55,7 @@ Pub. L. 111–383, div. A, title X, §1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, 
 
 <b>2001</b>—Pub. L. 107–107, div. A, title III, §361(b)(2), title XII, §1201(a)(2), Dec. 28, 2001, 115 Stat. 1065, 1245, substituted "Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief" for "Excess nonlethal supplies: humanitarian relief" in item 2557 and substituted "2565." for "2555." in item 2565.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 "Nuclear test monitoring equipment: furnishing to foreign governments" at end.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 "Nuclear test monitoring equipment: furnishing to foreign governments" at end.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
 
@@ -82,8 +84,6 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 <b>1972</b>—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 <b>1958</b>—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

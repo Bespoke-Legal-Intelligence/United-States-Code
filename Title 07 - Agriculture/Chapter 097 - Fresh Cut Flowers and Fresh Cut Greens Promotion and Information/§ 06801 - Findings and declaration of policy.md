@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(B) cut flowers and cut greens that do not move in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in cut flowers and cut greens;
 
-&emsp;(6) the maintenance and expansion of markets in existence on December 14, 1993, and the development of new or improved markets or uses for cut flowers and cut greens, are needed to preserve and strengthen the economic viability of the domestic cut flowers and cut greens industry for the benefit of producers, handlers, retailers, and the entire floral industry;
+&emsp;(6) the maintenance and expansion of markets in existence on December 14, 1993, and thedevelopment of new or improved markets or uses for cut flowers and cut greens, are needed to preserve and strengthen the economic viability of the domestic cut flowers and cut greens industry for the benefit of producers, handlers, retailers, and the entire floral industry;
 
 &emsp;(7) generic programs of promotion and consumer information can be effective in maintaining and developing markets for cut flowers and cut greens, and have the advantage of equally enhancing the market position for all cut flowers and cut greens;
 

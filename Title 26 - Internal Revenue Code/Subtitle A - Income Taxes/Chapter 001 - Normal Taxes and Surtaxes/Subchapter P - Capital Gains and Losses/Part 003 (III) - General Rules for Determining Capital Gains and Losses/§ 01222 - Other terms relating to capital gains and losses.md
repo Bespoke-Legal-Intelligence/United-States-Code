@@ -4,7 +4,7 @@ For purposes of this subtitle—
 
 #### (1) Short-term capital gain
 
-&emsp;The term "short-term capital gain" means gain from the sale or exchange of a capital asset held for not more than 1 year, if and to the extent such gain is taken into account in computing gross income.
+&emsp;The term "short-term capital gain" means gain from the sale or exchange of a capitalasset held for not more than 1 year, if and to the extent such gain is taken into account in computing gross income.
 
 #### (2) Short-term capital loss
 

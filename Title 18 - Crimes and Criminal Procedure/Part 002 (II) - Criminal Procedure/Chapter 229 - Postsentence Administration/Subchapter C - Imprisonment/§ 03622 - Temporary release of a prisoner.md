@@ -26,13 +26,19 @@ The Bureau of Prisons may release a prisoner from the place of his imprisonment 
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For a prior section 3622, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11755. Prison Labor
 

@@ -1,8 +1,10 @@
 ### §92. Acting as insurance agent or broker
 
-In addition to the powers now vested by law in national banking associations organized under the laws of the United States any such association located and doing business in any place the population of which does not exceed five thousand inhabitants, as shown by the last preceding decennial census, may, under such rules and regulations as may be prescribed by the Comptroller of the Currency, act as the agent for any fire, life, or other insurance company authorized by the authorities of the State in which said bank is located to do business in said State, by soliciting and selling insurance and collecting premiums on policies issued by such company; and may receive for services so rendered such fees or commissions as may be agreed upon between the said association and the insurance company for which it may act as agent: <i>Provided, however</i>, That no such bank shall in any case assume or guarantee the payment of any premium on insurance policies issued through its agency by its principal: <i>And provided further</i>, That the bank shall not guarantee the truth of any statement made by an assured in filing his application for insurance.
+In addition to the powers now vested by law in national banking associations organized under the laws of the United States any such association located and doing business in any place the population of which does not exceed five thousand inhabitants, as shown by the last preceding decennial census, may, under such rules and regulations as may be prescribed by the Comptroller of the Currency, act as the agent for any fire, life, or other insurance company authorized by the authorities of the State in which said bank is located to do business in said State, by soliciting and selling insurance and collecting premiums on policies issued by such company; and may receive for services so rendered such fees or commissions as may be agreed upon between the said association and the insurance company for which it may act as agent: <i>Provided, however</i>, That no such bank shall in any case assume or guarantee the payment of any premium on insurance policies issued through its agency by its principal: <i>And provided further</i>, That the bank shall not guarantee the truth ofany statement made by an assured in filing his application for insurance.
 
 (Dec. 23, 1913, ch. 6, §13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended Pub. L. 97–320, title IV, §403(b), Oct. 15, 1982, 96 Stat. 1511.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ For decision by U.S. Supreme Court that, despite faulty placement of quotation m
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–320 struck out "; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission" after "may act as agent" and "guarantee either the principal or interest of any such loans or" after "shall in any case".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

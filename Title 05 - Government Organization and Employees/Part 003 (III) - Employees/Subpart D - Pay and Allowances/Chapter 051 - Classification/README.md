@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–378, §2(22), Oct. 2, 1992, 106 Stat. 1348, substituted "above GS–15" for "at GS–16, 17, and 18" in item 5108.

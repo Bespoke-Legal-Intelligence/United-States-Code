@@ -106,7 +106,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (3) Effect of fraud
 
-&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
+&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contributiontoward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
 
 #### (4) Notice
 

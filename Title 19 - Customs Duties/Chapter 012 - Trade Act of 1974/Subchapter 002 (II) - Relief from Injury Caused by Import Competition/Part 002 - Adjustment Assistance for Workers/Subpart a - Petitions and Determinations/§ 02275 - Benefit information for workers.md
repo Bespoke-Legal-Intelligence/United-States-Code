@@ -20,7 +20,7 @@
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb.13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -62,11 +62,11 @@ Amendment by Pub. L. 107–210 applicable with respect to petitions filed under 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 1988, see section 1430(e) of Pub.L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 1988, see section 1430(e) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date and Transition Provisions
 

@@ -10,11 +10,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273, div. C, title I, §11020(b)(4)(B)(ii), Nov. 2, 2002, 116 Stat. 1829, added item 1785.
 
-<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted "Transmittal of letter rogatory or request" for "Foreign witnesses" in item 1781, "Assistance to foreign and international tribunals and to litigants before such tribunals" for "Testimony for use in foreign countries" in item 1782, "person" for "witness" in item 1783, and struck out item 1785 "Privilege against incrimination".
+<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted "Transmittal of letter rogatory or request" for "Foreign witnesses" in item 1781, "Assistance to foreign and international tribunals and to litigants before such tribunals" for "Testimonyfor use in foreign countries" in item 1782, "person" for "witness" in item 1783, and struck out item 1785 "Privilege against incrimination".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Depositions in Admiralty Cases
 
@@ -22,7 +26,7 @@ Prior to the general unification of civil and admiralty procedure and the recisi
 
 "
 
-Sec. 863. The testimony of any witness may be taken in any civil cause depending in a district court by deposition de bene esse, when the witness lives at a greater distance from the place of trial than one hundred miles, or is bound on a voyage to sea, or is about to go out of the United States, or out of the district in which the case is to be tried, and to a greater distance than one hundred miles from the place of trial, before the time of trial, or when he is ancient and infirm. The deposition may be taken before any judge of any courtof the United States, or any clerk of a district court, or any chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court or court of common pleas of any of the United States, or any notary public, not being of counsel or attorney to either of the parties, nor interested in the event of the cause. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition, to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition; and in all cases in rem, the person having the agency or possession of the property at the time of seizure shall be deemed the adverse party, until a claim shall have been put in; and whenever, by reason of the absence from the district and want of an attorney of record or other reason, the giving of the notice herein required shall be impracticable, it shall be lawful to take such depositions as there shall be urgent necessity for taking, upon such notice as any judge authorized to hold courts in such district shall think reasonable and direct. Any person may be compelled to appear and depose as provided by this section, in the same manner as witnesses may be compelled to appear and testify in court.
+Sec. 863. The testimony of any witness may be taken in any civil cause depending in a district court by deposition de bene esse, when the witness lives at a greater distance from the place of trial than one hundred miles, or is bound on a voyage to sea, or is about to go out of the United States, or out of the district in which the case is to be tried, and to a greater distance than one hundred miles from the place of trial, before the time of trial, or when he is ancient and infirm. The deposition may be taken before any judge of any court of the United States, or any clerk of a district court, or any chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court or court of common pleas of any of the United States, or any notary public, not being of counsel or attorney to either of the parties, nor interested in the event of the cause. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition, to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition; and in all cases in rem, the person having the agency or possession of the property at the time of seizure shall be deemed the adverse party, until a claim shall have been put in; and whenever, by reason of the absence from the district and want of an attorney of record or other reason, the giving of the notice herein required shall be impracticable, it shall be lawful to take such depositions as there shall be urgent necessity for taking, upon such notice as any judge authorized to hold courts in such district shall think reasonable and direct. Any person may be compelled to appear and depose as provided by this section, in the same manner as witnesses may be compelled to appear and testify in court.
 
 "
 

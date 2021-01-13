@@ -4,11 +4,11 @@
 
 #### (1) Establishment
 
-&emsp;There is established within the Department of Commerce an office known as the Office of Native American Business Development (referred to in this chapter as the "Office").
+&emsp;There is established within the Office of the Secretary an office known as the Office of Native American Business Development.
 
 #### (2) Director
 
-&emsp;The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development (referred to in this chapter as the "Director"). The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development. The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5.
 
 #### (b) Duties of the Secretary
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) compliance with appropriate laws and regulatory practices; and
 
-&emsp;&emsp;(B) such other assistance as the Secretary, in consultation with the Director, determines to be necessary for the development of business opportunities for eligible entities to enhance the economies of Indian tribes.
+&emsp;&emsp;(B) such other assistance as the Secretary, in consultation with the Director, determines to be necessary for the development of business opportunities for eligible entities to enhance the economies of Indian Tribes.
 
 #### (5) Priorities
 
@@ -58,15 +58,53 @@
 
 &emsp;&emsp;(A) provide the greatest degree of economic benefits to Indians; and
 
-&emsp;&emsp;(B) foster long-term stable economies of Indian tribes.
+&emsp;&emsp;(B) foster long-term stable economies of Indian Tribes.
 
 #### (6) Prohibition
 
 &emsp;The Secretary may not provide under this section assistance for any activity related to the operation of a gaming activity on Indian lands pursuant to the Indian Gaming Regulatory Act \[25 U.S.C. 2701 et seq.\].
 
-(Pub. L. 106–464, §4, Nov. 7, 2000, 114 Stat. 2015.)
+#### (c) Duties of Director
+
+#### (1) In general
+
+&emsp;The Director shall serve as—
+
+&emsp;&emsp;(A) the program and policy advisor to the Secretary with respect to the trust and governmental relationship between the United States and Indian Tribes; and
+
+&emsp;&emsp;(B) the point of contact for Indian Tribes, Tribal organizations, and Indians regarding—
+
+&emsp;&emsp;&emsp;(i) policies and programs of the Department of Commerce; and
+
+&emsp;&emsp;&emsp;(ii) other matters relating to economic development and doing business in Indian lands.
+
+#### (2) Departmental coordination
+
+&emsp;The Director shall coordinate with all offices and agencies within the Department of Commerce to ensure that each office and agency has an accountable process to ensure—
+
+&emsp;&emsp;(A) meaningful and timely coordination and assistance, as required by this chapter; and
+
+&emsp;&emsp;(B) consultation with Indian Tribes regarding the policies, programs, assistance, and activities of the offices and agencies.
+
+#### (3) Office operations
+
+&emsp;There are authorized to be appropriated to carry out this section not more than $2,000,000 for each fiscal year.
+
+(Pub. L. 106–464, §4, Nov. 7, 2000, 114 Stat. 2015; Pub. L. 116–261, §3(c), (e)(2), Dec. 30, 2020, 134 Stat. 3308, 3311.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Indian Gaming Regulatory Act, referred to in subsec. (b)(6), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–261, §3(c)(1)(A), substituted "Office of the Secretary" for "Department of Commerce" and struck out "(referred to in this chapter as the 'Office')" before period at end.
+
+Subsec. (a)(2). Pub. L. 116–261, §3(c)(1)(B), struck out "(referred to in this chapter as the 'Director')" after "Development".
+
+Subsec. (b)(4)(B), (5)(B). Pub. L. 116–261, §3(e)(2), substituted "Tribes" for "tribes".
+
+Subsec. (c). Pub. L. 116–261, §3(c)(2), added subsec. (c).
 

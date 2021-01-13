@@ -14,7 +14,7 @@ The Federal Home Loan Banks shall be exempt from compliance with—
 
 #### (b) Member exemption
 
-The members of the Federal Home Loan Bank System shall be exempt from compliance with sections 78m(d), 78m(f), 78m(g), 78n(d), and 78p of title 15, and related Commission regulations, with respect to ownership of or transactions in the capital stock of the Federal Home Loan Banks by such members.
+The members of the Federal Home Loan Bank System shall be exempt from compliance withsections 78m(d), 78m(f), 78m(g), 78n(d), and 78p of title 15, and related Commission regulations, with respect to ownership of or transactions in the capital stock of the Federal Home Loan Banks by such members.
 
 #### (c) Exempted and Government securities
 
@@ -86,9 +86,11 @@ As used in this section—
 
 (Pub. L. 110–289, div. A, title II, §1208, July 30, 2008, 122 Stat. 2788.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Trust Indenture Act of 1939, referred to in subsec. (a)(4), is title III of act May 27, 1933, ch. 38, as addedAug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (a)(4), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
 #### Codification
 

@@ -104,7 +104,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) "Domestic producers or workers" defined
 

@@ -10,6 +10,8 @@ Enhancement of Capacity of Domiciliary Care Programs for Female Veterans.—The 
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 110–387, title VI, §603, Oct. 10, 2008, 122 Stat. 4132.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 107–95, which was approved Dec. 21, 2001.

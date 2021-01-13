@@ -86,7 +86,7 @@
 
 &emsp;(2) transferred without a break in service to a position to which the employee was appointed by the President, with the advice and consent of the Senate, and in which position the employee is subject to this subchapter,
 
-> shall be treated for all purposes of this subchapter as if any service that would have been creditable under the retirement system established under section 10 of the Federal Reserve Act was service performed while subject to thissubchapter if any employee and employer deductions, contributions or rights with respect to the employee's service are transferred from such retirement system to the Fund.
+> shall be treated for all purposes of this subchapter as if any service that would have been creditable under the retirement system established under section 10 of the Federal Reserve Act was service performed while subject to this subchapter if any employee and employer deductions, contributions or rights with respect to the employee's service are transferred from such retirement system to the Fund.
 
 (h) An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
 
-(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment under such clause to the spouse or children of an individual shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whetherthe spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
+(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment under such clause to the spouse or children of an individual shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
 
 (6) For purposes of this subsection—
 
@@ -139,6 +139,8 @@
 &emsp;(C) the term "child" has the meaning given such term by section 8441.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, §401(b), Sept. 14, 2007, 121 Stat. 756; Pub. L. 112–105, §15(a)(2), Apr. 4, 2012, 126 Stat. 301.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -178,7 +180,7 @@ Subsec. (k). Pub. L. 107–107, §1132(b)(1)(B), added subsec. (k).
 
 Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i) defining "Bank Plan" for purposes of subsec. (b)(5).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as provided in paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as providedin paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
 
 Subsec. (c)(5). Pub. L. 104–201, §637(b)(1), added par. (5).
 
@@ -201,6 +203,8 @@ Subsec. (f)(1). Pub. L. 100–238, §105(a), inserted at end "A deposit under th
 Subsec. (c)(4). Pub. L. 99–556, §502(b), added par. (4).
 
 Subsec. (f)(1). Pub. L. 99–556, §103(2), inserted "(b)(2) or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 
@@ -296,7 +300,7 @@ Related requirements.—Any remittance under paragraph (1) or (2)—
 
 &emsp;&emsp;"(A) shall be made in such time, form, and manner as the Office of Personnel Management may by regulation require; and
 
-&emsp;&emsp;"(B) shall be computed with interest (in accordance with section 8334(e) of title 5, United StatesCode, and such requirements as the Office may by regulation prescribe).
+&emsp;&emsp;"(B) shall be computed with interest (in accordance with section 8334(e) of title 5, United States Code, and such requirements as the Office may by regulation prescribe).
 
 &emsp;"(4)
 

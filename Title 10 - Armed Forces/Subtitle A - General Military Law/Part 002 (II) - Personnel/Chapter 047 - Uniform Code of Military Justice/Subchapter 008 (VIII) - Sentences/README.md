@@ -6,9 +6,9 @@
 | :--- | :---: | ---: |
 | [855\.](%C2%A7%2000855%20-%20Art.%2055.%20Cruel%20and%20unusual%20punishments%20prohibited.md) | 55\. | Cruel and unusual punishments prohibited. |
 | [856\.](%C2%A7%2000856%20-%20Art.%2056.%20Sentencing.md) | 56\. | Sentencing. |
-| [856a.](%C2%A7%2000856a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20E%2C%20title%20LVIII%2C%20%C2%A75301%28b%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202920.md) | 56a. | Repealed. |
+| \[856a. | 56a. | Repealed.\] |
 | [857\.](%C2%A7%2000857%20-%20Art.%2057.%20Effective%20date%20of%20sentences.md) | 57\. | Effective date of sentences. |
-| [857a.](%C2%A7%2000857a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20E%2C%20title%20LVIII%2C%20%C2%A75302%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202923.md) | 57a. | Repealed. |
+| \[857a. | 57a. | Repealed.\] |
 | [858\.](%C2%A7%2000858%20-%20Art.%2058.%20Execution%20of%20confinement.md) | 58\. | Execution of confinement. |
 | [858a.](%C2%A7%2000858a%20-%20Art.%2058a.%20Sentences%20reduction%20in%20enlisted%20grade.md) | 58a. | Sentences: reduction in enlisted grade. |
 | [858b.](%C2%A7%2000858b%20-%20Art.%2058b.%20Sentences%20forfeiture%20of%20pay%20and%20allowances%20during%20confinement.md) | 58b. | Sentences: forfeiture of pay and allowances during confinement. |

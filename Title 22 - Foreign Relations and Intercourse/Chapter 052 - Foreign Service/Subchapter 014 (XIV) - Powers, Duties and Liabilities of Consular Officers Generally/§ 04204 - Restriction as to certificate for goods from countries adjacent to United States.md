@@ -4,6 +4,8 @@ No consular officer of the United States shall grant a certificate for goods, wa
 
 (R.S. §1717.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1717 derived from act Feb. 22, 1873, ch. 184, §3, 17 Stat. 474.

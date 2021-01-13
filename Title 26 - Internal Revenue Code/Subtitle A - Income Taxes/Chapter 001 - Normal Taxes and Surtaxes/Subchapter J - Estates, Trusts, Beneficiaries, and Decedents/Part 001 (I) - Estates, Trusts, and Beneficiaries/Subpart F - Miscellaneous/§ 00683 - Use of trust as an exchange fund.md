@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b), if property is transferred to a trust in exchange for an interest in other trust property and if the trust would be an investment company (within the meaning of section 351) if it were a corporation, then gain shall be recognized to the transferor.
+Except as provided in subsection (b), if property is transferred to a trust in exchange for aninterest in other trust property and if the trust would be an investment company (within the meaning of section 351) if it were a corporation, then gain shall be recognized to the transferor.
 
 #### (b) Exception for pooled income funds
 

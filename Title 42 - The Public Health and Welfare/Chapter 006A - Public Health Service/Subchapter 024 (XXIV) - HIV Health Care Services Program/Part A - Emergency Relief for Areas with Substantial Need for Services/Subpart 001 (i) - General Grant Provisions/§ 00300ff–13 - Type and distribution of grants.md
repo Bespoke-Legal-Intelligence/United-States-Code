@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -52,7 +52,7 @@
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for an eligible area applies only if, as of April 1,2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for an eligible area applies only if, as of April 1, 2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscalyear 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
 #### (vii) Multiple political jurisdictions
 
@@ -248,7 +248,7 @@
 
 #### (2) Supplemental grants; cancellation of unobligated balance of grant award
 
-&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (b) for an eligible area for a fiscalyear has an unobligated balance as of the end of the grant year for the award—
+&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (b) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award—
 
 &emsp;&emsp;(A) the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area; and
 
@@ -298,7 +298,7 @@
 
 #### (d) Compliance with priorities of HIV planning council
 
-Notwithstanding any other provision of this subpart, the Secretary, in carrying out section300ff–11(a) of this title, may not make any grant under subsection (a) or (b) to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
+Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
 
 #### (e) Report on the awarding of supplemental funds
 
@@ -380,7 +380,7 @@ Pub. L. 109–415, §102(a), substituted "662/3 percent of the amount made avail
 
 Subsec. (a)(3)(A). Pub. L. 109–415, §102(d)(1), inserted concluding provisions.
 
-Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of "living cases of HIV/AIDS\(reported to and confirmed by the Director of the Centers for Disease Control and Prevention)" for "estimated living cases of acquired immune deficiency syndrome", was executed by making the substitution for "estimated number of living cases of acquired immune deficiency syndrome", to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of "living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention)" for "estimated living cases of acquired immune deficiency syndrome", was executed by making the substitution for "estimated number of living cases of acquired immune deficiency syndrome", to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(C) to (E). Pub. L. 109–415, §102(b)(2), (c), added subpars. (C) and (D) and struck out former subpars. (C) to (E) which related to estimate of living cases, determination of Secretary regarding data on HIV cases, and unexpended funds, respectively.
 
@@ -520,7 +520,7 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 
 &emsp;&emsp;"(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
 
-&emsp;&emsp;"(II) the per capita incidence of such cumulative cases in all eligible areas for which an application for a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas)."
+&emsp;&emsp;"(II) the per capita incidence of such cumulative cases in all eligible areas for which an applicationfor a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas)."
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

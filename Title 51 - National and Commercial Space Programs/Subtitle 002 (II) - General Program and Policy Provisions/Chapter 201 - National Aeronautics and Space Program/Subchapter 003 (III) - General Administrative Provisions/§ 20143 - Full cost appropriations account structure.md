@@ -66,6 +66,8 @@ Pub. L. 85–568, title III, §313, formerly §312, as added Pub. L. 106–377, 
 
 In subsection (a)(1), the words "for fiscal year 2007 and thereafter" are omitted as unnecessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Notice of Reprogramming or Reorganization
 
 Pub. L. 106–391, title III, §311, Oct. 30, 2000, 114 Stat. 1594, provided that:

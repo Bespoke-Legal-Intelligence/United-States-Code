@@ -1,6 +1,6 @@
 ### §5113. Tolerances and testing of coins
 
-(a) The Secretary of the Treasury may prescribe reasonable manufacturing tolerances for specifications in section 5112 of this title (except for specifications that are limits) for the dollar, half dollar, quarter dollar, and dime coins. The weight of the 5-cent coin may vary not more than 0.194 gram. The weight of the one-cent coin may vary not more than 0.13 gram. Any gold coin issued under section 5112 of this title shallcontain the full weight of gold stated on the coin.
+(a) The Secretary of the Treasury may prescribe reasonable manufacturing tolerances for specifications in section 5112 of this title (except for specifications that are limits) for the dollar, half dollar, quarter dollar, and dime coins. The weight of the 5-cent coin may vary not more than 0.194 gram. The weight of the one-cent coin may vary not more than 0.13 gram. Any gold coin issued under section 5112 of this title shall contain the full weight of gold stated on the coin.
 
 (b) The Secretary shall keep a record of the kind, number, and weight of each group of coins minted and test a number of the coins separately to determine if the coins conform to the weight specified in section 5112(a) of this title. If the coins tested do not conform, the Secretary—
 
@@ -39,6 +39,8 @@ R.S. §3538; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under 
 In subsection (a), the words "for the dollar, half dollar, quarter dollar, and dime coins" are added because of the restatement. The words "0.194 gram" are substituted for "three grains", and the words "0.13 gram" are substituted for "two grains", for consistency in the revised chapter.
 
 In subsection (b), before clause (1), the words "Secretary shall keep a record of the kind, number, and weight of each group of coins minted" are substituted for 31:351(1st sentence) because of the source provisions restated in section 321(c) of the revised title. In clause (1), the words "deface the coins that do not conform and cast them into bars for reminting" are substituted for "shall be defaced and delivered to the superintendent of melting and refining department as standard bullion, to be again formed into ingots and recoined" for consistency in the revised chapter and to eliminate unnecessary words. In clause (2), the words "if more convenient" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

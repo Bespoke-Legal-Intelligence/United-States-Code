@@ -8,7 +8,7 @@ The Secretary may make awards of grants, cooperative agreements, and contracts t
 
 An entity receiving an award under this section shall develop a comprehensive education and training plan that includes information and education on—
 
-&emsp;(1) recognized means for assessing, diagnosing, preventing, treating, and managing painand related signs and symptoms, including non-addictive medical products and non-pharmacologic treatments and the medically appropriate use of controlled substances;
+&emsp;(1) recognized means for assessing, diagnosing, preventing, treating, and managing pain and related signs and symptoms, including non-addictive medical products and non-pharmacologic treatments and the medically appropriate use of controlled substances;
 
 &emsp;(2) applicable Federal, State, and local laws, regulations, rules, and policies on controlled substances, including opioids;
 
@@ -32,7 +32,7 @@ For purposes of this section the term "pain care" means the assessment, diagnosi
 
 There is authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 2019 through 2023. Amounts appropriated under this subsection shall remain available until expended.
 
-(July 1, 1944, ch. 373, title VII, §759, as added Pub. L. 111–148, title IV, §4305(c), Mar. 23, 2010, 124 Stat. 586; amended Pub. L. 115–271, title VII, §7073(a), Oct. 24, 2018, 132 Stat. 4031.)
+(July 1, 1944, ch. 373, title VII, §759, as added Pub. L. 111–148, title IV, §4305(c), Mar. 23, 2010,124 Stat. 586; amended Pub. L. 115–271, title VII, §7073(a), Oct. 24, 2018, 132 Stat. 4031.)
 
 #### Prior Provisions
 
@@ -96,7 +96,7 @@ Additional Demonstration Program.—The Secretary may carry out a demonstration 
 
 "(c)
 
-Consultation.—The Secretary shall implement a process for recipients of grants under subsection (a) or (b) to share evidence-based and best practices and promote consultation with persons having robust knowledge, including emergency departments and physicians that have successfully implemented programs that usealternatives to opioids for pain management, as appropriate, such as approaches studied through the National Center for Complimentary and Integrative Health or other institutes and centers at the National Institutes of Health, as appropriate. The Secretary shall offer to each recipient of a grant under subsection (a) or (b) technical assistance as necessary.
+Consultation.—The Secretary shall implement a process for recipients of grants under subsection (a) or (b) to share evidence-based and best practices and promote consultation with persons having robust knowledge, including emergency departments and physicians that have successfully implemented programs that use alternatives to opioids for pain management, as appropriate, such as approaches studied through the National Center for Complimentary and Integrative Health or other institutes and centers at the National Institutes of Health, as appropriate. The Secretary shall offer to each recipient of a grant under subsection (a) or (b) technical assistance as necessary.
 
 "(d)
 
@@ -128,7 +128,7 @@ Report to the Secretary.—Each recipient of a grant under this section shall su
 
 "(f)
 
-Report to Congress.—Not later than 1 year after completion of the demonstration program under this section, the Secretary shall submit a report to the Congress on the results of the demonstration program and include in the report—
+Report to Congress.—Not later than 1 year after completion of the demonstration program underthis section, the Secretary shall submit a report to the Congress on the results of the demonstration program and include in the report—
 
 &emsp;"(1) the number of applications received and the number funded;
 

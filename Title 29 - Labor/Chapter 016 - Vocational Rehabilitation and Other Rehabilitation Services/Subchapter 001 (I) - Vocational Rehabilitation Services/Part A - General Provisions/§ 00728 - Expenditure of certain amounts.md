@@ -8,7 +8,9 @@ Amounts described in subsection (b) may not be expended by a State for any purpo
 
 The amounts referred to in subsection (a) are amounts provided to a State under the Social Security Act (42 U.S.C. 301 et seq.) as reimbursement for the expenditure of payments received by the State from allotments under section 730 of this title.
 
-(Pub. L. 93–112, title I, §108, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1160;amended Pub. L. 113–128, title IV, §417(b), July 22, 2014, 128 Stat. 1655.)
+(Pub. L. 93–112, title I, §108, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, §417(b), July 22, 2014, 128 Stat. 1655.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ A prior section 728, Pub. L. 93–112, title I, §108, as added Pub. L. 102–56
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–128 substituted "under subchapter VI" for "under part B of subchapter VI".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

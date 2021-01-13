@@ -34,7 +34,7 @@ The Commission shall issue rules and regulations permitting the filing with the 
 
 #### (e) Semiannual reports to stockholders
 
-Every registered investment company shall transmit to its stockholders, at least semiannually, reports containing such of the following information and financial statements or their equivalent, as of a reasonably current date, as the Commission may prescribe by rules and regulations for the protection of investors, whichreports shall not be misleading in any material respect in the light of the reports required to be filed pursuant to subsections (a) and (b):
+Every registered investment company shall transmit to its stockholders, at least semiannually, reports containing such of the following information and financial statements or their equivalent, as of a reasonably current date, as the Commission may prescribe by rules and regulations for the protection of investors, which reports shall not be misleading in any material respect in the light of the reports required to be filed pursuant to subsections (a) and (b):
 
 &emsp;(1) a balance sheet accompanied by a statement of the aggregate value of investments on the date of such balance sheet;
 

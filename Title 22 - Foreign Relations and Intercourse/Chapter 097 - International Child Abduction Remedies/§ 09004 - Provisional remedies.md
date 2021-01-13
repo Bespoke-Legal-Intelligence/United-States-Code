@@ -6,9 +6,11 @@ In furtherance of the objectives of article 7(b) and other provisions of the Con
 
 #### (b) Limitation on authority
 
-No court exercising jurisdiction of an action brought under section 9003(b) of this title may, under subsection (a) of this section, order a child removed from a person having physical control of the child unless the applicable requirements of State law are satisfied.
+No court exercising jurisdiction of an action brought under section 9003(b) of this title may,under subsection (a) of this section, order a child removed from a person having physical control of the child unless the applicable requirements of State law are satisfied.
 
 (Pub. L. 100–300, §5, Apr. 29, 1988, 102 Stat. 439.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

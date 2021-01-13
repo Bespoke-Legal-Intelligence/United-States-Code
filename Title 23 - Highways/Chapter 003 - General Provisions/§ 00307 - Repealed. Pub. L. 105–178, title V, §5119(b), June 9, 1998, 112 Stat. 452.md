@@ -1,6 +1,8 @@
 ### \[§307. Repealed. Pub. L. 105–178, title V, §5119(b), June 9, 1998, 112 Stat. 452\]
 
-Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, §325(d), Nov. 28, 1995, 109 Stat. 592, related to research and planning.
+Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103,Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, §325(d), Nov. 28, 1995, 109 Stat. 592, related to research and planning.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Intelligent Transportation Systems
 

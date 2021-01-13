@@ -12,6 +12,8 @@ Section was divided. Remaining provisions relating to arrest appear in section 3
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–132 substituted "five years" for "one year".

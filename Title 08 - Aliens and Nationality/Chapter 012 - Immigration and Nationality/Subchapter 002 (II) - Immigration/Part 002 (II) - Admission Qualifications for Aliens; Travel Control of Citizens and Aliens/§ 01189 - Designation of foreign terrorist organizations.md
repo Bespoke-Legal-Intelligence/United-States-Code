@@ -76,7 +76,7 @@
 
 #### (II) Classified information
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determinationin response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
+&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
 #### (III) Publication of determination
 
@@ -120,7 +120,7 @@
 
 #### (7) Effect of revocation
 
-&emsp;The revocation of a designation under paragraph (5) or (6) shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
+&emsp;The revocation of a designation under paragraph (5) or (6) shall not affect any action orproceeding based on conduct committed prior to the effective date of such revocation.
 
 #### (8) Use of designation in trial or hearing
 
@@ -185,6 +185,8 @@ As used in this section—
 &emsp;(4) the term "Secretary" means the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §219, as added Pub. L. 104–132, title III, §302(a), Apr. 24, 1996, 110 Stat. 1248; amended Pub. L. 104–208, div. C, title III, §356, title VI, §671(c)(1), Sept. 30, 1996, 110 Stat. 3009–644, 3009–722; Pub. L. 107–56, title IV, §411(c), Oct. 26, 2001, 115 Stat. 349; Pub. L. 108–458, title VII, §7119(a)–(c), Dec. 17, 2004, 118 Stat. 3801, 3802.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -255,6 +257,8 @@ Subsec. (a)(8). Pub. L. 107–56, §411(c)(11), substituted "paragraph (2)(B), o
 <b>1996</b>—Pub. L. 104–208, §671(c)(1), made technical amendment to section catchline.
 
 Subsec. (b)(3)(D), (E). Pub. L. 104–208, §356, added subpars. (D) and (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

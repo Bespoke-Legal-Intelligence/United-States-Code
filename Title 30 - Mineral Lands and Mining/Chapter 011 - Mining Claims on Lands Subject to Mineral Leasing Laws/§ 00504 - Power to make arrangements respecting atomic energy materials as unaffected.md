@@ -1,12 +1,16 @@
 ### §504. Power to make arrangements respecting atomic energy materials as unaffected
 
-Except as this chapter provides for (a) validation of certain mining claims located on lands described in section 501 of this title, and (b) the modification and amendment of certain withdrawals or reservations of land, nothing in this chapter shall affect any power or authority dulyvested in the Atomic Energy Commission or any other agency, department or officer of the United States to make leases, withdrawals, reservations or other arrangements with respect to source materials as defined in section 5(b)(1) of the Atomic Energy Act of 1946, as amended.
+Except as this chapter provides for (a) validation of certain mining claims located on lands described in section 501 of this title, and (b) the modification and amendment of certain withdrawals or reservations of land, nothing in this chapter shall affect any power or authority duly vested in the Atomic Energy Commission or any other agency, department or officer of the United States to make leases, withdrawals, reservations or other arrangements with respect to source materials as defined in section 5(b)(1) of the Atomic Energy Act of 1946, as amended.
 
 (Aug. 12, 1953, ch. 405, §4, 67 Stat. 540.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 5(b)(1) of the Atomic Energy Act of 1946, as amended, referred to in text, was formerly classified to section 1805(b)(1) of Title 42, The Public Health and Welfare, and defined "source material". Such term is defined in section 11(z) of the Atomic Energy Act of 1954, as amended, which is classified to section 2014(z) of Title 42.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

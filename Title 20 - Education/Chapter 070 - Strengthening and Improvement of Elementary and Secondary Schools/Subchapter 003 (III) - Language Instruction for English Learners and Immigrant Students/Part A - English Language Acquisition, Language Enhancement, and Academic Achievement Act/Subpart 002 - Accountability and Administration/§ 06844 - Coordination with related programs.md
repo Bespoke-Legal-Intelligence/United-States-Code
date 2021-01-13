@@ -14,7 +14,7 @@ Another prior section 3123 of Pub. L. 89–10 was classified to section 6833 of 
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95, §3003(j), substituted "needs of English learners" for "needs of children of limited English proficiency" and "and English learners" for "and limited English proficient children" and inserted at end "The Secretary shall report to the Congress on parallel Federal programs in other agencies and departments."
+<b>2015</b>—Pub. L. 114–95, §3003(j), substituted "needs of English learners" for "needs of children of limited English proficiency" and "and English learners" for"and limited English proficient children" and inserted at end "The Secretary shall report to the Congress on parallel Federal programs in other agencies and departments."
 
 #### Effective Date of 2015 Amendment
 

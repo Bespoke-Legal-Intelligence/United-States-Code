@@ -1,14 +1,14 @@
 ### §2733. Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force
 
-(a) Under such regulations as the Secretary concerned may prescribe, he, or, subject to appeal to him, the Judge Advocate General of an armed force under his jurisdiction, or the chief Counsel of the Coast Guard, as appropriate, if designated by him, may settle, and pay in an amount not more than $100,000, a claim against the United States for—
+(a) Under such regulations as the Secretary concerned may prescribe, he, or, subject to appeal to him, the Judge Advocate General of an armed force under his jurisdiction, or the chief Counsel of the Coast Guard, as appropriate, if designated by him, may settle, and pay in anamount not more than $100,000, a claim against the United States for—
 
 &emsp;(1) damage to or loss of real property, including damage or loss incident to use and occupancy;
 
-&emsp;(2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+&emsp;(2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be; or
 
 &emsp;(3) personal injury or death;
 
-> either caused by a civilian officer or employee of that department, or the Coast Guard, or a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, acting within the scope of his employment, or otherwise incident to noncombat activities of that department, or the Coast Guard.
+> either caused by a civilian officer or employee of that department, or the Coast Guard, or a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, acting within the scope of his employment, or otherwise incident to noncombat activities of that department, or the Coast Guard.
 
 (b) A claim may be allowed under subsection (a) only if—
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
-&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employeewhose injury or death is incident to his service;
+&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employee whose injury or death is incident to his service;
 
 &emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
 
@@ -36,7 +36,7 @@
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(ix), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes<br>1956
 
@@ -108,7 +108,7 @@ Dec. 28, 1945, ch. 597, §1, 59 Stat. 662; June 28, 1946, ch. 514, §2, 60 Stat.
 
 Dec. 28, 1945, ch. 597, §6; added Mar. 20, 1946, ch. 104 (last par.), 60 Stat. 56.
 
-In subsection (a), the words "a civilian officer or employee of that department, or a member of the Army, Navy, Air Force, or Marine Corps, as the case may be" are substituted for the words "military personnel or civilian employees of the Department of the Army or of the Army". The words "whether under a lease, express or implied" are omitted as surplusage. The words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 2731 of this title. The words "arising on or after May 27, 1941" are omitted as executed, since, under revised subsection (b), a claim must be filed within one year after it accrues, or within one year after the war is terminated, if it accrues in time of war.
+In subsection (a), the words "a civilian officer or employee of that department, or a member of the Army, Navy, Air Force, or Marine Corps, as the case may be" are substituted for the words "military personnel or civilian employees of the Department of the Army or of the Army". The words "whether under a lease, express or implied" are omitted as surplusage. The words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 2731 of this title. The words "arising on or after May 27, 1941" are omitted as executed, since, under revised subsection (b), a claim must be filed within one year afterit accrues, or within one year after the war is terminated, if it accrues in time of war.
 
 In subsection (a)(1), the words "or loss" are inserted before the word "incident", for clarity.
 
@@ -137,6 +137,8 @@ Act
 Mar. 29, 1956, ch. 103, §§1–3, 70 Stat. 60, 61.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, Space Force," for "Marine Corps," in par. (2) and in concluding provisions.
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–316 substituted "Secretary of the Treasury" for "Comptroller General".
 

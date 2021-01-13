@@ -22,13 +22,15 @@ Consistent with subsection (a), coordination of activities related to the promot
 
 #### (c) International economic activities
 
-Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair ofthe National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
 #### (d) Accountability for funds
 
 Any agency managing and implementing an assistance program for the independent states of the former Soviet Union shall be accountable for any funds made available to it for such program.
 
 (Pub. L. 102–511, title I, §102, Oct. 24, 1992, 106 Stat. 3322; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. 
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(2), (4). Pub. L. 106–113 substituted "this Act and chapter 12 of part I of the Foreign Assistance Act of 1961)" for "this Act)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Russian and Ukrainian Business Management Education
 
@@ -144,7 +148,7 @@ Clearinghouse.—A clearinghouse shall be established or designated in each prog
 
 #### "SEC. 425. RESTRICTIONS NOT APPLICABLE.
 
-"Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or for Ukraine shall not apply with respect to the funds made available to carry out this subtitle.
+"Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or forUkraine shall not apply with respect to the funds made available to carry out this subtitle.
 
 #### "SEC. 426. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -208,6 +212,8 @@ Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukrai
 
 Pub. L. 102–511, title X, §1007, Oct. 24, 1992, 106 Stat. 3361, directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act
 
 Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
@@ -228,7 +234,7 @@ Section 1. <i>Secretary of State</i>. (a) There are delegated to the Secretary o
 
 Sec. 2. <i>Coordinator</i>. There are delegated to the Coordinator designated in accordance with section 102 of the Act \[22 U.S.C. 5812\] the functions conferred upon the President by:
 
-(a) \[former\] section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibility for particular aspects of the reports described in that section to the heads of appropriate agencies;
+(a) \[former\] section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibilityfor particular aspects of the reports described in that section to the heads of appropriate agencies;
 
 (b) section 301 of the Act \[22 U.S.C. 5821\], insofar as it relates to determinations and directives;
 

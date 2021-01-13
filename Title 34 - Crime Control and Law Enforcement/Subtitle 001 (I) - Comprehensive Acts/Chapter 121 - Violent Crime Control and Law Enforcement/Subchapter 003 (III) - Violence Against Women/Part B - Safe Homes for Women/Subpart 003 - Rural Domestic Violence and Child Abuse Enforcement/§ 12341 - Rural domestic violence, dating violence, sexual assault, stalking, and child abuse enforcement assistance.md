@@ -72,7 +72,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (3) Allotment for technical assistance
 
-&emsp;Of the amounts appropriated for each fiscal year to carry out this section, not more than 8 percent may be used by the Director for technical assistance costs. Of the amounts appropriated in this subsection, no less than 25 percent of such amounts shall be available to a nonprofit, nongovernmental organization or organizations whose focus and expertise is in addressing sexual assault to provide technical assistance to sexual assault grantees.
+&emsp;Of the amounts appropriated for each fiscal year to carry out this section, not more than 8 percent may be used by the Director fortechnical assistance costs. Of the amounts appropriated in this subsection, no less than 25 percent of such amounts shall be available to a nonprofit, nongovernmental organization or organizations whose focus and expertise is in addressing sexual assault to provide technical assistance to sexual assault grantees.
 
 #### (4) Underserved populations
 
@@ -93,6 +93,8 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 &emsp;In addition to funds received through a grant under subsection (b), a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd et seq.) <sup>2</sup> to accomplish the objectives of this section.
 
 (Pub. L. 103–322, title IV, §40295, Sept. 13, 1994, 108 Stat. 1940; Pub. L. 106–386, div. B, title I, §§1105, 1109(d), title V, §1512(c), Oct. 28, 2000, 114 Stat. 1497, 1503, 1533; Pub. L. 109–162, title II, §203, title IX, §906(d), Jan. 5, 2006, 119 Stat. 2998, 3081; Pub. L. 109–271, §7(b)(1), (2)(A), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title II, §202, Mar. 7, 2013, 127 Stat. 81.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -135,6 +137,8 @@ Subsec. (c)(1). Pub. L. 106–386, §1105(1), added par. (1) and struck out head
 &emsp;"(C) $15,000,000 for fiscal year 1998."
 
 Subsec. (c)(3). Pub. L. 106–386, §1105(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

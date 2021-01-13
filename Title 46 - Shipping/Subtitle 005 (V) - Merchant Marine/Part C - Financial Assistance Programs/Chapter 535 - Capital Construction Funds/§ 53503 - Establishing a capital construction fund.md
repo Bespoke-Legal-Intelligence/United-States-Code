@@ -30,9 +30,13 @@ June 29, 1936, ch. 858, title VI, §607(a) (1st sentence), (2d sentence related 
 
 46 App.:1177(a) (2d sentence related to purpose).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–140 substituted "noncontiguous domestic, or short sea transportation trade" for "or noncontiguous domestic trade".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

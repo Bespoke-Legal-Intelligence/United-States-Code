@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—A carrier may not insert in a bill of lading or shipping document a provision lessening or avoiding its obligation to exercise due diligence to—
+Prohibition.—A carrier may not insert in a bill of lading or shipping document a provisionlessening or avoiding its obligation to exercise due diligence to—
 
 &emsp;(1) make the vessel seaworthy; and
 

@@ -20,6 +20,8 @@
 
 (June 27, 1952, ch. 477, title III, ch. 2, §344, 66 Stat. 264; Pub. L. 85–508, §26, July 7, 1958, 72 Stat. 351; Pub. L. 90–609, §3, Oct. 21, 1968, 82 Stat. 1200; Pub. L. 97–116, §16, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–459, title II, §209(b), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §9(ff), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(20), (d)(19), Nov. 29, 1990, 104 Stat. 5041, 5046; Pub. L. 102–232, title I, §102(b)(3), title III, §§305(l), 309(a)(1)(A)(ii), (b)(14), Dec. 12, 1991, 105 Stat. 1736, 1750, 1758, 1759; Pub. L. 107–273, div. C, title I, §11016(1), Nov. 2, 2002, 116 Stat. 1824.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -40,7 +42,7 @@ Subsec. (f). Pub. L. 102–232, §102(b)(3), added subsec. (f).
 
 Subsec. (a)(1). Pub. L. 101–649, §407(c)(20), (d)(19)(A)(ii), (iii), substituted "an application" for "a petition" and "application" for "petition", struck out "final" before "hearing", and substituted "the Attorney General" for "the naturalization court".
 
-Subsec. (c). Pub. L. 101–649, §407(d)(19)(B), (C), (F), redesignated subsec. (g) as (c), struck out ", and all fees paid over to the Attorney General by clerks of courtsunder the provisions of this subchapter," before "shall be deposited by" and "or by the clerks of the courts" before "from applicants residing in", and struck out former subsec. (c) which read as follows: "The clerk of any naturalization court specified in subsection (a) of section 1421 of this title (except the courts specified in subsection (d) of this section) shall account for and pay over to the Attorney General one-half of all fees up to the sum of $40,000, and all fees in excess of $40,000, collected by any such clerk in naturalization proceedings in any fiscal year."
+Subsec. (c). Pub. L. 101–649, §407(d)(19)(B), (C), (F), redesignated subsec. (g) as (c), struck out ", and all fees paid over to the Attorney General by clerks of courts under the provisions of this subchapter," before "shall be deposited by" and "or by the clerks of the courts" before "from applicants residing in", and struck out former subsec. (c) which read as follows: "The clerk of any naturalization court specified in subsection (a) of section 1421 of this title (except the courts specified in subsection (d) of this section) shall account for and pay over to the Attorney General one-half of all fees up tothe sum of $40,000, and all fees in excess of $40,000, collected by any such clerk in naturalization proceedings in any fiscal year."
 
 Subsec. (d). Pub. L. 101–649, §407(c)(20), (d)(19)(B), (D), (F), redesignated subsec. (h) as (d), substituted "the Attorney General may not" for "no clerk of a United States court shall" and "an application" for "a petition", struck out before period at end ", and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected. A report of all transactions under this subsection shall be made to the Attorney General as in the case of other reports required of clerks of courts by this subchapter" and struck out former subsec. (d) which read as follows: "The clerk of any United States district court (except in the District Court of the Virgin Islands of the United States and in the District Court of Guam) shall account for and pay over to the Attorney General all fees collected by any such clerk in naturalization proceedings: <i>Provided, however</i>, That the clerk of the District Court of the Virgin Islands of the United States and of the District Court of Guam shall report but shall not be required to pay over to the Attorney General the fees collected by any such clerk in naturalization proceedings."
 
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 90–609 struck out provisions setting fixed dollar amounts
 Subsec. (g). Pub. L. 90–609 substituted fees received under this subchapter for fees received under subsec. (b) of this section as description of fees received from applicants residing in the Virgin Islands of the United States and in Guam which are turned over to the treasury of the Virgin Islands and Guam respectively.
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–508 struck out "in Alaska and" before "in the District Court of the Virgin Islands".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

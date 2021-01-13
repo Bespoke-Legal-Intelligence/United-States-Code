@@ -74,7 +74,7 @@ In subsection (a)(1), the words "otherwise", "requirement in the premises", and 
 
 In subsection (a)(2), the word "rules" is omitted as being synonymous with "regulations". The word "prescribes" is added for consistency in the revised title and with other titles of the United States Code. The words "under this chapter" and "information and" are omitted as surplus. The words "A publication of the Secretary or Administrator is competent evidence of its contents" is substituted for 49 App.:1324(d) (last sentence) to eliminate unnecessary words and for consistency.
 
-In subsection (b), the words "otherwise", "all contracts, agreements, understandings, and", "annual or other", "of air carriers and other persons", and "preserved as" are omitted as surplus. The last sentence issubstituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
+In subsection (b), the words "otherwise", "all contracts, agreements, understandings, and", "annual or other", "of air carriers and other persons", and "preserved as" are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
 
 #### Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media Format
 

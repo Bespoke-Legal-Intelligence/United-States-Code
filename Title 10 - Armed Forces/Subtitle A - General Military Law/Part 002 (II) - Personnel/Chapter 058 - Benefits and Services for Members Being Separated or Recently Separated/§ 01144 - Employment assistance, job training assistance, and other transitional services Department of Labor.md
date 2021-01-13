@@ -102,7 +102,7 @@ Program Contents.—(1) The program carried out under this section shall consist
 
 &emsp;(B) in addition to such training and instruction required during such time periods.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92,div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
 
 #### References in Text
 
@@ -234,7 +234,7 @@ Pub. L. 115–232, div. A, title V, §552(b)(2), Aug. 13, 2018, 132 Stat. 1771, 
 
 #### Deadline for Implementation
 
-Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried outunder section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program
 
@@ -322,7 +322,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], theSecretary of Defense shall submit to the Committees on Armed Services and Veterans' Affairs of the Senate and the House of Representatives a report on the progress made by the Secretary—
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the Committees on Armed Services and Veterans' Affairs of the Senate and the House of Representatives a report on the progress made by the Secretary—
 
 &emsp;&emsp;"(A) in developing the procedures required by subsection (a); and
 
@@ -346,11 +346,11 @@ Pub. L. 113–66, div. A, title V, §521(b), Dec. 26, 2013, 127 Stat. 755, provi
 
 #### Off-Base Transition Training for Veterans and Their Spouses
 
-Pub. L. 112–260, title III, §301, Jan. 10, 2013, 126 Stat. 2424, provided that:
+Pub. L. 112–260, title III, §301, Jan. 10, 2013, 126 Stat. 2424, as amended by Pub. L. 116–315, title IV, §4303, Jan. 5, 2021, 134 Stat. 5017, provided that:
 
 "(a)
 
-Provision of Off-base Transition Training.—During the two-year period beginning on the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Labor shall provide the Transition Assistance Program under section 1144 of title 10, United States Code, to eligible individuals at locations other than military installations to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations.
+Provision of Off-base Transition Training.—During the five-year period beginning on the date of the enactment of the Navy SEAL Bill Mulder Act of 2020 \[Jan. 5, 2021\], the Secretary of Labor shall provide the Transition Assistance Program under section 1144 of title 10, United States Code, to eligible individuals at locations other than military installations.
 
 "(b)
 
@@ -362,11 +362,11 @@ Locations.—
 
 &emsp;"(1)
 
-Number of states.—The Secretary shall carry out the training under subsection (a) in not less than three and not more than five States selected by the Secretary for purposes of this section.
+Number of locations.—The Secretary shall carry out the training under subsection (a) in not fewer than 50 locations in States (as defined in section 101 of title 38, United States Code) selected by the Secretary for purposes of this section.
 
 &emsp;"(2)
 
-Selection of states with high unemployment.—Of the States selected by the Secretary under paragraph (1), at least two shall be States with high rates of unemployment among veterans.
+Selection of states with high unemployment.—Of the States selected by the Secretary under paragraph (1), at least 20 shall be States with high rates of unemployment among veterans.
 
 &emsp;"(3)
 
@@ -376,17 +376,29 @@ Number of locations in each state.—The Secretary shall provide training under 
 
 Selection of locations.—The Secretary shall select locations for the provision of training under subsection (a) to facilitate access by participants and may not select any location on a military installation other than a National Guard or reserve facility that is not located on an active duty military installation.
 
+&emsp;"(5)
+
+Preferences.—In selecting States for participation in the pilot program, the Secretary shall provide a preference for any State with—
+
+&emsp;&emsp;"(A) a high rate of usage of unemployment benefits for recently separated members of the Armed Forces; or
+
+&emsp;&emsp;"(B) a labor force or economy that has been significantly impacted by a covered public health emergency.
+
+&emsp;"(6)
+
+Covered public health emergency defined.—In this subsection, the term 'covered public health emergency' means—
+
+&emsp;&emsp;"(A) the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to Coronavirus Disease 2019 (COVID–19); or
+
+&emsp;&emsp;"(B) a domestic emergency declared, based on an outbreak of Coronavirus Disease 2019 (COVID–19), by the President, the Secretary of Homeland Security, or a State or local authority.
+
 "(d)
 
 Inclusion of Information About Veterans Benefits.—The Secretary shall ensure that the training provided under subsection (a) generally follows the content of the Transition Assistance Program under section 1144 of title 10, United States Code.
 
 "(e)
 
-Annual Report.—Not later than March 1 of any year during which the Secretary provides training under subsection (a), the Secretary shall submit to Congress a report on the provision of such training.
-
-"(f)
-
-Comptroller General Report.—Not later than 180 days after the termination of the one-year period described in subsection (a), the Comptroller General of the United States shall submit to Congress a report on the training provided under such subsection. The report shall include the evaluation of the Comptroller General regarding the feasibility and advisability of carrying out off-base transition training at locations nationwide."
+Annual Report.—Not later than March 1 of any year during which the Secretary provides training under subsection (a), the Secretary shall submit to Congress a report on the provision of such training. Each such report shall include information about the employment outcomes of the eligible individuals who received such training during the year covered by the report."
 
 #### Individualized Assessment for Members of the Armed Forces Under Transition Assistance on Equivalence Between Skills Developed in Military Occupational Specialties and Qualifications Required for Civilian Employment With the Private Sector
 
@@ -430,7 +442,7 @@ Publication.—The secretaries described in subsection (a)(1) shall ensure that 
 
 "(c)
 
-Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such memberthrough various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
+Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
 
 "(d)
 

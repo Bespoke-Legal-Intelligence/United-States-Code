@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### George E. Brown, Jr. Near-Earth Object Survey
 
 Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended by Pub. L. 115–10, title V, §511, Mar. 21, 2017, 131 Stat. 51, provided that:
@@ -45,7 +47,7 @@ Survey program.—The Administrator \[of the National Aeronautics and Space Admi
 
 &emsp;"(3)
 
-Fifth-year report.—The Administrator shall transmit to the Congress, not later than February 28 of the fifth year after the date of enactment of this Act, a report that provides the following:
+Fifth-year report.—The Administrator shall transmit to the Congress, not later than February 28of the fifth year after the date of enactment of this Act, a report that provides the following:
 
 &emsp;&emsp;"(A) A summary of all activities taken pursuant to paragraph (1) since the date of enactment of this Act.
 

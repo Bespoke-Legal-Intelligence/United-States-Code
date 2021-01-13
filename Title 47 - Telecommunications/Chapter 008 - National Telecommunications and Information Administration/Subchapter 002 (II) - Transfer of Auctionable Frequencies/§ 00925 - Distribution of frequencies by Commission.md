@@ -2,7 +2,7 @@
 
 #### (a) Allocation and assignment of immediately available frequencies
 
-With respect to the frequencies made available for immediate reallocation pursuant to section923(e)(2) of this title, the Commission, not later than 18 months after August 10, 1993, shall issue regulations to allocate such frequencies and shall propose regulations to assign such frequencies.
+With respect to the frequencies made available for immediate reallocation pursuant to section 923(e)(2) of this title, the Commission, not later than 18 months after August 10, 1993, shall issue regulations to allocate such frequencies and shall propose regulations to assign such frequencies.
 
 #### (b) Allocation and assignment of remaining available frequencies
 
@@ -40,6 +40,8 @@ With respect to the frequencies made available for reallocation pursuant to sect
 
 (Pub. L. 102–538, title I, §115, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 385; amended Pub. L. 105–33, title III, §3002(e)(4), Aug. 5, 1997, 111 Stat. 265.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of the 1934 Act, referred to in subsecs. (b) and (c)(1), see section 921(3) of this title.
@@ -49,6 +51,8 @@ For definition of the 1934 Act, referred to in subsecs. (b) and (c)(1), see sect
 <b>1997</b>—Subsec. (b). Pub. L. 105–33, §3002(e)(4)(A), substituted "the initial reallocation report required" for "the report required" in introductory provisions.
 
 Subsec. (c). Pub. L. 105–33, §3002(e)(4)(B), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Accelerated Availability for Auction of 1,710–1,755 Megahertz From Initial Reallocation Report
 

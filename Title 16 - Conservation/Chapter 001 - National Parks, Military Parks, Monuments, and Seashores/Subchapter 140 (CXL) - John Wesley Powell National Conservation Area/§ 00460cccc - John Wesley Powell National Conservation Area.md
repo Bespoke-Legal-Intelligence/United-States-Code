@@ -84,11 +84,11 @@ The Secretary shall only allow such uses of the National Conservation Area as th
 
 #### (2) Incorporation in National Conservation Area
 
-&emsp;Any land or interest in land located inside the boundary of the National Conservation Area that is acquired by the United States after March 12, 2019, shall be added to and administered as part of the National Conservation Area.
+&emsp;Any land or interest in land located inside the boundary of the National ConservationArea that is acquired by the United States after March 12, 2019, shall be added to and administered as part of the National Conservation Area.
 
 #### (3) State land
 
-&emsp;On request of the Utah School and Institutional Trust Lands Administration and, if practicable, not later than 5 years after March 12, 2019, the Secretary shall seek to acquire all State-owned land within the boundaries of theNational Conservation Area by exchange or purchase, subject to the appropriation of necessary funds.
+&emsp;On request of the Utah School and Institutional Trust Lands Administration and, if practicable, not later than 5 years after March 12, 2019, the Secretary shall seek to acquire all State-owned land within the boundaries of the National Conservation Area by exchange or purchase, subject to the appropriation of necessary funds.
 
 #### (h) Motorized vehicles
 
@@ -174,7 +174,7 @@ Except for improved campgrounds, the Secretary is prohibited from collecting rec
 
 #### (s) Outfitting and guide activities
 
-Outfitting and guide services within the National Conservation Area, including commercial outfitting and guide services, are authorized in accordance with this section and other applicable law (including regulations).
+Outfitting and guide services within the National Conservation Area, including commercial outfitting and guide services, are authorized inaccordance with this section and other applicable law (including regulations).
 
 #### (t) Non-Federal land
 

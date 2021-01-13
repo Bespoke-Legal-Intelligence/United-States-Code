@@ -10,7 +10,7 @@ The filing with the Commission of an application, or of an amendment to an appli
 
 #### (c) Applicability of other statutory provisions
 
-The provisions of section 77h of this title and the provisions of subsection (b) of section 77eeeof this title shall apply with respect to every such application, as though such application were a registration statement filed pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\].
+The provisions of section 77h of this title and the provisions of subsection (b) of section 77eee of this title shall apply with respect to every such application, as though such application were a registration statement filed pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\].
 
 (May 27, 1933, ch. 38, title III, §307, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 107–123, §7, Jan. 16, 2002, 115 Stat. 2397.)
 

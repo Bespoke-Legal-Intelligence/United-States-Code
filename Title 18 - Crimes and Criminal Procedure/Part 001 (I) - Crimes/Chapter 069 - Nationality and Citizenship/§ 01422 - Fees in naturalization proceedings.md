@@ -10,6 +10,8 @@ Based on subsections (a)(33), (d), (l) of section 746 of title 8, U.S.C., 1940 e
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

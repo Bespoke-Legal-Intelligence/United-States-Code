@@ -6,9 +6,9 @@ If—
 
 &emsp;(1) a United States person sells or exchanges stock in a foreign corporation, and
 
-&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreigncorporation was a controlled foreign corporation (as defined in section 957),
+&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreign corporation was a controlled foreign corporation (as defined in section 957),
 
-> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
+> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stocksold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
 
 #### (b) Limitation on tax applicable to individuals
 
@@ -142,7 +142,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (1) In general
 
-&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
+&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchangesstock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
 
 &emsp;&emsp;(A) issued to the 10-percent corporate shareholder, and
 
@@ -204,7 +204,7 @@ Subsec. (f)(1)(B). Pub. L. 100–647, §1006(e)(14)(B), amended subpar. (B) gene
 
 Subsec. (f)(3), (4). Pub. L. 100–647, §1006(e)(14)(D), redesignated par. (4) as (3) and struck out former par. (3) which related to nonapplication of paragraph (1) in certain cases.
 
-<b>1986</b>—Subsec. (d)(6). Pub. L. 99–514, §1876(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Earnings and profits of the foreign corporation attributable to foreign trade income (within the meaning of section 923(b)) of a FSC."
+<b>1986</b>—Subsec. (d)(6). Pub. L. 99–514, §1876(a)(2), amended par. (6) generally. Prior to amendment, par. (6) readas follows: "Earnings and profits of the foreign corporation attributable to foreign trade income (within the meaning of section 923(b)) of a FSC."
 
 Subsec. (e). Pub. L. 99–514, §631(d)(2)(A), substituted "Except as provided in regulations" for "Under regulations".
 
@@ -266,7 +266,7 @@ Pub. L. 115–97, title I, §14102(a)(2), Dec. 22, 2017, 131 Stat. 2192, provide
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

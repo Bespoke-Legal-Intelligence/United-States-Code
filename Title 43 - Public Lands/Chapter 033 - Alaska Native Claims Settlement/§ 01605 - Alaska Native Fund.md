@@ -30,11 +30,15 @@ After completion of the roll prepared pursuant to section 1604 of this title, al
 
 (Pub. L. 92–203, §6, Dec. 18, 1971, 85 Stat. 690; Pub. L. 94–273, §38, Apr. 21, 1976, 90 Stat. 380.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a)(1)(D). Pub. L. 94–273 substituted "period beginning July 1, 1976, and ending September 30, 1976; and" for "the sixth fiscal year; and".
 
 Subsec. (a)(1)(E). Pub. L. 94–273 inserted provision relating to transfer to the Alaska Native Fund.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deposits Into and Distributions From Alaska Native Fund; Time Requirements; Inclusion of Previously Earned Interest
 

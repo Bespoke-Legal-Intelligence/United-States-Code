@@ -60,6 +60,8 @@ Amounts made available under this subchapter may not be used to construct or rep
 
 (Pub. L. 92–367, §14, formerly §12, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §13 and amended Pub. L. 107–310, §§5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, §1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered §14 and amended Pub. L. 113–121, title III, §3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, §1163, Oct. 23, 2018, 132 Stat. 3796.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 467j, Pub. L. 92–367, §11, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, §209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
@@ -72,7 +74,7 @@ A prior section 14 of Pub. L. 92–367 was classified to section 467m of this ti
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–121, §3001(f), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 
-Pub. L. 113–121, §3001(e)(1)(A), substituted "$9,200,000 for each of fiscal years 2015 through 2019" for "$6,500,000for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011".
+Pub. L. 113–121, §3001(e)(1)(A), substituted "$9,200,000 for each of fiscal years 2015 through 2019" for "$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011".
 
 Subsec. (a)(2)(B). Pub. L. 113–121, §3001(e)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
@@ -115,6 +117,8 @@ Subsec. (a)(2)(A)(i), (ii). Pub. L. 107–310, §7(b)(1), substituted "section 4
 Subsec. (a)(2)(C). Pub. L. 107–310, §7(b)(2), struck out "needing primary assistance and States needing advanced assistance under section 467f(f) of this title" before period at end.
 
 Subsecs. (c) to (e). Pub. L. 107–310, §7(c), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which authorized appropriations for fiscal years 1998 through 2002 for dam safety training, research, and staff.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(e)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Deputy Director of the Government Publishing Office" for "Deputy Public Printer" in items 302 and 303.
@@ -44,6 +46,8 @@ Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537,
 <b>1972</b>—Pub. L. 92–310, title II, §210(a)(3), June 6, 1972, 86 Stat. 204, struck out "; bond" in item 301.
 
 <b>1970</b>—Pub. L. 91–359, §1(b), July 31, 1970, 84 Stat. 668, added item 317.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

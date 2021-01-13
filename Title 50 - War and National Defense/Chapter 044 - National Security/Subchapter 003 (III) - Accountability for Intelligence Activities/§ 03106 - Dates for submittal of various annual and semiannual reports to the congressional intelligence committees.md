@@ -42,7 +42,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 > if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
-(2)(A) Notwithstanding any other provision of law and subject to paragraph (3), the date for the submittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report ifthe official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
+(2)(A) Notwithstanding any other provision of law and subject to paragraph (3), the date for the submittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
 (B) A report described in this subparagraph is any report on intelligence or intelligence-related activities of the United States Government that is submitted under a provision of law requiring the submittal of only a single report.
 
@@ -200,7 +200,7 @@ Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
 
 #### Deadline for Submittal of Various Overdue Reports
 
-Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out thefunctions and duties of the Director's Office would be reduced by 1/3.
+Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director's Office would be reduced by 1/3.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "General".</i>
 

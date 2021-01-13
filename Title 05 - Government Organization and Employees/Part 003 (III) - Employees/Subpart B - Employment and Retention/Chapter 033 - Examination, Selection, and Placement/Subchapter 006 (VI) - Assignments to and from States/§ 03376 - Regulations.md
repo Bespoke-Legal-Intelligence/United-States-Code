@@ -4,9 +4,13 @@ The President may prescribe regulations for the administration of this subchapte
 
 (Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1925.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under section 3371 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11589. Delegation of Functions to Office of Personnel Management
 

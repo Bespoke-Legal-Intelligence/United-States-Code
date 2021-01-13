@@ -4,7 +4,7 @@
 
 To the extent that the ongoing International Monetary Fund review of the Polish economy projects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
 
-&emsp;(1) should work closely with the European Community and international financial institutions to determine the extent of emergencyassistance required by Poland for the fourth quarter of 1989, and
+&emsp;(1) should work closely with the European Community and international financial institutions to determine the extent of emergency assistance required by Poland for the fourth quarter of 1989, and
 
 &emsp;(2) should consider extending a bridge loan to relieve immediate and urgent balance of payments requirements using the Exchange Stabilization Fund in accordance with paragraph (1)(A) of section 5411(b) of this title.
 
@@ -23,6 +23,8 @@ In furtherance of section 5411(b)(1) of this title, the President, acting in coo
 &emsp;For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
 
 (Pub. L. 101–179, title I, §102, Nov. 28, 1989, 103 Stat. 1303.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

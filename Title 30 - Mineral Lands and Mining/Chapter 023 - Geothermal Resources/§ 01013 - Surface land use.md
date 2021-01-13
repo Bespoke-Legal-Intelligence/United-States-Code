@@ -4,6 +4,8 @@ Subject to the other provisions of this chapter, a lessee shall be entitled to u
 
 (Pub. L. 91–581, §14, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, §236(14), Aug. 8, 2005, 119 Stat. 672.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 inserted section catchline.

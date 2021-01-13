@@ -6,7 +6,7 @@ The Secretary shall, immediately after the publication of the boundaries of the 
 
 #### (b) Plan to Congressional committees; time; contents
 
-Within one year after October 11, 1974, the Secretary shall submit, in writing, to the Committee <sup>1</sup> on Interior and Insular Affairs and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate:
+Within one year after October 11, 1974, the Secretary shall submit, in writing, to the Committee <sup>1</sup> on Interior and Insular Affairs and tothe Committees on Appropriations of the United States Congress a detailed plan which shall indicate:
 
 &emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment of this preserve,
 

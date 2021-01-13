@@ -50,7 +50,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (1) In general
 
-&emsp;The Secretary is hereby authorized to enter into an agreement with any State to collect, as the agent of such State, such State's unemployment taxes imposed on remuneration paid for domestic service in a private home of the employer. Any taxes to be collected by the Secretary pursuant to such an agreement shall be treated as domestic service employment taxes for purposes of this section.
+&emsp;The Secretary is hereby authorized to enter into an agreement with any State to collect, as the agent of such State, such State's unemployment taxes imposed on remuneration paid for domestic service in a private home of theemployer. Any taxes to be collected by the Secretary pursuant to such an agreement shall be treated as domestic service employment taxes for purposes of this section.
 
 #### (2) Transfers to State account
 

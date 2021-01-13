@@ -22,13 +22,17 @@ The Director may utilize the administrative authorities otherwise available to t
 
 #### (e) Implementation
 
-The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
+The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations inorder to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
 (Pub. L. 105–277, div. I, title I, §101, Oct. 21, 1998, 112 Stat. 2681–860.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13128. Implementation of the Chemical Weapons Convention and the Chemical Weapons Convention Implementation Act
 
@@ -60,7 +64,7 @@ Sec. 8. In order to take additional steps with respect to the proliferation of w
 
 &emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
 
-Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation\(FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
+Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation (FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
 
 Sec. 10. Nothing in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 

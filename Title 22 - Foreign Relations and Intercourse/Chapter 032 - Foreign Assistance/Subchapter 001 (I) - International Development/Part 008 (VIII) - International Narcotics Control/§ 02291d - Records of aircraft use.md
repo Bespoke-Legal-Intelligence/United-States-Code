@@ -10,9 +10,13 @@ The President shall make the records maintained pursuant to subsection (a) avail
 
 (Pub. L. 87–195, pt. I, §485, as added Pub. L. 99–570, title II, §2003, Oct. 27, 1986, 100 Stat. 3207–61; amended Pub. L. 102–583, §4(f)(3), Nov. 2, 1992, 106 Stat. 4917.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–583 substituted "President" for "Secretary of State" in subsecs. (a) and (b).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

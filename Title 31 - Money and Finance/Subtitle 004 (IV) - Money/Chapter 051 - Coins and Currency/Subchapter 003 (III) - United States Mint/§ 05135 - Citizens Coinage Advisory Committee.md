@@ -30,7 +30,7 @@ Appointment.—The Advisory Committee shall consist of 11 members appointed by t
 
 &emsp;&emsp;&emsp;(iv) one of whom shall be appointed from among individuals who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience in numismatics; and
 
-&emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can representthe interests of the general public in the coinage of the United States.
+&emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can represent the interests of the general public in the coinage of the United States.
 
 &emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendations of the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
 
@@ -128,7 +128,7 @@ Expenses.—The expenses of the Advisory Committee that the Secretary of the Tre
 
 (e)
 
-Administrative Support, Technical Services, and Advice.—Upon the request of the Advisory Committee, or as necessary for the Advisory Committee to carry out the responsibilities of the Advisory Committee under this section, the Director of the United States Mint shall provide to the Advisory Committee the administrative support, technical services, and advice that the Secretary of the Treasury determines to be reasonable and appropriate.
+Administrative Support, Technical Services, and Advice.—Upon the request of the Advisory Committee, or as necessary for the Advisory Committee to carry out the responsibilitiesof the Advisory Committee under this section, the Director of the United States Mint shall provide to the Advisory Committee the administrative support, technical services, and advice that the Secretary of the Treasury determines to be reasonable and appropriate.
 
 (f)
 
@@ -140,7 +140,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Required.—Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing,and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
+Required.—Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
 
 &emsp;(2)
 
@@ -151,6 +151,8 @@ Contents.—The report required by paragraph (1) shall describe the activities o
 Federal Advisory Committee Act Does Not Apply.—Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.
 
 (Added Pub. L. 102–390, title II, §229(a), Oct. 6, 1992, 106 Stat. 1631; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–329, title III, §303(a), Oct. 20, 1996, 110 Stat. 4014; Pub. L. 108–15, title I, §103(a), Apr. 23, 2003, 117 Stat. 616.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 Pub. L. 104–208, §101(f) \[title V, §529(d)(1)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years."
 
 Subsec. (a)(7). Pub. L. 104–208, §101(f) \[title V, §529(d)(2)\], added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolishment of Citizens Commemorative Coin Advisory Committee; Continuity of Members
 

@@ -82,7 +82,7 @@
 
 #### (C) Coordination with recapture
 
-&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A)began shall be treated as the period immediately before the decedent's death.
+&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
 
 #### (5) Special rules for surviving spouses
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of additional tax determined under this paragraph (without regard to this subparagraph) if the entire interest of the qualified heir in the qualified woodland had been disposed of, less the sum of the amount of the additional tax imposed with respect to all prior transactions involving such woodland to which this subparagraph applied.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the disposition of a right to sever shall be treated as the disposition of the standing timber. The amount of additional tax imposed underparagraph (1) in any case in which a qualified heir disposes of his entire interest in the qualified woodland shall be reduced by any amount determined under this subparagraph with respect to such woodland.
+> &emsp;&emsp;For purposes of the preceding sentence, the disposition of a right to sever shall be treated as the disposition of the standing timber. The amount of additional tax imposed under paragraph (1) in any case in which a qualified heir disposes of his entire interest in the qualified woodland shall be reduced by any amount determined under this subparagraph with respect to such woodland.
 
 #### (3) Only 1 additional tax imposed with respect to any 1 portion
 
@@ -298,7 +298,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the average annual effective interest rate for all new Federal Land Bank loans.
 
-> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be made on the basis of the 5 most recent calendar years ending before the date of the decedent's death.
+> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be madeon the basis of the 5 most recent calendar years ending before the date of the decedent's death.
 
 #### (B) Value based on net share rental in certain cases
 
@@ -638,7 +638,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
+Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made,after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
 Pub. L. 105–34, title V, §504(c), Aug. 5, 1997, 111 Stat. 854, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976."
 
@@ -734,7 +734,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 
-Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: "If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of any overpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act."
+Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: "If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of anyoverpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act."
 
 #### Information Necessary for Valid Special Use Valuation Election
 

@@ -102,9 +102,13 @@ In this chapter, the following definitions shall apply:
 
 (Pub. L. 111–240, title III, §3002, Sept. 27, 2010, 124 Stat. 2568.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

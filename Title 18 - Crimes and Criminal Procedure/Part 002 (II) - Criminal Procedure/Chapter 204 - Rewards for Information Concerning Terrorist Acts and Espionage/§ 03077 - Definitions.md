@@ -16,7 +16,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(E) a sole proprietorship, partnership, company, or association composed principally of nationals or permanent resident aliens of the United States; and
 
-&emsp;&emsp;(F) a corporation organized under the laws of the United States, any State, the Districtof Columbia, or any territory or possession of the United States, and a foreign subsidiary of such corporation;
+&emsp;&emsp;(F) a corporation organized under the laws of the United States, any State, the District of Columbia, or any territory or possession of the United States, and a foreign subsidiary of such corporation;
 
 &emsp;(3) "United States property" means any real or personal property which is within the United States or, if outside the United States, the actual or beneficial ownership of which rests in a United States person or any Federal or State governmental entity of the United States;
 
@@ -35,6 +35,8 @@ As used in this chapter, the term—
 &emsp;&emsp;(B) section 4 of the Subversive Activities Control Act of 1950.
 
 (Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, §802(b), Oct. 26, 2001, 115 Stat. 376.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

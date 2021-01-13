@@ -4,6 +4,8 @@ At any time after the concurrent resolution on the budget for a fiscal year has 
 
 (Pub. L. 93–344, title III, §304, July 12, 1974, 88 Stat. 310; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, §208(b), Sept. 29, 1987, 101 Stat. 786; Pub. L. 101–508, title XIII, §13112(a)(8), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 105–33, title X, §10108, Aug. 5, 1997, 111 Stat. 684.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1325 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
@@ -18,7 +20,9 @@ Section was formerly classified to section 1325 of Title 31 prior to the general
 
 <b>1985</b>—Pub. L. 99–177, in amending section generally, inserted "Permissible" before "revisions" in section catchline, designated existing provisions as subsec. (a), struck out "first" after "after the", and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title priorto repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

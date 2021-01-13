@@ -20,7 +20,7 @@ Information collected and made available through the database shall include—
 
 &emsp;(4) number and percentage of such mortgage loans that are in the foreclosure process;
 
-&emsp;(5) the number and percentage of such mortgage loans that have an outstanding principal obligation amount that is greater than the value of the property for which the loan was made; and
+&emsp;(5) the number and percentage of such mortgage loans that have an outstanding principal obligation amount that is greater than thevalue of the property for which the loan was made; and
 
 &emsp;(6) such other information as the Secretary of Housing and Urban Development and the Director of the Bureau consider appropriate.
 
@@ -40,9 +40,13 @@ In establishing and maintaining the database described in subsection (a), the Se
 
 (Pub. L. 111–203, title XIV, §1447, July 21, 2010, 124 Stat. 2172.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act and also as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the National Housing Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

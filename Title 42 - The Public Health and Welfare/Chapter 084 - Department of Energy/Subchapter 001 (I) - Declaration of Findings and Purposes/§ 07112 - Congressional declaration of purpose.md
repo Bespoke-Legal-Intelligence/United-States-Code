@@ -24,7 +24,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(7) To continue and improve the effectiveness and objectivity of a central energy data collection and analysis program within the Department.
 
-&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to provide for the administration of a national energy supply reserve.
+&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to providefor the administration of a national energy supply reserve.
 
 &emsp;(9) To promote the interests of consumers through the provision of an adequate and reliable supply of energy at the lowest reasonable cost.
 

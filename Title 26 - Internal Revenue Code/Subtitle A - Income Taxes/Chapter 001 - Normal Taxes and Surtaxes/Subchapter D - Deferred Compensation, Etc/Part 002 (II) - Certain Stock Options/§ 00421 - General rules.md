@@ -72,7 +72,7 @@ Subsec. (c)(3)(B). Pub. L. 101–508, §11801(c)(9)(B)(iii)(IV), (V), substitute
 
 <b>1981</b>—Subsecs. (a), (b), (c)(1)(A). Pub. L. 97–34 inserted references to section 422A(a) in subsecs. (a), (b), and (c)(1)(A) and to section 422A(a)(1) in subsec. (b).
 
-<b>1964</b>—Pub. L. 88–272 amended section generally, and among other changes, inserted provisions relating to the effect of a qualifying transfer, and to the basis of shares acquired when an option is exercised by an estate, and omitted provisions relating to treatment of restricted stock options, a special rule where option price was between 85 percent and 95 percent of value ofstock, acquisition of new stock, definitions, modification, extension, or renewal of option, and corporate reorganizations, liquidations, etc. See sections 421 to 425 of this title.
+<b>1964</b>—Pub. L. 88–272 amended section generally, and among other changes, inserted provisions relating to the effect of a qualifying transfer, and to the basis of shares acquired when an option is exercised by an estate, and omitted provisions relating to treatment of restricted stock options, a special rule where option price was between 85 percent and 95 percent of value of stock, acquisition of new stock, definitions, modification, extension, or renewal of option, and corporate reorganizations, liquidations, etc. See sections 421 to 425 of this title.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866, §25, inserted sentence authorizing substitution of "grantor corporation" or "corporation issuing or assuming a stock option in a transaction to which subsection (g) is applicable" for "employer corporation".
 

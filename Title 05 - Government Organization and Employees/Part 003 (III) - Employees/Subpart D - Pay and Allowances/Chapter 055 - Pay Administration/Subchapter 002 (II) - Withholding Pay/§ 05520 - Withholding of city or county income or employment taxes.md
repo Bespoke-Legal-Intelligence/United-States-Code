@@ -40,6 +40,8 @@
 
 (Added Pub. L. 93–340, §1(a), July 10, 1974, 88 Stat. 294; amended Pub. L. 94–358, §1, July 12, 1976, 90 Stat. 910; Pub. L. 95–30, title IV, §408(a), May 23, 1977, 91 Stat. 157; Pub. L. 95–365, §1, Sept. 15, 1978, 92 Stat. 599; Pub. L. 100–180, div. A, title V, §505(2), Dec. 4, 1987, 101 Stat. 1086.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–180 inserted "(other than service described in section 5517(d) of this title)" after "Armed Forces" in penultimate sentence.
@@ -56,6 +58,8 @@ Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and rede
 
 <b>1976</b>—Subsec. (c)(1). Pub. L. 94–358 substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–365, §2, Sept. 15, 1978, 92 Stat. 599, provided that: "The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\]."
@@ -71,6 +75,8 @@ Pub. L. 94–358, §2, July 12, 1976, 90 Stat. 910, provided that: "The amendmen
 #### Effective Date
 
 Pub. L. 93–340, §3, July 10, 1974, 88 Stat. 295, provided that: "This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11833
 
@@ -90,7 +96,7 @@ Ex. Ord. No. 11997, June 22, 1977, 42 F.R. 31759, provided:
 
 By virtue of the authority vested in me by Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to authorize the Secretary of the Treasury to provide for the withholding of county income or employment taxes as authorized by Section 5520 of Title 5 of the United States Code as amended by Section 408 of Public Law 95–30, as well as to provide for the withholding of District of Columbia, State and city income or employment taxes, it is hereby ordered as follows:
 
-Section 1. Whenever the Secretary of the Treasury enters into an agreement pursuant to Sections 5516, 5517 or 5520 of Title 5 of the United States Code, with the District of Columbia, a State, a city or a county, as the case may be, with regard to the withholding, by an agency of the United States, hereinafter referred to as an agency, of income or employment taxes from the pay of Federal employees or members of the ArmedForces, the Secretary of the Treasury shall ensure that each agreement is consistent with those sections and regulations, including this Order, issued thereunder.
+Section 1. Whenever the Secretary of the Treasury enters into an agreement pursuant to Sections 5516, 5517 or 5520 of Title 5 of the United States Code, with the District of Columbia, a State, a city or a county, as the case may be, with regard to the withholding, by an agency of the United States, hereinafter referred to as an agency, of income or employment taxes from the pay of Federal employees or members of the Armed Forces, the Secretary of the Treasury shall ensure that each agreement is consistent with those sections and regulations, including this Order, issued thereunder.
 
 Sec. 2. Each agreement shall provide (a) when tax withholding shall begin, (b) that the head of an agency may rely on the withholding certificate of an employee or a member of the Armed Forces in withholding taxes, (c) that the method for calculating the amount to be withheld for District of Columbia, State, city or county income or employment taxes shall produce approximately the tax required to be withheld by the District of Columbia or State law; or city or county ordinance, whichever is applicable, and (d) that procedures for the withholding, filing of returns, and payment of the withheld taxes to the District of Columbia, a State, a city or a county shall conform to the usual fiscal practices of agencies. Any agreement affecting members of the Armed Forces shall also provide that the head of an agency may rely on the certificate of legal residence of a member of the Armed Forces in determining his or her residence for tax withholding purposes. No agreement shall require the collection by an agency of delinquent tax liabilities of an employee or a member of the Armed Forces.
 

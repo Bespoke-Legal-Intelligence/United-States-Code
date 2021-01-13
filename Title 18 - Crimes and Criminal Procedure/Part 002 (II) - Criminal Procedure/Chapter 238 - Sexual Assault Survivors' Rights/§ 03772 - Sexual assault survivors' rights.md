@@ -10,7 +10,7 @@ Rights of Sexual Assault Survivors.—In addition to those rights provided in se
 
 &emsp;&emsp;(A) subject to paragraph (3), have a sexual assault evidence collection kit or its probative contents preserved, without charge, for the duration of the maximum applicable statute of limitations or 20 years, whichever is shorter;
 
-&emsp;&emsp;(B) be informed of any result of a sexual assault evidence collection kit, including aDNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation; and
+&emsp;&emsp;(B) be informed of any result of a sexual assault evidence collection kit, including a DNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation; and
 
 &emsp;&emsp;(C) be informed in writing of policies governing the collection and preservation of a sexual assault evidence collection kit.
 
@@ -35,6 +35,8 @@ Definition of Sexual Assault.—In this section, the term "sexual assault" means
 Funding.—This section, other than paragraphs (2)(A) and (3)(B) of subsection (a), shall be carried out using funds made available under section 1402(d)(3)(A)(i) of the Victims of Crime Act of 1984 (42 U.S.C. 10601(d)(3)(A)(i)).<sup>1</sup> No additional funds are authorized to be appropriated to carry out this section.
 
 (Added Pub. L. 114–236, §2(a), Oct. 7, 2016, 130 Stat. 966.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, as appropriate, improve the analysis and timely reporting of data on the incidence and prevalence of Alzheimer'sdisease and related dementias. Such data may include, as appropriate, information on cognitive decline, caregiving, and health disparities experienced by individuals with cognitive decline and their caregivers. The Secretary may award grants, contracts, or cooperative agreements to eligible entities for activities under this paragraph.
+&emsp;The Secretary shall, as appropriate, improve the analysis and timely reporting of data on the incidence and prevalence of Alzheimer's disease and related dementias. Such data may include, as appropriate, information on cognitive decline, caregiving, and health disparities experienced by individuals with cognitive decline and their caregivers. The Secretary may award grants, contracts, or cooperative agreements to eligible entities for activities under this paragraph.
 
 #### (2) Eligibility
 

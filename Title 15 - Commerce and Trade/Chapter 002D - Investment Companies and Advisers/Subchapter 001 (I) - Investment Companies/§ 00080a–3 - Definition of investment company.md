@@ -14,7 +14,7 @@
 
 #### (b) Exemption from provisions
 
-Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is aninvestment company within the meaning of this subchapter:
+Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -44,13 +44,13 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;(ii) the term "financial contract" means any arrangement that—
 
-&emsp;&emsp;&emsp;(I) takes the form of an individually negotiated contract, agreement, or option to buy, sell, lend, swap, or repurchase, or other similar individually negotiated transaction commonly entered into by participants in the financial markets;
+&emsp;&emsp;&emsp;(I) takes the form of an individually negotiated contract, agreement, or option tobuy, sell, lend, swap, or repurchase, or other similar individually negotiated transaction commonly entered into by participants in the financial markets;
 
 &emsp;&emsp;&emsp;(II) is in respect of securities, commodities, currencies, interest or other rates, other measures of value, or any other financial or economic interest similar in purpose or function to any of the foregoing; and
 
 &emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
-&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment ofmoneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
+&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
 
 &emsp;&emsp;(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
 
@@ -88,7 +88,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
 
-&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
+&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), anissuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
 &emsp;(8) \[Repealed\] Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.
 
@@ -156,7 +156,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;(B) substantially all of the activities of which consist of—
 
-&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingledwith the assets of church plans under title 26; or
+&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingled with the assets of church plans under title 26; or
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
@@ -200,7 +200,7 @@ Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted "Internal Revenue Code
 
 Pub. L. 100–181, §606(2), (3), substituted "; or any governmental plan" for "or which holds only assets of governmental plans" and "trusts or governmental plans, or both" for "trusts".
 
-<b>1980</b>—Subsec. (c)(1). Pub. L. 96–477, §102, designated existing provisions as subpar. (A), provided that beneficial ownership was to be deemed to be that of the holders of ten per cent of company's outstanding securities, other than short term paper, unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which were or would, but for the exception set forth in subpar. (A), be excluded from the definition of investment company solely by par. (1), did not exceed ten per cent of the value of the company's total assets, that such issuer nonetheless was deemed to be an investment company for purposes of section 80a–12(d)(1) of this title, and added subpar. (B).
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–477, §102, designated existing provisions as subpar. (A), provided that beneficial ownership was to be deemed to be that of the holders of ten per cent of company's outstanding securities, other than short term paper, unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which were or would, but for the exception set forth in subpar. (A), be excluded from the definition of investment companysolely by par. (1), did not exceed ten per cent of the value of the company's total assets, that such issuer nonetheless was deemed to be an investment company for purposes of section 80a–12(d)(1) of this title, and added subpar. (B).
 
 Subsec. (c)(11). Pub. L. 96–477, §703, excluded from consideration as an investment company for purposes of this subchapter any employee's stock bonus, pension, or profit-sharing trust which holds only assets of governmental plans described in section 77c(a)(2)(C) of this title, redesignated former cl. (B) as (C), and added cl. (B).
 
@@ -272,7 +272,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 &emsp;"(C) if the contribution of an employer to such a plan in the employer's taxable year beginning in 1942 exceeds the maximum amount deductible for such year under section 23(p)(1), as amended by this section, the amount deductible in such year shall be not less than the sum of—
 
-&emsp;&emsp;"(i) the amount paid in such taxable year prior to September 1, 1942, and deductible under section 23(a) or 23(p) prior to amendment by this section, and
+&emsp;&emsp;"(i) the amount paid in such taxable year prior to September 1, 1942, and deductible under section23(a) or 23(p) prior to amendment by this section, and
 
 &emsp;&emsp;"(ii) with respect to the amount paid in such taxable year on or after September 1, 1942, that proportion of the amount deductible for the taxable year under section 23(p)(1), as amended by this section, which the number of months after August 31, 1942, in the taxable year bears to twelve.
 
@@ -280,7 +280,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 #### Regulations
 
-Pub. L. 104–290, title II, §209(d)(1), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section."
+Pub. L. 104–290, title II, §209(d)(1), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section."
 
 Pub. L. 104–290, title II, §209(d)(3), Oct. 11, 1996, 110 Stat. 3436, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\]."
 

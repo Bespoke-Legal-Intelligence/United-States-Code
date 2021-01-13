@@ -24,10 +24,15 @@
 | [55120\.](%C2%A7%2055120%20-%20Transshipment%20of%20imported%20merchandise%20intended%20for%20immediate%20exportation.md) | Transshipment of imported merchandise intended for immediate exportation. |
 | [55121\.](%C2%A7%2055121%20-%20Transportation%20of%20merchandise%20and%20passengers%20on%20Canadian%20vessels.md) | Transportation of merchandise and passengers on Canadian vessels. |
 | [55122\.](%C2%A7%2055122%20-%20Floating%20dry%20docks.md) | Floating dry docks. |
+| [55123\.](%C2%A7%2055123%20-%20Priority%20loading%20for%20coal.md) | Priority loading for coal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1024(b)(1)(B)(ii), Jan. 1, 2021, 134 Stat. 3842, added item 55123.
 
 <b>2014</b>—Pub. L. 113–291, div. C, title XXXV, §3502(b), Dec. 19, 2014, 128 Stat. 3904, added item 55122.
 
@@ -60,3 +65,4 @@
 - [&sect; 55120 - Transshipment of imported merchandise intended for immediate exportation](%C2%A7%2055120%20-%20Transshipment%20of%20imported%20merchandise%20intended%20for%20immediate%20exportation.md)
 - [&sect; 55121 - Transportation of merchandise and passengers on Canadian vessels](%C2%A7%2055121%20-%20Transportation%20of%20merchandise%20and%20passengers%20on%20Canadian%20vessels.md)
 - [&sect; 55122 - Floating dry docks](%C2%A7%2055122%20-%20Floating%20dry%20docks.md)
+- [&sect; 55123 - Priority loading for coal](%C2%A7%2055123%20-%20Priority%20loading%20for%20coal.md)

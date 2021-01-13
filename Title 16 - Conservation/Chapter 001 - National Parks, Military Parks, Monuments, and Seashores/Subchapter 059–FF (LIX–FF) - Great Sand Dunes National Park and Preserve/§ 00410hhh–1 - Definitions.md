@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Advisory Council
 
-&emsp;The term "Advisory Council" means the Great Sand Dunes National Park Advisory Council established under section 410hhh–6(a) <sup>1</sup> of this title.
+&emsp;The term "Advisory Council" means the Great Sand Dunes National Park AdvisoryCouncil established under section 410hhh–6(a) <sup>1</sup> of this title.
 
 #### (2) Luis Maria Baca Grant No. 4
 

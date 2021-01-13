@@ -12,6 +12,8 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 Minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–392 substituted "10 years" for "four years".

@@ -6,7 +6,7 @@ In General.—As provided in section 175 of this title, there is in the Office o
 
 (b)
 
-Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
+Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to theSecretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
 
 (c)
 
@@ -88,7 +88,7 @@ Pub. L. 111–383, div. A, title V, §514(a)(2), Jan. 7, 2011, 124 Stat. 4213, p
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

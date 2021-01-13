@@ -18,7 +18,7 @@ The head of the Cuba Service and the head of the Television Marti Service shall 
 
 #### (e) Compensation; travel expenses
 
-Members of the Advisory Board appointed by the President shall, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
+Members of the Advisory Board appointed by the President shall, while attending meetings ofthe Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
 
 #### (f) Procurement powers of Advisory Board
 
@@ -37,6 +37,8 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 #### Repeal of Section
 
 <i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsec. (b). Pub. L. 101–246, §245(a)(2), amended subsec. (b) generally. Prio
 Subsec. (d). Pub. L. 101–246, §245(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The head of the Service shall serve, ex officio, as a member of the Board."
 
 Subsec. (e). Pub. L. 101–246, §245(a)(4), substituted "The ex officio members" for "The ex officio member".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

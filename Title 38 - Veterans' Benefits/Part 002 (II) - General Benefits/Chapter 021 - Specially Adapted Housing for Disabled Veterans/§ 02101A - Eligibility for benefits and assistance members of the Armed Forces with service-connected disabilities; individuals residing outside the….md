@@ -2,7 +2,7 @@
 
 (a)
 
-Members With Service-Connected Disabilities.—(1) The Secretary may provide assistance under this chapter to a member of the Armed Forces serving on active duty who is suffering from a disability that meets applicable criteria for benefits under this chapter if the disability is incurred or aggravated in line of duty in the active military, naval, or air service. Such assistance shall be provided to the same extent as assistance is provided under this chapter to veterans eligible for assistance under this chapter and subject to the same requirements as veterans under this chapter.
+Members With Service-Connected Disabilities.—(1) The Secretary may provide assistance under this chapter to a member of the Armed Forces serving on active duty who is suffering from a disability that meets applicable criteria for benefits under this chapter if the disability is incurred or aggravated in line of duty in the active military, naval, air, or space service. Such assistance shall be provided to the same extent as assistance is provided under this chapter to veterans eligible for assistance underthis chapter and subject to the same requirements as veterans under this chapter.
 
 (2) For purposes of this chapter, any reference to a veteran or eligible individual shall be treated as a reference to a member of the Armed Forces described in subsection (a) who is similarly situated to the veteran or other eligible individual so referred to.
 
@@ -24,9 +24,13 @@ Limitation.—Notwithstanding subsections (a) and (b), this section shall not ap
 
 Regulations.—Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Added Pub. L. 110–289, div. B, title VI, §2602(a), July 30, 2008, 122 Stat. 2858; amended Pub. L. 115–177, §1(c)(2), June 1, 2018, 132 Stat. 1377.)
+(Added Pub. L. 110–289, div. B, title VI, §2602(a), July 30, 2008, 122 Stat. 2858; amended Pub. L. 115–177, §1(c)(2), June 1, 2018, 132 Stat. 1377; Pub. L. 116–283, div. A, title IX, §926(a)(34), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2018</b>—Subsecs. (c), (d). Pub. L. 115–177 added subsec. (c) and redesignated former subsec. (c) as (d).
 

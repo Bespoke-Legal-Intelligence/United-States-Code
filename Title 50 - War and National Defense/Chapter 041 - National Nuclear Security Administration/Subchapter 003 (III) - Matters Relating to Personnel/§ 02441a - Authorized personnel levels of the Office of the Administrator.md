@@ -48,7 +48,7 @@ The Administrator shall include in the budget justification materials submitted 
 
 &emsp;(3) The number of full-time equivalent contractor employees working under each contract identified under paragraph (2).
 
-&emsp;(4) The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
+&emsp;(4) The number of full-time equivalent contractor employees described in paragraph (3)that have been employed under such a contract for a period greater than two years.
 
 &emsp;(5) With respect to each contract identified under paragraph (2)—
 

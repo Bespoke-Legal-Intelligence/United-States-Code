@@ -16,6 +16,12 @@ Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that
 
 Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–127, div. B, title I, §2101, Mar. 18, 2020, 134 Stat. 184, provided that: "This title \[enacting provisions set out as a note under section 1760 of this title\] may be cited as the 'Maintaining Essential Access to Lunch for Students Act' or the 'MEALS Act'."
+
+Pub. L. 116–127, div. B, title II, §2201, Mar. 18, 2020, 134 Stat. 185, provided that: "This title \[enacting provisions set out as notes under sections 1760 and 1786 of this title\] may be cited as the 'COVID–19 Child Nutrition Response Act'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–296, §1(a), Dec. 13, 2010, 124 Stat. 3183, provided that: "This Act \[enacting sections 1758b, 1769d, 1769e, 1769j, and 1793 of this title and sections 2036a and 3179 of Title 7, Agriculture, amending sections 1396a, 1753, 1755, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769b–1, 1769c, 1769g, 1769i, 1776, 1779, and 1786 of this title, sections 2013 and 2020 of Title 7, and section 1232g of Title 20, Education, repealing section 1769h of this title, enacting provisions set out as notes under this section and sections 1396a, 1758, and 1766 of this title and section 3179 of Title 7, and repealing provisions set out as a note under this section\] may be cited as the 'Healthy, Hunger-Free Kids Act of 2010'."
@@ -73,6 +79,260 @@ Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: "That this Act \[am
 #### Short Title
 
 Act June 4, 1946, ch. 281, §1, 60 Stat. 230, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: "That this Act \[enacting this chapter\] may be cited as the 'Richard B. Russell National School Lunch Act'."
+
+#### Emergency Costs for Child Nutrition Programs During COVID–19 Pandemic
+
+Pub. L. 116–260, div. N, title VII, §722, Dec. 27, 2020, 134 Stat. 2097, provided that:
+
+"(a)
+
+Use of Certain Appropriations to Cover Emergency Operational Costs Under School Meal Programs.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Required allotments.—Notwithstanding any other provision of law, the Secretary shall allocate to each State that participates in the reimbursement program under paragraph (3) such amounts as may be necessary to carry out reimbursements under such paragraph for each reimbursement month, including, subject to paragraph (5)(B), administrative expenses necessary to make such reimbursements.
+
+&emsp;&emsp;"(B)
+
+Guidance with respect to program.—Not later than 30 days after the date of the enactment of this section \[Dec. 27, 2020\], the Secretary shall issue guidance with respect to the reimbursement program under paragraph (3).
+
+&emsp;"(2)
+
+Reimbursement program application.—To participate in the reimbursement program under paragraph (3), not later than 30 days after the date described in paragraph (1)(B), a State shall submit an application to the Secretary that includes a plan to calculate and disburse reimbursements under the reimbursement program under paragraph (3).
+
+&emsp;"(3)
+
+Reimbursement program.—Subject to paragraphs (4) and (5)(D), using the amounts allocated under paragraph (1)(A), a State participating in the reimbursement program under this paragraph shall make reimbursements for emergency operational costs for each reimbursement month as follows:
+
+&emsp;&emsp;"(A) For each new school food authority in the State for the reimbursement month, an amount equal to 55 percent of the amount equal to—
+
+&emsp;&emsp;&emsp;"(i) the average monthly amount such new school food authority was reimbursed under the reimbursement sections for meals and supplements served by such new school food authority during the alternate period; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such new school food authority was reimbursed under the reimbursement sections for meals and supplements served by such new school food authority during such reimbursement month.
+
+&emsp;&emsp;"(B) For each school food authority not described in subparagraph (A) in the State for the reimbursement month, an amount equal to 55 percent of—
+
+&emsp;&emsp;&emsp;"(i) the amount such school food authority was reimbursed under the reimbursement sections for meals and supplements served by such school food authority for the month beginning one year before such reimbursement month; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such school food authority was reimbursed under the reimbursement sections for meals and supplements served by such school food authority during such reimbursement month.
+
+&emsp;"(4)
+
+Special rules relating to reimbursement calculation.—
+
+&emsp;&emsp;"(A)
+
+Effect of negative number.—If a subtraction performed under subparagraph (A) or (B) of paragraph (3) results in a negative number, the reimbursement amount calculated under such subparagraph shall equal zero.
+
+&emsp;&emsp;"(B)
+
+Special treatment of march, 2020.—In the case of a reimbursement under subparagraph (A) or (B) of paragraph (3) for the reimbursement month of March, 2020, the reimbursement amount shall be equal to the amount determined under such a subparagraph for such month, divided by 2.
+
+&emsp;"(5)
+
+Treatment of funds.—
+
+&emsp;&emsp;"(A)
+
+Availability.—Funds allocated to a State under paragraph (1)(A) shall remain available until September 30, 2021.
+
+&emsp;&emsp;"(B)
+
+Administrative expenses.—A State may reserve not more than 1 percent of the funds allocated under paragraph (1)(A) for administrative expenses to carry out this subsection.
+
+&emsp;&emsp;"(C)
+
+Unexpended balance.—On March 31, 2022, any amounts allocated to a State under paragraph (1)(A) or reimbursed to a school food authority or new school food authority under paragraph (3) that are unexpended by such State, school food authority, or new school food authority shall revert to the Secretary.
+
+&emsp;&emsp;"(D)
+
+Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only bemade available to a school food authority or new school food authority that—
+
+&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
+
+&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the school food authority or new school food authority will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the first full semester (or equivalent term) after the conclusion of the public health emergency, as determined by such State.
+
+&emsp;"(6)
+
+Reports.—Each State that carries out a reimbursement program under paragraph (3) shall, not later than March 31, 2022, submit a report to the Secretary that includes a summary of the use of such funds by the State and each school food authority and new school food authority in such State.
+
+"(b)
+
+Use of Certain Appropriations to Cover Child and Adult Care Food Program Child Care Operational Emergency Costs During COVID–19
+
+Pandemic.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Required allotments.—Notwithstanding any other provision of law, the Secretary shall allocate to each State that participates in the reimbursement program under paragraph (3) such amounts as may be necessary to carry out reimbursements under such paragraph for each reimbursement month, including, subject to paragraph (5)(C), administrative expenses necessary to make such reimbursements.
+
+&emsp;&emsp;"(B)
+
+Guidance with respect to program.—Not later than 30 days after the date of the enactment of this section \[Dec. 27, 2020\], the Secretary shall issue guidance with respect to the reimbursement program under paragraph (3).
+
+&emsp;"(2)
+
+Reimbursement program application.—To participate in the reimbursement program under paragraph (3), not later than 30 days after the date described in paragraph (1)(B), a State shall submit an application to the Secretary that includes a plan to calculate and disburse reimbursements under the reimbursement program under paragraph (3).
+
+&emsp;"(3)
+
+Reimbursement amount.—Subject to paragraphs (4) and (5)(E), using the amounts allocated under paragraph (1)(A), a State participating in the reimbursement program under this paragraph shall make reimbursements for child care operational emergency costs for each reimbursement month as follows:
+
+&emsp;&emsp;"(A) For each new covered institution in the State for the reimbursement month, an amount equal to 55 percent of—
+
+&emsp;&emsp;&emsp;"(i) the average monthly amount such new covered institution was reimbursed under subsection (c) and subsection (f) of section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) for meals and supplements served by such new covered institution during the alternate period; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such new covered institution was reimbursed under such section for meals and supplements served by such new covered institution during such reimbursement month.
+
+&emsp;&emsp;"(B) For each covered institution not described in subparagraph (A) in the State for the reimbursement month, an amount equal to 55 percent of—
+
+&emsp;&emsp;&emsp;"(i) the amount such covered institution was reimbursed under subsection (c) and subsection (f) of section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) for meals and supplements served by such covered institution during the month beginning one year before such reimbursement month; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such covered institution was reimbursed under such section for meals and supplements served by such covered institution during such reimbursement month.
+
+&emsp;&emsp;"(C) For each new sponsoring organization of a family or group day care home in the State for the reimbursement month, an amount equal to 55 percent of—
+
+&emsp;&emsp;&emsp;"(i) the average monthly amount such new sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the alternate period; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such new sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for the reimbursement month.
+
+&emsp;&emsp;"(D) For each sponsoring organization of a family or group day care home not described in subparagraph (C) in the State for the reimbursement month, an amount equal to 55 percent of—
+
+&emsp;&emsp;&emsp;"(i) the amount such sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the month beginning one year before such reimbursement month; minus
+
+&emsp;&emsp;&emsp;"(ii) the amount such sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for such reimbursement month.
+
+&emsp;"(4)
+
+Special rules relating to reimbursement calculation.—
+
+&emsp;&emsp;"(A)
+
+Effect of negative number.—If a subtraction performed under subparagraph (A), (B), (C), or (D) of paragraph (3) results in a negative number, the reimbursement amount calculated under such subparagraph shall equal zero.
+
+&emsp;&emsp;"(B)
+
+Special treatment of march, 2020.—In the case of a reimbursement under subparagraph (A), (B), (C), or (D) of paragraph (3) for the reimbursement month of March, 2020, the reimbursement amount shall be equal to the amount determined under such a subparagraph for such month, divided by 2.
+
+&emsp;"(5)
+
+Treatment of funds.—
+
+&emsp;&emsp;"(A)
+
+Availability.—Funds allocated to a State under paragraph (1)(A) shall remain available until September 30, 2021.
+
+&emsp;&emsp;"(B)
+
+Unaffiliated center.—In the case of a covered institution or a new covered institution that is an unaffiliated center that is sponsored by a sponsoring organization and receives funds for a reimbursement month under subparagraph (A) or (B) of paragraph (3), such unaffiliated center shall provide to such sponsoring organization an amount of such funds as agreed to by the sponsoring organization and the unaffiliated center, except such amount may not be greater be \[sic\] than 15 percent of such funds.
+
+&emsp;&emsp;"(C)
+
+Administrative expenses.—A State may reserve not more than 1 percent of the funds allocated under paragraph (1)(A) for administrative expenses to carry out this subsection.
+
+&emsp;&emsp;"(D)
+
+Unexpended balance.—On March 31, 2022, any amounts allocated to a State under paragraph (1)(A) or reimbursed to a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home that are unexpended by such State, new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home, shall revert to the Secretary.
+
+&emsp;&emsp;"(E)
+
+Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home that—
+
+&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respectto a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
+
+&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency.
+
+&emsp;"(6)
+
+Reports.—Each State that carries out a reimbursement program under paragraph (3) shall, not later than March 31, 2022, submit a report to the Secretary that includes a summary of the use of such funds by the State and each new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home.
+
+"(c)
+
+Funding.—There are appropriated to the Secretary, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this section.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Alternate period.—The term 'alternate period' means the period beginning January 1, 2020 and ending February 29, 2020.
+
+&emsp;"(2)
+
+Emergency operational costs.—The term 'emergency operational costs' means the costs incurred by a school food authority or new school food authority—
+
+&emsp;&emsp;"(A) during a public health emergency;
+
+&emsp;&emsp;"(B) that are related to the ongoing operation, modified operation, or temporary suspension of operation (including administrative costs) of such school food authority or new school food authority; and
+
+&emsp;&emsp;"(C) except as provided under subsection (a), that are not reimbursed under a Federal grant.
+
+&emsp;"(3)
+
+Child care operational emergency costs.—The term 'child care operational emergency costs' means the costs under the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) incurred by a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home—
+
+&emsp;&emsp;"(A) during a public health emergency;
+
+&emsp;&emsp;"(B) that are related to the ongoing operation, modified operation, or temporary suspension of operation (including administrative costs) of such new covered institution, covered institution, new sponsoring organization of a family or group day care home, sponsoring organization of a family or group day care home, or sponsoring organization of an unaffiliated center; and
+
+&emsp;&emsp;"(C) except as provided under subsection (b), that are not reimbursed under a Federal grant.
+
+&emsp;"(4)
+
+Covered institution.—The term 'covered institution' means—
+
+&emsp;&emsp;"(A) an institution (as defined in section 17(a)(2) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(a)(2))); and
+
+&emsp;&emsp;"(B) a family or group day care home.
+
+&emsp;"(5)
+
+New covered institution.—The term 'new covered institution' means a covered institution for which no reimbursements were made for meals and supplements under section 17(c) or (f) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766\[(c), (f)\]) with respect to the previous reimbursement period.
+
+&emsp;"(6)
+
+New school food authority.—The term 'new school food authority' means a school food authority for which no reimbursements were made under the reimbursement sections with respect to the previous reimbursement period.
+
+&emsp;"(7)
+
+New sponsoring organization of a family or group day care.—The term 'new sponsoring organization of a family or group day care' means a sponsoring organization of a family or group day care home for which no reimbursements for administrative funds were made under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for the previous reimbursement period.
+
+&emsp;"(8)
+
+Previous reimbursement period.—The term 'previous reimbursement period' means the period beginning March 1, 2019 and ending June 30, 2019.
+
+&emsp;"(9)
+
+Public health emergency.—The term 'public health emergency' means a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic or any renewal of such declaration pursuant to such section 319.
+
+&emsp;"(10)
+
+Reimbursement month.—The term 'reimbursement month' means March 2020, April 2020, May 2020, and June 2020.
+
+&emsp;"(11)
+
+Reimbursement sections.—The term 'reimbursement sections' means—
+
+&emsp;&emsp;"(A) section 4(b), section 11(a)(2), section 13, and section 17A(c) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1753(b); 42 U.S.C. 1759a(a)(2); 42 U.S.C. 1761; 42 U.S.C. 1766a(c)); and
+
+&emsp;&emsp;"(B) section 4 of the Child Nutrition Act (42 U.S.C. 1773).
+
+&emsp;"(12)
+
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
+
+&emsp;"(13)
+
+State.— The term 'State' has the meaning given such term in section 12(d)(8) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)(8))."
 
 #### Indirect Costs
 
@@ -180,7 +440,7 @@ Requirements.—In establishing the comprehensive meal program under subsection 
 
 &emsp;"(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;"(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfastprogram with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(4)).
+&emsp;"(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(4)).
 
 "(c)
 

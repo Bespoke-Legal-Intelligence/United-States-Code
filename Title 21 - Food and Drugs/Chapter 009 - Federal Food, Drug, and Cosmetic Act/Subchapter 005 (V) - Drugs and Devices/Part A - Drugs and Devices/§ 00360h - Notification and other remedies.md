@@ -40,7 +40,7 @@ If the Secretary determines that—
 
 > &emsp;whichever first occurs).
 
-(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and provided under an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
+(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and provided under an order issued under paragraph (1), and the person subject to the order shall reimburseeach person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
 
 #### (c) Reimbursement
 
@@ -77,6 +77,8 @@ Compliance with an order issued under this section shall not relieve any person 
 (3) The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c).
 
 (June 25, 1938, ch. 675, §518, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 562; amended Pub. L. 101–629, §8, Nov. 28, 1990, 104 Stat. 4520; Pub. L. 102–300, §4, June 16, 1992, 106 Stat. 239.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

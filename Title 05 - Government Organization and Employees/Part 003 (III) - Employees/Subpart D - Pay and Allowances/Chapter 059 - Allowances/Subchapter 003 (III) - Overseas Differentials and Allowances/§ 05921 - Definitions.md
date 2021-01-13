@@ -44,9 +44,13 @@ In paragraph (4), the words "of the United States of America" are omitted as unn
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -79,6 +83,8 @@ Pub. L. 86–707, title V, §521, Sept. 6, 1960, 74 Stat. 802, provided that: "W
 #### Transitional Provisions for Payment of Allowances and Differentials
 
 Pub. L. 86–707, title V, §522, Sept. 6, 1960, 74 Stat. 802, provided that: "Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10903. Delegation of Regulatory Authority
 

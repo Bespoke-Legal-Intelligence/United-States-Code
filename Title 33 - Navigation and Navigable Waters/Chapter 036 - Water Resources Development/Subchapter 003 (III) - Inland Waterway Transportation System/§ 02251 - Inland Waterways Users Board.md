@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Users Board
 
-There is hereby established an Inland Waterway Users Board (hereinafter in this section referred to as the "Users Board") composed of the eleven members selected by the Secretary, one of whom shall be designated by the Secretary as Chairman. The members shall be selected so as to represent various regions of the country and a spectrum of the primary users and shippers utilizing the inland and intracoastal waterways for commercial purposes. Due consideration shall be given to assure a balance among the members based on the ton-mile shipments of the various categories of commodities shipped on inland waterways. The Secretary of the Army shall designate, and the Secretaries of Agriculture, Transportation, and Commerce may each designate, a representative to act as an observer of the Users Board.
+There is hereby established an Inland Waterway Users Board (hereinafter in this section referred to as the "Users Board") composed of the eleven members selected by the Secretary, oneof whom shall be designated by the Secretary as Chairman. The members shall be selected so as to represent various regions of the country and a spectrum of the primary users and shippers utilizing the inland and intracoastal waterways for commercial purposes. Due consideration shall be given to assure a balance among the members based on the ton-mile shipments of the various categories of commodities shipped on inland waterways. The Secretary of the Army shall designate, and the Secretaries of Agriculture, Transportation, and Commerce may each designate, a representative to act as an observer of the Users Board.
 
 #### (b) Duties of Users Board
 
@@ -44,7 +44,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;Not later than 1 year after June 10, 2014, the Secretary, in coordination with the Users Board, shall develop and submit to Congress a report describing a 20-year program for making capital investments on the inland and intracoastal waterways based on the applicationof objective, national project selection prioritization criteria.
+&emsp;Not later than 1 year after June 10, 2014, the Secretary, in coordination with the Users Board, shall develop and submit to Congress a report describing a 20-year program for making capital investments on the inland and intracoastal waterways based on the application of objective, national project selection prioritization criteria.
 
 #### (2) Consideration
 
@@ -85,6 +85,8 @@ The chairperson of the Users Board and the project development team member appoi
 &emsp;Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (Pub. L. 99–662, title III, §302, Nov. 17, 1986, 100 Stat. 4111; Pub. L. 106–109, §8(a), Nov. 24, 1999, 113 Stat. 1495; Pub. L. 113–121, title II, §2002(d), June 10, 2014, 128 Stat. 1262.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

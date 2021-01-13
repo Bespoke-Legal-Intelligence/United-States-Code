@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any specified service trade or business of the taxpayer shall not fail to be treated as a qualified trade or business due to paragraph (1)(A), but
 
-&emsp;&emsp;&emsp;(ii) only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for the taxable year for purposes of applying this section.
+&emsp;&emsp;&emsp;(ii) only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for thetaxable year for purposes of applying this section.
 
 #### (B) Applicable percentage
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) each partner or shareholder shall take into account such person's allocable share of each qualified item of income, gain, deduction, and loss, and
 
-&emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) ashaving W–2 wages and unadjusted basis immediately after acquisition of qualified property for the taxable year in an amount equal to such person's allocable share of the W–2 wages and the unadjusted basis immediately after acquisition of qualified property of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
+&emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W–2 wages and unadjusted basis immediately after acquisition of qualified property for the taxable year in an amount equal to such person's allocable share of the W–2 wages and the unadjusted basis immediately after acquisition of qualified property of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
 
 > &emsp;&emsp;For purposes of clause (iii), a partner's or shareholder's allocable share of W–2 wages shall be determined in the same manner as the partner's or shareholder's allocable share of wage expenses. For purposes of such clause, partner's or shareholder's allocable share of the unadjusted basis immediately after acquisition of qualified property shall be determined in the same manner as the partner's or shareholder's allocable share of depreciation. For purposes of this subparagraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 #### (ii) Special rule for applying limit
 
-&emsp;&emsp;&emsp;In the case of any taxpayer described in clause (i), the determination of W–2 wages of such taxpayer with respect to any qualified trade or business conducted in Puerto Rico shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services in Puerto Rico.
+&emsp;&emsp;&emsp;In the case of any taxpayer described in clause (i), the determination of W–2 wages of such taxpayer with respect to any qualified trade or business conducted in PuertoRico shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services in Puerto Rico.
 
 #### (2) Coordination with minimum tax
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 #### (B) Limitation based on taxable income
 
-&emsp;&emsp;The deduction allowed to any taxpayer under this paragraph shall not exceed thetaxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
+&emsp;&emsp;The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
 
 #### (C) Cooperative denied deduction for portion of qualified payments
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 #### (B) Application to marketing cooperatives
 
-&emsp;&emsp;A specified agricultural or horticultural cooperative described in subparagraph (A)(ii)shall be treated as having manufactured, produced, grown, or extracted in whole or significant part any agricultural or horticultural product marketed by the specified agricultural or horticultural cooperative which its patrons have so manufactured, produced, grown, or extracted.
+&emsp;&emsp;A specified agricultural or horticultural cooperative described in subparagraph (A)(ii) shall be treated as having manufactured, produced, grown, or extracted in whole or significant part any agricultural or horticultural product marketed by the specified agricultural or horticultural cooperative which its patrons have so manufactured, produced, grown, or extracted.
 
 #### (5) Definitions and special rules
 

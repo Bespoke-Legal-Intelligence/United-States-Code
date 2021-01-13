@@ -20,7 +20,7 @@ To the extent practicable and appropriate, the Secretary shall ensure that proje
 
 &emsp;&emsp;(B) in the case of a grantee that is a State, hospital, or birthing facility—
 
-&emsp;&emsp;&emsp;(i) providing education to new mothers and fathers, and other family members asappropriate, concerning postpartum conditions before new mothers leave the health facility; and
+&emsp;&emsp;&emsp;(i) providing education to new mothers and fathers, and other family members as appropriate, concerning postpartum conditions before new mothers leave the health facility; and
 
 &emsp;&emsp;&emsp;(ii) ensuring that training programs regarding such education are carried out at the health facility.
 

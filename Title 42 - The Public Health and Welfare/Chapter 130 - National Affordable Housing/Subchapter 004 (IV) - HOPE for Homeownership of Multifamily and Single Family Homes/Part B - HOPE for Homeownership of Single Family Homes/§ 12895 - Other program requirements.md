@@ -42,7 +42,7 @@ Any entity that transfers ownership interests in, or shares representing, units 
 
 #### (4) Use of recaptured funds
 
-&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activitiesapproved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
+&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
 
 #### (d) Third party rights
 
@@ -60,7 +60,7 @@ No tenant residing in a dwelling unit in a property on the date the Secretary ap
 
 #### (2) Access by Secretary
 
-&emsp;The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
+&emsp;The Secretary shall have access for the purpose of audit and examination to any books,documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
 #### (3) Access by Comptroller General
 

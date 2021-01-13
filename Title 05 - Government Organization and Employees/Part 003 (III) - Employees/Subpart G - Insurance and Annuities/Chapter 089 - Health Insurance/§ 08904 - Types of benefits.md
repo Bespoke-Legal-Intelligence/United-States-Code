@@ -84,6 +84,8 @@ Sept. 28, 1959, Pub. L. 86–382, §5, 73 Stat. 712.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to part A (§1395c et seq.) and part B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -100,6 +102,8 @@ Subsec. (b)(4). Pub. L. 103–66, §11003(a)(3), added par. (4).
 
 <b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
 Pub. L. 103–66, title XI, §11003(b), Aug. 10, 1993, 107 Stat. 410, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1995."
@@ -107,6 +111,10 @@ Pub. L. 103–66, title XI, §11003(b), Aug. 10, 1993, 107 Stat. 410, provided t
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–508, title VII, §7002(f)(2), Nov. 5, 1990, 104 Stat. 1388–331, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1992."
+
+#### Coverage of Testing for COVID–19: Application With Respect to Federal Civilians
+
+Pub. L. 116–127, div. F, §6006(c), Mar. 18, 2020, 134 Stat. 207, provided that: "No copayment or other cost sharing may be required for any individual occupying a position in the civil service (as that term is defined in section 2101(1) of title 5, United States Code) enrolled in a health benefits plan, including any plan under chapter 89 of title 5, United States Code, or for any other individual currently enrolled in any plan under chapter 89 of title 5 for in vitro diagnostic products described in paragraph (1) of section 6001(a) \[of Pub. L. 116–127, 42 U.S.C. 1320b–5 note\] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act \[Mar. 18, 2020\]."
 
 #### Mental Health, Alcoholism, and Drug Addiction Benefits; Congressional Findings; Sense of Congress
 

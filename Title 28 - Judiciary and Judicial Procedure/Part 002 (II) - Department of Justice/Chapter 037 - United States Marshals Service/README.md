@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690, title VII, §7608(a)(3), Nov. 18, 1988, 102 Stat. 4514, substituted in chapter heading "Marshals Service" for "Marshals" and amended chapter analysis generally, substituting items 561 to 569 for former items 561 to 576.

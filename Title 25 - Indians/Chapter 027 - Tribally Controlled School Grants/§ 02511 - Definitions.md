@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) any legally established organization of Indians that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is controlled, sanctioned, or chartered by such governing body or is democratically elected by the adult members of the Indian community to be served by such organization; and
+&emsp;&emsp;&emsp;&emsp;(I) is controlled, sanctioned, or chartered by such governing body or is democratically elected by the adult membersof the Indian community to be served by such organization; and
 
 &emsp;&emsp;&emsp;&emsp;(II) includes the maximum participation of Indians in all phases of the organization's activities.
 
@@ -60,6 +60,8 @@ In this chapter:
 
 (Pub. L. 100–297, title V, §5212, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2078.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -69,6 +71,8 @@ This Act, referred to in par. (7), is Pub. L. 100–297 and probably should be "
 #### Prior Provisions
 
 A prior section 2511, Pub. L. 100–297, title V, §5212, Apr. 28, 1988, 102 Stat. 394, defined terms, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

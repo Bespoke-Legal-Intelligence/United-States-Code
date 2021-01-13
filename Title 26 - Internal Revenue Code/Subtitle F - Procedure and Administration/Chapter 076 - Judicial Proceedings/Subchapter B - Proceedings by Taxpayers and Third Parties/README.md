@@ -41,7 +41,7 @@ Pub. L. 105–34, title XIV, §1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added i
 
 <b>1976</b>—Pub. L. 94–455, title XII, §§1203(b)(2)(B), 1204(c)(13), title XIII, §1306(b)(6), Oct. 4, 1976, 90 Stat. 1690, 1699, 1719, added items 7427 to 7429 and redesignated former item 7427 as 7430.
 
-<b>1966</b>—Pub. L. 89–719, title I, §110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted "and Third Parties" in subchapter heading, substituted "Intervention" for "Civil action to clear title to property" in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
+<b>1966</b>—Pub. L. 89–719, title I, §110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted "and Third Parties" in subchapter heading, substituted "Intervention" for "Civilaction to clear title to property" in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
 
 
 ---

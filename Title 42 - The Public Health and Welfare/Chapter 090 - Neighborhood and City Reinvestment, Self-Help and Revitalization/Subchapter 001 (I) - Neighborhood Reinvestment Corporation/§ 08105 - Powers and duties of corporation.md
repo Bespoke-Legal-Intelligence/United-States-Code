@@ -2,7 +2,7 @@
 
 #### (a) Continuance of work of Urban Reinvestment Task Force regarding neighborhood housing services programs and preservation projects
 
-(1) The corporation shall continue the work of the Urban Reinvestment Task Force in establishing neighborhood housing services programs in neighborhoods throughout the United States, monitoring their progress, and providing themwith grants and technical assistance. For the purpose of this paragraph, a neighborhood housing services program may involve a partnership of neighborhood residents and representatives of local governmental and financial institutions, organized as a State-chartered non-profit corporation, working to bring about reinvestment in one or more neighborhoods through a program of systematic housing inspections, increased public investment, increased private lending, increased resident investment, and a revolving loan fund to make loans available at flexible rates and terms to homeowners not meeting private lending criteria.
+(1) The corporation shall continue the work of the Urban Reinvestment Task Force in establishing neighborhood housing services programs in neighborhoods throughout the United States, monitoring their progress, and providing them with grants and technical assistance. For the purpose of this paragraph, a neighborhood housing services program may involve a partnership of neighborhood residents and representatives of local governmental and financial institutions, organized as a State-chartered non-profit corporation, working to bring about reinvestment in one or more neighborhoods through a program of systematic housing inspections, increased public investment, increased private lending, increased resident investment, and a revolving loan fund to make loans available at flexible rates and terms to homeowners not meeting private lending criteria.
 
 (2) The corporation shall continue the work of the Urban Reinvestment Task Force in identifying, monitoring, evaluating, and providing grants and technical assistance to selected neighborhood preservation projects which show promise as mechanisms for reversing neighborhood decline and improving the quality of neighborhood life.
 
@@ -26,7 +26,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(5) to determine its necessary expenditures and the manner in which the same shall be incurred, allowed, and paid, and appoint, employ, and fix and provide for the compensation of consultants, without regard to any other law, except as provided in section 8107(d) of this title;
 
-&emsp;(6) to settle, adjust, and compromise, and with or without compensation or benefit to the corporation to release or waive in whole or in part, in advance or otherwise, any claim, demand, or right of, by, or against the corporation;
+&emsp;(6) to settle, adjust, and compromise, and with or without compensation or benefit tothe corporation to release or waive in whole or in part, in advance or otherwise, any claim, demand, or right of, by, or against the corporation;
 
 &emsp;(7) to invest such funds of the corporation in such investments as the board of directors may prescribe;
 

@@ -18,6 +18,8 @@ Mobile friendly.—The term "mobile friendly" means, with respect to a website, 
 
 (Added Pub. L. 115–114, §2(a), Jan. 10, 2018, 131 Stat. 2278.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 115–114, which was approved Jan. 10, 2018.

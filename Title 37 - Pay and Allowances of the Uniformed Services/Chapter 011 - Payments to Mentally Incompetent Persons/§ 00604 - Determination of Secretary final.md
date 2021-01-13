@@ -20,6 +20,8 @@ June 21, 1950, ch. 342, §4, 64 Stat. 250.
 
 The words "or persons" are omitted for the reasons stated in the revision note for section 602(a) of this revised title. The words "made by the respective secretaries, or by their duly designated subordinates" and the words "and conclusive" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–718 struck out "the" before "Secretary" in section catchline.

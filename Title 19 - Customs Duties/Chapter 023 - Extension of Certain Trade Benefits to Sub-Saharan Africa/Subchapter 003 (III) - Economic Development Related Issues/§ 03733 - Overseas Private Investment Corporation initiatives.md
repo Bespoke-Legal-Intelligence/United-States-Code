@@ -38,7 +38,7 @@ Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub.
 
 #### Codification
 
-Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended former section 2193 of Title 22, Foreign Relations and Intercourse.
+Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended section 2193 of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 

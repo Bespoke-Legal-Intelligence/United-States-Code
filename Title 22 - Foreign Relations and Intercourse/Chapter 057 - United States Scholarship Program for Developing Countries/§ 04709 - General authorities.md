@@ -18,13 +18,17 @@ The President shall encourage United States institutions of higher education, wh
 
 #### (e) Other activities to promote improved understanding
 
-Funds allocated by the United States Information Agency, or the agency primarily responsible for carrying out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], for scholarships in accordance with this chapter shall be available to enhance the educational training and capabilities of the people of LatinAmerica and the Caribbean and to promote better understanding between the United States and Latin America and the Caribbean through programs of cooperation, study, training, and research. Such funds may be used for program and administrative costs for institutions carrying out such programs.
+Funds allocated by the United States Information Agency, or the agency primarily responsible for carrying out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], for scholarships in accordance with this chapter shall be available to enhance the educational training and capabilities of the people of Latin America and the Caribbean and to promote better understanding between the United States and Latin America and the Caribbean through programs of cooperation, study, training, and research. Such funds may be used for program and administrative costs for institutions carrying out such programs.
 
 (Pub. L. 99–93, title VI, §609, Aug. 16, 1985, 99 Stat. 442.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -18,7 +18,7 @@ The Secretary shall approve any application or any modification thereof, submitt
 
 &emsp;(2) provides research and planning studies to carry out plans designed to improve State workmen's compensation and occupational disease laws and programs, as they relate to compensation to miners for occupationally caused diseases and injuries arising out of employment in any coal or other mine;
 
-&emsp;(3) designates such State coal or other mine inspection or safety agency as the sole agency responsible for administering grants under this section throughout the State, and contains satisfactory evidence that such agency will have the authority to carry out the purposes of this section;
+&emsp;(3) designates such State coal or other mine inspection or safety agency as the sole agency responsible for administering grants under this section throughout the State, and contains satisfactory evidence that such agencywill have the authority to carry out the purposes of this section;
 
 &emsp;(4) gives assurances that such agency has or will employ an adequate and competent staff of trained inspectors qualified under the laws of such State to make coal or other mine inspections within such State;
 
@@ -46,7 +46,7 @@ Any State application or modification thereof submitted to the Secretary under t
 
 #### (f) Cooperation in implementation of programs; exchange of reports between States
 
-The Secretary shall cooperate with such State in carrying out the application or modificationthereof and shall, as appropriate, develop and, where appropriate, construct facilities for, and finance a program of, training of Federal and State inspectors jointly. The Secretary shall also cooperate with such State in establishing a system by which State and Federal inspection reports of coal or other mines located in the State are exchanged for the purpose of improving health and safety conditions in such mines.
+The Secretary shall cooperate with such State in carrying out the application or modification thereof and shall, as appropriate, develop and, where appropriate, construct facilities for, and finance a program of, training of Federal and State inspectors jointly. The Secretary shall also cooperate with such State in establishing a system by which State and Federal inspection reports of coal or other mines located in the State are exchanged for the purpose of improving health and safety conditions in such mines.
 
 #### (g) Limitation on grants
 
@@ -58,6 +58,8 @@ There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,
 
 (Pub. L. 91–173, title V, §503, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, §303(c), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–164, §303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted "Secretary of the Interior" for "Secretary of Labor".
@@ -65,6 +67,8 @@ There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,
 Subsecs. (b), (f), (g). Pub. L. 95–164, §303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
 
 Subsec. (h). Pub. L. 95–164, §303(c)(2), substituted "$10,000,000" for "$5,000,000" and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

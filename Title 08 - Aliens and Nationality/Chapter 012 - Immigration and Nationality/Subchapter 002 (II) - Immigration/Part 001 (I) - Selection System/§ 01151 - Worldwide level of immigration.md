@@ -98,7 +98,9 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 &emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A),Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -150,6 +152,8 @@ Subsec. (d). Pub. L. 89–236 substituted provisions creating an immigration poo
 
 Subsec. (e). Pub. L. 89–236 substituted provisions terminating the immigration pool on June 30, 1968, for provisions permitting reduction of annual quotas based on national origins pursuant to Act of Congress prior to effective date of proclaimed quotas.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–83, title V, §568(c)(2), Oct. 28, 2009, 123 Stat. 2186, provided that:
@@ -164,7 +168,7 @@ Transition cases.—
 
 &emsp;"(i)
 
-In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the date that is 2 years after the date of the enactment of this Act.
+In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petitionunder section 204(a)(1)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the date that is 2 years after the date of the enactment of this Act.
 
 &emsp;"(ii)
 
@@ -254,7 +258,7 @@ Parents.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration andNationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
 &emsp;&emsp;"(B)
 
@@ -362,7 +366,7 @@ Pub. L. 97–116, §19, Dec. 29, 1981, 95 Stat. 1621, provided that: "The numeri
 
 &emsp;"(1) qualified as a nonpreference immigrant under section 203(a)(8) of such Act \[section 1153(a)(8) of this title\] (as in effect on June 1, 1978);
 
-&emsp;"(2) was determined to be exempt from the labor certification requirement of section 212(a)(14) of such Act \[former section 1182(a)(14) of this title\] becausethe alien had actually invested, before such date, capital in an enterprise in the United States of which the alien became a principal manager and which employed a person or persons (other than the spouse or children of the alien) who are citizens of the United States or aliens lawfully admitted for permanent residence; and
+&emsp;"(2) was determined to be exempt from the labor certification requirement of section 212(a)(14) of such Act \[former section 1182(a)(14) of this title\] because the alien had actually invested, before such date, capital in an enterprise in the United States of which the alien became a principal manager and which employed a person or persons (other than the spouse or children of the alien) who are citizens of the United States or aliens lawfully admitted for permanent residence; and
 
 &emsp;"(3) applied for adjustment of status to that of an alien lawfully admitted for permanent residence."
 

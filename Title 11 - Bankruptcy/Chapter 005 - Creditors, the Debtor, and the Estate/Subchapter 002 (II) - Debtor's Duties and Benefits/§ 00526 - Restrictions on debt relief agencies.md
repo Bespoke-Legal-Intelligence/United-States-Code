@@ -54,6 +54,8 @@
 
 (Added Pub. L. 109–8, title II, §227(a), Apr. 20, 2005, 119 Stat. 67; amended Pub. L. 111–327, §2(a)(20), Dec. 22, 2010, 124 Stat. 3560.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(2)(C), are set out in the Appendix to this title.
@@ -63,6 +65,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(2)(C), are
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–327, §2(a)(20)(A), substituted "that is untrue or" for "that is untrue and".
 
 Subsec. (a)(4). Pub. L. 111–327, §2(a)(20)(B), inserted "a" after "preparer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

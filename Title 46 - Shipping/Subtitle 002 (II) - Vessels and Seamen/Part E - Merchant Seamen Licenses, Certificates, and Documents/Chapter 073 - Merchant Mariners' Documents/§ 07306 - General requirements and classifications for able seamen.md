@@ -40,9 +40,13 @@ Section 7306(a) establishes the minimum requirements an individual must meet bef
 
 Subsection (b) establishes the classifications of able seamen—unlimited, able seamen—limited, able seamen—special, able seamen—offshore supply vessels, and able seamen—sail.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b)(6). Pub. L. 98–364 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

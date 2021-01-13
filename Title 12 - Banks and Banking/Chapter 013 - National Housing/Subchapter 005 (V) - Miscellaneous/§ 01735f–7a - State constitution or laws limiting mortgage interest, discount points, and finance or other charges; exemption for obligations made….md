@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(v) the requirement contained in section 527(b)(2)(D) of such Act that a creditor make or invest in loans aggregating more than $1,000,000 per year shall not apply to a creditor selling residential manufactured homes financed by loans or credit sales secured by first liens on residential manufactured homes if the creditor has an arrangement to sell such loans or credit sales in whole or in part, or if such loans or credit sales are sold in whole or in part to a lender, institution, or creditor described in section 527(b) of such Act or in this section or a creditor, as defined in section 103(f) <sup>1</sup> of the Truth in Lending Act, as such section was in effect on the day preceding March 31, 1980, if such creditor makes or invests in residential real estate loans or loans or credit sales secured by first liens on residential manufactured homes aggregating more than $1,000,000 per year; and
 
-&emsp;&emsp;(vi) the term "lender" in section 527(b)(2)(A) of such Act shall also be deemed to include any lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act \[12 U.S.C. 1701 et seq.\], and any individual who finances the sale or exchange of residential real property or a residential manufactured home which such individual owns and which such individual occupies or has occupied as his principal residence.
+&emsp;&emsp;(vi) the term "lender" in section 527(b)(2)(A) of such Act shall also be deemedto include any lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act \[12 U.S.C. 1701 et seq.\], and any individual who finances the sale or exchange of residential real property or a residential manufactured home which such individual owns and which such individual occupies or has occupied as his principal residence.
 
 (2) The provisions of the constitution or law of any State expressly limiting the rate or amount of interest which may be charged, taken, received, or reserved shall not apply to any deposit or account held by, or other obligation of a depository institution. For purposes of this paragraph, the term "depository institution" means—
 
@@ -94,6 +94,8 @@ This section takes effect on April 1, 1980.
 
 (Pub. L. 96–221, title II, §207(b)(11), title V, §501, Mar. 31, 1980, 94 Stat. 144, 161; Pub. L. 96–399, title III, §§308(c)(6), 324(a), (e), Oct. 8, 1980, 94 Stat. 1641, 1647, 1648; Pub. L. 97–35, title III, §384, Aug. 13, 1981, 95 Stat. 432.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). Section 408 of the National Housing Act, which was classified to section 1730a of this title, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
@@ -115,6 +117,8 @@ Subsec. (a)(1)(C)(vi). Pub. L. 96–399, §324(e), inserted reference to any per
 Subsec. (a)(2). Pub. L. 96–221, §207(b)(11), struck out "(A)" after "(2)" and struck out subpar. (B) which provided that this paragraph shall not apply to any such deposit, account, or obligation which is payable only at an office of an insured bank, as defined in section 3 of the Federal Deposit Insurance Act, located in the Commonwealth of Puerto Rico.
 
 Subsec. (e)(4). Pub. L. 96–399, §308(c)(6), substituted "manufactured" for "mobile".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

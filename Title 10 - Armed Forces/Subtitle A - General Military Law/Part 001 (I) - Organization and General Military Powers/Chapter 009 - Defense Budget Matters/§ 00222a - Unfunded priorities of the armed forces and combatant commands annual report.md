@@ -16,7 +16,11 @@ Officers.—The officers specified in this subsection are the following:
 
 &emsp;(4) The Commandant of the Marine Corps.
 
-&emsp;(5) The commanders of the combatant commands established under section 161 of this title.
+&emsp;(5) The Chief of Space Operations.
+
+&emsp;(6) The commanders of the combatant commands established under section 161 of this title.
+
+&emsp;(7) The Chief of the National Guard Bureau in the role assigned to that position in section 10502(c)(1) of this title.
 
 (c)
 
@@ -48,6 +52,26 @@ Prioritization of priorities.—Each report shall present the unfunded prioritie
 
 &emsp;&emsp;(C) In overall order of urgency of priority among covered military construction projects.
 
+&emsp;(3)
+
+National guard unfunded priorities.—
+
+&emsp;&emsp;(A)
+
+In general.—The officer specified under subsection (b)(6) shall only include in a report submitted under subsection (a) such priorities that—
+
+&emsp;&emsp;&emsp;(i) relate to equipping requirements in support of non-federalized National Guard responsibilities for the homeland defense or civil support missions; and
+
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), were not included in a report under this section submitted by an officer specified in subsection (b)(1) or (3) for any of five fiscal years preceding the fiscal year for which the report is submitted, on behalf of National Guard forces to address a warfighting requirement.
+
+&emsp;&emsp;(B)
+
+Exception.—The officer specified under subsection (b)(6) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
+
+&emsp;&emsp;&emsp;(i) determines that the inclusion such unfunded priority reasonably supports the priorities of the Department under the national defense strategy under section 113(g) of this title; and
+
+&emsp;&emsp;&emsp;(ii) submits to the congressional defense committees written notice of such determination.
+
 (d)
 
 Definitions.—In this section:
@@ -60,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
-&emsp;&emsp;&emsp;(i) additional resources been <sup>1</sup> available for the budget to fund the program, activity, or mission requirement; or
+&emsp;&emsp;&emsp;(i) additional resources had been available for the budget to fund the program, activity, or mission requirement; or
 
 &emsp;&emsp;&emsp;(ii) the program, activity, or mission requirement has emerged since the budget was formulated.
 
@@ -70,9 +94,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) is considered by the commander of a combatant command referred to in subsection (b)(5) to be an urgent need, and is executable in the fiscal year.
 
-(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813.)
+(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(5), (6). Pub. L. 116–283, §924(b)(10), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (b)(7). Pub. L. 116–283, §1006(1), added par. (7).
+
+Subsec. (c)(3). Pub. L. 116–283, §1006(2), added par. (3).
+
+Subsec. (d)(1)(C)(i). Pub. L. 116–283, §1081(a)(12), inserted "had" before "been available".
 
 <b>2019</b>—Subsec. (c)(2). Pub. L. 116–92, §1005(b), amended par. (2) generally. Prior to amendment, text read as follows: "Each report shall present the unfunded priorities covered by such report in order of urgency of priority."
 
@@ -87,6 +119,4 @@ Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as 
 #### Annual Report on Unfunded Requirements for Laboratory Military Construction Projects
 
 Pub. L. 115–91, div. B, title XXVIII, §2806, Dec. 12, 2017, 131 Stat. 1847, as amended by Pub. L. 116–92, div. B, title XXVIII, §2807, Dec. 20, 2019, 133 Stat. 1885, provided that: "The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] each year, at the time the budget of the President for the fiscal year beginning in such year is submitted to Congress under section 1105(a) of title 31, United States Code, a report listing unfunded requirements on major and minor military construction projects for Department of Defense science and technology laboratories and facilities and test and evaluation facilities, in prioritized order, with specific accounts and program elements identified, and shall include a Department of Defense Form DD1391 for each major and minor military construction project included in the report."
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "had".</i>
 

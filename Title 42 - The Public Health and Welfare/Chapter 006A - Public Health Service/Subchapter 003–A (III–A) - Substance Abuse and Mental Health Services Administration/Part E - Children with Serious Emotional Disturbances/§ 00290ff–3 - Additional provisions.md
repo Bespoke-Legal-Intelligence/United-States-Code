@@ -62,7 +62,7 @@ The Secretary may make a grant under section 290ff(a) of this title only if—
 
 The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title V, §564, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 355; amended Pub. L. 114–255, div. B, title X, §10001(c), Dec. 13, 2016, 130 Stat. 1262.)
+(July 1, 1944, ch. 373, title V, §564, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat.355; amended Pub. L. 114–255, div. B, title X, §10001(c), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### Amendments
 

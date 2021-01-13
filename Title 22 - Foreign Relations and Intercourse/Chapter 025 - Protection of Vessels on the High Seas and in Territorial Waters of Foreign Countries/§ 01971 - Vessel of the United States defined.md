@@ -1,8 +1,10 @@
 ### §1971. "Vessel of the United States" defined
 
-For the purposes of this chapter the term "vessel of the United States" shall mean any private vessel documented or certificated underthe laws of the United States. Notwithstanding any other law, the documentation or certification of any such vessel shall not be considered to be affected, for the purposes of this chapter, in any manner or to any extent if at any time during any voyage for the purpose of fishing beyond the fishery conservation zone (as defined in section 1802(8) <sup>1</sup> of title 16), the vessel is commanded by other than a citizen of the United States.
+For the purposes of this chapter the term "vessel of the United States" shall mean any private vessel documented or certificated under the laws of the United States. Notwithstanding any other law, the documentation or certification of any such vessel shall not be considered to be affected, for the purposes of this chapter, in any manner or to any extent if at any time during any voyage for the purpose of fishing beyond the fishery conservation zone (as defined in section 1802(8) <sup>1</sup> of title 16), the vessel is commanded by other than a citizen of the United States.
 
 (Aug. 27, 1954, ch. 1018, §1, 68 Stat. 883; Pub. L. 95–541, §14(a), Oct. 28, 1978, 92 Stat. 2057; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -15,6 +17,8 @@ Section 1802(8) of title 16, referred to in text, which defined "fishery conserv
 <b>1980</b>—Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1802(8) of title 16.
 
 <b>1978</b>—Pub. L. 95–541 provided that the documentation or certification of a vessel of the United States not be affected if at any time during the voyage for the purpose of fishing beyond the fishery conservation zone, the vessel is commanded by other than a citizen of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

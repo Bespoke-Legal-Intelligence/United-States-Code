@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Positive Law; Citation
 
 This title has been made positive law by section 1 of act July 30, 1947, ch. 388, 61 Stat. 633, which provided in part that: "Title 1 of the United States Code entitled 'General Provisions', is codified and enacted into positive law and may be cited as '1 U. S. C., §——.' "

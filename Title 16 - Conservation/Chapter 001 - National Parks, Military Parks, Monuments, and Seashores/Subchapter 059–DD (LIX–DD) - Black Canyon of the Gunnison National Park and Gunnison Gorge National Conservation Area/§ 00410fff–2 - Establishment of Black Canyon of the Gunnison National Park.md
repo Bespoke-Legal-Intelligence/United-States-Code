@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup>1</sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup>1</sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes,<sup>3</sup> approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
+Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup>1</sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup>1</sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, andantiquities of national significance, and for other purposes,<sup>3</sup> approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
 
 #### (c) Maps and legal description
 
@@ -20,7 +20,7 @@ Subject to valid existing rights, all Federal lands within the park <sup>1</sup
 
 #### (e) Grazing
 
-(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park <sup>1</sup> to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at nomore than the current level, and subject to applicable laws and National Park Service regulations.
+(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park <sup>1</sup> to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
 
 (B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park <sup>1</sup> where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
@@ -54,7 +54,7 @@ The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3,
 
 #### Codification
 
-Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the "Black Canyon of the Gunnison National Park and Gunnison Gorge National Area Act of 1999", was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
+Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the "Black Canyon of theGunnison National Park and Gunnison Gorge National Area Act of 1999", was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: "On the
 
 #### Access to Water Delivery Facilities
 
-Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of theBureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
+Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
 
 <i><sup>1</sup></i><i> So in original. The word "park" probably should be capitalized.</i>
 

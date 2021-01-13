@@ -108,7 +108,7 @@ In this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;Funds under this paragraph shall not be used to purchase or implement use of patient decision aids other than those certified under the process identified in subsection (c).
+&emsp;&emsp;Funds under this paragraph shall not be used to purchase or implement use of patient decision aids other than those certifiedunder the process identified in subsection (c).
 
 #### (4) Guidance
 

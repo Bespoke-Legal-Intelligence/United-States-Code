@@ -52,7 +52,37 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:</i>
+
+<i>(1) The heading is amended to read as follows:</i>
+
+<i>"</i><b><i>PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY</i></b><i>" \[probably should be "CHAPTER 141"\]; and</i>
+
+<i>(2) The table of sections is amended to read as follows:</i>
+
+<i>Sec.</i>
+
+<i>2385. Arms and ammunition: immunity from taxation.</i>
+
+<i>2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life.</i>
+
+<i>2388. Security clearances for facilities of certain companies.</i>
+
+<i>2389. Ensuring safety regarding insensitive munitions.</i>
+
+<i>2390. Prohibition on the sale of certain defense articles from the stocks of the Department of Defense.</i>
+
+<i>2391. Military base reuse studies and community planning assistance.</i>
+
+<i>2396. Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries.</i>
+
+<i>See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for former items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §864(b), Dec. 20, 2019, 133 Stat. 1523, added item 2409a.
 
@@ -80,13 +110,13 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 <b>2001</b>—Pub. L. 107–107, div. A, title VIII, §§811(a)(2), 834(a)(2), Dec. 28, 2001, 115 Stat. 1181, 1191, added items 2389 and 2410n.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title VIII, §803(b)(2), Oct. 5, 1999, 113 Stat. 704, substituted "Acquisition of certain fuel sources" for "Acquisition of petroleum and natural gas" in item 2404.
+<b>1999</b>—Pub. L. 106–65, div. A, title VIII, §803(b)(2), Oct. 5, 1999, 113 Stat. 704, substituted "Acquisition of certainfuel sources" for "Acquisition of petroleum and natural gas" in item 2404.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted "public utility services," after "tuition," in item 2396, struck out items 2403 "Major weapon systems: contractor guarantees" and 2405 "Limitation on adjustment of shipbuilding contracts", substituted "Severable service contracts for periods crossing fiscal years" for "Appropriated funds: availability for certain contracts for 12 months" in item 2410a, and added item 2410m.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defense procurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
 
-<b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controlsduring emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
+<b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controls during emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
 
 Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410l.
 
@@ -140,6 +170,10 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 
 <b>1958</b>—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Prohibition on Reliance on China and Russia for Space-Based Weather Data
 
 Pub. L. 114–92, div. A, title XVI, §1614, Nov. 25, 2015, 129 Stat. 1105, provided that:
@@ -164,8 +198,8 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)
 - [&sect; 02385 - Arms and ammunition immunity from taxation](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md)
 - [&sect; 02386 - Copyrights, patents, designs, etc.; acquisition](%C2%A7%2002386%20-%20Copyrights%2C%20patents%2C%20designs%2C%20etc.%3B%20acquisition.md)
-- [&sect; 02387 - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(4)(A), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002387%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%284%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
-- [&sect; 02388 - Renumbered &sect;2922](%C2%A7%2002388%20-%20Renumbered%20%C2%A72922.md)
+- [&sect; 02387 - Contract working dogs requirement to transfer animals to 341st Training Squadron after service life](%C2%A7%2002387%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md)
+- [&sect; 02388 - Security clearances for facilities of certain companies](%C2%A7%2002388%20-%20Security%20clearances%20for%20facilities%20of%20certain%20companies.md)
 - [&sect; 02389 - Ensuring safety regarding insensitive munitions](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md)
 - [&sect; 02390 - Prohibition on the sale of certain defense articles from the stocks of the Department of Defense](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 02391 - Military base reuse studies and community planning assistance](%C2%A7%2002391%20-%20Military%20base%20reuse%20studies%20and%20community%20planning%20assistance.md)

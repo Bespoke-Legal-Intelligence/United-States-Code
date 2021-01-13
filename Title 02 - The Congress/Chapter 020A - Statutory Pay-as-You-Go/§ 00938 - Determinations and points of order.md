@@ -1,8 +1,10 @@
 ### §938. Determinations and points of order
 
-Nothing in this chapter shall be construed as limiting the authority of the chairmen of the Committees on the Budget of the House andSenate under section 643 of this title. CBO may consult with the Chairmen of the House and Senate Budget Committees to resolve any ambiguities in this chapter.
+Nothing in this chapter shall be construed as limiting the authority of the chairmen of the Committees on the Budget of the House and Senate under section 643 of this title. CBO may consult with the Chairmen of the House and Senate Budget Committees to resolve any ambiguities in this chapter.
 
 (Pub. L. 111–139, title I, §12, Feb. 12, 2010, 124 Stat. 29.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

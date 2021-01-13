@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training inreturn for a commitment to subsequent service in the Selected Reserve of the Ready Reserve.
+Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Selected Reserve of the Ready Reserve.
 
 (b)
 
@@ -74,7 +74,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon successful completion of the program, oneyear in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 
 (e)
 

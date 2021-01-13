@@ -6,7 +6,7 @@ The Bureau shall publish a single, integrated disclosure for mortgage loan trans
 
 #### (b) Availability for inspection; exceptions
 
-The forms prescribed under this section shall be completed and made available for inspection by the borrower at or before settlement by the person conducting the settlement, except that (1) the Bureau may exempt from the requirements of this section settlements occurring in localities where the final settlement statement is not customarily provided at or before the date of settlement, or settlements where such requirements are impractical and (2) the borrower may, in accordance with regulations of the Bureau, waive his right to have the forms made available at such time. Upon the request of the borrower to inspect the forms prescribed under this section during the business day immediately preceding the day of settlement, the person who will conduct the settlement shall permit the borrower to inspect those items which are known to such person during such preceding day.
+The forms prescribed under this section shall be completed and made available for inspection by the borrower at or before settlement by the person conducting the settlement, except that (1) the Bureau may exempt from the requirements of this section settlements occurring in localities where the final settlement statement is not customarily provided at or before the date of settlement, or settlements where such requirements are impractical and (2) the borrower may, in accordance with regulations of the Bureau, waive his right to have the forms madeavailable at such time. Upon the request of the borrower to inspect the forms prescribed under this section during the business day immediately preceding the day of settlement, the person who will conduct the settlement shall permit the borrower to inspect those items which are known to such person during such preceding day.
 
 #### (c) Disclosure of fees
 
@@ -16,7 +16,13 @@ The standard form described in subsection (a) may include, in the case of an app
 
 &emsp;(2) the administration fee charged by such company.
 
-(Pub. L. 93–533, §4, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §3, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 104–208, div. A, title II, §2103(g)(1), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, §1098(2), title XIV, §1475, July 21, 2010, 124 Stat. 2103, 2200.)
+#### (d) Disclosure for charitable mortgage loan transactions
+
+With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes, an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title may use forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations), collectively, in lieu of the disclosure published under subsection (a) of this section.
+
+(Pub. L. 93–533, §4, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §3, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 104–208, div. A, title II, §2103(g)(1), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, §1098(2), title XIV, §1475, July 21, 2010, 124 Stat. 2103, 2200; Pub. L. 116–342, §2(b), Jan. 13, 2021, 134 Stat. 5134.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +31,8 @@ The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90�
 This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 116–342 added subsec. (d).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §1098(2), substituted "The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 2604 of this title, in conjunction with the disclosure requirements of the Truth in Lending Act that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter and the Truth in Lending Act, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures." for "The Secretary, in consultation with the Administrator of Veteran's Affairs, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision, shall develop and prescribe a standard form for the statement of settlement costs which shall be used (with such variations as may be necessary to reflect differences in legal and administrative requirements or practices in different areas of the country) as the standard real estate settlement form in all transactions in the United States which involve federally related mortgage loans.", "Such forms" for "Such form", "Bureau may" for "Secretary may", "the forms" for "the form", and "prescribed by the Bureau" for "prescribed by the Secretary" and substituted "standard forms" for "standard form" in two places.
 
@@ -37,6 +45,12 @@ Subsec. (c). Pub. L. 111–203, §1475, added subsec. (c).
 <b>1976</b>—Subsec. (a). Pub. L. 94–205, §3(1)–(3), designated existing provisions as subsec. (a), struck out "minimum" after "with such" and "unavoidable" after "necessary to reflect" in parenthetical provisions covering allowable regional variations in the uniform settlement statement, and substituted provisions authorizing the Secretary to permit deletions from the standard form for provisions requiring that the standard form contain all the information and data required under the Truth in Lending Act.
 
 Subsec. (b). Pub. L. 94–205, §3(4), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–342, §2(c), Jan. 13, 2021, 134 Stat. 5135, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1604 of Title 15, Commerce and Trade\] shall take effect on the date of the enactment of this Act \[Jan. 13, 2021\]."
 
 #### Effective Date of 2010 Amendment
 

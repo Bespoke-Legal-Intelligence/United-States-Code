@@ -24,7 +24,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 #### (2) Expenditures of sale
 
-&emsp;For the purpose of computing gain under paragraph (1) of this subsection, expenditures incurred in connection with the sale or exchange of any lot or parcel shall neither be allowed as a deduction in computing taxable income, nor treated as reducing the amount realized on such sale or exchange; but so much of such expenditures as does not exceed the portion of gain deemed under paragraph (1) of this subsection to be gain from the sale of property held primarily for sale to customers in the ordinary course of trade or business shall be so allowed as a deduction, and the remainder, if any, shall be treated as reducing the amount realized on such sale or exchange.
+&emsp;For the purpose of computing gain under paragraph (1) of this subsection, expenditures incurred in connection with the sale or exchange of any lot or parcel shall neither be allowed as a deduction in computing taxable income, nor treated as reducing the amount realized on such sale or exchange; but so much of such expenditures as does not exceed theportion of gain deemed under paragraph (1) of this subsection to be gain from the sale of property held primarily for sale to customers in the ordinary course of trade or business shall be so allowed as a deduction, and the remainder, if any, shall be treated as reducing the amount realized on such sale or exchange.
 
 #### (3) Necessary improvements
 
@@ -86,7 +86,7 @@ Act Apr. 27, 1956, ch. 214, §3, 70 Stat. 119, provided that: "This Act \[amendi
 
 Pub. L. 91–686, §1, Jan. 12, 1971, 84 Stat. 2070, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided: "That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
 
-&emsp;"(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
+&emsp;"(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale tocustomers in the ordinary course of trade or business; and
 
 &emsp;"(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
 

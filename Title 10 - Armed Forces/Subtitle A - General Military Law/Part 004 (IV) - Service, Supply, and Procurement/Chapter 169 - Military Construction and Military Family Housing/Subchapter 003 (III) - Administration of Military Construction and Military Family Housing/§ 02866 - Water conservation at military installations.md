@@ -36,7 +36,7 @@ Use of Financial Incentives and Water Cost Savings.—(1) Financial incentives r
 
 (c)
 
-Water Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise made available to the Secretary for water conservation.
+Water Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized,using funds appropriated or otherwise made available to the Secretary for water conservation.
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
@@ -65,6 +65,136 @@ Subsec. (c)(2). Pub. L. 115–91, §2801(c)(5), substituted "14-day period" for 
 Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title."
 
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–106 substituted "appropriate committees of Congress" for "Committees on Armed Services and Appropriations of the Senate and House of Representatives".
+
+#### Improving Water Management and Security on Military Installations.
+
+Pub. L. 116–283, div. B, title XXVIII, §2827, Jan. 1, 2021, 134 Stat. 4336, provided that:
+
+"(a)
+
+Risk-Based Approach to Installation Water Management and Security.—
+
+&emsp;"(1)
+
+General requirement.—The Secretary concerned shall adopt a risk-based approach to water management and security for each military installation under the jurisdiction of the Secretary.
+
+&emsp;"(2)
+
+Implementation priorities.—The Secretary concerned shall begin implementation of paragraph (1) by prioritizing those military installations under the jurisdiction of the Secretary that the Secretary determines—
+
+&emsp;&emsp;"(A) are experiencing the greatest risks to sustainable water management and security; and
+
+&emsp;&emsp;"(B) face the most severe existing or potential adverse impacts to mission assurance as a result of such risks.
+
+&emsp;"(3)
+
+Determination method.—Determinations under paragraph (2) shall be made on the basis of the water management and security assessments made by the Secretary concerned under subsection (b).
+
+"(b)
+
+Water Management and Security Assessments.—
+
+&emsp;"(1)
+
+Assessment methodology.—The Secretaries concerned, acting jointly, shall develop a methodology to assess risks to sustainable water management and security and mission assurance.
+
+&emsp;"(2)
+
+Elements.—Required elements of the assessment methodology shall include the following:
+
+&emsp;&emsp;"(A) An evaluation of the water sources and supply connections for a military installation, including water flow rate and extent of competition for the water sources.
+
+&emsp;&emsp;"(B) An evaluation of the age, condition, and jurisdictional control of water infrastructure serving the military installation.
+
+&emsp;&emsp;"(C) An evaluation of the military installation's water-security risks related to drought-prone climates, impacts of defense water usage on regional water demands, water quality, and legal issues, such as water rights disputes.
+
+&emsp;&emsp;"(D) An evaluation of the resiliency of the military installation's water supply and the overall health of the aquifer basin of which the water supply is a part, including the robustness of the resource, redundancy, and ability to recover from disruption.
+
+&emsp;&emsp;"(E) An evaluation of existing water metering and consumption at the military installation, considered at a minimum—
+
+&emsp;&emsp;&emsp;"(i) by type of installation activity, such as training, maintenance, medical, housing, and grounds maintenance and landscaping; and
+
+&emsp;&emsp;&emsp;"(ii) by fluctuations in consumption, including peak consumption by quarter.
+
+"(c)
+
+Evaluation of Installations for Potential Net Zero Water Usage.—
+
+&emsp;"(1)
+
+Evaluation required.—The Secretary concerned shall conduct an evaluation of each military installation under the jurisdiction of the Secretary to determine the potential for the military installation, or at a minimum certain installation activities, to achieve net zero water usage.
+
+&emsp;"(2)
+
+Elements.—Required elements of each evaluation shall include the following:
+
+&emsp;&emsp;"(A) An evaluation of alternative water sources to offset use of freshwater, including water recycling and harvested rainwater for use as non-potable water.
+
+&emsp;&emsp;"(B) An evaluation of the feasibility of implementing Department of Energy guidelines for net zero water usage, when practicable, to minimize water consumption and wastewater discharge in buildings scheduled for renovation.
+
+&emsp;&emsp;"(C) An evaluation of the practicality of implementing net zero water usage technology into new construction in water-constrained areas, as determined by water management and security assessments conducted under subsection (b).
+
+"(d)
+
+Improved Landscaping Management Practices.—
+
+&emsp;"(1)
+
+Landscaping management.—The Secretary concerned shall implement, to the maximum extent practicable, at each military installation under the jurisdiction of the Secretary landscaping management practices to increase water resilience and ensure greater quantities of water availability for operational, training, and maintenance requirements.
+
+&emsp;"(2)
+
+Arid or semi-arid climates.—For military installations located in arid or semi-arid climates,landscaping management practices shall include the use of xeriscaping.
+
+&emsp;"(3)
+
+Non-arid climates.—For military installations located in non-arid climates, landscaping management practices shall include the use of plants common to the region in which the installation is located and native grasses and plants.
+
+&emsp;"(4)
+
+Pollinator conservation reference guide.—The Secretary concerned shall follow the recommendations of the Department of Defense Pollinator Conservation Reference Guide (September 2018) to the maximum extent practicable in order to reduce operation and maintenance costs related to landscaping management, while improving area management. Consistent with such guide, in the preparation of a military installation landscaping plan, the Secretary concerned should consider the following:
+
+&emsp;&emsp;"(A) Adding native flowering plants to sunny open areas and removing overhanging tree limbs above open patches within forested areas or dense shrub.
+
+&emsp;&emsp;"(B) Removing or controlling invasive plants to improve pollinator habitat.
+
+&emsp;&emsp;"(C) Preserving known and potential pollinator nesting and overwintering sites.
+
+&emsp;&emsp;"(D) Eliminating or minimizing pesticide use in pollinator habitat areas.
+
+&emsp;&emsp;"(E) Mowing in late fall or winter after plants have bloomed and set seed, adjusting timing to avoid vulnerable life stages of special status pollinators.
+
+&emsp;&emsp;"(F) Mowing mid-day when adult pollinators can avoid mowing equipment.
+
+"(e)
+
+Implementation Report.—
+
+&emsp;"(1)
+
+Report required.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in coordination with the other Secretaries concerned, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress made in implementing this section.
+
+&emsp;"(2)
+
+Report elements.—The report shall include the following:
+
+&emsp;&emsp;"(A) The methodology developed under subsection (b) to conduct water management and security assessments.
+
+&emsp;&emsp;"(B) A list of the military installations that have been assessed using such methodology and a description of the findings.
+
+&emsp;&emsp;"(C) A list of planned assessments for the one-year period beginning on the date of the submission of the report.
+
+&emsp;&emsp;"(D) An evaluation of the progress made on implementation of xeriscaping and other regionally appropriate landscaping practices at military installations.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'net zero water usage', with respect to a military installation or installation activity, means a situation in which the combination of limitations on the consumption of water resources and the return of water to an original water source by the installation or activity is sufficient to prevent any reduction in the water resources of the area in both quantity and quality over a reasonable period of time.
+
+&emsp;"(2) The terms 'Secretary concerned' and 'Secretary' mean the Secretary of a military department and the Secretary of Defense with respect to the Pentagon Reservation.
+
+&emsp;"(3) The term 'xeriscaping' means landscape design that emphasizes low water use and drought-tolerant plants that require little or no supplemental irrigation."
 
 #### Establishment of Targets for Water Use
 

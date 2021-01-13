@@ -2,19 +2,23 @@
 
 (a) The president may appoint temporary commissioned officers—
 
-&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to theirqualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
+&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
 
 &emsp;(2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 
-(b) Temporary appointments under this section do not change the permanent, probationary, or acting status of persons so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
+(b) Temporary appointments under this section do not change the permanent, probationary, or acting status of individuals so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. An individual who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
 
 (c) An appointment under this section, or a subsequent promotion appointment of a temporary officer, may be vacated by the appointing officer at any time. Each officer whose appointment is so vacated shall revert to his permanent status.
 
 (d) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their appointments as officers in such grade. Appointees whose dates of appointment are the same shall take precedence with each other as the Secretary shall determine.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178, §214; amended Pub. L. 89–444, §1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, §1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, §6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, §541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, §211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §211, Oct. 15, 2010, 124 Stat. 2914; renumbered §2104, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178, §214; amended Pub. L. 89–444, §1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, §1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, §6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, §541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, §211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §211, Oct. 15, 2010, 124 Stat. 2914; renumbered §2104, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(15), Jan. 1, 2021, 134 Stat. 4748.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "individuals" for "persons" and "An individual" for "A person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 214 of this title as this section.
 
@@ -45,6 +49,8 @@ Subsecs. (d) to (f). Pub. L. 104–324, §211(a)(2), redesignated subsecs. (d) t
 Subsec. (b). Pub. L. 89–444, §1(13), added licensed officers of the United States merchant marine to the group from which the President may appoint temporary commissioned warrant officers for the Regular Coast Guard.
 
 Subsec. (c). Pub. L. 89–444, §1(14), added licensed officers of the United States merchant marine to the group from which the Secretary may appoint temporary warrant officers (W–1) in the Regular Coast Guard.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

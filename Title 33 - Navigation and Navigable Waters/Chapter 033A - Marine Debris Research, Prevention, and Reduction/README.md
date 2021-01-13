@@ -10,6 +10,7 @@
 | [1956\.](%C2%A7%2001956%20-%20Definitions.md) | Definitions. |
 | [1957\.](%C2%A7%2001957%20-%20Relationship%20to%20Outer%20Continental%20Shelf%20Lands%20Act.md) | Relationship to Outer Continental Shelf Lands Act. |
 | [1958\.](%C2%A7%2001958%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1959\.](%C2%A7%2001959%20-%20Prioritization%20of%20marine%20debris%20in%20existing%20innovation%20and%20entrepreneurship%20programs.md) | Prioritization of marine debris in existing innovation and entrepreneurship programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 01956 - Definitions](%C2%A7%2001956%20-%20Definitions.md)
 - [&sect; 01957 - Relationship to Outer Continental Shelf Lands Act](%C2%A7%2001957%20-%20Relationship%20to%20Outer%20Continental%20Shelf%20Lands%20Act.md)
 - [&sect; 01958 - Authorization of appropriations](%C2%A7%2001958%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01959 - Prioritization of marine debris in existing innovation and entrepreneurship programs](%C2%A7%2001959%20-%20Prioritization%20of%20marine%20debris%20in%20existing%20innovation%20and%20entrepreneurship%20programs.md)

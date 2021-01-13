@@ -28,6 +28,8 @@ Exception.—Subsection (a) shall not apply to—
 
 (Added Pub. L. 114–318, §3(a), Dec. 16, 2016, 130 Stat. 1612.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subchapter, referred to in subsec. (a), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.

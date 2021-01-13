@@ -1,5 +1,7 @@
 Other Periods of War
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–25, title III, §333(c)(1), Apr. 6, 1991, 105 Stat. 88, substituted "

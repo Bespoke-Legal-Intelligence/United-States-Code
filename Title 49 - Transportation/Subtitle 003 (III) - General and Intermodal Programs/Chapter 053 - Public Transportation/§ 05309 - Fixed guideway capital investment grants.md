@@ -158,7 +158,7 @@ In general.—A new fixed guideway capital project may advance to the engineerin
 
 &emsp;&emsp;&emsp;(iii) is justified based on a comprehensive review of the project's mobility improvements, the project's environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project's cost-effectiveness as measured by cost per rider; and
 
-&emsp;&emsp;&emsp;(iv) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
+&emsp;&emsp;&emsp;(iv) is supported by an acceptable degree of local financial commitment (includingevidence of stable and dependable financing sources), as required under subsection (f).
 
 &emsp;&emsp;(B)
 
@@ -256,7 +256,7 @@ Requirements.—In determining whether a project is supported by an acceptable d
 
 &emsp;&emsp;(A) the proposed project plan provides for the availability of contingency amounts that the Secretary determines to be reasonable to cover unanticipated cost increases or funding shortfalls;
 
-&emsp;&emsp;(B) each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable; and
+&emsp;&emsp;(B) each proposed local source of capital and operating financing is stable, reliable,and available within the proposed project timetable; and
 
 &emsp;&emsp;(C) local resources are available to recapitalize, maintain, and operate the overall existing and proposed public transportation system, including essential feeder bus and other services necessary to achieve the projected ridership levels without requiring a reduction in existing public transportation services or level of service to operate the project.
 
@@ -620,7 +620,7 @@ Information collection and analysis plan.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Submission of plan.—Applicants seeking a full funding grant agreement under this paragraph shall submit a complete plan for the collection and analysis of information to identify the impacts of the new fixed guideway capital project or core capacity improvement project and the accuracy of the forecasts prepared during the development of the project. Preparation of this plan shall be included in the full funding grant agreement as an eligible activity.
+Submission of plan.—Applicants seeking a full funding grant agreement under this paragraph shall submit a complete plan for the collection and analysis of information to identify the impacts of the new fixed guideway capital projector core capacity improvement project and the accuracy of the forecasts prepared during the development of the project. Preparation of this plan shall be included in the full funding grant agreement as an eligible activity.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 

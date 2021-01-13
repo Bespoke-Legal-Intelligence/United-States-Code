@@ -34,9 +34,13 @@ In clauses (1) and (2), the term "Yoemen (f)" is used (despite the inconsistency
 
 In clause (1), the words "World War I" are substituted for "the World War" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pars. (1), (2). Pub. L. 113–237 substituted "Yeomen (F)" for "Yoemen (f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

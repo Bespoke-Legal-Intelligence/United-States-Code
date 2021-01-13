@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the size of a manufacturing concern as measured by the manufacturing concern's average employment based upon employment during each of the manufacturing concern's pay periods for the preceding 12 months;
 
-&emsp;&emsp;&emsp;&emsp;(II) the size of a business concern providing services on the basis of the annualaverage gross receipts of the business concern over a period of not less than 5 years;
+&emsp;&emsp;&emsp;&emsp;(II) the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 5 years;
 
 &emsp;&emsp;&emsp;&emsp;(III) the size of other business concerns on the basis of data over a period of not less than 3 years; or
 
@@ -70,7 +70,7 @@
 
 #### (B) Interim rule
 
-&emsp;&emsp;Until the date on which the alternative size standard established under subparagraph (A) is in effect, an applicant for a business loan under section 636(a) of this title or an applicant for a development company loan under title V of the Small Business Investment Act of 1958 may be eligible for such a loan if—
+&emsp;&emsp;Until the date on which the alternative size standard established under subparagraph (A) is in effect, an applicant for a business loan under section 636(a) of this title or an applicant for a development companyloan under title V of the Small Business Investment Act of 1958 may be eligible for such a loan if—
 
 &emsp;&emsp;&emsp;(i) the maximum tangible net worth of the applicant is not more than $15,000,000; and
 
@@ -134,7 +134,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(ii) which provides that each participant is entitled to direct the plan trustee as to the manner of how to vote the qualified employer securities (as defined in section 4975(e)(8) of title 26), which are allocated to the account of such participant with respect to a corporate matter which (by law or charter) must be decided by a vote conducted in accordance with section 409(e) of the title 26; and
 
-&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
+&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and onsuch small business concern and which provides that—
 
 &emsp;&emsp;(i) the loan guaranteed under section 636(a) of this title shall be used solely for the purchase of qualifying employer securities of such concern,
 
@@ -230,7 +230,7 @@ For the purposes of this chapter, the term "small agricultural cooperative" mean
 
 #### (k) "Disaster" defined
 
-(1) For the purposes of this chapter, the term "disaster" means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires,explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+(1) For the purposes of this chapter, the term "disaster" means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
 
 (2) For purposes of section 636(b)(2) of this title, the term "disaster" includes—
 
@@ -330,7 +330,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(B) A small business concern—
 
-&emsp;&emsp;&emsp;(i) not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable tomanage the daily business operations of such concern; or
+&emsp;&emsp;&emsp;(i) not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.
 
@@ -374,7 +374,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(i) is owned and controlled by—
 
-&emsp;&emsp;&emsp;&emsp;(I) a veteran who was called or ordered to active duty under a provision of law specified in section 101(a)(13)(B) of title 10 on or after September 11, 2001; or
+&emsp;&emsp;&emsp;&emsp;(I) a veteran who was called or ordered to active duty under a provision of lawspecified in section 101(a)(13)(B) of title 10 on or after September 11, 2001; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a service-disabled veteran who became such a veteran due to an injury or illness incurred or aggravated in the active military, naval, or air service during a period of active duty pursuant to a call or order to active duty under a provision of law referred to in subclause (I) on or after September 11, 2001; and
 
@@ -458,7 +458,7 @@ In this chapter, the term "multiple award contract" means—
 
 #### (B) Content of certifications
 
-&emsp;&emsp;A certification that a business concern qualifies as a small business concern of the exact size and status claimed by the business concern for purposes of bidding on a Federal contract or subcontract, or applying for a Federal grant, shall contain the signature of an authorized official on the same page on which the certification is contained.
+&emsp;&emsp;A certification that a business concern qualifies as a small business concern of the exact size and status claimed by the business concern for purposes of bidding on a Federal contract or subcontract, or applying for a Federal grant, shall contain the signature ofan authorized official on the same page on which the certification is contained.
 
 #### (4) Regulations
 
@@ -518,7 +518,37 @@ In this chapter:
 
 In this chapter, the term "Puerto Rico business" means a small business concern that has its principal office located in the Commonwealth of Puerto Rico.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803; Pub. L. 115–189, §§3(e), 4(a)(1), June 21, 2018, 132 Stat. 1496; Pub. L. 115–232, div. A, title VIII, §§861(a), 862(h), Aug. 13, 2018, 132 Stat. 1896, 1900; Pub. L. 115–324, §2, Dec. 17, 2018, 132 Stat. 4444; Pub. L. 116–92, div. A, title VIII, §876, Dec. 20, 2019, 133 Stat. 1528.)
+#### (ff) Covered territory business
+
+In this chapter, the term "covered territory business" means a small business concern that has its principal office located in one of the following:
+
+&emsp;(1) The United States Virgin Islands.
+
+&emsp;(2) American Samoa.
+
+&emsp;(3) Guam.
+
+&emsp;(4) The Northern Mariana Islands.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271,§8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803; Pub. L. 115–189, §§3(e), 4(a)(1), June 21, 2018, 132 Stat. 1496; Pub. L. 115–232, div. A, title VIII, §§861(a), 862(h), Aug. 13, 2018, 132 Stat. 1896, 1900; Pub. L. 115–324, §2, Dec. 17, 2018, 132 Stat. 4444; Pub. L. 116–92, div. A, title VIII, §876, Dec. 20, 2019, 133 Stat. 1528; Pub. L. 116–283, div. A, title VIII, §§862(b)(3)(A), 863(a), 866(a)(1), Jan. 1, 2021, 134 Stat. 3779, 3784, 3785.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 116–283, div. A, title VIII, §863, Jan. 1, 2021, 134 Stat. 3784, provided that, effective 1 year after Jan. 1, 2021, subsection (a)(2) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (A), by inserting "and subject to the requirements specified under subparagraph (C)" after "paragraph (1)"; and</i>
+
+<i>(2) in subparagraph (C)—</i>
+
+<i>(A) by inserting "(including the Administration when acting pursuant to subparagraph (A))" after "no Federal department or agency"; and</i>
+
+<i>(B) in clause (ii)(I) by striking "12 months" and inserting "24 months".</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Amendment of Subsection (q)(2)
+
+<i>Pub. L. 116–283, div. A, title VIII, §862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), subsection (q)(2)(C)(i)(III) of this section is amended by striking "section 8127(f) of title 38" and inserting "section 657f of this title". See 2021 Amendment note and Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -543,6 +573,16 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(A). Pub. L. 116–283, §863(a)(1), inserted "and subject to the requirements specified under subparagraph (C)" after "paragraph (1)".
+
+Subsec. (a)(2)(C). Pub. L. 116–283, §863(a)(2)(A), inserted "(including the Administration when acting pursuant to subparagraph (A))" after "no Federal department or agency" in introductory provisions.
+
+Subsec. (a)(2)(C)(ii)(I). Pub. L. 116–283, §863(a)(2)(B), substituted "24 months" for "12 months".
+
+Subsec. (q)(2)(C)(i)(III). Pub. L. 116–283, §862(b)(3)(A), substituted "section 657f of this title" for "section 8127(f) of title 38".
+
+Subsec. (ff). Pub. L. 116–283, §866(a)(1), added subsec. (ff).
 
 <b>2019</b>—Subsec. (q)(2)(C)(i)(II). Pub. L. 116–92, §876(1), struck out "rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability" before the semicolon.
 
@@ -658,7 +698,7 @@ Subsec. (p)(3)(A). Pub. L. 108–447, §151(a)(1)(A), amended subpar. (A) genera
 
 Subsec. (p)(3)(E). Pub. L. 108–447, §151(a)(1)(B)–(D), added subpar. (E).
 
-Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor."
+Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment,subcl. (II) read as follows: "the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor."
 
 Subsec. (p)(4)(C). Pub. L. 108–447, §152(c)(1), substituted "only until the later of—
 
@@ -776,6 +816,12 @@ Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 <b>1976</b>—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title VIII, §862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(3)(A) shall take effect on the transfer date (2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of this title).
+
+Pub. L. 116–283, div. A, title VIII, §863(b), Jan. 1, 2021, 134 Stat. 3784, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect 1 year after the date of the enactment of this Act \[Jan. 1, 2021\]."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. A, title VIII, §876, Dec. 20, 2019, 133 Stat. 1528, provided that the amendment made by section 876 is effective on the date specified in section 1832(e) of Pub. L. 114–328 (Oct. 1, 2018, see Effective Date of 2016 Amendment note below).
@@ -786,7 +832,7 @@ Amendment by section 1701 of Pub. L. 115–91 effective Jan. 1, 2020, see sectio
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title XVIII, §1832(e), Dec. 23, 2016, 130 Stat. 2660, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section, section 637 of this title, and section 8127 of Title 38, Veterans' Benefits\] shall take effect on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue regulations implementing such sections \[probably should be "subsections"\] \[regulations effective Oct. 1, 2018, see 83 F.R. 48908\]."
+Pub. L. 114–328, div. A, title XVIII, §1832(e), Dec. 23, 2016, 130 Stat. 2660, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section, section 637 of this title, and section 8127 of Title 38, Veterans' Benefits\] shall take effect on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue regulations implementing such sections \[probably should be "subsections"\] \[regulations effective Oct. 1, 2018, see 83 F.R. 48908; see also section 862(c)(3) of Pub. L. 116–283, set out as a note under section 657f of this title\]."
 
 #### Effective Date of 2015 Amendment
 
@@ -810,11 +856,11 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–26, §12(c), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisionsset out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\]."
+Pub. L. 100–26, §12(c), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\]."
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
-Section 101(c) \[title X, §921(g), (h)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(g), (h) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 10(a)(2), Apr. 21, 1987, 101 Stat. 273, 288; Pub. L. 100–180, div. A, title VIII, §809(d), Dec. 4, 1987, 101 Stat. 1130, provided that:
+Section 101(c) \[title X, §921(g), (h)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(g), (h) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 10(a)(2), Apr. 21,1987, 101 Stat. 273, 288; Pub. L. 100–180, div. A, title VIII, §809(d), Dec. 4, 1987, 101 Stat. 1130, provided that:
 
 "(g)
 
@@ -880,7 +926,7 @@ Pub. L. 113–66, div. A, title XVI, §1614(c), Dec. 26, 2013, 127 Stat. 949, pr
 
 "(1)
 
-Requirement for plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Administrator of the Small Business Administration, the Secretary of Defense, and the Administrator of General Services shall submit to the Committee on Small Business and the Committee on Armed Services of the House of Representatives and the Committee on Small Business and Entrepreneurship and the Committee on Armed Services of the Senate a plan to implement this section \[amending this section and section 637 of this title\] and the amendments made by this section. The plan shall contain assurances that the appropriate tracking mechanisms are in place to enable transparency of subcontracting activities at all tiers.
+Requirement for plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Administrator of the Small Business Administration, the Secretary of Defense, and the Administrator of General Services shall submit to the Committee on Small Business and the Committee on Armed Services of the House of Representatives and the Committee on Small Business and Entrepreneurship and the Committee on Armed Services of the Senate a plan to implement this section \[amending this section and section 637 of this title\] and the amendments made bythis section. The plan shall contain assurances that the appropriate tracking mechanisms are in place to enable transparency of subcontracting activities at all tiers.
 
 "(2)
 

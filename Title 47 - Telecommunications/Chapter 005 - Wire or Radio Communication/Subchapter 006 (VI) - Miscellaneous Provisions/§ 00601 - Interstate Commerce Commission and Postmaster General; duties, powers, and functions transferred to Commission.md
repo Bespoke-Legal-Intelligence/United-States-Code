@@ -6,9 +6,13 @@
 
 (June 19, 1934, ch. 652, title VII, §701, formerly title VI, §601, 48 Stat. 1101; renumbered title VII, §701, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "subtitle IV of title 49" substituted for "the Interstate Commerce Act and all Acts amendatory thereof or supplemental thereto \[49 U.S.C. 1 et seq.\]" on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -16,5 +20,5 @@ Office of Postmaster General of Post Office Department abolished and functions, 
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

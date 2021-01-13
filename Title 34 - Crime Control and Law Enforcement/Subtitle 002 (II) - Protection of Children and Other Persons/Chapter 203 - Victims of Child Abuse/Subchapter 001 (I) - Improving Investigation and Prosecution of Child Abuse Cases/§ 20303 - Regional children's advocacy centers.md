@@ -76,7 +76,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;(A) A proven record in conducting activities of the kinds described in subsection (c).
 
-&emsp;&emsp;(B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
+&emsp;&emsp;(B) A facility where children who are victims of sexual or physical abuse and theirnonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
 
 &emsp;&emsp;(C) Multidisciplinary staff experienced in providing evidence-informed services for children and families.
 
@@ -158,7 +158,9 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
-(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030;amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466.)
+(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -172,7 +174,7 @@ A prior section 213 of Pub. L. 101–647 was renumbered section 214A and is clas
 
 <b>2019</b>—Subsec. (a). Pub. L. 115–424, §2(c)(1)(A), struck out "with the Director and" after "coordination" in introductory provisions.
 
-Subsec. (a)(2) to (4). Pub. L. 115–424, §2(c)(1)(B)–(F), redesignated pars. (3) and (4) as (2) and (3), respectively, in par. (3) as redesignated, inserted ", law enforcement officers, child protective service workers, forensic interviewers, prosecutors, and victim advocates," after "health care professionals" and struck out "medical" before "personnel" and "support", added par. (4), and struck out former par. (2) which read as follows; "provide support for nonoffending family members;".
+Subsec. (a)(2) to (4). Pub. L. 115–424, §2(c)(1)(B)–(F), redesignated pars. (3) and (4) as (2) and (3), respectively, in par. (3) as redesignated, inserted ", law enforcementofficers, child protective service workers, forensic interviewers, prosecutors, and victim advocates," after "health care professionals" and struck out "medical" before "personnel" and "support", added par. (4), and struck out former par. (2) which read as follows; "provide support for nonoffending family members;".
 
 Subsec. (b)(1). Pub. L. 115–424, §2(c)(2)(A)(i), struck out ", in coordination with the Director," after "Administrator" in introductory provisions.
 
@@ -213,6 +215,8 @@ Subsecs. (e), (f). Pub. L. 115–424, §2(c)(5), struck out subsecs. (e) and (f)
 <b>2003</b>—Subsec. (c)(4). Pub. L. 108–21, §381(a)(1), struck out "and" at end of cl. (ii) of subpar. (B), substituted "board" for "Board" in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
 
 Subsec. (e)(1)(B)(ii), (2)(A), (3). Pub. L. 108–21, §381(a)(2), substituted "board" for "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Boards
 

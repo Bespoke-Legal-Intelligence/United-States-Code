@@ -36,6 +36,8 @@ June 29, 1936, ch. 858, title XI, §1105(d), as added June 23, 1938, ch. 600, §
 
 In subsections (b) and (d), the words "appropriate account under section 53717 of this title" are substituted for "Federal Ship Financing Fund" because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(G). See 2006 Amendment note below.

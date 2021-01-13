@@ -30,7 +30,7 @@ The purposes for which grants made under subsection (a) may be made are—
 
 &emsp;(11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-&emsp;(12) to establish school-based partnerships between local law enforcement agencies andlocal school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
+&emsp;(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
 
 &emsp;(13) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
@@ -98,7 +98,7 @@ In awarding grants under this subchapter, the Attorney General may give preferen
 
 #### (2) Model
 
-&emsp;The technical assistance provided by the Attorney General may include the developmentof a flexible model that will define for State and local governments, and other public and private entities, definitions and strategies associated with community or problem-oriented policing and methodologies for its implementation.
+&emsp;The technical assistance provided by the Attorney General may include the development of a flexible model that will define for State and local governments, and other public and private entities, definitions and strategies associated with community or problem-oriented policing and methodologies for its implementation.
 
 #### (3) Training centers and facilities
 
@@ -114,7 +114,7 @@ Unless all applications submitted by any State and grantee within the State purs
 
 #### (g) Matching funds
 
-The portion of the costs of a program, project, or activity provided by a grant under subsection (a) may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 10382(c)(8) of this title.
+The portion of the costs of a program, project, or activity provided by a grant under subsection (a) may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or localsources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 10382(c)(8) of this title.
 
 #### (h) Allocation of funds
 
@@ -165,6 +165,8 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 &emsp;(3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.
 
 (Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, §2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, §101, Dec. 21, 2018, 132 Stat. 5266.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -259,6 +261,8 @@ Subsecs. (d) to (k). Pub. L. 109–162, §1163(a)(4), redesignated subsecs. (f) 
 &emsp;"(ii) 20 percent of the funds available for grants pursuant to this subsection in fiscal year 1996; or
 
 &emsp;"(iii) 10 percent of the funds available for grants pursuant to this subsection in fiscal years 1997, 1998, 1999, and 2000; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purposes of 1994 Amendments
 

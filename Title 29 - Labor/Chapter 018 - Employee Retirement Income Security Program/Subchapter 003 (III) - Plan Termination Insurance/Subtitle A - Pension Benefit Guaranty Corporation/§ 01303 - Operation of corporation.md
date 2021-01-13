@@ -6,7 +6,7 @@ The corporation may make such investigations as it deems necessary to enforce an
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
-For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which thecorporation deems relevant or material to the inquiry.
+For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
 
 #### (c) Contempt
 
@@ -18,7 +18,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 #### (e) Civil actions by corporation; jurisdiction; process; expeditious handling of case; costs; limitation on actions
 
-(1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26.
+(1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or433(g)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26.
 
 (2) Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -52,7 +52,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 &emsp;(C) the United States District Court for the District of Columbia.
 
-(3) In any action brought under this subsection, the court may award all or a portion ofthe costs and expenses incurred in connection with such action to any party who prevails or substantially prevails in such action.
+(3) In any action brought under this subsection, the court may award all or a portion of the costs and expenses incurred in connection with such action to any party who prevails or substantially prevails in such action.
 
 (4) This subsection shall be the exclusive means for bringing actions against the corporation under this subchapter, including actions against the corporation in its capacity as a trustee under section 1342 or 1349 <sup>1</sup> of this title.
 
@@ -73,6 +73,8 @@ In order to avoid unnecessary expense and duplication of functions among governm
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
 (Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–97, title I, §102(b)(7), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title II, §201(a)(7)(C), Dec. 16, 2014, 128 Stat. 2810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Pri
 Subsec. (e)(1). Pub. L. 96–364, §402(a)(2)(B), substituted "enforce" for "redress violations of".
 
 Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted "Except as provided in section 1451(a)(2) of the title, any" for "Any" and inserted provisions relating to removal of actions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

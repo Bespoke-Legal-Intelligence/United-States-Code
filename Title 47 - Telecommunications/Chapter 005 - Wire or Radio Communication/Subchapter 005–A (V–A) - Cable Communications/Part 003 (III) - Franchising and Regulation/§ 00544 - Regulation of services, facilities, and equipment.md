@@ -40,7 +40,7 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 #### (e) Technical standards
 
-Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems' technical operation and signalquality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
+Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems' technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
 
 #### (f) Limitation on regulatory powers of Federal agencies, States, or franchising authorities; exceptions
 
@@ -70,6 +70,8 @@ Within 120 days after October 5, 1992, the Commission shall prescribe rules conc
 
 (June 19, 1934, ch. 652, title VI, §624, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2789; amended Pub. L. 102–385, §§15, 16, Oct. 5, 1992, 106 Stat. 1490; Pub. L. 103–414, title III, §§303(a)(23), 304(a)(12), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 104–104, title III, §301(e), Feb. 8, 1996, 110 Stat. 116.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For "the effective date of this subchapter", referred to in subsecs. (b) and (c), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
@@ -93,6 +95,8 @@ Subsec. (g). Pub. L. 102–385, §16(b), added subsec. (g).
 Subsec. (h). Pub. L. 102–385, §16(c)(2), added subsec. (h).
 
 Subsec. (i). Pub. L. 102–385, §16(d), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -42,7 +42,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 
-In addition to the reporting and recordkeeping requirements under any other provision of this subchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
+In addition to the reporting and recordkeeping requirements under any other provision of thissubchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
 
 #### (f) Records and reports of registrants
 
@@ -86,7 +86,9 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 All of the reports required under this section shall be provided in an electronic format.
 
-(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, §3273(a), Oct. 24, 2018, 132 Stat. 3952.)
+(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II,§§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, §3273(a), Oct. 24, 2018, 132 Stat. 3952.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -113,6 +115,8 @@ Subsec. (g). Pub. L. 98–473, §515, added subsec. (g).
 Subsecs. (e), (f). Pub. L. 95–633 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>1974</b>—Subsec. (c)(1)(A). Pub. L. 93–281 substituted "any narcotic controlled substance" for "narcotic controlled substances" and made section applicable to any narcotic controlled substance prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -14,7 +14,7 @@ To carry out the purposes of subsection (a), the following types of programs for
 
 &emsp;(1) Activities by the Export-Import Bank to complete the review process for eligibility for financing under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\].
 
-&emsp;(2) The provision of insurance, reinsurance, financing, or other assistance by the United States International Development Finance Corporation.
+&emsp;(2) The provision of insurance, reinsurance, financing, or other assistance by the UnitedStates International Development Finance Corporation.
 
 &emsp;(3) Assistance under section 2421 of this title (relating to the Trade and Development Agency).
 
@@ -24,6 +24,8 @@ Activities that may be supported by programs under subsection (b) include promot
 
 (Pub. L. 87–195, pt. I, §499B, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–124; amended Pub. L. 115–254, div. F, title VI, §1470(j)(2), Oct. 5, 2018, 132 Stat. 3517.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Export-Import Bank Act of 1945, referred to in subsec. (b)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
@@ -31,6 +33,8 @@ The Export-Import Bank Act of 1945, referred to in subsec. (b)(1), is act July 3
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–254, which directed amendment of "section 449B(b)(2)" of the Foreign Assistance Act of 1961 by substituting "United States International Development Finance Corporation" for "Overseas Private Investment Corporation", was executed to this section, which is section 499B of the Foreign Assistance Act of 1961, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

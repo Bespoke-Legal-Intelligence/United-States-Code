@@ -12,15 +12,27 @@
 
 (2) Each executive department and independent establishment of the Government of the United States shall prescribe regulations under which penalty mail sent by such department or establishment may be used in conformance with the guidelines prescribed under paragraph (1).
 
-(b) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
+(b) The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
 
 (c) As used in this section, "Office of Juvenile Justice and Delinquency Prevention" and "Office" each means the Office of Juvenile Justice and Delinquency Prevention within the Department of Justice, as established by section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
-(Added Pub. L. 99–87, §1(a)(1), Aug. 9, 1985, 99 Stat. 290.)
+(Added Pub. L. 99–87, §1(a)(1), Aug. 9, 1985, 99 Stat. 290; Pub. L. 116–260, div. I, title I, §116(b)(2)(A)(iii), Dec. 27, 2020, 134 Stat. 1637.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is section 201 of Pub. L. 93–415, which enacted section 11111 of Title 34, Crime Control and Law Enforcement, and amended section 5108 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260 substituted "House Communications Standards Commission" for "House Commission on Congressional Mailing Standards".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable with respect to communications disseminated on or after Dec. 27, 2020, see section 116(f) of div. I of Pub. L. 116–260, set out as a note under section 501 of Title 2, The Congress.
 
 #### Termination Date
 
@@ -36,7 +48,7 @@ Guidelines.—The guidelines described in section 3220(a)(1) of title 39, United
 
 "(b)
 
-Rules and Regulations.—The regulations described in subsection (a)(2) of section 3220 of title 39, United States Code, as added by this Act, and the rules and regulations described in subsection (b) of such section, as so added, shall be prescribed not later than one hundred and eighty days after the date of the enactment of this Act (Aug. 9, 1985)."
+Rules and Regulations.—The regulations described in subsection (a)(2) of section 3220 of title 39,United States Code, as added by this Act, and the rules and regulations described in subsection (b) of such section, as so added, shall be prescribed not later than one hundred and eighty days after the date of the enactment of this Act (Aug. 9, 1985)."
 
 #### Reporting Requirements
 

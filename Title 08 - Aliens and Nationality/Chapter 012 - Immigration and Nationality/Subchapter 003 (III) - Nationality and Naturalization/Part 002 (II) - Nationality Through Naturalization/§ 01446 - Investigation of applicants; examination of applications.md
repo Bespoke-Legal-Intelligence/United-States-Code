@@ -26,6 +26,8 @@ An applicant for naturalization who moves from the district of the Service in th
 
 (June 27, 1952, ch. 477, title III, ch. 2, §335, 66 Stat. 255; Pub. L. 97–116, §15(c), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(aa), (bb), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §§401(c), 407(c)(16), (d)(13), Nov. 29, 1990, 104 Stat. 5038, 5041, 5043; Pub. L. 102–232, title III, §305(f), Dec. 12, 1991, 105 Stat. 1750.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–232 substituted "district court" for "District Court".
@@ -56,6 +58,8 @@ Subsec. (h). Pub. L. 97–116, §15(c)(2), struck out subsec. (h) which related 
 
 Subsec. (i). Pub. L. 97–116, §15(c)(3), redesignated subsec. (i) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
@@ -70,5 +74,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Criminal Background Checks
 
-Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: "That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated orotherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997".
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: "That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997".
 

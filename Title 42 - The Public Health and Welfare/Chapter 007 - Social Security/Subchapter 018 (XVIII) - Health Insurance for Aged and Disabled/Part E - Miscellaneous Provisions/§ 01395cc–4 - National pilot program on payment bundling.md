@@ -14,7 +14,7 @@
 
 &emsp;&emsp;The term "applicable beneficiary" means an individual who—
 
-&emsp;&emsp;&emsp;(i) is entitled to, or enrolled for, benefits under part A and enrolled for benefits under part B of such subchapter, but not enrolled under part C or a PACE program under section 1395eee of this title; and
+&emsp;&emsp;&emsp;(i) is entitled to, or enrolled for, benefits under part A and enrolled for benefitsunder part B of such subchapter, but not enrolled under part C or a PACE program under section 1395eee of this title; and
 
 &emsp;&emsp;&emsp;(ii) is admitted to a hospital for an applicable condition.
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A entity shall submit data to the Secretary on quality measures established under subparagraph (A) during each year of the pilot program (in a form and manner, subject to clause (iii), specified by the Secretary).
+&emsp;&emsp;&emsp;A entity shall submit data to the Secretary on quality measures establishedunder subparagraph (A) during each year of the pilot program (in a form and manner, subject to clause (iii), specified by the Secretary).
 
 #### (ii) Submission of data through electronic health record
 
@@ -264,7 +264,7 @@ The Secretary shall consult with representatives of small rural hospitals, inclu
 
 #### (3) Continuing care hospital defined
 
-&emsp;In this subsection, the term "continuing care hospital" means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), longterm care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) <sup>2</sup> of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in a hospital described in section 1395ww(d) of this title.
+&emsp;In this subsection, the term "continuing care hospital" means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), long term care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) <sup>2</sup> of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in a hospital described in section 1395ww(d) of this title.
 
 #### (h) Administration
 

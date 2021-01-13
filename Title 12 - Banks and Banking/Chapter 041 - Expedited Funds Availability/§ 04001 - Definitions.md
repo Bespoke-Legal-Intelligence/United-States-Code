@@ -136,6 +136,8 @@ For purposes of this chapter—
 
 (Pub. L. 100–86, title VI, §602, Aug. 10, 1987, 101 Stat. 635; Pub. L. 115–174, title II, §208(a)(1), May 24, 2018, 132 Stat. 1312.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -145,6 +147,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>2018</b>—Par. (20). Pub. L. 115–174, §208(a)(1)(A), inserted ", located in the United States," after "ATM".
 
 Pars. (21), (23). Pub. L. 115–174, §208(a)(1)(B), (C), inserted "American Samoa, the Commonwealth of the Northern Mariana Islands, Guam," after "Puerto Rico,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

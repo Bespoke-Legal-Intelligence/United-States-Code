@@ -32,7 +32,7 @@ An eligible entity desiring a grant under this subpart shall submit an applicati
 
 &emsp;(5) a description of the local educational agencies or schools to be served under the grant, including such student academic achievement, demographic, and socioeconomic information as the Secretary may request;
 
-&emsp;(6) a description of the effectiveness of teachers, principals, or other school leaders in the local educational agency and the schools to be served under the grant and the extent to which the system will increase the effectiveness of teachers, principals, or other school leaders in such schools;
+&emsp;(6) a description of the effectiveness of teachers, principals, or other school leaders in the local educational agency and the schoolsto be served under the grant and the extent to which the system will increase the effectiveness of teachers, principals, or other school leaders in such schools;
 
 &emsp;(7) a description of how the eligible entity will use grant funds under this subpart in each year of the grant, including a timeline for implementation of such activities;
 

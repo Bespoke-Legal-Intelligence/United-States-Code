@@ -6,7 +6,7 @@ There is hereby established within the Environmental Protection Agency an Asbest
 
 #### (b) Application submission
 
-(1) Applications for financial assistance shall be submitted by a local educational agency tothe Governor, or the Governor's designee, who shall establish a priority list based on the criteria of section 4013(b)(2) of this title.
+(1) Applications for financial assistance shall be submitted by a local educational agency to the Governor, or the Governor's designee, who shall establish a priority list based on the criteria of section 4013(b)(2) of this title.
 
 (2) Pursuant to section 4013 of this title, the Governor shall submit applications, together with the Governor's report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) and propose financing pursuant to the criteria of section 4013(b)(4) of this title. The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
 
@@ -170,5 +170,5 @@ Subsec. (g)(4)(B)(ii). Pub. L. 100–368, §6(b)(2), substituted "section 2646(d
 
 #### Financial Assistance To Carry Out Inspections for Asbestos-Containing Material
 
-Pub. L. 99–519, §4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section,for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
+Pub. L. 99–519, §4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section, for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
 

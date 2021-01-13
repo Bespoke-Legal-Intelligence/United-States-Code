@@ -6,6 +6,8 @@
 
 (Added Pub. L. 94–82, title II, §202(a), Aug. 9, 1975, 89 Stat. 419; amended Pub. L. 101–194, title VII, §704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, §101(3), Oct. 13, 1994, 108 Stat. 3411.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in text, is set out under section 5332 of this title.
@@ -20,6 +22,8 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 <b>1989</b>—Pub. L. 101–194 substituted "corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect" for "corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–356, title I, §101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
@@ -30,11 +34,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: "This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set outas a note under this section\] shall take effect on January 1, 1991."
+Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: "This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991."
 
 #### Salary Levels of Senior Government Officials
 
-Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: "The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted."
+Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: "The rate of pay for the offices referredto under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted."
 
 Pub. L. 101–194, title VII, §703, Nov. 30, 1989, 103 Stat. 1768, provided that:
 
@@ -130,7 +134,7 @@ Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of fundsappropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate ofbasic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 #### Fiscal Year 1982 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

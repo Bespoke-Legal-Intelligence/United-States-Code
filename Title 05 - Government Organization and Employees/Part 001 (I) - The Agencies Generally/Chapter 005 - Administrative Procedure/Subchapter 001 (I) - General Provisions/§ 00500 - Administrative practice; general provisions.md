@@ -58,9 +58,13 @@ In subsection (d), the words "This section does not" are substituted for "nothin
 
 In subsection (d)(3), the word "employee" is substituted for "officer or employee" to conform to the definition of "employee" in 5 U.S.C. 2105.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

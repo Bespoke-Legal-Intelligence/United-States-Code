@@ -34,7 +34,7 @@ Program Functions.—The Secretary shall carry out the following functions:
 
 &emsp;(7) Establish, and update as appropriate, a comprehensive performance accountability system (as described in subsection (f)) and carry out annual performance reviews of veterans employment, training, and placement services provided through employment service delivery systems, including through disabled veterans' outreach program specialists and through local veterans' employment representatives in States receiving grants, contracts, or awards under this chapter.
 
-&emsp;(8) With advice and assistance from the Advisory Committee on Veterans Employment,Training, and Employer Outreach established under section 4110 of this title, furnish information to employers (through meetings in person with hiring executives of corporations and otherwise) with respect to the training and skills of veterans and disabled veterans, and the advantages afforded employers by hiring veterans with such training and skills, and to facilitate employment of veterans and disabled veterans through participation in labor exchanges (Internet-based and otherwise), and other means.
+&emsp;(8) With advice and assistance from the Advisory Committee on Veterans Employment, Training, and Employer Outreach established under section 4110 of this title, furnish information to employers (through meetings in person with hiring executives of corporations and otherwise) with respect to the training and skills of veterans and disabled veterans, and the advantages afforded employers by hiring veterans with such training and skills, and to facilitate employment of veterans and disabled veterans through participation in labor exchanges (Internet-based and otherwise), and other means.
 
 (c)
 
@@ -42,7 +42,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (2)(A) A State shall submit to the Secretary an application for a grant or contract under subsection (b)(5). The application shall contain the following information:
 
-&emsp;(i) A plan that describes the manner in which the State shall furnish employment, training, and placement services required under this chapter for the program year, including a description of—
+&emsp;(i) A plan that describes the manner in which the State shall furnish employment,training, and placement services required under this chapter for the program year, including a description of—
 
 &emsp;&emsp;(I) duties assigned by the State to disabled veterans' outreach program specialists and local veterans' employment representatives consistent with the requirements of sections 4103A and 4104 of this title;
 
@@ -92,7 +92,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;(B) on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans' outreach program specialist and local veterans' employment representative for a period in excess of 6 months.
 
-(6) Each State shall coordinate employment, training, and placement services furnished toveterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 <sup>1</sup> and the Wagner-Peyser Act.
+(6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 <sup>1</sup> and the Wagner-Peyser Act.
 
 (7) Of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, one percent shall be for the purposes of making cash awards under the program of performance incentive awards described in section 4112 of this title in the State.
 
@@ -166,7 +166,9 @@ Consolidation of Disabled Veterans' Outreach Program Specialists and Veterans' E
 
 &emsp;(2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, §241(c), Nov. 21, 2011, 125 Stat. 728; Pub. L. 112–239, div. A, title V, §544(a), Jan. 2, 2013, 126 Stat. 1737; Pub. L. 113–128, title V, §512(gg)(2), July 22, 2014, 128 Stat. 1719; Pub. L. 114–58, title VI, §601(20), Sept. 30, 2015, 129 Stat. 539.)
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, §241(c), Nov. 21, 2011, 125 Stat. 728; Pub. L. 112–239, div. A, title V, §544(a), Jan. 2, 2013, 126 Stat. 1737; Pub. L. 113–128, title V, §512(gg)(2), July 22, 2014, 128 Stat. 1719; Pub. L. 114–58, title VI, §601(20), Sept. 30, 2015, 129 Stat. 539.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -212,7 +214,7 @@ Subsec. (f)(1). Pub. L. 108–183, §708(b)(2), substituted "May 7, 2003," for "
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(A)\], struck out "the Job Training Partnership Act and" after "and training opportunities under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(A)\], substituted "the Job Training Partnership Act and title Iof the Workforce Investment Act of 1998" for "the Job Training Partnership Act".
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(A)\], substituted "the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" for "the Job Training Partnership Act".
 
 Subsec. (e)(1). Pub. L. 105–368 substituted "A person may not be assigned after October 9, 1996, as such a Regional Administrator unless the person is a veteran." for "Each Regional Administrator appointed after the date of the enactment of the Veterans' Benefits Improvements Act of 1996 shall be a veteran."
 
@@ -257,6 +259,8 @@ Subsecs. (b) to (e). Pub. L. 100–323, §2(a), added subsecs. (b) to (e).
 <b>1982</b>—Pub. L. 97–306 inserted provision that the employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans' Employment.
 
 <b>1980</b>—Pub. L. 96–466 struck out "Deputy" before "Assistant Secretary" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

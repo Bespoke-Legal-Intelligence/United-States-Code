@@ -1,6 +1,6 @@
 ### §3564. Annual adjustment of amounts of educational assistance
 
-(a) With respect to any fiscal year, the Secretary shall provide a percentage increase in therates payable under sections 3532, 3534(b), and 3542(a) of this title equal to the percentage by which—
+(a) With respect to any fiscal year, the Secretary shall provide a percentage increase in the rates payable under sections 3532, 3534(b), and 3542(a) of this title equal to the percentage by which—
 
 &emsp;(1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
@@ -10,9 +10,13 @@
 
 (Added Pub. L. 106–419, title I, §111(f)(1)(A), Nov. 1, 2000, 114 Stat. 1831; amended Pub. L. 108–183, title III, §304(b), Dec. 16, 2003, 117 Stat. 2660.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–183 designated existing provisions as subsec. (a), struck out "(rounded to the nearest dollar)" after "percentage increase", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

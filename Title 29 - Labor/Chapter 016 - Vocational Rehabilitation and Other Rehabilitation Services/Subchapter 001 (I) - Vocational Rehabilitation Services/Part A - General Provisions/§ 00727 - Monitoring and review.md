@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(D) reviews of individual case files, including individualized plans for employment and ineligibility determinations; and
 
-&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services.
+&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistanceprogram under section 732 of this title, and past or current recipients of vocational rehabilitation services.
 
 #### (4) Areas of inquiry
 
@@ -96,7 +96,7 @@ The Commissioner shall—
 
 #### (2) Period
 
-&emsp;Until the Commissioner is so satisfied, the Commissioner shall make no further paymentsto such State under this subchapter (or shall reduce payments or limit payments to projects under those parts of the State plan in which there is no such failure).
+&emsp;Until the Commissioner is so satisfied, the Commissioner shall make no further payments to such State under this subchapter (or shall reduce payments or limit payments to projects under those parts of the State plan in which there is no such failure).
 
 #### (3) Disbursal of withheld funds
 
@@ -106,7 +106,7 @@ The Commissioner shall—
 
 #### (1) Petition
 
-&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
+&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of theproceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
 
 #### (2) Submissions and determinations
 
@@ -128,6 +128,8 @@ The Commissioner shall—
 
 (Pub. L. 93–112, title I, §107, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1157; amended Pub. L. 113–128, title IV, §417(a), July 22, 2014, 128 Stat. 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 727, Pub. L. 93–112, title I, §107, as added Pub. L. 102–569, title I, §128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -145,6 +147,8 @@ Subsec. (a)(4)(A), (B). Pub. L. 113–128, §417(a)(1)(B)(i), added subpars. (A)
 Subsec. (a)(4)(D), (E). Pub. L. 113–128, §417(a)(1)(B)(ii)–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (b)(3). Pub. L. 113–128, §417(a)(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

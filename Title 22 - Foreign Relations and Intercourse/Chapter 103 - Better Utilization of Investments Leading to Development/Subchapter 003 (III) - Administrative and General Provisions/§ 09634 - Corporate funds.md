@@ -18,7 +18,7 @@ The Corporate Capital Account shall consist of—
 
 &emsp;(5) payments received in connection with settlements of all insurance and reinsurance claims of the Corporation; and
 
-&emsp;(6) all other collections transferred to or earned by the Corporation, excluding the cost,as defined in section 661a of title 2, of loans and loan guaranties.
+&emsp;(6) all other collections transferred to or earned by the Corporation, excluding the cost, as defined in section 661a of title 2, of loans and loan guaranties.
 
 #### (c) Fee authority
 
@@ -94,13 +94,17 @@ In this section, the term "project-specific transaction costs"—
 
 (Pub. L. 115–254, div. F, title III, §1434, Oct. 5, 2018, 132 Stat. 3501.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter VI of this chapter, referred to in subsec. (i), was in the original "title VI", meaning title VI (§§1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof (22 U.S.C. 2197(g), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
-This chapter, referred to in subsec. (j), was in the original "this division", meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classifiedprincipally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsec. (j), was in the original "this division", meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization for Collections
 

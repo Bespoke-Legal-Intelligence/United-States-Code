@@ -70,7 +70,7 @@ Selection Criteria.—The Secretary may select a proposal for an award pursuant 
 
 &emsp;(2) Demonstrates a strong commitment by the proponents to apply the resources necessary to achieve the objectives for which the award is to be made.
 
-&emsp;(3) Provides for effective engagement with industry or government organizations that supports the instruction to be provided in the proposed program and is likely to improve manufacturing engineering and technology.
+&emsp;(3) Provides for effective engagement with industry or government organizations thatsupports the instruction to be provided in the proposed program and is likely to improve manufacturing engineering and technology.
 
 &emsp;(4) Demonstrates a significant level of involvement of United States industry in the proposed instructional and research activities.
 

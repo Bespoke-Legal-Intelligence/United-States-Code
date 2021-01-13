@@ -1,8 +1,10 @@
 ### §1723d. Transfer of certain functions to Association
 
-The functions of the Housing and Home Finance Administrator (including the function ofmaking payments to the Secretary of the Treasury) under section 2 of Reorganization Plan Numbered 22 of 1950, together with the notes and capital stock of the Federal National Mortgage Association held by said Administrator thereunder, are transferred to the Federal National Mortgage Association.
+The functions of the Housing and Home Finance Administrator (including the function of making payments to the Secretary of the Treasury) under section 2 of Reorganization Plan Numbered 22 of 1950, together with the notes and capital stock of the Federal National Mortgage Association held by said Administrator thereunder, are transferred to the Federal National Mortgage Association.
 
 (Aug. 2, 1954, ch. 649, title II, §207, 68 Stat. 622.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -10,5 +12,5 @@ Reorganization Plan Numbered 22 of 1950, referred to in text, is set out as a no
 
 #### Codification
 
-Section was enacted as part of the Housing Act of 1954, and not as part of the National Housing Act which comprises this chapter or of the Federal National Mortgage Charter Association Act which comprises this subchapter.
+Section was enacted as part of the Housing Act of 1954, and not as part of the National Housing Act whichcomprises this chapter or of the Federal National Mortgage Charter Association Act which comprises this subchapter.
 

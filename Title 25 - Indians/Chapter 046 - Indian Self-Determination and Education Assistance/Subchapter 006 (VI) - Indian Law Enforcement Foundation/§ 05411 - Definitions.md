@@ -24,6 +24,8 @@ In this subchapter:
 
 (Pub. L. 93–638, title VII, §701, as added Pub. L. 111–211, title II, §231(c), July 29, 2010, 124 Stat. 2274.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 458ccc of this title prior to editorial reclassification and renumbering as this section.

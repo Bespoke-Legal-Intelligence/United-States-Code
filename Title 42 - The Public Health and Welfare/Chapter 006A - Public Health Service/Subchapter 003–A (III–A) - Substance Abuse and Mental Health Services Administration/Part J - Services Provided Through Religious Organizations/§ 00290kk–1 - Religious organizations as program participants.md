@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, a religious organization, on the sam
 
 #### (b) Religious organizations
 
-The purpose of this section is to allow religious organizations to be program participants on the same basis as any other nonprofit private provider without impairing the religious character of such organizations, and without diminishing the religious freedom of program beneficiaries.
+The purpose of this section is to allow religious organizations to be program participantson the same basis as any other nonprofit private provider without impairing the religious character of such organizations, and without diminishing the religious freedom of program beneficiaries.
 
 #### (c) Nondiscrimination against religious organizations
 

@@ -24,9 +24,13 @@ Limitations.—The amount of the assistance provided under subsection (a) may no
 
 (Added Pub. L. 112–154, title VII, §701(a)(1), Aug. 6, 2012, 126 Stat. 1202; amended Pub. L. 114–58, title VI, §601(12), Sept. 30, 2015, 129 Stat. 538.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–58 substituted "provisions of sections" for "provisions of section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

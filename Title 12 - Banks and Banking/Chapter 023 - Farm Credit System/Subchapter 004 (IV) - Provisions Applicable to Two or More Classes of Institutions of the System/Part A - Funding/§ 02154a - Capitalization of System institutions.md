@@ -56,13 +56,13 @@ Subject to approval by shareholders under subsection (c)(2), each bank and assoc
 
 &emsp;&emsp;&emsp;(i) as a condition of borrowing from or through the institution, any borrower who is entitled to hold voting stock or participation certificates shall, at the time a loan is made, acquire voting stock or participation certificates in an amount not less than $1,000 or 2 percent of the amount of the loan, whichever is less; and
 
-&emsp;&emsp;&emsp;(ii) within 2 years after the loan of a borrower is repaid in full, any voting stock held by the borrower be converted to nonvoting stock;
+&emsp;&emsp;&emsp;(ii) within 2 years after the loan of a borrower is repaid in full, any voting stockheld by the borrower be converted to nonvoting stock;
 
 &emsp;&emsp;(F) may provide that persons who are not borrowers from the institution may hold nonvoting stock of the institution;
 
 &emsp;&emsp;(G) shall require that any holder of voting stock issued before the adoption of bylaws under this section exchange a portion of such stock for new voting stock;
 
-&emsp;&emsp;(H) do not need to provide for maximum or minimum standards of borrower stock ownership based on a percentage of the loan ofthe borrower, except as otherwise provided in this section;
+&emsp;&emsp;(H) do not need to provide for maximum or minimum standards of borrower stock ownership based on a percentage of the loan of the borrower, except as otherwise provided in this section;
 
 &emsp;&emsp;(I) shall permit the retirement of stock at the discretion of the institution if the institution meets the capital adequacy standards established under section 2154(a) of this title; and
 
@@ -120,9 +120,11 @@ To the extent that any provision of this section is inconsistent with any other 
 
 (Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, §5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -147,6 +149,8 @@ Subsec. (c)(1)(H). Pub. L. 100–399, §301(d), inserted ", except as otherwise
 Subsec. (c)(1)(I). Pub. L. 100–399, §301(e), struck out "standards issued under" after "established under".
 
 Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out "and in section 2162 of this title" after "paragraph (2)" and "or allocated equities" after "retirement of stock".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

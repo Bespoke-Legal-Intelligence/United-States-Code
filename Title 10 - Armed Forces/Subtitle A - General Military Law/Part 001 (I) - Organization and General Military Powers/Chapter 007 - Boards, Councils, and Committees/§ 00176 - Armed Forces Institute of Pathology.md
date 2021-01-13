@@ -2,7 +2,7 @@
 
 (a)(1) There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology (hereinafter in this section referred to as the "Institute"), which has the responsibilities, functions, authority, and relationships set forth in this section. The Institute shall be a joint entity of the three military departments, subject to the authority, direction, and control of the Secretary of Defense.
 
-(2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors, and a staff of such professional, technical, and clerical personnel as may be required.
+(2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors,and a staff of such professional, technical, and clerical personnel as may be required.
 
 (3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
 

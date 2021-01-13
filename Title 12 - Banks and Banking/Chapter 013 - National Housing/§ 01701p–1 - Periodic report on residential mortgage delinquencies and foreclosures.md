@@ -4,6 +4,8 @@ As soon as practicable following November 30, 1983, the Secretary of Housing and
 
 (Pub. L. 98–181, title I \[title IV, §469\], Nov. 30, 1983, 97 Stat. 1237; Pub. L. 111–203, title III, §372, July 21, 2010, 124 Stat. 1566.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Housing and Urban–Rural Recovery Act of 1983 and also as part of the Domestic Housing and International Recovery and Financial Stability Act, and not as part of the National Housing Act which comprises this chapter.
@@ -11,6 +13,8 @@ Section was enacted as part of the Housing and Urban–Rural Recovery Act of 198
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Federal Housing Finance Agency" for "Federal Home Loan Bank Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

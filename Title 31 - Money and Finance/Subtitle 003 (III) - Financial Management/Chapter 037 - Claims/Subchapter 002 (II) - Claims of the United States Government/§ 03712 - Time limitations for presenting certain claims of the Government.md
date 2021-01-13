@@ -34,7 +34,7 @@ Treasury Check Offset.—
 
 &emsp;(1)
 
-In general.—To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
+In general.—To facilitate collection of amounts owed by presenting banks pursuantto subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
 
 &emsp;(2)
 
@@ -82,11 +82,15 @@ In subsection (c), the words "of the United States" and "allow . . . in" are o
 
 In subsection (d), the words "arising from dual pay" are substituted for "arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation" to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words "including Government owned or controlled corporations" are omitted as unnecessary. The words "or from the government of the District of Columbia" are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–134 added subsec. (e).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–86 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as provided in this subsection, the United States Government must bring a civil action to enforce the liability of an endorser, transferor, depositary, or fiscal agent on a forged or unauthorized signature or endorsement on, or a change in, a check or warrant issued by the Secretary of the Treasury, the United States Postal Service, or a disbursing official or agent within 6 years after the check or warrant is presented to the drawee of the check or warrant for payment unless, within that period, written notice of the claim is given to the endorser, transferor, depositary, or fiscal agent. The period for bringing a civil action or giving notice is extended for 180 days if a claim is received under section 3702(c) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

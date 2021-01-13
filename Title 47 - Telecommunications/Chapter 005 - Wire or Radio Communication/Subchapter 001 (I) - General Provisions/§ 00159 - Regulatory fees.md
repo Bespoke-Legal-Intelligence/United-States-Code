@@ -6,7 +6,7 @@ The Commission shall assess and collect regulatory fees to recover the costs of 
 
 #### (b) Establishment of schedule
 
-The Commission shall assess and collect regulatory fees at such rates as the Commissionshall establish in a schedule of regulatory fees that will result in the collection, in each fiscal year, of an amount that can reasonably be expected to equal the amounts described in subsection (a) with respect to such fiscal year.
+The Commission shall assess and collect regulatory fees at such rates as the Commission shall establish in a schedule of regulatory fees that will result in the collection, in each fiscal year, of an amount that can reasonably be expected to equal the amounts described in subsection (a) with respect to such fiscal year.
 
 #### (c) Adjustment of schedule
 
@@ -54,6 +54,8 @@ In addition to the adjustments required by subsection (c), the Commission shall 
 
 (June 19, 1934, ch. 652, title I, §9, as added Pub. L. 103–66, title VI, §6003(a)(1), Aug. 10, 1993, 107 Stat. 397; amended Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1167; Pub. L. 103–414, title III, §303(a)(5), (6), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 115–141, div. P, title I, §102(b), Mar. 23, 2018, 132 Stat. 1083.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141 amended section generally. Prior to amendment, section related to regulatory fees.
@@ -63,6 +65,8 @@ In addition to the adjustments required by subsection (c), the Commission shall 
 Subsec. (g). Pub. L. 103–414, §303(a)(6), inserted "95" after "(47 C.F.R. Part" in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–121 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

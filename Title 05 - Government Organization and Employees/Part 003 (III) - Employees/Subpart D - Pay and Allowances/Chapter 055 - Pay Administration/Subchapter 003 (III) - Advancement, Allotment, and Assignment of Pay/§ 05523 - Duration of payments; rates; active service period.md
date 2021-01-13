@@ -30,6 +30,8 @@ Sept. 26, 1961, Pub. L. 87–304, §3, 75 Stat. 663.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–138 substituted "agency) whose departure (or that of the employee's dependents or immediate family, as the case may be) is authorized or ordered under section 5522(a); and" for "agency)—
@@ -41,6 +43,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2303(c), in subpar. (A) substituted "whose departure is authorized or ordered under section 5522(a) of this title; and" for "whose evacuation from a place inside or outside the United States is ordered for military or other reasons which create imminent danger to the life of the employee; and", and in subpar. (B) substituted "departure" for "evacuation" after "issuance of the".
 
 Subsec. (b). Pub. L. 96–465, §2303(d), substituted "departure" for "evacuation" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

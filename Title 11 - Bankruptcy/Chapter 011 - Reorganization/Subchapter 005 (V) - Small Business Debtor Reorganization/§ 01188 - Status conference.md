@@ -6,13 +6,15 @@ In General.—Except as provided in subsection (b), not later than 60 days after
 
 (b)
 
-Exception.—The court may extend the period of time for holding a status conference under subsection (a) if the need for an extensionis attributable to circumstances for which the debtor should not justly be held accountable.
+Exception.—The court may extend the period of time for holding a status conference under subsection (a) if the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable.
 
 (c)
 
 Report.—Not later than 14 days before the date of the status conference under subsection (a), the debtor shall file with the court and serve on the trustee and all parties in interest a report that details the efforts the debtor has undertaken and will undertake to attain a consensual plan of reorganization.
 
 (Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1081.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

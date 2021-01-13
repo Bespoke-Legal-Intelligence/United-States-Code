@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—AWARD TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABILITIES
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–378, §2(20), Oct. 2, 1992, 106 Stat. 1348, substituted "OFFICERS" for "OFFICER".

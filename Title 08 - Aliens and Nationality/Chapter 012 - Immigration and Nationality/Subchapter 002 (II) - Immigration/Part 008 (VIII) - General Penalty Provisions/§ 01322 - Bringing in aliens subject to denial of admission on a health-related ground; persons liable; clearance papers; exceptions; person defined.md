@@ -10,6 +10,8 @@
 
 (June 27, 1952, ch. 477, title II, ch. 8, §272, 66 Stat. 226; Pub. L. 89–236, §18, Oct. 3, 1965, 79 Stat. 920; Pub. L. 101–649, title V, §543(a)(9), title VI, §603(a)(15), Nov. 29, 1990, 104 Stat. 5058, 5083; Pub. L. 102–232, title III, §307(l)(7), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 103–416, title II, §219(o), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §308(d)(3)(A), (4)(I)(i), Sept. 30, 1996, 110 Stat. 3009–617, 3009–618.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208, §308(d)(4)(I)(i)(I), amended section catchline.
@@ -28,7 +30,7 @@ Subsec. (a). Pub. L. 101–649, §603(a)(15)(A), substituted "excludable under s
 
 Pub. L. 101–649, §543(a)(9)(A), substituted "Commissioner" for "collector of customs of the customs district in which the place of arrival is located" and "$3,000" for "$1,000".
 
-Subsec. (b). Pub. L. 101–649, §603(a)(15)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "Any person who shall bring to the United States an alien (other than an alien crewman) afflicted with any mental defect other than those enumerated in subsection (a) of this section, or any physical defect of a nature which may affect his ability to earn a living, as provided in section 1182(a)(7) of this title, shall pay to the Commissioner for each and every alien so afflicted, the sum of $3,000, unless (1) the alien was in possession of a valid, unexpired immigrant visa, or (2) the alien was allowed to land in the United States, or (3) the alien was in possession of a valid unexpired nonimmigrant visa or other document authorizing such alien to apply for temporary admission to the United States or an unexpired reentry permit issued to him, and (A) such application was made within one hundred and twenty days of the date of issuance of the visa or other document, or in the case of an alien in possession of a reentry permit, within one hundred and twenty days of the date on which the alien was last examined and admitted by the Service, or (B) in the event the application was made later than one hundred and twenty days of the date of issuance of the visa or other document or such examination and admission, if such person establishes to the satisfaction of the Attorney General that the existence of such disease or disability could not have been detected by the exercise of due diligence prior to the alien's embarkation."
+Subsec. (b). Pub. L. 101–649, §603(a)(15)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "Any person who shall bring to the United States an alien (other than an alien crewman) afflicted with any mental defect other than those enumerated in subsection (a) of this section, or any physical defect of a nature which may affect his ability to earn a living, as provided in section 1182(a)(7) of this title, shall pay to the Commissioner for each and every alien so afflicted, the sum of $3,000, unless (1) the alien was in possession of a valid, unexpired immigrant visa, or (2) the alien was allowed to land in the United States, or (3) the alien was in possession of a valid unexpired nonimmigrant visa or other document authorizing such alien to apply for temporary admission to the United States or an unexpired reentry permit issued to him, and (A) such application was made within one hundred and twenty days of the date of issuance of the visa or other document, or in the case of an alien in possession of a reentry permit, within one hundredand twenty days of the date on which the alien was last examined and admitted by the Service, or (B) in the event the application was made later than one hundred and twenty days of the date of issuance of the visa or other document or such examination and admission, if such person establishes to the satisfaction of the Attorney General that the existence of such disease or disability could not have been detected by the exercise of due diligence prior to the alien's embarkation."
 
 Pub. L. 101–649, §543(a)(9)(B), substituted "Commissioner" for "collector of customs of the customs district in which the place of arrival is located" and "$3,000" for "$250".
 
@@ -39,6 +41,8 @@ Pub. L. 101–649, §543(a)(9)(C), substituted "Commissioner" for "collector of 
 Subsecs. (d), (e). Pub. L. 101–649, §603(a)(15)(C), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted "mentally retarded" for "feeble-minded", struck out references to epileptics and persons afflicted with tuberculosis and leprosy, and inserted reference to persons afflicted with sexual deviation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

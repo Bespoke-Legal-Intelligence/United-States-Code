@@ -4,6 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [1500\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Information%20Sharing/%C2%A7%2001500%20-%20National%20Cyber%20Director.md) | National Cyber Director. |
 | [1501\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Information%20Sharing/%C2%A7%2001501%20-%20Definitions.md) | Definitions. |
 | [1502\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Information%20Sharing/%C2%A7%2001502%20-%20Sharing%20of%20information%20by%20the%20Federal%20Government.md) | Sharing of information by the Federal Government. |
 | [1503\.](Subchapter%20001%20%28I%29%20-%20Cybersecurity%20Information%20Sharing/%C2%A7%2001503%20-%20Authorizations%20for%20preventing%2C%20detecting%2C%20analyzing%2C%20and%20mitigating%20cybersecurity%20threats.md) | Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats. |
@@ -38,6 +39,8 @@
 | [1533\.](Subchapter%20003%20%28III%29%20-%20Other%20Cyber%20Matters/%C2%A7%2001533%20-%20Improving%20cybersecurity%20in%20the%20health%20care%20industry.md) | Improving cybersecurity in the health care industry. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Limitation Relating to Establishment or Support of Cybersecurity Unit With the Russian Federation
 
@@ -83,11 +86,13 @@ Rule of Construction.—This section shall not be construed to affect any existi
 
 \[For definitions of "congressional intelligence committees" and "intelligence community" as used in section 6701 of div. E of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of Title 50, War and National Defense.\]
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13800. Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure
 
 Ex. Ord. No. 13800, May 11, 2017, 82 F.R. 22391, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and to protect American innovation and values, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to protect American innovation and values, it is hereby ordered as follows:
 
 Section 1. <i>Cybersecurity of Federal Networks</i>.
 
@@ -155,7 +160,7 @@ Section 1. <i>Cybersecurity of Federal Networks</i>.
 
 &emsp;(C) The report described in subsection (c)(vi)(B) of this section shall assess the effects of transitioning all agencies, or a subset of agencies, to shared IT services with respect to cybersecurity, including by making recommendations to ensure consistency with \[former\] section 227 \[now 2209\] of the Homeland Security Act (\[former\] 6 U.S.C. 148) \[now 6 U.S.C. 659\] and compliance with policies and practices issued in accordance with section 3553 of title 44, United States Code. All agency heads shall supply such information concerning their current IT architectures and plans as is necessary to complete this report on time.
 
-(vii) For any National Security System, as defined in section 3552(b)(6) of title 44, United States Code, the Secretary of Defense and the Director of National Intelligence, rather than the Secretary of Homeland Security and the Director of OMB, shall implement this order to the maximum extent feasible and appropriate. The Secretary of Defense and the Director of National Intelligence shall provide a report to the Assistant tothe President for National Security Affairs and the Assistant to the President for Homeland Security and Counterterrorism describing their implementation of subsection (c) of this section within 150 days of the date of this order. The report described in this subsection shall include a justification for any deviation from the requirements of subsection (c), and may be classified in full or in part, as appropriate.
+(vii) For any National Security System, as defined in section 3552(b)(6) of title 44, United States Code, the Secretary of Defense and the Director of National Intelligence, rather than the Secretary of Homeland Security and the Director of OMB, shall implement this order to the maximum extent feasible and appropriate. The Secretary of Defense and the Director of National Intelligence shall provide a report to the Assistant to the President for National Security Affairs and the Assistant to the President for Homeland Security and Counterterrorism describing their implementation of subsection (c) of this section within 150 days of the date of this order. The report described in this subsection shall include a justification for any deviation from the requirements of subsection (c), and may be classified in full or in part, as appropriate.
 
 Sec. 2. <i>Cybersecurity of Critical Infrastructure</i>.
 
@@ -165,7 +170,7 @@ Sec. 2. <i>Cybersecurity of Critical Infrastructure</i>.
 
 (i) identify authorities and capabilities that agencies could employ to support the cybersecurity efforts of critical infrastructure entities identified pursuant to section 9 of Executive Order 13636 of February 12, 2013 (Improving Critical Infrastructure Cybersecurity), to be at greatest risk of attacks that could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security (section 9 entities);
 
-(ii) engage section 9 entities and solicit input as appropriate to evaluate whether and how the authorities and capabilities identified pursuant to subsection (b)(i) of this section might be employed to support cybersecurity risk management efforts and any obstacles to doing so;
+(ii) engage section 9 entities and solicit input as appropriate to evaluate whether and how the authorities and capabilities identified pursuant to subsection (b)(i)of this section might be employed to support cybersecurity risk management efforts and any obstacles to doing so;
 
 (iii) provide a report to the President, which may be classified in full or in part, as appropriate, through the Assistant to the President for Homeland Security and Counterterrorism, within 180 days of the date of this order, that includes the following:
 
@@ -199,7 +204,7 @@ Sec. 3. <i>Cybersecurity for the Nation</i>.
 
 (b) <i>Deterrence and Protection</i>. Within 90 days of the date of this order, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Homeland Security, and the United States Trade Representative, in coordination with the Director of National Intelligence, shall jointly submit a report to the President, through the Assistant to the President for National Security Affairs and the Assistant to the President for Homeland Security and Counterterrorism, on the Nation's strategic options for deterring adversaries and better protecting the American people from cyber threats.
 
-(c) <i>International Cooperation</i>. As a highly connected nation, the United States is especially dependent on a globally secure and resilient internet and must work with allies and other partners toward maintaining the policy set forth in this section. Within 45 days of the date of this order, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Homeland Security, in coordination with the Attorney General and the Director of the Federal Bureau of Investigation, shall submit reports to the President on their international cybersecurity priorities, including thoseconcerning investigation, attribution, cyber threat information sharing, response, capacity building, and cooperation. Within 90 days of the submission of the reports, and in coordination with the agency heads listed in this subsection, and any other agency heads as appropriate, the Secretary of State shall provide a report to the President, through the Assistant to the President for Homeland Security and Counterterrorism, documenting an engagement strategy for international cooperation in cybersecurity.
+(c) <i>International Cooperation</i>. As a highly connected nation, the United States is especially dependent on a globally secure and resilient internet and must work with allies and other partners toward maintaining the policy set forth in this section. Within 45 days of the date of this order, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Homeland Security, in coordination with the Attorney General and the Director of the Federal Bureau of Investigation, shall submit reports to the President on their international cybersecurity priorities, including those concerning investigation, attribution, cyber threat information sharing, response, capacity building, and cooperation. Within 90 days of the submission of the reports, and in coordination with the agency heads listed in this subsection, and any other agency heads as appropriate, the Secretary of State shall provide a report to the President, through the Assistant to the President for Homeland Security and Counterterrorism, documenting an engagement strategy for international cooperation in cybersecurity.
 
 (d) <i>Workforce Development</i>. In order to ensure that the United States maintains a long-term cybersecurity advantage:
 
@@ -211,7 +216,7 @@ Sec. 3. <i>Cybersecurity for the Nation</i>.
 
 (ii) The Director of National Intelligence, in consultation with the heads of other agencies identified by the Director of National Intelligence, shall:
 
-&emsp;(A) review the workforce development efforts of potential foreign cyber peers in order to help identify foreign workforce development practices likely to affect long-term United States cybersecurity competitiveness; and
+&emsp;(A) review the workforce development efforts of potential foreign cyber peers in order to help identifyforeign workforce development practices likely to affect long-term United States cybersecurity competitiveness; and
 
 &emsp;(B) within 60 days of the date of this order, provide a report to the President through the Assistant to the President for Homeland Security and Counterterrorism on the findings of the review carried out pursuant to subsection (d)(ii)(A) of this section.
 
@@ -299,7 +304,7 @@ Sec. 2. <i>Strengthening the Federal Cybersecurity Workforce</i>. (a) To grow th
 
 (v) The extent to which agencies, as well as uniformed services, may develop a President's Cup awards program that is consistent with applicable law and regulations governing awards and that allows for the provision of cash awards of not less than $25,000. Any such program shall require the agency to establish an awards program before allowing its employees to participate in the President's Cup Cybersecurity Competition. In addition, any such program may not preclude agencies from recognizing winning and non-winning participants through other means, including honorary awards, informal recognition awards, rating-based cash awards, time-off awards, Quality Step Increases, or other agency-based compensation flexibilities as appropriate and consistent with applicable law; and
 
-(vi) How the uniformed services, as appropriate and consistent with applicable law, may designate servicemembers who win these competitions as having skills at a time when there is a critical shortage of such skills within the uniformed services. The plan should also address how the uniformed services may provide winning service members with a combination of bonuses, advancements, and meritorious recognition to be determined by the Secretaries of the agencies concerned.
+(vi) How the uniformed services, as appropriate and consistent with applicable law, may designate service members who win these competitions as having skills at a time when there is a critical shortage of such skills within the uniformed services. The plan should also address how the uniformed services may provide winning service members with a combination of bonuses, advancements, and meritorious recognition to be determined by the Secretaries of the agencies concerned.
 
 (f) The Director of OMB shall, in consultation with appropriate agencies, develop annually a list of agencies and subdivisions related to cybersecurity that have a primary function of intelligence, counterintelligence, investigative, or national security work, including descriptions of such functions. The Director of OMB shall provide this list to the President, through the Deputy Assistant to the President for Homeland Security and Counterterrorism (DAPHSCT), every year starting September 1, 2019, for consideration of whether those agencies or subdivisions should be exempted from coverage under the Federal Labor-Management Relations Program, consistent with the requirements of section 7103(b)(1) of title 5, United States Code.
 

@@ -4,13 +4,17 @@ After the Secretary of Agriculture has submitted to Congress a regular or formal
 
 (Jan. 19, 1948, ch. 2, §2, 62 Stat. 4; Pub. L. 103–437, §12(d), Nov. 2, 1994, 108 Stat. 4590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Flood Control Act approved June 22, 1936, as amended and supplemented, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted "Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate" for "Committee on Public Works of the House of Representatives or the Committee on Public Works of the Senate".
+<b>1994</b>—Pub. L. 103–437 substituted "Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment andPublic Works of the Senate" for "Committee on Public Works of the House of Representatives or the Committee on Public Works of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -12,13 +12,19 @@ For purposes of this subchapter, the following terms apply:
 
 (Pub. L. 110–53, title XII, §1201, Aug. 3, 2007, 121 Stat. 381.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this title", meaning title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 381, which enacted this subchapter, amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49. For complete classification of title XII to the Code, see Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 110–53, title XIV, §1401, Aug. 3, 2007, 121 Stat. 400, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'National Transit Systems Security Act of 2007'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13416. Strengthening Surface Transportation Security
 
@@ -60,7 +66,7 @@ Sec. 3. <i>Functions of the Secretary of Homeland Security</i>. The Secretary is
 
 (e) develop, implement, and lead a process, in collaboration with other agencies, State, local, and tribal governments, and the private sector, as appropriate, to coordinate research, development, testing, and evaluation of technologies (including alternative uses for commercial off-the-shelf technologies and products) relating to the protection of surface transportation, including—
 
-(i) determining product and technology needs to inform the requirements for and prioritization of research, development, testing, and evaluation, based on the security guidelines and security requirements developed pursuant to subsection (c) of this section andevolving terrorist threats to the security of surface transportation;
+(i) determining product and technology needs to inform the requirements for and prioritization of research, development, testing, and evaluation, based on the security guidelines and security requirements developed pursuant to subsection (c) of this section and evolving terrorist threats to the security of surface transportation;
 
 (ii) collecting information on existing and planned research, development, testing, and evaluation efforts; and
 

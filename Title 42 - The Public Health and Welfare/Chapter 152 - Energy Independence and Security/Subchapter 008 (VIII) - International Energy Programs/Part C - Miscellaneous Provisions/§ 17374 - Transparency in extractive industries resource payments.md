@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 #### (c) Sense of Congress
 
-It is the sense of Congress that the United States should further global energy security andpromote democratic development in resource-rich foreign countries by—
+It is the sense of Congress that the United States should further global energy security and promote democratic development in resource-rich foreign countries by—
 
 &emsp;(1) encouraging further participation in the EITI by eligible countries and companies; and
 

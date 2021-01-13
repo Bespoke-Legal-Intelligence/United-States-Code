@@ -32,7 +32,7 @@
 
 &emsp;(V) obtain information concerning whether such person is a person described in section 1382(e)(4)(A) of this title;
 
-&emsp;(VI) determine whether payment of benefits to such person has been terminated pursuant to subparagraph (A)(iii), whether the designation of such person as a representative payee has been revoked pursuant to section 1007(a) ofthis title, and whether certification of payment of benefits to such person has been revoked pursuant to section 405(j) of this title, by reason of misuse of funds paid as benefits under subchapter II, subchapter VIII, or this subchapter, and
+&emsp;(VI) determine whether payment of benefits to such person has been terminated pursuant to subparagraph (A)(iii), whether the designation of such person as a representative payee has been revoked pursuant to section 1007(a) of this title, and whether certification of payment of benefits to such person has been revoked pursuant to section 405(j) of this title, by reason of misuse of funds paid as benefits under subchapter II, subchapter VIII, or this subchapter, and
 
 &emsp;(VII) determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under clause (xv), or of an attempt or a conspiracy to commit such a felony.
 
@@ -92,7 +92,7 @@
 
 (II) Subclause (I) shall not apply in any case in which the individual or eligible spouse is, as of the date of the Commissioner's determination, legally incompetent, under the age of 15 years, or described in subparagraph (A)(ii)(II).
 
-(x) Payment pursuant to this subparagraph of any benefits which are deferred or suspendedpending the selection of a representative payee shall be made to the individual, or to the representative payee upon such selection, as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interests of the individual entitled to such benefits.
+(x) Payment pursuant to this subparagraph of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the individual, or to the representative payee upon such selection, as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interests of the individual entitled to such benefits.
 
 (xi) Any individual who is dissatisfied with a determination by the Commissioner of Social Security to pay such individual's benefits to a representative payee under this subchapter, or with the designation of a particular person to serve as representative payee, shall be entitled to a hearing by the Commissioner of Social Security, and to judicial review of the Commissioner's final decision, to the same extent as is provided in subsection (c).
 
@@ -166,7 +166,7 @@
 
 &emsp;(bb) is the custodial spouse of the beneficiary for whom the person applies to serve;
 
-&emsp;(cc) is the custodial parent of a beneficiary who is under a disability which began beforethe beneficiary attained the age of 22, for whom the person applies to serve;
+&emsp;(cc) is the custodial parent of a beneficiary who is under a disability which began before the beneficiary attained the age of 22, for whom the person applies to serve;
 
 &emsp;(dd) is the custodial court appointed guardian of the beneficiary for whom the person applies to serve;
 
@@ -184,7 +184,7 @@
 
 (iv)(I) Clause (i) shall not apply in any case where the representative payee is—
 
-&emsp;(aa) a parent, or other individual who is a legal guardian of, a minor child entitled to such payment who primarily resides in the same household;
+&emsp;(aa) a parent, or other individual who is a legal guardian of, a minor child entitled tosuch payment who primarily resides in the same household;
 
 &emsp;(bb) a parent of an individual entitled to such payment who is under a disability who primarily resides in the same household; or
 
@@ -214,7 +214,7 @@
 
 (iii) Any qualified organization which knowingly charges or collects, directly or indirectly, any fee in excess of the maximum fee prescribed under clause (i) or makes any agreement, directly or indirectly, to charge or collect any fee in excess of such maximum fee, shall be fined in accordance with title 18, or imprisoned not more than 6 months, or both.
 
-(iv) In the case of an individual who is no longer eligible for benefits under this subchapterbut to whom any amount of past-due benefits under this subchapter has not been paid, for purposes of clause (i), any amount of such past-due benefits payable in any month shall be treated as a monthly benefit referred to in clause (i)(I).
+(iv) In the case of an individual who is no longer eligible for benefits under this subchapter but to whom any amount of past-due benefits under this subchapter has not been paid, for purposes of clause (i), any amount of such past-due benefits payable in any month shall be treated as a monthly benefit referred to in clause (i)(I).
 
 (E)
 
@@ -226,7 +226,7 @@ Restitution.—In cases where the negligent failure of the Commissioner of Socia
 
 > misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this subparagraph are subject to the limitations of subparagraph (H)(ii). The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
-(F)(i)(I) Each representative payee of an eligible individual under the age of 18 who is eligible for the payment of benefits described in subclause (II) shall establish on behalf of such individual an account in a financial institution into which such benefits shall be paid, and shall thereafter maintain such account for use in accordance with clause (ii).
+(F)(i)(I) Each representative payee of an eligible individual under the age of 18 who is eligible for the payment of benefits described in subclause (II) shall establish on behalf of such individual an account in a financial institution into which such benefits shall be paid, and shallthereafter maintain such account for use in accordance with clause (ii).
 
 (II) Benefits described in this subclause are past-due monthly benefits under this subchapter (which, for purposes of this subclause, include State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e of this title or section 212(b) of Public Law 93–66) in an amount (after any withholding by the Commissioner for reimbursement to a State for interim assistance under subsection (g) and payment of attorney fees under subsection (d)(2)(B)) that exceeds the product of—
 
@@ -404,7 +404,7 @@ Restitution.—In cases where the negligent failure of the Commissioner of Socia
 
 (4) If any overpayment with respect to an individual (or an individual and his or her spouse) is attributable solely to the ownership or possession by such individual (and spouse if any) of resources having a value which exceeds the applicable dollar figure specified in paragraph (1)(B) or (2)(B) of section 1382(a) of this title by $50 or less, such individual (and spouse if any) shall be deemed for purposes of the second sentence of paragraph (1) to have been without fault in connection with the overpayment, and no adjustment or recovery shall be made under the first sentence of such paragraph, unless the Commissioner of Social Security finds that the failure of such individual (and spouse if any) to report such value correctly and in a timely manner was knowing and willful.
 
-(5)(A) With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
+(5)(A) With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
 
 (B) For purposes of subparagraph (A), the term "delinquent amount" means an amount—
 
@@ -432,7 +432,7 @@ Restitution.—In cases where the negligent failure of the Commissioner of Socia
 
 (1)(A) The Commissioner of Social Security is directed to make findings of fact, and decisions as to the rights of any individual applying for payment under this subchapter. Any such decision by the Commissioner of Social Security which involves a determination of disability and which is in whole or in part unfavorable to such individual shall contain a statement of the case, in understandable language, setting forth a discussion of the evidence, and stating the Commissioner's determination and the reason or reasons upon which it is based. The Commissioner of Social Security shall provide reasonable notice and opportunity for a hearing to any individual who is or claims to be an eligible individual or eligible spouse and is in disagreement with any determination under this subchapter with respect to eligibility of such individual for benefits, or the amount of such individual's benefits, if such individual requests a hearing on the matter in disagreement within sixty days after notice of such determination is received, and, if a hearing is held, shall, on the basis of evidence adduced at the hearing affirm, modify, or reverse the Commissioner's findings of fact and such decision. The Commissioner of Social Security is further authorized, on the Commissioner's own motion, to hold such hearings and to conduct such investigations and other proceedings as the Commissioner may deem necessary or proper for the administration of this subchapter. In the course of any hearing, investigation, or other proceeding, the Commissioner may administer oaths and affirmations, examine witnesses, and receive evidence. Evidence may be received at any hearing before the Commissioner of Social Security even though inadmissible under the rules of evidence applicable to court procedure. The Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation of such individual (including any lack of facility with the English language) in determining, with respect to the eligibility of such individual for benefits under this subchapter, whether such individual acted in good faith or was at fault, and in determining fraud, deception, or intent.
 
-(B)(i) A failure to timely request review of an initial adverse determination with respect to an application for any payment under this subchapter or an adverse determination on reconsideration of such an initial determination shall not serve as a basis for denial of a subsequentapplication for any payment under this subchapter if the applicant demonstrates that the applicant, or any other individual referred to in subparagraph (A), failed to so request such a review acting in good faith reliance upon incorrect, incomplete, or misleading information, relating to the consequences of reapplying for payments in lieu of seeking review of an adverse determination, provided by any officer or employee of the Social Security Administration or any State agency acting under section 421 of this title.
+(B)(i) A failure to timely request review of an initial adverse determination with respect to an application for any payment under this subchapter or an adverse determination on reconsideration of such an initial determination shall not serve as a basis for denial of a subsequent application for any payment under this subchapter if the applicant demonstrates that the applicant, or any other individual referred to in subparagraph (A), failed to so request such a review acting in good faith reliance upon incorrect, incomplete, or misleading information, relating to the consequences of reapplying for payments in lieu of seeking review of an adverse determination, provided by any officer or employee of the Social Security Administration or any State agency acting under section 421 of this title.
 
 (ii) In any notice of an adverse determination with respect to which a review may be requested under subparagraph (A), the Commissioner of Social Security shall describe in clear and specific language the effect on possible eligibility to receive payments under this subchapter of choosing to reapply in lieu of requesting review of the determination.
 
@@ -482,7 +482,7 @@ Restitution.—In cases where the negligent failure of the Commissioner of Socia
 
 (vi) The assessments authorized under this subparagraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended, for administrative expenses in carrying out this subchapter and related laws.
 
-(D) The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
+(D) The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise theclaimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
 
 #### (e) Administrative requirements prescribed by Commissioner; criteria; reduction of benefits to individual for noncompliance with requirements; payment to homeless
 
@@ -560,7 +560,7 @@ Restitution.—In cases where the negligent failure of the Commissioner of Socia
 
 &emsp;(B) the date on which such individual met all requirements for entitlement to such benefits (other than application therefor).
 
-(6) In any case in which an individual visits a field office of the Social Security Administration and represents during the visit to an officeror employee of the Social Security Administration in the office that the individual's visit is occasioned by—
+(6) In any case in which an individual visits a field office of the Social Security Administration and represents during the visit to an officer or employee of the Social Security Administration in the office that the individual's visit is occasioned by—
 
 &emsp;(A) the receipt of a notice from the Social Security Administration indicating a time limit for response by the individual, or
 
@@ -598,7 +598,7 @@ The head of any Federal agency shall provide such information as the Commissione
 
 (2) For purposes of this subsection, the term "benefits" with respect to any individual means supplemental security income benefits under this subchapter, and any State supplementary payments under section 1382e of this title or under section 212 of Public Law 93–66 which the Commissioner of Social Security makes on behalf of a State (or political subdivision thereof), that the Commissioner of Social Security has determined to be due with respect to the individual at the time the Commissioner of Social Security makes the first payment of benefits with respect to the period described in clause (A) or (B) of paragraph (3). A cash advance made pursuant to subsection (a)(4)(A) shall not be considered as the first payment of benefits for purposes of the preceding sentence.
 
-(3) For purposes of this subsection, the term "interim assistance" with respect to any individual means assistance financed from State or local funds and furnished for meeting basic needs (A) during the period, beginning with the month following the month in which the individual filed an application for benefits (as defined in paragraph (2)), for which he was eligible for such benefits, or (B) during the period beginning with the first month for which the individual's benefits (as defined in paragraph (2)) havebeen terminated or suspended if the individual was subsequently found to have been eligible for such benefits.
+(3) For purposes of this subsection, the term "interim assistance" with respect to any individual means assistance financed from State or local funds and furnished for meeting basic needs (A) during the period, beginning with the month following the month in which the individual filed an application for benefits (as defined in paragraph (2)), for which he was eligible for such benefits, or (B) during the period beginning with the first month for which the individual's benefits (as defined in paragraph (2)) have been terminated or suspended if the individual was subsequently found to have been eligible for such benefits.
 
 (4) In order for a State to receive reimbursement under the provisions of paragraph (1), the State shall have in effect an agreement with the Commissioner of Social Security which shall provide—
 
@@ -632,7 +632,7 @@ The Commissioner of Social Security shall pay travel expenses, either on an actu
 
 > may not thereafter become eligible for benefits under or pursuant to either such section until the individual has reapplied for benefits under section 1382 of this title and been determined to be eligible for benefits under such section, or has filed a request for reinstatement of eligibility under subsection (p)(2) and been determined to be eligible for reinstatement.
 
-(2)(A) Notwithstanding any provision of section 1382 of this title or section 1382h of thistitle (other than subsection (c) thereof), any individual who was eligible for benefits pursuant to section 1382h(b) of this title, and who—
+(2)(A) Notwithstanding any provision of section 1382 of this title or section 1382h of this title (other than subsection (c) thereof), any individual who was eligible for benefits pursuant to section 1382h(b) of this title, and who—
 
 &emsp;(i)(I) on the basis of the same impairment on which his or her eligibility under such section 1382h(b) of this title was based becomes eligible (other than pursuant to a request for reinstatement under subsection (p)) for benefits under section 1382 or 1382h(a) of this title for a month that follows a period during which the individual was ineligible for benefits under sections 1382 and 1382h(a) of this title, and
 
@@ -640,7 +640,7 @@ The Commissioner of Social Security shall pay travel expenses, either on an actu
 
 &emsp;(ii)(I) on the basis of the same impairment on which his or her eligibility under such section 1382h(b) of this title was based becomes eligible under section 1382h(b) of this title for a month that follows a period during which the individual was ineligible under section 1382 of this title and section 1382h of this title, and
 
-&emsp;(II) has earned income (other than income excluded pursuant to section 1382a(b) of this title) for such month or for any month in the 12-month period preceding such month that is equal to or in excess of the amount that would cause him or her to be ineligible for payments under section 1382(b) of this title for that month (if he or she were otherwise eligible for such payments);
+&emsp;(II) has earned income (other than income excluded pursuant to section 1382a(b) of this title) for such month or for any month in the 12-month period preceding such month that is equal to or in excess of the amount that would cause him or her to be ineligible for paymentsunder section 1382(b) of this title for that month (if he or she were otherwise eligible for such payments);
 
 > shall, upon becoming eligible (as described in clause (i)(I) or (ii)(I)), be subject to a prompt review of the type described in section 1382c(a)(4) of this title.
 
@@ -690,7 +690,7 @@ The Commissioner of Social Security shall take such actions as are necessary to 
 
 &emsp;&emsp;(II) the individual thereafter was ineligible for such benefits due to earned income (or earned and unearned income) for a period of 12 or more consecutive months;
 
-&emsp;(ii) the individual is blind or disabled and the physical or mental impairment that is the basis for the finding of blindness or disability is the same as (or related to) the physical or mental impairment that was the basis for the finding of blindness or disability that gave rise to the eligibility described in clause (i);
+&emsp;(ii) the individual is blind or disabled and the physical or mental impairment that is thebasis for the finding of blindness or disability is the same as (or related to) the physical or mental impairment that was the basis for the finding of blindness or disability that gave rise to the eligibility described in clause (i);
 
 &emsp;(iii) the individual's blindness or disability renders the individual unable to perform substantial gainful activity; and
 
@@ -902,7 +902,7 @@ Subsec. (a)(2)(B)(vii). Pub. L. 104–121, §105(b)(2)(B), substituted "describe
 
 Subsec. (a)(2)(B)(ix)(II). Pub. L. 104–121, §105(b)(2)(C), substituted "described in subparagraph (A)(ii)(II)." for "(if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled) is eligible for benefits under this subchapter by reason of disability."
 
-Subsec. (a)(2)(D)(i)(II). Pub. L. 104–121, §105(b)(2)(D), substituted "described in subparagraph (A)(ii)(II)" for"eligible for benefits under this subchapter by reason of disability and alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled".
+Subsec. (a)(2)(D)(i)(II). Pub. L. 104–121, §105(b)(2)(D), substituted "described in subparagraph (A)(ii)(II)" for "eligible for benefits under this subchapter by reason of disability and alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled".
 
 Subsec. (a)(2)(F) to (H). Pub. L. 104–193, §213(a), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
@@ -922,7 +922,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 103–296, §201(b)(1)(A)(i), designated existing
 
 Pub. L. 103–296, §107(a)(4), in cl. (ii) as amended by Pub. L. 103–296, §201(b)(1)(A)(i), substituted "Commissioner of Social Security" for "Secretary" wherever appearing and "Commissioner's" for "Secretary's" in two places in subcl. (II).
 
-Subsec. (a)(2)(A)(iii). Pub. L. 103–296, §201(b)(1)(A)(ii), substituted "to an alternative representative payee of the individual or eligible spouse or, if the interest of the individual under this subchapter would be served thereby, to the individual or eligible spouse" for "to the individual or eligible spouse or to an alternative representative payee of the individual or eligible spouse".
+Subsec. (a)(2)(A)(iii). Pub. L. 103–296, §201(b)(1)(A)(ii), substituted "to an alternative representative payee of the individual or eligible spouse or, if the interest of the individual under this subchapter would be served thereby, to the individual or eligible spouse" for "tothe individual or eligible spouse or to an alternative representative payee of the individual or eligible spouse".
 
 Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" in two places.
 
@@ -1134,7 +1134,7 @@ Subsec. (j). Pub. L. 99–570, §11006, added subsec. (j) relating to pre-releas
 
 Pub. L. 99–643, §4(c)(1)(B), added subsec. (j) relating to application and review requirements for certain individuals.
 
-Subsec. (j)(2)(A). Pub. L. 99–643, §4(d)(3)(B), in subsec. (j) relating to application and review requirements,substituted "section 1382c(a)(4) of this title" for "section 1382c(a)(5) of this title" in closing provisions.
+Subsec. (j)(2)(A). Pub. L. 99–643, §4(d)(3)(B), in subsec. (j) relating to application and review requirements, substituted "section 1382c(a)(4) of this title" for "section 1382c(a)(5) of this title" in closing provisions.
 
 Subsec. (k). Pub. L. 99–643, §5, added subsec. (k).
 
@@ -1222,7 +1222,7 @@ Amendment by section 101(c)(1), (3) of Pub. L. 108–203 applicable to any case 
 
 Amendment by section 102(a)(2) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 102(a)(3) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
-Amendment by section 103(c) of Pub. L. 108–203 effective on the first day of the thirteenth month beginningafter Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+Amendment by section 103(c) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 Amendment by section 104(b) of Pub. L. 108–203 applicable to any month involving benefit misuse by a representative payee in any case with respect to which the Commissioner of Social Security or a court of competent jurisdiction makes the determination of misuse after 180 days after Mar. 2, 2004, see section 104(c) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
@@ -1234,7 +1234,7 @@ Amendment by section 210(b)(4) of Pub. L. 108–203 effective Mar. 2, 2004, and 
 
 Pub. L. 108–203, title III, §302(c), Mar. 2, 2004, 118 Stat. 521, as amended by Pub. L. 111–142, §2(a)(2), Feb. 27, 2010, 124 Stat. 38, provided that:
 
-"The amendments made by this section \[amending this section\] shall apply with respect to fees for representation of claimants which are first required to be paid under section 1631(d)(2) of the Social Security Act \[42 U.S.C. 1383(d)(2)\] on or after the date of the submission by the Commissioner of Social Security to each House of Congress pursuant to section 303(d) of this Act \[set out as a note under section 406 of this title\] of written notice of completion of full implementation of the requirements for operation of the demonstration project under section 303 of this Act \[set out as a note under section 406 of this title\]."
+"The amendments made by this section \[amending this section\] shall apply with respect to fees for representation of claimants which are first required to be paid under section 1631(d)(2) of the Social Security Act \[42 U.S.C. 1383(d)(2)\] on or after the date of the submission by the Commissioner of Social Security to each House of Congress pursuant to section 303(d) of this Act \[set out as a note under section 406 of this title\] of written notice of completion of full implementation of the requirements for operation of the demonstrationproject under section 303 of this Act \[set out as a note under section 406 of this title\]."
 
 #### Effective Date of 1999 Amendments
 
@@ -1380,7 +1380,7 @@ Amendment by section 501(c) of Pub. L. 96–265 applicable in the case of paymen
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–569, §4(b), Oct. 20, 1976, 90 Stat. 2700, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to months after the month following the month in which this Act is enacted \[October 1976\]."
+Pub. L. 94–569, §4(b), Oct. 20, 1976, 90 Stat. 2700, provided that: "The amendments made by this section\[amending this section\] shall apply with respect to months after the month following the month in which this Act is enacted \[October 1976\]."
 
 Amendment by sections 1 and 2 of Pub. L. 94–202 effective Jan. 2, 1976, with the amendment by section 2 of Pub. L. 94–202, to the extent that it changes the period within which a hearing must be requested, applicable to any decision or determination which is received on or after Jan. 2, 1976, see section 5 of Pub. L. 94–202, set out as a note under section 405 of this title.
 
@@ -1454,7 +1454,7 @@ Scope of Projects.—Projects for which grants are made under this section shall
 
 &emsp;"(1) the creation of cooperative approaches between the Social Security Administration, State and local governments, shelters for the homeless, and other providers of services to the homeless;
 
-&emsp;"(2) the establishment, where appropriate, of multi-agency SSI Outreach Teams (as described in subsection (c)), to facilitate communication between theagencies and staff involved in taking and processing claims for SSI and other benefits by the homeless who use shelters;
+&emsp;"(2) the establishment, where appropriate, of multi-agency SSI Outreach Teams (as described in subsection (c)), to facilitate communication between the agencies and staff involved in taking and processing claims for SSI and other benefits by the homeless who use shelters;
 
 &emsp;"(3) special efforts to identify homeless individuals who are potentially eligible for SSI or other benefits under the Social Security Act \[this chapter\];
 
@@ -1516,11 +1516,11 @@ Pub. L. 94–202, §3, Jan. 2, 1976, 89 Stat. 1135, provided that: "The persons 
 
 #### Presumptive Disability Benefits; Time Extension
 
-Pub. L. 93–256, §1, Mar. 28, 1974, 88 Stat. 52, provided: "That any individual who would be considered disabled under section 1614(a)(3)(E) of the Social Security Act\[section 1382c(a)(3)(E) of this title\] except that he did not receive aid under the appropriate State plan for at least one month prior to July 1973 may be considered to be presumptively disabled under section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] and may be paid supplemental security income benefits under title XVI of that Act \[this subchapter\] on the basis of such presumptive disability, and State supplementary payments under section 212 of Public Law 93–66 \[set out as a note under section 1382 of this title\] as though he had been determined to be disabled within the meaning of section 1614(a)(3) of the Social Security Act \[section 1382c(a)(3) of this title\], for any month in calendar year 1974 for which it has been determined that he is otherwise eligible for such benefits, without regard to the three-month limitation in section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] on the period for which benefits may be paid to presumptively disabled individuals, except that no such benefits may be paid on the basis of such presumptive disability for any month after the month in which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has made a determination as to whether such individual is disabled, as defined in section 1614(a)(3)(A) of that Act \[section 1382c(a)(3)(A) of this title\]."
+Pub. L. 93–256, §1, Mar. 28, 1974, 88 Stat. 52, provided: "That any individual who would be considered disabled under section 1614(a)(3)(E) of the Social Security Act \[section 1382c(a)(3)(E) of this title\] except that he did not receive aid under the appropriate State plan for at least one month prior to July 1973 may be considered to be presumptively disabled under section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] and may be paid supplemental security income benefits under title XVI of that Act \[this subchapter\] on the basis of such presumptive disability, and State supplementary payments under section 212 of Public Law 93–66 \[set out as a note under section 1382 of this title\] as though he had been determined to be disabled within the meaning of section 1614(a)(3) of the Social Security Act \[section 1382c(a)(3) of this title\], for any month in calendar year 1974 for which it has been determined that he is otherwise eligible for such benefits, without regard to the three-month limitation in section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] on the period for which benefits may be paid to presumptively disabled individuals, except that no such benefits may be paid on the basis of such presumptive disability for any month after the month in which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has made a determination as to whether such individual is disabled, as defined in section 1614(a)(3)(A) of that Act \[section 1382c(a)(3)(A) of this title\]."
 
 #### Application to Northern Mariana Islands
 
-For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
+For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States ofAmerica and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
 
 #### Puerto Rico, Guam, and Virgin Islands
 
@@ -1562,7 +1562,7 @@ As enacted by Pub. L. 92–603, title XVI of the Social Security Act, which did 
 
 Pub. L. 95–216, title IV, §405, Dec. 20, 1977, 91 Stat. 1564, provided that:
 
-"(a) Notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] is authorized and directed to pay to each State an amount equal to the amountexpended by such State for erroneous supplementary payments to aged, blind, or disabled individuals whenever, and to the extent to which, the Secretary through an audit by the Department of Health, Education, and Welfare \[now Health and Human Services\] which has been reviewed and concurred in by the Inspector General of such department determines that—
+"(a) Notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] is authorized and directed to pay to each State an amount equal to the amount expended by such State for erroneous supplementary payments to aged, blind, or disabled individuals whenever, and to the extent to which, the Secretary through an audit by the Department of Health, Education, and Welfare \[now Health and Human Services\] which has been reviewed and concurred in by the Inspector General of such department determines that—
 
 &emsp;"(1) such amount was paid by such State as a supplementary payment during the calendar year 1974 pursuant to an agreement between the State and the Secretary required by section 212 of the Act entitled 'An Act to extend the Renegotiation Act of 1951 for one year, and for other purposes', approved July 9, 1973, \[set out as a note under section 1382 of this title\], or such amount was paid by such State as an optional State supplementation, as defined in section 1616 of the Social Security Act \[42 U.S.C. 1382\], during the calendar year 1974,
 

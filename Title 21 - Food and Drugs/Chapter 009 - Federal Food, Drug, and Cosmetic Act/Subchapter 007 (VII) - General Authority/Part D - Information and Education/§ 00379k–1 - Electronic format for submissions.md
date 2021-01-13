@@ -54,9 +54,13 @@
 
 (June 25, 1938, ch. 675, §745A, as added Pub. L. 112–144, title XI, §1136, July 9, 2012, 126 Stat. 1123; amended Pub. L. 115–52, title II, §207, Aug. 18, 2017, 131 Stat. 1019.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–52 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

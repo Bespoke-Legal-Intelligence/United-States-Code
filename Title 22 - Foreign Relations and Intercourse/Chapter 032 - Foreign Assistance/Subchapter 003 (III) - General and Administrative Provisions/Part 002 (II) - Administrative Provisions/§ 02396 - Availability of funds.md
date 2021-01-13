@@ -24,7 +24,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of careand disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -50,7 +50,7 @@ Not to exceed $2,500,000 of the funds available for assistance under this chapte
 
 #### (e) Training costs
 
-Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>1</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>1</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>1</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
+Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>1</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>1</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>1</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by anytrainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
 
 #### (f) Assistance in carrying out functions under certain laws
 
@@ -76,6 +76,8 @@ Notwithstanding section 2399a <sup>1</sup> of this title or any other provision
 
 (Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (e), (h), and (i), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -90,19 +92,11 @@ Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to t
 
 The Food for Peace Act, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
-The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1942 of this title and Tables.
+The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1942 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (g), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 Section 2399a of this title, referred to in subsec. (i), was repealed by Pub. L. 90–629, ch. 4, §45(a), Oct. 22, 1968, 82 Stat. 1327. See section 2753(a)(1) of this title.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-
-References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Codification
 
@@ -160,9 +154,15 @@ Subsec. (f). Pub. L. 89–171, §302(h)(2), substituted "Latin American Developm
 
 <b>1963</b>—Subsec. (h). Pub. L. 88–205 added subsec. (h).
 
-#### Change of Name
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of the National Oceanic and Atmospheric Administration, see 1970 Reorg Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -179,6 +179,12 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Change of Name
+
+Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of the National Oceanic and Atmospheric Administration, see 1970 Reorg Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

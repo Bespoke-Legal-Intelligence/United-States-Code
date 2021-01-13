@@ -48,7 +48,7 @@ In general.—For the purpose of section 3515(c) of title 31, the Fund shall be 
 
 &emsp;&emsp;&emsp;(II)
 
-Components of audit.—The annual audit required in accordance with sections 3515 and 3521 of title 31 of the financial statements of activities carried out using amounts from the Fund shall include an analysis of—
+Components of audit.—The annual audit required in accordance with sections3515 and 3521 of title 31 of the financial statements of activities carried out using amounts from the Fund shall include an analysis of—
 
 &emsp;&emsp;&emsp;&emsp;(aa) the fees collected and amounts disbursed under this subsection;
 
@@ -162,7 +162,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, to the extent that 
 
 &emsp;(2) the extent to which the information is relevant for the Administrator's use in making a decision about a chemical substance or mixture;
 
-&emsp;(3) the degree of clarity and completeness with which the data, assumptions, methods, quality assurance, and analyses employed to generate the information are documented;
+&emsp;(3) the degree of clarity and completeness with which the data, assumptions, methods,quality assurance, and analyses employed to generate the information are documented;
 
 &emsp;(4) the extent to which the variability and uncertainty in the information, or in the procedures, measures, methods, protocols, methodologies, or models, are evaluated and characterized; and
 

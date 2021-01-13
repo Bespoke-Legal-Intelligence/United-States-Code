@@ -4,13 +4,15 @@
 
 #### (b) Standard appropriation classification schedule
 
-The Committees on Appropriations of the two Houses <sup>1</sup> are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly definein concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
+The Committees on Appropriations of the two Houses <sup>1</sup> are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
 
 #### (c) Nonconsideration if a provision reappropriates unexpended balances
 
 No general appropriation bill or amendment thereto shall be received or considered in either House <sup>1</sup> if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
 
 (Aug. 2, 1946, ch. 753, title I, §139(a), (b), (c), 60 Stat. 833; Pub. L. 91–510, title I, §108(d), Oct. 26, 1970, 84 Stat. 1149.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -19,6 +21,8 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 #### Amendments
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

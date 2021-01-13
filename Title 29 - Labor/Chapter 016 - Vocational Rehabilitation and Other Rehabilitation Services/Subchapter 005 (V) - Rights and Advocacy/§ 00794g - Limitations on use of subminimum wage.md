@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No entity, including a contractor or subcontractor of the entity, which holds a special wage certificate as described in section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C.214(c)) may compensate an individual with a disability who is age 24 or younger at a wage (referred to in this section as a "subminimum wage") that is less than the Federal minimum wage unless 1 of the following conditions is met:
+No entity, including a contractor or subcontractor of the entity, which holds a special wage certificate as described in section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) may compensate an individual with a disability who is age 24 or younger at a wage (referred to in this section as a "subminimum wage") that is less than the Federal minimum wage unless 1 of the following conditions is met:
 
 &emsp;(1) The individual is currently employed, as of the effective date of this section, by an entity that holds a valid certificate pursuant to section 14(c) of the Fair Labor Standards Act of 1938.
 
@@ -86,7 +86,7 @@ No entity, including a contractor or subcontractor of the entity, which holds a 
 
 #### (1) Before employment
 
-&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described in subsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
+&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described insubsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
 
 #### (2) During employment
 
@@ -104,6 +104,8 @@ In this section, the term "Federal minimum wage" means the rate applicable under
 
 (Pub. L. 93–112, title V, §511, as added Pub. L. 113–128, title IV, §458(a), July 22, 2014, 128 Stat. 1676; amended Pub. L. 114–95, title IX, §9215(mmm)(4)(A), Dec. 10, 2015, 129 Stat. 2188.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below.
@@ -117,6 +119,8 @@ The effective date of this Act, referred to in subsec. (b)(3), may mean the effe
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

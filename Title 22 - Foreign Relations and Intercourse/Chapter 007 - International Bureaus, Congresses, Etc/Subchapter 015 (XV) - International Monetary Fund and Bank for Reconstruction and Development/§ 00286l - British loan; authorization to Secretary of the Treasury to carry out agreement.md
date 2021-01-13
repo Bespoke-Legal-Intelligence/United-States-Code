@@ -1,8 +1,10 @@
 ### §286<i>l</i>. British loan; authorization to Secretary of the Treasury to carry out agreement
 
-The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States and the United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
+The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States andthe United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
 
 (July 15, 1946, ch. 577, §1, 60 Stat. 535; Pub. L. 85–21, Apr. 20, 1957, 71 Stat. 17.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -16,9 +18,7 @@ Section was not enacted as a part of act July 31, 1945, ch. 339, 59 Stat. 512, k
 
 <b>1957</b>—Pub. L. 85–21 inserted ", and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved".
 
-#### Delegation of Functions
-
-Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under section 286b of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purposes
 
@@ -27,6 +27,12 @@ Act July 15, 1946, ch. 577, 60 Stat. 535, provided that:
 "Whereas in the Bretton Woods Agreements Act \[this subchapter\] the Congress has declared it to be the policy of the United States 'to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations'; and
 
 "Whereas in further implementation of the purposes of the Bretton Woods Agreements, the Governments of the United States and the United Kingdom have negotiated an agreement dated December 6, 1945, designed to expedite the achievement of stable and orderly exchange arrangements, the prompt elimination of exchange restrictions and discriminations, and other objectives of the above-mentioned policy declared by the Congress."
+
+#### <b>Executive Documents and International Agreements</b>
+
+#### Delegation of Functions
+
+Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under section 286b of this title.
 
 #### Financial Agreement Between the Governments of the United States and the United Kingdom
 
@@ -58,7 +64,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 6\. Relation of this line of credit to other obligations. The Government of the United Kingdom undertakes not to defer an installment under Section 5 of this Agreement in any year, unless it also defers the installment due in that year under the Financial Agreement between the Government of Canada and the Government of the United Kingdom, dated March 6, 1946. \[Amended Mar. 6, 1957, eff. Apr. 25, 1957.\]
 
-7\. Sterling area exchange arrangements: The Government of the United Kingdom will complete arrangements as early as practicable and in any case not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, under which immediately after the completion of such arrangements the sterling receipts from current transactions of all sterling area countries (apart from any receipts arising out of military expenditure by the Government of the United Kingdom prior to December 31, 1948, to the extent to which they are treated by agreement with the countries concerned on the same basis as the balances accumulated during the war) will be freely available for current transactions in any currency area without discrimination; with the result that any discrimination arising from the so-called sterling area dollar pool will be entirely removed and that each member of the sterling area will have its current sterling and dollar receipts at its free disposition for current transactions anywhere.
+7\. Sterling area exchange arrangements: The Government of the United Kingdom will complete arrangements as early as practicable and in any case not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, under which immediately after the completion of such arrangements the sterling receipts from current transactions of all sterling area countries (apart from any receipts arising out of military expenditure by the Government of the UnitedKingdom prior to December 31, 1948, to the extent to which they are treated by agreement with the countries concerned on the same basis as the balances accumulated during the war) will be freely available for current transactions in any currency area without discrimination; with the result that any discrimination arising from the so-called sterling area dollar pool will be entirely removed and that each member of the sterling area will have its current sterling and dollar receipts at its free disposition for current transactions anywhere.
 
 8\. Other exchange arrangements:
 
@@ -74,7 +80,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 (iii) This section and section 9, which are in anticipation of more comprehensive arrangements by multilateral agreement, shall operate until December 31, 1951.
 
-9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing,for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall become effective as soon as practicable but not later than December 31, 1946.
+9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing, for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall become effective as soon as practicable but not later than December 31, 1946.
 
 10\. Accumulated sterling balances:
 

@@ -6,9 +6,13 @@
 
 (Pub. L. 91–173, title V, §512, Dec. 30, 1969, 83 Stat. 804; Pub. L. 95–164, title III, §303(g), Nov. 9, 1977, 91 Stat. 1321.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–164 inserted reference to mines other than coal mines.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

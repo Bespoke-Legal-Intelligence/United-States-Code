@@ -8,7 +8,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (1) In general
 
-&emsp;(A) A cable operator of a cable system with 12 or fewer usable activated channels shall carry the signals of at least three local commercial television stations, except that if such a system has 300 or fewer subscribers, it shall not be subject to any requirements under this section so long as such system does not delete from carriage by that system any signal of a broadcast television station.
+&emsp;(A) A cable operator of a cable system with 12 or fewer usable activated channels shall carry the signals of at least three local commercial television stations, except that if such a system has 300 or fewer subscribers, it shallnot be subject to any requirements under this section so long as such system does not delete from carriage by that system any signal of a broadcast television station.
 
 &emsp;(B) A cable operator of a cable system with more than 12 usable activated channels shall carry the signals of local commercial television stations, up to one-third of the aggregate number of usable activated channels of such system.
 
@@ -98,7 +98,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 No cable operator shall be required—
 
-&emsp;(1) to provide or make available any input selector switch as defined in section 76.5(mm)of title 47, Code of Federal Regulations, or any comparable device; or
+&emsp;(1) to provide or make available any input selector switch as defined in section 76.5(mm) of title 47, Code of Federal Regulations, or any comparable device; or
 
 &emsp;(2) to provide information to subscribers about input selector switches or comparable devices.
 
@@ -174,6 +174,8 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 (June 19, 1934, ch. 652, title VI, §614, as added Pub. L. 102–385, §4, Oct. 5, 1992, 106 Stat. 1471; amended Pub. L. 104–104, title III, §301(d)(1), Feb. 8, 1996, 110 Stat. 116; Pub. L. 113–200, title I, §§102(b), 105(a), Dec. 4, 2014, 128 Stat. 2061, 2063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (g)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
@@ -197,6 +199,8 @@ Subsec. (h)(1)(C)(iv). Pub. L. 113–200, §102(b)(2), realigned margins.
 <b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted "by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns," for "in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,".
 
 Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

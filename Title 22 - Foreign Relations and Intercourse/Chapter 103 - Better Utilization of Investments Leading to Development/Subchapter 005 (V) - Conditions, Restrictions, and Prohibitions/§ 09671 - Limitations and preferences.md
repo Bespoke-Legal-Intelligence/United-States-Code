@@ -72,7 +72,7 @@ In utilizing its authorities under subchapter II of this chapter, the Corporatio
 
 #### (h) Consideration of foreign boycott participation
 
-In providing support for projects under subchapter II of this chapter, the Corporation shall consider, using information readily available, whether the project is sponsored by or substantially affiliated with any person taking or knowingly agreeing to take actions, or having taken or knowingly agreed to take actions within the past 3 years, which demonstrate or otherwise evidence intent to comply with, further, or support any boycott described in section 4842(a) of title 50.
+In providing support for projects under subchapter II of this chapter, the Corporation shall consider, using information readily available, whether the project is sponsored by or substantially affiliated with any person taking or knowingly agreeing to take actions, or having taken or knowingly agreed to take actions within thepast 3 years, which demonstrate or otherwise evidence intent to comply with, further, or support any boycott described in section 4842(a) of title 50.
 
 #### (i) Ensuring opportunities for small businesses in foreign development
 
@@ -83,6 +83,8 @@ The Corporation shall, using broad criteria, make, to the maximum extent possibl
 &emsp;(2) to ensure that the proportion of projects sponsored by or involving United States small businesses, including women-, minority-, and veteran-owned small businesses, is not less than 50 percent of all projects for which the Corporation provides support and that involve United States persons.
 
 (Pub. L. 115–254, div. F, title V, §1451, Oct. 5, 2018, 132 Stat. 3507.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

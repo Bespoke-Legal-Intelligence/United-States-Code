@@ -1,6 +1,6 @@
 ### §923. Licensing
 
-(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee forobtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
+(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
 
 (1) If the applicant is a manufacturer—
 
@@ -50,7 +50,7 @@
 
 &emsp;(G) in the case of an application to be licensed as a dealer, the applicant certifies that secure gun storage or safety devices will be available at any place in which firearms are sold under the license to persons who are not licensees (subject to the exception that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement under this subparagraph to make available such a device).
 
-(2) The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within such period, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approves an applicant's application, such applicant shall be issued a license upon the payment of the prescribed fee.
+(2) The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within such period, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approvesan applicant's application, such applicant shall be issued a license upon the payment of the prescribed fee.
 
 (e) The Attorney General may, after notice and opportunity for hearing, revoke any license issued under this section if the holder of such license has willfully violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device). The Attorney General may, after notice and opportunity for hearing, revoke the license of a dealer who willfully transfers armor piercing ammunition. The Secretary's <sup>1</sup> action under this subsection may be reviewed only as provided in subsection (f) of this section.
 
@@ -116,6 +116,8 @@
 
 (Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 231; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1221; Pub. L. 92–377, title I, §165(b), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §103, May 19, 1986, 100 Stat. 453; Pub. L. 99–360, §1(c), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §§3–7, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VII, §7060(d), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XXII, §2203(a), title XXXV, §3525, Nov. 29, 1990, 104 Stat. 4857, 4924; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–159, title II, §201, title III, §303, Nov. 30, 1993, 107 Stat. 1544, 1545; Pub. L. 103–322, title XI, §§110102(d), 110103(d), 110105(2), 110301(a), 110302–110307, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1998–2000, 2012–2014, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326; Pub. L. 104–294, title VI, §603(j)(1), (k), (l), Oct. 11, 1996, 110 Stat. 3504, 3505; Pub. L. 105–277, div. A, §101(b) \[title I, §119(b), (c)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69; Pub. L. 107–296, title XI, §1112(f)(5), (6), Nov. 25, 2002, 116 Stat. 2276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this subparagraph, referred to in subsec. (g)(3)(B), is the date of enactment of Pub. L. 103–159, which was approved Nov. 30, 1993.
@@ -148,7 +150,7 @@ Subsec. (d)(1)(F). Pub. L. 103–322, §110302, added subpar. (F).
 
 Subsec. (d)(2). Pub. L. 103–322, §110303, substituted "60-day period" for "forty-five-day period".
 
-Subsec. (g)(1)(B)(ii). Pub. L. 103–322, §110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or".
+Subsec. (g)(1)(B)(ii). Pub. L. 103–322, §110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or".
 
 Subsec. (g)(6). Pub. L. 103–322, §110305, added par. (6).
 
@@ -210,7 +212,7 @@ Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to
 
 Subsec. (k). Pub. L. 99–408, §7, added subsec. (k).
 
-<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported toamend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
+<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–618 struck out "be required to" after "Each applicant shall".
 
@@ -233,6 +235,8 @@ Subsec. (h). Pub. L. 90–618 redesignated former subsec. (e) as (h) and substit
 Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted ", by means of a serial number engraved or cast on the receiver or frame of the weapon," after "shall identify".
 
 Subsec. (j). Pub. L. 90–618 added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

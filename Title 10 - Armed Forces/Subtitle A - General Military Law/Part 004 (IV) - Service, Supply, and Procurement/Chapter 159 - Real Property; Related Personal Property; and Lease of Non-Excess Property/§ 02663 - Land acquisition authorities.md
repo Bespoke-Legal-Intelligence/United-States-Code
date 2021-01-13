@@ -184,7 +184,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Sense of Congress
 
-Pub. L. 109–364, div. B, title XXVIII, §2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that: "It is the sense ofCongress that the Secretary of Defense, when acquiring land for military purposes, should—
+Pub. L. 109–364, div. B, title XXVIII, §2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that: "It is the sense of Congress that the Secretary of Defense, when acquiring land for military purposes, should—
 
 &emsp;"(1) make every effort to acquire the land by means of purchases from willing sellers; and
 

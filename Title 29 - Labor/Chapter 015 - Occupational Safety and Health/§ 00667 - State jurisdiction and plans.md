@@ -22,7 +22,7 @@ The Secretary shall approve the plan submitted by a State under subsection (b), 
 
 &emsp;(5) gives satisfactory assurances that such State will devote adequate funds to the administration and enforcement of such standards,
 
-&emsp;(6) contains satisfactory assurances that such State will, to the extent permitted by its law, establish and maintain an effective and comprehensive occupational safety and healthprogram applicable to all employees of public agencies of the State and its political subdivisions, which program is as effective as the standards contained in an approved plan,
+&emsp;(6) contains satisfactory assurances that such State will, to the extent permitted by itslaw, establish and maintain an effective and comprehensive occupational safety and health program applicable to all employees of public agencies of the State and its political subdivisions, which program is as effective as the standards contained in an approved plan,
 
 &emsp;(7) requires employers in the State to make reports to the Secretary in the same manner and to the same extent as if the plan were not in effect, and
 

@@ -94,7 +94,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall attribute payments at thethird and fourth tiers of ownership in the same manner as specified in subparagraph (C).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall attribute payments at the third and fourth tiers of ownership in the same manner as specified in subparagraph (C).
 
 #### (ii) Fourth-tier ownership
 
@@ -114,7 +114,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (2) Marketing cooperatives
 
-&emsp;Subsections (b) and (c) shall not apply to a cooperative association of producers with respect to commodities produced by the members of the association that are marketed by the association on behalf of the members of the association but shall apply to the producers as persons.
+&emsp;Subsections (b) and (c) shall not apply to a cooperative association of producers with respect to commodities produced by the members of the association that are marketed bythe association on behalf of the members of the association but shall apply to the producers as persons.
 
 #### (3) Trusts and estates
 
@@ -188,7 +188,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (B) Family members
 
-&emsp;&emsp;The addition of a family member to a farming operation under the criteria set outin section 1308–1 of this title shall be considered a bona fide and substantive change in the farming operation.
+&emsp;&emsp;The addition of a family member to a farming operation under the criteria set out in section 1308–1 of this title shall be considered a bona fide and substantive change in the farming operation.
 
 #### (8) Death of owner
 
@@ -318,7 +318,7 @@ Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Pri
 
 "(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
-"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation ofclause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
+"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
 
 Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
@@ -332,7 +332,7 @@ Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of "Subject to s
 
 Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
 
-Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence "Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title" and struck out at end "Such regulations shall provide that the term 'person' does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers."
+Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence "Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of thisparagraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title" and struck out at end "Such regulations shall provide that the term 'person' does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers."
 
 Par. (5)(B). Pub. L. 100–203, §1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -384,7 +384,7 @@ Pub. L. 100–203, title I, §§1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–1
 
 Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
 
-Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under anyagreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transition Provisions
 
@@ -406,7 +406,7 @@ Pub. L. 100–203, title I, §1304(a), Dec. 22, 1987, 101 Stat. 1330–17, provi
 
 "(1)
 
-In general.—The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
+In general.—The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agricultureand members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
 
 "(2)
 
@@ -460,7 +460,7 @@ Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 
 &emsp;"(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier than October 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
 
-&emsp;"(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislativechanges to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate."
+&emsp;"(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislative changes to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate."
 
 #### Separate Person Status Among Family Members
 

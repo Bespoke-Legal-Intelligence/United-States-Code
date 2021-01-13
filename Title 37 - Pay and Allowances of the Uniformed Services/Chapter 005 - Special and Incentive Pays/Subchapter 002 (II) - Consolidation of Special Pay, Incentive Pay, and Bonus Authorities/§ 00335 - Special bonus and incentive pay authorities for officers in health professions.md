@@ -40,19 +40,19 @@ Maximum Amount and Method of Payment.—
 
 Maximum amount.—The Secretary concerned shall determine the amounts of a bonus or incentive pay to be paid under this section, except that—
 
-&emsp;&emsp;(A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $30,000 for each 12-month period of obligated service agreed to under subsection (f);
+&emsp;&emsp;(A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-&emsp;&emsp;(B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
+&emsp;&emsp;(B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $200,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-&emsp;&emsp;(C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $75,000 for each 12-month period of obligated service agreed to under subsection (f);
+&emsp;&emsp;(C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $150,000 for each 12-month period of obligated service agreed to under subsection (f);
 
 &emsp;&emsp;(D) health professions incentive pay under subsection (b) may be paid monthly and may not exceed, in any 12-month period—
 
-&emsp;&emsp;&emsp;(i) $100,000 for medical officers and dental officers; and
+&emsp;&emsp;&emsp;(i) $200,000 for medical officers and dental officers; and
 
-&emsp;&emsp;&emsp;(ii) $15,000 for officers in other health professions; and
+&emsp;&emsp;&emsp;(ii) $50,000 for officers in other health professions; and
 
-&emsp;&emsp;(E) board certification incentive pay under subsection (c) may not exceed $6,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
+&emsp;&emsp;(E) board certification incentive pay under subsection (c) may not exceed $15,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
 
 &emsp;(2)
 
@@ -118,15 +118,31 @@ Health Profession Defined.—In this section, the term "health profession" means
 
 &emsp;(7) Any health profession performed by officers designated as a physician assistant.
 
-&emsp;(8) Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
+&emsp;(8) Any health profession performed by officers in the regular or reserve corps <sup>1</sup> of the Public Health Service.
 
 (k)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2020.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2021.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(5), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(5), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(5), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(4), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(4), Dec. 20, 2019, 133 Stat. 1426.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(5), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(5), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(5), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(4), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(4), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §§611(d)(4), 612(a)–(e), Jan. 1, 2021, 134 Stat. 3673, 3674.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(1)(A). Pub. L. 116–283, §612(a), substituted "$100,000" for "$30,000".
+
+Subsec. (e)(1)(B). Pub. L. 116–283, §612(b), substituted "$200,000" for "$100,000".
+
+Subsec. (e)(1)(C). Pub. L. 116–283, §612(c), substituted "$150,000" for "$75,000".
+
+Subsec. (e)(1)(D)(i). Pub. L. 116–283, §612(d)(1), substituted "$200,000" for "$100,000".
+
+Subsec. (e)(1)(D)(ii). Pub. L. 116–283, §612(d)(2) substituted "$50,000" for "$15,000".
+
+Subsec. (e)(1)(E). Pub. L. 116–283, §612(e), substituted "$15,000" for "$6,000".
+
+Subsec. (k). Pub. L. 116–283, §611(d)(4), substituted "December 31, 2021" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (k). Pub. L. 116–92 substituted "December 31, 2020" for "December 31, 2019".
 
@@ -152,6 +168,16 @@ Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2008</b>—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted "dental officers" for "dental surgeons".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title VI, §612(f), Jan. 1, 2021, 134 Stat. 3674, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to special bonus and incentive pays payable under section 335 of title 37, United States Code, pursuant to agreements entered into under that section on or after the date of the enactment of this Act \[Jan. 1, 2021\]."
+
 #### Targeted Bonus Authority To Increase Direct Accessions
 
 Pub. L. 110–417, \[div. A\], title VI, §620(a), Oct. 14, 2008, 122 Stat. 4489, provided that:
@@ -175,4 +201,6 @@ Secretary concerned defined.—In this subsection, the term 'Secretary concerned
 "(4)
 
 Effective period.—The designations made by this subsection and the authority to enter into an agreement under paragraph (2) of this subsection expire on September 30, 2010."
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

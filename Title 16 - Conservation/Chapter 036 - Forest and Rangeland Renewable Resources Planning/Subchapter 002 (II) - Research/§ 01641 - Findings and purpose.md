@@ -10,13 +10,13 @@ Congress finds the following:
 
 &emsp;(3) The National Forest System manages only 17 percent of the commercial timberland of the United States, with over half of the standing softwoods inventory located on that land. Dramatic changes in Federal agency policy during the early 1990's have significantly curtailed the management of this vast timber resource, causing abrupt shifts in the supply of timber from public to private ownership. As a result of these shifts in supply, some 60 percent of total wood production in the United States is now coming from private forest land in the southern United States.
 
-&emsp;(4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timberand forage resources for the benefit of all species.
+&emsp;(4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timber and forage resources for the benefit of all species.
 
 &emsp;(5) Uncertainty over the availability of the United States timber supply, increasing regulatory burdens, and the lack of Federal Government support for research is causing domestic wood and paper producers to move outside the United States to find reliable sources of wood supplies, which in turn results in a worsening of the United States trade balance, the loss of employment and infrastructure investments, and an increased risk of infestations of exotic pests and diseases from imported wood products.
 
 &emsp;(6) Wood and paper producers in the United States are being challenged not only by shifts in Federal Government policy, but also by international competition from tropical countries where growth rates of trees far exceed those in the United States. Wood production per acre will need to quadruple from 1996 levels for the United States forestry sector to remain internationally competitive on an ever decreasing forest land base.
 
-&emsp;(7) Better and more frequent forest inventorying and analysis is necessary to identify productivity-related forestry research needs and to provide forest managers with the current data necessary to make timely and effective management decisions.
+&emsp;(7) Better and more frequent forest inventorying and analysis is necessary to identify productivity-related forestry research needs and to provide forest managers with thecurrent data necessary to make timely and effective management decisions.
 
 #### (b) Relationship to other law
 

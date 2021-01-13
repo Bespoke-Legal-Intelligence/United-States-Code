@@ -6,9 +6,11 @@ The Federal share of a grant, contract, or cooperative agreement made under this
 
 #### (b) Administrative costs
 
-A State or unit of local government may not use more than 10 percent of the funds it receives from <sup>1</sup> this subchapter for administrative expenses.
+A State or unit of local government may not use more than 10 percent of the funds it receivesfrom <sup>1</sup> this subchapter for administrative expenses.
 
 (Pub. L. 90–351, title I, §2405, as added Pub. L. 103–322, title XXI, §210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

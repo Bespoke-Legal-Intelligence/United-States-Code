@@ -32,6 +32,8 @@ Pub. L. 92–578, §8(b)–(d), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 95–629, 
 
 In subsection (c), the words "retail, wholesale, service or other" and "or its agent" are omitted as unnecessary. The words "upon implementation of the development plan" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.

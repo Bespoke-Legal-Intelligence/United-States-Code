@@ -1,8 +1,12 @@
 ### §1212. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 103–454, title II, §202, Nov. 2, 1994, 108 Stat. 4792, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

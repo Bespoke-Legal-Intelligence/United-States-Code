@@ -24,7 +24,7 @@ In general.—The Attorney General shall submit to the Congress a report of any 
 
 &emsp;&emsp;&emsp;(i) against the United States (including any agency or instrumentality thereof) for a sum that exceeds, or is likely to exceed, $2,000,000, excluding prejudgment interest; or
 
-&emsp;&emsp;&emsp;(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order)that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: <i>Provided</i>, That for purposes of this clause, the term "injunctive or other nonmonetary relief" shall not be understood to include the following, where the same are a matter of public record—
+&emsp;&emsp;&emsp;(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order) that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: <i>Provided</i>, That for purposes of this clause, the term "injunctive or other nonmonetary relief" shall not be understood to include the following, where the same are a matter of public record—
 
 &emsp;&emsp;&emsp;&emsp;(I) debarments, suspensions, or other exclusions from Government contracts or grants;
 
@@ -68,7 +68,7 @@ Contents.—A report required by subsection (a) shall—
 
 &emsp;(2) include a complete and detailed statement of the relevant issues and background (including a complete and detailed statement of the reasons for the policy or determination, and the identity of the officer responsible for establishing or implementing such policy, making such determination, or approving such settlement or compromise), except that—
 
-&emsp;&emsp;(A) such details may be omitted as may be absolutely necessary to prevent improper disclosure of national-security- or classified information, of any information subject to the deliberative-process-, executive-, attorney-work-product-, or attorney-client privileges, or of any information the disclosure of which is prohibited by section 6103 of the Internal Revenue Code of 1986, or other law or any court order if the fact of each such omission (and the precise ground or grounds therefor) is clearly noted in the statement: <i>Provided</i>, That this subparagraph shall not be construed to deny to the Congress (including any House, Committee, or agency thereof) any such omitted details (or related information) that it lawfully may seek, subsequent to the submission of the report; and
+&emsp;&emsp;(A) such details may be omitted as may be absolutely necessary to prevent improper disclosure of national-security- or classified information, of any information subject to the deliberative-process-, executive-, attorney-work-product-, or attorney-client privileges, or of any information the disclosure ofwhich is prohibited by section 6103 of the Internal Revenue Code of 1986, or other law or any court order if the fact of each such omission (and the precise ground or grounds therefor) is clearly noted in the statement: <i>Provided</i>, That this subparagraph shall not be construed to deny to the Congress (including any House, Committee, or agency thereof) any such omitted details (or related information) that it lawfully may seek, subsequent to the submission of the report; and
 
 &emsp;&emsp;(B) the requirements of this paragraph shall be deemed satisfied—
 
@@ -84,15 +84,19 @@ Declaration.—In the case of a determination described in subsection (a)(1)(B),
 
 (e)
 
-Applicability to the President and to Executive Agencies and Military Departments.—The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executiveagency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
+Applicability to the President and to Executive Agencies and Military Departments.—The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
 
 (Added Pub. L. 107–273, div. A, title II, §202(a), Nov. 2, 2002, 116 Stat. 1771.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 6405 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(C), is classified to section 6405 of Title 26, Internal Revenue Code.
 
 Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)(A), is classified to section 6103 of Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on Policies and Determinations Made Prior to Enactment of Section
 

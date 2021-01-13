@@ -18,6 +18,8 @@
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, §12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -30,7 +32,9 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (c)(1)(A), is clas
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–553 inserted sentences at end defining "any person" and providing that any State and any instrumentality, officer, or employee be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, seesection 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
+Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
 

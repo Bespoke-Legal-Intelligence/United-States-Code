@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a Food Aid Consultative Group (hereinafter referred to in this section asthe "Group") that shall meet regularly to review and address issues concerning the effectiveness of the regulations and procedures that govern food assistance programs established and implemented under this subchapter, and the implementation of other provisions of this subchapter that may involve eligible organizations described in section 1722(d)(1) of this title.
+There is established a Food Aid Consultative Group (hereinafter referred to in this section as the "Group") that shall meet regularly to review and address issues concerning the effectiveness of the regulations and procedures that govern food assistance programs established and implemented under this subchapter, and the implementation of other provisions of this subchapter that may involve eligible organizations described in section 1722(d)(1) of this title.
 
 #### (b) Membership
 
@@ -32,7 +32,7 @@ The Administrator shall be the chairperson of the Group.
 
 #### (1) Consultation in advance of issuance of implementation regulations, handbooks, and guidelines
 
-&emsp;Not later than 30 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
+&emsp;Not later than 30 days before a proposed regulation, handbook, or guideline implementingthis subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
 
 #### (2) Consultation regarding food aid quality efforts
 

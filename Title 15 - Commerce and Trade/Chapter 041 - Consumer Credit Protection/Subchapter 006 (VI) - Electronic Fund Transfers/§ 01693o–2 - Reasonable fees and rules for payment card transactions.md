@@ -18,7 +18,7 @@
 
 #### (B) Information collection
 
-&emsp;&emsp;The Board may require any issuer (or agent of an issuer) or payment card network to provide the Board with such information as may be necessary to carry out the provisions of this subsection and the Board, in issuing rules under subparagraph (A) and on at least a bi-annual basis thereafter, shall disclose such aggregate or summary information concerning the costs incurred, and interchange transaction fees charged or received, by issuers or payment card networks in connection with the authorization, clearance or settlement of electronic debit transactions as the Board considers appropriate and in the public interest.
+&emsp;&emsp;The Board may require any issuer (or agent of an issuer) or payment card network to provide the Board with such information as may be necessary to carry out the provisions of this subsection and the Board, in issuing rules under subparagraph (A) and on at least a bi-annual basis thereafter, shall disclose such aggregate or summary information concerning the costs incurred, andinterchange transaction fees charged or received, by issuers or payment card networks in connection with the authorization, clearance or settlement of electronic debit transactions as the Board considers appropriate and in the public interest.
 
 #### (4) Considerations; consultation
 
@@ -170,7 +170,7 @@
 
 #### (B) No routing restrictions
 
-&emsp;&emsp;The Board shall, before the end of the 1-year period beginning on July 21, 2010, prescribe regulations providing that an issuer or payment card network shall not, directly or through any agent, processor, or licensedmember of the network, by contract, requirement, condition, penalty, or otherwise, inhibit the ability of any person who accepts debit cards for payments to direct the routing of electronic debit transactions for processing over any payment card network that may process such transactions.
+&emsp;&emsp;The Board shall, before the end of the 1-year period beginning on July 21, 2010, prescribe regulations providing that an issuer or payment card network shall not, directly or through any agent, processor, or licensed member of the network, by contract, requirement, condition, penalty, or otherwise, inhibit the ability of any person who accepts debit cards for payments to direct the routing of electronic debit transactions for processing over any payment card network that may process such transactions.
 
 #### (2) Limitation on restrictions on offering discounts for use of a form of payment
 
@@ -274,7 +274,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (11) Payment card network
 
-&emsp;The term "payment card network" means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form of payment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
+&emsp;The term "payment card network" means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form ofpayment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
 
 #### (d) Enforcement
 

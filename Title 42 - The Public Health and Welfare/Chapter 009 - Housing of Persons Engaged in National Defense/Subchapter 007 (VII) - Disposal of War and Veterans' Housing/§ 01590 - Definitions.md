@@ -6,7 +6,7 @@ As used in this subchapter, the following terms shall have the meanings ascribed
 
 (b) The term "housing" means any housing under the jurisdiction of the Secretary of Housing and Urban Development (including trailers and other mobile or portable housing) constructed, acquired, or made available under subchapters II to VII of this chapter or Public Law 781, Seventy-sixth Congress, approved September 9, 1940, or Public Laws 9, 73, or 353, Seventy-seventh Congress, approved, respectively, March 1, 1941, May 24, 1941, and December 17, 1941, or any other law, and includes in addition to dwellings any structures, appurtenances, and other property, real or personal, acquired for or held in connection therewith.
 
-(c) The term "temporary housing" means any housing (as defined in (b)) which the Secretary of Housing and Urban Development has determined to be "of a temporary character" pursuant to subchapters II to VII of this chapter and shall also include any such housing after rights thereto have been relinquished or transferred under this subchapter or section 1575 of this title.
+(c) The term "temporary housing" means any housing (as defined in (b)) which the Secretary of Housing and Urban Development has determined to be "of a temporary character" pursuant to subchapters II to VII of this chapter andshall also include any such housing after rights thereto have been relinquished or transferred under this subchapter or section 1575 of this title.
 
 (d) The terms "veteran" and "serviceman" mean "veteran" and "serviceman" as those terms are defined in the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\].
 

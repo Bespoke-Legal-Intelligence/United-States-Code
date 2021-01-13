@@ -6,7 +6,7 @@ The purposes of this subchapter are—
 
 &emsp;(2) to mobilize and strengthen the abilities of States and units of general local government throughout the United States to design and implement strategies for achieving an adequate supply of decent, safe, sanitary, and affordable housing;
 
-&emsp;(3) to provide participating jurisdictions, on a coordinated basis, with the various forms of Federal housing assistance, including capital investment, mortgage insurance, rental assistance, and other Federal assistance, needed—
+&emsp;(3) to provide participating jurisdictions, on a coordinated basis, with the various forms of Federal housing assistance, including capitalinvestment, mortgage insurance, rental assistance, and other Federal assistance, needed—
 
 &emsp;&emsp;(A) to expand the supply of decent, safe, sanitary, and affordable housing;
 

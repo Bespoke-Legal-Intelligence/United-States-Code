@@ -4,6 +4,8 @@ No delivery of goods or merchandise shall be made to the chiefs of any tribe, by
 
 (R.S. §2101.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2101 derived from act Apr. 10, 1869, ch. 16, §2, 16 Stat. 39.

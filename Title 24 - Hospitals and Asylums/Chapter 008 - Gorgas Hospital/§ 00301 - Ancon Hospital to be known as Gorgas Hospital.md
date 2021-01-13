@@ -4,6 +4,8 @@ In recognition of his distinguished services to humanity and as a fitting perpet
 
 (Mar. 24, 1928, ch. 240, §1, 45 Stat. 365.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.

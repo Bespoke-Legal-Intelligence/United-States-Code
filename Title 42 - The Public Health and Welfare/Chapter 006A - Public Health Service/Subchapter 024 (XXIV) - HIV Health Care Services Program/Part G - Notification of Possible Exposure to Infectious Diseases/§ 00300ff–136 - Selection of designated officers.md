@@ -6,7 +6,7 @@ For the purposes of receiving notifications and responses and making requests un
 
 #### (b) Preference in making designations
 
-In making the designations required in subsection (a), a public health officer shall givepreference to individuals who are trained in the provision of health care or in the control of infectious diseases.
+In making the designations required in subsection (a), a public health officer shall give preference to individuals who are trained in the provision of health care or in the control of infectious diseases.
 
 (July 1, 1944, ch. 373, title XXVI, §2695E, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2901.)
 

@@ -10,13 +10,15 @@ If the bylaws provide for a credit committee, all applications not approved by t
 
 (June 26, 1934, ch. 750, title I, §114, formerly §15, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 633; amended Pub. L. 88–353, §4, July 2, 1964, 78 Stat. 269; Pub. L. 90–188, §1, Dec. 13, 1967, 81 Stat. 567; Pub. L. 90–375, §1(5), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §114, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, §304, Apr. 19, 1977, 91 Stat. 51; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §523, Oct. 15, 1982, 96 Stat. 1533.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in section 11(d) of act June 26, 1934, ch. 750, 48 Stat. 1219 (formerly classified to section 1761(d) of this title), prior to the amendment and renumbering of act June 26, 1934 by Pub. L. 86–354.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–320 designated existing provisions as subsecs. (a) and (b), in subsec. (a) as so designated, inserted provisions relating to the membership of the committee and provisions requiring the majority of the full committee to be present for votes on lines of credit, struck out provision requiring each loan officer to report his action on an application in seven days of its filing, in subsec. (b) as so designated, inserted provisions relating to the number of members needed to reverse a loan officer's decision and provision for the case where there is no credit committee, and thereafter struck out provisions that not more than one member of the committee might be appointed as a loan officer, that applications for loans and lines of credit be made on forms prepared by such committee which set forth the security, if any, and such other data as required, that no loan may be made to any member if, upon the making of that loan, the member would have been indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 percentum of the credit union's unimpaired capital and surplus, and that for the purposes of this section an assignment of shares or the endorsement of a note would be deemed security and, subject to such regulations as the Board prescribed, insurance obtained under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\] would be deemed adequate security.
+<b>1982</b>—Pub. L. 97–320 designated existing provisions as subsecs. (a) and (b), in subsec. (a) as so designated, inserted provisions relating to the membership of the committee and provisions requiring the majority of the full committee to be present for votes on lines of credit, struck out provision requiring each loan officer to report his action on an application in seven days of its filing, in subsec. (b) as so designated, inserted provisions relating to the number of members needed to reverse a loan officer's decision and provision for the case where there is no credit committee, and thereafterstruck out provisions that not more than one member of the committee might be appointed as a loan officer, that applications for loans and lines of credit be made on forms prepared by such committee which set forth the security, if any, and such other data as required, that no loan may be made to any member if, upon the making of that loan, the member would have been indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 per centum of the credit union's unimpaired capital and surplus, and that for the purposes of this section an assignment of shares or the endorsement of a note would be deemed security and, subject to such regulations as the Board prescribed, insurance obtained under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\] would be deemed adequate security.
 
 <b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator".
 
@@ -29,6 +31,8 @@ Provisions similar to those comprising this section were contained in section 11
 <b>1967</b>—Pub. L. 90–188 struck out "up to the unsecured limit, or in excess of such limit if such excess is fully secured by unpledged shares" from end of provision that credit committees may appoint one or more loan officers, and delegate to him or them the power to approve loans.
 
 <b>1964</b>—Pub. L. 88–353 inserted "and, subject to such regulations as the Director may prescribe, insurance obtained under title I of the National Housing Act shall be deemed adequate security".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

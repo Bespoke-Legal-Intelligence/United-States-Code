@@ -126,7 +126,7 @@ The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89�
 
 #### Prior Provisions
 
-A prior section 2344, Pub. L. 88–210, title I, §124, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2344, Pub. L. 88–210, title I, §124, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3107,related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Amendments
 

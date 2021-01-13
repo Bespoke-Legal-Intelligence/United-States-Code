@@ -102,7 +102,7 @@ Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and 
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence andprevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
+Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
 
 Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted ", developmental disabilities, and secondary health conditions among individuals with disabilities" after "defects".
 

@@ -4,7 +4,7 @@
 
 Papa Ola Lokahi shall be responsible for the—
 
-&emsp;(1) coordination, implementation, and updating, as appropriate, of the comprehensivehealth care master plan developed pursuant to section 11703 of this title;
+&emsp;(1) coordination, implementation, and updating, as appropriate, of the comprehensive health care master plan developed pursuant to section 11703 of this title;
 
 &emsp;(2) training for the persons described in section 11705(c)(1)(B) of this title;
 
@@ -48,7 +48,7 @@ Papa Ola Lokahi is authorized to enter into agreements or memoranda of understan
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 5 of Pub. L. 100–579, as subsequently amended.
+Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section isbased on section 5 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

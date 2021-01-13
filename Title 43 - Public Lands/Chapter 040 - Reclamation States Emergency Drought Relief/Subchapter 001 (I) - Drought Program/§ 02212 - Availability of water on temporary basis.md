@@ -34,7 +34,7 @@ The price for project water, other than water purchased pursuant to section 2211
 
 #### (d) Fish and wildlife
 
-The Secretary may make water from Federal Reclamation projects and nonproject water available on a nonreimbursable basis for the purposes of protecting or restoring fish and wildlife resources, including mitigation losses, that occur as a result of drought conditions or the operation of a Federal Reclamation project during drought conditions. The Secretary may store and convey project and nonproject water for fish and wildlife purposes, and may provide conveyance of any such water for both State and Federal wildlife habitat and for habitat held in private ownership. The Secretary may make available water for these purposes outside the authorized project service area. Use of the Federal storage and conveyance facilities for these purposes shall be on a nonreimbursable basis. Water made available by the Secretary in 1991 from the Central Valley Project, California, to the Grasslands Water District for the purpose of fish and wildlife shall be nonreimbursable.
+The Secretary may make water from Federal Reclamation projects and nonproject wateravailable on a nonreimbursable basis for the purposes of protecting or restoring fish and wildlife resources, including mitigation losses, that occur as a result of drought conditions or the operation of a Federal Reclamation project during drought conditions. The Secretary may store and convey project and nonproject water for fish and wildlife purposes, and may provide conveyance of any such water for both State and Federal wildlife habitat and for habitat held in private ownership. The Secretary may make available water for these purposes outside the authorized project service area. Use of the Federal storage and conveyance facilities for these purposes shall be on a nonreimbursable basis. Water made available by the Secretary in 1991 from the Central Valley Project, California, to the Grasslands Water District for the purpose of fish and wildlife shall be nonreimbursable.
 
 #### (e) Nonproject water
 
@@ -46,9 +46,13 @@ The payment of capital costs attributable to the sale of project or nonproject w
 
 (Pub. L. 102–250, title I, §102, Mar. 5, 1992, 106 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Reclamation Reform Act of 1982, referred to in subsec. (b)(4), is title II of Pub. L. 97–293, Oct. 12, 1982, 96 Stat. 1263, which enacted subchapter I–A (§390aa et seq.) of chapter 12 of this title, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Authorities
 

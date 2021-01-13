@@ -64,6 +64,8 @@ It shall be the duty of the judge designated pursuant to this section to assign 
 
 (R.S. §2004; Pub. L. 85–315, pt. IV, §131, Sept. 9, 1957, 71 Stat. 637; Pub. L. 86–449, title VI, §601, May 6, 1960, 74 Stat. 90; Pub. L. 88–352, title I, §101, July 2, 1964, 78 Stat. 241; Pub. L. 89–110, §15, Aug. 6, 1965, 79 Stat. 445.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Civil Rights Act of 1960, referred to in subsec. (a)(2)(C), is Pub. L. 86–449, May 6, 1960, 74 Stat. 86. Title III of the Civil Rights Act of 1960 is classified generally to chapter 207 (§20701 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
@@ -99,6 +101,8 @@ Subsec. (h). Pub. L. 88–352, §101(d), added subsec. (h).
 Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>1957</b>—Pub. L. 85–315, §131, substituted "Voting rights" for "Race, color, or previous condition not to affect right to vote" in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2009 Act
 
@@ -140,7 +144,7 @@ Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: "That this Act 
 
 #### Short Title of 1976 Act
 
-Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Election Campaign Act Amendments of 1976'."
+Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475, provided that: "This Act \[see Tables for classification\] may becited as the 'Federal Election Campaign Act Amendments of 1976'."
 
 #### Short Title of 1975 Act
 

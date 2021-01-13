@@ -18,7 +18,7 @@ If the President determines that a State or local government has identified natu
 
 #### (A) Recommendations
 
-&emsp;&emsp;The Governor of each State may recommend to the President not fewer than five local governments to receive assistance under this section.
+&emsp;&emsp;The Governor of each State may recommend to the President not fewer than fivelocal governments to receive assistance under this section.
 
 #### (B) Deadline for submission
 
@@ -112,7 +112,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(9) the extent to which assistance will fund mitigation activities in small impoverished communities;
 
-&emsp;(10) the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establishcriteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+&emsp;(10) the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
 
 &emsp;(11) the extent to which the assistance will fund activities that increase the level of resiliency; and
 
@@ -180,7 +180,7 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (1) Definition
 
-&emsp;In this subsection, the term "congressionally directed spending" means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
+&emsp;In this subsection, the term "congressionally directed spending" means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House ofRepresentatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
 
 #### (2) Prohibition
 

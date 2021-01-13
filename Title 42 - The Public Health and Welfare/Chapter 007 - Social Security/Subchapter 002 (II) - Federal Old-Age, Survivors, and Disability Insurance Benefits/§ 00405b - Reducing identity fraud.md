@@ -106,7 +106,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, including the matter preceding paragraph (1) of section 505(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 6805(a)), any violation of this section and any certification made under this section shall be enforced in accordance with paragraphs (1) through (7)of such section 505(a) by the agencies described in those paragraphs.
+&emsp;&emsp;Notwithstanding any other provision of law, including the matter preceding paragraph (1) of section 505(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 6805(a)), any violation of this section and any certification made under this section shall be enforced in accordance with paragraphs (1) through (7) of such section 505(a) by the agencies described in those paragraphs.
 
 #### (B) Relevant information
 
@@ -122,7 +122,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### (B) Prices fixed by Commissioner
 
-&emsp;&emsp;The Commissioner shall establish the amount to be paid by the users under this paragraph, including the costs of any services or work performed, such as any appropriate upgrades, maintenance, and associated direct and indirect administrative costs, in support of carrying out the purposes described in this section, by reimbursement or in advance as determined by the Commissioner. The amount of such prices shall be periodically adjusted by the Commissioner to ensure that amounts collected are sufficient to fully offset the cost of the administration of this section.
+&emsp;&emsp;The Commissioner shall establish the amount to be paid by the users under this paragraph, including the costs of any services or work performed, such as any appropriate upgrades, maintenance, and associated direct and indirect administrative costs, in support of carrying out the purposes described in this section, by reimbursement or in advance as determined by the Commissioner. The amount of suchprices shall be periodically adjusted by the Commissioner to ensure that amounts collected are sufficient to fully offset the cost of the administration of this section.
 
 #### (2) Initial development
 

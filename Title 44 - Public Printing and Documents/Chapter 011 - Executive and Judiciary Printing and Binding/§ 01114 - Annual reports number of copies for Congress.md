@@ -12,9 +12,13 @@ Based on 44 U.S. Code, 1964 ed., §212 (part) (Jan. 12, 1895, ch. 23, §73, 28 S
 
 This section incorporates only the second sentence of former section 212. The balance will be found in section 1115 of this revision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113 struck out "the Commissioner of Patents," after "Engineers of the Army," in second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

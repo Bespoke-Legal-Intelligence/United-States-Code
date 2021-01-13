@@ -22,13 +22,13 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(A) an individual who has—
 
-&emsp;&emsp;&emsp;(i) attained a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
+&emsp;&emsp;&emsp;(i) attained the rank of Captain, Chief Mate, or Chief Engineer in the merchant marine of the United States, or a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
 
 &emsp;&emsp;&emsp;(ii) served at sea in any rank;
 
 &emsp;&emsp;(B) an individual who has—
 
-&emsp;&emsp;&emsp;(i)(I) served at sea in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
 &emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
 
@@ -36,7 +36,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(C) if a qualified individual described in subparagraph (A) or (B) does not apply for the position, an individual who has—
 
-&emsp;&emsp;&emsp;(i) attained the grade of captain or above in the Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
+&emsp;&emsp;&emsp;(i) attained the grade of captain or above in the merchant marine, Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
 
 &emsp;&emsp;&emsp;(ii) served at sea in any grade.
 
@@ -44,7 +44,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 Rule of construction.—Notwithstanding paragraph (2), the Secretary of Transportation may appoint an individual who is the best qualified candidate, even if such individual does not fully meet the criteria described in paragraph (2).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. C, title XXXV, §3506(a), Dec. 23, 2016, 130 Stat. 2777.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. C, title XXXV, §3506(a), Dec. 23, 2016, 130 Stat. 2777; Pub. L. 116–283, div. C, title XXXV, §3503(b), Jan. 1, 2021, 134 Stat. 4399.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,13 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XIII, §1303(a), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1998.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–283, §3503(b)(1), inserted "the rank of Captain, Chief Mate, or Chief Engineer in the merchant marine of the United States, or" after "attained".
+
+Subsec. (c)(2)(B)(i)(I), (C)(i). Pub. L. 116–283, §3503(b)(2), inserted "merchant marine," before "Navy".
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 
@@ -76,13 +82,15 @@ IN General" in heading.
 
 Pub. L. 111–383 inserted "as an institution of higher education" after "Academy" and substituted "States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize." for "States."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Clause
 
 Pub. L. 114–328, div. C, title XXXV, §3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: "Nothing in this section \[amending this section\] may be construed to require any change to the current leadership of the United States Merchant Marine Academy."
 
 #### Concurrent Jurisdiction
 
-Pub. L. 115–232, div. C, title XXXV, §3506, Aug. 13, 2018, 132 Stat. 2309, provided that: "Notwithstanding any other law, the Secretary of Transportation may relinquish, at the Secretary's discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King's Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished—
+Pub. L. 115–232, div. C, title XXXV, §3506, Aug. 13, 2018, 132 Stat. 2309, provided that: "Notwithstandingany other law, the Secretary of Transportation may relinquish, at the Secretary's discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King's Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished—
 
 &emsp;"(1) by filing with the Governor of New York a notice of relinquishment to take effect upon acceptance thereof; or
 

@@ -4,6 +4,8 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–123, div. A, §10101, Feb. 9, 2018, 132 Stat. 64, provided that: "This division \[amending section 7 of this title and enacting provisions set out as a note under section 7 of this title\] may be cited as the 'Honoring Hometown Heroes Act'."
@@ -24,9 +26,11 @@ Pub. L. 110–41, §1, June 29, 2007, 121 Stat. 233, provided that: "This Act \[
 
 Pub. L. 106–252, §1, July 28, 2000, 114 Stat. 626, provided that: "This Act \[enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title\] may be cited as the 'Mobile Telecommunications Sourcing Act'."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 10798
 
-Ex. Ord. No. 10798, Jan. 3, 1959, 24 F.R. 79, which prescribed proportions and sizes of flags until July 4, 1960, was revoked by section 33 of Ex. Ord. No. 10834, set out as a note under this section.
+Ex. Ord. No. 10798, Jan. 3, 1959, 24 F.R. 79, which prescribed proportions and sizes of flags until July 4, 1960,was revoked by section 33 of Ex. Ord. No. 10834, set out as a note under this section.
 
 #### Ex. Ord. No. 10834. Proportions and Sizes of Flags and Position of Stars
 
@@ -96,7 +100,7 @@ Sec. 33. Executive Order No. 10798 of January 3, 1959, is hereby revoked.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[Image not captured: t4flag.gif]
+[Image not captured: t4flag.png]
 
 <b>Standard proportions</b>
 

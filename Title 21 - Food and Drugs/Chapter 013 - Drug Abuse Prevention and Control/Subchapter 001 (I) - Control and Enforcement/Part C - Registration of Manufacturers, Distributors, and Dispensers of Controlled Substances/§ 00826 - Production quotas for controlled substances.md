@@ -4,7 +4,7 @@
 
 (1) The Attorney General shall determine the total quantity and establish production quotas for each basic class of controlled substance in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine to be manufactured each calendar year to provide for the estimated medical, scientific, research, and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks. Except as provided in paragraph (2), production quotas shall be established in terms of quantities of each basic class of controlled substance and not in terms of individual pharmaceutical dosage forms prepared from or containing such a controlled substance.
 
-(2) The Attorney General may, if the Attorney General determines it will assist in avoiding theoverproduction, shortages, or diversion of a controlled substance, establish an aggregate or individual production quota under this subsection, or a procurement quota established by the Attorney General by regulation, in terms of pharmaceutical dosage forms prepared from or containing the controlled substance.
+(2) The Attorney General may, if the Attorney General determines it will assist in avoiding the overproduction, shortages, or diversion of a controlled substance, establish an aggregate or individual production quota under this subsection, or a procurement quota established by the Attorney General by regulation, in terms of pharmaceutical dosage forms prepared from or containing the controlled substance.
 
 #### (b) Individual manufacturing quotas; revised quotas
 
@@ -16,7 +16,7 @@ On or before December 1 of each year, upon application therefor by a registered 
 
 #### (d) Quotas for registrants who have not manufactured controlled substance during one or more preceding years
 
-The Attorney General shall, upon application and subject to the provisions of subsections (a) and (b) of this section, fix a quota for a basic class of controlled substance in schedule I or II for any registrant who has not manufactured that basic class of controlled substance or ephedrine, pseudoephedrine, or phenylpropanolamine during one or more preceding calendar years. In fixing such quota, the Attorney General shall take into account the registrant's reasonably anticipated requirements for the current year; and, in making his determination of such requirements, he shall consider such factors specified in subsection (c) of this section as may be relevant.
+The Attorney General shall, upon application and subject to the provisions of subsections (a)and (b) of this section, fix a quota for a basic class of controlled substance in schedule I or II for any registrant who has not manufactured that basic class of controlled substance or ephedrine, pseudoephedrine, or phenylpropanolamine during one or more preceding calendar years. In fixing such quota, the Attorney General shall take into account the registrant's reasonably anticipated requirements for the current year; and, in making his determination of such requirements, he shall consider such factors specified in subsection (c) of this section as may be relevant.
 
 #### (e) Quota increases
 
@@ -78,6 +78,8 @@ Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanola
 
 (Pub. L. 91–513, title II, §306, Oct. 27, 1970, 84 Stat. 1257; Pub. L. 94–273, §3(16), Apr. 21, 1976, 90 Stat. 377; Pub. L. 109–177, title VII, §713, Mar. 9, 2006, 120 Stat. 264; Pub. L. 112–144, title X, §1005, July 9, 2012, 126 Stat. 1105; Pub. L. 115–271, title III, §3282(a), Oct. 24, 2018, 132 Stat. 3954.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Schedules I and II, referred to in text, are set out in section 812(c) of this title.
@@ -110,13 +112,15 @@ Subsec. (g). Pub. L. 109–177, §713(7), added subsec. (g).
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted "October" for "July".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Change to Editorial Heading in United States Code
 
-Pub. L. 115–271, title III, §3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: "The Law Revision Counsel isdirected to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking 'Production' and inserting 'Manufacturing'."
+Pub. L. 115–271, title III, §3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: "The Law Revision Counsel is directed to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking 'Production' and inserting 'Manufacturing'."
 
 #### Coordination With United States Trade Representative
 

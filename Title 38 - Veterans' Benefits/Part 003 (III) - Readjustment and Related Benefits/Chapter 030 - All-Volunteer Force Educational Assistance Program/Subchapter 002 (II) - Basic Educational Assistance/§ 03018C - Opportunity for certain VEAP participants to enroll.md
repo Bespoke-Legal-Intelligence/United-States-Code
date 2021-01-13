@@ -30,7 +30,7 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B),\(C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
+(d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B), (C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
 
 (e)(1) A qualified individual (described in paragraph (2)) may make an irrevocable election under this subsection, during the one-year period beginning on the date of the enactment of this subsection, to become entitled to basic educational assistance under this chapter. Such an election shall be made in the same manner as elections made under subsection (a)(5).
 
@@ -72,6 +72,8 @@
 
 (Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828; Pub. L. 107–14, §7(e)(1), June 5, 2001, 115 Stat. 33; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–330, title III, §308(g)(9), Dec. 6, 2002, 116 Stat. 2829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 106–419, which was approved Nov. 1, 2000.
@@ -101,6 +103,8 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601(a)\], which added a subse
 Subsec. (a)(4). Pub. L. 105–114, §401(c)(2), substituted "after the date on which the individual makes the election described" for "during the one-year period specified".
 
 Subsec. (a)(5). Pub. L. 105–114, §401(c)(3), substituted "October 9, 1996" for "the date of the enactment of the Veterans' Benefits Improvements Act of 1996".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

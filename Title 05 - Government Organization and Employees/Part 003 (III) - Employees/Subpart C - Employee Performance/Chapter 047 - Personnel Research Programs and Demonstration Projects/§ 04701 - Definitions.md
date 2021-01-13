@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) a Government corporation;
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the Presidentand which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(C) the Government Accountability Office;
 
@@ -22,6 +22,8 @@
 
 (Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
@@ -35,6 +37,8 @@
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 struck out ", the Administrative Office of the United States Courts," after "means an Executive agency".
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted "chapter" for "subchapter" and "28 U.S.C. 509" for "5 U.S.C. 5108".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

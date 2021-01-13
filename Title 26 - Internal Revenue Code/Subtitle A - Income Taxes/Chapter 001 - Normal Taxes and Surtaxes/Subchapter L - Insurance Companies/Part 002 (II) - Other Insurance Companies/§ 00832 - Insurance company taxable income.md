@@ -114,7 +114,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to whichthis part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
+&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to which this part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
 
 #### (ii) Portion of dividend attributable to prorated amounts
 
@@ -136,7 +136,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (B) Special treatment of premiums attributable to insuring certain securities
 
-&emsp;&emsp;In the case of premiums attributable to insurance against default in the payment of principal or interest on securities described in section 165(g)(2)(C) with maturities of more than 5 years—
+&emsp;&emsp;In the case of premiums attributable to insurance against default in the payment ofprincipal or interest on securities described in section 165(g)(2)(C) with maturities of more than 5 years—
 
 &emsp;&emsp;&emsp;(i) subparagraph (B) of paragraph (4) shall be applied by substituting "90 percent" for "80 percent" each place it appears, and
 
@@ -274,7 +274,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 #### (2) Purchase of bonds
 
-&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and loss bonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
+&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and lossbonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
 
 #### (3) Mortgage guaranty account
 
@@ -300,7 +300,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
-&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurancecontained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 
 #### (f) Interinsurers
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048; Pub. L. 115–97, title I, §§13001(b)(2)(I), 13515(a), Dec. 22, 2017, 131 Stat. 2096, 2144; Pub. L. 115–141, div. U, title IV, §401(a)(143), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b),1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048; Pub. L. 115–97, title I, §§13001(b)(2)(I), 13515(a), Dec. 22, 2017, 131 Stat. 2096, 2144; Pub. L. 115–141, div. U, title IV, §401(a)(143), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### References in Text
 
@@ -358,7 +358,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted "such contracts into account" for "such amounts into account".
 
-Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
+Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section 816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
 
 <b>1988</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, §1010(d)(2), inserted "(directly or indirectly)" after "attributable".
 
@@ -448,7 +448,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -562,7 +562,7 @@ Pub. L. 99–514, title X, §1022(b), Oct. 22, 1986, 100 Stat. 2399, provided th
 
 Amendment by section 1023(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1023(e) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title.
 
-Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -598,7 +598,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Deduction From Earnings and Profits of Insurance Companies to Which Section 11305(c)(3) of Pub. L. 101–508 Applies
 
-Pub. L. 104–188, title I, §1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: "The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and \[former\] 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account."
+Pub. L. 104–188, title I, §1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: "The earnings and profits ofany insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and \[former\] 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account."
 
 #### Acquisition Date of Certain Stocks or Obligations for Purposes of Subsection (b)(5)(C)(i)
 
@@ -634,7 +634,7 @@ Capital contributions.—There shall not be included in the gross income of any 
 
 &emsp;&emsp;&emsp;"(ii) is a condition precedent to receiving benefits of membership.
 
-&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph\(2) by any member of such arrangement or association.
+&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph (2) by any member of such arrangement or association.
 
 &emsp;&emsp;"(B)
 

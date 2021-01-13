@@ -20,6 +20,8 @@ Sept. 1, 1954, ch. 1208, §302 (1st 29 words), 68 Stat. 1112.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–67 substituted "the awards programs" for "the agency awards program".
@@ -27,6 +29,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1981</b>—Pub. L. 97–35 substituted "subchapter" for "chapter".
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management shall" for "Civil Service Commission may".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

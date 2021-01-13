@@ -20,7 +20,7 @@ In the case of any vacancy which occurs in the position of at-large member befor
 
 #### (c) Meetings
 
-The Executive Board shall hold not more than 4 regular meetings per calendar year. Specialmeetings may be held upon the call of the chairman or 3 members of the Executive Board.
+The Executive Board shall hold not more than 4 regular meetings per calendar year. Special meetings may be held upon the call of the chairman or 3 members of the Executive Board.
 
 #### (d) Quorum
 

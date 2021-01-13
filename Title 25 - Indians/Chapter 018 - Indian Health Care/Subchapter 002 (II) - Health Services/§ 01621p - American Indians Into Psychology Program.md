@@ -38,13 +38,15 @@ The active duty service obligation prescribed under section 254m of title 42 sha
 
 &emsp;(2) in a program assisted under subchapter IV; or
 
-&emsp;(3) in the private practice of psychology if, as determined by the Secretary, in accordancewith guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
+&emsp;(3) in the private practice of psychology if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
 
 #### (f) Authorization of appropriations
 
 There is authorized to be appropriated to carry out this section $2,700,000 for fiscal year 2010 and each fiscal year thereafter.
 
 (Pub. L. 94–437, title II, §217, as added Pub. L. 102–573, title II, §213, Oct. 29, 1992, 106 Stat. 4555; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

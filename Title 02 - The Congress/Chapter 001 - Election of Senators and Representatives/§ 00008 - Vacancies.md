@@ -60,7 +60,7 @@ Except as provided in subsection (b), the time for holding elections in any Stat
 
 &emsp;&emsp;(A) to a Delegate or Resident Commissioner to the Congress in the same manner as it applies to a Member of the House of Representatives; and
 
-&emsp;&emsp;(B) to the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, and the United States Virgin Islands in the same manner as it applies to a State, except that a vacancy in the representation from any such jurisdiction inthe House shall not be taken into account by the Speaker in determining whether vacancies in the representation from the States in the House exceed 100 for purposes of paragraph (4)(A).
+&emsp;&emsp;(B) to the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, and the United States Virgin Islands in the same manner as it applies to a State, except that a vacancy in the representation from any such jurisdiction in the House shall not be taken into account by the Speaker in determining whether vacancies in the representation from the States in the House exceed 100 for purposes of paragraph (4)(A).
 
 #### (7) Rule of construction regarding Federal election laws
 
@@ -81,6 +81,8 @@ Except as provided in subsection (b), the time for holding elections in any Stat
 &emsp;&emsp;(G) The Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.) \[now 52 U.S.C. 20901 et seq.\], as amended.
 
 (R.S. §26; Pub. L. 109–55, title III, §301, Aug. 2, 2005, 119 Stat. 588.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

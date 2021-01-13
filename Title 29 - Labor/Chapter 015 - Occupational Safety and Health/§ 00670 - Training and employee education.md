@@ -40,9 +40,13 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 (Pub. L. 91–596, §21, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–197, §2, July 16, 1998, 112 Stat. 638.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–197 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

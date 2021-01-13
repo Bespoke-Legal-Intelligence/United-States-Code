@@ -28,7 +28,7 @@
 
 (ii) Notwithstanding any other law, providers of wire or electronic communication service, their officers, employees, and agents, landlords, custodians, or other persons, are authorized to provide information, facilities, or technical assistance to persons authorized by law to intercept wire, oral, or electronic communications or to conduct electronic surveillance, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978, if such provider, its officers, employees, or agents, landlord, custodian, or other specified person, has been provided with—
 
-&emsp;(A) a court order directing such assistance or a court order pursuant to section 704 of theForeign Intelligence Surveillance Act of 1978 signed by the authorizing judge, or
+&emsp;(A) a court order directing such assistance or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978 signed by the authorizing judge, or
 
 &emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
@@ -132,6 +132,8 @@
 
 <i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2023, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978".</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
@@ -152,7 +154,7 @@ Par. (2)(a)(iii). Pub. L. 110–261, §102(c)(1), added cl. (iii).
 
 <b>2002</b>—Par. (2)(a)(ii). Pub. L. 107–296, §2207(h)(2), formerly §225(h)(2), as renumbered by Pub. L. 115–278, §2(g)(2)(I), inserted ", statutory authorization," after "terms of a court order" in concluding provisions.
 
-Par. (4)(b), (c). Pub. L. 107–296, §2207(j)(1), formerly §225(j)(1), as renumbered by Pub. L. 115–278, §2(g)(2)(I), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: "If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+Par. (4)(b), (c). Pub. L. 107–296, §2207(j)(1), formerly §225(j)(1), as renumbered by Pub. L. 115–278, §2(g)(2)(I), redesignated subpar. (c) as (b) and struck out formersubpar. (b) which read as follows: "If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
 &emsp;"(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
@@ -209,6 +211,8 @@ Par. (2)(e), (f). Pub. L. 95–511, §201(b), added par. (2)(e) and (f).
 Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that nothing in this chapter or section 605 of title 47 limited the President's constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
 
 <b>1970</b>—Par. (2)(a). Pub. L. 91–358 designated existing provisions as cl. (i) and added cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

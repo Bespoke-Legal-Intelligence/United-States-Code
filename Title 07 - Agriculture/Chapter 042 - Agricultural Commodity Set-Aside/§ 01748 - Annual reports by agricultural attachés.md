@@ -22,7 +22,7 @@ The Secretary shall—
 
 &emsp;&emsp;(A) on a country by country basis; and
 
-&emsp;&emsp;(B) on a commodity by commodity basis for exports of United States agriculturalcommodities, as determined appropriate by the Secretary, the export of which is hampered by an unfair trade practice. Where practicable, the report shall include a comparison of the average prices and costs of production for such commodities in the United States and in the importing countries for the previous crop year;
+&emsp;&emsp;(B) on a commodity by commodity basis for exports of United States agricultural commodities, as determined appropriate by the Secretary, the export of which is hampered by an unfair trade practice. Where practicable, the report shall include a comparison of the average prices and costs of production for such commodities in the United States and in the importing countries for the previous crop year;
 
 &emsp;(2) in consultation with the agricultural technical advisory committees established under section 2155(c) of title 19, include in the compilation a priority ranking of those trade barriers identified in subsection (a) by commodity group;
 
@@ -32,7 +32,7 @@ The Secretary shall—
 
 #### (c) Meeting
 
-The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technical advisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
+The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technicaladvisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
 
 &emsp;(1) reduce or eliminate trade barriers or distortions identified in the annual reports required to be submitted under subsections (a) and (b); and
 

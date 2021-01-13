@@ -42,7 +42,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 #### (3) Medical
 
-&emsp;Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including pharmacies, mental health facilities, and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
+&emsp;Increasing the preparedness, response capabilities, and surge capacity of hospitals, otherhealth care facilities (including pharmacies, mental health facilities, and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
 
 &emsp;&emsp;(A) Strengthening public health emergency medical and trauma management and treatment capabilities.
 
@@ -88,7 +88,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 #### (9) Zoonotic disease, food, and agriculture
 
-&emsp;Improving coordination among Federal, State, local, Tribal, and territorial entities (including through consultation with the Secretary of Agriculture) to prevent, detect, andrespond to outbreaks of plant or animal disease (including zoonotic disease) that could compromise national security resulting from a deliberate attack, a naturally occurring threat, the intentional adulteration of food, or other public health threats, taking into account interactions between animal health, human health, and animals' and humans' shared environment as directly related to public health emergency preparedness and response capabilities, as applicable.
+&emsp;Improving coordination among Federal, State, local, Tribal, and territorial entities (including through consultation with the Secretary of Agriculture) to prevent, detect, and respond to outbreaks of plant or animal disease (including zoonotic disease) that could compromise national security resulting from a deliberate attack, a naturally occurring threat, the intentional adulteration of food, or other public health threats, taking into account interactions between animal health, human health, and animals' and humans' shared environment as directly related to public health emergency preparedness and response capabilities, as applicable.
 
 #### (10) Global health security
 
@@ -160,7 +160,7 @@ Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>.
 
 (b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
-(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Healthand Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
+(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
 
 Sec. 3. <i>Federal Rapid Response</i>. (a) The Federal Government must develop the capacity to anticipate and immediately supplement the capabilities of affected jurisdictions to rapidly distribute medical countermeasures following a biological attack. Implementation of a Federal strategy to rapidly dispense medical countermeasures requires establishment of a Federal rapid response capability.
 

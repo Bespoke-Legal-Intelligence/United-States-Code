@@ -61,6 +61,7 @@
 - [&sect; 00390g&#8211;6 - Matching basis for funding phase II from non-Federal sources](%C2%A7%2000390g%E2%80%936%20-%20Matching%20basis%20for%20funding%20phase%20II%20from%20non-Federal%20sources.md)
 - [&sect; 00390g&#8211;7 - New spending authority](%C2%A7%2000390g%E2%80%937%20-%20New%20spending%20authority.md)
 - [&sect; 00390g&#8211;8 - Interstate transfer of water from Arkansas](%C2%A7%2000390g%E2%80%938%20-%20Interstate%20transfer%20of%20water%20from%20Arkansas.md)
+- [&sect; 00390g&#8211;9 - Aquifer recharge flexibility](%C2%A7%2000390g%E2%80%939%20-%20Aquifer%20recharge%20flexibility.md)
 - [&sect; 00390h - Program to investigate reclamation and reuse of wastewater and groundwater; general authority](%C2%A7%2000390h%20-%20Program%20to%20investigate%20reclamation%20and%20reuse%20of%20wastewater%20and%20groundwater%3B%20general%20authority.md)
 - [&sect; 00390h&#8211;1 - Appraisal investigations](%C2%A7%2000390h%E2%80%931%20-%20Appraisal%20investigations.md)
 - [&sect; 00390h&#8211;2 - Feasibility studies](%C2%A7%2000390h%E2%80%932%20-%20Feasibility%20studies.md)

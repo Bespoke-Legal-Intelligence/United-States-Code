@@ -159,7 +159,7 @@
 | <b>2105 through 2199. </b> | <b>reserved</b> |  |
 | [<b>2201.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202201%20-%20United%20Service%20Organizations%2C%20Incorporated/README.md) | <b>United Service Organizations, Incorporated</b> | <b>220101</b> |
 | [<b>2203.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202203%20-%20United%20States%20Capitol%20Historical%20Society/README.md) | <b>United States Capitol Historical Society</b> | <b>220301</b> |
-| [<b>2205.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202205%20-%20United%20States%20Olympic%20Committee/README.md) | <b>United States Olympic Committee</b> | <b>220501</b> |
+| [<b>2205.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202205%20-%20United%20States%20Olympic%20and%20Paralympic%20Committee/README.md) | <b>United States Olympic and Paralympic Committee</b> | <b>220501</b> |
 | [<b>2207.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202207%20-%20United%20States%20Submarine%20Veterans%20of%20World%20War%20II/README.md) | <b>United States Submarine Veterans of World War II</b> | <b>220701</b> |
 | <b>2209 through 2299. </b> | <b>reserved</b> |  |
 | [<b>2301.</b>](Subtitle%20002%20%28II%29%20-%20Patriotic%20and%20National%20Organizations/Part%20B%20-%20Organizations/Chapter%202301%20-%20Veterans%20of%20Foreign%20Wars%20of%20the%20United%20States/README.md) | <b>Veterans of Foreign Wars of the United States</b> | <b>230101</b> |
@@ -182,7 +182,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–189, §4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting "United States Olympic and Paralympic Committee" for "United States Olympic Committee" in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–237, §3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
 
@@ -6220,6 +6224,8 @@ Rep.
 
 21001
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
 Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: "Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, 'Patriotic and National Observances, Ceremonies, and Organizations' ".
@@ -6250,7 +6256,7 @@ Actions and Offenses Under Prior Law.—An action taken or an offense committed 
 
 "(e)
 
-Inferences.—An inference of a legislative construction is not to be drawn by reason of the locationin the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
+Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
 
 "(f)
 

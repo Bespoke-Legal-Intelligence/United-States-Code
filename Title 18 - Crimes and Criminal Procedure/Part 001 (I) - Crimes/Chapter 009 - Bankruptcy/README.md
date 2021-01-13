@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–8, title II, §203(b)(2), Apr. 20, 2005, 119 Stat. 49, added item 158.

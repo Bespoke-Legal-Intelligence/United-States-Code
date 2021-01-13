@@ -124,7 +124,7 @@
 
 #### (4) Modification of return requirements
 
-&emsp;The Secretary is authorized to suspend or modify any requirement of this section if theSecretary determines that the United States has no significant tax interest in obtaining the required information.
+&emsp;The Secretary is authorized to suspend or modify any requirement of this section if the Secretary determines that the United States has no significant tax interest in obtaining the required information.
 
 #### (5) United States person's return must be consistent with trust return or Secretary notified of inconsistency
 

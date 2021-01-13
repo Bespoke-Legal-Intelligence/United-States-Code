@@ -6,7 +6,7 @@ If the Secretary or the Association determines that, as part of continuing reorg
 
 #### (b) Evaluation by Association
 
-The Association shall analyze each proposal containing one or more supplemental transactions, taking into account the comments of interested persons and statements and exhibits submitted at any public hearings which may have been held. The Association shall, within 120 days after the publication of a summary thereof under subsection (a) of this section, publish in the Federal Register a report evaluating such proposal. Such evaluation shall state whether the supplemental transactions contained in such proposal, considered in their entirety, are (1) in the public interest and consistent with the purposes of this chapter and the goals of the final system plan, and (2) fair and equitable. If the Corporation opposes, or seeks modification of, any such proposed transfer, its written comments shall be given due consideration by the Association and shall be published as part of the evaluation. Within 30 days after the Association publishes its report, each proposed transferor or transferee shall notify the Association in writing as to whether any proposed supplemental transaction requiring the transfer of any property from or to such transferor or transferee is acceptable to such proposed transferor or transferee. If any such proposed transferor (other than the Corporation) or transferee fails to notify the Association that any proposed supplemental transaction requiring the transfer of any property from such transferor or to such transferee is acceptable to it, no further administrative or judicial proceedings shall be conducted with respect to such proposed supplemental transaction.
+The Association shall analyze each proposal containing one or more supplemental transactions, taking into account the comments of interested persons and statements and exhibits submitted at any public hearings which mayhave been held. The Association shall, within 120 days after the publication of a summary thereof under subsection (a) of this section, publish in the Federal Register a report evaluating such proposal. Such evaluation shall state whether the supplemental transactions contained in such proposal, considered in their entirety, are (1) in the public interest and consistent with the purposes of this chapter and the goals of the final system plan, and (2) fair and equitable. If the Corporation opposes, or seeks modification of, any such proposed transfer, its written comments shall be given due consideration by the Association and shall be published as part of the evaluation. Within 30 days after the Association publishes its report, each proposed transferor or transferee shall notify the Association in writing as to whether any proposed supplemental transaction requiring the transfer of any property from or to such transferor or transferee is acceptable to such proposed transferor or transferee. If any such proposed transferor (other than the Corporation) or transferee fails to notify the Association that any proposed supplemental transaction requiring the transfer of any property from such transferor or to such transferee is acceptable to it, no further administrative or judicial proceedings shall be conducted with respect to such proposed supplemental transaction.
 
 #### (c) Review by Commission
 
@@ -88,6 +88,8 @@ As used in this section, the term "fair and equitable" means fair and equitable,
 
 (Pub. L. 93–236, title III, §305, as added Pub. L. 94–210, title VI, §610(b), Feb. 5, 1976, 90 Stat. 100; amended Pub. L. 96–448, title VI, §601(a), Oct. 14, 1980, 94 Stat. 1958; Pub. L. 97–35, title XI, §1155, Aug. 13, 1981, 95 Stat. 677; Pub. L. 98–620, title IV, §402(48), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 104–317, title VI, §605(c)(2), Oct. 19, 1996, 110 Stat. 3859.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 77 of the Bankruptcy Act, referred to in subsec. (e), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
@@ -111,6 +113,8 @@ Subsec. (f). Pub. L. 97–35, §1155(a), in par. (2) substituted provisions rela
 Subsec. (g). Pub. L. 97–35, §1155(c), added subsec. (g).
 
 <b>1980</b>—Subsec. (f). Pub. L. 96–448 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

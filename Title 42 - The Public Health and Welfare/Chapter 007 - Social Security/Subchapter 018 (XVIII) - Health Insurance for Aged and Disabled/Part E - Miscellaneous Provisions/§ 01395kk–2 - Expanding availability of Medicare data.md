@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), an analysis or data that is provided or soldunder paragraph (1) or (2) shall not contain information that individually identifies a patient.
+&emsp;&emsp;Except as provided in subparagraph (B), an analysis or data that is provided or sold under paragraph (1) or (2) shall not contain information that individually identifies a patient.
 
 #### (B) Information on patients of the provider of services or supplier
 

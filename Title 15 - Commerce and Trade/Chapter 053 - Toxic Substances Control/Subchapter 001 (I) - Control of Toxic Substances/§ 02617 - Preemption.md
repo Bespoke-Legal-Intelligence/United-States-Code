@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (c), (d), (e), (f), and (g), beginning on the date on which the Administrator defines the scope of a risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title and ending on the date on which the deadline established pursuant to section 2605(b)(4)(G) of this title for completion of the risk evaluation expires, or on the date on which the Administrator publishes the risk evaluation under section 2605(b)(4)(C) of this title, whichever is earlier, no State or political subdivision of a State may establish a statute, criminal penalty, or administrative action prohibiting or otherwise restricting the manufacture, processing, distribution in commerce, or use of such chemical substance that is a high-priority substance designated under section 2605(b)(1)(B)(i) of this title.
+&emsp;Except as provided in subsections (c), (d), (e), (f), and (g), beginning on the date on which the Administrator defines the scope of a risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title and ending on the date on which the deadline established pursuant to section 2605(b)(4)(G) of this title for completion of the risk evaluation expires, or on the date on which the Administrator publishes the risk evaluation under section2605(b)(4)(C) of this title, whichever is earlier, no State or political subdivision of a State may establish a statute, criminal penalty, or administrative action prohibiting or otherwise restricting the manufacture, processing, distribution in commerce, or use of such chemical substance that is a high-priority substance designated under section 2605(b)(1)(B)(i) of this title.
 
 #### (2) Effect of subsection
 
@@ -156,7 +156,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (4) Failure to make a determination
 
-&emsp;If the Administrator fails to make a determination under paragraph (3)(B) during the 110-day period beginning on the date on which an application under paragraph (2) is submitted, the statute or administrative action of the State or political subdivision of the State that was the subject of the application shall not be considered to be an existing statute or administrative action for purposes of subsection (b) by reason of the failure of the Administrator to make a determination.
+&emsp;If the Administrator fails to make a determination under paragraph (3)(B) during the110-day period beginning on the date on which an application under paragraph (2) is submitted, the statute or administrative action of the State or political subdivision of the State that was the subject of the application shall not be considered to be an existing statute or administrative action for purposes of subsection (b) by reason of the failure of the Administrator to make a determination.
 
 #### (5) Notice and comment
 

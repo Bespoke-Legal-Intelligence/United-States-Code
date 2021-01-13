@@ -30,7 +30,7 @@ Northwestern private timber open market area.—The term "northwestern private t
 
 &emsp;&emsp;(C) held by any Native Corporation as defined in section 1602 of title 43.
 
-&emsp;(7) The term "public lands" means lands west of the 100th meridian in the contiguous 48States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
+&emsp;(7) The term "public lands" means lands west of the 100th meridian in the contiguous 48 States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
 
 &emsp;&emsp;(A) held by the United States;
 

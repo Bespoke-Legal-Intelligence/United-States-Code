@@ -20,6 +20,8 @@ Prohibition Against Reservation of Gravesites.—(1) A gravesite at Arlington Na
 
 (Added Pub. L. 112–154, title VI, §602(a), Aug. 6, 2012, 126 Stat. 1199.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 112–154, title VI, §602(c), Aug. 6, 2012, 126 Stat. 1200, provided that:
@@ -30,5 +32,5 @@ In general.—Except as provided in paragraph (2), section 2410A of title 38, Un
 
 "(2)
 
-Exception.—Subsection (b) of such section, as so added, shall not apply with respect to the interment of an individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962."
+Exception.—Subsection (b) of such section, as so added, shall not apply with respect to the interment ofan individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962."
 

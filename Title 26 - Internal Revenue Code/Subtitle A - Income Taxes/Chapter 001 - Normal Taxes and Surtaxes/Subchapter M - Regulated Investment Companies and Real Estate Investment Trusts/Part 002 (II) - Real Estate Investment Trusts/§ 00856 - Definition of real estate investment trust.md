@@ -84,7 +84,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;&emsp;(II) the trust does not hold securities possessing more than 10 percent of the total voting power of the outstanding securities of any one issuer, and
 
-&emsp;&emsp;&emsp;(III) the trust does not hold securities having a value of more than 10 percent of the total value of the outstanding securities of any one issuer.
+&emsp;&emsp;&emsp;(III) the trust does not hold securities having a value of more than 10 percent ofthe total value of the outstanding securities of any one issuer.
 
 > &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements (including a discrepancy caused solely by the change in the foreign currency exchange rate used to value a foreign asset) unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
 
@@ -132,7 +132,7 @@ Treatment of certain hedging instruments.—Except to the extent as determined b
 
 &emsp;&emsp;&emsp;(iii) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) a real estate investment trust enters into one or more positions described in clause (i) with respect to indebtedness described in clause (i) or one or more positions described in clause (ii) with respect to property which generates income or gain described in paragraph (2) or (3),
+&emsp;&emsp;&emsp;&emsp;(I) a real estate investment trust enters into one or more positions describedin clause (i) with respect to indebtedness described in clause (i) or one or more positions described in clause (ii) with respect to property which generates income or gain described in paragraph (2) or (3),
 
 &emsp;&emsp;&emsp;&emsp;(II) any portion of such indebtedness is extinguished or any portion of such property is disposed of, and
 
@@ -282,7 +282,7 @@ Treatment of gain on disposition.—If—
 
 &emsp;&emsp;&emsp;&emsp;(III) the fair market value of the personal property so sold or contemporaneously disposed of (determined at the time of disposition) does not exceed 15 percent of the total fair market value of all of the personal and real property so sold or contemporaneously disposed of (determined at the time of disposition),
 
-&emsp;&emsp;&nbsp;any gain from such dispositions shall be treated for purposes of paragraphs (2)(H) and (3)(H) as gain from the disposition of a real estate asset.
+&emsp;&emsp;&nbsp;any gain from such dispositions shall be treated for purposes of paragraphs (2)(H)and (3)(H) as gain from the disposition of a real estate asset.
 
 &emsp;&emsp;(B)
 
@@ -326,7 +326,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;(C) rent attributable to personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
 
-> &emsp;For purposes of subparagraph (C), with respect to each lease of real property, rent attributable to personal property for the taxable year is that amount which bears the same ratio to total rent for the taxable year as the average of the fair market values of the personal property at the beginning and at the end of the taxable year bears to the average of the aggregate fair market values of both the realproperty and the personal property at the beginning and at the end of such taxable year.
+> &emsp;For purposes of subparagraph (C), with respect to each lease of real property, rent attributable to personal property for the taxable year is that amount which bears the same ratio to total rent for the taxable year as the average of the fair market values of the personal property at the beginning and at the end of the taxable year bears to the average of the aggregate fair market values of both the real property and the personal property at the beginning and at the end of such taxable year.
 
 #### (2) Amounts excluded
 
@@ -386,7 +386,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (A) In general
 
-&emsp;&emsp;The term "impermissible tenant service income" means, with respect to any real or personal property, any amount received oraccrued directly or indirectly by the real estate investment trust for—
+&emsp;&emsp;The term "impermissible tenant service income" means, with respect to any real or personal property, any amount received or accrued directly or indirectly by the real estate investment trust for—
 
 &emsp;&emsp;&emsp;(i) services furnished or rendered by the trust to the tenants of such property, or
 
@@ -424,7 +424,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (ii) Rents must be substantially comparable
 
-&emsp;&emsp;&emsp;Clause (i) shall apply only to the extent that the amounts paid to the trust as rents from real property (as defined in paragraph (1) without regard to paragraph (2)(B)) from such property are substantially comparable to such rents paid by the other tenants of the trust's property for comparable space.
+&emsp;&emsp;&emsp;Clause (i) shall apply only to the extent that the amounts paid to the trust as rentsfrom real property (as defined in paragraph (1) without regard to paragraph (2)(B)) from such property are substantially comparable to such rents paid by the other tenants of the trust's property for comparable space.
 
 #### (iii) Times for testing rent comparability
 
@@ -456,7 +456,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (B) Exception for certain lodging facilities and health care property
 
-&emsp;&emsp;The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility (as defined in paragraph (9)(D)) or a qualified health care property (as defined in subsection (e)(6)(D)(i)) leased by the trust to ataxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor. For purposes of this section, a taxable REIT subsidiary is not considered to be operating or managing a qualified health care property or qualified lodging facility solely because it—
+&emsp;&emsp;The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility (as defined in paragraph (9)(D)) or a qualified health care property (as defined in subsection (e)(6)(D)(i)) leased by the trust to a taxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor. For purposes of this section, a taxable REIT subsidiary is not considered to be operating or managing a qualified health care property or qualified lodging facility solely because it—
 
 &emsp;&emsp;&emsp;(i) directly or indirectly possesses a license, permit, or similar instrument enabling it to do so, or
 
@@ -482,7 +482,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;&emsp;&emsp;(I) January 1, 1999, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the earliest date that any taxable REIT subsidiary of such trust entered into a management agreement or other similar service contract with such person with respect to such qualified lodging facility or qualified health care property.
+&emsp;&emsp;&emsp;&emsp;(II) the earliest date that any taxable REIT subsidiary of such trust entered into a management agreement or othersimilar service contract with such person with respect to such qualified lodging facility or qualified health care property.
 
 #### (C) Renewals, etc., of existing leases
 
@@ -550,7 +550,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;(C) if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income or through a taxable REIT subsidiary).
 
-> &emsp;For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.
+> &emsp;For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect tosuch property being treated as other than rents from real property.
 
 #### (5) Taxpayer must make election
 
@@ -578,7 +578,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;For purposes of applying paragraph (4)(C) with respect to qualified health care property which is foreclosure property by reason of subparagraph (A) or paragraph (1), income derived or received by the trust from an independent contractor shall be disregarded to the extent such income is attributable to—
 
-&emsp;&emsp;&emsp;(i) any lease of property in effect on the date the real estate investment trust acquired the qualified health care property\(without regard to its renewal after such date so long as such renewal is pursuant to the terms of such lease as in effect on such date), or
+&emsp;&emsp;&emsp;(i) any lease of property in effect on the date the real estate investment trust acquired the qualified health care property (without regard to its renewal after such date so long as such renewal is pursuant to the terms of such lease as in effect on such date), or
 
 &emsp;&emsp;&emsp;(ii) any lease of property entered into after such date if—
 
@@ -638,7 +638,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;If the election of a corporation, trust, or association has been terminated under paragraph (1), paragraph (3) shall not apply if—
 
-&emsp;&emsp;(A) the corporation, trust, or association does not willfully fail to file within the time prescribed by law an income tax return forthe taxable year with respect to which the termination of the election under subsection (c)(1) occurs;
+&emsp;&emsp;(A) the corporation, trust, or association does not willfully fail to file within the time prescribed by law an income tax return for the taxable year with respect to which the termination of the election under subsection (c)(1) occurs;
 
 &emsp;&emsp;(B) the inclusion of any incorrect information in the return referred to in subparagraph (A) is not due to fraud with intent to evade tax; and
 
@@ -856,7 +856,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;In applying subclause (III) of subsection (c)(4)(B)(iv), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
+&emsp;In applying subclause (III) of subsection (c)(4)(B)(iv), except as otherwise determined by the Secretary in regulations, the followingshall not be considered securities held by the trust:
 
 &emsp;&emsp;(A) Straight debt securities of an issuer which meet the requirements of paragraph (2).
 
@@ -892,7 +892,7 @@ For purposes of this part—
 
 #### (C) Special rules relating to corporate or partnership issuers
 
-&emsp;&emsp;In the case of an issuer which is a corporation or a partnership, securities that otherwise would be described in paragraph (1)(A) shall be considered not to be so described ifthe trust holding such securities and any of its controlled taxable REIT subsidiaries (as defined in subsection (d)(8)(A)(iv)) hold any securities of the issuer which—
+&emsp;&emsp;In the case of an issuer which is a corporation or a partnership, securities that otherwise would be described in paragraph (1)(A) shall be considered not to be so described if the trust holding such securities and any of its controlled taxable REIT subsidiaries (as defined in subsection (d)(8)(A)(iv)) hold any securities of the issuer which—
 
 &emsp;&emsp;&emsp;(i) are not described in paragraph (1) (prior to the application of this subparagraph), and
 
@@ -1170,7 +1170,7 @@ Subsec. (d)(5). Pub. L. 105–34, §1253, substituted "except that—" and subpa
 
 Subsec. (d)(7). Pub. L. 105–34, §1252(b), added par. (7).
 
-Subsec. (e)(2). Pub. L. 105–34, §1257(a)(1), which directed amendment of par. (2) by substituting "as of the close of the 3d taxable year following the taxable year in which the trust acquired such property" for "on the date which is 2 years after the date the trust acquired such property", was executed by making the substitution for "on the date which is 2 years after the date such trust acquired such property" to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 105–34, §1257(a)(1), which directed amendment of par. (2) by substituting "as of theclose of the 3d taxable year following the taxable year in which the trust acquired such property" for "on the date which is 2 years after the date the trust acquired such property", was executed by making the substitution for "on the date which is 2 years after the date such trust acquired such property" to reflect the probable intent of Congress.
 
 Subsec. (e)(3). Pub. L. 105–34, §1257(a)(2), substituted "grant one extension" for "grant one or more extensions" and "Any such extension shall not extend the grace period beyond the close of the 3d taxable year following the last taxable year in the period under paragraph (2)." for "Any such extension shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property."
 
@@ -1338,7 +1338,7 @@ Conforming Foreign Currency Revisions.—
 
 "(d)
 
-Dealer Sales.—The amendments made by subtitle C \[subtitle C (§§3051, 3052) of title II of div. C of Pub. L. 110–289, amending section 857 of this title\] shall apply to sales made after the date of the enactment of this Act \[July 30, 2008\]."
+Dealer Sales.—The amendments made by subtitle C \[subtitle C (§§3051, 3052) of title II of div. C ofPub. L. 110–289, amending section 857 of this title\] shall apply to sales made after the date of the enactment of this Act \[July 30, 2008\]."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
@@ -1434,7 +1434,7 @@ In general.—Except as otherwise provided in this paragraph, the amendment made
 
 &emsp;&emsp;"(B)
 
-New trade or business or substantial new assets.—Subparagraph (A) shall cease to apply to securities of a corporation as of the first day after July 12, 1999, on which such corporation engages in a substantial new line of business, or acquires any substantial asset, other than—
+New trade or business or substantial new assets.—Subparagraph (A) shall cease to apply to securities of a corporation as of the first day after July 12, 1999, on which such corporation engages ina substantial new line of business, or acquires any substantial asset, other than—
 
 &emsp;&emsp;&emsp;"(i) pursuant to a binding contract in effect on such date and at all times thereafter before the acquisition of such asset;
 
@@ -1524,7 +1524,7 @@ Pub. L. 94–455, title XVI, §1608(d), Oct. 4, 1976, 90 Stat. 1758, as amended 
 
 "(1) Except as provided in paragraphs (2) and (3), the amendments made by sections 1603, 1604, and 1605 \[enacting sections 860 and 4981 of this title and amending this section and sections 275, 857, 858, 6161, 6211 to 6214, 6344, 6512, 6601, and 7422 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\].
 
-"(2) If, as a result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), occurring after the date of enactment of this Act \[Oct. 4, 1976\], with respect to the real estate investment trust, such trust does not meet the requirement of section 856(a)(4) of the Internal Revenue Code of 1986 (as in effect before the amendment of such section by this Act) for any taxable year beginning on or before the date of the enactment of this Act, such trust may elect, within 60 days after such determination in the manner provided in regulations prescribed by the Secretary of the Treasury or his delegate, to have the provisions of section 1603 (other than paragraphs (1), (2), (3), and (4) of section 1603(c)) apply with respect to such taxable year. Where the provisions of section 1603 apply to a real estate investment trust with respect to any taxable year beginning on or before the date of the enactment of this Act—
+"(2) If, as a result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), occurring after the date of enactment of this Act \[Oct. 4, 1976\], with respect to the real estate investment trust, such trust does not meet the requirement of section 856(a)(4) of the Internal Revenue Code of 1986 (as in effect before the amendment of such section by this Act) for any taxable year beginning on or before the date of the enactment of this Act, such trust may elect, within 60 days after such determination in the manner provided in regulations prescribedby the Secretary of the Treasury or his delegate, to have the provisions of section 1603 (other than paragraphs (1), (2), (3), and (4) of section 1603(c)) apply with respect to such taxable year. Where the provisions of section 1603 apply to a real estate investment trust with respect to any taxable year beginning on or before the date of the enactment of this Act—
 
 &emsp;"(A) credit or refund of any overpayment of tax which results from the application of section 1603 to such taxable year shall be made as if on the date of the determination (as defined in section 859(c) of the Internal Revenue Code of 1986) 2 years remained before the expiration of the period of limitation prescribed by section 6511 of such Code on the filing of claim for refund for the taxable year to which the overpayment relates,
 

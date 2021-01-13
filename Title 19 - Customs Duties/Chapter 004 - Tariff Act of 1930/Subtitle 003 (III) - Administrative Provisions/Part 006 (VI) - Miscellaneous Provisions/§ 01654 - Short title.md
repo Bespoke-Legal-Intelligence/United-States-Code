@@ -6,7 +6,7 @@ This chapter may be cited as the "Tariff Act of 1930."
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–27, title V, §501, June 29, 2015, 129 Stat. 383, provided that: "This title \[amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under section 3438 of this title\] may be cited as the 'American Trade Enforcement Effectiveness Act'."
+Pub. L. 114–27, title V, §501, June 29, 2015, 129 Stat. 383, provided that: "This title \[amending sections 1677,1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under section 3438 of this title\] may be cited as the 'American Trade Enforcement Effectiveness Act'."
 
 #### Short Title of 2012 Amendment
 
@@ -52,7 +52,7 @@ Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: "This A
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title III, subtitle B, §3101, Oct. 27, 1986, 100 Stat. 3207–79, provided that: "This subtitle \[subtitleB (§§3101–3161) of title III of Pub. L. 99–570, enacting sections 1590, 1628, 1629, and 2081 of this title, amending sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of this title, section 959 of Title 21, Food and Drugs, section 5316 of Title 31, Money and Finance, and section 12109 of Title 46, Shipping, repealing section 1460 of this title, and enacting provisions set out as a note under section 1613b of this title\] may be cited as the 'Customs Enforcement Act of 1986'."
+Pub. L. 99–570, title III, subtitle B, §3101, Oct. 27, 1986, 100 Stat. 3207–79, provided that: "This subtitle \[subtitle B (§§3101–3161) of title III of Pub. L. 99–570, enacting sections 1590, 1628, 1629, and 2081 of this title, amending sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of this title, section 959 of Title 21, Food and Drugs, section 5316 of Title 31, Money and Finance, and section 12109 of Title 46, Shipping, repealing section 1460 of this title, and enacting provisions set out as a note under section 1613b of this title\] may be cited as the 'Customs Enforcement Act of 1986'."
 
 #### Short Title of 1984 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 98–573, §1, Oct. 30, 1984, 98 Stat. 2948, provided in part that this 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–410, §1, Oct. 3, 1978, 92 Stat. 888, provided: "That this Act \[enacting sections 58a, 1496a, 1504, 1508, 1625, and 2075 of this title, amending sections 467, 1202, 1315, 1321, 1466, 1483, 1484, 1491, 1505, 1509, 1510, 1520, 1526, 1557, 1559, 1584, 1592, 1599, 1603, 1607, 1610, 1612, 1613, 1615, 1621, and 1641 of this title, section 1124 of Title 15, Commerce and Trade, and section 883 of Title 46, Appendix, Shipping, repealing sections 58 and 1511 of this title and sections 329, 330, and 333 of former Title 46, and enacting provisions set out as notes under sections 1202, 1434, 1496a, 1504, 1557, 1592, and 1652 of this title\] may be cited as the 'Customs Procedural Reform and Simplification Act of 1978'."
+Pub. L. 95–410, §1, Oct. 3, 1978, 92 Stat. 888, provided: "That this Act \[enacting sections 58a, 1496a, 1504, 1508,1625, and 2075 of this title, amending sections 467, 1202, 1315, 1321, 1466, 1483, 1484, 1491, 1505, 1509, 1510, 1520, 1526, 1557, 1559, 1584, 1592, 1599, 1603, 1607, 1610, 1612, 1613, 1615, 1621, and 1641 of this title, section 1124 of Title 15, Commerce and Trade, and section 883 of Title 46, Appendix, Shipping, repealing sections 58 and 1511 of this title and sections 329, 330, and 333 of former Title 46, and enacting provisions set out as notes under sections 1202, 1434, 1496a, 1504, 1557, 1592, and 1652 of this title\] may be cited as the 'Customs Procedural Reform and Simplification Act of 1978'."
 
 #### Short Title of 1970 Amendment
 
@@ -112,5 +112,5 @@ Act Sept. 26, 1949, ch. 585, §1, 63 Stat. 697, provided: "That this Act \[amend
 
 #### Short Title of 1938 Amendment
 
-Act June 25, 1938, ch. 679, §1, 52 Stat. 1077, provided: "That this Act \[enacting sections 1321, 1467, 1528 of thistitle, amending sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1401, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557 to 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, 1709 of this title, and section 331 of former Title 46, Shipping, and enacting provisions set out as a note under section 1516 of this title\] may be cited as the 'Customs Administrative Act of 1938'."
+Act June 25, 1938, ch. 679, §1, 52 Stat. 1077, provided: "That this Act \[enacting sections 1321, 1467, 1528 of this title, amending sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1401, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557 to 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, 1709 of this title, and section 331 of former Title 46, Shipping, and enacting provisions set out as a note under section 1516 of this title\] may be cited as the 'Customs Administrative Act of 1938'."
 

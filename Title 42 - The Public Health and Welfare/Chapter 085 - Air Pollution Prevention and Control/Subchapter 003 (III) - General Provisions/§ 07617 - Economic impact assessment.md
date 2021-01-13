@@ -28,7 +28,7 @@ Before publication of notice of proposed rulemaking with respect to any standard
 
 Subject to subsection (d), the assessment required under this section with respect to any standard or regulation shall contain an analysis of—
 
-&emsp;(1) the costs of compliance with any such standard or regulation, including extent to which the costs of compliance will vary depending on (A) the effective date of the standard or regulation, and (B) the development of less expensive, more efficient means or methods of compliance with the standard or regulation;
+&emsp;(1) the costs of compliance with any such standard or regulation, including extent to which the costs of compliance will vary depending on (A) the effective date of the standard or regulation, and (B) the development ofless expensive, more efficient means or methods of compliance with the standard or regulation;
 
 &emsp;(2) the potential inflationary or recessionary effects of the standard or regulation;
 
@@ -38,7 +38,7 @@ Subject to subsection (d), the assessment required under this section with respe
 
 &emsp;(5) the effects of the standard or regulation on energy use.
 
-> Nothing in this section shall be construed to provide that the analysis of the factors specified in this subsection affects or alters the factorswhich the Administrator is required to consider in taking any action referred to in subsection (a).
+> Nothing in this section shall be construed to provide that the analysis of the factors specified in this subsection affects or alters the factors which the Administrator is required to consider in taking any action referred to in subsection (a).
 
 #### (d) Extensiveness of assessment
 

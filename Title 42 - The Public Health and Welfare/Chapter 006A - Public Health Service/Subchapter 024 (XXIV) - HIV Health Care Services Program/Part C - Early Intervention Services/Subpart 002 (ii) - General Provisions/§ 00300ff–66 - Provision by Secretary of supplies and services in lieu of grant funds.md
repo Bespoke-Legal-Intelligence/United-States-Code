@@ -8,7 +8,7 @@ Upon the request of a grantee under this part, the Secretary may, subject to sub
 
 With respect to a request described in subsection (a), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
-(July 1, 1944, ch. 373, title XXVI, §2666, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614; amended Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2666, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104Stat. 614; amended Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 

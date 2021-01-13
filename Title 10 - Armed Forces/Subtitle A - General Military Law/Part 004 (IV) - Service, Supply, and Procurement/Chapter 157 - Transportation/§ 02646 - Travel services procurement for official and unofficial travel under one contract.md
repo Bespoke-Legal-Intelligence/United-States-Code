@@ -6,7 +6,7 @@ Authority.—The head of an agency may enter into a contract for travel-related 
 
 (b)
 
-Credits, Discounts, Commissions, Fees.—(1) A contract entered into under this section may provide for credits, discounts, or commissions or other fees to accrue to the Department of Defense. The accrual and amounts of credits, discounts, or commissions or other fees may bedetermined on the basis of the volume (measured in the number or total amount of transactions or otherwise) of the travel-related sales that are made by the contractor under the contract.
+Credits, Discounts, Commissions, Fees.—(1) A contract entered into under this section may provide for credits, discounts, or commissions or other fees to accrue to the Department of Defense. The accrual and amounts of credits, discounts, or commissions or other fees may be determined on the basis of the volume (measured in the number or total amount of transactions or otherwise) of the travel-related sales that are made by the contractor under the contract.
 
 (2) The evaluation factors applicable to offers for a contract under this section may include a factor that relates to the estimated aggregate value of any credits, discounts, commissions, or other fees that would accrue to the Department of Defense for the travel-related sales made under the contract.
 
@@ -30,7 +30,19 @@ Definitions.—In this section:
 
 Inapplicability to Coast Guard and NASA.—This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
-(Added Pub. L. 105–261, div. A, title VIII, §813(a), Oct. 17, 1998, 112 Stat. 2087.)
+(Added Pub. L. 105–261, div. A, title VIII, §813(a), Oct. 17, 1998, 112 Stat. 2087; amended Pub. L. 116–283, div. A, title XVIII, §1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4155.)
+
+#### Amendment of Subsection (c)(1)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4151, 4155, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(1) of this section is amended by striking "section 2302(1)" and inserting "section 3004". See 2021 Amendment note below.</i>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "section 3004" for "section 2302(1)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Transfer of Functions
 

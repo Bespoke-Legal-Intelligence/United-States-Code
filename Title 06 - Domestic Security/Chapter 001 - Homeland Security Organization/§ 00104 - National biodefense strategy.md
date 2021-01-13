@@ -50,6 +50,8 @@ In this section, the term "appropriate congressional committees" means the follo
 
 (Pub. L. 114–328, div. A, title X, §1086, Dec. 23, 2016, 130 Stat. 2423; Pub. L. 116–92, div. A, title XVII, §1704, Dec. 20, 2019, 133 Stat. 1797.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
@@ -57,6 +59,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### Amendments
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92 substituted "March 1, 2025" for "March 1, 2019".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 

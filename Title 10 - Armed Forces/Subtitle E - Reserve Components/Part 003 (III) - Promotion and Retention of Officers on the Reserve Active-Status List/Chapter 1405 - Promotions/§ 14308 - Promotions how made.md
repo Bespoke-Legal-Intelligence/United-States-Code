@@ -2,7 +2,7 @@
 
 (a)
 
-Promotion List.—When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list or based on particular merit,as determined by the promotion board. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
+Promotion List.—When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list or based on particular merit, as determined by the promotion board. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
 (b)
 
@@ -90,7 +90,7 @@ Pub. L. 115–232, div. A, title V, §518(b), Aug. 13, 2018, 132 Stat. 1754, pro
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e) of Pub. L. 109–364, set out as a note under section 624 of this title.
+Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e)of Pub. L. 109–364, set out as a note under section 624 of this title.
 
 #### Effective Date of 2001 Amendment
 

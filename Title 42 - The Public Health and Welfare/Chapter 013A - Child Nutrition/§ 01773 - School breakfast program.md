@@ -24,7 +24,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 Free and reduced price policy statement.—After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency. A routine change in the policy of a local educational agency, such as an annual adjustment of the income eligibility guidelines for free and reduced price meals, shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
 
-(2)(A) The Secretary shall make additional payments for breakfasts served to childrenqualifying for a free or reduced price meal at schools that are in severe need.
+(2)(A) The Secretary shall make additional payments for breakfasts served to children qualifying for a free or reduced price meal at schools that are in severe need.
 
 (B) The maximum payment for each such free breakfast shall be the higher of—
 
@@ -66,7 +66,7 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 (2) At the option of a local school food authority, a student in a school under the authority that participates in the school breakfast program under this chapter may be allowed to refuse not more than one item of a breakfast that the student does not intend to consume. A refusal of an offered food item shall not affect the full charge to the student for a breakfast meeting the requirements of this section or the amount of payments made under this chapter to a school for the breakfast.
 
-(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724;Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
+(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
 
 #### Codification
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 94–105, §17(a), substituted "directly to the schools (as
 
 Subsec. (g). Pub. L. 94–105, §3, added subsec. (g).
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
+<b>1973</b>—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children,inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
 
 Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence "State educational agency to assist such schools in financing the costs of operating a breakfast program" for "State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program" and struck out second sentence which provided that "Such food costs may include, in addition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.", respectively.
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–147, title II, §212(a)(2)(B), Nov. 10, 1989, 103 Stat. 912, provided that: "The amendments made bysubparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989."
+Pub. L. 101–147, title II, §212(a)(2)(B), Nov. 10, 1989, 103 Stat. 912, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989."
 
 #### Effective Date of 1988 Amendment
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, and no provision therein t
 
 #### Review of Best Practices in the Breakfast Program
 
-Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, directed the Secretary of Agriculture to enter into an agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
+Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, directed the Secretary of Agriculture to enter intoan agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 

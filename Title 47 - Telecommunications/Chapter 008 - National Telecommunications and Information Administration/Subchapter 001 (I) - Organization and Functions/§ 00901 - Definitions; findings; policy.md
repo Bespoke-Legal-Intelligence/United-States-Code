@@ -12,7 +12,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(4) The term "Commission" means the Federal Communications Commission.
 
-&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorizedin title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
+&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorized in title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
 
 #### (b) Findings
 
@@ -46,13 +46,17 @@ The NTIA shall seek to advance the following policies:
 
 (Pub. L. 102–538, title I, §102, Oct. 27, 1992, 106 Stat. 3533.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original, "this title", meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2015 Amendment
 
@@ -75,6 +79,402 @@ Pub. L. 107–317, §1, Dec. 4, 2002, 116 Stat. 2766, provided that: "This Act \
 #### Short Title
 
 Pub. L. 102–538, title I, §101, Oct. 27, 1992, 106 Stat. 3533, provided that: "This title \[enacting this chapter, amending section 394 of this title, and enacting provisions set out as a note under section 254r of Title 42, The Public Health and Welfare\] may be cited as the 'National Telecommunications and Information Administration Organization Act'."
+
+#### Internet of Things
+
+Pub. L. 116–283, div. H, title XCII, §9204, Jan. 1, 2021, 134 Stat. 4797, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Commission.—The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Commerce.
+
+&emsp;"(3)
+
+Steering committee.—The term 'steering committee' means the steering committee established under subsection (b)(5)(A).
+
+&emsp;"(4)
+
+Working group.—The term 'working group' means the working group convened under subsection (b)(1).
+
+"(b)
+
+Federal Working Group.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall convene a working group of Federal stakeholders for the purpose of providing recommendations and a report to Congress relating to the aspects of the Internet of Things described in paragraph (2).
+
+&emsp;"(2)
+
+Duties.—The working group shall—
+
+&emsp;&emsp;"(A) identify any Federal regulations, statutes, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that are inhibiting, or could inhibit, the development or deployment of the Internet of Things;
+
+&emsp;&emsp;"(B) consider policies or programs that encourage and improve coordination among Federal agencies that have responsibilities that are relevant to the objectives of this section;
+
+&emsp;&emsp;"(C) consider any findings or recommendations made by the steering committee and, where appropriate, act to implement those recommendations;
+
+&emsp;&emsp;"(D) examine—
+
+&emsp;&emsp;&emsp;"(i) how Federal agencies can benefit from utilizing the Internet of Things;
+
+&emsp;&emsp;&emsp;"(ii) the use of Internet of Things technology by Federal agencies as of the date on which the working group performs the examination;
+
+&emsp;&emsp;&emsp;"(iii) the preparedness and ability of Federal agencies to adopt Internet of Things technology as of the date on which the working group performs the examination and in the future; and
+
+&emsp;&emsp;&emsp;"(iv) any additional security measures that Federal agencies may need to take to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) safely and securely use the Internet of Things, including measures that ensure the security of critical infrastructure; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) enhance the resiliency of Federal systems against cyber threats to the Internet of Things; and
+
+&emsp;&emsp;"(E) in carrying out the examinations required under subclauses (I) and (II) of subparagraph (D)(iv), ensure to the maximum extent possible the coordination of the current and future activities of the Federal Government relating to security with respect to the Internet of Things.
+
+&emsp;"(3)
+
+Agency representatives.—In convening the working group under paragraph (1), the Secretary shall have discretion to appoint representatives from Federal agencies and departments as appropriate and shall specifically consider seeking representation from—
+
+&emsp;&emsp;"(A) the Department of Commerce, including—
+
+&emsp;&emsp;&emsp;"(i) the National Telecommunications and Information Administration;
+
+&emsp;&emsp;&emsp;"(ii) the National Institute of Standards and Technology; and
+
+&emsp;&emsp;&emsp;"(iii) the National Oceanic and Atmospheric Administration;
+
+&emsp;&emsp;"(B) the Department of Transportation;
+
+&emsp;&emsp;"(C) the Department of Homeland Security;
+
+&emsp;&emsp;"(D) the Office of Management and Budget;
+
+&emsp;&emsp;"(E) the National Science Foundation;
+
+&emsp;&emsp;"(F) the Commission;
+
+&emsp;&emsp;"(G) the Federal Trade Commission;
+
+&emsp;&emsp;"(H) the Office of Science and Technology Policy;
+
+&emsp;&emsp;"(I) the Department of Energy; and
+
+&emsp;&emsp;"(J) the Federal Energy Regulatory Commission.
+
+&emsp;"(4)
+
+Nongovernmental stakeholders.—The working group shall consult with nongovernmental stakeholders with expertise relating to the Internet of Things, including—
+
+&emsp;&emsp;"(A) the steering committee;
+
+&emsp;&emsp;"(B) information and communications technology manufacturers, suppliers, service providers, and vendors;
+
+&emsp;&emsp;"(C) subject matter experts representing industrial sectors other than the technology sector that can benefit from the Internet of Things, including the transportation, energy, agriculture, and health care sectors;
+
+&emsp;&emsp;"(D) small, medium, and large businesses;
+
+&emsp;&emsp;"(E) think tanks and academia;
+
+&emsp;&emsp;"(F) nonprofit organizations and consumer groups;
+
+&emsp;&emsp;"(G) security experts;
+
+&emsp;&emsp;"(H) rural stakeholders; and
+
+&emsp;&emsp;"(I) other stakeholders with relevant expertise, as determined by the Secretary.
+
+&emsp;"(5)
+
+Steering committee.—
+
+&emsp;&emsp;"(A)
+
+Establishment.—There is established within the Department of Commerce a steering committee to advise the working group.
+
+&emsp;&emsp;"(B)
+
+Duties.—The steering committee shall advise the working group with respect to—
+
+&emsp;&emsp;&emsp;"(i) the identification of any Federal regulations, statutes, grant practices, programs, budgetary or jurisdictional challenges, and other sector-specific policies that are inhibiting, or could inhibit, the development of the Internet of Things;
+
+&emsp;&emsp;&emsp;"(ii) situations in which the use of the Internet of Things is likely to deliver significant and scalable economic and societal benefits to the United States, including benefits from or to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) smart traffic and transit technologies;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) augmented logistics and supply chains;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) sustainable infrastructure;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) precision agriculture;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) environmental monitoring;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) public safety; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) health care;
+
+&emsp;&emsp;&emsp;"(iii) whether adequate spectrum is available to support the growing Internet of Things and what legal or regulatory barriers may exist to providing any spectrum needed in the future;
+
+&emsp;&emsp;&emsp;"(iv) policies, programs, or multi-stakeholder activities that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) promote or are related to the privacy of individuals who use or are affected by the Internet of Things;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may enhance the security of the Internet of Things, including the security of critical infrastructure;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) may protect users of the Internet of Things; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) may encourage coordination among Federal agencies with jurisdiction over the Internet of Things;
+
+&emsp;&emsp;&emsp;"(v) the opportunities and challenges associated with the use of Internet of Things technology by small businesses; and
+
+&emsp;&emsp;&emsp;"(vi) any international proceeding, international negotiation, or other international matter affecting the Internet of Things to which the United States is or should be a party.
+
+&emsp;&emsp;"(C)
+
+Membership.—The Secretary shall appoint to the steering committee members representing a wide range of stakeholders outside of the Federal Government with expertise relating to the Internet of Things, including—
+
+&emsp;&emsp;&emsp;"(i) information and communications technology manufacturers, suppliers, service providers, and vendors;
+
+&emsp;&emsp;&emsp;"(ii) subject matter experts representing industrial sectors other than the technology sector that can benefit from the Internet of Things, including the transportation, energy, agriculture, and health care sectors;
+
+&emsp;&emsp;&emsp;"(iii) small, medium, and large businesses;
+
+&emsp;&emsp;&emsp;"(iv) think tanks and academia;
+
+&emsp;&emsp;&emsp;"(v) nonprofit organizations and consumer groups;
+
+&emsp;&emsp;&emsp;"(vi) security experts;
+
+&emsp;&emsp;&emsp;"(vii) rural stakeholders; and
+
+&emsp;&emsp;&emsp;"(viii) other stakeholders with relevant expertise, as determined by the Secretary.
+
+&emsp;&emsp;"(D)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Jan. 1, 2021\], the steering committee shall submit to the working group a report that includes any findings or recommendations of the steering committee.
+
+&emsp;&emsp;"(E)
+
+Independent advice.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The steering committee shall set the agenda of the steering committee in carrying out the duties of the steering committee under subparagraph (B).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Suggestions.—The working group may suggest topics or items for the steering committee to study, and the steering committee shall take those suggestions into consideration in carrying out the duties of the steering committee.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Report.—The steering committee shall ensure that the report submitted under subparagraph (D) is the result of the independent judgment of the steering committee.
+
+&emsp;&emsp;"(F)
+
+No compensation for members.—A member of the steering committee shall serve without compensation.
+
+&emsp;&emsp;"(G)
+
+Termination.—The steering committee shall terminate on the date on which the working group submits the report under paragraph (6).
+
+&emsp;"(6)
+
+Report to congress.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 18 months after the date of enactment of this Act, the working group shall submit to Congress a report that includes—
+
+&emsp;&emsp;&emsp;"(i) the findings and recommendations of the working group with respect to the duties of the working group under paragraph (2);
+
+&emsp;&emsp;&emsp;"(ii) the report submitted by the steering committee under paragraph (5)(D), as the report was received by the working group;
+
+&emsp;&emsp;&emsp;"(iii) recommendations for action or reasons for inaction, as applicable, with respect to each recommendation made by the steering committee in the report submitted under paragraph (5)(D); and
+
+&emsp;&emsp;&emsp;"(iv) an accounting of any progress made by Federal agencies to implement recommendations made by the working group or the steering committee.
+
+&emsp;&emsp;"(B)
+
+Copy of report.—The working group shall submit a copy of the report described in subparagraph (A) to—
+
+&emsp;&emsp;&emsp;"(i) the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate;
+
+&emsp;&emsp;&emsp;"(ii) the Committee on Energy and Commerce of the House of Representatives; and
+
+&emsp;&emsp;&emsp;"(iii) any other committee of Congress, upon request to the working group.
+
+"(c)
+
+Assessing Spectrum Needs.—
+
+&emsp;"(1)
+
+In general.—The Commission, in consultation with the National Telecommunications and Information Administration, shall issue a notice of inquiry seeking public comment on the current, as of the date of enactment of this Act \[Jan. 1, 2021\], and future spectrum needs to enable better connectivity relating to the Internet of Things.
+
+&emsp;"(2)
+
+Requirements.—In issuing the notice of inquiry under paragraph (1), the Commission shall seek comments that consider and evaluate—
+
+&emsp;&emsp;"(A) whether adequate spectrum is available, or is planned for allocation, for commercial wireless services that could support the growing Internet of Things;
+
+&emsp;&emsp;"(B) if adequate spectrum is not available for the purposes described in subparagraph (A), how to ensure that adequate spectrum is available for increased demand with respect to the Internet of Things;
+
+&emsp;&emsp;"(C) what regulatory barriers may exist to providing any needed spectrum that would support uses relating to the Internet of Things; and
+
+&emsp;&emsp;"(D) what the role of unlicensed and licensed spectrum is and will be in the growth of the Internet of Things.
+
+&emsp;"(3)
+
+Report.—Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the comments submitted in response to the notice of inquiry issued under paragraph (1)."
+
+#### National Strategy To Secure 5G and Next Generation Wireless Communications
+
+Pub. L. 116–129, Mar. 23, 2020, 134 Stat. 223, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Secure 5G and Beyond Act of 2020'.
+
+#### "SEC. 2. APPROPRIATE COMMITTEES OF CONGRESS DEFINED.
+
+"In this Act, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;"(2) the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Homeland Security of the House of Representatives.
+
+#### "SEC. 3. STRATEGY TO ENSURE SECURITY OF NEXT GENERATION WIRELESS COMMUNICATIONS SYSTEMS AND INFRASTRUCTURE.
+
+"(a)
+
+Strategy Required.—Not later than 180 days after the date of enactment of this Act \[Mar. 23, 2020\], the President, in consultation with the Chairman of the Federal Communications Commission, the Secretary of Commerce, the Assistant Secretary of Commerce for Communications and Information, the Secretary of Homeland Security, the Director of National Intelligence, the Attorney General, the Secretary of State, the Secretary of Energy, and the Secretary of Defense, and consistent with the protection of national security information, shall develop and submit to the appropriate committees of Congress a strategy—
+
+&emsp;"(1) to ensure the security of 5th and future generations wireless communications systems and infrastructure within the United States;
+
+&emsp;"(2) to provide technical assistance to mutual defense treaty allies of the United States, strategic partners of the United States, and other countries, when in the security and strategic interests of the United States, to maximize the security of 5th and future generations wireless communications systems and infrastructure inside their countries; and
+
+&emsp;"(3) to protect the competitiveness of United States companies, privacy of United States consumers, and integrity and impartiality of standards-setting bodies and processes related to 5th and future generations wireless communications systems and infrastructure.
+
+"(b)
+
+Designation.—The strategy developed under subsection (a) shall be known as the 'National Strategy to Secure 5G and Next Generation Wireless Communications' (referred to in this Act as the 'Strategy').
+
+"(c)
+
+Elements.—The Strategy shall represent a whole-of-government approach and shall include the following:
+
+&emsp;"(1) A description of efforts to facilitate domestic 5th and future generations wireless communications rollout.
+
+&emsp;"(2) A description of efforts to assess the risks to and identify core security principles of 5th and future generations wireless communications infrastructure.
+
+&emsp;"(3) A description of efforts to address risks to the national security of the United States during development and deployment of 5th and future generations wireless communications infrastructure worldwide.
+
+&emsp;"(4) A description of efforts to promote responsible global development and deployment of 5th and future generations wireless communications, including through robust international engagement, leadership in the development of international standards, and incentivizing market competitiveness of secure 5th and future generation wireless communications infrastructure options.
+
+"(d)
+
+Public Consultation.—In developing the Strategy, the President shall consult with relevant groups that represent consumers or the public interest, private sector communications providers, and communications infrastructure and systems equipment developers.
+
+#### "SEC. 4. STRATEGY IMPLEMENTATION PLAN.
+
+"Not later than 180 days after the date of enactment of this Act \[Mar. 23, 2020\], the President shall develop and submit to the appropriate committees of Congress an implementation plan for the Strategy (referred to in this Act as the 'Implementation Plan'), which shall include, at a minimum, the following:
+
+&emsp;"(1) A description of United States national and economic security interests pertaining to the deployment of 5th and future generations wireless communications systems and infrastructure.
+
+&emsp;"(2) An identification and assessment of potential security threats and vulnerabilities to the infrastructure, equipment, systems, software, and virtualized networks that support 5th and future generations wireless communications systems, infrastructure, and enabling technologies, which shall, as practicable, include a comprehensive evaluation of the full range of threats to, and unique security challenges posed by, 5th and future generations wireless communications systems and infrastructure, as well as steps that public and private sector entities can take to mitigate those threats.
+
+&emsp;"(3) An identification and assessment of the global competitiveness and vulnerabilities of United States manufacturers and suppliers of 5th and future generations wireless communications equipment.
+
+&emsp;"(4) An evaluation of available domestic suppliers of 5th and future generations wireless communications equipment and other suppliers in countries that are mutual defense allies or strategic partners of the United States and a strategy to assess their ability to produce and supply 5th generation and future generations wireless communications systems and infrastructure.
+
+&emsp;"(5) Identification of where security gaps exist in the United States domestic or mutual defense treaty allies and strategic partners communications equipment supply chain for 5th and future generations wireless communications systems and infrastructure.
+
+&emsp;"(6) Identification of incentives and policy options to help close or narrow any security gaps identified under paragraph (5) in, and ensure the economic viability of, the United States domestic industrial base, including research and development in critical technologies and workforce development in 5th and future generations wireless communications systems and infrastructure.
+
+&emsp;"(7) Identification of incentives and policy options for leveraging the communications equipment suppliers from mutual defense treaty allies, strategic partners, and other countries to ensure that private industry in the United States has adequate sources for secure, effective, and reliable 5th and future generations wireless communications systems and infrastructure equipment.
+
+&emsp;"(8) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share security risk information and findings pertaining to 5th and future generations wireless communications systems and infrastructure equipment and cooperation on mitigating those risks.
+
+&emsp;"(9) A plan for engagement with private sector communications infrastructure and systems equipment developers and critical infrastructure owners and operators who have a critical dependency on communications infrastructure to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to secure platforms.
+
+&emsp;"(10) A plan for engagement with private sector communications infrastructure and systems equipment developers to encourage the maximum participation possible on standards-setting bodies related to such systems and infrastructure equipment standards by public and private sector entities from the United States.
+
+&emsp;"(11) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to promote maximum interoperability, competitiveness, openness, and secure platforms.
+
+&emsp;"(12) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications infrastructure and systems equipment concerning the standards-setting bodies related to such systems and infrastructure equipment to promote maximum transparency, openness, impartiality, integrity, and neutrality.
+
+&emsp;"(13) A plan for joint testing environments with mutual defense treaty allies, strategic partners, and other countries to ensure a trusted marketplace for 5th and future generations wireless communications systems and infrastructure equipment.
+
+&emsp;"(14) A plan for research and development by the Federal Government, in close partnership with trusted supplier entities, mutual defense treaty allies, strategic partners, and other countries to reach and maintain United States leadership in 5th and future generations wireless communications systems and infrastructure security, including the development of an ongoing capability to identify security vulnerabilities in 5th and future generations wireless communications systems.
+
+&emsp;"(15) Options for identifying and helping to mitigate the security risks of 5th and future generations wireless communications systems and infrastructure that have security flaws or vulnerabilities, or are utilizing equipment sourced from countries of concern, and that have already been put in place within the systems and infrastructure of mutual defense treaty allies, strategic partners, and other countries, when in the security interests of the United States.
+
+&emsp;"(16) A description of the roles and responsibilities of the appropriate executive branch agencies and interagency mechanisms to coordinate implementation of the Strategy, as provided in section 5(d).
+
+&emsp;"(17) An identification of the key diplomatic, development, intelligence, military, and economic resources necessary to implement the Strategy, including specific budgetary requests.
+
+&emsp;"(18) As necessary, a description of such legislative or administrative action needed to carry out the Strategy.
+
+#### "SEC. 5. LIMITATIONS AND BRIEFINGS.
+
+"(a)
+
+Limitations.—
+
+&emsp;"(1)
+
+In general.—The Strategy and the Implementation Plan shall not include a recommendation or a proposal to nationalize 5th or future generations wireless communications systems or infrastructure.
+
+&emsp;"(2)
+
+Federal agency authority.—Nothing in this Act shall be construed to limit any authority or ability of any Federal agency.
+
+"(b)
+
+Public Comment.—Not later than 60 days after the date of enactment of this Act \[Mar. 23, 2020\], the President shall seek public comment regarding the development and implementation of the Implementation Plan.
+
+"(c)
+
+Briefing.—
+
+&emsp;"(1)
+
+In general.—Not later than 21 days after the date on which the Implementation Plan is completed, the President shall direct appropriate representatives from the departments and agencies involved in the formulation of the Strategy to provide the appropriate committees of Congress a briefing on the implementation of the Strategy.
+
+&emsp;"(2)
+
+Unclassified setting.—The briefing under paragraph (1) shall be held in an unclassified setting to the maximum extent possible.
+
+"(d)
+
+Implementation.—
+
+&emsp;"(1)
+
+In general.—The President and the National Telecommunications and Information Administration, in conjunction, shall—
+
+&emsp;&emsp;"(A) implement the Strategy;
+
+&emsp;&emsp;"(B) keep congressional committees apprised of progress on implementation; and
+
+&emsp;&emsp;"(C) not implement any proposal or recommendation involving non-Federal spectrum administered by the Federal Communications Commission unless the implementation of such proposal or recommendation is first approved by the Commission.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this subsection shall be construed to affect the authority or jurisdiction of the Federal Communications Commission or confer upon the President or any other executive branch agency the power to direct the actions of the Commission, whether directly or indirectly.
+
+"(e)
+
+Form.—The Strategy and Implementation Plan shall be submitted to the appropriate committees of Congress in unclassified form, but may include a classified annex."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12382. President's National Security Telecommunications Advisory Committee
 
@@ -100,7 +500,7 @@ Sec. 2. <i>Functions</i>. (a) The Committee shall provide to the President, thro
 
 Sec. 3. <i>Administration</i>. (a) The heads of Executive agencies shall, to the extent permitted by law, provide the Committee such information with respect to national security telecommunications matters as it may require for the purpose of carrying out its functions. Information supplied to the Committee shall not, to the extent permitted by law, be available for public inspection.
 
-(b) Members of the Committee shall serve without any compensation for their work on the Committee. However, to the extent permitted by law, they shall be entitled to travel expenses, including per diem in lieu of subsistence.
+(b) Members of the Committee shall serve without any compensation for their work on the Committee. However, to the extent permitted by law, they shall beentitled to travel expenses, including per diem in lieu of subsistence.
 
 (c) Any expenses of the Committee shall, to the extent permitted by law, be paid from funds available to the Secretary of Homeland Security.
 

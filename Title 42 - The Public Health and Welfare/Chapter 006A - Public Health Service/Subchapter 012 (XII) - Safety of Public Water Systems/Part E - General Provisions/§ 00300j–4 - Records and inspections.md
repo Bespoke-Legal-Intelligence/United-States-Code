@@ -94,7 +94,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (2) Public input
 
-&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structure and design of the data base, data input parameters and requirements, and the use and interpretation of data.
+&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structureand design of the data base, data input parameters and requirements, and the use and interpretation of data.
 
 #### (3) Use
 

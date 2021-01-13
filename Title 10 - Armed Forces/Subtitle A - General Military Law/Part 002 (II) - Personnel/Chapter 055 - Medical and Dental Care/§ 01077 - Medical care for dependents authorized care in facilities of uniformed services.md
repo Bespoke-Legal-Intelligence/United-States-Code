@@ -32,7 +32,7 @@
 
 &emsp;(15) Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
 
-&emsp;(16) Except as provided by subsection (g), a hearing aid, but only for a dependent of amember of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
+&emsp;(16) Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
 
 &emsp;(17) Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
 
@@ -94,7 +94,9 @@
 
 &emsp;(C) otherwise assuring the proper functioning of the equipment.
 
-(g) In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents eligible for care under this section at cost to the United States.
+(g)(1) In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents eligible for care under this section at cost to the United States.
+
+(2) For purposes of selling hearing aids at cost to the United States under paragraph (1), a dependent of a member of the reserve components who is enrolled in the TRICARE program under section 1076d of this title shall be deemed to be a dependent eligible for care under this section.
 
 (h)(1) Vitamins that may be provided under subsection (a)(3) are vitamins used for the management of a covered disease or condition pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation.
 
@@ -134,7 +136,7 @@
 
 &emsp;(E) such other diseases or conditions the Secretary determines appropriate.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, §739(c), Dec. 12, 2017, 131 Stat. 1447.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, §739(c), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 116–283, div. A, title VII, §705, Jan. 1, 2021, 134 Stat. 3689.)
 
 Historical and Revision Notes
 
@@ -183,6 +185,8 @@ Pub. L. 96–154, title VII, §769, Dec. 21, 1979, 93 Stat. 1163.
 A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 116–283 designated existing provisions as par. (1) and added par. (2).
 
 <b>2017</b>—Subsec. (a)(3), (18). Pub. L. 115–91, §739(c)(1), substituted "subsection (h)" for "subsection (g)".
 
@@ -346,7 +350,7 @@ Elements.—The review under paragraph (1) shall include an assessment of the fo
 
 &emsp;&emsp;"(A) The availability, quality, and effectiveness of Department of Defense programs intended to meet the mental health care needs of military children.
 
-&emsp;&emsp;"(B) The availability, quality, and effectiveness of Department of Defense programs intended to promote resiliency in military children in coping with deployment cycles, injury, or death of military parents.
+&emsp;&emsp;"(B) The availability, quality, and effectiveness of Department of Defense programs intended to promote resiliency in military children in coping withdeployment cycles, injury, or death of military parents.
 
 &emsp;&emsp;"(C) The extent of access to, adequacy, and availability of mental health care and counseling services for military children in military medical treatment facilities, in family assistance centers, through Military OneSource, under the TRICARE program, and in Department of Defense Education Activity schools.
 

@@ -18,7 +18,7 @@ In addition to the purposes described in subsection (a), a poison center or prof
 
 &emsp;(5) to develop, support, and enhance technology and capabilities of professional organizations in the field of poison control to collect national poisoning, toxic occurrence, and related public health data;
 
-&emsp;(6) to develop initiatives to foster the enhanced public health utilization of nationalpoison data collected by organizations described in paragraph (5);
+&emsp;(6) to develop initiatives to foster the enhanced public health utilization of national poison data collected by organizations described in paragraph (5);
 
 &emsp;(7) to support and expand the toxicologic expertise within poison control centers; and
 

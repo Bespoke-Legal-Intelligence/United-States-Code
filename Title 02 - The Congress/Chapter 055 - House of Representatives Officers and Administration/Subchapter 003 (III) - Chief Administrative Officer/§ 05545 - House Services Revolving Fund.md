@@ -50,6 +50,8 @@ This section shall take effect October 1, 2004, and shall apply with respect to 
 
 (Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, §104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, §102(b), Mar. 11, 2009, 123 Stat. 817; Pub. L. 115–141, div. I, title I, §118(a), Mar. 23, 2018, 132 Stat. 777.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 103(a), referred to in subsec. (a)(5), means section 103(a) of Pub. L. 108–447, div. G, title I, Dec. 8, 2004, 118 Stat. 3174, which is not classified to the Code.
@@ -71,6 +73,8 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 <b>2007</b>—Subsec. (b). Pub. L. 110–161 substituted "the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction," for "the Chief Administrative Officer".
 
 <b>2005</b>—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

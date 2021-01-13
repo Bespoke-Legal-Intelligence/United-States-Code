@@ -32,6 +32,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—YOUNG FISHERMEN'S DEVELOPMENT
+
+|  |  |
+| :--- | ---: |
+| [1141\.](Subchapter%20003%20%28III%29%20-%20Young%20Fishermen%27s%20Development/%C2%A7%2001141%20-%20Definitions.md) | Definitions. |
+| [1142\.](Subchapter%20003%20%28III%29%20-%20Young%20Fishermen%27s%20Development/%C2%A7%2001142%20-%20Establishment%20of%20program.md) | Establishment of program. |
+| [1143\.](Subchapter%20003%20%28III%29%20-%20Young%20Fishermen%27s%20Development/%C2%A7%2001143%20-%20Grants.md) | Grants. |
+| [1144\.](Subchapter%20003%20%28III%29%20-%20Young%20Fishermen%27s%20Development/%C2%A7%2001144%20-%20Funding.md) | Funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -39,3 +50,4 @@
 
 - [Subchapter 001 (I) - Marine Resources and Engineering Development](Subchapter%20001%20%28I%29%20-%20Marine%20Resources%20and%20Engineering%20Development/README.md)
 - [Subchapter 002 (II) - National Sea Grant College Program](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/README.md)
+- [Subchapter 003 (III) - Young Fishermen's Development](Subchapter%20003%20%28III%29%20-%20Young%20Fishermen%27s%20Development/README.md)

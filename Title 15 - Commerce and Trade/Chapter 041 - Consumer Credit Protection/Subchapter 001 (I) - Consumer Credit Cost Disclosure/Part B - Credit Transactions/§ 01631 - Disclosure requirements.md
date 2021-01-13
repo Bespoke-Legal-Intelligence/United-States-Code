@@ -26,7 +26,7 @@ Section 1602(f) of this title, referred to in subsec. (b), was redesignated sect
 
 <b>2010</b>—Subsecs. (b) to (d). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end "In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction."
+<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end "In the case of any consumer credit transaction a portion of the interest on which is determined on a per diembasis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 

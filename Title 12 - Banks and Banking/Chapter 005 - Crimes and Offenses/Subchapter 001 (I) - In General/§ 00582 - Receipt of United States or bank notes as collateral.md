@@ -4,6 +4,8 @@ No national banking association shall hereafter offer or receive United States n
 
 (R.S. §5207.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5207 derived from act Feb. 19, 1869, ch. 32, 15 Stat. 270.

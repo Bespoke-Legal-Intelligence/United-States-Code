@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award a grant to 1 or more private entities to provide for the ongoing operation of a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, family and household members of such victims, and persons affected by the victimization. The Secretary shall give priority to applicants with experience in operating a hotline that provides assistance to adult and youth victims of family violence, domestic violence, or dating violence.
+The Secretary shall award a grant to 1 or more private entities to provide for the ongoing operation of a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, family andhousehold members of such victims, and persons affected by the victimization. The Secretary shall give priority to applicants with experience in operating a hotline that provides assistance to adult and youth victims of family violence, domestic violence, or dating violence.
 
 #### (b) Term
 

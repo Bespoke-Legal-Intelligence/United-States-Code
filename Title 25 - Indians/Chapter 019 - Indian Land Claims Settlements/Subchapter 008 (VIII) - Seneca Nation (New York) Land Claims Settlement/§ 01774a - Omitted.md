@@ -1,5 +1,7 @@
 ### §1774a. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 101–503, §3, Nov. 3, 1990, 104 Stat. 1293, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.

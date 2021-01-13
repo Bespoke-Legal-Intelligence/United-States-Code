@@ -8,11 +8,11 @@ Except as provided in subsection (b) or (c), any confidential business informati
 
 #### (1) Information for the Technical Secretariat
 
-&emsp;Information shall be disclosed or otherwise provided to the Technical Secretariat or otherstates parties to the Chemical Weapons Convention in accordance with the Convention, in particular, the provisions of the Annex on the Protection of Confidential Information.
+&emsp;Information shall be disclosed or otherwise provided to the Technical Secretariat or other states parties to the Chemical Weapons Convention in accordance with the Convention, in particular, the provisions of the Annex on the Protection of Confidential Information.
 
 #### (2) Information for Congress
 
-&emsp;Information shall be made available to any committee or subcommittee of Congress with appropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
+&emsp;Information shall be made available to any committee or subcommittee of Congress withappropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
 
 #### (3) Information for enforcement actions
 
@@ -53,6 +53,8 @@ The property of any person who violates subsection (d) shall be subject to forfe
 The provisions of this section shall also apply to employees of the Technical Secretariat.
 
 (Pub. L. 105–277, div. I, title IV, §404, Oct. 21, 1998, 112 Stat. 2681–882.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -16,11 +16,13 @@ Project Agreement.—No payment shall be made under this chapter except for a pr
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899; Pub. L. 88–157, §7(b), Oct. 24, 1963, 77 Stat. 278; Pub. L. 93–87, title I, §117, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §118(a), May 5, 1976, 90 Stat. 437; Pub. L. 100–17, title I, §133(b)(6), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §1018(b), Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1302, June 9, 1998, 112 Stat. 193, 226; Pub. L. 114–94, div. A, title II, §2002(a), Dec. 4, 2015, 129 Stat. 1446.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 inserted "(including payments made pursuant to a long-term concession agreement, such as availability payments)" after "a project" in introductory provisions.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of requiredfabrication at an off-site location the materials cannot be stockpiled in such vicinity."
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity."
 
 Subsec. (b). Pub. L. 105–178, §1302(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "After completion of a project in accordance with the plans and specifications, and approval of the final voucher by the Secretary, a State shall be entitled to payment out of the appropriate sums apportioned to it of the unpaid balance of the Federal share payable on account of such project."
 
@@ -41,6 +43,8 @@ Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation departm
 <b>1973</b>—Subsec. (a). Pub. L. 93–87 authorized payments to be made for materials not in the construction vicinity where the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.
 
 <b>1963</b>—Subsec. (d). Pub. L. 88–157 substituted "any project financed with Federal-aid primary, secondary, or urban funds" for "any one project" and provided for limitation, on payments for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of Federal share of cost of construction of the project where found by the Secretary to be necessary and for 10–percent limitation on projects financed with interstate funds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

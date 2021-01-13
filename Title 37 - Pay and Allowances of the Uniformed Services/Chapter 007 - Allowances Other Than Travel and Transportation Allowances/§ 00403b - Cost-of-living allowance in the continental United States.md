@@ -98,11 +98,15 @@ Other Definitions.—In this section:
 
 (Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(b)(2), Dec. 2, 2002, 116 Stat. 2582.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (i)(5)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 Subsec. (i)(6). Pub. L. 107–314 struck out par. (6) which read as follows: "The term 'continental United States' means the 48 contiguous States and the District of Columbia."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

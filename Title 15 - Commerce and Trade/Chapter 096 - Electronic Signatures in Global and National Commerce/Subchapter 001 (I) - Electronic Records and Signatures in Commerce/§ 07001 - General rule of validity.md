@@ -70,7 +70,7 @@ This subchapter does not—
 
 #### (6) Oral communications
 
-&emsp;An oral communication or a recording of an oral communication shall not qualify as an electronic record for purposes of this subsection except as otherwise provided under applicable law.
+&emsp;An oral communication or a recording of an oral communication shall not qualify as anelectronic record for purposes of this subsection except as otherwise provided under applicable law.
 
 #### (d) Retention of contracts and records
 

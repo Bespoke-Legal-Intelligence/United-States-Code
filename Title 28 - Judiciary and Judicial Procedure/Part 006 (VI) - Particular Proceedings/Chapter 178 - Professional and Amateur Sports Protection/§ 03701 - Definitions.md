@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) a league or association of persons or governmental entities described in subparagraph (A),
 
-&emsp;(2) the term "governmental entity" means a State, a political subdivision of a State, or an entity or organization, including an entity or organization described in section 4(5) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(5)), that has governmental authority within the territorial boundaries of the United States, including on lands described in section 4(4) of such Act (25 U.S.C. 2703(4)),
+&emsp;(2) the term "governmental entity" means a State, a political subdivision of a State, or an entity or organization, including an entity or organization described in section 4(5) of the Indian Gaming Regulatory Act (25 U.S.C.2703(5)), that has governmental authority within the territorial boundaries of the United States, including on lands described in section 4(4) of such Act (25 U.S.C. 2703(4)),
 
 &emsp;(3) the term "professional sports organization" means—
 
@@ -21,6 +21,8 @@ For purposes of this chapter—
 &emsp;(5) the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Palau, or any territory or possession of the United States.
 
 (Added Pub. L. 102–559, §2(a), Oct. 28, 1992, 106 Stat. 4227.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

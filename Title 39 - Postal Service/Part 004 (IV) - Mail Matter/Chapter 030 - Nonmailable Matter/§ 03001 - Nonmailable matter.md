@@ -42,7 +42,7 @@
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
-(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matterand shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity ofthe mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -80,11 +80,11 @@
 
 &emsp;&emsp;(ii) may be obtained without cost from the Federal Government; and
 
-&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information set forth in clauses (i) and (ii) of subparagraph (A).
+&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information setforth in clauses (i) and (ii) of subparagraph (A).
 
 (k)(1) In this subsection—
 
-&emsp;(A) the term "clearly and conspicuously displayed" means presented in a manner that isreadily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+&emsp;(A) the term "clearly and conspicuously displayed" means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
 
 &emsp;(B) the term "facsimile check" means any matter that—
 
@@ -170,7 +170,7 @@
 
 (6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
 
-(l)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
+(l)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter toany person who, personally or through a conservator, guardian, or individual with power of attorney—
 
 &emsp;(A) submits to the mailer of such matter a written request that such matter should not be mailed to such person; or
 
@@ -189,6 +189,8 @@
 (o) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224, and renumbered §26(h)(2), Pub. L. 115–334, title XII, §12616(a)(3), Dec. 20, 2018, 132 Stat. 5016; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, §2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, §1, May 24, 2010, 124 Stat. 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -230,7 +232,7 @@ Subsec. (i)(2). Pub. L. 111–170, §1(b)(2), inserted "or matter on which the t
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–168, §110(a), struck out "1714," after "1463," and "1718," after "1717,".
 
-Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement".
+Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying anyFederal Government connection, approval or endorsement".
 
 Subsec. (h)(2)(C). Pub. L. 106–168, §102(1)(B), added subpar. (C).
 
@@ -271,6 +273,8 @@ Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 <b>1971</b>—Subsecs. (e), (f). Pub. L. 91–662, §6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -320,7 +324,7 @@ Pub. L. 106–168, title I, §109, Dec. 12, 1999, 113 Stat. 1816, provided that:
 
 "(a)
 
-In General.—Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mailor class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
+In General.—Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mail or class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
 
 "(b)
 

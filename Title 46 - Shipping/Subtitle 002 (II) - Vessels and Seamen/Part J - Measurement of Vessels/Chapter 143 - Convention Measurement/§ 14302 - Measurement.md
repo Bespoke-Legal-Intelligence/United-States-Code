@@ -18,7 +18,9 @@
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14302(a) requires the Secretary to measure a vessel to which this chapter applies, in the way provided by this chapter and by the Convention. Section 14302(b) provides that a vessel that is required to be measured under this chapter can not also be required to be measured under another law. The exception allows the Panama Canal Commission to continue to use the Canal measurement system for calculation of tolls. Section 14302(c) provides that the applicability of tonnage-based laws that become effective after July 18, 1994, will be based on Convention tonnage measurements. The applicability of tonnage-based laws in effect before July 19, 1994, which are listed by the Secretary, will also be based on Convention tonnage.Therefore, the laws that will be based on regulatory tonnage are those not listed by the Secretary by regulation and those listed in section 14305 of this legislation.
+Section 14302(a) requires the Secretary to measure a vessel to which this chapter applies, in the way provided by this chapter and by the Convention. Section 14302(b) provides that a vessel that is required to be measured under this chapter can not also be required to be measured under another law. The exception allows the Panama Canal Commission to continue to use the Canal measurement system for calculation of tolls. Section 14302(c) provides that the applicability of tonnage-based laws that become effective after July 18, 1994, will be based on Convention tonnage measurements. The applicability of tonnage-based laws in effect before July 19, 1994, which are listed by the Secretary, will also be based on Convention tonnage. Therefore, the laws that will be based on regulatory tonnage are those not listed by the Secretary by regulation and those listed in section 14305 of this legislation.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

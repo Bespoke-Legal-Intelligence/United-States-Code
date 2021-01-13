@@ -6,7 +6,7 @@
 
 &emsp;(A) new animal drugs intended for use in a minor species for which there is a reasonable certainty that the animal or edible products from the animal will not be consumed by humans or food-producing animals; and
 
-&emsp;(B) new animal drugs intended for use only in a hatchery, tank, pond, or other similarcontained man-made structure in an early, non-food life stage of a food-producing minor species, where safety for humans is demonstrated in accordance with the standard of section 360b(d) of this title (including, for an antimicrobial new animal drug, with respect to antimicrobial resistance).
+&emsp;(B) new animal drugs intended for use only in a hatchery, tank, pond, or other similar contained man-made structure in an early, non-food life stage of a food-producing minor species, where safety for humans is demonstrated in accordance with the standard of section 360b(d) of this title (including, for an antimicrobial new animal drug, with respect to antimicrobial resistance).
 
 (2) The index shall not include a new animal drug that is contained in or a product of a transgenic animal.
 
@@ -82,7 +82,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 (3) A qualified expert panel, as used in this section, is a panel that—
 
-&emsp;(A) is composed of experts qualified by scientific training and experience to evaluate thetarget animal safety and effectiveness of the new animal drug under consideration;
+&emsp;(A) is composed of experts qualified by scientific training and experience to evaluate the target animal safety and effectiveness of the new animal drug under consideration;
 
 &emsp;(B) operates external to FDA; and
 
@@ -182,6 +182,8 @@ In the case of a request under subsection (d) to add a drug to the index under s
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -194,11 +196,13 @@ The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L
 
 <b>2018</b>—Subsec. (h)(1). Pub. L. 115–234, §302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: " '
 
-Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';"
+Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';".
 
 Subsec. (h)(2). Pub. L. 115–234, §302(2), substituted "or food-producing animals" for "or other animals".
 
 <b>2015</b>—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

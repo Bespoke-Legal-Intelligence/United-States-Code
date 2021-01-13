@@ -4,6 +4,8 @@ If requested by either House of the Congress (or any committee thereof), or if c
 
 (Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1118, §2304; amended Pub. L. 102–378, §2(6), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 104–66, title II, §2181(e), Dec. 21, 1995, 109 Stat. 732; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; renumbered §2305, Pub. L. 112–199, title I, §109(a)(1), Nov. 27, 2012, 126 Stat. 1470.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2305 was renumbered section 2306 of this title.
@@ -18,7 +20,7 @@ A prior section 2305 was renumbered section 2306 of this title.
 
 &emsp;"(1) significant actions taken by the Board to carry out its functions under this title; and
 
-&emsp;"(2) significant actions of the Office of Personnel Management, including an analysis of whether or notthe actions of the Office are in accord with merit system principles and free from prohibited personnel practices."
+&emsp;"(2) significant actions of the Office of Personnel Management, including an analysis of whether or not the actions of the Office are in accord with merit system principles and free from prohibited personnel practices."
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "The" for "the" at beginning of first sentence.
 

@@ -10,9 +10,13 @@ Based on Title 35, U.S.C., 1946 ed., §44 (R.S. 4895).
 
 Language is changed and the reference to reissue is omitted in view of the general provision in section 251.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

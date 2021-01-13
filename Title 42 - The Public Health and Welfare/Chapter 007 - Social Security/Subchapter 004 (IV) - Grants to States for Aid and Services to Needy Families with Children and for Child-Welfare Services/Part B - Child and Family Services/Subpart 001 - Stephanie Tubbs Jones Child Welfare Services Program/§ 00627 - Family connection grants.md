@@ -8,7 +8,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 &emsp;&emsp;(A) shall be coordinated with other State or local agencies that promote service coordination or provide information and referral services, including the entities that provide 2–1–1 or 3–1–1 information systems where available, to avoid duplication or fragmentation of services to kinship care families;
 
-&emsp;&emsp;(B) shall be planned and operated in consultation with kinship caregivers and organizations representing them, youth raised by kinship caregivers, relevant government agencies, and relevant community-based or faith-based organizations;
+&emsp;&emsp;(B) shall be planned and operated in consultation with kinship caregivers and organizations representing them, youth raised by kinship caregivers, relevant governmentagencies, and relevant community-based or faith-based organizations;
 
 &emsp;&emsp;(C) shall establish information and referral systems that link (via toll-free access) kinship caregivers, kinship support group facilitators, and kinship service providers to—
 
@@ -96,13 +96,13 @@ A grantee under this section shall use the grant in accordance with the approved
 
 #### (h) Appropriation
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
+Out of any money in the Treasury of the United States not otherwise appropriated, thereare appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
 
 (Aug. 14, 1935, ch. 531, title IV, §427, as added Pub. L. 110–351, title I, §102(a), Oct. 7, 2008, 122 Stat. 3953; amended Pub. L. 113–183, title II, §221(a)–(d), Sept. 29, 2014, 128 Stat. 1942, 1943.)
 
 #### Prior Provisions
 
-A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I,§103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
+A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 17, 1980, Pub. L. 96–272, title I, §103(b), 94 Stat. 519; amended Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487, related to foster care protection required for additional payments, prior to repeal by Pub. L. 103–432, title II, §202(c), (e), Oct. 31, 1994, 108 Stat. 4454, effective with respect to fiscal years beginning on or after Apr. 1, 1996.
 
 #### Amendments
 

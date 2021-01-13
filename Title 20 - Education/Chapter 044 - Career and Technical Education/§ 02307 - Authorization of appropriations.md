@@ -1,18 +1,18 @@
 ### §2307. Authorization of appropriations
 
-<i>There are authorized to be appropriated to carry out this chapter (other than sections 2324 and 2327 of this title)—</i>
+There are authorized to be appropriated to carry out this chapter (other than sections 2324 and 2327 of this title)—
 
-&emsp;<i>(1) $1,229,568,538 for fiscal year 2019;</i>
+&emsp;(1) $1,229,568,538 for fiscal year 2019;
 
-&emsp;<i>(2) $1,246,782,498 for fiscal year 2020;</i>
+&emsp;(2) $1,246,782,498 for fiscal year 2020;
 
-&emsp;<i>(3) $1,264,237,452 for fiscal year 2021;</i>
+&emsp;(3) $1,264,237,452 for fiscal year 2021;
 
-&emsp;<i>(4) $1,281,936,777 for fiscal year 2022;</i>
+&emsp;(4) $1,281,936,777 for fiscal year 2022;
 
-&emsp;<i>(5) $1,299,883,892 for fiscal year 2023; and</i>
+&emsp;(5) $1,299,883,892 for fiscal year 2023; and
 
-&emsp;<i>(6) $1,318,082,266 for fiscal year 2024.</i>
+&emsp;(6) $1,318,082,266 for fiscal year 2024.
 
 (Pub. L. 88–210, §9, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, §10, July 31, 2018, 132 Stat. 1576.)
 

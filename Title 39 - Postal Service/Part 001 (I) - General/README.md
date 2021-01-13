@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title VI, §601(c), Dec. 20, 2006, 120 Stat. 3239, added item for chapter 5.

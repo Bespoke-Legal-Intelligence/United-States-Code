@@ -120,6 +120,8 @@ In this subchapter, the following definitions shall apply:
 
 (Pub. L. 107–296, title XX, §2001, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 271; amended Pub. L. 115–278, §2(g)(7)(A), Nov. 16, 2018, 132 Stat. 4180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (4)(A)(iii)(II). Pub. L. 115–278 substituted "section 664(a)(2) of this title" for "section 124l(a)(2) of this title".

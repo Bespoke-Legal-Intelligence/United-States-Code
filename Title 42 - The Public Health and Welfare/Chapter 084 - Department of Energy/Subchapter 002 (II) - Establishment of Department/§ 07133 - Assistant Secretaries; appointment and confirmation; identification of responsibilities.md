@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(G) the promulgation of such rules and regulations to implement the authority described in this paragraph,
 
-> &emsp;except that nothing in this section shall be construed as granting to the Department regulatory functions presently within the NuclearRegulatory Commission, or any additional functions than those already conferred by law.
+> &emsp;except that nothing in this section shall be construed as granting to the Department regulatory functions presently within the Nuclear Regulatory Commission, or any additional functions than those already conferred by law.
 
 &emsp;(9) Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reduce total energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
 

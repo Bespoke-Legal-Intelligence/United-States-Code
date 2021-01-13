@@ -42,9 +42,11 @@ The provisions of this section shall not apply to any project, or separable elem
 
 (Pub. L. 101–640, title III, §308, Nov. 28, 1990, 104 Stat. 4638; Pub. L. 106–53, title II, §219(a), Aug. 17, 1999, 113 Stat. 294.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Codification
 
@@ -59,6 +61,8 @@ Subsecs. (b) to (d). Pub. L. 106–53, §219(a)(2), (3), added subsec. (b) and r
 Subsec. (e). Pub. L. 106–53, §219(a)(2), (4), redesignated subsec. (d) as (e) and substituted "subsection (c)" for "subsection (b)". Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 106–53, §219(a)(2), redesignated subsec. (e) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

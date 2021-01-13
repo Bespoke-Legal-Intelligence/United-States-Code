@@ -30,6 +30,8 @@ Pubic <sup>1</sup> building.—The term "public building" means a public buildi
 
 (Added Pub. L. 114–235, §2(a)(2), Oct. 7, 2016, 130 Stat. 964.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act, referred to in subsec. (a), probably means the Americans with Disabilities Act of 1990, Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -37,6 +39,8 @@ The Americans with Disabilities Act, referred to in subsec. (a), probably means 
 #### Prior Provisions
 
 A prior section 3314 was renumbered section 3315 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability
 

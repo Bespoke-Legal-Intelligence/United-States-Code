@@ -8,7 +8,7 @@ The Secretary of Commerce shall maintain within the Department of Commerce a sta
 
 The standards information center shall—
 
-&emsp;(1) serve as the central national collection facility for information relating to (A) standards, technical regulations, conformity assessment procedures, and standards-related activities, whether such standards, technical regulations, conformity assessment procedures, or activities are public or private, domestic or foreign, or international, regional, national, or local and (B) the membership and participation of Federal, State, or local government bodies or private bodies in the United States in international and regional standardizing bodies and conformity assessment systems, as well as in bilateral and multilateral arrangements concerning standards-related activities;
+&emsp;(1) serve as the central national collection facility for information relating to (A) standards, technical regulations, conformity assessment procedures, and standards-related activities, whether such standards, technical regulations, conformity assessment procedures, or activities are public or private, domestic or foreign, or international, regional, national, or local and (B) the membership and participation of Federal, State, or local governmentbodies or private bodies in the United States in international and regional standardizing bodies and conformity assessment systems, as well as in bilateral and multilateral arrangements concerning standards-related activities;
 
 &emsp;(2) make available to the public at such reasonable fee as the Secretary shall prescribe, copies of information required to be collected under paragraph (1) other than information to which paragraph (3) applies;
 

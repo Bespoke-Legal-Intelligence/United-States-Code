@@ -10,7 +10,7 @@ Development of plans and programs.—Subject to section 5303, to accomplish the 
 
 &emsp;(2)
 
-Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systemsand facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
 &emsp;(3)
 
@@ -100,7 +100,7 @@ Use of performance measures and targets.—The performance measures and targets 
 
 &emsp;(3)
 
-Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, astatewide transportation improvement program, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to take into consideration the factorsspecified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
 
 (e)
 

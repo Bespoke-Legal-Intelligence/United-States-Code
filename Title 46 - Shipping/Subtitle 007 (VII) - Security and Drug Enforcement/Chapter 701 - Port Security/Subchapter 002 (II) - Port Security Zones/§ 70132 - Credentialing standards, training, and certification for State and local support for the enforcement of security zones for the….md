@@ -2,7 +2,7 @@
 
 (a)
 
-Standard.—The Commandant of the Coast Guard shall establish, by regulation, national standards for training and credentialing of law enforcement personnel—
+Standard.—The Commandant of the Coast Guard shall establish, by regulation, national standards for training and credentialing of public safety personnel—
 
 &emsp;(1) to enforce a security zone; or
 
@@ -16,9 +16,9 @@ Training.—
 
 &emsp;&emsp;(A) shall develop and publish a training curriculum for—
 
-&emsp;&emsp;&emsp;(i) law enforcement personnel to enforce a security zone;
+&emsp;&emsp;&emsp;(i) public safety personnel to enforce a security zone;
 
-&emsp;&emsp;&emsp;(ii) law enforcement personnel to enforce or assist in the enforcement of a security zone; and
+&emsp;&emsp;&emsp;(ii) public safety personnel to enforce or assist in the enforcement of a security zone; and
 
 &emsp;&emsp;&emsp;(iii) personnel who are employed or retained by a facility or vessel owner to assist in the enforcement of a security zone; and
 
@@ -32,11 +32,11 @@ Training.—
 
 &emsp;(2) Any Federal agency that provides such training, and any public or private entity that receives moneys, pursuant to section 70107(b)(8) of this title, to provide such training, shall provide such training—
 
-&emsp;&emsp;(A) to law enforcement personnel who enforce or assist in the enforcement of a security zone; and
+&emsp;&emsp;(A) to public safety personnel who enforce or assist in the enforcement of a security zone; and
 
 &emsp;&emsp;(B) on an availability basis to—
 
-&emsp;&emsp;&emsp;(i) law enforcement personnel who assist in the enforcement of a security zone; and
+&emsp;&emsp;&emsp;(i) public safety personnel who assist in the enforcement of a security zone; and
 
 &emsp;&emsp;&emsp;(ii) personnel who are employed or retained by a facility or vessel owner or operator to assist in the enforcement of a security zone.
 
@@ -54,7 +54,13 @@ Certification; Training Partners.—In developing and delivering training under 
 
 &emsp;(3) certify organizations that offer the curriculum for training and certification.
 
-(Added Pub. L. 111–281, title VIII, §828(a), Oct. 15, 2010, 124 Stat. 3005; amended Pub. L. 111–330, §1(16), Dec. 22, 2010, 124 Stat. 3570.)
+(d)
+
+Public Safety Personnel Defined.—For the purposes of this section, the term "public safety personnel" includes any Federal, State (or political subdivision thereof), territorial, or Tribal law enforcement officer, firefighter, or emergency response provider.
+
+(Added Pub. L. 111–281, title VIII, §828(a), Oct. 15, 2010, 124 Stat. 3005; amended Pub. L. 111–330, §1(16), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8314(2), Jan. 1, 2021, 134 Stat. 4699.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -62,7 +68,15 @@ Section 109 of the Maritime Transportation Security Act of 2002, referred to in 
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8314(2)(A), substituted "public safety personnel—" for "law enforcement personnel—" in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, §8314(2)(B), substituted "public safety personnel" for "law enforcement personnel" wherever appearing.
+
+Subsec. (d). Pub. L. 116–283, §8314(2)(C), added subsec. (d).
+
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §828(a), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

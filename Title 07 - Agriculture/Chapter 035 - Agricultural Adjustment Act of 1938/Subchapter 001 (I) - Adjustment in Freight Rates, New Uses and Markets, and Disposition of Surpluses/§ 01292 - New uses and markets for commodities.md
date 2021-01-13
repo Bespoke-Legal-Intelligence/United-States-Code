@@ -14,7 +14,7 @@ In carrying out the purposes of subsection (a), the Secretary is authorized and 
 
 #### (d) Appropriation for purposes of subsection (a)
 
-To carry out the purposes of subsection (a), the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to section1391 of this title, or section 590o of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
+To carry out the purposes of subsection (a), the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to section 1391 of this title, or section 590o of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
 
 #### (e) Repealed. Aug. 30, 1954, ch. 1076, §1(3), 68 Stat. 966
 
@@ -30,7 +30,7 @@ It shall be the duty of the Secretary to use available funds to stimulate and wi
 
 #### Amendments
 
-<b>1954</b>—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activities of, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
+<b>1954</b>—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activitiesof, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
 
 #### Wheat Research and Promotion Act
 

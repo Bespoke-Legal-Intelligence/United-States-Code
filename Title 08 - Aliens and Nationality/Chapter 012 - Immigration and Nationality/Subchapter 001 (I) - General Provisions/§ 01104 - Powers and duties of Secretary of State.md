@@ -22,6 +22,8 @@ There shall be a General Counsel of the Visa Office, who shall be appointed by t
 
 (June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), and (e), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -52,9 +54,11 @@ Subsec. (f). Pub. L. 95–105, §109(b)(1)(D), struck out subsec. (f) which plac
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–510 provided for appointment of Administrator of Bureau of Security and Consular Affairs by President by and with advice and consent of Senate.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments bysections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1964 Amendment
 

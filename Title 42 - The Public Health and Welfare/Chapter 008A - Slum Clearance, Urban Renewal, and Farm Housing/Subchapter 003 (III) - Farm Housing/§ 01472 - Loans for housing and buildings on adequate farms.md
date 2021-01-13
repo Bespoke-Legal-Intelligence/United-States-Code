@@ -8,7 +8,7 @@
 
 (3)(A) Notwithstanding any other provision of this subchapter, a loan may be made under this section for the purchase of a dwelling located on land owned by a community land trust, if the borrower and the loan otherwise meet the requirements applicable to loans under this section.
 
-(B) For purposes of this paragraph, the term "community land trust" means a community housing development organization as such term is defined in section 12704 of this title (except that the requirements under section 12704(6)(C) of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
+(B) For purposes of this paragraph, the term "community land trust" means a community housing development organization as such term is defined in section 12704 of this title (exceptthat the requirements under section 12704(6)(C) of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
 
 &emsp;(i) that is not sponsored by a for-profit organization;
 
@@ -68,7 +68,7 @@ Assistance available to borrower to extend low income use.—To the extent of am
 
 &emsp;(iii) Additional rental assistance, or an increase in assistance provided under existing contracts, under section 1490a(a)(2) or 1490a(a)(5) of this title or under section 1437f of this title.
 
-&emsp;(iv) An equity loan to the borrower under paragraphs (1) and (2) of section 1485(c) of this title or under paragraphs (1) and (2) of section 1484(j) <sup>1</sup> of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement oftenants of the housing for which the loan was made.
+&emsp;(iv) An equity loan to the borrower under paragraphs (1) and (2) of section 1485(c) of this title or under paragraphs (1) and (2) of section 1484(j) <sup>1</sup> of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made.
 
 &emsp;(v) Incremental rental assistance in connection with loans under clauses (ii) and (iv) to the extent necessary to avoid increases in the rental payments of current tenants not receiving rental assistance under section 1490a(a)(2) of this title or under section 1437f of this title, or current tenants of projects not assisted under section 1490a(a)(5) of this title.
 
@@ -122,7 +122,7 @@ Financing of sale.—To facilitate the sale described in subparagraph (A), the S
 
 &emsp;(ii) approve the assumption, by the nonprofit organization or public agency involved, of the loan made or insured under section 1484 or 1485 of this title;
 
-&emsp;(iii) to the extent provided in appropriation Acts, transfer any rental assistance payments that are received under section 1490a(a)(2)(A) of this title or under section 1437f of this title, or any assistance payments received under section 1490a(a)(5) of this title, with respect to the housing and related facilities involved; and
+&emsp;(iii) to the extent provided in appropriation Acts, transfer any rental assistance payments that are received under section 1490a(a)(2)(A) of this title or under section 1437f of this title, or any assistance payments received undersection 1490a(a)(5) of this title, with respect to the housing and related facilities involved; and
 
 &emsp;(iv) to the extent provided in appropriation Acts, provide a loan under section 1485(c)(3) of this title to the nonprofit organization or public agency whose offer to purchase is accepted under this paragraph to enable the organization or agency to purchase the housing and related facilities involved.
 
@@ -390,7 +390,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) is an adult;
 
-&emsp;&emsp;&emsp;(ii) has not worked full-time full-year in the labor force for a number of years but has, during such years, worked primarily without remuneration to care for the home and family; and
+&emsp;&emsp;&emsp;(ii) has not worked full-time full-year in the labor force for a number of years buthas, during such years, worked primarily without remuneration to care for the home and family; and
 
 &emsp;&emsp;&emsp;(iii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -398,7 +398,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this subparagraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
-&emsp;&emsp;&emsp;(ii) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this subparagraph on the basis that the individual, while married, owned a home with his orher spouse or resided in a home owned by the spouse.
+&emsp;&emsp;&emsp;(ii) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this subparagraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse.
 
 &emsp;&emsp;(C) The term "single parent" means an individual who—
 
@@ -450,7 +450,7 @@ On and after November 30, 1983—
 
 &emsp;Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805; Pub. L. 115–141, div. A, title VII, §758, Mar. 23, 2018, 132 Stat. 395.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat.2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805; Pub. L. 115–141, div. A, title VII, §758, Mar. 23, 2018, 132 Stat. 395.)
 
 #### References in Text
 
@@ -700,7 +700,7 @@ Findings.—The Congress finds that—
 
 "(2)
 
-Purpose.—The purpose of this section \[amending this section and section 1701x of Title 12, Banks and Banking, and enacting provisions set out above\] is toexpand homeownership opportunities to low- and moderate-income residents of rural areas of the country through the establishment of guaranteed rural housing loans to be made available in rural locations where there is an insufficient availability of mortgage financing from other sources."
+Purpose.—The purpose of this section \[amending this section and section 1701x of Title 12, Banks and Banking, and enacting provisions set out above\] is to expand homeownership opportunities to low- and moderate-income residents of rural areas of the country through the establishment of guaranteed rural housing loans to be made available in rural locations where there is an insufficient availability of mortgage financing from other sources."
 
 #### Rural Housing Guaranteed Loan Demonstration
 
@@ -714,7 +714,7 @@ Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1
 
 #### Study and Report of Comparison of Construction Costs and Energy Savings Between Manufactured Homes Built Under National Manufactured Housing Safety Standards and Other Homes
 
-Pub. L. 98–181, title I \[title V, §503(b)\], Nov. 30, 1983, 97 Stat. 1241, provided that: "Within 18 months from the issuance by the Secretary of Agriculture of regulations under section 502(e)(2) of the Housing Act of 1949 \[subsec. (e)(2) of this section\], the Secretary of Energy, in consultation with the Secretary of Housing and Urban Development and the Secretary of Agriculture, shall conduct a study and transmit to the Congress a report that compares the increased construction costs, actual annual energy use, and the projected value of energy saved over the expected life of the home or the mortgage term, whichever is shorter, of manufactured homes which are financed under titles I and II of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq.\], or under title V of the Housing Act of 1949 \[this subchapter\] and which are built according to national manufactured housing safety standards with other homes insured under either such Act."
+Pub. L. 98–181, title I \[title V, §503(b)\], Nov. 30, 1983, 97 Stat. 1241, provided that within 18 months from the issuance by the Secretary of Agriculture of regulations under subsec. (e)(2) of this section, the Secretary of Energy, in consultation with the Secretary of Housing and Urban Development and the Secretary of Agriculture, would conduct a study and transmit to the Congress a report comparing the increased construction costs, actual annual energy use, and the projected value of energy saved over the expected life of the home or the mortgage term, whichever is shorter, of manufactured homes financed under titles I and II of the National Housing Act (12 U.S.C. 1702 et seq., 1707 et seq.), or under this subchapter and built according to national manufactured housing safety standards.
 
 #### Study and Report to Congress of Adverse Effects on Housing of Prepayment of Loans
 

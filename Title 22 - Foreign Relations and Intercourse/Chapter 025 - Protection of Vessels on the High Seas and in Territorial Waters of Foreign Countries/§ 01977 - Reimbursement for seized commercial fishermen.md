@@ -8,7 +8,7 @@ The Secretary, upon receipt of an application filed with him at any time after t
 
 &emsp;(2) the owner of such vessel and its crew for the market value of fish caught before seizure of such vessel and confiscated or spoiled during the period of detention; and
 
-&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of State, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the United States engaged in the same fishery as that of the type and size of the seized vessel.
+&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of State, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the UnitedStates engaged in the same fishery as that of the type and size of the seized vessel.
 
 #### (b) Distribution of payments according to commercial fishing practices and procedures
 
@@ -35,6 +35,8 @@ For the purposes of this section—
 &emsp;(2) the term "owner" includes any charterer of a commercial fishing vessel.
 
 (Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, §102, Nov. 7, 2000, 114 Stat. 1941; Pub. L. 107–228, div. A, title II, §209, Sept. 30, 2002, 116 Stat. 1365; Pub. L. 108–219, title III, §302, Apr. 13, 2004, 118 Stat. 616; Pub. L. 114–323, title VII, §705, Dec. 16, 2016, 130 Stat. 1942.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -77,6 +79,8 @@ Subsec. (e). Pub. L. 97–68, §1(2), substituted "October 1, 1984" for "October
 Subsec. (e). Pub. L. 92–594, §1, extended provisions of this section until July 1, 1977, and struck out provisions relating to issuance of regulations.
 
 Subsec. (f)(1). Pub. L. 92–594, §2, substituted "Secretary of Commerce" for "Secretary of the Interior".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

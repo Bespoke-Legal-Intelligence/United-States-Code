@@ -48,6 +48,8 @@ For purposes of this section—
 
 (Pub. L. 111–117, div. F, title VII, §7081(g), Dec. 16, 2009, 123 Stat. 3398; Pub. L. 113–76, div. K, title VII, §7034(i), Jan. 17, 2014, 128 Stat. 514.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2010, and also as part of the Consolidated Appropriations Act, 2010, and not as part of part C of the Global Environmental Protection Assistance Act of 1989 which comprises this chapter.
@@ -55,6 +57,8 @@ Section was enacted as part of the Department of State, Foreign Operations, and 
 #### Amendments
 
 <b>2014</b>—Par. (3). Pub. L. 113–76 struck out par. (3), which established a reporting requirement for operations and governance of the Fund.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Continuation of Prior Law
 

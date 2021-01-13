@@ -22,7 +22,7 @@ Pub. L. 104–188, title I, §1953, Aug. 20, 1996, 110 Stat. 1926, provided that
 
 "(a)
 
-In General.—The amendments made by this subtitle \[subtitle J (§§1951–1954) of title I of Pub. L. 104–188, enacting this subchapter, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, section 1444–2 of Title 7, Agriculture, section 4711 of Title 15, Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and section 871 of Title 26,Internal Revenue Code, and enacting provisions set out as a note under section 2101 of this title\] apply to articles entered on or after October 1, 1996.
+In General.—The amendments made by this subtitle \[subtitle J (§§1951–1954) of title I of Pub. L. 104–188, enacting this subchapter, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, section 1444–2 of Title 7, Agriculture, section 4711 of Title 15, Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and section 871 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 2101 of this title\] apply to articles entered on or after October 1, 1996.
 
 "(b)
 

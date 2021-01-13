@@ -80,7 +80,7 @@ Not later than 30 days after receiving a written notification under subsection (
 
 &emsp;&emsp;(C) a description of any impacts the cost increase, or the actions described under subparagraph (B), will have on any other program within NOAA; and
 
-&emsp;(2) if the Under Secretary intends to continue with the program, promptly initiate ananalysis of the program, which shall include, at a minimum—
+&emsp;(2) if the Under Secretary intends to continue with the program, promptly initiate an analysis of the program, which shall include, at a minimum—
 
 &emsp;&emsp;(A) the projected cost and schedule for completing the program if current requirements of the program are not modified;
 
@@ -93,6 +93,8 @@ Not later than 30 days after receiving a written notification under subsection (
 NOAA shall complete an analysis initiated under subsection (e)(2) not later than 6 months after the Under Secretary makes a determination under subsection (e). The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
 
 (Pub. L. 112–55, div. B, title I, §105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, §105(a), Mar. 26, 2013, 127 Stat. 242.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -108,11 +110,15 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 <b>2013</b>—Subsec. (f). Pub. L. 113–6 substituted "subsection (e)(2)" for "paragraph (2)" and "subsection (e)" for "this subsection".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Requirements Adopted by Reference
 
-Pub. L. 116–93, div. B, title I, §104, Dec. 20, 2019, 133 Stat. 2394, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2020".
+Pub. L. 116–260, div. B, title I, §104, Dec. 27, 2020, 134 Stat. 1243, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2021".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title I, §104, Dec. 20, 2019, 133 Stat. 2394.
 
 Pub. L. 116–6, div. C, title I, §104, Feb. 15, 2019, 133 Stat. 100.
 

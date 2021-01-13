@@ -62,9 +62,11 @@
 
 (e) If the Attorney General determines that harm to a person for whom protection may be provided under section 3521 of this title is imminent or that failure to provide immediate protection would otherwise seriously jeopardize an ongoing investigation, the Attorney General may provide temporary protection to such person under this chapter before making the written assessment and determination required by subsection (c) of this section or entering into the memorandum of understanding required by subsection (d) of this section. In such a case the Attorney General shall make such assessment and determination and enter into such memorandum of understanding without undue delay after the protection is initiated.
 
-(f) The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
+(f) The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminatingsuch protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
 
 (Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, §3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, §115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, §506(a)(7), Mar. 9, 2006, 120 Stat. 248.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–647, §3582(1), inserted "(G)" after "subparagraph" in last sentence.
 
 Subsec. (d)(3). Pub. L. 101–647, §3582(2), inserted "the" before "Civil Rights Division".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

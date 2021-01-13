@@ -74,6 +74,9 @@
 | 1862s–7. | Computer science education research. |
 | 1862s–8. | Innovation Corps. |
 | 1862s–9. | Translational research grants. |
+| [1862t.](%C2%A7%2001862t%20-%20Supporting%20veterans%20in%20STEM%20education%20and%20computer%20science.md) | Supporting veterans in STEM education and computer science. |
+| [1862u.](%C2%A7%2001862u%20-%20NSF%20support%20of%20research%20on%20opioid%20addiction.md) | NSF support of research on opioid addiction. |
+| [1862v.](%C2%A7%2001862v%20-%20National%20Science%20Foundation%20research.md) | National Science Foundation research. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
@@ -190,6 +193,9 @@
 - [&sect; 01862s&#8211;7 - Computer science education research](%C2%A7%2001862s%E2%80%937%20-%20Computer%20science%20education%20research.md)
 - [&sect; 01862s&#8211;8 - Innovation Corps](%C2%A7%2001862s%E2%80%938%20-%20Innovation%20Corps.md)
 - [&sect; 01862s&#8211;9 - Translational research grants](%C2%A7%2001862s%E2%80%939%20-%20Translational%20research%20grants.md)
+- [&sect; 01862t - Supporting veterans in STEM education and computer science](%C2%A7%2001862t%20-%20Supporting%20veterans%20in%20STEM%20education%20and%20computer%20science.md)
+- [&sect; 01862u - NSF support of research on opioid addiction](%C2%A7%2001862u%20-%20NSF%20support%20of%20research%20on%20opioid%20addiction.md)
+- [&sect; 01862v - National Science Foundation research](%C2%A7%2001862v%20-%20National%20Science%20Foundation%20research.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)

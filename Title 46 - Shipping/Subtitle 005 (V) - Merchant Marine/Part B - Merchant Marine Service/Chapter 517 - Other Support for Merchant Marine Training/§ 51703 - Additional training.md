@@ -34,6 +34,8 @@ In subsection (a), before paragraph (1), the words "as the Secretary deems neces
 
 In subsection (b), the words "with any person, partnership, firm, association, or corporation" and "the performance of" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)".

@@ -6,7 +6,7 @@ No financial assistance may be provided to any project under section 2991b of th
 
 #### (b) Notification to chief executive officer of State or Territory
 
-No financial assistance may be provided to any project under section 2991b of this title orany research, demonstration, or pilot project under section 2991d of this title, which is to be carried out in a State or Territory other than on or in an Indian reservation or Alaska Native village or Hawaiian Homestead, unless the Commissioner has notified the chief executive officer of the State or Territory of the decision of the Commissioner to provide that assistance.
+No financial assistance may be provided to any project under section 2991b of this title or any research, demonstration, or pilot project under section 2991d of this title, which is to be carried out in a State or Territory other than on or in an Indian reservation or Alaska Native village or Hawaiian Homestead, unless the Commissioner has notified the chief executive officer of the State or Territory of the decision of the Commissioner to provide that assistance.
 
 #### (c) Notification to local governing officials of political subdivision
 

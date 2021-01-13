@@ -24,7 +24,7 @@ The Commission shall assess and collect application fees at such rates as the Co
 
 #### (3) Current amount defined
 
-&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the feewas last amended under subsection (c), whichever is latest.
+&emsp;In paragraph (2), the term "current amount" means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the fee was last amended under subsection (c), whichever is latest.
 
 #### (c) Amendments to schedule
 
@@ -54,7 +54,9 @@ In addition to the adjustments required by subsection (b), the Commission shall 
 
 Moneys received from application fees established under this section shall be deposited in the general fund of the Treasury.
 
-(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b), Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 115–141, div. P, title I, §102(a), Mar. 23, 2018, 132 Stat. 1082.)
+(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b), Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 115–141, div. P, title I, §102(a), Mar. 23, 2018, 132 Stat. 1082.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -105,6 +107,8 @@ Subsec. (d)(1). Pub. L. 101–239, §3001(b)(3), substituted "(A) to governmenta
 Subsec. (g). Pub. L. 101–239, §3001(a), added subsec. (g).
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–594 substituted "two years after April 1, 1987," for "two years after April 7, 1986,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

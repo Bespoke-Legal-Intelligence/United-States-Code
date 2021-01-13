@@ -38,7 +38,7 @@ As used in this subchapter:
 
 &emsp;(11) The term "State median income" means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
-(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27,1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Par. (1)(E). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(EE), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1998</b>—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+<b>1998</b>—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2)as (2) and (3), respectively. Former par. (3) redesignated (4).
 
 Par. (4). Pub. L. 105–285, §304(a)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 

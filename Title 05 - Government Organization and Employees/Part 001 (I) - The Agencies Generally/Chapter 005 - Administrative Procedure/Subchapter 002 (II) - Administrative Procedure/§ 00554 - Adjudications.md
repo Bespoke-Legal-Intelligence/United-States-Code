@@ -30,7 +30,7 @@
 
 &emsp;(2) to the extent that the parties are unable so to determine a controversy by consent, hearing and decision on notice and in accordance with sections 556 and 557 of this title.
 
-(d) The employee who presides at the reception of evidence pursuant to section 556 of this title shall make the recommended decision or initial decision required by section 557 of this title, unless he becomes unavailable to the agency. Except to the extent required for the disposition of ex parte matters as authorized by law, such an employee may not—
+(d) The employee who presides at the reception of evidence pursuant to section 556 of thistitle shall make the recommended decision or initial decision required by section 557 of this title, unless he becomes unavailable to the agency. Except to the extent required for the disposition of ex parte matters as authorized by law, such an employee may not—
 
 &emsp;(1) consult a person or party on a fact in issue, unless on notice and opportunity for all parties to participate; or
 
@@ -77,6 +77,8 @@ In subsection (c)(2), the comma after the word "hearing" is omitted to correct a
 In subsection (d), the words "The employee" and "such an employee" are substituted in the first two sentences for "The same officers" and "such officers" in view of the definition of "employee" in section 2105. The word "officer" is omitted in the third and fourth sentences as included in "employee" as defined in section 2105. The prohibition in the third and fourth sentences is restated in positive form. In paragraph (C) of the last sentence, the words "in any manner" are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

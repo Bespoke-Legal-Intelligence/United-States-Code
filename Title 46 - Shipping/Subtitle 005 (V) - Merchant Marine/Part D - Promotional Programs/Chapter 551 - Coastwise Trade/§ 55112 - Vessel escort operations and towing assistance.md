@@ -8,7 +8,7 @@ In General.—Except in the case of a vessel in distress, only a vessel of the U
 
 &emsp;(2) Operations required by United States law or regulation.
 
-&emsp;(3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St.Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
+&emsp;(3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United StatesGovernment or the approaches to those facilities, other than facilities operated by the Great Lakes St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
 
 (b)
 
@@ -26,7 +26,7 @@ Relationship to Other Law.—This section does not affect section 55111 of this 
 
 Penalty.—A person violating this section is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1638.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1638; Pub. L. 116–260, div. AA, title V, §512(c)(6)(D), Dec. 27, 2020, 134 Stat. 2757.)
 
 Historical and Revision Notes
 
@@ -45,4 +45,10 @@ Historical and Revision Notes
 Pub. L. 107–295, title IV, §404, Nov. 25, 2002, 116 Stat. 2114.
 
 In subsection (a), the words "(as that term is defined in section 2101 of title 46, United States Code)" are omitted because the definition of "vessel of the United States" is being moved from section 2101 to chapter 1 of the revised title and will apply title-wide.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a)(3). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "St. Lawrence Seaway Development Corporation".
 

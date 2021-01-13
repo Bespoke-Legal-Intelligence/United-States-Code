@@ -14,7 +14,7 @@ The following cost-of-living allowances may be granted, when applicable, to an e
 
 &emsp;(4) An education allowance or payment of travel costs to assist an employee with the extraordinary and necessary expenses, not otherwise compensated for, incurred because of his service in a foreign area or foreign areas in providing adequate education for his dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas), as follows:
 
-&emsp;&emsp;(A) An allowance not to exceed the cost of obtaining such kindergarten, elementary and secondary educational services as are ordinarily provided without charge by the public schools in the United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act), plus, in those cases when adequate schools are not available at the post of the employee, board and room, and periodic transportation between that post and the school chosen by the employee, not to exceed the total cost to the Government of the dependent attending an adequate school in the nearest United States locality where an adequate school is available, without regard to section 3324(a) and (b) of title 31. When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post. The amount of the allowance granted shall be determined on the basis of the educational facility used.
+&emsp;&emsp;(A) An allowance not to exceed the cost of obtaining such kindergarten, elementary and secondary educational services as are ordinarily provided without charge by the public schools in the United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act), plus, in thosecases when adequate schools are not available at the post of the employee, board and room, and periodic transportation between that post and the school chosen by the employee, not to exceed the total cost to the Government of the dependent attending an adequate school in the nearest United States locality where an adequate school is available, without regard to section 3324(a) and (b) of title 31. When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post. The amount of the allowance granted shall be determined on the basis of the educational facility used.
 
 &emsp;&emsp;(B) The travel expenses of dependents of an employee to and from a secondary or post-secondary educational institution, not to exceed one annual trip each way for each dependent, except that an allowance payment under subparagraph (A) may not be made for a dependent during the 12 months following the arrival of the dependent at the selected educational institution under authority contained in this subparagraph.
 
@@ -41,6 +41,8 @@ Sept. 6, 1960, Pub. L. 86–707, §221, 74 Stat. 794.
 In paragraph (1), the word "Washington" is omitted as covered by "District of Columbia".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -94,6 +96,8 @@ Pub. L. 96–53 substituted "(i) in the case of dependents traveling to obtain s
 
 <b>1971</b>—Par. (3). Pub. L. 92–187 substituted "the employee's post" for "his post" and "the employee's spouse or" for "his wife or his".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
@@ -101,6 +105,8 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

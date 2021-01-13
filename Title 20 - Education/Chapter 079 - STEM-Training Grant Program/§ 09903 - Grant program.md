@@ -10,7 +10,7 @@ In the administration of this chapter, the Director shall take such steps as may
 
 #### (c) Amount of grant
 
-Subject to the requirements of subsection (d), the Director may award grants annually on acompetitive basis to institutions of higher education in the amount of $2,000,000, per institution of which—
+Subject to the requirements of subsection (d), the Director may award grants annually on a competitive basis to institutions of higher education in the amount of $2,000,000, per institution of which—
 
 &emsp;(1) $1,500,000 shall be used—
 

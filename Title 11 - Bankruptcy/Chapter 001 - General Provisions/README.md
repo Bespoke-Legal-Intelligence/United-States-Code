@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.

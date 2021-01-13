@@ -2,7 +2,7 @@
 
 #### (a) Security functions
 
-(1) The Secretary of State shall develop and implement (in consultation with the heads of other Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
+(1) The Secretary of State shall develop and implement (in consultation with the heads ofother Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
 
 &emsp;(A) protection of all United States Government personnel on official duty abroad (other than Voice of America correspondents on official assignment and those personnel under the command of a United States area military commander) and their accompanying dependents;
 
@@ -90,6 +90,8 @@ As used in this subchapter and subchapter III, the term "Federal agency" include
 
 (Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, §505(a), Sept. 30, 2002, 116 Stat. 1393.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
@@ -111,6 +113,8 @@ Pub. L. 103–236 designated existing provisions as par. (1), redesignated forme
 Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -136,7 +140,7 @@ In General.—Pursuant to the responsibility of the Secretary \[of State\] for d
 
 "(b)
 
-Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classified annex as necessary, that addresses the requirements specified in subsection (a)."
+Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classifiedannex as necessary, that addresses the requirements specified in subsection (a)."
 
 #### Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense
 

@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (1) Section 501(c)(3) organization
 
-&emsp;The term "section 501(c)(3) organization" means any organization which (without regardto any political expenditure) would be described in section 501(c)(3) and exempt from taxation under section 501(a).
+&emsp;The term "section 501(c)(3) organization" means any organization which (without regard to any political expenditure) would be described in section 501(c)(3) and exempt from taxation under section 501(a).
 
 #### (2) Organization manager
 

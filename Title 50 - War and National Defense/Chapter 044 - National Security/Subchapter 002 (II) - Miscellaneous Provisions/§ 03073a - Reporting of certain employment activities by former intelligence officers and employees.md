@@ -48,7 +48,7 @@ Certification.—Not later than 180 days after the date of the enactment of this
 
 &emsp;"(A) a certification that each head of an element of the intelligence community has prescribed the regulations required under section 304 of the National Security Act of 1947, as added by subsection (a) of this section; or
 
-&emsp;"(B) if the Director is unable to submit the certification described under subparagraph (A), an explanation as to why the Director is unable to submit such certification, including a designation of whichheads of an element of the intelligence community have prescribed the regulations required under such section 304 and which have not."
+&emsp;"(B) if the Director is unable to submit the certification described under subparagraph (A), an explanation as to why the Director is unable to submit such certification, including a designation of which heads of an element of the intelligence community have prescribed the regulations required under such section 304 and which have not."
 
 \[For definitions of terms used in section 305(b) of Pub. L. 113–293, set out above, see section 2 of Pub. L. 113–293, set out as a note under section 3003 of this title.\]
 

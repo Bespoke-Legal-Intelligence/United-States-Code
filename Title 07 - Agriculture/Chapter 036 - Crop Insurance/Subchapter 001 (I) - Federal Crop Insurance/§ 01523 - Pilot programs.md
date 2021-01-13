@@ -32,7 +32,7 @@
 
 &emsp;The Corporation may—
 
-&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
+&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interestsof affected producers and the interests of, and risks to, the Corporation;
 
 &emsp;&emsp;(B) operate the pilot program, including any modifications of the pilot program, for a period of up to 4 years;
 
@@ -274,7 +274,7 @@
 
 #### (B) Amount
 
-&emsp;&emsp;The premium subsidy shall provide a similar dollar amount of premium subsidy peracre that the Corporation pays for comparable policies or plans of insurance reinsured under this subchapter, except that in no case shall the premium subsidy exceed 60 percent of total premium, as determined by the Corporation.
+&emsp;&emsp;The premium subsidy shall provide a similar dollar amount of premium subsidy per acre that the Corporation pays for comparable policies or plans of insurance reinsured under this subchapter, except that in no case shall the premium subsidy exceed 60 percent of total premium, as determined by the Corporation.
 
 #### (C) Calculation
 

@@ -152,7 +152,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 &emsp;&emsp;&emsp;(ii) the Administrator pursuant to paragraph (2)(B) or paragraph (5); or
 
-&emsp;&emsp;(B) the applicable criteria for coal combustion residuals units under part 257 of title 40,Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+&emsp;&emsp;(B) the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
 
 #### (7) Effect of subsection
 

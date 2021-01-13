@@ -32,7 +32,7 @@
 
 #### (7) Support services
 
-&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use a portion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
+&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use aportion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
 
 #### (b) Encore Fellowships
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) select not more than 10 individuals from each State; and
 
-&emsp;&emsp;&emsp;(ii) give priority to individuals with skills and experience for which there is anongoing high demand in the nonprofit sector and government.
+&emsp;&emsp;&emsp;(ii) give priority to individuals with skills and experience for which there is an ongoing high demand in the nonprofit sector and government.
 
 #### (4) Listed organizations
 
@@ -160,7 +160,7 @@
 
 #### (c) Evaluations
 
-The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation'sResource Center or a clearinghouse of effective strategies.
+The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation's Resource Center or a clearinghouse of effective strategies.
 
 (Pub. L. 101–610, title I, §198C, as added Pub. L. 111–13, title I, §1805, Apr. 21, 2009, 123 Stat. 1559.)
 

@@ -84,7 +84,7 @@ Section 2466b, Pub. L. 88–210, title V, §505, as added Pub. L. 101–392, tit
 
 Section 2466c, Pub. L. 88–210, title V, §506, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831, provided for consistency of this chapter with Federal laws guaranteeing civil rights.
 
-Section 2466d, Pub. L. 88–210, title V, §507, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104Stat. 831, related to student assistance and other Federal programs.
+Section 2466d, Pub. L. 88–210, title V, §507, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to student assistance and other Federal programs.
 
 Section 2466e, Pub. L. 88–210, title V, §508, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to Federal monitoring of compliance with this chapter.
 

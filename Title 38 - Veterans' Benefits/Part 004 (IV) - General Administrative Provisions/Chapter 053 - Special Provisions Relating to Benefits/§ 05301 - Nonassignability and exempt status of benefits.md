@@ -12,7 +12,7 @@
 
 (b) This section shall prohibit the collection by setoff or otherwise out of any benefits payable pursuant to any law administered by the Secretary and relating to veterans, their estates, or their dependents, of any claim of the United States or any agency thereof against (1) any person other than the indebted beneficiary or the beneficiary's estate; or (2) any beneficiary or the beneficiary's estate except amounts due the United States by such beneficiary or the beneficiary's estate by reason of overpayments or illegal payments made under such laws to such beneficiary or the beneficiary's estate or to the beneficiary's dependents as such. If the benefits referred to in the preceding sentence are insurance payable by reason of yearly renewable term insurance, United States Government life insurance, or National Service Life Insurance issued by the United States, the exemption provided in this section shall not apply to indebtedness existing against the particular insurance contract upon the maturity of which the claim is based, whether such indebtedness is in the form of liens to secure unpaid premiums or loans, or interest on such premiums or loans, or indebtedness arising from overpayments of dividends, refunds, loans, or other insurance benefits.
 
-(c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of any compensation or pension payable to the veteran under laws administered by the Secretary the uncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
+(c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of anycompensation or pension payable to the veteran under laws administered by the Secretary the uncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
 
 (2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section 3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving any payment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
 
@@ -37,6 +37,8 @@
 > the retired or retirement pay of such person shall be exempt from taxation, as provided in subsection (a) of this section, in an amount equal to the amount of pension or compensation which would have been paid to such person but for the receipt by such person of such pay.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1229, §3101; Pub. L. 94–502, title VII, §701, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–479, title III, §301, Oct. 18, 1978, 92 Stat. 1564; Pub. L. 97–295, §4(74), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–576, title V, §504, title VII, §701(68), Oct. 28, 1986, 100 Stat. 3286, 3296; Pub. L. 101–189, div. A, title XIV, §1404(b)(2), Nov. 29, 1989, 103 Stat. 1586; Pub. L. 102–25, title VII, §705(c)(2), Apr. 6, 1991, 105 Stat. 120; renumbered §5301 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(2), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(1), (2)(A)(vii), (b)(1), (2)(E), (4)(C), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–86, title V, §505(a), Aug. 14, 1991, 105 Stat. 426; Pub. L. 108–183, title VII, §702, Dec. 16, 2003, 117 Stat. 2671.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ Subsecs. (d), (e). Pub. L. 99–576, §504(1), redesignated former subsecs. (c) 
 <b>1978</b>—Subsec. (d). Pub. L. 95–479 added subsec. (d).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502 inserted provision which prohibits, as an assignment, a payee of an educational assistance allowance from designating an attorney-in-fact's address as the payee's address for the purpose of receiving checks and benefits where the attorney-in-fact has also been given authority to negotiate the checks and benefits.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

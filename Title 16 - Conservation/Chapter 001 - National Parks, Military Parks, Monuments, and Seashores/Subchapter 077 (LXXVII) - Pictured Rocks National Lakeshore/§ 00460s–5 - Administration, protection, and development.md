@@ -26,7 +26,7 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in s
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–378, §202(1), substituted "including appropriate improvements to Alger County Road H–58" for "including a scenic shoreline drive".
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–378, §202(1), substituted "including appropriate improvements to AlgerCounty Road H–58" for "including a scenic shoreline drive".
 
 Subsec. (c). Pub. L. 105–378, §202(2), added subsec. (c).
 

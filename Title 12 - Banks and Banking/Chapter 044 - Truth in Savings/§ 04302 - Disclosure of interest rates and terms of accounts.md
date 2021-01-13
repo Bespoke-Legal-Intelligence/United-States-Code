@@ -22,7 +22,7 @@ The Bureau may, by regulation, exempt advertisements, announcements, or solicita
 
 #### (c) Disclosure required for on-premises displays
 
-The disclosure requirements contained in this section shall not apply to any sign (including arate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
+The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
 &emsp;(1) the accompanying annual percentage yield; and
 
@@ -46,6 +46,8 @@ No depository institution or deposit broker shall make any advertisement, announ
 
 (Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, §2604(b), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted "Bureau" for "Board" in two places.
@@ -55,6 +57,8 @@ No depository institution or deposit broker shall make any advertisement, announ
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §957(a)(1), substituted "subsections (b) and (c)" for "subsection (b)".
 
 Subsecs. (c) to (e). Pub. L. 102–550, §957(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

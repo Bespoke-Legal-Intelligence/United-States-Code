@@ -4,7 +4,7 @@
 
 In General.—Not later than 3 years after the date of enactment of this chapter—
 
-&emsp;(1) the Secretary and the Director shall jointly issue guidance to all agencies directingthe agencies to apply the data standards established under section 6402(a) to all applicable reporting by recipients of Federal awards; and
+&emsp;(1) the Secretary and the Director shall jointly issue guidance to all agencies directing the agencies to apply the data standards established under section 6402(a) to all applicable reporting by recipients of Federal awards; and
 
 &emsp;(2) the Director shall prescribe guidance applying the data standards established under section 6402(a) to audit-related information reported under chapter 75 of this title.
 
@@ -35,6 +35,8 @@ In general.—Not less frequently than once every 10 years, the Director shall u
 Procedures.—In updating guidance under paragraph (1), the Director shall, to the maximum extent practicable, follow the procedures for the development of the data standards and guidance prescribed under this section and section 6402.
 
 (Added Pub. L. 116–103, §4(a), Dec. 30, 2019, 133 Stat. 3269.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

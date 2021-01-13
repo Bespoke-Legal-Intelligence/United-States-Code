@@ -14,6 +14,8 @@ Mental Illness.—For purposes of this chapter, any veteran of the Persian Gulf 
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §602; Pub. L. 90–77, title II, §203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, §4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, §701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, §334(b), Apr. 6, 1991, 105 Stat. 88; renumbered §1702, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–181, div. A, title XVII, §1708(a)(1), (2), Jan. 28, 2008, 122 Stat. 493, 494.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §1708(a)(2), substituted "Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War" for "Presumption relating to psychosis" in section catchline.
@@ -29,6 +31,8 @@ Pub. L. 102–25 substituted "the Vietnam era, or the Persian Gulf War" for "or 
 <b>1982</b>—Pub. L. 97–295 substituted "before February 1, 1957, in the case of a veteran of the Korean conflict, or before May 8, 1977," for "or February 1, 1957, in the case of a veteran of the Korean conflict, or before the expiration of two years following termination of the Vietnam era".
 
 <b>1967</b>—Pub. L. 90–77 made the presumption relating to psychosis applicable to any veteran of the Vietnam era who developed an active psychosis within two years after his discharge from active service and before the expiration of two years following termination of the Vietnam era.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

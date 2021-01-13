@@ -4,9 +4,13 @@ Each production credit association and each Federal land bank association shall 
 
 (Pub. L. 92–181, title IV, §4.15, Dec. 10, 1971, 85 Stat. 613; Pub. L. 100–399, title IX, §901(g), Aug. 17, 1988, 102 Stat. 1007.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–399 substituted "bank directors" for "district directors" and "bank board" for "district board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

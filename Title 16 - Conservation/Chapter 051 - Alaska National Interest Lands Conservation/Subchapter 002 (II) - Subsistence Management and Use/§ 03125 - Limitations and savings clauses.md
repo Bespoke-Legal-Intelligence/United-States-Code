@@ -22,7 +22,7 @@ The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205
 
 The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Act entitled "An Act for the Protection of the Bald Eagle", approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled "An Act for the Protection of the Bald Eagle", approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§668 etseq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
 
 The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 

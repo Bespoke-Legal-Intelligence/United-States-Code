@@ -14,7 +14,7 @@ In General.—
 
 ### N−1
 
-> &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
+> &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicableState laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 
 &emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b).
 
@@ -86,7 +86,7 @@ General continuation rule.—A longer combination vehicle may continue to operat
 
 &emsp;&emsp;(B)
 
-Applicability of state laws and regulations.—All such operations shall continue to be subject to, at the minimum, all State statutes, regulations, limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, in force on June 1, 1991; except that subject to such regulations as may be issued by the Secretary pursuant to paragraph (5) of this subsection, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
+Applicability of state laws and regulations.—All such operations shall continue to be subject to, at the minimum, all State statutes, regulations, limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, in force on June 1, 1991; except that subject to such regulations as may be issued by theSecretary pursuant to paragraph (5) of this subsection, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
 &emsp;&emsp;(C)
 
@@ -126,7 +126,7 @@ Submission to secretary.—Within 60 days of the date of the enactment of this s
 
 &emsp;&emsp;(B)
 
-Interim list.—Not later than 90 days after the date of the enactment of this subsection, the Secretary shall publish an interim list in the Federal Register, consisting of all information submitted pursuant to subparagraph (A). The Secretary shall review for accuracy all information submitted by the States pursuant to subparagraph (A)and shall solicit and consider public comment on the accuracy of all such information.
+Interim list.—Not later than 90 days after the date of the enactment of this subsection, the Secretary shall publish an interim list in the Federal Register, consisting of all information submitted pursuant to subparagraph (A). The Secretary shall review for accuracy all information submitted by the States pursuant to subparagraph (A) and shall solicit and consider public comment on the accuracy of all such information.
 
 &emsp;&emsp;(C)
 
@@ -146,7 +146,7 @@ Longer combination vehicle defined.—For purposes of this section, the term "lo
 
 &emsp;(5)
 
-Regulations regarding minor adjustments.—Not later than 180 days after the date of the enactment of this subsection, the Secretary shall issue regulations establishing criteria for the States to follow in making minor adjustments under paragraph (1)(B).
+Regulations regarding minor adjustments.—Not later than 180 days after the dateof the enactment of this subsection, the Secretary shall issue regulations establishing criteria for the States to follow in making minor adjustments under paragraph (1)(B).
 
 (e)
 
@@ -196,7 +196,7 @@ Operation of Vehicles on Certain Other Wisconsin Highways.—If any segment of t
 
 (k)
 
-Operation of Vehicles on Certain Mississippi Highways.—If any segment of UnitedStates Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
+Operation of Vehicles on Certain Mississippi Highways.—If any segment of United States Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
 
 (l)
 
@@ -222,7 +222,7 @@ Additional highway segments.—
 
 In general.—If any segment of highway described in clauses (i) through (iv) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
 
-&emsp;&emsp;&emsp;(i) The William H. Natcher Parkway (to be designated as a spur of Interstate Route 65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
+&emsp;&emsp;&emsp;(i) The William H. Natcher Parkway (to be designated as a spur of Interstate Route65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
 
 &emsp;&emsp;&emsp;(ii) The Julian M. Carroll (Purchase) Parkway (to be designated as Interstate Route 69) in Kentucky from the Tennessee state line to the interchange with Interstate Route 24, near Calvert City.
 
@@ -348,6 +348,8 @@ Vehicles in North Dakota.—A vehicle limited or prohibited under this section f
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847; Pub. L. 115–141, div. L, title I, §§127, 129A, Mar. 23, 2018, 132 Stat. 988; Pub. L. 116–6, div. G, title IV, §§421, 422, Feb. 15, 2019, 133 Stat. 474; Pub. L. 116–94, div. H, title IV, §425(a), Dec. 20, 2019, 133 Stat. 3018.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of Federal-Aid Highway Amendments of 1974, referred to in subsec. (a)(2), (4), means Jan. 4, 1975, the date on which Pub. L. 93–643 was approved.
@@ -472,6 +474,8 @@ Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
 <b>1960</b>—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -526,7 +530,7 @@ Purpose.—The purpose of the study shall be to determine the effectiveness of S
 
 "(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results ofthe study with any legislative recommendations of the Secretary."
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary."
 
 #### Commercial Motor Vehicle Study
 
@@ -616,7 +620,7 @@ Pub. L. 102–240, title I, §1023(g), Dec. 18, 1991, 105 Stat. 1955, directed S
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respectto each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 

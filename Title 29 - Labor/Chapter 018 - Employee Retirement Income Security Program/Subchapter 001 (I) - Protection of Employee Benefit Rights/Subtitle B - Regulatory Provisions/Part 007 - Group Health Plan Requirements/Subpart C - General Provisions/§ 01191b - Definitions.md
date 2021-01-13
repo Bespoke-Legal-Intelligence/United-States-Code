@@ -174,7 +174,9 @@ For purposes of this part—
 
 &emsp;&emsp;(D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-(Pub. L. 93–406, title I, §733, formerly §706, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1949; renumbered §733, Pub. L. 104–204, title VI, §603(a)(3), Sept. 26, 1996, 110Stat. 2935; amended Pub. L. 110–233, title I, §101(d), May 21, 2008, 122 Stat. 885; Pub. L. 114–255, div. C, title XVIII, §18001(b)(1), Dec. 13, 2016, 130 Stat. 1343.)
+(Pub. L. 93–406, title I, §733, formerly §706, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1949; renumbered §733, Pub. L. 104–204, title VI, §603(a)(3), Sept. 26, 1996, 110 Stat. 2935; amended Pub. L. 110–233, title I, §101(d), May 21, 2008, 122 Stat. 885; Pub. L. 114–255, div. C, title XVIII, §18001(b)(1), Dec. 13, 2016, 130 Stat. 1343.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -185,6 +187,8 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>2008</b>—Subsec. (d)(5) to (9). Pub. L. 110–233 added pars. (5) to (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

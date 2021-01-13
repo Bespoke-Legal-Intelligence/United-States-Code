@@ -10,7 +10,7 @@ Membership.—
 
 &emsp;(1)
 
-Composition.—The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
+Composition.—The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United Statesportion of the International Space Station, including allocations within partner elements.
 
 &emsp;(2)
 
@@ -51,6 +51,8 @@ Historical and Revision Notes
 Pub. L. 110–422, title VI, §602, Oct. 15, 2008, 122 Stat. 4795.
 
 In subsection (a), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

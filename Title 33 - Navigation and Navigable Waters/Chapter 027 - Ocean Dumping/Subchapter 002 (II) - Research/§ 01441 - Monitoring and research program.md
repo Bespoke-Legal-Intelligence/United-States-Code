@@ -4,9 +4,13 @@ The Secretary of Commerce, in coordination with the Secretary of the Department 
 
 (Pub. L. 92–532, title II, §201, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 99–272, title VI, §6061, Apr. 7, 1986, 100 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–272 struck out provision which had required the Secretary of Commerce to report from time to time, not less frequently than annually, his findings under this section (including an evaluation of the short-term ecological effects and the social and economic factors involved) to the Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

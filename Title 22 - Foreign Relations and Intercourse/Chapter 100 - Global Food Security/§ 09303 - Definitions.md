@@ -92,9 +92,13 @@ In this chapter:
 
 (Pub. L. 114–195, §4, July 20, 2016, 130 Stat. 676; Pub. L. 115–254, div. F, title VI, §1470(s), Oct. 5, 2018, 132 Stat. 3519.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (7). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

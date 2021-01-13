@@ -10,7 +10,7 @@ Information submitted to the regulatory authority pursuant to this subsection as
 
 #### (c) Penalties
 
-Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section orregulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title.
+Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section or regulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title.
 
 #### (d) Limitation on removal of coal
 
@@ -21,6 +21,8 @@ No operator shall remove more than two hundred and fifty tons of coal pursuant t
 Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 (90 Stat. 1085).
 
 (Pub. L. 95–87, title V, §512, Aug. 3, 1977, 91 Stat. 483.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

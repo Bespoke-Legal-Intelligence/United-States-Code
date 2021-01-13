@@ -4,7 +4,7 @@ Notwithstanding any other law, the head of a Federal agency shall not approve an
 
 &emsp;(1) fair and reasonable relocation payments and assistance shall be provided to or for displaced persons, as are required to be provided by a Federal agency under sections 4622, 4623, and 4624 of this title;
 
-&emsp;(2) relocation assistance programs offering the services described in section 4625 of thistitle shall be provided to such displaced persons;
+&emsp;(2) relocation assistance programs offering the services described in section 4625 of this title shall be provided to such displaced persons;
 
 &emsp;(3) within a reasonable period of time prior to displacement, comparable replacement dwellings will be available to displaced persons in accordance with section 4625(c)(3) of this title.
 

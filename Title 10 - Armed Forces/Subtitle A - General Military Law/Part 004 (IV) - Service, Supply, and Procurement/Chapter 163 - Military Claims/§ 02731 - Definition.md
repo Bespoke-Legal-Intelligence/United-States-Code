@@ -100,7 +100,7 @@ Conditions on Payment.—An ex gratia payment authorized pursuant to subsection 
 
 &emsp;&emsp;"(B) occurred during an operation carried out by the United States, such coalition, or such military organization; and
 
-&emsp;"(5) the claimant had no involvement in planning or executing an attack or other hostile action that gave rise to the use of force by the United States, such coalition, or such military organization resulting in such property damage, personal injury, or death.
+&emsp;"(5) the claimant had no involvement in planning or executing an attack or other hostile action thatgave rise to the use of force by the United States, such coalition, or such military organization resulting in such property damage, personal injury, or death.
 
 "(c)
 

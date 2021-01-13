@@ -40,7 +40,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4151, 4157, 4159, 4161, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:</i>
+
+<i>(1) by amending item 2202 to read "Regulations on production, warehousing, and supply distribution functions"; and</i>
+
+<i>(2) by striking items 2212, 2213, 2216, 2217, and 2229b.</i>
+
+<i>See 2021 Amendment note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "Comptroller General assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
 
@@ -68,7 +80,7 @@ Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted "Annual" for "Biennial" in item 2222.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat.1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 

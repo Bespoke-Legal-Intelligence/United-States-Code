@@ -34,7 +34,7 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 &emsp;(B) The term "standards" means inspection, building construction, sanitary, quality, species verification, residue, and other standards that are applicable to meat articles.
 
-(2) On request of the Committee on Agriculture or the Committee on Ways and Means ofthe House of Representatives or the Committee on Agriculture, Nutrition, and Forestry or the Committee on Finance of the Senate, or at the initiative of the Secretary, the Secretary shall, as soon as practicable, determine whether a particular foreign country applies standards for the importation of meat articles from the United States that are not related to public health concerns about end-product quality that can be substantiated by reliable analytical methods.
+(2) On request of the Committee on Agriculture or the Committee on Ways and Means of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry or the Committee on Finance of the Senate, or at the initiative of the Secretary, the Secretary shall, as soon as practicable, determine whether a particular foreign country applies standards for the importation of meat articles from the United States that are not related to public health concerns about end-product quality that can be substantiated by reliable analytical methods.
 
 (3) If the Secretary determines that a foreign country applies standards described in paragraph (2)—
 
@@ -47,6 +47,8 @@ The Secretary may prescribe terms and conditions under which amenable species th
 (5) The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
 
 (Mar. 4, 1907, ch. 2907, title I, §20, formerly 18th par., 34 Stat. 1264; renumbered §20 and amended Pub. L. 90–201, §§1, 10, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 95–445, §4, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 97–98, title XI, §1122, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, §1702, Dec. 23, 1985, 99 Stat. 1634; Pub. L. 100–418, title IV, §4604, Aug. 23, 1988, 102 Stat. 1408; Pub. L. 103–182, title III, §361(f), Dec. 8, 1993, 107 Stat. 2124; Pub. L. 103–437, §8(2), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 103–465, title IV, §431(l), Dec. 8, 1994, 108 Stat. 4970; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Subsec. (g). Pub. L. 99–198, §1702(b), added subsec. (g).
 <b>1978</b>—Subsec. (a). Pub. L. 95–445 prohibited imports which do not comply with humane methods of slaughter.
 
 <b>1967</b>—Pub. L. 90–201, §10, substituted imported articles provisions for penalty provisions deeming offenses as misdemeanors and punishable by fine of $10,000 or imprisonment for two years or both. See section 676(a) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

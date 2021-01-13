@@ -10,6 +10,8 @@ An employee or individual who violates section 7323 or 7324 shall be subject to�
 
 (Added Pub. L. 112–230, §4, Dec. 28, 2012, 126 Stat. 1617; amended Pub. L. 115–91, div. A, title X, §1097(k)(1), Dec. 12, 2017, 131 Stat. 1626.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7326, added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1004, related to penalties, prior to repeal by Pub. L. 112–230, §4, Dec. 28, 2012, 126 Stat. 1617.
@@ -23,6 +25,8 @@ A prior section 7328, added Pub. L. 96–191, §8(e)(1), Feb. 15, 1980, 94 Stat.
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91 amended section generally. Prior to amendment, text read as follows: "An employee or individual who violates section 7323 or 7324 shall be subject to removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment; Applicability
 

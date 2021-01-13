@@ -1,8 +1,10 @@
 ### §617. Clearance prohibited to vessel carrying meat for export without inspector's certificate
 
-No clearance shall be given to any vessel having on board any fresh, salted, canned, corned, or packed beef, mutton, pork, goat or equine meat for export to and sale in a foreign country from any port in the United States, until the owner or shipper thereof shall obtain from an inspector appointed under the provisions of this chapter a certificate that the said amenable species were sound and healthy at the time of inspection, and that their meat is sound and wholesome, unless the Secretary shall have waived the requirements of such certificate forthe country to which said amenable species or meats are to be exported.
+No clearance shall be given to any vessel having on board any fresh, salted, canned, corned, or packed beef, mutton, pork, goat or equine meat for export to and sale in a foreign country from any port in the United States, until the owner or shipper thereof shall obtain from an inspector appointed under the provisions of this chapter a certificate that the said amenable species were sound and healthy at the time of inspection, and that their meat is sound and wholesome, unless the Secretary shall have waived the requirements of such certificate for the country to which said amenable species or meats are to be exported.
 
 (Mar. 4, 1907, ch. 2907, title I, §17, formerly 15th par., 34 Stat. 1263; renumbered §17 and amended Pub. L. 90–201, §§1, 3(b), 12(a), (g), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ Section was formerly classified to section 85 of this title.
 <b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines" in two places.
 
 <b>1967</b>—Pub. L. 90–201, §§3(b), 12(a), (g), struck out "of Agriculture" after "Secretary", included horses, mules, and other equines in the list of animals, and substituted "goat or equine meat" for "or goat meat, being the meat of animals killed after March 4, 1907, or except as hereinbefore provided", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

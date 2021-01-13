@@ -10,7 +10,7 @@ The funds appropriated under section 1068h of this title may not be used—
 
 &emsp;(4) for purposes other than the purposes set forth in the approved application under which the funds were made available to the institution.
 
-(Pub. L. 89–329, title III, §396, formerly §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17,1986, 100 Stat. 1307; renumbered §396, Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636; amended Pub. L. 110–315, title III, §320(6), Aug. 14, 2008, 122 Stat. 3188.)
+(Pub. L. 89–329, title III, §396, formerly §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307; renumbered §396, Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636; amended Pub. L. 110–315, title III, §320(6), Aug. 14, 2008, 122 Stat. 3188.)
 
 #### Codification
 

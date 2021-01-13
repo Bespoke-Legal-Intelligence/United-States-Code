@@ -18,11 +18,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–331, §2(c), Oct. 26, 1996, 110 Stat. 4068, added item for chapter 5.
 
 <b>1951</b>—Act Oct. 31, 1951, ch. 655, §4, 65 Stat. 711, added item for chapter 4.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Positive Law; Citation
 

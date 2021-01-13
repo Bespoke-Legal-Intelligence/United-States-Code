@@ -8,7 +8,7 @@ Establishment.—There is established a National Commercial Fishing Safety Advis
 
 Function.—The Committee shall—
 
-&emsp;(1) advise the Secretary on matters relating to the safe operation of vessels to which chapter 45 of this title applies, including the matters of—
+&emsp;(1) advise and provide recommendations in writing to the Secretary on matters relating to the safe operation of vessels to which chapter 45 of this title applies, including the matters of—
 
 &emsp;&emsp;(A) navigation safety;
 
@@ -18,9 +18,11 @@ Function.—The Committee shall—
 
 &emsp;&emsp;(D) vessel design, construction, maintenance, and operation; and
 
-&emsp;&emsp;(E) personnel qualifications and training; and
+&emsp;&emsp;(E) personnel qualifications and training;
 
-&emsp;(2) review regulations proposed under chapter 45 of this title (during preparation of the regulations).
+&emsp;(2) review regulations proposed under chapter 45 of this title (during preparation of the regulations); and
+
+&emsp;(3) review marine casualties and investigations of vessels covered by chapter 45 of this title and make recommendations to the Secretary to improve safety and reduce vessel casualties.
 
 (c)
 
@@ -66,5 +68,23 @@ Representation.—Members of the Committee shall be appointed as follows:
 
 &emsp;&emsp;&emsp;(iii) a person familiar with issues affecting fishing communities and the families of fishermen.
 
-(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4281.)
+(d)
+
+Quorum.—A quorum of 10 members is required to send any written recommendations from the Committee to the Secretary.
+
+(e)
+
+Savings Clause.—Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
+
+(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4281; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8335(a)(1), Jan. 1, 2021, 134 Stat. 4706.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283, §8335(a)(1)(A)(i)(I), inserted "and provide recommendations in writing to" after "advise" in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 116–283, §8335(a)(1)(A)(i)(II), (ii), added par. (3).
+
+Subsecs. (d), (e). Pub. L. 116–283, §8335(a)(1)(B), added subsecs. (d) and (e).
 

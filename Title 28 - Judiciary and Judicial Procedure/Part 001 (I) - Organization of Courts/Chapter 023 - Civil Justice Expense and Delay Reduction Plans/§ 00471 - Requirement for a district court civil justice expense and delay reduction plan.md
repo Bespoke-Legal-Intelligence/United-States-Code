@@ -4,6 +4,8 @@ There shall be implemented by each United States district court, in accordance w
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, §2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–198 substituted "this chapter" for "this title".
@@ -32,6 +34,8 @@ Pub. L. 101–650, title I, §102, Dec. 1, 1990, 104 Stat. 5089, provided that: 
 
 &emsp;"(6) Because the increasing volume and complexity of civil and criminal cases imposes increasingly heavy workload burdens on judicial officers, clerks of court, and other court personnel, it is necessary to create an effective administrative structure to ensure ongoing consultation and communication regarding effective litigation management and cost and delay reduction principles and techniques."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation of Plans
 
 Pub. L. 101–650, title I, §103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, §206, Nov. 13, 2000, 114 Stat. 2414, provided that:
@@ -40,7 +44,7 @@ Pub. L. 101–650, title I, §103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amen
 
 Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United States district court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
 
-"(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
+"(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect forseven years after the date of the enactment of this title.
 
 "(B) The requirements set forth in section 476 of title 28, United States Code, as added by subsection (a), shall remain in effect permanently.
 
@@ -54,7 +58,7 @@ Early Implementation District Courts.—
 
 &emsp;"(3) Within 18 months after the date of the enactment of this title \[Dec. 1, 1990\], the Judicial Conference shall prepare a report on the plans developed and implemented by the Early Implementation District Courts.
 
-&emsp;"(4) The Director of the Administrative Office of the United States Courts shall transmit to the UnitedStates district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
+&emsp;"(4) The Director of the Administrative Office of the United States Courts shall transmit to the United States district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
 
 &emsp;&emsp;"(A) copies of the plans developed and implemented by the Early Implementation District Courts;
 

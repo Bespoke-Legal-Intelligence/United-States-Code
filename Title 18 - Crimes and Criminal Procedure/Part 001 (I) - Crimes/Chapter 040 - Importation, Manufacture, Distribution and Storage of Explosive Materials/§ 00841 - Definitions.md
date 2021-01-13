@@ -56,11 +56,13 @@ Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the 
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, §236(b), July 29, 2010, 124 Stat. 2286.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec.\(t), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
+Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec. (t), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Subsec. (p)(5). Pub. L. 107–296, §1112(e)(3), which directed amendment of par
 Subsecs. (r), (s). Pub. L. 107–296, §1122(a)(2), added subsecs. (r) and (s).
 
 <b>1996</b>—Subsecs. (o) to (q). Pub. L. 104–132 added subsecs. (o) to (q).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

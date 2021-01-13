@@ -24,11 +24,15 @@ As used in this title—
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 109–435, title I, §101, Dec. 20, 2006, 120 Stat. 3199.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pars. (5) to (10). Pub. L. 109–435 added pars. (5) to (10).
 
 <b>1996</b>—Par. (4). Pub. L. 104–208 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

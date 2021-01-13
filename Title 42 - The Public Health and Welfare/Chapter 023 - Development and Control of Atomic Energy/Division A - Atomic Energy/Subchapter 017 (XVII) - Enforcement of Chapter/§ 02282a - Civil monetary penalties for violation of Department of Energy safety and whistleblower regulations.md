@@ -24,7 +24,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (C) Any election to have this paragraph apply may not be revoked except with consent of the Secretary.
 
-(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Secretary under paragraph (3), the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. Insuch action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
+(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Secretary under paragraph (3), the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 
 #### (d) Limitation for not-for-profit institutions
 

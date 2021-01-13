@@ -14,6 +14,8 @@ A person who is convicted of an offense under section 1028, 1029, 1341, 1342, 13
 
 (Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 105–184, §§3, 4, June 23, 1998, 112 Stat. 520; Pub. L. 115–70, title IV, §402(a)(3), Oct. 18, 2017, 131 Stat. 1214.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–70 substituted "1344, or 1347 or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b)" for "or 1344" and inserted "or email marketing" after "telemarketing" in introductory provisions.

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for plan
 
-Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(o) of this title as in effect prior to the enactment of section 1078–3 of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
+Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(o) of this title as in effect prior to the enactment of section 1078–3of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
 
 #### (b) Applicability of other requirements
 
@@ -22,7 +22,7 @@ In the case of multiple offers by lenders to administer a combined payment plan 
 
 #### (e) Effect of plan
 
-Upon selection of a lender to administer the combined payment plan, the lender may reissueany loan under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) selected by the borrower for incorporation in the combined payment plan which is not held by such lender and the proceeds of such reissued loan shall be paid by the lender to the holder or holders of the loans so selected to discharge the liability on such loans, if—
+Upon selection of a lender to administer the combined payment plan, the lender may reissue any loan under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) selected by the borrower for incorporation in the combined payment plan which is not held by such lender and the proceeds of such reissued loan shall be paid by the lender to the holder or holders of the loans so selected to discharge the liability on such loans, if—
 
 &emsp;(1) the lender selected to administer the combined payment plan has determined to its satisfaction, in accordance with reasonable and prudent business practices, for each loan being reissued (A) that the loan is a legal, valid, and binding obligation of the borrower; (B) that each such loan was made and serviced in compliance with applicable laws and regulations; and (C) the insurance on such loan is in full force and effect; and
 
@@ -46,7 +46,7 @@ No origination fee or insurance premium shall be charged to the borrower on any 
 
 Repayment of a combined payment plan shall commence within 60 days after the later of the date of acceptance of the lender's offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e).
 
-(Pub. L. 89–329, title IV, §485A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1484; amended Pub. L. 100–50, §15(12), June 3, 1987, 101 Stat. 357; Pub. L. 111–39, title IV, §407(b)(6), July 1, 2009, 123 Stat. 1951.)
+(Pub. L. 89–329, title IV, §485A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1484; amended Pub. L. 100–50, §15(12), June 3, 1987, 101 Stat. 357; Pub. L. 111–39, title IV, §407(b)(6), July 1, 2009, 123 Stat. 1951.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Subsec. (f)(2). Pub. L. 111–39, §407(b)(6)(D)(ii), substituted "part A of tit
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 

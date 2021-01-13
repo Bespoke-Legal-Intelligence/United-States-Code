@@ -14,6 +14,8 @@ Words "and upon conviction thereof" were also omitted as unnecessary, since puni
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

@@ -16,7 +16,7 @@ Subsections (a) and (b) shall not apply to a transfer of funds by a State direct
 
 &emsp;(2)(A) there is no such approved application in the function category from which the funds are to be transferred; or
 
-&emsp;(B) the community that would benefit from the project has a smaller population and alesser per capita income than any community that would benefit from a project in the function category from which the funds are to be transferred.
+&emsp;(B) the community that would benefit from the project has a smaller population and a lesser per capita income than any community that would benefit from a project in the function category from which the funds are to be transferred.
 
 (Pub. L. 87–128, title III, §381F, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1142.)
 

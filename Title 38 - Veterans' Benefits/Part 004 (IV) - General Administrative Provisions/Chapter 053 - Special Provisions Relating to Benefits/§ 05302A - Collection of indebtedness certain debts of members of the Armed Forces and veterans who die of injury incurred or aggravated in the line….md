@@ -14,11 +14,15 @@ Inapplicability to Housing and Small Business Benefit Programs.—The limitation
 
 (Added Pub. L. 110–252, title I, §1303(a)(1), June 30, 2008, 122 Stat. 2327; amended Pub. L. 114–58, title VI, §601(21), Sept. 30, 2015, 129 Stat. 539.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–58, §601(21)(A), inserted period after section number.
 
 Subsec. (b). Pub. L. 114–58, §601(21)(B), struck out "(as that term is defined in section 1712A(a)(2)(B) of this title)" after "hostilities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

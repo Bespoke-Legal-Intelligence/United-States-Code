@@ -6,7 +6,7 @@
 
 (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 109–8, title V, §502, title XII, §1216, title XV, §1502(a)(5), Apr. 20, 2005, 119 Stat. 118, 195, 216; Pub. L. 111–327, §2(a)(29), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat.361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 109–8, title V, §502, title XII, §1216, title XV, §1502(a)(5), Apr. 20, 2005, 119 Stat. 118, 195, 216; Pub. L. 111–327, §2(a)(29), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -52,7 +52,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§510. Subordination of claims</i>. This section permits the court to subordinate, on equitable grounds, any claim, and requires enforcement of contractual subordination agreements, and subordination of securities rescission claims. The section recognizes the inherent equitable power of the court under current law, and the practice followed with respect to contractual provisions.
 
-<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power will be used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
+<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power willbe used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
 
 <i>§550. Liability of transfers</i>. Incorporation of this section is made necessary by the incorporation of the preference section, and permits recovery by the debtor from a transferee of an avoided preference.
 
@@ -70,7 +70,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1125. Postpetition disclosure and solicitation</i>. The change in the confirmation standard necessitates a corresponding change in the disclosure requirements for solicitation of acceptances of a plan. Under current chapter IX \[chapter 9 of former title 11\] there is no disclosure requirement. Incorporation of section 1125 will insure that creditors receive adequate information before they are required to vote on a plan.
 
-<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlikecurrent law, if there is a conflict of interest motivating the acceptance.
+<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlike current law, if there is a conflict of interest motivating the acceptance.
 
 <i>§1127(d). Modification of plan</i>. This section governs the change of a creditor's vote on the plan after a modification is proposed. It is derived from current section 92(e) \[section 412(e) of former title 11\].
 
@@ -83,6 +83,8 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 <i>§1143. Distribution</i>. This section is the same in substance as section 96(d) \[section 416(d) of former title 11\], which requires presentment or delivery of securities within five years, and bars creditors that do not act within that time.
 
 <i>§1144. Revocation of order of confirmation</i>. This section permits the court to revoke the order of confirmation and the discharge if the confirmation of the plan was procured by fraud. There is no comparable provision in current chapter IX \[chapter 9 of former title 11\].
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -101,6 +103,8 @@ Pub. L. 109–8, §502, inserted "555, 556," after "553," and "559, 560, 561, 56
 <b>1988</b>—Subsec. (a). Pub. L. 100–597 inserted "1129(a)(6)," after "1129(a)(3),".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "557," after "553," and substituted "1111(b)," for "1111(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

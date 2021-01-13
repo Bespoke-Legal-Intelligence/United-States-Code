@@ -6,7 +6,7 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 #### (b) Deductions; coverage into Treasury; reimbursement for expenses
 
-(1) There shall be deducted from the amount of each payment made pursuant to subsection (c) of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
+(1) There shall be deducted from the amount of each payment made pursuant to subsection (c)of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
 (2) The Secretary of the Treasury shall deduct from any amounts covered, subsequent to July 24, 1968, into any special fund, created pursuant to section 1627 of this title, 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
@@ -38,9 +38,7 @@ Nothing in this subchapter shall be construed as the assumption of any liability
 
 (Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(2), (3), July 24, 1968, 82 Stat. 420; Pub. L. 104–316, title II, §202(h), Oct. 19, 1996, 110 Stat. 3842.)
 
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +55,14 @@ Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any pa
 Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
 
 <b>1953</b>—Subsec. (b). Act Aug. 8, 1953, increased the amount deductible to cover expenses from 3 to 5 percent.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

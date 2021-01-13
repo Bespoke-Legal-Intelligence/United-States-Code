@@ -92,9 +92,11 @@ Sept. 8, 1982, Pub. L. 97–253, §202, 96 Stat. 790.
 
 This is necessary because the language was restated by section 382(h)(1) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 432) but inadvertently codified as 31:5132(a)(1) (last sentence) by section 1 of the Act of September 13, 1982 (Pub. L. 97–258, 96 Stat. 989.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939,ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 
@@ -106,7 +108,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 
 Pub. L. 102–390, §221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: "However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items."
 
-Pub. L. 102–390, §221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read asfollows: "The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees."
+Pub. L. 102–390, §221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: "The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees."
 
 Subsec. (a)(3) to (5). Pub. L. 102–390, §211, which directed the substitution of "$54,208,000" for "$46,511,000" and "1993" for "1988" in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–585 redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors' Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
 
@@ -127,6 +129,8 @@ Pub. L. 99–61 inserted "minted under section 5112(a) of this title" after "pro
 <b>1983</b>—Subsec. (a)(1). Pub. L. 98–151 inserted provisions relating to authority of Secretary to sell sets of uncirculated and proof coins and solicitation of such sales through the customer lists of the Bureau of the Mint.
 
 Subsec. (a)(2). Pub. L. 97–452 substituted "$50,165,000" for "$54,706,000", and "1983" for "1982".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -14,9 +14,11 @@ Judicial Conference of Senior Circuit Judges was changed to Judicial Conference 
 
 Changes were made in phraseology.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Appeals Filed in Courts of Appeals
 
-Pub. L. 109–171, title X, §10001(b), Feb. 8, 2006, 120 Stat. 183, provided that: "The $250 fee for docketing a case on appeal or review, or docketing any other proceeding, in a court of appeals, as prescribed by the Judicial Conference, effective as of January 1, 2005, under section 1913 of title 28, United States Code, shall be increased to $450."
+Pub. L. 109–171, title X, §10001(b), Feb. 8, 2006, 120 Stat. 183, provided that: "The $250 fee for docketing acase on appeal or review, or docketing any other proceeding, in a court of appeals, as prescribed by the Judicial Conference, effective as of January 1, 2005, under section 1913 of title 28, United States Code, shall be increased to $450."
 
 #### Court Fees for Electronic Access to Information
 

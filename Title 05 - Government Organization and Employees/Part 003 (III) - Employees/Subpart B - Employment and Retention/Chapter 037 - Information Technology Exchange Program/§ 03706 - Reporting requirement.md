@@ -34,6 +34,8 @@ Agency Cooperation.—On request of the Office, agencies shall furnish such info
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.

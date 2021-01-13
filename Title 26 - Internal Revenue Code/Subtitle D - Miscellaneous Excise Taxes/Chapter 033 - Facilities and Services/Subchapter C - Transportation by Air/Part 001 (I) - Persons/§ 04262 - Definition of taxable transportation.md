@@ -26,7 +26,7 @@ For purposes of this part, the term "taxable transportation" does not include th
 
 &emsp;&emsp;(B) ends at either (i) the point where the route of the transportation enters the United States, or (ii) a port or station in the 225-mile zone; and
 
-&emsp;(4) a direct line from the point (or the port or station) specified in paragraph (3)(A), to the point (or the port or station) specified in paragraph (3)(B), passes through or over a pointwhich is not within 225 miles of the United States.
+&emsp;(4) a direct line from the point (or the port or station) specified in paragraph (3)(A), to the point (or the port or station) specified in paragraph (3)(B), passes through or over a point which is not within 225 miles of the United States.
 
 #### (c) Definitions
 

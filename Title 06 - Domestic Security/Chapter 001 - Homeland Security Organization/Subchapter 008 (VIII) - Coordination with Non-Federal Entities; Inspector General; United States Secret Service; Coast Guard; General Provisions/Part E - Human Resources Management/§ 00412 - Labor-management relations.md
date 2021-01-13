@@ -52,9 +52,11 @@ Nothing in section 9701(e) of title 5 shall be considered to apply with respect 
 
 (Pub. L. 107–296, title VIII, §842, Nov. 25, 2002, 116 Stat. 2234.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Actto the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

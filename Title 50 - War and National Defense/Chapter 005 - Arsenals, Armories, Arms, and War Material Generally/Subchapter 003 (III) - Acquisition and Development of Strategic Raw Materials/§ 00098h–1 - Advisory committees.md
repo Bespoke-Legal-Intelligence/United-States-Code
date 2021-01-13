@@ -42,10 +42,6 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
-
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -67,4 +63,8 @@ Membership.—The committee shall consist of members who have expertise regardin
 &emsp;"(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and
 
 &emsp;"(3) other interested persons or representatives of interested organizations."
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 

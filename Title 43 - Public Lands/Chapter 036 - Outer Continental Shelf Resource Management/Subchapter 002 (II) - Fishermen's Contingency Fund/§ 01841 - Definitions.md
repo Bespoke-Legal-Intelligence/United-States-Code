@@ -18,7 +18,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(B) if 75 per centum of the voting power in such corporation is not vested in citizens of the United States;
 
-&emsp;&emsp;(C) if through any contract or understanding it is so arranged that more than 25 percentum of the voting power may be exercised, directly or indirectly, in behalf of any person who is not a citizen of the United States; or
+&emsp;&emsp;(C) if through any contract or understanding it is so arranged that more than 25per centum of the voting power may be exercised, directly or indirectly, in behalf of any person who is not a citizen of the United States; or
 
 &emsp;&emsp;(D) if by any other means whatsoever control of any interest in the corporation in excess of 25 per centum is conferred upon or permitted to be exercised by any person who is not a citizen of the United States;
 
@@ -36,9 +36,13 @@ As used in this subchapter, the term—
 
 (Pub. L. 95–372, title IV, §401, Sept. 18, 1978, 92 Stat. 685; Pub. L. 97–212, §§1, 8, June 30, 1982, 96 Stat. 143, 147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, and struck out "at sea" after "the aiding or assisting" in par. (4)(B) as redesignated.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

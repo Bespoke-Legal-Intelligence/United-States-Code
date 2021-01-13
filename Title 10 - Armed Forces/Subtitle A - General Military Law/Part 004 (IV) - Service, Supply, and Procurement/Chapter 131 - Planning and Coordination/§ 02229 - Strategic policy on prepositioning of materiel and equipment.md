@@ -22,7 +22,7 @@ Elements.—The strategic policy required under paragraph (1) shall include the 
 
 &emsp;&emsp;(E) Metrics for how the Department will evaluate the extent to which prepositioned assets are achieving defense objectives.
 
-&emsp;&emsp;(F) A framework for joint departmental oversight that reviews and synchronizes the military services' prepositioning strategies to minimize potentially duplicative efforts and maximize efficiencies in prepositionedmateriel and equipment across the Department of Defense.
+&emsp;&emsp;(F) A framework for joint departmental oversight that reviews and synchronizes the military services' prepositioning strategies to minimize potentially duplicative efforts and maximize efficiencies in prepositioned materiel and equipment across the Department of Defense.
 
 &emsp;(3)
 
@@ -74,7 +74,7 @@ Implementation Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of the prepositioning strategic policy required under section 2229(a) of title 10, United States Code, as amended by subsection (a).
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], theSecretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of the prepositioning strategic policy required under section 2229(a) of title 10, United States Code, as amended by subsection (a).
 
 &emsp;"(2)
 

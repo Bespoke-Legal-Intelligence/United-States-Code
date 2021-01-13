@@ -2,7 +2,7 @@
 
 The Customs Service shall, under rules and regulations prescribed by the Secretary—
 
-&emsp;(a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
+&emsp;(a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, anystatement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
 
 &emsp;(b) fix the final classification and rate of duty applicable to such merchandise;
 
@@ -52,7 +52,7 @@ Subds. (d) and (e). Pub. L. 103–182, §638(5), amended subds. (d) and (e) gene
 
 "(e) give notice of such liquidation to the importer, his consignee, or agent in such form and manner as the Secretary shall prescribe in such regulations."
 
-<b>1979</b>—Subd. (a). Pub. L. 96–39 substituted "by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, any statement of cost or costs of productionin any invoice, affidavit, declaration, or other document" for "in the unit of quantity in which the merchandise is usually bought and sold by ascertaining or estimating the value thereof by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, or other document".
+<b>1979</b>—Subd. (a). Pub. L. 96–39 substituted "by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, or other document" for "in the unit of quantity in which the merchandise is usually bought and sold by ascertaining or estimating the value thereof by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, or other document".
 
 <b>1970</b>—Pub. L. 91–271 struck out "(a)" preceding first sentence and, in such provisions, as so redesignated, substituted provisions which set forth the customs functions to be performed by the appropriate customs officer for provisions which set forth the customs functions to be performed by the appraiser, and struck out subds. (b) to (f), which allocated specific customs functions to appraisers, assistant and deputy appraisers, and examiners, and authorized the designation of acting appraisers where necessary.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–271, title II, §203, June 2, 1970, 84 Stat. 283, provided that: "Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970."
+Pub. L. 91–271, title II, §203, June 2, 1970, 84 Stat. 283, provided that: "Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has notbecome final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970."
 
 #### Transfer of Functions
 

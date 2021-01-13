@@ -84,6 +84,8 @@ It is the sense of Congress that the Secretary of State and the Administrator of
 
 (Pub. L. 114–191, §4, July 15, 2016, 130 Stat. 669.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(c)(2)(J), referred to in subsec. (b)(2)(A)(i), is section 3(c)(2)(J) of Pub. L. 114–191, which is set out as a note below.
@@ -91,6 +93,8 @@ Section 3(c)(2)(J), referred to in subsec. (b)(2)(A)(i), is section 3(c)(2)(J) o
 #### Codification
 
 Section was enacted as part of the Foreign Aid Transparency and Accountability Act of 2016, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidelines for Covered United States Foreign Assistance Programs
 
@@ -209,6 +213,8 @@ Covered united states foreign assistance.—The term 'covered United States fore
 &emsp;&emsp;"(D) the Food for Peace Act (7 U.S.C. 1721 \[1691\] et seq.); and
 
 &emsp;&emsp;"(E) the Better Utilization of Investments Leading to Development Act of 2018 \[22 U.S.C. 9601 et seq.\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Under the Foreign Aid Transparency and Accountability Act of 2016
 

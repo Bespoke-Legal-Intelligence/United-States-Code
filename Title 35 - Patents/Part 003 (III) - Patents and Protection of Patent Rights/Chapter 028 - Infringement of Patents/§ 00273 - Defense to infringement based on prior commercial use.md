@@ -46,7 +46,7 @@ In general.—A defense under this section may be asserted only by the person wh
 
 &emsp;&emsp;(B)
 
-Transfer of right.—Except for any transfer to the patent owner, the right to assert a defense under this section shall not be licensed or assigned or transferred to another person except as an ancillary and subordinate part of a good-faith assignment ortransfer for other reasons of the entire enterprise or line of business to which the defense relates.
+Transfer of right.—Except for any transfer to the patent owner, the right to assert a defense under this section shall not be licensed or assigned or transferred to another person except as an ancillary and subordinate part of a good-faith assignment or transfer for other reasons of the entire enterprise or line of business to which the defense relates.
 
 &emsp;&emsp;(C)
 
@@ -70,7 +70,7 @@ University exception.—
 
 &emsp;&emsp;(A)
 
-In general.—A person commercially using subject matter to which subsection (a) applies may not assert a defense under this section if the claimed invention with respect to which the defense is asserted was, at the time the invention was made, owned or subject to an obligation of assignment to either an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)),<sup>1</sup> or a technology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more such institutions of higher education.
+In general.—A person commercially using subject matter to which subsection (a) applies may not assert a defense under this section if the claimed invention with respect to which the defense is asserted was, at the time the invention was made, owned or subject to an obligation of assignment to either an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)),<sup>1</sup> or atechnology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more such institutions of higher education.
 
 &emsp;&emsp;(B)
 
@@ -86,9 +86,13 @@ Invalidity.—A patent shall not be deemed to be invalid under section 102 or 10
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555; amended Pub. L. 112–29, §5(a), Sept. 16, 2011, 125 Stat. 297.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, section related to defense to infringement based on earlier inventor.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

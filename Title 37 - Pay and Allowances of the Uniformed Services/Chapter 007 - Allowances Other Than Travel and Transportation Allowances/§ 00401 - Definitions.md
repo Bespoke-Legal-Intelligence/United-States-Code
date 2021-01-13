@@ -82,6 +82,8 @@ Oct. 12, 1949, ch. 681, §102(g) (less last proviso of last sentence), 63 Stat. 
 
 The words "lawful", "at all times and in all places", "except as hereinafter limited in this subsection", and "in addition to those persons otherwise defined as dependents in this subsection" are omitted as surplusage. In clause (1), the word "spouse" is substituted for words "wife" and "husband". Clause (2) is substituted for the 16th through 24th words of the first sentence of section 231(g) of existing title 37 and the third sentence (less last proviso) of section 231(g) of existing title 37. Clause (3) is substituted for the second sentence of section 231(g) of existing title 37 and the last sentence (less provisos) of section 231(g) of existing title 37. The second sentence is substituted for the last proviso of the third sentence of section 231(g) of existing title 37. The last sentence is substituted for the first proviso of the last sentence of section 231(g) of existing title 37.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–337 substituted "placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member" for "placement agency for the purpose of adoption".
@@ -110,9 +112,11 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 <b>1973</b>—Cl. (2). Pub. L. 93–64, §103(1), in revising cl. (1) of first sentence, substituted "unmarried child" for "unmarried legitimate child" and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child's support, or whose parentage has been admitted in writing by the member.
 
-Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted "five years before the member became 21 years" for "five years before he became 21 years", struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
+Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted "five years before the member became 21 years" for "five years before he became 21 years", struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained informer section 2201 of Appendix to Title 50, War and National Defense.
 
 Closing text. Pub. L. 93–64, §103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

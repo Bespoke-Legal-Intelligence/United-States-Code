@@ -74,7 +74,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) death;
 
-&emsp;&emsp;&emsp;(ii) an adverse drug experience that places the patient at immediate risk of death from the adverse drug experience as it occurred (not including an adverse drug experience that might have caused death had it occurred in a more severe form);
+&emsp;&emsp;&emsp;(ii) an adverse drug experience that places the patient at immediate risk of death from the adverse drug experience asit occurred (not including an adverse drug experience that might have caused death had it occurred in a more severe form);
 
 &emsp;&emsp;&emsp;(iii) inpatient hospitalization or prolongation of existing hospitalization;
 
@@ -406,7 +406,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (I) Effect on action deadline
 
-&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in thisparagraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
+&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in this paragraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
 
 #### (J) Disqualification
 
@@ -486,7 +486,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(II) a different, comparable aspect of the elements to assure safe use under subsection (f).
 
-&emsp;&emsp;(ii) The Secretary may require a drug that is the subject of an application under section355(j) of this title and the listed drug to use a single, shared system under subsection (f), if the Secretary determines that no different, comparable aspect of the elements to assure safe use could satisfy the requirements of subsection (f).
+&emsp;&emsp;(ii) The Secretary may require a drug that is the subject of an application under section 355(j) of this title and the listed drug to use a single, shared system under subsection (f), if the Secretary determines that no different, comparable aspect of the elements to assure safe use could satisfy the requirements of subsection (f).
 
 #### (2) Action by Secretary
 
@@ -524,7 +524,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (k) Waiver in public health emergencies
 
-The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 247d–6a(a)(2) of title 42) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, the circumstances under which—
+The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 247d–6a(a)(2) oftitle 42) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, the circumstances under which—
 
 &emsp;(1) a determination described in subparagraph (A), (B), or (C) of section 360bbb–3(b)(1) of this title has been made by the Secretary of Homeland Security, the Secretary of Defense, or the Secretary, respectively; or
 
@@ -539,6 +539,8 @@ The provision of samples of a covered product to an eligible product developer (
 When used in this section, the term "different, comparable aspect of the elements to assure safe use" means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 355(j) of this title that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 355(j) of this title with the same such listed drug, but achieves the same level of safety as such strategy.
 
 (June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153; Pub. L. 115–52, title VI, §606, Aug. 18, 2017, 131 Stat. 1049; Pub. L. 115–271, title III, §§3032(a)–(c), 3041(a), Oct. 24, 2018, 132 Stat. 3940–3942; Pub. L. 116–94, div. N, title I, §610(d), (f), Dec. 20, 2019, 133 Stat. 3135, 3136.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -628,13 +630,15 @@ Subsec. (h)(4)(I). Pub. L. 112–144, §1132(b)(6)(B), substituted "if the Secre
 
 "(i) has initiated the discussions described under paragraph (2) not less than 60 days before such action deadline; and
 
-"(ii) has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board,providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively."
+"(ii) has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively."
 
 Subsec. (h)(5). Pub. L. 112–144, §1132(b)(4), (7), redesignated par. (6) as (5) and substituted "subparagraph (B) or (C)" for "any of subparagraphs (B) through (D)" in subpar. (A) and "paragraph (3) or (4)" for "paragraph (4) or (5)" in subpar. (C). Former par. (5) redesignated (4).
 
 Subsec. (h)(6), (7). Pub. L. 112–144, §1132(b)(4), redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
 
 Subsec. (h)(8), (9). Pub. L. 112–144, §1132(b)(4), (8), redesignated par. (9) as (8) and substituted "paragraphs (6) and (7)." for "paragraphs (7) and (8)". Former par. (8) redesignated (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -672,7 +676,7 @@ Updates.—The Commissioner of Food and Drugs shall periodically—
 
 "(e)
 
-Statement To Accompany Guidelines and Recommendations.—The Commissioner of Food and Drugs shall ensure that opioid analgesic prescribing guidelines and other recommendations developed under this section are accompanied by a clear statement that such guidelines or recommendations, as applicable—
+Statement To Accompany Guidelines and Recommendations.—The Commissioner of Food and Drugs shall ensure that opioid analgesic prescribing guidelines and other recommendations developed under thissection are accompanied by a clear statement that such guidelines or recommendations, as applicable—
 
 &emsp;"(1) are intended to help inform clinical decisionmaking by prescribers and patients; and
 

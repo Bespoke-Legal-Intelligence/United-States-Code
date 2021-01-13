@@ -2,7 +2,7 @@
 
 #### (a) Construction and planning grants
 
-The Secretary, in consultation with the Corporation, public telecommunications entities, and as appropriate with others, shall establish criteria for making construction and planning grants. Such criteria shall be consistent with the objectives and provisions set forth in this subpart, and shall be made available to interested parties upon request.
+The Secretary, in consultation with the Corporation, public telecommunications entities,and as appropriate with others, shall establish criteria for making construction and planning grants. Such criteria shall be consistent with the objectives and provisions set forth in this subpart, and shall be made available to interested parties upon request.
 
 #### (b) Basis for determination
 
@@ -22,6 +22,8 @@ Of the sums appropriated pursuant to section 391 of this title for any fiscal ye
 
 (June 19, 1934, ch. 652, title III, §393, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 66; amended Pub. L. 90–129, title II, §201(2), Nov. 7, 1967, 81 Stat. 367; Pub. L. 95–567, title I, §104, Nov. 2, 1978, 92 Stat. 2408; Pub. L. 99–272, title V, §5001(b), Apr. 7, 1986, 100 Stat. 117; Pub. L. 102–356, §3, Aug. 26, 1992, 106 Stat. 949.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b)(4). Pub. L. 102–356 inserted before period at end ", including services to underserved audiences such as deaf and hearing impaired individuals and blind and visually impaired individuals".
@@ -31,6 +33,8 @@ Of the sums appropriated pursuant to section 391 of this title for any fiscal ye
 <b>1978</b>—Pub. L. 95–567 amended section generally, striking out provisions dealing with keeping records and access to records by Secretary and Comptroller General and inserting provisions dealing with criteria for approval and expenditures by Secretary. See sections 392(h) and 395(h) of this title.
 
 <b>1967</b>—Pub. L. 90–129 substituted "subpart" for "part" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

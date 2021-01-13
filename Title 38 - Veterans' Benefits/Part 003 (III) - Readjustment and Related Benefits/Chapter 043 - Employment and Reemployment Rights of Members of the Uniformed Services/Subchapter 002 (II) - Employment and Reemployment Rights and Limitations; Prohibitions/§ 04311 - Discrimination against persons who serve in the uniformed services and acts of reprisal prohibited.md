@@ -6,13 +6,15 @@
 
 (c) An employer shall be considered to have engaged in actions prohibited—
 
-&emsp;(1) under subsection (a), if the person's membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer's action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, service, application for service, or obligation for service; or
+&emsp;(1) under subsection (a), if the person's membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivatingfactor in the employer's action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, service, application for service, or obligation for service; or
 
 &emsp;(2) under subsection (b), if the person's (A) action to enforce a protection afforded any person under this chapter, (B) testimony or making of a statement in or in connection with any proceeding under this chapter, (C) assistance or other participation in an investigation under this chapter, or (D) exercise of a right provided for in this chapter, is a motivating factor in the employer's action, unless the employer can prove that the action would have been taken in the absence of such person's enforcement action, testimony, statement, assistance, participation, or exercise of a right.
 
 (d) The prohibitions in subsections (a) and (b) shall apply to any position of employment, including a position that is described in section 4312(d)(1)(C) of this title.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(3), Oct. 9, 1996, 110 Stat. 3334.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ Subsecs. (c), (d). Pub. L. 104–275 added subsecs. (c) and (d) and struck out f
 "(c)(1) An employer may not discriminate in employment against or take any adverse employment action against any person because such person has taken an action to enforce a protection afforded any person under this chapter, has testified or otherwise made a statement in or in connection with any proceeding under this chapter, has assisted or otherwise participated in an investigation under this chapter, or has exercised a right provided for in this chapter.
 
 "(2) The prohibition in paragraph (1) shall apply with respect to a person regardless of whether that person has performed service in the uniformed services and shall apply to any position of employment, including a position that is described in section 4312(d)(1)(C)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

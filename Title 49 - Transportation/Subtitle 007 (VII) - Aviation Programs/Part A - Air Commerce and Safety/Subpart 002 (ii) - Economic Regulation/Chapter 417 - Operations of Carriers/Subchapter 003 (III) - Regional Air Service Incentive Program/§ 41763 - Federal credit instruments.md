@@ -90,7 +90,7 @@ Lines of Credit.—
 
 &emsp;(1)
 
-In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines of credit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any aircraft purchase selected under this section.
+In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines of credit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain eventsfor any aircraft purchase selected under this section.
 
 &emsp;(2)
 

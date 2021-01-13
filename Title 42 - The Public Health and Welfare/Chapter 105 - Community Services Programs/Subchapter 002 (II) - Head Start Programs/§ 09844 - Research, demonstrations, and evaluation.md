@@ -192,7 +192,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (2) Report
 
-&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
+&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
 
 &emsp;&emsp;(A) the demographics of limited English proficient children from birth through age 5, including the number of such children receiving Head Start services and Early Head Start services, and the geographic distribution of children described in this subparagraph;
 
@@ -324,7 +324,7 @@ The Secretary shall—
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to evaluate the emergency preparedness of the Head Start programs, including Early Head Start programs, and make recommendations for how Head Start shall enhance its readiness to respond to an emergency.
+&emsp;The purpose of this subsection is to evaluate the emergency preparedness of the Head Startprograms, including Early Head Start programs, and make recommendations for how Head Start shall enhance its readiness to respond to an emergency.
 
 #### (2) Study
 

@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) the pattern of trade, including sourcing patterns,
 
-&emsp;&emsp;(B) whether the manufacturer or exporter of the merchandise described in paragraph (1)(B) is affiliated with the person who uses the merchandise described in paragraph (1)(B) to assemble or complete in the foreign country the merchandise that is subsequently imported into the United States, and
+&emsp;&emsp;(B) whether the manufacturer or exporter of the merchandise described in paragraph (1)(B) is affiliated with the person who uses the merchandise described in paragraph\(1)(B) to assemble or complete in the foreign country the merchandise that is subsequently imported into the United States, and
 
 &emsp;&emsp;(C) whether imports into the foreign country of the merchandise described in paragraph (1)(B) have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
 

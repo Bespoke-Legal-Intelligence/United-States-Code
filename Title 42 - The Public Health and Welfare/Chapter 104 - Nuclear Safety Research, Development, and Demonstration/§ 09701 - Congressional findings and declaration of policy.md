@@ -22,5 +22,5 @@
 
 #### Short Title
 
-Pub. L. 96–567, §1, Dec. 22, 1980, 94 Stat. 3329, provided: "That this Act \[enacting this chapter\] may be cited asthe 'Nuclear Safety Research, Development, and Demonstration Act of 1980'."
+Pub. L. 96–567, §1, Dec. 22, 1980, 94 Stat. 3329, provided: "That this Act \[enacting this chapter\] may be cited as the 'Nuclear Safety Research, Development, and Demonstration Act of 1980'."
 

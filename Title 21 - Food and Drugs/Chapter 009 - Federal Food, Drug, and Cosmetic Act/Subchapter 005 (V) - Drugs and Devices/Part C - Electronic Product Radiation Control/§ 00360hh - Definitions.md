@@ -18,6 +18,8 @@ As used in this part—
 
 (June 25, 1938, ch. 675, §531, formerly act July 1, 1944, ch. 373, title III, §531, formerly §355, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; renumbered §531 and amended Pub. L. 101–629, §19(a)(1)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 263c of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -30,6 +32,8 @@ Section was classified to section 263c of Title 42, The Public Health and Welfar
 
 <b>1976</b>—Par. (5). Pub. L. 94–484 defined "State" to include Northern Mariana Islands.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 For short title of Pub. L. 90–602, which enacted provisions now comprising this part (§§360hh to 360ss), as the "Radiation Control for Health and Safety Act of 1968", see section 1 of Pub. L. 90–602, set out as a Short Title of 1968 Amendments note under section 301 of this title.
@@ -40,7 +44,7 @@ Pub. L. 101–629, §19(c), Nov. 28, 1990, 104 Stat. 4530, provided that: "The t
 
 #### Definition of "Secretary" and "Department"
 
-Pub. L. 90–602, §3, Oct. 18, 1968, 82 Stat. 1186, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term 'Secretary' means the Secretary of Health and Human Services, and theterm 'Department' means the Department of Health and Human Services."
+Pub. L. 90–602, §3, Oct. 18, 1968, 82 Stat. 1186, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term 'Secretary' means the Secretary of Health and Human Services, and the term 'Department' means the Department of Health and Human Services."
 
 #### Noninterference With Other Federal Agencies
 

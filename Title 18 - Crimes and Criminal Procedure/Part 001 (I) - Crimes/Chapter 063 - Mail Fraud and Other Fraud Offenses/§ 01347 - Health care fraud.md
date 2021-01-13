@@ -12,6 +12,8 @@
 
 (Added Pub. L. 104–191, title II, §242(a)(1), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title X, §10606(b), Mar. 23, 2010, 124 Stat. 1008.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 designated existing provisions as subsec. (a) and added subsec. (b).

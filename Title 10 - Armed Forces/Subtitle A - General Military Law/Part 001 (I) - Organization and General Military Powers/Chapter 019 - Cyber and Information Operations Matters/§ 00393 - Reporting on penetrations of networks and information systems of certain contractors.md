@@ -10,7 +10,7 @@ Networks and Information Systems Subject to Reporting.—
 
 &emsp;(1)
 
-Criteria.—The Secretary of Defense shall designate a senior official to, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
+Criteria.—The Secretary of Defense shall designate a senior official to, in consultationwith the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Officials.—The officials specified in this subsection are the following:
 
 &emsp;&emsp;(C) the Under Secretary of Defense for Research and Engineering.
 
-&emsp;&emsp;(D) The Under Secretary of Defense for Intelligence and Security.
+&emsp;&emsp;(D) The Under Secretary of Defense for Intelligence and Security <sup>1</sup>
 
 &emsp;&emsp;(E) The Chief Information Officer of the Department of Defense.
 
@@ -96,19 +96,21 @@ Cleared defense contractor.—The term "cleared defense contractor" means a priv
 
 Covered network.—The term "covered network" means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.
 
-(Added and amended Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114; Pub. L. 116–92, div. A, title IX, §902(8), title XVI, §1621(e)(1)(A)(vi), Dec. 20, 2019, 133 Stat. 1543, 1733.)
+(Added and amended Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114; Pub. L. 116–92, div. A, title IX, §902(8), title XVI, §1621(e)(1)(A)(vi), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title X, §1081(a)(15), Jan. 1, 2021, 134 Stat. 3871.)
 
 #### Codification
 
-Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
+Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, §941, Jan. 2,2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(2)(D). Pub. L. 116–283 substituted "of Defense for Intelligence and Security" for "of Defense for Intelligence."
+
 <b>2019</b>—Subsec. (b)(2)(B). Pub. L. 116–92, §902(8)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
-Subsec. (b)(2)(C). Pub. L. 116–92, §902(8)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 116–92, §1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence", could not be executed because the words "Under Secretary of Defense for Intelligence" did not appear. Similar amendment was subsequently directed to subpar. (D) by Pub. L. 116–283, see 2021 Amendment note above.
 
-Subsec. (b)(2)(D). Pub. L. 116–92, §1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence", was executed by making the substitution in subpar. (D) to reflect the probable intent of Congress and the amendment by Pub. L. 116–92, §902(8)(C). See note below.
+Pub. L. 116–92, §902(8)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
 Pub. L. 116–92, §902(8)(C), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
@@ -133,4 +135,6 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 "(2)
 
 Applicability date.—The requirements of this section shall apply on the date on which the Secretary of Defense establishes the procedures required under this section."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

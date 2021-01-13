@@ -114,7 +114,7 @@ The Corporation may administer and manage special projects and programs in suppo
 
 &emsp;&emsp;(E) To complement the work of the United States Agency for International Development and other donors to improve the overall business-enabling environment, financing the creation and expansion of the private business sector.
 
-&emsp;&emsp;(F) To make financially sustainable investments designed to generate measurablesocial benefits and build technical capacity in addition to financial returns.
+&emsp;&emsp;(F) To make financially sustainable investments designed to generate measurable social benefits and build technical capacity in addition to financial returns.
 
 #### (4) Operation of funds
 
@@ -221,6 +221,8 @@ Support provided under this subchapter shall be subject to section 2382(c) of th
 #### Termination of Section
 
 <i>For termination of section 7 years after Oct. 5, 2018, see section 9624 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -32,13 +32,17 @@ Section 5116(d) raises from $1,000 to $10,000 the maximum penalty for a violatio
 
 Section 5116(e) raises from $2,000 to $10,000 the maximum penalty for the alteration, removal, or concealment of a load line mark and may also include imprisonment for two years.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–380, §4302(d)(1), substituted "commits a class A misdemeanor" for "shall be fined not more than $10,000, imprisoned for not more than one year, or both".
 
 Subsec. (e). Pub. L. 101–380, §4302(d)(2), substituted "commits a class A misdemeanor" for "shall be fined not more than $10,000, imprisoned for not more than 2 years, or both".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 

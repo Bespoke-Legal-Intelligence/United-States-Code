@@ -32,7 +32,7 @@ Eligible Defense Contractors.—(1) The Secretary of Defense shall establish an 
 
 Defense Contractor Applications.—(1) A defense contractor desiring to enter into a cooperative agreement with the Secretary of Defense under subsection (a) shall submit an application to the Secretary containing the following:
 
-&emsp;(A) Evidence that the contractor has been, or is expected to be, adversely affected by the completion or termination of a defense contract or program or by reductions in defense spending.
+&emsp;(A) Evidence that the contractor has been, or is expected to be, adversely affected by thecompletion or termination of a defense contract or program or by reductions in defense spending.
 
 &emsp;(B) An explanation that scientists and engineers employed by the contractor have been terminated, laid off, or retired, or are likely to be terminated, laid off, or retired, as a result of the completion or termination of a defense contract or program or reductions in defense spending.
 
@@ -94,7 +94,11 @@ Stipend for Participants.—(1) The Secretary of Defense shall pay to each parti
 
 Placement of Participants as Teachers and Teachers' Aides.—Subsections (h) through (k) of section 1151 of this title, as in effect on October 4, 1999, shall apply with respect to the placement as teachers and teachers' aides of individuals selected under this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4443(a), Oct. 23, 1992, 106 Stat. 2732, §2410c; renumbered §2410j and amended Pub. L. 103–35, title II, §201(b)(1)(A), (g)(6), May 31, 1993, 107 Stat. 97, 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(3), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(5), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title XV, §1503(a)(23), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §576(c), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4443(a), Oct. 23, 1992, 106 Stat. 2732, §2410c; renumbered §2410j and amended Pub. L. 103–35, title II, §201(b)(1)(A), (g)(6), May 31, 1993, 107 Stat. 97, 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(3), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(5), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title XV,§1503(a)(23), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §576(c), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after section 4702, and redesignated as section 4703 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -121,6 +125,10 @@ Subsec. (f)(2)(A), (B). Pub. L. 104–201 substituted "two school years" for "fi
 Subsec. (f)(2)(A), (B). Pub. L. 103–160 substituted "five school years" for "two school years".
 
 Subsec. (f)(2)(B). Pub. L. 103–35, §201(g)(6), substituted "aide" for "aid" after "for placement as a teacher's".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -16,7 +16,7 @@ Each application for funds under subsection (a) of this section shall state, amo
 
 #### (c) Research facilities; selection of institutes; designation of funds for scholarships and fellowships
 
-The Committee shall review all such funding applications and recommend to the Secretary the use of the institutes, insofar as practicable, to perform special research. Recommendations shall be made without regard to the race, religion, or sex of the personnel who will conduct and direct the research, and on the basis of the facilities available in relation to the particular needs of the research project; special geographic, geologic, or climatic conditions within the immediate vicinity of the institute; any other special requirements of the research project; and the extent to which such projectwill provide an opportunity for training individuals as mineral engineers and scientists. The Committee shall recommend to the Secretary the designation and utilization of such portions of the funds authorized to be appropriated by this section as it deems appropriate for the purpose of providing scholarships, graduate fellowships, and postdoctoral fellowships.
+The Committee shall review all such funding applications and recommend to the Secretary the use of the institutes, insofar as practicable, to perform special research. Recommendations shall be made without regard to the race, religion, or sex of the personnel who will conduct and direct the research, and on the basis of the facilities available in relation to the particular needs of the research project; special geographic, geologic, or climatic conditions within the immediate vicinity of the institute; any other special requirements of the research project; and the extent to which such project will provide an opportunity for training individuals as mineral engineers and scientists. The Committee shall recommend to the Secretary the designation and utilization of such portions of the funds authorized to be appropriated by this section as it deems appropriate for the purpose of providing scholarships, graduate fellowships, and postdoctoral fellowships.
 
 #### (d) Requirements for receipt of funds
 
@@ -27,6 +27,8 @@ No funds shall be made available under subsection (a) of this section except for
 No funds made available under this section shall be applied to the acquisition by purchase or lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
 
 (Pub. L. 98–409, §2, Aug. 29, 1984, 98 Stat. 1537; Pub. L. 100–483, §5, Oct. 12, 1988, 102 Stat. 2339; Pub. L. 104–312, §1(a), Oct. 19, 1996, 110 Stat. 3819.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

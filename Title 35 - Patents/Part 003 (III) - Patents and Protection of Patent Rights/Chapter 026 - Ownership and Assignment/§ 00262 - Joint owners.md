@@ -8,9 +8,13 @@ In the absence of any agreement to the contrary, each of the joint owners of a p
 
 This section states a condition in existing law not expressed in the existing statutes.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–465 substituted "use, offer to sell, or sell" for "use or sell" and inserted "within the United States, or import the patented invention into the United States," after "invention".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

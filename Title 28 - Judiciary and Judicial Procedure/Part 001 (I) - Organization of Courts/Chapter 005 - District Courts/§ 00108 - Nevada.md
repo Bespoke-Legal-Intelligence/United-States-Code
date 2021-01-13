@@ -12,6 +12,8 @@ Based on title 28, U.S.C., 1940 ed., §174 (Mar. 3, 1911, ch. 231, §94, 36 Stat
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–650 substituted ", Reno, Ely, and Lovelock" for "and Reno".

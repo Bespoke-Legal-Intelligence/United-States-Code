@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided in section 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
+The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided insection 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
 
 #### (b) Method of adjustment
 

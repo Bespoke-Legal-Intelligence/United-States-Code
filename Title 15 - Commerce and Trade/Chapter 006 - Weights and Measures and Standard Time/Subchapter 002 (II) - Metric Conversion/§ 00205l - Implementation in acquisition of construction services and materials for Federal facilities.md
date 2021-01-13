@@ -78,7 +78,7 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 
 #### Effective Date; Savings Provision
 
-Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agency makes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
+Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agencymakes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

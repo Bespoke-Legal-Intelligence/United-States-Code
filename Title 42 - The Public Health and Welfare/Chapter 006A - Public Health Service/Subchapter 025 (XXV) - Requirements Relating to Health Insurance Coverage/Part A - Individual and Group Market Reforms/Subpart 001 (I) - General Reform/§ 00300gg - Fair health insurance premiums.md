@@ -54,7 +54,7 @@ Another prior section 2701 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 
-Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, provided that: "This subtitle \[subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section300gg of this title to section 300gg–3 of this title\] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
+Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, provided that: "This subtitle \[subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title\] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
 
 &emsp;"(1) section 1251 \[enacting section 18011 of this title\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\]; and
 

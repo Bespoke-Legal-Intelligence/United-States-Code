@@ -28,7 +28,7 @@ The Board shall select a treasurer and as many assistant treasurers as it deems 
 
 &emsp;(a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
 
-&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transfer authorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
+&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transferauthorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
 
 &emsp;(c) to transfer any part of the possession and control of the real estate now in possession of and under the control of said Corporation to any other department, agency, or instrumentality of the United States: <i>Provided, however</i>, That no land shall be conveyed, leased, or transferred, upon which there is located any permanent dam, hydroelectric power plant, or munitions plant heretofore or hereafter built by or for the United States or for the Authority, except that this prohibition shall not apply to the transfer of Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, or to Waco Quarry: <i>And provided further</i>, That no transfer authorized herein in (a) or (c) except leases for terms of less than twenty years, shall be made without the approval of the President of the United States, if the property to be conveyed exceeds $500 in value; and
 
@@ -68,11 +68,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-#### Delegation of Functions
-
-Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
 #### Release of Use Restrictions
 
 Pub. L. 113–121, title VI, §6005(h), June 10, 2014, 128 Stat. 1360, provided that: "Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies."
+
+#### Delegation of Functions
+
+Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

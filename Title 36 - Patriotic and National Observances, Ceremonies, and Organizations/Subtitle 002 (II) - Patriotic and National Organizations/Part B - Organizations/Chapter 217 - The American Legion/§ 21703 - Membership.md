@@ -42,6 +42,8 @@ In clause (2), the words "after that period" are substituted for "after any of t
 
 This amends section 21703(1)(A)(iv) of title 36 to reflect changes made by Public Law 105–110 (Nov. 20, 1997, 111 Stat. 2270).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Par. (1)(A). Pub. L. 116–35, §3(1)(A), substituted "during—" for "during any period from—" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) to (vii) which set out specific time periods one had to serve in the United States Armed Forces in order to be eligible for membership in the corporation.
@@ -53,6 +55,8 @@ Par. (2). Pub. L. 116–35, §3(2), inserted "or time" after "that period".
 <b>2002</b>—Par. (2). Pub. L. 107–309 inserted "during or" after "continues to serve honorably".
 
 <b>1998</b>—Par. (1)(A)(iv). Pub. L. 105–354 substituted "February 28, 1961" for "December 22, 1961".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings and Sense of Congress
 
@@ -116,7 +120,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(27) The 11th unrecognized war era involving active United States military personnel started on April 5, 1986, when the La Belle discotheque in West Berlin, Germany, was bombed, killing two United States soldiers and wounding 79 other members of the Armed Forces, which triggered what became known as the Libyan Conflict.
 
-&emsp;"(28) The military operations of the Libyan Conflict included numerous air strikes by United States military forces and resulted in the deaths of two members of the Armed Forces who sacrificed their lives in service to the United States.
+&emsp;"(28) The military operations of the Libyan Conflict included numerous air strikes by United States military forces and resulted in the deaths of two membersof the Armed Forces who sacrificed their lives in service to the United States.
 
 &emsp;"(29) The Libyan Conflict led to the 12th unrecognized war era involving active United States military personnel, known collectively as the Persian Gulf Conflicts, which lasted from July 24, 1987, through September 26, 1988.
 

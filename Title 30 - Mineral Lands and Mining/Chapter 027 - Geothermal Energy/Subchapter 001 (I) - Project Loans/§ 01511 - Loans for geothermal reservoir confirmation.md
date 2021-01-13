@@ -2,7 +2,7 @@
 
 #### (a) Authorization; purposes
 
-The Secretary of Energy (hereafter in this chapter referred to as the "Secretary") is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title, to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
+The Secretary of Energy (hereafter in this chapter referred to as the "Secretary") is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 <sup>1</sup> of this title, to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
 
 #### (b) Repayment rates
 
@@ -14,7 +14,7 @@ Subject to subsection (c) and to section 1513(b) of this title, any loan under s
 
 &emsp;(3) a sale of energy or geothermal energy resources from the reservoir is made for an unreasonably low price;
 
-> except that no such imputation of revenue shall be made during the three-year period immediately following such reservoir confirmation. In the event of failure to begin production of revenue (or, where no sale of energy or geothermal energy resources is made, to begin production of energy for commercial use) within five years after the date of such reservoir confirmation, the Secretary may take action to recover the value, not to exceed the amount of the unpaid balance of the loan plus any accrued interest thereon, of any assets of the project in question, including resource rights.
+> except that no such imputation of revenue shall be made during the three-year period immediately following such reservoir confirmation. Inthe event of failure to begin production of revenue (or, where no sale of energy or geothermal energy resources is made, to begin production of energy for commercial use) within five years after the date of such reservoir confirmation, the Secretary may take action to recover the value, not to exceed the amount of the unpaid balance of the loan plus any accrued interest thereon, of any assets of the project in question, including resource rights.
 
 #### (c) Cancellation of unpaid balance and accrued interest
 
@@ -26,7 +26,13 @@ As used in this subchapter, the term "person" includes municipalities, electric 
 
 (Pub. L. 96–294, title VI, §611, June 30, 1980, 94 Stat. 763.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this title", meaning title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 763, known as the Geothermal Energy Act of 1980. For complete classification of title VI to the Code, see Short Title note set out under section 1501 of this title and Tables.
+
+Section 1144 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–260, div. Z, title III, §3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

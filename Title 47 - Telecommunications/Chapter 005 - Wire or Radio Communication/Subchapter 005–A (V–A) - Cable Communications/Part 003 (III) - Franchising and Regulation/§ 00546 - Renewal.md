@@ -36,7 +36,7 @@
 
 #### (d) Basis for denial
 
-Any denial of a proposal for renewal that has been submitted in compliance with subsection (b) shall be based on one or more adverse findings made with respect to the factors described in subparagraphs (A) through (D) of subsection (c)(1), pursuant to the record of the proceeding under subsection (c). A franchising authority may not base a denial of renewal on a failure to substantially comply with the material terms of the franchise under subsection (c)(1)(A) or on events considered under subsection (c)(1)(B) in any case in which a violation of the franchise or the events considered under subsection (c)(1)(B) occur after the effective date of this subchapter unless the franchising authority has provided the operator with notice and the opportunity to cure, or in any case in which it is documented that the franchising authority has waived its right to object, or the cable operator gives written notice of a failure or inability to cure and the franchising authority fails to object within a reasonable time after receipt of such notice.
+Any denial of a proposal for renewal that has been submitted in compliance with subsection (b) shall be based on one or more adverse findings made with respect to the factors described in subparagraphs (A) through (D) of subsection\(c)(1), pursuant to the record of the proceeding under subsection (c). A franchising authority may not base a denial of renewal on a failure to substantially comply with the material terms of the franchise under subsection (c)(1)(A) or on events considered under subsection (c)(1)(B) in any case in which a violation of the franchise or the events considered under subsection (c)(1)(B) occur after the effective date of this subchapter unless the franchising authority has provided the operator with notice and the opportunity to cure, or in any case in which it is documented that the franchising authority has waived its right to object, or the cable operator gives written notice of a failure or inability to cure and the franchising authority fails to object within a reasonable time after receipt of such notice.
 
 #### (e) Judicial review; grounds for relief
 
@@ -66,6 +66,8 @@ Notwithstanding the provisions of subsections (a) through (h), any lawful action
 
 (June 19, 1934, ch. 652, title VI, §626, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2791; amended Pub. L. 102–385, §18, Oct. 5, 1992, 106 Stat. 1493.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For "the effective date of this subchapter", referred to in subsec. (d), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
@@ -87,6 +89,8 @@ Subsec. (d). Pub. L. 102–385, §18(d), inserted "that has been submitted in co
 Subsec. (e)(2)(A). Pub. L. 102–385, §18(e), inserted ", other than harmless error," after "franchising authority".
 
 Subsec. (i). Pub. L. 102–385, §18(f), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

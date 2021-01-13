@@ -44,7 +44,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 #### (2) Interpretation of historical events
 
-&emsp;The Secretary shall provide for the interpretation of historical events and activities that occurred in the vicinity of Fort Sumter and Fort Moultrie, including—
+&emsp;The Secretary shall provide for the interpretation of historical events and activities thatoccurred in the vicinity of Fort Sumter and Fort Moultrie, including—
 
 &emsp;&emsp;(A) the Battle of Sullivan's Island on June 28, 1776;
 

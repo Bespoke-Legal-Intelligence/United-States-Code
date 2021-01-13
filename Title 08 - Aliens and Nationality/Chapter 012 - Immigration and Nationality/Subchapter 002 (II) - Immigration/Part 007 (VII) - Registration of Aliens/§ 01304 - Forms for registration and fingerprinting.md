@@ -18,13 +18,15 @@ Every alien in the United States who has been registered and fingerprinted under
 
 #### (e) Personal possession of registration or receipt card; penalties
 
-Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
+Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanorand shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
 
 #### (f) Alien's social security account number
 
 Notwithstanding any other provision of law, the Attorney General is authorized to require any alien to provide the alien's social security account number for purposes of inclusion in any record of the alien maintained by the Attorney General or the Service.
 
 (June 27, 1952, ch. 477, title II, ch. 7, §264, 66 Stat. 224; Pub. L. 99–653, §10, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(i), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title V, §503(b)(2), Nov. 29, 1990, 104 Stat. 5049; Pub. L. 104–208, div. C, title IV, §415, Sept. 30, 1996, 110 Stat. 3009–669.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ This chapter, referred to in subsec. (d), was in the original, "this Act", meani
 <b>1988</b>—Subsec. (a). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, amended first sentence generally, striking out "and fingerprinting" before "of aliens under section 1301".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

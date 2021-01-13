@@ -4,9 +4,13 @@ Subject to existing international agreements to which the United States is a par
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The time of enactment of this Act, referred to in text, probably means the time of enactment of Pub. L. 94–583, which was approved Oct. 21, 1976.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

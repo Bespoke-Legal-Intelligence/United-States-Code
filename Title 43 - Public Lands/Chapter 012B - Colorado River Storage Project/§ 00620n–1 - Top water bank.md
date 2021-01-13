@@ -6,7 +6,7 @@
 
 (c) The top water bank authorized under subsection (a) shall be operated in a manner that—
 
-&emsp;(1) is consistent with applicable law, except that, notwithstanding any other provision of law, water for purposes other than irrigationmay be stored in the Navajo Reservoir pursuant to the rules governing the top water bank established under this section; and
+&emsp;(1) is consistent with applicable law, except that, notwithstanding any other provision of law, water for purposes other than irrigation may be stored in the Navajo Reservoir pursuant to the rules governing the top water bank established under this section; and
 
 &emsp;(2) does not impair the ability of the Secretary of the Interior to deliver water under contracts entered into under—
 
@@ -35,6 +35,8 @@
 #### Termination of Section
 
 <i>For termination of section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

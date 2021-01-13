@@ -30,9 +30,11 @@ The officers in charge of property owned or leased by the Government are authori
 
 #### (h) Public education regarding naturalization benefits
 
-In order to promote the opportunities and responsibilities of United States citizenship, the Attorney General shall broadly distribute information concerning the benefits which persons may receive under this subchapter and the requirements to obtain such benefits. In carrying out this subsection, the Attorney General shall seek the assistance of appropriate community groups, private voluntary agencies, and other relevant organizations. There are authorized to be appropriated (for each fiscal year beginning with fiscal year 1991) such sums as may be necessary to carry out this subsection.
+In order to promote the opportunities and responsibilities of United States citizenship, the Attorney General shall broadly distribute information concerning the benefits which persons may receive under this subchapter and the requirements to obtain such benefits. In carryingout this subsection, the Attorney General shall seek the assistance of appropriate community groups, private voluntary agencies, and other relevant organizations. There are authorized to be appropriated (for each fiscal year beginning with fiscal year 1991) such sums as may be necessary to carry out this subsection.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §332, 66 Stat. 252; Pub. L. 101–649, title IV, §§406, 407(d)(10), Nov. 29, 1990, 104 Stat. 5040, 5042; Pub. L. 102–232, title III, §305(m)(6), Dec. 12, 1991, 105 Stat. 1750.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ This chapter, referred to in subsec. (f), was in the original, "this Act", meani
 <b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(d)(10), struck out "for the purpose of making appropriate recommendations to the naturalization courts" before period at end of first sentence and struck out second sentence which read as follows: "Such examination, in the discretion of the Attorney General, and under such rules and regulations as may be prescribed by him, may be conducted before or after the applicant has filed his petition for naturalization."
 
 Subsec. (h). Pub. L. 101–649, §406, added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

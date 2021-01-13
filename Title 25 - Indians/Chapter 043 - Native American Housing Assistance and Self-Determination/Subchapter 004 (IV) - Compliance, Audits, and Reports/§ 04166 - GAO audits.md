@@ -4,6 +4,8 @@ To the extent that the financial transactions of Indian tribes and recipients of
 
 (Pub. L. 104–330, title IV, §406, Oct. 26, 1996, 110 Stat. 4041; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

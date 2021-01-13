@@ -116,7 +116,7 @@ Role of Committee.—The Committee shall—
 
 &emsp;"(6) provide for development of measures of condition, safety, and performance for transportation related to travel and tourism;
 
-&emsp;"(7) provide for development of transportation investment, data, and planning tools to assist Federal,State, and local officials in making investment decisions relating to transportation projects that improve travel and tourism; and
+&emsp;"(7) provide for development of transportation investment, data, and planning tools to assist Federal, State, and local officials in making investment decisions relating to transportation projects that improve travel and tourism; and
 
 &emsp;"(8) address other issues of transportation policy and programs impacting the movement of travelers for tourism and recreational purposes, including by making legislative recommendations.
 
@@ -130,7 +130,7 @@ National Travel and Tourism Infrastructure Strategic Plan.—Not later than 3 ye
 
 &emsp;"(3) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued;
 
-&emsp;"(4) an identification of the major transportation facilities and corridors for current and forecasted long-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans;
+&emsp;"(4) an identification of the major transportation facilities and corridors for current and forecastedlong-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans;
 
 &emsp;"(5) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers);
 
@@ -216,7 +216,7 @@ Pub. L. 105–66, title III, §346, Oct. 27, 1997, 111 Stat. 1449, provided that
 
 &emsp;"(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a);
 
-&emsp;"(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as 'CORS') system of the National Geodetic Survey of the Department of Commerce; and
+&emsp;"(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integratedinto, the Continuously Operating Reference Station (commonly referred to as 'CORS') system of the National Geodetic Survey of the Department of Commerce; and
 
 &emsp;"(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration.
 

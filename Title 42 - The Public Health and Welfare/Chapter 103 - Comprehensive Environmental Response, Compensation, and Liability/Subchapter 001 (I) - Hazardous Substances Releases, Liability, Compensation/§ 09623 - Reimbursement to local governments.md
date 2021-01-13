@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-Any general purpose unit of local government for a political subdivision which is affected by arelease or threatened release at any facility may apply to the President for reimbursement under this section.
+Any general purpose unit of local government for a political subdivision which is affected by a release or threatened release at any facility may apply to the President for reimbursement under this section.
 
 #### (b) Reimbursement
 

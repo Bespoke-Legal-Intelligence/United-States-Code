@@ -2,7 +2,7 @@
 
 #### (a) Federal grants and contracts for certain research projects and related activities
 
-(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
+(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and publicor private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
 (2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
@@ -50,7 +50,7 @@
 
 &emsp;(iv) providing training (including graduate, pre-service, and in-service training) for independent living and rehabilitation research personnel and other independent living and rehabilitation personnel;
 
-&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications forpractice and identifies potential new areas of research; and
+&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications for practice and identifies potential new areas of research; and
 
 &emsp;(vi) developing practical applications for the research findings of the Centers.
 
@@ -300,6 +300,8 @@
 
 (Pub. L. 93–112, title II, §204, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, §402(b), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 111–256, §2(d)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §435, July 22, 2014, 128 Stat. 1666.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Assistive Technology Act of 1998, referred to in subsec. (b)(3)(C)(i), (G)(i), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
@@ -412,7 +414,7 @@ Subsec. (b)(11)(B). Pub. L. 113–128, §435(2)(H)(ii), inserted "and employment
 
 Subsec. (b)(11)(G) to (L). Pub. L. 113–128, §435(2)(H)(iii)–(v), added subpars. (G) to (L).
 
-Subsec. (b)(12). Pub. L. 113–128, §435(2)(I)(i), (iii), in introductory provisions, inserted "an independent living or" after "conduct" and, in concluding provisions, substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
+Subsec. (b)(12). Pub. L. 113–128, §435(2)(I)(i), (iii), in introductory provisions, inserted "an independent livingor" after "conduct" and, in concluding provisions, substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
 
 Pub. L. 113–128, §435(2)(G), redesignated par. (14) as (12). Former par. (12) redesignated (10).
 
@@ -435,6 +437,8 @@ Subsec. (d). Pub. L. 113–128, §435(3), added subsec. (d).
 <b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
 Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted "the Assistive Technology Act of 1998" for "the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

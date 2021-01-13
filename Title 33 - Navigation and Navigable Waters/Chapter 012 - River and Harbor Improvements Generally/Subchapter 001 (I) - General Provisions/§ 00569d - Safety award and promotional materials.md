@@ -12,13 +12,15 @@
 
 #### (b) Employee recognition
 
-The Secretary is authorized to incur necessary expenses for the honorary recognition of the outstanding safety performance of employees ofthe Corps of Engineers. Such recognition may be in the form of certificates, plaques, cash, or other forms of awards.
+The Secretary is authorized to incur necessary expenses for the honorary recognition of the outstanding safety performance of employees of the Corps of Engineers. Such recognition may be in the form of certificates, plaques, cash, or other forms of awards.
 
 #### (c) Authorization of appropriations
 
 There is authorized to be appropriated $350,000 for each fiscal year beginning after September 30, 1992, for carrying out the purposes of this section.
 
 (Pub. L. 102–580, title II, §210, Oct. 31, 1992, 106 Stat. 4830.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

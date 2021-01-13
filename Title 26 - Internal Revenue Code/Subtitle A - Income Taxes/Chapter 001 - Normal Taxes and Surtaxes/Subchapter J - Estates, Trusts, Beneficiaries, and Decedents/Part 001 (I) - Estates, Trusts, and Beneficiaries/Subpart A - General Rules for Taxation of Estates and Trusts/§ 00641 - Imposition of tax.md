@@ -50,7 +50,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 &emsp;&emsp;(E)(i) Section 642(c) shall not apply.
 
-&emsp;&emsp;(ii) For purposes of section 170(b)(1)(G), adjusted gross income shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the trust and which would not have been incurred if the property were not held in such trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;(ii) For purposes of section 170(b)(1)(G), adjusted gross income shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the trust and which would not have been incurred if the property werenot held in such trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (3) Treatment of remainder of trust and distributions
 

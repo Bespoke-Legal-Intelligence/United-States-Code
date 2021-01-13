@@ -4,7 +4,7 @@ A food shall be deemed to be adulterated—
 
 #### (a) Poisonous, insanitary, etc., ingredients
 
-(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if thequantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b of this title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
+(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b ofthis title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
 
 #### (b) Absence, substitution, or addition of constituents
 
@@ -52,7 +52,7 @@ If it is oleomargarine or margarine or butter and any of the raw material used t
 
 (1) If it is a dietary supplement and it has been prepared, packed, or held under conditions that do not meet current good manufacturing practice regulations, including regulations requiring, when necessary, expiration date labeling, issued by the Secretary under subparagraph (2).
 
-(2) The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standard of current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
+(2) The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standardof current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
 
 #### (h) Reoffer of food previously denied admission
 
@@ -63,6 +63,8 @@ If it is an article of food imported or offered for import into the United State
 If it is transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food under conditions that are not in compliance with regulations promulgated under section 350e of this title.
 
 (June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Pub. L. 85–929, §3(a), (b), Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–2, Mar. 17, 1959, 73 Stat. 3; Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), July 12, 1960, 74 Stat. 397, 398, 404; Pub. L. 89–477, June 29, 1966, 80 Stat. 231; Pub. L. 90–399, §104, July 13, 1968, 82 Stat. 352; Pub. L. 99–252, §10, Feb. 27, 1986, 100 Stat. 35; Pub. L. 102–571, title I, §107(4), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(i), Aug. 13, 1993, 107 Stat. 776; Pub. L. 103–417, §§4, 9, Oct. 25, 1994, 108 Stat. 4328, 4332; Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 107–188, title III, §309, June 12, 2002, 116 Stat. 673; Pub. L. 109–59, title VII, §7202(a), Aug. 10, 2005, 119 Stat. 1911.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -90,7 +92,7 @@ Par. (d)(3). Pub. L. 103–80, §3(i)(3), substituted ", except that this subpa
 
 <b>1966</b>—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
 
-<b>1960</b>—Par. (a). Pub. L. 86–618, §102(a)(1), substituted "other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive;or (iii) a color additive" for "(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)" in cl. (2)(A).
+<b>1960</b>—Par. (a). Pub. L. 86–618, §102(a)(1), substituted "other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive" for "(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)" in cl. (2)(A).
 
 Par. (c). Pub. L. 86–618, §102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376 of this title for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 346 of this title, and struck out provisos which related to the use of color on oranges.
 
@@ -105,6 +107,8 @@ Par. (d). Pub. L. 86–618, §105(c), substituted "authorized coloring" for "har
 <b>1954</b>—Par. (a)(2). Act July 22, 1954, provided in the case of any raw agricultural commodity bearing or containing a pesticide chemical, that such commodity shall be deemed to be adulterated if such pesticide chemical is unsafe within the meaning of section 346a of this title.
 
 <b>1950</b>—Par. (e). Act Mar. 16, 1950, added par. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -156,7 +160,7 @@ Par. (c) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, s
 
 #### Short Title
 
-Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: "That this Act \[amending provisions set out as a note under this section and section 135 of Title 7, Agriculture\] may be cited as the 'Food Additives Transitional Provisions Amendment of 1964'."
+Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: "That this Act \[amending provisions set out as a noteunder this section and section 135 of Title 7, Agriculture\] may be cited as the 'Food Additives Transitional Provisions Amendment of 1964'."
 
 #### Transfer of Functions
 

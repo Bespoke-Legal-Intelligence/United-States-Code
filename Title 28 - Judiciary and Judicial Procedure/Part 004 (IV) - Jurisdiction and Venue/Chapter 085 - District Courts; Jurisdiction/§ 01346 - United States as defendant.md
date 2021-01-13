@@ -26,7 +26,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, §24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, §1310(c), 42 Stat. 311; June 2, 1924, ch. 234, §1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§410(a), 411, 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, §24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, §1310(c), 42 Stat. 311; June 2, 1924, ch. 234, §1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972;Feb. 26, 1926, ch. 27, §§1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§410(a), 411, 60 Stat. 843).
 
 Section consolidates provisions of section 41(20) conferring jurisdiction upon the district court, in civil actions against the United States, with the first sentence of section 931(a) relating to jurisdiction of the district courts in tort claims cases, and those provisions of section 932 making the provisions of said section 41(20), relating to counterclaim and set-off, applicable to tort claims cases, all of title 28, U.S.C., 1940 ed.
 
@@ -64,9 +64,11 @@ The provision of title 28, U.S.C., §932, which related to application of the Fe
 
 This section corrects typographical errors in section 1346(a)(1) of title 28, U.S.C., and in section 1346(b) of such title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, §1101(a), (c)(1), Nov. 2, 2015, 129 Stat.625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 of Title 26 was repealed by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
+Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, §1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 of Title 26 was repealed by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
 
@@ -108,6 +110,8 @@ Subsec. (e). Pub. L. 97–248 substituted "section 6226, 6228(a), 7426, or" for 
 
 Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, §80(b), made a technical change to correct "chapter 173" to read "chapter 171", and inserted "on and after January 1, 1945" after "for money damages".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as an Effective Date note under section 1296 of this title.
@@ -148,5 +152,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70,title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

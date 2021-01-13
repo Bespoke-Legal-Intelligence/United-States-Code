@@ -26,7 +26,7 @@ Functions.—
 
 &emsp;"(1)
 
-In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social SecurityAdministration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[42 U.S.C. 901, 902, 903, 904\] (as amended by this title).
+In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[42 U.S.C. 901, 902, 903, 904\] (as amended by this title).
 
 &emsp;"(2)
 
@@ -112,7 +112,7 @@ Assumption of office of initial commissioner before effective date of new agency
 
 &emsp;"(3)
 
-Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[42 U.S.C. 903\] (asso amended) may be nominated and take office, under the terms and conditions set out in such sections.
+Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[42 U.S.C. 903\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
 
 &emsp;"(4)
 
@@ -124,7 +124,7 @@ Interim role of current commissioner after effective date of new agency.—In th
 
 &emsp;"(6)
 
-Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, while continuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department of Health and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
+Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, while continuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department ofHealth and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
 
 &emsp;"(7)
 
@@ -164,7 +164,7 @@ Continuation of Penalties.—This title shall not have the effect of releasing o
 
 "(f)
 
-Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this title and the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extentand in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
+Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this title and the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extent and in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
 
 "(g)
 
@@ -184,5 +184,5 @@ References to the Secretary of Health and Human Services.—Whenever any referen
 
 "(c)
 
-References to Other Officers and Employees.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to any other officer or employee of the Department of Health and Human Services with respect to such officer or employee's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the officer or employee of the Social Security Administration pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the appropriate officer or employee of the Social Security Administration."
+References to Other Officers and Employees.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to any other officer or employee of the Department of Health and Human Services with respect to such officer or employee's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the officer or employee of the Social Security Administration pursuant to section105(a)(2) of this Act, such reference shall be considered a reference to the appropriate officer or employee of the Social Security Administration."
 

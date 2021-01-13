@@ -2,7 +2,7 @@
 
 #### (a) Price loss coverage payments
 
-If all of the producers on a farm make the election under subsection (a) or (h) of section 9015 of this title to obtain price loss coverage or,subject to subsection (c)(1) of such section, are deemed to have made such election under subsection (c)(2) of such section, the Secretary shall make price loss coverage payments to producers on the farm on a covered commodity-by-covered-commodity basis if the Secretary determines that—
+If all of the producers on a farm make the election under subsection (a) or (h) of section 9015 of this title to obtain price loss coverage or, subject to subsection (c)(1) of such section, are deemed to have made such election under subsection (c)(2) of such section, the Secretary shall make price loss coverage payments to producers on the farm on a covered commodity-by-covered-commodity basis if the Secretary determines that—
 
 &emsp;(1) for any of the 2014 through 2018 crop years—
 
@@ -54,7 +54,7 @@ The effective price for a covered commodity for a crop year shall be the higher 
 
 #### (d) Payment amount
 
-If price loss coverage payments are required to be provided under this section for any of the 2014 through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+If price loss coverage payments are required to be provided under this section for any of the 2014through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
 
 &emsp;(1) the payment rate for the covered commodity under subsection (c);
 
@@ -108,7 +108,7 @@ In order to reflect price premiums, the Secretary shall provide a reference pric
 
 &emsp;&emsp;&emsp;(ii) the total United States cottonseed production, measured in pounds.
 
-(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8),Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504.)
+(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504.)
 
 #### Amendments
 

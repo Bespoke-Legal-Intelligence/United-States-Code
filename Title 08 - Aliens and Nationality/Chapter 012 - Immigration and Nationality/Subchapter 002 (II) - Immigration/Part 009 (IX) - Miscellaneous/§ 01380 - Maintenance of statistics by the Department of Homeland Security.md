@@ -10,13 +10,17 @@ Subsection (a) shall apply to petitions filed on or after the effective date of 
 
 (Pub. L. 108–447, div. J, title IV, §414, Dec. 8, 2004, 118 Stat. 3352.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subtitle, referred to in subsec. (b), means subtitle A (§§411–417) of title IV of div. J of Pub. L. 108–447. For the effective date of subtitle A, see section 417 of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note under section 1184 of this title.
 
 #### Codification
 
-Section was enacted as part of the L–1 Visa (Intracompany Transferee) Reform Act of 2004, and also aspart of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the L–1 Visa (Intracompany Transferee) Reform Act of 2004, and also as part of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

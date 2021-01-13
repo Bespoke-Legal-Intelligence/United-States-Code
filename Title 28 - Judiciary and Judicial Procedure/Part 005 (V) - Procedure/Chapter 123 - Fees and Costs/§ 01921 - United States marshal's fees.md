@@ -64,6 +64,8 @@ In <i>Alberty v. U.S</i>., C.C.A.9, 1937, 91 F.2d 461, the defendant was fined $
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Comprehensive Forfeiture Act of 1984, referred to in subsec. (c)(1), is chapter III of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2040, as amended. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1961 of Title 18, Crimes and Criminal Procedure, and Tables.
@@ -80,9 +82,11 @@ The Comprehensive Forfeiture Act of 1984, referred to in subsec. (c)(1), is chap
 
 <b>1950</b>—Act Sept. 9, 1950, increased mileage fees from 6 to 10 cents a mile.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §39(b), Nov. 10, 1986, 100 Stat. 3600, provided that: "The amendments made by this section\[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §39(b), Nov. 10, 1986, 100 Stat. 3600, provided that: "The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
 
 #### Effective Date of 1962 Amendment
 
@@ -90,7 +94,7 @@ Pub. L. 87–621, §3, Aug. 31, 1962, 76 Stat. 418, provided that: "This Act \[a
 
 #### Collection and Disposition of Fees and Expenses for Services
 
-Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided in part: "That notwithstanding the provisions of title 31 U.S.C. 3302, for fiscal year 1990 and hereafter the Director of the United States Marshals Service may collect fees and expenses for the services authorized by 28 U.S.C. 1921 as amended by Public Law 100–690, and credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services".
+Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided in part: "That notwithstanding the provisions of title 31 U.S.C. 3302, for fiscal year 1990 and hereafter the Director of the United States Marshals Service may collect fees and expenses for the services authorized by28 U.S.C. 1921 as amended by Public Law 100–690, and credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

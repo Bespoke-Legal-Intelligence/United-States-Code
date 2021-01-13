@@ -8,7 +8,7 @@
 
 (3) This subsection does not restrict the award of contracts to small business concerns under section 8(a) of the Small Business Act (15 U.S.C. 637(a)).
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 98–407, title VIII, §808(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 107–217, §3(b)(22), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title XIV, §1427(a), Nov. 24, 2003, 117 Stat. 1670; Pub. L. 115–232, div. B, title XXVIII, §2804(a), (b), Aug. 13, 2018, 132 Stat. 2261.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166; amended Pub. L. 98–407, title VIII,§808(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 107–217, §3(b)(22), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title XIV, §1427(a), Nov. 24, 2003, 117 Stat. 1670; Pub. L. 115–232, div. B, title XXVIII, §2804(a), (b), Aug. 13, 2018, 132 Stat. 2261.)
 
 #### References in Text
 

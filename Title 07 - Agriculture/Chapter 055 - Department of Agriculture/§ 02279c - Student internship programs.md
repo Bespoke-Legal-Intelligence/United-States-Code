@@ -12,7 +12,7 @@
 
 #### (2) Payment of certain expenses by the Secretary
 
-&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the official duty station at which the student intern is employed).
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the officialduty station at which the student intern is employed).
 
 #### (b) Cooperation with associations of colleges and universities
 

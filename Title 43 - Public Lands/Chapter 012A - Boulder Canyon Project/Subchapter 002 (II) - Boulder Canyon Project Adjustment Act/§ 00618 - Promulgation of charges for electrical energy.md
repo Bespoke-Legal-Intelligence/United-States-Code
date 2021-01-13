@@ -16,15 +16,19 @@ Such charges may be made subject to revisions and adjustments at such times, to 
 
 (July 19, 1940, ch. 643, §1, 54 Stat. 774; Apr. 30, 1947, ch. 46, 61 Stat. 56; Pub. L. 98–381, title I, §104(a)(1)–(3), Aug. 17, 1984, 98 Stat. 1334.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1, 1937, and ending May 31, 1987" in provisions preceding subsec. (a).
+<b>1984</b>—Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1,1937, and ending May 31, 1987" in provisions preceding subsec. (a).
 
 Subsec. (a). Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1, 1937, and ending May 31, 1987".
 
 Subsec. (b). Pub. L. 98–381, §104(a)(2), substituted "and such advances made on or after June 1, 1937, over fifty-year periods" for "and such portion of such advances made on or after June 1, 1937, as (on the basis of repayment thereof within such fifty-year period or periods as the Secretary may determine) will be repayable prior to June 1, 1987".
 
 Subsec. (e). Pub. L. 98–381, §104(a)(3), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

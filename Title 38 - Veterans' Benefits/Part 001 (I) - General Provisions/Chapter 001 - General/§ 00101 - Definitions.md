@@ -4,7 +4,7 @@ For the purposes of this title—
 
 (1) The terms "Secretary" and "Department" mean the Secretary of Veterans Affairs and the Department of Veterans Affairs, respectively.
 
-(2) The term "veteran" means a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable.
+(2) The term "veteran" means a person who served in the active military, naval, air, or space service, and who was discharged or released therefrom under conditions other than dishonorable.
 
 (3) The term "surviving spouse" means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran's death, and who lived with the veteran continuously from the date of marriage to the date of the veteran's death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962, lived with another person and held himself or herself out openly to the public to be the spouse of such other person.
 
@@ -36,7 +36,7 @@ For the purposes of this title—
 
 &emsp;&emsp;(II) for a period of at least one year prior to such veteran's death, such person met the requirements of clause (i) of this subparagraph.
 
-(5) The term "parent" means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, or air service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in therelationship of father or mother before the veteran's last entry into active military, naval, or air service.
+(5) The term "parent" means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, air, or space service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in the relationship of father or mother before the veteran's last entry into active military, naval, air, or space service.
 
 (6) The term "Spanish-American War" (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and (C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
 
@@ -46,11 +46,11 @@ For the purposes of this title—
 
 (9) The term "Korean conflict" means the period beginning on June 27, 1950, and ending on January 31, 1955.
 
-(10) The term "Armed Forces" means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components thereof.
+(10) The term "Armed Forces" means the United States Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard, including the reserve components thereof.
 
 (11) The term "period of war" means the Spanish-American War, the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
-(12) The term "veteran of any war" means any veteran who served in the active military, naval, or air service during a period of war.
+(12) The term "veteran of any war" means any veteran who served in the active military, naval, air, or space service during a period of war.
 
 (13) The term "compensation" means a monthly payment made by the Secretary to a veteran because of service-connected disability, or to a surviving spouse, child, or parent of a veteran because of the service-connected death of the veteran occurring before January 1, 1957.
 
@@ -58,13 +58,13 @@ For the purposes of this title—
 
 (15) The term "pension" means a monthly or other periodic payment made by the Secretary to a veteran because of service, age, or non-service-connected disability, or to a surviving spouse or child of a veteran because of the non-service-connected death of the veteran.
 
-(16) The term "service-connected" means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+(16) The term "service-connected" means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-(17) The term "non-service-connected" means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+(17) The term "non-service-connected" means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-(18) The term "discharge or release" includes (A) retirement from the active military, naval, or air service, and (B) the satisfactory completion of the period of active military, naval, or air service for which a person was obligated at the time of entry into such service in the case of a person who, due to enlistment or reenlistment, was not awarded a discharge or release from such period of service at the time of such completion thereof and who, at such time, would otherwise have been eligible for the award of a discharge or release under conditions other than dishonorable.
+(18) The term "discharge or release" includes (A) retirement from the active military, naval, air, or space service, and (B) the satisfactory completion of the period of active military, naval, air, or space service for which a person was obligated at the time of entry into such service in the case of a person who, due to enlistment or reenlistment, was not awarded a discharge or release from such period of service at the time of such completion thereof and who, at such time, would otherwise have been eligible for the award of a discharge or release under conditions other than dishonorable.
 
-(19) The term "State home" means a home established by a State (other than a possession) for veterans disabled by age, disease, or otherwise who by reason of such disability are incapable of earning a living. Such term also includes such a home which furnishes nursing home care for veterans.
+(19) The term "State home" means a home established by a State (other than a possession) or Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) for veterans disabled by age, disease, or otherwise who by reason of such disability are incapable of earning a living. Such term also includes such a home which furnishes nursing home care for veterans.
 
 (20) The term "State" means each of the several States, Territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico. For the purpose of section 2303 and chapters 34 and 35 of this title, such term also includes the Canal Zone.
 
@@ -72,9 +72,9 @@ For the purposes of this title—
 
 &emsp;(A) full-time duty in the Armed Forces, other than active duty for training;
 
-&emsp;(B) full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps of the Public Health Service (i) on or after July 29, 1945, or (ii) before that date under circumstances affording entitlement to "full military benefits" or (iii) at any time, for the purposes of chapter 13 of this title;
+&emsp;(B) full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps <sup>1</sup> of the Public Health Service (i) on or after July 29, 1945, or (ii) before that date under circumstances affording entitlement to "full military benefits" or (iii) at any time, for the purposes of chapter 13 of this title;
 
-&emsp;(C) full-time duty as a commissioned officer of the National Oceanic and Atmospheric Administration or its predecessor organization the Coast and Geodetic Survey (i) on or after July 29, 1945, or (ii) before that date (I) while on transfer to one of the Armed Forces, or (II) while, in time of war or national emergency declared by the President, assigned to duty on a project for one of the Armed Forces in an area determined by the Secretary of Defense to be of immediate military hazard, or (III) in the Philippine Islands on December 7, 1941, and continuously in such islands thereafter, or (iii) at any time, for the purposes of chapter 13 of this title;
+&emsp;(C) full-time duty as a commissioned officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration or its predecessor organization the Coast and Geodetic Survey (i) on or after July 29, 1945, or (ii) before that date (I) while on transfer to one of the Armed Forces, or (II) while, in time of war or national emergency declared by the President, assigned to duty on a project for one of the Armed Forces in an area determined by the Secretary of Defense to be of immediate military hazard, or (III) in the Philippine Islands on December 7, 1941, and continuously in such islands thereafter, or (iii) atany time, for the purposes of chapter 13 of this title;
 
 &emsp;(D) service as a cadet at the United States Military, Air Force, or Coast Guard Academy, or as a midshipman at the United States Naval Academy; and
 
@@ -84,9 +84,9 @@ For the purposes of this title—
 
 &emsp;(A) full-time duty in the Armed Forces performed by Reserves for training purposes;
 
-&emsp;(B) full-time duty for training purposes performed as a commissioned officer of the Reserve Corps of the Public Health Service (i) on or after July 29, 1945, or (ii) before that date under circumstances affording entitlement to "full military benefits", or (iii) at any time, for the purposes of chapter 13 of this title;
+&emsp;(B) full-time duty for training purposes performed as a commissioned officer of the Reserve Corps <sup>1</sup> of the Public Health Service (i) on or after July 29, 1945, or (ii) before that date under circumstances affording entitlement to "full military benefits", or (iii) at any time, for the purposes of chapter 13 of this title;
 
-&emsp;(C) in the case of members of the Army National Guard or Air National Guard of anyState, full-time duty under section 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law;
+&emsp;(C) in the case of members of the Army National Guard or Air National Guard of any State, full-time duty under section 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law;
 
 &emsp;(D) duty performed by a member of a Senior Reserve Officers' Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
 
@@ -96,7 +96,7 @@ For the purposes of this title—
 
 (23) The term "inactive duty training" means—
 
-&emsp;(A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
+&emsp;(A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
 
 &emsp;(B) special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
 
@@ -104,7 +104,7 @@ For the purposes of this title—
 
 > In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty) under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
 
-(24) The term "active military, naval, or air service" includes—
+(24) The term "active military, naval, air, or space service" includes—
 
 &emsp;(A) active duty;
 
@@ -122,7 +122,7 @@ For the purposes of this title—
 
 &emsp;(B) the Secretary of the Navy, with respect to matters concerning the Navy or the Marine Corps;
 
-&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force;
+&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force or the Space Force;
 
 &emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard;
 
@@ -142,25 +142,27 @@ For the purposes of this title—
 
 &emsp;(D) the Air Force Reserve;
 
-&emsp;(E) the Coast Guard Reserve;
+&emsp;(E) the Space Force Reserve;
 
-&emsp;(F) the Army National Guard of the United States; and
+&emsp;(F) the Coast Guard Reserve;
 
-&emsp;(G) the Air National Guard of the United States.
+&emsp;(G) the Army National Guard of the United States; and
+
+&emsp;(H) the Air National Guard of the United States.
 
 (28) The term "nursing home care" means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
 
 (29) The term "Vietnam era" means the following:
 
-&emsp;(A) The period beginning on February 28, 1961, and ending on May 7, 1975, in the case of a veteran who served in the Republic of Vietnam during that period.
+&emsp;(A) The period beginning on November 1, 1955, and ending on May 7, 1975, in the case of a veteran who served in the Republic of Vietnam during that period.
 
 &emsp;(B) The period beginning on August 5, 1964, and ending on May 7, 1975, in all other cases.
 
-(30) The term "Mexican border period" means the period beginning on May 9, 1916, and ending on April 5, 1917, in the case of a veteran who during such period served in Mexico, on the borders thereof, or in the waters adjacent thereto.
+(30) The term "Mexican border period" means the period beginning on May 9, 1916, and endingon April 5, 1917, in the case of a veteran who during such period served in Mexico, on the borders thereof, or in the waters adjacent thereto.
 
 (31) The term "spouse" means a person of the opposite sex who is a wife or husband.
 
-(32) The term "former prisoner of war" means a person who, while serving in the active military, naval or air service, was forcibly detained or interned in line of duty—
+(32) The term "former prisoner of war" means a person who, while serving in the active military, naval air, or space service, was forcibly detained or interned in line of duty—
 
 &emsp;(A) by an enemy government or its agents, or a hostile force, during a period of war; or
 
@@ -168,19 +170,43 @@ For the purposes of this title—
 
 (33) The term "Persian Gulf War" means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(34) The term "agency of original jurisdiction" means the activity which entered the originaldetermination with regard to a claim for benefits under laws administered by the Secretary.
+(34) The term "agency of original jurisdiction" means the activity which entered the original determination with regard to a claim for benefits under laws administered by the Secretary.
 
 (35) The term "relevant evidence" means evidence that tends to prove or disprove a matter in issue.
 
 (36) The term "supplemental claim" means a claim for benefits under laws administered by the Secretary filed by a claimant who had previously filed a claim for the same or similar benefits on the same or similar basis.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 115–55, §2(a), Aug. 23, 2017, 131 Stat. 1105.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 115–55, §2(a), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–259, title I, §107, Dec. 23, 2020, 134 Stat. 1160; Pub. L. 116–283, div. A, title IX, §926(a)(1), (b), Jan. 1, 2021, 134 Stat. 3829, 3831; Pub. L. 116–315, title II, §2001, title III, §3004(a), Jan. 5, 2021, 134 Stat. 4967, 4992.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (20), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2021</b>—Par. (2). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service".
+
+Par. (5). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service" in two places.
+
+Par. (10). Pub. L. 116–283, §926(b)(1), inserted "Space Force," after "Air Force,".
+
+Pars. (12), (16), (17). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service".
+
+Par. (18). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service" in two places.
+
+Par. (19). Pub. L. 116–315, §3004(a), inserted "or Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304))" after "(other than a possession)".
+
+Par. (24). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service" in introductory provisions.
+
+Par. (27)(E) to (H). Pub. L. 116–283, §926(b)(3), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+
+Par. (29)(A). Pub. L. 116–315, §2001, substituted "November 1, 1955" for "February 28, 1961".
+
+Par. (32). Pub. L. 116–283, §926(a)(1), substituted "air, or space service" for "or air service" in introductory provisions.
+
+<b>2020</b>—Par. (21)(C). Pub. L. 116–259 inserted "in the commissioned officer corps" before "of the National".
 
 <b>2017</b>—Pars. (34) to (36). Pub. L. 115–55 added pars. (34) to (36).
 
@@ -308,6 +334,12 @@ Par. (26). Pub. L. 87–815 substituted " 'Reserve' means a member" for " 'Res
 
 <b>1959</b>—Par. (4). Pub. L. 86–195 provided that a person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of the veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the surviving spouse of the veteran within two years after the veteran's death or Aug. 25, 1959, the date of enactment of Pub. L. 86–195, provided that such person was not receiving regular contributions toward his support from some individual other than the veteran or his spouse, or from any public or private welfare organization.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–55, §2(x), Aug. 23, 2017, 131 Stat. 1115, provided that:
@@ -328,7 +360,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 &emsp;&emsp;&emsp;"(III) to timely address appeals of decisions on legacy claims; and
 
-&emsp;&emsp;"(ii) a summary of the expectations for performance outcomes that the Secretary used in making the certification under clause (i)(III) and a comparison of such expected performance outcomes withactual performance outcomes with respect to appeals of legacy claims before the effective date of the new appeals system.
+&emsp;&emsp;"(ii) a summary of the expectations for performance outcomes that the Secretary used in making the certification under clause (i)(III) and a comparison of such expected performance outcomes with actual performance outcomes with respect to appeals of legacy claims before the effective date of the new appeals system.
 
 "(2)
 
@@ -369,6 +401,8 @@ Appropriate committees of congress.—The term 'appropriate committees of Congre
 &emsp;"(B)
 
 Veterans service organization.—The term 'veterans service organization' means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code."
+
+\[Final rule implementing provisions of Pub. L. 115–55 relating to new Department of Veterans Affairs appeals system went into effect Feb. 19, 2019. See final rule at 84 F.R. 138 and subsequent corrections at 84 F.R. 4336.\]
 
 \[For definitions of "claimant", "legacy claims", and "new appeals system" as used in section 2(x) of Pub. L. 115–55, set out above, see section 6 of Pub. L. 115–55, set out in a note under section 5101 of this title.\]
 
@@ -452,7 +486,41 @@ Pub. L. 90–77, title IV, §405, Aug. 31, 1967, 81 Stat. 191, provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–315, §1(a), Jan. 5, 2021, 134 Stat. 4932, provided that: "This Act \[see Tables for classification\] may be cited as the 'Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020'."
+
+Pub. L. 116–315, title IV, §4001, Jan. 5, 2021, 134 Stat. 5006, provided that: "This title \[see Tables for classification\] may be cited as the 'Navy SEAL Bill Mulder Act of 2020'."
+
+Pub. L. 116–315, title V, §5001, Jan. 5, 2021, 134 Stat. 5021, provided that: "This title \[see Tables for classification\] may be cited as the 'Deborah Sampson Act of 2020'."
+
+Pub. L. 116–315, title VI, §6001, Jan. 5, 2021, 134 Stat. 5051, provided that: "This title \[enacting provisions set out as notes under sections 1501 and 5101 of this title\] may be cited as the 'Financial Refuge for Every Elderly Veteran Act of 2020' or the 'FREE Veteran Act of 2020'."
+
+Pub. L. 116–283, div. A, title VII, §761, Jan. 1, 2021, 134 Stat. 3724, provided that: "This subtitle \[subtitle E (§§761–765) of title VII of div. A of Pub. L. 116–283, enacting section 1789 of this title, amending sections 1712A, 1720F, and 1720H of this title, and enacting provisions set out as a note under 1712A of this title\] may be cited as the 'Care and Readiness Enhancement for Reservists Act of 2020' or the 'CARE for Reservists Act of 2020'."
+
 #### Short Title of 2020 Amendment
+
+Pub. L. 116–278, §1, Dec. 31, 2020, 134 Stat. 3373, provided that: "This Act \[amending section 1720G of this title and enacting provisions set out as a note under section 1720G of this title\] may be cited as the 'Transparency and Effective Accountability Measures for Veteran Caregivers Act' or the 'TEAM Veteran Caregivers Act'."
+
+Pub. L. 116–214, §1(a), Dec. 5, 2020, 134 Stat. 1026, provided that: "This Act \[enacting section 1720J of thistitle and provisions set out as notes under sections 902, 1710, 1720G, 1720J, and 6303 of this title\] may be cited as the 'Veterans Comprehensive Prevention, Access to Care, and Treatment Act of 2020' or the 'Veterans COMPACT Act of 2020'."
+
+Pub. L. 116–183, §1, Oct. 30, 2020, 134 Stat. 895, provided that: "This Act \[amending section 8127 of this title and enacting provisions set out as a note under section 8127 of this title\] may be cited as the 'Protecting Business Opportunities for Veterans Act of 2019'."
+
+Pub. L. 116–178, §1, Oct. 20, 2020, 134 Stat. 853, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2020'."
+
+Pub. L. 116–176, §1, Oct. 20, 2020, 134 Stat. 849, provided that: "This Act \[amending section 1712A of this title\] may be cited as the 'Vet Center Eligibility Expansion Act'."
+
+Pub. L. 116–171, §1(a), Oct. 17, 2020, 134 Stat. 778, provided that: "This Act \[enacting subchapter IX of chapter 76 and section 119 of this title, amending sections 1720I, 7309, 7601 to 7604, and 7632 of this title, and enacting provisions set out as notes under sections 310, 1701, 1712A, 1720F, 6303, 7303, 7401, 7402, 7698, and 8111 of this title\] may be cited as the 'Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019'."
+
+Pub. L. 116–159, div. E, §5001, Oct. 1, 2020, 134 Stat. 747, provided that: "This division \[amending sections 111A, 315, 322, 503, 521A, 1710, 1710A, 2021, 2021A, 2023, 2031, 2033, 2044, 2061, 2108, 3733, 7253, and 8118 of this title, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes preceding section 3001 of this title and under sections 1116, 1710, 1712A, 3031, and 7302 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2020'."
+
+Pub. L. 116–155, §1, Aug. 8, 2020, 134 Stat. 698, provided that: "This Act \[amending section 8127 of this title and enacting provisions set out as a note under section 8127 of this title\] may be cited as the 'Department of Veterans Affairs Contracting Preference Consistency Act of 2020'."
+
+Pub. L. 116–154, §1, Aug. 8, 2020, 134 Stat. 690, provided that: "This Act \[enacting section 3315B of this title, amending sections 2101, 2102, 3485, 3532, and 3729 of this title, and enacting provisions set out as notes under sections 2101, 3315B, and 3485 of this title\] may be cited as the 'Ryan Kules and Paul Benne Specially Adaptive Housing Improvement Act of 2019'."
+
+Pub. L. 116–140, §1, Apr. 28, 2020, 134 Stat. 631, provided that: "This Act \[enacting provisions set out as notes under sections 3031, 3103, 3105, 3108, 3319, 3321, 3485, 3680, and 3699 of this title and section 16133 of Title 10, Armed Forces\] may be cited as the 'Student Veteran Coronavirus Response Act of 2020'."
+
+Pub. L. 116–137, §1, Apr. 10, 2020, 134 Stat. 616, provided that: "This Act \[amending sections 7101 and 7107 of this title and enacting provisions set out as notes under sections 7101 and 7107 of this title\] may be cited as the 'VA Tele-Hearing Modernization Act'."
 
 Pub. L. 116–106, §1, Jan. 7, 2020, 133 Stat. 3291, provided that: "This Act \[amending section 2403 of this title\] may be cited as the 'Fallen Warrior Battlefield Cross Memorial Act'."
 
@@ -494,9 +562,9 @@ Pub. L. 115–86, §1, Nov. 21, 2017, 131 Stat. 1276, provided that: "This Act \
 
 Pub. L. 115–75, §1, Nov. 2, 2017, 131 Stat. 1244, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2017'."
 
-Pub. L. 115–62, §1(a), Sept. 29, 2017, 131 Stat. 1159, provided that: "This Act \[amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2021, 2021A, 2023, 2031, 2033, 2044, 2061, 2066, 2101, 2108, 3313, 3673, 3720, 3732, and 3733 of this title, enacting provisions set out as notes under sections 1710C, 3313, and 3684 of this title, and amending provisions set out as notes under sections 1116, 1710, 1710C, 1712A, 3313, 3684, and 3699 of this title and section 1071 of Title 10, Armed Forces\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2017'."
+Pub. L. 115–62, §1(a), Sept. 29, 2017, 131 Stat. 1159, provided that: "This Act \[amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2021, 2021A, 2023,2031, 2033, 2044, 2061, 2066, 2101, 2108, 3313, 3673, 3720, 3732, and 3733 of this title, enacting provisions set out as notes under sections 1710C, 3313, and 3684 of this title, and amending provisions set out as notes under sections 1116, 1710, 1710C, 1712A, 3313, 3684, and 3699 of this title and section 1071 of Title 10, Armed Forces\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2017'."
 
-Pub. L. 115–55, §1, Aug. 23, 2017, 131 Stat. 1105, provided that: "This Act \[enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and sections 5101 and5108 of this title\] may be cited as the 'Veterans Appeals Improvement and Modernization Act of 2017'."
+Pub. L. 115–55, §1, Aug. 23, 2017, 131 Stat. 1105, provided that: "This Act \[enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and sections 5101 and 5108 of this title\] may be cited as the 'Veterans Appeals Improvement and Modernization Act of 2017'."
 
 Pub. L. 115–48, §1(a), Aug. 16, 2017, 131 Stat. 973, provided that: "This Act \[see Tables for classification\] may be cited as the 'Harry W. Colmery Veterans Educational Assistance Act of 2017'."
 
@@ -552,9 +620,9 @@ Pub. L. 113–59, §1(a), Dec. 20, 2013, 127 Stat. 658, provided that: "This Act
 
 Pub. L. 113–52, §1, Nov. 21, 2013, 127 Stat. 582, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2013'."
 
-Pub. L. 113–37, §1, Sept. 30, 2013, 127 Stat. 523, provided that: "This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and section 653 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 322 of this title, and amending provisions set out as a note under section 1710 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2013'."
+Pub. L. 113–37, §1, Sept. 30, 2013, 127 Stat. 523, provided that: "This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and section 653 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 322 of this title, and amending provisions setout as a note under section 1710 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2013'."
 
-Pub. L. 112–260, §1(a), Jan. 10, 2013, 126 Stat. 2417, provided that: "This Act \[enacting sections 111A and 2414 of this title, amending sections 111, 111A, 2302, 2306, 2308, 2404, 2411, 5503, 7253, and 7255 of this title, enacting provisions set out as notes under sections 527, 2302, 2306, 2402, 2404, 2411, 2414, 7253, and 7255 of this title, section 1144 of Title 10, Armed Forces, and section 2104 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and amending provisions set out as a note under section 1712A of this title\] may be cited asthe 'Dignified Burial and Other Veterans' Benefits Improvement Act of 2012'."
+Pub. L. 112–260, §1(a), Jan. 10, 2013, 126 Stat. 2417, provided that: "This Act \[enacting sections 111A and 2414 of this title, amending sections 111, 111A, 2302, 2306, 2308, 2404, 2411, 5503, 7253, and 7255 of this title, enacting provisions set out as notes under sections 527, 2302, 2306, 2402, 2404, 2411, 2414, 7253, and 7255 of this title, section 1144 of Title 10, Armed Forces, and section 2104 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and amending provisions set out as a note under section 1712A of this title\] may be cited as the 'Dignified Burial and Other Veterans' Benefits Improvement Act of 2012'."
 
 #### Short Title of 2012 Amendment
 
@@ -600,9 +668,9 @@ Pub. L. 111–37, §1, June 30, 2009, 123 Stat. 1927, provided that: "This Act \
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–389, §1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: "This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and section 3956 of Title 50, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, section 3711 of Title 31, Money and Finance, and section 3937 of Title 50, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under section 5101 of this title and section 1212 of Title 10, Armed Forces\] may be cited as the 'Veterans' Benefits Improvement Act of 2008'."
+Pub. L. 110–389, §1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: "This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and section 3956 of Title 50, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268,7285, 7296, 7731, and 8127 of this title, section 3711 of Title 31, Money and Finance, and section 3937 of Title 50, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under section 5101 of this title and section 1212 of Title 10, Armed Forces\] may be cited as the 'Veterans' Benefits Improvement Act of 2008'."
 
-Pub. L. 110–387, §1(a), Oct. 10, 2008, 122 Stat. 4110, provided that: "This Act \[enacting sections 1729B, 2044, 7330A, and 8119 of this title, amending sections 111, 542, 1701, 1703, 1708, 1710, 1710A, 1712A, 1725, 1728, 1729, 1782,1803, 2013, 2022, 2023, 2043, 2065, 4110, 7314, 7320, 7321, 7325, 7328, 7402, 7458, 8104, and 8117 of this title, repealing section 7368 of this title, enacting provisions set out as notes under sections 111, 1701, 1703, 1712A, 1720A, 1803, 2044, 7311, and 8119 of this title, amending provisions set out as notes under sections 1710B and 1712A of this title, and repealing provisions set out as a note under section 7333 of this title\] may be cited as the 'Veterans' Mental Health and Other Care Improvements Act of 2008'."
+Pub. L. 110–387, §1(a), Oct. 10, 2008, 122 Stat. 4110, provided that: "This Act \[enacting sections 1729B, 2044, 7330A, and 8119 of this title, amending sections 111, 542, 1701, 1703, 1708, 1710, 1710A, 1712A, 1725, 1728, 1729, 1782, 1803, 2013, 2022, 2023, 2043, 2065, 4110, 7314, 7320, 7321, 7325, 7328, 7402, 7458, 8104, and 8117 of this title, repealing section 7368 of this title, enacting provisions set out as notes under sections 111, 1701, 1703, 1712A, 1720A, 1803, 2044, 7311, and 8119 of this title, amending provisions set out as notes under sections 1710B and 1712A of this title, and repealing provisions set out as a note under section 7333 of this title\] may be cited as the 'Veterans' Mental Health and Other Care Improvements Act of 2008'."
 
 Pub. L. 110–324, §1, Sept. 24, 2008, 122 Stat. 3549, provided that: "This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2008'."
 
@@ -652,9 +720,9 @@ Pub. L. 108–363, §1, Oct. 25, 2004, 118 Stat. 1705, provided that: "This Act 
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: "This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402, 3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the 'Veterans Benefits Act of 2003'."
+Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: "This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402,3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the 'Veterans Benefits Act of 2003'."
 
-Pub. L. 108–170, §1(a), Dec. 6, 2003, 117 Stat. 2042, provided that: "This Act \[enacting sections 7307 and 7364A of this title, amending sections 516, 1701, 1710, 1710A, 1712, 1718, 1720, 1722A, 1734, 2041, 2065, 7303, 7316, 7321, 7366, 7368, 7401 to 7405, 7409, 7421, 7454, 7802, 8104, 8107, 8121, 8153, and 8163 to 8165 of this title and section 1680fof Title 25, Indians, enacting provisions set out as notes under sections 7316, 7401, 7454, and 8121 of this title and section 1680f of Title 25, and amending provisions set out as notes under sections 1710B and 1712A of this title\] may be cited as the 'Veterans Health Care, Capital Asset, and Business Improvement Act of 2003'."
+Pub. L. 108–170, §1(a), Dec. 6, 2003, 117 Stat. 2042, provided that: "This Act \[enacting sections 7307 and 7364A of this title, amending sections 516, 1701, 1710, 1710A, 1712, 1718, 1720, 1722A, 1734, 2041, 2065, 7303, 7316, 7321, 7366, 7368, 7401 to 7405, 7409, 7421, 7454, 7802, 8104, 8107, 8121, 8153, and 8163 to 8165 of this title and section 1680f of Title 25, Indians, enacting provisions set out as notes under sections 7316, 7401, 7454, and 8121 of this title and section 1680f of Title 25, and amending provisions set out as notes under sections 1710B and 1712A of this title\] may be cited as the 'Veterans Health Care, Capital Asset, and Business Improvement Act of 2003'."
 
 Pub. L. 108–147, §1, Dec. 3, 2003, 117 Stat. 1885, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2003'."
 
@@ -702,11 +770,11 @@ Pub. L. 106–117, title X, §1001, Nov. 30, 1999, 113 Stat. 1587, provided that
 
 Pub. L. 105–368, §1(a), Nov. 11, 1998, 112 Stat. 3315, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans Programs Enhancement Act of 1998'."
 
-Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: "This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealing provisions set out as a note under section 7601 of this title\] may be cited as the 'Department of Veterans Affairs Health Care Personnel Incentive Act of 1998'."
+Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: "This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealingprovisions set out as a note under section 7601 of this title\] may be cited as the 'Department of Veterans Affairs Health Care Personnel Incentive Act of 1998'."
 
 Pub. L. 105–277, div. C, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–742, provided that: "This title \[enacting section 1118 of this title, amending sections 1113 and 1117 of this title, and enacting provisions set out as a note under section 1117 of this title\] may be cited as the 'Persian Gulf War Veterans Act of 1998'."
 
-Pub. L. 105–178, title VIII, §8201, June 9, 1998, 112 Stat. 492, provided that: "This subtitle \[subtitle B\(§§8201–8209) of title VIII of Pub. L. 105–178, amending sections 1110, 1131, 1311, 2102, 3015, and 3902 of this title and section 16131 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 1311, 1521, 2102, 3015, and 3902 of this title and sections 1174 and 16131 of Title 10\] may be cited as the 'Veterans Benefits Act of 1998'."
+Pub. L. 105–178, title VIII, §8201, June 9, 1998, 112 Stat. 492, provided that: "This subtitle \[subtitle B (§§8201–8209) of title VIII of Pub. L. 105–178, amending sections 1110, 1131, 1311, 2102, 3015, and 3902 of this title and section 16131 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 1311, 1521, 2102, 3015, and 3902 of this title and sections 1174 and 16131 of Title 10\] may be cited as the 'Veterans Benefits Act of 1998'."
 
 #### Short Title of 1997 Amendments
 
@@ -774,13 +842,13 @@ Pub. L. 102–405, §1(a), Oct. 9, 1992, 106 Stat. 1972, provided that: "This Ac
 
 #### Short Title of 1991 Amendments
 
-Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Compensation Rate Amendments of 1991'."
+Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Compensation Rate Amendments of 1991'."
 
 Pub. L. 102–127, §1, Oct. 10, 1991, 105 Stat. 619, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Educational Assistance Amendments of 1991'."
 
 Pub. L. 102–86, §1(a), Aug. 14, 1991, 105 Stat. 414, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Benefits Programs Improvement Act of 1991'."
 
-Pub. L. 102–83, §1(a), Aug. 6, 1991, 105 Stat. 378, provided that: "This Act \[see Tables for classification\]may be cited as the 'Department of Veterans Affairs Codification Act'."
+Pub. L. 102–83, §1(a), Aug. 6, 1991, 105 Stat. 378, provided that: "This Act \[see Tables for classification\] may be cited as the 'Department of Veterans Affairs Codification Act'."
 
 Pub. L. 102–40, §1(a), May 7, 1991, 105 Stat. 187, provided that: "This Act \[see Tables for classification\] may be cited as the 'Department of Veterans Affairs Health-Care Personnel Act of 1991'."
 
@@ -864,11 +932,11 @@ Pub. L. 98–160, §1(a), Nov. 21, 1983, 97 Stat. 993, provided that: "This Act 
 
 #### Short Title of 1982 Amendments
 
-Pub. L. 97–306, §1(a), Oct. 14, 1982, 96 Stat. 1429, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Compensation, Education, and Employment Amendments of 1982'."
+Pub. L. 97–306, §1(a), Oct. 14, 1982, 96 Stat. 1429, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Compensation, Education, and Employment Amendments of 1982'."
 
 Pub. L. 97–251, §1(a), Sept. 8, 1982, 96 Stat. 711, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Administration Health-Care Programs Improvement and Extension Act of 1982'."
 
-Pub. L. 97–174, §1, May 4, 1982, 96 Stat. 70, provided: "That this Act \[see Tables for classification\] may becited as the 'Veterans' Administration and Department of Defense Health Resources Sharing and Emergency Operations Act'."
+Pub. L. 97–174, §1, May 4, 1982, 96 Stat. 70, provided: "That this Act \[see Tables for classification\] may be cited as the 'Veterans' Administration and Department of Defense Health Resources Sharing and Emergency Operations Act'."
 
 #### Short Title of 1981 Amendments
 
@@ -1038,7 +1106,7 @@ Cross-References.—(1) Each provision of title 38, United States Code, that con
 
 "(d)
 
-Rule for Execution.—The redesignations made by subsection (a) and the amendments made by subsections (b) and (c) shall be executed after any otheramendments made by this Act \[see Tables for classification\]."
+Rule for Execution.—The redesignations made by subsection (a) and the amendments made by subsections (b) and (c) shall be executed after any other amendments made by this Act \[see Tables for classification\]."
 
 #### Study of Benefits Payable to Persons Residing Outside the United States; Report and Recommendations Not Later Than February 1, 1980
 
@@ -1047,6 +1115,22 @@ Pub. L. 96–22, title IV, §402, June 13, 1979, 93 Stat. 63, authorized Adminis
 #### Disability Compensation or Dependency and Indemnity Compensation Award; Effective Date
 
 Pub. L. 91–621, §6(b), Dec. 31, 1970, 84 Stat. 1864, provided effective date for an award by Veteran's Administration arising from injury or death occurring prior to Dec. 31, 1970, and based on a claim arising from amendments made to pars. (21)(C) and (25)(F) of this section and section 5305 of this title, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.
+
+#### Secretary and Department Defined
+
+Pub. L. 106–117, §3, Nov. 30, 1999, 113 Stat. 1547, provided that: "For purposes of this Act \[see Tables for classification\]—
+
+&emsp;"(1) the term 'Secretary' means the Secretary of Veterans Affairs; and
+
+&emsp;"(2) the term 'Department' means the Department of Veterans Affairs."
+
+#### Definition of Administrator for 1988 Amendments
+
+Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: "For purposes of this division \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
+
+Pub. L. 100–322, §3, May 20, 1988, 102 Stat. 489, provided that: "For purposes of this Act \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 4373. Terminal Date Respecting Service During Vietnam Era
 
@@ -1062,17 +1146,5 @@ IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of May in the y
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Secretary and Department Defined
-
-Pub. L. 106–117, §3, Nov. 30, 1999, 113 Stat. 1547, provided that: "For purposes of this Act \[see Tables for classification\]—
-
-&emsp;"(1) the term 'Secretary' means the Secretary of Veterans Affairs; and
-
-&emsp;"(2) the term 'Department' means the Department of Veterans Affairs."
-
-#### Definition of Administrator for 1988 Amendments
-
-Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: "For purposes of this division \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
-
-Pub. L. 100–322, §3, May 20, 1988, 102 Stat. 489, provided that: "For purposes of this Act \[see Tables for classification\], the term 'Administrator' means the Administrator of Veterans' Affairs."
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

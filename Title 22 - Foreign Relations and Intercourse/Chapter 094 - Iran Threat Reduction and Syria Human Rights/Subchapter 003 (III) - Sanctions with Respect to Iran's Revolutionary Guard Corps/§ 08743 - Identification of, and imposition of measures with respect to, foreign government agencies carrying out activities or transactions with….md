@@ -62,7 +62,7 @@
 
 #### (c) Termination
 
-The President may terminate any measures imposed with respect to an agency pursuant tosubsection (b) if the President determines and notifies the appropriate congressional committees that—
+The President may terminate any measures imposed with respect to an agency pursuant to subsection (b) if the President determines and notifies the appropriate congressional committees that—
 
 &emsp;(1)(A) a person described in subparagraph (A) or (B) of subsection (a)(2) with respect to which the agency is carrying out activities or transactions is no longer designated pursuant to subparagraph (A) or (B) of subsection (a)(2); or
 
@@ -98,6 +98,8 @@ This section shall take effect on August 10, 2012, and apply with respect to act
 
 <i>For termination of section, see section 8785(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(A) and (b)(1)(G), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
@@ -106,7 +108,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L.
 
 The Arms Export Control Act, referred to in subsec. (b)(1)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat.495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is section 1501 of Pub. L. 104–201, which was formerly set out as a note under section 2362 of Title 50, War and National Defense, and was repealed by Pub. L. 113–291, div. A, title XIII, §1351(5), Dec. 19, 2014, 128 Stat. 3607.
 

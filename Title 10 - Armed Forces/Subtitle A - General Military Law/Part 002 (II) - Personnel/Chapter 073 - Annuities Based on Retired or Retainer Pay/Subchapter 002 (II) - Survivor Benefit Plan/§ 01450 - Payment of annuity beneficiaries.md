@@ -52,7 +52,7 @@ Required offset.—If, upon the death of a person to whom section 1448 of this t
 
 &emsp;&emsp;(A) During the period beginning on January 1, 2020, and ending on December 31, 2020, the amount that the annuity otherwise payable under this section would exceed such dependency and indemnity compensation.
 
-&emsp;&emsp;(B) During the period beginning on January 1, 2021, and ending on December 31, 2021, the amount that the annuity otherwise payable under this section would exceed two-thirds of such dependency and indemnity compensation.
+&emsp;&emsp;(B) During the period beginning on January 1, 2021, and ending on December 31, 2021,the amount that the annuity otherwise payable under this section would exceed two-thirds of such dependency and indemnity compensation.
 
 &emsp;&emsp;(C) During the period beginning on January 1, 2022, and ending on December 31, 2022, the amount that the annuity otherwise payable under this section would exceed one-third of such dependency and indemnity compensation.
 
@@ -116,7 +116,7 @@ Limitation on change in beneficiary when former spouse coverage in effect.—A p
 
 &emsp;&emsp;(A) In a case in which the election is required by a court order, or in which an agreement to make the election has been incorporated in or ratified or approved by a court order, the person—
 
-&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a certified copy of a court order which is regular on its face and which modifies the provisions of all previous court orders relating to such election, or the agreement to make such election, so as to permit the person to change the election; and
+&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a certified copy of a court order which is regular on its face and which modifies the provisions of all previous court orders relating to such election, or the agreementto make such election, so as to permit the person to change the election; and
 
 &emsp;&emsp;&emsp;(ii) certifies to the Secretary concerned that the court order is valid and in effect.
 
@@ -132,7 +132,7 @@ Required former spouse election to be deemed to have been made.—
 
 &emsp;&emsp;(A)
 
-Deemed election upon request by former spouse.—If a person described in paragraph (2) or (3) of section 1448(b) of this title is required (as described in subparagraph (B)) to elect under section 1448(b) of this title to provide an annuity to a former spouse and such person then fails or refuses to make such an election, such person shallbe deemed to have made such an election if the Secretary concerned receives the following:
+Deemed election upon request by former spouse.—If a person described in paragraph (2) or (3) of section 1448(b) of this title is required (as described in subparagraph (B)) to elect under section 1448(b) of this title to provide an annuity to a former spouse and such person then fails or refuses to make such an election, such person shall be deemed to have made such an election if the Secretary concerned receives the following:
 
 &emsp;&emsp;&emsp;(i)
 
@@ -424,7 +424,7 @@ Subsec. (m). Pub. L. 110–181, §644, added subsec. (m).
 
 Subsec. (m)(1)(B). Pub. L. 110–417 substituted "subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) of such section" for "section 1448(a)(1) of this title".
 
-<b>2000</b>—Subsec. (j)(1). Pub. L. 106–398 substituted "A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity." for "Anannuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title."
+<b>2000</b>—Subsec. (j)(1). Pub. L. 106–398 substituted "A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity." for "An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title."
 
 <b>1998</b>—Subsec. (f)(3)(D). Pub. L. 105–261 substituted "the day referred to in section 1448(b)(3)(E)(ii) of this title" for "the first day of the first month which begins after the date of the court order or filing involved".
 
@@ -490,7 +490,7 @@ Subsec. (f)(3)(B), (C). Pub. L. 99–145, §722(2), inserted "or filing" after "
 
 Subsec. (i). Pub. L. 99–145, §1303(a)(11)(A), substituted "subsection (l)(3)(B)" for "subsection (l)".
 
-Subsec. (j). Pub. L. 99–145, §719(5), substituted "a person providing a reserve-component annuity" for "any person providing an annuity by virtue of eligibility under section 1448(a)(1)(B) of this title".
+Subsec. (j). Pub. L. 99–145, §719(5), substituted "a person providing a reserve-component annuity" for "anyperson providing an annuity by virtue of eligibility under section 1448(a)(1)(B) of this title".
 
 Pub. L. 99–145, §713(b), inserted provision respecting the effective date of an annuity payable under section 1448(f) of this title.
 
@@ -576,7 +576,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 Pub. L. 99–661, div. A, title VI, §641(c), Nov. 14, 1986, 100 Stat. 3886, provided that: "The amendments made by this section \[amending this section and section 1448 of this title\] apply to court orders issued on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
 
-Pub. L. 99–661, div. A, title VI, §643(b), Nov. 14, 1986, 100 Stat. 3886, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], but only with respect to payments for periods after the date of the enactment of this Act."
+Pub. L. 99–661, div. A, title VI, §643(b), Nov. 14, 1986, 100 Stat. 3886, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], butonly with respect to payments for periods after the date of the enactment of this Act."
 
 #### Effective Date of 1985 Amendment
 
@@ -596,7 +596,7 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Prohibition on Retroactive Benefits
 
-Pub. L. 116–92, div. A, title VI, §622(b), Dec. 20, 2019, 133 Stat. 1427, provided that: "No benefits may be paidto any person for any period before the effective date provided under subsection (f) \[enacting provisions set out as a note under section 1448 of this title\] by reason of the amendments made by subsection (a) \[amending this section and section 1451 of this title\]."
+Pub. L. 116–92, div. A, title VI, §622(b), Dec. 20, 2019, 133 Stat. 1427, provided that: "No benefits may be paid to any person for any period before the effective date provided under subsection (f) \[enacting provisions set out as a note under section 1448 of this title\] by reason of the amendments made by subsection (a) \[amending this section and section 1451 of this title\]."
 
 #### Prohibition on Recoupment of Certain Amounts Previously Refunded to SBP Recipients
 

@@ -72,13 +72,15 @@ Sept. 2, 1958, Pub. L. 85–857, §13(p), 72 Stat. 1266.
 
 Mar. 26, 1964, Pub. L. 88–290, "Sec. 306(b)", 78 Stat. 170.
 
-In paragraph (1), the term "Executive agency" is substituted for the reference to "executive departments, the independent establishments and agencies in the executive branch, including corporations wholly owned by the United States" and "the General Accounting Office". The exception of "a Government controlled corporation" is added in subparagraph (vii) to preserve the application of this chapter to "corporations whollyowned by the United States". The exceptions for Production credit corporations and Federal intermediate credit banks in former section 2001(b)(5), (6) are omitted as they are no longer "corporations wholly owned by the United States". Under the Farm Credit Act of 1956, 70 Stat. 659, the production credit corporations were merged in the Federal intermediate credit banks, and pursuant to that Act the Federal intermediate credit banks have ceased to be corporations owned by the United States. The exceptions for Federal land banks and banks for cooperatives in former section 2001(b)(7), (8) are omitted as included within the exception of "a Government controlled corporation" in subparagraph (vii).
+In paragraph (1), the term "Executive agency" is substituted for the reference to "executive departments, the independent establishments and agencies in the executive branch, including corporations wholly owned by the United States" and "the General Accounting Office". The exception of "a Government controlled corporation" is added in subparagraph (vii) to preserve the application of this chapter to "corporations wholly owned by the United States". The exceptions for Production credit corporations and Federal intermediate credit banks in former section 2001(b)(5), (6) are omitted as they are no longer "corporations wholly owned by the United States". Under the Farm Credit Act of 1956, 70 Stat. 659, the production credit corporations were merged in the Federal intermediate credit banks, and pursuant to that Act the Federal intermediate credit banks have ceased to be corporations owned by the United States. The exceptions for Federal land banks and banks for cooperatives in former section 2001(b)(7), (8) are omitted as included within the exception of "a Government controlled corporation" in subparagraph (vii).
 
 Paragraph (2) is supplied because the definition of "employee" in section 2105 does not encompass individuals employed by the government of the District of Columbia. The definition in paragraph (2) does not encompass members of the uniformed services as they are not "employed" in or under an agency.
 
 Paragraph (2)(E) is based on the third and fifth sentences, respectively, of former sections 1010 and 1011, which are carried into sections 5362 and 559, respectively, and section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -105,6 +107,8 @@ Par. (2)(H). Pub. L. 101–510 added subpar. (H).
 Par. (2)(E). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
 <b>1970</b>—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of "agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

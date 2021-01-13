@@ -2,7 +2,7 @@
 
 (a)
 
-Allowable Recipients.—On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilitiesshall be distributed, as decided by the board of trustees, to—
+Allowable Recipients.—On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—
 
 &emsp;(1) the United States Government, to be administered by the Secretary of the Interior under section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; or
 
@@ -33,6 +33,8 @@ Aug. 19, 1964, Pub. L. 88–449, §14, 78 Stat. 499.
 In subsection (a), the words "the discharge of all liabilities" are substituted for "the corporation's liabilities have been satisfied" for consistency in the revised title. In clause (1), the words "as amended and supplemented" are omitted as unnecessary.
 
 In subsection (b), the words "and Federal and State laws" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

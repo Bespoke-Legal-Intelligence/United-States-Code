@@ -12,11 +12,15 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 (Added Pub. L. 101–73, title IX, §961(l)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, §2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, §320604(b), title XXXIII, §330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Par. (1). Pub. L. 103–322 struck out "1008," after "1007," and inserted "1033," after "1014,".
 
 <b>1990</b>—Par. (3). Pub. L. 101–647 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

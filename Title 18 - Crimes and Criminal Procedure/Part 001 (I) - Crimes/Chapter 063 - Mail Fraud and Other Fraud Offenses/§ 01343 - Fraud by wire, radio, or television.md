@@ -4,6 +4,8 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 (Added July 16, 1952, ch. 879, §18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, §961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–204, title IX, §903(b), July 30, 2002, 116 Stat. 805; Pub. L. 110–179, §3, Jan. 7, 2008, 121 Stat. 2557.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–179 inserted "occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)), or" after "If the violation".
@@ -16,5 +18,5 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 <b>1989</b>—Pub. L. 101–73 inserted at end "If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 20 years, or both."
 
-<b>1956</b>—Act July 11, 1956, substituted "transmitted by means of wire, radio, or television communication in interstate or foreign commerce" for "transmitted by means of interstate wire, radio, or television communication".
+<b>1956</b>—Act July 11, 1956, substituted "transmitted by means of wire, radio, or television communication in interstate or foreign commerce" for "transmitted bymeans of interstate wire, radio, or television communication".
 

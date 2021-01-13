@@ -30,7 +30,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (g) State Energy Advisory Board
 
-(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
+(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, orresearch institutions. A majority of the members of the Board shall be State employees.
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d)
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 

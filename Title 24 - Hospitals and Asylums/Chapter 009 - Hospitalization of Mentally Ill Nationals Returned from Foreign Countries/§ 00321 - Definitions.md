@@ -18,11 +18,13 @@ For the purposes of this chapter except as the context may otherwise require—
 
 (Pub. L. 86–571, §1, July 5, 1960, 74 Stat. 308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (a) and "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (b) and (d)(2), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date
 
-Pub. L. 86–571, §11, July 5, 1960, 74 Stat. 310, provided that: "This Act \[enacting this chapter and repealingsections 191a and 196a of this title\] shall, except as otherwise specified, take effect on the date of its enactment \[July 5, 1960\]."
+Pub. L. 86–571, §11, July 5, 1960, 74 Stat. 310, provided that: "This Act \[enacting this chapter and repealing sections 191a and 196a of this title\] shall, except as otherwise specified, take effect on the date of its enactment \[July 5, 1960\]."
 

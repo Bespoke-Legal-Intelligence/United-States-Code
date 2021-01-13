@@ -6,7 +6,7 @@ Requirement for Management Structure.—The Secretary of Defense shall establish
 
 &emsp;(1) The Under Secretary of Defense for Acquisition and Sustainment shall—
 
-&emsp;&emsp;(A) develop and maintain (in consultation with the service acquisition executives) policies, procedures, and best practices guidelines addressing the procurement of contractservices, including policies, procedures, and best practices guidelines for—
+&emsp;&emsp;(A) develop and maintain (in consultation with the service acquisition executives) policies, procedures, and best practices guidelines addressing the procurement of contract services, including policies, procedures, and best practices guidelines for—
 
 &emsp;&emsp;&emsp;(i) acquisition planning;
 
@@ -70,11 +70,15 @@ Definitions.—In this section:
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, §902(51), Dec. 20, 2019, 133 Stat. 1548.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1856(c), Jan. 1, 2021, 134 Stat. 4151, 4274, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 341 of this title, as amended by section 1856(b) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4501 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### References in Text
 
-Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
+Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referredto in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
 
-Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to insubsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
+Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
 
 #### Prior Provisions
 
@@ -91,6 +95,10 @@ Another prior section 2330 was renumbered section 2349 of this title.
 <b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after "a task order".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Modernization of Services Acquisition
 

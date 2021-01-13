@@ -10,7 +10,7 @@ Within the purposes described in subsection (a), funds in the account used under
 
 &emsp;(1) the location of foreign workers admitted into the United States,
 
-&emsp;(2) the location of individuals in the United States requiring and desiring the educationalassistance and training for which the funds can be applied, and
+&emsp;(2) the location of individuals in the United States requiring and desiring the educational assistance and training for which the funds can be applied, and
 
 &emsp;(3) the location of unemployed and underemployed United States workers.
 
@@ -22,7 +22,7 @@ Within the purposes described in subsection (a), funds in the account used under
 
 #### (d) Limitation on Federal overhead
 
-The Secretaries shall provide that not more than 2 percent of the amount of funds disbursed to States under this section may be used by the Federal Government in the administration of this section.
+The Secretaries shall provide that not more than 2 percent of the amount of funds disbursedto States under this section may be used by the Federal Government in the administration of this section.
 
 #### (e) Annual report
 
@@ -33,6 +33,8 @@ The Secretary of Labor shall report annually to the Congress on the grants to St
 In this section, the term "State" has the meaning given such term in section 1101(a)(36) of title 8.
 
 (Pub. L. 101–649, title VIII, §801, Nov. 29, 1990, 104 Stat. 5087.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

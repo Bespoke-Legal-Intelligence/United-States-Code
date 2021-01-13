@@ -14,7 +14,7 @@ Coordination of Transition Planning and Reporting.—The Administrator, in conju
 
 (d)
 
-Limitation.—The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the NationalOceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President's budget request for the National Oceanic and Atmospheric Administration.
+Limitation.—The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the National Oceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President's budget request for the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3426.)
 
@@ -37,6 +37,8 @@ Pub. L. 109–155, title III, §306, Dec. 30, 2005, 119 Stat. 2919.
 In subsection (b), the words "beginning with the first fiscal year after the date of enactment of this Act \[December 30, 2005\]" are omitted as obsolete.
 
 In subsection (b), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

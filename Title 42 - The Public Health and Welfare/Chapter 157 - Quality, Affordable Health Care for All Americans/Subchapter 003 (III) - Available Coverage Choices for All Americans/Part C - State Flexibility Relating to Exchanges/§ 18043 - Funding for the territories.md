@@ -24,7 +24,7 @@ An election under subsection (a)(1) shall—
 
 #### (1) Appropriation
 
-&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated for purposes of payment pursuant to subsection (a) $1,000,000,000, to be available during the period beginning with 2014 and ending with 2019.
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated forpurposes of payment pursuant to subsection (a) $1,000,000,000, to be available during the period beginning with 2014 and ending with 2019.
 
 #### (2) Allocation
 

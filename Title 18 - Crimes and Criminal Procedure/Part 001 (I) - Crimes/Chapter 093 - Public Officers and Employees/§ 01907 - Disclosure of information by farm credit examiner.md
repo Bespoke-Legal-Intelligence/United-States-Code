@@ -22,6 +22,8 @@ For bribery and other provisions of section 1124 of title 12, U.S.C., 1940 ed., 
 
 Other provisions of said section 983 of title 12, U.S.C., 1940 ed., were incorporated in section 221 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
@@ -29,6 +31,8 @@ Other provisions of said section 983 of title 12, U.S.C., 1940 ed., were incorpo
 <b>1982</b>—Pub. L. 97–297 substituted "or Federal land bank" for ", Federal land bank, or joint-stock land bank".
 
 <b>1959</b>—Pub. L. 86–168 substituted "Federal land bank associations" for "national farm loan association".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1959 Amendment
 

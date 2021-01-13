@@ -52,7 +52,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (ii) State
 
-&emsp;&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (iii) Local government
 

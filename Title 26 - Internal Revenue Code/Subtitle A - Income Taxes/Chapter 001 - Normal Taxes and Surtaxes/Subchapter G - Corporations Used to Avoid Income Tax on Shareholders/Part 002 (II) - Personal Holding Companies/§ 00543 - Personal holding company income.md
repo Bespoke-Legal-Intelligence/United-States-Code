@@ -136,7 +136,7 @@ For purposes of this part—
 
 &emsp;&emsp;From the gross income from rents (as defined in the second sentence of paragraph (3) of this subsection) subtract the amount allowable as deductions for—
 
-&emsp;&emsp;&emsp;(i) exhaustion, wear and tear, obsolescence, and amortization of property other than tangible personal property which is not customarily retained by any one lessee for more than three years,
+&emsp;&emsp;&emsp;(i) exhaustion, wear and tear, obsolescence, and amortization of property otherthan tangible personal property which is not customarily retained by any one lessee for more than three years,
 
 &emsp;&emsp;&emsp;(ii) property taxes,
 
@@ -218,7 +218,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 #### (3) Royalties must constitute at least 50 percent of income
 
-&emsp;The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinary gross income of the corporation for the taxable year.
+&emsp;The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinarygross income of the corporation for the taxable year.
 
 #### (4) Deductions under sections 162 and 174 relating to royalties must equal or exceed 25 percent of ordinary gross income
 
@@ -292,7 +292,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 #### References in Text
 
-Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(E), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
+Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(E), is classifiedto section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
 
 #### Amendments
 
@@ -340,7 +340,7 @@ Subsec. (a)(6). Pub. L. 94–455, §2106(a), redesignated existing provisions as
 
 Subsec. (b)(2)(A), (B), (D). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, ordesign, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
 
 Subsec. (b)(1)(C). Pub. L. 89–809, §104(h)(2), added subpar. (C).
 
@@ -444,7 +444,7 @@ Qualified Bank Holding Company.—For purposes of this section, the term 'qualif
 
 "(d) 25-
 
-Percent Owned Bank.—For purposes of this section, the term '25-percent owned bank' means any bank (as defined in section 581 of the 1986 Code) if at least 25 percent of the stock of such bank (by vote and value) is owned by the bank holding company."
+Percent Owned Bank.—For purposes of this section, the term '25-percent owned bank' means any bank (as defined in section 581 of the 1986 Code) if atleast 25 percent of the stock of such bank (by vote and value) is owned by the bank holding company."
 
 #### Special Rules for Broker-Dealers, Royalties Received by Qualified Taxpayer, and Treatment of Active Business Computer Royalties for S Corporation Purposes
 

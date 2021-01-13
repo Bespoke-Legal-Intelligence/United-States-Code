@@ -100,7 +100,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;&emsp;&emsp;(i) local educational agencies, for the purpose of providing elementary and secondary school teachers an opportunity to enhance their knowledge of traditional American history, free institutions, or Western civilization; and
 
-&emsp;&emsp;&emsp;(ii) nonprofit organizations whose mission is consistent with the purpose of thissection, such as academic organizations, museums, and libraries, for assistance in carrying out activities described under subsection (a); and
+&emsp;&emsp;&emsp;(ii) nonprofit organizations whose mission is consistent with the purpose of this section, such as academic organizations, museums, and libraries, for assistance in carrying out activities described under subsection (a); and
 
 &emsp;&emsp;(B) other activities that meet the purposes of this section.
 

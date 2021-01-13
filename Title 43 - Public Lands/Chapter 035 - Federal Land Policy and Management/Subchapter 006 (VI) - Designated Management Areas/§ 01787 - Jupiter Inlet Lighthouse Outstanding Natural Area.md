@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the protection and conservation of the resource values of the Outstanding Natural Area; and
 
-&emsp;&emsp;&emsp;(ii) the restoration of native plant communities and estuaries in the Outstanding Natural Area, with an emphasis on the conservation and enhancement of healthy, functioning ecological systems in perpetuity;
+&emsp;&emsp;&emsp;(ii) the restoration of native plant communities and estuaries in the OutstandingNatural Area, with an emphasis on the conservation and enhancement of healthy, functioning ecological systems in perpetuity;
 
 &emsp;&emsp;(B) objectives and provisions to maintain or recreate historic structures;
 
@@ -219,6 +219,8 @@ Nothing in this section, the management plan, or the Jupiter Inlet Coordinated R
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 110–229, title II, §202, May 8, 2008, 122 Stat. 763.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -56,7 +56,7 @@ A State, unit of local government, or Indian tribe may, in using a grant under t
 
 #### (2) Waiver
 
-&emsp;The Attorney General may waive the requirement of paragraph (1) with respect to a program if, in the opinion of the Attorney General, the program is not of sufficient size to justify a full program assessment.
+&emsp;The Attorney General may waive the requirement of paragraph (1) with respect to a program if, in the opinion of the AttorneyGeneral, the program is not of sufficient size to justify a full program assessment.
 
 #### (d) Administrative costs
 
@@ -67,6 +67,8 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 The period of a grant made under this subchapter may not be longer than 4 years, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General.
 
 (Pub. L. 90–351, title I, §3021, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 711.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

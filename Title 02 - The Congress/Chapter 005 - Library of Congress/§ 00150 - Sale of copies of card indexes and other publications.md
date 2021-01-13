@@ -4,9 +4,13 @@ The Librarian of Congress is authorized to furnish to such institutions or indiv
 
 (June 28, 1902, ch. 1301, §1, 32 Stat. 480; Pub. L. 95–94, title IV, §405(a), Aug. 5, 1977, 91 Stat. 682.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Pub. L. 95–94 inserted provisions relating to crediting of the moneys deposited in the Treasury.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

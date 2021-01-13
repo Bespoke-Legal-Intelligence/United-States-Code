@@ -18,6 +18,8 @@ Rule of Construction.—No provision of this subchapter shall be construed as al
 
 (Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1952.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Internet Gambling In or Through Foreign Jurisdictions
 
 Pub. L. 109–347, title VIII, §803, Oct. 13, 2006, 120 Stat. 1962, provided that:

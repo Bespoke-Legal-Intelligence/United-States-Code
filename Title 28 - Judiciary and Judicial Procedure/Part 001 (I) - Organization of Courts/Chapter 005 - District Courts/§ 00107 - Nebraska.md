@@ -18,9 +18,13 @@ The county of Arthur in the North Platte Division was created since the enactmen
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1955</b>—Act Aug. 9, 1955, struck out the separate divisions of the district and reduced the number of places of holding terms.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1955 Amendment
 

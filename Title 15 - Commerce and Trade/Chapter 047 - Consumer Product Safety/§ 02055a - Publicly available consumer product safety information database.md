@@ -84,7 +84,7 @@
 
 #### (6) Availability of contact information
 
-&emsp;The Commission may not disclose, under this section, the name, address, or other contact information of any individual or entity that submits to the Commission a report described in paragraph (1)(A), except that the Commission may provide such information tothe manufacturer or private labeler of the product with the express written consent of the person submitting the information. Consumer information provided to a manufacturer or private labeler under this section may not be used or disseminated to any other party for any purpose other than verifying a report submitted under paragraph (1)(A).
+&emsp;The Commission may not disclose, under this section, the name, address, or other contact information of any individual or entity that submits to the Commission a report described in paragraph (1)(A), except that the Commission may provide such information to the manufacturer or private labeler of the product with the express written consent of the person submitting the information. Consumer information provided to a manufacturer or private labeler under this section may not be used or disseminated to any other party for any purpose other than verifying a report submitted under paragraph (1)(A).
 
 #### (c) Procedural requirements
 

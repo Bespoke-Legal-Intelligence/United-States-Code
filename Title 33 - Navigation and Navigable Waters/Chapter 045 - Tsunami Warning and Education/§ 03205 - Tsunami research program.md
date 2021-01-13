@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) <sup>1</sup> of this title, and the panel under section 3206a(a) of this title, support or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, assessment for tsunami tracking and numerical forecast modeling, and standards development.
+The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) <sup>1</sup> of this title, and the panel undersection 3206a(a) of this title, support or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, assessment for tsunami tracking and numerical forecast modeling, and standards development.
 
 #### (b) Responsibilities
 
@@ -19,6 +19,8 @@ The research program supported or maintained under subsection (a) shall—
 &emsp;(5) ensure that research and findings are available to the public and the scientific community.
 
 (Pub. L. 109–424, §6, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, §806, Jan. 12, 2007, 120 Stat. 3658; Pub. L. 115–25, title V, §§506, 512(a), Apr. 18, 2017, 131 Stat. 123, 128.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

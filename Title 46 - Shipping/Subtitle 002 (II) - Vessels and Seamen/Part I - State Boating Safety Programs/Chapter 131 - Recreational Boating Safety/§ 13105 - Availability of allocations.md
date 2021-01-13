@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Section 13104 allows a State to use any of the amounts received from the Secretary over a 3 year period. If the State does not spend the money within that period, the amounts revert to the Secretary, who will make the amounts available along with the amounts available for that year.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 13105 was renumbered section 13106 of this title.
@@ -43,6 +45,8 @@ Subsec. (a)(2). Pub. L. 105–178, §7405(a)(2), substituted "2-year" for "3-yea
 "(b) Amounts available to the Secretary for State recreational boating safety programs that have not been allocated at the end of a fiscal year shall be carried forward as part of the total allocation of amounts for the next fiscal year that may be expended under this chapter."
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–307 inserted "for State recreational boating safety programs" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendments
 

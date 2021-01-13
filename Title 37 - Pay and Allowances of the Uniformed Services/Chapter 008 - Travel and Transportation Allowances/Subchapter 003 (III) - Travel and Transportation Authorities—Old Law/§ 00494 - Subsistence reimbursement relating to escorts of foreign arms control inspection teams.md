@@ -2,7 +2,7 @@
 
 (a)
 
-Reimbursement of Reasonable Subsistence Costs.—Under uniform regulations prescribed by the Secretaries concerned, a member of the armed forces may be reimbursed for thereasonable cost of subsistence incurred by the member while performing duties as an escort of an arms control inspection team of a foreign country, or any member of such a team, while the team or the team member, as the case may be, is engaged in activities related to the implementation of an arms control treaty or agreement.
+Reimbursement of Reasonable Subsistence Costs.—Under uniform regulations prescribed by the Secretaries concerned, a member of the armed forces may be reimbursed for the reasonable cost of subsistence incurred by the member while performing duties as an escort of an arms control inspection team of a foreign country, or any member of such a team, while the team or the team member, as the case may be, is engaged in activities related to the implementation of an arms control treaty or agreement.
 
 (b)
 
@@ -18,11 +18,15 @@ Termination.—No reimbursement may be provided under this section for expenses 
 
 (Added Pub. L. 102–484, div. A, title VI, §623(a)(1), Oct. 23, 1992, 106 Stat. 2422, §434; renumbered §494 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(31), Dec. 31, 2011, 125 Stat. 1460, 1464.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 434 of this title as this section.
 
 Subsec. (d). Pub. L. 112–81, §631(e)(31), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -32,9 +32,13 @@ For the purposes of this chapter—
 
 (Pub. L. 91–596, §3, Dec. 29, 1970, 84 Stat. 1591; Pub. L. 105–241, §2(a), Sept. 28, 1998, 112 Stat. 1572.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (5). Pub. L. 105–241 inserted "(not including the United States Postal Service)" after "the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

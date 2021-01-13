@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(I) must occupy the home, a manufactured home on the lot, or the home and the lot, securing the loan;
 
-&emsp;&emsp;(II) must have previously occupied the home, a manufactured home on the lot, or the home and the lot, securing the loan as the veteran's home and must certify, in suchform as the Secretary shall require, that the veteran has previously so occupied the home (or such a home on the lot); or
+&emsp;&emsp;(II) must have previously occupied the home, a manufactured home on the lot, or the home and the lot, securing the loan as the veteran's home and must certify, in such form as the Secretary shall require, that the veteran has previously so occupied the home (or such a home on the lot); or
 
 &emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
@@ -110,13 +110,13 @@
 
 &emsp;(D) twenty-five years and thirty-two days, in the case of a loan for the purchase of a double-wide manufactured home and a lot.
 
-(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulations which the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
+(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulationswhich the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
 
 (e) No loan shall be guaranteed for purposes specified in this section unless—
 
 &emsp;(1) the loan is repayable in approximately equal monthly installments;
 
-&emsp;(2) the terms of repayment bear a proper relationship to the veteran's present and anticipated income and expenses, and the veteran is a satisfactory credit risk, as determined in accordance with the regulations prescribed under section 3710(g) of this title and taking into account the purpose of this program to make available lower cost housing to low and lower income veterans, especially those who have been recently discharged or released from active military, naval, or air service, who may not have previously established credit ratings;
+&emsp;(2) the terms of repayment bear a proper relationship to the veteran's present and anticipated income and expenses, and the veteran is a satisfactory credit risk, as determined in accordance with the regulations prescribed under section 3710(g) of this title and taking into account the purpose of this program to make available lower cost housing to low and lower income veterans, especially those who have been recently discharged or released from active military, naval, air, or space service, who may not have previously established credit ratings;
 
 &emsp;(3) the loan is secured by a first lien on the manufactured home purchased with the proceeds of the loan and on any lot acquired or improved with the proceeds of the loan;
 
@@ -140,7 +140,7 @@
 
 (g) The Secretary shall promulgate such regulations as the Secretary determines to be necessary or appropriate in order to fully implement the provisions of this section, and such regulations may specify which provisions in other sections of this chapter the Secretary determines should be applicable to loans guaranteed or made for purposes specified in this section. The Secretary shall have such powers and responsibilities in respect to matters arising under this section as the Secretary has in respect to loans made or guaranteed or under other sections of this chapter.
 
-(h)(1) No loan for the purchase of a manufactured home shall be guaranteed for purposes specified in this section unless the manufactured home and lot, if any, meet or exceed standards for planning, construction, and general acceptability as prescribed by the Secretary and no loan for the purchase of a lot on which to place a manufactured home owned by a veteran shall be guaranteed for purposes specified in this section unless the lot meets such standards prescribed for manufactured home lots. Such standards shall be designed to encouragethe maintenance and development of sites for manufactured homes which will be attractive residential areas and which will be free from, and not substantially contribute to, adverse scenic or environmental conditions.
+(h)(1) No loan for the purchase of a manufactured home shall be guaranteed for purposes specified in this section unless the manufactured home and lot, if any, meet or exceed standards for planning, construction, and general acceptability as prescribed by the Secretary and no loan for the purchase of a lot on which to place a manufactured home owned by a veteran shall be guaranteed for purposes specified in this section unless the lot meets such standards prescribed for manufactured home lots. Such standards shall be designed to encourage the maintenance and development of sites for manufactured homes which will be attractive residential areas and which will be free from, and not substantially contribute to, adverse scenic or environmental conditions.
 
 (2) Any manufactured housing unit properly displaying a certification of conformity to all applicable Federal manufactured home construction and safety standards pursuant to section 616 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5415) shall be deemed to meet the standards required by paragraph (1).
 
@@ -158,9 +158,13 @@
 
 (l) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
-(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
+(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726; Pub. L. 116–283, div. A, title IX, §926(a)(48), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(2). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>1995</b>—Subsecs. (l), (m). Pub. L. 104–66 redesignated subsec. (m) as (l) and struck out former subsec. (l) which read as follows: "The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures."
 
@@ -176,7 +180,7 @@ Subsec. (l). Pub. L. 103–446, §906(c), struck out "the results of inspections
 
 Subsec. (m). Pub. L. 103–446, §1201(e)(14)(B), substituted "sections 3704(d) and 3721 of this title" for "section 3704(d) and section 3721 of this chapter".
 
-<b>1992</b>—Subsec. (a)(4)(A)(iv). Pub. L. 102–547 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "the amount of the guaranty of the loan may notexceed the original guaranty amount of the loan being refinanced;".
+<b>1992</b>—Subsec. (a)(4)(A)(iv). Pub. L. 102–547 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;".
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1812 of this title as this section.
 
@@ -338,7 +342,7 @@ Subsec. (b)(1). Pub. L. 93–569, §5(2), designated existing provisions as subs
 
 Subsec. (b)(2). Pub. L. 93–569, §5(2), added par. (2).
 
-Subsec. (c)(1). Pub. L. 93–569, §5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted "or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator," for "or for the purchaseof a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency."
+Subsec. (c)(1). Pub. L. 93–569, §5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted "or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator," for "or for the purchase of a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency."
 
 Subsec. (d)(1). Pub. L. 93–569, §5(5), substituted ", whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot" for "financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot".
 
@@ -360,9 +364,11 @@ Subsec. (n). Pub. L. 93–569, §5(10), inserted "and mobile home lot loans" aft
 
 Subsec. (o). Pub. L. 93–569, §5(11), struck out subsec. (o) which prohibited the making or guaranteeing of loans on and after July 1, 1975, except upon prior commitment.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: "The amendment made by this section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: "The amendment made bythis section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

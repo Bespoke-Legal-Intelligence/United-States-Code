@@ -4,7 +4,7 @@
 
 (1) Whenever the Governor of a State determines that a livestock emergency due to a natural disaster exists in the State, or a county committee established under section 590h(b) of title 16 determines that such an emergency exists in the county, the Governor or county committee may submit a request for a determination by the Secretary of a livestock emergency in such State or county and for emergency livestock feed assistance under this subchapter.
 
-(2) The request of a Governor or county committee for a livestock emergency determinationand for emergency livestock feed assistance shall include, to the extent feasible, recommendations to the Secretary of those options that will most fully use feed available through local sources.
+(2) The request of a Governor or county committee for a livestock emergency determination and for emergency livestock feed assistance shall include, to the extent feasible, recommendations to the Secretary of those options that will most fully use feed available through local sources.
 
 #### (b) Consideration for assistance without request
 
@@ -22,7 +22,7 @@ Notwithstanding the preceding provisions of this section, any State, county, or 
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsec. (d), is 15 days after Aug. 11, 1988, the effective date of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
+The effective date of this subchapter, referred to in subsec. (d), is 15 days after Aug. 11, 1988, the effectivedate of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
 
 #### Effective Date
 

@@ -30,7 +30,7 @@
 
 (1) The Secretary may, with the cooperation of participating contractors of the contractor-operated facilities of the Department, carry out a pilot program under which the Secretary and such contractors reduce the facility overhead charges imposed under this section for research and other activities conducted under this section.
 
-(2) The Secretary shall carry out the pilot program at contractor-operated facilities selectedby the Secretary in consultation with the contractors concerned.
+(2) The Secretary shall carry out the pilot program at contractor-operated facilities selected by the Secretary in consultation with the contractors concerned.
 
 (3) The Secretary shall determine the facility overhead charges to be imposed under the pilot program at a facility based on a joint review by the Secretary and the contractor for the facility of all items included in the overhead costs of the facility in order to determine which items are appropriately incurred as facility overhead charges by the contractor in carrying out research and other activities at such facility under this section.
 

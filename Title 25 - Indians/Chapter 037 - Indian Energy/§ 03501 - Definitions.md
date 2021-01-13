@@ -14,9 +14,13 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) by an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or
 
-&emsp;&emsp;&emsp;(iii) by a dependent Indian community; and
+&emsp;&emsp;&emsp;(iii) by a dependent Indian community;
 
-&emsp;&emsp;(C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land.
+&emsp;&emsp;(C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land;
+
+&emsp;&emsp;(D) any land located in a census tract in which the majority of residents are Natives (as defined in section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b))); and
+
+&emsp;&emsp;(E) any land located in a census tract in which the majority of residents are persons who are enrolled members of a federally recognized Tribe or village.
 
 &emsp;(3) The term "Indian reservation" includes—
 
@@ -60,11 +64,13 @@ In this chapter:
 
 &emsp;(13) The term "tribal land" means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
 
-(Pub. L. 102–486, title XXVI, §2601, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 764; amended Pub. L. 115–325, title I, §105(a), Dec. 18, 2018, 132 Stat. 4455.)
+(Pub. L. 102–486, title XXVI, §2601, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat.764; amended Pub. L. 115–325, title I, §105(a), Dec. 18, 2018, 132 Stat. 4455; Pub. L. 116–260, div. Z, title VIII, §8013(a), Dec. 27, 2020, 134 Stat. 2592.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (4)(A) and (9)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§5321 et seq.) and generally to subchapter IV (§5361 et seq.), respectively, of chapter 46 of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
@@ -74,6 +80,8 @@ A prior section 3501, Pub. L. 102–486, title XXVI, §2601, Oct. 24, 1992, 106 
 
 #### Amendments
 
+<b>2020</b>—Par. (2)(D), (E). Pub. L. 116–260 added subpars. (D) and (E).
+
 <b>2018</b>—Pars. (9) to (11). Pub. L. 115–325, §105(a)(1), (2), added par. (9) and redesignated former pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (12).
 
 Par. (12). Pub. L. 115–325, §105(a)(3), added par. (12) and struck out former par. (12) which read as follows: "The term 'tribal energy resource development organization' means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under section 3502 of this title."
@@ -81,6 +89,8 @@ Par. (12). Pub. L. 115–325, §105(a)(3), added par. (12) and struck out former
 Pub. L. 115–325, §105(a)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
 Par. (13). Pub. L. 115–325, §105(a)(1), redesignated par. (12) as (13).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 

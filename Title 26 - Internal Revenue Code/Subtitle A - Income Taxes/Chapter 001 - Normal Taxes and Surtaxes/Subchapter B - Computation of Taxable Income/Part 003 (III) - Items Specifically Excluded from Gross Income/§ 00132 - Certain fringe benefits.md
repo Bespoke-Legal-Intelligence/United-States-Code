@@ -270,7 +270,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Leased section of department store
 
-&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease orsimilar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
+&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
 
 #### (3) Auto salesmen
 
@@ -320,7 +320,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (C) Airline-related services
 
-&emsp;&emsp;For purposes of this paragraph, the term "airline-related services" means any of the following services provided in connection with air transportation:
+&emsp;&emsp;For purposes of this paragraph, the term "airline-related services" means any of thefollowing services provided in connection with air transportation:
 
 &emsp;&emsp;&emsp;(i) Catering.
 
@@ -494,7 +494,7 @@ Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
 Subsecs. (f) to (h). Pub. L. 102–486, §1911(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to (8), respectively, and struck out former par. (4), "Parking", which read as follows: "The term 'working condition fringe' includes parking provided to an employee on or near the business premises of the employer." Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to\(8), respectively, and struck out former par. (4), "Parking", which read as follows: "The term 'working condition fringe' includes parking provided to an employee on or near the business premises of the employer." Former subsec. (i) redesignated (j).
 
 Subsecs. (j) to (l). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
@@ -590,7 +590,7 @@ Pub. L. 105–178, title IX, §9010(a)(2), June 9, 1998, 112 Stat. 507, provided
 
 Pub. L. 105–178, title IX, §9010(b)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1998."
 
-Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
@@ -632,7 +632,7 @@ Amendment by section 1853(a) of Pub. L. 99–514 effective, except as otherwise 
 
 Pub. L. 99–272, title XIII, §13207(a)(2), Apr. 7, 1986, 100 Stat. 319, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985."
 
-Pub. L. 99–272, title XIII, §13207(b)(2), Apr. 7, 1986, 100 Stat. 320, provided that: "The amendment made by thissubsection \[amending this section\] shall take effect on January 1, 1985."
+Pub. L. 99–272, title XIII, §13207(b)(2), Apr. 7, 1986, 100 Stat. 320, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985."
 
 #### Effective Date
 

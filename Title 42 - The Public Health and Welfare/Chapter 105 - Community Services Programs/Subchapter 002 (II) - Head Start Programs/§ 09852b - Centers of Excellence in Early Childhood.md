@@ -94,7 +94,7 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 &emsp;&emsp;(B) to better meet the needs of working families in the community served by the center by serving more children in existing Early Head Start programs (existing as of the date the center is designated under this section) or in full-working-day, full calendar year Head Start programs;
 
-&emsp;&emsp;(C) to further coordinate early childhood education and development programs and services and social services available in the community served by the center for at-risk children (birth through age 8), their families, and pregnant women;
+&emsp;&emsp;(C) to further coordinate early childhood education and development programs andservices and social services available in the community served by the center for at-risk children (birth through age 8), their families, and pregnant women;
 
 &emsp;&emsp;(D) to provide professional development for Head Start teachers and staff, including joint training for Head Start teachers and staff, child care providers, public and private preschool and elementary school teachers, and other providers of early childhood education and development programs;
 

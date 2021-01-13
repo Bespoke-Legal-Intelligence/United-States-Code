@@ -88,7 +88,7 @@
 
 #### (C) Accreditation
 
-&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs\(A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
+&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
 
 #### (D) Consultation and advice
 
@@ -160,7 +160,7 @@
 
 #### (4) Dissemination
 
-&emsp;The United States Trade Representative shall disseminate the guidelines developedunder paragraph (1) to all Federal agencies that could have jurisdiction over laws affected by trade negotiations.
+&emsp;The United States Trade Representative shall disseminate the guidelines developed under paragraph (1) to all Federal agencies that could have jurisdiction over laws affected by trade negotiations.
 
 #### (e) Consultations with advisory committees
 

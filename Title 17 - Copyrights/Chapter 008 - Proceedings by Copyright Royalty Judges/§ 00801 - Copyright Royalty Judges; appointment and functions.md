@@ -34,7 +34,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(C) In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shallbe adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
+&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
 
 &emsp;(3)(A) To authorize the distribution, under sections 111, 119, and 1007, of those royalty fees collected under sections 111, 119, and 1005, as the case may be, to the extent that the Copyright Royalty Judges have found that the distribution of such fees is not subject to controversy.
 
@@ -50,7 +50,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(iv) agree that such funds are available for distribution.
 
-&emsp;(D) The Copyright Royalty Judges and any other officer or employee acting in good faith in distributing funds under subparagraph (C) shall not be held liable for the payment of any excess fees under subparagraph (C). The Copyright Royalty Judges shall, at the time the final determination is made, calculate any such excess amounts.
+&emsp;(D) The Copyright Royalty Judges and any other officer or employee acting in good faith in distributing funds under subparagraph (C) shall not be held liable for the payment of any excess fees under subparagraph (C). The Copyright Royalty Judges shall, at the time thefinal determination is made, calculate any such excess amounts.
 
 &emsp;(4) To accept or reject royalty claims filed under sections 111, 119, and 1007, on the basis of timeliness or the failure to establish the basis for a claim.
 
@@ -86,9 +86,11 @@ Location in Library of Congress.—The offices of the Copyright Royalty Judges a
 
 (f)
 
-Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on aSaturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
+Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
 (Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2341; amended Pub. L. 109–303, §§3(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478, 1483; Pub. L. 115–264, title I, §§102(b), 103(g)(2), Oct. 11, 2018, 132 Stat. 3721, 3725.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Subsec. (b)(3)(C). Pub. L. 109–303, §5(1), added introductory provisions and 
 Subsec. (b)(3)(C)(i). Pub. L. 109–303, §5(2), substituted "the" for "such".
 
 Subsec. (f). Pub. L. 109–303, §3(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -146,7 +150,7 @@ Certain royalty rate proceedings.—Notwithstanding paragraph (1), the amendment
 
 &emsp;"(3)
 
-Pending proceedings.—Notwithstanding paragraph (1), any proceedings to establish or adjust rates and terms for the statutory licenses under section \[former\] 114(f)(2) or 112(e) of title 17, United States Code, for a statutory period commencing on or after January 1, 2005, shall be terminated upon the date of enactment of this Act and shall be null and void. The rates and terms in effect under section \[former\] 114(f)(2) or 112(e) of title 17, United States Code, on December 31, 2004, for new subscription services, eligible nonsubscription services, and services exempt under section 114(d)(1)(C)(iv) of such title, and the rates and terms published in the Federal Register under the authority of the Small Webcaster Settlement Act of 2002 (17 U.S.C. 114 note; Public Law 107–321) (including the amendments made by that Act) for the years 2003 through 2004, as well as any notice and recordkeeping provisions adopted pursuant thereto, shall remain in effect until the later of the first applicable effective date for successor terms and rates specified in section 804(b) (2) or (3)(A) of title 17, United States Code, or such later date as the parties may agree or the Copyright Royalty Judges may establish. For the period commencing January 1, 2005, an eligible small webcaster or a noncommercial webcaster, as defined in the regulations published by the Register of Copyrights pursuant to the Small Webcaster Settlement Act of 2002 (17 U.S.C. 114 note; Public Law 107–321) (including the amendments made by that Act) \[amending section 114 of this title andenacting provisions set out as notes under sections 101 and 114 of this title\], may elect to be subject to the rates and terms published in those regulations by complying with the procedures governing the election process set forth in those regulations not later than the first date on which the webcaster would be obligated to make a royalty payment for such period. Until successor terms and rates have been established for the period commencing January 1, 2006, licensees shall continue to make royalty payments at the rates and on the terms previously in effect, subject to retroactive adjustment when successor rates and terms for such services are established.
+Pending proceedings.—Notwithstanding paragraph (1), any proceedings to establish or adjust rates and terms for the statutory licenses under section \[former\] 114(f)(2) or 112(e) of title 17, United States Code, for a statutory period commencing on or after January 1, 2005, shall be terminated upon the date of enactment of this Act and shall be null and void. The rates and terms in effect under section \[former\] 114(f)(2) or 112(e) of title 17, United States Code, on December 31, 2004, for new subscription services, eligible nonsubscription services, and services exempt under section 114(d)(1)(C)(iv) of such title, and the rates and terms published in the Federal Register under the authority of the Small Webcaster Settlement Act of 2002 (17 U.S.C. 114 note; Public Law 107–321) (including the amendments made by that Act) for the years 2003 through 2004, as well as any notice and recordkeeping provisions adopted pursuant thereto, shall remain in effect until the later of the first applicable effective date for successor terms and rates specified in section 804(b) (2) or (3)(A) of title 17, United States Code, or such later date as the parties may agree or the Copyright Royalty Judges may establish. For the period commencing January 1, 2005, an eligible small webcaster or a noncommercial webcaster, as defined in the regulations published by the Register of Copyrights pursuant to the Small Webcaster Settlement Act of 2002 (17 U.S.C. 114 note; Public Law 107–321) (including the amendments made by that Act) \[amending section 114 of this title and enacting provisions set out as notes under sections 101 and 114 of this title\], may elect to be subject to the rates and terms published in those regulations by complying with the procedures governing the election process set forth in those regulations not later than the first date on which the webcaster would be obligated to make a royalty payment for such period. Until successor terms and rates have been established for the period commencing January 1, 2006, licensees shall continue to make royalty payments at the rates and on the terms previously in effect, subject to retroactive adjustment when successor rates and terms for such services are established.
 
 &emsp;"(4)
 

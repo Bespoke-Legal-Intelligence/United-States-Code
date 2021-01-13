@@ -16,6 +16,8 @@ This section incorporates only part of former section 73. The balance will be fo
 
 "House of Representatives Publications Distribution Service" is substituted for "House Folding Room" because of the change of name under authority of Public Law 88–652.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing.

@@ -50,11 +50,13 @@ Funds made available to carry out this section shall be used—
 
 (Pub. L. 94–437, title VII, §714, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 714 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Prior Provisions
 
-A prior section 1665m, Pub. L. 94–437, title VII, §714, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665m, Pub. L. 94–437, title VII, §714, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992,106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
 

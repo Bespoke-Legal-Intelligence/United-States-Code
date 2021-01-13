@@ -14,7 +14,7 @@
 
 #### (ii) Survivor who meets current eligibility criteria
 
-&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial health evaluation under subsection (b), claimssymptoms of a WTC-related health condition and meets any of the current eligibility criteria described in subparagraph (B).
+&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial health evaluation under subsection (b), claims symptoms of a WTC-related health condition and meets any of the current eligibility criteria described in subparagraph (B).
 
 #### (iii) Survivor who meets modified eligibility criteria
 
@@ -76,7 +76,7 @@
 
 #### (bb) Other members
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be ascreening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
+&emsp;&emsp;&emsp;&emsp;&emsp;In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be a screening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
 
 #### (2) Certified-eligible WTC survivors
 
@@ -94,7 +94,7 @@
 
 #### (I) Currently identified survivors
 
-&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in paragraph (1)(A)(i), the WTC Program Administrator shall provide the certification under clause (i) not later than July 1, 2011.
+&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in paragraph (1)(A)(i), the WTCProgram Administrator shall provide the certification under clause (i) not later than July 1, 2011.
 
 #### (II) Other members
 
@@ -146,7 +146,7 @@
 
 #### Rule of Construction
 
-Nothing in amendment made by Pub. L. 116–59 to alter the annual limitations on amounts appropriated to the World Trade Center Health Program Fund undersection 300mm–61(a)(2) of this title, see section 1602(c) of Pub. L. 116–59, set out as a note under section 300mm–21 of this title.
+Nothing in amendment made by Pub. L. 116–59 to alter the annual limitations on amounts appropriated to the World Trade Center Health Program Fund under section 300mm–61(a)(2) of this title, see section 1602(c) of Pub. L. 116–59, set out as a note under section 300mm–21 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "certified-eligible".</i>
 

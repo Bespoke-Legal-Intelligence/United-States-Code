@@ -56,7 +56,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (11) Indian organization
 
-&emsp;The term "Indian organization" means any group, association, partnership, corporation,or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
+&emsp;The term "Indian organization" means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
 
 #### (12) Inherently Federal functions
 
@@ -124,6 +124,8 @@ For the purposes of this chapter, unless otherwise specified:
 
 (Pub. L. 95–561, title XI, §1141, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2061; amended Pub. L. 114–95, title IX, §9215(cc)(2), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
@@ -136,7 +138,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2021, Pub. L. 95–561, title XI, §1140A, formerly §1141, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140A and amended Pub. L. 99–89, §9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 
@@ -165,6 +167,8 @@ Section 2026, Pub. L. 95–561, title XI, §1146, as added Pub. L. 103–382, ti
 #### Amendments
 
 <b>2015</b>—Par. (9). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

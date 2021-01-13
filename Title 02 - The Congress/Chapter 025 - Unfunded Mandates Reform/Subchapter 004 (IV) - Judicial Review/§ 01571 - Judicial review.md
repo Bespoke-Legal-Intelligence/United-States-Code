@@ -8,13 +8,13 @@
 
 #### (2) Limited review of agency compliance or noncompliance
 
-&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and 1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
+&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
 
 &emsp;(B) If an agency fails to prepare the written statement (including the preparation of the estimates, analyses, statements, or descriptions) under section 1532 of this title or the written plan under section 1533(a)(1) and (2) of this title, a court may compel the agency to prepare such written statement.
 
 #### (3) Review of agency rules
 
-&emsp;In any judicial review under any other Federal law of an agency rule for which a written statement or plan is required under sections 1532 and 1533(a)(1) and (2) of this title, the inadequacy or failure to prepare such statement\(including the inadequacy or failure to prepare any estimate, analysis, statement or description) or written plan shall not be used as a basis for staying, enjoining, invalidating or otherwise affecting such agency rule.
+&emsp;In any judicial review under any other Federal law of an agency rule for which a written statement or plan is required under sections 1532 and 1533(a)(1) and (2) of this title, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepare any estimate, analysis, statement or description) or written plan shall not be used as a basis for staying, enjoining, invalidating or otherwise affecting such agency rule.
 
 #### (4) Certain information as part of record
 
@@ -37,6 +37,8 @@ Except as provided in subsection (a)—
 &emsp;(2) no provision of this chapter shall be construed to create any right or benefit, substantive or procedural, enforceable by any person in any administrative or judicial action.
 
 (Pub. L. 104–4, title IV, §401, Mar. 22, 1995, 109 Stat. 70.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

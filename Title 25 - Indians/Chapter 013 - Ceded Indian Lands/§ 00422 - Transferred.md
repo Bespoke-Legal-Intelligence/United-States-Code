@@ -1,5 +1,7 @@
 ### §422. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 422, act Jan. 26, 1901, ch. 180, 31 Stat. 740, which related to right of settlers to commute entry, was transferred to section 180 of Title 43, Public Lands.

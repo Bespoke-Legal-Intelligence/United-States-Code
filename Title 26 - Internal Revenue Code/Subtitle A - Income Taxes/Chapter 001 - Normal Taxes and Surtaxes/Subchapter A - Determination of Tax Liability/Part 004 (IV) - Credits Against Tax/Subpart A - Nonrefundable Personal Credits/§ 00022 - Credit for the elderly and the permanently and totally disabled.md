@@ -146,7 +146,7 @@ Subsec. (f). Pub. L. 98–21 reenacted subsec. (f) without change.
 
 <b>1978</b>—Subsec. (e)(2). Pub. L. 95–600, §701(a)(1), inserted "(and whose gross income includes income described in paragraph (4)(B))" after "who has not attained age 65 before the close of the taxable year".
 
-Subsec. (e)(4)(B). Pub. L. 95–600, §701(a)(2), (3)(B), as amended by Pub. L. 96–222, §107(a)(1)(E)(i), inserted "and who performed the services giving rise to the pension or annuity (or is the spouse of the individual who performed the services)" after "before the close of the taxable year" and substituted reference to paragraph (9)(A) for reference to paragraph (8)(A).
+Subsec. (e)(4)(B). Pub. L. 95–600, §701(a)(2), (3)(B), as amended by Pub. L. 96–222, §107(a)(1)(E)(i), inserted"and who performed the services giving rise to the pension or annuity (or is the spouse of the individual who performed the services)" after "before the close of the taxable year" and substituted reference to paragraph (9)(A) for reference to paragraph (8)(A).
 
 Subsec. (e)(5)(B). Pub. L. 95–600, §701(a)(3)(C), as amended by Pub. L. 96–222, §107(a)(1)(E)(i), substituted reference to paragraph (9)(A) for reference to paragraph (8)(A).
 
@@ -220,7 +220,7 @@ Pub. L. 88–272, title II, §202(b), Feb. 26, 1964, 78 Stat. 33, provided that:
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–876, §2, Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply only to taxable years ending after the date of the enactment of this Act \[Oct. 24, 1962\]."
+Pub. L. 87–876, §2, Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by the first section of thisAct \[amending this section\] shall apply only to taxable years ending after the date of the enactment of this Act \[Oct. 24, 1962\]."
 
 Pub. L. 87–792, §8, Oct. 10, 1962, 76 Stat. 831, provided that: "The amendments made by this Act \[enacting sections 405 and 6047 of this title and amending sections 37 \[now 22\], 62, 72, 101, 104, 105, 172, 401 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401 and 7207 of this title\] shall apply to taxable years beginning after December 31, 1962."
 

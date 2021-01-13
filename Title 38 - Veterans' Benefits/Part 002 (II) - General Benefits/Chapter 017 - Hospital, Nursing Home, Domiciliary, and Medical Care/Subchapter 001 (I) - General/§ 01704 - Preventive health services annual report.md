@@ -12,7 +12,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;&emsp;(iii) to provide veterans each immunization on the recommended adult immunization schedule at the time such immunization is indicated on that schedule.
 
-&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
+&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-incomeveterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
 
 &emsp;&emsp;(C) The manner in which the provision of such services was coordinated with the activities of the Medical and Prosthetic Research Service of the Department and the National Center for Preventive Health.
 
@@ -38,9 +38,13 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 (Added Pub. L. 102–585, title V, §512(a), Nov. 4, 1992, 106 Stat. 4957; amended Pub. L. 114–315, title VI, §602(b), Dec. 16, 2016, 130 Stat. 1569.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Par. (1)(A)(iii). Pub. L. 114–315 added cl. (iii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2016 Amendment
 

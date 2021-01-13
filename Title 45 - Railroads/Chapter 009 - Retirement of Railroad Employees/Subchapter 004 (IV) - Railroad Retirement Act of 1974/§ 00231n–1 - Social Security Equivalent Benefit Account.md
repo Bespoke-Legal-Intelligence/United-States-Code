@@ -42,7 +42,9 @@ The provisions of subsections (e), (f), and (g) of section 231n of this title ar
 
 (2) For purposes of this section, the term "social security equivalent benefits" means benefits payable under this subchapter which are of a kind taken into account in determining the amount of transfers made under section 231f(c)(2) of this title.
 
-(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438; amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
+(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438;amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Subsec. (d)(2). Pub. L. 107–90, §107(c)(1), amended par. (2) generally. Prior
 &emsp;"(B) the transfer under this paragraph will not jeopardize the present or future payment of social security equivalent benefits,
 
 > the Board shall request the Secretary of the Treasury to transfer from the Social Security Equivalent Benefit Account to the Railroad Retirement Account such moneys as the Board estimates will be necessary for the payment of such annuities, and the Secretary shall make such transfer. No transfer under this paragraph shall be required to be repaid."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

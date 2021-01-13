@@ -1,6 +1,6 @@
 ### §1105. Termination of trustee's appointment
 
-At any time before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court may terminate the trustee's appointment and restore the debtor to possession and management of the property of the estate and of the operation of the debtor's business.
+At any time before confirmation of a plan, on request of a party in interest or the UnitedStates trustee, and after notice and a hearing, the court may terminate the trustee's appointment and restore the debtor to possession and management of the property of the estate and of the operation of the debtor's business.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §501, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §223, Oct. 27, 1986, 100 Stat. 3102.)
 
@@ -14,11 +14,15 @@ This section authorizes the court to terminate the trustee's appointment and to 
 
 This section authorizes the court to terminate the trustee's appointment and to restore the debtor to possession and management of the property of the estate, and to operation of the debtor's business. This section would permit the court to reverse its decision to order the appointment of a trustee in light of new evidence.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–554 inserted "or the United States trustee" after "party in interest".
 
 <b>1984</b>—Pub. L. 98–353 substituted "estate and of the" for "estate, and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

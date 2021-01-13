@@ -4,9 +4,13 @@ So much as may be necessary of any appropriations made for specific portions of 
 
 (Aug. 8, 1917, ch. 49, §1, 40 Stat. 252; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from act Aug. 8, 1917, the Rivers and Harbors Appropriation Act of 1917.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

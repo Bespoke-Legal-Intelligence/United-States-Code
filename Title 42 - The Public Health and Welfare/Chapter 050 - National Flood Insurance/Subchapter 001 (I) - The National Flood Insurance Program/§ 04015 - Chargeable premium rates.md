@@ -68,7 +68,7 @@ Except with respect to properties described under paragraph (2) of subsection (c
 
 #### (f) Adjustment of premium
 
-Notwithstanding any other provision of law, if the Administrator determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the flood plain determination, the Administrator may only prospectively charge the higher premium rate.
+Notwithstanding any other provision of law, if the Administrator determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the floodplain determination, the Administrator may only prospectively charge the higher premium rate.
 
 #### (g) Frequency of premium collection
 
@@ -128,7 +128,7 @@ The Administrator shall clearly communicate full flood risk determinations to in
 
 This chapter, referred to in subsecs. (b)(2), (e), (i), and (j), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This chapter, referred to in subsec. (f), was in the original "this Act", and was translated as reading "this title", meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", and was translated as reading "this title", meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For completeclassification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The Flood Disaster Protection Act of 1973, referred to in subsec. (h), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
@@ -216,7 +216,7 @@ Pub. L. 113–89, §4(b), Mar. 21, 2014, 128 Stat. 1022, provided that: "The ame
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: "The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[former 42 U.S.C. 4015(e)(2)\], as added by this Act, shall take effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2)."
+Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: "The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[former 42 U.S.C. 4015(e)(2)\], as added by this Act, shalltake effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2)."
 
 #### Construction of Amendment by Pub. L. 112–141
 
@@ -242,7 +242,7 @@ Pub. L. 101–508, title II, §2302(e)(5), Nov. 5, 1990, 104 Stat. 1388–25, pr
 
 Pub. L. 100–242, title V, §541(d), Feb. 5, 1988, 101 Stat. 1939, as amended by Pub. L. 101–137, §1(d), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(c), Nov. 5, 1990, 104 Stat. 1388–23, limited increases in premium rates charged for flood insurance under programs established pursuant to this chapter during period beginning Feb. 5, 1988, and ending Sept. 30, 1995, to prorated annual rate of 10 percent, prior to repeal by Pub. L. 103–325, title V, §572(b), Sept. 23, 1994, 108 Stat. 2278.
 
-Pub. L. 98–181, title I \[title IV, §451(g)(1)\], Nov. 30, 1983, 97 Stat. 1229, provided that premium rates chargedfor flood insurance under any program established pursuant to this chapter could not be increased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
+Pub. L. 98–181, title I \[title IV, §451(g)(1)\], Nov. 30, 1983, 97 Stat. 1229, provided that premium rates charged for flood insurance under any program established pursuant to this chapter could not be increased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

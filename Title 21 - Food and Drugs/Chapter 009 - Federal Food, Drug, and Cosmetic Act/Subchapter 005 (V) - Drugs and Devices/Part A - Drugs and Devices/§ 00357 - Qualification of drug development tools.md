@@ -128,7 +128,7 @@
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to alter the standards of evidence under subsection (c) or (d) of section 355 of this title, including the substantial evidence standard in such subsection (d), or under section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable); or
+&emsp;(1) to alter the standards of evidence under subsection (c) or (d) of section 355 of this title,including the substantial evidence standard in such subsection (d), or under section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable); or
 
 &emsp;(2) to limit the authority of the Secretary to approve or license products under this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], as applicable (as in effect before December 13, 2016).
 
@@ -192,17 +192,21 @@ In this section:
 
 (June 25, 1938, ch. 675, §507, as added Pub. L. 114–255, div. A, title III, §3011(a), Dec. 13, 2016, 130 Stat. 1086; amended Pub. L. 116–22, title VII, §705(e), June 24, 2019, 133 Stat. 964.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (d)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 357, act June 25, 1938, ch. 675, §507, as added July 6, 1945, ch. 281, §3, 59 Stat. 463; amended Mar. 10, 1947, ch. 16, §3, 61 Stat. 12; July 13, 1949, ch. 305, §2, 63 Stat. 409; Aug. 5, 1953, ch. 334, §2, 67 Stat. 389; Pub. L. 87–781, title I, §§105(a), (b), (d)–(f), 106(a), (b), Oct. 10, 1962, 76 Stat. 785, 786, 787; Pub. L. 90–399, §105(b), July 13, 1968, 82 Stat. 352; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(p), Aug. 13, 1993, 107 Stat. 777, related to certification of drugs containingpenicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug, prior to repeal by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+A prior section 357, act June 25, 1938, ch. 675, §507, as added July 6, 1945, ch. 281, §3, 59 Stat. 463; amended Mar. 10, 1947, ch. 16, §3, 61 Stat. 12; July 13, 1949, ch. 305, §2, 63 Stat. 409; Aug. 5, 1953, ch. 334, §2, 67 Stat. 389; Pub. L. 87–781, title I, §§105(a), (b), (d)–(f), 106(a), (b), Oct. 10, 1962, 76 Stat. 785, 786, 787; Pub. L. 90–399, §105(b), July 13, 1968, 82 Stat. 352; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(p), Aug. 13, 1993, 107 Stat. 777, related to certification of drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug, prior to repeal by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(3). Pub. L. 116–22 designated existing provisions as subpar. (A), inserted heading and "or directing" after "authorizing" in text, substituted "disclose—" for "disclose", designated remainder of existing provisions as cl. (i) of subpar. (A), substituted ";or" for period at end, and added cl. (ii) of subpar. (A) and subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidance
 
@@ -210,7 +214,7 @@ Pub. L. 114–255, div. A, title III, §3011(b), Dec. 13, 2016, 130 Stat. 1089, 
 
 "(1)
 
-In general.—The Secretary of Health and Human Services (referred to in this section \[this note\] as the 'Secretary') shall, in consultation with biomedical research consortia (as defined in subsection (e) of section 507 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 357\] (as added by subsection (a)) and other interested parties through a collaborative public process, issue guidance to implement such section 507 that—
+In general.—The Secretary of Health and Human Services (referred to in this section \[this note\] as the 'Secretary') shall, in consultation with biomedical research consortia (as defined in subsection (e) of section 507 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 357\] (as added by subsection (a)) and other interested parties through a collaborative publicprocess, issue guidance to implement such section 507 that—
 
 &emsp;"(A) provides a conceptual framework describing appropriate standards and scientific approaches to support the development of biomarkers delineated under the taxonomy established under paragraph (3);
 

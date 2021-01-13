@@ -34,9 +34,11 @@ To implement the program under this section, the Secretary is authorized to ente
 
 #### (d) Contributions
 
-For purposes of carrying out this section the Secretary may accept contributions of funds, materials, and services from non-Federal public and private entities. Any funds received by the Secretary under this section shall be deposited into the account in the Treasury of the United States entitled "Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)" and shall be available until expended to carry out the purposes of this section.
+For purposes of carrying out this section the Secretary may accept contributions of funds, materials, and services from non-Federal public and private entities. Any funds received by theSecretary under this section shall be deposited into the account in the Treasury of the United States entitled "Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)" and shall be available until expended to carry out the purposes of this section.
 
 (Pub. L. 102–580, title II, §225, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 104–303, title II, §236(b), Oct. 12, 1996, 110 Stat. 3705; Pub. L. 114–322, title I, §1155, Dec. 16, 2016, 130 Stat. 1663.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -79,6 +81,8 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 "(c)
 
 Report.—Not later than December 31, 1998, the Secretary shall transmit to Congress a report on the results of the cooperative efforts carried out under this section, including the improvements required by subsection (b)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

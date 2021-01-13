@@ -62,7 +62,7 @@ Pub. L. 95–561, title XIV, §1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
 
 #### Short Title
 
-Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: "This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a noteunder this section\] may be cited as the 'Defense Dependents' Education Act of 1978'."
+Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: "This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the 'Defense Dependents' Education Act of 1978'."
 
 #### Department of Defense Education Activity Policies and Procedures on Sexual Harassment of Students of Activity Schools
 

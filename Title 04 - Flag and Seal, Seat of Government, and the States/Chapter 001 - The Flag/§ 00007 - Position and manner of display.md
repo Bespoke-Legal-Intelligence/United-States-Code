@@ -6,7 +6,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (b) The flag should not be draped over the hood, top, sides, or back of a vehicle or of a railroad train or a boat. When the flag is displayed on a motorcar, the staff shall be fixed firmly to the chassis or clamped to the right fender.
 
-(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, or in place of, the flag of the United States at any place within the United States or any Territory or possession thereof: <i>Provided</i>, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
+(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, or in place of, the flag of the United States at anyplace within the United States or any Territory or possession thereof: <i>Provided</i>, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
 
 (d) The flag of the United States of America, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag's own right, and its staff should be in front of the staff of the other flag.
 
@@ -38,7 +38,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (n) When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should not be lowered into the grave or allowed to touch the ground.
 
-(o) When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer's left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances inmore than two directions, the union should be to the east.
+(o) When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer's left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.
 
 (Added Pub. L. 105–225, §2(a), Aug. 12, 1998, 112 Stat. 1495; amended Pub. L. 110–41, §3, June 29, 2007, 121 Stat. 233; Pub. L. 115–123, div. A, §10102(a), (b), Feb. 9, 2018, 132 Stat. 64.)
 
@@ -58,6 +58,8 @@ Historical and Revision Notes
 
 June 22, 1942, ch. 435, §3, 56 Stat. 378; Dec. 22, 1942, ch. 806, §3, 56 Stat. 1075; July 9, 1953, ch. 183, 67 Stat. 142; July 7, 1976, Pub. L. 94–344, (6)–(11), 90 Stat. 811; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320922(b), 108 Stat. 2131.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (m). Pub. L. 115–123, §10102(a), in sixth sentence of introductory provisions, substituted "possession of the United States," for "possession of the United States or" and "former officials of the District of Columbia," for "former officials of the District of Columbia and" and inserted "or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty," after "while serving on active duty," and ", and first responders working in the District of Columbia" before the period.
@@ -68,6 +70,8 @@ Subsec. (m)(4). Pub. L. 115–123, §10102(b)(2), (3), added par. (4).
 
 <b>2007</b>—Subsec. (m). Pub. L. 110–41, in sixth sentence, inserted "or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty" after "present or former official of the government of any State, territory, or possession of the United States" and substituted ", and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the District of Columbia. When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the preceding sentence that the National flag be flown at half-staff in that State, territory, or possession or in the District of Columbia because of the death of a member of the Armed Forces, the National flag flown at any Federal installation or facility in the area covered by that proclamation shall be flown at half-staff consistent with that proclamation." for period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. A, §10102(c), Feb. 9, 2018, 132 Stat. 64, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act \[Feb. 9, 2018\]."
@@ -75,6 +79,8 @@ Pub. L. 115–123, div. A, §10102(c), Feb. 9, 2018, 132 Stat. 64, provided that
 #### Finding
 
 Pub. L. 110–41, §2, June 29, 2007, 121 Stat. 233, provided that: "Congress finds that members of the Armed Forces of the United States defend the freedom and security of the United States."
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 3044. Display of Flag at Half-Staff Upon Death of Certain Officials and Former Officials
 
@@ -100,7 +106,7 @@ The flag shall also be flown at half-staff for such period at all United States 
 
 3\. The flag of the United States shall be flown at half-staff on all buildings and grounds of the Federal Government in a State, Territory, or possession of the United States upon the death of the Governor of such State, Territory, or possession from the day of death until interment.
 
-4\. In the event of the death of other officials, former officials, or foreign dignitaries, the flag of the United States shall be displayed at half-staff in accordance with such orders or instructions as may be issued by or at the direction of the President, or in accordance with recognized customs or practices not inconsistent with law.
+4\. In the event of the death of other officials, former officials, or foreign dignitaries, the flag of the UnitedStates shall be displayed at half-staff in accordance with such orders or instructions as may be issued by or at the direction of the President, or in accordance with recognized customs or practices not inconsistent with law.
 
 5\. The heads of the several departments and agencies of the Government may direct that the flag of the United States be flown at half-staff on buildings, grounds, or naval vessels under their jurisdiction on occasions other than those specified herein which they consider proper, and that suitable military honors be rendered as appropriate.
 

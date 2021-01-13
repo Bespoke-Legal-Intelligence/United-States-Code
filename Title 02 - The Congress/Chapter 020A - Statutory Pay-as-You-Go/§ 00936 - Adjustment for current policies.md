@@ -88,7 +88,7 @@ This section shall remain in effect through December 31, 2011.
 
 &emsp;&emsp;(A) total revenues projected to be collected under title 26 (as scheduled on December 31, 2009, to be in effect); and
 
-&emsp;&emsp;(B) what those revenue collections would have been if, on the date of enactment of legislation meeting the criteria in paragraph (1), AMT law had instead been amended by making commensurate adjustments in the exemption amounts for joint and single filers in such a manner that the number of taxpayers with AMT liability or lost credits that occur as a result of the AMT would not be estimated to exceed the number of taxpayers affected by the AMT in tax year 2008 in any year for which relief is provided, through December 31, 2011.
+&emsp;&emsp;(B) what those revenue collections would have been if, on the date of enactment oflegislation meeting the criteria in paragraph (1), AMT law had instead been amended by making commensurate adjustments in the exemption amounts for joint and single filers in such a manner that the number of taxpayers with AMT liability or lost credits that occur as a result of the AMT would not be estimated to exceed the number of taxpayers affected by the AMT in tax year 2008 in any year for which relief is provided, through December 31, 2011.
 
 #### (3) Limitation
 
@@ -142,7 +142,7 @@ This section shall remain in effect through December 31, 2011.
 
 #### (3) Limitation
 
-&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) are not permanent, subject to the maximum adjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
+&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) are not permanent, subject to the maximumadjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
 
 &emsp;&emsp;(A) total revenues projected to be collected and outlays to be paid under title 26 (as scheduled on December 31, 2009, to be in effect for the period of time covered by the relevant provisions of the eligible legislation); and
 
@@ -167,6 +167,8 @@ Indexed amounts are assumed to increase in each year by an amount equal to the c
 &emsp;For purposes of estimates made pursuant to subsection (e), changes to the AMT shall be estimated as if, on the date of enactment of legislation meeting the criteria in subsection (e)(1), all of the income tax provisions identified in subsection (f)(1) were made permanent.
 
 (Pub. L. 111–139, title I, §7, Feb. 12, 2010, 124 Stat. 16.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

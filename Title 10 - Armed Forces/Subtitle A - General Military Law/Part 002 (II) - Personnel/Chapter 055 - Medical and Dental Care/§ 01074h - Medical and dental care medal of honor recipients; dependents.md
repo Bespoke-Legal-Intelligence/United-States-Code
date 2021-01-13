@@ -32,7 +32,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section 1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

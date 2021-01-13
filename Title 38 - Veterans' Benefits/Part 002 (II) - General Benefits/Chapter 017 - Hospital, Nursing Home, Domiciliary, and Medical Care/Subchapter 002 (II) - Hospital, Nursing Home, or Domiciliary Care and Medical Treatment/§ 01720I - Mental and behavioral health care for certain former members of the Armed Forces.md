@@ -6,7 +6,7 @@ In General.—The Secretary shall furnish to former members of the Armed Forces 
 
 &emsp;(1) an initial mental health assessment; and
 
-&emsp;(2) the mental healthcare or behavioral healthcare services authorized under this chapter that are required to treat the mentalor behavioral health care needs of the former service members, including risk of suicide or harming others.
+&emsp;(2) the mental healthcare or behavioral healthcare services authorized under this chapter that are required to treat the mental or behavioral health care needs of the former service members, including risk of suicide or harming others.
 
 (b)
 
@@ -14,7 +14,7 @@ Eligible Individuals.—A former member of the Armed Forces described in this su
 
 &emsp;(1) is a former member of the Armed Forces, including the reserve components;
 
-&emsp;(2) while serving in the active military, naval, or air service, was discharged or released therefrom under a condition that is not honorable but not—
+&emsp;(2) while serving in the active military, naval, air, or space service, was discharged or released therefrom under a condition that is not honorable but not—
 
 &emsp;&emsp;(A) a dishonorable discharge; or
 
@@ -54,7 +54,7 @@ Information.—The Secretary shall provide information on the mental and behavio
 
 &emsp;&emsp;(A) 180 days after the date of the enactment of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018; or
 
-&emsp;&emsp;(B) 180 days after the date on which the individual was discharged or released from the active military, naval, or air service;
+&emsp;&emsp;(B) 180 days after the date on which the individual was discharged or released from the active military, naval, air, or space service;
 
 &emsp;(2) shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
 
@@ -66,11 +66,11 @@ Information.—The Secretary shall provide information on the mental and behavio
 
 &emsp;&emsp;(C) is made available to State veteran agencies and through appropriate public information services; and
 
-&emsp;(4) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
+&emsp;(4) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, air, or space service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
 
 (f)
 
-Annual Reports.—(1) Not less frequently than once each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
+Annual Reports.—(1) Not later than February 15 each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
 
 (2) Each report submitted under paragraph (1) shall include, with respect to the year preceding the submittal of the report, the following:
 
@@ -78,15 +78,39 @@ Annual Reports.—(1) Not less frequently than once each year, the Secretary sha
 
 &emsp;(B) The number of individuals who requested an initial mental health assessment under subsection (a)(1).
 
-&emsp;(C) Such other information as the Secretary considers appropriate.
+&emsp;(C) The types of mental or behavioral health care needs treated under this section.
 
-(Added Pub. L. 115–141, div. J, title II, §258(a), Mar. 23, 2018, 132 Stat. 826, §1712I; renumbered §1720I, Pub. L. 115–182, title V, §511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, §205, Sept. 29, 2018, 132 Stat. 3173.)
+&emsp;(D) The demographics of individuals being treated under this section, including—
+
+&emsp;&emsp;(i) age;
+
+&emsp;&emsp;(ii) era of service in the Armed Forces;
+
+&emsp;&emsp;(iii) branch of service in the Armed Forces; and
+
+&emsp;&emsp;(iv) geographic location.
+
+&emsp;(E) The average number of visits for an individual for mental or behavioral health care under this section.
+
+&emsp;(F) Such other information as the Secretary considers appropriate.
+
+(Added Pub. L. 115–141, div. J, title II, §258(a), Mar. 23, 2018, 132 Stat. 826, §1712I; renumbered §1720I, Pub. L. 115–182, title V, §511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, §205, Sept. 29, 2018, 132 Stat. 3173; Pub. L. 116–171, title I, §104, Oct. 17, 2020, 134 Stat. 782; Pub. L. 116–283, div. A, title IX, §926(a)(29), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018, referred to in subsec. (e)(1)(A), is the date of enactment of div. J of Pub. L. 115–141, which was approved Mar. 23, 2018.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283 substituted "air, or space service" for "or air service" in introductory provisions.
+
+Subsec. (e)(1)(B), (4). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+<b>2020</b>—Subsec. (f)(1). Pub. L. 116–171, §104(1), substituted "Not later than February 15" for "Not less frequently than once".
+
+Subsec. (f)(2)(C) to (F). Pub. L. 116–171, §104(2), added subpars. (C) to (E) and redesignated former subpar. (C) as (F).
 
 <b>2018</b>—Pub. L. 115–182 renumbered section 1712I of this title as this section.
 

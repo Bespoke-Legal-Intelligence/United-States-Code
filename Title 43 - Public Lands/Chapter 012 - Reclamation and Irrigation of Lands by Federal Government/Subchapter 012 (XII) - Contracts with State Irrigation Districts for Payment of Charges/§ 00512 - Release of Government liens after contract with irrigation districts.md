@@ -4,6 +4,8 @@ Patents and water-right certificates which shall be issued after May 15, 1922, u
 
 (May 15, 1922, ch. 190, §2, 42 Stat. 542.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter XIV (§541 et seq.) of this chapter, referred to in text, was in the original a reference to act Aug. 9, 1912, 37 Stat. 265.

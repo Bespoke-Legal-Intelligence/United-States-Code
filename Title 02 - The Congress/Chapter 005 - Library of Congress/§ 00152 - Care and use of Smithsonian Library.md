@@ -4,6 +4,8 @@ The Smithsonian Institution shall have the use of the library referred to in sec
 
 (R.S. §100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §100 derived from act Apr. 5, 1866, ch. 25, §2, 14 Stat. 13.

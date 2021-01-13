@@ -190,7 +190,7 @@ Pub. L. 96–104, title I, §107, Nov. 5, 1979, 93 Stat. 792, which provided tha
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–501, title II, §206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 wasapplicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
+Pub. L. 93–501, title II, §206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
 
 #### Effective Date of 1967 Amendment
 
@@ -202,7 +202,7 @@ Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided in part 
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securitiesand Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
 #### Transfer of Functions
 

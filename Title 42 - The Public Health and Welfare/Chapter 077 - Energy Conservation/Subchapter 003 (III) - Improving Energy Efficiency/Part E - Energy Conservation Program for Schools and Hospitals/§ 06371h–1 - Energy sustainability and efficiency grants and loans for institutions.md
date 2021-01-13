@@ -128,7 +128,7 @@ In this section:
 
 #### (B) Requirement
 
-&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A)shall include not less than 2 grants each year to institutions of higher education in each State.
+&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A) shall include not less than 2 grants each year to institutions of higher education in each State.
 
 #### (C) Minimum funding
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Loans under this subsection shall be at an interest rate that is set by reference to a benchmark interest rate (yield) on marketable Treasury securities with a similar maturity to the direct loans being made.
+&emsp;&emsp;&emsp;Loans under this subsection shall be at an interest rate that is set by reference toa benchmark interest rate (yield) on marketable Treasury securities with a similar maturity to the direct loans being made.
 
 #### (ii) Minimum
 

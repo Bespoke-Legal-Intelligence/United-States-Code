@@ -130,7 +130,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
-(D) Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
+(D) Notwithstanding the other provisions of this paragraph, participation in an employmentand training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
 
 (E) For the purposes of any project conducted under this paragraph, the provisions of this chapter affecting the rights of recipients may be waived to the extent necessary to conform to the provisions of section 402, and sections 481 through 487,<sup>1</sup> of the Social Security Act.
 
@@ -156,7 +156,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 #### (B) Requirement
 
-&emsp;&emsp;A State shall be eligible to carry out an employment initiatives program under thissubsection only if not less than 50 percent of the households in the State that received supplemental nutrition assistance program benefits during the summer of 1993 also received benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) during the summer of 1993.
+&emsp;&emsp;A State shall be eligible to carry out an employment initiatives program under this subsection only if not less than 50 percent of the households in the State that received supplemental nutrition assistance program benefits during the summer of 1993 also received benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) during the summer of 1993.
 
 #### (2) Procedure
 
@@ -228,7 +228,7 @@ The Secretary shall conduct a sufficient number of demonstration projects to eva
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
-&emsp;(2) one licensed vehicle used to obtain, continue, or seek employment (including travel to and from work), used to pursue employment-related education or training, or used to secure food or the benefits of the supplemental nutrition assistance program.
+&emsp;(2) one licensed vehicle used to obtain, continue, or seek employment (including travel toand from work), used to pursue employment-related education or training, or used to secure food or the benefits of the supplemental nutrition assistance program.
 
 #### (i) Testing resource accumulation
 

@@ -34,6 +34,8 @@ Aug. 30, 1950, ch. 823, §13, 64 Stat. 566.
 
 The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–7, §12(1)(A), substituted "FFA" for "corporation" in introductory provisions.

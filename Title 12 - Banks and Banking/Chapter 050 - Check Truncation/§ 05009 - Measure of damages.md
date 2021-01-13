@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 5005 of this title, any person who, in connection with asubstitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
+&emsp;Except as provided in section 5005 of this title, any person who, in connection with a substitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
 
 &emsp;&emsp;(A) the lesser of—
 
@@ -30,9 +30,13 @@
 
 (Pub. L. 108–100, §10, Oct. 28, 2003, 117 Stat. 1188.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

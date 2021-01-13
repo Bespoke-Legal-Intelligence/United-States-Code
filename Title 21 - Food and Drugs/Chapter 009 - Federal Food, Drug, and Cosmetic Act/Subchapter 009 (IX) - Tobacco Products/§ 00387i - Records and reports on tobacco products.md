@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every person who is a tobacco product manufacturer or importer of a tobacco product shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such tobacco product is not adulterated or misbranded and to otherwise protect public health. Regulations prescribed under the preceding sentence—
+Every person who is a tobacco product manufacturer or importer of a tobacco product shallestablish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such tobacco product is not adulterated or misbranded and to otherwise protect public health. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) may require a tobacco product manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed tobacco products may have caused or contributed to a serious unexpected adverse experience associated with the use of the product or any significant increase in the frequency of a serious, expected adverse product experience;
 
@@ -35,6 +35,8 @@ Every person who is a tobacco product manufacturer or importer of a tobacco prod
 &emsp;No report of the corrective action or removal of a tobacco product may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a).
 
 (June 25, 1938, ch. 675, §909, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1805.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

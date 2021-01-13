@@ -10,7 +10,7 @@ Definition.—In this section, the term "international terrorism"—
 
 (b)
 
-Responsibility of Foreign States.—A foreign state shall not be immune from the jurisdiction of the courts of the United States in any case in which money damages are sought against a foreign state for physical injury to person or property or death occurring in the United States and caused by—
+Responsibility of Foreign States.—A foreign state shall not be immune from the jurisdiction of the courts of the United States in any case in which money damages are sought against a foreign state for physical injury toperson or property or death occurring in the United States and caused by—
 
 &emsp;(1) an act of international terrorism in the United States; and
 
@@ -25,6 +25,8 @@ Claims by Nationals of the United States.—Notwithstanding section 2337(2) of t
 Rule of Construction.—A foreign state shall not be subject to the jurisdiction of the courts of the United States under subsection (b) on the basis of an omission or a tortious act or acts that constitute mere negligence.
 
 (Added Pub. L. 114–222, §3(a), Sept. 28, 2016, 130 Stat. 853.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

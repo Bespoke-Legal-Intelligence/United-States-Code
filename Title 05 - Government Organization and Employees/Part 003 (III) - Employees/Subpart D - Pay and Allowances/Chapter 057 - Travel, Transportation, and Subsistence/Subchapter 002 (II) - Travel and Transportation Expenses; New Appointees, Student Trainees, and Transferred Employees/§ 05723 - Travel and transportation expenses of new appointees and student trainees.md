@@ -42,6 +42,8 @@ Oct. 16, 1963, Pub. L. 88–146, 77 Stat. 252.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a) and (c), is section 3 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3, The President.
@@ -79,6 +81,8 @@ Subsec. (c). Pub. L. 100–398, §6(3), inserted at end "In the case of an appoi
 Pub. L. 95–454, §409(a), inserted reference to a new appointee to the Senior Executive Service.
 
 Subsec. (d). Pub. L. 95–454, §§305, 906(a)(3), struck out "not" before "delegate", and substituted "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

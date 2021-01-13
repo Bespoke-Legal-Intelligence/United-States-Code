@@ -1,6 +1,6 @@
 ### §392a. Provisions of section 392 extended to additional lands
 
-The provisions of section 392 of this title are extended over and made applicable to the lands added to the park and included within the boundary established by section 391a of this title.
+The provisions of section 392 of this title are extended over and made applicable to the landsadded to the park and included within the boundary established by section 391a of this title.
 
 (Feb. 12, 1927, ch. 111, §2, 44 Stat. 1089.)
 

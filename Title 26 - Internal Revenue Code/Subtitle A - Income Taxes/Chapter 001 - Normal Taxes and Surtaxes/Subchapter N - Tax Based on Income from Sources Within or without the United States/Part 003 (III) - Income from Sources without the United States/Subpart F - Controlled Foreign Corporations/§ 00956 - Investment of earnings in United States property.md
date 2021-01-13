@@ -6,7 +6,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;(1) the excess (if any) of—
 
-&emsp;&emsp;(A) such shareholder's pro rata share of the average of the amounts of United States property held (directly or indirectly) by the controlled foreign corporation as of the close of each quarter of such taxable year, over
+&emsp;&emsp;(A) such shareholder's pro rata share of the average of the amounts of United States property held (directly or indirectly) by thecontrolled foreign corporation as of the close of each quarter of such taxable year, over
 
 &emsp;&emsp;(B) the amount of earnings and profits described in section 959(c)(1)(A) with respect to such shareholder, or
 
@@ -72,7 +72,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;&emsp;(i) any bank (as defined by section 2(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)), without regard to subparagraphs (C) and (G) of paragraph (2) of such section), or
 
-&emsp;&emsp;&emsp;(ii) any corporation not described in clause (i) with respect to which a bank holding company (as defined by section 2(a) of such Act) or financial holding company (as defined by section 2(p) of suchAct) owns directly or indirectly more than 80 percent by vote or value of the stock of such corporation;
+&emsp;&emsp;&emsp;(ii) any corporation not described in clause (i) with respect to which a bank holding company (as defined by section 2(a) of such Act) or financial holding company (as defined by section 2(p) of such Act) owns directly or indirectly more than 80 percent by vote or value of the stock of such corporation;
 
 &emsp;&emsp;(B) property located in the United States which is purchased in the United States for export to, or use in, foreign countries;
 
@@ -82,7 +82,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(E) an amount of assets of an insurance company equivalent to the unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business attributable to contracts which are contracts described in section 953(e)(2);
 
-&emsp;&emsp;(F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which, immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
+&emsp;&emsp;(F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which,immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
 
 &emsp;&emsp;(G) any movable property (other than a vessel or aircraft) which is used for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or under such waters when used on the Continental Shelf of the United States;
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 115–141, §401(a)(163), substituted "provisions" for "pro
 
 <b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted "subparagraphs (I), (J), and (K)" for "subparagraphs (J), (K), and (L)" in concluding provisions.
 
-Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: "to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;".
+Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: "to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by aFSC and which is related to the export activities of such FSC;".
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §407(b), substituted ", (K), and (L)" for "and (K)" in concluding provisions.
 
@@ -206,7 +206,7 @@ Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 958 ofthis title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year."
+Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 958 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

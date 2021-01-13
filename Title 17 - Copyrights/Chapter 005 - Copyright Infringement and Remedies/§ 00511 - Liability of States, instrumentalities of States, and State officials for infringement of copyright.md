@@ -10,11 +10,15 @@ Remedies.—In a suit described in subsection (a) for a violation described in t
 
 (Added Pub. L. 101–553, §2(a)(2), Nov. 15, 1990, 104 Stat. 2749; amended Pub. L. 106–44, §1(g)(6), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, §13210(4)(C), Nov. 2, 2002, 116 Stat. 1909.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted "122" for "121".
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–44 substituted "121" for "119".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

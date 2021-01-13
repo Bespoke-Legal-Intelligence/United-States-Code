@@ -36,7 +36,7 @@ Funds reserved under subsection (a) shall be used to carry out no fewer than one
 
 &emsp;&emsp;(C) including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
 
-&emsp;&emsp;(E) <sup>1</sup> providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children's positive development;
+&emsp;&emsp;(E) <sup>1</sup> providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity tobecome meaningful partners in supporting their children's positive development;
 
 &emsp;&emsp;(F) providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
 
@@ -90,7 +90,7 @@ Funds reserved under subsection (a) shall be used to carry out no fewer than one
 
 #### (c) Certification
 
-Beginning with fiscal year 2016, at the beginning of each fiscal year, the State shall annually submit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
+Beginning with fiscal year 2016, at the beginning of each fiscal year, the State shall annuallysubmit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
 
 #### (d) Reporting requirements
 

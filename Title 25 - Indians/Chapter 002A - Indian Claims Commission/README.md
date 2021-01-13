@@ -1,8 +1,10 @@
 ### <b>CHAPTER 2A—INDIAN CLAIMS COMMISSION</b>
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Claims Accruing After August 13, 1946
 
-This chapter related only to claims accruing before Aug. 13, 1946. For jurisdiction of Indian claims againstthe United States accruing after that date, see section 1505 of Title 28, Judiciary and Judicial Procedure.
+This chapter related only to claims accruing before Aug. 13, 1946. For jurisdiction of Indian claims against the United States accruing after that date, see section 1505 of Title 28, Judiciary and Judicial Procedure.
 
 
 ---

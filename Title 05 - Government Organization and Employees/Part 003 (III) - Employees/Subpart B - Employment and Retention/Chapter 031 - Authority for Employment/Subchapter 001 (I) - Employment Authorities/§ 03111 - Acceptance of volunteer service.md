@@ -4,7 +4,7 @@
 
 (b) Notwithstanding section 1342 of title 31, the head of an agency may accept, subject to regulations issued by the Office, voluntary service for the United States if the service—
 
-&emsp;(1) is performed by a student, with the permission of the institution at which the student is enrolled, as part of an agency programestablished for the purpose of providing educational experiences for the student;
+&emsp;(1) is performed by a student, with the permission of the institution at which the student is enrolled, as part of an agency program established for the purpose of providing educational experiences for the student;
 
 &emsp;(2) is to be uncompensated; and
 
@@ -36,6 +36,8 @@
 
 (Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, §1303(a), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–76, div. I, title I, §1201(a), Jan. 17, 2014, 128 Stat. 426.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 203 of the Congressional Budget Act of 1974, referred to in subsec. (e)(2)(A), is classified to section 603 of Title 2, The Congress.
@@ -55,6 +57,8 @@ Subsec. (d). Pub. L. 107–347 added subsec. (d).
 Subsec. (c)(2). Pub. L. 97–437, §1(2), added par. (2).
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted "section 1342 of title 31" for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

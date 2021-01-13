@@ -64,9 +64,9 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 2\. The Secretaries of Defense, the Army, the Navy, and the Air Force, respectively, may exercise the authority herein conferred and, in their discretion and by their direction, may delegate such authority to any other military or civilian officers or officials of their respective departments, and may confer upon any such military or civilian officers or officials the power to make further delegations of such authority within their respective commands or organizations: <i>Provided</i>, That the authority herein conferred shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or by a departmental Contract Adjustment Board.
 
-3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies of any kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
+3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies ofany kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
 
-4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments ormodifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
+4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
 5\. Proper records of all actions taken under the authority of the act shall be maintained within the Department of Defense. The Secretaries of Defense, the Army, the Navy, and the Air Force shall make such records available for public inspection except to the extent that they, or their duly authorized representatives, may respectively deem the disclosure of information therein to be detrimental to the national security.
 
@@ -140,7 +140,7 @@ Government Printing Office \[now Government Publishing Office\].
 
 Department of Homeland Security.
 
-22\. The head of each agency named in paragraph 21 hereof is authorized to prescribe regulations governing the carrying out of the functions and authority vested with respect to his agency by the provisions of paragraph 21 hereof. Such regulations shall, to the extent practicable, be uniform with the regulations prescribedor approved by the Secretary of Defense under the provisions of Part I of this order.
+22\. The head of each agency named in paragraph 21 hereof is authorized to prescribe regulations governing the carrying out of the functions and authority vested with respect to his agency by the provisions of paragraph 21 hereof. Such regulations shall, to the extent practicable, be uniform with the regulations prescribed or approved by the Secretary of Defense under the provisions of Part I of this order.
 
 23\. Nothing contained herein shall prejudice any other authority which any agency named in paragraph 21 hereof may have to enter into, amend, or modify contracts and to make advance payments.
 
@@ -153,4 +153,34 @@ Department of Homeland Security.
 (a) in the case of the Department of Defense, the Secretary of Defense has, after consideration of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 \[6 U.S.C. 441 et seq.\], determined that the exercise of authority under this order is necessary for the timely and effective conduct of United States military or intelligence activities; and
 
 (b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and Management and Budget has approved the exercise of authority under this order.
+
+#### Authorizing the Exercise of Authority Under Public Law 85–804
+
+Memorandum of President of the United States, Apr. 10, 2020, 85 F.R. 21735, provided:
+
+Memorandum for the Secretary of Veterans Affairs
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. On March 13, 2020, I declared a national emergency recognizing the threat that the ongoing outbreak of COVID–19, the disease caused by the novel (new) coronavirus known as SARS–CoV–2 ("the virus"), poses to the Nation's healthcare systems. I also determined on the same day that the COVID–19 outbreak constitutes an emergency, of nationwide scope, pursuant to section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)). On March 18, 2020, I declared that health and medical resources needed to respond to the spread of COVID–19 meet the criteria specified in section 101(b) of the Defense Production Act of 1950 (50 U.S.C. 4511(b)), including that they are essential to the national defense.
+
+Sec. 2. The Secretary of Veterans Affairs is authorized to exercise authority under Public Law 85–804, as amended (50 U.S.C. 1431 <i>et seq</i>.), to the same extent and subject to the same conditions and limitations as the head of an executive department or agency listed in section 21 of Executive Order 10789 of November 14, 1958 (Authorizing Agencies of the Government to Exercise Certain Contracting Authority in Connection with National-Defense Functions and Prescribing Regulations Governing the Exercise of Such Authority) \[50 U.S.C. 1431 note\], as amended, with respect to contracts performed in support of efforts by the Department of Veterans Affairs to combat the virus. This authority may only be exercised with regard to transactions directly responsive to the COVID–19 national emergency.
+
+Sec. 3. The Department of Veterans Affairs is exercising functions in connection with the national defense in the course of contributing to the Nation's response to the ongoing outbreak of COVID–19. I deem that the authorization provided in this memorandum and actions taken pursuant to that authorization would facilitate the national defense.
+
+Sec. 4. This memorandum shall terminate on September 30, 2020.
+
+Sec. 5. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

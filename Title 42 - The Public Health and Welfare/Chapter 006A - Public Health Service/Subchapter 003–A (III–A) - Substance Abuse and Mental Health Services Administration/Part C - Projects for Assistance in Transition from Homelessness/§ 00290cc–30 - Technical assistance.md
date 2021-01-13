@@ -1,6 +1,6 @@
 ### §290cc–30. Technical assistance
 
-The Secretary, acting through the Assistant Secretary, shall provide technical assistance toeligible entities in developing planning and operating programs in accordance with the provisions of this part.
+The Secretary, acting through the Assistant Secretary, shall provide technical assistance to eligible entities in developing planning and operating programs in accordance with the provisions of this part.
 
 (July 1, 1944, ch. 373, title V, §530, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 521; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4731; Pub. L. 102–321, title I, §§162(2), 163(a)(3), July 10, 1992, 106 Stat. 375; Pub. L. 102–352, §2(b)(2), Aug. 26, 1992, 106 Stat. 939; Pub. L. 114–255, div. B, title IX, §9004(d), Dec. 13, 2016, 130 Stat. 1238.)
 

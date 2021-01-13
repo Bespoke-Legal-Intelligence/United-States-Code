@@ -86,11 +86,15 @@ Pub. L. 98–237, §6(a)–(f), Mar. 20, 1984, 98 Stat. 72.
 
 46 App.:1705(f).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–282, §706(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "Within 7 days after an agreement is filed, the Federal Maritime Commission shall transmit a notice of the filing to the Federal Register for publication."
 
 Subsec. (d). Pub. L. 115–282, §706(b), substituted "part" for "section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Saving Clause
 

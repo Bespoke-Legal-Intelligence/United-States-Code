@@ -22,7 +22,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) his wages reduced to 80 percent or less of his average weekly wage in such adversely affected employment.
 
-&emsp;(7) The term "State" includes the District of Columbia and the Commonwealth of PuertoRico; and the term "United States" when used in the geographical sense includes such Commonwealth.
+&emsp;(7) The term "State" includes the District of Columbia and the Commonwealth of Puerto Rico; and the term "United States" when used in the geographical sense includes such Commonwealth.
 
 &emsp;(8) The term "State agency" means the agency of the State which administers the State law.
 
@@ -104,7 +104,7 @@ Par. (2). Pub. L. 111–5, §§1801(a)(2), 1893, temporarily substituted "employ
 
 Pars. (3), (7). Pub. L. 111–5, §§1801(a)(3), (4), 1893, temporarily added pars. (3) and (7). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out ", or in a subdivision of which," after "firm in which". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out ", or in a subdivision of which," after "firmin which". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Pars. (18), (19). Pub. L. 111–5, §§1801(a)(6), 1830(a)(2), 1893, temporarily added pars. (18) and (19). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

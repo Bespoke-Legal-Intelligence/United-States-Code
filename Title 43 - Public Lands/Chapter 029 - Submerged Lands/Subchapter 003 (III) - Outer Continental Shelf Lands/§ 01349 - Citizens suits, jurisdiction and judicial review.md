@@ -2,7 +2,7 @@
 
 #### (a) Persons who may bring actions; persons against whom action may be brought; time of action; intervention by Attorney General; costs and fees; security
 
-(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution) for any alleged violation of any provision of this subchapter or any regulation promulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
+(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliancewith this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution) for any alleged violation of any provision of this subchapter or any regulation promulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
 
 (2) Except as provided in paragraph (3) of this subsection, no action may be commenced under subsection (a)(1) of this section—
 
@@ -36,11 +36,13 @@
 
 (5) The Secretary shall file in the appropriate court the record of any public hearings required by this subchapter and any additional information upon which the Secretary based his decision, as required by section 2112 of title 28. Specific objections to the action of the Secretary shall be considered by the court only if the issues upon which such objections are based have been submitted to the Secretary during the administrative proceedings related to the actions involved.
 
-(6) The court of appeals conducting a proceeding pursuant to this subsection shall consider the matter under review solely on the record made before the Secretary. The findings of the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may affirm, vacate, or modify any order or decision or may remand the proceedings to the Secretary for such further action as it may direct.
+(6) The court of appeals conducting a proceeding pursuant to this subsection shall consider the matter under review solely on the record made before the Secretary. The findings of the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may affirm, vacate, or modify any order or decision or may remand theproceedings to the Secretary for such further action as it may direct.
 
 (7) Upon the filing of the record with the court, pursuant to paragraph (5), the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari.
 
 (Aug. 7, 1953, ch. 345, §23, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 657; amended Pub. L. 98–620, title IV, §402(44), Nov. 8, 1984, 98 Stat. 3360.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -49,6 +51,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(5), are set out
 #### Amendments
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–620 struck out subsec. (d) which provided that except as to causes of action considered by the court to be of greater importance, any action under this section would take precedence on the docket over all other causes of action and would be set for hearing at the earliest practical date and expedited in every way.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

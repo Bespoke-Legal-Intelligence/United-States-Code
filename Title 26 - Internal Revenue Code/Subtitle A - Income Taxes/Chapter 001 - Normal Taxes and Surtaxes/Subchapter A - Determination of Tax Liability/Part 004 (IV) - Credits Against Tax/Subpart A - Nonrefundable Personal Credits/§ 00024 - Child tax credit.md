@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the credit which would be allowed under this section without regard to this subsection and the limitation under section 26(a) or
 
-&emsp;&emsp;(B) the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a) were increased by the greater of—
+&emsp;&emsp;(B) the amount by which the aggregate amount of credits allowed by this subpart\(determined without regard to this subsection) would increase if the limitation imposed by section 26(a) were increased by the greater of—
 
 &emsp;&emsp;&emsp;(i) 15 percent of so much of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or
 
@@ -204,7 +204,7 @@ Subsec. (g). Pub. L. 114–113, §208(a)(1), added subsec. (g).
 
 <b>2014</b>—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "
 
-Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, thedollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
+Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 <b>2013</b>—Subsec. (b)(3). Pub. L. 112–240, §104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -362,7 +362,7 @@ Pub. L. 115–97, title I, §11022(b), Dec. 22, 2017, 131 Stat. 2074, provided t
 
 Pub. L. 114–113, div. Q, title I, §101(c), Dec. 18, 2015, 129 Stat. 3044, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
-Pub. L. 114–113, div. Q, title II, §205(c), Dec. 18, 2015, 129 Stat. 3081, as amended by Pub. L. 115–141, div. U, title I, §101(i)(2), Mar. 23, 2018, 132 Stat. 1162, provided that: "The amendments made by this section \[amending this section\] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title II, §205(c), Dec. 18, 2015, 129 Stat. 3081, as amended by Pub. L. 115–141, div. U, title I, §101(i)(2), Mar. 23, 2018, 132 Stat. 1162, provided that: "The amendments made by this section \[amending this section\] shall apply to any return of tax, andany amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 Pub. L. 114–113, div. Q, title II, §208(c), Dec. 18, 2015, 129 Stat. 3084, provided that: "The amendments made by this section \[amending this section and sections 25A and 6213 of this title\] shall apply to taxable years beginning after December 31, 2015."
 
@@ -370,7 +370,7 @@ Pub. L. 114–27, title VIII, §807(b), June 29, 2015, 129 Stat. 418, provided t
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments made by this section \[amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title,and provisions set out as notes under sections 6428 and 6432 of this title\] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5, div. B, title I\] to which they relate."
+Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments made by this section \[amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title, and provisions set out as notes under sections 6428 and 6432 of this title\] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5, div. B, title I\] to which they relate."
 
 #### Effective Date of 2013 Amendment
 
@@ -436,7 +436,7 @@ Pub. L. 110–172, §11(c)(2), Dec. 29, 2007, 121 Stat. 2489, provided that: "Th
 
 Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) ofPub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 

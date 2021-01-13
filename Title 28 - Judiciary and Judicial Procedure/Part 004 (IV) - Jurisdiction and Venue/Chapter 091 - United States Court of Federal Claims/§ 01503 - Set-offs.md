@@ -2,7 +2,7 @@
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any set-off or demand by the United States against any plaintiff in such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L.102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -12,11 +12,15 @@ The second subsection of section 250 of title 28, U.S.C., 1940 ed., is incorpora
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

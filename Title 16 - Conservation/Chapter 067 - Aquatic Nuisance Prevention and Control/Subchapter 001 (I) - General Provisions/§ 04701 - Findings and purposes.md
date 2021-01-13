@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
+&emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductionsof nonindigenous species to fresh, brackish, and saltwater environments;
 
 &emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
 
@@ -98,21 +98,41 @@ Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This A
 
 Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: "This title \[enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990'."
 
+#### Invasive Species in Alpine Lakes Pilot Program
+
+Pub. L. 116–260, div. AA, title V, §507, Dec. 27, 2020, 134 Stat. 2749, provided that:
+
+"(a)
+
+Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program (referred to in this section as the 'pilot program') to develop and carry out effective measures necessary to prevent, control, or eradicate aquatic invasive species in alpine lakes that are not located within a unit of the National Park System.
+
+"(b)
+
+Partnerships.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall offer to enter into a partnership to carry out the pilot program with—
+
+&emsp;"(1) any relevant partnering Federal agency; and
+
+&emsp;"(2) any relevant compact agency organized with the consent of Congress under article I, section 10 of the Constitution of the United States.
+
+"(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2024."
+
 #### Aquatic Invasive Species Prevention
 
-Pub. L. 113–121, title I, §1039(b), June 10, 2014, 128 Stat. 1237, provided that:
+Pub. L. 113–121, title I, §1039(b), June 10, 2014, 128 Stat. 1237, as amended by Pub. L. 116–260, div. AA, title V, §506, Dec. 27, 2020, 134 Stat. 2749, provided that:
 
 "(1)
 
-Multiagency effort to slow the spread of asian carp in the upper mississippi and ohio river basins and tributaries.—
+Multiagency effort to slow the spread of asian carp in the mississippi river and tributaries, including sub-basins.—
 
 &emsp;"(A)
 
-In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
+In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River, by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
 
 &emsp;"(B)
 
-Best practices.—To the maximum extent practicable, the multiagency effort shall apply lessons learned and best practices such as those described in the document prepared by the Asian Carp Working Group entitled 'Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States' and dated November 2007, and the document prepared by the Asian Carp Regional Coordinating Committee entitled 'FY 2012 Asian Carp Control Strategy Framework' and dated February 2012.
+Best practices.—To the maximum extent practicable, the multiagency effort shall apply lessons learned and best practices such as those described in the document prepared by the Asian Carp Working Group entitled 'Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States' and dated November 2007, the Mississippi River Basin Asian Carp Control Strategy Framework, and the Asian Carp Regional Coordinating Committee's Asian Carp Action Plan.
 
 "(2)
 
@@ -120,15 +140,15 @@ Report to congress.—
 
 &emsp;"(A)
 
-In general.—Not later than December 31 of each year, the Director of the United States Fish and Wildlife Service, in coordination with the Secretary, shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the coordinated strategies established and progress made toward the goals of controlling and eliminating Asian carp in the Upper Mississippi and Ohio River basins and tributaries.
+In general.—Not later than December 31, 2020, and biennially thereafter, the Director of the United States Fish and Wildlife Service, in coordination with the Secretary, shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the coordinated strategies established and progress made toward the goals of controlling and eliminating Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River.
 
 &emsp;"(B)
 
 Contents.—Each report submitted under subparagraph (A) shall include—
 
-&emsp;&emsp;"(i) any observed changes in the range of Asian carp in the Upper Mississippi and Ohio River basins and tributaries during the 2-year period preceding submission of the report;
+&emsp;&emsp;"(i) any observed changes in the range of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River, during the 2-year period preceding submission of the report;
 
-&emsp;&emsp;"(ii) a summary of Federal agency efforts, including cooperative efforts with non-Federal partners, to control the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries;
+&emsp;&emsp;"(ii) a summary of Federal agency efforts, including cooperative efforts with non-Federal partners, to control the spread of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River;
 
 &emsp;&emsp;"(iii) any research that the Director determines could improve the ability to control the spread of Asian carp;
 
@@ -146,7 +166,7 @@ Pub. L. 104–332, §3, Oct. 26, 1996, 110 Stat. 4092, provided that: "Nothing i
 
 #### Report on Establishment of Program
 
-Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
+Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after thedate of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

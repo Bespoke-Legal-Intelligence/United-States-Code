@@ -6,7 +6,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
-&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature,or a legislative body of a political subdivision of a State.
+&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
 &emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
@@ -34,7 +34,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(13) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
+&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility inthat country at the request of the government of that country.
 
 &emsp;(15) Costs incurred by a contractor or subcontractor, or personal service <sup>1</sup> contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
@@ -90,15 +90,19 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §306(e), as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3310; Pub. L. 105–85, title VIII, §808(b)(1), Nov. 18, 1997, 111 Stat. 1836.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(15). Pub. L. 114–261 inserted "or subcontractor, or personal service contractor" after "contractor".
 
 <b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title." See Effective Date of 2013 Amendment notes below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as a note under section 2324 of Title 10, Armed Forces.
+Amendment by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 daysafter Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as a note under section 2324 of Title 10, Armed Forces.
 
 Amendment by Pub. L. 113–66 applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 811(d) of Pub. L. 113–66, set out as a note under section 2324 of Title 10, Armed Forces.
 
@@ -157,6 +161,8 @@ Definitions.—In this section:
 "(c)
 
 Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001 \[set out as an Effective Date of 1994 Amendment note under section 2302 of Title 10, Armed Forces\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13494. Economy in Government Contracting
 

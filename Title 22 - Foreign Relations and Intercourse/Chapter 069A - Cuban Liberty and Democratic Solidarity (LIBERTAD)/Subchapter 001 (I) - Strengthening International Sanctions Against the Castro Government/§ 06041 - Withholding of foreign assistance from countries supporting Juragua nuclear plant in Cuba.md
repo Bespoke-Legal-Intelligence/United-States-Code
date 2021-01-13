@@ -62,9 +62,11 @@ The Congress makes the following findings:
 
 #### (3) "Assistance" defined
 
-&emsp;As used in paragraph (1), the term "assistance" means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Food for Peace Act \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
+&emsp;As used in paragraph (1), the term "assistance" means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\],credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Food for Peace Act \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
 
 (Pub. L. 104–114, title I, §111, Mar. 12, 1996, 110 Stat. 800; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oc
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

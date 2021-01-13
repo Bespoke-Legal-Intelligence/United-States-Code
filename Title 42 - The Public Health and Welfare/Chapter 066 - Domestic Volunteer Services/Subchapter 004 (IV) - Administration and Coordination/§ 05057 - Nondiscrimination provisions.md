@@ -26,7 +26,7 @@ Any assistance provided under this chapter shall constitute Federal financial as
 
 #### (d) Rules and regulations
 
-The Director shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
+The Director shall promulgate rules and regulations to provide for the enforcement of thissection that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
 
 (Pub. L. 93–113, title IV, §417, Oct. 1, 1973, 87 Stat. 413; Pub. L. 96–143, §12, Dec. 13, 1979, 93 Stat. 1079; Pub. L. 97–35, title VI, §608(f)(3), Aug. 13, 1981, 95 Stat. 488; Pub. L. 98–288, §30(a), May 21, 1984, 98 Stat. 197; Pub. L. 103–82, title III, §367, Sept. 21, 1993, 107 Stat. 908.)
 

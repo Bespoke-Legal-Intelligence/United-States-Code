@@ -70,7 +70,7 @@ This section may be cited as the "Workers' Family Protection Act".
 
 &emsp;&emsp;&emsp;(v) prepare and submit to the Task Force established under paragraph (2) and to the appropriate committees of Congress, a report concerning the results of the matters studied or evaluated under clauses (i) through (iv); and
 
-&emsp;&emsp;&emsp;(vi) study home contamination incidents and issues and worker and family protection policies and practices related to the special circumstances of firefighters and prepare and submit to the appropriate committees of Congress a report concerning the findings with respect to such study.
+&emsp;&emsp;&emsp;(vi) study home contamination incidents and issues and worker and family protection policies and practices related to the special circumstances of firefighters andprepare and submit to the appropriate committees of Congress a report concerning the findings with respect to such study.
 
 #### (2) Development of investigative strategy
 
@@ -127,6 +127,8 @@ This section may be cited as the "Workers' Family Protection Act".
 There are authorized to be appropriated from sums otherwise authorized to be appropriated, for each fiscal year such sums as may be necessary to carry out this section.
 
 (Pub. L. 102–522, title II, §209, Oct. 26, 1992, 106 Stat. 3420.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

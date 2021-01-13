@@ -28,7 +28,7 @@ A prior section 5383, act Aug. 16, 1954, ch. 736, 68A Stat. 669, consisted of pr
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–619, §3(b), substituted "not more than 14 percent" for "less than 14 percent".
 
-Subsec. (b). Pub. L. 90–619, §3(a), simplified production procedures and calculations, provided that the limitation on sweetening high acid wine is to be based upon the total solids content of the finished wine, authorized the use of liquid sugar but only to the extent that it did not increase the total volume of the finished wine above what it would be if the maximum authorized use had been made of dry sugar only, and inserted provisions making it clear that wine spirits may beadded at more than one stage in the process of wine production.
+Subsec. (b). Pub. L. 90–619, §3(a), simplified production procedures and calculations, provided that the limitation on sweetening high acid wine is to be based upon the total solids content of the finished wine, authorized the use of liquid sugar but only to the extent that it did not increase the total volume of the finished wine above what it would be if the maximum authorized use had been made of dry sugar only, and inserted provisions making it clear that wine spirits may be added at more than one stage in the process of wine production.
 
 <b>1965</b>—Pub. L. 89–44 divided subsec. (b) relating to high acid wines into pars. (1) and (2) and par. (2) into subpars. (A) to (E), struck out reserve inventory requirement with respect to the amelioration and sweetening of wines, authorized use of other than pure, dry sugar, and allowed limited use of liquid sugar at appropriate points where use of pure dry sugar had formerly been prescribed.
 

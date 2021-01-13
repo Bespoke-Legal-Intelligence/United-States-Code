@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Covered employee
 
-&emsp;The term "covered employee" means an officer or employee of the Central Intelligence Agency who, on or after September 11, 2001, becomes injured by reason of a qualifying injury.
+&emsp;The term "covered employee" means an officer or employee of the Central IntelligenceAgency who, on or after September 11, 2001, becomes injured by reason of a qualifying injury.
 
 #### (3) Covered individual
 

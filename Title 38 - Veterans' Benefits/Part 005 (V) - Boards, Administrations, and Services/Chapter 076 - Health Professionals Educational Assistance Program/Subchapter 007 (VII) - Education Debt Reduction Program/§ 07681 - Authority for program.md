@@ -12,11 +12,15 @@ Relationship to Educational Assistance Program.—Education debt reduction payme
 
 (Added Pub. L. 105–368, title VIII, §803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 111–163, title III, §301(a), May 5, 2010, 124 Stat. 1146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–163 inserted "and retention" after "assist in the recruitment".
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–14 substituted "hereinafter" for "hereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program for Repayment of Educational Loans for Certain Psychiatrists of Veterans Health Administration
 
@@ -92,7 +96,7 @@ Liability.—An individual who participates in the pilot program and fails to sa
 
 &emsp;"(2)
 
-Repayment period.—Any amount of damages that the United States is entitled to recover under this subsection shall be paid to the United States not later than 1 year after the date of the breach of the agreement.
+Repayment period.—Any amount of damages that the United States is entitled to recover underthis subsection shall be paid to the United States not later than 1 year after the date of the breach of the agreement.
 
 "(g)
 

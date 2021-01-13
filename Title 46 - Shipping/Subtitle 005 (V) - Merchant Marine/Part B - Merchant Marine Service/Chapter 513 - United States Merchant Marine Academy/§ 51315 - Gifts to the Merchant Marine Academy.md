@@ -34,6 +34,8 @@ Payment of Expenses.—The Maritime Administrator may pay all necessary expenses
 
 (Added Pub. L. 110–417, div. C, title XXXV, §3506(g)(1), Oct. 14, 2008, 122 Stat. 4764; amended Pub. L. 115–91, div. C, title XXXV, §3511, Dec. 12, 2017, 131 Stat. 1918.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e), is classified generally to Title 26, Internal Revenue Code.

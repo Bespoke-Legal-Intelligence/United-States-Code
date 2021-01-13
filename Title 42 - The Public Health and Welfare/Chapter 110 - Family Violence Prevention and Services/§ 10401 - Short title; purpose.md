@@ -14,7 +14,7 @@ It is the purpose of this chapter to—
 
 &emsp;(3) provide for a national domestic violence hotline;
 
-&emsp;(4) provide for technical assistance and training relating to family violence, domestic violence, and dating violence programs to States and Indian tribes, local public agencies (including law enforcement agencies, courts, and legal, social service, and health care professionals in public agencies), nonprofit private organizations (including faith-based and charitable organizations, community-based organizations, and voluntary associations), tribal organizations, and other persons seeking such assistance and training.
+&emsp;(4) provide for technical assistance and training relating to family violence, domestic violence, and dating violence programs to States and Indian tribes, local public agencies (including law enforcement agencies, courts,and legal, social service, and health care professionals in public agencies), nonprofit private organizations (including faith-based and charitable organizations, community-based organizations, and voluntary associations), tribal organizations, and other persons seeking such assistance and training.
 
 (Pub. L. 98–457, title III, §301, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484.)
 

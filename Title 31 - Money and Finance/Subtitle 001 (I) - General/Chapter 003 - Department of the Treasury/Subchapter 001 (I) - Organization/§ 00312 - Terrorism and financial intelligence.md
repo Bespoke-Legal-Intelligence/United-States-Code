@@ -144,7 +144,7 @@ Delegation.—To the extent that any authorities, powers, and responsibilities o
 
 (d)
 
-Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) isdesignated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
+Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
 
 (e)
 
@@ -154,7 +154,25 @@ Use of Existing Resources.—The Secretary may employ personnel, facilities, and
 
 References.—References in this section to the "Secretary", "Undersecretary", "Deputy Secretary", "Deputy Assistant Secretary", "Office", "Assistant Secretary", and "Department" are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237; Pub. L. 116–92, div. F, title LXXI, §7153, Dec. 20, 2019, 133 Stat. 2259.)
+(g)
+
+Special Hiring Authority.—
+
+&emsp;(1)
+
+In general.—The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the OTFI.
+
+&emsp;(2)
+
+Primary responsibilities.—The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (G) of subsection (a)(4).
+
+(h)
+
+Deployment of Staff.—The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.
+
+(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237; Pub. L. 116–92, div. F, title LXXI, §7153, Dec. 20, 2019, 133 Stat. 2259; Pub. L. 116–283, div. F, title LXI, §6105(b), Jan. 1, 2021, 134 Stat. 4555.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -170,6 +188,8 @@ A prior section 312 was renumbered section 315 of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsecs. (g), (h). Pub. L. 116–283 added subsecs. (g) and (h).
+
 <b>2019</b>—Subsec. (a)(4)(E) to (H). Pub. L. 116–92, §7153(a), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
 Subsec. (a)(8). Pub. L. 116–92, §7153(b), added par. (8).
@@ -177,6 +197,8 @@ Subsec. (a)(8). Pub. L. 116–92, §7153(b), added par. (8).
 <b>2015</b>—Subsec. (d). Pub. L. 114–22 substituted "section 9705" for "section 9703".
 
 <b>2010</b>—Pub. L. 111–203 renumbered section 313 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

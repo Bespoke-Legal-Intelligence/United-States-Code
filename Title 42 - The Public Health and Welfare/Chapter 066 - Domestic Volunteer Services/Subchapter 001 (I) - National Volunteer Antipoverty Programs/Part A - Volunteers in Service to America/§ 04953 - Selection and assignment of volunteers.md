@@ -98,7 +98,7 @@ Except as provided in subsection (e), the assignment of volunteers under this se
 
 #### (g) Program or project submittal to Governor; commencement and termination of service
 
-Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or project or the assignment of a volunteer to a program or project not later than 30days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
+Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or project or the assignment of a volunteer to a program or project not later than 30 days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
 
 #### (h) Interagency agreements
 
@@ -162,7 +162,7 @@ Subsec. (c)(1)(C). Pub. L. 111–13, §2102(3)(A)(iii), inserted "State or local
 
 Subsec. (c)(1)(F). Pub. L. 111–13, §2102(3)(A)(iv), substituted "Community Service Act of 1990" for "Community Service Trust Act of 1993".
 
-Subsec. (c)(4). Pub. L. 111–13, §2102(3)(B), struck out par. (4) which read as follows: "Beginning in fiscal year1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title."
+Subsec. (c)(4). Pub. L. 111–13, §2102(3)(B), struck out par. (4) which read as follows: "Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title."
 
 Subsec. (d). Pub. L. 111–13, §2102(4), struck out "private industry council established under the Job Training Partnership Act or" after "coordinated with an appropriate". See 1998 Amendment note below.
 
@@ -212,7 +212,7 @@ Pub. L. 103–82, §323(b)(2), (3), redesignated par. (5) as (4) and struck out 
 
 &emsp;&emsp;"(ii) the particular project or program to which the applicant prefers to be assigned."
 
-Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
+Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTIONAgency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
 
 Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel described in subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 96–143, §2(b), inserted "in a program or project" after 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment
 

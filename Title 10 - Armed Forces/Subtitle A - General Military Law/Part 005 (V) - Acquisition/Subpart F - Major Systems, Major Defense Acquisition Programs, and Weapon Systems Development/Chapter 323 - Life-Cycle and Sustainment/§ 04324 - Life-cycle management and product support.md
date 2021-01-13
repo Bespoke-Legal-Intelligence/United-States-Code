@@ -1,0 +1,148 @@
+### §4324. Life-cycle management and product support
+
+(a)
+
+Guidance on Life-Cycle Management.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—
+
+&emsp;(1) maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
+
+&emsp;(2) maximize value to the Department of Defense by providing the best possible product support outcomes at the lowest operations and support cost.
+
+(b)
+
+Life Cycle Sustainment Plan.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan. The life cycle sustainment plan shall include—
+
+&emsp;(1) a comprehensive product support strategy;
+
+&emsp;(2) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
+
+&emsp;(3) an approved life-cycle cost estimate for the covered system;
+
+&emsp;(4) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+
+&emsp;(5) sustainment risks and proposed mitigation plans for such risks;
+
+&emsp;(6) engineering and design considerations that support cost-effective sustainment of the covered system;
+
+&emsp;(7) a technical data and intellectual property management plan for product support; and
+
+&emsp;(8) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+
+(c)
+
+Product Support Managers.—
+
+&emsp;(1)
+
+Requirement.—The Secretary of Defense shall require that each covered system be supported by a product support manager in accordance with this subsection.
+
+&emsp;(2)
+
+Responsibilities.—A product support manager for a covered system shall—
+
+&emsp;&emsp;(A) develop, update, and implement a life cycle sustainment plan described in subsection (b);
+
+&emsp;&emsp;(B) ensure the life cycle sustainment plan is informed by appropriate predictive analysis and modeling tools that can improve material availability and reliability, increase operational availability rates, and reduce operation and sustainment costs;
+
+&emsp;&emsp;(C) conduct appropriate cost analyses to validate the product support strategy and life cycle sustainment plan, including cost-benefit analyses as outlined in Office of Management and Budget Circular A–94;
+
+&emsp;&emsp;(D) ensure achievement of desired product support outcomes through development and implementation of appropriate product support arrangements;
+
+&emsp;&emsp;(E) adjust performance requirements and resource allocations across product support integrators and product support providers as necessary to optimize implementation of the product support strategy;
+
+&emsp;&emsp;(F) periodically review product support arrangements between the product support integrators and product support providers to ensure the arrangements are consistent with the overall product support strategy;
+
+&emsp;&emsp;(G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy;
+
+&emsp;&emsp;(H) ensure that the product support strategy maximizes small business participation at the appropriate tiers; and
+
+&emsp;&emsp;(I) ensure that product support arrangements for the covered system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
+
+(d)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Product support.—The term "product support" means the package of support functions required to field and maintain the readiness and operational capability of covered systems, subsystems, and components, including all functions related to covered system readiness.
+
+&emsp;(2)
+
+Product support arrangement.—The term "product support arrangement" means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for covered systems, subsystems, or components. The term includes arrangements for any of the following:
+
+&emsp;&emsp;(A) Performance-based logistics.
+
+&emsp;&emsp;(B) Sustainment support.
+
+&emsp;&emsp;(C) Contractor logistics support.
+
+&emsp;&emsp;(D) Life-cycle product support.
+
+&emsp;&emsp;(E) Weapon systems product support.
+
+&emsp;(3)
+
+Product support integrator.—The term "product support integrator" means an entity within the Federal Government or outside the Federal Government charged with integrating all sources of product support, both private and public, defined within the scope of a product support arrangement.
+
+&emsp;(4)
+
+Product support provider.—The term "product support provider" means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
+
+&emsp;(5)
+
+Covered system.—The term "covered system" means—
+
+&emsp;&emsp;(A) a major defense acquisition program as defined in section 2430 <sup>1</sup> of this title; or
+
+&emsp;&emsp;(B) an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note) that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 4201(a)(2).
+
+&emsp;(6)
+
+Milestone b approval.—The term "Milestone B approval" has the meaning given that term in section 4172(e)(7) of this title.
+
+&emsp;(7)
+
+Milestone decision authority.—The term "milestone decision authority" has themeaning given in section 4211(e)(3) of this title.
+
+(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830, §2337; amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809; renumbered §4324 and amended Pub. L. 116–283, div. A, title VIII, §802(a), title XVIII, §§1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1848(d)(1), renumbered section 2337 of this title as this section.
+
+Pub. L. 116–283, §802(a)(1)–(3), substituted "covered system" for "major weapon system" and "weapon system" and "covered systems" for "major weapon systems" wherever appearing.
+
+Subsec. (b). Pub. L. 116–283, §802(a)(5), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–283, §802(a)(4), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(2)(A). Pub. L. 116–283, §802(a)(6)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "develop and implement a comprehensive product support strategy for the weapon system;".
+
+Subsec. (c)(2)(B). Pub. L. 116–283, §802(a)(6)(B), substituted "ensure the life cycle sustainment plan is informed by" for "use".
+
+Subsec. (c)(2)(C). Pub. L. 116–283, §802(a)(6)(C), inserted "and life cycle sustainment plan" after "product support strategy".
+
+Subsec. (c)(5). Pub. L. 116–283, §1848(d)(2), which directed amendment of subsec. (c)(5) by substituting "section 3041(c)(1)" for "section 2302d(a)", could not be executed because of the intervening amendments by Pub. L. 116–283, §802(a)(4), (7)(A). See notes below.
+
+Subsec. (d). Pub. L. 116–283, §802(a)(4), redesignated subsec. (c) as (d).
+
+Subsec. (d)(5). Pub. L. 116–283, §802(a)(7)(A), amended par. (5) generally. Prior to amendment, par. (5) defined "major weapon system".
+
+Subsec. (d)(5)(A). Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2430", which was redesignated as multiple sections.
+
+Subsec. (d)(5)(B). Pub. L. 116–283, §1883(b)(2), substituted "section 4201(a)(2)" for "section 2430(a)(1)(B)".
+
+Subsec. (d)(6). Pub. L. 116–283, §1883(b)(2), substituted "section 4172(e)(7)" for "section 2366(e)(7)".
+
+Pub. L. 116–283, §802(a)(7)(B), added par. (6).
+
+Subsec. (d)(7). Pub. L. 116–283, §1883(b)(2), substituted "section 4211(e)(3)" for "section 2431a(e)(5)".
+
+Pub. L. 116–283, §802(a)(7)(B), added par. (7).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1848(d)(1), (2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> Probably refers to section 4201 of this title, but amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as section 2430 was transferred to multiple sections.</i>
+

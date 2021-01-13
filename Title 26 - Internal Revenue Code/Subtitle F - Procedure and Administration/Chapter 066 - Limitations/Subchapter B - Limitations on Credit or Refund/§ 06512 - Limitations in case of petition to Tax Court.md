@@ -20,7 +20,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 #### (1) Jurisdiction to determine
 
-&emsp;Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, when the decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
+&emsp;Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, whenthe decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
 
 #### (2) Jurisdiction to enforce
 
@@ -78,7 +78,7 @@ Subsec. (b)(4). Pub. L. 105–34, §1451(b), added par. (4).
 
 Pub. L. 100–647, §6246(b)(1), inserted "(or 7481(c) with respect to a determination of statutory interest)" after "section 6213(a)".
 
-Pub. L. 100–418, §1941(b)(2)(J), substituted "or of tax imposed by chapter 41" for "of tax imposed by chapter 41" and struck out ", or of tax imposed by chapter 45 for the same taxable period" after "to which such petition relates".
+Pub. L. 100–418, §1941(b)(2)(J), substituted "or of tax imposed by chapter 41" for "of tax imposed by chapter41" and struck out ", or of tax imposed by chapter 45 for the same taxable period" after "to which such petition relates".
 
 Subsec. (b)(1). Pub. L. 100–647, §6244(a), substituted "paragraph (3)" for "paragraph (2)".
 
@@ -156,7 +156,7 @@ Amendment by section 1307(d)(2)(F)(vii) of Pub. L. 94–455 applicable to taxabl
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan yearsbeginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1970 Amendment
 

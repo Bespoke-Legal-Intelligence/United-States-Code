@@ -18,7 +18,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (2) Limitations on authorization of appropriations
 
-&emsp;For payment by the Secretary of the Treasury of the subscription of the United States for shares described in paragraph (1), there are authorized to be appropriated $1,500,000,000 ($225,000,000 of which may be used for paid-in capital and $1,275,000,000 of which may be used for callable capital) without fiscal year limitation.
+&emsp;For payment by the Secretary of the Treasury of the subscription of the United States for shares described in paragraph (1), there are authorized to be appropriated $1,500,000,000\($225,000,000 of which may be used for paid-in capital and $1,275,000,000 of which may be used for callable capital) without fiscal year limitation.
 
 #### (3) Funding; limitation on callable capital subscriptions
 
@@ -72,7 +72,9 @@ For the purpose of any civil action which may be brought within the United State
 
 &emsp;The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
-(Pub. L. 103–182, title V, §541, Dec. 8, 1993, 107 Stat. 2165.)
+(Pub. L. 103–182, title V, §541, Dec. 8, 1993, 107 Stat. 2165; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,4 +83,16 @@ This subchapter, referred to in subsec. (a), was in the original "this part" mea
 #### Codification
 
 Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of section 541 amended section 24 of Title 12, Banks and Banking.
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
+
+Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of Title 19, Customs Duties.
 

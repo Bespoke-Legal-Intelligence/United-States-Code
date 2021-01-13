@@ -42,7 +42,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (A) In general
 
-&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback,such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -128,7 +128,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### (4) Treatment of payments
 
-&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
+&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
 
 #### (k) No interest on certain adjustments
 
@@ -176,7 +176,7 @@ Pub. L. 105–34, §501(e), redesignated par. (3) as (4).
 
 Subsec. (e)(3). Pub. L. 104–168, §303(a), substituted "specified period" for "10 days" in heading and amended text generally. Prior to amendment, text read as follows: "If notice and demand is made for payment of any amount, and if such amount is paid within 10 days after the date of such notice and demand interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand."
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 struck out "or 6158(a)" after "6156(a)" in introductory provisions, struck out "or 6158(a), as the case may be" after "6156(a)" in subpar. (A), and struck out at end "For purposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment."
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 struck out "or 6158(a)" after "6156(a)" in introductory provisions, struck out "or 6158(a), as the case may be" after "6156(a)" in subpar. (A), and struck out at end "Forpurposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment."
 
 <b>1989</b>—Subsec. (e)(2). Pub. L. 101–239 substituted "section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68" for "section 6651(a)(1), 6653, 6659, 6660, or 6661" in subpars. (A) and (B).
 
@@ -342,7 +342,7 @@ Effective date.—The amendment made by subsection (a) \[amending this section\]
 
 "(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including resjudicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
 
 #### Effective Date of 1984 Amendment
 
@@ -352,7 +352,7 @@ Amendment by section 211(b)(26) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 412(b)(7) of Pub. L. 98–369 applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as a note under section 6654 of this title.
 
-Amendment by section 714(n)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 714(n)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equityand Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -430,13 +430,13 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: "The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: "The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;"(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 

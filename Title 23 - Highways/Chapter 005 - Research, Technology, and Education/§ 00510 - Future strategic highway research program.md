@@ -92,7 +92,7 @@ Limitation of Remedies.—
 
 &emsp;(1)
 
-Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission by employees and individuals described in paragraph (3) arising from activities conducted under or in connection with this section. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of title 28.
+Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission by employees and individuals described in paragraph (3) arising from activities conducted under or in connection with thissection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of title 28.
 
 &emsp;(2)
 
@@ -111,6 +111,8 @@ Sources of payments.—Payment of any award, compromise, or settlement of a civi
 Implementation.—Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
 
 (Added Pub. L. 109–59, title V, §5210(a), Aug. 10, 2005, 119 Stat. 1801; amended Pub. L. 111–322, title II, §2203(d), Dec. 22, 2010, 124 Stat. 3526.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) Making grants to public and nonprofit private entities for the conduct of research on identifying effective strategies for preventing such violence.
 
-&emsp;(4) Providing to the public information and education on such violence, including information and education to increase awareness of the public health consequences of such violence.
+&emsp;(4) Providing to the public information and education on such violence, including information and education to increase awareness ofthe public health consequences of such violence.
 
 &emsp;(5) Training health care providers as follows:
 

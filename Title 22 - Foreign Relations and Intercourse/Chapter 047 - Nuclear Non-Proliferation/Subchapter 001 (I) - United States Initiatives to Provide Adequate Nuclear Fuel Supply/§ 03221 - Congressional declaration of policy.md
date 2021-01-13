@@ -4,7 +4,9 @@ The United States, as a matter of national policy, shall take such actions and i
 
 (Pub. L. 95–242, title I, §101, Mar. 10, 1978, 92 Stat. 121.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for thepromulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 

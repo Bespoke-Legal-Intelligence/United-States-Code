@@ -10,6 +10,8 @@
 
 Based on 44 U.S. Code, 1964 ed., §398 (June 30, 1949, ch. 288, title V, §508, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–187, §9(e)(1), substituted "the duties" for "their respective duties" and struck out "and the Administrator" after "the Archivist" and "each" before "obtain reports".
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 113–187, §9(e)(2), struck out "either" after "When", str
 <b>1984</b>—Pub. L. 98–497, §107(a)(8), amended section generally, inserting reference to Archivist and striking out reference to chapter 27 of this title.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–575 inserted reference to chapter 33 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

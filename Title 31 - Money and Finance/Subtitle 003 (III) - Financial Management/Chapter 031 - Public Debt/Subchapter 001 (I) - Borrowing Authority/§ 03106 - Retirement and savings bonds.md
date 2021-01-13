@@ -54,6 +54,8 @@ Act
 
 Sept. 3, 1982, Pub. L. 97–248, §289(a)(2), 96 Stat. 571.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".

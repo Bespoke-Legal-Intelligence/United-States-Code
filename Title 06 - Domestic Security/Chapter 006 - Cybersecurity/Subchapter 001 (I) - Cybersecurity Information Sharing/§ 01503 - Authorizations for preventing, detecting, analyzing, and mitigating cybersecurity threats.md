@@ -50,7 +50,7 @@
 
 #### (2) Lawful restriction
 
-&emsp;A non-Federal entity receiving a cyber threat indicator or defensive measure from another non-Federal entity or a Federal entity shall comply with otherwise lawful restrictions placed on the sharing or use of such cyber threat indicator or defensive measure bythe sharing non-Federal entity or Federal entity.
+&emsp;A non-Federal entity receiving a cyber threat indicator or defensive measure from another non-Federal entity or a Federal entity shall comply with otherwise lawful restrictions placed on the sharing or use of such cyber threat indicator or defensive measure by the sharing non-Federal entity or Federal entity.
 
 #### (3) Construction
 

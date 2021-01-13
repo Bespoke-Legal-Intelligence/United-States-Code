@@ -26,7 +26,7 @@ If the Board of Governors determines that a bank holding company with total cons
 
 #### (3) Decision
 
-&emsp;Not later than 60 days after the date of a hearing under paragraph (2), or not later than 60 days after the provision of a notice under paragraph (1) if no hearing was held, the Board of Governors shall notify the company of the final decision of the Board of Governors, including the results of the vote of the Council, as described in subsection (a).
+&emsp;Not later than 60 days after the date of a hearing under paragraph (2), or not later than60 days after the provision of a notice under paragraph (1) if no hearing was held, the Board of Governors shall notify the company of the final decision of the Board of Governors, including the results of the vote of the Council, as described in subsection (a).
 
 #### (c) Factors for consideration
 
@@ -42,9 +42,13 @@ The Board of Governors may prescribe regulations regarding the application of th
 
 (Pub. L. 111–203, title I, §121, July 21, 2010, 124 Stat. 1410; Pub. L. 115–174, title IV, §401(c)(1)(C), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–174 substituted "$250,000,000,000" for "$50,000,000,000" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

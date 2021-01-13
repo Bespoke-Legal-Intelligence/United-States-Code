@@ -6,6 +6,8 @@
 
 (Pub. L. 87–293, title I, §2, Sept. 22, 1961, 75 Stat. 612; Pub. L. 95–331, §2, Aug. 2, 1978, 92 Stat. 414; Pub. L. 99–83, title XI, §1102(a), Aug. 8, 1985, 99 Stat. 272.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -15,6 +17,8 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 <b>1985</b>—Pub. L. 99–83 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–331 inserted "particularly in meeting the basic needs of those living in the poorest areas of such countries" after "manpower".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 
@@ -52,6 +56,8 @@ In General.—Effective on the date of enactment of this Act \[July 26, 2001\], 
 
 References.—Any reference before the date of enactment of this Act \[July 26, 2001\] in any law, regulation, order, document, record, or other paper of the United States to the headquarters or headquarters offices of the Peace Corps shall, on and after such date, be considered to refer to the Paul D. Coverdell Peace Corps Headquarters."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 10924
 
 Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the Peace Corps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
@@ -66,7 +72,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769;Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, §1, Apr. 8, 2016, 81 F.R. 22021, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, §1, Apr. 8, 2016, 81 F.R. 22021, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -82,7 +88,7 @@ Peace Corps
 
 1–104. The function of determining the portion of living allowances constituting basic compensation, conferred upon the President by Section 201(a) of Public Law 87–293 (26 U.S.C. 912(3)), is hereby delegated to the Director and shall be performed in consultation with the Secretary of the Treasury.
 
-1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
+1–105. The functions of prescribing regulations and making determinations (relating to appointment ofPeace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
 1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
@@ -140,7 +146,7 @@ National Voluntary Action Program
 
 Director of ACTION
 
-1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Actof 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
+1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Act of 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
 
 (a) Encourage local, national and international voluntary activities directed toward the solution or mitigation of community problems.
 
@@ -156,7 +162,7 @@ Director of ACTION
 
 1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans, and programs of that department or agency affecting voluntary action programs.
 
-1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
+1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State,the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
 
 #### 1–7.
 

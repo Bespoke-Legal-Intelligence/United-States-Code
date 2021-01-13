@@ -46,7 +46,7 @@ Pub. L. 91–524, title IV, §402(a), formerly §402, Nov. 30, 1970, 84 Stat. 13
 
 #### Effective and Termination Dates of 1965 Amendment
 
-Pub. L. 89–321, title V, §502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
+Pub. L. 89–321, title V, §502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
 
 Pub. L. 89–321, title V, §503, Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 503 of Pub. L. 89–321 is effective beginning with the 1970 crop.
 

@@ -138,7 +138,7 @@ Mar. 4, 1907, ch. 2918, §1(3d par. under heading "United States Courts"), 34 St
 
 In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a)(1), the words "of the United States" and "and the Secretary of the Senate shall render his accounts as otherwise provided" in 31:497 are omitted as unnecessary. The words "Except as otherwise provided" in 31:496 are omitted as unnecessary. The words "official or agent of the United States Government" are substituted for "officer or agent of the United States" for consistency in the revised title and withother titles of the United States Code. The word "pay" is substituted for "salary, pay, or emolument" for consistency and to eliminate unnecessary words.
+In subsection (a)(1), the words "of the United States" and "and the Secretary of the Senate shall render his accounts as otherwise provided" in 31:497 are omitted as unnecessary. The words "Except as otherwise provided" in 31:496 are omitted as unnecessary. The words "official or agent of the United States Government" are substituted for "officer or agent of the United States" for consistency in the revised title and with other titles of the United States Code. The word "pay" is substituted for "salary, pay, or emolument" for consistency and to eliminate unnecessary words.
 
 In subsection (a)(2), the words "official or agent of the Government" are substituted for "officers, agents, or other persons" for consistency in the revised title and with other titles of the Code. The word "distinct" is omitted as surplus. The word "received" is substituted for "application" for consistency in the revised title.
 

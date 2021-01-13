@@ -74,7 +74,7 @@ The President may delay the imposition of sanctions under subsection (a) with re
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 120 days after the date on which the President submits a certification described in paragraph (1) with respect to the waiver of the application of sanctions with respect to a person under this section, and annually thereafter for two years, the Secretary of State and the Secretary of Defense shall jointly submit to the appropriate congressional committees and the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the waiver.
+&emsp;&emsp;Not later than 120 days after the date on which the President submits a certification described in paragraph (1) with respect to the waiver of the application of sanctions with respect to a person under this section, and annually thereafter for two years, theSecretary of State and the Secretary of Defense shall jointly submit to the appropriate congressional committees and the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the waiver.
 
 #### (B) Matters to be included
 
@@ -94,6 +94,8 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 (Pub. L. 115–44, title II, §231, Aug. 2, 2017, 131 Stat. 916; Pub. L. 115–232, div. A, title XII, §1294(a), Aug. 13, 2018, 132 Stat. 2085.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1)(B), was in the original "this title", meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under section 9501 of this title and Tables.
@@ -102,13 +104,77 @@ This chapter, referred to in subsec. (b)(1)(B), was in the original "this title"
 
 <b>2018</b>—Subsecs. (d) to (f). Pub. L. 115–232 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction
 
 Pub. L. 115–232, div. A, title XII, §1294(b), Aug. 13, 2018, 132 Stat. 2087, provided that: "Nothing in subsection (d) of section 231 of the Countering America's Adversaries Through Sanctions Act (Public Law 115–44; 22 U.S.C. 9525), as added by subsection (a) of this section, shall be construed to modify, waive, or terminate any existing sanctions with respect to the Russian Federation, including any Russian person or entity, that are in effect on the date of the enactment of this Act \[Aug. 13, 2018\]."
 
+#### Determination and Imposition of Sanctions With Respect to Turkey's Acquisition of the S–400 Air Defense System
+
+Pub. L. 116–283, div. A, title XII, §1241, Jan. 1, 2021, 134 Stat. 3944, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that it is in the national security interest of the United States—
+
+&emsp;"(1) to deter aggression against North Atlantic Treaty Organization (NATO) allies by the Russian Federation or any other adversary;
+
+&emsp;"(2) to continue to work with NATO allies to ensure they meet their alliance defense commitments, including through adequate and efficient investments in national defense;
+
+&emsp;"(3) to work to maintain and strengthen the democratic institutions and practices of all NATO allies, in accordance with the goals of Article 2 of the North Atlantic Treaty;
+
+&emsp;"(4) to ensure that Turkey remains a critical NATO ally and important military partner for the United States, contributing to key NATO and United States missions and providing support for United States military operations and logistics needs;
+
+&emsp;"(5) to assist NATO allies in acquiring and deploying modern, NATO-interoperable military equipment and reducing their dependence on Russian or former Soviet-era defense articles;
+
+&emsp;"(6) to promote opportunities to strengthen the capacity of NATO member states to counter Russian malign influence; and
+
+&emsp;"(7) to enforce fully the Countering America's Adversaries Through Sanctions Act (22 U.S.C. 9401 et seq.), including by imposing sanctions with respect to any person that the President determines knowingly engages in a significant transaction with a person that is part of, or operates for or on behalf of, the defense or intelligence sectors of the Government of the Russian Federation, as described in section 231 of that Act (22 U.S.C. 9525).
+
+"(b)
+
+Determination.—The acquisition by the Government of Turkey of the S–400 air defense system from the Russian Federation beginning on July 12, 2019, constitutes a significant transaction as described in section 231 of the Countering America's Adversaries Through Sanctions Act (22 U.S.C. 9525).
+
+"(c)
+
+Imposition of Sanctions.—Not later than 30 days after the date of the enactment of this Act \[Jan. 1, 2021\], the President shall impose five or more of the sanctions described in section 235 of the Countering America's Adversaries Through Sanctions Act (22 U.S.C. 9529) with respect to each person that knowingly engaged in the acquisition of the S-400 air defense system referred to in subsection (b).
+
+"(d)
+
+Exception Relating to Importation of Goods.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of this section, the authorities and requirements to impose sanctions under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+
+&emsp;"(2)
+
+Good defined.—In this subsection, the term 'good' means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+
+"(e)
+
+Termination.—On and after the date that is one year after the date on which the President imposes sanctions under subsection (c) with respect to a person, the President may terminate the application of such sanctions with respect to that person if the President submits to the appropriate congressional committees a certification that—
+
+&emsp;"(1) the Government of Turkey and any person acting on its behalf no longer possesses the S–400 air defense system or a successor system;
+
+&emsp;"(2) no S-400 air defense system or successor system is operated or maintained inside Turkey by nationalsof the Russian Federation or persons acting on behalf of the Government of the Russian Federation or the defense sector of the Russian Federation; and
+
+&emsp;"(3) the President has received reliable assurances from the Government of Turkey that the Government of Turkey will not knowingly engage, or allow any foreign person to engage on its behalf, in pursuing any activity subject to sanctions under section 231 of the Countering America's Adversaries Through Sanctions Act (22 U.S.C. 9525) to reacquire the S-400 air defense system or a successor system.
+
+"(f)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+
+&emsp;"(2) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives."
+
 #### Exception Relating to Importation of Goods
 
 Pub. L. 115–232, div. A, title XII, §1294(d), Aug. 13, 2018, 132 Stat. 2088, provided that: "No provision affecting sanctions under this section \[amending this section and enacting provisions set out as notes under this section\] or an amendment made by this section shall apply to any portion of a sanction that affects the importation of goods."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authorities Under Section 1294 of the National Defense Authorization Act for Fiscal Year 2019
 

@@ -32,6 +32,8 @@ The remaining provisions of section 121 of title 18, U.S.C., 1940 ed., relating 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
@@ -52,11 +54,13 @@ Pub. L. 99–508 designated first and second pars. as subsecs. (a) and (b), resp
 
 Pub. L. 98–473, §1103(b), inserted paragraph relating to the penalties for warning the subject of a search.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to courtorder or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 

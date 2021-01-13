@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide technical assistance, interpretation, and educational programs in the historic sites and districts described in paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;&emsp;(II) subject to the availability of appropriations and clauses (ii) and (iii), toprovide not more than 50 percent of the cost of any natural, historic, or cultural resource protection project in the Park that is consistent with the general management plan prepared under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(II) subject to the availability of appropriations and clauses (ii) and (iii), to provide not more than 50 percent of the cost of any natural, historic, or cultural resource protection project in the Park that is consistent with the general management plan prepared under subparagraph (B).
 
 #### (ii) Matching requirement
 

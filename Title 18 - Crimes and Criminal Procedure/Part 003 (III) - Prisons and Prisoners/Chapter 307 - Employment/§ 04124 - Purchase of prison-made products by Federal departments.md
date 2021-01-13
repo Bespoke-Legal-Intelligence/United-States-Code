@@ -20,6 +20,8 @@ Reference to authority for appropriations was omitted and words "by this chapter
 
 The word "agencies" was substituted for "independent establishments" to avoid any possibility of ambiguity. See definition of "agency" in section 6 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
@@ -38,6 +40,8 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 <b>1951</b>—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Director of the Bureau of Federal Supply, Department of the Treasury" in second par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Agency Purchase of Federal Prison Industries Products or Services
 
 Pub. L. 108–447, div. H, title VI, §637, Dec. 8, 2004, 118 Stat. 3281, provided that: "None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act (\[former\] 41 U.S.C. 421(c)(1)) \[now 41 U.S.C. 1303(a)(1)\] that impose procedures, standards, and limitations of section 2410n of title 10, United States Code."
@@ -48,5 +52,5 @@ Pub. L. 108–199, div. F, title VI, §637, Jan. 23, 2004, 118 Stat. 358.
 
 #### Purchases by Central Intelligence Agency of Products of Federal Prison Industries
 
-Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, §1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: "Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agencyfrom Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency."
+Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, §1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: "Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency."
 

@@ -8,7 +8,7 @@ Antiterrorism and Force Protection Guidance and Criteria.—The Secretary of Def
 
 &emsp;(2) to develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
 
-&emsp;(3) to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
+&emsp;(3) to prepare and carry out military construction projects, such as gate and fencelineconstruction, to improve the physical security of military installations; and
 
 &emsp;(4) to assist in prioritizing such projects within the military construction budget of each of the armed forces.
 
@@ -55,6 +55,22 @@ Subsec. (d). Pub. L. 109–364, §2808(a), added subsec. (d).
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. B, title XXVIII, §2808(c), Oct. 17, 2006, 120 Stat. 2470, provided that: "Subsection (d) \[now (c)\] of section 2859 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects described in such subsection (d) \[(c)\] for which funds are first provided for fiscal year 2007 or thereafter."
+
+#### Joint Strategy for Air Base Defense Against Missile Threats
+
+Pub. L. 116–283, div. A, title I, §156, Jan. 1, 2021, 134 Stat. 3447, provided that:
+
+"(a)
+
+Strategy Required.—The Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly develop and carry out a strategy to address the defense of air bases and prepositioned sites outside the continental United States against current and emerging missile threats, as validated by the Defense Intelligence Agency.
+
+"(b)
+
+Certification and Strategy.—Not later than June 1, 2021, the Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following:
+
+&emsp;"(1) A certification that the defense of air bases and prepositioned sites outside the continental United States against threats described in subsection (a) is being addressed jointly.
+
+&emsp;"(2) The strategy developed pursuant to subsection (a)."
 
 #### Special Requirement for 2006 Report
 

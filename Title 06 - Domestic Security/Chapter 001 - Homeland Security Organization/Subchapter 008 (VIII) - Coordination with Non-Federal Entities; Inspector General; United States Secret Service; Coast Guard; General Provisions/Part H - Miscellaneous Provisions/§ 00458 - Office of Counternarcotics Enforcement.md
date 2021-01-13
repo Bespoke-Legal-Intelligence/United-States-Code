@@ -40,7 +40,7 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 #### (1) Annual budget review
 
-&emsp;The Director of the Office of Counternarcotics Enforcement shall, not later than 30 days after the submission by the President to Congress of any request for expenditures for the Department, submit to the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate a review and evaluation of such request. The review and evaluation shall—
+&emsp;The Director of the Office of Counternarcotics Enforcement shall, not later than 30days after the submission by the President to Congress of any request for expenditures for the Department, submit to the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate a review and evaluation of such request. The review and evaluation shall—
 
 &emsp;&emsp;(A) identify any request or subpart of any request that affects or may affect the counternarcotics activities of the Department or any of its subdivisions, or that affects the ability of the Department or any subdivision of the Department to meet its responsibility to stop the entry of illegal drugs into the United States;
 
@@ -66,6 +66,8 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 (Pub. L. 107–296, title VIII, §878, Nov. 25, 2002, 116 Stat. 2245; Pub. L. 108–458, title VII, §7407(a), Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–469, title I, §103(f)(2), Dec. 29, 2006, 120 Stat. 3510; Pub. L. 112–166, §2(f)(3), Aug. 10, 2012, 126 Stat. 1284.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Directorate of Border and Transportation Security, referred to in subsection (e), was abolished by section 802(g)(2) of Pub. L. 114–125, which repealed section 201 of this title. Section 211(a) of this title established U.S. Customs and Border Protection.
@@ -83,6 +85,8 @@ Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e
 &emsp;"(1) ensure the adequacy of resources within the Department for illicit drug interdiction; and
 
 &emsp;"(2) serve as the United States Interdiction Coordinator for the Director of National Drug Control Policy."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -28,7 +28,7 @@ Standard for Approval.—The Board shall approve and authorize a transaction und
 
 (c)
 
-Determination of Completeness of Application.—Within 30 days after the date on which an application is filed under this section, the Board shall either publish a notice of the application in the Federal Register or reject the application if it is incomplete.
+Determination of Completeness of Application.—Within 30 days after the date on which an application is filed under this section, theBoard shall either publish a notice of the application in the Federal Register or reject the application if it is incomplete.
 
 (d)
 

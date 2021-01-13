@@ -12,7 +12,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks, and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
+&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks,and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
 
 #### (B) Medical treatments, services, and items described
 
@@ -128,7 +128,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (F) Consideration of full range of outcomes data
 
-&emsp;&emsp;Research shall be designed, as appropriate, to take into account and capture the fullrange of clinical and patient-centered outcomes relevant to, and that meet the needs of, patients, clinicians, purchasers, and policy-makers in making informed health decisions. In addition to the relative health outcomes and clinical effectiveness, clinical and patient-centered outcomes shall include the potential burdens and economic impacts of the utilization of medical treatments, items, and services on different stakeholders and decision-makers respectively. These potential burdens and economic impacts include medical out-of-pocket costs, including health plan benefit and formulary design, non-medical costs to the patient and family, including caregiving, effects on future costs of care, workplace productivity and absenteeism, and healthcare utilization.
+&emsp;&emsp;Research shall be designed, as appropriate, to take into account and capture the full range of clinical and patient-centered outcomes relevant to, and that meet the needs of, patients, clinicians, purchasers, and policy-makers in making informed health decisions. In addition to the relative health outcomes and clinical effectiveness, clinical and patient-centered outcomes shall include the potential burdens and economic impacts ofthe utilization of medical treatments, items, and services on different stakeholders and decision-makers respectively. These potential burdens and economic impacts include medical out-of-pocket costs, including health plan benefit and formulary design, non-medical costs to the patient and family, including caregiving, effects on future costs of care, workplace productivity and absenteeism, and healthcare utilization.
 
 #### (3) Data collection
 
@@ -178,7 +178,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
-&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup>shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
+&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updatingsuch standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
 &emsp;&emsp;&emsp;(ii) A translation table that is designed to provide guidance and act as a reference for the Board to determine research methods that are most likely to address each specific research question.
 
@@ -242,7 +242,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;The Institute shall submit an annual report to Congress and the President, and shall make the annual report available to the public. Such report shall contain—
 
-&emsp;&emsp;(A) a description of the activities conducted under this section, research priorities identified under paragraph (1)(A) and methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i) that are adopted under paragraph (9) during the preceding year;
+&emsp;&emsp;(A) a description of the activities conducted under this section, research priorities identified under paragraph (1)(A) and methodological standards developed and updatedby the methodology committee under paragraph (6)(C)(i) that are adopted under paragraph (9) during the preceding year;
 
 &emsp;&emsp;(B) the research project agenda and budget of the Institute for the following year;
 
@@ -308,7 +308,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (7) Meetings and hearings
 
-&emsp;The Board shall meet and hold hearings at the call of the Chairperson or a majority of itsmembers. Meetings not solely concerning matters of personnel shall be advertised at least 7 days in advance and open to the public. A majority of the Board members shall constitute a quorum, but a lesser number of members may meet and hold hearings.
+&emsp;The Board shall meet and hold hearings at the call of the Chairperson or a majority of its members. Meetings not solely concerning matters of personnel shall be advertised at least 7 days in advance and open to the public. A majority of the Board members shall constitute a quorum, but a lesser number of members may meet and hold hearings.
 
 #### (g) Financial and governmental oversight
 
@@ -362,7 +362,7 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 &emsp;&emsp;(A) Information contained in research findings as specified in subsection (d)(9).
 
-&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>7</sup> concurrent with the release of research findings.
+&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>5</sup> concurrent with the release of research findings.
 
 &emsp;&emsp;(C) Notice of public comment periods under paragraph (1), including deadlines for public comments.
 
@@ -388,11 +388,11 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 #### (i) Rules
 
-The Institute,<sup>7</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>8</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
+The Institute,<sup>5</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>7</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
 
 #### (j) Rules of construction
 
-#### (1) <sup>9</sup> Coverage
+#### (1) <sup>8</sup> Coverage
 
 &emsp;Nothing in this section shall be construed—
 
@@ -424,7 +424,7 @@ Subsec. (f)(1)(C)(iii). Pub. L. 116–94, §104(f)(1)(A)(ii), substituted "at le
 
 Subsec. (f)(3). Pub. L. 116–94, §104(f)(2), in first sentence, substituted "members" for "the members" and inserted "to the extent necessary to preserve the evenly staggered terms of the Board." before the period at end of first sentence, and inserted "Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of that term and thereafter may be eligible for reappointment to a full term. A member may serve after the expiration of that member's term until a successor has been appointed." after first sentence.
 
-Subsec. (g)(2)(A)(iv). Pub. L. 116–94, §104(h)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: "Not less frequently than every 5 years, the overall effectiveness of activities conducted under this section and the dissemination, training, and capacity building activities conducted under section 937 of thePublic Health Service Act. Such review shall include an analysis of the extent to which research findings are used by health care decision-makers, the effect of the dissemination of such findings on reducing practice variation and disparities in health care, and the effect of the research conducted and disseminated on innovation and the health care economy of the United States."
+Subsec. (g)(2)(A)(iv). Pub. L. 116–94, §104(h)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: "Not less frequently than every 5 years, the overall effectiveness of activities conducted under this section and the dissemination, training, and capacity building activities conducted under section 937 of the Public Health Service Act. Such review shall include an analysis of the extent to which research findings are used by health care decision-makers, the effect of the dissemination of such findings on reducing practice variation and disparities in health care, and the effect of the research conducted and disseminated on innovation and the health care economy of the United States."
 
 Subsec. (g)(2)(A)(vi). Pub. L. 116–94, §104(h)(2), added cl. (vi).
 
@@ -452,9 +452,7 @@ Subsec. (f)(1)(C)(ii). Pub. L. 111–148, §10602(3), amended cl. (ii) generally
 
 <i><sup>6</sup></i><i> So in original. Probably should be "conducting".</i>
 
-<i><sup>7</sup></i><i> So in original.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "bequests".</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be "bequests".</i>
-
-<i><sup>9</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>8</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

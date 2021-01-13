@@ -304,6 +304,8 @@ In this section—
 
 (Pub. L. 87–195, pt. I, §136, formerly §135, as added Pub. L. 109–121, §5(a), Dec. 1, 2005, 119 Stat. 2536; amended Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; renumbered §136 and amended Pub. L. 113–289, §§3–6(a), Dec. 19, 2014, 128 Stat. 3283–3288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Peace Act, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
@@ -323,6 +325,8 @@ Subsecs. (f) to (i). Pub. L. 113–289, §5, added subsecs. (f) to (i).
 Subsecs. (j), (k). Pub. L. 113–289, §6(a), added subsecs. (j) and (k).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -414,7 +418,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, as amended by Pub. L. 113–289
 
 &emsp;"(6) to promote country and local ownership of safe water and sanitation programs, to the extent appropriate;
 
-&emsp;"(7) to promote community-based approaches in the provision of affordable and equitable access to safe water and sanitation, including the involvement of civil society;
+&emsp;"(7) to promote community-based approaches in the provision of affordable and equitable access to safewater and sanitation, including the involvement of civil society;
 
 &emsp;"(8) to mobilize and leverage the financial and technical capacity of businesses, governments, nongovernmental organizations, and civil society in the form of public-private alliances;
 

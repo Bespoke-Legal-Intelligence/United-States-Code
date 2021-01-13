@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (3) <sup>1</sup> Partnership property
 
-&emsp;For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, such controlled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation's distributive share of the aggregate of the partnership's adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
+&emsp;For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, suchcontrolled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation's distributive share of the aggregate of the partnership's adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
 
 &emsp;&emsp;(A) is used in the trade or business of the partnership,
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (2) Allocation of global intangible low-taxed income to controlled foreign corporations
 
-&emsp;For purposes of the sections referred to in paragraph (1), with respect to any controlledforeign corporation any pro rata amount from which is taken into account in determining the global intangible low-taxed income included in gross income of a United States shareholder under subsection (a), the portion of such global intangible low-taxed income which is treated as being with respect to such controlled foreign corporation is—
+&emsp;For purposes of the sections referred to in paragraph (1), with respect to any controlled foreign corporation any pro rata amount from which is taken into account in determining the global intangible low-taxed income included in gross income of a United States shareholder under subsection (a), the portion of such global intangible low-taxed income which is treated as being with respect to such controlled foreign corporation is—
 
 &emsp;&emsp;(A) in the case of a controlled foreign corporation with no tested income, zero, and
 

@@ -78,7 +78,9 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, §2(b), Jan. 3, 2019, 132 Stat. 5440.)
+(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39;Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, §2(b), Jan. 3, 2019, 132 Stat. 5440.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -111,6 +113,8 @@ Subsec. (d). Pub. L. 110–81, §203(a), added subsec. (d).
 Subsec. (e). Pub. L. 110–81, §205, added subsec. (e).
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: "A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

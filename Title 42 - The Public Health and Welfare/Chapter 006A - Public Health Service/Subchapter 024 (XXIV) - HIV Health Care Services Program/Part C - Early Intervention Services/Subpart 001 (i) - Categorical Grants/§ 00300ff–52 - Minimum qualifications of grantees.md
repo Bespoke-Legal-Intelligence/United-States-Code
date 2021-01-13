@@ -22,7 +22,7 @@
 
 #### (2) Underserved populations
 
-&emsp;Entities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-incomepopulations, inner city populations, and rural populations.
+&emsp;Entities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-income populations, inner city populations, and rural populations.
 
 #### (b) Status as medicaid provider
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, rawmaterials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) "new value" means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-(b) Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+(b) Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 &emsp;(1) to or for the benefit of a creditor;
 
@@ -112,7 +112,57 @@
 
 (i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, §3(a), Aug. 23, 2019, 133 Stat. 1085.)
+(j)(1) In this subsection:
+
+&emsp;(A) The term "covered payment of rental arrearages" means a payment of arrearages that—
+
+&emsp;&emsp;(i) is made in connection with an agreement or arrangement—
+
+&emsp;&emsp;&emsp;(I) between the debtor and a lessor to defer or postpone the payment of rent andother periodic charges under a lease of nonresidential real property; and
+
+&emsp;&emsp;&emsp;(II) made or entered into on or after March 13, 2020;
+
+&emsp;&emsp;(ii) does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before March 13, 2020; and
+
+&emsp;&emsp;(iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+&emsp;&emsp;&emsp;(I) scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or
+
+&emsp;&emsp;&emsp;(II) that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before March 13, 2020.
+
+&emsp;(B) The term "covered payment of supplier arrearages" means a payment of arrearages that—
+
+&emsp;&emsp;(i) is made in connection with an agreement or arrangement—
+
+&emsp;&emsp;&emsp;(I) between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and
+
+&emsp;&emsp;&emsp;(II) made or entered into on or after March 13, 2020;
+
+&emsp;&emsp;(ii) does not exceed the amount due under the executory contract described in clause (i)(I) before March 13, 2020; and
+
+&emsp;&emsp;(iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+&emsp;&emsp;&emsp;(I) scheduled to be paid under the executory contract described in clause (i)(I); or
+
+&emsp;&emsp;&emsp;(II) that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before March 13, 2020.
+
+&emsp;(2) The trustee may not avoid a transfer under this section for—
+
+&emsp;&emsp;(A) a covered payment of rental arrearages; or
+
+&emsp;&emsp;(B) a covered payment of supplier arrearages.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, §3(a), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–260, div. FF, title X, §1001(g)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219, 3220.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that, effective on the date that is 2 years after Dec. 27, 2020, this section is amended:</i>
+
+<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking ", (i), and (j)" and inserting "and (i)"; and</i>
+
+<i>(2) by striking subsection (j).</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -138,7 +188,7 @@ This section is a substantial modification of present law. It modernizes the pre
 
 Subsection (a) contains three definitions. Inventory, new value, and receivable are defined in their ordinary senses, but are defined to avoid any confusion or uncertainty surrounding the terms.
 
-Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by thedebtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
+Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of apreference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by the debtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
 
 Finally, the transfer must enable the creditor to whom or for whose benefit it was made to receive a greater percentage of his claim than he would receive under the distributive provisions of the bankruptcy code. Specifically, the creditor must receive more than he would if the case were a liquidation case, if the transfer had not been made, and if the creditor received payment of the debt to the extent provided by the provisions of the code.
 
@@ -170,7 +220,17 @@ Subsection (e) is designed to reach the different results under the 1962 version
 
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260, §1001(g)(2)(A)(i), substituted "and (i)" for ", (i), and (j)" in introductory provisions.
+
+Pub. L. 116–260, §1001(g)(1)(A), substituted ", (i), and (j)" for "and (i)" in introductory provisions.
+
+Subsec. (j). Pub. L. 116–260, §1001(g)(2)(A)(ii), struck out subsec. (j) which related to covered payments of rental and supplier arrearages.
+
+Pub. L. 116–260, §1001(g)(1)(B), added subsec. (j).
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–54 inserted ", based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c)," after "may" in introductory provisions.
 
@@ -240,6 +300,14 @@ Subsec. (e)(2)(C)(i). Pub. L. 98–353, §462(f), substituted "or" for "and".
 
 Subsec. (g). Pub. L. 98–353, §462(g), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title X, §1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that the amendment made by section 1001(g)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
+
+Pub. L. 116–260, div. FF, title X, §1001(g)(2)(B), Dec. 27, 2020, 134 Stat. 3221, provided that: "Notwithstanding the amendments made by subparagraph (A) \[amending this section\], the amendments made by paragraph (1) \[amending this section\] shall apply in any case commenced under title 11, United States Code, before the date that is 2 years after the date of enactment of this Act \[Dec. 27, 2020\]."
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
@@ -261,6 +329,8 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

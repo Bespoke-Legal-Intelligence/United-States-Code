@@ -60,7 +60,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;&emsp;(II) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-&emsp;&emsp;&emsp;(ii) The term "New START Treaty" means the Treaty between the UnitedStates of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
+&emsp;&emsp;&emsp;(ii) The term "New START Treaty" means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
 
 (b)
 
@@ -252,7 +252,7 @@ Implementation.—
 
 &emsp;"(2)
 
-Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treatyfor the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
+Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
 
 &emsp;"(3)
 

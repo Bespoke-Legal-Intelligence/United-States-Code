@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 June 6, 1924, ch. 270, §2(a)(2), as added July 19, 1952, ch. 949, §1, 66 Stat. 782; Pub. L. 93–198, title II, §203(a), Dec. 24, 1973, 87 Stat. 779.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–284 inserted "of this title" after "sections 5101 and 5102".

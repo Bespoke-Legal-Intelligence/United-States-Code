@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §61 (R.S. 4913, amended Mar. 2, 1927, ch. 
 
 Language is changed. The requirement that the Commissioner notify the parties is omitted and a requirement that the court notify the parties is added. The statement relating to filing the papers and testimony is made more explicit.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "142".
@@ -30,6 +32,8 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(d)\], amended third sentence 
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by section 7(c)(3) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of this title.
@@ -38,7 +42,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4605(d)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable toany patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4605(d)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

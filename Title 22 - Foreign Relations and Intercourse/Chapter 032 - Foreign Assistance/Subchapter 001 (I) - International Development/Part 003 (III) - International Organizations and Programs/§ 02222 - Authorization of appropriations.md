@@ -86,7 +86,9 @@ In addition to amounts otherwise available under this section, there is authoriz
 
 In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to be available for United States contributions to malaria vaccine development programs, including the Malaria Vaccine Initiative of the Program for Appropriate Technologies in Health (PATH).
 
-(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I, §118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub. L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266; Pub. L. 106–264, title I, §112(a), Aug. 19, 2000, 114 Stat. 753; Pub. L. 108–25, title II, §203, May 27, 2003, 117 Stat. 727; Pub. L. 110–293, title II, §201, July 30, 2008, 122 Stat. 2936; Pub. L. 111–117, div. F, title VII, §7034(q)(2), Dec. 16, 2009, 123 Stat. 3363.)
+(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I, §118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub.L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266; Pub. L. 106–264, title I, §112(a), Aug. 19, 2000, 114 Stat. 753; Pub. L. 108–25, title II, §203, May 27, 2003, 117 Stat. 727; Pub. L. 110–293, title II, §201, July 30, 2008, 122 Stat. 2936; Pub. L. 111–117, div. F, title VII, §7034(q)(2), Dec. 16, 2009, 123 Stat. 3363.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -138,7 +140,7 @@ Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to av
 
 Subsec. (h). Pub. L. 95–424, §604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 forfiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 <b>1976</b>—Subsec. (i). Pub. L. 94–329 added subsec. (i).
 
@@ -160,7 +162,7 @@ Subsecs. (g), (h). Pub. L. 93–559, §9(a)(2), added subsecs. (g) and (h).
 
 Subsec. (b)(2). Pub. L. 93–189, §9(3), substituted "for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000", for "for use in the fiscal year 1972, $15,000,000, and for use in the fiscal year 1973, $15,000,000".
 
-Subsec. (d). Pub. L. 93–189, §9(4), substituted provisions directing that out of the funds made available for carrying out this part $18,000,000 be available in each of fiscal years 1974 and 1975 for contributions to the United Nations Children's Fund, for provisions authorizing the appropriation of $1,000,000 for fiscal year 1969 for contributions to the United Nations Children's Fund during the calendar year 1969 and directing that funds made thus available be in addition to funds available under this chapter or any other Act for such contributions and not be taken into account in computing the aggregate amount of United States contributions to such fund for the calendar year 1969.
+Subsec. (d). Pub. L. 93–189, §9(4), substituted provisions directing that out of the funds made available for carrying out this part $18,000,000 be available in each of fiscal years 1974 and 1975 for contributions to the United Nations Children's Fund, for provisions authorizing the appropriation of $1,000,000 for fiscal year 1969 for contributions to the United Nations Children's Fund during the calendar year 1969 and directing that funds made thus available be in addition to funds available under this chapter or any other Act for such contributions and not be taken into account in computingthe aggregate amount of United States contributions to such fund for the calendar year 1969.
 
 Subsec. (e). Pub. L. 93–189, §9(5), substituted "$2,000,000 for the fiscal year 1974 and $2,000,000 for the fiscal year 1975", for "$1,000,000 for the fiscal year 1972 and $1,000,000 for the fiscal year 1973".
 
@@ -196,6 +198,8 @@ Subsec. (b). Pub. L. 90–137, §110(b)(2), substituted appropriation authorizat
 
 <b>1962</b>—Pub. L. 87–565 substituted "1963" and "$148,900,000" for "1962" and "$153,500,000", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -208,10 +212,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Report to Congress on Palestine Refugee Ration Distribution System
 
 Pub. L. 95–424, title I, §117(b)(2), Oct. 6, 1978, 92 Stat. 953, which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.
@@ -219,4 +219,10 @@ Pub. L. 95–424, title I, §117(b)(2), Oct. 6, 1978, 92 Stat. 953, which provid
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
 
 Pub. L. 95–424, title I, §117(e), Oct. 6, 1978, 92 Stat. 953, authorized, in addition to amounts otherwise available, expenditures to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed could not exceed 25 percent of the expenditures of such Assembly.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

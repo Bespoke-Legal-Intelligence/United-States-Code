@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Administration shall competitively select an organization to partner with Administration centers, aerospace contractors, and academic institutions to carry out a program to help promote the competitiveness ofsmall, minority-owned, and women-owned businesses in communities across the United States through enhanced insight into the technologies of the Administration's space and aeronautics programs. The program shall support the mission of the Administration's Innovative Partnerships Program with its emphasis on joint partnerships with industry, academia, government agencies, and national laboratories.
+Establishment.—The Administration shall competitively select an organization to partner with Administration centers, aerospace contractors, and academic institutions to carry out a program to help promote the competitiveness of small, minority-owned, and women-owned businesses in communities across the United States through enhanced insight into the technologies of the Administration's space and aeronautics programs. The program shall support the mission of the Administration's Innovative Partnerships Program with its emphasis on joint partnerships with industry, academia, government agencies, and national laboratories.
 
 (b)
 
@@ -49,6 +49,8 @@ Historical and Revision Notes
 Pub. L. 110–422, title XI, §1107, Oct. 15, 2008, 122 Stat. 4810.
 
 In subsection (c), in the matter before paragraph (1), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

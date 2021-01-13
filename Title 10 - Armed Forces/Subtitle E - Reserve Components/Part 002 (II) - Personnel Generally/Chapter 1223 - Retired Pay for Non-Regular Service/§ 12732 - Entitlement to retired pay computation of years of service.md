@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) A federally recognized status in the National Guard before June 15, 1933.
 
-&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the ArmyNational Guard of the United States, or the Air National Guard of the United States.
+&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
 
 &emsp;&emsp;(E) The Navy Reserve Force.
 
@@ -52,7 +52,15 @@
 
 &emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
-> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+&emsp;&emsp;(F)(i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to mattersconcerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
+
+&emsp;&emsp;(ii) A person may not be credited more than 35 points in a one-year period under this subparagraph.
+
+&emsp;&emsp;(iii) In this subparagraph, the term "covered emergency period" means the period beginning on March 1, 2020, and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.
+
+&emsp;&emsp;(G) Points at the rate of 12 per period during which the member is on maternity leave.
+
+> &emsp;For the purpose of clauses (A), (B), (C), (D), (E), (F), and (G), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -76,7 +84,7 @@
 
 &emsp;(8) Service in the screening performed pursuant to section 10149 of this title through electronic means, regardless of whether or not a stipend is paid the member concerned for such service under section 433a of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title VI, §633(c), Jan. 28, 2008, 122 Stat. 155.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title VI, §633(c), Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–283, div. A, title V, §516(a), title VI, §602(b)(4), Jan. 1, 2021, 134 Stat. 3589, 3671.)
 
 Historical and Revision Notes<br>1956
 
@@ -152,7 +160,7 @@ In subsection (a)(1)(A)–(F), the requirement that the service must have been s
 
 In subsection (a)(1)(A), the words "the armed forces" are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much of clause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
 
-In subsection (a)(1)(B)–(C), the words "June 15" are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
+In subsection (a)(1)(B)–(C), the words "June 15" are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established theNational Guard of the United States as a reserve component of the Army.
 
 In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
@@ -180,6 +188,14 @@ Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesign
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §602(b)(4)(B), substituted "(F), and (G)" for "and (F)" in concluding provisions.
+
+Pub. L. 116–283, §516(a)(2), substituted "(E), and (F)" for "and (E)" in concluding provisions.
+
+Subsec. (a)(2)(F). Pub. L. 116–283, §516(a)(1), added subpar. (F).
+
+Subsec. (a)(2)(G). Pub. L. 116–283, §602(b)(4)(A), added subpar. (G).
+
 <b>2008</b>—Subsec. (b)(8). Pub. L. 110–181 added par. (8).
 
 <b>2006</b>—Subsecs. (a)(1)(E), (b)(2). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
@@ -202,6 +218,10 @@ Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated form
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted "full-time service under" for "service under", and inserted reference to section 502 of this title in cl. (2)(A)(ii).
 
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title VI, §602(c), Jan. 1, 2021, 134 Stat. 3671, provided that: "This section \[amending this section, section 12733 of this title, and section 206 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Jan. 1, 2021\], and shall apply with respect to periods of maternity leave that commence on or after that date."
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -222,9 +242,25 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub
 
 Pub. L. 86–197, §3, Aug. 25, 1959, 73 Stat. 426, provided that: "This Act \[amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title\] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act \[Aug. 25, 1959\]."
 
+#### Credit for Retired Pay Purposes
+
+Pub. L. 116–283, div. A, title VI, §602(b)(1)–(3), Jan. 1, 2021, 134 Stat. 3670, 3671, provided that:
+
+"(1)
+
+In general.—The period of maternity leave taken by a member of the reserve components of the Armed Forces in connection with the birth of a child shall count toward the member's entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points.
+
+"(2)
+
+Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of maternity leave taken by the member in connection with a childbirth event.
+
+"(3)
+
+When credited.—Points credited a member for a period of maternity leave pursuant to this subsection shall be credited in the year in which the period of maternity leave concerned commences."
+
 #### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
 
-Section 531(b), (c) of Pub. L. 104–201 provided that:
+Pub. L. 104–201, div. A, title V, §531(b), (c), Sept. 23, 1996, 110 Stat. 2517, 2518, provided that:
 
 "(b)
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) assessment of the effects of seabased processing activities.
 
-> &emsp;Within 160 days after June 28, 1980, the Administrator shall prepare a plan to carry out theprogram described in this subsection, including necessary funding levels for the next five fiscal years, and shall submit the plan to the Congress.
+> &emsp;Within 160 days after June 28, 1980, the Administrator shall prepare a plan to carry out the program described in this subsection, including necessary funding levels for the next five fiscal years, and shall submit the plan to the Congress.
 
 #### (b) Terms, conditions, and restrictions
 
@@ -60,9 +60,13 @@ For the purposes of this chapter, any vessel or other floating craft engaged in 
 
 (Pub. L. 96–283, title I, §109, June 28, 1980, 94 Stat. 568.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

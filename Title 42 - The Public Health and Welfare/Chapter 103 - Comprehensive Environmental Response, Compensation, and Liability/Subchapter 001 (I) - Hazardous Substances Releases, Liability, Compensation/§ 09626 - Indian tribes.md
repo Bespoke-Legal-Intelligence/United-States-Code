@@ -10,7 +10,7 @@ Should the President determine that proper remedial action is the permanent relo
 
 #### (c) Study
 
-The President shall conduct a survey, in consultation with the Indian tribes, to determine the extent of hazardous waste sites on Indian lands. Such survey shall be included within a report which shall make recommendations on the program needs of tribes under this chapter, with particular emphasis on how tribal participation in the administration of such programs can be maximized. Such report shall be submitted to Congress along with the President's budget request for fiscal year 1988.
+The President shall conduct a survey, in consultation with the Indian tribes, to determine the extent of hazardous waste sites on Indian lands. Such survey shall be included within a report which shall make recommendations on the program needs of tribes under this chapter, with particular emphasis on how tribal participation in the administration of such programs can be maximized. Such report shall be submitted toCongress along with the President's budget request for fiscal year 1988.
 
 #### (d) Limitation
 

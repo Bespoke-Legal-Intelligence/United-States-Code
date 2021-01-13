@@ -28,9 +28,13 @@ In paragraph (2), the words "in respect to the execution of this act" are change
 
 Standard changes are made to conform with the definition applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted in opening par. "Office of Personnel Management, Merit Systems Protection Board, and Special Counsel" for "Civil Service Commission" and in par. (1) "Office of Personnel Management" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

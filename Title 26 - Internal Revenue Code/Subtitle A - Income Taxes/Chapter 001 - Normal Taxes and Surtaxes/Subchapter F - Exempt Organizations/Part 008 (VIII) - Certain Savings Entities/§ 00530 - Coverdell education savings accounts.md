@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
 
-&emsp;&emsp;&emsp;(iii) expenses for the purchase of any computer technology or equipment orInternet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary's family during any of the years the beneficiary is in school.
+&emsp;&emsp;&emsp;(iii) expenses for the purchase of any computer technology or equipment or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary's family during any of the years the beneficiary is in school.
 
 > &emsp;&emsp;Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (6) Change in beneficiary
 
-&emsp;Any change in the beneficiary of a Coverdell education savings account shall not be treated as a distribution for purposes of paragraph (1) if the new beneficiary is a member of the family (as so defined) of the old beneficiary and has not attained age 30 as of the date of such change.
+&emsp;Any change in the beneficiary of a Coverdell education savings account shall not be treated as a distribution for purposes of paragraph (1) if the new beneficiary is a member of the family (as so defined) of the old beneficiary andhas not attained age 30 as of the date of such change.
 
 #### (7) Special rules for death and divorce
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths from injuries o
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 Amendment by section 406(b) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 

@@ -144,7 +144,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (3) Significant advancement determination
 
-&emsp;The Secretary shall periodically, based on the reports submitted under this subsection, review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT Advisory Committee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
+&emsp;The Secretary shall periodically, based on the reports submitted under this subsection, review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT AdvisoryCommittee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
 
 #### (d) Membership and operations
 
@@ -230,5 +230,5 @@ A prior section 300jj–12, act July 1, 1944, ch. 373, title XXX, §3002, as add
 
 #### Transition to the HIT Advisory Committee
 
-Pub. L. 114–255, div. A, title IV, §4003(e)(3), Dec. 13, 2016, 130 Stat. 1175, provided that: "The Secretary of Health and Human Services shall provide for an orderly and timely transition to the HIT Advisory Committee established under amendments made by this section \[enacting this section and section 300jj–13 of this title, amending sections 300jj, 300jj–11, 300jj–14, 300jj–17, 300jj–18, and 300jj–51 of this title, and repealing former sections 300jj–12 and 300jj–13 of this title\]."
+Pub. L. 114–255, div. A, title IV, §4003(e)(3), Dec. 13, 2016, 130 Stat. 1175, provided that: "The Secretary ofHealth and Human Services shall provide for an orderly and timely transition to the HIT Advisory Committee established under amendments made by this section \[enacting this section and section 300jj–13 of this title, amending sections 300jj, 300jj–11, 300jj–14, 300jj–17, 300jj–18, and 300jj–51 of this title, and repealing former sections 300jj–12 and 300jj–13 of this title\]."
 

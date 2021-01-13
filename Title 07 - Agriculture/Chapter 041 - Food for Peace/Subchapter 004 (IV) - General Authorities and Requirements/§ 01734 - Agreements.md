@@ -48,7 +48,7 @@ The Secretary or the Administrator, as appropriate, may make a determination to 
 
 &emsp;(3) fostering increased food security.
 
-(July 10, 1954, ch. 469, title IV, §404, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 96–53, title II, §209, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3648; Pub. L. 104–127, title II, §214, Apr. 4, 1996, 110 Stat. 956.)
+(July 10, 1954, ch. 469, title IV, §404, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 89–808, §2(E), Nov. 11, 1966,80 Stat. 1536; Pub. L. 96–53, title II, §209, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3648; Pub. L. 104–127, title II, §214, Apr. 4, 1996, 110 Stat. 956.)
 
 #### Amendments
 

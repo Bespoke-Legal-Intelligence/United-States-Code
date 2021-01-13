@@ -158,7 +158,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 &emsp;&emsp;(B) after reviewing the information provided pursuant to paragraph (2), the business entity does not have a high degree of confidence in knowing the true identity of the individual requesting the information;
 
-&emsp;&emsp;(C) the request for the information is based on a misrepresentation of fact by the individual requesting the information relevant to the request for information; or
+&emsp;&emsp;(C) the request for the information is based on a misrepresentation of fact by theindividual requesting the information relevant to the request for information; or
 
 &emsp;&emsp;(D) the information requested is Internet navigational data or similar information about a person's visit to a website or online service.
 
@@ -202,7 +202,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (13) Effectiveness study
 
-&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the UnitedStates shall submit a report to Congress assessing the effectiveness of this provision.
+&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
 
 #### (f) Disclosure of credit scores
 
@@ -286,7 +286,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (1) In general
 
-&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for aclosed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
 
 #### (A) Information required under subsection (f)
 
@@ -400,7 +400,7 @@ Subsec. (a)(2), (3)(C). Pub. L. 108–159, §811(d), realigned margins.
 
 Subsec. (a)(6). Pub. L. 108–159, §212(a), added par. (6).
 
-Subsec. (c). Pub. L. 108–159, §211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
+Subsec. (c). Pub. L. 108–159, §211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included withdisclosure to consumers by consumer reporting agencies.
 
 Subsecs. (d), (e). Pub. L. 108–159, §151(a)(1), added subsecs. (d) and (e).
 

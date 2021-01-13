@@ -42,13 +42,17 @@ Consideration.—In composing a manpower requirements plan for submission under 
 
 (Added Pub. L. 114–120, title I, §101(a), Feb. 8, 2016, 130 Stat. 30, §2904; renumbered §5104 and amended Pub. L. 115–282, title I, §§122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §122(b), renumbered section 2904 of this title as this section.
 
 Subsec. (c)(2). Pub. L. 115–282, §123(b)(2), substituted "section 5103" for "section 2903".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Additional Submissions
 
-Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 1110 of this title.
+Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 5110 of this title.
 

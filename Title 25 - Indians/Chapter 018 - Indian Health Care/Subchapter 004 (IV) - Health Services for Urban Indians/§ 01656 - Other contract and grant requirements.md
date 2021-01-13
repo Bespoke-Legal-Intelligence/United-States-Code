@@ -26,13 +26,15 @@ Urban Indians, as defined in section 1603(f) <sup>1</sup> of this title, shall 
 
 (Pub. L. 94–437, title V, §506, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 102–573, title V, §501(b)(4), Oct. 29, 1992, 106 Stat. 4568.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1603(f) of this title, referred to in subsec. (f), was redesignated section 1603(28) of this title by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Codification
 
-"Sections 3131 and 3133 of title 40" substituted in subsec. (a) for "the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3131 and 3133 of title 40" substituted in subsec. (a) for "the Act of August 24, 1935 (40 U.S.C. 270a,et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

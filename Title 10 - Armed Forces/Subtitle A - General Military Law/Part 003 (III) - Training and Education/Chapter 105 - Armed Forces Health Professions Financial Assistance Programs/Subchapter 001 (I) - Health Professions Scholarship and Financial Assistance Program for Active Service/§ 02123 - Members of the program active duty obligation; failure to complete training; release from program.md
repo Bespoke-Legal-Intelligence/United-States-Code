@@ -16,7 +16,7 @@
 
 &emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason ofthe separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
+(2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
 
 (3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 

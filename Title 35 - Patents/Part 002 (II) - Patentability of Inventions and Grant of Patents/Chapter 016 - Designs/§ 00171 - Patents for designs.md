@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+In General.—Whoever invents any new, original and ornamental design for an article ofmanufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
 
 (b)
 
@@ -20,9 +20,13 @@ Based on Title 35, U.S.C., 1946 ed., §73 (R.S. 4929, amended (1) May 9, 1902, c
 
 The list of conditions specified in the corresponding section of existing statute is omitted as unnecessary in view of the general inclusion of all conditions applying to other patents. Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–211 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

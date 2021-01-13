@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—ADMINISTRATION
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–353, title III, §493, July 10, 1984, 98 Stat. 383, substituted "SUBCHAPTER" for "SUBCHAPER".

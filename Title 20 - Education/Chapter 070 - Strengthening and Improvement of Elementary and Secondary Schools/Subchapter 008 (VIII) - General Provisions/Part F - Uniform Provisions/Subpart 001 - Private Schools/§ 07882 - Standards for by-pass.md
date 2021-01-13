@@ -6,7 +6,7 @@ If, by reason of any provision of law, a State educational agency, local educati
 
 &emsp;(1) waive the requirements of that section for the agency, consortium, or entity; and
 
-&emsp;(2) arrange for the provision of equitable services to those children, teachers, or other educational personnel through arrangements that shall be subject to the requirements of this section and of sections 7881, 7883, and 7884 of this title.
+&emsp;(2) arrange for the provision of equitable services to those children, teachers, or other educational personnel through arrangements that shall be subject to the requirements ofthis section and of sections 7881, 7883, and 7884 of this title.
 
 #### (b) Determination
 

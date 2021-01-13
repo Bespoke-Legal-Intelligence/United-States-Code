@@ -18,7 +18,7 @@ employee retirement income security act of 1974".
 
 (D) Section 211 of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 441) is amended by striking out "Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "Employee Retirement Income Security Act of 1974".
 
-(b)(1) Except as provided in paragraph (2), this part (including the amendments and repealsmade by subsection (a)) shall take effect on January 1, 1975.
+(b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a)) shall take effect on January 1, 1975.
 
 (2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
@@ -27,6 +27,8 @@ employee retirement income security act of 1974".
 (d) Subsections (b) and (c) shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
 (Pub. L. 93–406, title I, §111, Sept. 2, 1974, 88 Stat. 851; Pub. L. 101–239, title VII, §7894(h)(1), Dec. 19, 1989, 103 Stat. 2451.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 #### Amendments
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–239 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

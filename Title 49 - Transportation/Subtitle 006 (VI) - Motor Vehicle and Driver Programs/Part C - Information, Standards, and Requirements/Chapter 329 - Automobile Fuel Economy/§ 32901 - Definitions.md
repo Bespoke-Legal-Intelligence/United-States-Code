@@ -58,7 +58,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(B) provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the United States Government, when operating on alternative fuel as when operating on gasoline or diesel fuel;
 
-&emsp;&emsp;(C) for model years 1993–1995 for an automobile capable of operating on a mixture of an alternative fuel and gasoline or diesel fuel and if the Administrator of the Environmental Protection Agency decides to extend the application of this subclause, for an additional period ending not later than the end of the last model year to which section 32905(b) and (d) of this title applies, provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the Government, when operating on a mixture of alternative fuel and gasoline or diesel fuel containing exactly 50 percent gasoline or diesel fuel as when operating on gasoline or diesel fuel; and
+&emsp;&emsp;(C) for model years 1993–1995 for an automobile capable of operating on a mixture of an alternative fuel and gasoline or diesel fuel and if the Administrator of the Environmental Protection Agency decides to extend the application of this subclause, for an additional period ending not later than the endof the last model year to which section 32905(b) and (d) of this title applies, provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the Government, when operating on a mixture of alternative fuel and gasoline or diesel fuel containing exactly 50 percent gasoline or diesel fuel as when operating on gasoline or diesel fuel; and
 
 &emsp;&emsp;(D) for a passenger automobile, meets or exceeds the minimum driving range prescribed under subsection (c) of this section.
 
@@ -110,7 +110,7 @@ Authority To Change Percentage.—The Secretary may prescribe regulations changi
 
 (c)
 
-Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dualfueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
+Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
 
 (2)(A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
@@ -442,7 +442,7 @@ Violation.—It shall be unlawful for any person to violate any provision under 
 
 &emsp;"(2)
 
-Penalties.—Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of theviolation and the intent and history of the person committing the violation shall be taken into account.
+Penalties.—Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of the violation and the intent and history of the person committing the violation shall be taken into account.
 
 "(f)
 
@@ -482,7 +482,7 @@ Report on efficacy of the program.—Not later than 60 days after the terminatio
 
 &emsp;"(3)
 
-Review of administration of the program by government accountability office and inspector general.—Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
+Review of administration of the program by government accountability office and inspectorgeneral.—Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
 
 "(h)
 

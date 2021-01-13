@@ -12,6 +12,8 @@ Section 317 of said title 18, U.S.C., 1940 ed., was incorporated in this and sec
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

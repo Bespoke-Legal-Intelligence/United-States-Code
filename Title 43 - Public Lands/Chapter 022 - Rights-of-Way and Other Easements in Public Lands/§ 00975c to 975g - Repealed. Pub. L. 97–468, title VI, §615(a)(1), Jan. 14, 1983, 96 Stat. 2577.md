@@ -8,11 +8,15 @@ Section 975e, act Mar. 12, 1914, ch. 37, §3, 38 Stat. 307, related to dispositi
 
 Section 975f, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 307, related to authority of President as to Alaska Railroad, telegraphs, telephones, etc. Section was comprised of the third paragraph of section 1 of act Mar. 12, 1914. Section was formerly classified to section 307 of Title 48.
 
-Section 975g, act Mar. 12, 1914, ch. 37, §4, 38 Stat. 307, required officers, agents, etc., to make annual report asto Alaska Railroad, telegraphs, telephones, etc., to President for transmittal to Congress. Section was formerly classified to section 308 of Title 48.
+Section 975g, act Mar. 12, 1914, ch. 37, §4, 38 Stat. 307, required officers, agents, etc., to make annual report as to Alaska Railroad, telegraphs, telephones, etc., to President for transmittal to Congress. Section was formerly classified to section 308 of Title 48.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 
 Repeal effective on date of transfer of Alaska Railroad to State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11107
 

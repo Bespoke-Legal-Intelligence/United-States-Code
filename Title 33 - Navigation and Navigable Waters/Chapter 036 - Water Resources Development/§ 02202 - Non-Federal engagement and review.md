@@ -8,7 +8,7 @@ The Secretary shall expeditiously issue guidance to implement each covered provi
 
 #### (1) In general
 
-&emsp;Prior to developing and issuing any new or revised implementation guidance for a coveredwater resources development law, the Secretary shall issue a public notice that—
+&emsp;Prior to developing and issuing any new or revised implementation guidance for a covered water resources development law, the Secretary shall issue a public notice that—
 
 &emsp;&emsp;(A) informs potentially interested non-Federal stakeholders of the Secretary's intent to develop and issue such guidance; and
 
@@ -62,6 +62,8 @@ In this section:
 
 (Pub. L. 115–270, title I, §1105, Oct. 23, 2018, 132 Stat. 3772.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Water Resources Reform and Development Act of 2014, referred to in subsec. (f)(2)(A), is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 2201 of this title and Tables.
@@ -73,6 +75,12 @@ This Act, referred to in subsec. (f)(2)(C), probably means title I of Pub. L. 11
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America's Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Implementation Guidance
+
+Pub. L. 116–260, div. AA, title II, §223(d), Dec. 27, 2020, 134 Stat. 2696, provided that: "The Secretary \[of the Army\] shall expeditiously issue any guidance necessary to implement any provision of this Act \[div. AA of Pub. L. 116–260, see Tables for classification\], including any amendments made by this Act, in accordance with section 1105 of the Water Resources Development Act of 2018 (33 U.S.C. 2202)."
 
 #### "Secretary" Defined
 

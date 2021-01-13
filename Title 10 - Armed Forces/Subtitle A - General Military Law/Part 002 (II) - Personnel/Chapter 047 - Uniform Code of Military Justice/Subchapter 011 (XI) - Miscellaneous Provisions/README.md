@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendmentto Pub. L. 114–328, §5541(7). See 2016 Amendment note below.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(7). See 2016 Amendment note below.
 
 <b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(7), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 940a and substituted "Authority to administer oaths" for "Authority to administer oaths and to act as notary" in item 936.
 

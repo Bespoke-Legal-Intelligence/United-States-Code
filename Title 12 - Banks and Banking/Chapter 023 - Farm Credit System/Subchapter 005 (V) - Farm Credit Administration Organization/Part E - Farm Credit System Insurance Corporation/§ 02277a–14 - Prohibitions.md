@@ -28,7 +28,7 @@
 
 #### (2) Liability of directors
 
-&emsp;Each director or officer of any insured System bank who willfully participates in the declaration or payment of any dividend or interest or in any distribution in violation of this subsection shall be fined not more than $1,000, imprisoned not more than 1 year, or both.
+&emsp;Each director or officer of any insured System bank who willfully participates in thedeclaration or payment of any dividend or interest or in any distribution in violation of this subsection shall be fined not more than $1,000, imprisoned not more than 1 year, or both.
 
 #### (3) Applicability
 
@@ -59,6 +59,8 @@
 No funds from administrative accounts or from the Farm Credit System Insurance Fund may be used by the Corporation to provide assistance to the Federal Agricultural Mortgage Corporation or to support any activities related to the Federal Agricultural Mortgage Corporation.
 
 (Pub. L. 92–181, title V, §5.65, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, §1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, §502(k), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 115–334, title V, §5409, Dec. 20, 2018, 132 Stat. 4678.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

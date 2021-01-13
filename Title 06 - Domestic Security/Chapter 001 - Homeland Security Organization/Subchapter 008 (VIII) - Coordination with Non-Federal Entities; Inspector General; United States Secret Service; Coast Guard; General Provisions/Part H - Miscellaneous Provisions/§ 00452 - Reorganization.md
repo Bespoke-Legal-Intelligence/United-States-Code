@@ -20,9 +20,13 @@ The Secretary may allocate or reallocate functions among the officers of the Dep
 
 (Pub. L. 107–296, title VIII, §872, Nov. 25, 2002, 116 Stat. 2243.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Office of Biometric Identity Management and Federal Protective Service
 

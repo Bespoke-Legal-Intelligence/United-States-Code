@@ -12,6 +12,8 @@ Final sentence of said section 599, imposing civil liability on violators, was o
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 214 of this title was renumbered section 210.

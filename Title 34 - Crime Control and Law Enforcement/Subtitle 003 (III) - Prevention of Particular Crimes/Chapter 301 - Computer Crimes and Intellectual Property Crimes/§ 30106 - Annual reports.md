@@ -30,7 +30,7 @@ Not later than 1 year after October 13, 2008, and annually thereafter, the Attor
 
 &emsp;(7) A summary of the efforts, activities, and resources the Department of Justice has allocated to the enforcement, investigation, and prosecution of intellectual property crimes, including—
 
-&emsp;&emsp;(A) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectual property crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, and any other agency or bureau of the Department of Justice whose activities relate to intellectual property;
+&emsp;&emsp;(A) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectualproperty crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, and any other agency or bureau of the Department of Justice whose activities relate to intellectual property;
 
 &emsp;&emsp;(B) a summary of the overall successes and failures of such policies and efforts;
 
@@ -58,7 +58,7 @@ Not later than 1 year after October 13, 2008, and annually thereafter, the Attor
 
 #### (b) Initial report of the Attorney General
 
-The first report required to be submitted by the Attorney General under subsection (a) shallinclude a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, as well as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
+The first report required to be submitted by the Attorney General under subsection (a) shall include a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, as well as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
 
 &emsp;(1) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectual property crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, and any other agency or bureau of the Department of Justice whose activities relate to intellectual property;
 
@@ -102,7 +102,7 @@ Not later than 1 year after October 13, 2008, and annually thereafter, the Direc
 
 &emsp;&emsp;&emsp;(iii) the sentence and the statutory maximum for such crime, as well as the average sentence imposed for such crime; and
 
-&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
+&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such astime, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
 #### (d) Initial report of the FBI
 
@@ -129,6 +129,8 @@ The first report required to be submitted by the Director of the Federal Bureau 
 &emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
 (Pub. L. 110–403, title IV, §404, Oct. 13, 2008, 122 Stat. 4274.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

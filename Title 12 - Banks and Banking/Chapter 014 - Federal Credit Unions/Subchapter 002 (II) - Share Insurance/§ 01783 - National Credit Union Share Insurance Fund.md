@@ -16,7 +16,7 @@ The Board may authorize the Secretary of the Treasury to invest and reinvest suc
 
 (1) If, in the judgment of the Board, a loan to the insurance fund, or to the stabilization fund described in section 1790e of this title, is required at any time for purposes of this subchapter,<sup>1</sup> the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $6,000,000,000 outstanding at any one time. Except as otherwise provided in this subsection, section 1790e of this title, and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.
 
-(2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of such outstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing into the Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
+(2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of suchoutstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing into the Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
 
 (3) For the purpose of making loans under paragraph (1) of this subsection, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
 
@@ -42,6 +42,8 @@ In addition to the authority to borrow from the Secretary of the Treasury provid
 
 (June 26, 1934, ch. 750, title II, §203, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, §2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, §2811, July 18, 1984, 98 Stat. 1206; Pub. L. 111–22, div. A, title II, §204(c)(2), (3), May 20, 2009, 123 Stat. 1650.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (d)(1), probably should have been a reference to this title in the original, meaning title II of act June 26, 1934, ch. 750, which is classified generally to this subchapter.
@@ -63,6 +65,8 @@ Subsec. (d)(4). Pub. L. 111–22, §204(c)(3), added par. (4).
 <b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing and "it" and "its" for "he" and "his", respectively, where appropriate.
 
 <b>1976</b>—Subsec. (d)(2). Pub. L. 94–273 substituted "September" for "June" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -12,7 +12,7 @@ It is the policy of the United States to promote the development and production,
 
 &emsp;(B) contains a hydrocarbonaceous material and is produced by mining or quarrying.
 
-(2) Nothing in this section is intended or shall be construed to affect in any way the definition of the term tar sands under any other provision of Federal law.
+(2) Nothing in this section is intended or shall be construed to affect in any way the definitionof the term tar sands under any other provision of Federal law.
 
 #### (c) Study
 

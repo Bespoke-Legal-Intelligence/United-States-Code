@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 31303 makes it clear that, if a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action <i>in rem</i> in admiralty to enforce rights against the additional property. This section makes no substantive change to law.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.

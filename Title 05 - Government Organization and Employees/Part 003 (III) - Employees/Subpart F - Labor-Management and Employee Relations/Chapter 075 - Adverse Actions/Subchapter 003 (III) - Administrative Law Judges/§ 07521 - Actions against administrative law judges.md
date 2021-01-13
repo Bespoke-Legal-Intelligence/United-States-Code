@@ -24,6 +24,8 @@
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1137; amended Pub. L. 101–12, §9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183, related to removal of an administrative law judge appointed under section 3105 of this title, prior to repeal by Pub. L. 95–454, §204(a).
@@ -31,6 +33,8 @@ A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95�
 #### Amendments
 
 <b>1989</b>—Subsec. (b)(C). Pub. L. 101–12 substituted "1215" for "1206".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

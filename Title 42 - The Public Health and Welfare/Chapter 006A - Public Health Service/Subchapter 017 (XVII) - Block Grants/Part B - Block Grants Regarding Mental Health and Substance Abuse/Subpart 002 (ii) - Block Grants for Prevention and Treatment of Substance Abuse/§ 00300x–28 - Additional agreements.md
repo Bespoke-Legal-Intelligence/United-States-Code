@@ -36,7 +36,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 &emsp;Any waiver provided by the Secretary under paragraph (1) shall be applicable only to the fiscal year involved.
 
-(July 1, 1944, ch. 373, title XIX, §1928, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 396; amended Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2)(B), Oct. 17, 2000, 114 Stat. 1211;Pub. L. 114–255, div. B, title VIII, §8002(e), Dec. 13, 2016, 130 Stat. 1230.)
+(July 1, 1944, ch. 373, title XIX, §1928, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 396; amended Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2)(B), Oct. 17, 2000, 114 Stat. 1211; Pub. L. 114–255, div. B, title VIII, §8002(e), Dec. 13, 2016, 130 Stat. 1230.)
 
 #### Repeal of Subsection (d)
 

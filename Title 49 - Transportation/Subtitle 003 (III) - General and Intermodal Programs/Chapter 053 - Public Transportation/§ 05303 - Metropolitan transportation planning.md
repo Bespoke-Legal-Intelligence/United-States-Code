@@ -90,7 +90,7 @@ Public transportation representative.—Subject to the bylaws or enabling statut
 
 &emsp;&emsp;(C)
 
-Powers of certain officials.—An official described in paragraph (2)(B) shall have responsibilities, actions, duties, voting rights, and any other authority commensurate with other officials described in paragraph (2).
+Powers of certain officials.—An official described in paragraph (2)(B) shall have responsibilities, actions, duties, votingrights, and any other authority commensurate with other officials described in paragraph (2).
 
 &emsp;(4)
 
@@ -190,7 +190,7 @@ Consultation in Plan and TIP Coordination.—
 
 &emsp;(1)
 
-Nonattainment areas.—If more than 1 metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
+Nonattainment areas.—If more than 1 metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizationsdesignated for such area and the State in the coordination of plans and TIPs required by this section.
 
 &emsp;(2)
 
@@ -290,7 +290,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—Each metropolitan planning organization shall prepare and update a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
+In general.—Each metropolitan planning organization shall prepare and update atransportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
 
 &emsp;&emsp;(B)
 
@@ -392,7 +392,7 @@ Optional scenario development.—
 
 &emsp;&emsp;(A)
 
-In general.—A metropolitan planning organization may, while fitting the needsand complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
+In general.—A metropolitan planning organization may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -694,7 +694,7 @@ Effect of failure to certify.—
 
 &emsp;&emsp;&emsp;(i)
 
-Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable to the metropolitan planning area of the metropolitan planning organization for projects funded under this chapter and title 23.
+Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable tothe metropolitan planning area of the metropolitan planning organization for projects funded under this chapter and title 23.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -702,7 +702,7 @@ Restoration of withheld funds.—The withheld funds shall be restored to the met
 
 &emsp;&emsp;(D)
 
-Review of certification.—In making certification determinations under this paragraph, the Secretary shall provide forpublic involvement appropriate to the metropolitan area under review.
+Review of certification.—In making certification determinations under this paragraph, the Secretary shall provide for public involvement appropriate to the metropolitan area under review.
 
 (l)
 
@@ -782,7 +782,7 @@ Treatment.—For the purpose of this title, the Bi-State Metropolitan Planning O
 
 &emsp;&emsp;(C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area and 25 square miles of land area <sup>1</sup> in the State of California and a population of 65,000 and 12 square miles of land area and 12 square miles of land area <sup>1</sup> in the State of Nevada.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec. 4, 2015, 129 Stat. 1447; Pub. L. 114–322, title III, §3603(f)(3), Dec. 16, 2016, 130 Stat. 1789; Pub. L. 115–31, div. K, title I, §192, May 5, 2017, 131 Stat. 756.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec.4, 2015, 129 Stat. 1447; Pub. L. 114–322, title III, §3603(f)(3), Dec. 16, 2016, 130 Stat. 1789; Pub. L. 115–31, div. K, title I, §192, May 5, 2017, 131 Stat. 756.)
 
 Historical and Revision Notes
 

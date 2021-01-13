@@ -28,9 +28,9 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 &emsp;&emsp;(I) a requirement that open, fair, and competitive procedures are used in a transparent manner in the administration of grants or cooperative agreements or the procurement of goods and services for the accomplishment of objectives under the Compact;
 
-&emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving suchobjectives after expiration of the Compact; and
+&emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
 
-&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, and monitoring of programs and activities funded under the Compact.
+&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, andmonitoring of programs and activities funded under the Compact.
 
 #### (2) Lower middle income countries
 
@@ -94,13 +94,17 @@ An eligible country and the United States may enter into one or more subsequent 
 
 (Pub. L. 108–199, div. D, title VI, §609, Jan. 23, 2004, 118 Stat. 218; Pub. L. 115–167, title II, §204(a), Apr. 23, 2018, 132 Stat. 1280.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (k), and (l), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read "An eligible countryand the United States may enter into and have in effect only one Compact at any given time under this section.", redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
+<b>2018</b>—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read "An eligible country and the United States may enter into and have in effectonly one Compact at any given time under this section.", redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -36,7 +36,7 @@ Each local educational agency desiring a payment under subsection (a) shall repo
 
 &emsp;(1) the number of severely disabled children for which a payment may be made under this section; and
 
-&emsp;(2) a breakdown of the average cost, by placement (inside or outside the boundaries ofthe school district of the local educational agency), of providing education and related services to such children.
+&emsp;(2) a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
 
 #### (f) Payments subject to appropriation
 
@@ -60,7 +60,7 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §9215(kk)(1), substituted "subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) of this title" for "subparagraph (A)(ii), (B), (D)(i) or (D)(ii) of section 7703(a)(1) of this title".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §9215(kk)(1), substituted "subparagraph (A)(ii) or (B), or clause (i) or (ii)of subparagraph (D), of section 7703(a)(1) of this title" for "subparagraph (A)(ii), (B), (D)(i) or (D)(ii) of section 7703(a)(1) of this title".
 
 Subsec. (g). Pub. L. 114–95, §9215(kk)(2), substituted "section 7713 of this title." for "section 7713(9) of this title."
 

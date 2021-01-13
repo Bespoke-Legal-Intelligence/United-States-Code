@@ -1,0 +1,86 @@
+### §4328. Weapon system design: sustainment factors
+
+(a)
+
+In General.—The Secretary of Defense shall ensure that the defense acquisition system gives ample emphasis to sustainment factors, particularly those factors that are affected principally by the design of a weapon system, in the development of a weapon system.
+
+(b)
+
+Requirements Process.—The Secretary shall ensure that reliability and maintainability are included in the performance attributes of the key performance parameter on sustainment during the development of capabilities requirements.
+
+(c)
+
+Solicitation and Award of Contracts.—
+
+&emsp;(1)
+
+Requirement.—The program manager of a weapon system shall include in the solicitation for and terms of a covered contract for the weapon system clearly defined and measurable requirements for engineering activities and design specifications for reliability and maintainability.
+
+&emsp;(2)
+
+Exception.—If the program manager determines that engineering activities and design specifications for reliability or maintainability should not be a requirement in a covered contract or a solicitation for such a contract, the program manager shall document in writing the justification for the decision.
+
+&emsp;(3)
+
+Source selection criteria.—The Secretary shall ensure that sustainment factors, including reliability and maintainability, are given ample emphasis in the process for source selection. The Secretary shall encourage the use of objective reliability and maintainability criteria in the evaluation of competitive proposals.
+
+(d)
+
+Contract Performance.—
+
+&emsp;(1)
+
+In general.—The Secretary shall ensure that the Department of Defense uses best practices for responding to the positive or negative performance of a contractor in meeting the sustainment requirements of a covered contract for a weapon system. The Secretary shall encourage the use of incentive fees and penalties as appropriate and authorized in paragraph (2) in all covered contracts for weapons systems.
+
+&emsp;(2)
+
+Authority for incentive fees and penalties.—The Secretary of Defense is authorized to include in any covered contract provisions for the payment of incentive fees to the contractor based on achievement of design specification requirements for reliability and maintainability of weapons systems under the contract, or the imposition of penalties to be paid by the contractor to the Government for failure to achieve such design specification requirements. Information about such fees or penalties shall be included in the solicitation for any covered contract that includes such fees or penalties.
+
+&emsp;(3)
+
+Measurement of reliability and maintainability.—In carrying out paragraph (2), the program manager shall base determinations of a contractor's performance on reliability and maintainability data collected during the program. Such data collection and associated evaluation metrics shall be described in detail in the covered contract. To the maximum extent practicable, such data shall be shared with appropriate contractor and government organizations.
+
+&emsp;(4)
+
+Notification.—The Secretary of Defense shall notify the congressional defense committees upon entering into a covered contract that includes incentive fees or penalties authorized in paragraph (2).
+
+(e)
+
+Covered Contract Defined.—In this section, the term "covered contract", with respect to a weapon system, means a contract—
+
+&emsp;(1) for the engineering and manufacturing development of a weapon system, including embedded software; or
+
+&emsp;(2) for the production of a weapon system, including embedded software.
+
+(Added Pub. L. 115–91, div. A, title VIII, §834(a)(1), Dec. 12, 2017, 131 Stat. 1469, §2443; renumbered §4328 and amended Pub. L. 116–283, div. A, title XVIII, §1848(e), Jan. 1, 2021, 134 Stat. 4259.)
+
+#### Prior Provisions
+
+Prior sections 4331 to 4338 were renumbered sections 7431 to 7438 of this title, respectively.
+
+A prior section 4339, act Aug. 10, 1956, ch. 1041, 70A Stat. 240, authorized public quarters and fuel and light therefor for the organist and choirmaster of the Academy and for civilian instructors in the departments of foreign languages and tactics, prior to repeal by Pub. L. 89–716, §1, Nov. 2, 1966, 80 Stat. 1114.
+
+Prior sections 4340 to 4343 were renumbered sections 7440 to 7443 of this title, respectively.
+
+Prior sections 4344 to 4345a were repealed by Pub. L. 114–328, div. A, title XII, §1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
+
+Section 4344, act Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, §534(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A-110; Pub. L. 107–107, div. A, title V, §533(a)(1), (2), Dec. 28, 2001, 115 Stat. 1105, related to selection of persons from foreign countries to receive instruction at the United States Military Academy. See section 347 of this title.
+
+Section 4345, added Pub. L. 105–85, div. A, title V, §542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, §535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, §531(a), Oct. 17, 2006, 120 Stat. 2198, related to an exchange program with foreign military academies.
+
+A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to selection of Filipinos for instruction at the Military Academy, prior to repeal by Pub. L. 98–94, title X, §1004(a)(2), (d), Sept. 24, 1983, 97 Stat. 658, 660, effective one year after Sept. 24, 1983.
+
+Section 4345a, added Pub. L. 110–417, \[div. A\], title V, §541(a)(1), Oct. 14, 2008, 122 Stat. 4454; amended Pub. L. 113–291, div. A, title V, §553(a), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
+
+Prior sections 4346 to 4349 were renumbered sections 7446 to 7449 of this title, respectively.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1848(e)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: "Sustainment factors in weapon system design".
+
+Pub. L. 116–283, §1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent of Congress, notwithstanding directory language inserting it after section "4235".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

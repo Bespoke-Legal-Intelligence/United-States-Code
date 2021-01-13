@@ -38,6 +38,8 @@ Oct. 30, 1984, Pub. L. 98–575, 98 Stat. 3055, §15(b)(4); added Nov. 15, 1988,
 
 49 App.:2614(b)(4)(B).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70109 of title 49 and section 70109 of this title as this section.

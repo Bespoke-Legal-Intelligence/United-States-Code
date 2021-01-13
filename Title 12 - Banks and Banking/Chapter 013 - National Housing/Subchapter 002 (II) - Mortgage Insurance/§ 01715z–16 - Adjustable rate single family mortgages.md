@@ -2,7 +2,7 @@
 
 #### (a) One- to four-family dwellings; maximum term of mortgage; adjustments in effective rate of interest
 
-The Secretary may insure under any provision of this subchapter a mortgage involving property upon which there is located a dwelling designed principally for occupancy by one to four families, where the mortgage provides for periodic adjustments by the mortgagee in the effective rate of interest charged. Such interest rateadjustments may be accomplished through adjustments in the monthly payment amount, the outstanding principal balance, or the mortgage term, or a combination of these factors, except that in no case may any extension of a mortgage term result in a total term in excess of 40 years. Adjustments in the effective rate of interest shall correspond to a specified national interest rate index approved in regulations by the Secretary, information on which is readily accessible to mortgagors from generally available published sources. Adjustments in the effective rate of interest shall (1) be made on an annual basis; (2) be limited, with respect to any single interest rate increase, to no more than 1 percent on the outstanding loan balance; and (3) be limited to a maximum increase of 5 percentage points above the initial contract interest rate over the term of the mortgage.
+The Secretary may insure under any provision of this subchapter a mortgage involving property upon which there is located a dwelling designed principally for occupancy by one to four families, where the mortgage provides for periodic adjustments by the mortgagee in the effective rate of interest charged. Such interest rate adjustments may be accomplished through adjustments in the monthly payment amount, the outstanding principal balance, or the mortgage term, or a combination of these factors, except that in no case may any extension of a mortgage term result in a total term in excess of 40 years. Adjustments in the effective rate of interest shall correspond to a specified national interest rate index approved in regulations by the Secretary, information on which is readily accessible to mortgagors from generally available published sources. Adjustments in the effective rate of interest shall (1) be made on an annual basis; (2) be limited, with respect to any single interest rate increase, to no more than 1 percent on the outstanding loan balance; and (3) be limited to a maximum increase of 5 percentage points above the initial contract interest rate over the term of the mortgage.
 
 #### (b) Written explanation of mortgage features
 
@@ -26,6 +26,8 @@ The aggregate number of mortgages and loans insured under this section in any fi
 
 (June 27, 1934, ch. 847, title II, §251, as added Pub. L. 98–181, title I \[title IV, §443\], Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(a), Feb. 5, 1988, 101 Stat. 1907; Pub. L. 107–73, title II, §206, Nov. 26, 2001, 115 Stat. 674; Pub. L. 108–186, title III, §301(a), Dec. 16, 2003, 117 Stat. 2692.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
@@ -38,7 +40,9 @@ The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90�
 
 Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year."
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number ofmortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

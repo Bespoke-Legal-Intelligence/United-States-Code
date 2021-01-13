@@ -12,7 +12,7 @@ The provision of the Act of August 31, 1951, referred to in text, is set out as 
 
 <b>2015</b>—Pub. L. 114–94 substituted "58.012 percent" for "57 percent".
 
-<b>2005</b>—Pub. L. 109–59 substituted "Sport Fish Restoration and Boating Trust Fund" for "Sport Fish Restoration Account", "that Trust Fund, except as provided in section 9504(c) of title 26" for "that Account", "during succeeding fiscal years" for "during the succeeding fiscal year", and "to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) ofthis title" for "in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport and recreation".
+<b>2005</b>—Pub. L. 109–59 substituted "Sport Fish Restoration and Boating Trust Fund" for "Sport Fish Restoration Account", "that Trust Fund, except as provided in section 9504(c) of title 26" for "that Account", "during succeeding fiscal years" for "during the succeeding fiscal year", and "to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) of this title" for "in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport and recreation".
 
 <b>1986</b>—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

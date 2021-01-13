@@ -4,11 +4,13 @@
 
 (b) An officer of the Regular Coast Guard who is discharged under this section or section 2142, 2143, or 2144 of this title and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) of section 1174 of title 10.
 
-(c) An officer of the Regular Coast Guard who is discharged under section 2164 of this title and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2) of section 1174 of title 10 as determined under regulations promulgated by the Secretary.
+(c) An officer of the Regular Coast Guard who is discharged under section 2164 of this title and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2) of section 1174 of title 10 as determinedunder regulations promulgated by the Secretary.
 
 (d) Notwithstanding subsections (a) and (b), an officer discharged under this chapter for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer requested in writing or otherwise sought not to be selected for promotion, or requested removal from the list of selectees.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 185, §286; amended Pub. L. 107–295, title IV, §416(a)(3), Nov. 25, 2002, 116 Stat. 2121; renumbered §2146 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), (c)(2)(A), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ Subsec. (c). Pub. L. 115–282, §123(b)(2), substituted "section 2164" for "sec
 Subsec. (d). Pub. L. 115–282, §123(c)(2)(A), substituted "this chapter" for "chapter 11 of this title".
 
 <b>2002</b>—Pub. L. 107–295 substituted "separation" for "severance" in section catchline, added subsecs. (b) to (d), and struck out former subsec. (b) which read as follows: "Each officer discharged under this section or under section 282, 283, or 284 of this title is entitled to a lump-sum payment computed by multiplying his years of active commissioned service, but not more than twelve, by two months' basic pay of the grade in which he is serving on the date of his discharge. In determining the total number of years of active service to be used as a multiplier in computing this payment, a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded. The acceptance of a lump-sum payment under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received payment under this section until the total amount deducted equals the amount of the lump-sum payment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

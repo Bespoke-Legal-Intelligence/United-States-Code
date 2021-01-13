@@ -16,6 +16,8 @@ As used in this chapter, the following definitions shall apply:
 
 (Pub. L. 110–180, §3, Jan. 8, 2008, 121 Stat. 2560.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.

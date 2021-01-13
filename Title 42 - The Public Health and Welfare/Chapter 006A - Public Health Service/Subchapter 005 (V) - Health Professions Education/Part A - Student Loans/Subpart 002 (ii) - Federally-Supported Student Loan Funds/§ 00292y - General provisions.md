@@ -28,7 +28,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (3) Preference in making contributions
 
-&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts described in paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose of loans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
+&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts describedin paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose of loans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
 
 #### (f) Funding for certain medical schools
 

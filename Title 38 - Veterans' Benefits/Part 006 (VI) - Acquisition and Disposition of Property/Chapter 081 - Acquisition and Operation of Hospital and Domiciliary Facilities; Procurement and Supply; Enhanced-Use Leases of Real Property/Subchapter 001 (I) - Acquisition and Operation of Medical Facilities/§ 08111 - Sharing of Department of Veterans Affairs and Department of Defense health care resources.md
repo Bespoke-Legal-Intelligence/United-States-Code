@@ -80,7 +80,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(D) A description of proposals for which funds are provided through the joint incentives program under subsection (d), together with a description of their results or status at the time of the report, including access improvements, savings, and quality-of-care enhancements they brought about, and a description of any additional use of funds made available under subsection (d).
 
-(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shallinclude in the annual report under this subsection for each year through 2008 the following:
+(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
 
 &emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
@@ -110,7 +110,9 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1),Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -124,7 +126,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 <b>2019</b>—Subsec. (d)(3). Pub. L. 116–92 substituted "September 30, 2023" for "September 30, 2020".
 
-<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of "September 30, 2020" for "September 30,2015", was executed by making the substitution for "September 30, 2016" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
+<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of "September 30, 2020" for "September 30, 2015", was executed by making the substitution for "September 30, 2016" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
 
 Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015".
 
@@ -216,6 +218,8 @@ Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as
 
 Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
@@ -223,6 +227,52 @@ Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, pr
 #### Effective Date
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
+
+#### Report on Mental Health Programs by Department of Veterans Affairs and Department of Defense
+
+Pub. L. 116–171, title IV, §405(a), Oct. 17, 2020, 134 Stat. 812, provided that:
+
+"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], and annually thereafter, the Secretary of Veterans Affairs and the Secretary of Defense shall submit to the Committee on Veterans' Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans' Affairs and the Committee on Armed Services of the House of Representatives a report on mental health programs of the Department of Veterans Affairs and the Department of Defense and joint programs of the Departments.
+
+"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;"(A) A description of mental health programs operated by the Department of Veterans Affairs, including the following:
+
+&emsp;&emsp;"(i) Transition assistance programs.
+
+&emsp;&emsp;"(ii) Clinical and non-clinical mental health initiatives, including centers of excellence of the Department of Veterans Affairs for traumatic brain injury and post-traumatic stress disorder.
+
+&emsp;&emsp;"(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs.
+
+&emsp;&emsp;"(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and any other issues or conditions as the Secretary of Veterans Affairs considers necessary.
+
+&emsp;"(B) A description of mental health programs operated by the Department of Defense, including the following:
+
+&emsp;&emsp;"(i) Transition assistance programs.
+
+&emsp;&emsp;"(ii) Clinical and non-clinical mental health initiatives, including the National Intrepid Center of Excellence and the Intrepid Spirit Centers.
+
+&emsp;&emsp;"(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs.
+
+&emsp;&emsp;"(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and any other issues or conditions as the Secretary of Defense considers necessary.
+
+&emsp;"(C) A description of mental health programs jointly operated by the Department of Veterans Affairs and the Department of Defense, including the following:
+
+&emsp;&emsp;"(i) Transition assistance programs.
+
+&emsp;&emsp;"(ii) Clinical and non-clinical mental health initiatives.
+
+&emsp;&emsp;"(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs.
+
+&emsp;&emsp;"(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and completed suicides, including through the use of the joint suicide data repository of the Department of Veterans Affairs and the Department of Defense, and any other issues or conditions as the Secretary of Veterans Affairs and the Secretary of Defense consider necessary.
+
+&emsp;"(D) Recommendations for coordinating mental health programs of the Department of Veterans Affairs and the Department of Defense to improve the effectiveness of those programs.
+
+&emsp;"(E) Recommendations for novel joint programming of the Department of Veterans Affairs and the Department of Defense to improve the mental health of members of the Armed Forces and veterans."
 
 #### Guidelines for Combined Medical Facilities of the Department of Defense and the Department of Veterans Affairs
 
@@ -497,6 +547,8 @@ Pub. L. 97–174, §2(a), May 4, 1982, 96 Stat. 70, provided that: "The Congress
 &emsp;"(2) Present incentives to encourage such sharing of health-care resources are inadequate.
 
 &emsp;"(3) Such sharing of health-care resources can be achieved without a detrimental effect on the primary health-care beneficiaries of the Veterans' Administration and the Department of Defense."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13214
 

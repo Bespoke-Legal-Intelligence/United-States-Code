@@ -10,11 +10,13 @@
 
 > shall be the rate determined for such positions under chapter 11 of this title, as adjusted by paragraph (2) of this section.
 
-(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to thepercentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (B) In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
 (Aug. 2, 1946, ch. 753, title VI, §601(a), 60 Stat. 850; Jan. 19, 1949, ch. 2, §1(d), 63 Stat. 4; Mar. 2, 1955, ch. 9, §4(a), 69 Stat. 11; Pub. L. 88–426, title II, §204, Aug. 14, 1964, 78 Stat. 415; Pub. L. 89–301, §11(e), Oct. 29, 1965, 79 Stat. 1120; Pub. L. 91–67, §2, Sept. 15, 1969, 83 Stat. 107; Pub. L. 94–82, title II, §204(a), Aug. 9, 1975, 89 Stat. 421; Pub. L. 101–194, title VII, §704(a)(2)(B), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(D)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, §101(1), Oct. 13, 1994, 108 Stat. 3410.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Section was formerly classified to section 31 of this title prior to editorial r
 <b>1955</b>—Act Mar. 2, 1955, increased salaries of Senators, Representatives, Delegates, and Resident Commissioner from $12,500 a year to $22,500 and compensation of Speaker from $30,000 to $35,000 a year.
 
 <b>1949</b>—Act Jan. 19, 1949, increased Speaker's salary from $20,000 per year to $30,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -116,7 +120,7 @@ Period described.—With respect to a House of Congress, the period described in
 
 &emsp;"(3)
 
-Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding andremittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1).
+Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding and remittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1).
 
 &emsp;"(4)
 
@@ -140,9 +144,11 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
-Pub. L. 116–94, §7, Dec. 20, 2019, 133 Stat. 2536, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2020."
+Pub. L. 116–260, §7, Dec. 27, 2020, 134 Stat. 1185, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2021."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–94, §7, Dec. 20, 2019, 133 Stat. 2536.
 
 Pub. L. 115–244, div. B, title II, §212, Sept. 21, 2018, 132 Stat. 2946.
 
@@ -172,9 +178,13 @@ Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which prov
 
 #### Salary Increases
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
-
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of this title.
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Adjustment of Pay Rates
+
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 

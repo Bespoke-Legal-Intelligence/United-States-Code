@@ -1,8 +1,10 @@
 ### §557a. Mine Safety and Health Administration
 
-There is established in the Department of Labor a Mine Safety and Health Administration to be headed by an Assistant Secretary of Labor for Mine Safety and Health appointed by the President, by and with the advice and consent of the Senate. The Secretary, acting through the Assistant Secretary for Mine Safety and Health, shall have authority to appoint, subject to the civil service laws, such officers and employees as he may deem necessary for the administration of this Act, and to prescribe powers, duties, and responsibilities of all officers and employees engaged in the administration of this Act. The Secretary is authorized and directed, except as specifically provided otherwise to carry out his functions under the Federal Mine Safety and Health Act of 1977 \[30 U.S.C. 801 et seq.\] through the Mine Safety and Health Administration.
+There is established in the Department of Labor a Mine Safety and Health Administration to be headed by an Assistant Secretary of Labor for Mine Safety and Health appointed by the President, by and with the advice and consent of the Senate. The Secretary, acting through theAssistant Secretary for Mine Safety and Health, shall have authority to appoint, subject to the civil service laws, such officers and employees as he may deem necessary for the administration of this Act, and to prescribe powers, duties, and responsibilities of all officers and employees engaged in the administration of this Act. The Secretary is authorized and directed, except as specifically provided otherwise to carry out his functions under the Federal Mine Safety and Health Act of 1977 \[30 U.S.C. 801 et seq.\] through the Mine Safety and Health Administration.
 
 (Pub. L. 95–164, title III, §302(a), Nov. 9, 1977, 91 Stat. 1319.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -10,7 +12,9 @@ This Act, referred to in text, means Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 12
 
 The Federal Mine Safety and Health Act of 1977, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§801 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Dateof 1977 Amendment note under section 801 of Title 30, Mineral Lands and Mining.
+Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of Title 30, Mineral Lands and Mining.
 

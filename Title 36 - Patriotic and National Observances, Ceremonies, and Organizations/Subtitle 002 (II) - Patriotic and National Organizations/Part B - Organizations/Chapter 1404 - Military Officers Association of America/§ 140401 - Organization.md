@@ -10,6 +10,8 @@ Expiration of Charter.—If the corporation does not comply with the provisions 
 
 (Added Pub. L. 111–95, §1(a), Nov. 6, 2009, 123 Stat. 3001.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 501 of Title 26, Internal Revenue Code.

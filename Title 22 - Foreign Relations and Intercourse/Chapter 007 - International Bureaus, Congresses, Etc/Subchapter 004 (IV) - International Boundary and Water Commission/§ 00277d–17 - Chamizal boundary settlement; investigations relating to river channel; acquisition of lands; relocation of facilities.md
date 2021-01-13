@@ -22,9 +22,13 @@ In connection with the convention between the United States of America and the U
 
 (Pub. L. 88–300, §1, Apr. 29, 1964, 78 Stat. 184.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of part of section 1 of Pub. L. 88–300. Remainder of section 1 is set out as a Short Title note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

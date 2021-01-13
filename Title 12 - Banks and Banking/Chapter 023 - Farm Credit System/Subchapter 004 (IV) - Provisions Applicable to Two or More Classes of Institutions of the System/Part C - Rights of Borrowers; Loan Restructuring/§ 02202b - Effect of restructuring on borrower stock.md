@@ -14,9 +14,13 @@ Notwithstanding subsections (a) and (b), the borrower shall be entitled to retai
 
 (Pub. L. 92–181, title IV, §4.14B, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1577; amended Pub. L. 100–399, title I, §102(g), Aug. 17, 1988, 102 Stat. 990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading "Farm Credit Bank" for "Federal landbank" and in text "a Farm Credit Bank" for "a Federal land bank" and ", to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall" for "the Federal land bank shall".
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading "Farm Credit Bank" for "Federal land bank" and in text "a Farm Credit Bank" for "a Federal land bank" and ", to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall" for "the Federal land bank shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

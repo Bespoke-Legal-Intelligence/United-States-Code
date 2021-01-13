@@ -20,7 +20,7 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 
 #### (4) Transactions with nonmembers
 
-&emsp;Exemption shall not be denied any such association which markets the products of nonmembers in an amount the value of which does not exceed the value of the products marketed for members, or which purchases supplies and equipment for nonmembers in an amount the value of which does not exceed the value of the supplies and equipment purchased for members, provided the value of the purchases made for persons who are neither members nor producers does not exceed 15 percent of the value of all its purchases.
+&emsp;Exemption shall not be denied any such association which markets the products of nonmembers in an amount the value of which does not exceed the value of the products marketed for members, or which purchases supplies andequipment for nonmembers in an amount the value of which does not exceed the value of the supplies and equipment purchased for members, provided the value of the purchases made for persons who are neither members nor producers does not exceed 15 percent of the value of all its purchases.
 
 #### (5) Business for the United States
 

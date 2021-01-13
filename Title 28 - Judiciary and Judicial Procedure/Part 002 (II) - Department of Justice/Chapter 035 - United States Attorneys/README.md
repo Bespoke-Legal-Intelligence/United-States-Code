@@ -15,6 +15,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647, title XXXVI, §3626(b), Nov. 29, 1990, 104 Stat. 4965, substituted "Clerical assistants, messengers, and private process servers" for "Clerical assistants and messengers" in item 550.

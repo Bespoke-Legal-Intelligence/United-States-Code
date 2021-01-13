@@ -30,7 +30,7 @@
 
 &emsp;(6) a contract to rent property is deemed to be a contract to acquire the property.
 
-(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
+(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible forcarrying out this chapter as it applies to contracts of the Authority.
 
 (c) This chapter applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
 
@@ -68,13 +68,15 @@ May 21, 1982, Pub. L. 97–177, §§6, 7(c), 96 Stat. 87, 88.
 
 In the chapter, the words "the head of" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title andwith other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
+In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
 
 In subsection (a)(5), the words "deemed to be" are substituted for "considered" for consistency in the revised title and with other titles of the Code.
 
 In subsection (a)(6), the words "real or personal" are omitted as surplus. The words "deemed to be" are added for consistency in the revised title and with other titles of the Code.
 
 In subsection (b), the words "the authority of" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (d). Pub. L. 105–277 added subsec. (d).
 Subsec. (a)(5). Pub. L. 100–496, §2(b), amended par. (5) generally, substituting "check for payment is dated or an electronic fund transfer is made" for "check for the payment is dated".
 
 Subsec. (c). Pub. L. 100–496, §2(c)(1), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

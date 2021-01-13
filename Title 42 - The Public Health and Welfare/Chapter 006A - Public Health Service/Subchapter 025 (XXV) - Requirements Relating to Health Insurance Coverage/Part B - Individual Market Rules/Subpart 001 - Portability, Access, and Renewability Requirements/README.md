@@ -10,3 +10,4 @@ subpart 1—portability, access, and renewability requirements
 - [&sect; 00300gg&#8211;43 - Certification of coverage](%C2%A7%2000300gg%E2%80%9343%20-%20Certification%20of%20coverage.md)
 - [&sect; 00300gg&#8211;44 - State flexibility in individual market reforms](%C2%A7%2000300gg%E2%80%9344%20-%20State%20flexibility%20in%20individual%20market%20reforms.md)
 - [&sect; 00300gg&#8211;45 - Relief for high risk pools](%C2%A7%2000300gg%E2%80%9345%20-%20Relief%20for%20high%20risk%20pools.md)
+- [&sect; 00300gg&#8211;46 - Disclosure to enrollees of individual market coverage](%C2%A7%2000300gg%E2%80%9346%20-%20Disclosure%20to%20enrollees%20of%20individual%20market%20coverage.md)

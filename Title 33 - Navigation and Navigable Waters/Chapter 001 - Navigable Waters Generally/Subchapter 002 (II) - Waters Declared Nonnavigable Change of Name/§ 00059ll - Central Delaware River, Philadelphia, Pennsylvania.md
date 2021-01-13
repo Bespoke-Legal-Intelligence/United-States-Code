@@ -18,6 +18,8 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 (Pub. L. 114–322, title I, §1308, Dec. 16, 2016, 130 Stat. 1693.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.

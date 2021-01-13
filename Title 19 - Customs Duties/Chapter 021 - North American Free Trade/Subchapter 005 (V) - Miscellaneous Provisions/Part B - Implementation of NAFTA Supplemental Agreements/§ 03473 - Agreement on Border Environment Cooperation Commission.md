@@ -24,7 +24,17 @@ As used in this section—
 
 &emsp;(3) the term "United States" means the United States, its territories and possessions, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 103–182, title V, §533, Dec. 8, 1993, 107 Stat. 2164.)
+(Pub. L. 103–182, title V, §533, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
+
+Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
 
 #### Ex. Ord. No. 12916. Implementation of Border Environment Cooperation Commission and North American Development Bank
 
@@ -66,7 +76,7 @@ Sec. 11. This order is intended only to improve the internal management of the e
 
 #### Extension of Term of Good Neighbor Environmental Board
 
-Term of Good Neighbor Environmental Board extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Good Neighbor Environmental Board extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept.27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Good Neighbor Environmental Board were contained in the following prior Executive Orders:
 

@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(V) an election under this subclause applies to the taxable year.
 
-&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
 
 #### (iv) Treatment of certain currency contracts
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shallbe determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
+&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shall be determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
 
 #### (2) 988 hedging transaction
 
@@ -326,7 +326,7 @@ Pub. L. 105–34, title XI, §1104(b), Aug. 5, 1997, 111 Stat. 967, provided tha
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with specialrules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
+Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with special rules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
 
 #### Effective Date of 1989 Amendment
 

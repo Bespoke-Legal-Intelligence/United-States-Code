@@ -8,13 +8,17 @@
 
 #### Historical and Revision Notes
 
-This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S.C. (enacted into positive law byact of July 30, 1947 (ch. 389, §1, 61 Stat. 641), the provisions of former section 420 of title 18, U.S.C. (act of June 6, 1934, ch. 406, 48 Stat. 909), which, in the course of the revision of such title 18, was omitted therefrom and recommended for transfer to such title 4. (See table 7—Transferred sections, p. A219, H. Rept. No. 304, April 24, 1947, to accompany H.R. 3190, 80th Cong.).
+This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S.C. (enacted into positive law by act of July 30, 1947 (ch. 389, §1, 61 Stat. 641), the provisions of former section 420 of title 18, U.S.C. (act of June 6, 1934, ch. 406, 48 Stat. 909), which, in the course of the revision of such title 18, was omitted therefrom and recommended for transfer to such title 4. (See table 7—Transferred sections, p. A219, H. Rept. No. 304, April 24, 1947, to accompany H.R. 3190, 80th Cong.).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–406 inserted "Guam" after "the Virgin Islands,".
 
 <b>1956</b>—Act Aug. 3, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

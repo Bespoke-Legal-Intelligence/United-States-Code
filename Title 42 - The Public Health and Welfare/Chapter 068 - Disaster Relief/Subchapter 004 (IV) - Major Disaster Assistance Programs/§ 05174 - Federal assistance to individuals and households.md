@@ -14,7 +14,7 @@
 
 #### (1) Eligibility
 
-&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from theirpredisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
+&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
 
 #### (2) Determination of appropriate types of assistance
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;(i) may be sold to any person; or
 
-&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
+&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to aState or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
 
 &emsp;&emsp;&emsp;&emsp;(I) to comply with the nondiscrimination provisions of section 5151 of this title; and
 
@@ -184,7 +184,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;A State or Indian tribal government desiring to provide assistance under subsection\(c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
+&emsp;&emsp;A State or Indian tribal government desiring to provide assistance under subsection (c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
 
 #### (B) Criteria
 
@@ -238,7 +238,7 @@
 
 #### (H) Report on incentives
 
-&emsp;&emsp;Not later than 12 months after October 5, 2018, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a potential incentive structure for awards made under this section to encourage participation by eligible States and Indian tribal governments. In developing this report, the Administrator of the Federal Emergency Management Agency shall consult with State, local, and Indian tribal entities to gain their input on any such incentive structure to encourage participation and shall include this information in the report. This report should address, among other options, potential adjustments to thecost-share requirement and management costs to State and Indian tribal governments.
+&emsp;&emsp;Not later than 12 months after October 5, 2018, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a potential incentive structure for awards made under this section to encourage participation by eligible States and Indian tribal governments. In developing this report, the Administrator of the Federal Emergency Management Agency shall consult with State, local, and Indian tribal entities to gain their input on any such incentive structure to encourage participation and shall include this information in the report. This report should address, among other options, potential adjustments to the cost-share requirement and management costs to State and Indian tribal governments.
 
 #### (I) Prohibition
 
@@ -284,7 +284,7 @@
 
 #### (3) Adjustment of limit
 
-&emsp;The limit established under paragraphs (1) and (2) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+&emsp;The limit established under paragraphs (1) and (2) shall be adjusted annually to reflectchanges in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 #### (4) Exclusion of necessary expenses for individuals with disabilities
 
@@ -377,6 +377,46 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: "The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\]."
+
+#### Lost Wages Assistance Recoupment Fairness
+
+Pub. L. 116–260, div. N, title II, §262, Dec. 27, 2020, 134 Stat. 1962, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'covered assistance' means assistance provided for supplemental lost wages payments under subsections (e)(2) and (f) of section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174), as authorized under the emergency declaration issued by the President on March 13, 2020, pursuant to section 501(b) of such Act (42 U.S.C. 5191(b)) and under any subsequent major disaster declaration under section 401 of such Act (42 U.S.C. 5170) that supersedes such emergency declaration; and
+
+&emsp;"(2) the term 'State' has the meaning given the term in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122).
+
+"(b)
+
+Waiver Authority for State Liability.—In the case of any individual who has received amounts of covered assistance to which the individual is not entitled, the State shall require the individual to repay the amounts of such assistance to the State agency, except that the State agency may waive such repayment if the State agency determines that—
+
+&emsp;"(1) the payment of such covered assistance was without fault on the part of the individual; and
+
+&emsp;"(2) such repayment would be contrary to equity and good conscience.
+
+"(c)
+
+Waiver Authority for Federal Liability.—Any waiver of debt issued by a State under subsection (b) shall also waive the debt owed to the United States.
+
+"(d)
+
+Reporting.—
+
+&emsp;"(1)
+
+State reporting.—If a State issues a waiver of debt under subsection (b), the State shall report such waiver to the Administrator of the Federal Emergency Management Agency.
+
+&emsp;"(2)
+
+OIG reporting.—Not later than 6 months after the date of enactment of this Act \[Dec. 27, 2020\], the Inspector General of the Department of Homeland Security shall submit a report that assesses the efforts of the States to waive recoupment related to lost wages assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) to—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs, the Committee on Finance, and the Subcommittee on Homeland Security of the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure, Committee on Ways and Means, and the Subcommittee on Homeland Security of the Committee on Appropriations of the House of Representatives."
 
 #### Reimbursement
 

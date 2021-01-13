@@ -26,7 +26,7 @@
 
 (3) Contributions under this subsection shall be paid—
 
-&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, or other employees, respectively;
+&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air trafficcontrollers, military reserve technicians, or other employees, respectively;
 
 &emsp;(B) in the case of elected officials, from an appropriation or fund available for payment of other salaries of the same office or establishment; and
 
@@ -64,6 +64,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, §401(c), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 116–94, div. E, title II, §211, Dec. 20, 2019, 133 Stat. 2773.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
@@ -90,9 +92,11 @@ Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(
 
 Pub. L. 102–378 substituted "multiplied" for "multipled".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, withtransition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -48,11 +48,15 @@ Sept. 13, 1960, Pub. L. 86–778, §542(a)(2), 74 Stat. 985.
 
 This section also amends 5 U.S.C. 8504 to eliminate certain provisions that are now obsolete. The obsolete provisions were based on section 542(b)(2) of the act of September 13, 1960, 74 Stat. 986, that amended section 1504 of the Social Security Act effective January 1, 1961, but only in the case of first claims filed before January 1, 1966. Any existing rights are preserved by section 7 of this bill.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Par. (3). Pub. L. 94–566 struck out par. (3) which covered the assignment to the Virgin Islands of the Federal service and Federal wages of Federal employees whose first claims were filed while residing in the Virgin Islands.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3), set out as a note under section 3304 of Title 26.
+Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1,1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3), set out as a note under section 3304 of Title 26.
 

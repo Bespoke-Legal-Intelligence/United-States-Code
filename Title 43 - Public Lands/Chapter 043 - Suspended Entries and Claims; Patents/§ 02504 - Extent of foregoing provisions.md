@@ -4,15 +4,19 @@ Sections 2501 to 2503 of this title shall be applicable to all cases of suspende
 
 (R.S. §2457; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1164 of this title prior to editorial reclassification and renumbering as this section.
 
 R.S. §2457 derived from act June 26, 1856, ch. 47, 11 Stat. 22.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-"Bureau of Land Management" substituted for "General Land Office" on authority of section 403 of Reorg.Plan No. 3 of 1946. See note set out under section 1 of this title.
+"Bureau of Land Management" substituted for "General Land Office" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 

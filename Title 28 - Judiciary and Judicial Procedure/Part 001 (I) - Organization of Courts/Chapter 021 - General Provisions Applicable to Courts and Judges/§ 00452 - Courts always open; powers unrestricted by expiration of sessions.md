@@ -20,6 +20,8 @@ Section 13 of title 28, U.S.C., 1940 ed., provided that "The district courts, as
 
 Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions similar to the second and first paragraphs, respectively, of this section with respect to civil actions in district courts.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1963</b>—Pub. L. 88–139 substituted "expiration of sessions" for "terms" in section catchline, and "session" for "term" in text.

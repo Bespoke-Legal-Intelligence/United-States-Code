@@ -4,11 +4,15 @@ The insurance provided for in this subchapter and the deductions and contributio
 
 (Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 885, §776; amended Pub. L. 99–576, title VII, §701(42), Oct. 28, 1986, 100 Stat. 3294; renumbered §1976 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 776 of this title as this section and substituted "Secretary" for "Administrator" in two places.
 
 <b>1986</b>—Pub. L. 99–576 substituted "the Administrator" for "him" after "certified by".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Interim Coverage Until Effective Date of Group Plan; $5,000 Death Gratuity
 

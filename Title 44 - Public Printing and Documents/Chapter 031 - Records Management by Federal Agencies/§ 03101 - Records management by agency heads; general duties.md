@@ -8,13 +8,15 @@ The head of each Federal agency shall make and preserve records containing adequ
 
 Based on 44 U.S. Code, 1964 ed., §396(a) (June 30, 1949, ch. 288, title V, §506(a), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Executive Documents</b>
+
 #### Managing Government Records
 
 Memorandum of President of the United States, Nov. 28, 2011, 76 F.R. 75423, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Section 1. <i>Purpose</i>. This memorandum begins an executive branch-wide effort to reform records management policies and practices. Improving records management will improve performance and promote openness and accountability by better documenting agency actions and decisions. Records transferred to the National Archives and Records Administration (NARA) provide the prism through which future generations will understand and learn from our actions and decisions. Modernized records management will also help executive departments and agencies (agencies) minimize costs and operate more efficiently. Improvedrecords management thus builds on Executive Order 13589 of November 9, 2011 (Promoting Efficient Spending), which directed agencies to reduce spending and focus on mission-critical functions.
+Section 1. <i>Purpose</i>. This memorandum begins an executive branch-wide effort to reform records management policies and practices. Improving records management will improve performance and promote openness and accountability by better documenting agency actions and decisions. Records transferred to the National Archives and Records Administration (NARA) provide the prism through which future generations will understand and learn from our actions and decisions. Modernized records management will also help executive departments and agencies (agencies) minimize costs and operate more efficiently. Improved records management thus builds on Executive Order 13589 of November 9, 2011 (Promoting Efficient Spending), which directed agencies to reduce spending and focus on mission-critical functions.
 
 When records are well-managed, agencies can use them to assess the impact of programs, to reduce redundant efforts, to save money, and to share knowledge within and across their organizations. In these ways, proper records management is the backbone of open Government.
 

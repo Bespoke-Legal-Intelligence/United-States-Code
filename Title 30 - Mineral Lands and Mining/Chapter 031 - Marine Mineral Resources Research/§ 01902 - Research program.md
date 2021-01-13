@@ -20,7 +20,7 @@ The goal of the program shall be to—
 
 In carrying out the program, the Secretary shall—
 
-&emsp;(1) promote and coordinate partnerships between industry, government, and academia toresearch, identify, assess, and explore marine mineral resources in an environmentally sound manner;
+&emsp;(1) promote and coordinate partnerships between industry, government, and academia to research, identify, assess, and explore marine mineral resources in an environmentally sound manner;
 
 &emsp;(2) undertake programs to develop the basic information necessary to the long-term national interest in marine mineral resources (including seabed mapping) and to ensure that data and information are accessible and widely disseminated as needed and appropriate;
 
@@ -31,6 +31,8 @@ In carrying out the program, the Secretary shall—
 > In carrying out these responsibilities, the Secretary shall ensure the participation of non-Federal users of technologies and data related to marine mineral resources in planning and priority setting.
 
 (Pub. L. 91–631, title II, §202, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3995.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Methane Hydrate Research and Development
 

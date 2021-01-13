@@ -36,6 +36,8 @@ The Secretary of the Interior shall cause to be published in the Federal Registe
 
 (Pub. L. 94–114, §2, Oct. 17, 1975, 89 Stat. 578; Pub. L. 97–434, §1(b), Jan. 8, 1983, 96 Stat. 2280.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 459a of this title prior to editorial reclassification and renumbering as this section.
@@ -43,6 +45,8 @@ Section was formerly classified to section 459a of this title prior to editorial
 #### Amendments
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–434 substituted "section 5501(a) of this title" for "section 5501 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

@@ -72,7 +72,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need;
 
-&emsp;&emsp;&emsp;&emsp;(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems; and
+&emsp;&emsp;&emsp;&emsp;(II) national requirements for geologic map information in areas where mappingis required to solve critical earth science problems; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the needs of land management agencies of the Department of the Interior.
 
@@ -158,6 +158,8 @@ The objectives of the geologic mapping program shall include—
 
 (Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415; Pub. L. 116–9, title V, §5002(a)(2), Mar. 12, 2019, 133 Stat. 768.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted "March 12, 2019" for "March 30, 2009".
@@ -166,7 +168,7 @@ The objectives of the geologic mapping program shall include—
 
 Subsec. (b)(1)(B). Pub. L. 111–11, §11001(c)(2), substituted "not later than 1 year after March 30, 2009, in accordance" for "not later than 1 year after December 9, 1999, in accordance".
 
-Subsec. (b)(1)(C). Pub. L. 111–11, §11001(c)(3), substituted "submit biennially" for "not later than 3 years after December 9, 1999, and biennially thereafter, submit" in introductory provisions.
+Subsec. (b)(1)(C). Pub. L. 111–11, §11001(c)(3), substituted "submit biennially" for "not later than 3years after December 9, 1999, and biennially thereafter, submit" in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 111–11, §11001(d), struck out "geophysical-map data base, geochemical-map data base, and a" after "national" and substituted "provides" for "provide".
 
@@ -231,6 +233,8 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 > Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components."
 
 <b>1994</b>—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -26,5 +26,5 @@ A prior section 1070d–1c, Pub. L. 89–329, title IV, §417E, as added Pub. L.
 
 Section 1070d–1d, Pub. L. 89–329, title IV, §417F, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341, related to staff development activities.
 
-A prior section 1070d–1d, Pub. L. 89–329, title IV, §417F, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1411, authorized grants for staff training, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–1d, Pub. L. 89–329, title IV, §417F, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980,94 Stat. 1411, authorized grants for staff training, prior to the general revision of this part by Pub. L. 99–498.
 

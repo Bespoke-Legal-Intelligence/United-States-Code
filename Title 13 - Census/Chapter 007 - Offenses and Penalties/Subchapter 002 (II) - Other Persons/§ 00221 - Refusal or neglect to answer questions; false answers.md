@@ -1,6 +1,6 @@
 ### §221. Refusal or neglect to answer questions; false answers
 
-(a) Whoever, being over eighteen years of age, refuses or willfully neglects, when requested by the Secretary, or by any other authorized officer or employee of the Department of Commerce or bureau or agency thereof acting under the instructions of the Secretary or authorized officer, to answer, to the best of his knowledge, any of the questions on any schedule submitted to him in connection with any census or survey provided for by subchapters I, II, IV, and V of chapter 5 of this title, applying to himself or to the family to which he belongs or is related, or to the farm or farms of which he or his family is the occupant, shall be fined not more than $100.
+(a) Whoever, being over eighteen years of age, refuses or willfully neglects, when requested bythe Secretary, or by any other authorized officer or employee of the Department of Commerce or bureau or agency thereof acting under the instructions of the Secretary or authorized officer, to answer, to the best of his knowledge, any of the questions on any schedule submitted to him in connection with any census or survey provided for by subchapters I, II, IV, and V of chapter 5 of this title, applying to himself or to the family to which he belongs or is related, or to the farm or farms of which he or his family is the occupant, shall be fined not more than $100.
 
 (b) Whoever, when answering questions described in subsection (a) of this section, and under the conditions or circumstances described in such subsection, willfully gives any answer that is false, shall be fined not more than $500.
 
@@ -22,6 +22,8 @@ References to the Secretary (of Commerce) and to any "authorized officer or empl
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–521, §13(1), struck out provision authorizing imprisonment for not more than sixty days for refusing or willfully neglecting to answer questions under this section.
@@ -31,6 +33,8 @@ Subsec. (b). Pub. L. 94–521, §13(2), struck out provision authorizing impriso
 Subsec. (c). Pub. L. 94–521, §13(3), added subsec. (c).
 
 <b>1957</b>—Subsec. (a). Pub. L. 85–207 substituted "I, II, IV, and V" for "I, II, and IV".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

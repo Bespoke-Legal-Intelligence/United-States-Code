@@ -38,7 +38,7 @@ For a State other credit support program to be approved under this section, that
 
 #### (d) Additional considerations
 
-In making a determination that a State other credit support program is eligible for Federalcontributions to, or for the account of, the State program, the Secretary shall take into account the following additional considerations:
+In making a determination that a State other credit support program is eligible for Federal contributions to, or for the account of, the State program, the Secretary shall take into account the following additional considerations:
 
 &emsp;(1) The anticipated benefits to the State, its businesses, and its residents to be derived from the Federal contributions to, or for the account of, the approved State other credit support program, including the extent to which resulting small business lending will expand economic opportunities.
 

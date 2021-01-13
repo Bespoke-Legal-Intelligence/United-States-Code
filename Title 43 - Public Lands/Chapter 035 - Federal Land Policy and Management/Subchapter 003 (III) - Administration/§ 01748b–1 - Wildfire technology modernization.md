@@ -194,9 +194,13 @@ Nothing in this section—
 
 (Pub. L. 116–9, title I, §1114, Mar. 12, 2019, 133 Stat. 615.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1114 of Pub. L. 116–9. Subsec. (g) of section 1114 of Pub. L. 116–9 amended section 2208 of Title 15, Commerce and Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

@@ -10,9 +10,13 @@ The Secretary shall, in consultation with the National Towing Safety Advisory Co
 
 (Added Pub. L. 104–324, title IX, §901(a), Oct. 19, 1996, 110 Stat. 3946; amended Pub. L. 115–282, title VI, §601(c)(6)(B)(i), Dec. 4, 2018, 132 Stat. 4290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 inserted "National" before "Towing Safety" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -34,7 +34,7 @@ Permanent Limitations on Number.—(1) The total number of non-dual status techn
 
 (d)
 
-Exception for Temporary Employment.—(1) Notwithstanding section 10218 of this title,the Secretary of the Army or the Secretary of the Air Force may employ, for a period not to exceed two years, a person to fill a vacancy created by the mobilization of a military technician (dual status) occupying a position under section 10216 of this title.
+Exception for Temporary Employment.—(1) Notwithstanding section 10218 of this title, the Secretary of the Army or the Secretary of the Air Force may employ, for a period not to exceed two years, a person to fill a vacancy created by the mobilization of a military technician (dual status) occupying a position under section 10216 of this title.
 
 (2) The duration of the temporary employment of a person in a military technician position under this subsection may not exceed the shorter of the following:
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 106–65, §523(a)(2), added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided that: "The amendments made by sections 523 and 524 \[amending this section and section 709 of Title 32, National Guard\] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) \[set out below\] \[plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, 21975, Ex. Comm. 4276\] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section."
+Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided that: "The amendments made by sections 523 and 524 \[amending this section and section 709 of Title 32, National Guard\] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) \[set out below\] \[plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, p. 21975, Ex. Comm. 4276\] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section."
 
 #### Plan for Full Utilization of Military Technicians (Dual Status)
 
@@ -128,7 +128,7 @@ Plan for Full Utilization of Military Technicians (Dual Status).—(1) Not later
 
 Definitions for Categories of Military Technicians.—In this section \[enacting this section\]:
 
-&emsp;"(1) The term 'non-dual status military technician' has the meaning given that term in section 10217 of title 10, United States Code, as added by subsection (a).
+&emsp;"(1) The term 'non-dual status military technician' has the meaning given that term in section 10217 oftitle 10, United States Code, as added by subsection (a).
 
 &emsp;"(2) The term 'military technician (dual status)' has the meaning given the term in section 10216(a) of such title."
 

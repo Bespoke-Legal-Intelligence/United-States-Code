@@ -10,11 +10,15 @@
 
 Based on 44 U.S. Code, 1964 ed., §392 (June 30, 1949, ch. 288, title V, §502, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–383 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -4,6 +4,8 @@ Together with the annual submission required under section 3905(d)(2) <sup>1</s
 
 (Pub. L. 96–465, title I, §1203, as added Pub. L. 101–246, title I, §149(b), Feb. 16, 1990, 104 Stat. 41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3905(d)(2) of this title, referred to in text, was omitted from the Code.

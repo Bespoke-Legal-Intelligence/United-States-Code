@@ -4,6 +4,8 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 (Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, §218, Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, §3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–17 inserted reference in second sentence to Commonwealth of the Northern Mariana Islands.
@@ -11,6 +13,8 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 <b>1984</b>—Pub. L. 98–363 struck out ", except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated" after "and American Samoa".
 
 <b>1973</b>—Pub. L. 93–87 inserted definition of "State" and provided that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 
@@ -51,6 +55,36 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 #### Short Title
 
 Pub. L. 89–564, title II, §208, Sept. 9, 1966, 80 Stat. 737, provided that: "This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the 'Highway Safety Act of 1966'."
+
+#### Highway Safety Grants Emergency Authority
+
+Pub. L. 116–260, div. N, title IV, §442, Dec. 27, 2020, 134 Stat. 2069, provided that: "Notwithstanding any other provision of law, in fiscal year 2021, the Secretary of Transportation may exercise the authority provided by section 22005 of division B of the CARES Act (23 U.S.C. 401 note \[set out below\]; Public Law 116–136)."
+
+Pub. L. 116–136, div. B, title XII, §22005, Mar. 27, 2020, 134 Stat. 613, provided that:
+
+"(a)
+
+In General.—The Secretary of Transportation (referred to in this section as the 'Secretary') may waive or postpone any requirement under section 402, 404, 405, or 412 of title 23, United States Code, section 4001 of the FAST Act (Public Law 114–94; 129 Stat. 1497) \[23 U.S.C. 401 note, 402 note\], or part 1300 of title 23, Code of Federal Regulations (or successor regulations), if the Secretary determines that—
+
+&emsp;"(1) the Coronavirus Disease 2019 (COVID–19) is having a substantial impact on—
+
+&emsp;&emsp;"(A) the ability of States to implement or carry out any grant, campaign, or program under those provisions; or
+
+&emsp;&emsp;"(B) the ability of the Secretary to carry out any responsibility of the Secretary with respect to a grant, campaign, or program under those provisions; or
+
+&emsp;"(2) the requirements of those provisions are having a substantial impact on the ability of States or the Secretary to address the Coronavirus Disease 2019 (COVID–19).
+
+"(b)
+
+Report.—The Secretary shall periodically submit to the relevant committees of Congress a report describing—
+
+&emsp;"(1) each determination made by the Secretary under subsection (a); and
+
+&emsp;"(2) each waiver or postponement of a requirement under that subsection.
+
+"(c)
+
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### Wildlife Vehicle Collision Reduction Study
 
@@ -294,7 +328,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 "(e) Such campaign is authorized to be conducted in cooperation with interested government and nongovernment authorities, agencies, organizations, institutions, businesses, and individuals, and shall utilize to the extent possible nongovernmental professional organizations equipped and experienced to conduct such campaign.
 
-"(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of this section to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in termsof the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
+"(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of this section to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in terms of the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
 
 "(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
@@ -336,7 +370,7 @@ Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted Pr
 
 Pub. L. 89–564, title II, §202, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
-"(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
+"(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include butnot be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
 "(b) The annual report shall also contain such recommendations for additional legislation as the Secretary deems necessary to promote cooperation among the several States in the improvement of highway safety and to strengthen the national highway safety program."
 

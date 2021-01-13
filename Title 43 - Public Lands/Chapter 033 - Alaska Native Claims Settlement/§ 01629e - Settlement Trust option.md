@@ -4,7 +4,7 @@
 
 (1)(A) A Native Corporation may convey assets (including stock or beneficial interests therein) to a Settlement Trust in accordance with the laws of the State (except to the extent that such laws are inconsistent with this section and section 1629b of this title).
 
-(B) The approval of the shareholders of the corporation in the form of a resolution shall be required to convey all or substantially all of the assets of the corporation to a Settlement Trust. A conveyance in violation of this clause shall be void ab initio and shall not be given effect by any court.
+(B) The approval of the shareholders of the corporation in the form of a resolution shall be required to convey all or substantially all of the assets of the corporation to a Settlement Trust.A conveyance in violation of this clause shall be void ab initio and shall not be given effect by any court.
 
 (2) No subsurface estate in land shall be conveyed to a Settlement Trust. A conveyance of title to, or any other interest in, subsurface estate in violation of this subparagraph shall be void ab initio and shall not be given effect by any court.
 
@@ -82,6 +82,8 @@
 
 (Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135; Pub. L. 106–559, title III, §302, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 108–7, div. F, title III, §337(b), Feb. 20, 2003, 117 Stat. 278; Pub. L. 109–221, title I, §101(b), May 12, 2006, 120 Stat. 337.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–221, §101(b)(1), made technical correction to directory language of Pub. L. 108–7, §337(b). See 2003 Amendment note below.
@@ -93,6 +95,8 @@ Subsec. (a)(3)(B)(ii). Pub. L. 109–221, §101(b)(2), substituted "section 1629
 <b>2000</b>—Subsec. (c)(8). Pub. L. 106–559 added par. (8).
 
 <b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–333 inserted "or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres" after "settlor corporation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

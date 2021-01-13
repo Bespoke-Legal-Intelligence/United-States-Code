@@ -4,6 +4,8 @@ Using funds made available in this Act, the Secretary of Homeland Security shall
 
 (Pub. L. 109–90, title V, §537, Oct. 18, 2005, 119 Stat. 2088.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 109–90, Oct. 18, 2005, 119 Stat. 2064, known as the Department of Homeland Security Appropriations Act, 2006. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This Act, referred to in text, is Pub. L. 109–90, Oct. 18, 2005, 119 Stat. 206
 #### Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2006, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Third Proviso
 

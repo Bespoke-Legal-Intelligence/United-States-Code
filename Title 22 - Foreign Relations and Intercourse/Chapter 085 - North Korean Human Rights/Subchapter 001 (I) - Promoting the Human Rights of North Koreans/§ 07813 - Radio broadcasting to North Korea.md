@@ -18,11 +18,15 @@ Not later than 120 days after October 18, 2004, the Broadcasting Board of Govern
 
 (Pub. L. 108–333, title I, §103, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 115–198, §4, July 20, 2018, 132 Stat. 1521.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–198, §4(1), (3), substituted "United States should—" for "United States should", inserted par. (1) designation before "facilitate", and added par. (2).
 
 Subsec. (a)(1). Pub. L. 115–198, §4(2), substituted "broadcasting, including news rebroadcasting," for "radio broadcasting", "increase such broadcasts, including news rebroadcasts," for "increase broadcasts", and "Voice of America; and" for "Voice of America."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -24,13 +24,15 @@ The communication plan described under subsection (a)—
 
 #### (1) Communication plan
 
-&emsp;Not later than 1 year after July 9, 2012, the Secretary, acting through the Commissioner of Food and Drugs, shall issue the communication plan described under this section.
+&emsp;Not later than 1 year after July 9, 2012, the Secretary, acting through the Commissionerof Food and Drugs, shall issue the communication plan described under this section.
 
 #### (2) Posting of communication plan on the office of minority health web site
 
-&emsp;The Secretary, acting through the Commissioner of Food and Drugs, shall publicly post the communication plan on the Internet Website of the Office of Minority Health of the Food and Drug Administration, and provide links to any other appropriate Internet Web site, and seek public comment on the communication plan.
+&emsp;The Secretary, acting through the Commissioner of Food and Drugs, shall publicly post the communication plan on the Internet Web site of the Office of Minority Health of the Food and Drug Administration, and provide links to any other appropriate Internet Web site, and seek public comment on the communication plan.
 
 (Pub. L. 112–144, title XI, §1138, July 9, 2012, 126 Stat. 1125.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

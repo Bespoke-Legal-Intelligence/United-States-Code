@@ -28,6 +28,7 @@
 - [&sect; 05934 - Repealed. Pub. L. 110&#8211;234, title VII, &sect;7211, May 22, 2008, 122 Stat. 1242, and Pub. L. 110&#8211;246, &sect;4(a), title VII, &sect;7211, June 18&#8230;](%C2%A7%2005934%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20VII%2C%20%C2%A77211%2C%20May%2022%2C%202008%2C%20122%20Stat.%201242%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20VII%2C%20%C2%A77211%2C%20June%2018%E2%80%A6.md)
 - [&sect; 05935 - Repealed. Pub. L. 113&#8211;79, title VII, &sect;7407, Feb. 7, 2014, 128 Stat. 898](%C2%A7%2005935%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77407%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20898.md)
 - [&sect; 05936 - Farm and Ranch Stress Assistance Network](%C2%A7%2005936%20-%20Farm%20and%20Ranch%20Stress%20Assistance%20Network.md)
+- [&sect; 05936a - Support for farm stress programs](%C2%A7%2005936a%20-%20Support%20for%20farm%20stress%20programs.md)
 - [&sect; 05937 - Natural products research program](%C2%A7%2005937%20-%20Natural%20products%20research%20program.md)
 - [&sect; 05938 - Repealed. Pub. L. 113&#8211;79, title VII, &sect;7518, Feb. 7, 2014, 128 Stat. 904](%C2%A7%2005938%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77518%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20904.md)
 - [&sect; 05939 - Foundation for Food and Agriculture Research](%C2%A7%2005939%20-%20Foundation%20for%20Food%20and%20Agriculture%20Research.md)

@@ -4,13 +4,17 @@ Whenever a vote is taken to go into liquidation it shall be the duty of the boar
 
 (R.S. §5221; Aug. 9, 1955, ch. 626, 69 Stat. 546.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5221 derived from act June 3, 1864, ch. 106, §42, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments
 
-<b>1955</b>—Act Aug. 9, 1955, struck out provisions relating to publication in a newspaper published in the City ofNew York, and notification to holders of national bank notes to present them for payment.
+<b>1955</b>—Act Aug. 9, 1955, struck out provisions relating to publication in a newspaper published in the City of New York, and notification to holders of national bank notes to present them for payment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception as to Transfer of Functions
 

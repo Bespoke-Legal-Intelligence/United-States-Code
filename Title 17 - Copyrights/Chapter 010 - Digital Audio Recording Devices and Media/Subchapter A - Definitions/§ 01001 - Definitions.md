@@ -60,7 +60,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(10) A "professional model product" is an audio recording device that is designed, manufactured, marketed, and intended for use by recording professionals in the ordinary course of a lawful business, in accordance with such requirements as the Secretary of Commerce shall establish by regulation.
 
-&emsp;(11) The term "serial copying" means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term "digital reproduction of a digital musical recording" does not include a digital musical recording as distributed, by authority of the copyright owner, for ultimate sale to consumers.
+&emsp;(11) The term "serial copying" means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term "digital reproduction of a digital musical recording" does not include a digital musical recording as distributed, byauthority of the copyright owner, for ultimate sale to consumers.
 
 &emsp;(12) The "transfer price" of a digital audio recording device or a digital audio recording medium—
 
@@ -76,9 +76,13 @@ As used in this chapter, the following terms have the following meanings:
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4237.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 482 of the Internal Revenue Code of 1986, referred to in par. (12)(B), is classified to section 482 of Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

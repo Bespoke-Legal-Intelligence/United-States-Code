@@ -40,6 +40,8 @@ Based on title 14, U.S.C., 1946 ed., §§162a, 167, 175c, 185d (Apr. 12, 1902, c
 
 Section was enlarged to include computation of retired pay in all situations. It is in accord with the provisions of Navy statutes. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 423 of this title as this section.
@@ -67,6 +69,8 @@ Pub. L. 98–94, §922(b), inserted "Retired pay, if not a multiple of $1, shall
 <b>1958</b>—Pub. L. 85–422 substituted "that may be credited to him under section 1405 of title 10" for "for which he was entitled to credit in the computation of his pay when last on active duty".
 
 <b>1950</b>—Act Aug. 3, 1950, struck out reference to computation of pay of retired personnel retired by reason of physical disability.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

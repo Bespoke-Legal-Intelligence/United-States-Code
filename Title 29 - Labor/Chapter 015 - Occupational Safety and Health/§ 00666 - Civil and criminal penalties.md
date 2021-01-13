@@ -18,7 +18,7 @@ Any employer who fails to correct a violation for which a citation has been issu
 
 #### (e) Willful violation causing death to employee
 
-Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, and that violation caused death to any employee, shall,upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishment shall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
+Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulationsprescribed pursuant to this chapter, and that violation caused death to any employee, shall, upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishment shall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
 
 #### (f) Giving advance notice of inspection
 
@@ -47,6 +47,8 @@ For purposes of this section, a serious violation shall be deemed to exist in a 
 Civil penalties owed under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
 
 (Pub. L. 91–596, §17, Dec. 29, 1970, 84 Stat. 1606, 1607; Pub. L. 101–508, title III, §3101, Nov. 5, 1990, 104 Stat. 1388–29.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

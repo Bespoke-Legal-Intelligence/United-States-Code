@@ -8,9 +8,7 @@ The Commission may prescribe such rules and regulations as may be necessary to e
 
 (Mar. 10, 1950, ch. 54, title I, §3, 64 Stat. 13; Aug. 8, 1953, ch. 396, §3, 67 Stat. 506; 1954 Reorg. Plan No. 1, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 656, 657.)
 
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -26,6 +24,18 @@ Subsec. (c). Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
 
 <b>1953</b>—Act Aug. 8, 1953, added par. at end which was editorially designated as subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
+#### Modification of Reporting Requirements
+
+Pub. L. 89–348, §2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of thissection as follows: "From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c))."
+
+#### <b>Executive Documents</b>
+
 #### Abolition of International Claims Commission
 
 International Claims Commission of the United States abolished by Reorg. Plan No. 1 of 1954, §4(a), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
@@ -33,10 +43,6 @@ International Claims Commission of the United States abolished by Reorg. Plan No
 #### Abolition of Functions of Secretary of State
 
 The functions of the Secretary of State under the third and fourth sentences of subsec. (c) of this section were abolished by Reorg. Plan No. 1 of 1954, §4(b), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
-
-#### Modification of Reporting Requirements
-
-Pub. L. 89–348, §2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of this section as follows: "From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c))."
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1954</b>
 
@@ -48,7 +54,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Establishment of Commission
 
-There is hereby established the Foreign Claims Settlement Commission of the United States, hereinafter referred to as the Commission. The Commission shall be composed of three members, who shall each be appointed by the President by and with the advice and consent of the Senate, hold office during the pleasure of the President, and receive compensation at the rate of$15,000 per annum. The President shall from time to time designate one of the members of the Commission as the Chairman of the Commission, hereinafter referred to as the Chairman. Two members of the Commission shall constitute a quorum for the transaction of the business of the Commission.
+There is hereby established the Foreign Claims Settlement Commission of the United States, hereinafter referred to as the Commission. The Commission shall be composed of three members, who shall each be appointed by the President by and with the advice and consent of the Senate, hold office during the pleasure of the President, and receive compensation at the rate of $15,000 per annum. The President shall from time to time designate one of the members of the Commission as the Chairman of the Commission, hereinafter referred to as the Chairman. Two members of the Commission shall constitute a quorum for the transaction of the business of the Commission.
 
 #### Sec. 2. Transfer of Functions
 
@@ -126,7 +132,7 @@ The statutory citation for certain functions of the Secretary of State with resp
 
 It is at this time impracticable to specify the reductions of expenditures which it is probable will be brought about by the taking effect of the reorganizations contained in the plan.
 
-Reorganization Plan No. 1 of 1954 provides a single agency for the orderly completion of present claims programs. In addition, it provides an effective organization for the settlement of future authorized claims programs by utilizing the experience gained by present claims agencies. It provides unified administrative direction of the functions concerned, and it simplifies the organizational structure of the executive branch. I urge that the Congress allow the reorganization plan to become effective.
+Reorganization Plan No. 1 of 1954 provides a single agency for the orderly completion of present claims programs. In addition, it provides an effective organization for the settlement of future authorized claims programs by utilizing the experience gained by present claims agencies. It provides unified administrative direction of the functions concerned, and it simplifies theorganizational structure of the executive branch. I urge that the Congress allow the reorganization plan to become effective.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

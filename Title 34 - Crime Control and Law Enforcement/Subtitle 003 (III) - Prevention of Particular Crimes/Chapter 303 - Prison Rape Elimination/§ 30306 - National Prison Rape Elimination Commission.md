@@ -92,7 +92,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(J) an assessment of the feasibility and cost of any particular proposals for prison reform;
 
-&emsp;&emsp;(K) an identification of the need for additional scientific and social science research on the prevalence of prison rape in Federal, State, and local prisons;
+&emsp;&emsp;(K) an identification of the need for additional scientific and social science researchon the prevalence of prison rape in Federal, State, and local prisons;
 
 &emsp;&emsp;(L) an assessment of the general relationship between prison rape and prison violence;
 
@@ -190,7 +190,7 @@ In developing recommended national standards for enhancing the detection, preven
 
 #### (1) In general
 
-&emsp;The Commission shall hold public hearings. The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties under this section.
+&emsp;The Commission shall hold public hearings. The Commission may hold such hearings, sitand act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties under this section.
 
 #### (2) Witness expenses
 
@@ -252,6 +252,8 @@ The Commission shall be exempt from the Federal Advisory Committee Act.
 
 (Pub. L. 108–79, §7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, §123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, §113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, §1181, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 110–199, title II, §261, Apr. 9, 2008, 122 Stat. 694.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -269,6 +271,8 @@ Section was formerly classified to section 15606 of Title 42, The Public Health 
 <b>2005</b>—Subsec. (d)(3)(A). Pub. L. 109–108 substituted "3 years" for "2 years".
 
 <b>2004</b>—Pub. L. 108–447 substituted "Elimination" for "Reduction" in section catchline and in text of subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2008 Amendment
 

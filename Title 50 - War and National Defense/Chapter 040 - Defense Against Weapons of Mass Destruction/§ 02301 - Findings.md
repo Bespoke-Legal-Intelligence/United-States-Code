@@ -246,5 +246,5 @@ Definition.—In this section, the term 'weapon of mass destruction' has the mea
 
 #### Executive Order No. 13328
 
-Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

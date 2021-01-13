@@ -16,7 +16,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (2) Compensation
 
-&emsp;The United States Commissioners or Alternate Commissioners, although officers of the United States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
+&emsp;The United States Commissioners or Alternate Commissioners, although officers of theUnited States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
 
 #### (3) Travel expenses
 
@@ -106,7 +106,7 @@ Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out forme
 
 &emsp;"(C) any other criminal or civil statute or regulation governing the conduct of Federal employees."
 
-Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck out former cl. (ii) which read as follows:"shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
+Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: "shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
 
 &emsp;"(I) injury compensation under chapter 81 of title 5;
 

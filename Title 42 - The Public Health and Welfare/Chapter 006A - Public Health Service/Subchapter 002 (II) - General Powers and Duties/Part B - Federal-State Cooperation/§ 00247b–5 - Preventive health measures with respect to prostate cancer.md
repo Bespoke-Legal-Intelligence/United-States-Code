@@ -134,7 +134,7 @@ The Secretary shall determine the amount of a grant made under subsection (a). P
 
 &emsp;(A) Upon the request of an applicant receiving a grant under subsection (a), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the applicant in carrying out such section and, for such purpose, may detail to the applicant any officer or employee of the Department of Health and Human Services.
 
-&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the grant under subsection (a) to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reducethe amount of payments under the grant under subsection (a) to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (k) "Units of local government" defined
 

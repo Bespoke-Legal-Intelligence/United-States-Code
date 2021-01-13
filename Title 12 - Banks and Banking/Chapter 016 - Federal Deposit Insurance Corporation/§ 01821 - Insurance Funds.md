@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the ratio of the published annual value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), published by the Department of Commerce, for the calendar year preceding the year in which the adjustment is calculated under this clause, to the published annual value of such index for the calendar year preceding April 1, 2006.
 
-&emsp;&emsp;&nbsp;The values used in the calculation under subclause (II) shall be, as of the date of thecalculation, the values most recently published by the Department of Commerce.
+&emsp;&emsp;&nbsp;The values used in the calculation under subclause (II) shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
 
 #### (ii) Rounding
 
@@ -290,7 +290,7 @@ Cease and desist orders.—Any willful violation of a cease-and-desist order whi
 
 &emsp;&emsp;(E)
 
-Concealment.—Any concealment of the institution's books, papers, records, or assets, or any refusal to submit the institution's books, papers, records, or affairs for inspection to any examiner or to any lawful agent of the appropriate Federal banking agency or State bank or savings association supervisor.
+Concealment.—Any concealment of the institution's books, papers, records, or assets, or any refusal to submit the institution's books, papers, records, or affairs forinspection to any examiner or to any lawful agent of the appropriate Federal banking agency or State bank or savings association supervisor.
 
 &emsp;&emsp;(F)
 
@@ -460,7 +460,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (E) Additional powers as receiver
 
-&emsp;&emsp;The Corporation may (subject to the provisions of section 1831q of this title), as receiver, place the insured depository institution in liquidation and proceed to realize upon the assets of the institution, having due regard to the conditions of credit in the locality.
+&emsp;&emsp;The Corporation may (subject to the provisions of section 1831q of this title), as receiver, place the insured depository institution in liquidation and proceed to realize upon the assets of the institution, havingdue regard to the conditions of credit in the locality.
 
 #### (F) Organization of new institutions
 
@@ -2090,6 +2090,8 @@ Subject to subsection (u), in selling any real property (other than eligible res
 
 (Sept. 21, 1950, ch. 967, §2\[11\], 64 Stat. 884; Pub. L. 89–695, title III, §301(c), (d), Oct. 16, 1966, 80 Stat. 1055; Pub. L. 91–151, title I, §7(a)(3), (4), Dec. 23, 1969, 83 Stat. 375; Pub. L. 93–495, title I, §§101(a)(3), 102(a)(3), (4), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(17)–(22), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title XIV, §1401(a), Nov. 10, 1978, 92 Stat. 3712; Pub. L. 96–153, title III, §323(a), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(a)(1)(C), (D), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §103(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §113(j), (k), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §§503(a), 507, Aug. 10, 1987, 101 Stat. 629, 634; Pub. L. 101–73, title II, §§201(a), 211–214, title IX, §909, Aug. 9, 1989, 103 Stat. 187, 218–246, 477; Pub. L. 101–647, title XXV, §§2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, 104 Stat. 4863, 4875, 4877, 4880, 4882; Pub. L. 102–233, title I, §102, title II, §202(a), (b), title III, §302(a), Dec. 12, 1991, 105 Stat. 1761, 1766, 1767; Pub. L. 102–242, title I, §§123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, §241(c)(1), title III, §311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§416, 426, 446, Dec. 19, 1991, 105 Stat. 2252, 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; Pub. L. 102–550, title XV, §§1501(a), 1544, title XVI, §§1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, 106 Stat. 4044, 4069, 4081, 4083, 4088, 4090; Pub. L. 103–66, title III, §3001(a), (b), Aug. 10, 1993, 107 Stat. 336; Pub. L. 103–204, §§3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, 107 Stat. 2379, 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; Pub. L. 103–325, title III, §325, title IV, §411(c)(2)(A), title VI, §602(a)(21)–(33), Sept. 23, 1994, 108 Stat. 2228, 2253, 2289; Pub. L. 103–328, title II, §201(a), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 103–394, title V, §501(c)(2), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 104–208, div. A, title II, §§2602, 2704(d)(1)–(4), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, 110 Stat. 3009–469, 3009–487, 3009–488, 3009–492, 3009–495; Pub. L. 104–316, title I, §106(i), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 106–102, title I, §117, title VII, §736(a), (b)(2), Nov. 12, 1999, 113 Stat. 1372, 1479; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–569, title XII, §1222, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–386, §8(a)(4), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–8, title IX, §§901(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i)(1), 902(a), 903(a), 904(a), 905(a), 908(a), Apr. 20, 2005, 119 Stat. 146, 147, 149, 151, 152, 155, 157–160, 165, 166, 183; Pub. L. 109–171, title II, §§2102(b), 2103(a)–(c), Feb. 8, 2006, 120 Stat. 9, 11; Pub. L. 109–173, §§2(a), (c)(1), 8(a)(11)–(14), Feb. 15, 2006, 119 Stat. 3601, 3602, 3611, 3612; Pub. L. 109–351, title VII, §§701(b), 718(a), 721(a), 722(a), 724, Oct. 13, 2006, 120 Stat. 1985, 1997–1999, 2001; Pub. L. 109–390, §§2(a)(1), (b)(1), (c)(1), 3(a), 6(a), Dec. 12, 2006, 120 Stat. 2692–2694, 2698; Pub. L. 110–289, div. A, title I, §1161(i), title VI, §1604(a), (c), (d), July 30, 2008, 122 Stat. 2781, 2826, 2829; Pub. L. 111–203, title III, §§335(a), 343(a)(1), (3), 363(5), July 21, 2010, 124 Stat. 1540, 1544, 1552; Pub. L. 111–343,§1(a), Dec. 29, 2010, 124 Stat. 3609; Pub. L. 112–215, §1(1), Dec. 20, 2012, 126 Stat. 1589.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1441a(b)(4) of this title, referred to in subsec. (d)(2)(I)(ii), was in the original "section 21A(b)(4)", which has been translated as reading "section 21A(b)(4) of the Federal Home Loan Bank Act", to reflect the probable intent of Congress. Section 1441a of this title was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
@@ -2166,7 +2168,7 @@ Subsec. (n)(1)(A). Pub. L. 111–203, §363(5)(D)(i), substituted "insured banks
 
 Subsec. (n)(2)(A). Pub. L. 111–203, §363(5)(D)(ii), struck out "or the Director of the Office of Thrift Supervision" before "as a bridge" in introductory provisions.
 
-Subsec. (n)(4)(D), (G). Pub. L. 111–203, §363(5)(D)(iii), (iv), struck out "and the Director of the Office of ThriftSupervision, as appropriate," after "Comptroller of the Currency".
+Subsec. (n)(4)(D), (G). Pub. L. 111–203, §363(5)(D)(iii), (iv), struck out "and the Director of the Office of Thrift Supervision, as appropriate," after "Comptroller of the Currency".
 
 Subsec. (n)(12)(B). Pub. L. 111–203, §363(5)(D)(v), inserted "as" after "shall appoint the Corporation" and struck out "or the Director of the Office of Thrift Supervision, as appropriate," after "Comptroller of the Currency" in two places.
 
@@ -2576,7 +2578,7 @@ Subsec. (a)(2)(A). Pub. L. 102–242, §311(b)(5)(B), in closing provisions, sub
 
 Subsec. (a)(2)(B). Pub. L. 102–242, §311(b)(5)(C), substituted "(B)" for "(b)" as subpar. designation.
 
-Subsec. (a)(3). Pub. L. 102–242, §311(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of deposit insurance available for the account of any one depositor, time and savings deposits in an insured depository institution made pursuant to a pension or profit-sharing plan described in section 401(d) of title26, or made in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of $100,000 per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term 'per account' means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan."
+Subsec. (a)(3). Pub. L. 102–242, §311(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of deposit insurance available for the account of any one depositor, time and savings deposits in an insured depository institution made pursuant to a pension or profit-sharing plan described in section 401(d) of title 26, or made in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of $100,000 per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term 'per account' means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan."
 
 Subsec. (a)(6)(E). Pub. L. 102–233, §202(a), substituted "1993" for "1992" and "2000" for "1999".
 
@@ -2734,6 +2736,8 @@ Subsec. (i). Pub. L. 91–151, §7(a)(4), substituted $20,000 for $15,000 in fif
 
 Subsec. (i). Pub. L. 89–695, §301(d), substituted "$15,000" for "$10,000" in fifth sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -2764,7 +2768,7 @@ Amendment by section 8(a)(11)–(14) of Pub. L. 109–173 effective Mar. 31, 200
 
 Amendment by section 2102(b) of Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note below.
 
-Pub. L. 109–171, title II, §2103(d), Feb. 8, 2006, 120 Stat. 12, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect on the date the final regulations required under section 9(a)(2) \[probably means section 2109(a)(2) ofPub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\]."
+Pub. L. 109–171, title II, §2103(d), Feb. 8, 2006, 120 Stat. 12, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect on the date the final regulations required under section 9(a)(2) \[probably means section 2109(a)(2) of Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\]."
 
 #### Effective Date of 2005 Amendment
 
@@ -2854,11 +2858,11 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1402 of Pub. 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning after Oct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
+Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning afterOct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–151 not applicable to any claim arising out of the closing of a bank where suchclosing took place prior to Dec. 23, 1969, see section 7(b) of Pub. L. 91–151, set out as a note under section 1813 of this title.
+Amendment by Pub. L. 91–151 not applicable to any claim arising out of the closing of a bank where such closing took place prior to Dec. 23, 1969, see section 7(b) of Pub. L. 91–151, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -2948,7 +2952,7 @@ Transactions Involving Certain Institutions.—Section 11(a)(4)(B) of the Federa
 
 "(b)
 
-Transactions Involving the FDIC as Receiver.—Notwithstanding the extension, pursuant to section 27 \[12 U.S.C. 1831d\], of the Resolution Trust Corporation's jurisdiction to be appointed conservator or receiver of certain savings associations after September 30, 1993, no provision of this Act \[see Short Title of 1993 Amendment note set out under section 1421 of this title\] or any amendment made by this Act shall invalidate or otherwise affect—
+Transactions Involving the FDIC as Receiver.—Notwithstanding the extension, pursuant tosection 27 \[12 U.S.C. 1831d\], of the Resolution Trust Corporation's jurisdiction to be appointed conservator or receiver of certain savings associations after September 30, 1993, no provision of this Act \[see Short Title of 1993 Amendment note set out under section 1421 of this title\] or any amendment made by this Act shall invalidate or otherwise affect—
 
 &emsp;"(1) any appointment of the Federal Deposit Insurance Corporation as receiver for any savings association that became effective before the date of enactment of this Act; or
 

@@ -14,6 +14,8 @@ Offense.—If a bankruptcy case or related proceeding is dismissed because of a 
 
 (Added Pub. L. 103–394, title III, §312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title XII, §1220, Apr. 20, 2005, 119 Stat. 195.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set out in the Appendix to Title 11, Bankruptcy.
@@ -21,6 +23,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set o
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, in first par., inserted "(1) the term" before " 'bankruptcy petition preparer' " and substituted "; and" for period at end and, in second par., inserted "(2) the term" before " 'document for filing' " and substituted "title 11" for "this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

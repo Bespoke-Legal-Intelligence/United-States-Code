@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–177, title II, §202(b), Jan. 7, 2008, 121 Stat. 2537, added item 119.

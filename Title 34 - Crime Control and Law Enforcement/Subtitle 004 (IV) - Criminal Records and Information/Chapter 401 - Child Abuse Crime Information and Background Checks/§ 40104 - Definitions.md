@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term "authorized agency" means a division or office of a State designated by a State to report, receive, or disseminate information under this chapter;
+&emsp;(1) the term "authorized agency" means a division or office of a State designated by aState to report, receive, or disseminate information under this chapter;
 
 &emsp;(2) the term "child" means a person who is a child for purposes of the criminal child abuse law of a State;
 
@@ -36,6 +36,8 @@ For the purposes of this chapter—
 
 (Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 115–141, div. S, title I, §101(a)(2), Mar. 23, 2018, 132 Stat. 1126.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5119c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -59,6 +61,8 @@ Par. (8). Pub. L. 103–322, §320928(j)(1), redesignated par. (6) as (8). Forme
 Pub. L. 103–322, §320928(a)(3)(B), substituted "care" for "child care" wherever appearing.
 
 Pars. (9) to (11). Pub. L. 103–322, §320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

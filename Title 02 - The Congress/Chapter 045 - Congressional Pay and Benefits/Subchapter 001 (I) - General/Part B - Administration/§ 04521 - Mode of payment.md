@@ -4,6 +4,8 @@ The compensation of Members and Delegates shall be passed as public accounts, an
 
 (R.S. §46.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 47 of this title prior to editorial reclassification and renumbering as this section.

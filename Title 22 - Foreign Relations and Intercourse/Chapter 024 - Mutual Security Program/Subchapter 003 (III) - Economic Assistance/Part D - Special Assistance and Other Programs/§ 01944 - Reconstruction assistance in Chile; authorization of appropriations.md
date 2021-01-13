@@ -4,9 +4,13 @@ There is authorized to be appropriated to the President not to exceed $100,000,0
 
 (Pub. L. 86–735, §3, Sept. 8, 1960, 74 Stat. 870.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was not enacted as part of the Mutual Security Act of 1954 which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

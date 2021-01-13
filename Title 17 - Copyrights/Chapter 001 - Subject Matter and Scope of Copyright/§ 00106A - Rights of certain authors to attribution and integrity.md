@@ -48,9 +48,13 @@ Transfer and Waiver.—(1) The rights conferred by subsection (a) may not be tra
 
 (Added Pub. L. 101–650, title VI, §603(a), Dec. 1, 1990, 104 Stat. 5128.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], referred to in subsec. (d), is set out as an Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

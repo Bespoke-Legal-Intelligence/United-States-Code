@@ -154,17 +154,19 @@ There are hereby authorized to be appropriated to the Congressional Research Ser
 
 (Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, §154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790; Pub. L. 116–94, div. P, title XIV, §1404(a)(2), (b)(1), Dec. 20, 2019, 133 Stat. 3208.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in subsecs. (d)(9) and (i), probably should be section 154 of the Legislative Branch Appropriations Act, 2018, Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 787. Section 154 of Pub. L. 115–141 enacted section 166a of this title, related to equal access to Congressional Research Service Reports, and amended this section. Div. I of Pub. L. 115–141 does not contain a section 124.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (c)(1). Pub. L. 116–94, §1404(a)(2), substituted "The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title." for "The basic pay of the Directorshall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5."
+<b>2019</b>—Subsec. (c)(1). Pub. L. 116–94, §1404(a)(2), substituted "The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title." for "The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5."
 
 Subsec. (c)(2). Pub. L. 116–94, §1404(b)(1)(A), substituted "section 5376 of title 5." for "subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title." in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 116–94, §1404(b)(1)(B), substituted "may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library." for "may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades."
+Subsec. (c)(2)(B). Pub. L. 116–94, §1404(b)(1)(B), substituted "may be classified above GS–15 in accordancewith section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library." for "may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades."
 
 <b>2018</b>—Subsec. (d)(9). Pub. L. 115–141, §154(d), added par. (9).
 
@@ -190,17 +192,19 @@ Subsec. (j). Pub. L. 91–510 incorporated in provisions added as subsec. (j) ap
 
 <b>1949</b>—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–141 effective 90 days after the date on which the Librarian of Congress submits the certification described in section 166a(f)(2)(B) of this title, with delay permitted for technical difficulties, see section 166a(f) of this title.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c)of Pub. L. 106–57, set out as a note under section 136a–2 of this title.
+Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c) of Pub. L. 106–57, set out as a note under section 136a–2 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 4301 of this title.
+Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, andwith respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

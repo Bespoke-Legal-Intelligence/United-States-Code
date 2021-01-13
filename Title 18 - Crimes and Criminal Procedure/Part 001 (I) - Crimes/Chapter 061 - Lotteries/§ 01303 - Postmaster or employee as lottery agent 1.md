@@ -1,6 +1,6 @@
 ### §1303. Postmaster or employee as lottery agent <sup>1</sup>
 
-Whoever, being an officer or employee of the Postal Service, acts as agent for any lottery office, or under color of purchase or otherwise, vends lottery tickets, or knowingly sends by mail or delivers any letter, package, postal card, circular, or pamphlet advertising any lottery, gift enterprise, or similar scheme, offering prizes dependent in whole or in part upon lot or chance, or any ticket, certificate, or instrument representing any chance, share, or interest in or dependent upon the event of any lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance, or any list of the prizes awarded by means of any such scheme, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer or employee of the Postal Service, acts as agent for any lottery office, or under color of purchase or otherwise, vends lottery tickets, or knowingly sends by mail or delivers any letter, package, postal card,circular, or pamphlet advertising any lottery, gift enterprise, or similar scheme, offering prizes dependent in whole or in part upon lot or chance, or any ticket, certificate, or instrument representing any chance, share, or interest in or dependent upon the event of any lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance, or any list of the prizes awarded by means of any such scheme, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 91–375, §6(j)(10), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
@@ -8,11 +8,15 @@ Whoever, being an officer or employee of the Postal Service, acts as agent for a
 
 Based on title 18 U.S.C., 1940 ed., §337 (Mar. 4, 1909, ch. 321, §214, 35 Stat. 1130). Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100".
 
 <b>1970</b>—Pub. L. 91–375 substituted "an officer or employee of the Postal Service" for "a postmaster or other person employed in the Postal Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

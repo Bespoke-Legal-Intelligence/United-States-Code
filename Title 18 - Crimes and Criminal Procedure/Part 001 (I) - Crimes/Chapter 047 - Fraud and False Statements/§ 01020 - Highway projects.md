@@ -20,6 +20,8 @@ Words "upon conviction thereof" were omitted as surplusage, because punishment c
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in text, is act July 11, 1916, ch. 241, 39 Stat. 355, as amended, which was repealed by Pub. L. 85–767, §2(1), Aug. 27, 1958, 72 Stat. 919. See section 101 et seq. of Title 23, Highways.
@@ -30,13 +32,17 @@ The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in t
 
 <b>1966</b>—Pub. L. 89–670 substituted "Secretary of Transportation" for "Secretary of Commerce" wherever appearing.
 
-<b>1954</b>—Act May 6, 1954, substituted in second par. "with respect to the character, quality, quantity, orcost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction" for "for work or materials for the construction"; and in third par. substituted "as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented" for "in any report required under Title 23, with intent to defraud the United States".
+<b>1954</b>—Act May 6, 1954, substituted in second par. "with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction" for "for work or materials for the construction"; and in third par. substituted "as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented" for "in any report required under Title 23, with intent to defraud the United States".
 
 <b>1951</b>—Act Oct. 31, 1951, substituted "Secretary of Commerce" for "Secretary of Agriculture" in first and second pars.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Transfer of Functions
 

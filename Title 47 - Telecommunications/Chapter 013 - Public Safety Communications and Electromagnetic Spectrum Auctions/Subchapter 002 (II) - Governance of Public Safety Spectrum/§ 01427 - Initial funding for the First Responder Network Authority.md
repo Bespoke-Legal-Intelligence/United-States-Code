@@ -16,6 +16,8 @@ Prior to the deposit of proceeds into the Public Safety Trust Fund from the ince
 
 (Pub. L. 112–96, title VI, §6207, Feb. 22, 2012, 126 Stat. 215.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1451, referred to in subsec. (a), was in the original "section 6401" and means section 6401 of Pub. L. 112–96, which enacted section 1451 of this title and amended section 309 of this title.

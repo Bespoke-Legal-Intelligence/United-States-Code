@@ -45,9 +45,11 @@ Credit shall be given under this System to a participant for a period of prior s
 
 #### (e) Employees of Members or offices of Congress
 
-A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund basedupon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
+A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616;amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -86,6 +88,8 @@ Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted "the Central Intelli
 <b>1986</b>—Subsec. (d). Pub. L. 99–556, §405(a), which directed that subsec. (d) be amended by substituting "which was deducted and withheld from the individual's basic pay under the other retirement system" for "which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant", was executed by making the substitution for "which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant", as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 99–556, §405(b), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

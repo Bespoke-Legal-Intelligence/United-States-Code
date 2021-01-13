@@ -8,7 +8,7 @@
 
 #### (b) Report
 
-The Association shall prepare and submit an annual report to Congress on the performance of the Corporation in order to keep the Congress informed as to matters which may affect the quality of rail services in the region and which may affect the security of Federal funds referred to in subsection (a) of this section. Each such report shall be submitted within 150 days after the end of the fiscal year of the Corporation. Each such report shall include an evaluation of—
+The Association shall prepare and submit an annual report to Congress on the performance ofthe Corporation in order to keep the Congress informed as to matters which may affect the quality of rail services in the region and which may affect the security of Federal funds referred to in subsection (a) of this section. Each such report shall be submitted within 150 days after the end of the fiscal year of the Corporation. Each such report shall include an evaluation of—
 
 &emsp;(1) the degree to which the goals of section 716(a) of this title are being met;
 
@@ -34,9 +34,13 @@ The Association shall prepare and submit an annual report to Congress on the per
 
 (Pub. L. 93–236, title III, §307, as added Pub. L. 94–210, title VI, §609, Feb. 5, 1976, 90 Stat. 99; amended Pub. L. 95–565, §7, Nov. 1, 1978, 92 Stat. 2400.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–565 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Conrail Funding Studies; Reports to Congress; Recommendations for Financially Self-Sustaining Rail System; Availability of Recommendations; Publication in Federal Register; Comments on Reports; Recommendations by Secretary on Future Structure and Operations by Corporation; Immunity From Antitrust Laws; Analysis of Effects on Corporation and Employees of Alternative Changes in Labor Agreements and Related Operational Changes; Projections on Benefits, Changes, Savings, and Increased Revenues
 

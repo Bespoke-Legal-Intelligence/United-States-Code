@@ -10,6 +10,8 @@
 
 (Added Pub. L. 96–513, title IV, §413, Dec. 12, 1980, 94 Stat. 2906; amended Pub. L. 99–145, title VIII, §810(a), Nov. 8, 1985, 99 Stat. 681; Pub. L. 99–661, div. A, title VI, §655, Nov. 14, 1986, 100 Stat. 3891; Pub. L. 101–189, div. A, title III, §321, Nov. 29, 1989, 103 Stat. 1413; Pub. L. 104–324, title II, §214(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -21,6 +23,8 @@
 <b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted "or when residing at a military installation pursuant to an agreement in effect on June 30, 1986," in second sentence.
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–145 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -76,7 +76,7 @@ In this subchapter:
 
 #### (16) Small tobacco product manufacturer
 
-&emsp;The term "small tobacco product manufacturer" means a tobacco product manufacturer that employs fewer than 350 employees. For purposes of determining the number of employees of a manufacturer under the preceding sentence, the employees of a manufacturer are deemed to include the employees of each entity that controls, is controlled by, or is under common control with such manufacturer.
+&emsp;The term "small tobacco product manufacturer" means a tobacco product manufacturer that employs fewer than 350 employees. Forpurposes of determining the number of employees of a manufacturer under the preceding sentence, the employees of a manufacturer are deemed to include the employees of each entity that controls, is controlled by, or is under common control with such manufacturer.
 
 #### (17) Smoke constituent
 
@@ -130,6 +130,8 @@ In this subchapter:
 
 (June 25, 1938, ch. 675, §900, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1784.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Severability
 
 Pub. L. 111–31, div. A, §5, June 22, 2009, 123 Stat. 1782, provided that: "If any provision of this division \[see Short Title of 2009 Amendment note set out under section 301 of this title\], of the amendments made by this division, or of the regulations promulgated under this division (or under such amendments), or the application of any such provision to any person or circumstance is held to be invalid, the remainder of this division, such amendments and such regulations, and the application of such provisions to any other person or circumstance shall not be affected and shall continue to be enforced to the fullest extent possible."
@@ -168,7 +170,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(5) Tobacco advertising and marketing contribute significantly to the use of nicotine-containing tobacco products by adolescents.
 
-&emsp;"(6) Because past efforts to restrict advertising and marketing of tobacco products have failed adequately to curb tobacco use by adolescents, comprehensive restrictions on the sale, promotion, and distribution of such products are needed.
+&emsp;"(6) Because past efforts to restrict advertising and marketing of tobacco products have failed adequatelyto curb tobacco use by adolescents, comprehensive restrictions on the sale, promotion, and distribution of such products are needed.
 
 &emsp;"(7) Federal and State governments have lacked the legal and regulatory authority and resources they need to address comprehensively the public health and societal problems caused by the use of tobacco products.
 
@@ -220,7 +222,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(31) The regulations described in paragraph (30) will directly and materially advance the Federal Government's substantial interest in reducing the number of children and adolescents who use cigarettes and smokeless tobacco and in preventing the life-threatening health consequences associated with tobacco use. An overwhelming majority of Americans who use tobacco products begin using such products while they are minors and become addicted to the nicotine in those products before reaching the age of 18. Tobacco advertising and promotion play a crucial role in the decision of these minors to begin using tobacco products. Less restrictive and less comprehensive approaches have not \[been\] and will not be effective in reducing the problems addressed by such regulations. The reasonable restrictions on the advertising and promotion of tobacco products contained in such regulations will lead to a significant decrease in the number of minors using and becoming addicted to those products.
 
-&emsp;"(32) The regulations described in paragraph (30) impose no more extensive restrictions on communication by tobacco manufacturers and sellers than are necessary to reduce the number of children and adolescents who use cigarettes and smokeless tobacco and to prevent the life-threatening health consequences associated with tobacco use. Such regulations are narrowly tailored to restrict those advertising and promotional practices which are most likely to be seen or heard by youth and most likely to entice them into tobacco use, while affording tobacco manufacturers and sellers ample opportunity to convey information about their products to adult consumers.
+&emsp;"(32) The regulations described in paragraph (30) impose no more extensive restrictions on communication by tobacco manufacturers and sellers than are necessary to reduce the number of children and adolescents who use cigarettes and smokeless tobacco and to prevent the life-threatening health consequences associated with tobacco use. Such regulations are narrowly tailored to restrict those advertising and promotional practices which are most likely to be seen or heard by youth and most likely to entice them into tobacco use, while affording tobaccomanufacturers and sellers ample opportunity to convey information about their products to adult consumers.
 
 &emsp;"(33) Tobacco dependence is a chronic disease, one that typically requires repeated interventions to achieve long-term or permanent abstinence.
 
@@ -244,7 +246,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(43) The only way to effectively protect the public health from the dangers of unsubstantiated modified risk tobacco products is to empower the Food and Drug Administration to require that products that tobacco manufacturers sold or distributed for risk reduction be reviewed in advance of marketing, and to require that the evidence relied on to support claims be fully verified.
 
-&emsp;"(44) The Food and Drug Administration is a regulatory agency with the scientific expertise to identify harmful substances in products to which consumers are exposed, to design standards to limit exposure tothose substances, to evaluate scientific studies supporting claims about the safety of products, and to evaluate the impact of labels, labeling, and advertising on consumer behavior in order to reduce the risk of harm and promote understanding of the impact of the product on health. In connection with its mandate to promote health and reduce the risk of harm, the Food and Drug Administration routinely makes decisions about whether and how products may be marketed in the United States.
+&emsp;"(44) The Food and Drug Administration is a regulatory agency with the scientific expertise to identify harmful substances in products to which consumers are exposed, to design standards to limit exposure to those substances, to evaluate scientific studies supporting claims about the safety of products, and to evaluate the impact of labels, labeling, and advertising on consumer behavior in order to reduce the risk of harm and promote understanding of the impact of the product on health. In connection with its mandate to promote health and reduce the risk of harm, the Food and Drug Administration routinely makes decisions about whether and how products may be marketed in the United States.
 
 &emsp;"(45) The Federal Trade Commission was created to protect consumers from unfair or deceptive acts or practices, and to regulate unfair methods of competition. Its focus is on those marketplace practices that deceive or mislead consumers, and those that give some competitors an unfair advantage. Its mission is to regulate activities in the marketplace. Neither the Federal Trade Commission nor any other Federal agency except the Food and Drug Administration possesses the scientific expertise needed to implement effectively all provisions of the Family Smoking Prevention and Tobacco Control Act \[div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title\].
 

@@ -48,7 +48,7 @@ Duties.—The Board shall—
 
 &emsp;(2) within one year after the date of enactment of this subsection, and on an ongoing basis thereafter, review any cost accounting standards established under section 1502 of this title and conform such standards, where practicable, to Generally Accepted Accounting Principles; and
 
-&emsp;(3) annually review disputes involving such standards brought to the boards established insection 7105 of this title or Federal courts, and consider whether greater clarity in such standards could avoid such disputes.
+&emsp;(3) annually review disputes involving such standards brought to the boards established in section 7105 of this title or Federal courts, and consider whether greater clarity in such standards could avoid such disputes.
 
 (d)
 
@@ -80,7 +80,7 @@ Other Staff.—The Administrator may appoint, fix the compensation of, and remov
 
 (h)
 
-Detailed and Temporary Personnel.—For service on advisory committees and task forces to assist the Board in carrying out its functions and responsibilities—
+Detailed and Temporary Personnel.—For service on advisory committees and taskforces to assist the Board in carrying out its functions and responsibilities—
 
 &emsp;(1) the Board, with the consent of the head of a Federal agency, may use, without reimbursement, personnel of that agency; and
 
@@ -160,6 +160,8 @@ In subsection (f)(3), the words "Executive Schedule" are substituted for "Federa
 
 In subsec. (c)(2), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
@@ -183,6 +185,8 @@ Subsecs. (g) to (i). Pub. L. 114–328, §820(a)(1)(B), redesignated subsecs. (d
 Subsec. (i)(1). Pub. L. 114–328, §820(a)(3)(A), substituted "subsection (h)(1)" for "subsection (e)(1)".
 
 Subsec. (i)(3). Pub. L. 114–328, §820(a)(3)(B), substituted "subsection (h)(2)" for "subsection (e)(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

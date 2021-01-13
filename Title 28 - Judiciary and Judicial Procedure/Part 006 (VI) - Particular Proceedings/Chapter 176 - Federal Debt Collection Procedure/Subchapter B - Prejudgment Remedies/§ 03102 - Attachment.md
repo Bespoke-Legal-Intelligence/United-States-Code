@@ -66,7 +66,7 @@ Levy of Attachment.—(1) The United States marshal receiving the writ shall pro
 
 Return of Writ; Duties of Marshal; Further Return.—(1) A United States marshal executing a writ of attachment shall return the writ with the marshal's action endorsed thereon or attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the levy.
 
-(2) The return shall describe the property attached with sufficient certainty to identify it and shall state the location where it was attached, the date and time it was attached, and the disposition made of the property. If no property was attached, the return shall so state.
+(2) The return shall describe the property attached with sufficient certainty to identify itand shall state the location where it was attached, the date and time it was attached, and the disposition made of the property. If no property was attached, the return shall so state.
 
 (3) If the property levied on is claimed, replevied under subsection (j)(2), or sold under section 3007 after the return, the United States marshal shall immediately make a further return to the clerk of the court showing the disposition of the property.
 
@@ -115,6 +115,8 @@ Judgment for the united states when personal property replevied.—With respect 
 Restoration of property and exoneration of replevin bond.—If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4942.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

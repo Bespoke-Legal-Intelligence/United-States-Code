@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 98–407, §802(3), added subsec. (e).
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(B), Nov. 14, 1986, 100 Stat. 3993, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) \[amending this section\]."
+Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(B), Nov. 14, 1986, 100 Stat. 3993, provided that: "The amendmentmade by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) \[amending this section\]."
 
 #### Effective Date of 1982 Amendment
 

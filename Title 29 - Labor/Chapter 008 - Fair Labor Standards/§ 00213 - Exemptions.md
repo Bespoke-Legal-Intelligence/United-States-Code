@@ -4,7 +4,7 @@
 
 The provisions of sections 206 (except subsection (d) in the case of paragraph (1) of this subsection) and 207 of this title shall not apply with respect to—
 
-&emsp;(1) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to the provisions of subchapter II of chapter 5 of title 5, except that an employee of a retail or service establishment shall not be excluded from the definition of employee employed in a bona fide executive or administrative capacity because of the number of hours in his workweek which he devotes to activities not directly or closely related to the performance of executive or administrative activities, if less than 40 per centum of his hours worked in the workweek are devoted to such activities); or
+&emsp;(1) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to the provisions of subchapter II of chapter 5 of title 5, except that an employee of a retail or service establishment shall not be excluded from the definition of employee employed in a bona fide executive or administrative capacity because of the number of hours in his workweek which he devotes to activities not directly or closely related tothe performance of executive or administrative activities, if less than 40 per centum of his hours worked in the workweek are devoted to such activities); or
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -114,7 +114,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
 
-&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior orthe Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(30) a criminal investigator who is paid availability pay under section 5545a of title 5.
 
@@ -162,13 +162,13 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(i)(I) the scrap paper balers and paper box compactors meet the American National Standards Institute's Standard ANSI Z245.5–1990 for scrap paper balers and Standard ANSI Z245.2–1992 for paper box compactors; or
 
-&emsp;(II) the scrap paper balers and paper box compactors meet an applicable standard that is adopted by the American National Standards Institute after August 6, 1996, and that is certified by the Secretary to be at least as protective of the safety of minors as the standard described in subclause (I);
+&emsp;(II) the scrap paper balers and paper box compactors meet an applicable standard thatis adopted by the American National Standards Institute after August 6, 1996, and that is certified by the Secretary to be at least as protective of the safety of minors as the standard described in subclause (I);
 
 &emsp;(ii) the scrap paper balers and paper box compactors include an on-off switch incorporating a key-lock or other system and the control of the system is maintained in the custody of employees who are 18 years of age or older;
 
 &emsp;(iii) the on-off switch of the scrap paper balers and paper box compactors is maintained in an off position when the scrap paper balers and paper box compactors are not in operation; and
 
-&emsp;(iv) the employer of 16- and 17-year-old employees provides notice, and posts a notice, onthe scrap paper balers and paper box compactors stating that—
+&emsp;(iv) the employer of 16- and 17-year-old employees provides notice, and posts a notice, on the scrap paper balers and paper box compactors stating that—
 
 &emsp;&emsp;(I) the scrap paper balers and paper box compactors meet the applicable standard described in clause (i);
 
@@ -298,7 +298,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 #### (i) Cotton ginning
 
-The provisions of section 207 of this title shall not apply for a period or periods of not more than fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
+The provisions of section 207 of this title shall not apply for a period or periods of not morethan fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
 
 &emsp;(1) is engaged in the ginning of cotton for market in any place of employment located in a county where cotton is grown in commercial quantities; and
 
@@ -325,6 +325,8 @@ The provisions of section 207 of this title shall not apply for a period or peri
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
 (June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005; Pub. L. 115–141, div. S, title II, §201(a), Mar. 23, 2018, 132 Stat. 1126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -368,7 +370,7 @@ Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
-Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a)" for "provided by paragraphs (2) and (6) of subsection (a)" and struck out before period at end ", except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) if it were in an enterprise described in section 203(s) of this title".
+Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a)" for "provided by paragraphs (2) and (6) of subsection (a)" and struck out before period at end ", except that the exemptionfrom section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) if it were in an enterprise described in section 203(s) of this title".
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–70 struck out "; and the Canal Zone" after "Johnston Island".
 
@@ -422,7 +424,7 @@ Subsec. (b)(18). Pub. L. 93–259, §15(a), effective May 1, 1974, inserted "and
 
 Subsec. (b)(19). Pub. L. 93–259, §16(a), effective one year after May 1, 1974, substituted "forty-four hours" for "forty-eight hours". Pub. L. 93–259, §16(b), repealed par. (19), effective two years after May 1, 1974.
 
-Subsec. (b)(20). Pub. L. 93–259, §6(c)(2)(A), added par. (20) effective May 1, 1974. Pub. L. 93–259, §6(c)(2)(B), effective Jan. 1, 1975, made maximum hours provisions inapplicable during any workweek to any employee of a public agency employing during the workweek less than 5 employees.
+Subsec. (b)(20). Pub. L. 93–259, §6(c)(2)(A), added par. (20) effective May 1, 1974. Pub. L. 93–259, §6(c)(2)(B), effective Jan. 1, 1975, made maximum hours provisionsinapplicable during any workweek to any employee of a public agency employing during the workweek less than 5 employees.
 
 Subsec. (b)(21). Pub. L. 93–259, §7(b)(4), added par. (21).
 
@@ -492,13 +494,13 @@ Subsec. (b)(1). Pub. L. 89–670 substituted "Secretary of Transportation" for "
 
 Subsec. (b)(7). Pub. L. 89–601, §206(c), narrowed the scope of the exemption from any employee of the covered transportation companies to drivers, operators, and conductors only and narrowed the range of covered transportation companies from any street, suburban, or interurban electric railway, or local trolley or motorbus carrier to only those of such named enterprises as have their rates and service subject to regulation by a state or local agency.
 
-Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
+Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shallnot apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
 
 Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which granted an unlimited overtime exemption relating to petroleum distribution employees and enacted a new par. (10) relating to salesmen, partsmen, or mechanics primarily engaged in selling or servicing automobiles, trailers, trucks, farm implements, or aircraft if employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles to ultimate purchasers. See subsec. (b)(3) of this section.
 
 Subsec. (b)(12) to (19). Pub. L. 89–601, §§203(c)(B), 204(b), 206(b)(2), 210(b), added pars. (12) to (19).
 
-Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child laborapplicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
+Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
 
 Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwajalein Atoll, and Johnston Island.
 
@@ -563,6 +565,8 @@ Subsec. (c). Act Oct. 26, 1949, substituted "outside of school hours for the sch
 Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
 <b>1939</b>—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -650,12 +654,6 @@ Pub. L. 85–231, §2, Aug. 30, 1957, 71 Stat. 514, provided that: "The amendmen
 
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under section 202 of this title.
 
-#### Transfer of Functions
-
-Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Exemptions for Apprentices and Student Learners
 
 Pub. L. 104–174, §3, Aug. 6, 1996, 110 Stat. 1555, provided that: "Section 1 \[amending this section\] shall not be construed as affecting the exemption for apprentices and student learners published in section 570.63 of title 29, Code of Federal Regulations."
@@ -674,7 +672,7 @@ Pub. L. 93–259, §23(c), Apr. 8, 1974, 88 Stat. 69, provided in part for amend
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 
@@ -683,6 +681,14 @@ Pub. L. 87–30, §13, May 5, 1961, 75 Stat. 75, directed Secretary of Labor to 
 #### Transportation of Migrant Farm Workers
 
 Act Aug. 3, 1956, ch. 905, §3, 70 Stat. 958, provided that: "Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

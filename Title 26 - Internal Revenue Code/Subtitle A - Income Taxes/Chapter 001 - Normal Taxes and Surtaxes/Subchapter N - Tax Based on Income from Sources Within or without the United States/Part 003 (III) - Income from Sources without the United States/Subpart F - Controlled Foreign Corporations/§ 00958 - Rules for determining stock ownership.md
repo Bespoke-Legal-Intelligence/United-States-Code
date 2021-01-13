@@ -20,7 +20,7 @@
 
 #### (b) Constructive ownership
 
-For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (relating to constructive ownership of stock) shall apply to the extent that the effect is to treat any United States person as a United States shareholder within the meaning of section 951(b), to treat a person as a related person within the meaning of section 954(d)(3), to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation forpurposes of section 956(c)(2), or to treat a foreign corporation as a controlled foreign corporation under section 957, except that—
+For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (relating to constructive ownership of stock) shall apply to the extent that the effect is to treat any United States person as a United States shareholder within the meaning of section 951(b), to treat a person as a related person within the meaning of section 954(d)(3), to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation for purposes of section 956(c)(2), or to treat a foreign corporation as a controlled foreign corporation under section 957, except that—
 
 &emsp;(1) In applying paragraph (1)(A) of section 318(a), stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a citizen or by a resident alien individual.
 

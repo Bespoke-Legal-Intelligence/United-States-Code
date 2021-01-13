@@ -34,7 +34,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (6) Expenses and depreciation applicable to property of the taxpayer
 
-&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
+&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use,the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) that the rent or other compensation received was the highest obtainable, or, if none was received, that none was obtainable;
 
@@ -140,7 +140,7 @@ Amendment by section 1951(b)(9)(A) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) ofPub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 1966 Amendments
 

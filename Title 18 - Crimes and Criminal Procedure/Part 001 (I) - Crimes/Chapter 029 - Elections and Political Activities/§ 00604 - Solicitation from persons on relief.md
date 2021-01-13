@@ -12,6 +12,8 @@ This section consolidates sections 61d and 61g of title 18, U.S.C., 1940 ed.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

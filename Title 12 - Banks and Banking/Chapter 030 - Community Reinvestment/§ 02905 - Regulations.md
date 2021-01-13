@@ -4,9 +4,13 @@ Regulations to carry out the purposes of this chapter shall be published by each
 
 (Pub. L. 95–128, title VIII, §806, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 111–203, title III, §358(2), July 21, 2010, 124 Stat. 1548.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 inserted ", except that the Comptroller of the Currency shall prescribe regulationsapplicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies," after "supervisory agency".
+<b>2010</b>—Pub. L. 111–203 inserted ", except that the Comptroller of the Currency shall prescribe regulations applicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies," after "supervisory agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

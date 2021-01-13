@@ -20,7 +20,7 @@
 
 (2) Paragraph (1) does not apply to a member or former member entitled to retired pay for non-regular service under chapter 1223 of this title who is under 60 years of age.
 
-(c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under theCivilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
 (2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
 
@@ -30,7 +30,7 @@
 
 (3)(A) A member of the uniformed services described in subparagraph (B) may not be required to receive routine primary medical care at a military medical treatment facility.
 
-(B) A member referred to in subparagraph (A) is a member of the uniformed services on active duty who is entitled to medical care under this subsection and who—
+(B) A member referred to in subparagraph (A) is a member of the uniformed services on activeduty who is entitled to medical care under this subsection and who—
 
 &emsp;(i) receives a duty assignment described in subparagraph (C); and
 
@@ -90,7 +90,7 @@ In subsection (b), the words "active duty (other than for training)" are substit
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out asa note under section 138 \[now 114\] of this title, and which was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
+Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 \[now 114\] of this title, and which was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
 
 A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
@@ -112,7 +112,7 @@ Subsec. (c)(4). Pub. L. 110–181, §1633(a), added par. (4).
 
 Subsec. (d). Pub. L. 108–136, §703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-"(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
+"(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is coveredby such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
 
 &emsp;"(A) the date of the issuance of such order; or
 
@@ -202,9 +202,59 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
-#### Delegation of Functions
+#### Registry of Certain TRICARE Beneficiaries Diagnosed With COVID–19
 
-Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Pub. L. 116–283, div. A, title VII, §734, Jan. 1, 2021, 134 Stat. 3702, provided that:
+
+"(a)
+
+Establishment.—Not later than June 1, 2021, and subject to subsection (b), the Secretary of Defense shall establish and maintain a registry of covered TRICARE beneficiaries who have been diagnosed with COVID–19.
+
+"(b)
+
+Right of Beneficiary to Opt Out.—A covered TRICARE beneficiary may elect to opt out of inclusion in the registry under subsection (a).
+
+"(c)
+
+Contents.—The registry under subsection (a) shall include, with respect to each covered TRICARE beneficiary included in the registry, the following:
+
+&emsp;"(1) The demographic information of the beneficiary.
+
+&emsp;"(2) Information on the industrial or occupational history of the beneficiary, to the extent such information is available in the records regarding the COVID–19 diagnosis of the beneficiary.
+
+&emsp;"(3) Administrative information regarding the COVID–19 diagnosis of the beneficiary, including the date of the diagnosis and the location and source of the test used to make the diagnosis.
+
+&emsp;"(4) Any symptoms of COVID–19 manifested in the beneficiary.
+
+&emsp;"(5) Any treatments for COVID–19 taken by the beneficiary, or other medications taken by the beneficiary, when the beneficiary was diagnosed with COVID–19.
+
+&emsp;"(6) Any pathological data characterizing the incidence of COVID–19 and the type of treatment for COVID–19 provided to the beneficiary.
+
+&emsp;"(7) Information on any respiratory illness of the beneficiary recorded prior to the COVID–19 diagnosis of the beneficiary.
+
+&emsp;"(8) Any information regarding the beneficiary contained in the Airborne Hazards and Open Burn Pit Registry established under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note).
+
+&emsp;"(9) Any other information determined appropriate by the Secretary.
+
+"(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on establishing the registry under subsection (a), including—
+
+&emsp;"(1) a plan to implement the registry;
+
+&emsp;"(2) the cost of implementing the registry;
+
+&emsp;"(3) the location of the registry; and
+
+&emsp;"(4) any recommended legislative changes with respect to establishing the registry.
+
+"(e)
+
+Covered TRICARE Beneficiary Defined.—In this section, the term 'covered TRICARE beneficiary' means an individual who is enrolled in the direct care system under the TRICARE program and is treated for or diagnosed with COVID–19 at a military medical treatment facility."
+
+#### Coverage of Testing for COVID–19: Application With Respect to TRICARE
+
+Pub. L. 116–127, div. F, §6006(a), Mar. 18, 2020, 134 Stat. 207, provided that: "The Secretary of Defense may not require any copayment or other cost sharing under chapter 55 of title 10, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) \[of Pub. L. 116–127, 42 U.S.C. 1320b–5 note\] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act \[Mar. 18, 2020\]."
 
 #### Provision of Blood Testing for Firefighters of Department of Defense to Determine Exposure to Perfluoroalkyl and Polyfluoroalkyl Substances
 
@@ -298,7 +348,7 @@ Exposure.—The term 'exposure' means, with respect to a toxic substance, an eve
 
 &emsp;"(4)
 
-Toxic substance.—The term 'toxic substance' means any substance determined by the Administrator of the Environmental Protection Agency to be harmful to the environment or hazardous to thehealth of an individual if inhaled or ingested by or absorbed through the skin of that individual."
+Toxic substance.—The term 'toxic substance' means any substance determined by the Administrator of the Environmental Protection Agency to be harmful to the environment or hazardous to the health of an individual if inhaled or ingested by or absorbed through the skin of that individual."
 
 #### Adjustment of Medical Services, Personnel Authorized Strengths, and Infrastructure in Military Health System To Maintain Readiness and Core Competencies of Health Care Providers
 
@@ -382,7 +432,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) \[now 1074g(i)\] of title 10, United States Code."
+Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaninggiven that term in section 1074g(g) \[now 1074g(i)\] of title 10, United States Code."
 
 #### Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder
 
@@ -538,7 +588,7 @@ Elements.—The study required by subsection (a) shall specifically address the 
 
 &emsp;"(1) The long-term physical and mental health effects of traumatic brain injuries incurred by members of the Armed Forces during service in Operation Iraqi Freedom or Operation Enduring Freedom.
 
-&emsp;"(2) The health care, mental health care, and rehabilitation needs of such members for such injuriesafter the completion of inpatient treatment through the Department of Defense, the Department of Veterans Affairs, or both.
+&emsp;"(2) The health care, mental health care, and rehabilitation needs of such members for such injuries after the completion of inpatient treatment through the Department of Defense, the Department of Veterans Affairs, or both.
 
 &emsp;"(3) The type and availability of long-term care rehabilitation programs and services within and outside the Department of Defense and the Department of Veterans Affairs for such members for such injuries, including community-based programs and services and in-home programs and services.
 
@@ -720,7 +770,7 @@ Composition.—The members of the Committee are as follows:
 
 &emsp;&emsp;"(A) The Under Secretary of Defense for Personnel and Readiness, who shall chair the Committee.
 
-&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff of the Air Force, and the Assistant Commandant of the Marine Corp.
+&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff ofthe Air Force, and the Assistant Commandant of the Marine Corp.
 
 &emsp;&emsp;"(C) The Assistant Secretary of Defense for Health Affairs.
 
@@ -770,7 +820,7 @@ Duties.—The duties of the Committee are as follows:
 
 &emsp;&emsp;&emsp;"(vi) compliance with Department of Defense and other applicable policies on blood serum repositories.
 
-&emsp;&emsp;"(D) To ensure unity and integration of efforts across functional and organizational lines withinthe Department of Defense with regard to medical readiness tracking and health surveillance of members of the Armed Forces.
+&emsp;&emsp;"(D) To ensure unity and integration of efforts across functional and organizational lines within the Department of Defense with regard to medical readiness tracking and health surveillance of members of the Armed Forces.
 
 &emsp;&emsp;"(E) To establish and monitor compliance with the medical readiness standards that are applicable to members and those that are applicable to units.
 
@@ -844,7 +894,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 &emsp;&emsp;"(B) An analysis of the efficacy of health surveillance systems as a means of detecting—
 
-&emsp;&emsp;&emsp;"(i) any health problems (including mental health conditions) of members of the Armed Forces contemporaneous with the performance of the assessment under the system; and
+&emsp;&emsp;&emsp;"(i) any health problems (including mental health conditions) of members of the ArmedForces contemporaneous with the performance of the assessment under the system; and
 
 &emsp;&emsp;&emsp;"(ii) exposures of the assessed members to environmental hazards that potentially lead to future health problems.
 
@@ -952,7 +1002,7 @@ Action Official.—The Secretary of Defense may act through the Under Secretary 
 
 #### Internet Accessibility of Health Assessment Information for Members of the Armed Forces
 
-Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website of that military department includes the following information relating to health assessments:
+Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website ofthat military department includes the following information relating to health assessments:
 
 &emsp;"(1) Information on the policies of the Department of Defense and the military department concerned regarding predeployment and postdeployment health assessments, including policies on the following matters:
 
@@ -984,7 +1034,7 @@ Pub. L. 108–136, div. A, title VII, §706, Nov. 24, 2003, 117 Stat. 1529, as a
 
 #### Disclosure of Information on Project 112 to Department of Veterans Affairs
 
-Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, directed the Secretary of Defense to submit to Congress and the Secretary of Veterans Affairs a plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information on Project 112, a chemical and biological weapons vulnerability-testing program, relevant to the provision of benefits to members of the Armed Forces who participated in that project; provided that the plan was to be completed no later than one year after Dec.2, 2002; and required implementation reports to Congress and the Secretary of Veterans Affairs.
+Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, directed the Secretary of Defense to submit to Congress and the Secretary of Veterans Affairs a plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information on Project 112, a chemical and biological weapons vulnerability-testing program, relevant to the provision of benefits to members of the Armed Forces who participated in that project; provided that the plan was to be completed no later than one year after Dec. 2, 2002; and required implementation reports to Congress and the Secretary of Veterans Affairs.
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
@@ -1164,7 +1214,7 @@ Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian
 
 &emsp;"(2) For any Persian Gulf War veteran who is, as of the date of the enactment of this Act \[Oct. 5, 1994\], a member of a reserve component, opportunity to register at a military medical facility in the Persian Gulf Veterans Health Care Surveillance System and, in the case of a Reserve who registers in that registry, a full medical evaluation by the Department of Defense. Depending on the results of the evaluation and on eligibility status, reserve personnel may be provided medical care by the Department of Defense.
 
-&emsp;"(3) For a Persian Gulf veteran who is not, as of the date of the enactment of this Act \[Oct. 5, 1994\], on active duty or a member of a reserve component, assistance and information at a military medical facilityon registering with the Persian Gulf War Registry of the Department of Veterans Affairs and information related to support services provided by the Department of Veterans Affairs.
+&emsp;"(3) For a Persian Gulf veteran who is not, as of the date of the enactment of this Act \[Oct. 5, 1994\], on active duty or a member of a reserve component, assistance and information at a military medical facility on registering with the Persian Gulf War Registry of the Department of Veterans Affairs and information related to support services provided by the Department of Veterans Affairs.
 
 "(c)
 
@@ -1286,7 +1336,7 @@ Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which pro
 
 #### Mental Health Evaluations of Members of Armed Forces
 
-Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, §711(b), Dec. 31, 2011, 125 Stat. 1476.
+Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluationsof members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, §711(b), Dec. 31, 2011, 125 Stat. 1476.
 
 #### Study on Risk-Sharing Contracts for Health Care
 
@@ -1314,7 +1364,7 @@ Contents of Registry.—(1) The Registry shall include—
 
 &emsp;&emsp;"(ii) to the extent that data are available and inclusion of the data is feasible, a description of the circumstances of the member's service during the Persian Gulf conflict, including the locations in the Operation Desert Storm theater of operations in which such service occurred and the atmospheric and other environmental circumstances in such locations at the time of such service; and
 
-&emsp;"(B) with respect to the members referred to in subsection (a)(1), a description of the circumstances ofeach exposure of each such member to the fumes of burning oil as described in such subsection (a)(1), including the length of time of the exposure.
+&emsp;"(B) with respect to the members referred to in subsection (a)(1), a description of the circumstances of each exposure of each such member to the fumes of burning oil as described in such subsection (a)(1), including the length of time of the exposure.
 
 "(2) The Secretary shall establish the Registry with the advice of an independent scientific organization.
 
@@ -1383,6 +1433,10 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 Report to President and Congress
 
 Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+
+#### Delegation of Functions
+
+Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 #### Executive Order No. 13075
 

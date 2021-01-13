@@ -20,7 +20,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(iv) an employee of the Panama Canal Commission when employed on the Isthmus of Panama;
 
-&emsp;&emsp;(v) a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;
+&emsp;&emsp;(v) an employee of the Veterans Health Administration who is covered by a leave system established under section 7421 of title 38;
 
 &emsp;&emsp;(vi) an employee of either House of Congress or of the two Houses;
 
@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 > Notwithstanding clauses (x)–(xii) of paragraph (2), the term "employee" includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 116–283, div. A, title XI, §1103(f)(1), Jan. 1, 2021, 134 Stat. 3889.)
 
 Historical and Revision Notes
 
@@ -90,6 +90,8 @@ In paragraph (2)(ix), the words "as defined by section 901 of title 20" are adde
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section 102(3) of that Act by Pub. L. 98–164, which struck out the designation "(a)" and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
@@ -97,6 +99,8 @@ Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xi
 Section 312 of the Foreign Service Act of 1980, referred to in text, is classified to section 3952 of Title 22.
 
 #### Amendments
+
+<b>2021</b>—Par. (2)(B)(v). Pub. L. 116–283 which directed the general amendment of cl. (v) without specifying the subpar., was executed by amending cl. (v) of subpar. (B) generally to reflect the probable intent of Congress. Prior to amendment, cl. (v) read as follows: "a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;".
 
 <b>1991</b>—Par. (2)(v). Pub. L. 102–54 substituted "Veterans Health Administration of the Department of Veterans Affairs" for "Department of Medicine and Surgery, Veterans' Administration".
 
@@ -112,17 +116,19 @@ Par. (2)(xii). Pub. L. 96–465, §2314(f)(1), substituted "a chief of mission (
 
 <b>1970</b>—Par. (2)(ii). Pub. L. 91–375 struck out ", except an hourly employee in the postal field service," after "part-time employee".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
@@ -151,6 +157,8 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: "This Act 
 #### Employees of the District of Columbia
 
 Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10540
 

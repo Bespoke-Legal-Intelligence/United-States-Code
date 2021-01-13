@@ -82,7 +82,7 @@ Any change in method of accounting made pursuant to this section shall be treate
 
 #### (ii) Effect of election
 
-&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under thissubparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
+&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under this subparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
 
 #### (iii) Election
 
@@ -150,7 +150,7 @@ Subsec. (i). Pub. L. 100–203, §10205(b), added subsec. (i).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out "and with the capitalization of preproductive period of expenses described in subsection (b)", was executed by striking out "and with the capitalization of preproductive period expenses described in subsection (b)" after "accrual method of accounting", as the probable intent of Congress.
 
-Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading "period of expenses" for "period expenses" and in text the cross reference to section 263A for former par. (1) defining "preproductive period expenses", par. (2) relating to exceptions, and par. (3) defining "preproductive period".
+Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading "period of expenses" for "period expenses" and in text the crossreference to section 263A for former par. (1) defining "preproductive period expenses", par. (2) relating to exceptions, and par. (3) defining "preproductive period".
 
 Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding subsection (a) or section 263A, if" for "If".
 
@@ -158,7 +158,7 @@ Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding s
 
 Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted "or qualified partnership" after "corporation" wherever appearing.
 
-Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired"through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired" through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
 
 Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 

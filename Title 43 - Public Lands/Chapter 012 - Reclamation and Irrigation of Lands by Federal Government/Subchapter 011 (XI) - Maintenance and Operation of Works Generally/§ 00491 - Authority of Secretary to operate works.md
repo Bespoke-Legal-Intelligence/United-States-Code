@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized and directed to use the reclamation 
 
 (June 17, 1902, ch. 1093, §6, 32 Stat. 389.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
@@ -11,6 +13,8 @@ This Act, referred to in text, is act June 17, 1902, popularly known as the Recl
 #### Codification
 
 Section is comprised of part of section 6 of act June 17, 1902. Remainder of such section 6 is classified to section 498 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Section as Unaffected by Submerged Lands Act
 

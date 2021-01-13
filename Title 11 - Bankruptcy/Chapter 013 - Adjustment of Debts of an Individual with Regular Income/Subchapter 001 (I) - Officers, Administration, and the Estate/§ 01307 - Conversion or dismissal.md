@@ -1,6 +1,6 @@
 ### §1307. Conversion or dismissal
 
-(a) The debtor may convert a case under this chapter to a case under chapter 7 of this title atany time. Any waiver of the right to convert under this subsection is unenforceable.
+(a) The debtor may convert a case under this chapter to a case under chapter 7 of this title at any time. Any waiver of the right to convert under this subsection is unenforceable.
 
 (b) On request of the debtor at any time, if the case has not been converted under section 706, 1112, or 1208 of this title, the court shall dismiss a case under this chapter. Any waiver of the right to dismiss under this subsection is unenforceable.
 
@@ -52,6 +52,8 @@ Subsections (a) and (b) confirm, without qualification, the rights of a chapter 
 
 Subsection (f) reinforces section 109 by prohibiting conversion to a chapter under which the debtor is not eligible to proceed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–327, §2(a)(41)(A)(i), substituted "subsection (f)" for "subsection (e)" in introductory provisions.
@@ -80,13 +82,15 @@ Subsec. (e). Pub. L. 99–554, §257(v)(3), inserted reference to chapter 12.
 
 Subsec. (c)(4). Pub. L. 98–353, §315(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted "a request made for" before "additional". Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted "a requestmade for" before "additional". Former par. (5) redesignated (6).
 
 Subsec. (c)(6). Pub. L. 98–353, §315(1), redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 98–353, §§315(1), 527(b)(2), redesignated former par. (6) as (7) and substituted "or" for "and". Former par. (7) redesignated (8).
 
 Subsec. (c)(8). Pub. L. 98–353, §§315(1), 527(b)(3), redesignated former par. (7) as (8) and inserted "other than completion of payments under the plan" after "in the plan".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

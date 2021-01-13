@@ -6,7 +6,7 @@ The Secretary shall ensure that the requirements of the Buy American Act apply t
 
 #### (b) Report to Congress
 
-The Secretary shall submit to the Congress a report on the amount of procurements from foreign entities made in fiscal years 1993 and 1994 with funds made available to carry out this subchapter. Such report shall separately indicate the dollar value of items procured with such funds for which the Buy American Act was waived pursuant to the Trade Agreement Act of 1979 or any international agreement to which the United States is a party.
+The Secretary shall submit to the Congress a report on the amount of procurements from foreign entities made in fiscal years 1993 and 1994with funds made available to carry out this subchapter. Such report shall separately indicate the dollar value of items procured with such funds for which the Buy American Act was waived pursuant to the Trade Agreement Act of 1979 or any international agreement to which the United States is a party.
 
 #### (c) Fraudulent use of Made-in-America label
 
@@ -17,6 +17,8 @@ If it has been finally determined by a court or Federal agency that any person i
 For purposes of this section, the term "Buy American Act" means title III of the Act entitled "An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes", approved March 3, 1933 (41 U.S.C. 10a et seq.) <sup>1</sup>.
 
 (Pub. L. 94–437, title III, §310, as added Pub. L. 102–573, title III, §308, Oct. 29, 1992, 106 Stat. 4564; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -18,23 +18,25 @@ Sensitive Military Cyber Operation Defined.—(1) In this section, the term "sen
 
 &emsp;(A) is carried out by the armed forces of the United States;
 
-&emsp;(B) is determined to—
+&emsp;(B) is intended to achieve a cyber effect against a foreign terrorist organization or a country, including its armed forces and the proxy forces of that country located elsewhere—
 
-&emsp;&emsp;(i) have a medium or high collateral effects estimate;
+&emsp;&emsp;(i) with which the armed forces of the United States are not involved in hostilities (as that term is used in section 4 of the War Powers Resolution (50 U.S.C. 1543)); or
 
-&emsp;&emsp;(ii) have a medium or high intelligence gain or loss;
+&emsp;&emsp;(ii) with respect to which the involvement of the armed forces of the United States in hostilities has not been acknowledged publicly by the United States; and
 
-&emsp;&emsp;(iii) have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
+&emsp;(C)(i) is determined to—
 
-&emsp;&emsp;(iv) have a medium or high probability of detection when detection is not intended; or
+&emsp;&emsp;(I) have a medium or high collateral effects estimate;
 
-&emsp;&emsp;(v) result in medium or high collateral effects; and
+&emsp;&emsp;(II) have a medium or high intelligence gain or loss;
 
-&emsp;(C) is intended to cause cyber effects outside a geographic location—
+&emsp;&emsp;(III) have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
 
-&emsp;&emsp;(i) where the armed forces of the United States are involved in hostilities (as that term is used in section 1543 of title 50, United States Code); or
+&emsp;&emsp;(IV) have a medium or high probability of detection when detection is not intended; or
 
-&emsp;&emsp;(ii) with respect to which hostilities have been declared by the United States.
+&emsp;&emsp;(V) result in medium or high collateral effects; or
+
+&emsp;(ii) is a matter the Secretary determines to be appropriate.
 
 (2) The actions described in this paragraph are the following:
 
@@ -54,17 +56,19 @@ Exceptions.—The notification requirement under subsection (a) does not apply�
 
 Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 115–91, div. A, title XVI, §1631(a), Dec. 12, 2017, 131 Stat. 1736, §130j; renumbered §395 and amended Pub. L. 115–232, div. A, title X, §1081(a)(1), title XVI, §1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, §1632, Dec. 20, 2019, 133 Stat. 1745.)
+(Added Pub. L. 115–91, div. A, title XVI, §1631(a), Dec. 12, 2017, 131 Stat. 1736, §130j; renumbered §395 and amended Pub. L. 115–232, div. A, title X, §1081(a)(1), title XVI, §1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, §1632, Dec. 20, 2019, 133 Stat. 1745; Pub. L. 116–283, div. A, title XVII, §1702, Jan. 1, 2021, 134 Stat. 4080.)
 
 #### References in Text
 
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
-The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
+The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 116–283 amended subsec. (c) generally. Prior to amendment, subsec. (c) defined "sensitive military cyber operation" as used in this section.
 
 <b>2019</b>—Subsec. (b)(3). Pub. L. 116–92, §1632(1), inserted ", signed by the Secretary, or the Secretary's designee," after "written notification".
 

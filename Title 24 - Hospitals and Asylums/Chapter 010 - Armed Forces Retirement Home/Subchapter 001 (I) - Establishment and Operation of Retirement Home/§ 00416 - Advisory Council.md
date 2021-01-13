@@ -10,11 +10,7 @@ The Retirement Home shall have an Advisory Council, to be known as the "Armed Fo
 
 (2) Not less often than annually, the Advisory Council shall submit to the Secretary of Defense a report summarizing its activities during the preceding year and providing such observations and recommendations with respect to the Retirement Home as the Advisory Council considers appropriate.
 
-(3) In carrying out its functions, the Advisory Council shall—
-
-&emsp;(A) provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and
-
-&emsp;(B) make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.
+(3) In carrying out its functions, the Advisory Council shall provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home.
 
 #### (c) Composition
 
@@ -68,19 +64,23 @@ A vacancy in the Advisory Council shall be filled in the manner in which the ori
 
 (1) Except as provided in paragraph (2), a member of the Advisory Council may—
 
-&emsp;(A) be provided a stipend consistent with the daily government consultant fee for each dayon which the member is engaged in the performance of services for the Advisory Council; and
+&emsp;(A) be provided a stipend consistent with the daily government consultant fee for each day on which the member is engaged in the performance of services for the Advisory Council; and
 
 &emsp;(B) while away from home or regular place of business in the performance of services for the Advisory Council, be allowed travel expenses (including per diem in lieu of subsistence) in the same manner as a person employed intermittently in Government under sections 5701 through 5707 of title 5.
 
 (2) A member of the Advisory Council who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of the Advisory Council.
 
-(Pub. L. 101–510, div. A, title XV, §1516, as added Pub. L. 112–81, div. A, title V, §563(a), Dec. 31, 2011, 125 Stat. 1421; amended Pub. L. 115–91, div. A, title XIV, §1413(b), Dec. 12, 2017, 131 Stat. 1708.)
+(Pub. L. 101–510, div. A, title XV, §1516, as added Pub. L. 112–81, div. A, title V, §563(a), Dec. 31, 2011, 125 Stat. 1421; amended Pub. L. 115–91, div. A, title XIV, §1413(b), Dec. 12, 2017, 131 Stat. 1708; Pub. L. 116–283, div. A, title XIV, §1413(b)(2), Jan. 1, 2021, 134 Stat. 4032.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 416, Pub. L. 101–510, div. A, title XV, §1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, §1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, §1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, \[div. A\], title X, §1061(b)(12), Oct. 14, 2008, 122 Stat. 4613, related to local boards of trustees, prior to repeal by Pub. L. 112–81, div. A, title V, §563(a), Dec. 31, 2011, 125 Stat. 1421.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(3). Pub. L. 116–283 struck out dash after "shall" and subpar. (A) designation before "provide", substituted period at end for "; and", and struck out subpar. (B) which read as follows: "make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate."
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–91, §1413(b)(1), substituted "15 members." for "15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces."
 

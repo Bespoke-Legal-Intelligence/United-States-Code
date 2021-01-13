@@ -12,7 +12,7 @@ Except as provided in regulations prescribed by the Secretary, if there is an ex
 
 #### (b) Statements to be furnished to transferor and transferee
 
-Every partnership required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every partnership required to make a return under subsection (a) shall furnish to each personwhose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the partnership required to make such return, and
 

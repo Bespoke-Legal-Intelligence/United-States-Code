@@ -36,7 +36,7 @@ In conducting a pilot program established under subsection (b), the Presidential
 
 &emsp;(1) The transmission of electronic voting material across military networks.
 
-&emsp;(2) Virtual private networks, cryptographic voting systems, centrally controlled votingstations, and other information security techniques.
+&emsp;(2) Virtual private networks, cryptographic voting systems, centrally controlled voting stations, and other information security techniques.
 
 &emsp;(3) The transmission of ballot representations and scanned pictures in a secure manner.
 
@@ -86,6 +86,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 111–84, div. A, title V, §589, Oct. 28, 2009, 123 Stat. 2334; Pub. L. 111–383, div. A, title X, §1075(d)(6), Jan. 7, 2011, 124 Stat. 4373.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to this chapter. Sections 101 and 107 of the Act are classified to sections 20301 and 20310, respectively, of this title. For complete classification of this Act to the Code, see Tables.
@@ -94,13 +96,15 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. 
 
 Section was formerly classified to section 1973ff–7 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
-Section was enacted as part of the Military and Overseas Voter Empowerment Act, and also as part of the National Defense Authorization Act for Fiscal Year 2010, and not as part of title I of the Uniformed and Overseas Citizens Absentee Voting Act, which comprises this chapter.
+Section was enacted as part of the Military and Overseas Voter Empowerment Act, and also as part of the National Defense Authorization Act for Fiscal Year 2010, and not as part of title I of the Uniformed andOverseas Citizens Absentee Voting Act, which comprises this chapter.
 
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §1075(d)(6)(A), substituted "section 107(1)" for "section 107(a)" and "1973ff–6(1)" for "1973ff et seq."
 
 Subsec. (e)(1). Pub. L. 111–383, §1075(d)(6)(B), substituted "1973ff note" for "1977ff note".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

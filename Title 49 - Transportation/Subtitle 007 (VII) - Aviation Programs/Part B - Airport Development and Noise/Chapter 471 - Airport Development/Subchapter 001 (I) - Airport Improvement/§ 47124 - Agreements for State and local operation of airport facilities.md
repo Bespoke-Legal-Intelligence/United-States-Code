@@ -104,7 +104,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration.
+&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in thattower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration.
 
 &emsp;&emsp;(B)
 
@@ -166,7 +166,7 @@ Costs to be considered.—In establishing a benefit-to-cost ratio under this sec
 
 &emsp;(3)
 
-Other criteria to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic controltower, the Secretary shall add a 10 percentage point margin of error to the benefit-to-cost ratio determination to acknowledge and account for the direct and indirect economic and other benefits that are not included in the criteria the Secretary used in calculating that ratio.
+Other criteria to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic control tower, the Secretary shall add a 10 percentage point margin of error to the benefit-to-cost ratio determination to acknowledge and account for the direct and indirect economic and other benefits that are not included in the criteria the Secretary used in calculating that ratio.
 
 &emsp;(4)
 
@@ -336,7 +336,7 @@ In general.—If the Administrator of the Federal Aviation Administration has no
 
 "(2)
 
-Requests for additional authority.—The Administrator shall respond not later than 60 days afterthe date the Administrator receives a formal request from an airport and air traffic control contractor for additional authority to expand contract tower operational hours and staff to accommodate flight traffic outside of current tower operational hours.
+Requests for additional authority.—The Administrator shall respond not later than 60 days after the date the Administrator receives a formal request from an airport and air traffic control contractor for additional authority to expand contract tower operational hours and staff to accommodate flight traffic outside of current tower operational hours.
 
 "(3)
 

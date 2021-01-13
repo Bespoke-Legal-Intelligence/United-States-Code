@@ -6,7 +6,7 @@
 
 &emsp;Any agreement entered into under section 4202(b) of this title shall enter into force with respect to the United States if (and only if)—
 
-&emsp;&emsp;(A) the President, at least 90 calendar days before the day on which the President enters into the trade agreement, notifies the Houseof Representatives and the Senate of the President's intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
+&emsp;&emsp;(A) the President, at least 90 calendar days before the day on which the President enters into the trade agreement, notifies the House of Representatives and the Senate of the President's intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
 &emsp;&emsp;(B) the President, at least 60 days before the day on which the President enters into the agreement, publishes the text of the agreement on a publicly available Internet website of the Office of the United States Trade Representative;
 
@@ -80,11 +80,11 @@
 
 #### (B) Procedural disapproval resolution
 
-&emsp;&emsp;(i) For purposes of this paragraph, the term "procedural disapproval resolution" means a resolution of either House of Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to notify or consult in accordance with the BipartisanCongressional Trade Priorities and Accountability Act of 2015 on negotiations with respect to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and, therefore, the trade authorities procedures under that Act shall not apply to any implementing bill submitted with respect to such trade agreement or agreements.", with the blank space being filled with a description of the trade agreement or agreements with respect to which the President is considered to have failed or refused to notify or consult.
+&emsp;&emsp;(i) For purposes of this paragraph, the term "procedural disapproval resolution" means a resolution of either House of Congress, the sole matter after the resolving clause of which is as follows: "That the President has failed or refused to notify or consult in accordance with the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 on negotiations with respect to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and, therefore, the trade authorities procedures under that Act shall not apply to any implementing bill submitted with respect to such trade agreement or agreements.", with the blank space being filled with a description of the trade agreement or agreements with respect to which the President is considered to have failed or refused to notify or consult.
 
 &emsp;&emsp;(ii) For purposes of clause (i) and paragraphs (3)(C) and (4)(C), the President has "failed or refused to notify or consult in accordance with the Bipartisan Congressional Trade Priorities and Accountability Act of 2015" on negotiations with respect to a trade agreement or trade agreements if—
 
-&emsp;&emsp;&emsp;(I) the President has failed or refused to consult (as the case may be) in accordance with sections 4203 and 4204 of this title and this section with respect to the negotiations, agreement, or agreements;
+&emsp;&emsp;&emsp;(I) the President has failed or refused to consult (as the case may be) in accordance with sections 4203 and 4204 of this title andthis section with respect to the negotiations, agreement, or agreements;
 
 &emsp;&emsp;&emsp;(II) guidelines under section 4203 of this title have not been developed or met with respect to the negotiations, agreement, or agreements;
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(i) Not later than the fourth legislative day after the date of introduction of the resolution, the Committee on Ways and Means shall meet to consider a resolution meeting the qualifications set forth in subparagraph (A).
 
-&emsp;&emsp;(ii) After consideration of one such resolution by the Committee on Ways and Means, this subparagraph shall not apply to any other such resolution.
+&emsp;&emsp;(ii) After consideration of one such resolution by the Committee on Ways and Means,this subparagraph shall not apply to any other such resolution.
 
 &emsp;&emsp;(iii) If the Committee on Ways and Means has not reported the resolution by the sixth legislative day after the date of its introduction, that committee shall be discharged from further consideration of the resolution.
 

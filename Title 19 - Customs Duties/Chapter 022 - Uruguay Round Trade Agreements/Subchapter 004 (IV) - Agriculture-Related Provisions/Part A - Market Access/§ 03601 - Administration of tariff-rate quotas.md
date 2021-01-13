@@ -24,7 +24,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 &emsp;&emsp;(C) is a commercial sample or is entered for exhibition, display, or sampling at a trade fair or for research; or
 
-&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38, 2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origin greater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
+&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38,2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origin greater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
 
 #### (2) Reclassification
 
@@ -44,7 +44,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 #### (5) Continuation of sugar headnote
 
-&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 ofthe HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
+&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
 
 (Pub. L. 103–465, title IV, §404, Dec. 8, 1994, 108 Stat. 4959.)
 
@@ -74,7 +74,7 @@ Proc. No. 7235, Oct. 7, 1999, 64 F.R. 55611, provided:
 
 NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including but not limited to section 301 of title 3, United States Code, and section 404(a) of the URAA, do hereby proclaim:
 
-(1) The United States Trade Representative is authorized to exercise my authority pursuant to section 404(a) of the URAA to take all action necessary, including the promulgation of regulations, to administer the tariff-rate quotas relating respectively, to cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products, as the latter products are defined in additional U.S. notes 2 and 3 of the Harmonized Tariff Schedule of the United States. The Secretary of Agriculture, in consultation with the United States Trade Representative, is authorized to exercise my authority pursuant to section 404(a) to issue import licenses governing the importation of such products within the applicable tariff-rate quotas.
+(1) The United States Trade Representative is authorized to exercise my authority pursuant to section 404(a) of the URAA to take all action necessary, including the promulgation of regulations, to administer the tariff-rate quotas relating respectively, to cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products, as the latter products are defined in additional U.S. notes 2 and 3 of the Harmonized Tariff Schedule of the United States. The Secretary of Agriculture, in consultation with the United States Trade Representative, is authorized to exercise my authority pursuant to section 404(a) to issue importlicenses governing the importation of such products within the applicable tariff-rate quotas.
 
 (2) All provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
 

@@ -1,8 +1,10 @@
 ### §4211. Returns as to fees by officers compensated by fees
 
-All consular agents, as are allowed for their compensation the whole or any part of the fees which they may collect, shall make returns insuch manner as the Government Accountability Office shall prescribe, of all such fees as they or any person in their behalf so collect.
+All consular agents, as are allowed for their compensation the whole or any part of the fees which they may collect, shall make returns in such manner as the Government Accountability Office shall prescribe, of all such fees as they or any person in their behalf so collect.
 
 (R.S. §1725; July 31, 1894, ch. 174, §5, 28 Stat. 206; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ References to "commercial agents" and "vice-commercial agents" were omitted in v
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1191 of this title, and prior thereto to section 94 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

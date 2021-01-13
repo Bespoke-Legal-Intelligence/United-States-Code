@@ -22,5 +22,5 @@ Each map and legal description filed under subsection (a) shall be filed and mad
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

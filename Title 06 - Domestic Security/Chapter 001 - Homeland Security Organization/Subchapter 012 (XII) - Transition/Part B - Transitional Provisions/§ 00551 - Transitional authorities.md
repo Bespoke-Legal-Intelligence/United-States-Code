@@ -38,6 +38,8 @@ Upon the transfer of an agency to the Department—
 
 (Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20, 2003, 117 Stat. 529; Pub. L. 109–59, title XI, §11115(b)(2)(F), Aug. 10, 2005, 119 Stat. 1950.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (a) and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
@@ -49,6 +51,8 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e)(1), was in the origin
 <b>2005</b>—Subsec. (e)(2). Pub. L. 109–59 substituted "Sport Fish Restoration and Boating Trust Fund" for "Aquatic Resources Trust Fund of the Highway Trust Fund".
 
 <b>2003</b>—Subsec. (e)(2). Pub. L. 108–7 inserted before period at end ", and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

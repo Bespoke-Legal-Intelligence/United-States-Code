@@ -156,5 +156,5 @@ The Endangered Species Act of 1973, referred to in subsec. (f), is Pub. L. 93–
 
 #### Prior Provisions
 
-A prior section 6542, Pub. L. 108–148, title III, §303, Dec. 3, 2003, 117 Stat. 1905, provided for tribal watershed forestry assistance and the development of water quality and watershed forestry programs, prior to repeal by Pub. L. 113–79, title VIII, §8005, Feb. 7, 2014, 128 Stat. 913.
+A prior section 6542, Pub. L. 108–148, title III, §303, Dec. 3, 2003, 117 Stat. 1905, provided for tribal watershedforestry assistance and the development of water quality and watershed forestry programs, prior to repeal by Pub. L. 113–79, title VIII, §8005, Feb. 7, 2014, 128 Stat. 913.
 

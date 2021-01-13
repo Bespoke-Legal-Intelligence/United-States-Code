@@ -12,6 +12,36 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 <b>1981</b>—Pub. L. 97–31 struck out references to shipping and transportation facilities.
 
+#### Assistance to Fishery Participants
+
+Pub. L. 116–136, div. B, title II, §12005, Mar. 27, 2020, 134 Stat. 518, provided that:
+
+"(a)
+
+In General.—The Secretary of Commerce is authorized to provide assistance to Tribal, subsistence, commercial, and charter fishery participants affected by the novel coronavirus (COVID–19), which may include direct relief payments.
+
+"(b)
+
+Fishery Participants.—For the purposes of this section, 'fishery participants' include Tribes, persons, fishing communities, aquaculture businesses not otherwise eligible for assistance under part 1416 of title 7 of the Code of Federal Regulations for losses related to COVID–19, processors, or other fishery-related businesses, who have incurred, as a direct or indirect result of the coronavirus pandemic—
+
+&emsp;"(1) economic revenue losses greater than 35 percent as compared to the prior 5-year average revenue; or
+
+&emsp;"(2) any negative impacts to subsistence, cultural, or ceremonial fisheries.
+
+"(c)
+
+Rolling Basis.—Funds may be awarded under this section on a rolling basis, and within a fishing season, to ensure rapid delivery of funds during the COVID–19 pandemic.
+
+"(d)
+
+Appropriations.—In addition to funds that are otherwise made available to assist fishery participants under this Act \[div. B of Pub. L. 116–136, see Tables for classification\], there are authorized to be appropriated, and there are appropriated, $300,000,000, to remain available until September 30, 2021, to carry out this section, of which up to 2 percent may be used for administration and oversight activities.
+
+"(e)
+
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+
+\[For definition of "coronavirus" as used in section 12005 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
+
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
@@ -84,7 +114,7 @@ It is in the national interest for the Federal Government to support innovation,
 
 This order sets forth the administration and goals of several programs designed to connect American and foreign entrepreneurs with the Federal Government and promote entrepreneurship across the United States and around the world by sharing the knowledge, experience, and connectivity necessary to help develop the next generation of entrepreneurs.
 
-Sec. 2. <i>Administration of the Presidential Ambassadors for Global Entrepreneurship Program</i>. (a) The Secretary of Commerce (Secretary) shall administer the Presidential Ambassadors for Global Entrepreneurship Program (PAGE Program) to enable individuals who exemplify the spirit of American entrepreneurship and who have proven track records to use their networks, platforms, and voices to support aspiring entrepreneurs andadvance public policies that encourage entrepreneurship in the United States and around the globe. Individuals selected for participation in the PAGE Program shall be known as PAGE Members.
+Sec. 2. <i>Administration of the Presidential Ambassadors for Global Entrepreneurship Program</i>. (a) The Secretary of Commerce (Secretary) shall administer the Presidential Ambassadors for Global Entrepreneurship Program (PAGE Program) to enable individuals who exemplify the spirit of American entrepreneurship and who have proven track records to use their networks, platforms, and voices to support aspiring entrepreneurs and advance public policies that encourage entrepreneurship in the United States and around the globe. Individuals selected for participation in the PAGE Program shall be known as PAGE Members.
 
 (b) The PAGE Program shall be administered by a Director, appointed by the Secretary under authorities of the Department of Commerce (Commerce). Commerce shall provide necessary staff, resources, and administrative support for the PAGE Program to the extent permitted by law and within existing appropriations.
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary shall ensure that any quality assurance entity established and operated under subsection (a) is established and operated so as to meet generally applicable governmental standards for independence and internal controls for the performance of quality reviews of Government performance and results.
 
-(c)(1) The Secretary shall enter into a contract with an independent third-party entity to conduct, during the three-year period beginning on the date of the enactment of the Veterans' Benefits Improvement Act of 2008, an assessment of the quality assurance program carried out under subsection (a).
+(c)(1) The Secretary shall enter into a contract with an independent third-party entity to conduct, during the three-year period beginning onthe date of the enactment of the Veterans' Benefits Improvement Act of 2008, an assessment of the quality assurance program carried out under subsection (a).
 
 (2) The assessment conducted under paragraph (1) shall evaluate the following:
 
@@ -22,7 +22,7 @@
 
 (4)(A) Beginning on the date that is six months after the date of the enactment of the Veterans' Benefits Improvement Act of 2008, the Secretary shall—
 
-&emsp;(i) for each claim for disability compensation under laws administered by the Secretarysubmitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
+&emsp;(i) for each claim for disability compensation under laws administered by the Secretary submitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
 
 &emsp;(ii) develop a demographic baseline for the data retained, monitored, and stored under subparagraph (A).
 
@@ -44,6 +44,8 @@
 
 (Added Pub. L. 106–117, §801(a)(1), Nov. 30, 1999, 113 Stat. 1585; amended Pub. L. 110–389, title II, §224(a), Oct. 10, 2008, 122 Stat. 4157.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Veterans' Benefits Improvement Act of 2008 and the date of the enactment of this subsection, referred to in subsec. (c)(1), (4)(A), (5), mean the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
@@ -51,6 +53,8 @@ The date of the enactment of the Veterans' Benefits Improvement Act of 2008 and 
 #### Amendments
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–389 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

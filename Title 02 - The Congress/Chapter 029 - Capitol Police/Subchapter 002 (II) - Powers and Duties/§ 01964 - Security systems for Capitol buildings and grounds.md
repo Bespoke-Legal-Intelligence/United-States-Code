@@ -34,6 +34,8 @@ Effective October 1, 1995, the responsibility for design and installation of sec
 
 (Pub. L. 104–53, title III, §308, Nov. 19, 1995, 109 Stat. 537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The paragraph under the heading "
@@ -51,6 +53,8 @@ Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in s
 In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

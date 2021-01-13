@@ -10,7 +10,7 @@ Such portion of the sums appropriated pursuant to subsection (a) for any fiscal 
 
 #### (c) Payments to States for cost of grant programs to certain agencies and institutions
 
-From each State's allotment under subsection (b), the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowships or traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted under regulations of the Secretary.
+From each State's allotment under subsection (b), the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowshipsor traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted under regulations of the Secretary.
 
 #### (d) Advance payments to States
 
@@ -28,7 +28,7 @@ The amount of any allotment to a State under subsection (b) for any fiscal year 
 
 (3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851;amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
+(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
 
 #### Amendments
 

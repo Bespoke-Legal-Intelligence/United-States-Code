@@ -14,7 +14,7 @@ Information or material that is subject to a privilege or confidentiality under 
 
 #### (c) Coordination with other law
 
-Any State law, including any State open record law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent State law provides less confidentiality or a weaker privilege.
+Any State law, including any State open record law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall besuperseded by the requirements of such provision to the extent State law provides less confidentiality or a weaker privilege.
 
 #### (d) Public access to information
 
@@ -22,11 +22,15 @@ This section shall not apply with respect to the information or material relatin
 
 (Pub. L. 110–289, div. A, title V, §1512, July 30, 2008, 122 Stat. 2820; Pub. L. 111–203, title X, §1100(3), July 21, 2010, 124 Stat. 2106; Pub. L. 114–113, div. O, title VII, §703, Dec. 18, 2015, 129 Stat. 3025.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–113 inserted "or financial services" before "industry".
 
 <b>2010</b>—Subsecs. (a), (b)(2). Pub. L. 111–203 substituted "Director" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

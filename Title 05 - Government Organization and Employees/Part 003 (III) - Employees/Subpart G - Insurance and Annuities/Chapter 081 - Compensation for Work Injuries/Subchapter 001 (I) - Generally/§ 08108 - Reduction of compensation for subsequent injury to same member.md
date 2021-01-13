@@ -44,6 +44,8 @@ Act
 
 July 4, 1966, Pub. L. 89–488, §2(c), 80 Stat. 252.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.

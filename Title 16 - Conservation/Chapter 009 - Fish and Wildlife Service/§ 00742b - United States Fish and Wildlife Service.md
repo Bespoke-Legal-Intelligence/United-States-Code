@@ -6,7 +6,7 @@ There is established within the Department of the Interior the position of Assis
 
 #### (b) Establishment; Director of United States Fish and Wildlife Service; appointment; qualifications
 
-There is established within the Department of the Interior the United States Fish and Wildlife Service. The functions of the United States Fish and Wildlife Service shall be administered under the supervision of the Director, who shall be subject to the supervision of the Assistant Secretary for Fish and Wildlife. The Director of the United States Fish and Wildlife Service shall be appointed by the President, by and with the advice and consent of the Senate. No individual may be appointed as the Director unless he is, by reason of scientific education and experience, knowledgeable in the principles of fisheries and wildlife management.
+There is established within the Department of the Interior the United States Fish and WildlifeService. The functions of the United States Fish and Wildlife Service shall be administered under the supervision of the Director, who shall be subject to the supervision of the Assistant Secretary for Fish and Wildlife. The Director of the United States Fish and Wildlife Service shall be appointed by the President, by and with the advice and consent of the Senate. No individual may be appointed as the Director unless he is, by reason of scientific education and experience, knowledgeable in the principles of fisheries and wildlife management.
 
 #### (c) Succession to United States Fish and Wildlife Service and Bureau of Sport Fisheries and Wildlife
 
@@ -20,7 +20,7 @@ All functions and responsibilities placed in the Department of the Interior or a
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fishand Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 #### Amendments
 
@@ -50,9 +50,117 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Murder Hornet Eradication Pilot Program
+
+Pub. L. 116–260, div. AA, title V, §508, Dec. 27, 2020, 134 Stat. 2750, provided that:
+
+"(a)
+
+Grant Authority.—The Secretary of the Interior, acting through the Director of the Fish and Wildlife Service, and in consultation with all relevant Federal agencies, shall establish a pilot program to provide financial assistance to States for management, research, and public education activities necessary to—
+
+&emsp;"(1) eradicate the Asian giant hornet; and
+
+&emsp;"(2) restore bee populations damaged by the Asian giant hornet.
+
+"(b)
+
+Eligibility.—A State is eligible to receive financial assistance under this section if the State has demonstrated to the Secretary of the Interior sufficient need to implement measures to eradicate the Asian giant hornet.
+
+"(c)
+
+Cost Sharing.—
+
+&emsp;"(1)
+
+Federal share.—The Federal share of the costs of activities carried out under the pilot program may not exceed 75 percent of the total costs of such activities.
+
+&emsp;"(2)
+
+In-kind contributions.—The non-Federal share of the costs of activities carried out under the pilot program may be provided in the form of in-kind contributions of materials or services.
+
+"(d)
+
+Limitation on Administrative Expenses.—Not more than 5 percent of financial assistance provided by the Secretary of the Interior under this section may be used for administrative expenses.
+
+"(e)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of the Interior to carry out the pilot program $4,000,000 for each of fiscal years 2021 through 2025.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Asian giant hornet.—The term 'Asian giant hornet' means a <i>Vespa mandarinia</i>.
+
+&emsp;"(2)
+
+State.—The term 'State' means each of the several States, the District of Columbia, and the territories and insular possessions of the United States.
+
+"(g)
+
+Sunset.—The authority under this section shall terminate on the date that is 5 years after the date of enactment of this Act \[Dec. 27, 2020\]."
+
+#### Fish and Wildlife Service Asian Carp Eradication Program
+
+Pub. L. 116–260, div. AA, title V, §509(b), Dec. 27, 2020, 134 Stat. 2752, provided that:
+
+"(1)
+
+Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a program to provide financial assistance to States to implement measures, including for management, research, and public education activities, necessary to eradicate the Asian carp.
+
+"(2)
+
+Eligibility.—A State is eligible to receive financial assistance under this subsection if such State has demonstrated to the Secretary of the Interior sufficient need to implement measures to eradicate the Asian carp.
+
+"(3)
+
+Priority.—In providing financial assistance under the program, the Secretary of the Interior shall give priority to States in the Cumberland River Watershed or the Tennessee River Watershed in which Asian carp populations are expanding or have been documented.
+
+"(4)
+
+Cost sharing.—
+
+&emsp;"(A)
+
+Federal share.—The Federal share of the costs of activities carried out under the program may not exceed 80 percent of the total costs of such activities.
+
+&emsp;"(B)
+
+In-kind contributions.—The non-Federal share of the costs of activities carried out under the program may be provided in the form of in-kind contributions of materials or services.
+
+"(5)
+
+Limitation on administrative expenses.—Not more than 5 percent of financial assistance provided by the Secretary of the Interior under this subsection may be used for administrative expenses.
+
+"(6)
+
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary of the Interior to carry out this subsection $4,000,000 for each of fiscal years 2021 through 2025."
+
+#### Invasive Species in Noncontiguous States and Territories Pilot Program
+
+Pub. L. 116–260, div. AA, title V, §510, Dec. 27, 2020, 134 Stat. 2752, provided that:
+
+"(a)
+
+Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program to carry out measures necessary to prevent, control, or eradicate invasive species in culturally significant forested watersheds in noncontiguous States and territories of the United States in which the Corps of Engineers is carrying out flood risk management projects.
+
+"(b)
+
+Implementation.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, is encouraged to carry out the measures described in subsection (a) in consultation with—
+
+&emsp;"(1) States, any territory or possession of the United States, and units of local government, including federally recognized Indian Tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)); and
+
+&emsp;"(2) nonprofit organizations with knowledge of, and experience in, forested watershed management, including nonprofit organizations with a primary purpose of serving and partnering with indigenous communities.
+
+"(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program under subsection (a) $25,000,000 for the period of fiscal years 2022 through 2024."
+
 #### Prize Competitions
 
-Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided that:
+Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, as amended by Pub. L. 116–188, title I, §101(a), Oct. 30, 2020, 134 Stat. 906, provided that:
 
 "(1)
 
@@ -160,7 +268,7 @@ Consultation.—In selecting a topic and issuing a problem statement for the pri
 
 &emsp;&emsp;"(v)
 
-Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 &emsp;"(D)
 
@@ -172,7 +280,7 @@ In general.—The Secretary shall offer to enter into an agreement under which t
 
 &emsp;&emsp;"(ii)
 
-Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 &emsp;"(E)
 
@@ -192,7 +300,7 @@ Report to congress.—Not later than 60 days after the date on which a cash priz
 
 &emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 &emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -276,7 +384,7 @@ Consultation.—In selecting a topic and issuing a problem statement for the pri
 
 &emsp;&emsp;"(v)
 
-Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 &emsp;"(D)
 
@@ -288,7 +396,7 @@ In general.—The Secretary shall offer to enter into an agreement under which t
 
 &emsp;&emsp;"(ii)
 
-Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 &emsp;"(E)
 
@@ -308,7 +416,7 @@ Report to congress.—Not later than 60 days after the date on which a cash priz
 
 &emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 &emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -392,7 +500,7 @@ Consultation.—In selecting a topic and issuing a problem statement for the pri
 
 &emsp;&emsp;"(v)
 
-Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 &emsp;"(D)
 
@@ -404,7 +512,7 @@ In general.—The Secretary shall offer to enter into an agreement under which t
 
 &emsp;&emsp;"(ii)
 
-Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 &emsp;"(E)
 
@@ -424,7 +532,7 @@ Report to congress.—Not later than 60 days after the date on which a cash priz
 
 &emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 &emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -508,7 +616,7 @@ Consultation.—In selecting a topic and issuing a problem statement for the pri
 
 &emsp;&emsp;"(v)
 
-Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 &emsp;"(D)
 
@@ -520,7 +628,7 @@ In general.—The Secretary shall offer to enter into an agreement under which t
 
 &emsp;&emsp;"(ii)
 
-Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 &emsp;"(E)
 
@@ -540,7 +648,7 @@ Report to congress.—Not later than 60 days after the date on which a cash priz
 
 &emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 &emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -610,11 +718,11 @@ Duties.—Subject to clause (iv), with respect to the prize competition, the Boa
 
 &emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to promote the nonlethal management of human-wildlife conflicts; and
 
-&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognizedIndian tribes, private entities, and research institutions with expertise or interest relating to the nonlethal management of human-wildlife conflicts.
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the nonlethal management of human-wildlife conflicts.
 
 &emsp;&emsp;"(iv)
 
-Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of subparagraph (C), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
 
 &emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
 
@@ -626,7 +734,7 @@ Consultation.—In selecting a topic and issuing a problem statement for the pri
 
 &emsp;&emsp;"(v)
 
-Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 &emsp;"(D)
 
@@ -638,7 +746,7 @@ In general.—The Secretary shall offer to enter into an agreement under which t
 
 &emsp;&emsp;"(ii)
 
-Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 &emsp;"(E)
 
@@ -658,7 +766,7 @@ Report to congress.—Not later than 60 days after the date on which a cash priz
 
 &emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 &emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -668,11 +776,135 @@ Termination of authority.—The Board and all authority provided under this para
 
 "(7)
 
+Theodore roosevelt genius prize for reducing human-predator conflict.—
+
+&emsp;"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;"(i)
+
+Board.—The term 'Board' means the Reducing Human-Predator Conflict Technology Advisory Board established by subparagraph (C)(i).
+
+&emsp;&emsp;"(ii)
+
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for reducing human-predator conflict established under subparagraph (B).
+
+&emsp;"(B)
+
+Authority.—Not later than 180 days after the date of enactment of the America's Conservation Enhancement Act \[Oct. 30, 2020\], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for reducing human-predator conflict'—
+
+&emsp;&emsp;"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to reducing the frequency of human-predator conflict using nonlethal means; and
+
+&emsp;&emsp;"(ii) to award 1 or more prizes annually for a technological advancement that promotes reducing human-predator conflict using nonlethal means, which may include the application and monitoring of tagging technologies.
+
+&emsp;"(C)
+
+Advisory board.—
+
+&emsp;&emsp;"(i)
+
+Establishment.—There is established an advisory board, to be known as the 'Reducing Human-Predator Conflict Technology Advisory Board'.
+
+&emsp;&emsp;"(ii)
+
+Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+&emsp;&emsp;&emsp;"(I) predator-human interactions;
+
+&emsp;&emsp;&emsp;"(II) the habitats of large predators;
+
+&emsp;&emsp;&emsp;"(III) biology;
+
+&emsp;&emsp;&emsp;"(IV) technology development;
+
+&emsp;&emsp;&emsp;"(V) engineering;
+
+&emsp;&emsp;&emsp;"(VI) economics;
+
+&emsp;&emsp;&emsp;"(VII) business development and management; and
+
+&emsp;&emsp;&emsp;"(VIII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+&emsp;&emsp;"(iii)
+
+Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+&emsp;&emsp;&emsp;"(I) select a topic;
+
+&emsp;&emsp;&emsp;"(II) issue a problem statement;
+
+&emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to reduce human-predator conflict using nonlethal means; and
+
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian Tribes, private entities, and research institutions with expertise or interest relating to reducing human-predator conflict using nonlethal means.
+
+&emsp;&emsp;"(iv)
+
+Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+&emsp;&emsp;&emsp;"(I) 1 or more Federal agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+&emsp;&emsp;&emsp;"(II) 1 or more State agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+&emsp;&emsp;&emsp;"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the management of native wildlife species at risk due to conflict with human activities; and
+
+&emsp;&emsp;&emsp;"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of native wildlife species at risk due to conflict with human activities.
+
+&emsp;&emsp;"(v)
+
+Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
+
+&emsp;"(D)
+
+Agreement with national fish and wildlife foundation.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
+
+&emsp;"(E)
+
+Judges.—
+
+&emsp;&emsp;"(i)
+
+Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+&emsp;&emsp;"(ii)
+
+Determination by secretary
+
+.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+&emsp;"(F)
+
+Consultation with national oceanic and atmospheric administration.—The Secretary shall consult with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in the case of a cash prize awarded under the prize competition for a technology that addresses conflict between humans and marine predators under the jurisdiction of the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+
+&emsp;"(G)
+
+Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+&emsp;&emsp;"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+&emsp;&emsp;"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
+
+&emsp;&emsp;"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+&emsp;"(H)
+
+Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(8)
+
 Administration of prize competitions.—
 
 &emsp;"(A)
 
-Additional requirements for advisory boards.—An advisory board established under paragraph (2)(C)(i), (3)(C)(i), (4)(C)(i), (5)(C)(i), or (6)(C)(i) (referred to in this paragraph as a 'Board') shall comply with the following requirements:
+Additional requirements for advisory boards.—An advisory board established under paragraph (2)(C)(i), (3)(C)(i), (4)(C)(i), (5)(C)(i), (6)(C)(i), or (7)(C)(i) (referred to in this paragraph as a 'Board') shall comply with the following requirements:
 
 &emsp;&emsp;"(i)
 
@@ -732,7 +964,7 @@ Administrative cost reduction.—The Board shall, to the maximum extent practica
 
 &emsp;"(B)
 
-Agreements with national fish and wildlife foundation.—Any agreement entered into under paragraph (2)(D)(i), (3)(D)(i), (4)(D)(i), (5)(D)(i), or (6)(D)(i) shall comply with the following requirements:
+Agreements with national fish and wildlife foundation.—Any agreement entered into under paragraph (2)(D)(i), (3)(D)(i), (4)(D)(i), (5)(D)(i), (6)(D)(i), or (7)(D)(i) shall comply with the following requirements:
 
 &emsp;&emsp;"(i)
 
@@ -758,7 +990,7 @@ Duties.—An agreement shall provide that the National Fish and Wildlife Foundat
 
 &emsp;&emsp;&emsp;"(VI) in consultation with, and subject to final approval by, the Secretary, develop criteria for the selection of prize competition winners;
 
-&emsp;&emsp;&emsp;"(VII) provide advice and consultation to the Secretary on the selection of judges under paragraphs (2)(E), (3)(E), (4)(E), (5)(E), and (6)(E) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
+&emsp;&emsp;&emsp;"(VII) provide advice and consultation to the Secretary on the selection of judges under paragraphs (2)(E), (3)(E), (4)(E), (5)(E), (6)(E), and (7)(E) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
 
 &emsp;&emsp;&emsp;"(VIII) announce 1 or more annual winners of the prize competition;
 
@@ -790,7 +1022,7 @@ In general.—The amount of the initial cash prize referred to in subparagraph (
 
 &emsp;&emsp;"(ii)
 
-Additional cash prizes.—On notification by the National Fish and Wildlife Foundation that non-Federal funds are available for an additional cash prize, the Secretary shall determine the amount of the additional cash prize."
+Additional cash prizes.—On notification by the National Fish and Wildlife Foundation thatnon-Federal funds are available for an additional cash prize, the Secretary shall determine the amount of the additional cash prize."
 
 #### Fees for Training by National Conservation Training Center
 

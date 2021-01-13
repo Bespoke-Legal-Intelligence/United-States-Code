@@ -126,7 +126,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Service coordinator
 
-&emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
+&emsp;Assistance under this section may be provided with respect to the employment of oneor more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
 
 &emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> on an ongoing basis to assess the service needs of eligible residents;
 
@@ -192,7 +192,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Eligibility of other residents
 
-&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negativelyaffect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d).
+&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negatively affect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d).
 
 #### (5) Eligibility of nonresidents
 
@@ -308,7 +308,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providing the services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
 
-&emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 etseq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
+&emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
 &emsp;&emsp;(B) the State of <sup>7</sup> local minimum wage for the most nearly comparable covered employment; or
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
@@ -476,7 +476,7 @@ Subsec. (n)(1). Pub. L. 102–550, §604(a), in introductory provisions, substit
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4002(b)(1)(B), (N), (2)(LL) and 4115(c)(1)(A)(i), (B)(vi), (2)(I) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

@@ -110,7 +110,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 &emsp;&emsp;(D) On July 1, 2011, $150,000,000.
 
-&emsp;&emsp;(E) On July 1, 2012, and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending the preceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
+&emsp;&emsp;(E) On July 1, 2012, and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending thepreceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
 
 #### (2) Maintenance of existing funding
 

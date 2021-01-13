@@ -16,7 +16,7 @@
 
 #### (3) Peer review
 
-&emsp;A grant may be made under paragraph (1) only if the application for the grant has undergone technical and scientific peer review under section 289a of this title and has been reviewed by the advisory council under section282(k) of this title or has been reviewed by an advisory council composed of representatives from appropriate scientific disciplines who can fully evaluate the applicant.
+&emsp;A grant may be made under paragraph (1) only if the application for the grant has undergone technical and scientific peer review under section 289a of this title and has been reviewed by the advisory council under section 282(k) of this title or has been reviewed by an advisory council composed of representatives from appropriate scientific disciplines who can fully evaluate the applicant.
 
 #### (b) High-risk, high-reward research
 

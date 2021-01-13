@@ -6,7 +6,7 @@ Section 742, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Aug. 18, 1
 
 Section 743, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, authorized retention of commissions on interest payments. See section 2033 of this title.
 
-Section 744, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73Stat. 387, provided for individual liability of shareholders.
+Section 744, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for individual liability of shareholders.
 
 Section 744a, acts June 16, 1933, ch. 98, title VII, §72, 48 Stat. 271; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, relieved shareholders of land bank associations of personal liability for contracts, debts, and engagements entered into after June 16, 1933.
 

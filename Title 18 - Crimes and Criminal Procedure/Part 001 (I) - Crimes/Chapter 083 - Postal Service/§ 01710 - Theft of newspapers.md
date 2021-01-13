@@ -14,11 +14,15 @@ Words "mail or" following "steals any" were omitted as covered by section 1709 o
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100".
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service officer or employee" for "postmaster or Postal Service employee".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

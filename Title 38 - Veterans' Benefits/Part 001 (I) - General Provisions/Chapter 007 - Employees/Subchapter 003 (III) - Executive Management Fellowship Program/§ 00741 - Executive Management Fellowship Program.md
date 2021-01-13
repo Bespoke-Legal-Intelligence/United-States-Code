@@ -102,9 +102,13 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–46, title II, §202(a), Aug. 12, 2017, 131 Stat. 959.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Grade GS–14 of the General Schedule, referred to in subsec. (d)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Implementation
 

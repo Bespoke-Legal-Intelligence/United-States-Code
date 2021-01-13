@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 #### (B) Assessment of data viability
 
-&emsp;&emsp;Not later than the date that is 3 years after the date on which the Under Secretary enters into a contract under subparagraph (A), the Under Secretary shall assess and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the results of a determination of the extent to which data provided under the contract entered into under subparagraph (A) meet the criteria published under paragraph (1) and the extent to which the pilot program has demonstrated—
+&emsp;&emsp;Not later than the date that is 3 years after the date on which the Under Secretary enters into a contract under subparagraph (A), the Under Secretary shall assess and submit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the results of a determination of the extent to which data provided under the contract entered into under subparagraph (A) meet the criteria published under paragraph (1) and the extent to which the pilot program has demonstrated—
 
 &emsp;&emsp;&emsp;(i) the viability of assimilating the commercially provided data into National Oceanic and Atmospheric Administration meteorological models;
 

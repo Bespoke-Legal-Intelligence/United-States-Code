@@ -114,7 +114,7 @@ Subsec. (b)(2). Pub. L. 85–866, §89(b), inserted "certified mail or" before "
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions,see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 #### Effective Date of 1988 Amendments
 
@@ -192,5 +192,5 @@ Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided 
 
 #### Explanations of Appeals and Collection Process
 
-Pub. L. 105–206, title III, §3504, July 22, 1998, 112 Stat. 771, provided that: "The Secretary of the Treasury orthe Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals \[now Internal Revenue Service Independent Office of Appeals\] an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process."
+Pub. L. 105–206, title III, §3504, July 22, 1998, 112 Stat. 771, provided that: "The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals \[now Internal Revenue Service Independent Office of Appeals\] an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process."
 

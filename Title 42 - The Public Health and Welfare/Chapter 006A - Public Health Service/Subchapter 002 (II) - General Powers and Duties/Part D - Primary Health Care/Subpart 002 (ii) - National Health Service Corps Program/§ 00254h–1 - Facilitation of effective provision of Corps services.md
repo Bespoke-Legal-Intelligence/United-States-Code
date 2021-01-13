@@ -8,7 +8,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (1) In general
 
-&emsp;The Secretary shall, subject to paragraph (3), offer appropriate counseling on service in the Corps to individuals during the period ofmembership in the Corps, particularly during the initial period of each assignment.
+&emsp;The Secretary shall, subject to paragraph (3), offer appropriate counseling on service in the Corps to individuals during the period of membership in the Corps, particularly during the initial period of each assignment.
 
 #### (2) Career advisor regarding obligated service
 
@@ -40,7 +40,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (2) Assistance in establishing professional relationships
 
-&emsp;In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centers under section 294a of this title, with health education and training centers under section 294b <sup>1</sup> of this title, and with border health education and training centers under such section 294b <sup>1</sup> of this title. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+&emsp;In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centersunder section 294a of this title, with health education and training centers under section 294b <sup>1</sup> of this title, and with border health education and training centers under such section 294b <sup>1</sup> of this title. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
 
 #### (3) Supplement not supplant
 

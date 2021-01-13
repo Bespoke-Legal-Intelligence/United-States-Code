@@ -50,7 +50,9 @@ Funds transferred to and consolidated with funds appropriated pursuant to this p
 
 For purposes of this part, the Secretary of State may use the authority of section 2358 of this title, without regard to the restrictions of such section, to receive nonlethal excess property from any agency of the United States Government for the purpose of providing such property to a foreign government under the same terms and conditions as funds authorized to be appropriated for the purposes of this part.
 
-(Pub. L. 87–195, pt. I, §482, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 497; amended Pub. L. 93–189, §11(b), Dec. 17, 1973, 87 Stat. 720; Pub. L. 94–329, title V, §504(a), June 30, 1976, 90 Stat. 764; Pub. L. 95–92, §3, Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §5, Sept. 26, 1978, 92 Stat. 731; Pub. L. 96–92, §3(a), Oct. 29, 1979, 93 Stat. 701; Pub. L. 96–533, title IV, §402(a), (b), Dec. 16, 1980, 94 Stat. 3149; Pub. L. 97–113, title V, §502(c), Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title VI, §§602, 608, 614, Aug. 8, 1985, 99 Stat. 228,229, 231; Pub. L. 99–529, title IV, §401, Oct. 24, 1986, 100 Stat. 3019; Pub. L. 99–570, title II, §2002, Oct. 27, 1986, 100 Stat. 3207–60; Pub. L. 100–690, title IV, §4201, Nov. 18, 1988, 102 Stat. 4267; Pub. L. 101–231, §§16, 17(g), Dec. 13, 1989, 103 Stat. 1964, 1965; Pub. L. 102–583, §§3, 4(e), 6(b)(4), Nov. 2, 1992, 106 Stat. 4914, 4915, 4932; Pub. L. 103–236, title I, §164(a), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–447, title I, §101(c), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–164, title I, §131(b), (c), July 21, 1996, 110 Stat. 1429.)
+(Pub. L. 87–195, pt. I, §482, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 497; amended Pub. L. 93–189, §11(b), Dec. 17, 1973, 87 Stat. 720; Pub. L. 94–329, title V, §504(a), June 30, 1976, 90 Stat. 764; Pub. L. 95–92, §3, Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §5, Sept. 26, 1978, 92 Stat. 731; Pub. L. 96–92, §3(a), Oct. 29, 1979, 93 Stat. 701; Pub. L. 96–533, title IV, §402(a), (b), Dec. 16, 1980, 94 Stat. 3149; Pub. L. 97–113, title V, §502(c), Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title VI, §§602, 608, 614, Aug. 8, 1985, 99 Stat. 228, 229, 231; Pub. L. 99–529, title IV, §401, Oct. 24, 1986, 100 Stat. 3019; Pub. L. 99–570, title II, §2002, Oct. 27, 1986, 100 Stat. 3207–60; Pub. L. 100–690, title IV, §4201, Nov. 18, 1988, 102 Stat. 4267; Pub. L. 101–231, §§16, 17(g), Dec. 13, 1989, 103 Stat. 1964, 1965; Pub. L. 102–583, §§3, 4(e), 6(b)(4), Nov. 2, 1992, 106 Stat. 4914, 4915, 4932; Pub. L. 103–236, title I, §164(a), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–447, title I, §101(c), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–164, title I, §131(b), (c), July 21, 1996, 110 Stat. 1429.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -106,15 +108,19 @@ Subsec. (a)(4). Pub. L. 96–92 designated existing provision respecting availab
 
 <b>1973</b>—Pub. L. 93–189 substituted "$42,500,000 for each of the fiscal years 1974 and 1975. Amounts appropriated under this section are authorized to remain available until expended", for "$42,500,000 for the fiscal year 1973, which amount is authorized to remain available until expended".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Colombian Anti-Narcotics Enforcement Program
 
 Pub. L. 96–533, title IV, §402(c), Dec. 16, 1980, 94 Stat. 3150, provided: "Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

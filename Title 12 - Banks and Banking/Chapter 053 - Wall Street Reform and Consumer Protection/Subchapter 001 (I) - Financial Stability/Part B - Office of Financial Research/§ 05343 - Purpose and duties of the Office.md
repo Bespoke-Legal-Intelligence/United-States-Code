@@ -76,6 +76,8 @@ The Director may provide additional reports to Congress concerning the financial
 
 (Pub. L. 111–203, title I, §153, July 21, 2010, 124 Stat. 1415.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a moratorium on the importation of raw and worked ivory from an ivory producing country immediatelyupon making a determination that the country does not meet all the criteria set forth in section 4221(b)(1) of this title.
+&emsp;The Secretary shall establish a moratorium on the importation of raw and worked ivory from an ivory producing country immediately upon making a determination that the country does not meet all the criteria set forth in section 4221(b)(1) of this title.
 
 #### (2) Later establishment
 

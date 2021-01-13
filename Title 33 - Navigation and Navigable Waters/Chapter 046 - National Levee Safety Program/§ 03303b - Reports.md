@@ -24,7 +24,7 @@
 
 #### (b) National dam and levee safety program
 
-Not later than 3 years after June 10, 2014, to the maximum extent practicable, the Secretaryand the Administrator, in coordination with the committee, shall submit to Congress and make publicly available a report that includes recommendations regarding the advisability and feasibility of, and potential approaches for, establishing a joint national dam and levee safety program.
+Not later than 3 years after June 10, 2014, to the maximum extent practicable, the Secretary and the Administrator, in coordination with the committee, shall submit to Congress and make publicly available a report that includes recommendations regarding the advisability and feasibility of, and potential approaches for, establishing a joint national dam and levee safety program.
 
 #### (c) Alignment of Federal programs relating to levees
 
@@ -48,6 +48,8 @@ Not later than 1 year after December 16, 2016, the Secretary shall submit to Con
 
 (Pub. L. 110–114, title IX, §9006, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1299; amended Pub. L. 114–322, title I, §1130(d), Dec. 16, 2016, 130 Stat. 1652.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9006 of Pub. L. 110–114 was renumbered section 9008, and is classified to section 3305 of this title.
@@ -67,6 +69,8 @@ Subsec. (c)(4). Pub. L. 114–322, §1130(d)(2)(C), substituted "State, regional
 Subsec. (d). Pub. L. 114–322, §1130(d)(3)(A), substituted "1 year after December 16, 2016" for "1 year after June 10, 2014" in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 114–322, §1130(d)(3)(B), substituted "State, regional, or tribal" for "State or tribal".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

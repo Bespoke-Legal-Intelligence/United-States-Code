@@ -14,6 +14,8 @@ Procedures.—The procedures set forth in section 413 of the Controlled Substanc
 
 (Added Pub. L. 115–70, title IV, §402(a)(4), Oct. 18, 2017, 131 Stat. 1214.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out in the Appendix to this title.

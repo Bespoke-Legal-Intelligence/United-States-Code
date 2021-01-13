@@ -1,0 +1,8 @@
+### §776. Transferred
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Section, Pub. L. 112–74, div. C, title V, Dec. 23, 2011, 125 Stat. 919, which related to payment of certain annuities out of the Civil Service Retirement and Disability Fund, was transferred to section 2534(c) of Title 14, Coast Guard.
+

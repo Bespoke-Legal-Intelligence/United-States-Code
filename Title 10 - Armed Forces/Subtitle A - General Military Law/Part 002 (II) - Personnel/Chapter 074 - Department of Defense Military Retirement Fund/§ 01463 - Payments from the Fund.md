@@ -2,19 +2,19 @@
 
 (a) There shall be paid from the Fund—
 
-&emsp;(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps and payments under section 1413a, 1414, or 1415 of this title paid to such members;
+&emsp;(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, Marine Corps, and Coast Guard, and Space Force <sup>1</sup> and payments under section 1413a, 1414, or 1415 of this title paid to such members;
 
-&emsp;(2) retired pay payable under chapter 1223 of this title to former members of the armed forces (other than retired pay payable by the Secretary of Homeland Security);
+&emsp;(2) retired pay payable under chapter 1223 of this title to former members of the armed forces;
 
 &emsp;(3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
-&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
+&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that that <sup>2</sup> provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
 
 &emsp;(5) amounts payable under section 1408(h) of this title.
 
 (b) The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, §633(a)(3), Nov. 25, 2015, 129 Stat. 850.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, §633(a)(3), Nov. 25, 2015, 129 Stat. 850; Pub. L. 116–283, div. A, title IX,§924(b)(1)(L), div. G, title LVXXXII \[LXXXII\], §8223, Jan. 1, 2021, 134 Stat. 3820, 4658.)
 
 #### References in Text
 
@@ -23,6 +23,14 @@ Section 4 of Public Law 92–425, referred to in subsec. (a)(4), is set out as a
 Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a note under section 1448 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §8223(1), which directed substitution of "Marine Corps, and Coast Guard" for "and Marine Corps", was executed by making the substitution for "Marine Corps" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, §924(b)(1)(L). See below.
+
+Pub. L. 116–283, §924(b)(1)(L), substituted "Marine Corps, and Space Force" for "and Marine Corps".
+
+Subsec. (a)(2). Pub. L. 116–283, §8223(2), struck out "(other than retired pay payable by the Secretary of Homeland Security)" after "armed forces".
+
+Subsec. (a)(4). Pub. L. 116–283, §8223(3), inserted "and the Department of Homeland Security that" after "Department of Defense".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–92 substituted ", 1414, or 1415" for "or 1414".
 
@@ -50,7 +58,7 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -63,4 +71,8 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 #### Effective Date
 
 Pub. L. 98–94, title IX, §925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: "Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984."
+
+<i><sup>1</sup></i><i> See 2021 Amendment notes below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

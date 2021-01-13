@@ -20,7 +20,7 @@ The Administrator and the Comptroller General of the United States, or any of th
 
 (1) It is the purpose of this subsection to authorize a program which will provide official recognition by the United States Government to those industrial organizations and political subdivisions of States which during the preceding year demonstrated an outstanding technological achievement or an innovative process, method, or device in their waste treatment and pollution abatement programs. The Administrator shall, in consultation with the appropriate State water pollution control agencies, establish regulations under which such recognition may be applied for and granted, except that no applicant shall be eligible for an award under this subsection if such applicant is not in total compliance with all applicable water quality requirements under this chapter, or otherwise does not have a satisfactory record with respect to environmental quality.
 
-(2) The Administrator shall award a certificate or plaque of suitable design to each industrial organization or political subdivision which qualifies for such recognition under regulations established under this subsection.
+(2) The Administrator shall award a certificate or plaque of suitable design to each industrialorganization or political subdivision which qualifies for such recognition under regulations established under this subsection.
 
 (3) The President of the United States, the Governor of the appropriate State, the Speaker of the House of Representatives, and the President pro tempore of the Senate shall be notified of the award by the Administrator and the awarding of such recognition shall be published in the Federal Register.
 
@@ -30,9 +30,13 @@ Upon the request of a State water pollution control agency, personnel of the Env
 
 (June 30, 1948, ch. 758, title V, §501, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 885; amended Pub. L. 100–4, title V, §501, Feb. 4, 1987, 101 Stat. 75.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–4 inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Spill Prevention, Control, and Countermeasure Rule
 

@@ -60,6 +60,8 @@ In this part—
 
 (Pub. L. 103–322, title III, §31903, Sept. 13, 1994, 108 Stat. 1893.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13882 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

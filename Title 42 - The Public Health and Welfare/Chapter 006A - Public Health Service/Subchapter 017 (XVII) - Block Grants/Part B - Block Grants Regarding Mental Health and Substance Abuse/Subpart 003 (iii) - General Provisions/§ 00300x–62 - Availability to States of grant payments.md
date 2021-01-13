@@ -10,7 +10,7 @@ Any amounts paid to a State for a fiscal year under section 300x or 300x–21 of
 
 "(a)
 
-In General.—Subject to subsection (b) of this section, any amounts paid to a State under the program involved shall be available for obligation until the end of the fiscal year for which the amounts were paid, and if obligated by the end of such year, shall remain available for expenditure until the end of the succeeding fiscal year.
+In General.—Subject to subsection (b) of this section, any amounts paid to a State under the program involved shall be available for obligation until the end of the fiscal year for which the amounts werepaid, and if obligated by the end of such year, shall remain available for expenditure until the end of the succeeding fiscal year.
 
 "(b)
 

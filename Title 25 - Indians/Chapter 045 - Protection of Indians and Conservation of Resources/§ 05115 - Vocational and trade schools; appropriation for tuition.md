@@ -4,9 +4,13 @@ There is authorized to be appropriated, out of any funds in the United States Tr
 
 (June 18, 1934, ch. 576, §11, 48 Stat. 986.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 471 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

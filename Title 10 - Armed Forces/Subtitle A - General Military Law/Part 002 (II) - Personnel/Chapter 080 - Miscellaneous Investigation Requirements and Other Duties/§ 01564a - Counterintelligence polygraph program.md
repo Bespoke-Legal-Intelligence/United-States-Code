@@ -38,7 +38,7 @@ Covered Types of Duties.—The Secretary of Defense may provide, under standards
 
 &emsp;&emsp;(B) is designated as being within a special access program under section 4.4(a) of Executive Order No. 12958 (or a successor Executive order); or
 
-&emsp;(2) assistance in an intelligence or military mission in a case in which the unauthorized disclosure or manipulation of information, as determined under standards established by the Secretary of Defense, could reasonably be expected to—
+&emsp;(2) assistance in an intelligence or military mission in a case in which the unauthorizeddisclosure or manipulation of information, as determined under standards established by the Secretary of Defense, could reasonably be expected to—
 
 &emsp;&emsp;(A) jeopardize human life or safety;
 

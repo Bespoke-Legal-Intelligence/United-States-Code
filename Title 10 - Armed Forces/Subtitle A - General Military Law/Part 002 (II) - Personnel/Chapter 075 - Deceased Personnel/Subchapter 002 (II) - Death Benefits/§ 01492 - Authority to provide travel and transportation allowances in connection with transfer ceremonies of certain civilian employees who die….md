@@ -1,0 +1,32 @@
+### §1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
+
+(a)
+
+Authority.—A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
+
+(b)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "covered employee" means a civilian employee—
+
+&emsp;&emsp;(A) under the jurisdiction of a covered official; and
+
+&emsp;&emsp;(B) who dies while located or serving overseas.
+
+&emsp;(2) The term "covered official" means—
+
+&emsp;&emsp;(A) the Secretary of the military department concerned; and
+
+&emsp;&emsp;(B) the head of a Defense Agency or Department of Defense Field Activity.
+
+&emsp;(3) The term "covered relative" means—
+
+&emsp;&emsp;(A) the primary next of kin of the covered employee;
+
+&emsp;&emsp;(B) two family members (other than primary next of kin) of the covered employee; and
+
+&emsp;&emsp;(C) one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.
+
+(Added Pub. L. 116–283, div. A, title XI, §1104(a)(1), Jan. 1, 2021, 134 Stat. 3889.)
+

@@ -12,11 +12,13 @@ It is the policy of the United States—
 
 &emsp;(2) to promote the energy security of allies and partners of the United States by encouraging the development of accessible, transparent, and competitive energy markets that provide diversified sources, types, and routes of energy;
 
-&emsp;(3) to encourage United States public and private sector investment in European energyinfrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region's absorptive capacity; and
+&emsp;(3) to encourage United States public and private sector investment in European energy infrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region's absorptive capacity; and
 
 &emsp;(4) to help facilitate the export of United States energy resources, technology, and expertise to global markets in a way that benefits the energy security of allies and partners of the United States, including in Europe and Eurasia.
 
 (Pub. L. 116–94, div. P, title XX, §2003, Dec. 20, 2019, 133 Stat. 3223.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

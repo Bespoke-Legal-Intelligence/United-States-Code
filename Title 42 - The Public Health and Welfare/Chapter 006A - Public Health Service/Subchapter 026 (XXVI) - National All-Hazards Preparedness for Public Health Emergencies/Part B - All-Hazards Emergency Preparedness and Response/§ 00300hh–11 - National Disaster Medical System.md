@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The Secretary may activate the National Disaster Medical System to—
 
-&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliaryservices to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under section 247d of this title); or
+&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliary services to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under section 247d of this title); or
 
 &emsp;&emsp;&emsp;(ii) be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified, or there is a significant potential for a public health emergency.
 
@@ -84,7 +84,7 @@
 
 #### (2) Liability
 
-&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of thePublic Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
+&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
 
 #### (3) Notification
 
@@ -152,7 +152,7 @@
 
 #### (e) Rule of construction regarding use of commissioned corps
 
-If the Secretary assigns commissioned officers of the Regular or Reserve Corps to serve with the National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
+If the Secretary assigns commissioned officers of the Regular or Reserve Corps <sup>3</sup> to serve with the National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
 
 #### (f) Definition
 
@@ -162,7 +162,7 @@ For purposes of this section, the term "auxiliary services" includes mortuary se
 
 For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $57,400,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I,§102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933.)
 
 #### Amendment of Section
 
@@ -236,6 +236,10 @@ Subsec. (h). Pub. L. 109–417, §301(a)(3), redesignated subsec. (h) as (g).
 
 Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
+
 #### Termination Date of 2019 Amendment
 
 Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section 301(d)(3) of Pub. L. 116–22, set out as a note under section 10284 of Title 34, Crime Control and Law Enforcement.
@@ -244,11 +248,13 @@ Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or eff
 
 Pub. L. 109–417, title III, §301(b), Dec. 19, 2006, 120 Stat. 2854, provided that: "There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto."
 
-Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: "That the total amount appropriated and, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007."
+Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: "That the total amount appropriatedand, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007."
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness (now Assistant Secretary for Preparedness and Response) relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "takes".</i>
+
+<i><sup>3</sup></i><i> See Change of Name note below.</i>
 

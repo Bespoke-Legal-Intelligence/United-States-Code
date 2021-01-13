@@ -14,6 +14,8 @@ The Director of the Office of Foreign Missions shall take such steps as he may d
 
 (Pub. L. 95–393, §6, Sept. 30, 1978, 92 Stat. 809; Pub. L. 98–164, title VI, §602, Nov. 22, 1983, 97 Stat. 1042.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–164, §602(1), substituted "Director of the Office of Foreign Missions in the Department of State" for "President".
@@ -21,6 +23,8 @@ The Director of the Office of Foreign Missions shall take such steps as he may d
 Subsec. (b). Pub. L. 98–164, §602(2), inserted provision respecting adequate compensation to victims, and substituted reference to Director for reference to President.
 
 Subsec. (c). Pub. L. 98–164, §602(3), substituted reference to Director for reference to President.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

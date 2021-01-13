@@ -14,7 +14,7 @@ Designation of Department of Defense Critical Infrastructure Security Informatio
 
 (c)
 
-Information Provided to State and Local Governments.—(1) Department of Defense critical infrastructure security information covered by a written determination under subsection (a) or designated under subsection (b) that is provided to a State or local government shall remain under the control of the Department of Defense.
+Information Provided to State and Local Governments.—(1) Department of Defense critical infrastructure security information covered by a written determination undersubsection (a) or designated under subsection (b) that is provided to a State or local government shall remain under the control of the Department of Defense.
 
 (2)(A) A State or local law authorizing or requiring a State or local government to disclose Department of Defense critical infrastructure security information that is covered by a written determination under subsection (a) shall not apply to such information.
 

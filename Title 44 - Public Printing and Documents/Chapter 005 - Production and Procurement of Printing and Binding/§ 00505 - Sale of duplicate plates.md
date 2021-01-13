@@ -8,11 +8,15 @@ The Director of the Government Publishing Office shall sell, under regulations o
 
 Based on 44 U.S. Code, 1964 ed., §58 (Jan. 12, 1895, ch. 23, §52, 28 Stat. 608).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
 
 <b>1976</b>—Pub. L. 94–553 struck out provision that a publication could not be copyrighted if it was reprinted from additional or duplicate plates purchased from the Government from which Government publications had been printed or if it was reprinted from other Government publications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

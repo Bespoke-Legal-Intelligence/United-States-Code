@@ -1,12 +1,12 @@
 ### §1164. Responsibility of Secretary of Health and Human Services to provide medical and dental care to Pribilof Islands natives
 
-The Secretary of Health and Human Services shall provide medical and dental care to the Natives of the Pribilof Islands with or without reimbursement, as provided by other law. He is authorized to provide such care to Federal employees and their dependents and tourists and other persons in the Pribilof Islands at reasonable rates to be determined by him. He may purchase, lease, construct, operate, and maintain such facilities, supplies, and equipment as he deems necessary to carry out the provisions of this section; and the costs of such items, including medical and dental care, shall be charged to the budget of the Secretary of Health and Human Services. Nothing in this chapter shall be construed as superseding or limiting the authority and responsibility of the Secretary of Health and Human Services under the Act of August 5, 1954, as amended \[42 U.S.C. 2001 et seq.\], or any other law with respect to medical and dental care of natives or other persons in the Pribilof Islands.
+The Secretary of Health and Human Services shall provide medical and dental care to the Natives of the Pribilof Islands with or without reimbursement, as provided by other law. He is authorized to provide such care to Federal employees and their dependents and tourists and other persons in the Pribilof Islands at reasonable rates to be determined by him. He may purchase, lease, construct, operate, and maintainsuch facilities, supplies, and equipment as he deems necessary to carry out the provisions of this section; and the costs of such items, including medical and dental care, shall be charged to the budget of the Secretary of Health and Human Services. Nothing in this chapter shall be construed as superseding or limiting the authority and responsibility of the Secretary of Health and Human Services under the Act of August 5, 1954, as amended \[42 U.S.C. 2001 et seq.\], or any other law with respect to medical and dental care of natives or other persons in the Pribilof Islands.
 
 (Pub. L. 89–702, title II, §204, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 839.)
 
 #### References in Text
 
-Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended,which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended, which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

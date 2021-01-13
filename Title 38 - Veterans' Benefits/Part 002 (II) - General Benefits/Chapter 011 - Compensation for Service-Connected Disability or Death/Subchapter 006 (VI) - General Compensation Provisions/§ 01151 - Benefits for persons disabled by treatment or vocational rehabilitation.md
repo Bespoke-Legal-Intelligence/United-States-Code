@@ -1,6 +1,6 @@
 ### §1151. Benefits for persons disabled by treatment or vocational rehabilitation
 
-(a) Compensation under this chapter and dependency and indemnity compensation underchapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
+(a) Compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
 
 &emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by a Department employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
 
@@ -25,6 +25,8 @@
 &emsp;(2) Chapter 39, relating to automobiles and adaptive equipment.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §351; Pub. L. 87–825, §3, Oct. 15, 1962, 76 Stat. 950; Pub. L. 91–24, §3, June 11, 1969, 83 Stat. 33; Pub. L. 94–433, title IV, §404(19), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(1), Mar. 2, 1984, 98 Stat. 46; renumbered §1151 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 104–204, title IV, §422(a), Sept. 26, 1996, 110 Stat. 2926; Pub. L. 106–419, title III, §303, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 108–454, title III, §304(a),(c), Dec. 10, 2004, 118 Stat. 3611.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -52,7 +54,9 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 
 <b>1969</b>—Pub. L. 91–24 substituted ", on or after December 1, 1962," for "hereafter" wherever appearing.
 
-<b>1962</b>—Pub. L. 87–825 provided that where an individual is awarded a judgment under section 1346(b) of title 28, enters a settlement or compromise under section 2672 or 2677 of such title by reason of a disability, aggravation, or death treated pursuant to this section as if service-connected, then no benefits shall be paid such individual for any month beginning after such judgment, settlement or compromise becomes final until the aggregate amount of benefits equals the totalamount included in such judgment, settlement, or compromise, and struck out provisions which required that no benefits were to be awarded unless application was made therefor within two years after an injury or aggravation was suffered, or a death occurred.
+<b>1962</b>—Pub. L. 87–825 provided that where an individual is awarded a judgment under section 1346(b) of title 28, enters a settlement or compromise under section 2672 or 2677 of such title by reason of a disability, aggravation, or death treated pursuant to this section as if service-connected, then no benefits shall be paid such individual for any month beginning after such judgment, settlement or compromise becomes final until the aggregate amount of benefits equals the total amount included in such judgment, settlement, or compromise, and struck out provisions which required that no benefits were to be awarded unless application was made therefor within two years after an injury or aggravation was suffered, or a death occurred.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

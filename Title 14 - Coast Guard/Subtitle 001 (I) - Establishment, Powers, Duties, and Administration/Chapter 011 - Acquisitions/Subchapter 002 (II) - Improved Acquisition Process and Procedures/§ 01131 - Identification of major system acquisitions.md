@@ -38,6 +38,8 @@ Human Resource Capital Planning.—The Commandant shall develop staffing predict
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2941, §571; renumbered §1131, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 571 of this title as this section.

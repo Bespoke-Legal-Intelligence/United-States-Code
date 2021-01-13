@@ -36,7 +36,7 @@ In this Compact:
 
 &emsp;The term "criminal history records"—
 
-&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
+&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, orother formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
 &emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
@@ -200,7 +200,7 @@ Each Party State shall—
 
 #### (c) Compliance with III System standards
 
-In carrying out their responsibilities under this Compact, the FBI and each Party State shall comply with III System rules, procedures,and standards duly established by the Council concerning record dissemination and use, response times, data quality, system security, accuracy, privacy protection, and other aspects of III System operation.
+In carrying out their responsibilities under this Compact, the FBI and each Party State shall comply with III System rules, procedures, and standards duly established by the Council concerning record dissemination and use, response times, data quality, system security, accuracy, privacy protection, and other aspects of III System operation.
 
 #### (d) Maintenance of record services
 
@@ -266,7 +266,7 @@ A State criminal history record repository or the FBI—
 
 #### (1) In general
 
-&emsp;There is established a council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflictwith FBI administration of the III System for criminal justice purposes.
+&emsp;There is established a council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
 
 #### (2) Organization
 
@@ -397,6 +397,8 @@ The FBI shall exercise immediate and necessary action to preserve the integrity 
 The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by section 1446 of title 28, United States Code, or other statutory authority.
 
 (Pub. L. 105–251, title II, §217, Oct. 9, 1998, 112 Stat. 1876.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

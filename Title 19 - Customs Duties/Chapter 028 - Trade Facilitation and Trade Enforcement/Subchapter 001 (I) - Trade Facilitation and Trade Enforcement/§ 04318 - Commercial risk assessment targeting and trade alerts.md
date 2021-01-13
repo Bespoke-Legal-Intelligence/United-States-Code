@@ -20,7 +20,7 @@ In carrying out its duties under section 211(g)(4) of title 6, the National Targ
 
 &emsp;(3) provide for the receipt and transmission to the appropriate U.S. Customs and Border Protection offices of allegations from interested parties in the private sector of violations of customs and trade laws of the United States with respect to merchandise relating to the priority trade issues described in section 4322 of this title; and
 
-&emsp;(4) notify, on a timely basis, each interested party in the private sector that has submitted an allegation of any violation of the customs and trade laws of the United States of anycivil or criminal actions taken by U.S. Customs and Border Protection or any other Federal agency resulting from the allegation.
+&emsp;(4) notify, on a timely basis, each interested party in the private sector that has submitted an allegation of any violation of the customs and trade laws of the United States of any civil or criminal actions taken by U.S. Customs and Border Protection or any other Federal agency resulting from the allegation.
 
 #### (b) Trade Alerts
 

@@ -70,13 +70,13 @@
 
 &emsp;&emsp;&emsp;(II) good faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or the country described in clause (i) is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
-&emsp;&emsp;&emsp;(III) a dispute involving such citizen, corporation, partnership, or associationover compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
+&emsp;&emsp;&emsp;(III) a dispute involving such citizen, corporation, partnership, or association over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
 
 > &emsp;&emsp;and the President promptly furnishes a copy of such determination to the Senate and House of Representatives.
 
 &emsp;&emsp;(E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
 
-&emsp;&emsp;(F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) <sup>1</sup> of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
+&emsp;&emsp;(F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretaryof State makes a determination with respect to such country under section 4605(j)(1)(A) <sup>1</sup> of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
 
 &emsp;&emsp;(G) Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
 
@@ -130,7 +130,7 @@ If the President determines that a beneficiary developing country has become a "
 
 #### (A) In general
 
-&emsp;&emsp;Before the President designates any country as a beneficiary developing countryunder this subchapter, the President shall notify the Congress of the President's intention to make such designation, together with the considerations entering into such decision.
+&emsp;&emsp;Before the President designates any country as a beneficiary developing country under this subchapter, the President shall notify the Congress of the President's intention to make such designation, together with the considerations entering into such decision.
 
 #### (B) Designation as least-developed beneficiary developing country
 

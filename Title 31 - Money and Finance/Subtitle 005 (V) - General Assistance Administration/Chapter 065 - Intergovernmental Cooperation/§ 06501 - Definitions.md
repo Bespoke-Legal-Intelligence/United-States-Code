@@ -62,7 +62,7 @@ In this chapter—
 
 &emsp;(8) "special-purpose unit of local government" means a special district, public-purpose local government of a State except a school district.
 
-&emsp;(9) "State" means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency, instrumentality, or fiscal agent of a State but does not mean a local government of a State.
+&emsp;(9) "State" means a State of the United States, the District of Columbia, a territory orpossession of the United States, and an agency, instrumentality, or fiscal agent of a State but does not mean a local government of a State.
 
 &emsp;(10) "unit of general local government" means a county, city, town, village, or other general purpose political subdivision of a State.
 
@@ -140,9 +140,11 @@ In clause (9), the word "parish" is omitted as included in county because of 1:2
 
 This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 13, 1982 (Pub. L. 97–258, 96 Stat. 1005).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended,which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 
@@ -166,6 +168,8 @@ Par. (10). Pub. L. 101–453, §5(a)(1), redesignated par. (9) as (10).
 
 <b>1983</b>—Par. (1)(B). Pub. L. 97–452 struck out "the law of" after "provided by".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
@@ -180,7 +184,7 @@ Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–453, §1, Oct. 24, 1990, 104 Stat. 1058, provided that: "This Act \[enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the 'Cash Management Improvement Act of 1990'."
+Pub. L. 101–453, §1, Oct. 24, 1990, 104 Stat. 1058, provided that: "This Act \[enacting section 3335 of thistitle, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the 'Cash Management Improvement Act of 1990'."
 
 #### Purpose of 1990 Act
 

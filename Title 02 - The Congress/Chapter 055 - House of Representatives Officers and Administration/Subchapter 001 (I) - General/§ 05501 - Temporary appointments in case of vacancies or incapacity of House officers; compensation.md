@@ -14,11 +14,13 @@ Any person appointed pursuant to this section shall be paid the compensation whi
 
 (Aug. 2, 1946, ch. 753, §208, as added Aug. 5, 1953, ch. 330, 67 Stat. 387; amended Pub. L. 104–186, title II, §204(20), Aug. 20, 1996, 110 Stat. 1733; Pub. L. 109–289, div. B, title II, §20702(b), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 38.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 75a–1 of this title prior to editorial reclassification and renumbering as this section.
 
-Amendment by Pub. L. 109–289 is based on section 103(b)(2) of title I of H.R. 5521, as passed by the Houseof Representatives on June 7, 2006, which was enacted into law by section 20702(b) of Pub. L. 109–289, as added by Pub. L. 110–5.
+Amendment by Pub. L. 109–289 is based on section 103(b)(2) of title I of H.R. 5521, as passed by the House of Representatives on June 7, 2006, which was enacted into law by section 20702(b) of Pub. L. 109–289, as added by Pub. L. 110–5.
 
 #### Amendments
 

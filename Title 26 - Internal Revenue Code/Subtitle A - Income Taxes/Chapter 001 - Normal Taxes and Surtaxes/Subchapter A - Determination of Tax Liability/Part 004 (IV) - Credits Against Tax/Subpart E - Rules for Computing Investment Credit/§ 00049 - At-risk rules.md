@@ -100,7 +100,7 @@
 
 #### (iv) Determination of allocable share
 
-&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manner as the credit allowable by section 38 with respect to such property.
+&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manneras the credit allowable by section 38 with respect to such property.
 
 #### (F) Special rules for energy property
 
@@ -148,7 +148,7 @@
 
 #### References in Text
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(1)(F) and\(b)(3), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(1)(F) and (b)(3), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Prior Provisions
 

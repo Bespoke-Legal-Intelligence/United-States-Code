@@ -28,7 +28,7 @@ Duty of federal agencies.—Each federal agency shall cooperate with, advise, an
 
 (c)
 
-Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance.—When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by section 304101 of title 54 identify any existing buildings in the geographical area that—
+Request for Identification of Existing Buildings of Historical, Architectural, orCultural Significance.—When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by section 304101 of title 54 identify any existing buildings in the geographical area that—
 
 &emsp;(1) are of historical, architectural, or cultural significance (as defined in section 3306(a) of this title); and
 
@@ -73,6 +73,8 @@ Pub. L. 86–249, §12(c), as added Pub. L. 94–541, title I, §103(3), Oct. 18
 In subsection (c)(1), the word "historical" is substituted for "historic" to conform to the defined term.
 
 In subsection (c)(2), the word "purchase" is omitted as being included in \["\]'acquisition".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

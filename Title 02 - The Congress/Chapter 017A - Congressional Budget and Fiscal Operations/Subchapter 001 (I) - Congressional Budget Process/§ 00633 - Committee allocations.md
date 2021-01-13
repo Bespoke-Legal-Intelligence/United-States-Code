@@ -76,7 +76,7 @@ At any time after a committee reports the allocations required to be made under 
 
 &emsp;&emsp;(A) in the case of any committee except the Committee on Appropriations, the applicable allocation of new budget authority or outlays under subsection (a) for the first fiscal year or the total of fiscal years to be exceeded; or
 
-&emsp;&emsp;(B) in the case of the Committee on Appropriations, the applicable suballocation of new budget authority or outlays under subsection (b) to be exceeded.
+&emsp;&emsp;(B) in the case of the Committee on Appropriations, the applicable suballocation ofnew budget authority or outlays under subsection (b) to be exceeded.
 
 #### (g) Pay-as-you-go exception in the House
 
@@ -109,6 +109,8 @@ At any time after a committee reports the allocations required to be made under 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
 (Pub. L. 93–344, title III, §302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, §10106, Aug. 5, 1997, 111 Stat. 680; Pub. L. 113–67, div. A, title I, §122(3), Dec. 26, 2013, 127 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -179,6 +181,8 @@ Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, inserting applicabi
 Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, substituting provisions relating to point of order for provisions relating to subsequent concurrent resolutions.
 
 Subsecs. (d) to (g). Pub. L. 99–177, in amending section generally, added subsecs. (d) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1990 Amendment
 

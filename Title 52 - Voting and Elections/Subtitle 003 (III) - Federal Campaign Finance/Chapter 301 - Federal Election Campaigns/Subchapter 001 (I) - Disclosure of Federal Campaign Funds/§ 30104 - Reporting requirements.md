@@ -254,7 +254,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(ii) person who has received a loan from the reporting committee during the reporting period, together with the date and amount of such loan;
 
-&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), in connection with an independent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
+&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), in connection with anindependent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
 
 &emsp;&emsp;(iv) person who receives any expenditure from the reporting committee during the reporting period in connection with an expenditure under section 30116(d) of this title, together with the date, amount, and purpose of any such expenditure as well as the name of, and office sought by, the candidate on whose behalf the expenditure is made; and
 
@@ -284,7 +284,7 @@ Each report under this section shall disclose—
 
 (2) The Commission shall make a document which is filed electronically with the Commission pursuant to this paragraph accessible to the public on the Internet not later than 24 hours after the document is received by the Commission.
 
-(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documentscovered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
+(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
 
 #### (e) Political committees
 
@@ -300,7 +300,7 @@ Each report under this section shall disclose—
 
 #### (B) Specific disclosure by State and local parties of certain non-Federal amounts permitted to be spent on Federal election activity
 
-&emsp;&emsp;Each report by a political committee under subparagraph (A) of receipts and disbursements made for activities described in section 30101(20)(A) of this title shall include a disclosure of all receipts and disbursements described in section 30125(b)(2)(A) and (B) of this title.
+&emsp;&emsp;Each report by a political committee under subparagraph (A) of receipts and disbursements made for activities described insection 30101(20)(A) of this title shall include a disclosure of all receipts and disbursements described in section 30125(b)(2)(A) and (B) of this title.
 
 #### (3) Itemization
 
@@ -362,7 +362,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;&emsp;(iii) a communication which constitutes a candidate debate or forum conducted pursuant to regulations adopted by the Commission, or which solely promotes such a debate or forum and is made by or on behalf of the person sponsoring the debate or forum; or
 
-&emsp;&emsp;&emsp;(iv) any other communication exempted under such regulations as the Commission may promulgate (consistent with the requirements of this paragraph) to ensure the appropriate implementation of this paragraph, except that under any such regulation a communication may not be exempted if it meets the requirements of this paragraph and is described in section 30101(20)(A)(iii) of this title.
+&emsp;&emsp;&emsp;(iv) any other communication exempted under such regulations as the Commission may promulgate (consistent with the requirements of this paragraph) to ensure the appropriate implementation of thisparagraph, except that under any such regulation a communication may not be exempted if it meets the requirements of this paragraph and is described in section 30101(20)(A)(iii) of this title.
 
 #### (C) Targeting to relevant electorate
 
@@ -424,7 +424,7 @@ Each report under this section shall disclose—
 
 #### (4) Time of filing for expenditures aggregating $1,000
 
-&emsp;Notwithstanding subsection (a)(5), the time at which the statement under paragraph (1) isreceived by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
+&emsp;Notwithstanding subsection (a)(5), the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
 #### (h) Reports from Inaugural Committees
 
@@ -496,7 +496,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 #### (A) Bundled contribution
 
-&emsp;&emsp;The term "bundled contribution" means, with respect to a committee described inparagraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
+&emsp;&emsp;The term "bundled contribution" means, with respect to a committee described in paragraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
 
 &emsp;&emsp;&emsp;(i) forwarded from the contributor or contributors to the committee by the person; or
 
@@ -506,7 +506,9 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 &emsp;&emsp;The term "leadership PAC" means, with respect to a candidate for election to Federal office or an individual holding Federal office, a political committee that is directly or indirectly established, financed, maintained or controlled by the candidate or the individual but which is not an authorized committee of the candidate or individual and which is not affiliated with an authorized committee of the candidate or individual, except that such term does not include a political committee of a political party.
 
-(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27, 2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359; Pub. L. 110–81, title II, §204(a), Sept. 14, 2007, 121 Stat. 744.)
+(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat.480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27, 2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359; Pub. L. 110–81, title II, §204(a), Sept. 14, 2007, 121 Stat. 744.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -608,6 +610,8 @@ Subsec. (b)(13). Pub. L. 93–443, §208(c)(4)(B), substituted "Commission" for 
 
 Subsecs. (d), (e). Pub. L. 93–443, §204(c), added subsec. (d) and incorporated provisions of former section 435 of this title in provisions designated as subsec. (e), substituting "Commission" for "supervisory officer" therein.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–81, title II, §204(b), Sept. 14, 2007, 121 Stat. 746, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports filed under section 304 of the Federal Election Campaign Act \[52 U.S.C. 30104\] after the expiration of the 3-month period which begins on the date that the regulations required to be promulgated by the Federal Election Commission under section 304(i)(5) of such Act (as added by subsection (a)) become final."
@@ -616,7 +620,7 @@ Pub. L. 110–81, title II, §215, Sept. 14, 2007, 121 Stat. 751, provided that:
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendment by sections 103(a), 201(a), 212, 304(b), 501, and 503 of Pub. L. 107–155 not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002,see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendment by sections 103(a), 201(a), 212, 304(b), 501, and 503 of Pub. L. 107–155 not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -632,7 +636,7 @@ Pub. L. 106–58, title VI, §641(b), Sept. 29, 1999, 113 Stat. 477, provided th
 
 Amendment by section 1(a) of Pub. L. 104–79 applicable with respect to reports for periods beginning after Dec. 31, 1996, see section 1(c) of Pub. L. 104–79, set out as a note under section 30102 of this title.
 
-Amendment by section 3(b) of Pub. L. 104–79 applicable with respect to reports, designations, and statements required to be filed after Dec. 31, 1995, see section 3(d) of Pub. L. 104–79, set out as a note under section 30102 of this title.
+Amendment by section 3(b) of Pub. L. 104–79 applicable with respect to reports, designations, and statements required to be filed after Dec. 31, 1995, see section3(d) of Pub. L. 104–79, set out as a note under section 30102 of this title.
 
 #### Effective Date of 1980 Amendment
 

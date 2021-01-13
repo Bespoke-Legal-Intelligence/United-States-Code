@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(ii) for purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the samemeanings as in section 103 of the Truth in Lending Act; and
+&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the same meanings as in section 103 of the Truth in Lending Act; and
 
 &emsp;&emsp;&emsp;(II) the term "luxury goods or services" does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) if such debt is not of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim, unless such creditor had notice or actual knowledge of the case in time for such timely filing; or
 
-&emsp;&emsp;(B) if such debt is of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim and timely request for a determination of dischargeability of such debt under one of such paragraphs, unless such creditor had notice or actual knowledge of the case in time for such timely filing and request;
+&emsp;&emsp;(B) if such debt is of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim and timely request for a determination of dischargeability of such debt under one of suchparagraphs, unless such creditor had notice or actual knowledge of the case in time for such timely filing and request;
 
 &emsp;(4) for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny;
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) a loan permitted under section 408(b)(1) of the Employee Retirement Income Security Act of 1974, or subject to section 72(p) of the Internal Revenue Code of 1986; or
 
-&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 oftitle 5, that satisfies the requirements of section 8433(g) of such title;
+&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
 
 > &emsp;but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title; or
 
@@ -130,7 +130,7 @@
 
 #### legislative statements
 
-Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a "renewal of credit" includes a "refinancing of credit", explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets "fraud" to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
+Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a "renewal of credit" includes a "refinancing of credit", explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets "fraud" to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that thedebtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
 
 In many cases, a creditor is required by state law to refinance existing credit on which there has been no default. If the creditor does not forfeit remedies or otherwise rely to his detriment on a false financial statement with respect to existing credit, then an extension, renewal, or refinancing of such credit is nondischargeable only to the extent of the new money advanced; on the other hand, if an existing loan is in default or the creditor otherwise reasonably relies to his detriment on a false financial statement with regard to an existing loan, then the entire debt is nondischargeable under section 523(a)(2)(B). This codifies the reasoning expressed by the second circuit in <i>In re Danns</i>, 558 F.2d 114 (2d Cir. 1977).
 
@@ -166,7 +166,7 @@ This section specifies which of the debtor's debts are not discharged in a bankr
 
 Subsection (a) lists nine kinds of debts excepted from discharge. Taxes that are excepted from discharge are set forth in paragraph (1). These include claims against the debtor which receive priority in the second, third and sixth categories (§507(a)(3)(B) and (c) and (6)). These categories include taxes for which the tax authority failed to file a claim against the estate or filed its claim late. Whether or not the taxing authority's claim is secured will also not affect the claim's nondischargeability if the tax liability in question is otherwise entitled to priority.
 
-Also included in the nondischargeable debts are taxes for which the debtor had not filed a required return as of the petition date, or for which a return had been filed beyond its last permitted due date (§523(a)(1)(B)). For this purpose, the date of the tax year to which the return relates is immaterial. The late return rule applies, however, only to the late returns filed within three years before the petition was filed, and to late returns filed after the petition in title 11 was filed. For this purpose, the taxable year in question need not be one or more of the three years immediately preceding the filing of the petition.
+Also included in the nondischargeable debts are taxes for which the debtor had not filed a required return as of the petition date, or for which a return had been filed beyond its last permitted due date (§523(a)(1)(B)). For this purpose, the date of the tax year to which the return relates is immaterial. The late return rule applies, however, only to the late returns filed withinthree years before the petition was filed, and to late returns filed after the petition in title 11 was filed. For this purpose, the taxable year in question need not be one or more of the three years immediately preceding the filing of the petition.
 
 Tax claims with respect to which the debtor filed a fraudulent return, entry or invoice, or fraudulently attempted to evade or defeat any tax (§523(a)(1)(C)) are included. The date of the taxable year with regard to which the fraud occurred is immaterial.
 
@@ -200,7 +200,7 @@ The purpose of the provision is to discourage creditors from initiating proceedi
 
 #### house report no. 95–595
 
-Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority's claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. See Plumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
+Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority's claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. SeePlumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
 
 As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, "actual fraud" is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase "in any manner whatsoever" that appears in current law after "made or published" is deleted as unnecessary. The word "published" is used in the same sense that it is used in slander actions.
 
@@ -217,6 +217,8 @@ Paragraph (7) excepts from discharge a debt for a fine, penalty, or forfeiture p
 Paragraph (8) \[enacted as (9)\] excepts from discharge debts that the debtor owed before a previous bankruptcy case concerning the debtor in which the debtor was denied a discharge other than on the basis of the six-year bar.
 
 Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaining a settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -380,6 +382,8 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted "the court shall grant judg
 
 <b>1979</b>—Subsec. (a)(8). Pub. L. 96–56 substituted "for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education" for "to a governmental unit, or a nonprofit institution of higher education, for an educational loan" in the provisions preceding subpar. (A) and inserted "(exclusive of any applicable suspension of the repayment period)" after "before five years" in subpar. (A).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of this title.
@@ -441,6 +445,8 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub. L. 97–35, set out as a note under section 656 of Title 42, The Public Health and Welfare.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

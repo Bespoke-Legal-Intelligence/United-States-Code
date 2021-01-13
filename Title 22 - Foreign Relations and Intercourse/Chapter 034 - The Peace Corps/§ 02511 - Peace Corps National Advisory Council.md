@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-A Peace Corps National Advisory Council (hereinafter in this section referred to as the "Council") shall be established in accordance with the provisions of this section.
+A Peace Corps National Advisory Council (hereinafter in this section referred to as the"Council") shall be established in accordance with the provisions of this section.
 
 #### (b) Functions
 
@@ -14,7 +14,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 &emsp;(B) assess the potential capabilities and the future role of the Peace Corps;
 
-&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as theCouncil considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
+&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as the Council considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
 
 &emsp;(D) make such other evaluations, assessments, and recommendations as the Council considers appropriate.
 
@@ -70,17 +70,19 @@ At its first meeting and at its first regular meeting in each calendar year ther
 
 (1) The Council shall hold a regular meeting during each calendar quarter and shall meet at the call of the President, the Director of the Peace Corps, the Council's Chair, or one-fourth of its members.
 
-(2) The Council shall prescribe such bylaws and regulations as it considers necessary to carry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
+(2) The Council shall prescribe such bylaws and regulations as it considers necessary tocarry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
 
 #### (i) Reports to the President and the Director
 
-Not later than January 1, 1988, and not later than January 1 of each second year thereafter, the Council shall submit to the President and the Director of the Peace Corps a report on its views on the programs and activities of the Peace Corps. Each report shall contain a summary of the advice and recommendations provided by the Council to the President and the Director during the period covered by the report and such recommendations (including recommendations for administrative or legislative action) as the Council considers appropriate tomake to the Congress. Within ninety days after receiving each such report, the President shall submit to the Congress a copy of the report, together with any comments concerning the report that the President or the Director considers appropriate.
+Not later than January 1, 1988, and not later than January 1 of each second year thereafter, the Council shall submit to the President and the Director of the Peace Corps a report on its views on the programs and activities of the Peace Corps. Each report shall contain a summary of the advice and recommendations provided by the Council to the President and the Director during the period covered by the report and such recommendations (including recommendations for administrative or legislative action) as the Council considers appropriate to make to the Congress. Within ninety days after receiving each such report, the President shall submit to the Congress a copy of the report, together with any comments concerning the report that the President or the Director considers appropriate.
 
 #### (j) Administrative assistance
 
 The Director of the Peace Corps shall make available to the Council such personnel, administrative support services, and technical assistance as are necessary to carry out its functions effectively.
 
 (Pub. L. 87–293, title I, §12, as added Pub. L. 99–83, title XI, §1104(a), Aug. 8, 1985, 99 Stat. 273.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original 
 #### Prior Provisions
 
 A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, §403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

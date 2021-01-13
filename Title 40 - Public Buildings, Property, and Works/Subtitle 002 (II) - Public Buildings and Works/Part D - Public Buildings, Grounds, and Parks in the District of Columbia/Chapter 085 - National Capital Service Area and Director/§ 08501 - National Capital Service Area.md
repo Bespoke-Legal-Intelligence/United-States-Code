@@ -96,7 +96,7 @@ Boundaries.—The National Capital Service Area is in the District of Columbia a
 
 &emsp;&emsp;thence south on Fourteenth Street Southwest to the middle of the Washington Channel;
 
-&emsp;&emsp;thence generally south and east along the mid-channel of the Washington Channel to a point due west of the northern boundary line of Fort Lesley McNair;
+&emsp;&emsp;thence generally south and east along the mid-channel of the Washington Channel to apoint due west of the northern boundary line of Fort Lesley McNair;
 
 &emsp;&emsp;thence due east to the side of the Washington Channel;
 
@@ -195,6 +195,8 @@ In subsection (b)(1)(B)(ii), the words "by law, or otherwise" are omitted as unn
 In subsection (b)(2), the words "and such laws, regulations, and rules shall thereafter be applicable to and within such area in the manner and to the extent so provided by any such amendment, alteration, or modification" are omitted as unnecessary.
 
 In subsection (c), the words "Notwithstanding the foregoing provisions of this section" are omitted as unnecessary. The words "section 1537 of title 31" are substituted for "section 731 of this Act" because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code. The words "by law or otherwise" and "rendering and receiving such services" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

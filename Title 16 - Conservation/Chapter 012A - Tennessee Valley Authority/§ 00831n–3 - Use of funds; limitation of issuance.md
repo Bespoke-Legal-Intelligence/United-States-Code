@@ -2,9 +2,9 @@
 
 With the approval of the Secretary of the Treasury the Corporation is authorized, after the date of enactment of this section, to issue bonds not to exceed in the aggregate $61,500,000. Such bonds may be sold by the Corporation to obtain funds which may be used for the following purposes only:
 
-(1) Not to exceed $46,000,000 may be used for the purchase of electric utility properties of the Tennessee Electric Power Company and Southern Tennessee Power Company, as contemplatedin the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939.
+(1) Not to exceed $46,000,000 may be used for the purchase of electric utility properties of the Tennessee Electric Power Company and Southern Tennessee Power Company, as contemplated in the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939.
 
-(2) Not to exceed $6,500,000 may be used for the purchase and rehabilitation of electric utility properties of the Alabama Power Company and Mississippi Power Company in the following named counties in northern Alabama and northern Mississippi: The counties of Jackson, Madison, Limestone, Lauderdale, Colbert, Lawrence, Morgan, Marshall, De Kalb, Cherokee, Cullman, Winston, Franklin, Marion, and Lamar in northern Alabama, and the counties of Calhoun, Chickasaw, Monroe, Clay, Lowndes, Oktibbeha, Choctaw, Webster, Noxubee, Winston, Neshoba, and Kemper in northern Mississippi.
+(2) Not to exceed $6,500,000 may be used for the purchase and rehabilitation of electric utility properties of the Alabama Power Company and Mississippi Power Company in the following named counties in northern Alabama and northern Mississippi: The counties of Jackson, Madison, Limestone, Lauderdale, Colbert, Lawrence, Morgan, Marshall, De Kalb, Cherokee, Cullman,Winston, Franklin, Marion, and Lamar in northern Alabama, and the counties of Calhoun, Chickasaw, Monroe, Clay, Lowndes, Oktibbeha, Choctaw, Webster, Noxubee, Winston, Neshoba, and Kemper in northern Mississippi.
 
 (3) Not to exceed $3,500,000 may be used for rebuilding, replacing, and repairing electric utility properties purchased by the Corporation in accordance with the foregoing provisions of this section.
 
@@ -22,7 +22,7 @@ The date of enactment of this section, referred to in text, probably means July 
 
 #### Codification
 
-"Chapter 31 of title 31" and "such chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "such Act, as amended,", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Chapter 31 of title 31" and "such chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "such Act, as amended,", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Transfer of Functions
 

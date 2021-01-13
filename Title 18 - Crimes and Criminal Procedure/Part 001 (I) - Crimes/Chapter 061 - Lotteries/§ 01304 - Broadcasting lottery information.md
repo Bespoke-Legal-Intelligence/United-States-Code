@@ -14,6 +14,8 @@ Words "upon conviction thereof" were deleted as surplusage since punishment can 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
 For information regarding constitutionality of this section, see reference to act June 19, 1934, ch. 652, §316 (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
@@ -23,6 +25,8 @@ For information regarding constitutionality of this section, see reference to ac
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1988</b>—Pub. L. 100–625 inserted "or television" after "radio" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

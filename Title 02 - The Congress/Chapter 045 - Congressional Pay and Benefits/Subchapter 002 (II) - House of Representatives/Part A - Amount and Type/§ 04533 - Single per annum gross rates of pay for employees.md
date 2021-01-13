@@ -4,6 +4,8 @@ Whenever the rate of pay of an employee whose pay is disbursed by the Chief Admi
 
 (Pub. L. 91–510, title IV, §471, Oct. 26, 1970, 84 Stat. 1193; Pub. L. 104–186, title II, §210(1), Aug. 20, 1996, 110 Stat. 1743.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 331 of this title prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 331 of this title prior to editorial 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

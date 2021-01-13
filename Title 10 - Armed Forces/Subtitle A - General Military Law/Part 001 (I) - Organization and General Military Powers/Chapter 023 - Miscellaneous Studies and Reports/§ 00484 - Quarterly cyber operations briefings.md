@@ -2,43 +2,45 @@
 
 (a)
 
-Briefings Required.—The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+Briefings Required.—The Under Secretary of Defense for Policy, the Commander of United States Cyber Command, and the Chairman of the Joint Chiefs of Staff, or designees from each of their offices, shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace, including clandestine cyber activities, carried out by the Department of Defense during the immediately preceding quarter.
 
 (b)
 
 Elements.—Each briefing under subsection (a) shall include, with respect to the military operations in cyberspace described in such subsection, the following:
 
-&emsp;(1) An update, set forth separately for each geographic and functional command, that describes the operations carried out by the command and any hostile cyber activity directed at the command.
+&emsp;(1) An update, set forth separately for each applicable geographic and functional command, that describes the operations carried out in the area of operations of that command or by that command.
 
-&emsp;(2) An overview of authorities and legal issues applicable to the operations, including any relevant legal limitations.
+&emsp;(2) An update, set forth for each applicable geographic and functional command, that describes defensive cyber operations executed to protect or defend forces, networks, and equipment in the area of operations of that command.
 
-&emsp;(3) An outline of any interagency activities and initiatives relating to the operations.
+&emsp;(3) An update on relevant authorities and legal issues applicable to operations, including any presidential directives and delegations of authority received since the last quarterly update.
 
-&emsp;(4) Any other matters the Secretary determines to be appropriate.
+&emsp;(4) An overview of critical operational challenges posed by major adversaries or encountered in operational activities conducted since the last quarterly update.
 
-(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017, 131 Stat. 1738; Pub. L. 116–92, div. A, title XVI, §1634(a), Dec. 20, 2019, 133 Stat. 1747.)
+&emsp;(5) An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—
 
-#### Amendment of Subsection (b)
+&emsp;&emsp;(A) addresses all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—
 
-<i>Pub. L. 116–92, div. A, title XVI, §1634(a), (d), Dec. 20, 2019, 133 Stat. 1747, 1748, provided that, effective on the date that is 180 days after Dec. 20, 2019, subsection (b) of this section is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph (4):</i>
+&emsp;&emsp;&emsp;(i) using both quantitative and qualitative metrics; and
 
-&emsp;<i>(4) An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—</i>
+&emsp;&emsp;&emsp;(ii) in a way that is common to all military departments; and
 
-&emsp;&emsp;<i>(A) address all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—</i>
+&emsp;&emsp;(B) is consistent with readiness reporting pursuant to section 482 of this title.
 
-&emsp;&emsp;&emsp;<i>(i) using both quantitative and qualitative metrics; and</i>
+&emsp;(6) Any other matters that the briefers determine to be appropriate.
 
-&emsp;&emsp;&emsp;<i>(ii) in a way that is common to all military departments; and</i>
+(c)
 
-&emsp;&emsp;<i>(B) is consistent with readiness reporting pursuant to section 482 of this title.</i>
+Documents.—Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing's contents.
 
-<i>See 2019 Amendment note below.</i>
+(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017, 131 Stat. 1738; Pub. L. 116–92, div. A, title XVI, §1634(a), Dec. 20, 2019, 133 Stat. 1747; Pub. L. 116–283, div. A, title XVII, §1703, Jan. 1, 2021, 134 Stat. 4081.)
 
 #### Prior Provisions
 
 A prior section 484, added Pub. L. 105–85, div. A, title III, §324(a)(1), Nov. 18, 1997, 111 Stat. 1677, which related to annual report on aircraft inventory, was repealed by Pub. L. 112–81, div. A, title X, §1061(6)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a) to (c). Pub. L. 116–283 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b)which related to required quarterly cyber operations briefings and their elements.
 
 <b>2019</b>—Subsec. (b)(4), (5). Pub. L. 116–92 added par. (4) and redesignated former par. (4) as (5).
 

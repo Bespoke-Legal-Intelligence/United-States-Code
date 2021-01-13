@@ -20,7 +20,7 @@ The Water Resources Council shall undertake assessments of water resource requir
 
 #### (b) Request by Secretary that Water Resources Council prepare assessment of availability of adequate water resources for proposed demonstration projects; report; publication
 
-For any proposed demonstration project which may involve a significant impact on water resources, the Secretary shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project. A report on the assessment shall be published in the Federal Register for public review thirty days prior to the expenditure of Federal funds on the demonstration.
+For any proposed demonstration project which may involve a significant impact on water resources, the Secretary shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability forsuch project. A report on the assessment shall be published in the Federal Register for public review thirty days prior to the expenditure of Federal funds on the demonstration.
 
 #### (c) Assessment by Water Resources Council of availability of adequate water resources as precondition for Federal assistance for commercial application of nonnuclear energy technologies
 

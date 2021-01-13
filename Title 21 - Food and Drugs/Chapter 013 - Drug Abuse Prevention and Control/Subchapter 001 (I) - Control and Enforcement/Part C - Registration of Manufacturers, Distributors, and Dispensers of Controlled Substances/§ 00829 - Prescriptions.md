@@ -82,6 +82,8 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 (Pub. L. 91–513, title II, §309, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 110–425, §2, Oct. 15, 2008, 122 Stat. 4820; Pub. L. 114–198, title VII, §702(a), July 22, 2016, 130 Stat. 740.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (b), (d), and (e)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
@@ -94,6 +96,8 @@ Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–425 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
@@ -105,6 +109,10 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 #### Construction of 2016 Amendment
 
 Pub. L. 114–198, title VII, §702(b), July 22, 2016, 130 Stat. 741, provided that: "Nothing in this section \[amending this section\] shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) to be partially filled."
+
+#### Dispensation of Narcotic Drugs for the Purpose of Relieving Acute Withdrawal Symptoms From Opioid Use Disorder
+
+Pub. L. 116–215, div. B, title III, §1302, Dec. 11, 2020, 134 Stat. 1046, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 11, 2020\], the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners, in accordance with applicable State, Federal, or local laws relating to controlled substances, are allowed to dispense not more than a three-day supply of narcotic drugs to one person or for one person's use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both)."
 
 #### Programs and Materials for Training on Certain Circumstances Under Which a Pharmacist May Decline To Fill a Prescription
 

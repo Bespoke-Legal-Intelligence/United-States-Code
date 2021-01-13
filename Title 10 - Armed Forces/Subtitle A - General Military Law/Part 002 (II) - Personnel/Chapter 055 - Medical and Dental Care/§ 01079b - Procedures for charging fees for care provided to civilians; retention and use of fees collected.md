@@ -6,6 +6,14 @@ Requirement To Implement Procedures.—The Secretary of Defense shall implement 
 
 (b)
 
+Waiver of Fees.—The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
+
+&emsp;(1) the civilian is unable to pay for the costs of the trauma or other medical care provided to the civilian (including any such costs remaining after the Secretary receives payment from an insurer for such care, as applicable); and
+
+&emsp;(2) the provision of such care enhances the knowledge, skills, and abilities of health care providers, as determined by the Secretary.
+
+(c)
+
 Use of Fees Collected.—A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
 
 &emsp;(1) trauma consortium activities;
@@ -14,7 +22,11 @@ Use of Fees Collected.—A military medical treatment facility may retain and us
 
 &emsp;(3) readiness training.
 
-(Added Pub. L. 107–107, div. A, title VII, §732(a)(1), Dec. 28, 2001, 115 Stat. 1169.)
+(Added Pub. L. 107–107, div. A, title VII, §732(a)(1), Dec. 28, 2001, 115 Stat. 1169; amended Pub. L. 116–283, div. A, title VII, §702, Jan. 1, 2021, 134 Stat. 3686.)
+
+#### Amendments
+
+<b>2021</b>—Subsecs. (b), (c). Pub. L. 116–283 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Deadline for Implementation
 

@@ -10,7 +10,7 @@ In general.—The head of an executive agency that engages in basic research, ap
 
 &emsp;(2)
 
-Prototype projects.—The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+Prototype projects.—The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry outprojects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
 
 &emsp;(3)
 
@@ -70,9 +70,13 @@ In subsection (a)(4)(A), the words "to use the authority for such project" are o
 
 In subsection (c), the words "Committee on Homeland Security and Governmental Affairs" are substituted for "Committee on Governmental Affairs" on authority of Senate Resolution No. 445 (108th Congress, October 9, 2004). The words "Committee on Oversight and Government Reform" are substituted for "Committee on Government Reform" on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), referred to in subsec. (a)(2), was repealed by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

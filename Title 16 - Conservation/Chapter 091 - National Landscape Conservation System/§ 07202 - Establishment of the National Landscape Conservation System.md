@@ -30,7 +30,7 @@ The system shall include each of the following areas administered by the Bureau 
 
 &emsp;&emsp;(C) the Yaquina Head Outstanding Natural Area;
 
-&emsp;&emsp;(D) public land within the California Desert Conservation Area administered by the Bureau of Land Management for conservation purposes; and
+&emsp;&emsp;(D) public land within the California Desert Conservation Area administered bythe Bureau of Land Management for conservation purposes; and
 
 &emsp;&emsp;(E) any additional area designated by Congress for inclusion in the system.
 
@@ -72,7 +72,7 @@ The Wilderness Act, referred to in subsec. (d)(1)(B), is Pub. L. 88–577, Sept.
 
 The Wild and Scenic Rivers Act, referred to in subsec. (d)(1)(C), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
 
-The National Trails System Act, referred to in subsec. (d)(1)(D), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919,which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (d)(1)(D), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1)(E), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

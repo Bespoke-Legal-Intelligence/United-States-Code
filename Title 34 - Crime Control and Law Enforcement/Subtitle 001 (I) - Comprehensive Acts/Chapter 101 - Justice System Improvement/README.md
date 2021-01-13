@@ -474,6 +474,7 @@
 |  |  |
 | :--- | ---: |
 | [10651\.](Subchapter%20033%20%28XXXIII%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2010651%20-%20Adult%20and%20juvenile%20collaboration%20programs.md) | Adult and juvenile collaboration programs. |
+| [10651a.](Subchapter%20033%20%28XXXIII%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2010651a%20-%20Veteran%20Treatment%20Court%20Program.md) | Veteran Treatment Court Program. |
 | [10652\.](Subchapter%20033%20%28XXXIII%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2010652%20-%20National%20criminal%20justice%20and%20mental%20health%20training%20and%20technical%20assistance.md) | National criminal justice and mental health training and technical assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -549,15 +550,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [10751\.](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/%C2%A7%2010751%20-%20Grant%20authorization.md) | Grant authorization. |
+| [10752\.](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/%C2%A7%2010752%20-%20Applications.md) | Applications. |
+| [10753\.](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/%C2%A7%2010753%20-%20Review%20of%20applications.md) | Review of applications. |
+| [10754\.](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/%C2%A7%2010754%20-%20Evaluation.md) | Evaluation. |
+| [10755\.](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/%C2%A7%2010755%20-%20Authorization%20of%20funding.md) | Authorization of funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968 was formerly classified to chapter 46 (§3701 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Law Enforcement Assistance Act of 1965
 
 Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1506, was repealed by Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11396. Coordination By Attorney General of Federal Law Enforcement and Crime Prevention Programs
 
@@ -571,13 +590,13 @@ WHEREAS the Federal Government has acknowledged the need to provide assistance t
 
 WHEREAS to provide such assistance the Congress has authorized various departments and agencies of the Federal Government to develop programs which may benefit State and local efforts directed at the prevention and control of crime, and the coordination of such programs is desirable to develop and administer them most effectively; and
 
-WHEREAS the Attorney General, as the chief law officer of the Federal Government, is charged with the responsibility for all prosecutions for violations of the Federal criminal statutes and is authorized under the Law Enforcement Assistance Act of 1965 (79 Stat. 828) \[Pub. L. 89–197; see note above\] to cooperate with and assist State, local, or other public or private agencies in matters relating to law enforcement organization, techniques and practices, and the prevention and control of crime.
+WHEREAS the Attorney General, as the chief law officer of the Federal Government, is charged with the responsibility for all prosecutions for violations of the Federal criminal statutes and is authorized under the Law Enforcement Assistance Act of 1965 (79 Stat. 828) \[Pub. L. 89–197; see note above\] to cooperate with andassist State, local, or other public or private agencies in matters relating to law enforcement organization, techniques and practices, and the prevention and control of crime.
 
 NOW, THEREFORE, by virtue of the authority vested in the President by the Constitution and laws of the United States, it is ordered as follows:
 
 Section 1. The Attorney General is hereby designated to facilitate and coordinate (1) the criminal law enforcement activities and crime prevention programs of all Federal departments and agencies, and (2) the activities of such departments, and agencies relating to the development and implementation of Federal programs which are designed, in whole or in substantial part, to assist State and local law enforcement agencies and crime prevention activities. The Attorney General may promulgate such rules and regulations and take such actions as he shall deem necessary or appropriate to carry out his functions under this Order.
 
-Sec. 2. Each Federal department and agency is directed to cooperate with the Attorney General in the performance of his functions under this Order and shall, to the extent permitted by law and within thelimits of available funds, furnish him such reports, information, and assistance as he may request.
+Sec. 2. Each Federal department and agency is directed to cooperate with the Attorney General in the performance of his functions under this Order and shall, to the extent permitted by law and within the limits of available funds, furnish him such reports, information, and assistance as he may request.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -626,3 +645,4 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [Subchapter 038 (XXXVIII) - Comprehensive Opioid Abuse Grant Program](Subchapter%20038%20%28XXXVIII%29%20-%20Comprehensive%20Opioid%20Abuse%20Grant%20Program/README.md)
 - [Subchapter 039 (XXXIX) - Prevention, Investigation, and Prosecution of White Collar Crime](Subchapter%20039%20%28XXXIX%29%20-%20Prevention%2C%20Investigation%2C%20and%20Prosecution%20of%20White%20Collar%20Crime/README.md)
 - [Subchapter 040 (XL) - Grant Program to Evaluate and Improve Educational Methods at Prisons, Jails, and Juvenile Facilities](Subchapter%20040%20%28XL%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/README.md)
+- [Subchapter 041 (XLI) - Crisis Stabilization and Community Reentry Program](Subchapter%20041%20%28XLI%29%20-%20Crisis%20Stabilization%20and%20Community%20Reentry%20Program/README.md)

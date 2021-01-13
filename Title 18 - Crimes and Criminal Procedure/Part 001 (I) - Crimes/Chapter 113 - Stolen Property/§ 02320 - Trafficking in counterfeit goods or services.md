@@ -6,7 +6,7 @@ Offenses.—Whoever intentionally—
 
 &emsp;(1) traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
 
-&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark hasbeen applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
+&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
 
 &emsp;(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
 
@@ -56,7 +56,7 @@ Defenses.—All defenses, affirmative defenses, and limitations on remedies that
 
 (e)
 
-Presentence Report.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+Presentence Report.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope ofthe injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
 (2) Persons permitted to submit victim impact statements shall include—
 
@@ -84,7 +84,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied tolabels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
 &emsp;(2) the term "financial gain" includes the receipt, or expected receipt, of anything of value;
 
@@ -122,7 +122,7 @@ Report to Congress.—(1) Beginning with the first year after the date of enactm
 
 &emsp;(ii) The number of online infringement cases.
 
-&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no finesordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
 
 &emsp;(iv) The total amount of restitution ordered in all copyright infringement cases.
 
@@ -139,6 +139,8 @@ Report to Congress.—(1) Beginning with the first year after the date of enactm
 Transshipment and Exportation.—No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the "Trademark Act of 1946" or the "Lanham Act").
 
 (Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II, §205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497; Pub. L. 112–144, title VII, §717(a)(1)–(3), July 9, 2012, 126 Stat. 1076; Pub. L. 114–154, §3(2), May 16, 2016, 130 Stat. 387.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -196,7 +198,7 @@ Subsecs. (f), (g). Pub. L. 109–181, §1(b)(4), added subsec. (f) and redesigna
 
 <b>2002</b>—Subsec. (e)(1)(B). Pub. L. 107–140 substituted "section 220506 of title 36" for "section 220706 of title 36".
 
-Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted "this title" for "title 18" wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted "this title" for"title 18" wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 <b>1998</b>—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted "section 220706 of title 36" for "section 110 of the Olympic Charter Act".
 
@@ -213,6 +215,8 @@ Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, �
 <b>1994</b>—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking "not more than $250,000" and inserting "under this title", could not be executed because the phrase "not more than $250,000" did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
 
 Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted "$2,000,000 or imprisoned not more than 10 years" for "$250,000 or imprisoned not more than five years" and "$5,000,000" for "$1,000,000", and in second sentence, substituted "$5,000,000 or imprisoned not more than 20 years" for "$1,000,000 or imprisoned not more than fifteen years" and "$15,000,000" for "$5,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

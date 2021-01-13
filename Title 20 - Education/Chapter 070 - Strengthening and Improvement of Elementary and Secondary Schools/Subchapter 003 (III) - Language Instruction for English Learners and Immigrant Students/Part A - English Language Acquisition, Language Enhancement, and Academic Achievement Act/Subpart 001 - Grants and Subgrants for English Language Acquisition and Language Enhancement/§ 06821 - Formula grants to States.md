@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection\(b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
+In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 
 #### (b) Use of funds
 
@@ -64,11 +64,11 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section 6801 of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
+&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section6801 of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
 
 &emsp;&emsp;&emsp;(i) an amount that bears the same relationship to 80 percent of the remainder as the number of English learners in the State bears to the number of English learners in all States, as determined in accordance with paragraph (3)(A); and
 
-&emsp;&emsp;&emsp;(ii) an amount that bears the same relationship to 20 percent of the remainder asthe number of immigrant children and youth in the State bears to the number of such children and youth in all States, as determined in accordance with paragraph (3)(B).
+&emsp;&emsp;&emsp;(ii) an amount that bears the same relationship to 20 percent of the remainder as the number of immigrant children and youth in the State bears to the number of such children and youth in all States, as determined in accordance with paragraph (3)(B).
 
 #### (B) Minimum allotments
 

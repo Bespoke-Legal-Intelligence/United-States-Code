@@ -52,6 +52,8 @@ Authorization of Appropriations.—(1) Except as provided in paragraph (2), ther
 
 (Added Pub. L. 111–163, title V, §505(a)(1), May 5, 2010, 124 Stat. 1158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.

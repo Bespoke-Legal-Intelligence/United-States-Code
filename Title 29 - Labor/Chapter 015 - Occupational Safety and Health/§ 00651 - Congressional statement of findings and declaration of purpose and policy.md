@@ -32,9 +32,13 @@
 
 (Pub. L. 91–596, §2, Dec. 29, 1970, 84 Stat. 1590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original "this Act", meaning Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -42,7 +46,7 @@ Pub. L. 91–596, §34, Dec. 29, 1970, 84 Stat. 1620, provided that: "This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: "This Act \[amending section 670 of this title\] may be cited as the 'Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998'."
+Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: "This Act \[amending section 670 of thistitle\] may be cited as the 'Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998'."
 
 #### Short Title
 

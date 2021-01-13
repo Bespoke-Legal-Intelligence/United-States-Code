@@ -2,7 +2,7 @@
 
 #### (a) Commission assistance on reimbursable basis
 
-The Commission may, on a reimbursable basis, provide to the Republic of Panama materials, supplies, equipment, work, or services, including water and electric power, requested by the Republic of Panama, at such rates as may be agreed upon by the Commission and the Republic of Panama. Payment for such materials, supplies, equipment, work, or services may be made by direct payment by the Republic of Panama to the Commission or by offset against amounts due the Republic of Panama by the United States.
+The Commission may, on a reimbursable basis, provide to the Republic of Panama materials,supplies, equipment, work, or services, including water and electric power, requested by the Republic of Panama, at such rates as may be agreed upon by the Commission and the Republic of Panama. Payment for such materials, supplies, equipment, work, or services may be made by direct payment by the Republic of Panama to the Commission or by offset against amounts due the Republic of Panama by the United States.
 
 #### (b) Commission assistance on nonreimbursable basis
 
@@ -13,6 +13,8 @@ The Commission may provide office space, equipment, supplies, personnel, and oth
 Any executive department or agency of the United States may, on a reimbursable basis, provide to the Panama Canal Authority materials, supplies, equipment, work, or services requested by the Panama Canal Authority, at such rates as may be agreed upon by that department or agency and the Panama Canal Authority.
 
 (Pub. L. 96–70, title I, §1342, Sept. 27, 1979, 93 Stat. 483; Pub. L. 105–85, div. C, title XXXV, §3542, Nov. 18, 1997, 111 Stat. 2072.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

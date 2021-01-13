@@ -76,7 +76,7 @@ Veterans Employment.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), a recipient of Federal financial assistance under this chapter shall, to the extent practicable,encourage contractors working on a highway project funded using the assistance to make a best faith effort in the hiring or referral of laborers on any project for the construction of a highway to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract.
+In general.—Subject to paragraph (2), a recipient of Federal financial assistance under this chapter shall, to the extent practicable, encourage contractors working on a highway project funded using the assistance to make a best faith effort in the hiring or referral of laborers on any project for the construction of a highway to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract.
 
 &emsp;(2)
 
@@ -87,6 +87,8 @@ Administration.—This subsection shall not—
 &emsp;&emsp;(B) be administered or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, a female, or any equally qualified former employee.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467; Pub. L. 112–141, div. A, title I, §1506, July 6, 2012, 126 Stat. 564.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -115,6 +117,8 @@ Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior
 <b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -280,5 +284,5 @@ Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
 
 #### Acceleration of Projects
 
-Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration projectauthorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
+Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
 

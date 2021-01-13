@@ -12,9 +12,13 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 (Pub. L. 101–73, title XI, §1110, Aug. 9, 1989, 103 Stat. 514; Pub. L. 111–203, title XIV, §1473(e)(1), July 21, 2010, 124 Stat. 2191.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

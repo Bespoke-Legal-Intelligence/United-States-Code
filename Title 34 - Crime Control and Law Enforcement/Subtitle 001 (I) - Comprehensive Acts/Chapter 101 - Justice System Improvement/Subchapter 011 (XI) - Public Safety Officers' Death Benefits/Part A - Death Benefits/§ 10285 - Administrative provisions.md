@@ -96,6 +96,8 @@ Unless expressly provided otherwise, any reference in this subchapter to any pro
 
 (Pub. L. 90–351, title I, §1205, formerly §1204, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2100; renumbered §1205, Pub. L. 100–690, title VI, §6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, §2(b), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, §1086(b)(1)(F), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 115–36, §2, June 2, 2017, 131 Stat. 849.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The September 11th Victim Compensation Fund of 2001, referred to in subsec. (e)(2)(O)(i), is title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under section 40101 of Title 49, Transportation.
@@ -116,13 +118,15 @@ Subsec. (e). Pub. L. 115–36, §2(3), added subsec. (e).
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–180 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any benefit claim or application under this subchapter pending before the Bureau of Justice Assistance on such date or received by the Bureau on or after such date, see section 6 of Pub. L. 115–36, set out as a note under section 10282 of this title.
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably means subpar. (I) of par. (2).</i>
 

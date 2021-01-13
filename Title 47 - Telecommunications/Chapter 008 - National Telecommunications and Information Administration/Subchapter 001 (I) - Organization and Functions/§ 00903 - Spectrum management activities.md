@@ -2,7 +2,7 @@
 
 #### (a) Revision of regulations
 
-Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amendthe Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
+Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
 
 #### (b) Requirements for revisions
 
@@ -46,7 +46,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 &emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
 
-&emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
+&emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year afterAugust 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 
 &emsp;&emsp;(B) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to utilize a radio station belonging to the United States for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission.
 
@@ -64,13 +64,17 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 (Pub. L. 102–538, title I, §104, Oct. 27, 1992, 106 Stat. 3537; Pub. L. 103–66, title VI, §6001(b), Aug. 10, 1993, 107 Stat. 387.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–66 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 

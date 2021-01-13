@@ -46,6 +46,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–430, §2(d), Oct. 31, 1994, 108 Stat. 4394, added item 16.
@@ -59,6 +61,8 @@
 <b>1962</b>—Pub. L. 87–489, §1(b), June 19, 1962, 76 Stat. 104, added item 14.
 
 <b>1957</b>—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted ", acquisition of reports from governmental and other sources" in item 6, and added items 12, 13 and 26.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

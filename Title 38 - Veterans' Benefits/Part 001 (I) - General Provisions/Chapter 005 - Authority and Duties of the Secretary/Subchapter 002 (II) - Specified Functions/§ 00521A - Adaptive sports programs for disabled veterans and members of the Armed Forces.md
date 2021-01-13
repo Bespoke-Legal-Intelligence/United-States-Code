@@ -30,7 +30,7 @@ Application Requirement.—(1) Before the Secretary may award a grant to an elig
 
 &emsp;(B) for any fiscal year for which a grant is sought, the amount of private donations received by the eligible entity expected to be expended to support operations during that fiscal year.
 
-(3) Partnerships referred to in this paragraph are agreements between the eligible entity and organizations with significant experience in the training and support of disabled athletes and the promotion of disabled sports at the local and national levels. Such organizations may include Disabled Sports USA, Blaze Sports, Paralyzed Veterans of America, and Disabled American Veterans. The agreements shall detail the scope of activities and funding to be provided by the eligible entity to the partner.
+(3) Partnerships referred to in this paragraph are agreements between the eligible entity andorganizations with significant experience in the training and support of disabled athletes and the promotion of disabled sports at the local and national levels. Such organizations may include Disabled Sports USA, Blaze Sports, Paralyzed Veterans of America, and Disabled American Veterans. The agreements shall detail the scope of activities and funding to be provided by the eligible entity to the partner.
 
 (d)
 
@@ -76,7 +76,11 @@ Coordination.—The Secretary shall ensure access to and use of appropriate Depa
 
 (g)
 
-Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
+Authorization of Appropriations.—(1) There is authorized to be appropriated amounts as follows:
+
+&emsp;(A) $8,000,000 for each of fiscal years 2010 through 2020. for each of fiscal years 2010 through 2020.<sup>1</sup>
+
+&emsp;(B) $16,000,000 for each of fiscal years 2021 and 2022.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -90,7 +94,7 @@ Limitation on Use of Funds.—Except as provided in paragraphs (4) and (5) of su
 
 (j)
 
-Annual Report to Secretary.—(1) As a condition of receiving a grant under this section, an eligible entity shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the eligible entity shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the adapted sports opportunities funded by the grant, including any programs carried out through a partnership under subsection (c)(3),and the administrative expenses of such opportunities and programs.
+Annual Report to Secretary.—(1) As a condition of receiving a grant under this section, an eligible entity shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the eligible entity shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participatedin the adapted sports opportunities funded by the grant, including any programs carried out through a partnership under subsection (c)(3), and the administrative expenses of such opportunities and programs.
 
 (2) A report under this subsection may be audited by the Secretary.
 
@@ -102,11 +106,17 @@ Annual Report to Congress.—For any fiscal year during which the Secretary prov
 
 (l)
 
-Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
+Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2022.
 
-(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171.)
+(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5403, Oct. 1, 2020, 134 Stat. 751.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (g)(1). Pub. L. 116–159, §5403(a), substituted "appropriated amounts as follows:" for "appropriated $8,000,000", inserted "(A) $8,000,000 for each of fiscal years 2010 through 2020." before "for each of fiscal years 2010 through 2020.", and added subpar. (B).
+
+Subsec. (l). Pub. L. 116–159, §5403(b), substituted "2022" for "2020".
 
 <b>2018</b>—Subsecs. (g)(1), (l). Pub. L. 115–251 substituted "2020" for "2019".
 
@@ -158,6 +168,8 @@ Subsec. (m). Pub. L. 113–59, §5(g)(7), struck out subsec. (m) which provided 
 
 Subsec. (m). Pub. L. 113–37, §2(b)(2)(C), added subsec. (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under section 322 of this title.
@@ -177,4 +189,6 @@ Pub. L. 110–389, title VII, §703(c), Oct. 10, 2008, 122 Stat. 4185, provided 
 &emsp;"(1) to make available, to the extent determined appropriate by the Secretary, recreational therapists, physical therapists, and other medical staff to facilitate participation of veterans in sporting events conducted under the auspices of the United States Paralympics, Inc.; and
 
 &emsp;"(2) to allow such personnel to provide support to the programs of the United States Paralympics, Inc., without requiring the use of personal leave."
+
+<i><sup>1</sup></i><i> So in original. The words "for each of fiscal years 2010 through 2020." probably should not appear twice.</i>
 

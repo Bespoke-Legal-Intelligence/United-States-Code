@@ -1,14 +1,22 @@
 ### §701. Placement of employees in military installations
 
-The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, or air service.
+The Secretary may place employees of the Department in such Army, Navy, Air Force, and Space Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, air, or space service.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394; amended Pub. L. 116–283, div. A, title IX, §926(a)(4), (c), Jan. 1, 2021, 134 Stat. 3830, 3831.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior sections 701 and 702 were renumbered sections 1901 and 1902 of this title, respectively.
 
 Provisions similar to those in this section were contained in section 231 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "Air Force, and Space Force" for "and Air Force" and "air, or space service" for "or air service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reemployment of Former Employees at Department of Veterans Affairs
 
@@ -34,7 +42,7 @@ Definition of Qualified Former Employee.—For purposes of this section, the ter
 
 #### Promotional Opportunities for Technical Experts at Department of Veterans Affairs
 
-Pub. L. 115–46, title II, §205, Aug. 12, 2017, 131 Stat. 963, provided that: "Not later than one year after thedate of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
+Pub. L. 115–46, title II, §205, Aug. 12, 2017, 131 Stat. 963, provided that: "Not later than one year after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
 
 &emsp;"(1) provide any such employee the opportunity to advance within the Department without being required to transition to a management position; and
 

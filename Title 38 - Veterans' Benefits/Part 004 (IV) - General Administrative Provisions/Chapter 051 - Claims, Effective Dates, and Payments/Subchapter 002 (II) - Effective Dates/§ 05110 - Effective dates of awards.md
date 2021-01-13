@@ -1,6 +1,6 @@
 ### §5110. Effective dates of awards
 
-(a)(1) Unless specifically provided otherwise in this chapter, the effective date of an award based on an initial claim, or a supplemental claim, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.
+(a)(1) Unless specifically provided otherwise in this chapter, the effective date of an awardbased on an initial claim, or a supplemental claim, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.
 
 (2) For purposes of determining the effective date of an award under this section, the date of application shall be considered the date of the filing of the initial application for a benefit if the claim is continuously pursued by filing any of the following, either alone or in succession:
 
@@ -42,11 +42,11 @@
 
 (g) Subject to the provisions of section 5101 of this title, where compensation, dependency and indemnity compensation, or pension is awarded or increased pursuant to any Act or administrative issue, the effective date of such award or increase shall be fixed in accordance with the facts found but shall not be earlier than the effective date of the Act or administrative issue. In no event shall such award or increase be retroactive for more than one year from the date of application therefor or the date of administrative determination of entitlement, whichever is earlier.
 
-(h) Where an award of pension has been deferred or pension has been awarded at a rate based on anticipated income for a year and the claimant later establishes that income for that year was at a rate warranting entitlement or increased entitlement, the effective date of such entitlement or increase shall be fixed in accordance with the facts found if satisfactory evidence is received before the expiration of the next calendar year.
+(h) Where an award of pension has been deferred or pension has been awarded at a rate based on anticipated income for a year and the claimant later establishes that income for that year was at a rate warranting entitlement or increased entitlement, the effective date of suchentitlement or increase shall be fixed in accordance with the facts found if satisfactory evidence is received before the expiration of the next calendar year.
 
 (i) Whenever any disallowed claim is readjudicated and thereafter allowed on the basis of new and relevant evidence resulting from the correction of the military records of the proper service department under section 1552 of title 10, or the change, correction, or modification of a discharge or dismissal under section 1553 of title 10, or from other corrective action by competent authority, the effective date of commencement of the benefits so awarded shall be the date on which an application was filed for correction of the military record or for the change, modification, or correction of a discharge or dismissal, as the case may be, or the date such disallowed claim was filed, whichever date is the later, but in no event shall such award of benefits be retroactive for more than one year from the date of readjudication of such disallowed claim. This subsection shall not apply to any application or claim for Government life insurance benefits.
 
-(j) Where a report or a finding of death of any person in the active military, naval, or air service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitled to receive, an allowance, allotment, or service pay of the deceased.
+(j) Where a report or a finding of death of any person in the active military, naval, air, or space service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitled to receive, an allowance, allotment, or service pay of the deceased.
 
 (k) The effective date of the award of benefits to a surviving spouse or of an award or increase of benefits based on recognition of a child, upon annulment of a marriage shall be the date the judicial decree of annulment becomes final if a claim therefor is filed within one year from the date the judicial decree of annulment becomes final; in all other cases the effective date shall be the date the claim is filed.
 
@@ -56,17 +56,17 @@
 
 (n) The effective date of the award of any benefit or any increase therein by reason of marriage or the birth or adoption of a child shall be the date of such event if proof of such event is received by the Secretary within one year from the date of the marriage, birth, or adoption.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 112–154, title V, §506, Aug. 6, 2012, 126 Stat. 1193; Pub. L. 115–55, §2(l), Aug. 23, 2017, 131 Stat. 1110.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 112–154, title V, §506, Aug. 6, 2012, 126 Stat. 1193; Pub. L. 115–55, §2(l), Aug. 23, 2017, 131 Stat. 1110; Pub. L. 116–283, div. A, title IX, §926(a)(52), Jan. 1, 2021, 134 Stat. 3830.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(l) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (b)(2)(C), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (j). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–55, §2(l)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Unless specifically provided otherwise in this chapter, the effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor."
 
@@ -128,9 +128,11 @@ Subsec. (j). Pub. L. 87–825 redesignated former subsec. (e) as (j), and substi
 
 Subsec. (k). Pub. L. 87–825 redesignated former subsec. (f), added by Pub. L. 87–674, as (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date of 1984 Amendment
 

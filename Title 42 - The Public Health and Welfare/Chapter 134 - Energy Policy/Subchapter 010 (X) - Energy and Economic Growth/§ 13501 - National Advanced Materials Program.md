@@ -28,11 +28,11 @@ Within 180 days after October 24, 1992, the Secretary, in consultation with appr
 
 #### (d) General Services Administration demonstration program
 
-The Secretary, in consultation with the Administrator of General Services, shall establish a program to expedite the use, in goods and services acquired by the General Services Administration, of advanced materials technologies. Such program shall include a demonstration of the use of advanced materials technologies as may be necessary to establish technical and economic feasibility. The Secretary shall transfer funds to the General Services Administration for carrying out this subsection.
+The Secretary, in consultation with the Administrator of General Services, shall establish a program to expedite the use, in goods and services acquired by the General Services Administration, of advanced materials technologies. Such program shall include a demonstration of the use of advanced materials technologies as may be necessary to establishtechnical and economic feasibility. The Secretary shall transfer funds to the General Services Administration for carrying out this subsection.
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from section 13451(e)of this title and for renewable applications from section 13471(c) of this title, including Department of Energy national laboratory participation in proposals submitted under subsection (c), and including transferring funds to the General Services Administration.
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from section 13451(e) of this title and for renewable applications from section 13471(c) of this title, including Department of Energy national laboratory participation in proposals submitted under subsection (c), and including transferring funds to the General Services Administration.
 
 (Pub. L. 102–486, title XXII, §2201, Oct. 24, 1992, 106 Stat. 3085.)
 

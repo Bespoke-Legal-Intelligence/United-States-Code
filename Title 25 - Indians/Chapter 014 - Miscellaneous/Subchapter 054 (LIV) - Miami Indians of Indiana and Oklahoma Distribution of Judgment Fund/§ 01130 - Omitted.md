@@ -1,6 +1,8 @@
 ### §1130. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 92–309, §9, June 2, 1972, 86 Stat. 200, which authorized prescription of rules and regulationsto carry out the provisions of former sections 1122 to 1130 of this title, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–309, §9, June 2, 1972, 86 Stat. 200, which authorized prescription of rules and regulations to carry out the provisions of former sections 1122 to 1130 of this title, was omitted from the Code as being of special and not general application.
 

@@ -12,9 +12,13 @@ Based on title 28, U.S.C., 1940 ed., §851 (R.S. §995; May 29, 1920, ch. 214, �
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–258 substituted "Deposit of moneys in pending or adjudicated cases" for "Deposit" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Registry Administration Account
 

@@ -44,7 +44,7 @@ Amounts received under a grant under subsection (c) shall be used to conduct act
 
 #### (1) In general
 
-&emsp;A plan described in this subsection is a plan that describes the activities to be carried outby a State or by the qualified State-designated entity within such State to facilitate and expand the electronic movement and use of health information among organizations according to nationally recognized standards and implementation specifications.
+&emsp;A plan described in this subsection is a plan that describes the activities to be carried out by a State or by the qualified State-designated entity within such State to facilitate and expand the electronic movement and use of health information among organizations according to nationally recognized standards and implementation specifications.
 
 #### (2) Required elements
 
@@ -98,7 +98,7 @@ In carrying out activities described in subsections (b) and (c), a State or qual
 
 #### (h) Continuous improvement
 
-The Secretary shall annually evaluate the activities conducted under this section and shall, in awarding grants under this section, implement the lessons learned from such evaluation in a manner so that awards made subsequent to each such evaluation are made in a manner that, in the determination of the Secretary, will lead towards the greatest improvement in quality of care, decrease in costs, and the most effective authorized and secure electronic exchange of health information.
+The Secretary shall annually evaluate the activities conducted under this section and shall, in awarding grants under this section, implement the lessons learned from such evaluation in a manner so that awards made subsequent toeach such evaluation are made in a manner that, in the determination of the Secretary, will lead towards the greatest improvement in quality of care, decrease in costs, and the most effective authorized and secure electronic exchange of health information.
 
 #### (i) Required match
 

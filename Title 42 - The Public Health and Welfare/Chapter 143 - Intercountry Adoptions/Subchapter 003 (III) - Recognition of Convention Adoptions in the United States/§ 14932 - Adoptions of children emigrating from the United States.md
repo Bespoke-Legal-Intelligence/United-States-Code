@@ -54,7 +54,7 @@ In a case described in subsection (a), the Secretary, on receipt and verificatio
 
 #### (d) Filing with registry regarding non-Convention adoptions
 
-Accredited agencies, approved persons, and other persons, including governmental authorities, providing adoption services in an intercountry adoption not subject to the Convention that involves the emigration of a child from the United States shall file information required by regulations jointly issued by the Attorney General and the Secretary of State for purposes of implementing section 14912(e) of this title.
+Accredited agencies, approved persons, and other persons, including governmental authorities, providing adoption services in an intercountry adoption not subject to the Conventionthat involves the emigration of a child from the United States shall file information required by regulations jointly issued by the Attorney General and the Secretary of State for purposes of implementing section 14912(e) of this title.
 
 (Pub. L. 106–279, title III, §303, Oct. 6, 2000, 114 Stat. 839.)
 

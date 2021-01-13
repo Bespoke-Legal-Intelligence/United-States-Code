@@ -349,6 +349,7 @@
 | [282m.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282m%20-%20Authority%20to%20vote%20for%20capital%20increases%20necessary%20to%20support%20economic%20restructuring%20in%20independent%20states%20of%20former%20Soviet%20Union.md) | Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union. |
 | [282n.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282n%20-%20Authority%20to%20agree%20to%20amendments%20to%20Articles%20of%20Agreement.md) | Authority to agree to amendments to Articles of Agreement. |
 | 282<i>o.</i> | Selective capital increase and amendment of the Articles of Agreement. |
+| [282p.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282p%20-%20Capital%20increases%20and%20amendment%20to%20the%20Articles%20of%20Agreement.md) | Capital increases and amendment to the Articles of Agreement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -449,6 +450,7 @@
 | [284z.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284z%20-%20Seventeenth%20replenishment.md) | Seventeenth replenishment. |
 | [284aa.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284aa%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 | [284bb.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284bb%20-%20Eighteenth%20replenishment.md) | Eighteenth replenishment. |
+| [284cc.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284cc%20-%20Nineteenth%20replenishment.md) | Nineteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -714,6 +716,7 @@
 | 290g–22. | Thirteenth replenishment. |
 | 290g–23. | Multilateral debt relief. |
 | 290g–24. | Fourteenth replenishment. |
+| 290g–25. | Fifteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -750,6 +753,7 @@
 | 290i–9. | Securities issued by Bank; Securities and Exchange Commission oversight. |
 | 290i–10. | Authorization of United States subscription to stock; authorization of appropriations. |
 | 290i–11. | Sixth capital increase. |
+| 290i–12. | Seventh capital increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -809,6 +813,8 @@
 | 290m–4. | Authority to agree to certain amendments to the Border Environment Cooperation Agreement. |
 | 290m–5. | Grants out of paid-in capital resources. |
 | 290m–6. | Repealed. |
+| 290m–7. | First capital increase. |
+| 290m–8. | Performance measures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -856,6 +862,90 @@
 | [290q.](Subchapter%20032%20%28XXXII%29%20-%20Organization%20of%20American%20States/%C2%A7%2000290q%20-%20Organization%20of%20American%20States%20revitalization%20and%20reform%20strategy.md) | Organization of American States revitalization and reform strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Ensuring Chinese Debt Transparency
+
+Pub. L. 116–283, div. H, title XCVII, §9722, Jan. 1, 2021, 134 Stat. 4840, provided that:
+
+"(a)
+
+United States Policy at the International Financial Institutions.—The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]) that it is the policy of the United States to use the voice and vote of the United States at the respective institution to seek to secure greater transparency with respect to the terms and conditions of financing provided by the government of the People's Republic of China to any member state of the respective institution that is a recipient of financing from the institution, consistent with the rules and principles of the Paris Club.
+
+"(b)
+
+Report Required.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\]—
+
+&emsp;"(1) a description of progress made toward advancing the policy described in subsection (a) of this section; and
+
+&emsp;"(2) a discussion of financing provided by entities owned or controlled by the government of the People's Republic of China to the member states of international financial institutions that receive financing from the international financial institutions, including any efforts or recommendations by the Chairman to seek greater transparency with respect to the former financing.
+
+"(c)
+
+Sunset.—Subsections (a) and (b) of this section shall have no force or effect after the earlier of—
+
+&emsp;"(1) the date that is 7 years after the date of the enactment of this Act \[Jan. 1, 2021\]; or
+
+&emsp;"(2) 30 days after the date that the Secretary reports to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the People's Republic of China is in substantial compliance with the rules and principles of the Paris Club."
+
+#### Accountability for World Bank Loans to China
+
+Pub. L. 116–283, div. H, title XCVII, §9723, Jan. 1, 2021, 134 Stat. 4841, provided that:
+
+"(a)
+
+United States Support for Graduation of China From World Bank Assistance.—
+
+&emsp;"(1)
+
+In general.—The United States Governor of the International Bank for Reconstruction and Development (in this section referred to as the 'IBRD') shall instruct the United States Executive Director at the IBRD that it is the policy of the United States to—
+
+&emsp;&emsp;"(A) pursue the expeditious graduation of the People's Republic of China from assistance by the IBRD, consistent with the lending criteria of the IBRD; and
+
+&emsp;&emsp;"(B) until the graduation of China from IBRD assistance, prioritize projects in China that contribute to global public goods, to the extent practicable.
+
+&emsp;"(2)
+
+Sunset.—Paragraph (1) shall have no force or effect on or after the earlier of—
+
+&emsp;&emsp;"(A) the date that is 7 years after the date of the enactment of this Act \[Jan. 1, 2021\]; or
+
+&emsp;&emsp;"(B) the date that the Secretary of the Treasury reports to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that termination of paragraph (1) is important to the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+"(b)
+
+Accountability for World Bank Loans to the People's Republic of China.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the United States Governor of the IBRD shall submit the report described in paragraph (2) to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+&emsp;"(2)
+
+Report described.—The report described in this paragraph shall include the following:
+
+&emsp;&emsp;"(A) A detailed description of the efforts of the United States Governor of the IBRD to enforce the timely graduation of countries from the IBRD, with a particular focus on the efforts with regard to the People's Republic of China.
+
+&emsp;&emsp;"(B) If the People's Republic of China is a member country of the IBRD, an explanation of any economic or political factors that have prevented the graduation of the People's Republic of China from the IBRD.
+
+&emsp;&emsp;"(C) A discussion of any effects resulting from fungibility and IBRD lending to China, including the potential for IBRD lending to allow for funding by the government of the People's Republic of China of activities that may be inconsistent with the national interest of the United States.
+
+&emsp;&emsp;"(D) An action plan to help ensure that the People's Republic of China graduates from the IBRD within 2 years after submission of the report, consistent with the lending eligibility criteria of the IBRD.
+
+&emsp;"(3)
+
+Waiver of requirement that report include action plan.—The Secretary of the Treasury may waive the requirement of paragraph (2)(D) on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver is important to the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+"(c)
+
+Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Within 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall, in consultation with the Secretary of State, submit to the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report (which should be submitted in unclassified form but may include a classified annex) that includes the following:
+
+&emsp;"(1) An assessment of the level of indebtedness of countries receiving assistance through the Belt and Road Initiative that are also beneficiary countries of the international financial institutions, including the level and nature of indebtedness to the People's Republic of China or an entity owned or controlled by the government of the People's Republic of China.
+
+&emsp;"(2) An analysis of debt management assistance provided by the World Bank, the International Monetary Fund, and the Office of Technical Assistance of the Department of the Treasury to borrowing countries of the Belt and Road Initiative of the People's Republic of China (or any comparable initiative or successor initiative of China).
+
+&emsp;"(3) An assessment of the effectiveness of United States efforts, including bilateral efforts and multilateral efforts, at the World Bank, the International Monetary Fund, other international financial institutions and international organizations to promote debt transparency."
 
 
 ---

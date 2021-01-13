@@ -200,7 +200,7 @@ Pub. L. 109–59, title V, §5510, Aug. 10, 2005, 119 Stat. 1828, provided that:
 
 "(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee onScience, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 "(b)
 

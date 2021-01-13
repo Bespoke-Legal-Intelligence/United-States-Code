@@ -30,6 +30,8 @@ The term "overcharges" as used in this section shall be deemed to mean charges f
 
 (June 19, 1934, ch. 652, title IV, §415, 48 Stat. 1099; Pub. L. 93–507, Nov. 30, 1974, 88 Stat. 1577.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsecs. (a) to (c). Pub. L. 93–507 amended subsecs. (a) to (c) generally, substituting reference to two years for reference to one year wherever appearing.

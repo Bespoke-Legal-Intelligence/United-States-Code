@@ -80,7 +80,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall provide to the Secretary a list of all members of the Armed Forces who served during the period between August 5, 1964, and December 31, 1971.
+&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs,shall provide to the Secretary a list of all members of the Armed Forces who served during the period between August 5, 1964, and December 31, 1971.
 
 #### (B) Use
 
@@ -204,6 +204,8 @@ No Federal land may be identified for selection or made available for allotment 
 
 (Pub. L. 116–9, title I, §1119, Mar. 12, 2019, 133 Stat. 630.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of May 17, 1906, as in effect on December 17, 1971, referred to in subsec. (a)(2)(A)(ii)(I), means act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
@@ -211,6 +213,8 @@ Act of May 17, 1906, as in effect on December 17, 1971, referred to in subsec. (
 #### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of the Alaska Native Claims Settlement Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

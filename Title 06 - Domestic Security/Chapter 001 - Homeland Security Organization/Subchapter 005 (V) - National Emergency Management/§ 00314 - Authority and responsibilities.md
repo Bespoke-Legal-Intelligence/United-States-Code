@@ -40,7 +40,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;&emsp;(B) preparedness, by planning, training, and building the emergency management profession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
 
-&emsp;&emsp;(C) response, by conducting emergency operations to save lives and property through positioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
+&emsp;&emsp;(C) response, by conducting emergency operations to save lives and property throughpositioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
 
 &emsp;&emsp;(D) recovery, by rebuilding communities so individuals, businesses, and governments can function on their own, return to normal life, and protect against future hazards;
 
@@ -80,6 +80,8 @@ In carrying out the responsibilities under this section, the Administrator shall
 
 (Pub. L. 107–296, title V, §504, formerly §502, Nov. 25, 2002, 116 Stat. 2212; Pub. L. 108–276, §3(b)(1), July 21, 2004, 118 Stat. 852; Pub. L. 108–458, title VII, §7303(h)(1), Dec. 17, 2004, 118 Stat. 3846; renumbered §504 and amended Pub. L. 109–295, title VI, §611(8), (12), Oct. 4, 2006, 120 Stat. 1395, 1398; Pub. L. 109–417, title III, §301(c)(1), Dec. 19, 2006, 120 Stat. 2854.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(8), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
@@ -108,11 +110,15 @@ Par. (3)(D). Pub. L. 108–276, §3(b)(1)(B), inserted ", including requiring d
 
 Par. (7). Pub. L. 108–458 struck out "developing comprehensive programs for developing interoperative communications technology, and" before "helping" and substituted "acquire interoperable communications technology" for "acquire such technology".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–417, title III, §301(f), Dec. 19, 2006, 120 Stat. 2855, provided that: "The amendments made by subsections (b) and (c) \[amending this section and former section 313 of this title and enacting provisions set out as a note under section 300hh–11 of Title 42, The Public Health and Welfare\] shall take effect on January 1, 2007."
 
 Amendment by section 611(12) of Pub. L. 109–295 effective Mar. 31, 2007, see section 614(b)(2) of Pub. L. 109–295, set out as an Effective Date note under section 701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13347. Individuals With Disabilities in Emergency Preparedness
 

@@ -30,7 +30,7 @@ For the purposes of this subchapter:
 
 #### (6) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 4(12) <sup>1</sup> of the Native American Housing Assistance and Self Determination Act of 1996, 25 U.S.C. 4103(12).
+&emsp;The term "Indian tribe" has the meaning given the term in section 4(12) <sup>1</sup> of the NativeAmerican Housing Assistance and Self Determination Act of 1996, 25 U.S.C. 4103(12).
 
 (Pub. L. 100–690, title V, §5126, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4247; Pub. L. 104–330, title VII, §704(4), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(4), title V, §586(f), Oct. 21, 1998, 112 Stat. 2488, 2649; Pub. L. 106–74, title II, §227(a), as added Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534.)
 

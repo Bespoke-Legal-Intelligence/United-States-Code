@@ -66,6 +66,8 @@ Pub. L. 93–400, §32, as added Pub. L. 103–355, title IV, §4301(a), Oct. 13
 
 In subsecs. (a), (d), and (e), "$3,000" substituted for "$2,500" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §821(b), struck out "sections 2338 and 2339 of title 10 and" after "Except as provided in".
@@ -77,6 +79,8 @@ Subsec. (b)(1). Pub. L. 115–232, §812(a)(2)(C)(ix), struck out ", section 23
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §217(b)(1), designated existing provisions as par. (1), substituted "Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes" for "For purposes" and added par. (2).
 
 Subsecs. (d), (e). Pub. L. 114–328, §217(b)(2), substituted "with a price not greater than the micro-purchase threshold" for "not greater than $3,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Convenience Checks
 

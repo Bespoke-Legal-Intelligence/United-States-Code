@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 May 23, 1986, Pub. L. 99–318, §17, 100 Stat. 476.
 
-The word "sole" is omitted as included in "exclusive". The words "the corporation adopts" are substituted for "as the corporation may lawfully adopt" for consistency in the revised title and to eliminate unnecessary words. The words "This section does not affect any" are substituted for "Nothing in this section shall be construed to interfere or conflict with" forconsistency in the revised title. The words "established or" are omitted as included in "vested".
+The word "sole" is omitted as included in "exclusive". The words "the corporation adopts" are substituted for "as the corporation may lawfully adopt" for consistency in the revised title and to eliminate unnecessary words. The words "This section does not affect any" are substituted for "Nothing in this section shall be construed to interfere or conflict with" for consistency in the revised title. The words "established or" are omitted as included in "vested".
 

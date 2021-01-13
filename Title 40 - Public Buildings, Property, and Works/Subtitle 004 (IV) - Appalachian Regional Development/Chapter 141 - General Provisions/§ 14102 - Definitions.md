@@ -12,7 +12,7 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(B) In Georgia, the counties of Banks, Barrow, Bartow, Carroll, Catoosa, Chattooga, Cherokee, Dade, Dawson, Douglas, Elbert, Fannin, Floyd, Forsyth, Franklin, Gilmer, Gordon, Gwinnett, Habersham, Hall, Haralson, Hart, Heard, Jackson, Lumpkin, Madison, Murray, Paulding, Pickens, Polk, Rabun, Stephens, Towns, Union, Walker, White, and Whitfield.
 
-&emsp;&emsp;(C) In Kentucky, the counties of Adair, Bath, Bell, Boyd, Breathitt, Carter, Casey, Clark, Clay, Clinton, Cumberland, Edmonson, Elliott, Estill, Fleming, Floyd, Garrard, Green, Greenup, Harlan, Hart, Jackson, Johnson, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Menifee, Metcalfe, Monroe, Montgomery, Morgan, Nicholas, Owsley, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Russell, Wayne, Whitley, and Wolfe.
+&emsp;&emsp;(C) In Kentucky, the counties of Adair, Bath, Bell, Boyd, Breathitt, Carter, Casey,Clark, Clay, Clinton, Cumberland, Edmonson, Elliott, Estill, Fleming, Floyd, Garrard, Green, Greenup, Harlan, Hart, Jackson, Johnson, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Menifee, Metcalfe, Monroe, Montgomery, Morgan, Nicholas, Owsley, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Russell, Wayne, Whitley, and Wolfe.
 
 &emsp;&emsp;(D) In Maryland, the counties of Allegany, Garrett, and Washington.
 
@@ -81,6 +81,8 @@ Pub. L. 89–4, title III, §301, Mar. 9, 1965, 79 Stat. 19.
 In subsection (a)(2), the words "the appropriate state official" are substituted for "the State officer designated by the appropriate State law to make such certification" to eliminate unnecessary words. The words "No entity shall be certified as a local development district for the purposes of this Act unless it is one of the following" are omitted as unnecessary.
 
 In subsection (b), the text of 40 App.:403 (last par.) is omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

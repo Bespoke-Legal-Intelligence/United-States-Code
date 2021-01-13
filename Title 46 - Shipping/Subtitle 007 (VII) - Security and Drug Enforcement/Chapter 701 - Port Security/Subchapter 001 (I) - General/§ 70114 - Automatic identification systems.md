@@ -24,6 +24,8 @@ Regulations.—The Secretary shall prescribe regulations implementing subsection
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2082.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 107–295, title I, §102(e), Nov. 25, 2002, 116 Stat. 2084, provided that:

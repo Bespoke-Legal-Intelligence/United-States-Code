@@ -14,6 +14,8 @@ A cosmetic shall be deemed to be adulterated—
 
 (June 25, 1938, ch. 675, §601, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(1), July 12, 1960, 74 Stat. 398; Pub. L. 102–571, title I, §107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(x), Aug. 13, 1993, 107 Stat. 778.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–80 substituted "usual, except that this" for "usual: <i>Provided</i>, That this".
@@ -21,6 +23,8 @@ A cosmetic shall be deemed to be adulterated—
 <b>1992</b>—Par. (e). Pub. L. 102–571 substituted "379e(a)" for "376(a)".
 
 <b>1960</b>—Par. (e). Pub. L. 86–618 substituted "and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376(a) of this title" for "and it bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 364 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

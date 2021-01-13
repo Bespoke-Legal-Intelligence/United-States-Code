@@ -28,6 +28,8 @@
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV, §403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, §2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted "5543(a)(1) and section 5544(a)" for "5543(a)(1), 5544(a), and 5550".

@@ -10,11 +10,15 @@ Presentation as Amicus Curiae Permitted.—Nothing in this chapter shall prevent
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1306.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to relationship with Department of Justice for substantially similar provisions.
 
 <b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

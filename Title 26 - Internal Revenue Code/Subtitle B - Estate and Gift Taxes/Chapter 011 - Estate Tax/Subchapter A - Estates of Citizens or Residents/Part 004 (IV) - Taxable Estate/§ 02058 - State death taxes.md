@@ -20,7 +20,7 @@ The deduction allowed by this section shall include only such taxes as were actu
 
 &emsp;&emsp;&emsp;(i) 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim,
 
-&emsp;&emsp;&emsp;(ii) 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, or
+&emsp;&emsp;&emsp;(ii) 60 days after a decision by any court of competent jurisdiction becomes finalwith respect to a timely suit instituted upon such claim, or
 
 &emsp;&emsp;&emsp;(iii) 2 years after a notice of the waiver of disallowance is filed under section 6532(a)(3).
 

@@ -68,7 +68,7 @@ Consistent with the use of military installations and State-owned National Guard
 
 &emsp;(2) must be reviewed as to operation and effect by the parties thereto on a regular basis, but not less often than every 5 years; and
 
-&emsp;(3) may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement andrelated activities in accordance with the integrated natural resources management plan; except that—
+&emsp;(3) may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
 
 &emsp;&emsp;(A) the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
 
@@ -110,7 +110,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### (2) Secretary of the Interior
 
-&emsp;Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant to integrated natural resources management plans.
+&emsp;Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant tointegrated natural resources management plans.
 
 #### (3) "Committees" defined
 
@@ -226,7 +226,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: "Section 101(g) of theSikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
+Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: "Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
 
 &emsp;"(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
 

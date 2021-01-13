@@ -26,7 +26,7 @@ Independence of arbitrator.—Each person authorized to arbitrate or otherwise s
 
 &emsp;(5)
 
-Apportionment of costs.—No shipper may be charged more than half of the cost for instituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
+Apportionment of costs.—No shipper may be charged more than half of the cost forinstituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
 
 &emsp;(6)
 
@@ -56,7 +56,7 @@ Attorney's Fees to Shippers.—In any court action to resolve a dispute between 
 
 &emsp;(B) a decision resolving the dispute was not rendered through arbitration under this section within the period provided under subsection (b)(8) of this section or an extension of such period under such subsection; or
 
-&emsp;(C) the court proceeding is to enforce a decision rendered through arbitration under thissection and is instituted after the period for performance under such decision has elapsed.
+&emsp;(C) the court proceeding is to enforce a decision rendered through arbitration under this section and is instituted after the period for performance under such decision has elapsed.
 
 (e)
 

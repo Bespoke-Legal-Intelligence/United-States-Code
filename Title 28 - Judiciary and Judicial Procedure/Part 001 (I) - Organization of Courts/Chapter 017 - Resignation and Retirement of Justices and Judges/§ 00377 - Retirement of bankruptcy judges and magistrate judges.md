@@ -6,7 +6,7 @@ Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge t
 
 (b)
 
-Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate judge to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate judge, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate judge's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
+Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate judge to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate judge, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge'sor magistrate judge's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
 
 &emsp;(1) such judge or magistrate judge has served at least 1 full term as a bankruptcy judge or magistrate judge, and
 
@@ -48,7 +48,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 &emsp;(B) each month of service shall be credited as one-twelfth of a year, and the fractional part of any month shall not be credited.
 
-(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, anyservice of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
@@ -132,7 +132,7 @@ Recall not permitted.—Any bankruptcy judge or magistrate judge who retires und
 
 &emsp;(3)
 
-Accepting other employment.—Any bankruptcy judge or magistrate judge who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate judge under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term "compensation" includes retired pay or salary received in retired status.
+Accepting other employment.—Any bankruptcy judge or magistrate judge who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as abankruptcy judge or magistrate judge under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term "compensation" includes retired pay or salary received in retired status.
 
 (n)
 
@@ -206,7 +206,7 @@ Establishment.—There is established in the Treasury a fund which shall be know
 
 &emsp;(2)
 
-Investment of fund.—The Secretary of the Treasury shall invest, in interest bearing securities of the United States, such currently available portions of the Judicial Officers' Retirement Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
+Investment of fund.—The Secretary of the Treasury shall invest, in interest bearing securities of the United States, such currentlyavailable portions of the Judicial Officers' Retirement Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
 &emsp;(3)
 
@@ -224,6 +224,8 @@ Unfunded liability.—(A) There are authorized to be appropriated to the Judicia
 
 (Added Pub. L. 100–659, §2(a), Nov. 15, 1988, 102 Stat. 3910; amended Pub. L. 101–650, title III, §§321, 325(b)(3), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7447 of the Internal Revenue Code, referred to in subsec. (f)(3), is classified to section 7447 of Title 26, Internal Revenue Code.
@@ -239,6 +241,8 @@ Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549),
 <b>1990</b>—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for "any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5."
 
 Subsec. (h). Pub. L. 101–650, §325(b)(3)(B), substituted "on or after" for "in or after" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

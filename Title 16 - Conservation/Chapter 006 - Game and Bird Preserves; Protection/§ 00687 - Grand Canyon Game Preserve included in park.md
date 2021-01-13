@@ -1,6 +1,6 @@
 ### §687. Grand Canyon Game Preserve included in park
 
-Such parts of the Grand Canyon National Game Preserve, designated under authority of section 684 of this title, as are by this Act included with <sup>1</sup> the Grand Canyon National Park are excluded and eliminated from said game preserve.
+Such parts of the Grand Canyon National Game Preserve, designated under authority of section 684 of this title, as are by this Act included with <sup>1</sup> the Grand Canyon National Parkare excluded and eliminated from said game preserve.
 
 (Feb. 26, 1919, ch. 44, §9, 40 Stat. 1178.)
 

@@ -28,7 +28,9 @@ For the purposes of this chapter—
 
 &emsp;(B) the assistance authorized by this chapter for a veteran receiving any of the services described in clause (A) of this paragraph.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1501; amended Pub. L. 99–576, title III, §333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18,1989, 103 Stat. 2092; renumbered §3101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(a), Oct. 9, 1996, 110 Stat. 3323.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1501; amended Pub. L. 99–576, title III, §333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(a), Oct. 9, 1996, 110 Stat. 3323.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -49,6 +51,8 @@ Par. (3). Pub. L. 102–83, §5(c)(1), substituted "3452(b)" for "1652(b)".
 <b>1989</b>—Pars. (4), (9)(A). Pub. L. 101–237 substituted "Secretary" for "Administrator".
 
 <b>1986</b>—Pars. (6)(B), (9)(A)(i). Pub. L. 99–576 inserted "currently" after "be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

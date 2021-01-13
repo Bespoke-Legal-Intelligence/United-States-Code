@@ -4,21 +4,59 @@
 
 #### (1) In general
 
-&emsp;A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project and submit the study to the Secretary.
+&emsp;A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project, or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers, and submit the study to the Secretary.
 
 #### (2) Guidelines
 
-&emsp;To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.
+&emsp;To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—
+
+&emsp;&emsp;(A) ensure that any feasibility study with respect to which the Secretary submits an assessment to Congress under subsection (c) complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+
+&emsp;&emsp;(B) provide sufficient information for the formulation of the studies, including processes and procedures related to reviews and assistance under subsection (e).
 
 #### (b) Review by Secretary
 
-The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+#### (1) In general
+
+&emsp;The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+
+#### (2) Timing
+
+&emsp;The Secretary may not submit to Congress an assessment of a feasibility study under this section until such time as the Secretary—
+
+&emsp;&emsp;(A) determines that the feasibility study complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+
+&emsp;&emsp;(B) completes all of the Federal analyses, reviews, and compliance processes under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), that would be required with respect to the proposed project if the Secretary had undertaken the feasibility study.
+
+#### (3) Initiation of review
+
+#### (A) Request
+
+#### (i) Submission
+
+&emsp;&emsp;&emsp;The non-Federal interest may submit to the Secretary a request that the Secretary initiate the analyses, reviews, and compliance processes described in paragraph (2)(B) with respect to the proposed project prior to the non-Federal interest's submission of a feasibility study under subsection (a)(1).
+
+#### (ii) Effect
+
+&emsp;&emsp;&emsp;Receipt by the Secretary of a request submitted under clause (i) shall be considered the receipt of a proposal or application that will lead to a major Federal action that is subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) that would be required if the Secretary were to undertake the feasibility study.
+
+#### (B) Deadline
+
+&emsp;&emsp;Not later than 10 days after the Secretary receives a request under this paragraph, the Secretary shall begin the required analyses, reviews, and compliance processes.
+
+#### (4) Notification
+
+&emsp;Upon receipt of a request under paragraph (3), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the request and a timeline for completion of the required analyses, reviews, and compliance processes.
+
+#### (5) Status updates
+
+&emsp;Not later than 30 days after receiving a request under paragraph (3), and every 30 days thereafter until the Secretary submits an assessment under subsection (c) for the applicable feasibility study, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the non-Federal interest of the status of the Secretary's required analyses, reviews, and compliance processes.
 
 #### (c) Submission to Congress
 
 #### (1) Review and submission of studies to Congress
 
-&emsp;Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+&emsp;Not later than 180 days after the completion of review of a feasibility study under subsection (b), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an assessment that describes—
 
 &emsp;&emsp;(A) the results of the Secretary's review of the study under subsection (b), including a determination of whether the project is feasible;
 
@@ -32,7 +70,7 @@ The Secretary shall review each feasibility study received under subsection (a)(
 
 #### (d) Credit
 
-If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the dateof the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
+If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
 
 #### (e) Review and technical assistance
 
@@ -60,9 +98,23 @@ If a project for which a feasibility study has been submitted under subsection (
 
 &emsp;&emsp;(B) shall not affect the responsibilities of the Secretary under subsections (b) and (c).
 
-(Pub. L. 99–662, title II, §203, Nov. 17, 1986, 100 Stat. 4098; Pub. L. 113–121, title I, §1014(a), June 10, 2014, 128 Stat. 1219; Pub. L. 114–322, title I, §1126, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1152, Oct. 23, 2018, 132 Stat. 3788.)
+(Pub. L. 99–662, title II, §203, Nov. 17, 1986, 100 Stat. 4098; Pub. L. 113–121, title I, §1014(a), June 10, 2014, 128 Stat. 1219; Pub. L. 114–322, title I, §1126, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1152, Oct. 23, 2018, 132 Stat. 3788; Pub. L. 116–260, div. AA, title I, §161(a), Dec. 27, 2020, 134 Stat. 2665.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §161(a)(1)(A), inserted ", or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers," after "water resources development project".
+
+Subsec. (a)(2). Pub. L. 116–260, §161(a)(1)(B), substituted "for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—" for "for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies." and added subpars. (A) and (B).
+
+Subsec. (b). Pub. L. 116–260, §161(a)(2), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
+
+Subsec. (c)(1). Pub. L. 116–260, §161(a)(3), in introductory provisions, substituted "after the completion of review of a feasibility study under subsection (b)" for "after the date of receipt of a feasibility study of a project under subsection (a)(1)" and "an assessment" for "a report".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–270, §1152(1), inserted "federally authorized" before "feasibility study".
 
@@ -80,7 +132,25 @@ Subsec. (e). Pub. L. 115–270, §1152(3), amended subsec. (e) generally. Prior 
 
 <b>2014</b>—Pub. L. 113–121 amended section generally. Prior to amendment, section related to studies of projects by non-Federal interests.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 For short title of title II of Pub. L. 99–662, enacting this subchapter, as the Harbor Development and Navigation Improvement Act of 1986, see section 215 of Pub. L. 99–662, set out as a note under section 2201 of this title.
+
+#### Deadline
+
+Pub. L. 116–260, div. AA, title I, §161(b), Dec. 27, 2020, 134 Stat. 2667, provided that: "Not later than 90 days after the date of enactment of this Act \[Dec. 27, 2020\], the Secretary \[of the Army\] shall issue revised guidelines under section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) to implement the amendments made by this section \[amending this section\]."
+
+#### Hold Harmless
+
+Pub. L. 116–260, div. AA, title I, §161(c), Dec. 27, 2020, 134 Stat. 2667, provided that:
+
+"(1)
+
+One-year window.—The amendments made by this section \[amending this section\] shall not apply to any feasibility study submitted to the Secretary \[of the Army\] under section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) during the one-year period prior to the date of enactment of this section \[Dec. 27, 2020\].
+
+"(2) 2020
+
+projects.—The amendments made by this section shall not apply to any project authorized by section 403 of this Act \[section 403 of div. AA of Pub. L. 116–260, 134 Stat. 2743, which is not classified to the Code\]."
 

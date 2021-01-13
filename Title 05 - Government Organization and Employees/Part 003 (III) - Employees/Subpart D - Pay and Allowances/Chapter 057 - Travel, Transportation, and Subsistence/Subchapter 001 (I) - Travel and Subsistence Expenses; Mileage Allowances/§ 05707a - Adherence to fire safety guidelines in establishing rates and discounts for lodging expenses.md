@@ -12,7 +12,7 @@
 
 (d) The Administrator of General Services shall include in each directory which lists lodging accommodations a description of the access and safety devices, including appropriate emergency alerting devices, which each listed place of public accommodation provides for guests who are hearing-impaired or visually or physically handicapped.
 
-(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the ability of employees traveling on official business to stay at approved places of public accommodation.
+(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the abilityof employees traveling on official business to stay at approved places of public accommodation.
 
 (f) For purposes of this section:
 
@@ -23,6 +23,8 @@
 &emsp;(3) The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
 (Added Pub. L. 101–391, §4(a), Sept. 25, 1990, 104 Stat. 749; amended Pub. L. 105–85, div. A, title XI, §1107(a)–(c), Nov. 18, 1997, 111 Stat. 1924, 1925; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ Subsec. (e). Pub. L. 105–85, §1107(c)(3), substituted "facilitate the ability
 Pub. L. 105–85, §1107(a)(1), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 105–85, §1107(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

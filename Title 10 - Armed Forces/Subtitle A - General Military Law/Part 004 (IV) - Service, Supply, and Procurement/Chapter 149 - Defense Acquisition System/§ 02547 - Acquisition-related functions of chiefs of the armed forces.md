@@ -2,7 +2,7 @@
 
 (a)
 
-Performance of Certain Acquisition-related Functions.—The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
+Performance of Certain Acquisition-related Functions.—The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
 
 &emsp;(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
 
@@ -40,7 +40,7 @@ Rule of Construction.—Nothing in this section shall be construed to affect the
 
 Definitions.—In this section:
 
-&emsp;(1) The term "requirements creep" means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
+&emsp;(1) The term "requirements creep" means the addition of new technical or operationalspecifications after a requirements document is approved by the appropriate validation authority for the requirements document.
 
 &emsp;(2) The term "requirements document" means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
 
@@ -52,13 +52,27 @@ Definitions.—In this section:
 
 &emsp;(3) The term "program capability document" has the meaning provided in section 2446a(b)(5) of this title.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, §807(c), Dec. 23, 2016, 130 Stat. 2261; Pub. L. 115–91, div. A, title VIII, §833, Dec. 12, 2017, 131 Stat. 1468; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title XVII, §1731(a)(52), Dec. 20, 2019, 133 Stat. 1815.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, §807(c), Dec. 23, 2016, 130 Stat. 2261; Pub. L. 115–91, div. A, title VIII, §833, Dec. 12, 2017, 131 Stat. 1468; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title XVII, §1731(a)(52), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title IX, §924(b)(32), title XVIII, §1847(e)(4)(B), Jan. 1, 2021, 134 Stat. 3825, 4257.)
+
+#### Transfer and Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(2), 1847(e)(4)(B), Jan. 1, 2021, 134 Stat. 4151, 4159, 4257, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred and amended as follows:</i>
+
+<i>(1) this section, as part of chapter 205 of this title as transferred and redesignated by section 1808(a)(1) of Pub. L. 116–283, is redesignated as section 3104 of this title; and</i>
+
+<i>(2) subsection (b) of this section is transferred to section 4274(a) and (b) of this title.</i>
+
+<i>See 2021 Amendment note and Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 2547 was renumbered section 2557 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(32), substituted "the Commandant of the Marine Corps, and the Chief of Space Operations" for "and the Commandant of the Marine Corps".
+
+Subsec. (b). Pub. L. 116–283, §1847(e)(4)(B), transferred subsec. (b) to section 4274(a) and (b) of this title.
 
 <b>2019</b>—Subsec. (b)(2)(A). Pub. L. 116–92 substituted "materiel" for "material" and "Materiel" for "Material" in two places.
 
@@ -81,6 +95,10 @@ Subsec. (a)(7). Pub. L. 114–92, §802(b)(1), redesignated par. (6) as (7).
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §951(c)(1), substituted "of requirements for equipping the armed force concerned" for "of requirements relating to the defense acquisition system".
 
 Subsec. (a)(3) to (6). Pub. L. 112–239, §951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1808(a)(2) and 1847(e)(4)(B) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

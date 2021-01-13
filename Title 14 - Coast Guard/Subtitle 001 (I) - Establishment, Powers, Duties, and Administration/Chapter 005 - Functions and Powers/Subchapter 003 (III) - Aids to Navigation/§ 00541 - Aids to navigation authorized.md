@@ -1,6 +1,6 @@
 ### §541. Aids to navigation authorized
 
-In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
+(a) In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
 
 &emsp;(1) aids to maritime navigation required to serve the needs of the armed forces or of the commerce of the United States;
 
@@ -10,7 +10,13 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 > These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 500, §81; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, §1, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, §1(3), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–322, title I, §105(a), Oct. 15, 1982, 96 Stat. 1582; renumbered §541, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200.)
+(b) In the case of pierhead beacons, the Commandant may—
+
+&emsp;(1) acquire, by donation or purchase in behalf of the United States, the right to use and occupy sites for pierhead beacons; and
+
+&emsp;(2) properly mark all pierheads belonging to the United States situated on the northern and northwestern lakes, whenever the Commandant is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierheads has been completed.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 500, §81; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, §1, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, §1(3), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–322, title I, §105(a), Oct. 15, 1982, 96 Stat. 1582; renumbered §541, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8509(a), Jan. 1, 2021, 134 Stat. 4755.)
 
 #### Historical and Revision Notes
 
@@ -18,11 +24,15 @@ Based on title 14, U.S.C., 1946 ed.; §§50m, 50o, and on title 33, U.S.C., 1946
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 541 was renumbered section 2903 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 81 of this title as this section.
 
@@ -30,13 +40,15 @@ A prior section 541 was renumbered section 2903 of this title.
 
 <b>1976</b>—Pub. L. 94–546 substituted "Federal Aviation Administration" for "Federal Aviation Agency" in cl. (3)(c).
 
-<b>1966</b>—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted "electronic aids to navigation systems" for "Loran stations", and altered thelist of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
+<b>1966</b>—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted "electronic aids to navigation systems" for "Loran stations", and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
 
 <b>1958</b>—Pub. L. 85–726 substituted "Administrator of the Federal Aviation Agency" for "Administrator of Civil Aeronautics".
 
 <b>1954</b>—Act Sept. 3, 1954, substituted "Department of Defense" for "National Military Establishment".
 
 <b>1951</b>—Act June 22, 1951, extended Coast Guard's authority to include the Trust Territory of the Pacific Islands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 
@@ -68,7 +80,7 @@ Notification.—Not later than 30 days after establishing a process under subsec
 
 #### Improved Safety Information for Vessels
 
-Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
+Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after thedate of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
 
 #### Aids to Navigation Report
 
@@ -85,6 +97,8 @@ Pub. L. 97–322, title I, §105(b), Oct. 15, 1982, 96 Stat. 1582, provided that
 #### Contractual Authority Dependent Upon Availability of Appropriated Funds
 
 Pub. L. 97–322, title I, §105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: "Any authority to enter into contracts provided in this section \[amending this section and enacting provision set out as Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees note under this section\] shall be available only to the extent that appropriated funds are available for that purpose."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
 

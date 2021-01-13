@@ -48,7 +48,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat.4663; Pub. L. 111–211, title I, §103, July 29, 2010, 124 Stat. 2260.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663; Pub. L. 111–211, title I, §103, July 29, 2010, 124 Stat. 2260.)
 
 #### Historical and Revision Notes
 
@@ -61,6 +61,8 @@ The last paragraph of section 305e of title 25, U.S.C., 1940 ed., relating to du
 Maximum fine of $2,000 was changed to $500 to bring the offense within the category of petty offenses defined by section 1 of this title. (See reviser's note under section 1157 of this title.)
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -82,9 +84,13 @@ Subsec. (c)(3). Pub. L. 111–211, §103(2), added par. (3) and struck out forme
 
 <b>1990</b>—Pub. L. 101–644 substituted "Misrepresentation of Indian produced goods and products" for "Misrepresentation in sale of products" in section catchline and amended text generally. Prior to amendment, text read as follows: "Whoever willfully offers or displays for sale any goods, with or without any Government trade mark, as Indian products or Indian products of a particular Indian tribe or group, resident within the United States or the Territory of Alaska, when such person knows such goods are not Indian products or are not Indian products of the particular Indian tribe or group, shall be fined not more than $500 or imprisoned not more than six months, or both."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Certification of Indian Artisans
 
 For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with "Indian tribe" having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

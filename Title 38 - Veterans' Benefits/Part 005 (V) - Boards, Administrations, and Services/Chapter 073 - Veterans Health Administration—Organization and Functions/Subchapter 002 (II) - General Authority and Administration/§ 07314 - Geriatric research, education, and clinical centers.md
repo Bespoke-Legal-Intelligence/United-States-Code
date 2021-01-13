@@ -4,7 +4,7 @@
 
 (b) In designating locations for centers under subsection (a), the Secretary, upon the recommendation of the Under Secretary for Health, shall—
 
-&emsp;(1) designate each Department health-care facility that as of August 26, 1980, was operating a geriatric research, education, and clinical center unless (on the recommendation of the Under Secretary for Health) the Secretary determines that such facility does not meet the requirements of subsection (c) or has notdemonstrated effectiveness in carrying out the established purposes of such center or the purposes of title III of the Veterans' Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048) or the potential to carry out such purposes effectively in the reasonably foreseeable future; and
+&emsp;(1) designate each Department health-care facility that as of August 26, 1980, was operating a geriatric research, education, and clinical center unless (on the recommendation of the Under Secretary for Health) the Secretary determines that such facility does not meet the requirements of subsection (c) or has not demonstrated effectiveness in carrying out the established purposes of such center or the purposes of title III of the Veterans' Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048) or the potential to carry out such purposes effectively in the reasonably foreseeable future; and
 
 &emsp;(2) assure appropriate geographic distribution of such facilities.
 
@@ -35,6 +35,8 @@
 (g) Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title V, §521, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §§1201(c)(4), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4683, 4689; Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Di
 Subsecs. (f), (g). Pub. L. 102–585, §521(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
 <b>1991</b>—Subsec. (b)(1). Pub. L. 102–83, §4(a)(3), (4), which directed substitution of "Department" for "Veterans' Administration", was amended by Pub. L. 103–446, §1202(b)(2), to make it inapplicable to this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

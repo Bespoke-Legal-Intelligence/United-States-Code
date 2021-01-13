@@ -10,6 +10,8 @@ The Secretary shall require that each establishment subject to inspection under 
 
 (Mar. 4, 1907, ch. 2907, title I, §13, as added Pub. L. 110–234, title XI, §11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, §4(a), title XI, §11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -17,6 +19,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 613, acts Mar. 4, 1907, ch. 2907, title I, §13, formerly 11th par., 34 Stat. 1263; renumbered §13 and amended Pub. L. 90–201, §§1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, related to inspectors of animals for export and certificates of condition, prior to repeal by Pub. L. 107–171, title X, §10418(a)(19), May 13, 2002, 116 Stat. 508. Section was formerly classified to section 81 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

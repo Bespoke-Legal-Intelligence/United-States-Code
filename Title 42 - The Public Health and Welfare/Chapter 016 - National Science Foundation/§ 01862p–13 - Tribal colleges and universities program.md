@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall continue to support a program to award grants on a competitive, merit-reviewed basis to tribal colleges and universities (as defined in section 1059c of title 20, including institutions described in section 1059d of title20), to enhance the quality of undergraduate STEM education at such institutions and to increase the retention and graduation rates of Native American students pursuing associate's or baccalaureate degrees in STEM.
+The Director shall continue to support a program to award grants on a competitive, merit-reviewed basis to tribal colleges and universities (as defined in section 1059c of title 20, including institutions described in section 1059d of title 20), to enhance the quality of undergraduate STEM education at such institutions and to increase the retention and graduation rates of Native American students pursuing associate's or baccalaureate degrees in STEM.
 
 #### (b) Program components
 
@@ -28,5 +28,5 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 #### Definitions
 
-For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
+For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
 

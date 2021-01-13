@@ -50,7 +50,7 @@
 
 &emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
-(2) For purposes of this subsection, the term "disposable income" means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+(2) For purposes of this subsection, the term "disposable income" means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
 &emsp;(A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
 
@@ -84,7 +84,21 @@
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285; Pub. L. 111–327, §2(a)(44), Dec. 22, 2010, 124 Stat. 3562.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20,2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285; Pub. L. 111–327, §2(a)(44), Dec. 22, 2010, 124 Stat. 3562; Pub. L. 116–136, div. A, title I, §1113(b)(1)(B), (2)(A)(ii), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 116–260, div. N, title III, §320(e), (f)(2)(A)(v), Dec. 27, 2020, 134 Stat. 2016, 2017.)
+
+#### Amendment of Section and Termination of Amendment
+
+<i>Pub. L. 116–260, div. N, title III, §320(e), (f)(1), Dec. 27, 2020, 134 Stat. 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:</i>
+
+<i>(d) Notwithstanding section 1322(a)(2) of this title and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.</i>
+
+<i>Pub. L. 116–260, div. N, title III, §320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, §320(e), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (d).</i>
+
+<i>See 2020 Amendment notes below.</i>
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(ii), (B), Mar. 27, 2020, 134 Stat. 312, provided that, effective 1 year after Mar. 27, 2020, subsection (b)(2) of this section is amended, in the introductory provisions, by striking "payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19),". See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -98,7 +112,21 @@ The bankruptcy court must confirm a plan if (1) the plan satisfies the provision
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The National Emergencies Act, referred to in subsec. (b)(2), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–136, §1113(b)(2)(A)(ii), struck out "payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19)," after "other than" in introductory provisions.
+
+Pub. L. 116–136, §1113(b)(1)(B), inserted "payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19)," after "other than" in introductory provisions.
+
+Subsec. (d). Pub. L. 116–260, §320(f)(2)(A)(v), contingent on its addition by Pub. L. 116–260, §320(e), struck out subsec. (d) which read as follows: "Notwithstanding section 1322(a)(2) of this title and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim."
+
+Pub. L. 116–260, §320(e), added subsec. (d).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–327, §2(a)(44)(A), inserted "period" after "910-day" in concluding provisions.
 
@@ -140,6 +168,14 @@ Subsec. (a)(1). Pub. L. 98–353, §530, inserted "the" before "other".
 
 Subsecs. (b), (c). Pub. L. 98–353, §317(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective and Termination Dates of 2020 Amendment
+
+Amendment by section 320(e) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(v) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under section 364 of this title.
+
+Amendment by section 1113(b)(2)(A)(ii) of Pub. L. 116–136, effective 1 year after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under section 101 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -155,6 +191,8 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

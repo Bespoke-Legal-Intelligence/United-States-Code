@@ -68,7 +68,7 @@ Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the Pr
 
 (e) Of the persons first designated as members of the Committee under the provisions of subsection (b) of this Section, four shall be designated to serve until December 31, 1966, four shall be designated to serve until December 31, 1967, and four shall be designated to serve until December 31, 1968.
 
-Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf of the President, (1) the recommendations made by the National Academy of Sciences respecting the award of the Medal pursuant to the provisions of Section 2(a) of the Act \[subsec. (a) of this section\], and (2) such similar recommendations as may be made by any other nationally representative scientific or engineering organization or other qualified source. Each such recommendation shall include or be accompanied by such appropriate supporting material as the Committee may from time to time specify.
+Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf of the President, (1) the recommendations made by the National Academy of Sciences respecting the award of the Medal pursuant to the provisions of Section 2(a) of the Act \[subsec. (a) of this section\], and (2) such similar recommendations as may bemade by any other nationally representative scientific or engineering organization or other qualified source. Each such recommendation shall include or be accompanied by such appropriate supporting material as the Committee may from time to time specify.
 
 (b) On the basis of such criteria, information, and evidence as it may deem appropriate, and subject to the provisions of Section 1 of this Order, the Committee shall designate, from among the individuals who are recommended in accordance with Section 3(a) of this Order, those individuals whom the Committee recommends for the award of the Medal and shall transmit the names of those individuals to the President, together with its recommendations. In so transmitting its recommendations, the Committee (1) shall include expressions of its views concerning, and such other information as may be pertinent to, its recommendations, and (2) may arrange the names of all or some of the recommended individuals in a sequence deemed by it to indicate the order of precedence in which the individuals involved deserve to receive the Medal.
 
@@ -88,7 +88,7 @@ Sec. 6. <i>Prior Orders</i>. (a) Subject to the provisions of this Order, the Pr
 
 #### Extension of Term of President's Committee on the National Medal of Science
 
-Term of President's Committee on the National Medal of Science extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Committee on the National Medal of Science extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the National Medal of Science were contained in the following prior Executive Orders:
 

@@ -58,7 +58,9 @@
 
 &emsp;(B) whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, §226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 112–96, title V, §5001(c)(2)(B), Feb. 22, 2012, 126 Stat. 200.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, §226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530; Pub. L.112–96, title V, §5001(c)(2)(B), Feb. 22, 2012, 126 Stat. 200.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Subsec. (d). Pub. L. 100–238, §122(c)(1), designated existing provisions as p
 <b>1986</b>—Subsec. (b)(3). Pub. L. 99–556, §106, substituted "(a)(1)(A)(i)" for "(a)(1)(A)" in second sentence.
 
 Subsec. (d). Pub. L. 99–556, §104, inserted "(after the reduction under subsection (a)(2), if applicable, has been made)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

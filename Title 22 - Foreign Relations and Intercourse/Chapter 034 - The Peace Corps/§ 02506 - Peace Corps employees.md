@@ -4,7 +4,7 @@
 
 (1) For the purpose of performing functions under this chapter outside the United States, the President may employ or assign persons, or authorize the employment or assignment of officers or employees of agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], together with allowances and benefits thereunder; and persons so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of the employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for persons appointed to the Foreign Service.
 
-(2) The President may utilize such authority contained in the Foreign Service Act of 1980 \[22U.S.C. 3901 et seq.\] relating to members of the Foreign Service and other United States Government officers and employees as the President deems necessary to carry out functions under this chapter, except that—
+(2) The President may utilize such authority contained in the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] relating to members of the Foreign Service and other United States Government officers and employees as the President deems necessary to carry out functions under this chapter, except that—
 
 &emsp;(A) no Foreign Service appointment or assignment under this paragraph shall be for a period of more than seven and one-half years, subject to paragraph (5) and except as provided in paragraph (6); and
 
@@ -76,6 +76,8 @@ In each country or area in which volunteers serve abroad, the President may appo
 
 (Pub. L. 87–293, title I, §7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, §1001(l), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, §4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, §302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, §1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, §104, Oct. 9, 2018, 132 Stat. 3653.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
@@ -122,7 +124,9 @@ Subsecs. (d), (e). Pub. L. 89–134, §4(c), (d), redesignated subsecs. (d) and 
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–200 struck out "so" before "employed".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted "but not in excess of the highest grade 18 of such general schedule" for "and of these not to exceed two may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year".
+<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted "but not in excess of the highest grade 18 of such general schedule" for "and of these not to exceed two may be compensated at a rate in excess of the highest rate providedfor grades of such general schedule but not in excess of $19,000 per year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 
@@ -144,14 +148,6 @@ Pub. L. 89–134, §5(a), Aug. 24, 1965, 79 Stat. 551, provided that: "Section 4
 
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 1008 of Pub. L. 87–793.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
-
-#### Coordination of Changes in Policy With Secretary of State
-
-Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
-
 #### Peace Corps Appointments or Assignments
 
 Pub. L. 108–199, div. D, title II, Jan. 23, 2004, 118 Stat. 156, provided in part: "That during fiscal year 2004 and any subsequent fiscal year, the Director of the Peace Corps may make appointments or assignments, or extend current appointments or assignments, to permit United States citizens to serve for periods in excess of 5 years in the case of individuals whose appointment or assignment, such as regional safety security officers and employees within the Office of the Inspector General, involves the safety of Peace Corps volunteers: <i>Provided further</i>, That the Director of the Peace Corps may make such appointments or assignments notwithstanding the provisions of section 7 of the Peace Corps Act \[this section\] limiting the length of an appointment or assignment, the circumstances under which such an appointment or assignment may exceed 5 years, and the percentage of appointments or assignments that can be made in excess of 5 years."
@@ -164,10 +160,6 @@ Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 171.
 
 Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
 
-#### Benefits for Persons Appointed or Assigned Under Subsec. (a)
-
-Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
-
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 
 Pub. L. 89–134, §5(b), Aug. 24, 1965, 79 Stat. 551, provided that: "Under such regulations as the President may prescribe, each person employed under authorities repealed by section 4(a) of this Act \[which repealed former subsecs. (a) and (b) of this section providing for employment of Washington headquarters personnel in accordance with standard civil service laws\] immediately prior to the effective date of that section \[see Effective Date of 1965 Amendment note above\] shall effective on that date be appointed a Foreign Service Reserve officer or Foreign Service staff officer or employee under the authority of section 7(a)(2) of the Peace Corps Act \[subsec. (a)(2) of this section\], as amended, and appointed or assigned to an appropriate class thereof; except that—
@@ -178,5 +170,19 @@ Pub. L. 89–134, §5(b), Aug. 24, 1965, 79 Stat. 551, provided that: "Under suc
 
 > Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection."
 
-\[Functions of the President conferred by section 5(b) of Pub. L. 89–134, set out above, to prescribe regulationsand make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under section 2501 of this title. Such functions were previously transferred from the President to the Director of ACTION \[now Corporation for National and Community Service\] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out as a note under section 2501 of this title, which was superseded by section 1–707 of Ex. Ord. No. 12137.\]
+\[Functions of the President conferred by section 5(b) of Pub. L. 89–134, set out above, to prescribe regulations and make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under section 2501 of this title. Such functions were previously transferred from the President to the Director of ACTION \[now Corporation for National and Community Service\] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out as a note under section 2501 of this title, which was superseded by section 1–707 of Ex. Ord. No. 12137.\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+
+#### Coordination of Changes in Policy With Secretary of State
+
+Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
+
+#### Benefits for Persons Appointed or Assigned Under Subsec. (a)
+
+Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
 

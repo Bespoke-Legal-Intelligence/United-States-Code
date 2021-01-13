@@ -18,7 +18,9 @@ Proceeds derived from dispositions, payments, or gifts under subsection (a) shal
 
 Notwithstanding subsection (b), proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.
 
-(May 7, 1926, ch. 250, §9, as added Apr. 19, 1945, ch. 78, 59 Stat. 53; amended Pub. L. 88–94, §2(e), Aug. 12, 1963, 77 Stat. 122; Pub. L. 89–636, §3, Oct. 10, 1966, 80 Stat. 882; Pub. L. 99–399, title IV, §401(h)(2), Aug. 27, 1986, 100 Stat. 863; Pub. L. 101–246, title I, §116(c), Feb. 16, 1990, 104 Stat. 25.)
+(May 7, 1926, ch. 250, §9, as added Apr. 19, 1945, ch. 78, 59 Stat. 53; amended Pub. L. 88–94, §2(e), Aug. 12, 1963, 77 Stat. 122; Pub. L. 89–636, §3, Oct. 10, 1966, 80 Stat. 882; Pub. L. 99–399, title IV,§401(h)(2), Aug. 27, 1986, 100 Stat. 863; Pub. L. 101–246, title I, §116(c), Feb. 16, 1990, 104 Stat. 25.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Notwithstanding subsection (b), proceeds from the disposition of furniture, furn
 Subsec. (b). Pub. L. 89–636 substituted provisions designated as subsec. (b) and providing for application of proceeds derived from dispositions, payments, or gifts under subsec. (a) toward acquisition, construction, or other purposes authorized by this chapter, as in the judgment of the Secretary may best serve the Government's interest, for former provision for application of proceeds of sales toward purchase and construction, furnishing, and preservation of other properties.
 
 <b>1963</b>—Pub. L. 88–94 struck out "with the concurrence of the Foreign Service Buildings Commission," after "Government," and ", as in the judgment of the Commission may best serve the Government's interest" after "Foreign Service building fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -8,7 +8,7 @@ Program Required.—The Secretary shall carry out a program under which the Secr
 
 Grants.—(1) The Secretary shall carry out the program through the award of grants.
 
-(2)(A) In awarding grants under paragraph (1), the Secretary shall give priority to organizations that demonstrate a capability to provide case management services as described in subsection (a), particularly organizations that are successfully providing or have successfully provided transitional housing services using amounts provided by the Secretary under sections 2012 and 2061 of this title.
+(2)(A) In awarding grants under paragraph (1), the Secretary shall give priority to organizations that demonstrate a capability to providecase management services as described in subsection (a), particularly organizations that are successfully providing or have successfully provided transitional housing services using amounts provided by the Secretary under sections 2012 and 2061 of this title.
 
 (B) In giving priority under subparagraph (A), the Secretary shall give extra priority to an organization described in such subparagraph that—
 
@@ -20,6 +20,8 @@ Grants.—(1) The Secretary shall carry out the program through the award of gra
 
 (Added Pub. L. 114–315, title VII, §712(a)(1)(B), Dec. 16, 2016, 130 Stat. 1586.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2013 was renumbered section 2014 of this title.
@@ -27,6 +29,8 @@ A prior section 2013 was renumbered section 2014 of this title.
 Another prior section 2013 was renumbered section 4213 of this title.
 
 Another prior section 2013 was renumbered section 4104 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -50,7 +50,7 @@ Nothing in this section shall be construed to limit or otherwise affect the abil
 
 #### (d) Treatment of voluntary submittal of information
 
-The voluntary submittal to the Government of information or records that are protected fromdisclosure by this part shall not be construed to constitute compliance with any requirement to submit such information to a Federal agency under any other provision of law.
+The voluntary submittal to the Government of information or records that are protected from disclosure by this part shall not be construed to constitute compliance with any requirement to submit such information to a Federal agency under any other provision of law.
 
 #### (e) Procedures
 
@@ -72,7 +72,7 @@ The voluntary submittal to the Government of information or records that are pro
 
 #### (f) Penalties
 
-Whoever, being an officer or employee of the United States or of any department or agency thereof, knowingly publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law, any critical infrastructure information protected from disclosure by this part coming to him in the course of this employment or official duties or by reason of any examination or investigation made by, or return, report, or record made to or filed with, such department or agency or officer or employee thereof, shall be fined under title 18, imprisoned not more than 1 year, or both, and shall be removed from office or employment.
+Whoever, being an officer or employee of the United States or of any department or agency thereof, knowingly publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law, any critical infrastructure information protected from disclosure by this part coming to him in the course of this employment or official duties or by reason of any examination or investigation made by, or return, report, or record made to or filed with,such department or agency or officer or employee thereof, shall be fined under title 18, imprisoned not more than 1 year, or both, and shall be removed from office or employment.
 
 #### (g) Authority to issue warnings
 
@@ -87,6 +87,8 @@ The Federal Government may provide advisories, alerts, and warnings to relevant 
 The President may delegate authority to a critical infrastructure protection program, designated under section 672 of this title, to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 4558 of title 50.
 
 (Pub. L. 107–296, title XXII, §2224, formerly title II, §214, Nov. 25, 2002, 116 Stat. 2152; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–199, title I, §111, Nov. 27, 2012, 126 Stat. 1472; renumbered title XXII, §2224, and amended Pub. L. 115–278, §2(g)(2)(H), (9)(B)(ii), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Section was formerly classified to section 133 of this title prior to renumberin
 <b>2012</b>—Subsec. (c). Pub. L. 112–199 inserted at end "For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5."
 
 <b>2004</b>—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

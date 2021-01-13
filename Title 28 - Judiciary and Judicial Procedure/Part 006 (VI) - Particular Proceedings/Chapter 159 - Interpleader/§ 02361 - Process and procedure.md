@@ -1,6 +1,6 @@
 ### §2361. Process and procedure
 
-In any civil action of interpleader or in the nature of interpleader under section 1335 of this title, a district court may issue its process for all claimants and enter its order restraining them from instituting or prosecuting any proceeding in any State or United States court affecting the property, instrument or obligation involved in the interpleader action until further order of the court. Such process and order shall be returnable at such time as the court or judge thereof directs, and shall be addressed to and served by the United States marshals for the respective districts where the claimants reside or may be found.
+In any civil action of interpleader or in the nature of interpleader under section 1335 of this title, a district court may issue its process for all claimants and enter its order restrainingthem from instituting or prosecuting any proceeding in any State or United States court affecting the property, instrument or obligation involved in the interpleader action until further order of the court. Such process and order shall be returnable at such time as the court or judge thereof directs, and shall be addressed to and served by the United States marshals for the respective districts where the claimants reside or may be found.
 
 Such district court shall hear and determine the case, and may discharge the plaintiff from further liability, make the injunction permanent, and make all appropriate orders to enforce its judgment.
 
@@ -23,6 +23,8 @@ Changes were made in phraseology.
 #### 1949 Act
 
 This section makes clear that section 2361 of title 28, U.S.C., applies only to statutory actions and not to general equity interpleader suits in which the jurisdictional amount and diversity of citizenship requirements are the same as in other diversity cases.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

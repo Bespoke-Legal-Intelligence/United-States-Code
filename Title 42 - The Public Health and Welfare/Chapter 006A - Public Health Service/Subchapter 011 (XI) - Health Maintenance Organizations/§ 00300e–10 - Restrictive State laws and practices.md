@@ -4,7 +4,7 @@
 
 In the case of any entity—
 
-&emsp;(1) which cannot do business as a health maintenance organization in a State in which it proposes to furnish basic and supplemental health services because that State by law, regulation, or otherwise—
+&emsp;(1) which cannot do business as a health maintenance organization in a State in which it proposes to furnish basic and supplementalhealth services because that State by law, regulation, or otherwise—
 
 &emsp;&emsp;(A) requires as a condition to doing business in that State that a medical society approve the furnishing of services by the entity,
 

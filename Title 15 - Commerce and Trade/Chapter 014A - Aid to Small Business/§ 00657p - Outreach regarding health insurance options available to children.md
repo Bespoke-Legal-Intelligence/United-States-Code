@@ -44,7 +44,7 @@ In this section—
 
 &emsp;&emsp;(C) efforts to educate the owners of small business concerns about assistance available through public programs; and
 
-&emsp;&emsp;(D) efforts to educate the owners and employees of small business concerns regardingthe availability of the hotline operated as part of the Insure Kids Now program of the Department of Health and Human Services.
+&emsp;&emsp;(D) efforts to educate the owners and employees of small business concerns regarding the availability of the hotline operated as part of the Insure Kids Now program of the Department of Health and Human Services.
 
 #### (4) Implementation
 
@@ -96,5 +96,5 @@ Section was enacted as part of the Children's Health Insurance Program Reauthori
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 ofPub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
 

@@ -6,13 +6,15 @@
 
 The presence or absence of any of the above-mentioned factors to be taken into consideration by the judge need not be conclusive on the issue of voluntariness of the confession.
 
-(c) In any criminal prosecution by the United States or by the District of Columbia, a confession made or given by a person who is a defendant therein, while such person was under arrest or other detention in the custody of any law-enforcement officer or law-enforcement agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate judge or other officer empowered to commit persons charged with offenses against the laws of the United States or of the District of Columbiaif such confession is found by the trial judge to have been made voluntarily and if the weight to be given the confession is left to the jury and if such confession was made or given by such person within six hours immediately following his arrest or other detention: <i>Provided</i>, That the time limitation contained in this subsection shall not apply in any case in which the delay in bringing such person before such magistrate judge or other officer beyond such six-hour period is found by the trial judge to be reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer.
+(c) In any criminal prosecution by the United States or by the District of Columbia, a confession made or given by a person who is a defendant therein, while such person was under arrest or other detention in the custody of any law-enforcement officer or law-enforcement agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate judge or other officer empowered to commit persons charged with offenses against the laws of the United States or of the District of Columbia if such confession is found by the trial judge to have been made voluntarily and if the weight to be given the confession is left to the jury and if such confession was made or given by such person within six hours immediately following his arrest or other detention: <i>Provided</i>, That the time limitation contained in this subsection shall not apply in any case in which the delay in bringing such person before such magistrate judge or other officer beyond such six-hour period is found by the trial judge to be reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer.
 
 (d) Nothing contained in this section shall bar the admission in evidence of any confession made or given voluntarily by any person to any other person without interrogation by anyone, or at any time at which the person who made or gave such confession was not under arrest or other detention.
 
 (e) As used in this section, the term "confession" means any confession of guilt of any criminal offense or any self-incriminating statement made or given orally or in writing.
 
 (Added Pub. L. 90–351, title II, §701(a), June 19, 1968, 82 Stat. 210; amended Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Editorial Notes</b>
 
 #### Constitutionality
 
@@ -21,6 +23,8 @@ For information regarding constitutionality of this section, as added by section
 #### Amendments
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–578 substituted "magistrate" for "commissioner" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -30,7 +30,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 &emsp;(iv) an analysis of the constraints on the flexibility of farmers in the Great Lakes region to market grains and other agricultural commodities, including harvest dates for such commodities and the availability of transport and storage facilities for such commodities; and
 
-&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced inthe United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
+&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced in the United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
 
 (D) In developing the strategy, the Board shall consider weather problems and related costs and marketing problems resulting from the late harvest of agricultural commodities (including wheat and sunflower seeds) in the Great Lakes region.
 
@@ -46,7 +46,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 &emsp;(D) the Secretary of Commerce or his or her delegate,
 
-&emsp;(E) the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate,
+&emsp;(E) the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate,
 
 &emsp;(F) the Secretary of Agriculture or his or her delegate, and
 
@@ -58,7 +58,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (C) Four members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
-(D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate.
+(D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate.
 
 (E) The Board shall meet at the call of the co-chairmen or a majority of its members.
 
@@ -96,11 +96,19 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 The Secretary and the Administrator of the Environmental Protection Agency, in cooperation with the Secretary of the Interior, the Administrator of the National Oceanic and Atmospheric Administration, and other appropriate Federal and non-Federal entities, shall carry out a review of the environmental, economic, and social impacts of navigation in the United States portion of the Great Lakes. In carrying out such review, the Secretary and the Administrator shall use existing research, studies, and investigations relating to such impacts to the maximum extent possible. Special emphasis shall be made in such review of the impacts of navigation on the shoreline and on fish and wildlife habitat, including, but not limited to, impacts associated with resuspension of bottom sediment. The Secretary and the Administrator shall submit to Congress an interim report of such review not later than September 30, 1988, and a final report of such review along with recommendations not later than September 30, 1990.
 
-(Pub. L. 99–662, title XI, §1132, Nov. 17, 1986, 100 Stat. 4246.)
+(Pub. L. 99–662, title XI, §1132, Nov. 17, 1986, 100 Stat. 4246; Pub. L. 116–260, div. AA, title V, §512(c)(5)(D), Dec. 27, 2020, 134 Stat. 2756.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 5311(b) of title 5, referred to in subsec. (b)(5)(A), (B), was repealed by Pub. L. 101–509, title V, §529 \[title I, §104(c)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1447.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(3)(E), (4)(D). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

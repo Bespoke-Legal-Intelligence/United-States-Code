@@ -108,7 +108,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;<b>For treatment of interest paid by the branch of a foreign corporation, see section 884(f).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989; Pub. L. 107–16, title VI, §621(a), June 7, 2001, 115 Stat. 111; Pub. L. 108–357, title IV, §410(a), Oct. 22, 2004, 118 Stat.1500; Pub. L. 111–226, title II, §217(a), (c)(1), Aug. 10, 2010, 124 Stat. 2400, 2402; Pub. L. 111–240, title II, §2122(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 115–97, title I, §13002(e), Dec. 22, 2017, 131 Stat. 2100; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ix), Mar. 23, 2018, 132 Stat. 1207.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989; Pub. L. 107–16, title VI, §621(a), June 7, 2001, 115 Stat. 111; Pub. L. 108–357, title IV, §410(a), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 111–226, title II, §217(a), (c)(1), Aug. 10, 2010, 124 Stat. 2400, 2402; Pub. L. 111–240, title II, §2122(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 115–97, title I, §13002(e), Dec. 22, 2017, 131 Stat. 2100; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ix), Mar. 23, 2018, 132 Stat. 1207.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Subsecs. (c) to (f). Pub. L. 111–226, §217(c)(1), redesignated subsecs. (d) t
 
 <b>1990</b>—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted "and" at end of subpar. (A), substituted a period for a comma at end of subpar. (B), and struck out subpars. (C) and (D) which read as follows:
 
-"(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect to interest attributable to periods after the date of such election, and
+"(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect tointerest attributable to periods after the date of such election, and
 
 "(D) interest on a debt obligation which was part of an issue which—
 
@@ -178,7 +178,7 @@ Subsec. (a)(2)(B). Pub. L. 100–203, §10221(d)(4)(A), which directed that subp
 
 Subsec. (a)(1)(A). Pub. L. 99–514, §1214(a)(1), (c)(5)(A), amended subpar. (B) generally and redesignated it as (A). Prior to amendment and redesignation, former subpar. (B) read as follows: "interest received from a resident alien individual or a domestic corporation, when it is shown to the satisfaction of the Secretary that less than 20 percent of the gross income from all sources of such individual or such corporation has been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such individual or such corporation preceding the payment of such interest, or for such part of such period as may be applicable,". Former subpar. (A), which read "interest on amounts described in subsection (c) received by a nonresident alien individual or a foreign corporation, if such interest is not effectively connected with the conduct of a trade or business within the United States,", was struck out.
 
-Subsec. (a)(1)(B). Pub. L. 99–514, §1241(b)(1)(B), redesignated subpar. (D), as previously redesignated and amended by §1214(c)(5)(A), (B) of Pub. L. 99–514, as (B) and struck out former subpar. (B) \[previously (C)\] which read as follows: "interest received from a foreigncorporation (other than interest paid or credited by a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business), when it is shown to the satisfaction of the Secretary that less than 50 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest (or for such part of such period as the corporation has been in existence) was effectively connected with the conduct of a trade or business within the United States,".
+Subsec. (a)(1)(B). Pub. L. 99–514, §1241(b)(1)(B), redesignated subpar. (D), as previously redesignated and amended by §1214(c)(5)(A), (B) of Pub. L. 99–514, as (B) and struck out former subpar. (B) \[previously (C)\] which read as follows: "interest received from a foreign corporation (other than interest paid or credited by a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business), when it is shown to the satisfaction of the Secretary that less than 50 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest (or for such part of such period as the corporation has been in existence) was effectively connected with the conduct of a trade or business within the United States,".
 
 Pub. L. 99–514, §1214(c)(5)(A), (B), redesignated former subpar. (F) as (D), substituted in cl. (ii), "subparagraph (B) of section 871(i)(3)" for "paragraph (2) of subsection (c)", and redesignated former subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -198,7 +198,7 @@ Subsec. (a)(1)(G). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesigna
 
 Subsec. (a)(1)(H). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesignated successively former subpar. (H) as (F) and (D), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "from a domestic corporation other than a corporation which has an election in effect under section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporation preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or".
+Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "from a domestic corporation other than a corporation which has an election in effectunder section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporation preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or".
 
 Subsec. (a)(2)(B). Pub. L. 99–514, §1241(b)(2), substituted "25 percent" for "50 percent" and inserted "(or treated as effectively connected other than under section 884(d)(2))" in two places.
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2122(d), Sept. 27, 2010, 124 Stat. 2568, provided that: "The amendments made by this section \[amending this section and sections 862 and 864 of this title\] shall apply to guarantees issued after the date of the enactment of this Act \[Sept. 27, 2010\]."
+Pub. L. 111–240, title II, §2122(d), Sept. 27, 2010, 124 Stat. 2568, provided that: "The amendments made bythis section \[amending this section and sections 862 and 864 of this title\] shall apply to guarantees issued after the date of the enactment of this Act \[Sept. 27, 2010\]."
 
 Pub. L. 111–226, title II, §217(d), Aug. 10, 2010, 124 Stat. 2402, provided that:
 
@@ -338,7 +338,7 @@ Amendment by section 104(b)(11) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1211(b)(1)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
-Amendment by section 1212(d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with special rules for certain leased property and for certain ships leased by United States Navy, see section 1212(f) of Pub. L. 99–514, set out as a note under section 863 of this title.
+Amendment by section 1212(d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special rules for certain leased property and for certain ships leased by United States Navy, see section 1212(f) of Pub. L. 99–514, set out as a note under section 863 of this title.
 
 Pub. L. 99–514, title XII, §1214(d), Oct. 22, 1986, 100 Stat. 2543, as amended by Pub. L. 100–647, title I, §1012(g)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3500, 3501, provided that:
 
@@ -388,7 +388,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term 'qualified c
 
 &emsp;&emsp;"(iii) the parent corporation of which is a resident of Sweden."
 
-\[Pub. L. 100–647, title I, §1012(g)(1)(B), Nov. 10, 1988, 102 Stat. 3500, provided that: "A taxpayer may elect not to have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe."\]
+\[Pub. L. 100–647, title I, §1012(g)(1)(B), Nov. 10, 1988, 102 Stat. 3500, provided that: "A taxpayer may elect notto have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe."\]
 
 Amendment by section 1241(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
@@ -470,11 +470,7 @@ Amendment by Pub. L. 87–834 applicable in respect of any distribution received
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 1959, in taxable years ending after such date, see section 3(c) of Pub. L. 86–779, set out as a note under section 243 of this title.
-
-#### Savings Provision
-
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 1959, in taxable years endingafter such date, see section 3(c) of Pub. L. 86–779, set out as a note under section 243 of this title.
 
 #### Short Title of 1971 Amendment
 
@@ -484,7 +480,9 @@ Pub. L. 92–9, §1(a), Apr. 1, 1971, 85 Stat. 13, provided that: "This Act \[am
 
 Pub. L. 89–809, title I, §101, Nov. 13, 1966, 80 Stat. 1541, provided that: "This title \[enacting sections 877, 896, 906, 981, 2107, 2108, and 6683 of this title, amending this section and sections 1, 11, 116, 154, 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 864, 871, 872, 873, 874, 875, 881, 882, 884, 894, 895, 901, 904, 911, 931, 932, 952, 953, 1248, 1249, 1441, 1442, 1461, 2014, 2101, 2102, 2104, 2105, 2106, 2501, 2511, 3401, 6015, 6016, 6018, 6501, 6513, and 7701 of this title, redesignating former section 877 as 878, repealing section 1493, and enacting provisions set out as notes under this section and sections 11, 871, 874, 894, 901, 904, 931, 2101, 2501, and 6501 of this title\] may be cited as the 'Foreign Investors Tax Act of 1966'."
 
-#### Savings Provision
+#### Savings Provisions
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
@@ -548,7 +546,7 @@ General Rule.—For purposes of sections 861(b), 862(b), and 863(b) of the 1986 
 
 &emsp;"(2) In the case of any qualified research and experimental expenditures (not allocated under paragraph (1)) to the extent—
 
-&emsp;&emsp;"(A) that such expenditures are attributable to activities conducted in the United States, 64 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
+&emsp;&emsp;"(A) that such expenditures are attributable to activities conducted in the United States, 64 percent of such expenditures shall be allocated and apportioned to income from sources within the UnitedStates and deducted from such income in determining the amount of taxable income from sources within the United States, and
 
 &emsp;&emsp;"(B) that such expenditures are attributable to activities conducted outside the United States, 64 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
@@ -610,7 +608,7 @@ In general.—Except as provided in this subsection, this section shall apply to
 
 &emsp;"(2)
 
-Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in paragraph (1) which bears thesame ratio to the total amount of such expenditures as—
+Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
 
 &emsp;&emsp;"(A) the lesser of 4 months or the number of months in the taxable year, bears to
 

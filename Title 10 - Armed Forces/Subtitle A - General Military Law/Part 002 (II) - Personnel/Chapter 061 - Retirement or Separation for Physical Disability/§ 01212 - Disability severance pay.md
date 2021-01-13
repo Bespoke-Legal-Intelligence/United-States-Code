@@ -6,7 +6,7 @@
 
 &emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
 
-&emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
+&emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not beenfor the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
 &emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
 
@@ -26,7 +26,7 @@
 
 (3) No deduction may be made under paragraph (1) from any death compensation to which a member's dependents become entitled after the member's death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI,§1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, §1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, §1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Pub. L. 110–181, §1646(a)(2), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XVI, §1646(d), formerly §1646(c), Jan. 28, 2008, 122 Stat. 472, renumbered §1646(d) by Pub. L. 110–389, title I, §103(a)(1), Oct. 10, 2008, 122 Stat. 4148, provided that: "The amendments made by this section \[amending this section and section 1161 of Title 38, Veterans' Benefits\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date."
+Pub. L. 110–181, div. A, title XVI, §1646(d), formerly §1646(c), Jan. 28, 2008, 122 Stat. 472, renumbered §1646(d) by Pub. L. 110–389, title I, §103(a)(1), Oct. 10, 2008, 122 Stat. 4148, provided that: "The amendments made by this section \[amending this section and section 1161 of Title 38, Veterans' Benefits\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to members of the ArmedForces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date."
 
 \[Amendment by Pub. L. 110–389, §103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 38, Veterans' Benefits.\]
 

@@ -4,9 +4,13 @@ The recorders for the several divisions or districts of Alaska shall collect the
 
 (Mar. 2, 1907, ch. 2559, §2, 34 Stat. 1243.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 385 of Title 48, Territories and Insular Possessions.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

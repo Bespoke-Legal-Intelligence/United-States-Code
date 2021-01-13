@@ -6,7 +6,7 @@
 
 (c) The district courts of the United States shall have jurisdiction of any action commenced by the United States under subsection (b) of this section.
 
-(d) Any action under subsection (b) of this section may, without regard to venue requirements, be joined and consolidated with or asserted as a counterclaim, cross-claim, or setoff by the United States in any other civil action which includes as parties the United States and the person against whom such action may be brought.
+(d) Any action under subsection (b) of this section may, without regard to venue requirements, be joined and consolidated with or asserted as a counterclaim, cross-claim, or setoff by the United States in any other civil actionwhich includes as parties the United States and the person against whom such action may be brought.
 
 (e) The United States Court of Federal Claims shall have jurisdiction of any action under subsection (b) of this section to recover any penalty or assessment if the cause of action is asserted by the United States as a counterclaim in a matter pending in such court.
 
@@ -26,13 +26,17 @@
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1945; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620,as amended. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§401 et seq.) and parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§401 et seq.) and parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

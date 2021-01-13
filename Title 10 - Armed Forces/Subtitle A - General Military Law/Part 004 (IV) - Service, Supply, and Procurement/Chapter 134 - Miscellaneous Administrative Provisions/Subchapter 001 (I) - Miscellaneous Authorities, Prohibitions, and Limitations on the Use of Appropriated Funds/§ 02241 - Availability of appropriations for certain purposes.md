@@ -42,6 +42,44 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
+#### Limitation on Provision of Funds to Institutions of Higher Education Hosting Confucius Institutes
+
+Pub. L. 116–283, div. A, title X, §1062, Jan. 1, 2021, 134 Stat. 3859, provided that:
+
+"(a)
+
+Limitation.—Except as provided in subsection (b), none of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be provided to an institution of higher education that hosts a Confucius Institute, other than amounts provided directly to students as educational assistance.
+
+"(b)
+
+Waiver.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may waive the limitation under subsection (a) with respect to an institution of higher education if the Secretary, after consultation with the National Academies of Sciences, Engineering, and Medicine, determines such a waiver is appropriate.
+
+&emsp;"(2)
+
+Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (10 U.S.C. 2358 note), as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary.
+
+"(c)
+
+Effective Date.—The limitation under subsection (a) shall apply with respect to the first fiscal year that begins after the date that is 24 months after the date of the enactment of this Act \[Jan. 1, 2021\] and to any subsequent fiscal year.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Confucius Institute' means a cultural institute directly or indirectly funded by the Government of the People's Republic of China.
+
+&emsp;"(2) The term 'institution of higher education' has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)."
+
+#### Obligation of Funds for Space Force Procurement
+
+Pub. L. 116–260, div. C, title VIII, §8089, Dec. 27, 2020, 134 Stat. 1326, provided that: "In this fiscal year and each fiscal year thereafter, funds appropriated under the heading 'Procurement, Space Force' may be obligated for payment of satellite on-orbit incentives in the fiscal year in which an incentive payment is earned: <i>Provided</i>, That any obligation made pursuant to this section may not be entered into until 30 calendar days in session after the congressional defense committees \[see section 8028 of Pub. L. 116–260, set out below\] have been notified that an on-orbit incentive payment has been earned."
+
+\[Pub. L. 116–260, div. C, title VIII, §8028, Dec. 27, 2020, 134 Stat. 1310, provided that: "For the purposes of this Act \[div. C of 116–260, see Tables for classification\], the term 'congressional defense committees' means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives."\]
+
 #### Prohibition on Use of Funds for Certain Programs and Projects of the Department of Defense in Afghanistan That Cannot Be Safely Accessed by United States Government Personnel
 
 Pub. L. 114–328, div. A, title XII, §1216, Dec. 23, 2016, 130 Stat. 2480, provided that:
@@ -56,7 +94,7 @@ In general.—Amounts available to the Department of Defense may not be obligate
 
 &emsp;"(2)
 
-Applicability.—Paragraph (1) shall apply only with respect to a program or project that is initiated on or after the date of the enactment of this Act \[Dec. 23, 2016\].
+Applicability.—Paragraph (1) shall apply only with respect to a program or project that is initiatedon or after the date of the enactment of this Act \[Dec. 23, 2016\].
 
 "(b)
 
@@ -148,7 +186,7 @@ Rule of Construction Related to Intelligence Activities.—Nothing in this secti
 
 #### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding anyother provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall bemade available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
 
 #### Obligation of Funds for Installation Support Functions
 
@@ -236,7 +274,7 @@ Limitation on Deployment of Total Information Awareness Program.—(1) Notwithst
 
 &emsp;&emsp;"(ii) a specific appropriation by law of funds for the deployment or implementation of such program or component.
 
-"(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation ofthe Total Information Awareness program, or a component of such program, in support of the following:
+"(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation of the Total Information Awareness program, or a component of such program, in support of the following:
 
 &emsp;"(A) Lawful military operations of the United States conducted outside the United States.
 
@@ -318,7 +356,7 @@ Pub. L. 101–511, title VIII, §8019, Nov. 5, 1990, 104 Stat. 1879, provided th
 
 Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided that:
 
-"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation. Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
+"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation.Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
 
 "(b) During the current fiscal year and thereafter—
 

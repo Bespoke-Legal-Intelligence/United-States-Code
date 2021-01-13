@@ -22,7 +22,7 @@
 
 #### (4) Other State provisions
 
-&emsp;No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
+&emsp;No provision of State law regarding the offer, sale, or distribution of securities shallapply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
 
 #### (b) Modification of disciplinary procedures
 
@@ -30,7 +30,7 @@ Nothing in this chapter shall be construed to modify existing law with regard to
 
 #### (c) Continuing validity of disciplinary sanctions
 
-The stay, setting aside, or modification pursuant to section 78s(e) of this title of any disciplinary sanction imposed by a self-regulatory organization on a member thereof, person associated with a member, or participant therein, shall not affect the validity or force of any action takenas a result of such sanction by the self-regulatory organization prior to such stay, setting aside, or modification: <i>Provided</i>, That such action is not inconsistent with the provisions of this chapter or the rules or regulations thereunder. The rights of any person acting in good faith which arise out of any such action shall not be affected in any way by such stay, setting aside, or modification.
+The stay, setting aside, or modification pursuant to section 78s(e) of this title of any disciplinary sanction imposed by a self-regulatory organization on a member thereof, person associated with a member, or participant therein, shall not affect the validity or force of any action taken as a result of such sanction by the self-regulatory organization prior to such stay, setting aside, or modification: <i>Provided</i>, That such action is not inconsistent with the provisions of this chapter or the rules or regulations thereunder. The rights of any person acting in good faith which arise out of any such action shall not be affected in any way by such stay, setting aside, or modification.
 
 #### (d) Physical location of facilities of registered clearing agencies or registered transfer agents not to subject changes in beneficial or record ownership of securities to State or local taxes
 
@@ -134,7 +134,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (C) Exception for derivative actions
 
-&emsp;&emsp;Notwithstanding subparagraph (B), the term "covered class action" does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+&emsp;&emsp;Notwithstanding subparagraph (B), the term "covered class action" does not include an exclusively derivative action brought byone or more shareholders on behalf of a corporation.
 
 #### (D) Counting of certain class members
 
@@ -146,7 +146,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (F) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated,or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 (June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436; Pub. L. 111–203, title VII, §767, July 21, 2010, 124 Stat. 1799.)
 

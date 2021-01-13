@@ -20,7 +20,7 @@ Exceptions.—The Federal Government shall not be required to acquire space tran
 
 &emsp;(6) it is more cost effective to transport a payload in conjunction with a test or demonstration of a space transportation vehicle owned by the Federal Government; or
 
-&emsp;(7) a payload can make use of the available cargo space on a space shuttle mission as asecondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
+&emsp;(7) a payload can make use of the available cargo space on a space shuttle mission as a secondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
 
 (c)
 
@@ -70,9 +70,13 @@ Pub. L. 105–303, title II, §201, Oct. 28, 1998, 112 Stat. 2854.
 
 In subsection (d), the date "October 28, 1998" is substituted for "the date of the enactment of this Act" and for "such date" to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–90 inserted "or in section 70102" after "in this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### NASA Launch Capabilities Collaboration
 

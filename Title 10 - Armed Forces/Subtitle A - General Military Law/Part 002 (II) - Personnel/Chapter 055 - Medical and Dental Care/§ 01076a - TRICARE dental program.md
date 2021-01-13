@@ -6,7 +6,7 @@ Establishment of Dental Plans.—The Secretary of Defense may establish, and in 
 
 &emsp;(1)
 
-Plan for selected reserve and individual ready reserve.—A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title. During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.
+Plan for selected reserve and individual ready reserve.—A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title.
 
 &emsp;(2)
 
@@ -20,9 +20,9 @@ Plan for active duty dependents.—Dental benefits plans for eligible dependents
 
 Plan for ready reserve dependents.—A dental benefits plan for eligible dependents of members of the Ready Reserve of the reserve components who are not on active duty for more than 30 days.
 
-(b) <sup>1</sup>
+(b)
 
-Administration of Plans.—The plans established under this section shall be administered by the Secretary of Defense through an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (a) to enroll in an insurance plan under chapter 89A of title 5, in accordance with terms prescribed by the Secretary, including terms, to the extent practical, as defined by the Director through regulation, consistent with subsection (d) and, to the extent practicable in relation to such chapter 89A, other provisions of this section.
+Administration of Plans.—The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
 
 (c)
 
@@ -72,7 +72,7 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 &emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
 
-(2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
+(2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the chargeswould facilitate or ensure the readiness of a unit or individual for deployment.
 
 (B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
@@ -122,15 +122,7 @@ Eligible Dependent Defined.—(1) In this section, the term "eligible dependent"
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L.110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 713(b) of Pub. L. 115–232 applicable with respect to the first contract year for chapter 89A of Title 5, Government Organization and Employees, that begins on or after Jan. 1, 2022. See 2018 Amendment note below.</i>
-
-#### References in Text
-
-The date of the enactment of this sentence, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691.)
 
 #### Prior Provisions
 
@@ -138,7 +130,13 @@ A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 19
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–232 amended subsec. (b) generally. Prior to amendment, text read as follows: "The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries."
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §711(d), struck out at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated."
+
+Subsec. (b). Pub. L. 116–283, §711(c), repealed Pub. L. 115–232, §713(b). See 2018 Amendment note below.
+
+Pub. L. 116–283, §711(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "The plans established under this section shall be administered by the Secretary of Defense through an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (a) to enroll in an insurance plan under chapter 89A of title 5, in accordance with terms prescribed by the Secretary, including terms, to the extent practical, as defined by the Director through regulation, consistent with subsection (d) and, to the extent practicable in relation to such chapter 89A, other provisions of this section."
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, §713(b), which amended subsec. (b) generally, applicable with respect to the first contract year for chapter 89A of Title 5, Government Organization and Employees, that was to begin on or after Jan. 1, 2022, was repealed by Pub. L. 116–283, §711(c).
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated."
 
@@ -172,13 +170,9 @@ A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 19
 
 <b>2000</b>—Subsec. (k)(2). Pub. L. 106–398 substituted "three-year period" for "one-year period".
 
-#### Effective Date of 2018 Amendment
-
-Amendment by Pub. L. 115–232 applicable with respect to the first contract year for chapter 89A of Title 5, Government Organization and Employees, that begins on or after Jan. 1, 2022, see section 713(c) of Pub. L. 115–232, set out as a note under section 8951 of Title 5.
-
 #### Transition of Administration of TRICARE Dental Plans
 
-Pub. L. 115–232, div. A, title VII, §713(d), Aug. 13, 2018, 132 Stat. 1812, provided that: "To ensure a successful transition pursuant to the amendments made by this section \[amending this section and section 8951 of Title 5, Government Organization and Employees\] in the administration of the TRICARE dental plans under section 1076a of title 10, United States Code, the Secretary of Defense shall ensure that the contractor for such plans provides claims information under such plans to carriers providing dental coverage under chapter 89A of title 5, United States Code, after the transition."
+Pub. L. 115–232, div. A, title VII, §713(d), Aug. 13, 2018, 132 Stat. 1812, which related to transition of administration of TRICARE dental plans, was repealed by Pub. L. 116–283, div. A, title VII, §711(c), Jan. 1, 2021, 134 Stat. 3691.
 
 #### Authorization To Expand Enrollment in Dependents' Dental Program to Certain Members Returning From Overseas Assignments
 
@@ -203,6 +197,4 @@ Report on Advisability of Expansion.—Not later than February 28, 1994, the Sec
 "(d)
 
 Notification of Exercise of Authority.—The Secretary shall notify Congress of any decision to expand the enrollment eligibility of dependents in the dependents' dental program as provided in subsection (a) not later than 30 days before such expansion takes effect."
-
-<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
 

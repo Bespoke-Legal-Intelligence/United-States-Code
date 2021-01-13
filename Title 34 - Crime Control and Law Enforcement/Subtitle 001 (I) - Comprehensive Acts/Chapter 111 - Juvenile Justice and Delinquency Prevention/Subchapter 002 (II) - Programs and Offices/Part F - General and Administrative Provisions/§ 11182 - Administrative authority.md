@@ -36,7 +36,9 @@ Sections 10221(a), 10221(c), and 10225 of this title shall apply with respect to
 
 If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
 
-(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, §12214, Nov. 2, 2002, 116Stat. 1892; Pub. L. 115–385, title II, §209, Dec. 21, 2018, 132 Stat. 5144.)
+(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586,§2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, §12214, Nov. 2, 2002, 116 Stat. 1892; Pub. L. 115–385, title II, §209, Dec. 21, 2018, 132 Stat. 5144.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsec
 <b>1980</b>—Pub. L. 96–509 brought relevant applicable administrative provisions of the Omnibus Crime Control and Safe Streets Act of 1968 into conformance subsequent to the Justice System Improvement Amendments of 1979 and provided that the Office of Justice Assistance, Research, and Statistics provide staff support to, and coordinate the activities of the Office in the same manner as it does for the Law Enforcement Assistance Administration, National Institute of Justice, and Bureau of Justice Statistics pursuant to former section 3781(b) of title 42.
 
 <b>1977</b>—Pub. L. 95–115 substituted provisions setting forth applicability of specified statutory requirements, for provisions setting forth prohibitions against discrimination and required terms in grants, contracts, and agreements and enforcement procedures thereof.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

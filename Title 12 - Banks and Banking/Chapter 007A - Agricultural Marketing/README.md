@@ -7,9 +7,11 @@
 | [1141g.](%C2%A7%2001141g%20-%20Omitted.md) | Omitted. |
 | [1141h.](%C2%A7%2001141h%20-%20Avoidance%20of%20duplication%3B%20cooperation%20with%20other%20governmental%20establishments%3B%20obtaining%20information%20and%20data%3B%20cooperation%20with%20States%E2%80%A6.md) | Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc. |
 | [1141i.](%C2%A7%2001141i%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2857%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204685.md) | Repealed. |
-| [1141j.](%C2%A7%2001141j%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+| [1141j.](%C2%A7%2001141j%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 Cases in the courts of appeals may be reviewed by the Supreme Court by the following methods:
 
-&emsp;(1) By writ of certiorari granted upon the petition of any party to any civil or criminal case, before or after rendition of judgment or decree;
+&emsp;(1) By writ of certiorari granted upon the petition of any party to any civil or criminalcase, before or after rendition of judgment or decree;
 
 &emsp;(2) By certification at any time by a court of appeals of any question of law in any civil or criminal case as to which instructions are desired, and upon such certification the Supreme Court may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
 
@@ -22,11 +22,15 @@ The revised section omits the words of section 347 of title 28, U.S.C., 1940 ed.
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–352, §2(b), struck out "appeal;" after "certiorari;" in section catchline.
 
 Pars. (2), (3). Pub. L. 100–352, §2(a), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "By appeal by a party relying on a State statute held by a court of appeals to be invalid as repugnant to the Constitution, treaties or laws of the United States, but such appeal shall preclude review by writ of certiorari at the instance of such appellant, and the review on appeal shall be restricted to the Federal questions presented;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

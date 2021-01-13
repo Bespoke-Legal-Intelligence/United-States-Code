@@ -56,7 +56,7 @@ In general.—Notwithstanding sections 49104(a)(5) and 49111(e) of this title, o
 
 &emsp;&emsp;(B) result in an increase in the total number of slots at Ronald Reagan Washington National Airport from 7:00 ante meridiem to 9:59 post meridiem;
 
-&emsp;&emsp;(C) increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period by more than 2 operations;
+&emsp;&emsp;(C) increase the number of operations at Ronald Reagan Washington National Airportin any 1-hour period by more than 2 operations;
 
 &emsp;&emsp;(D) result in the withdrawal or reduction of slots operated by an air carrier;
 
@@ -100,7 +100,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and international air service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
 
-&emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and theimpact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
+&emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and the impact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
 
 &emsp;(2)
 
@@ -144,7 +144,7 @@ Limited incumbent air carrier.—The term "limited incumbent air carrier" has th
 
 &emsp;&emsp;&emsp;(i) "slot exemptions";
 
-&emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operating such slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
+&emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operatingsuch slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
 
 &emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under the marketing control of the other air carrier; and
 
@@ -196,7 +196,7 @@ day period tolled for timely request for more information.—If the Secretary re
 
 &emsp;(4)
 
-Failure to determine deemed approval.—If the Secretary neither approves therequest under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
+Failure to determine deemed approval.—If the Secretary neither approves the request under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
 
 (j)
 
@@ -224,7 +224,7 @@ Subsec. (j). Pub. L. 112–95, §414(d), substituted ", except through an air c
 
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end "; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots".
 
-Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
+Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawalof that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
 
 Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective."
 

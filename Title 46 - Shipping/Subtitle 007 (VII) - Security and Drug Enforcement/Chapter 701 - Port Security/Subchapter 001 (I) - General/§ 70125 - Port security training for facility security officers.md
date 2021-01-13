@@ -78,6 +78,8 @@ Established Grant Program.—The Secretary shall issue regulations or grant soli
 
 (Added Pub. L. 111–281, title VIII, §821(a), Oct. 15, 2010, 124 Stat. 3001; amended Pub. L. 111–330, §1(14), Dec. 22, 2010, 124 Stat. 3570.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Maritime Transportation Security Act of 2002, referred to in subsec. (c)(1), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
@@ -85,6 +87,8 @@ The Maritime Transportation Security Act of 2002, referred to in subsec. (c)(1),
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §821(a), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -22,7 +22,7 @@ Each alien who applies for a visa shall be registered in connection with his app
 
 #### (2) Nonimmigrant visas
 
-&emsp;A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of theUnited States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States.
+&emsp;A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States.
 
 #### (3) Visa replacement
 
@@ -68,6 +68,8 @@ After the issuance of a visa or other documentation to any alien, the consular o
 
 (June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736; Pub. L. 114–70, §2, Oct. 16, 2015, 129 Stat. 561.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (g), and (h), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -107,6 +109,8 @@ Subsec. (c). Pub. L. 89–236, §11(b), struck out references to "quota" whereve
 Subsec. (g). Pub. L. 89–236, §17, inserted proviso permitting issuance of student or visitors visas in cases where the alien gives a bond so as to allow resolution of doubts in borderline cases in which the consular officer is uncertain as to the bona fides of the nonimmigrant's intention to remain in the United States temporarily.
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–301 provided that an immigrant visa issued to a child adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces or employed abroad by our Government, or temporarily abroad on business, shall remain valid to such time, but not exceeding three years, as the adoptive parent returns to the United States in due course of service, employment or business.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -250,7 +254,7 @@ Processing of Certain Cuban Political Prisoners as Refugees.—In light of the a
 
 "(b)
 
-Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[8 U.S.C. 1182(f), 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis as immigrant visa applications by nationals of other countries.
+Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[8 U.S.C. 1182(f), 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis asimmigrant visa applications by nationals of other countries.
 
 "(c)
 

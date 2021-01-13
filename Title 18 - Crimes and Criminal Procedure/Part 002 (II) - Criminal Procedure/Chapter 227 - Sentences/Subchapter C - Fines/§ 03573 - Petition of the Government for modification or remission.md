@@ -1,6 +1,6 @@
 ### §3573. Petition of the Government for modification or remission
 
-Upon petition of the Government showing that reasonable efforts to collect a fine or assessmentare not likely to be effective, the court may, in the interest of justice—
+Upon petition of the Government showing that reasonable efforts to collect a fine or assessment are not likely to be effective, the court may, in the interest of justice—
 
 &emsp;(1) remit all or part of the unpaid portion of the fine or special assessment, including interest and penalties;
 
@@ -12,6 +12,8 @@ Upon petition of the Government showing that reasonable efforts to collect a fin
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1997; amended Pub. L. 100–185, §8(a), Dec. 11, 1987, 101 Stat. 1282; Pub. L. 100–690, title VII, §7082(a), Nov. 18, 1988, 102 Stat. 4407.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For a prior section 3573, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
@@ -21,6 +23,8 @@ For a prior section 3573, applicable to offenses committed prior to Nov. 1, 1987
 <b>1988</b>—Pub. L. 100–690 inserted at end "This section shall apply to all fines and assessments irrespective of the date of imposition."
 
 <b>1987</b>—Pub. L. 100–185 substituted "Petition of the Government for modification or remission" for "Modification or remission of fine" in section catchline and amended text generally, revising and restating as a single paragraph with three numbered clauses provisions formerly contained in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

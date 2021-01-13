@@ -2,7 +2,7 @@
 
 #### (a) State authority for new systems
 
-A State shall receive only 80 percent of the allotment that the State is otherwise entitled to receive under section 300j–12 of this title (relating to State loan funds) unless the State has obtained the legal authority or other means to ensure that all new community water systems and new nontransient, noncommunity water systems commencing operation after October 1, 1999, demonstrate technical, managerial, and financial capacity with respect to each national primary drinking water regulation in effect, or likely to be in effect, on the date of commencement of operations.
+A State shall receive only 80 percent of the allotment that the State is otherwise entitled toreceive under section 300j–12 of this title (relating to State loan funds) unless the State has obtained the legal authority or other means to ensure that all new community water systems and new nontransient, noncommunity water systems commencing operation after October 1, 1999, demonstrate technical, managerial, and financial capacity with respect to each national primary drinking water regulation in effect, or likely to be in effect, on the date of commencement of operations.
 
 #### (b) Systems in significant noncompliance
 
@@ -60,7 +60,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 #### (3) Report
 
-&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, andevery 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans.
+&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, and every 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans.
 
 #### (4) Review
 
@@ -148,7 +148,7 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 #### (2) National capacity development clearinghouse
 
-&emsp;The Administrator shall establish a national public water system capacity development clearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerial capacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
+&emsp;The Administrator shall establish a national public water system capacity developmentclearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerial capacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
 
 #### (3) Capacity development techniques
 

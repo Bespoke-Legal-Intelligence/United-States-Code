@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(A) meets the definition of a school-based health center under section 1397jj(c)(9)(A) of this title and is administered by a sponsoring facility (as defined in section 1397jj(c)(9)(B) of this title);
 
-&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
+&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with establishedstandards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
 
 &emsp;&emsp;(C) does not perform abortion services.
 
@@ -80,7 +80,7 @@ In reviewing applications:
 
 &emsp;&emsp;(A) Communities that have evidenced barriers to primary health care and mental health and substance use disorder prevention services for children and adolescents.
 
-&emsp;&emsp;(B) Communities with high per capita numbers of children and adolescents who areuninsured, underinsured, or enrolled in public health insurance programs.
+&emsp;&emsp;(B) Communities with high per capita numbers of children and adolescents who are uninsured, underinsured, or enrolled in public health insurance programs.
 
 &emsp;&emsp;(C) Populations of children and adolescents that have historically demonstrated difficulty in accessing health and mental health and substance use disorder prevention services.
 
@@ -154,15 +154,17 @@ An eligible entity receiving funds under this section shall not provide services
 
 #### (l) Authorization of appropriations
 
-For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2022 through 2026.
 
-(July 1, 1944, ch. 373, title III, §399Z–1, as added and amended Pub. L. 111–148, title IV, §4101(b), title X, §10402(a), Mar. 23, 2010, 124 Stat. 547, 975.)
+(July 1, 1944, ch. 373, title III, §399Z–1, as added and amended Pub. L. 111–148, title IV, §4101(b), title X, §10402(a), Mar. 23, 2010, 124 Stat. 547, 975; Pub. L. 116–260, div. BB, title III, §317, Dec. 27, 2020, 134 Stat. 2932.)
 
 #### References in Text
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (l). Pub. L. 116–260 substituted "2022 through 2026" for "2010 through 2014".
 
 <b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §10402(a), inserted "and vision" after "oral".
 

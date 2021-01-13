@@ -6,15 +6,19 @@
 
 &emsp;(1) the individual is in the service of the Government of the United States, including service in the armed forces, or the government of the District of Columbia on the date of the issuance of the order granting the increase; or
 
-&emsp;(2) the individual retired or died during the period beginning on the effective date of the increase and ending on the date of issuance of the order granting the increase, and only for services performed during that period.
+&emsp;(2) the individual retired or died during the period beginning on the effective date of theincrease and ending on the date of issuance of the order granting the increase, and only for services performed during that period.
 
 > For the purpose of this subsection, service in the armed forces includes the period provided by statute for the mandatory restoration of the individual to a position in or under the Government of the United States or the government of the District of Columbia after he is relieved from training and service in the armed forces or discharged from hospitalization following that training and service.
 
 (Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 568.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471 (formerly classified to section 5343 of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

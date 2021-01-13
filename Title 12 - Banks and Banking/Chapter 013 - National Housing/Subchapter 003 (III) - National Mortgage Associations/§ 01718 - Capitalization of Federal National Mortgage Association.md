@@ -22,6 +22,8 @@ Notwithstanding any other provision of law, any institution, including a nationa
 
 (June 27, 1934, ch. 847, title III, §303, 48 Stat. 1254; Feb. 3, 1938, ch. 13, §7, 52 Stat. 24; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §202, 70 Stat. 1096; Pub. L. 85–10, §1(a), (b), Mar. 27, 1957, 71 Stat. 7; Pub. L. 85–104, title II, §§201, 202, July 12, 1957, 71 Stat. 298; Pub. L. 87–70, title VI, §603(b), (c), June 30, 1961, 75 Stat. 176; Pub. L. 89–117, title X, §1004(b), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–566, §2, Sept. 10, 1966, 80 Stat. 738; Pub. L. 90–19, §1(j)(2), (l), May 25, 1967, 81 Stat. 18; Pub. L. 90–448, title VIII, §802 (i)–(n), (s), Aug. 1, 1968, 82 Stat. 537, 538; Pub. L. 91–609, title IX, §902, Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §806(g)–(i), Aug. 22, 1974, 88 Stat. 727, 728; Pub. L. 97–320, title VII, §707(a), Oct. 15, 1982, 96 Stat. 1540; Pub. L. 100–242, title IV, §442, Feb. 5, 1988, 101 Stat. 1921; Pub. L. 102–550, title XIII, §1381(d), Oct. 28, 1992, 106 Stat. 3995; Pub. L. 110–289, div. A, title I, §1161(b)(1), July 30, 2008, 122 Stat. 2779.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
@@ -32,7 +34,7 @@ Subsecs. (b), (c). Pub. L. 102–550, §1381(d)(2), added subsecs. (b) and (c) a
 
 Subsecs. (d), (f). Pub. L. 102–550, §1381(d)(3), (4), redesignated subsec. (f) as (d), struck out "to make payments to the corporation of the nonrefundable capital contributions referred to in subsection (b) of this section, to receive stock of the corporation evidencing such capital contributions," after "shall be authorized", and substituted "shares of common stock of the corporation" for "additional shares of such stock,".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242 inserted after first sentence "The corporation may eliminate such rights of cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered."
+<b>1988</b>—Subsec. (a). Pub. L. 100–242 inserted after first sentence "The corporation may eliminate such rightsof cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered."
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferred stock on such terms and conditions as the board of directors shall prescribe.
 
@@ -93,6 +95,8 @@ Pub. L. 85–10, §1(b), inserted "the first sentence of" before "subsection (d)
 <b>1948</b>—Act July 1, 1948, made section applicable to the Association instead of to any of the national mortgage associations.
 
 <b>1938</b>—Act Feb. 3, 1938, inserted "or in bonds or other obligations" and inserted "and may purchase in the open market notes, bonds, debentures, or such other obligations issued under section 1717 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

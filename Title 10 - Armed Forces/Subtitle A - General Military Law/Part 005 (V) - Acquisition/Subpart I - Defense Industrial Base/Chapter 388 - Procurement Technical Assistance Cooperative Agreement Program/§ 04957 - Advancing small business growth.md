@@ -1,0 +1,46 @@
+### §4957. Advancing small business growth
+
+(a)
+
+Contract Clause Required.—(1) The Under Secretary of Defense for Acquisition and Sustainment shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
+
+(2) The clause described in this paragraph is a clause that—
+
+&emsp;(A) requires the contractor to acknowledge that acceptance of the contract may cause the business to exceed the applicable small business size standards (established pursuant to section 3(a) of the Small Business Act) for the industry concerned and that the contractor may no longer qualify as a small business concern for that industry; and
+
+&emsp;(B) encourages the contractor to develop capabilities and characteristics typically desired in contractors that are competitive as an other-than-small business in that industry.
+
+(b)
+
+Availability of Assistance.—Covered small businesses may be provided assistance as part of any procurement technical assistance furnished pursuant to this chapter.
+
+(c)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "covered contract" means a contract—
+
+&emsp;&emsp;(A) awarded to a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act; and
+
+&emsp;&emsp;(B) with an estimated annual value—
+
+&emsp;&emsp;&emsp;(i) that will exceed the applicable receipt-based small business size standard; or
+
+&emsp;&emsp;&emsp;(ii) if the contract is in an industry with an employee-based size standard, that will exceed $70,000,000.
+
+&emsp;(2) The term "covered small business" means a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act that has entered into a contract with the Department of Defense that includes a contract clause described in subsection (a)(2).
+
+(Added Pub. L. 113–66, div. A, title XVI, §1611(a)(1)(B), Dec. 26, 2013, 127 Stat. 946, §2419; amended Pub. L. 116–92, div. A, title IX, §902(63), Dec. 20, 2019, 133 Stat. 1550; renumbered §4957, Pub. L. 116–283, div. A, title XVIII, §1872(a)(10), Jan. 1, 2021, 134 Stat. 4289.)
+
+#### References in Text
+
+Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c)(1)(A), (2), is classified to section 632(a) of Title 15, Commerce and Trade.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 renumbered section 2419 of this title as this section. Directory language transferring this section to "chapter 385" was executed as if it had read "chapter 388" to reflect the probable intent of Congress.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

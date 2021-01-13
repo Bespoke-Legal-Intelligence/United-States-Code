@@ -72,7 +72,7 @@ It shall be unlawful for any affiliated person of or principal underwriter for a
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(1)(B), (2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(1)(B), (2), is act June 6, 1934, ch. 404, 48 Stat.881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsecs. (h) and (i), see section 80a–52 of this title.
 
@@ -84,7 +84,7 @@ Subsec. (f)(6). Pub. L. 111–203, §985(d)(4)(B), substituted "company, may ser
 
 <b>1999</b>—Subsec. (a)(4). Pub. L. 106–102, §212, added par. (4).
 
-Subsec. (f). Pub. L. 106–102, §211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as\(A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
+Subsec. (f). Pub. L. 106–102, §211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
 
 <b>1987</b>—Subsec. (h). Pub. L. 100–181 struck out second sentence which read as follows: "In the event that any such instrument does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver."
 

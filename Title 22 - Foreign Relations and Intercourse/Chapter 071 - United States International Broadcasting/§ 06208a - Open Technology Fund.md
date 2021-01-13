@@ -1,0 +1,146 @@
+### §6208a. Open Technology Fund
+
+#### (a) Authority
+
+#### (1) In general
+
+&emsp;Grants authorized under section 6204 of this title shall be available to make annual grants for the purpose of promoting, consistent with United States law, unrestricted access to uncensored sources of information via the internet to enable journalists, including journalists employed by or affiliated with the Voice of America, Radio Free Europe/Radio Liberty, Radio Free Asia, the Middle East Broadcasting Networks, the Office of Cuba Broadcasting, or any entity funded by or partnering with the United States Agency for Global Media, to create and disseminate, and for their audiences to receive, news and information consistent with the purposes, standards, and principles specified in sections 6201 and 6202 of this title.
+
+#### (2) Establishment
+
+&emsp;There is established a grantee entity to be known as the "Open Technology Fund", which shall carry out the provisions of this section.
+
+#### (b) Functions of the grantee
+
+In furtherance of the mission set forth in subsection (a), the Open Technology Fund shall seek to advance freedom of the press and unrestricted access to the internet in repressive environments oversees, and shall—
+
+&emsp;(1) research, develop, implement, and maintain—
+
+&emsp;&emsp;(A) technologies that circumvent techniques used by authoritarian governments,nonstate actors, and others to block or censor access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used to limit or block legitimate access to content and information; and
+
+&emsp;&emsp;(B) secure communication tools and other forms of privacy and security technology that facilitate the creation and distribution of news and enable audiences to access media content on censored websites;
+
+&emsp;(2) advance internet freedom by supporting private and public sector research, development, implementation, and maintenance of technologies that provide secure and uncensored access to the internet to counter attempts by authoritarian governments, nonstate actors, and others to improperly restrict freedom online;
+
+&emsp;(3) research and analyze emerging technical threats and develop innovative solutions through collaboration with the private and public sectors to maintain the technological advantage of the United States Government over authoritarian governments, nonstate actors, and others;
+
+&emsp;(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1), and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
+
+&emsp;(5) prioritize programs for countries the governments of which restrict freedom of expression on the internet, and that are important to the national interest of the United States, and are consistent with section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94); and
+
+&emsp;(6) carry out any other effort consistent with the purposes of this chapter or press freedom overseas if requested or approved by the United States Agency for Global Media.
+
+#### (c) Methodology
+
+In carrying out subsection (b), the Open Technology Fund shall—
+
+&emsp;(1) support fully open-source tools, code, and components, to the extent practicable, to ensure such supported tools and technologies are as secure, transparent, and accessible as possible, and require that any such tools, components, code, or technology supported by the Open Technology Fund remain fully open-source, to the extent practicable;
+
+&emsp;(2) support technologies that undergo comprehensive security audits to ensure that such technologies are secure and have not been compromised in a manner detrimental to the interest of the United States or to individuals and organizations benefitting from programs supported by the Open Technology Fund;
+
+&emsp;(3) review and update periodically as necessary security auditing procedures used by the Open Technology Fund to reflect current industry security standards;
+
+&emsp;(4) establish safeguards to mitigate the use of such supported technologies for illicit purposes;
+
+&emsp;(5) solicit project proposals through an open, transparent, and competitive application process to attract innovative applications and reduce barriers to entry;
+
+&emsp;(6) seek input from technical, regional, and subject matter experts from a wide range of relevant disciplines, to review, provide feedback, and evaluate proposals to ensure the most competitive projects are funded;
+
+&emsp;(7) implement an independent review process, through which proposals are reviewed by such experts to ensure the highest degree of technical review and due diligence;
+
+&emsp;(8) maximize cooperation with the public and private sectors, as well as foreign allies and partner countries, to maximize efficiencies and eliminate duplication of efforts; and
+
+&emsp;(9) utilize any other methodology approved by the United States Agency for Global Media in furtherance of the mission of the Open Technology Fund.
+
+#### (d) Grant agreement
+
+Any grant agreement with or grants made to the Open Technology Fund under this section shall be subject to the following limitations and restrictions:
+
+&emsp;(1) The headquarters of the Open Technology Fund and its senior administrative and managerial staff shall be located in a location which ensures economy, operational effectiveness, and accountability to the United States Agency for Global Media.
+
+&emsp;(2) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
+
+&emsp;(3) Any grant agreement under this section shall require that any contract entered into by the Open Technology Fund shall specify that all obligations are assumed by the grantee and not by the United States Government.
+
+&emsp;(4) Any grant agreement under this section shall require that any lease agreements entered into by the Open Technology Fund shall be, to the maximum extent possible, assignable to the United States Government.
+
+&emsp;(5) Administrative and managerial costs for operation of the Open Technology Fund should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if the Open Technology Fund had been operated as a Federal entity rather than as a grantee.
+
+&emsp;(6) Grant funds may not be used for any activity the purpose of which is influencing the passage or defeat of legislation considered by Congress.
+
+#### (e) Relationship to the United States Agency for Global Media
+
+#### (1) In general
+
+&emsp;The Open Technology Fund shall be subject to the same oversight and governance by the United States Agency for Global Media as other grantees of the Agency as set forth in section 6204 of this title.
+
+#### (2) Assistance
+
+&emsp;The United States Agency for Global Media, its broadcast entities, and the Open Technology Fund should render assistance to each other as may be necessary to carry out the purposes of this section or any other provision of this chapter.
+
+#### (3) Not a Federal agency or instrumentality
+
+&emsp;Nothing in this section may be construed to make the Open Technology Fund a Federal agency or instrumentality.
+
+#### (4) Detailees
+
+&emsp;Under the Intergovernmental Personnel Act \[42 U.S.C. 4701 et seq.\], employees of a grantee of the United States Agency for Global Media may be detailed to the Agency, and Federal employees may be detailed to a grantee of the United States Agency for Global Media.
+
+#### (f) Relationship to other United States Government-funded Internet freedom programs
+
+The United States Agency for Global Media shall ensure that internet freedom research and development projects of the Open Technology Fund are coordinated with internet freedom programs of the Department of State and other relevant United States Government departments, in order to share information and best-practices relating to the implementation of subsections (b) and (c).
+
+#### (g) Reporting requirements
+
+#### (1) Annual report
+
+&emsp;The Open Technology Fund shall highlight, in its annual report, internet freedom activities, including a comprehensive assessment of the Open Technology Fund's activities relating to the implementation of subsections (b) and (c). Each such report shall include the following:
+
+&emsp;&emsp;(A) An assessment of the current state of global internet freedom, including trends in censorship and surveillance technologies and internet shutdowns, and the threats such pose to journalists, citizens, and human rights and civil-society organizations.
+
+&emsp;&emsp;(B) A description of the technology projects supported by the Open Technology Fund and the associated impact of such projects in the prior year, including the countries and regions in which such technologies were deployed, and any associated metrics indicating audience usage of such technologies, as well as future-year technology project initiatives.
+
+#### (2) Assessment of the effectiveness of the Open Technology Fund
+
+&emsp;Not later than two years after January 1, 2021, the Inspector General of the Department of State and the Foreign Service shall submit to the appropriate congressional committees a report on the following:
+
+&emsp;&emsp;(A) Whether the Open Technology Fund is technically sound and cost effective.
+
+&emsp;&emsp;(B) Whether the Open Technology Fund is satisfying the requirements of this section.
+
+&emsp;&emsp;(C) The extent to which the interests of the United States are being served by maintaining the work of the Open Technology Fund.
+
+#### (h) Audit authorities
+
+#### (1) In general
+
+&emsp;Financial transactions of the Open Technology Fund, as such relate to functions carried out under this section, may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places at which accounts of the Open Technology Fund are normally kept.
+
+#### (2) Access by GAO
+
+&emsp;The Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by the Open Technology Fund pertaining to financial transactions as may be necessary to facilitate an audit. The Government Accountability Office shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Open Technology Fund shall remain in the possession and custody of the Open Technology Fund.
+
+#### (3) Exercise of authorities
+
+&emsp;Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 \[5 U.S.C. App.\] with respect to the Open Technology Fund.
+
+(Pub. L. 103–236, title III, §309A, as added Pub. L. 116–283, div. A, title XII, §1299P(b), Jan. 1, 2021, 134 Stat. 4016.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (b)(5), is section 7050(b)(2)(C) of Pub. L. 116–94, div. G, title VII, Dec. 20, 2019, 133 Stat. 2915, which is not classified to the Code.
+
+This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+The Intergovernmental Personnel Act, referred to in subsec. (e)(4), probably means the Intergovernmental Personnel Act of 1970, Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
+
+The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date
+
+Section effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out asan Effective Date of 2021 Amendment note under section 6203 of this title.
+

@@ -26,6 +26,8 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–457 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -35,6 +37,8 @@ Minor changes were made in phraseology.
 <b>1996</b>—Pub. L. 104–208 substituted "10 years" for "five years".
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

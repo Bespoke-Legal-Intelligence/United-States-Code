@@ -62,7 +62,7 @@
 
 #### (G) Teacher training
 
-&emsp;&emsp;A description of the activities that prepare general education and special education teachers to teach students with disabilities effectively, including training related toparticipation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title, and to effectively teach students who are limited English proficient.
+&emsp;&emsp;A description of the activities that prepare general education and special education teachers to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title, and to effectively teach students who are limited English proficient.
 
 #### (2) Report
 

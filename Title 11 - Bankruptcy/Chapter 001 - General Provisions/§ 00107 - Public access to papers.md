@@ -32,6 +32,8 @@ Subsection (a) of this section makes all papers filed in a bankruptcy case and t
 
 Subsection (b) permits the court, on its own motion, and requires the court, on the request of a party in interest, to protect trade secrets, confidential research, development, or commercial information, and to protect persons against scandalous or defamatory matter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted "subsections (b) and (c)" for "subsection (b) of this section".
@@ -41,6 +43,8 @@ Subsection (b) permits the court, on its own motion, and requires the court, on 
 Pub. L. 109–8, §233(c), inserted "and subject to section 112" after "section".
 
 Subsec. (c). Pub. L. 109–8, §234(a), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

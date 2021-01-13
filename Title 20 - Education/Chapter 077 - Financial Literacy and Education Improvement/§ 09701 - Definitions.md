@@ -32,7 +32,7 @@ Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall co
 
 (c) The President shall designate a Chair and a Vice Chair from among the members of the Council.
 
-(d) Subject to the direction of the Secretary of the Treasury (Secretary), the Chair shall convene and preside at meetings of the Council, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct the work of subgroups of the Council that shall consist exclusively of members of the Council.
+(d) Subject to the direction of the Secretary of the Treasury (Secretary), the Chair shall convene and preside at meetings of the Council, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct the workof subgroups of the Council that shall consist exclusively of members of the Council.
 
 (e) The Vice Chair shall perform:
 
@@ -206,7 +206,7 @@ Ex. Ord. No. 13646, June 25, 2013, 78 F.R. 39159, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To contribute to the Nation's future financial stability and increase upward economic mobility, it is the policy of the Federal Government to promote financial capability among young Americans and encourage building the financial capability of young people at an early stage in schools, families, communities, and the workplace. By starting early, young people can begin to learn the difference between wants and needs, the importance and power of saving,and the positive and productive role money can play in their lives. Having a basic understanding of money management from an early age will make our young people better equipped to tackle more complex financial decisions in their transition to adulthood, when critical decisions about financing higher education and saving for retirement can have lasting consequences for financial security. Strengthening the financial capability of our young people is an investment in our Nation's economic prosperity.
+Section 1. <i>Policy</i>. To contribute to the Nation's future financial stability and increase upward economic mobility, it is the policy of the Federal Government to promote financial capability among young Americans and encourage building the financial capability of young people at an early stage in schools, families, communities, and the workplace. By starting early, young people can begin to learn the difference between wants and needs, the importance and power of saving, and the positive and productive role money can play in their lives. Having a basic understanding of money management from an early age will make our young people better equipped to tackle more complex financial decisions in their transition to adulthood, when critical decisions about financing higher education and saving for retirement can have lasting consequences for financial security. Strengthening the financial capability of our young people is an investment in our Nation's economic prosperity.
 
 Financial capability is the capacity, based on knowledge, skills, and access, to manage financial resources prudently and effectively. Efforts to improve financial capability, which should be based on evidence of effectiveness, empower individuals to make informed choices, plan and set goals, avoid pitfalls, know where to seek help, and take other actions to better their present and long-term financial well-being.
 

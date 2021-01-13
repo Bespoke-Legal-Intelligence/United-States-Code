@@ -10,7 +10,7 @@
 
 &emsp;(4) Reasonable assurance that upon completion of such project the facilities will be used principally to furnish to veterans the level of care for which such application is made and that not more than 25 percent of the bed occupancy at any one time will consist of patients who are not receiving such level of care as veterans.
 
-&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant,a State home, or another agency or instrumentality of the State.
+&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant, a State home, or another agency or instrumentality of the State.
 
 &emsp;(6) Reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete.
 
@@ -66,7 +66,7 @@
 
 (5)(A) The Secretary shall defer approval of an application that otherwise meets the requirements of this section if the State submitting the application does not, by the July 1 deadline (as defined in subparagraph (D) of this paragraph), demonstrate to the satisfaction of the Secretary that the State has provided adequate financial support for construction of the project.
 
-(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not havebeen approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
+(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not have been approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
 
 (C) An application deferred in accordance with the requirements of this paragraph shall be accorded priority in any subsequent fiscal year ahead of applications that had not been approved before the first day of the fiscal year in which the deferred application was first approved.
 
@@ -87,6 +87,8 @@
 (f) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
 (Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, §3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -186,6 +188,8 @@ Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted "the Administ
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–311 repealed par. (3) which placed a limit of 10 per centum of the funds appropriated for any fiscal year pursuant to section 5033(a) of this title upon the amount which could be used to assist in the construction of facilities in any one state, and redesignated pars. (4) and (5) as pars. (3) and (4), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–585, title IV, §403(b), Nov. 4, 1992, 106 Stat. 4954, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to projects that are conditionally approved after September 30, 1992."
@@ -198,7 +202,7 @@ Amendment by Pub. L. 99–576 effective July 1, 1987, see section 224(e) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of theterms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
 
 #### Effective Date of 1976 Amendment
 

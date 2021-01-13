@@ -118,7 +118,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(G), is Pub. L. 93�
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(G), (5)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Prior Provisions
 

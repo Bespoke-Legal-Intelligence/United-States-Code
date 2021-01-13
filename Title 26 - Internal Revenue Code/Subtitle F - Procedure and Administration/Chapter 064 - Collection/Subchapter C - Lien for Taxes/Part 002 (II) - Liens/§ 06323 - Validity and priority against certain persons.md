@@ -158,9 +158,9 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (d) 45-day period for making disbursements
 
-Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements hadactual notice or knowledge of tax lien filing, but only if such security interest—
+Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (1) General rule
 
-&emsp;Unless notice of lien is refiled in the manner prescribed in paragraph (2) during the requiredrefiling period, such notice of lien shall be treated as filed on the date on which it is filed (in accordance with subsection (f)) after the expiration of such refiling period.
+&emsp;Unless notice of lien is refiled in the manner prescribed in paragraph (2) during the required refiling period, such notice of lien shall be treated as filed on the date on which it is filed (in accordance with subsection (f)) after the expiration of such refiling period.
 
 #### (2) Place for filing
 
@@ -396,7 +396,7 @@ Subsec. (f)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsec. (f)(4). Pub. L. 94–455, §2008(c)(1)(A), added par. (4).
 
-Subsec. (g)(2)(A), (B). Pub. L. 94–455, §§1906(b)(13)(A), 2008(c)(2), required the fact of refiling be entered and recorded in an index in accordance with subsec. (f)(4),and struck out "or his delegate" after "Secretary" wherever appearing.
+Subsec. (g)(2)(A), (B). Pub. L. 94–455, §§1906(b)(13)(A), 2008(c)(2), required the fact of refiling be entered and recorded in an index in accordance with subsec. (f)(4), and struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (i)(3). Pub. L. 94–455, §1202(h)(2), struck out par. (3) which related to a special rule respecting disclosure of amount of outstanding lien.
 
@@ -490,13 +490,13 @@ Pub. L. 89–719, title I, §114(a)–(c), Nov. 2, 1966, 80 Stat. 1146, 1147, pr
 
 "(a)
 
-General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections 3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardlessof when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
+General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections 3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
 
 "(b)
 
 Exceptions.—The amendments made by this title shall not apply in any case—
 
-&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before the date of enactment of this Act; or
+&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has becomefinal by judgment, sale, or agreement before the date of enactment of this Act; or
 
 &emsp;"(2) in which such amendments would—
 

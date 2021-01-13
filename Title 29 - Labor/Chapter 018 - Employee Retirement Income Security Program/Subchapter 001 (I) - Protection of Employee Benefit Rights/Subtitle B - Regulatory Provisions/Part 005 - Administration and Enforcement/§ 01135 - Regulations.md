@@ -4,6 +4,8 @@ Subject to subchapter II and section 1029 of this title, the Secretary may presc
 
 (Pub. L. 93–406, title I, §505, Sept. 2, 1974, 88 Stat. 894.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 99–272, title XI, §11018, Apr. 7, 1986, 100 Stat. 277, provided that:
@@ -34,7 +36,7 @@ In general.—Except as a defense, no rule or regulation adopted pursuant to the
 
 &emsp;"(2)
 
-Maintenance of current regulatory treatment.—No asset of any real estate entity described in paragraph (1) shall be treated as an asset of any plan investor for any purpose of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] ifthe assets of such entity would not have been assets of such plan investor under the provisions of—
+Maintenance of current regulatory treatment.—No asset of any real estate entity described in paragraph (1) shall be treated as an asset of any plan investor for any purpose of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] if the assets of such entity would not have been assets of such plan investor under the provisions of—
 
 &emsp;&emsp;"(A) Interpretive Bulletin 75–2 (29 CFR 2509.750–2); or
 

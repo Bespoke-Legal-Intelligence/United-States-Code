@@ -28,7 +28,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall periodically set technical milestones specifying theemission and thermal efficiency levels that coal gasification projects under this part shall be designed, and reasonably expected, to achieve.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall periodically set technical milestones specifying the emission and thermal efficiency levels that coal gasification projects under this part shall be designed, and reasonably expected, to achieve.
 
 #### (II) Prescriptive milestones
 
@@ -188,7 +188,7 @@ In carrying out this part, the Secretary shall require cost sharing in accordanc
 
 #### (g) Fee title
 
-The Secretary may vest fee title or other property interests acquired under cost-share clean coal power initiative agreements under this part in any entity, including the United States.
+The Secretary may vest fee title or other property interests acquired under cost-share clean coal power initiative agreements underthis part in any entity, including the United States.
 
 #### (h) Data protection
 

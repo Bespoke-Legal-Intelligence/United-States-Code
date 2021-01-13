@@ -4,6 +4,8 @@ In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizab
 
 (Pub. L. 100–436, title II, Sept. 20, 1988, 102 Stat. 1693.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The appropriations made under this heading, referred to in text, refers to appropriations under the headings
@@ -19,6 +21,8 @@ Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub
 #### Codification
 
 Section is from the appropriation act cited as the credit to this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

@@ -14,5 +14,5 @@ Words "prevailing party" were substituted for "the respondents in error," contai
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1141(c)(4)of Title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1141(c)(4) of Title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 

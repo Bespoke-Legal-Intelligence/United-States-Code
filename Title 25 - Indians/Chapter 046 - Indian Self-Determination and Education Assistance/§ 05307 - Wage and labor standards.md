@@ -6,7 +6,7 @@ All laborers and mechanics employed by contractors or subcontractors (excluding 
 
 #### (b) Preference requirements for wages and grants
 
-Any contract, subcontract, grant, or subgrant pursuant to this chapter, the Act of April 16, 1934 (48 Stat. 596), as amended \[25 U.S.C. 5342 et seq.\], or any other Act authorizing Federal contracts with or grants to Indian organizations or for the benefit of Indians, shall require that to the greatest extent feasible—
+Any contract, subcontract, grant, or subgrant pursuant to this chapter, the Act of April 16, 1934 (48 Stat. 596), as amended \[25 U.S.C. 5342 etseq.\], or any other Act authorizing Federal contracts with or grants to Indian organizations or for the benefit of Indians, shall require that to the greatest extent feasible—
 
 &emsp;(1) preferences and opportunities for training and employment in connection with the administration of such contracts or grants shall be given to Indians; and
 
@@ -17,6 +17,8 @@ Any contract, subcontract, grant, or subgrant pursuant to this chapter, the Act 
 Notwithstanding subsections (a) and (b) of this section, with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
 
 (Pub. L. 93–638, §7, Jan. 4, 1975, 88 Stat. 2205; Pub. L. 103–413, title I, §102(3), (4), Oct. 25, 1994, 108 Stat. 4251.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

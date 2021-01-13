@@ -1,6 +1,6 @@
 ### §1716. Injurious articles as nonmailable
 
-(a) All kinds of poison, and all articles and compositions containing poison, and all poisonous animals, insects, reptiles, and all explosives, hazardous materials, inflammable materials, infernal machines, and mechanical, chemical, or other devices or compositions which may ignite or explode, and all disease germs or scabs, and all other natural or artificial articles, compositions, or material which may kill or injure another, or injure the mails or other property, whether or not sealed as first-class matter, are nonmailable matter and shall not be conveyed in the mails or delivered from any post office or station thereof, nor by any officer or employee of the Postal Service.
+(a) All kinds of poison, and all articles and compositions containing poison, and all poisonous animals, insects, reptiles, and all explosives, hazardous materials, inflammable materials, infernal machines, and mechanical, chemical, or other devices or compositions whichmay ignite or explode, and all disease germs or scabs, and all other natural or artificial articles, compositions, or material which may kill or injure another, or injure the mails or other property, whether or not sealed as first-class matter, are nonmailable matter and shall not be conveyed in the mails or delivered from any post office or station thereof, nor by any officer or employee of the Postal Service.
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
@@ -50,6 +50,8 @@ The maximum of "twenty years" was reduced to "ten years" as more consistent with
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–435 inserted "hazardous materials," after "explosives,".
@@ -98,6 +100,8 @@ Eighth to tenth pars. Pub. L. 91–375, §6(j)(25)(B)(i), substituted "Postal Se
 
 <b>1952</b>—Act May 8, 1952, inserted fourth paragraph to extend the Postmaster General's authority as it relates to the transmission of poisonous drugs through the mails for scientific purposes.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–273, div. B, title IV, §4002(b)(2), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(b)(2) is effective Oct. 11, 1996.
@@ -120,5 +124,5 @@ Amendment by Pub. L. 85–623 effective on the sixtieth day after Aug. 12, 1958,
 
 #### Hazardous Substances
 
-Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
+Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
 

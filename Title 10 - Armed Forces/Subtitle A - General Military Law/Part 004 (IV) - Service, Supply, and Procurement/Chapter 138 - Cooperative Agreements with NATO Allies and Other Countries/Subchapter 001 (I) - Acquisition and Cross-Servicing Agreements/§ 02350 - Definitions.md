@@ -14,7 +14,7 @@ In this subchapter:
 
 &emsp;(4) The term "transfer" means selling (whether for payment in currency, replacement-in-kind, or exchange of supplies or services of equal value), leasing, loaning, or otherwise temporarily providing logistic support, supplies, and services under the terms of a cross-servicing agreement.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1019, §2331; renumbered §2350, Pub. L. 99–145, title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, §1317(h), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 105–85, div. A, title XII, §1222, Nov. 18, 1997, 111 Stat. 1937.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1019, §2331; renumbered §2350, Pub. L. 99–145,title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, §1317(h), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 105–85, div. A, title XII, §1222, Nov. 18, 1997, 111 Stat. 1937.)
 
 #### References in Text
 

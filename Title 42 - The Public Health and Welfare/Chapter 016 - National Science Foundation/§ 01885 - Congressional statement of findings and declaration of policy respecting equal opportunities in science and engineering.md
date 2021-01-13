@@ -1,6 +1,6 @@
 ### §1885. Congressional statement of findings and declaration of policy respecting equal opportunities in science and engineering
 
-(a) The Congress finds that it is in the national interest to promote the full use of human resources in science and engineering and to insure the full development and use of the scientific and engineering talents and skills of menand women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities.
+(a) The Congress finds that it is in the national interest to promote the full use of human resources in science and engineering and to insure the full development and use of the scientific and engineering talents and skills of men and women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities.
 
 (b) The Congress declares it is the policy of the United States to encourage men and women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities, to acquire skills in science, engineering, and mathematics, to have equal opportunity in education, training, and employment in scientific and engineering fields, and thereby to promote scientific and engineering literacy and the full use of the human resources of the Nation in science and engineering. To this end, the Congress declares that the highest quality science and engineering over the long-term requires substantial support, from currently available research and educational funds, for increased participation in science and engineering by women, minorities, and persons with disabilities. The Congress further declares that the impact on women, minorities, and persons with disabilities which is produced by advances in science and engineering must be included as essential factors in national and international science, engineering, and economic policies.
 
@@ -26,7 +26,7 @@ For short title of sections 31 et seq. of Pub. L. 96–516 as the "Science and E
 
 #### Severability of Science and Engineering Equal Opportunities Act
 
-Pub. L. 96–516, §38, Dec. 12, 1980, 94 Stat. 3014, provided that: "If a provision of this Act \[enacting sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title\] is held invalid, the validity of the other provisions of the Act shall not be affected. If an application of a provision of this Act to a person or circumstance is held invalid, the validity of the application of the provisions to another person or circumstance shall not be affected."
+Pub. L. 96–516, §38, Dec. 12, 1980, 94 Stat. 3014, provided that: "If a provision of this Act \[enacting sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title\] is held invalid, the validity of the other provisions of the Act shall not be affected. If an application of a provision of this Act to a person or circumstance is held invalid, the validityof the application of the provisions to another person or circumstance shall not be affected."
 
 #### Reports to Congress Concerning National Policy Development of Promotion, Etc., of Equal Opportunity for Women and Minorities in Science and Technology, and Impacts of Science and Technology on Women and Minorities
 

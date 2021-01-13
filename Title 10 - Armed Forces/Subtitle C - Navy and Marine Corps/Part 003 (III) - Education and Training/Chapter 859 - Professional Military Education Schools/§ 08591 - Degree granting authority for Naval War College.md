@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Under regulations prescribed by the Secretary of the Navy, the President of the Naval War College may, upon the recommendation of the faculty of the Naval War College components, confer appropriate degrees upon graduates who meet the degree requirements.
+Authority.—Under regulations prescribed by the Secretary of the Navy, the President of the Naval War College may, upon the recommendation of the faculty of the Naval WarCollege components, confer appropriate degrees upon graduates who meet the degree requirements.
 
 (b)
 

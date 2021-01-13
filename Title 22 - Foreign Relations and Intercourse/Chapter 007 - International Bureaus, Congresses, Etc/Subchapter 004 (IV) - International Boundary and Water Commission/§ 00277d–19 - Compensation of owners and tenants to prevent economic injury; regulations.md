@@ -2,7 +2,7 @@
 
 The United States Commissioner, under regulations approved by the Secretary of State, and upon application of the owners and tenants of lands to be acquired by the United States to fulfill and accomplish the purposes of said convention, and to the extent administratively determined by the Commissioner to be fair and reasonable, is authorized to—
 
-&emsp;a. Reimburse the owners and tenants for expenses and other losses and damages incurred by them in the process and as a direct result of such moving of themselves, their families, and their possessions as is occasioned by said acquisition: <i>Provided</i>, That the total of such reimbursement to the owners and tenants of any parcel of land shall in no event exceed 25 per centum of its fair value, as determined by the Commissioner. No payment under this subsection shall be made unless application therefor is supported by an itemized and certified statement of the expenses, losses, and damages incurred.
+&emsp;a. Reimburse the owners and tenants for expenses and other losses and damages incurred by them in the process and as a direct result of such moving of themselves, their families, and their possessions as is occasioned by saidacquisition: <i>Provided</i>, That the total of such reimbursement to the owners and tenants of any parcel of land shall in no event exceed 25 per centum of its fair value, as determined by the Commissioner. No payment under this subsection shall be made unless application therefor is supported by an itemized and certified statement of the expenses, losses, and damages incurred.
 
 &emsp;b. Compensate the said owners and tenants for identifiable, reasonable, and satisfactorily proved costs and losses to owners and tenants over and above those reimbursed under the foregoing subsection in the categories hereinafter provided, and for which purpose there shall be established by the Commissioner a board of examiners, consisting of such personnel employed and compensation fixed as he deems advisable, without regard to the provisions of the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5. Said board may hold hearings and shall examine submitted evidence and make determinations, subject to the Commissioner's approval, regarding all claims in said categories as follows:
 
@@ -21,6 +21,8 @@ The United States Commissioner, under regulations approved by the Secretary of S
 &emsp;(3) For penalty costs to property owners for prepayment of mortgages incident to acquisition of the properties by the United States.
 
 (Pub. L. 88–300, §3, Apr. 29, 1964, 78 Stat. 184.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

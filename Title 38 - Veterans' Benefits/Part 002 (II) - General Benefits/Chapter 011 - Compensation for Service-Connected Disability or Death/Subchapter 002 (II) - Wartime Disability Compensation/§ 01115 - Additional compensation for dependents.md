@@ -20,6 +20,8 @@ Any veteran entitled to compensation at the rates provided in section 1114 of th
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1121, §315; Pub. L. 86–499, §1, June 8, 1960, 74 Stat. 165; Pub. L. 89–137, §1(b), Aug. 26, 1965, 79 Stat. 576; Pub. L. 89–311, §2(a), (b), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 91–376, §2, Aug. 12, 1970, 84 Stat. 788; Pub. L. 92–328, title I, §102, June 30, 1972, 86 Stat. 394; Pub. L. 93–295, title I, §102, May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §102, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title I, §102, title IV, §404(9)–(11), Sept. 30, 1976, 90 Stat. 1375, 1378; Pub. L. 95–117, title I, §102, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title I, §102, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §102, Nov. 28, 1979, 93 Stat. 983; Pub. L. 96–385, title I, §102, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §102, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §§404(b), 405(c), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§102, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §102, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §102, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §102, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §102, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §102, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1102, Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §102, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §3, Feb. 6, 1991, 105 Stat. 8; renumbered §1115 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §3, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §2, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §3, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §3, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §3, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §3, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(b), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, §307(b), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, §2(b), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(b), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(b), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, §3(b), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, §3(b), June 30, 2009, 123 Stat. 1929.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Par. (1)(A). Pub. L. 111–37, §3(b)(1), substituted "$150" for "$142".
@@ -46,7 +48,7 @@ Par. (1)(E). Pub. L. 110–324, §3(b)(5), substituted "$271" for "$265".
 
 Par. (1)(F). Pub. L. 110–324, §3(b)(6), substituted "$227" for "$222".
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made byPub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Par. (1)(A). Pub. L. 109–461, §1005(b)(1), substituted "$139" for "$135".
 
@@ -344,11 +346,13 @@ Par. (2). Pub. L. 94–433, §404(11), struck out "his" before "disability bears
 
 <b>1970</b>—Par. (1). Pub. L. 91–376 substituted $28 for $25 in subpar. (A), $48 for $43 in subpar. (B), $61 for $55 in subpar. (C), $75 and $14 for $68 and $13, respectively, in subpar. (D), $19 for $17 in subpar. (E), $33 for $30 in subpar. (F), $48 and $14 for $43 and $13, respectively, in subpar. (G), $23 for $21 in subpar. (H), and $44 for $40 in subpar. (I).
 
-<b>1965</b>—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12 respectively in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12 respectively in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
+<b>1965</b>—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12, respectively, in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12, respectively, in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
 
 Pub. L. 89–137 struck out subsec. (b) which prohibited payment of the additional compensation to any veteran during any period he is in receipt of an increased rate of subsistence allowance or education and training allowance on account of a dependent or dependents, and redesignated subsec. (a) as entire section.
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–499 authorized payment of $12 for each living child in excess of three.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

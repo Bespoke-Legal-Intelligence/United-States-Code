@@ -6,7 +6,7 @@ Entry and Inspection.—An officer or employee of the National Transportation Sa
 
 &emsp;(1) on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
 
-&emsp;(2) during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
+&emsp;(2) during reasonable hours, may inspect any record, including an electronic record, process,control, or facility related to an accident investigation under this chapter.
 
 (b)
 

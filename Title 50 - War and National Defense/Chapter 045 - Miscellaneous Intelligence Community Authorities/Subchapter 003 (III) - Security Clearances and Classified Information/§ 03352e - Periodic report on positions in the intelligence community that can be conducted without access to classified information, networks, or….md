@@ -1,6 +1,6 @@
 ### §3352e. Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities
 
-Not later than 180 days after December 20, 2019, and not less frequently than once every 5years thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a report that reviews the intelligence community for which positions can be conducted without access to classified information, networks, or facilities, or may only require a security clearance at the secret level.
+Not later than 180 days after December 20, 2019, and not less frequently than once every 5 years thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a report that reviews the intelligence community for which positions can be conducted without access to classified information, networks, or facilities, or may only require a security clearance at the secret level.
 
 (Pub. L. 116–92, div. E, title LXVI, §6610, Dec. 20, 2019, 133 Stat. 2218.)
 

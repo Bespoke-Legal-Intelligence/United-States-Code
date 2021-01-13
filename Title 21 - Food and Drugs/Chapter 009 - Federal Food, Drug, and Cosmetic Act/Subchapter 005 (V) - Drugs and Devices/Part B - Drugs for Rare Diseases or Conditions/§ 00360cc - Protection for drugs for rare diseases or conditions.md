@@ -8,7 +8,7 @@ Except as provided in subsection (b), if the Secretary—
 
 &emsp;(2) issues a license under section 262 of title 42
 
-> for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for the same drug for the same disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. Section 355(c)(2) of this title does not apply to the refusal to approve an application under the preceding sentence.
+> for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for the same drug for the same disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. Section 355(c)(2) <sup>1</sup> of this title does not apply to the refusal to approve an application under the preceding sentence.
 
 #### (b) Exceptions
 
@@ -28,6 +28,10 @@ During the 7-year period described in subsection (a) for an approved application
 
 &emsp;For purposes of paragraph (1), the term "clinically superior" with respect to a drug means that the drug provides a significant therapeutic advantage over and above an already approved or licensed drug in terms of greater efficacy, greater safety, or by providing a major contribution to patient care.
 
+#### (3) Applicability
+
+&emsp;This subsection applies to any drug designated under section 360bb of this title for which an application was approved under section 355 of this title or licensed under section 262 of title 42 after August 18, 2017, regardless of the date on which such drug was designated under section 360bb of this title.
+
 #### (d) Regulations
 
 The Secretary may promulgate regulations for the implementation of subsection (c). Beginning on August 18, 2017, until such time as the Secretary promulgates regulations in accordance with this subsection, the Secretary may apply any definitions set forth in regulations that were promulgated prior to such date, to the extent such definitions are not inconsistent with the terms of this section, as amended by such Act.
@@ -36,17 +40,23 @@ The Secretary may promulgate regulations for the implementation of subsection (c
 
 To assist sponsors in demonstrating clinical superiority as described in subsection (c), the Secretary—
 
-&emsp;(1) upon the designation of any drug under section 360bb of this title, shall notify the sponsor of such drug in writing of the basis for the designation, including, as applicable, any plausible hypothesis offered by the sponsor and relied upon by the Secretary that the drug is clinically superior to a previously approved drug; and
+&emsp;(1) upon the designation of any drug under section 360bb of this title, shall notify the sponsor of such drug in writing of the basis for the designation, including, as applicable, anyplausible hypothesis offered by the sponsor and relied upon by the Secretary that the drug is clinically superior to a previously approved drug; and
 
 &emsp;(2) upon granting exclusive approval or licensure under subsection (a) on the basis of a demonstration of clinical superiority as described in subsection (c), shall publish a summary of the clinical superiority findings.
 
-(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 115–52, title VI, §607(a), Aug. 18, 2017, 131 Stat. 1049.)
+(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 115–52, title VI, §607(a), Aug. 18, 2017, 131 Stat. 1049; Pub. L. 116–260, div. BB, title III, §323, Dec. 27, 2020, 134 Stat. 2933.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
+
+Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this title by Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
 
 This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(3). Pub. L. 116–260 added par. (3).
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–52, §607(a)(1), substituted "the same drug for the same disease or condition" for "such drug for such disease or condition" in concluding provisions.
 
@@ -58,7 +68,7 @@ Subsec. (b)(2). Pub. L. 115–52, §607(a)(2)(C), substituted "the holder provid
 
 Subsecs. (c) to (e). Pub. L. 115–52, §607(a)(3), added subsecs. (c) to (e).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out ", of such certification," after "suchapproved application" and ", the issuance of the certification," after "approval of the approved application".
+<b>2002</b>—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out ", of such certification," after "such approved application" and ", the issuance of the certification," after "approval of the approved application".
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out ", issue another certification under section 357 of this title," before "or issue another license" in closing provisions, inserted "or" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "issues a certification under section 357 of this title, or".
 
@@ -78,6 +88,8 @@ Subsec. (b). Pub. L. 99–91, §§2(2), 3(a)(3)(E)–(K), struck out "and if a U
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–417 substituted "section 355" for "section 355(b)" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L. 99–91, set out as a note under section 360aa of this title.
@@ -85,4 +97,6 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 #### Construction
 
 Pub. L. 115–52, title VI, §607(b), Aug. 18, 2017, 131 Stat. 1050, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall affect any determination under sections 526 and 527 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bb, 360cc) made prior to the date of enactment of the FDA Reauthorization Act of 2017 \[Aug. 18, 2017\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Treatment as expenses
 
-A taxpayer may elect to treat 50 percent of the cost of any qualified advanced mine safetyequipment property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the qualified advanced mine safety equipment property is placed in service.
+A taxpayer may elect to treat 50 percent of the cost of any qualified advanced mine safety equipment property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the qualified advanced mine safety equipment property is placed in service.
 
 #### (b) Election
 

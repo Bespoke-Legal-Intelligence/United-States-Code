@@ -44,7 +44,7 @@
 
 #### (C) Grants and contracts
 
-&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly orthrough the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
+&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly or through the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
 
 #### (b) Advice to the Federal Government
 
@@ -118,7 +118,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (4) Core competency-based training program
 
-&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall facilitate the development of a competency-based training program to train public health practitioners. The Centers shall use such training program to train public health practitioners. The Secretary shall disseminate such training program to other accredited schools of public health, health professions schools, and other public or private entities asdetermined by the Secretary, for voluntary use by such entities.
+&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall facilitate the development of a competency-based training program to train public health practitioners. The Centers shall use such training program to train public health practitioners. The Secretary shall disseminate such training program to other accredited schools of public health, health professions schools, and other public or private entities as determined by the Secretary, for voluntary use by such entities.
 
 #### (5) Content of core curricula and training program
 
@@ -276,7 +276,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;"(A) the recommendations and findings of the National Advisory Committee on Children and Terrorism under section 319F(c)(2) of the Public Health Service Act \[probably means section 319F(b)(2), 42 U.S.C. 247d–6(b)(2)\];
 
-&emsp;"(B) the recommendations and findings of the EPIC Advisory Committee under section 319F(c)(3) of suchAct \[probably means section 319F(b)(3), 42 U.S.C. 247d–6(b)(3)\];
+&emsp;"(B) the recommendations and findings of the EPIC Advisory Committee under section 319F(c)(3) of such Act \[probably means section 319F(b)(3), 42 U.S.C. 247d–6(b)(3)\];
 
 &emsp;"(C) the characteristics that may render a rural community uniquely vulnerable to a biological attack, including distance, lack of emergency transport, hospital or laboratory capacity, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 

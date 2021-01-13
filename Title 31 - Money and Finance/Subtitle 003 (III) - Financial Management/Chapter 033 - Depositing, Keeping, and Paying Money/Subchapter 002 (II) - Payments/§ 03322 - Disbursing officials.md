@@ -16,7 +16,7 @@
 
 &emsp;(2) kept in another manner under regulations the Secretary decides are the safest and most effective in making a payment to a public creditor easier.
 
-(c) A disbursing official is not liable for an overpayment provided under a United StatesGovernment bill of lading or transportation request when the overpayment is caused by the—
+(c) A disbursing official is not liable for an overpayment provided under a United States Government bill of lading or transportation request when the overpayment is caused by the—
 
 &emsp;(1) use of improper transportation rates or classifications if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
 
@@ -64,6 +64,8 @@ In subsection (a), before clause (1), the words "Except as provided in subsectio
 
 In subsection (b), before clause (1), the word "however" is omitted as surplus. The words "treasurer or" are omitted as obsolete because of the 1st–4th pars. under the heading "Independent Treasury" in the Act of May 29, 1920 (ch. 214, 41 Stat. 654). In clause (2), the words "rules and" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c)(1). Pub. L. 105–264 inserted "if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government" after "classifications".
@@ -74,13 +76,15 @@ In subsection (b), before clause (1), the word "however" is omitted as surplus. 
 
 Subsecs. (b), (c). Pub. L. 98–216 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–264, §3(b), Oct. 19, 1998, 112 Stat. 2354, provided that: "The amendments made by this section \[amending this section and sections 3528 and 3726 of this title\] shall become effective 18 months after the date of the enactment of this Act \[Oct. 19, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–134, title III, §31001(a)(2)(A), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "The provisions of this section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under section 7701 of this title and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 26, 1996\]."
+Pub. L. 104–134, title III, §31001(a)(2)(A), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "The provisions of this section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and section 2461 of Title 28, Judiciary andJudicial Procedure, amending provisions set out as notes under section 7701 of this title and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 26, 1996\]."
 
 #### Effective Date of 1984 Amendment
 

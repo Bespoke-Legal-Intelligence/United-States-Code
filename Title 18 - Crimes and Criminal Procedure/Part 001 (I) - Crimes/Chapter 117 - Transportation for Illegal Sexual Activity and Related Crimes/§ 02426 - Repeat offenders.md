@@ -18,6 +18,8 @@ Definitions.—In this section—
 
 (Added Pub. L. 105–314, title I, §104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, §106(b), Apr. 30, 2003, 117 Stat. 655; Pub. L. 110–457, title II, §224(c), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 115–392, §11(2), Dec. 21, 2018, 132 Stat. 5255.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–392, §11(2)(A), substituted "3 times" for "twice".

@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 7310 establishes the minimum service requirements for an individual to serve as able seamen—offshore supply vessels on vessels of less than 500 gross tons engaged in the exploration, exploitation, or production of offshore mineral or energy resources.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "500 gross tons".

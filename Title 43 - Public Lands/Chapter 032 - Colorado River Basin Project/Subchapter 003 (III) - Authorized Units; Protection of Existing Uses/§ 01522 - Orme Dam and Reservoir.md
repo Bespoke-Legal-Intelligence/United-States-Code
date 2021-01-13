@@ -10,7 +10,7 @@ Title to any land or easement acquired pursuant to this section shall be subject
 
 #### (c) Addition of land to Fort McDowell Indian Reservation
 
-In view of the fact that a substantial portion of the lands of the Fort McDowell Mohave-Apache Indian Community will be required for Orme Dam and Reservoir, or alternative, the Secretary shall, in addition to the compensationprovided for in subsection (a) of this section, designate and add to the Fort McDowell Indian Reservation twenty-five hundred acres of suitable lands in the vicinity of the reservation that are under the jurisdiction of the Department of the Interior in township 4 north, range 7 east; township 5 north, range 7 east; and township 3 north, range 7 east, Gila and Salt River base meridian, Arizona. Title to lands so added to the reservation shall be held by the United States in trust for the Fort McDowell Mohave-Apache Indian Community.
+In view of the fact that a substantial portion of the lands of the Fort McDowell Mohave-Apache Indian Community will be required for Orme Dam and Reservoir, or alternative, the Secretary shall, in addition to the compensation provided for in subsection (a) of this section, designate and add to the Fort McDowell Indian Reservation twenty-five hundred acres of suitable lands in the vicinity of the reservation that are under the jurisdiction of the Department of the Interior in township 4 north, range 7 east; township 5 north, range 7 east; and township 3 north, range 7 east, Gila and Salt River base meridian, Arizona. Title to lands so added to the reservation shall be held by the United States in trust for the Fort McDowell Mohave-Apache Indian Community.
 
 #### (d) Recreational facilities developed and operated by Indian communities along Orme Reservoir shoreline
 
@@ -22,9 +22,13 @@ All funds paid pursuant to this section, and any per capita distribution thereof
 
 (Pub. L. 90–537, title III, §302, Sept. 30, 1968, 82 Stat. 888.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "sections 3113 and 3114(a) to (d) of title 40" substituted for "40 U.S.C., sections 257 and 258a" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Subsection (a) to Fort McDowell Indian Community
 

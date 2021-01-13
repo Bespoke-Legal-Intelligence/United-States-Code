@@ -34,11 +34,11 @@
 
 #### (B) Requirements
 
-&emsp;&emsp;A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, student and parental participation and involvement, services to private school children, comparability of services, maintenance of effort, uses of Federal funds to supplement, not supplant non-Federal funds (in accordance with the method of determination described in section 6321(b)(2) ofthis title), or the distribution of funds to State educational agencies or local educational agencies that apply to the receipt of funds from such programs.
+&emsp;&emsp;A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, student and parental participation and involvement, services to private school children, comparability of services, maintenance of effort, uses of Federal funds to supplement, not supplant non-Federal funds (in accordance with the method of determination described in section 6321(b)(2) of this title), or the distribution of funds to State educational agencies or local educational agencies that apply to the receipt of funds from such programs.
 
 #### (C) Records
 
-&emsp;&emsp;A school that chooses to consolidate and use funds from different Federal programs under this section shall not be required to maintain separate fiscal accounting records, by program, that identify the specific activities supported by those particular funds as long as the school maintains records that demonstrate that the schoolwide program, considered as a whole, addresses the intent and purposes of each of the Federal programs that were consolidated to support the schoolwide program.
+&emsp;&emsp;A school that chooses to consolidate and use funds from different Federal programs under this section shall not be required to maintain separate fiscal accounting records, by program, that identify the specific activities supported by those particular funds aslong as the school maintains records that demonstrate that the schoolwide program, considered as a whole, addresses the intent and purposes of each of the Federal programs that were consolidated to support the schoolwide program.
 
 #### (b) Schoolwide program plan
 
@@ -84,7 +84,7 @@ An eligible school operating a schoolwide program shall develop a comprehensive 
 
 #### (c) Preschool programs
 
-A school that operates a schoolwide program under this section may use funds available under this part to establish or enhance preschool programs for children who are under 6 years of age.
+A school that operates a schoolwide program under this section may use funds availableunder this part to establish or enhance preschool programs for children who are under 6 years of age.
 
 #### (d) Delivery of services
 

@@ -58,5 +58,5 @@ Pub. L. 99–662, title XIV, §1403(b), Nov. 17, 1986, 100 Stat. 4270, authorize
 
 #### Study of Cargo Diversion
 
-Pub. L. 99–662, title XIV, §1407, Nov. 17, 1986, 100 Stat. 4272, as amended by Pub. L. 100–647, title II, §2002(c),Nov. 10, 1988, 102 Stat. 3597, provided that the Secretary of the Treasury would conduct a study to determine the impact of the port use tax imposed under this section on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States, and submit the report of the study to Congress not later than Dec. 1, 1988.
+Pub. L. 99–662, title XIV, §1407, Nov. 17, 1986, 100 Stat. 4272, as amended by Pub. L. 100–647, title II, §2002(c), Nov. 10, 1988, 102 Stat. 3597, provided that the Secretary of the Treasury would conduct a study to determine the impact of the port use tax imposed under this section on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States, and submit the report of the study to Congress not later than Dec. 1, 1988.
 

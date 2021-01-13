@@ -28,9 +28,13 @@ June 30, 1949, ch. 288, title III, §314A ("commercial component"), as added Pub
 
 Pub. L. 93–400, §4(15), as added Pub. L. 103–355, title VIII, §8001(a), Oct. 13, 1994, 108 Stat. 3386.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

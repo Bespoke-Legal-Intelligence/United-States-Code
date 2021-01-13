@@ -14,11 +14,15 @@ Provision that "any stated term may, when adjourned, be adjourned to meet at any
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–620 provided for holding court at Bennington.
 
 <b>1964</b>—Pub. L. 88–312 provided for holding court at Montpelier and Saint Johnsbury.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

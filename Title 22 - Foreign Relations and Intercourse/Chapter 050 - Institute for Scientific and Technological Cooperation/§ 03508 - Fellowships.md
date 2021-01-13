@@ -14,7 +14,7 @@ The amount of the awards made pursuant to this section shall be established by t
 
 #### (d) Status of Institute Fellows
 
-Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows who are United States citizens shall be consideredGovernment employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
+Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows who are United States citizens shall be considered Government employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
 
 #### (e) Admission into United States of alien participants in program
 
@@ -22,9 +22,13 @@ Alien participants in any program of the Institute, including Institute Fellows 
 
 (Pub. L. 96–53, title IV, §408, Aug. 14, 1979, 93 Stat. 375.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this title", meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -32,7 +36,7 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

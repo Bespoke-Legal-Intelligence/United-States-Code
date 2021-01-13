@@ -22,6 +22,8 @@ Aug. 30, 1950, ch. 823, §15, 64 Stat. 566.
 
 The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The word "outstanding" is omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–7 substituted "FFA" for "corporation" and "agricultural education" for "vocational agriculture".

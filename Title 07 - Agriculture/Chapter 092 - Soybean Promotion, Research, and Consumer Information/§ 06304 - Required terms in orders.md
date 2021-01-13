@@ -44,7 +44,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (F) Adjustment of levels of production
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment tothe order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
 
 #### (3) Nominations
 
@@ -132,7 +132,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend theorder to make such changes. Such changes shall not be subject to a referendum of producers.
+&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
 
 #### (2) Number of votes per member
 
@@ -218,7 +218,7 @@ The order shall provide that the Board shall review or, on its own initiative, d
 
 #### (B) Certification
 
-&emsp;&emsp;To serve on the Committee, each producer elected by the national, nonprofit soybeanproducer-governed organization shall be certified by the Secretary as a producer who is duly elected by such organization as a representative to the Committee.
+&emsp;&emsp;To serve on the Committee, each producer elected by the national, nonprofit soybean producer-governed organization shall be certified by the Secretary as a producer who is duly elected by such organization as a representative to the Committee.
 
 #### (3) Terms
 
@@ -280,7 +280,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (1) Authority
 
-&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
+&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements forthe implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
 
 #### (2) Coordination
 
@@ -420,7 +420,7 @@ The order shall require the Board to—
 
 #### (I) Establishment
 
-&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, for producers in States where no qualified State soybean board exists, theBoard shall establish escrow accounts to be used to pay refunds under clause (ii) and, if necessary, clauses (v) and (vi).
+&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, for producers in States where no qualified State soybean board exists, the Board shall establish escrow accounts to be used to pay refunds under clause (ii) and, if necessary, clauses (v) and (vi).
 
 #### (II) Separate accounts
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half ofany fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
 #### (n) Minimum level of assessments to States
 
@@ -546,7 +546,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
+&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial informationthat is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
 
 #### (B) Permitted uses
 
@@ -568,7 +568,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (4) Penalty
 
-&emsp;Any person who willfully violates the provisions of this subsection, upon conviction, shallbe subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if a member or an agent of the Board or an officer or employee of the Department, shall be removed from office.
+&emsp;Any person who willfully violates the provisions of this subsection, upon conviction, shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if a member or an agent of the Board or an officer or employee of the Department, shall be removed from office.
 
 #### (r) Incidental terms and conditions
 

@@ -6,11 +6,11 @@ At the end of each fiscal year, the net savings shall, under regulations prescri
 
 #### (b) Patronage refunds
 
-The net savings of each bank for cooperatives, after the earnings for the fiscal year have beenapplied in accordance with subsection (a) of this section shall be paid in stock, participation certificates, or cash, or in any of them, as determined by its board, as patronage refunds to borrowers to whom such refunds are payable who are borrowers of the fiscal year for which such patronage refunds are distributed. All patronage refunds shall be paid in proportion that the amount of interest and service fees on the loans to each borrower during the year bears to the interest and service fees on the loans of all borrowers during the year or on such other proportionate patronage basis as may be approved by the board of directors.
+The net savings of each bank for cooperatives, after the earnings for the fiscal year have been applied in accordance with subsection (a) of this section shall be paid in stock, participation certificates, or cash, or in any of them, as determined by its board, as patronage refunds to borrowers to whom such refunds are payable who are borrowers of the fiscal year for which such patronage refunds are distributed. All patronage refunds shall be paid in proportion that the amount of interest and service fees on the loans to each borrower during the year bears to the interest and service fees on the loans of all borrowers during the year or on such other proportionate patronage basis as may be approved by the board of directors.
 
 #### (c) Loss carryover
 
-In the event of a net loss in any fiscal year after providing for all operating expenses (including reasonable valuation reserves and losses in excess of any applicable reserves), such loss may be carried forward or carried back, if appropriate, or otherwise shall be absorbed by charges to unallocated reserve or surplus accounts established after December 10, 1971; charges to allocated contingency reserve account; charges to allocated surplus accounts; charges to other contingency reserve and surplus accounts; the impairment of voting stock; or the impairment of all other stock.
+In the event of a net loss in any fiscal year after providing for all operating expenses (including reasonable valuation reserves and losses in excess of any applicable reserves), such loss may be carried forward or carried back, if appropriate, or otherwise shall be absorbed by charges to unallocated reserve or surplus accounts established after December 10, 1971; charges to allocated contingency reserve account; charges to allocated surplus accounts; charges to other contingency reserve and surplus accounts; theimpairment of voting stock; or the impairment of all other stock.
 
 #### (d) Charge of unrecognized costs or expenses to reserve, surplus, or patronage allocations
 
@@ -21,6 +21,8 @@ Notwithstanding any other provisions of this section any costs or expenses attri
 A bank for cooperatives may pay in cash such portion of its patronage refunds as will permit its taxable income to be determined without taking into account savings applied as allocated surplus, allocated contingency reserves, and patronage refunds under subsection (a) of this section.
 
 (Pub. L. 92–181, title III, §3.11, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, §308, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–205, title II, §205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(r), 805(n), Jan. 6, 1988, 101 Stat. 1712, 1716; Pub. L. 115–334, title V, §5411(11), Dec. 20, 2018, 132 Stat. 4680.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ Subsecs. (c), (d). Pub. L. 99–205, §205(e)(8)(B), substituted "subsection (b)
 <b>1980</b>—Subsec. (b). Pub. L. 96–592, §308(1), struck out provisions relating to 25 per centum requirement for net savings.
 
 Subsec. (c). Pub. L. 96–592, §308(2), inserted applicability to participation certificates and to borrowers to whom refunds are payable.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

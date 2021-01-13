@@ -38,6 +38,8 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title XXII, §2207(j)(2), formerly title II, §225(j)(2), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(j)(2), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §2207(j)(2)(A), formerly §225(j)(2)(A), as renumbered by Pub. L. 115–278, §2(g)(2)(I), in introductory provisions, inserted ", or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State" after "commercial gain".
@@ -54,6 +56,8 @@ Subsec. (b)(2). Pub. L. 107–296, §2207(j)(2)(D), formerly §225(j)(2)(D), as 
 
 Subsec. (b)(2). Pub. L. 103–322, §330016(1)(K), substituted "under this title" for "not more than $5,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -64,5 +68,5 @@ Pub. L. 99–508, title II, §202, Oct. 21, 1986, 100 Stat. 1868, provided that:
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: "This Act \[enacting section 2710 of this titleand renumbering former section 2710 as 2711 of this title\] may be cited as the 'Video Privacy Protection Act of 1988'."
+Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: "This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title\] may be cited as the 'Video Privacy Protection Act of 1988'."
 

@@ -20,9 +20,13 @@ For the purposes of this section, initiation of construction for a project occur
 
 (Pub. L. 106–53, title II, §206, Aug. 17, 1999, 113 Stat. 286.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

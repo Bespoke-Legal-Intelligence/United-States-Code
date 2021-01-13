@@ -48,7 +48,9 @@ The minimum punishment provision "for a term of not less than one nor" was omitt
 
 Mandatory punishment provision was rephrased in the alternative.
 
-The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from 5 years to 1 year, so that the stigma of a felony would not attach to an offender. The fine was increased from $500 to $1,000 as more proportionate to the 1-year term of imprisonment. (See classification of felony and misdemeanor in section 1 of this title and note thereunder.)
+The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from 5 years to 1 year, so that thestigma of a felony would not attach to an offender. The fine was increased from $500 to $1,000 as more proportionate to the 1-year term of imprisonment. (See classification of felony and misdemeanor in section 1 of this title and note thereunder.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

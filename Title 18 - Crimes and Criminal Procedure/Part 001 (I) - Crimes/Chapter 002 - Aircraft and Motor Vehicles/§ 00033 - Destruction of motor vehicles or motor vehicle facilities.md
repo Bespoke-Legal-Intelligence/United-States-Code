@@ -14,6 +14,8 @@ Whoever willfully attempts or conspires to do any of the aforesaid acts—
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–88, title IV, §402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, §406(c)(1), Mar. 9, 2006, 120 Stat. 245.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177 inserted "or conspires" before "to do any of the aforesaid acts" in fourth par.
@@ -21,6 +23,8 @@ Whoever willfully attempts or conspires to do any of the aforesaid acts—
 <b>1995</b>—Pub. L. 104–88 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Jan. 5, 1905, ch. 23, §7, 33 Stat. 602.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–26 renumbered section 300111 of this title as this section.

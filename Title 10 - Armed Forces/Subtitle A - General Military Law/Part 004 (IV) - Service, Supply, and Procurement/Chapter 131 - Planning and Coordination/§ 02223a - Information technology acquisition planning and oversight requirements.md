@@ -28,6 +28,14 @@ Program Components.—The program established under subsection (a) shall include
 
 (Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1857(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4276, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 345 of this title, as amended by section 1857(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4571 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Establishment of Secure Next-Generation Wireless Network (5G) Infrastructure for the Nevada Test and Training Range and Base Infrastructure
 
 Pub. L. 116–92, div. A, title II, §226, Dec. 20, 2019, 133 Stat. 1269, provided that:
@@ -194,7 +202,7 @@ Reports Required.—
 
 &emsp;"(1)
 
-Implementation.—Not later than March 15, 2020, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate andthe House of Representatives\] a report on the progress of the Secretary in implementing subsections (a) through (c). The report shall include an explanation of how the results of the demonstration activities carried out under subsection (b) will be incorporated into the policy and guidance required under subsection (c), particularly the policy and guidance of the members of the steering committee established under subsection (d).
+Implementation.—Not later than March 15, 2020, the Secretary of Defense shall submit to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Secretary in implementing subsections (a) through (c). The report shall include an explanation of how the results of the demonstration activities carried out under subsection (b) will be incorporated into the policy and guidance required under subsection (c), particularly the policy and guidance of the members of the steering committee established under subsection (d).
 
 &emsp;"(2)
 
@@ -486,7 +494,7 @@ Elements.—The report required under paragraph (1) shall include the following 
 
 #### Reorientation of Big Data Platform Program
 
-Pub. L. 116–92, div. A, title XVI, §1651, Dec. 20, 2019, 133 Stat. 1759, provided that:
+Pub. L. 116–92, div. A, title XVI, §1651, Dec. 20, 2019, 133 Stat. 1759, as amended by Pub. L. 116–283, div. A, title XVII, §1709(a), Jan. 1, 2021, 134 Stat. 4086, provided that:
 
 "(a)
 
@@ -558,7 +566,11 @@ Analytics and Application Sourcing and Collaboration.—The Secretary shall ensu
 
 "(e)
 
-Briefing Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\] and not less frequently than once every 180 days thereafter until the activities required by subsection (a)(1) are completed, the Secretary shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the activities of the Secretary in carrying out subsection (b)."
+Briefing Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\] and not less frequently than once every 180 days thereafter until the activities required by subsection (a)(1) are completed, the Secretary shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the activities of the Secretary in carrying out subsection (b).
+
+"(f)
+
+Applicability.—The requirements of this section shall apply in full to the Department of the Navy, including the Sharkcage and associated programs."
 
 #### Policy Regarding the Transition of Data and Applications to the Cloud
 
@@ -586,7 +598,7 @@ Pub. L. 115–232, div. A, title VIII, §868, Aug. 13, 2018, 132 Stat. 1902, pro
 
 "(a)
 
-Implementation Required.—Not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the final report of the Defense Science Board Task Forceon the Design and Acquisition of Software for Defense Systems.
+Implementation Required.—Not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the final report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems.
 
 "(b)
 
@@ -684,7 +696,7 @@ In general.—Except as provided in paragraph (2), the Deputy Secretary shall re
 
 &emsp;"(2)
 
-Waiver.—The Deputy Secretary may issue a national waiver to the requirement under paragraph\(1) if the Deputy Secretary determines, pursuant to the assessment described in such paragraph, that the requirement would adversely affect the national security of the United States. If the Deputy Secretary issues a waiver under this paragraph, the Deputy Secretary shall provide to the congressional defense committees a written notification of such waiver, justification for the waiver, and identification of the system or application to which the waiver applies by not later than 15 days after the date on which the waiver is issued.
+Waiver.—The Deputy Secretary may issue a national waiver to the requirement under paragraph (1) if the Deputy Secretary determines, pursuant to the assessment described in such paragraph, that the requirement would adversely affect the national security of the United States. If the Deputy Secretary issues a waiver under this paragraph, the Deputy Secretary shall provide to the congressional defense committees a written notification of such waiver, justification for the waiver, and identification of the system or application to which the waiver applies by not later than 15 days after the date on which the waiver is issued.
 
 "(e)
 

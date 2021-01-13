@@ -31,6 +31,7 @@
 - [&sect; 03042 - Repealed. Pub. L. 116&#8211;92, div. E, title LXVII, &sect;6742(b)(3), Dec. 20, 2019, 133 Stat. 2240](%C2%A7%2003042%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LXVII%2C%20%C2%A76742%28b%29%283%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202240.md)
 - [&sect; 03043 - Annual national security strategy report](%C2%A7%2003043%20-%20Annual%20national%20security%20strategy%20report.md)
 - [&sect; 03043a - National intelligence strategy](%C2%A7%2003043a%20-%20National%20intelligence%20strategy.md)
+- [&sect; 03043b - Annual reports on worldwide threats](%C2%A7%2003043b%20-%20Annual%20reports%20on%20worldwide%20threats.md)
 - [&sect; 03044 - Software licensing](%C2%A7%2003044%20-%20Software%20licensing.md)
 - [&sect; 03045 - National mission of National Geospatial-Intelligence Agency](%C2%A7%2003045%20-%20National%20mission%20of%20National%20Geospatial-Intelligence%20Agency.md)
 - [&sect; 03046 - Repealed. Pub. L. 108&#8211;458, title I, &sect;1075, Dec. 17, 2004, 118 Stat. 3694](%C2%A7%2003046%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20I%2C%20%C2%A71075%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203694.md)

@@ -22,11 +22,11 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 ### Western District
 
-(d) The Western District comprises the counties of Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Genesee, Livingston, Monroe, Niagara, Ontario, Orleans, Schuyler, Seneca, Steuben, Wayne, Wyoming, and Yates.
+(d) The Western District comprises the counties of Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Genesee, Livingston, Monroe,Niagara, Ontario, Orleans, Schuyler, Seneca, Steuben, Wayne, Wyoming, and Yates.
 
 &emsp;&emsp;Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
-(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978,92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §306\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 108–455, §4, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 108–482, title III, §302, Dec. 23, 2004, 118 Stat. 3918.)
+(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §306\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 108–455, §4, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 108–482, title III, §302, Dec. 23, 2004, 118 Stat. 3918.)
 
 #### Historical and Revision Notes
 
@@ -51,6 +51,8 @@ The county of Bronx, in the southern district, was formed out of a part of New Y
 Lockport was omitted as a place of holding court in the Western District. Court has not been held there for 32 years.
 
 Changes were made in arrangement and phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -78,6 +80,8 @@ Subsec. (c). Pub. L. 95–271 substituted "and Hempstead (including the village 
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on that date, see section 411 of Pub. L. 98–620, set out as a note under section 85 of this title.
@@ -88,11 +92,11 @@ Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such a
 
 #### Pretermission of Regular Session of Court at Hempstead and Holding of Special Session at Westbury; Procedures Applicable, Appropriations, Etc.
 
-Sections 2 to 5 of Pub. L. 95–271 provided that:
+Pub. L. 95–271, §§2–5, Apr. 28, 1978, 92 Stat. 221, provided that:
 
 "Sec. 2. The United States District Court for the Eastern District of New York, by order made anywhere within its district, may pretermit the regular session of court at Hempstead until Federal quarters and accommodations are available and ready for occupancy, except that for the entire period and such pretermission, a special session of the court shall be held at Westbury. Pretermission may be ordered without regard to the provisions of section 140(a) of title 28, United States Code.
 
-"Sec. 3. Notwithstanding the provisions of section 142 of title 28, United States Code, the Administrator of General Services, at the request of the Director of the Administrative Office of the United States Courts, shall continue to provide existing quarters and accommodations at Westbury for the duration of the special session held pursuant to section 2 of this Act. Appropriations to the judicial branch of Government shall be available to the Director to make necessary disbursements for such quarters and accommodations, and to pay user charges as required by section 210 of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490) \[see now 40 U.S.C. 586, 587\], at rates otherwise authorized by law.
+"Sec. 3. Notwithstanding the provisions of section 142 of title 28, United States Code, the Administrator of General Services, at the request of the Director of the Administrative Office of the United States Courts, shall continue to provide existing quarters and accommodations at Westbury for the duration of the special session held pursuant to section 2 of this Act. Appropriations to the judicial branch of Government shall be available to the Director to make necessary disbursements for such quarters and accommodations, and topay user charges as required by section 210 of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490) \[see now 40 U.S.C. 586, 587\], at rates otherwise authorized by law.
 
 "Sec. 4. Notwithstanding the provisions of section 456 of title 28, United States Code, any judge, and any officer or employee of the judicial branch, whose official station is, on the day before the date of enactment of this Act \[Apr. 28, 1978\], Westbury, may maintain that official station for the duration of the special session held pursuant to section 2 of this Act.
 

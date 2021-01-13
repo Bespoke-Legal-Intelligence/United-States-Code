@@ -26,6 +26,8 @@ As used in this chapter, the term—
 
 (Pub. L. 91–581, §2, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 100–443, §2(a), Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, §236(1), (2), (5), Aug. 8, 2005, 119 Stat. 671.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58, §236(5), inserted section catchline.
@@ -36,13 +38,15 @@ Par. (g). Pub. L. 109–58, §236(2), added par. (g).
 
 <b>1988</b>—Par. (f). Pub. L. 100–443 added par. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–58, title II, §221, Aug. 8, 2005, 119 Stat. 660, provided that: "This subtitle \[subtitle B (§§221–237) of title II of Pub. L. 109–58, enacting part B (§15871 et seq.) of subchapter II of chapter 149 of Title 42, The Public Health and Welfare, amending this section and sections 530 and 1002 to 1027 of this title, enacting provisions set out as notes under section 1004 of this title, and amending provisions set out as a note under this section\] may be cited as the 'John Rishel Geothermal Steam Act Amendments of 2005'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–443, §1, Sept. 22, 1988, 102 Stat. 1766, provided that: "This Act \[enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of this title\] may be known as the 'Geothermal Steam Act Amendments of 1988'."
+Pub. L. 100–443, §1, Sept. 22, 1988, 102 Stat. 1766, provided that: "This Act \[enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of thistitle\] may be known as the 'Geothermal Steam Act Amendments of 1988'."
 
 #### Short Title
 

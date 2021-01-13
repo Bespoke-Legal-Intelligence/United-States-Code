@@ -4,7 +4,7 @@
 
 (b) The Office shall assist agencies in the establishment of programs required under subsection (a) of this section and shall monitor the implementation of the programs. If the Office finds that any agency's program under subsection (a) of this section is not in compliance with the criteria prescribed under such subsection, it shall require the agency to take such corrective action as may be necessary to bring the program into compliance with the criteria.
 
-(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shall not result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of thistitle such travel expenses (including per diem allowances) as the head of the agency may determine to be essential for the study or experience.
+(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shall not result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of this title such travel expenses (including per diem allowances) as the head of the agency may determine to be essential for the study or experience.
 
 (2) A sabbatical under this subsection may not be granted to any career appointee—
 
@@ -38,6 +38,8 @@
 
 (Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1163; amended Pub. L. 102–175, §4, Dec. 2, 1991, 105 Stat. 1223.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1057, which related to issuance of regulations, was renumbered as section 3406 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
@@ -45,6 +47,8 @@ A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 #### Amendments
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–175 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

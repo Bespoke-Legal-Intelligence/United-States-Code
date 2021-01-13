@@ -202,6 +202,8 @@ In this section:
 
 (Pub. L. 111–353, title I, §112, Jan. 4, 2011, 124 Stat. 3916; Pub. L. 114–95, title IX, §9215(jj), Dec. 10, 2015, 129 Stat. 2175.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
@@ -209,6 +211,8 @@ The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§635 et 
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

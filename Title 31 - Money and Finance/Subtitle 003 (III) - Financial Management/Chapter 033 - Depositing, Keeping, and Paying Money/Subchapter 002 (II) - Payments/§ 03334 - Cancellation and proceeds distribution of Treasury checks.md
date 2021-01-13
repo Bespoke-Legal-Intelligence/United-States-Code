@@ -18,9 +18,13 @@ No Effect on Underlying Obligation.—Nothing in this section shall be construed
 
 (Added Pub. L. 100–86, title X, §1003, Aug. 10, 1987, 101 Stat. 658.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Such effective date, and the effective date of this section, referred to in subsecs. (a)(1) and (b)(1), is 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -46,6 +46,8 @@
 
 (Pub. L. 115–423, §9(g), Jan. 7, 2019, 132 Stat. 5463.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was enacted as part of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 and also as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.

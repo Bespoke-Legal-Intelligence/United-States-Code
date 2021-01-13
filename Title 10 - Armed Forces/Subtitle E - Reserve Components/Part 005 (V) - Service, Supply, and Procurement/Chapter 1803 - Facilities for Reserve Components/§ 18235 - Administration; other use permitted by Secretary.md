@@ -6,7 +6,7 @@
 
 &emsp;(2) permit persons or organizations other than members and units of the armed forces to use those facilities under such leases or other agreements as he considers appropriate; and
 
-&emsp;(3) cover the payments received under those leases or agreements into the Treasury to thecredit of the appropriation from which the cost of maintaining the facility, including its utilities and services, is paid.
+&emsp;(3) cover the payments received under those leases or agreements into the Treasury to the credit of the appropriation from which the cost of maintaining the facility, including its utilities and services, is paid.
 
 (b) The Secretary may not permit any use or disposition to be made of a facility covered by subsection (a) that would interfere with its use—
 

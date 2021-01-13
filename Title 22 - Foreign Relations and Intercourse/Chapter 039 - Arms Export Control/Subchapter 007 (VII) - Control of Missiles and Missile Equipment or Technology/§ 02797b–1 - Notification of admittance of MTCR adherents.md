@@ -10,13 +10,19 @@ At such times that a report is transmitted pursuant to subsection (a), the Direc
 
 (Pub. L. 90–629, ch. 7, §73A, as added Pub. L. 103–236, title VII, §735(d), Apr. 30, 1994, 108 Stat. 506; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–496.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

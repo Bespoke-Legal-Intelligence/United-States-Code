@@ -6,6 +6,8 @@
 
 (Apr. 10, 1941, ch. 49, 55 Stat. 133.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purpose of Enactment
 
 The "whereas" clauses preceding the resolving words in Joint Res. Apr. 10, 1941, provided as follows:

@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Combination of institutions of higher education
 
-&emsp;The term "combination of institutions of higher education" means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education forthe purpose of carrying out a common objective on the group's behalf.
+&emsp;The term "combination of institutions of higher education" means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group's behalf.
 
 #### (3) Critical foreign language
 
@@ -182,7 +182,7 @@ Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 S
 
 A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 460; amended Pub. L. 103–208, §2(a)(2), Dec. 20, 1993, 107 Stat. 2457, related to grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
@@ -192,7 +192,7 @@ Another prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 9
 
 Another prior section 1005, Pub. L. 89–329, title I, §105, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 90–575, title II, §202, Oct. 16, 1968, 82 Stat. 1036; Pub. L. 94–482, title I, §101(b)(4)–(10), (g)(2), Oct. 12, 1976, 90 Stat. 2084–2086; Pub. L. 95–43, §1(a)(3), (b)(1), (2), June 15, 1977, 91 Stat. 213, 218, set out the requisite features of State plans, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct.12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1006, Pub. L. 89–329, title I, §106, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

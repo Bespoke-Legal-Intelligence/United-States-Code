@@ -28,6 +28,8 @@ In developing standards for credentialing health care professionals under this s
 
 (Pub. L. 107–296, title V, §510, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1406; amended Pub. L. 110–53, title IV, §408, Aug. 3, 2007, 121 Stat. 304.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 510 of Pub. L. 107–296 was renumbered section 521 and is classified to section 321j of this title.
@@ -38,7 +40,41 @@ Another prior section 510 of Pub. L. 107–296 was classified to section 321 of 
 
 <b>2007</b>—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, substituted "for credentialing and typing of incident management personnel, emergency response providers, and other personnel (including temporary personnel) and" for "credentialing of personnel and typing of", and added subsecs. (b) to (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+
+#### Scope of Practice in Public Health Emergency
+
+Pub. L. 116–136, div. B, title VI, §16005, Mar. 27, 2020, 134 Stat. 545, provided that:
+
+"(a) Notwithstanding any other provision of law regarding the licensure of health-care providers, ahealth-care professional described in subsection (b) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or Commonwealth, territory, or possession of the United States, or any location designated by the Secretary, regardless of where such health-care professional or the patient is located, so long as the practice is within the scope of the authorized Federal duties of such health-care professional.
+
+"(b)
+
+Definition.—As used in this section, the term 'health-care professional' means an individual (other than a member of the Coast Guard, a civilian employee of the Coast Guard, member of the Public Health Service who is assigned to the Coast Guard, or an individual with whom the Secretary, pursuant to 10 U.S.C. 1091, has entered into a personal services contract to carry out health care responsibilities of the Secretary at a medical treatment facility of the Coast Guard) who—
+
+&emsp;"(1) is—
+
+&emsp;&emsp;"(A) an employee of the Department of Homeland Security,
+
+&emsp;&emsp;"(B) a detailee to the Department from another Federal agency,
+
+&emsp;&emsp;"(C) a personal services contractor of the Department, or
+
+&emsp;&emsp;"(D) hired under a Contract for Services;
+
+&emsp;"(2) performs health care services as part of duties of the individual in that capacity;
+
+&emsp;"(3) has a current, valid, and unrestricted equivalent license certification that is—
+
+&emsp;&emsp;"(A) issued by a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States; and
+
+&emsp;&emsp;"(B) for the practice of medicine, osteopathic medicine, dentistry, nursing, emergency medical services, or another health profession; and
+
+&emsp;"(4) is not affirmatively excluded from practice in the licensing or certifying jurisdiction or in any other jurisdiction.
+
+"(c) Subsection (a) shall apply during the incident period of the emergency declared by the President on March 13, 2020, pursuant to section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288\] (42 U.S.C. 5121(b) \[5191(b)\]), and to any subsequent major declaration under section 401 of such Act \[42 U.S.C. 5170\] that supersedes such emergency declaration."
 

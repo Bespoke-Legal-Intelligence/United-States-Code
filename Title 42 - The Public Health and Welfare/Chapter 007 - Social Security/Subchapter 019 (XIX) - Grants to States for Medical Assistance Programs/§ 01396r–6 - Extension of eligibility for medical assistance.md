@@ -84,7 +84,7 @@
 
 #### (ii) During additional extension period
 
-&emsp;&emsp;&emsp;Each State shall require that a family receiving extended assistance under this subsection report to the State, not later than the 21st day of the 1st month and of the 4th month in the period of additional extended assistance under this subsection, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the 3 preceding months.
+&emsp;&emsp;&emsp;Each State shall require that a family receiving extended assistance under thissubsection report to the State, not later than the 21st day of the 1st month and of the 4th month in the period of additional extended assistance under this subsection, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the 3 preceding months.
 
 #### (iii) Clarification on frequency of reporting
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;During the extension period under this subsection—
 
-&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it were still receiving aid under the plan approved under part A of subchapter IV; and
+&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it werestill receiving aid under the plan approved under part A of subchapter IV; and
 
 &emsp;&emsp;&emsp;(ii) the State plan may offer alternative coverage described in subparagraph (D).
 
@@ -216,7 +216,7 @@
 
 #### (1) States operating under demonstration projects
 
-&emsp;In the case of any State which is providing medical assistance to its residents under awaiver granted under section 1315(a) of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315(a) of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (2) Inapplicability in commonwealths and territories
 
@@ -358,7 +358,7 @@ Pub. L. 100–647, title VIII, §8436(b), Nov. 10, 1988, 102 Stat. 3806, provide
 
 #### Effective Date
 
-Section applicable to payments under this subchapter for calendar quarters beginning on or after Apr. 1, 1990 (or, in the case of the Commonwealth of Kentucky, Oct. 1, 1990) (without regard to whether implementing regulations are promulgated by that date), with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter on or after that date, see section 303(f)(1) of Pub. L. 100–485, set out as an Effective Date of 1988 Amendment note under section 1396a of this title.
+Section applicable to payments under this subchapter for calendar quarters beginning on or after Apr. 1, 1990\(or, in the case of the Commonwealth of Kentucky, Oct. 1, 1990) (without regard to whether implementing regulations are promulgated by that date), with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter on or after that date, see section 303(f)(1) of Pub. L. 100–485, set out as an Effective Date of 1988 Amendment note under section 1396a of this title.
 
 #### References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect July 16, 1996
 

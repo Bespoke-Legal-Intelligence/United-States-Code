@@ -36,7 +36,7 @@
 
 #### (2) Reservation and allocation
 
-&emsp;The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State's loan funds made available under subchapter II that is equal to that State's target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but notused within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
+&emsp;The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State's loan funds made available under subchapter II that is equal to that State's target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
 
 #### (d) Report
 

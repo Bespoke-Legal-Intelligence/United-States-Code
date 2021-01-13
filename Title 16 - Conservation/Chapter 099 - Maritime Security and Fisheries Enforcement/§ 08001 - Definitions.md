@@ -106,5 +106,5 @@ This chapter, referred to in text, was in the original "this subtitle", meaning 
 
 #### Short Title
 
-Pub. L. 116–92, div. C, title XXXV, §3531, Dec. 20, 2019, 133 Stat. 1997, provided that: "This subtitle \[subtitle C\(§§3531–3572) of title XXXV of div. C of Pub. L. 116–92, enacting this chapter and amending section 7103 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Maritime Security and Fisheries Enforcement Act' or the 'Maritime SAFE Act'."
+Pub. L. 116–92, div. C, title XXXV, §3531, Dec. 20, 2019, 133 Stat. 1997, provided that: "This subtitle \[subtitle C (§§3531–3572) of title XXXV of div. C of Pub. L. 116–92, enacting this chapter and amending section 7103 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Maritime Security and Fisheries Enforcement Act' or the 'Maritime SAFE Act'."
 

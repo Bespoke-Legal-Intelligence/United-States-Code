@@ -8,7 +8,7 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(2) Status of the registrant; if an individual, nationality; if a partnership, name, residence addresses, and nationality of each partner and a true and complete copy of its articles of copartnership; if an association, corporation, organization, or any other combination of individuals, the name, residence addresses, and nationality of each director and officer and of each person performing the functions of a director or officer and a true and complete copy of its charter, articles of incorporation, association, constitution, and bylaws, and amendments thereto; a copy of every other instrument or document and a statement of the terms and conditions of every oral agreement relating to its organization, powers, and purposes; and a statement of its ownership and control;
 
-&emsp;(3) A comprehensive statement of the nature of registrant's business; a complete list of registrant's employees and a statement of the nature of the work of each; the name and address of every foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act; the character of the business or other activities of every such foreign principal, and, if any such foreign principal be other than a natural person, a statement of the ownership and control of each; and the extent, if any, to which each such foreign principal is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party, or by any other foreign principal;
+&emsp;(3) A comprehensive statement of the nature of registrant's business; a complete list of registrant's employees and a statement of the nature of the work of each; the name and addressof every foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act; the character of the business or other activities of every such foreign principal, and, if any such foreign principal be other than a natural person, a statement of the ownership and control of each; and the extent, if any, to which each such foreign principal is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party, or by any other foreign principal;
 
 &emsp;(4) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is an agent of a foreign principal; a comprehensive statement of the nature and method of performance of each such contract, and of the existing and proposed activity or activities engaged in or to be engaged in by the registrant as agent of a foreign principal for each such foreign principal, including a detailed statement of any such activity which is a political activity;
 
@@ -16,7 +16,7 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(6) A detailed statement of every activity which the registrant is performing or is assuming or purporting or has agreed to perform for himself or any other person other than a foreign principal and which requires his registration hereunder, including a detailed statement of any such activity which is a political activity;
 
-&emsp;(7) The name, business, and residence addresses, and if an individual, the nationality, of any person other than a foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act under such circumstances as require his registration hereunder; the extent to which each such person is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, byany government of a foreign country or foreign political party or by any other foreign principal; and the nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received during the preceding sixty days from each such person in connection with any of the activities referred to in clause (6) of this subsection, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
+&emsp;(7) The name, business, and residence addresses, and if an individual, the nationality, of any person other than a foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act under such circumstances as require his registration hereunder; the extent to which each such person is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party or by any other foreign principal; and the nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received during the preceding sixty days from each such person in connection with any of the activities referred to in clause (6) of this subsection, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
 &emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunder and which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
 
@@ -58,6 +58,8 @@ A registration statement or supplement required to be filed under this section s
 
 (June 8, 1938, ch. 327, §2, 52 Stat. 632; Apr. 29, 1942, ch. 263, §1, 56 Stat. 251; Aug. 3, 1950, ch. 524, §1, 64 Stat. 399; Pub. L. 89–486, §2, July 4, 1966, 80 Stat. 245; Pub. L. 110–81, title II, §212(a), Sept. 14, 2007, 121 Stat. 749.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 613 of title 18, referred to in subsec. (a)(8), was repealed by Pub. L. 94–283, title II, §201(a), May 11, 1976, 90 Stat. 496.
@@ -90,6 +92,8 @@ Subsec. (f). Pub. L. 89–486, §2(7), added subsec. (f).
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–81, title II, §212(c), Sept. 14, 2007, 121 Stat. 750, provided that: "The amendments made by this section \[amending this section and section 616 of this title\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 14, 2007\]."
@@ -100,7 +104,7 @@ Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see sect
 
 #### Effective Date of 1942 Amendment
 
-Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to suchsixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
 
 #### Fees for Necessary Expenses of Registration Unit
 

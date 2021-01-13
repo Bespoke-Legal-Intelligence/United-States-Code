@@ -4,9 +4,13 @@ Under such terms and conditions as he shall determine and consonant with the pur
 
 (Pub. L. 93–22, Apr. 20, 1973, 87 Stat. 24.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11771
 

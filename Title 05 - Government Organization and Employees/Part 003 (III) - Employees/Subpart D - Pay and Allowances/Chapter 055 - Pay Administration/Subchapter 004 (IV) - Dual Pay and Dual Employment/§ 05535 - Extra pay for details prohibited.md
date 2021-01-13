@@ -40,7 +40,7 @@ R.S. §1764 (1st 34 words).
 
 Aug. 1, 1914, ch. 223, §12, 38 Stat. 680.
 
-Subsection (a) was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from this title but is not repealed.
+Subsection (a) was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), asadded Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from this title but is not repealed.
 
 In subsection (a), the words "regular office" are coextensive with and substituted for "proper office".
 

@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-Based on sections 29, 72, 74, 80h, 103, 104, 117h, 117j, 132, 132a, 133, 175, 176, 198h, 198j, 204h, 204j, 256f, 256h, 379, 380, 395h, 395j, 403c–9, 403c–11, 403h–7, 403h–9, 404c–7, 404c–9, 408o, and 408q of title 16, U.S.C., 1940 ed., Conservation\(May 7, 1894, ch. 72, §7, 28 Stat. 75; Apr. 17, 1900, ch. 192, §1, 31 Stat. 133; Apr. 20, 1904, ch. 1400, §§9, 11, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §§9, 11, 38 Stat. 701; June 30, 1916, ch. 197, §§9, 11, 39 Stat. 246; Aug. 21, 1916, ch. 368, §§9, 11, 39 Stat. 523, 524; June 2, 1920, ch. 218, §§11, 13, 41 Stat. 734; Mar. 4, 1923, ch. 295, 42 Stat. 1560; Apr. 25, 1928, ch. 434, §§9, 11, 45 Stat. 461; Apr. 26, 1928, ch. 438, §§9, 11, 45 Stat. 465; Mar. 2, 1929, ch. 583, §§9, 11, 45 Stat. 1539; Apr. 19, 1930, ch. 200, §§9, 11, 46 Stat. 229; June 25, 1935, ch. 309, §§2, 3, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§9, 11, 50 Stat. 702, 703; June 25, 1938, ch. 684, §2, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §§7, 9, 56 Stat. 135; Mar. 6, 1942, ch. 151, §§7, 9, 56 Stat. 137; Apr. 29, 1942, ch. 264, §§7, 9, 56 Stat. 260, 261; June 5, 1942, ch. 341, §§7, 9, 56 Stat. 319; Apr. 23, 1946, ch. 202, §4, 60 Stat. 120; June 24, 1946, ch. 463, §5, 60 Stat. 303).
+Based on sections 29, 72, 74, 80h, 103, 104, 117h, 117j, 132, 132a, 133, 175, 176, 198h, 198j, 204h, 204j, 256f, 256h, 379, 380, 395h, 395j, 403c–9, 403c–11, 403h–7, 403h–9, 404c–7, 404c–9, 408o, and 408q of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §7, 28 Stat. 75; Apr. 17, 1900, ch. 192, §1, 31 Stat. 133; Apr. 20, 1904, ch. 1400, §§9, 11, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §§9, 11, 38 Stat. 701; June 30, 1916, ch. 197, §§9, 11, 39 Stat. 246; Aug. 21, 1916, ch. 368, §§9, 11, 39 Stat. 523, 524; June 2, 1920, ch. 218, §§11, 13, 41 Stat. 734; Mar. 4, 1923, ch. 295, 42 Stat. 1560; Apr. 25, 1928, ch. 434, §§9, 11, 45 Stat. 461; Apr. 26, 1928, ch. 438, §§9, 11, 45 Stat. 465; Mar. 2, 1929, ch. 583, §§9, 11, 45 Stat. 1539; Apr. 19, 1930, ch. 200, §§9, 11, 46 Stat. 229; June 25, 1935, ch. 309, §§2, 3, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§9, 11, 50 Stat. 702, 703; June 25, 1938, ch. 684, §2, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §§7, 9, 56 Stat. 135; Mar. 6, 1942, ch. 151, §§7, 9, 56 Stat. 137; Apr. 29, 1942, ch. 264, §§7, 9, 56 Stat. 260, 261; June 5, 1942, ch. 341, §§7, 9, 56 Stat. 319; Apr. 23, 1946, ch. 202, §4, 60 Stat. 120; June 24, 1946, ch. 463, §5, 60 Stat. 303).
 
 Section consolidates provisions of sections 29, 72, 74, 80h, 103, 104, 117h, 117j, 132, 132a, 133, 175, 176, 198h, 198j, 204h, 204j, 256f, 256h, 379, 380, 395h, 395j, 403c–9, 403c–11, 403h–7, 403h–9, 404c–7, 404c–9, 408o and 408q of title 16, Conservation, relating to salary and fees of park commissioners with changes in arrangement and phraseology necessary to effect consolidation.
 
@@ -23,6 +23,8 @@ The provisions of some of these sections with reference to salaries of the Unite
 #### Senate Revision Amendment
 
 As finally enacted, section 158d of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §4, 61 Stat. 91, 92, was an additional source of this section and was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -44,6 +46,8 @@ Subsec. (c). Pub. L. 98–353, §210, substituted "subchapter III" for "subsecti
 
 <b>1968</b>—Pub. L. 90–578 substituted provisions for compensation of United States magistrates, comprising subsecs. (a) to (c) of this section and relating to: limitation on amount of compensation and consideration of certain factors for its determination; reduction of salaries of full-time magistrates; and consideration as judicial branch officers and employees of United States magistrates and necessary clerical and secretarial assistants, for prior provisions for salaries of park commissioners and disposition of fees, fines, and costs collected as public moneys.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "magistrate judges" and "magistrate judge" substituted for "magistrates" and "magistrate", respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
@@ -60,13 +64,15 @@ Amendment by section 108(a) of Pub. L. 98–353 effective July 10, 1984, see sec
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
-#### Salary Increases
-
-<b>1987</b>—Maximum salaries of U.S. magistrates (full-time) and U.S. magistrates (part-time) increased respectively to $72,500 and $36,200 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
 #### Continuation of Maximum Rates of Salary of Full-Time and Part-Time United States Magistrates in Effect on June 27, 1984
 
 Pub. L. 98–353, title I, §108(b), July 10, 1984, 98 Stat. 342, provided that: "The maximum rates for salary of full-time and part-time United States magistrates \[now United States magistrate judges\] in effect on June 27, 1984, shall remain in effect until changed as a result of a determination made under section 634(a) of title 28, United States Code, as amended by this Act."
 
 \[Section 108(b) of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Salary Increases
+
+<b>1987</b>—Maximum salaries of U.S. magistrates (full-time) and U.S. magistrates (part-time) increased respectively to $72,500 and $36,200 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 

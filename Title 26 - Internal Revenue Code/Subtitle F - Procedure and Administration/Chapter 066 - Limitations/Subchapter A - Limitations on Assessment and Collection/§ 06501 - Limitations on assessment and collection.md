@@ -56,13 +56,13 @@ Except as otherwise provided in this section, the amount of any tax imposed by t
 
 #### (7) Special rule for certain amended returns
 
-&emsp;Where, within the 60-day period ending on the day on which the time prescribed in this section for the assessment of any tax imposed by subtitle A for any taxable year would otherwise expire, the Secretary receives awritten document signed by the taxpayer showing that the taxpayer owes an additional amount of such tax for such taxable year, the period for the assessment of such additional amount shall not expire before the day 60 days after the day on which the Secretary receives such document.
+&emsp;Where, within the 60-day period ending on the day on which the time prescribed in this section for the assessment of any tax imposed by subtitle A for any taxable year would otherwise expire, the Secretary receives a written document signed by the taxpayer showing that the taxpayer owes an additional amount of such tax for such taxable year, the period for the assessment of such additional amount shall not expire before the day 60 days after the day on which the Secretary receives such document.
 
 #### (8) Failure to notify Secretary of certain foreign transfers
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any information which is required to be reported to the Secretary pursuant to an election under section 1295(b) or under section 1298(f), 6038, 6038A, 6038B, 6038D, 6046, 6046A, or 6048, the time for assessment of any tax imposed by this title with respect to any tax return, event, or period to which such information relates shall not expire before the date which is 3 years after the date on which the Secretary is furnished the information required to be reported under such section.
+&emsp;&emsp;In the case of any information which is required to be reported to the Secretary pursuant to an election under section 1295(b) or under section 1298(f), 6038, 6038A, 6038B,6038D, 6046, 6046A, or 6048, the time for assessment of any tax imposed by this title with respect to any tax return, event, or period to which such information relates shall not expire before the date which is 3 years after the date on which the Secretary is furnished the information required to be reported under such section.
 
 #### (B) Application to failures due to reasonable cause
 
@@ -118,7 +118,7 @@ Except as otherwise provided in subsection (c)—
 
 &emsp;&emsp;&emsp;(ii) such amount—
 
-&emsp;&emsp;&emsp;&emsp;(I) is attributable to one or more assets with respect to which information is required to be reported under section 6038D (or would be so required if such section were applied without regard to the dollarthreshold specified in subsection (a) thereof and without regard to any exceptions provided pursuant to subsection (h)(1) thereof), and
+&emsp;&emsp;&emsp;&emsp;(I) is attributable to one or more assets with respect to which information is required to be reported under section 6038D (or would be so required if such section were applied without regard to the dollar threshold specified in subsection (a) thereof and without regard to any exceptions provided pursuant to subsection (h)(1) thereof), and
 
 &emsp;&emsp;&emsp;&emsp;(II) is in excess of $5,000,
 
@@ -128,7 +128,7 @@ Except as otherwise provided in subsection (c)—
 
 &emsp;&emsp;For purposes of subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) In the case of a trade or business, the term "gross income" means the total of the amounts received or accrued from the sale of goods or services (if such amounts are required to be shown on the return) prior to diminution by the cost of such sales or services;
+&emsp;&emsp;&emsp;(i) In the case of a trade or business, the term "gross income" means the total of the amounts received or accrued from the sale of goods or services (if such amountsare required to be shown on the return) prior to diminution by the cost of such sales or services;
 
 &emsp;&emsp;&emsp;(ii) An understatement of gross income by reason of an overstatement of unrecovered cost or other basis is an omission from gross income; and
 
@@ -172,11 +172,11 @@ If a corporation which is a personal holding company for any taxable year fails 
 
 #### (h) Net operating loss or capital loss carrybacks
 
-In the case of a deficiency attributable to the application to the taxpayer of a net operating loss carryback or a capital loss carryback (including deficiencies which may be assessed pursuant to the provisions of section 6213(b)(3)),such deficiency may be assessed at any time before the expiration of the period within which a deficiency for the taxable year of the net operating loss or net capital loss which results in such carryback may be assessed.
+In the case of a deficiency attributable to the application to the taxpayer of a net operating loss carryback or a capital loss carryback (including deficiencies which may be assessed pursuant to the provisions of section 6213(b)(3)), such deficiency may be assessed at any time before the expiration of the period within which a deficiency for the taxable year of the net operating loss or net capital loss which results in such carryback may be assessed.
 
 #### (i) Foreign tax carrybacks
 
-In the case of a deficiency attributable to the application to the taxpayer of a carryback under section 904(c) (relating to carryback and carryover of excess foreign taxes) or under section 907(f) (relating to carryback and carryover of disallowed foreign oil and gas taxes), such deficiency may be assessed at any time before the expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year of the excess taxes described in section 904(c) or 907(f) which result in such carryback.
+In the case of a deficiency attributable to the application to the taxpayer of a carryback under section 904(c) (relating to carryback and carryover of excess foreign taxes) or under section 907(f) (relating to carryback and carryover of disallowed foreign oil and gas taxes), such deficiency may be assessed at any time before the expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year of the excess taxesdescribed in section 904(c) or 907(f) which result in such carryback.
 
 #### (j) Certain credit carrybacks
 
@@ -214,7 +214,7 @@ The period for assessing a deficiency attributable to any election under section
 
 &emsp;&emsp;<b>For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 803; Pub. L. 85–859, title I, §165(a), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 85–866, title I, §§80, 81, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 86–69, §3(g), June 25, 1959, 73 Stat. 140; Pub. L. 86–780, §3(c), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–794, title III, §317(c), Oct. 11, 1962, 76 Stat. 890; Pub. L. 87–834, §2(e)(1), Oct. 16, 1962, 76 Stat. 971; Pub. L. 87–858, §3(b)(4), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §225(k)(6), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–571, §3(b), Sept. 2, 1964, 78 Stat. 857; Pub. L. 89–44, title VIII, §810(a), (b), June 21, 1965, 79 Stat. 169; Pub. L. 89–721, §§2(f), 3(a), Nov. 2, 1966, 80 Stat. 1150, 1151; Pub. L. 89–809, title I, §105(f)(3), Nov. 13, 1966, 80 Stat. 1568; Pub. L. 90–225, §2(c), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(g)(1)–(3), title V, §512(e)(1), Dec. 30, 1969, 83 Stat. 525, 639; Pub. L. 91–614, title I, §102(d)(8), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 92–178, title V, §504(c), title VI, §601(d)(1), (e)(2), Dec. 10, 1971, 85 Stat. 551, 558, 560; Pub. L. 93–406, title II, §1016(a)(14), Sept. 2, 1974, 88 Stat. 930;Pub. L. 94–455, title X, §§1031(b)(5), 1035(d)(3), title XIII, §§1302(b), 1307(d)(2)(F)(vi), title XIX, §1906(b)(13)(A), title XXI, §2107(g)(2)(A), Oct. 4, 1976, 90 Stat. 1623, 1633, 1714, 1728, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(A), (5)(B), May 23, 1977, 91 Stat. 149, 151; Pub. L. 95–227, §4(d)(4), (5), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title II, §212(a), title III, §321(b)(2), title V, §504(b)(3), title VII, §§701(t)(3)(A), 703(n), (p)(2), Nov. 6, 1978, 92 Stat. 2818, 2835, 2881, 2912, 2943, 2944; Pub. L. 95–628, §8(c)(1), Nov. 10, 1978, 92 Stat. 3631; Pub. L. 96–222, title I, §§102(a)(2)(A), 103(a)(6)(G)(x), Apr. 1, 1980, 94 Stat. 208, 210; Pub. L. 96–223, title I, §101(g)(1), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title IV, §402(c)(5), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §§131(d)(2), 163(b)(1), title II, §211(b)(24), title III, §314(a)(3), title IV, §§447(a), 474(r)(39), title VII, §714(p)(2)(F), title VIII, §801(d)(14), July 18, 1984, 98 Stat. 664, 697, 757, 787, 817, 846, 965, 997; Pub. L. 99–514, title XVIII, §§1810(g)(3), 1847(b)(12)–(14), Oct. 22, 1986, 100 Stat. 2828, 2857; Pub. L. 100–203, title X, §§10712(c)(2), 10714(c), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 100–418, title I, §1941(b)(2)(H), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1008(j)(1), title IV, §4008(c)(2), Nov. 10, 1988, 102 Stat. 3445, 3653; Pub. L. 101–239, title VII, §7814(e)(2)(E), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 101–508, title XI, §§11511(c)(2), 11602(b), Nov. 5, 1990, 104 Stat. 1388–485, 1388–500; Pub. L. 104–188, title I, §§1702(e)(3), 1703(n)(8), 1704(j)(4)(B), Aug. 20, 1996, 110 Stat. 1870, 1877, 1882; Pub. L. 105–34, title V, §506(b), title XI, §1145(a), title XII, §§1239(e)(2), 1284(a), title XVI, §1601(g)(2), Aug. 5, 1997, 111 Stat. 855, 985, 1028, 1038, 1092; Pub. L. 105–206, title III, §3461(b), title VI, §§6007(e)(2)(A), 6023(27), July 22, 1998, 112 Stat. 764, 809, 826; Pub. L. 108–357, title IV, §413(c)(28), title VIII, §814(a), Oct. 22, 2004, 118 Stat. 1509, 1581; Pub. L. 109–58, title XIII, §§1341(b)(4), 1342(b)(4), Aug. 8, 2005, 119 Stat. 1049, 1051; Pub. L. 109–135, title IV, §403(y), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 110–172, §7(a)(2)(B), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 110–343, div. B, title II, §205(d)(3), title IV, §402(d), Oct. 3, 2008, 122 Stat. 3839, 3854; Pub. L. 111–5, div. B, title I, §§1141(b)(4), 1142(b)(7), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–147, title V, §§501(c)(2), (3), 513(a)(1), (2)(A), (b), (c), Mar. 18, 2010, 124 Stat. 106, 111, 112; Pub. L. 111–226, title II, §218(a), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §3(b)(2), Aug. 16, 2010, 124 Stat. 2498; Pub. L. 113–295, div. A, title II, §221(a)(2)(E), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 114–27, title IV, §407(e), June 29, 2015, 129 Stat. 382; Pub. L. 114–41, title II, §2005(a), July 31, 2015, 129 Stat. 456; Pub. L. 114–74, title XI, §1101(f)(3), Nov. 2, 2015, 129 Stat. 637; Pub. L. 115–97, title I, §13403(d)(2), Dec. 22, 2017, 131 Stat. 2137; Pub. L. 115–141, div. U, title II, §§201(b)(2), 205(b), title IV, §401(a)(295), Mar. 23, 2018, 132 Stat. 1172, 1178, 1198.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 803; Pub. L. 85–859, title I, §165(a), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 85–866, title I, §§80, 81, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 86–69, §3(g), June 25, 1959, 73 Stat. 140; Pub. L. 86–780, §3(c), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–794, title III, §317(c), Oct. 11, 1962, 76 Stat. 890; Pub. L. 87–834, §2(e)(1), Oct. 16, 1962, 76 Stat. 971; Pub. L. 87–858, §3(b)(4), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §225(k)(6), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–571, §3(b), Sept. 2, 1964, 78 Stat. 857; Pub. L. 89–44, title VIII, §810(a), (b), June 21, 1965, 79 Stat. 169; Pub. L. 89–721, §§2(f), 3(a), Nov. 2, 1966, 80 Stat. 1150, 1151; Pub. L. 89–809, title I, §105(f)(3), Nov. 13, 1966, 80 Stat. 1568; Pub. L. 90–225, §2(c), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(g)(1)–(3), title V, §512(e)(1), Dec. 30, 1969, 83 Stat. 525, 639; Pub. L. 91–614, title I, §102(d)(8), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 92–178, title V, §504(c), title VI, §601(d)(1), (e)(2), Dec. 10, 1971, 85 Stat. 551, 558, 560; Pub. L. 93–406, title II, §1016(a)(14), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title X, §§1031(b)(5), 1035(d)(3), title XIII, §§1302(b), 1307(d)(2)(F)(vi), title XIX, §1906(b)(13)(A), title XXI, §2107(g)(2)(A), Oct. 4, 1976, 90 Stat. 1623, 1633, 1714, 1728, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(A), (5)(B), May 23, 1977, 91 Stat. 149, 151; Pub. L. 95–227, §4(d)(4), (5), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title II, §212(a), title III, §321(b)(2), title V, §504(b)(3), title VII, §§701(t)(3)(A), 703(n), (p)(2), Nov. 6, 1978, 92 Stat. 2818, 2835, 2881, 2912, 2943, 2944; Pub. L. 95–628, §8(c)(1), Nov. 10, 1978, 92 Stat. 3631; Pub. L. 96–222, title I, §§102(a)(2)(A), 103(a)(6)(G)(x), Apr. 1, 1980, 94 Stat. 208, 210; Pub. L. 96–223, title I, §101(g)(1), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title IV, §402(c)(5), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §§131(d)(2), 163(b)(1), title II, §211(b)(24), title III, §314(a)(3),title IV, §§447(a), 474(r)(39), title VII, §714(p)(2)(F), title VIII, §801(d)(14), July 18, 1984, 98 Stat. 664, 697, 757, 787, 817, 846, 965, 997; Pub. L. 99–514, title XVIII, §§1810(g)(3), 1847(b)(12)–(14), Oct. 22, 1986, 100 Stat. 2828, 2857; Pub. L. 100–203, title X, §§10712(c)(2), 10714(c), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 100–418, title I, §1941(b)(2)(H), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1008(j)(1), title IV, §4008(c)(2), Nov. 10, 1988, 102 Stat. 3445, 3653; Pub. L. 101–239, title VII, §7814(e)(2)(E), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 101–508, title XI, §§11511(c)(2), 11602(b), Nov. 5, 1990, 104 Stat. 1388–485, 1388–500; Pub. L. 104–188, title I, §§1702(e)(3), 1703(n)(8), 1704(j)(4)(B), Aug. 20, 1996, 110 Stat. 1870, 1877, 1882; Pub. L. 105–34, title V, §506(b), title XI, §1145(a), title XII, §§1239(e)(2), 1284(a), title XVI, §1601(g)(2), Aug. 5, 1997, 111 Stat. 855, 985, 1028, 1038, 1092; Pub. L. 105–206, title III, §3461(b), title VI, §§6007(e)(2)(A), 6023(27), July 22, 1998, 112 Stat. 764, 809, 826; Pub. L. 108–357, title IV, §413(c)(28), title VIII, §814(a), Oct. 22, 2004, 118 Stat. 1509, 1581; Pub. L. 109–58, title XIII, §§1341(b)(4), 1342(b)(4), Aug. 8, 2005, 119 Stat. 1049, 1051; Pub. L. 109–135, title IV, §403(y), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 110–172, §7(a)(2)(B), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 110–343, div. B, title II, §205(d)(3), title IV, §402(d), Oct. 3, 2008, 122 Stat. 3839, 3854; Pub. L. 111–5, div. B, title I, §§1141(b)(4), 1142(b)(7), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–147, title V, §§501(c)(2), (3), 513(a)(1), (2)(A), (b), (c), Mar. 18, 2010, 124 Stat. 106, 111, 112; Pub. L. 111–226, title II, §218(a), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §3(b)(2), Aug. 16, 2010, 124 Stat. 2498; Pub. L. 113–295, div. A, title II, §221(a)(2)(E), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 114–27, title IV, §407(e), June 29, 2015, 129 Stat. 382; Pub. L. 114–41, title II, §2005(a), July 31, 2015, 129 Stat. 456; Pub. L. 114–74, title XI, §1101(f)(3), Nov. 2, 2015, 129 Stat. 637; Pub. L. 115–97, title I, §13403(d)(2), Dec. 22, 2017, 131 Stat. 2137; Pub. L. 115–141, div. U, title II, §§201(b)(2), 205(b), title IV, §401(a)(295), Mar. 23, 2018, 132 Stat. 1172, 1178, 1198.)
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Pub. L. 109–58, §1341(b)(4), inserted "30B(h)(9)," after "30(d)(4),".
 
 <b>2004</b>—Subsec. (c)(10). Pub. L. 108–357, §814(a), added par. (10).
 
-Subsec. (e)(1)(B). Pub. L. 108–357, §413(c)(28), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: "If the taxpayer omits from gross income anamount properly includible therein under section 551(b) (relating to the inclusion in the gross income of United States shareholders of their distributive shares of the undistributed foreign personal holding company income), the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time within 6 years after the return was filed."
+Subsec. (e)(1)(B). Pub. L. 108–357, §413(c)(28), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: "If the taxpayer omits from gross income an amount properly includible therein under section 551(b) (relating to the inclusion in the gross income of United States shareholders of their distributive shares of the undistributed foreign personal holding company income), the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time within 6 years after the return was filed."
 
 <b>1998</b>—Subsec. (c)(4). Pub. L. 105–206, §3461(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -284,7 +284,7 @@ Subsec. (c)(9). Pub. L. 105–206, §6007(e)(2)(A), struck out at end "The value
 
 Subsec. (m). Pub. L. 105–206, §6023(27), substituted "election under section 30(d)(4), 40(f), 43, 45B, 45C(d)(4), or 51(j) (or any" for "election under sections 30(d)(4), 40(f), 43, 45B, or 51(j) (or any".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1284(a), inserted at end "For purposes of this chapter, the term 'return' means the return required to be filed by the taxpayer (and does not include a return of any person from whom the taxpayer has received an item of income, gain, loss, deduction, or credit)."
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1284(a), inserted at end "For purposes of this chapter, the term 'return'means the return required to be filed by the taxpayer (and does not include a return of any person from whom the taxpayer has received an item of income, gain, loss, deduction, or credit)."
 
 Subsec. (c)(8). Pub. L. 105–34, §1145(a), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: "In the case of any tax imposed on any exchange or distribution by reason of subsection (a), (d), or (e) of section 367, the time for assessment of such tax shall not expire before the date which is 3 years after the date on which the Secretary is notified of such exchange or distribution under section 6038B(a)."
 
@@ -504,7 +504,7 @@ Pub. L. 111–147, title V, §513(d), Mar. 18, 2010, 124 Stat. 112, provided tha
 
 &emsp;"(1) returns filed after the date of the enactment of this Act \[Mar. 18, 2010\]; and
 
-&emsp;"(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to suchamendments) for assessment of such taxes has not expired as of such date."
+&emsp;"(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date."
 
 #### Effective Date of 2009 Amendment
 
@@ -588,7 +588,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1008(j)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4008(c)(2) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988,see section 4008(d) of Pub. L. 100–647, set out as a note under section 41 of this title.
+Amendment by section 4008(c)(2) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, see section 4008(d) of Pub. L. 100–647, set out as a note under section 41 of this title.
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -600,7 +600,7 @@ Amendment by section 10714(c) of Pub. L. 100–203 applicable to taxable years b
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of theTax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -664,7 +664,7 @@ Amendment by section 1307(d)(2)(F)(vi) of Pub. L. 94–455 applicable to taxable
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974,amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out an an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out an an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1971 Amendment
 

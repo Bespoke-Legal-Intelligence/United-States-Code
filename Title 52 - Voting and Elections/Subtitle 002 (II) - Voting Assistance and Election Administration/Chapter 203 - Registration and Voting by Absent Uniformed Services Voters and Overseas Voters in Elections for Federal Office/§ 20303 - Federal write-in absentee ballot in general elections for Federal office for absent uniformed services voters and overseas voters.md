@@ -28,7 +28,7 @@
 
 Except as otherwise provided in this chapter, a Federal write-in absentee ballot shall be submitted and processed in the manner provided by law for absentee ballots in the State involved. A Federal write-in absentee ballot of an absent uniformed services voter or overseas voter shall not be counted—
 
-&emsp;(1) in the case of a ballot submitted by an overseas voter who is not an absent uniformedservices voter, if the ballot is submitted from any location in the United States;
+&emsp;(1) in the case of a ballot submitted by an overseas voter who is not an absent uniformed services voter, if the ballot is submitted from any location in the United States;
 
 &emsp;(2) if the application of the absent uniformed services voter or overseas voter for a State absentee ballot is received by the appropriate State election official after the later of—
 
@@ -80,6 +80,8 @@ A State is not required to permit use of the Federal write-in absentee ballot, i
 
 (Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925; Pub. L. 108–375, div. A, title V, §566(c), (d), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§581(a)(1), (b), 582(b), Oct. 28, 2009, 123 Stat. 2326, 2327; Pub. L. 111–383, div. A, title X, §1075(d)(3), Jan. 7, 2011, 124 Stat. 4372.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1973ff–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -108,7 +110,7 @@ Subsec. (b). Pub. L. 108–375, §566(c)(2), inserted second sentence and struck
 
 &emsp;"(1) if the ballot is submitted from any location in the United States;
 
-&emsp;"(2) if the application of the overseas voter for a State absentee ballot is received by the appropriateState election official less than 30 days before the general election; or
+&emsp;"(2) if the application of the overseas voter for a State absentee ballot is received by the appropriate State election official less than 30 days before the general election; or
 
 &emsp;"(3) if a State absentee ballot of the overseas voter is received by the appropriate State election official not later than the deadline for receipt of the State absentee ballot under State law."
 
@@ -117,6 +119,8 @@ Subsec. (c)(1). Pub. L. 108–375, §566(c)(3), substituted "absent uniformed se
 Subsec. (d). Pub. L. 108–375, §566(c)(4), (d)(2), substituted "absent uniformed services voter or overseas voter" for "overseas voter" in heading and two places in text.
 
 Subsec. (e)(2). Pub. L. 108–375, §566(c)(5), substituted "absent uniformed services voters and overseas voters" for "overseas voters".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

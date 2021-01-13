@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title48",
- "package": "USCODE-2019-title48",
+ "package": "USCODE-2020-title48",
  "pieces": [
   {
    "id": "48_",
@@ -1410,7 +1410,7 @@
      16,
      [
       [
-       161,
+       158,
        "[Page 48]"
       ]
      ]
@@ -2325,7 +2325,7 @@
      6,
      [
       [
-       109,
+       106,
        "[Page 69]"
       ]
      ]
@@ -4397,7 +4397,7 @@
      12,
      [
       [
-       1899,
+       1872,
        "[Page 108]"
       ]
      ]
@@ -4686,7 +4686,7 @@
      2,
      [
       [
-       554,
+       550,
        "[Page 115]"
       ]
      ]
@@ -4854,7 +4854,7 @@
      2,
      [
       [
-       523,
+       513,
        "[Page 118]"
       ]
      ]
@@ -4980,7 +4980,7 @@
      2,
      [
       [
-       127,
+       81,
        "[Page 122]"
       ]
      ]
@@ -5183,7 +5183,7 @@
      58,
      [
       [
-       136,
+       133,
        "[Page 129]"
       ]
      ]
@@ -5791,7 +5791,7 @@
      12,
      [
       [
-       421,
+       416,
        "[Page 152]"
       ]
      ]
@@ -6885,7 +6885,7 @@
      116,
      [
       [
-       183,
+       140,
        "[Page 189]"
       ]
      ]
@@ -6895,72 +6895,60 @@
      224,
      [
       [
-       241,
+       160,
        "[Page 190]"
       ]
      ]
     ],
     [
-     "I",
-     300,
-     [
-      [
-       107,
-       "[Page 191]"
-      ]
-     ]
+     "L",
+     298,
+     "[Page 191]",
+     true
     ],
     [
      "I",
      362,
      [
       [
-       367,
+       139,
        "[Page 192]"
       ]
      ]
     ],
     [
      "L",
-     422,
+     418,
      "[Page 193]",
      true
     ],
     [
-     "I",
+     "L",
      500,
-     [
-      [
-       182,
-       "[Page 194]"
-      ]
-     ]
+     "[Page 194]",
+     true
     ],
     [
      "L",
-     546,
+     542,
      "[Page 195]",
      true
     ],
     [
      "I",
-     614,
+     612,
      [
       [
-       259,
+       486,
        "[Page 196]"
       ]
      ]
     ],
     [
-     "I",
-     686,
-     [
-      [
-       93,
-       "[Page 197]"
-      ]
-     ]
+     "L",
+     684,
+     "[Page 197]",
+     true
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01806 - Immigration and transition.md",
@@ -6974,7 +6962,7 @@
    "marks": [
     [
      "L",
-     24,
+     20,
      "[Page 198]",
      true
     ]
@@ -7007,14 +6995,10 @@
    "id": "48_1821",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       88,
-       "[Page 199]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 199]",
+     true
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01821 - District Court for the Northern Mariana Islands.md",
@@ -7025,30 +7009,26 @@
   },
   {
    "id": "48_1822",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 200]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01822 - Jurisdiction of District Court; original jurisdiction; procedural requirements.md",
    "printed_pages": [
     199,
-    199
+    200
    ]
   },
   {
    "id": "48_1823",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       139,
-       "[Page 200]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01823 - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules.md",
    "printed_pages": [
-    199,
+    200,
     200
    ]
   },
@@ -7057,7 +7037,7 @@
    "marks": [
     [
      "L",
-     16,
+     8,
      "[Page 201]",
      true
     ]
@@ -7099,20 +7079,20 @@
    "id": "48_1841",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       426,
-       "[Page 202]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 202]",
+     true
     ],
     [
-     "L",
-     66,
-     "[Page 203]",
-     true
+     "I",
+     58,
+     [
+      [
+       102,
+       "[Page 203]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01841 - Funds and services.md",
@@ -7134,10 +7114,14 @@
    "id": "48_1843",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 204]",
-     true
+     "I",
+     4,
+     [
+      [
+       503,
+       "[Page 204]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01843 - Exemption from taxation for income derived from sources within Commonwealth.md",
@@ -7160,10 +7144,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       282,
+       326,
        "[Page 205]"
       ]
      ]
@@ -7219,158 +7203,142 @@
      8,
      [
       [
-       564,
+       276,
        "[Page 206]"
       ]
      ]
     ],
     [
-     "I",
-     68,
-     [
-      [
-       272,
-       "[Page 207]"
-      ]
-     ]
-    ],
-    [
      "L",
-     126,
-     "[Page 208]",
+     68,
+     "[Page 207]",
      true
     ],
     [
      "I",
-     192,
+     122,
      [
       [
-       158,
+       161,
+       "[Page 208]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     190,
+     [
+      [
+       207,
        "[Page 209]"
       ]
      ]
     ],
     [
-     "I",
-     252,
-     [
-      [
-       110,
-       "[Page 210]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     306,
-     [
-      [
-       106,
-       "[Page 211]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     346,
-     [
-      [
-       104,
-       "[Page 212]"
-      ]
-     ]
+     "L",
+     250,
+     "[Page 210]",
+     true
     ],
     [
      "L",
-     392,
-     "[Page 213]",
+     300,
+     "[Page 211]",
      true
+    ],
+    [
+     "L",
+     342,
+     "[Page 212]",
+     true
+    ],
+    [
+     "I",
+     390,
+     [
+      [
+       479,
+       "[Page 213]"
+      ]
+     ]
     ],
     [
      "I",
      436,
      [
       [
-       962,
+       583,
        "[Page 214]"
       ]
      ]
     ],
     [
-     "I",
-     514,
-     [
-      [
-       103,
-       "[Page 215]"
-      ]
-     ]
+     "L",
+     512,
+     "[Page 215]",
+     true
     ],
     [
      "I",
-     572,
+     570,
      [
       [
-       213,
+       276,
        "[Page 216]"
       ]
      ]
     ],
     [
+     "L",
+     624,
+     "[Page 217]",
+     true
+    ],
+    [
      "I",
-     634,
+     694,
      [
       [
-       103,
-       "[Page 217]"
+       536,
+       "[Page 218]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     766,
+     [
+      [
+       589,
+       "[Page 219]"
       ]
      ]
     ],
     [
      "L",
-     700,
-     "[Page 218]",
+     840,
+     "[Page 220]",
      true
     ],
     [
      "L",
-     768,
-     "[Page 219]",
+     916,
+     "[Page 221]",
      true
-    ],
-    [
-     "I",
-     842,
-     [
-      [
-       153,
-       "[Page 220]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     918,
-     [
-      [
-       101,
-       "[Page 221]"
-      ]
-     ]
     ],
     [
      "I",
      984,
      [
       [
-       264,
+       102,
        "[Page 222]"
       ]
      ]
     ],
     [
      "L",
-     1096,
+     1094,
      "[Page 223]",
      true
     ],
@@ -7379,7 +7347,7 @@
      1172,
      [
       [
-       983,
+       877,
        "[Page 224]"
       ]
      ]
@@ -7389,7 +7357,7 @@
      1216,
      [
       [
-       481,
+       319,
        "[Page 225]"
       ]
      ]
@@ -7409,7 +7377,7 @@
      36,
      [
       [
-       538,
+       403,
        "[Page 226]"
       ]
      ]
@@ -7419,7 +7387,7 @@
      94,
      [
       [
-       178,
+       88,
        "[Page 227]"
       ]
      ]
@@ -7439,7 +7407,7 @@
      30,
      [
       [
-       313,
+       223,
        "[Page 228]"
       ]
      ]
@@ -7449,7 +7417,7 @@
      78,
      [
       [
-       186,
+       90,
        "[Page 229]"
       ]
      ]
@@ -8301,7 +8269,7 @@
     ],
     [
      "L",
-     438,
+     436,
      "[Page 305]",
      true
     ],
@@ -9509,10 +9477,14 @@
    "id": "48_2214",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 352]",
-     true
+     "I",
+     20,
+     [
+      [
+       94,
+       "[Page 352]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Puerto Rico Oversight, Management, and Economic Stability/Subchapter 005 (V) - Puerto Rico Infrastructure Revitalization/§ 02214 - Miscellaneous provisions.md",
@@ -9562,7 +9534,7 @@
    "marks": [
     [
      "L",
-     10,
+     14,
      "[Page 353]",
      true
     ],
@@ -9571,7 +9543,7 @@
      86,
      [
       [
-       94,
+       235,
        "[Page 354]"
       ]
      ]
@@ -9581,16 +9553,20 @@
      142,
      [
       [
-       772,
+       909,
        "[Page 355]"
       ]
      ]
     ],
     [
-     "L",
+     "I",
      194,
-     "[Page 356]",
-     true
+     [
+      [
+       96,
+       "[Page 356]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Puerto Rico Oversight, Management, and Economic Stability/Subchapter 006 (VI) - Creditor Collective Action/§ 02231 - Creditor collective action.md",
@@ -9627,6 +9603,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2019-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2020-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 48 - Territories and Insular Possessions"
 }

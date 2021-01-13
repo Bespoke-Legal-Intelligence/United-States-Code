@@ -10,7 +10,7 @@
 
 &emsp;(4) conservation tillage practices are estimated to reduce soil erosion by 50 to 90 per centum over conventional farming practices; and
 
-&emsp;(5) conservation tillage may result in better yields, greater land use flexibility, decreasedfuel use, decreased labor and equipment costs, increased retention of soil moisture, and more productive land than conventional farming practices and may be adaptable to a broad range of soil types and slopes throughout the country.
+&emsp;(5) conservation tillage may result in better yields, greater land use flexibility, decreased fuel use, decreased labor and equipment costs, increased retention of soil moisture, and more productive land than conventional farming practices and may be adaptable to a broad range of soil types and slopes throughout the country.
 
 (b) It is the sense of Congress that the Secretary of Agriculture should, and is hereby urged and requested to—
 

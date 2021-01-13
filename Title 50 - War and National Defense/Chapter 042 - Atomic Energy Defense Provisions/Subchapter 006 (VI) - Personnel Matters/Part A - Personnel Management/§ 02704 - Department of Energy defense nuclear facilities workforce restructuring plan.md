@@ -22,7 +22,7 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 &emsp;&emsp;(A) should be accomplished so as to minimize social and economic impacts;
 
-&emsp;&emsp;(B) should be made only after the provision of notice of such changes not later than120 days before the commencement of such changes to such employees and the communities in which such facilities are located; and
+&emsp;&emsp;(B) should be made only after the provision of notice of such changes not later than 120 days before the commencement of such changes to such employees and the communities in which such facilities are located; and
 
 &emsp;&emsp;(C) should be accomplished, when possible, through the use of retraining, early retirement, attrition, and other options that minimize layoffs.
 
@@ -72,7 +72,7 @@ In this section, the term "Department of Energy defense nuclear facility" means�
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat.2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### References in Text
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to the Secretary, $25,000,000 for each of fiscal years 2008 through 2021;
 
-&emsp;&emsp;(B) to the Secretary of the Interior (acting through the Director of the United States Fish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2021;
+&emsp;&emsp;(B) to the Secretary of the Interior (acting through the Director of the United StatesFish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2021;
 
 &emsp;&emsp;(C) to the Under Secretary for Oceans and Atmosphere of the Department of Commerce, $2,500,000 for each of fiscal years 2008 through 2021;
 
@@ -27,6 +27,8 @@
 Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
 
 (Pub. L. 106–457, title I, §109, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, §5017(g), Nov. 8, 2007, 121 Stat. 1198; Pub. L. 114–322, title IV, §5013(b), Dec. 16, 2016, 130 Stat. 1903.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

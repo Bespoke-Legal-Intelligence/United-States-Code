@@ -8,7 +8,7 @@
 
 (3) The Director may require a certified copy of the original foreign application, specification, and drawings upon which it is based, a translation if not in the English language, and such other information as the Director considers necessary. Any such certification shall be made by the foreign intellectual property authority in which the foreign application was filed and show the date of the application and of the filing of the specification and other papers.
 
-(c) In like manner and subject to the same conditions and requirements, the right provided in this section may be based upon a subsequent regularly filed application in the same foreign country instead of the first filed foreign application, provided that any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
+(c) In like manner and subject to the same conditions and requirements, the right providedin this section may be based upon a subsequent regularly filed application in the same foreign country instead of the first filed foreign application, provided that any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
 
 (d) Applications for inventors' certificates filed in a foreign country in which applicants have a right to apply, at their discretion, either for a patent or for an inventor's certificate shall be treated in this country in the same manner and have the same effect for purpose of the right of priority under this section as applications for patents, subject to the same conditions and requirements of this section as apply to applications for patents, provided such applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of such filing.
 
@@ -26,7 +26,7 @@
 
 &emsp;(2) the term "UPOV Contracting Party" means a member of the International Convention for the Protection of New Varieties of Plants.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V,§532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, §532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
 
 #### Historical and Revision Notes
 
@@ -36,13 +36,15 @@ The first paragraph is the same as the present law with changes in language. The
 
 The second paragraph is new, making an additional procedural requirement for obtaining the right of priority. Copies of the foreign papers on which the right of priority is based are required so that the record of the United States patent will be complete in this country.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Stockholm Revision of the Paris Convention, referred to in subsec. (d), means the Convention revising the Convention of the Union of Paris of Mar. 20, 1883, as revised, for the protection of industrial property, done at Stockholm July 14, 1967, entered into force for the United States Sept. 5, 1970, with the exception of Articles 1 through 12 which entered into force for the United States Aug. 25, 1973. See 21 UST 1583; 24 UST 2140; TIAS 6293, 7727.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–211, §201(c)(1)(A), substituted "12" for "twelve" and inserted at end "The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional."
+<b>2012</b>—Subsec. (a). Pub. L. 112–211, §201(c)(1)(A), substituted "12" for "twelve" and inserted at end "The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period setforth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional."
 
 Subsec. (b)(2). Pub. L. 112–211, §202(b)(2), substituted "including the requirement for payment of the fee specified in section 41(a)(7)" for "including the payment of a surcharge".
 
@@ -80,7 +82,9 @@ Subsecs. (f), (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(2)\], adde
 
 <b>1972</b>—Pub. L. 92–358 inserted last paragraph providing that under certain circumstances, applications for inventors' certificate filed in a foreign country would be given the same priority as applications for patents, if the applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of filing.
 
-<b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed priorto such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
+<b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -98,7 +102,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 Amendment by section 1000(a)(9) \[title IV, §4503(a), (b)(2)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4801(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589, provided that: "The amendments made by this section \[amending this section and section 111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\] and shall apply to any provisional application filed on or after June 8, 1995, except that the amendments made by subsections (b) and (c) \[amending this section\] shall have no effect with respect to any patent which is the subject of litigation in an action commenced before such date of enactment."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4801(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589, provided that:"The amendments made by this section \[amending this section and section 111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\] and shall apply to any provisional application filed on or after June 8, 1995, except that the amendments made by subsections (b) and (c) \[amending this section\] shall have no effect with respect to any patent which is the subject of litigation in an action commenced before such date of enactment."
 
 #### Effective Date of 1994 Amendment
 

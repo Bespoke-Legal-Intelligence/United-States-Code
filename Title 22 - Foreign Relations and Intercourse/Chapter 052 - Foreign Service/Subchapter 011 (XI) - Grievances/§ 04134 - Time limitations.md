@@ -2,7 +2,7 @@
 
 #### (a) Limitations period
 
-A grievance is forever barred under this subchapter unless it is filed with the Department not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
+A grievance is forever barred under this subchapter unless it is filed with the Departmentnot later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
 
 #### (b) Failure of Department to resolve grievance; grievance filed with Foreign Service Grievance Board
 
@@ -20,6 +20,8 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 (Pub. L. 96–465, title I, §1104, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 102–138, title I, §153(b), Oct. 28, 1991, 105 Stat. 673; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §317, Sept. 30, 2002, 116 Stat. 1379.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–228 substituted "but in no case more than three years" for "but in no case less than two years".
@@ -31,6 +33,8 @@ Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §330(b)\],
 <b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(b)(1), inserted "under this subchapter" before "unless".
 
 Subsec. (c). Pub. L. 102–138, §153(b)(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

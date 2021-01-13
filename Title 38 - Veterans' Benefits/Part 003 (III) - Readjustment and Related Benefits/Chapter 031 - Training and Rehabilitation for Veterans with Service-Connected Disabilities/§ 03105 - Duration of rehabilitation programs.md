@@ -2,7 +2,7 @@
 
 (a) In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to six months each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
 
-(b)(1) Except as provided in paragraph (2) and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
+(b)(1) Except as provided in paragraph (2) <sup>1</sup> and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
 
 (2) The period of a vocational rehabilitation program pursued by a veteran under section 3102(b) of this title following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed 12 months.
 
@@ -30,9 +30,11 @@
 
 (2) The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10.
 
-(3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed toreceive credit or with respect to which the veteran lost training time, as determined by the Secretary.
+(3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–407, title I, §101, Dec. 31, 2018, 132 Stat. 5369.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -64,6 +66,8 @@ Subsec. (b). Pub. L. 99–576, §333(b)(3)(B), inserted "current" after "of the"
 
 Subsec. (d). Pub. L. 99–576, §333(b)(3)(C), inserted "currently" after "goal".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–56 effective June 1, 2012, and applicable with respect to rehabilitation programs beginning after such date, see section 233(c) of Pub. L. 112–56, set out as a note under section 3102 of this title.
@@ -75,4 +79,20 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+
+#### Extension of Time Limitations for Use of Entitlement: Duration of Program
+
+Pub. L. 116–140, §6(c)(2), Apr. 28, 2020, 134 Stat. 633, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3105(b) of such title as if it were amended—
+
+&emsp;"(A) in paragraph (1), by striking 'paragraph (2)' and inserting 'paragraphs (2) and (3)'; and
+
+&emsp;"(B) by adding at the end the following new paragraph:
+
+" '(3)(A) In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary.
+
+" '(B) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period of the veteran's vocational rehabilitation program for a period equal to the number of months that the veteran was so prevented from participating in the vocational rehabilitation program, as determined by the Secretary.'."
+
+\[The term "covered period" as used in section 6(c)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+
+<i><sup>1</sup></i><i> See Extension of Time Limitations for Use of Entitlement: Duration of Program note below.</i>
 

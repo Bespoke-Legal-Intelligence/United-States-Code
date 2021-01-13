@@ -20,9 +20,13 @@ For purposes of this chapter—
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 109–2, §4(b)(2), Feb. 18, 2005, 119 Stat. 12.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–2 substituted "(e)" for "(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

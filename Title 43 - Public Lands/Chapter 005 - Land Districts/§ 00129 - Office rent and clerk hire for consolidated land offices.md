@@ -1,8 +1,10 @@
 ### §129. Office rent and clerk hire for consolidated land offices
 
-The Secretary of the Interior is authorized to make a reasonable allowance for office rent for each consolidated land office; and when satisfied of the necessity therefor, to approve the employment of one or more clerks, at a reasonable per diem compensation, for such time as such clerical force is absolutely required to keep up the current public business, which clerical force shall be paid out of the surplus fees authorized to be charged by section 84 <sup>1</sup> of this title, if any, and if no surplus exists, then out of the appropriation for incidental expenses of district land offices; but no clerk shall be so paid unless his employment has been first sanctioned by the Secretary of the Interior.
+The Secretary of the Interior is authorized to make a reasonable allowance for office rent for each consolidated land office; and when satisfied of the necessity therefor, to approve the employment of one or more clerks, at a reasonable per diem compensation, for such time as such clerical force is absolutely required to keep up the current public business, which clerical force shall be paid out of the surplus fees authorizedto be charged by section 84 <sup>1</sup> of this title, if any, and if no surplus exists, then out of the appropriation for incidental expenses of district land offices; but no clerk shall be so paid unless his employment has been first sanctioned by the Secretary of the Interior.
 
 (R.S. §2255; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ Section 84 of this title, referred to in text, was repealed by Pub. L. 86–649,
 #### Codification
 
 R.S. §2255 derived from act Feb. 18, 1861, ch. 38, §2, 12 Stat. 131.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

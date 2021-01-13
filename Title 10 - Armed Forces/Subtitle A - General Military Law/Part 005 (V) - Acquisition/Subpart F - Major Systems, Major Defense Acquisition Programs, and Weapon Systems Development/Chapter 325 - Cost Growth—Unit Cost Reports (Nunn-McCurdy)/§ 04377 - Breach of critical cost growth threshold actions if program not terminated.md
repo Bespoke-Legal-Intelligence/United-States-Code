@@ -1,0 +1,126 @@
+### §4377. Breach of critical cost growth threshold: actions if program not terminated
+
+(a)
+
+Actions if Program Not Terminated.—If the Secretary elects not to terminate a major defense acquisition program pursuant to subsection (b) of section 4376 of this title, the Secretary shall—
+
+&emsp;(1) restructure the program in a manner that addresses the root cause or causes of the critical cost growth, as identified pursuant to subsection (a) of that section, and ensures that the program has an appropriate management structure as set forth in the certification submitted pursuant to subsection (b)(2)(E) of that section;
+
+&emsp;(2) rescind the most recent Milestone approval for the program and withdraw any associated certification under section 4251 or 4252 of this title;
+
+&emsp;(3) require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
+
+&emsp;(4) include in the report specified in subsection (b) a description of all funding changes made as a result of the growth in cost of the program, including reductions made in funding for other programs to accommodate such cost growth; and
+
+&emsp;(5) conduct regular reviews of the program in accordance with the requirements of section 205 of the Weapon Systems Acquisition Reform Act of 2009.
+
+(b)
+
+Identification of Report for Description of Funding Changes.—For purposes of subsection (a)(4), the report specified in this subsection is the first Selected Acquisition Report for the program submitted pursuant to section 4352 of this title after the President submits a budget pursuant to section 1105 of title 31, in the calendar year following the year in which the program was restructured.
+
+(c)
+
+Inapplicability of Certain Subsection (a) Requirements.—
+
+&emsp;(1)
+
+Conditions for inapplicability.—The requirements of paragraphs (2), (3), and (5) of subsection (a) shall not apply to a program or subprogram if—
+
+&emsp;&emsp;(A) the Milestone Decision Authority determines in writing, on the basis of a cost assessment and root cause analysis conducted pursuant to section 4376(a) of this title, that—
+
+&emsp;&emsp;&emsp;(i) but for a change in the quantity of items to be purchased under the program or subprogram, the program acquisition unit cost or procurement unit cost for the program or subprogram would not have increased by a percentage equal to or greater than the cost growth thresholds for the program or subprogram set forth in paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) the change in quantity of items described in clause (i) was not made as a result of an increase in program cost, a delay in the program, or a problem meeting program requirements;
+
+&emsp;&emsp;(B) the Secretary determines in writing that the cost to the Department of Defense of complying with such requirements is likely to exceed the benefits to the Department of complying with such requirements; and
+
+&emsp;&emsp;(C) the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsections (d) and (e) of section 4375 of this title is required to be submitted under section 4356 of this title—
+
+&emsp;&emsp;&emsp;(i) a copy of the written determination under subparagraph (A) and an explanation of the basis for the determination; and
+
+&emsp;&emsp;&emsp;(ii) a copy of the written determination under subparagraph (B) and an explanation of the basis for the determination.
+
+&emsp;(2)
+
+Cost growth thresholds.—The cost growth thresholds specified in this paragraph are as follows:
+
+&emsp;&emsp;(A) In the case of a major defense acquisition program or designated major defense subprogram, a percentage increase in the program acquisition unit cost for the program or subprogram of—
+
+&emsp;&emsp;&emsp;(i) 5 percent over the program acquisition unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+&emsp;&emsp;&emsp;(ii) 10 percent over the program acquisition unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+&emsp;&emsp;(B) In the case of a major defense acquisition program or designated major defense subprogram that is a procurement program, a percentage increase in the procurement unit cost for the program or subprogram of—
+
+&emsp;&emsp;&emsp;(i) 5 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+&emsp;&emsp;&emsp;(ii) 10 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a), (k), Jan. 1, 2021, 134 Stat. 4265, 4270.)
+
+#### Codification
+
+The text of subsec. (c) of section 2433a of this title, which was transferred to this section and redesignated as subsec. (a) by Pub. L. 116–283, §1850(k)(1), was based on Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503; Pub. L. 112–239, div. A, title VIII, §813, Jan. 2, 2013, 126 Stat. 1829.
+
+#### Prior Provisions
+
+Prior sections 4381 to 4387 were repealed by Pub. L. 88–647, title III, §301(10), Oct. 13, 1964, 78 Stat. 1072.
+
+Section 4381, act Aug. 10, 1956, ch. 1041, 70A Stat. 246, defined "advanced training" for purposes of chapter 405.
+
+Section 4382, act Aug. 10, 1956, ch. 1041, 70A Stat. 246, provided for the establishment and composition of the Reserve Officers' Training Corps.
+
+Section 4383, act Aug. 10, 1956, ch. 1041, 70A Stat. 247, related to admission and training of medical, dental, pharmacy, and veterinary students.
+
+Section 4384, act Aug. 10, 1956, ch. 1041, 70A Stat. 247; Pub. L. 85–861, §1(104), Sept. 2, 1958, 72 Stat. 1489, set out courses of training.
+
+Section 4385, act Aug. 10, 1956, ch. 1041, 70A Stat. 247, authorized the operation and maintenance of training camps.
+
+Section 4386, act Aug. 10, 1956, ch. 1041, 70A Stat. 248, provided for supplies and uniforms.
+
+Section 4387, act Aug. 10, 1956, ch. 1041, 70A Stat. 248, provided for advanced training and compensation.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1850(k)(2), redesignated pars. (2) and (3) of subsec. (a) as subsecs. (b) and (c), respectively.
+
+Pub. L. 116–283, §1850(k)(1), transferred subsec. (c) of section 2433a of this title to this section and redesignated it as subsec. (a).
+
+Subsec. (a). Pub. L. 116–283, §1850(k)(3)(A)–(C), struck out par. (1) designation before "If the Secretary", inserted "of section 4376 of this title" after "subsection (b)" in introductory provisions, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively.
+
+Subsec. (a)(1). Pub. L. 116–283, §1850(k)(3)(D), inserted "of that section" after "subsection (a)" and "subsection (b)(2)(E)".
+
+Subsec. (a)(2). Pub. L. 116–283, §1850(k)(3)(E), substituted "section 4251 or 4252" for "section 2366a or 2366b".
+
+Subsec. (a)(4). Pub. L. 116–283, §1850(k)(3)(F), substituted "subsection (b)" for "paragraph (2)".
+
+Subsec. (b). Pub. L. 116–283, §1850(k)(4), inserted heading and substituted "subsection (a)(4)" for "paragraph (1)(D)", "in this subsection" for "in this paragraph", and "section 4352" for "section 2432".
+
+Subsec. (c). Pub. L. 116–283, §1850(k)(5), inserted subsec. heading, redesignated subpars. (A) and (B) as pars.\(1) and (2), respectively, inserted par. headings, and substituted "The requirements of paragraphs (2), (3), and (5) of subsection (a)" for "The requirements of subparagraphs (B), (C), and (E) of paragraph (1)" in introductory provisions of par. (1).
+
+Subsec. (c)(1). Pub. L. 116–283, §1850(k)(6)(A), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+
+Subsec. (c)(1)(A). Pub. L. 116–283, §1850(k)(6)(C)(i), substituted "pursuant to section 4376(a) of this title" for "pursuant to subsection (a)" in introductory provisions.
+
+Pub. L. 116–283, §1850(k)(6)(B), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
+
+Subsec. (c)(1)(A)(i). Pub. L. 116–283, §1850(k)(6)(C)(ii), substituted "paragraph (2)" for "subparagraph (B)".
+
+Subsec. (c)(1)(A)(ii). Pub. L. 116–283, §1850(k)(6)(C)(iii), substituted "clause (i)" for "subclause (I)".
+
+Subsec. (c)(1)(C). Pub. L. 116–283, §1850(k)(6)(D)(i), substituted "subsections (d) and (e) of section 4375" for "section 2433(g)" and "section 4356" for "section 2432(f)" in introductory provisions.
+
+Pub. L. 116–283, §1850(k)(6)(B), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
+
+Subsec. (c)(1)(C)(i). Pub. L. 116–283, §1850(k)(6)(D)(ii), substituted "subparagraph (A)" for "clause (i)".
+
+Subsec. (c)(1)(C)(ii). Pub. L. 116–283, §1850(k)(6)(D)(iii), substituted "subparagraph (B)" for "clause (ii)".
+
+Subsec. (c)(2). Pub. L. 116–283, §1850(k)(7)(A), (B), substituted "this paragraph" for "this subparagraph" in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (c)(2)(A), (B). Pub. L. 116–283, §1850(k)(7)(C), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+

@@ -18,9 +18,13 @@ Data on Length of Review.—The Office shall make available to the public data d
 
 (Added and amended Pub. L. 112–29, §§6(d), 20(j), Sept. 16, 2011, 125 Stat. 310, 335.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–29, §20(j), struck out "of this title" after "252".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -14,13 +14,15 @@ Section consolidates section 765 with provisions of sections 931(a) and 932, all
 
 Provisions of section 765 of title 28, U.S.C., 1940 ed., that when the findings of fact and the law applicable thereto have been filed in any case as provided in "section 763" \[764\] of title 28, U.S.C., 1940 ed., and the judgment or decree is adverse to the Government, it shall be the duty of the district attorney to transmit to the Attorney General of the United States certified copies of all the papers filed in the cause, with a transcript of the testimony taken, the written findings of the court, and his written opinion as to the same, that, whereupon, the Attorney General shall determine and direct whether an appeal shall be taken or not, and that, when so directed, the district attorney shall cause an appeal to be perfected in accordance with the terms of the statutes and rules of practice governing the same were omitted as unnecessary and covered by section 507 of this title which provides for supervision of United States attorneys by the Attorney General.
 
-Words of section 765 of title 28, U.S.C., 1940 ed., "Until the time when an appropriation is made for the payment of the judgment or decree" were omitted and words "up to, but not exceeding, thirty days after the date of approval of any appropriation act providing for payment of the judgment" were substituted. Substituted words clarify meaning and are in accord with congressional procedure in annual deficiency appropriation acts for payment of judgments against the United States. The substituted words will obviate necessity of repeating such provisions in appropriation acts.
+Words of section 765 of title 28, U.S.C., 1940 ed., "Until the time when an appropriation is made for the payment of the judgment or decree" were omitted and words "up to, but not exceeding, thirty days after the date of approval of any appropriation act providing forpayment of the judgment" were substituted. Substituted words clarify meaning and are in accord with congressional procedure in annual deficiency appropriation acts for payment of judgments against the United States. The substituted words will obviate necessity of repeating such provisions in appropriation acts.
 
 Changes were made in phraseology.
 
 #### 1949 Act
 
 This section amends section 2411 of title 28, U.S.C., by restoring the provisions of section 177 of the former Judicial Code for the payment of interest on tax refunds.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal
 <b>1975</b>—Subsec. (a). Pub. L. 93–625 substituted "an annual rate established under section 6621 of the Internal Revenue Code of 1954" for "the rate of 6 per centum per annum".
 
 <b>1949</b>—Act May 24, 1949, restored provisions relating to payment of interest on tax refunds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

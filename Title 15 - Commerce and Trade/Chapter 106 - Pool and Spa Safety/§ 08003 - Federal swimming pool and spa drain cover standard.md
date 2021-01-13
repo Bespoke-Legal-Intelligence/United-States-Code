@@ -72,7 +72,7 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 #### References in Text
 
-The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207,which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 #### Amendments
 

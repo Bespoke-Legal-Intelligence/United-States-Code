@@ -20,7 +20,7 @@ Amendment by Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, s
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relatingto existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
 
 #### Effective Date of 1988 Amendment
 

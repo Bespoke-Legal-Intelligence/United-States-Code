@@ -1,12 +1,12 @@
 ### §8714d. Option to receive "living benefits"
 
-(a) For the purpose of this section, an individual shall be considered to be "terminally ill" if such individual has a medical prognosis that such individual's life expectancy is 9 months or less.
+(a) For the purpose of this section, an individual shall be considered to be "terminally ill" ifsuch individual has a medical prognosis that such individual's life expectancy is 9 months or less.
 
 (b) The Office of Personnel Management shall prescribe regulations under which any individual covered by group life insurance under section 8704(a) may, if such individual is terminally ill, elect to receive a lump-sum payment equal to—
 
 &emsp;(1) the full amount of insurance under section 8704(a) (or portion thereof designated for this purpose under subsection (d)(4)) which would otherwise be payable under this chapter (on the establishment of a valid claim)—
 
-&emsp;&emsp;(A) computed based on a date determined under regulations of the Office (but not laterthan 30 days after the date on which the individual's application for benefits under this section is approved or deemed approved under subsection (d)(3)); and
+&emsp;&emsp;(A) computed based on a date determined under regulations of the Office (but not later than 30 days after the date on which the individual's application for benefits under this section is approved or deemed approved under subsection (d)(3)); and
 
 &emsp;&emsp;(B) assuming continued coverage under this chapter at that time;
 
@@ -43,6 +43,8 @@
 (6) The regulations shall include provisions to address the question of how to apply section 8706(b)(3)(B) in the case of an electing individual who has attained 65 years of age.
 
 (Added Pub. L. 103–409, §2(a), Oct. 25, 1994, 108 Stat. 4230.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -4,7 +4,7 @@
 
 The Secretary of the Interior is authorized to conduct and promote the coordination and acceleration of, research, studies, surveys, experiments, demonstration projects, and training relating to—
 
-&emsp;(1) the development and application of coal mining technologies which provide alternatives to surface disturbance and which maximize the recovery of available coal resources, including the improvement of present underground mining methods, methods for the return of underground mining wastes to the mine void, methods for the underground mining of thick coal seams and very deep seams; and
+&emsp;(1) the development and application of coal mining technologies which provide alternatives to surface disturbance and whichmaximize the recovery of available coal resources, including the improvement of present underground mining methods, methods for the return of underground mining wastes to the mine void, methods for the underground mining of thick coal seams and very deep seams; and
 
 &emsp;(2) safety and health in the application of such technologies, methods, and means.
 
@@ -26,9 +26,13 @@ Subject to the patent provisions of section 306(d) of this Act,<sup>1</sup> all 
 
 (Pub. L. 95–87, title IX, §908, Aug. 3, 1977, 91 Stat. 531; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 306(d) of this Act, referred to in subsec. (e), was classified to section 1226(d) of this title and was omitted from the Code pursuant to the replacement of subchapter III (§1221 et seq.) of this chapter by Pub. L. 98–409. See section 1226(c) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

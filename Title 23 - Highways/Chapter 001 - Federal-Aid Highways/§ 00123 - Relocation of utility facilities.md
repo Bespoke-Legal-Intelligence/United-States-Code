@@ -8,11 +8,15 @@
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 900; Pub. L. 100–17, title I, §133(b)(8), Apr. 2, 1987, 101 Stat. 171; Pub. L. 112–141, div. A, title I, §1104(c)(3), July 6, 2012, 126 Stat. 427.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted "on any Federal-aid highway" for "on any Federal-aid system".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–17 substituted "any Federal-aid system," for "the Federal-aid primary or secondary systems or on the Interstate System, including extensions thereof within urban areas,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -20,5 +24,5 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Study of Procurement Practices and Project Delivery
 
-Pub. L. 105–178, title I, §1213(e), June 9, 1998, 112 Stat. 201, directed the Comptroller General to conduct a study to assess the impact that a utility company's failure to relocate its facilities in a timely manner hason the delivery and cost of Federal-aid highway and bridge projects, including an assessment of methods States use to mitigate such delays, and directed the Comptroller General to transmit to Congress a report on the results of the study with any appropriate recommendations not later than 1 year after June 9, 1998.
+Pub. L. 105–178, title I, §1213(e), June 9, 1998, 112 Stat. 201, directed the Comptroller General to conduct a study to assess the impact that a utility company's failure to relocate its facilities in a timely manner has on the delivery and cost of Federal-aid highway and bridge projects, including an assessment of methods States use to mitigate such delays, and directed the Comptroller General to transmit to Congress a report on the results of the study with any appropriate recommendations not later than 1 year after June 9, 1998.
 

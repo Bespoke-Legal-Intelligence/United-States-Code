@@ -8,7 +8,7 @@
 
 (2) The board shall include in its record of decision in any mixed case a statement of the board's exclusive jurisdiction under this subsection and the basis for such exclusive jurisdiction.
 
-(3) For purposes of paragraph (2), a mixed case is a case that includes both a major adverse action arising out of a question of professional conduct or competence and an adverse action which is not a major adverse action or whichdoes not arise out of a question of professional conduct or competence.
+(3) For purposes of paragraph (2), a mixed case is a case that includes both a major adverse action arising out of a question of professional conduct or competence and an adverse action which is not a major adverse action or which does not arise out of a question of professional conduct or competence.
 
 (b)(1) In any case in which charges are brought against a section 7401(1) employee which arises out of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled, within the aggregate time period specified in paragraph (5)(A), to the following:
 
@@ -69,6 +69,8 @@
 &emsp;(C) unsupported by substantial evidence.
 
 (Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 203; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, §208(b), June 23, 2017, 131 Stat. 878; Pub. L. 116–61, §6(7), Sept. 30, 2019, 133 Stat. 1117.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

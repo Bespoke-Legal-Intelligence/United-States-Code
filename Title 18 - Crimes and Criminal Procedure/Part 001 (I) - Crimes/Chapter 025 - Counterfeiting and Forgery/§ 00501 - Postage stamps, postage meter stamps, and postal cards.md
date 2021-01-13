@@ -22,6 +22,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Minor changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in last par.
@@ -29,6 +31,8 @@ Minor changes of phraseology were made.
 <b>1970</b>—Pub. L. 91–448 inserted references to the Postal Service and to postage meter stamps. Pub. L. 91–448, §1(b), repealed section 6(j)(6) of the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719, by which the references to the Postal Service had been inserted earlier.
 
 Pub. L. 91–375 inserted "or by the Postal Service," after "Post Office Department," and substituted "the Department or Postal Service" for "said department" in fourth par. and struck out the comma after "stamped envelope" and "to defraud" and inserted "or the Postal Service" after "Post Office Department" in fifth par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

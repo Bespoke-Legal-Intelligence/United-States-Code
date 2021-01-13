@@ -60,7 +60,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 #### (D) Import restrictions
 
-&emsp;&emsp;Restrictions shall be imposed on the importation into the United States of articles (which may include petroleum or any petroleum product) that are the growth, product, or manufacture of that country.
+&emsp;&emsp;Restrictions shall be imposed on the importation into the United States of articles\(which may include petroleum or any petroleum product) that are the growth, product, or manufacture of that country.
 
 #### (E) Diplomatic relations
 
@@ -108,7 +108,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 #### (2) Report
 
-&emsp;In the event that the President decides to exercise the waiver authority provided in paragraph (1) with respect to a country, the President's notification to the Congress under such paragraph shall include a report fully articulating the rationale and circumstances which led the President to exercise that waiver authority, including a description of the steps which the government of that country has taken to satisfy the conditions set forth in paragraphs (1) through (4) of subsection (c).
+&emsp;In the event that the President decides to exercise the waiver authority provided in paragraph (1) with respect to a country, the President's notification to the Congress under such paragraph shall include a report fully articulating the rationale and circumstanceswhich led the President to exercise that waiver authority, including a description of the steps which the government of that country has taken to satisfy the conditions set forth in paragraphs (1) through (4) of subsection (c).
 
 #### (e) Contract sanctity
 
@@ -124,9 +124,11 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 (Pub. L. 102–182, title III, §307, Dec. 4, 1991, 105 Stat. 1254.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -137,6 +139,8 @@ Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b
 #### Codification
 
 In subsec. (b)(2)(F)(iv), "section 40102(a) of title 49" substituted for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

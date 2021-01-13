@@ -242,11 +242,11 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (4) Applicability to Puerto Rico
 
-&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of PuertoRico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of Puerto Rico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (o) Procurement contracts
 
-In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
+In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for usein developing contract specifications for acquiring such good or service.
 
 #### (p) Price for a paid lunch
 
@@ -338,7 +338,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (A) In general
 
-&emsp;&emsp;The proportion of total school food service revenue provided by the sale of nonprogram foods to the total revenue of the school food service account shall be equal to or greater than the proportion of total food costs associated with obtaining nonprogram foods to the total costs associated with obtaining program and nonprogram foods from the account.
+&emsp;&emsp;The proportion of total school food service revenue provided by the sale of nonprogramfoods to the total revenue of the school food service account shall be equal to or greater than the proportion of total food costs associated with obtaining nonprogram foods to the total costs associated with obtaining program and nonprogram foods from the account.
 
 #### (B) Accrual
 
@@ -550,7 +550,7 @@ Subsec. (d)(7). Pub. L. 95–166, §19(c), added par. (7).
 
 <b>1975</b>—Subsec. (d)(1). Pub. L. 94–105, §9(b), inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including,but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
+Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including, but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
 
 Subsec. (e). Pub. L. 94–105, §9(d), added subsec. (e).
 
@@ -558,7 +558,7 @@ Subsec. (e). Pub. L. 94–105, §9(d), added subsec. (e).
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–823 struck out requirement of just and equitable distribution of funds in States maintaining separate schools for minority and majority races.
 
-Subsec. (d). Pub. L. 87–823 redefined "State" in par. (1) to recognize Hawaiian and Alaskan statehood and to include American Samoa; "State educational agency" in par. (2) to exclude an exception applicable to the District of Columbia and language which was effective by its terms only through June 30, 1948; "nonprofit private school" in par. (3), substituting "section 501(c)(3) of title 26" for "section 101(6) of title 26"; and "nonfood assistance" in par. (4), substituting "used by schools" for "used on school premises"; and added pars. (5) to (7).
+Subsec. (d). Pub. L. 87–823 redefined "State" in par. (1) to recognize Hawaiian and Alaskan statehood and to include American Samoa; "State educational agency" in par. (2) to exclude an exception applicable to the District of Columbia and language which was effective by its terms only through June 30, 1948; "nonprofit private school" in par. (3), substituting "section 501(c)(3) of title 26" for "section 101(6) of title 26"; and "nonfoodassistance" in par. (4), substituting "used by schools" for "used on school premises"; and added pars. (5) to (7).
 
 Pub. L. 87–688 inserted "American Samoa," after "Guam".
 
@@ -624,6 +624,108 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under section 1753 of this title.
 
+#### Waiver Exception for School Closures Due to COVID–19
+
+Pub. L. 116–127, div. B, title I, §2102, Mar. 18, 2020, 134 Stat. 184, provided that:
+
+"(a)
+
+In General.—The requirements under section 12(l)(1)(A)(iii) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(1)(A)(iii)) shall not apply to a qualified COVID–19 waiver.
+
+"(b)
+
+Allowable Increase in Federal Costs.—Notwithstanding paragraph (4) of section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)), the Secretary of Agriculture may grant a qualified COVID–19 waiver that increases Federal costs.
+
+"(c)
+
+Termination After Periodic Review.—The requirements under section 12(l)(5) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(5)) shall not apply to a qualified COVID–19 waiver.
+
+"(d)
+
+Qualified COVID–19
+
+Waiver.—In this section, the term 'qualified COVID–19 waiver' means a waiver—
+
+&emsp;"(1) requested by a State (as defined in section 12(d)(8) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)(8))) or eligible service provider under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)); and
+
+&emsp;"(2) to waive any requirement under such Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or any regulation issued under either such Act, for purposes of providing meals and meal supplements under such Acts during a school closure due to COVID–19."
+
+#### National School Lunch Program Requirement Waivers Addressing COVID–19
+
+Pub. L. 116–127, div. B, title II, §2202, Mar. 18, 2020, 134 Stat. 185, as amended by Pub. L. 116–159, div. D, title VI, §4602(a), Oct. 1, 2020, 134 Stat. 745, provided that:
+
+"(a)
+
+Nationwide Waiver.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of law, the Secretary may establish a waiver for all States under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)), for purposes of—
+
+&emsp;&emsp;"(A) providing meals and meal supplements under a qualified program; and
+
+&emsp;&emsp;"(B) carrying out subparagraph (A) with appropriate safety measures with respect to COVID–19, as determined by the Secretary.
+
+&emsp;"(2)
+
+State election.—A waiver established under paragraph (1) shall—
+
+&emsp;&emsp;"(A) notwithstanding paragraph (2) of section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)), apply automatically to any State that elects to be subject to the waiver without further application; and
+
+&emsp;&emsp;"(B) not be subject to the requirements under paragraph (3) of such section.
+
+"(b)
+
+Child and Adult Care Food Program Waiver.—Notwithstanding any other provision of law, the Secretary may grant a waiver under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) to allow non-congregate feeding under achild and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) if such waiver is for the purposes of—
+
+&emsp;"(1) providing meals and meal supplements under such child and adult care food program; and
+
+&emsp;"(2) carrying out paragraph (1) with appropriate safety measures with respect to COVID–19, as determined by the Secretary.
+
+"(c)
+
+Meal Pattern Waiver.—Notwithstanding paragraph (4)(A) of section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) the Secretary may grant a waiver under such section that relates to the nutritional content of meals served if the Secretary determines that—
+
+&emsp;"(1) such waiver is necessary to provide meals and meal supplements under a qualified program; and
+
+&emsp;"(2) there is a supply chain disruption with respect to foods served under such a qualified program and such disruption is due to COVID–19.
+
+"(d)
+
+Reports.—Each State that receives a waiver under subsection (a), (b), or (c), shall, not later than 1 year after the date such State received such waiver, submit a report to the Secretary that includes the following:
+
+&emsp;"(1) A summary of the use of such waiver by the State and eligible service providers.
+
+&emsp;"(2) A description of whether such waiver resulted in improved services to children.
+
+"(e)
+
+Sunset.—The authority of the Secretary to establish or grant a waiver under this section shall expire on September 30, 2021.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Qualified program.—The term 'qualified program' means the following:
+
+&emsp;&emsp;"(A) The school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+
+&emsp;&emsp;"(B) The school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+
+&emsp;&emsp;"(C) The child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766).
+
+&emsp;&emsp;"(D) The summer food service program for children under section 13 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761).
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
+
+&emsp;"(3)
+
+State.—The term 'State' has the meaning given such term in section 12(d)(8) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)(8))."
+
 #### Buy American Requirements
 
 Pub. L. 115–334, title IV, §4207, Dec. 20, 2018, 132 Stat. 4666, provided that:
@@ -662,5 +764,5 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Study of Cost Accounting Requirements
 
-Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing anyState to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

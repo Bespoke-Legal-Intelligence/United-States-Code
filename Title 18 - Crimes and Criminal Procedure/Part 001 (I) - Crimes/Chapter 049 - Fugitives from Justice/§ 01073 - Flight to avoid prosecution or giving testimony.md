@@ -1,6 +1,6 @@
 ### §1073. Flight to avoid prosecution or giving testimony
 
-Whoever moves or travels in interstate or foreign commerce with intent either (1) to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which he flees, for a crime, or an attempt to commit a crime, punishable by death or which is a felony under the laws of the place from which the fugitive flees, or (2) to avoid giving testimony in any criminal proceedings in such place in which the commission of an offense punishable by death or which is a felony under the laws of such place, is charged, or (3) to avoid service of, or contempt proceedings for alleged disobedience of, lawful process requiring attendance and the giving of testimony or the production of documentary evidence before an agency of aState empowered by the law of such State to conduct investigations of alleged criminal activities, shall be fined under this title or imprisoned not more than five years, or both. For the purposes of clause (3) of this paragraph, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+Whoever moves or travels in interstate or foreign commerce with intent either (1) to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which he flees, for a crime, or an attempt to commit a crime, punishable by death or which is a felony under the laws of the place from which the fugitive flees, or (2) to avoid giving testimony in any criminal proceedings in such place in which the commission of an offense punishable by death or which is a felony under the laws of such place, is charged, or (3) to avoid service of, or contempt proceedings for alleged disobedience of, lawful process requiring attendance and the giving of testimony or the production of documentary evidence before an agency of a State empowered by the law of such State to conduct investigations of alleged criminal activities, shall be fined under this title or imprisoned not more than five years, or both. For the purposes of clause (3) of this paragraph, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 Violations of this section may be prosecuted only in the Federal judicial district in which the original crime was alleged to have been committed, or in which the person was held in custody or confinement, or in which an avoidance of service of process or a contempt referred to in clause (3) of the first paragraph of this section is alleged to have been committed, and only upon formal approval in writing by the Attorney General, the Deputy Attorney General, the Associate Attorney General, or an Assistant Attorney General of the United States, which function of approving prosecutions may not be delegated.
 
@@ -10,7 +10,7 @@ Violations of this section may be prosecuted only in the Federal judicial distri
 
 Based on title 18, U.S.C., 1940 ed., §408e (May 18, 1934, ch. 302, 48 Stat. 782; Aug. 2, 1946, ch. 735, 60 Stat. 789).
 
-Said section 408e was rewritten and the phrase "offenses as they are defined either at common law or by the laws of the place from which the fugitive flees" were inserted to remove the ambiguity discussed in the opinion of the Circuit Court of Appeals, Third Circuit, in <i>Brandenburg</i> v. <i>U.S</i>., decided September 6, 1944, not yet reported \[144 F2d 656\], reversing the conviction of the appellant. The court held that Congress intended the enumerated offenses to mean those as defined at common law. The effect of the rewritten section is to make the statute applicable whether the offense committed is one defined at common law or by the law of the state from which the fugitive flees.
+Said section 408e was rewritten and the phrase "offenses as they are defined either at common law or by the laws of the place from which the fugitive flees" were inserted to remove the ambiguity discussed in the opinion of the Circuit Court of Appeals, Third Circuit, in <i>Brandenburg</i> v. <i>U.S</i>., decided September 6, 1944, not yet reported \[144 F2d 656\], reversing the conviction of the appellant. The court held that Congress intendedthe enumerated offenses to mean those as defined at common law. The effect of the rewritten section is to make the statute applicable whether the offense committed is one defined at common law or by the law of the state from which the fugitive flees.
 
 The words "offense punishable by imprisonment in a penitentiary" were substituted for "felony" to make the statute uniformly applicable and to include crimes of the grade of felony even where, as in New Jersey, they are denominated as misdemeanor, high misdemeanor or otherwise.
 
@@ -19,6 +19,8 @@ Words "from any State, Territory, or possession of the United States or the Dist
 Words "upon conviction thereof" were deleted as surplusage since punishment cannot be imposed until a conviction is secured.
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Pub. L. 103–322, §330004(19), struck out "or which, in the case of New Jersey
 <b>1961</b>—Pub. L. 87–368 substituted "a crime, or an attempt to commit a crime, punishable by death or which is a felony under the laws of the place from which the fugitive flees, or which, in the case of New Jersey, is a high misdemeanor under the laws of said State" for "murder, kidnaping, burglary, robbery, mayhem, rape, assault with a dangerous weapon, arson punishable as a felony, or extortion accompanied by threats of violence, or attempt to commit any of the foregoing offenses as they are defined either at common law or by the laws of the place from which the fugitive flees", "death or which is a felony under the laws of such place, or which in the case of New Jersey, is a high misdemeanor under the laws of said State," for "imprisonment in a penitentiary", and required that prosecutions must be upon the formal written approval of the Attorney General or an Assistant Attorney General, which function may not be delegated.
 
 <b>1956</b>—Act Apr. 6, 1956, inserted ", arson punishable as a felony" after "assault with a dangerous weapon".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1956 Amendment
 

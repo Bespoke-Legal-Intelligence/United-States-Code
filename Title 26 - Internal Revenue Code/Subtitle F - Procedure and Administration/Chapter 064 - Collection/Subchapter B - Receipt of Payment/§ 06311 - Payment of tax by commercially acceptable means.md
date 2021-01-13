@@ -86,7 +86,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 #### Amendments
 
-<b>2019</b>—Subsec. (d)(2). Pub. L. 116–25 inserted at end "The preceding sentence shall not apply to the extentthat the Secretary ensures that any such fee or other consideration is fully recouped by the Secretary in the form of fees paid to the Secretary by persons paying taxes imposed under subtitle A with credit, debit, or charge cards pursuant to such contract. Notwithstanding the preceding sentence, the Secretary shall seek to minimize the amount of any fee or other consideration that the Secretary pays under any such contract."
+<b>2019</b>—Subsec. (d)(2). Pub. L. 116–25 inserted at end "The preceding sentence shall not apply to the extent that the Secretary ensures that any such fee or other consideration is fully recouped by the Secretary in the form of fees paid to the Secretary by persons paying taxes imposed under subtitle A with credit, debit, or charge cards pursuant to such contract. Notwithstanding the preceding sentence, the Secretary shall seek to minimize the amount of any fee or other consideration that the Secretary pays under any such contract."
 
 <b>2018</b>—Subsec. (d)(3)(D). Pub. L. 115–141 substituted "section 103(g)" for "section 103(f)" and "1602(g)" for "1602(f)".
 

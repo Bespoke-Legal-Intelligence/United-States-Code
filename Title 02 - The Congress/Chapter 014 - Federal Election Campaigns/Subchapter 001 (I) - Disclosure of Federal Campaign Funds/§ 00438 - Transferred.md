@@ -1,8 +1,12 @@
 ### §438. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 438 was editorially reclassified as section 30111 of Title 52, Voting and Elections.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Annual Reports for Calendar Years Beginning After Dec. 31, 1972
 

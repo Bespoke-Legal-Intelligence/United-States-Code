@@ -32,13 +32,13 @@ This section may be cited as the "HELP Commission Act".
 
 &emsp;(C) study ways to expand educational opportunities and investments in people, and assess infrastructure needs;
 
-&emsp;(D) analyze how the United States could place conditions on governments in countries receiving United States development assistance, in light of and notwithstanding the objectives of the Millennium Challenge Account;
+&emsp;(D) analyze how the United States could place conditions on governments in countriesreceiving United States development assistance, in light of and notwithstanding the objectives of the Millennium Challenge Account;
 
 &emsp;(E) analyze ways in which the United States can coordinate its development assistance programs with those of other donor countries and international organizations;
 
 &emsp;(F) analyze ways in which the safety of development assistance workers can be ensured, particularly in the midst of conflicts;
 
-&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantagesof such trade and whether such trade could be a more effective alternative to United States development assistance;
+&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantages of such trade and whether such trade could be a more effective alternative to United States development assistance;
 
 &emsp;(H) analyze ways in which the United States can strengthen the capacity of indigenous nongovernmental organizations to be more effective in grassroots development;
 
@@ -164,7 +164,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (2) The report required by this section shall identify—
 
-&emsp;(A) each country in which United States economic assistance has been most successful, asindicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were achieved; and
+&emsp;(A) each country in which United States economic assistance has been most successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were achieved; and
 
 &emsp;(B) each country in which United States economic assistance has been least successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were not achieved; and, for each such country, an explanation of why the assistance was not more successful and a specification of what the United States has done as a result.
 
@@ -196,6 +196,8 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (Pub. L. 108–199, div. B, title VI, §637, Jan. 23, 2004, 118 Stat. 101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -206,9 +208,13 @@ The Foreign Assistance Act of 1961, referred to in subsec. (h)(1), is Pub. L. 87
 
 Section was enacted as the HELP Commission Act, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004, and the Consolidated Appropriations Act, 2004, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Functions Implementing the HELP Commission Act
 

@@ -39,7 +39,7 @@
 
 &emsp;(B) the monthly educational assistance allowance otherwise payable for full-time enrollment in an educational institution.
 
-(2) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
+(2) <sup>1</sup> For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
 
 (3) In this section, the term "individual" means—
 
@@ -49,7 +49,9 @@
 
 > as the case may be.
 
-(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
+(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d),as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -75,7 +77,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3452(a)(1)" for "1652(a)(
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–237 substituted "$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training" for "computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course".
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column Vfrom $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column V from $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "section 2 of the Act of August 16, 1937 (popularly known as the 'National Apprenticeship Act') (29 U.S.C. 50a)" for "section 50a of title 29" in cl. (1), and inserted "of this title" after "34 and 35" in provisions following cl. (2).
 
@@ -85,13 +87,15 @@ Pub. L. 96–466, §203(3), increased monthly training assistance allowance of e
 
 <b>1977</b>—Subsec. (b)(1). Pub. L. 95–202 increased monthly training assistance allowance of eligible veterans in column II from $212, $159, $106, and $53 to $226, $169, $113, and $56; in column III from $238, $185, $132, and $79 to $254, $197, $141, and $84; in column IV from $260, $207, $154, and $101 to $277, $221, $164, and $108; in column V from $11, $11, $11, and $11 to $12, $12, $12, and $12, respectively.
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–502 increased monthly training assistance allowance of eligible veterans in column II from "$196", "$147", "$98", and "$49" to "$212", "$159", "$106", and "$53"; in column III from "$220", "$171", "$122", and "$73" to "$238", "$185", "$132", and "$79"; in column IV from "$240", "$191", "$142", and "$93" to "$260", "$207", "$154", and "$101"; and in column V from "$10", "$10", "$10", and "$10" to "$11", "$11", "$11", and "$11" respectively.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–502 increased monthly training assistance allowance of eligible veterans in column II from "$196", "$147", "$98", and "$49" to "$212", "$159", "$106", and "$53"; in column III from "$220", "$171", "$122", and "$73" to "$238", "$185", "$132", and "$79"; in column IV from "$240", "$191", "$142", and "$93" to "$260", "$207", "$154", and "$101"; and in column V from "$10", "$10", "$10", and "$10" to "$11", "$11", "$11", and "$11", respectively.
 
-<b>1975</b>—Subsec. (b)(1). Pub. L. 93–602 increased monthly training assistance allowance of eligible veterans in column II from "$189", "$142", "$95", and "$47" to "$196", "$147", "$98", and "$49"; in column III from "$212", "$164", "$117", "$70" to "$220", "$171", "$122", and "$73"; in column IV from "$232", "$184", "$137", and "$90" to "$240", "$191", "$142", and "$93"; and in column V from "$9", "$9", "$9", and "$9" to "$10", "$10", "$10", and "$10" respectively.
+<b>1975</b>—Subsec. (b)(1). Pub. L. 93–602 increased monthly training assistance allowance of eligible veterans in column II from "$189", "$142", "$95", and "$47" to "$196", "$147", "$98", and "$49"; in column III from "$212", "$164", "$117", "$70" to "$220", "$171", "$122", and "$73"; in column IV from "$232", "$184", "$137", and "$90" to "$240", "$191", "$142", and "$93"; and in column V from "$9", "$9", "$9", and "$9" to "$10", "$10", "$10", and "$10", respectively.
 
-<b>1974</b>—Subsec. (b)(1). Pub. L. 93–508, §104(2), increased monthly training assistance allowance of eligible veterans in column II from "$160, $120, $80, and $40" to "$189, $142, $95, and $47"; in column III from "$179, $139, $99, and $59" to "$212, $164, $117, and $70"; in column IV from "$196, $156, $116, and $76" to "$232, $184, $137, and $90"; and in column V from "$8, $8, $8, and $8" to "$9, $9, $9, and $9" respectively.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–508, §104(2), increased monthly training assistance allowance of eligible veterans in column II from "$160, $120, $80, and $40" to "$189, $142, $95, and $47"; in column III from "$179, $139, $99, and $59" to "$212, $164, $117, and $70"; in column IV from "$196, $156, $116, and $76" to "$232, $184, $137, and $90"; and in column V from "$8, $8, $8, and $8" to "$9, $9, $9, and $9", respectively.
 
 Subsec. (b)(2). Pub. L. 93–508, §104(3), substituted "computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course" for "(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -149,11 +153,49 @@ Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L
 
 Section effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, see section 601(a) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 3482 of this title.
 
+#### Apprenticeship or On-Job Training Requirements
+
+Pub. L. 116–315, title I, §1106, Jan. 5, 2021, 134 Stat. 4965, provided that:
+
+"(a)
+
+In General.—During the period described in subsection (b), subsection (e) of section 3687 of title 38, United States Code, shall be applied by substituting the following for paragraph (2):
+
+&emsp;" '(2)(A) Subject to subparagraphs (B) and (C), for any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
+
+&emsp;" '(B) In the case of an individual who is unemployed during any month, the 120-hour requirement under subparagraph (A) for that month shall be reduced proportionately to reflect the individual's period of unemployment, except that the amount of monthly training assistance otherwise payable to the individual under subsection (b)(3) shall not be reduced.
+
+&emsp;" '(C) Any period during which an individual is unemployed shall not—
+
+&emsp;&emsp;" '(i) be charged against any entitlement to educational assistance of the individual; or
+
+&emsp;&emsp;" '(ii) be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
+
+&emsp;" '(D) Any amount by which the entitlement of an individual is reduced under subparagraph (A) shall not—
+
+&emsp;&emsp;" '(i) be charged against any entitlement to educational assistance of the individual; or
+
+&emsp;&emsp;" '(ii) be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
+
+&emsp;" '(E) In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month.
+
+&emsp;" '(F) This paragraph applies to amounts described in section 3313(g)(3)(B)(iv) and section 3032(c)(2) of this title and section 16131(d)(2) of title 10.
+
+&emsp;" '(G) In this paragraph:
+
+&emsp;&emsp;" '(i) The term "unemployed" includes being furloughed or being scheduled to work zero hours.
+
+&emsp;&emsp;" '(ii) The term "fails to complete 120 hours of training" means, with respect to an individual, that during any month, the individual completes at least one hour, but fewer than 120 hours, of training, including in a case in which the individual is unemployed for part of, but not the whole, month.'
+
+"(b)
+
+Applicability Period.—The period described in this section is the period beginning on March 1, 2020, and ending on December 21, 2021."
+
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance
 
 Pub. L. 108–454, title I, §103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
 
-"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section3687 of title 38, United States Code, shall be applied as if—
+"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section 3687 of title 38, United States Code, shall be applied as if—
 
 &emsp;"(A) the reference to '$574 for the first six months' were a reference to '$650 for the first six months';
 
@@ -168,4 +210,6 @@ Pub. L. 108–454, title I, §103(c), Dec. 10, 2004, 118 Stat. 3601, provided th
 #### Termination of Eligibility Period
 
 Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540.
+
+<i><sup>1</sup></i><i> See Apprenticeship or On-Job Training Requirements note below.</i>
 

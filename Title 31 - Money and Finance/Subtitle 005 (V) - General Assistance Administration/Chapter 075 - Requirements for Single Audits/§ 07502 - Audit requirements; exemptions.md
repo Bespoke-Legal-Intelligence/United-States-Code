@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) perform tests of controls unless the controls are deemed to be ineffective; and
 
-&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws,regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
+&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws, regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
 
 (f)(1) Each Federal agency which provides Federal awards to a recipient shall—
 
@@ -74,11 +74,13 @@
 
 &emsp;(B) for fiscal years beginning after the period specified in subparagraph (A), 9 months after the end of the period audited, or within a longer timeframe authorized by the Federal agency, determined under criteria issued under section 7504, when the 9-month timeframe would place an undue burden on the non-Federal entity.
 
-(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
+(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that correctiveaction is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
 
 (j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 
 (Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2329; amended Pub. L. 103–272, §4(f)(1)(W), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1399; Pub. L. 116–103, §5(a)(1), Dec. 30, 2019, 133 Stat. 3270.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ The effective date of the Single Audit Act Amendments of 1996, referred to in su
 Subsec. (d)(5), (6). Pub. L. 103–272, §4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year."
 
 Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted "section 3512(c)" for "section 3512(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

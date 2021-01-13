@@ -4,9 +4,13 @@ Whenever complaint shall be made to the Secretary of the Army that by reason of 
 
 (Aug. 11, 1888, ch. 860, §2, 25 Stat. 423; July 26, 1947, ch. 343, title II, §205(a), 61 Stat 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was from the River and Harbor Appropriation Act of 1888.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

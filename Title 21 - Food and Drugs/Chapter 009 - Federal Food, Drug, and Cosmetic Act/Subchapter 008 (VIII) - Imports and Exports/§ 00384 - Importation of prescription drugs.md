@@ -88,13 +88,13 @@ The regulations under subsection (b) shall—
 
 &emsp;&emsp;&emsp;(I) Documentation demonstrating that the prescription drug was received by the recipient from the manufacturer and subsequently shipped by the first foreign recipient to the importer.
 
-&emsp;&emsp;&emsp;(II) Documentation of the quantity of each lot of the prescription drug received by the first foreign recipient demonstrating that the quantity being imported into the United States is not more than thequantity that was received by the first foreign recipient.
+&emsp;&emsp;&emsp;(II) Documentation of the quantity of each lot of the prescription drug received by the first foreign recipient demonstrating that the quantity being imported into the United States is not more than the quantity that was received by the first foreign recipient.
 
 &emsp;&emsp;&emsp;(III)(aa) In the case of an initial imported shipment, documentation demonstrating that each batch of the prescription drug in the shipment was statistically sampled and tested for authenticity and degradation.
 
 &emsp;&emsp;&emsp;(bb) In the case of any subsequent shipment, documentation demonstrating that a statistically valid sample of the shipment was tested for authenticity and degradation.
 
-&emsp;&emsp;(ii) In the case of a prescription drug that is not shipped directly from the first foreign recipient of the prescription drug from the manufacturer, documentation demonstrating that each batch in each shipment offered for importation into the United States was statistically sampled and tested for authenticity and degradation.
+&emsp;&emsp;(ii) In the case of a prescription drug that is not shipped directly from the first foreign recipient of the prescription drug from the manufacturer, documentation demonstrating that each batch in each shipmentoffered for importation into the United States was statistically sampled and tested for authenticity and degradation.
 
 &emsp;&emsp;(K) Certification from the importer or manufacturer of the prescription drug that the prescription drug—
 
@@ -234,9 +234,13 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (June 25, 1938, ch. 675, §804, as added Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464; amended Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 384, act June 25, 1938, ch. 675, §804, as added Pub. L. 106–387, §1(a) \[title VII, §745(c)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, related to importation of covered products, prior to repeal by Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -249,4 +253,36 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Study and Report on Importation of Drugs
 
 Pub. L. 108–173, title XI, §1122, Dec. 8, 2003, 117 Stat. 2469, directed the Secretary of Health and Human Services to conduct a study on the importation of drugs into the United States pursuant to this section and to submit to Congress, not later than 12 months after Dec. 8, 2003, a report providing the findings of such study.
+
+#### <b>Executive Documents</b>
+
+#### Ex. Ord. No. 13938. Increasing Drug Importation To Lower Prices for American Patients
+
+Ex. Ord. No. 13938, July 24, 2020, 85 F.R. 45757, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Americans spend more per capita on pharmaceutical drugs than residents of any other developed country. Americans often pay more for the exact same drugs, even when they are produced and shipped from the exact same facilities.
+
+One way to minimize international disparities in price is to increase the trade of prescription drugs between nations with lower prices and those with persistently higher ones. Over time, reducing trade barriers and increasing the exchange of drugs will likely result in lower prices for the country that is paying more for drugs. For example, in the European Union, a market characterized by price controls and significant barriers to entry, the parallel trade of drugs has existed for decades and has been estimated to reduce the price of certain drugs by up to 20 percent. Accordingly, my Administration supports the goal of safe importation of prescription drugs.
+
+Sec. 2. <i>Permitting the Importation of Safe Prescription Drugs from Other Countries</i>. The Secretary of Health and Human Services shall, as appropriate and consistent with applicable law, take action to expand safe access to lower-cost imported prescription drugs by:
+
+(a) facilitating grants to individuals of waivers of the prohibition of importation of prescription drugs, provided such importation poses no additional risk to public safety and results in lower costs to American patients, pursuant to section 804(j)(2) of the Federal Food, Drug, and Cosmetic Act (FDCA), 21 U.S.C. 384(j)(2);
+
+(b) authorizing the re-importation of insulin products upon a finding by the Secretary that it is required for emergency medical care pursuant to section 801(d) of the FDCA, 21 U.S.C. 381(d); and
+
+(c) completing the rulemaking process regarding the proposed rule to implement section 804(b) through (h) of the FDCA, 21 U.S.C. 384(b) through (h), to allow importation of certain prescription drugs from Canada.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

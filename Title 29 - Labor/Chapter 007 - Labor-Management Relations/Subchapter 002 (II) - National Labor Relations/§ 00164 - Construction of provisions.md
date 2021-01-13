@@ -10,11 +10,13 @@ Nothing in this subchapter shall be construed as authorizing the execution or ap
 
 #### (c) Power of Board to decline jurisdiction of labor disputes; assertion of jurisdiction by State and Territorial courts
 
-(1) The Board, in its discretion, may, by rule of decision or by published rules adopted pursuantto subchapter II of chapter 5 of title 5, decline to assert jurisdiction over any labor dispute involving any class or category of employers, where, in the opinion of the Board, the effect of such labor dispute on commerce is not sufficiently substantial to warrant the exercise of its jurisdiction: <i>Provided</i>, That the Board shall not decline to assert jurisdiction over any labor dispute over which it would assert jurisdiction under the standards prevailing upon August 1, 1959.
+(1) The Board, in its discretion, may, by rule of decision or by published rules adopted pursuant to subchapter II of chapter 5 of title 5, decline to assert jurisdiction over any labor dispute involving any class or category of employers, where, in the opinion of the Board, the effect of such labor dispute on commerce is not sufficiently substantial to warrant the exercise of its jurisdiction: <i>Provided</i>, That the Board shall not decline to assert jurisdiction over any labor dispute over which it would assert jurisdiction under the standards prevailing upon August 1, 1959.
 
 (2) Nothing in this subchapter shall be deemed to prevent or bar any agency or the courts of any State or Territory (including the Commonwealth of Puerto Rico, Guam, and the Virgin Islands), from assuming and asserting jurisdiction over labor disputes over which the Board declines, pursuant to paragraph (1) of this subsection, to assert jurisdiction.
 
 (July 5, 1935, ch. 372, §14, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151; Pub. L. 86–257, title VII, §701(a), Sept. 14, 1959, 73 Stat. 541.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -25,6 +27,8 @@ In subsec. (c)(1), "subchapter II of chapter 5 of title 5" substituted for "the 
 <b>1959</b>—Subsec. (c). Pub. L. 86–257 added subsec. (c).
 
 <b>1947</b>—Act June 23, 1947, amended section generally by inserting new subject matter. Section formerly referred to conflict of laws, see section 165 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1947 Amendment
 

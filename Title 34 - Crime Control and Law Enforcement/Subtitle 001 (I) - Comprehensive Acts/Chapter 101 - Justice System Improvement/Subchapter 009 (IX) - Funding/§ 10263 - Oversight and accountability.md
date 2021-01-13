@@ -92,6 +92,8 @@ All grants awarded by the Department of Justice that are authorized under this A
 
 (Pub. L. 114–324, §15, Dec. 16, 2016, 130 Stat. 1959.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 114–324, Dec. 16, 2016, 130 Stat. 1948, known as the Justice for All Reauthorization Act of 2016. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.

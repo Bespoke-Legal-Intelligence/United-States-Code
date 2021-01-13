@@ -30,7 +30,7 @@
 
 &emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6 and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
 
-&emsp;thence in a generally southwesterly direction paralleling the general alinement ofNorth Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
+&emsp;thence in a generally southwesterly direction paralleling the general alinement of North Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
 
 &emsp;thence in a southerly direction paralleling the alinement of United States Route 6 and generally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
 

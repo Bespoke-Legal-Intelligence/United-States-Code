@@ -14,7 +14,7 @@
 
 #### (1) Referrals to Attorney General after notice
 
-&emsp;Whenever the Secretary finds that a State, or an entity that has received a payment pursuant to section 290cc–21 of this title, has failed to comply with a provision of law referred to in subsection (a)(1), with subsection (a)(2), or with an applicable regulation (including one prescribed to carry out subsection (a)(2)), the Secretary shall notify the chief executive officer of the State and shall request the chief executive officer to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+&emsp;Whenever the Secretary finds that a State, or an entity that has received a payment pursuant to section 290cc–21 of this title, has failed to comply with a provision of law referred to in subsection (a)(1), with subsection (a)(2), or with an applicable regulation (including one prescribed to carry out subsection (a)(2)), the Secretary shall notify the chief executive officer of the State and shall requestthe chief executive officer to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 

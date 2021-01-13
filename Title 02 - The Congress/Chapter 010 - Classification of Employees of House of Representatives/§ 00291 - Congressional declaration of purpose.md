@@ -10,13 +10,17 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 &emsp;(2) the application of appropriate position standards and position descriptions for such positions; and
 
-&emsp;(3) the adoption of organization and position titles in the House which accurately reflectthe respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
+&emsp;(3) the adoption of organization and position titles in the House which accurately reflect the respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
 
 (Pub. L. 88–652, §2, Oct. 13, 1964, 78 Stat. 1079.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

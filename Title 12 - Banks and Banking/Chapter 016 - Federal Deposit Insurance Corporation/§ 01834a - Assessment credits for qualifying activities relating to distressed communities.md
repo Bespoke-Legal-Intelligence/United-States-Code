@@ -38,7 +38,7 @@
 
 #### (4) Determination of qualified loans and other financial assistance
 
-&emsp;Except as provided in paragraph (6), the types of loans and other assistance which theBoard may determine to be qualified to be taken into account under paragraph (2)(A) for purposes of the community enterprise assessment credit, may include the following:
+&emsp;Except as provided in paragraph (6), the types of loans and other assistance which the Board may determine to be qualified to be taken into account under paragraph (2)(A) for purposes of the community enterprise assessment credit, may include the following:
 
 &emsp;&emsp;(A) Loans insured or guaranteed by the Secretary of Housing and Urban Development, the Secretary of the Department of Veterans Affairs, the Administrator of the Small Business Administration, and the Secretary of Agriculture.
 
@@ -218,7 +218,7 @@
 
 #### (2) Notice to FDIC
 
-&emsp;The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect toany application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
+&emsp;The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect to any application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
 
 #### (f) Availability of funds
 
@@ -314,6 +314,8 @@ For purposes of this section—
 
 (Pub. L. 102–242, title II, §233, Dec. 19, 1991, 105 Stat. 2311; Pub. L. 102–550, title IX, §931(c)–(e), title XVI, §§1604(b)(2), 1605(a)(7), Oct. 28, 1992, 106 Stat. 3888, 3889, 4083, 4086; Pub. L. 102–558, title III, §§303(b)(2), (9), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–325, title I, §114(c), Sept. 23, 1994, 108 Stat. 2181.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557, set out as a Short Title note under section 8101 of Title 42 and Tables.
@@ -370,7 +372,7 @@ Subsec. (a)(3). Pub. L. 102–558, §303(b)(9)(B), substituted "section 1817(b)(
 
 Pub. L. 102–558, §303(b)(2), which directed technical amendment to reference to section 1834b of this title to correct reference to corresponding section of original act, could not be executed because of prior general amendment by Pub. L. 102–550, §931(d). See below. Pub. L. 102–550, §1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Pub. L. 102–550, §931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of any community enterprise assessment credit available under section 1817(d)(4) of this title for anyinsured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under section 1834b of this title, and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
+Pub. L. 102–550, §931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of any community enterprise assessment credit available under section 1817(d)(4) of this title for any insured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under section 1834b of this title, and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
 
 &emsp;"(A) the amounts of assets described in paragraph (2)(A); and
 
@@ -393,6 +395,8 @@ Poverty.—At least 20 percent of the residents residing in the area have income
 Unemployment.—The unemployment rate for the area is one and one-half times greater than the national average (as determined by the Bureau of Labor Statistic's most recent figures)."
 
 Subsec. (e)(2). Pub. L. 102–558, §303(b)(9)(C), substituted "of the semiannual assessment to which such credit is applicable" for "made for purposes of the notification required under section 1817(d)(1)(B) of this title". Pub. L. 102–550, §1605(a)(7)(C), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

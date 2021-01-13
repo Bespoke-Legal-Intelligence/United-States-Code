@@ -14,7 +14,7 @@ An order under subsection (a)(1) shall state with reasonable specificity the nat
 
 #### (c) Considerations
 
-In assessing a civil penalty under subsection (a)(1), the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+In assessing a civil penalty under subsection (a)(1), the Administrator shall take into accountthe seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 #### (d) Finality of order; request for hearing
 

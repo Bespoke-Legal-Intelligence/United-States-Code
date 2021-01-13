@@ -1,6 +1,8 @@
 ### §1038. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 88–457, §8, Aug. 20, 1964, 78 Stat. 556, which authorized prescription of rules and regulationsto carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 88–457, §8, Aug. 20, 1964, 78 Stat. 556, which authorized prescription of rules and regulations to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
 

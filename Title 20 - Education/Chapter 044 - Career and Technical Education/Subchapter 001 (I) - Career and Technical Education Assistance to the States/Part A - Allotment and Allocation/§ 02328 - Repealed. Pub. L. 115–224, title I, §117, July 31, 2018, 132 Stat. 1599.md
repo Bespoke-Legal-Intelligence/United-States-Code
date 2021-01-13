@@ -1,6 +1,6 @@
 ### §2328. Repealed. Pub. L. 115–224, title I, §117, July 31, 2018, 132 Stat. 1599
 
-Section, Pub. L. 88–210, title I, §118, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, §512(e)(1), July 22, 2014, 128 Stat. 1706, related to occupational and employment information and grants to States.
+Section, Pub. L. 88–210, title I, §118, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, §512(e)(1), July 22, 2014, 128 Stat. 1706, Pub. L. 115 related to occupational and employment information and grants to States.
 
 A prior section 2328, Pub. L. 88–210, title I, §118, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3100, related to occupational and employment information, prior to the general amendment of this chapter by Pub. L. 109–270.
 

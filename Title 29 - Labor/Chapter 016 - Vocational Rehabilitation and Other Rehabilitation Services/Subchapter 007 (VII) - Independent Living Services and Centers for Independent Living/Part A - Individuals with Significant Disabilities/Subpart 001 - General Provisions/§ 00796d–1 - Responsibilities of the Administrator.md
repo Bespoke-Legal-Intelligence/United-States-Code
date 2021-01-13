@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the provisions of subsections (c) and (d) of section 727 of this title shall apply to any State plan submitted to the Administrator under section 796c of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), the provisions of subsections (c) and (d) ofsection 727 of this title shall apply to any State plan submitted to the Administrator under section 796c of this title.
 
 #### (B) Application
 
@@ -58,6 +58,8 @@ Not later than 1 year after July 22, 2014, the Administrator shall develop and p
 
 (Pub. L. 93–112, title VII, §706, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1223; amended Pub. L. 113–128, title IV, §475A, July 22, 2014, 128 Stat. 1689.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4448; amended Pub. L. 103–73, title I, §114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -76,7 +78,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 113–128, §475A(2)(B)(ii)(I), inserted "or the C
 
 Subsec. (a)(2)(B)(ii), (iii). Pub. L. 113–128, §475A(2)(B)(ii)(II), (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (b). Pub. L. 113–128, §475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment,text read as follows: "Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title."
+Subsec. (b). Pub. L. 113–128, §475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title."
 
 Subsec. (c)(1). Pub. L. 113–128, §475A(4)(A), substituted "Administrator" for "Commissioner" wherever appearing and struck out last sentence which read as follows: "The Administrator shall select the centers and State units described in this paragraph for review on a random basis."
 

@@ -20,7 +20,7 @@
 
 #### (5) Termination
 
-&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing for homeless individuals and families with disabilities have been funded under this part.
+&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing forhomeless individuals and families with disabilities have been funded under this part.
 
 #### (b) Set-aside for permanent housing for homeless families with children
 
@@ -52,7 +52,7 @@ Nothing in this chapter may be construed to establish a limit on the amount of f
 
 #### (e) Incentives for successful implementation of proven strategies
 
-If any geographic area demonstrates that it has fully implemented any of the activities described in subsection (d) for all homeless individuals and families or for all members of subpopulations for whom such activities are targeted, that geographic area shall receive the bonus or incentive provided under subsection (d), but may use such bonus or incentive for anyeligible activity under either section 11383 of this title or paragraphs (4) and (5) of section 11374(a) of this title for homeless people generally or for the relevant subpopulation.
+If any geographic area demonstrates that it has fully implemented any of the activities described in subsection (d) for all homeless individuals and families or for all members of subpopulations for whom such activities are targeted, that geographic area shall receive the bonus or incentive provided under subsection (d), but may use such bonus or incentive for any eligible activity under either section 11383 of this title or paragraphs (4) and (5) of section 11374(a) of this title for homeless people generally or for the relevant subpopulation.
 
 (Pub. L. 100–77, title IV, §428, as added Pub. L. 111–22, div. B, title III, §1305(3), May 20, 2009, 123 Stat. 1693.)
 

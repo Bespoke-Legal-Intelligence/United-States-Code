@@ -36,7 +36,7 @@ As used in this section, the term—
 
 &emsp;(2) "nursing home administrator" means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Pub. L. 90–248, title II, §236(b), Jan. 2, 1968, 81 Stat. 908; amended Pub. L. 92–603, title II, §§268(b), 269, 274(b), Oct. 30, 1972, 86 Stat. 1451, 1452; Pub. L. 93–233, §18(y)(3), Dec. 31, 1973, 87 Stat. 973; Pub. L. 104–193, title IX, §913, Aug. 22,1996, 110 Stat. 2354; Pub. L. 105–33, title IV, §4454(b)(2), Aug. 5, 1997, 111 Stat. 431.)
+(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Pub. L. 90–248, title II, §236(b), Jan. 2, 1968, 81 Stat. 908; amended Pub. L. 92–603, title II, §§268(b), 269, 274(b), Oct. 30, 1972, 86 Stat. 1451, 1452; Pub. L. 93–233, §18(y)(3), Dec. 31, 1973, 87 Stat. 973; Pub. L. 104–193, title IX, §913, Aug. 22, 1996, 110 Stat. 2354; Pub. L. 105–33, title IV, §4454(b)(2), Aug. 5, 1997, 111 Stat. 431.)
 
 #### Repeal of Section
 

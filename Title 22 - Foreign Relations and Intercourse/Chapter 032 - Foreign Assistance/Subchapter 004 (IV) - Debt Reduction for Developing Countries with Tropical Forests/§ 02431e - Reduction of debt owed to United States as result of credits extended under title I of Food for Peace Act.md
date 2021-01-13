@@ -50,6 +50,8 @@
 
 (Pub. L. 87–195, pt. V, §807, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 888; amended Pub. L. 108–323, §3(b), Oct. 6, 2004, 118 Stat. 1219; Pub. L. 110–246, title III, §3001(b)(1), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–440, §§6, 9(b)(3), Jan. 14, 2019, 132 Stat. 5582, 5584.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Peace Act, referred to in subsec. (a)(1), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
@@ -64,9 +66,13 @@ Subsec. (c)(2). Pub. L. 115–440, §9(b)(3), substituted "Conservation Fund" fo
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–323 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

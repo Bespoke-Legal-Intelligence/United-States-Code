@@ -32,6 +32,8 @@ In subsection (a), the words "In addition to the initial uniform allowance autho
 
 In subsection (b), the introductory clause is substituted for the word "further". The words "of an armed force" and "of the Army, or the Air Force, without specification of component" are inserted for the reasons stated in the revision note for section 415(a) of this revised title. Clauses (1) and (2) are substituted for section 255(c) (provisos) of existing title 37.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (b)(1). Pub. L. 107–107 substituted "$400" for "$200".
@@ -50,6 +52,8 @@ Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a)
 
 Subsec. (b). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title VI, §606(b), Dec. 28, 2001, 115 Stat. 1134, provided that: "The amendment made by this section \[amending this section\] shall take effect as of October 1, 2000."
@@ -61,6 +65,30 @@ Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 \[\[div. A\
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### One-Time Uniform Allowance for Officers Who Transfer to the Space Force
+
+Pub. L. 116–283, div. A, title VI, §606, Jan. 1, 2021, 134 Stat. 3672, provided that:
+
+"(a)
+
+In General.—The Secretary of the Air Force may provide an officer who transfers from the Army, Navy, Air Force, or Marine Corps to the Space Force an allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment.
+
+"(b)
+
+Relationship to Other Allowances.—The allowance under this section is in addition to any allowance available under any other provision of law.
+
+"(c)
+
+Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriatedfor military personnel of the Space Force for such fiscal year.
+
+"(d)
+
+Applicability.—The authority for an allowance under this section shall apply with respect to any officer described in subsection (a) who transfers to the Space Force—
+
+&emsp;"(1) during the period beginning on December 20, 2019, and ending on September 30, 2022; and
+
+&emsp;"(2) on or after the date the Secretary of the Air Force prescribes the official uniform for the Space Force."
 
 #### Save Pay Provision
 

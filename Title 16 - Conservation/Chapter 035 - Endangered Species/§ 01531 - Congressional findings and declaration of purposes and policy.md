@@ -76,7 +76,7 @@ Pub. L. 115–334, title II, §2407, Dec. 20, 2018, 132 Stat. 4573, provided tha
 
 In General.—The Secretary \[of Agriculture\] and the Secretary of the Interior shall continue to carry out the Working Lands for Wildlife model of conservation on working landscapes, as implemented on the day before the date of enactment of this Act \[Dec. 20, 2018\], in accordance with—
 
-&emsp;"(1) the document entitled 'Partnership Agreement Between the United States Department of Agriculture Natural Resources Conservation Service and the United States Department of the Interior Fish and Wildlife Service', numbered A–3A7516–937, and formalized by the Chief of the Natural Resources Conservation Service on September 15, 2016, and by the Director of the United States Fish and Wildlife Service on August 4, 2016, as in effect on September 15, 2016; and
+&emsp;"(1) the document entitled 'Partnership Agreement Between the United States Department of Agriculture Natural Resources Conservation Service andthe United States Department of the Interior Fish and Wildlife Service', numbered A–3A7516–937, and formalized by the Chief of the Natural Resources Conservation Service on September 15, 2016, and by the Director of the United States Fish and Wildlife Service on August 4, 2016, as in effect on September 15, 2016; and
 
 &emsp;"(2) United States Fish and Wildlife Service Director's Order No. 217, dated August 9, 2016, as in effect on August 9, 2016.
 

@@ -38,7 +38,7 @@
 
 (3) The period of a grant under this section shall be not more than 20 years. During the grant period, an institution may not withdraw or expend any of the endowment fund corpus. After the termination of the grant period, an institution may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
-(4)(A) An institution of higher education is eligible to receive a grant under this section if itis an eligible institution as described in subsection (a)(2)(D) of this section.
+(4)(A) An institution of higher education is eligible to receive a grant under this section if it is an eligible institution as described in subsection (a)(2)(D) of this section.
 
 (B) No institution shall be ineligible for an endowment challenge grant under this section for a fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
 
@@ -60,7 +60,7 @@
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
-(B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
+(B) The institution, in investing the endowment fund established under this section, shallexercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
 (3)(A) An institution may withdraw and expend the endowment fund income to defray any expenses necessary to the operation of such college, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, and technical assistance.
 

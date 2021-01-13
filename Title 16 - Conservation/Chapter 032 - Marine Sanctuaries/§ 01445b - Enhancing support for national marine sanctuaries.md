@@ -54,7 +54,7 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 
 #### (1) In general
 
-&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under this section. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
+&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under thissection. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
 
 #### (2) Reimbursement for administrative costs
 

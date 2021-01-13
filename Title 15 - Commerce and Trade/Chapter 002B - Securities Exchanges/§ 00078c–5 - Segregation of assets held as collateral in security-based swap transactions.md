@@ -28,7 +28,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (2) Commission action
 
-&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer describedin subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
+&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
 
 #### (d) Permitted investments
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person, including any clearing agency and any depos
 
 #### (B) Segregation and maintenance of funds
 
-&emsp;&emsp;At the request of a counterparty to a security-based swap that provides funds or other property to a security-based swap dealer or major security-based swap participant to margin, guarantee, or secure the obligations of the counterparty, the security-based swap dealer or major security-based swap participant shall—
+&emsp;&emsp;At the request of a counterparty to a security-based swap that provides funds or otherproperty to a security-based swap dealer or major security-based swap participant to margin, guarantee, or secure the obligations of the counterparty, the security-based swap dealer or major security-based swap participant shall—
 
 &emsp;&emsp;&emsp;(i) segregate the funds or other property for the benefit of the counterparty; and
 

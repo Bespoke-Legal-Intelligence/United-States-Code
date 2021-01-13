@@ -26,11 +26,11 @@ Unless otherwise specifically provided in an appropriations Act, the Secretary o
 
 #### (g) Administrative expenses
 
-In addition to any other funds available to the Secretary of Agriculture to cover administrative costs, the Secretary may use up to 3 percent of the amounts allocated from the Rural Development Disaster Assistance Fund for a specific disaster to cover administrative costs of Rural Development's State and local offices in the areas affected by the disaster to carry out disaster related activities.
+In addition to any other funds available to the Secretary of Agriculture to cover administrative costs, the Secretary may use up to 3 percentof the amounts allocated from the Rural Development Disaster Assistance Fund for a specific disaster to cover administrative costs of Rural Development's State and local offices in the areas affected by the disaster to carry out disaster related activities.
 
 #### (h) Limitation on per disaster obligations
 
-Amounts in the Rural Development Disaster Assistance Fund, except for amounts describedin subsection (d) that are appropriated to the Fund and obligated in accordance with that subsection, may not be obligated in excess of $1,000,000 for a disaster until at least 15 days after the date on which the Secretary of Agriculture notifies the Committees on Appropriations of the House of Representatives and the Senate of the Secretary's determination to obligate additional amounts and the reasons for the determination. The Secretary may not obligate more than 50 percent of the funds contained in the Rural Development Disaster Assistance Fund for any one disaster unless the Secretary declares that there is a specific and extreme need that additional funds must be provided in response to such disaster at time of the obligation.
+Amounts in the Rural Development Disaster Assistance Fund, except for amounts described in subsection (d) that are appropriated to the Fund and obligated in accordance with that subsection, may not be obligated in excess of $1,000,000 for a disaster until at least 15 days after the date on which the Secretary of Agriculture notifies the Committees on Appropriations of the House of Representatives and the Senate of the Secretary's determination to obligate additional amounts and the reasons for the determination. The Secretary may not obligate more than 50 percent of the funds contained in the Rural Development Disaster Assistance Fund for any one disaster unless the Secretary declares that there is a specific and extreme need that additional funds must be provided in response to such disaster at time of the obligation.
 
 #### (i) Quarterly reports
 

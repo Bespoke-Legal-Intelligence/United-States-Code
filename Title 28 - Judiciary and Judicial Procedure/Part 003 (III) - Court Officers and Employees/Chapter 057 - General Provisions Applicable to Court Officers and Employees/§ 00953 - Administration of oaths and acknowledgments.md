@@ -6,7 +6,7 @@ Each clerk of court and his deputies may administer oaths and affirmations and t
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§264, 523 and 525, section 1114(a) of title 26, U.S.C., 1940 ed., Internal Revenue Code, and District of Columbia Code, 1940 ed., §11–402 (R.S. §799; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1901, ch. 854, §178, 31 Stat. 1219; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 3, 1911, ch. 231, §§158, 291, 36 Stat. 1139, 1167; Feb. 10, 1939, ch. 2, §1114(a), 53 Stat. 160; Oct. 21, 1942, ch. 619, title V, §504(a)(c), 56 Stat. 957; Feb. 25, 1944, ch. 63, title V, §503, 58 Stat. 72).
+Based on title 28, U.S.C., 1940 ed., §§264, 523 and 525, section 1114(a) of title 26, U.S.C., 1940 ed., Internal Revenue Code, and District of Columbia Code, 1940 ed., §11–402 (R.S. §799; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1901, ch. 854, §178, 31 Stat. 1219; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 3, 1911, ch. 231, §§158, 291, 36 Stat. 1139, 1167; Feb.10, 1939, ch. 2, §1114(a), 53 Stat. 160; Oct. 21, 1942, ch. 619, title V, §504(a)(c), 56 Stat. 957; Feb. 25, 1944, ch. 63, title V, §503, 58 Stat. 72).
 
 This section consolidates a part of section 525, sections 264 and 523 of title 28, U.S.C., 1940 ed., part of section 1114(a) of title 26, U.S.C., 1940 ed., section 11–402 of the District of Columbia Code, 1940 ed.,
 

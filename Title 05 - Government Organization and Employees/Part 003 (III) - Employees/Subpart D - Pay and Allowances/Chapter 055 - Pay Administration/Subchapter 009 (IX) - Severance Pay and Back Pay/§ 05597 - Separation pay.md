@@ -28,7 +28,7 @@
 
 &emsp;(2) shall be equal to the lesser of—
 
-&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive undersection 5595(c) if the employee were entitled to payment under such section; or
+&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive under section 5595(c) if the employee were entitled to payment under such section; or
 
 &emsp;&emsp;(B) $25,000;
 
@@ -72,6 +72,8 @@
 
 (Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777; Pub. L. 106–398, §1 \[\[div. A\], title XI, §§1151, 1153(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319, 1654A–323.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
@@ -90,7 +92,7 @@ Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(c)(1)\], a
 
 Subsec. (d)(5). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(c)(2)–(4)\], added par. (5).
 
-Subsec. (g)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(d)\], inserted ", or who commences work for anagency of the United States through a personal services contract with the United States," after "employment with the Government of the United States".
+Subsec. (g)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(d)\], inserted ", or who commences work for an agency of the United States through a personal services contract with the United States," after "employment with the Government of the United States".
 
 Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(a)\], added subsec. (i).
 
@@ -105,6 +107,8 @@ Subsec. (h). Pub. L. 105–85, §1106(a), added subsec. (h).
 <b>1994</b>—Subsec. (e). Pub. L. 103–337 substituted "September 30, 1999" for "September 30, 1997".
 
 Subsec. (g). Pub. L. 103–226 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -184,7 +188,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &emsp;&emsp;"(B)
 
-Second method.—The amount required under this subparagraph shall be equal to 45 percentof the final basic pay of each employee described in paragraph (2).
+Second method.—The amount required under this subparagraph shall be equal to 45 percent of the final basic pay of each employee described in paragraph (2).
 
 &emsp;"(2)
 
@@ -332,7 +336,7 @@ Additional Agency Contributions to the Retirement Fund.—
 
 &emsp;"(1)
 
-In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United Statesto the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee of the agency who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
+In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee of the agency who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
 
 &emsp;"(2)
 

@@ -1,6 +1,6 @@
 ### §4601. Repealed. Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232
 
-Section, Pub. L. 96–72, §2, Sept. 29, 1979, 93 Stat. 503; Pub. L. 99–64, title I, §102, July 12, 1985, 99 Stat. 120; Pub. L. 103–199, title II, §201(a), Dec. 17, 1993, 107 Stat. 2320, set forth Congressional findings with respect to the Export Administration Act of 1979.
+Section, Pub. L. 96–72, §2, Sept. 29, 1979, 93 Stat. 503; Pub. L. 99–64, title I, §102, July 12, 1985, 99 Stat. 120;Pub. L. 103–199, title II, §201(a), Dec. 17, 1993, 107 Stat. 2320, set forth Congressional findings with respect to the Export Administration Act of 1979.
 
 Section was formerly classified to section 2401 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 

@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §109(a), Dec. 4, 2018, 132 Stat. 4211, inserted subtitle II designation and heading and added items for chapters 19 to 29.

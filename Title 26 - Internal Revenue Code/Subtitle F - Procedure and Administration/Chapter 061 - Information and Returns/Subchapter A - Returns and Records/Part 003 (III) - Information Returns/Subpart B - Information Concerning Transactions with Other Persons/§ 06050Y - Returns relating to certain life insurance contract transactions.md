@@ -92,5 +92,5 @@ For purposes of this section:
 
 #### Effective Date
 
-Section applicable to reportable policy sales (as defined in subsection (d)(2) of this section) after Dec. 31, 2017, and reportable death benefits (as defined in subsection (d)(4) of this section) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as an EffectiveDate of 2017 Amendment note under section 6047 of this title.
+Section applicable to reportable policy sales (as defined in subsection (d)(2) of this section) after Dec. 31, 2017, and reportable death benefits (as defined in subsection (d)(4) of this section) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 6047 of this title.
 

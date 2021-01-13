@@ -16,6 +16,8 @@
 
 (Added Pub. L. 106–185, §14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, title XI, §1171(c), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title IV, §406(a)(1), Mar. 9, 2006, 120 Stat. 244.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177 directed amendment of directory language of Pub. L. 107–56, §322, identical to amendment by Pub. L. 109–162. See below.
@@ -23,6 +25,8 @@
 Pub. L. 109–162 amended directory language of Pub. L. 107–56, §322. See 2001 Amendment note below.
 
 <b>2001</b>—Pub. L. 107–56, §322, as amended by Pub. L. 109–162, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

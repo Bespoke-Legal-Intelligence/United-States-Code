@@ -4,6 +4,8 @@ Provisions for cash, loan, paid-up, and extended values, dividends from gains an
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, §706; renumbered §1906 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 706 of this title as this section and substituted "Secretary" for "Administrator".

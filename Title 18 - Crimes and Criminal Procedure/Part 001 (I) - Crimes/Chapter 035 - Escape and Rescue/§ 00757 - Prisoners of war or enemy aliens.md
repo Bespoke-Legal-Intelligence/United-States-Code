@@ -12,6 +12,8 @@ Based on title 18, U.S.C., 1940 ed., §97b (Apr. 30, 1945, ch. 103, 59 Stat. 101
 
 The second sentence of section 97b of title 18, U.S.C., 1940 ed., was made a separate paragraph.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in first par.

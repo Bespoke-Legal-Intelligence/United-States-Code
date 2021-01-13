@@ -10,7 +10,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(B) exploring and developing new pathways for innovators, investors, and decision-makers to leverage the resources of the Department for addressing the challenges and comparative strengths of geographic regions; and
 
-&emsp;&emsp;(C) recognizing the financial constraints of the Department, regularly reviewing clean energy programs to ensure that taxpayer investments are maximized;
+&emsp;&emsp;(C) recognizing the financial constraints of the Department, regularly reviewing cleanenergy programs to ensure that taxpayer investments are maximized;
 
 &emsp;(3) the energy supply, demand, policies, markets, and resource options of the United States vary by geographic region;
 

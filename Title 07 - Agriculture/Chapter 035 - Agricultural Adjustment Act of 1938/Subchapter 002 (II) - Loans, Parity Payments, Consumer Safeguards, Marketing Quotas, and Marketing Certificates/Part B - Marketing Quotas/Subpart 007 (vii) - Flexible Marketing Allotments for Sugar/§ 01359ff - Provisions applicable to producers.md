@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect tothe sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
+&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect to the sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
 
 #### (B) Period
 
@@ -94,7 +94,7 @@
 
 #### (B) Determination of violation
 
-&emsp;&emsp;No producer shall be considered to have violated subparagraph (A) unless the processor of the sugarcane harvested by such producer from acreage in excess of the proportionate share of the farm markets an amount of sugar that exceeds the allocation of such processor for a crop year.
+&emsp;&emsp;No producer shall be considered to have violated subparagraph (A) unless the processor of the sugarcane harvested by such producer from acreage in excess of the proportionate share of the farm markets anamount of sugar that exceeds the allocation of such processor for a crop year.
 
 #### (C) Civil penalty
 

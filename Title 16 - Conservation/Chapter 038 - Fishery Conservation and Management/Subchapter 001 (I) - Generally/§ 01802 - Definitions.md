@@ -10,7 +10,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(4) The term "commercial fishing" means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
 
-&emsp;(5) The term "conservation and management" refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, or maintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
+&emsp;(5) The term "conservation and management" refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, ormaintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
 
 &emsp;&emsp;(i) a supply of food and other products may be taken, and that recreational benefits may be obtained, on a continuing basis;
 
@@ -136,7 +136,7 @@ Sponges
 
 > &emsp;Such term does not include any scientific research activity which is conducted by a scientific research vessel.
 
-&emsp;(17) The term "fishing community" means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
+&emsp;(17) The term "fishing community" means a community which is substantially dependenton or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
 
 &emsp;(18) The term "fishing vessel" means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
 
@@ -180,7 +180,7 @@ Sponges
 
 &emsp;(31) The term "observer" means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
 
-&emsp;(32) The term "observer information" means any information collected, observed, retrieved,or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+&emsp;(32) The term "observer information" means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
 &emsp;(33) The term "optimum", with respect to the yield from a fishery, means the amount of fish which—
 
@@ -192,7 +192,7 @@ Sponges
 
 &emsp;(34) The terms "overfishing" and "overfished" mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-&emsp;(35) The term "Pacific Insular Area" means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
+&emsp;(35) The term "Pacific Insular Area" means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island,Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
 &emsp;(36) The term "person" means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
@@ -260,7 +260,7 @@ Pub. L. 102–251, §301(b), which directed amendment of this section by adding 
 
 <b>2018</b>—Par. (3). Pub. L. 115–232 substituted "section 2101(30)" for "section 2101(21a)".
 
-<b>2007</b>—Pub. L. 109–479 added pars. (13A) defining "regional fishery association", (20A) defining "import", (23A) defining "limited access privilege", (23B) defining "limited access system", and (27A) defining "observer information" and redesignated pars. (1) to (45) as (1) to (50), respectively.
+<b>2007</b>—Pub. L. 109–479 added pars. (13A) defining "regional fishery association", (20A) defining "import",\(23A) defining "limited access privilege", (23B) defining "limited access system", and (27A) defining "observer information" and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
 <b>1996</b>—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 

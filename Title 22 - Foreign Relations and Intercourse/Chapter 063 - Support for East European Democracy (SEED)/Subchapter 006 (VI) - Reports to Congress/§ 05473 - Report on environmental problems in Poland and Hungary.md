@@ -10,7 +10,7 @@ The first report submitted pursuant to section 5474 of this title shall include 
 
 &emsp;&emsp;(B) a listing of the geographical areas of each country that have suffered the heaviest environmental damage, and a description of the source and scope of the damage; and
 
-&emsp;&emsp;(C) an assessment of the environmental performance of leading industrial pollutersin those countries and the expected effect on pollution levels of industrial modernization.
+&emsp;&emsp;(C) an assessment of the environmental performance of leading industrial polluters in those countries and the expected effect on pollution levels of industrial modernization.
 
 #### (2) Priorities and costs for action
 

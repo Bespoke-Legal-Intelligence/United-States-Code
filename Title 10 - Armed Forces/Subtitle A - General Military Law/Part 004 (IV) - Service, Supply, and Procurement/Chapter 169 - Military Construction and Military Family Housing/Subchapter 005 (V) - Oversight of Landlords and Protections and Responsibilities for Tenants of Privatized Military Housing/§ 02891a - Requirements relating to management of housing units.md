@@ -12,7 +12,7 @@ Requirements for Installation Commanders.—(1) The installation commander shall
 
 &emsp;(B) notifying the landlord and the major subordinate command of any deficiencies found in either plan.
 
-(2) In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions <sup>1</sup>
+(2) In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions.
 
 (c)
 
@@ -70,7 +70,7 @@ Requirements for Landlords.—(1) The landlord providing a housing unit shall di
 
 (10) A landlord providing a housing unit shall agree to participate in the dispute resolution and payment-withholding processes established pursuant to section 2894 of this title.
 
-(11) A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord.
+(11) Upon request by a prospective tenant, a landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning the prospective tenant to a housing unit provided by the landlord.
 
 (12) A landlord providing a housing unit shall maintain an electronic work order system that enables access by the tenant to view work order history, status, and other relevant information, as required by section 2892 of this title.
 
@@ -82,7 +82,7 @@ Requirements for Landlords.—(1) The landlord providing a housing unit shall di
 
 (e)
 
-Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the any <sup>2</sup> basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
+Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the any <sup>1</sup> basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
 
 (2) Nothing in paragraph (1) shall be construed—
 
@@ -94,9 +94,17 @@ Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord 
 
 &emsp;&emsp;(iii) to recover damages associated with tenant negligence, consistent with subsection (c)(2); or
 
-&emsp;(B) to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title, so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of the any <sup>2</sup> basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
+&emsp;(B) to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title, so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of any basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
 
-(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924.)
+(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, §2811(d), Jan. 1, 2021, 134 Stat. 4324.)
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §2811(d)(1), inserted period at end.
+
+Subsec. (d)(11). Pub. L. 116–283, §2811(d)(2), added par. (11) and struck out former par. (11) which read as follows: "A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord."
+
+Subsec. (e)(2)(B). Pub. L. 116–283, §2811(d)(3), substituted "any" for "the any".
 
 #### Effective Date of 2019 Amendment
 
@@ -126,7 +134,5 @@ Consideration of lack of agreement in future contracts.—The Secretary of Defen
 
 \[For definitions of "landlord" and "privatized military housing" as used in section 3014(e) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,17 +2,29 @@
 
 #### (a) Program management
 
-The Secretary of Defense shall ensure that the program for destruction of the United States stockpile of lethal chemical agents and munitions is managed as a major defense acquisition program (as defined in section 2430 of title 10) in accordance with the essential elements of such programs as may be determined by the Secretary.
+The Secretary of Defense shall ensure that the program for destruction of the United Statesstockpile of lethal chemical agents and munitions is managed as a major defense acquisition program (as defined in section 2430 of title 10) in accordance with the essential elements of such programs as may be determined by the Secretary.
 
 #### (b) Requirement for Under Secretary of Defense (Comptroller) annual certification
 
 Beginning with respect to the budget request for fiscal year 2004, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees on an annual basis a certification that the budget request for the chemical agents and munitions destruction program has been submitted in accordance with the requirements of section 1521 of this title.
 
-(Pub. L. 107–314, div. A, title I, §141, Dec. 2, 2002, 116 Stat. 2477.)
+(Pub. L. 107–314, div. A, title I, §141, Dec. 2, 2002, 116 Stat. 2477; Pub. L. 116–283, div. A, title XVIII, §1846(i)(6), Jan. 1, 2021, 134 Stat. 4252.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1846(i)(6), Jan. 1, 2021, 134 Stat. 4151, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a) of this section is amended by striking "section 2430" and inserting "section 4201". See 2021 Amendment note below.</i>
 
 #### Codification
 
 Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "section 4201" for "section 2430".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### "Congressional Defense Committees" Defined
 

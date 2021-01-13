@@ -128,7 +128,7 @@
 
 #### (iii) Additional amounts treated as interest
 
-&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amount which would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
+&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amountwhich would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
 
 #### (iv) Deferred payment obligations
 
@@ -230,7 +230,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facility pursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
+&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facilitypursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
 
 #### (2) $90,000 limit
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (B) Nursing homes excluded
 
-&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which is of a type which is traditionally considered a nursing home.
+&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which isof a type which is traditionally considered a nursing home.
 
 #### (i) Regulations
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000,114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, §11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
+(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, §11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
 
 #### Amendments
 

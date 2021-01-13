@@ -12,7 +12,7 @@ Section consolidates the third paragraph of section 209 of title 13, U.S.C., 195
 
 Section 122 of title 13, U.S.C., 1952 ed., made section 209 of such title applicable to the interim surveys (provided for by section 121(b) thereof) not only with respect to the censuses of manufacturers, the mineral industries, and other businesses provided for by section 121(a) thereof, but also with respect to the censuses provided for by "other Acts" (chapter 5 of this title). However, section 252 of that title, which was a part of a chapter thereof relating to the quinquennial censuses of governments (subchapter III of chapter 5 of this revised title), in making certain sections of chapter 4 thereof applicable to such censuses, did not specify such section 209. Therefore, this revised section is not made so applicable, either to the censuses of governments provided for in subchapter III of chapter 5 of this title, or to surveys provided for in subchapter IV thereof in so far as such surveys relate to governments.
 
-The language of section 209 of title 13, U.S.C., 1952 ed., providing that it should "be the duty" of every owner, proprietor, etc., to furnish the described information or assistance was omitted as unnecessary and redundant. The provisions, as herein revised, define an offense and prescribe a penalty for committing it, and are deemed sufficient for the purpose of enforcement. However, some of the language used in the omitted provisionswas necessarily included in the description of the offense.
+The language of section 209 of title 13, U.S.C., 1952 ed., providing that it should "be the duty" of every owner, proprietor, etc., to furnish the described information or assistance was omitted as unnecessary and redundant. The provisions, as herein revised, define an offense and prescribe a penalty for committing it, and are deemed sufficient for the purpose of enforcement. However, some of the language used in the omitted provisions was necessarily included in the description of the offense.
 
 References to the Secretary (of Commerce) and to "any other officer or employee of the Department of Commerce or bureau or agency thereof" were substituted for references to the Director of the Census and the Census Office, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
@@ -23,6 +23,8 @@ Reference in section 209 of title 13, U.S.C., 1952 ed., to the described offense
 Changes were made in phraseology.
 
 The qualifications and exceptions contained in that part of section 122 of title 13, U.S.C., 1952 ed., which made section 209 of such title applicable to the surveys provided for in section 121(b) thereof (subchapter IV of chapter 5 of this revised title), are set out elsewhere in this subchapter.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

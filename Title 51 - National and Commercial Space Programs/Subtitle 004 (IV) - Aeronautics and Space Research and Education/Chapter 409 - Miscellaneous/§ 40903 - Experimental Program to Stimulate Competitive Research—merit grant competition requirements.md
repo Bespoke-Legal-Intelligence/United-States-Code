@@ -58,6 +58,8 @@ Pub. L. 110–422, title VII, §704(b), Oct. 15, 2008, 122 Stat. 4802.
 
 In subsection (d) the words "eligible States" are substituted for "EPSCoR States" for clarity and consistency in the section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Congressional Findings and Policy
 
 Pub. L. 102–588, title III, §§301–303, Nov. 4, 1992, 106 Stat. 5119, provided that:

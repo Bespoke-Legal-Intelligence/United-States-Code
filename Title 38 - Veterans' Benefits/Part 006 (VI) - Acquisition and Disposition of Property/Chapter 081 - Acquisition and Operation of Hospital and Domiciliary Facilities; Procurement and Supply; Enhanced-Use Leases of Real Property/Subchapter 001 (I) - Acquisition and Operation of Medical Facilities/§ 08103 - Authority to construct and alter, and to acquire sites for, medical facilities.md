@@ -80,11 +80,13 @@
 
 (6) In this subsection:
 
-&emsp;(A) The term "covered certification program" means, with respect to employees of the Department of Veterans Affairs who are members of occupational series relating to construction or facilities management, or employees of the Department who award or administer contracts for major construction, minor construction, or nonrecurring maintenance, including as contract specialists or contracting officers' representatives, a program to certify knowledge and skills relating to construction or facilities management and to ensure that such employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services.
+&emsp;(A) The term "covered certification program" means, with respect to employees of the Department of Veterans Affairs who are members of occupational series relating toconstruction or facilities management, or employees of the Department who award or administer contracts for major construction, minor construction, or nonrecurring maintenance, including as contract specialists or contracting officers' representatives, a program to certify knowledge and skills relating to construction or facilities management and to ensure that such employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services.
 
 &emsp;(B) The term "covered training curriculum" means, with respect to employees specified in subparagraph (A), a training curriculum relating to construction or facilities management.
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, §801(a), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title II, §211, June 6, 2018, 132 Stat. 1460.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +111,8 @@ Pub. L. 102–40, §402(d)(1), substituted "8104" for "5004" in introductory pro
 Subsecs. (b), (c). Pub. L. 102–83 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–237 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -180,7 +184,7 @@ Conditions for Acceptance of Property.—The Secretary may accept the donation o
 
 &emsp;&emsp;&emsp;"(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and
 
-&emsp;&emsp;&emsp;"(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
+&emsp;&emsp;&emsp;"(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in themost recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
 
 &emsp;"(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government.
 
@@ -252,7 +256,7 @@ Elements.—Information submitted under paragraph (1) shall provide a detailed s
 
 "(h)
 
-Biennial Report of Comptroller General of the United States.—Not less frequently than onceevery 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
 
 "(i)
 

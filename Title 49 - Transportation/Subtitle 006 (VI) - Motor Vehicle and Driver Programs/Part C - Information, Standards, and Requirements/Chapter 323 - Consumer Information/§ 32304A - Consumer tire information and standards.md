@@ -16,7 +16,7 @@ Items included in rule.—The rulemaking shall include—
 
 &emsp;&emsp;(B) requirements for providing information to consumers, including information at the point of sale and other potential information dissemination methods, including the Internet;
 
-&emsp;&emsp;(C) specifications for test methods for manufacturers to use in assessing and rating tires to avoid variation among test equipment and manufacturers; and
+&emsp;&emsp;(C) specifications for test methods for manufacturers to use in assessing and ratingtires to avoid variation among test equipment and manufacturers; and
 
 &emsp;&emsp;(D) a national tire maintenance consumer education program including,<sup>1</sup> information on tire inflation pressure, alignment, rotation, and tread wear to maximize fuel efficiency, safety, and durability of replacement tires.
 
@@ -82,7 +82,7 @@ Test procedures.—Any test procedure promulgated under this subsection shall be
 
 &emsp;&emsp;(C)
 
-Benchmarking.—The Secretary shall conduct testing to benchmark the wet traction performance of tire models available for sale in the United States as of the date ofenactment of this Act <sup>2</sup> to ensure that the minimum performance standards promulgated under paragraph (1) are tailored to—
+Benchmarking.—The Secretary shall conduct testing to benchmark the wet traction performance of tire models available for sale in the United States as of the date of enactment of this Act <sup>2</sup> to ensure that the minimum performance standards promulgated under paragraph (1) are tailored to—
 
 &emsp;&emsp;&emsp;(i) tires sold in the United States; and
 

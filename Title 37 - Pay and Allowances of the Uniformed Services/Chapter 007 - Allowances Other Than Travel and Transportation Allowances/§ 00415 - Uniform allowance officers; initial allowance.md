@@ -72,6 +72,8 @@ In subsection (d), the words "who is in pay grade O–1, O–2, or O–3" are su
 
 In subsection (e), the words "as a temporary officer" are inserted for clarity. The words "5596 or" are substituted for section 302(f) of the Act of August 7, 1947, cited above.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "$400" for "$200" in introductory provisions.
@@ -84,7 +86,7 @@ Subsec. (a)(4). Pub. L. 97–60 added par. (4).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §412(1), (2), substituted "an officer of an armed force is entitled" for "a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled".
 
-Subsecs. (c), (d). Pub. L. 96–513, §412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating tolimitations on qualifications for initial allowances by certain officers, was struck out.
+Subsecs. (c), (d). Pub. L. 96–513, §412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
 
 Subsec. (e). Pub. L. 96–513, §412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
 
@@ -99,6 +101,8 @@ Subsec. (e). Pub. L. 96–513, §412(3), struck out subsec. (e) relating to unif
 Subsec. (e). Pub. L. 89–444 substituted "section 214 of title 14" for "section 435 of title 14".
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -115,6 +119,8 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under section 206 of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

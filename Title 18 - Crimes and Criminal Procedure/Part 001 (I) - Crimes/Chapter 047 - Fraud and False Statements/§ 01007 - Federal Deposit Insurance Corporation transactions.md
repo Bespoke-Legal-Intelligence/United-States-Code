@@ -1,6 +1,6 @@
 ### §1007. Federal Deposit Insurance Corporation transactions
 
-Whoever, for the purpose of influencing in any way the action of the Federal Deposit Insurance Corporation, knowingly makes or invites reliance on a false, forged, or counterfeit statement, document, or thing shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+Whoever, for the purpose of influencing in any way the action of the Federal Deposit InsuranceCorporation, knowingly makes or invites reliance on a false, forged, or counterfeit statement, document, or thing shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, §961(f), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(f), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330002(c), Sept. 13, 1994, 108 Stat. 2140.)
 
@@ -11,6 +11,8 @@ Based on section 264(s) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 2
 Words "Federal Deposit Insurance" were inserted before "Corporation" in three places, so as to identify said Corporation, and phrase "under this section" was omitted as no longer applicable, considering transfer of this section to this title.
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

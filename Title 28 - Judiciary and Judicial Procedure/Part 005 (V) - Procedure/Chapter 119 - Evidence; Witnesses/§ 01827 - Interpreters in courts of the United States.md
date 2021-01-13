@@ -38,7 +38,7 @@
 
 (4) Upon the request of any person in any action for which interpreting services established pursuant to subsection (d) are not otherwise provided, the clerk of the court, or other court employee designated by the chief judge, upon the request of the presiding judicial officer, shall, where possible, make such services available to that person on a cost-reimbursable basis, but the judicial officer may also require the prepayment of the estimated expenses of providing such services.
 
-(5) If the Director of the Administrative Office of the United States Courts finds it necessary to develop and administer criterion-referenced performance examinations for purposes of certification, or other examinations for the selection of otherwise qualified interpreters, the Director may prescribe for each examination a uniform fee for applicants to take such examination. In determining the rate of the fee for each examination, the Director shall consider the feescharged by other organizations for examinations that are similar in scope or nature. Notwithstanding section 3302(b) of title 31, the Director is authorized to provide in any contract or agreement for the development or administration of examinations and the collection of fees that the contractor may retain all or a portion of the fees in payment for the services. Notwithstanding paragraph (6) of this subsection, all fees collected after the effective date of this paragraph and not retained by a contractor shall be deposited in the fund established under section 1931 of this title and shall remain available until expended.
+(5) If the Director of the Administrative Office of the United States Courts finds it necessary to develop and administer criterion-referenced performance examinations for purposes of certification, or other examinations for the selection of otherwise qualified interpreters, the Director may prescribe for each examination a uniform fee for applicants to take such examination. In determining the rate of the fee for each examination, the Director shall consider the fees charged by other organizations for examinations that are similar in scope or nature. Notwithstanding section 3302(b) of title 31, the Director is authorized to provide in any contract or agreement for the development or administration of examinations and the collection of fees that the contractor may retain all or a portion of the fees in payment for the services. Notwithstanding paragraph (6) of this subsection, all fees collected after the effective date of this paragraph and not retained by a contractor shall be deposited in the fund established under section 1931 of this title and shall remain available until expended.
 
 (6) Any moneys collected under this subsection may be used to reimburse the appropriations obligated and disbursed in payment for such services.
 
@@ -54,9 +54,11 @@
 
 (Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–317, title III, §306, title IV, §402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of the enactment of the Judicial Improvements and Access to Justice Act, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 100–702, which was approved Nov. 19, 1988.
+The date of the enactment of the Judicial Improvements and Access to Justice Act, referred to in subsec.\(b)(1), is the date of enactment of Pub. L. 100–702, which was approved Nov. 19, 1988.
 
 The Judicial Improvements and Access to Justice Act, referred to in subsec. (g)(1), is Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4642. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
@@ -96,6 +98,8 @@ Subsec. (j). Pub. L. 100–702, §708, amended subsec. (j) generally. Prior to a
 
 Subsec. (k). Pub. L. 100–702, §709, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The interpretation provided by certified interpreters pursuant to this section shall be in the consecutive mode except that the presiding judicial officer, with the approval of all interested parties, may authorize a simultaneous or summary interpretation when such officer determines that such interpretation will aid in the efficient administration of justice. The presiding judicial officer on such officer's motion or on the motion of a party may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (i) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
@@ -114,7 +118,7 @@ For short title of Pub. L. 95–539 as "Court Interpreters Act", see Short Title
 
 #### Payment for Contractual Services
 
-Pub. L. 104–317, title IV, §402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: "Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code."
+Pub. L. 104–317, title IV, §402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: "Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) aprovision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code."
 
 #### Impact on Existing Programs
 

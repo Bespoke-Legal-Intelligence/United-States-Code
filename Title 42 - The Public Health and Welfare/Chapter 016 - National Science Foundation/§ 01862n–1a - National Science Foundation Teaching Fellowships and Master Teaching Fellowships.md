@@ -52,7 +52,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
 
-&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teacherswith bachelor's degrees in their field and working toward a master's degree—
+&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
 
 &emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
 
@@ -106,7 +106,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(E) the number and quality of the individuals that will be served by the program; and
 
-&emsp;&emsp;(F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching and individuals identified in section 1885a or 1885b of this title.
+&emsp;&emsp;(F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching, individuals identified in section 1885a or 1885b of this title, and veterans.
 
 #### (4) Selection of fellows
 
@@ -124,7 +124,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 #### (B) Promoting participation of certain individuals
 
-&emsp;&emsp;Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+&emsp;&emsp;Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 #### (e) Duties of National Science Foundation Teaching Fellows and Master Teaching Fellows
 
@@ -134,7 +134,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (1) In general
 
-&emsp;An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree not to reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
+&emsp;An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree notto reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
 
 #### (2) Amount and duration
 
@@ -180,7 +180,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), subsections (e), (f), (g), and (h) of section 1862n–1 of this title shall apply to eligible entities and recipients of fellowships under this section, asapplicable, in the same manner as such subsections apply to eligible entities and recipients of scholarships and stipends under section 1862n–1 of this title, as applicable.
+&emsp;Except as provided in paragraph (2), subsections (e), (f), (g), and (h) of section 1862n–1 of this title shall apply to eligible entities and recipients of fellowships under this section, as applicable, in the same manner as such subsections apply to eligible entities and recipients of scholarships and stipends under section 1862n–1 of this title, as applicable.
 
 #### (2) Amount of repayment
 
@@ -214,7 +214,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;&emsp;(E) conducting pilot programs to improve teacher service and retention.
 
-(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003; Pub. L. 115–303, §2(a)(2), Dec. 11, 2018, 132 Stat. 4399.)
+(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003; Pub. L. 115–303, §2(a)(2), Dec. 11, 2018, 132 Stat. 4399; Pub. L. 116–115, §3(e), Feb. 11, 2020, 134 Stat. 107.)
 
 #### Codification
 
@@ -223,6 +223,10 @@ Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the Nationa
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(3)(F). Pub. L. 116–115, §3(e)(1), substituted ", individuals" for "and individuals" and inserted ", and veterans" before period at end.
+
+Subsec. (d)(4)(B). Pub. L. 116–115, §3(e)(2), inserted "and veterans" before period at end.
 
 <b>2018</b>—Subsec. (c)(4)(C). Pub. L. 115–303 added subpar. (C).
 

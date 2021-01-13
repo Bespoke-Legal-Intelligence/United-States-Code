@@ -14,13 +14,15 @@ The Comptroller General of the United States or any of his duly authorized repre
 
 #### (d) Recipients of assistance subject to provisions of section
 
-The provisions of this section shall apply to all recipients of assistance under this chapter,whether by direct grant, cooperative agreement, or contract under this chapter or by subgrant or subcontract from primary grantees or contractors under this chapter.
+The provisions of this section shall apply to all recipients of assistance under this chapter, whether by direct grant, cooperative agreement, or contract under this chapter or by subgrant or subcontract from primary grantees or contractors under this chapter.
 
 #### (e) Revolving fund for acquisition of stolen goods and property within Bureau of Justice Assistance
 
 There is hereby established within the Bureau of Justice Assistance a revolving fund for the purpose of supporting projects that will acquire stolen goods and property in an effort to disrupt illicit commerce in such goods and property. Notwithstanding any other provision of law, any income or royalties generated from such projects together with income generated from any sale or use of such goods or property, where such goods or property are not claimed by their lawful owner, shall be paid into the revolving fund. Where a party establishes a legal right to such goods or property, the Administrator of the fund may in his discretion assert a claim against the property or goods in the amount of Federal funds used to purchase such goods or property. Proceeds from such claims shall be paid into the revolving fund. The Administrator is authorized to make disbursements by appropriate means, including grants, from the fund for the purpose of this section.
 
 (Pub. L. 90–351, title I, §811, formerly §817, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1212; renumbered §811 and amended Pub. L. 98–473, title II, §609B(f), (j), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 103–322, title XXXIII, §330001(h)(12), Sept. 13, 1994, 108 Stat. 2139.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -37,6 +39,8 @@ A prior section 811 of Pub. L. 90–351 was classified to section 3789 of Title 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–473, §609B(j)(1), substituted "Office of Justice Programs" for "Office of Justice Assistance, Research, and Statistics" wherever appearing.
 
 Subsecs. (d) to (f). Pub. L. 98–473, §609B(j)(2), (3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) relating to civil rights regulations and conforming changes of the regulations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -28,7 +28,7 @@ An eligible entity desiring to receive a subgrant under this section shall submi
 
 #### (c) Priority
 
-In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use the grant funds to implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use the grant fundsto implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (d) Local uses of funds
 

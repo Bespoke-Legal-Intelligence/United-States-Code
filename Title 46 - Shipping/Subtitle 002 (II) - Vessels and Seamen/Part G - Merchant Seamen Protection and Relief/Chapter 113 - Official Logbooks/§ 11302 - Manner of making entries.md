@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 46:202
 
-Section 11302 describes the manner in which entries shall be made in the logbook, specifying when theyshall be made, who shall sign them, and requiring that they shall be dated.
+Section 11302 describes the manner in which entries shall be made in the logbook, specifying when they shall be made, who shall sign them, and requiring that they shall be dated.
 

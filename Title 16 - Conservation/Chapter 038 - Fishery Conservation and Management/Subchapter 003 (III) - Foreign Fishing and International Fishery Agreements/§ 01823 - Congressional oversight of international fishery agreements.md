@@ -48,7 +48,7 @@ Any document described in subsection (a) shall be immediately referred in the Ho
 
 &emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal,the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
+&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
 
 &emsp;(D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 104–297, §105(c)(4), (5), redesignated subsec. (d) as (c
 
 &emsp;"(1) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;"(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 60-day period."
+&emsp;"(2) the days on which either House is not in session because of an adjournment of more than 3 daysto a day certain are excluded in the computation of the 60-day period."
 
 Subsec. (c)(2)(A). Pub. L. 104–297, §105(c)(6), substituted "agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement" for "agreement".
 
@@ -114,7 +114,7 @@ In General.—The advisory body established pursuant to this section shall consi
 
 &emsp;&emsp;"(B) The Commission of the Department of Fish and Game of the State of Alaska.
 
-&emsp;&emsp;"(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge andexperience in commercial harvesting, processing, or marketing of fishery resources.
+&emsp;&emsp;"(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources.
 
 &emsp;&emsp;"(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources.
 

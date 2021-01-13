@@ -68,9 +68,11 @@ An alien who shall willfully fail to comply with regulations or requirements iss
 
 #### (d) Discontinuing granting visas to nationals of country denying or delaying accepting alien
 
-On being notified by the Attorney General that the government of a foreign country deniesor unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
+On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §243, 66 Stat. 212; Pub. L. 89–236, §11(f), Oct. 3, 1965, 79 Stat. 918; Pub. L. 95–549, title I, §104, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–212, title II, §203(e), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §18(i), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 101–649, title V, §515(a)(2), title VI, §603(b)(3), Nov. 29, 1990, 104 Stat. 5053, 5085; Pub. L. 104–132, title IV, §413(a), (f), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsec. (h)(2). Pub. L. 101–649, §515(a)(2), inserted sentence at end relatin
 <b>1978</b>—Subsec. (h). Pub. L. 95–549 inserted "(other than an alien described in section 1251(a) of this title)" before "within the United States".
 
 <b>1965</b>—Subsec. (h). Pub. L. 89–236 substituted "persecution on account of race, religion, or political opinion" for "physical persecution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendments
 
@@ -126,7 +130,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 

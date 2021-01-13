@@ -2,9 +2,9 @@
 
 (a) The Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, shall prescribe regulations for the administration of sections 301d, 302 through 302j, and 303 of this title.
 
-(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
+(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
-(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
+(2) A commissioned medical officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
 
 &emsp;(A) Section 338B of the Public Health Service Act (42 U.S.C. 254l–1).
 
@@ -72,7 +72,9 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;&emsp;(iv) to perform duty for a specified period of time.
 
-(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title X, §1075(c)(1), Jan. 7, 2011, 124 Stat. 4372.)
+(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title X, §1075(c)(1), Jan. 7, 2011, 124 Stat. 4372.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,6 +136,12 @@ Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted "30
 
 Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section 302c of this title and inserted reference to separation pay.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
@@ -149,4 +157,6 @@ Amendment by Pub. L. 100–140 effective Oct. 26, 1987, and applicable to pay pe
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

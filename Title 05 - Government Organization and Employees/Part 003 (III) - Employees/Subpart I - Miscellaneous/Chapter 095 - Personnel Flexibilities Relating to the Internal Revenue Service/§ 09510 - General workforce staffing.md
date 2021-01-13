@@ -16,7 +16,7 @@
 
 (2) Each applicant who meets the minimum qualification requirements for the position to be filled shall be assigned to an appropriate category based on an evaluation of the applicant's knowledge, skills, and abilities relative to those needed for successful performance in the position to be filled.
 
-(3) Within each quality category established under paragraph (1), preference eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at or higher than GS–9 (or equivalent), preference eligibles who have a compensable service-connected disability of 10 percent or more, and who meet the minimum qualification standards, shall be listed in the highest quality category.
+(3) Within each quality category established under paragraph (1), preference eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at or higher than GS–9 (or equivalent), preference eligibles who have acompensable service-connected disability of 10 percent or more, and who meet the minimum qualification standards, shall be listed in the highest quality category.
 
 (4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assigned to the highest quality category, from a merged category consisting of the highest and second highest quality categories.
 
@@ -33,6 +33,8 @@
 &emsp;(2) any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, §2(c), Mar. 18, 2016, 130 Stat. 312.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

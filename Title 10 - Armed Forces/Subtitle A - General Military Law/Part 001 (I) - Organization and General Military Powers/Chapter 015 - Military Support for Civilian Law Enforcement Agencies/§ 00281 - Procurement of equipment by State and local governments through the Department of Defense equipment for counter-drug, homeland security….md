@@ -10,7 +10,7 @@ Procedures.—(1) The Secretary of Defense shall establish procedures in accorda
 
 &emsp;&emsp;(ii) Advance payment for such equipment, in an amount determined by the Secretary based on estimated or actual costs of the equipment and administrative costs incurred by the Department.
 
-&emsp;(B) A State may include in a request submitted under subparagraph (A) only the type of equipment listed in the catalog produced under subsection (c).
+&emsp;(B) A State may include in a request submitted under subparagraph (A) only the typeof equipment listed in the catalog produced under subsection (c).
 
 &emsp;(C) A request for equipment shall consist of an enumeration of the equipment that is desired by the State and units of local government within the State. The Governor of a State may establish such procedures as the Governor considers appropriate for administering and coordinating requests for equipment from units of local government within the State.
 

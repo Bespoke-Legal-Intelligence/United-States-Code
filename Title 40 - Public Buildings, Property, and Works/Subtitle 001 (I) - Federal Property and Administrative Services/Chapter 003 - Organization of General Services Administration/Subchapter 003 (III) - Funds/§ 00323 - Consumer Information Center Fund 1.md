@@ -22,7 +22,7 @@ Expenditures.—Money deposited into the Fund is available for expenditure for C
 
 (d)
 
-Unobligated Balances.—Any unobligated balances at the end of a fiscal year remain inthe Fund and are available for authorization in appropriation laws for subsequent fiscal years.
+Unobligated Balances.—Any unobligated balances at the end of a fiscal year remain in the Fund and are available for authorization in appropriation laws for subsequent fiscal years.
 
 (e)
 
@@ -59,6 +59,8 @@ In subsection (a), the words "Notwithstanding any other provision of law" are om
 In subsection (b), the words "for fiscal year 1983 and subsequent fiscal years" are omitted as obsolete and unnecessary.
 
 In subsection (e), the words "Notwithstanding any other provision of law" and "during fiscal year 1998 and hereafter" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

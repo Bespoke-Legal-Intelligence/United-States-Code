@@ -4,7 +4,7 @@
 
 &emsp;(1) the Secretary of Defense shall, subject to the availability of appropriations, allow an individual who—
 
-&emsp;&emsp;(A) is separated from the active military, naval, or air service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
+&emsp;&emsp;(A) is separated from the active military, naval, air, or space service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
 
 &emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) the Secretary, in consultation with the Secretary of Defense, shall, subject to the availability of appropriations, allow an individual who—
 
-&emsp;&emsp;(A) separated before October 23, 1992, from the active military, naval, or air service with an honorable discharge and received or is receiving voluntary separation incentives under section 1174a or 1175 of title 10;
+&emsp;&emsp;(A) separated before October 23, 1992, from the active military, naval, air, or space service with an honorable discharge and received or is receiving voluntary separation incentives under section 1174a or 1175 of title 10;
 
 &emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
@@ -40,13 +40,17 @@
 
 &emsp;(A) as provided in section 3223(b) of this title, to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title; and
 
-&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
+&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made bysuch Secretary to the Account on behalf of such individual.
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 116–283, div. A, title IX, §926(a)(40), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2002</b>—Subsec. (a)(1)(C), (2)(C). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
@@ -59,6 +63,8 @@ Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitut
 Subsec. (d)(1). Pub. L. 103–446, §1201(e)(11)(A), substituted "(a)(2)(D) of this section" for "(a)(2)(D) of this subsection".
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(5), (e)(11)(B), substituted "such account" for "such Account" and "section 3015(f) of this title" for "section 3015(e) of this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

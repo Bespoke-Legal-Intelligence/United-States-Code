@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to subsections (b) and (c), the Secretary may assist a veteran who is entitled to services and assistance under chapter 31 of this title and is pursuing a rehabilitation program under such chapter in acquiring such adaptations to such veteran's residence as are determined necessary by the Secretary to accomplish the purposes of such rehabilitation program.
+In General.—Subject to subsections (b) and (c), the Secretary may assist a veteran whois entitled to services and assistance under chapter 31 of this title and is pursuing a rehabilitation program under such chapter in acquiring such adaptations to such veteran's residence as are determined necessary by the Secretary to accomplish the purposes of such rehabilitation program.
 
 (b)
 
@@ -21,6 +21,8 @@ Regulations.—The Secretary shall prescribe such regulations as may be necessar
 Rehabilitation Program Defined.—In this section, the term "rehabilitation program" has the meaning given such term in section 3101 of this title.
 
 (Added Pub. L. 115–177, §1(a), June 1, 2018, 132 Stat. 1376.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

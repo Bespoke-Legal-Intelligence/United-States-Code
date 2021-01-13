@@ -58,7 +58,7 @@
 
 > The Secretary may, from time to time, change the election under this subparagraph.
 
-(B) Any veteran, under a loan described in subparagraph (A)(i), may pay reasonable discount points in connection with the loan. Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount points may not be financed as part of the principal amount of a loan guaranteed or insured under this chapter.
+(B) Any veteran, under a loan described in subparagraph (A)(i), may pay reasonable discountpoints in connection with the loan. Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount points may not be financed as part of the principal amount of a loan guaranteed or insured under this chapter.
 
 (C) Not later than 10 days after an election under subparagraph (A), the Secretary shall transmit to the Committees on Veterans' Affairs of the Senate and House of Representatives a notification of the election, together with an explanation of the reasons therefor.
 
@@ -92,7 +92,9 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, §6(a)(1), June 25, 2019, 133 Stat. 973.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V,§504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, §6(a)(1), June 25, 2019, 133 Stat. 973.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -254,13 +256,15 @@ Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate
 
 <b>1967</b>—Subsec. (a)(3)(A). Pub. L. 90–77 extended in cls. (i) and (ii) loan program for certain World War II veterans from July 25, 1967 to July 25, 1970.
 
-<b>1966</b>—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary of the Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 5¼ per centum per annum.
+<b>1966</b>—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary ofthe Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 5¼ per centum per annum.
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–84 substituted "to a World War II or Korean conflict veteran, if made within the applicable period prescribed in paragraph (3) of this subsection" for "made to a World War II veteran, if made before July 26, 1962 (or, in the case of a veteran described in section 1801(a)(1)(B) of this title, before the expiration of fifteen years after World War II is deemed to have ended with respect to him), or to a Korean conflict veteran, if made before February 1, 1965," in par. (1), and "is received by the Administrator before the date of the expiration of the veteran's entitlement, the loan" for "to a World War II veteran, whose entitlement would otherwise expire on July 25, 1962, has been received by the Administrator before July 26, 1962, such loan" in par. (2), and added par. (3).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–665 substituted "1962" for "1960" in three places, "fifteen" for "thirteen" years, and "after such date" for "before July 26, 1961".
 
 <b>1959</b>—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans' Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 4¾ to 5¼ percent.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -280,7 +284,7 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first dayafter the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of this title.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of this title.
 
 #### Effective Date of 1989 Amendment
 

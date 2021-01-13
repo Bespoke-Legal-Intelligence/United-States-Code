@@ -2,7 +2,7 @@
 
 #### (a) Regulations issued by Committee on Rules and Administration
 
-Subject to such regulations as may hereafter be issued by the Committee on Rules and Administration of the Senate, the Sergeant at Arms shall have the authority, with respect to telephone equipment and services provided to any user on a reimbursable basis (including repair or replacement), solely for the purposes of this section, to make such certification as may be necessary to establish such services and equipment as official, issue invoices in conjunction therewith, and receive payment for such services and equipment by certification, voucher, or otherwise.
+Subject to such regulations as may hereafter be issued by the Committee on Rules and Administration of the Senate, the Sergeant at Arms shall have the authority, with respect to telephone equipment and services provided to any user on a reimbursable basis (including repair or replacement), solely for the purposes of this section, to make such certification as may be necessary to establish such services andequipment as official, issue invoices in conjunction therewith, and receive payment for such services and equipment by certification, voucher, or otherwise.
 
 #### (b) Equipment and services provided on reimbursable basis
 
@@ -22,6 +22,8 @@ Nothing in sections 6621 to 6623 of this title shall be construed as limiting or
 
 (Pub. L. 100–123, §2, Oct. 5, 1987, 101 Stat. 794; Pub. L. 101–163, title I, §3, Nov. 21, 1989, 103 Stat. 1044.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 58a–2 of this title prior to editorial reclassification and renumbering as this section.
@@ -29,6 +31,8 @@ Section was formerly classified to section 58a–2 of this title prior to editor
 #### Amendments
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–163 inserted "and all other moneys received by the Sergeant at Arms as charges or commissions for telephone services," after "by the Sergeant at Arms),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

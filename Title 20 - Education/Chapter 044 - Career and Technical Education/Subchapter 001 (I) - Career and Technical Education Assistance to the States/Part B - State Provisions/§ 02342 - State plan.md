@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) may submit such annual revisions of the State plan to the Secretary as the eligible agency determines to be necessary; and
 
-&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.
+&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submitany revisions of the State plan that the eligible agency determines necessary to the Secretary.
 
 #### (3) Hearing process
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) develop the State plan in consultation with—
 
-&emsp;&emsp;&emsp;(i) representatives of secondary and postsecondary career and technical education programs, including eligible recipients andrepresentatives of 2-year minority-serving institutions and historically Black colleges and universities and tribally controlled colleges or universities in States where such institutions are in existence, adult career and technical education providers, and charter school representatives in States where such schools are in existence, which shall include teachers, faculty, school leaders, specialized instructional support personnel, career and academic guidance counselors, and paraprofessionals;
+&emsp;&emsp;&emsp;(i) representatives of secondary and postsecondary career and technical education programs, including eligible recipients and representatives of 2-year minority-serving institutions and historically Black colleges and universities and tribally controlled colleges or universities in States where such institutions are in existence, adult career and technical education providers, and charter school representatives in States where such schools are in existence, which shall include teachers, faculty, school leaders, specialized instructional support personnel, career and academic guidance counselors, and paraprofessionals;
 
 &emsp;&emsp;&emsp;(ii) interested community representatives, including parents, students, and community organizations;
 
@@ -78,7 +78,7 @@
 
 The State plan shall include—
 
-&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study are aligned with and address the education and skill needs of the employers in the State identified by the State board;
+&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study arealigned with and address the education and skill needs of the employers in the State identified by the State board;
 
 &emsp;(2) the State's strategic vision and set of goals for preparing an educated and skilled workforce (including special populations) and for meeting the skilled workforce needs of employers, including in existing and emerging in-demand industry sectors and occupations as identified by the State, and how the State's career and technical education programs will help to meet these goals;
 
@@ -220,7 +220,7 @@ The State plan shall include—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

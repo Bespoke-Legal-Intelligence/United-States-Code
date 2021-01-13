@@ -56,7 +56,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any long-term lease of an article which is treated as the first retail saleof such article, the tax under this subchapter shall be computed on a price equal to—
+&emsp;&emsp;In the case of any long-term lease of an article which is treated as the first retail sale of such article, the tax under this subchapter shall be computed on a price equal to—
 
 &emsp;&emsp;&emsp;(i) the sum of—
 
@@ -132,7 +132,7 @@ The Secretary shall prescribe regulations which permit, in lieu of any other cer
 
 #### Prior Provisions
 
-A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that lease of an article would beconsidered the sale of article for excise tax purposes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
+A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that lease of an article would be considered the sale of article for excise tax purposes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
 

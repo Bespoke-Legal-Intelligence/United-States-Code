@@ -26,6 +26,8 @@ This section does not alter any eligibility requirement for general assistance f
 
 (Pub. L. 100–297, title V, §5404, Apr. 28, 1988, 102 Stat. 416; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 107–110, title X, §1045, Jan. 8, 2002, 115 Stat. 2080; Pub. L. 110–315, title IX, §941(k)(2)(G), Aug. 14, 2008, 122 Stat. 3466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -38,11 +40,13 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2), is Pub. L. 89�
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–110, §1045(1), added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: "The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments fromthe Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—".
+<b>2002</b>—Subsec. (a). Pub. L. 107–110, §1045(1), added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: "The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—".
 
 Subsec. (a)(4). Pub. L. 107–110, §1045(2), added par. (4) and struck out former par. (4) which read as follows: "other programs or training approved by the Secretary."
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted "Tribally Controlled College or University Assistance Act of 1978" for "Tribally Controlled Community College Assistance Act of 1978".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -8,7 +8,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (1) Transfer authority
 
-&emsp;Notwithstanding the authority under subsection (a) and the last sentence of section 1710(g) of this title, the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transferand the Secretary determines that such transfer is practicable.
+&emsp;Notwithstanding the authority under subsection (a) and the last sentence of section 1710(g) of this title, the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
 
 #### (2) Qualified HUD properties
 
@@ -84,7 +84,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (9) Inapplicability to properties made available for homeless
 
-&emsp;Notwithstanding any other provision of this subsection, this subsection shall not apply toany properties that the Secretary determines are to be made available for use by the homeless pursuant to subpart E of part 291 of title 24, Code of Federal Regulations, during the period that the properties are so available.
+&emsp;Notwithstanding any other provision of this subsection, this subsection shall not apply to any properties that the Secretary determines are to be made available for use by the homeless pursuant to subpart E of part 291 of title 24, Code of Federal Regulations, during the period that the properties are so available.
 
 #### (10) Protection of existing contracts
 
@@ -120,7 +120,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) lacks hot or cold piped water, a flush toilet, or both a bathtub and a shower in the unit, for the exclusive use of that unit;
 
-&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to a malfunction of the heating system for the unit;
+&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to amalfunction of the heating system for the unit;
 
 &emsp;&emsp;&emsp;(iii) has no functioning electrical service, exposed wiring, any room in which there is not a functioning electrical outlet, or has experienced three or more blown fuses or tripped circuit breakers during the preceding 90-day period;
 
@@ -156,6 +156,8 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 (Pub. L. 104–204, title II, §204, Sept. 26, 1996, 110 Stat. 2894; Pub. L. 105–65, title II, §213, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §206, Oct. 21, 1998, 112 Stat. 2484; Pub. L. 106–74, title V, §537, Oct. 20, 1999, 113 Stat. 1122; Pub. L. 106–377, §1(a)(1) \[title II, §204\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 106–554, §1(a)(7) \[title I, §141\], Dec. 21, 2000, 114 Stat. 2763, 2763A–614; Pub. L. 109–171, title II, §2003(a), Feb. 8, 2006, 120 Stat. 9.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, and not as part of the National Housing Act which comprises this chapter.
@@ -173,6 +175,8 @@ Pub. L. 106–377 substituted "2000, and thereafter" for "and 2000".
 <b>1998</b>—Pub. L. 105–276 substituted "fiscal years 1997, 1998, and 1999" for "fiscal years 1997 and 1998".
 
 <b>1997</b>—Pub. L. 105–65 inserted ", including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition," after "owned by the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

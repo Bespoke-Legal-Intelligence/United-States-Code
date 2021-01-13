@@ -114,7 +114,7 @@ Pub. L. 115–91, div. A, title III, §322, Dec. 12, 2017, 131 Stat. 1353, provi
 
 "(a)
 
-In General.—The Secretary of Defense may authorize an installation commander to realign up to 7.5 percent of an installation's sustainment funds to restoration and modernization.
+In General.—The Secretary of Defense may authorize an installation commander to realign up to 7.5percent of an installation's sustainment funds to restoration and modernization.
 
 "(b)
 
@@ -194,7 +194,7 @@ In general.—The term 'beneficial owner'—
 
 &emsp;&emsp;"(B)
 
-Anti-abuse rule.—The exceptions under subparagraph (A)(ii) shall not apply if used for thepurpose of evading, circumventing, or abusing the requirements of this section.
+Anti-abuse rule.—The exceptions under subparagraph (A)(ii) shall not apply if used for the purpose of evading, circumventing, or abusing the requirements of this section.
 
 &emsp;"(2)
 

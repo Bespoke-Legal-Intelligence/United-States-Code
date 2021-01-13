@@ -20,7 +20,7 @@
 
 #### (b) Prohibitions
 
-A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not—
+A group health plan, and a health insurance issuer offering group health insurance coveragein connection with a group health plan, may not—
 
 &emsp;(1) deny to the mother or her newborn child eligibility, or continued eligibility, to enroll or to renew coverage under the terms of the plan, solely for the purpose of avoiding the requirements of this section;
 
@@ -70,9 +70,13 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 (Pub. L. 93–406, title I, §711, as added Pub. L. 104–204, title VI, §603(a)(5), Sept. 26, 1996, 110 Stat. 2935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

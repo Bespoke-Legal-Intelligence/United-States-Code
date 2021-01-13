@@ -32,7 +32,7 @@ In connection with any project undertaken pursuant to this subchapter, provision
 
 #### (6) Effect
 
-&emsp;Nothing in this section alters or affects any agreement in effect on December 19, 2014, forthe development of hydropower projects or disposition of revenues.
+&emsp;Nothing in this section alters or affects any agreement in effect on December 19, 2014, for the development of hydropower projects or disposition of revenues.
 
 (Aug. 11, 1939, ch. 717, §9, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124; Pub. L. 113–291, div. B, title XXX, §3087, Dec. 19, 2014, 128 Stat. 3857.)
 

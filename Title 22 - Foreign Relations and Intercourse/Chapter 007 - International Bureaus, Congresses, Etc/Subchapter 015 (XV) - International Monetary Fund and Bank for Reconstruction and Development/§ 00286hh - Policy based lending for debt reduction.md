@@ -26,7 +26,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (c) Voluntary market-based program for debt reduction and sustainable growth
 
-In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
+In connection with the discussions initiated pursuant to subsection (b), the Secretary shallinstruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
 
 #### (d) Reports
 
@@ -46,6 +46,8 @@ On receipt of each report required to be submitted pursuant to subsection (d), a
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 111–203, title IX, §939(f), July 21, 2010, 124 Stat. 1886.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on section 3 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
@@ -56,13 +58,15 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–203 substituted "credit-worthiness" for "credit rating".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, setout as a note under section 24a of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

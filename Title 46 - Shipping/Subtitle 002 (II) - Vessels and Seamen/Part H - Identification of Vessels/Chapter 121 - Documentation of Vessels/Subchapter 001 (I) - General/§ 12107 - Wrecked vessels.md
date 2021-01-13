@@ -34,6 +34,8 @@ The words "The Secretary of Transportation may issue a certificate of documentat
 
 In subsection (c)(1), the words "or her possessions" are omitted as unnecessary because of the definition of "United States" in chapter 1 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12107, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 100–239, §6(a)(4), (5), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 101–225, title III, §301(a)(7), Dec. 12, 1989, 103 Stat. 1921, originally derived from section 65j of former Title 46, Shipping, related to Great Lakes endorsements, prior to being repealed by Pub. L. 104–324, title XI, §1115(a), Oct. 19, 1996, 110 Stat. 3972.
@@ -42,5 +44,5 @@ A prior section 12108, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98�
 
 A prior section 12109, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 99–36, §1(a)(7)(C), May 15, 1985, 99 Stat. 67; Pub. L. 99–570, title III, §3151, Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752; Pub. L. 101–225, title III, §301(a)(9), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 101–595, title VI, §603(9), Nov. 16, 1990, 104 Stat. 2993, originally derived from section 65l of former Title 46, Shipping, related to recreational endorsements, prior to being omitted in the general amendment of this chapter by Pub. L. 109–304. See section 12114 of this title.
 
-A prior section 12110, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 99–36, §1(a)(7)(D), May 15, 1985, 99 Stat. 67; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(10), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 102–388, title III, §348(b), Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–587, title V, §5213(a)(2), Nov. 4, 1992, 106 Stat. 5077; Pub. L. 104–324, title III, §301(c), (d)(1), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 108–293, title IV, §404(a), Aug. 9, 2004, 118 Stat. 1043, originally derived from section 65m of former Title 46, Shipping, related to limitations on operations authorized by certificates, prior to being omitted in the general amendment of this chapter by Pub. L. 109–304. See sections 12102, 12114, and 12131 of this title.
+A prior section 12110, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 99–36, §1(a)(7)(D), May 15, 1985, 99 Stat. 67; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(10), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 102–388, title III, §348(b), Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–587, title V, §5213(a)(2), Nov. 4, 1992, 106 Stat. 5077; Pub. L. 104–324, title III, §301(c), (d)(1), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 108–293, title IV, §404(a), Aug. 9, 2004, 118 Stat. 1043, originally derived from section 65m of former Title 46,Shipping, related to limitations on operations authorized by certificates, prior to being omitted in the general amendment of this chapter by Pub. L. 109–304. See sections 12102, 12114, and 12131 of this title.
 

@@ -10,11 +10,15 @@
 
 (June 27, 1952, ch. 477, title III, ch. 2, §343, 66 Stat. 263; Pub. L. 100–525, §9(ee), Oct. 24, 1988, 102 Stat. 2621.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–525 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struck out former subsec. (a) which read as follows: "A person who claims to have been naturalized in the United States under section 323 of the Nationality Act of 1940 may make application to the Attorney General for a certificate of naturalization. Upon proof to the satisfaction of the Attorney General that the applicant is a citizen and that he has been naturalized as claimed in the application, such individual shall be furnished a certificate of naturalization by the Attorney General, but only if the applicant is at the time within the United States."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

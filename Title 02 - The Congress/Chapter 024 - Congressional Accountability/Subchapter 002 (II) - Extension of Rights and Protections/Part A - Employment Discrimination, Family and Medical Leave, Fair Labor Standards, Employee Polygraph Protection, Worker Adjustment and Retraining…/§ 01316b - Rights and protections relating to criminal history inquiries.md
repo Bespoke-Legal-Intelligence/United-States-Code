@@ -38,7 +38,7 @@ In this section, the terms "agency", "criminal history record information", and 
 
 #### (2) Parallel with agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of theFair Chance to Compete for Jobs Act of 2019 <sup>1</sup> to implement the statutory provisions referred to in subsections (a) through (c) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 <sup>1</sup> to implement the statutory provisions referred to in subsections (a) through (c) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (e) Effective date
 
@@ -46,11 +46,13 @@ Section 1302(a)(12) of this title and subsections (a) through (c) shall take eff
 
 (Pub. L. 104–1, title II, §207, as added Pub. L. 116–92, div. A, title XI, §1122(d)(1)(C), Dec. 20, 2019, 133 Stat. 1608.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (c)(2), was in the original "this title", meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
-Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (d)(2), probably means section 1122(b)(1) of Pub. L. 116–92, which relates to regulations and is set out as a note under section 9201 of Title 5, Government Organization and Employees. Section 1122 of Pub. L. 116–92 is the second section of the Fair Chance to Compete for Jobs Act of 2019, which was enacted as subtitle B of title XI of Pub. L. 116–92.
+Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (d)(2), probably means section 1122(b)(1) of Pub. L. 116–92, which relates to regulations and is set out as a note under section 9201 of Title 5, Government Organization and Employees. Section 1122 of Pub. L. 116–92 is the second section of the Fair Chance to Compete for Jobs Act of 2019,which was enacted as subtitle B of title XI of Pub. L. 116–92.
 
 #### Prior Provisions
 

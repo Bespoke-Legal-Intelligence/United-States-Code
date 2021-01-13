@@ -6,7 +6,7 @@ The Export-Import Bank of the United States shall transmit to the Congress annua
 
 #### (b) Report on allocation of sums set aside for small business exports
 
-(1) The Bank shall include in its annual report to the Congress a report on the allocation of thesums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
+(1) The Bank shall include in its annual report to the Congress a report on the allocation of the sums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
 
 (2) Such report shall specify—
 
@@ -34,7 +34,7 @@ The Bank shall estimate on the basis of an annual survey or tabulation the numbe
 
 #### (e) Outreach to certain small businesses
 
-The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
+The Bank shall include in its annual report to the Congress under subsection (a) of this sectiona description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
 
 #### (f) Additional reports
 
@@ -146,6 +146,8 @@ The Bank shall include in its annual report to Congress under subsection (a) a n
 
 (July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I \[title VI, §§618(b), 623\], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767; Pub. L. 116–94, div. I, title IV, §402(b), Dec. 20, 2019, 133 Stat. 3023.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
@@ -184,11 +186,13 @@ Subsec. (c). Pub. L. 98–181, §618(b)(2), added subsec. (c).
 
 Subsec. (d). Pub. L. 98–181, §623, added subsec. (d).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
+<b>1978</b>—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
 
 <b>1975</b>—Pub. L. 93–646 designated existing provisions as subsec. (a), substituted provisions calling for an annual report as of the close of business on the last day of each fiscal year, for provisions calling for a semiannual report as of the close of business on June 30 and Dec. 31 of each year, and added subsec. (b).
 
 <b>1968</b>—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

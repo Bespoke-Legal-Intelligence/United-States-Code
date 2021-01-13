@@ -42,7 +42,7 @@ The purposes of the Foundation shall be—
 
 #### (4) Compensation
 
-&emsp;Members of the Board shall not receive compensation for their services as members, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall not receive compensation for their services as members, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred bythem in the performance of the duties of the Foundation.
 
 #### (g) Officers
 
@@ -56,7 +56,7 @@ The purposes of the Foundation shall be—
 
 #### (3) Election
 
-&emsp;The manner of election, term of office, and duties of the officers shall be as provided inthe constitution and bylaws of the Foundation.
+&emsp;The manner of election, term of office, and duties of the officers shall be as provided in the constitution and bylaws of the Foundation.
 
 #### (h) Powers
 
@@ -114,6 +114,8 @@ The Foundation shall comply with the audit requirements set forth in section 101
 
 (Pub. L. 93–638, title VIII, §801, formerly title V, §501, as added Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2936; amended Pub. L. 108–267, §1(a),(b)(2), July 2, 2004, 118 Stat. 797; renumbered title VIII, §801, Pub. L. 111–211, title II, §231(d)(1), (2), July 29, 2010, 124 Stat. 2278.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (h)(3), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -127,6 +129,8 @@ Section was formerly classified to section 458ddd of this title prior to editori
 <b>2004</b>—Pub. L. 108–267, §1(b)(2), substituted "National Fund for Excellence in American Indian Education" for "American Indian Education Foundation" in section catchline.
 
 Subsec. (a). Pub. L. 108–267, §1(a), substituted "a foundation to be known as the 'National Fund for Excellence in American Indian Education' (hereinafter referred to as the 'Foundation')" for "the American Indian Education Foundation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(3) the term "developmental disability" has the same meaning as in section 15002 of this title;
 
-&emsp;(4) the term "equipment" has the same meaning given that term by section 198(a)(8) ofthe Elementary and Secondary Education Act of 1965; <sup>1</sup>
+&emsp;(4) the term "equipment" has the same meaning given that term by section 198(a)(8) of the Elementary and Secondary Education Act of 1965; <sup>1</sup>
 
 &emsp;(5) the term "institution of higher education" has the same meaning given that term under section 1001 of title 20;
 

@@ -18,7 +18,7 @@ Each eligible agency receiving funds under this subchapter shall ensure that—
 
 #### (d) Special rule
 
-Each eligible agency awarding a grant or contract under this section shall not use any fundsmade available under this subchapter for adult education and literacy activities for the purpose of supporting or providing programs, services, or activities for individuals who are not individuals described in subparagraphs (A) and (B) of section 3272(4) of this title, except that such agency may use such funds for such purpose if such programs, services, or activities are related to family literacy activities. In providing family literacy activities under this subchapter, an eligible provider shall attempt to coordinate with programs and services that are not assisted under this subchapter prior to using funds for adult education and literacy activities under this subchapter for activities other than activities for eligible individuals.
+Each eligible agency awarding a grant or contract under this section shall not use any funds made available under this subchapter for adult education and literacy activities for the purpose of supporting or providing programs, services, or activities for individuals who are not individuals described in subparagraphs (A) and (B) of section 3272(4) of this title, except that such agency may use such funds for such purpose if such programs, services, or activities are related to family literacy activities. In providing family literacy activities under this subchapter, an eligible provider shall attempt to coordinate withprograms and services that are not assisted under this subchapter prior to using funds for adult education and literacy activities under this subchapter for activities other than activities for eligible individuals.
 
 #### (e) Considerations
 
@@ -63,6 +63,8 @@ In awarding grants or contracts under this section, the eligible agency shall co
 &emsp;(13) whether the local areas in which the eligible provider is located have a demonstrated need for additional English language acquisition programs and civics education programs.
 
 (Pub. L. 113–128, title II, §231, July 22, 2014, 128 Stat. 1618.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

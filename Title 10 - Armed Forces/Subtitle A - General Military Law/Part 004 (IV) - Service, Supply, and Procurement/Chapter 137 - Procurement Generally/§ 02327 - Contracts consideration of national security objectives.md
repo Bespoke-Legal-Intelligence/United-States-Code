@@ -46,7 +46,7 @@ List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall devel
 
 (C) The Secretary shall establish procedures to carry out this paragraph.
 
-(3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless there is a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall not consent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
+(3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless thereis a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall not consent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
 
 (e)
 
@@ -63,6 +63,10 @@ Applicability.—(1) This section does not apply to a contract for an amount les
 Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term "significant interest".
 
 (Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 108–136, div. A, title X, §1031(a)(16), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 114–328, div. A, title X, §1081(b)(3)(C), Dec. 23, 2016, 130 Stat. 2418.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1837(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4241, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 283 of this title, as added by section 1837(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter I, and redesignated as section 3881 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -93,6 +97,10 @@ Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) w
 <b>1987</b>—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted "50 U.S.C. App." for "50 U.S.C." in parenthetical after "Export Administration Act of 1979".
 
 Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

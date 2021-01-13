@@ -20,6 +20,8 @@ The following shall be nationals and citizens of the United States at birth:
 
 (June 27, 1952, ch. 477, title III, ch. 1, §301, 66 Stat. 235; Pub. L. 89–770, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 92–584, §§1, 3, Oct. 27, 1972, 86 Stat. 1289; Pub. L. 95–432, §§1, 3, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 99–653, §12, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 103–416, title I, §101(a), Oct. 25, 1994, 108 Stat. 4306.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–416 added subsec. (h).
@@ -30,7 +32,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 Subsec. (b). Pub. L. 95–432, §1, struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period of not less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
 
-Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that former subsec. (b) apply to persons born abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
+Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that former subsec. (b) apply to personsborn abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
 
 Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that nothing in former subsec. (b) be construed to alter the citizenship of any person who came into the United States prior to Oct. 27, 1972, and who, whether before or after Oct. 27, 1972, immediately following such coming complied with the physical presence requirements for retention of citizenship specified in former subsec. (b), prior to amendment of former subsec. (b) by Pub. L. 92–584.
 
@@ -39,6 +41,8 @@ Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that n
 Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
 <b>1966</b>—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -66,7 +70,7 @@ Pub. L. 103–416, title I, §101(c), Oct. 25, 1994, 108 Stat. 4306, provided th
 
 #### Applicability of Transmission Requirements
 
-Pub. L. 103–416, title I, §101(d), Oct. 25, 1994, 108 Stat. 4306, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(1), Sept. 30, 1996, 110 Stat. 3009–721, provided that: "This section \[amending this section and enacting provisions set out above\], the amendments made bythis section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) \[amending this section\] or through whom such a claim is derived."
+Pub. L. 103–416, title I, §101(d), Oct. 25, 1994, 108 Stat. 4306, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(1), Sept. 30, 1996, 110 Stat. 3009–721, provided that: "This section \[amending this section and enacting provisions set out above\], the amendments made by this section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) \[amending this section\] or through whom such a claim is derived."
 
 #### Admission of Alaska as State
 

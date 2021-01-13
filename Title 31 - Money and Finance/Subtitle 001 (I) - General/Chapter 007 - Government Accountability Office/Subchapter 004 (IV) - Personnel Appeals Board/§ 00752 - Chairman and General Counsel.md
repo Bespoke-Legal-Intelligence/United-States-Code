@@ -46,11 +46,15 @@ In subsection (b)(3)(A), the words "to the extent necessary" are omitted as surp
 
 In subsection (b)(3)(D), the word "otherwise" is omitted as surplus. The words "duties and powers" are substituted for "functions" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(3)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–426 substituted "The rate of basic pay of the General Counsel may be not more than the maximum rate of basic pay payable for grade GS–16 of the General Schedule" for "The annual rate of basic pay of the General Counsel may be not more than the maximum rate for GS–15".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -58,7 +62,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

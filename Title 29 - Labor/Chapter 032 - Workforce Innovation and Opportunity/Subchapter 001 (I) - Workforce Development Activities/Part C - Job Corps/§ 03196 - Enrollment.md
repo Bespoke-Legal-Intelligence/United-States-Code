@@ -8,7 +8,7 @@ Enrollment in the Job Corps shall not relieve any individual of obligations unde
 
 No individual may be enrolled in the Job Corps for more than 2 years, except—
 
-&emsp;(1) in a case in which completion of an advanced career training program under section3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
+&emsp;(1) in a case in which completion of an advanced career training program under section 3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
 
 &emsp;(2) in the case of an individual with a disability who would reasonably be expected to meet the standards for a Job Corps graduate, as defined under section 3192(5) of this title, if allowed to participate in the Job Corps for not more than 1 additional year;
 
@@ -18,9 +18,13 @@ No individual may be enrolled in the Job Corps for more than 2 years, except—
 
 (Pub. L. 113–128, title I, §146, July 22, 2014, 128 Stat. 1542.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

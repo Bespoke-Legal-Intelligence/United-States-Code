@@ -76,6 +76,8 @@ The statement in former section 2 that the use of the word "department" means on
 
 "The Department of Commerce" is substituted for "The Department of Commerce and Labor" on authority of the act of March 4, 1913, ch. 141, §1, 37 Stat. 736.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–241 inserted "The Department of Homeland Security."
@@ -89,6 +91,8 @@ The statement in former section 2 that the use of the word "department" means on
 <b>1970</b>—Pub. L. 91–375 struck out "The Post Office Department."
 
 <b>1966</b>—Pub. L. 89–670 inserted "The Department of Housing and Urban Development." and "The Department of Transportation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -106,15 +110,25 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–283, div. A, title XI, §1131, Jan. 1, 2021, 134 Stat. 3900, provided that: "This subtitle \[subtitle B (§§1131–1138) of title XI of div. A of Pub. L. 116–283, amending section 2302 of this title and enacting and amending provisions set out as notes under section 2301 of this title\] may be cited as the 'Elijah E. Cummings Federal Employee Antidiscrimination Act of 2020'."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–269, §1, Dec. 30, 2020, 134 Stat. 3323, provided that: "This Act \[amending provisions set out as a note under section 5547 of this title\] may be cited as the 'Secret Service Overtime Pay Extension Act'."
+
+Pub. L. 116–126, §1, Mar. 18, 2020, 134 Stat. 174, provided that: "This Act \[enacting sections 8345a and 8466a of this title, amending sections 8331, 8345, 8348, 8401, and 8466 of this title, and enacting provisions set out as notes under section 8331 of this title\] may be cited as the 'Representative Payee Fraud Prevention Act of 2019'."
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–92, div. A, title XI, §1121, Dec. 20, 2019, 133 Stat. 1605, provided that: "This subtitle \[subtitle B (§§1121–1124) of title XI of Pub. L. 116–92, enacting chapter 92 of this title, section 1316b of Title 2, The Congress, section 2339 of Title 10, Armed Forces, and section 4714 of Title 41, Public Contracts, amending sections 1302 and 1317 of Title 2, section 62 of Title 26, Internal Revenue Code, and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 9201 and 9202 of this title, section 2339 of Title 10, section 10132 of Title 34, Crime Control and Law Enforcement, and section 4714 of Title 41\] may be cited as the 'Fair Chance to Compete for Jobs Act of 2019' or the 'Fair Chance Act'."
+Pub. L. 116–92, div. A, title XI, §1121, Dec. 20, 2019, 133 Stat. 1605, provided that: "This subtitle \[subtitle B\(§§1121–1124) of title XI of Pub. L. 116–92, enacting chapter 92 of this title, section 1316b of Title 2, The Congress, section 2339 of Title 10, Armed Forces, and section 4714 of Title 41, Public Contracts, amending sections 1302 and 1317 of Title 2, section 62 of Title 26, Internal Revenue Code, and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 9201 and 9202 of this title, section 2339 of Title 10, section 10132 of Title 34, Crime Control and Law Enforcement, and section 4714 of Title 41\] may be cited as the 'Fair Chance to Compete for Jobs Act of 2019' or the 'Fair Chance Act'."
 
 Pub. L. 116–92, div. F, title LXXVI, §7601, Dec. 20, 2019, 133 Stat. 2304, provided that: "This subtitle \[subtitle A (§§7601–7606) of title LXXVI of Pub. L. 116–92, amending section 6382 of this title, section 1312 of Title 2, The Congress, and sections 2611 and 2612 of Title 29, Labor, enacting provisions set out as notes under section 6382 of this title, section 1312 of Title 2, and sections 2611 and 2612 of Title 29, and amending provisions set out as a note under section 44935 of Title 49, Transportation\] may be cited as the 'Federal Employee Paid Leave Act'."
 
 Pub. L. 116–50, §1, Aug. 22, 2019, 133 Stat. 1073, provided that: "This Act \[enacting provisions set out as a note under section 552a of this title\] may be cited as the 'Creating Advanced Streamlined Electronic Services for Constituents Act of 2019' or the 'CASES Act'."
 
-Pub. L. 115–435, §1(a), Jan. 14, 2019, 132 Stat. 5529, provided that: "This Act \[enacting subchapter II of chapter 3 of this title, subchapter III of chapter 35 of Title 44, Public Printing and Documents, and section 3520A of Title 44, amending section 306 of this title, section 402 of Title 13, Census, section 176a of Title 15, Commerce and Trade, sections 3502, 3504, 3506, 3511, and 3520of Title 44, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under sections 306 and 311 of this title and sections 101, 3506, and 3561 of Title 44, amending provisions set out as a note under section 20155 of Title 49, and repealing provisions set out as a note under section 3501 of Title 44\] may be cited as the 'Foundations for Evidence-Based Policymaking Act of 2018'."
+Pub. L. 115–435, §1(a), Jan. 14, 2019, 132 Stat. 5529, provided that: "This Act \[enacting subchapter II of chapter 3 of this title, subchapter III of chapter 35 of Title 44, Public Printing and Documents, and section 3520A of Title 44, amending section 306 of this title, section 402 of Title 13, Census, section 176a of Title 15, Commerce and Trade, sections 3502, 3504, 3506, 3511, and 3520 of Title 44, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under sections 306 and 311 of this title and sections 101, 3506, and 3561 of Title 44, amending provisions set out as a note under section 20155 of Title 49, and repealing provisions set out as a note under section 3501 of Title 44\] may be cited as the 'Foundations for Evidence-Based Policymaking Act of 2018'."
 
 #### Short Title of 2018 Amendment
 
@@ -162,7 +176,7 @@ Pub. L. 114–47, §1, Aug. 7, 2015, 129 Stat. 485, provided that: "This Act \[e
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–277, §1, Dec. 18, 2014, 128 Stat. 2995, provided that: "This Act \[enacting section 5550 of this title and section 147 of Title 6, Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under sections 5542 and 5550 of this title and section 146 of Title 6\] may be cited as the 'Border Patrol Agent Pay Reform Act of 2014'."
+Pub. L. 113–277, §1, Dec. 18, 2014, 128 Stat. 2995, provided that: "This Act \[enacting section 5550 of this title and section 147 of Title 6, Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions setout as notes under sections 5542 and 5550 of this title and section 146 of Title 6\] may be cited as the 'Border Patrol Agent Pay Reform Act of 2014'."
 
 Pub. L. 113–255, §1, Dec. 18, 2014, 128 Stat. 2920, provided that: "This Act \[amending sections 8438, 8439, 8472, and 8477 of this title and enacting provisions set out as notes under section 8438 of this title\] may be cited as the 'Smart Savings Act'."
 
@@ -174,7 +188,7 @@ Pub. L. 113–80, §1, Feb. 12, 2014, 128 Stat. 1006, provided that: "This Act \
 
 Pub. L. 112–230, §1, Dec. 28, 2012, 126 Stat. 1616, provided that: "This Act \[enacting section 7326 of this title, amending sections 1501, 1502, 1506, 7322, and 7325 of this title, repealing former section 7326 of this title, and enacting provisions set out as notes under sections 1501 and 7326 of this title\] may be cited as the 'Hatch Act Modernization Act of 2012'."
 
-Pub. L. 112–199, §1, Nov. 27, 2012, 126 Stat. 1465, provided that: "This Act \[enacting section 2304 of this title, amending sections 1204, 1212, 1214, 1215, 1221, 2302, and 7703 of this title, sections 3 and 8D of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to this title, and section 133 of Title 6, Domestic Security, renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title and enacting provisions set out as notes under sections 1204, 2302, and 2304 of this title, section 3 of the Inspector General Act of 1978, and section 1116 of Title 31,Money and Finance\] may be cited as the 'Whistleblower Protection Enhancement Act of 2012'."
+Pub. L. 112–199, §1, Nov. 27, 2012, 126 Stat. 1465, provided that: "This Act \[enacting section 2304 of this title, amending sections 1204, 1212, 1214, 1215, 1221, 2302, and 7703 of this title, sections 3 and 8D of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to this title, and section 133 of Title 6, Domestic Security, renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title and enacting provisions set out as notes under sections 1204, 2302, and 2304 of this title, section 3 of the Inspector General Act of 1978, and section 1116 of Title 31, Money and Finance\] may be cited as the 'Whistleblower Protection Enhancement Act of 2012'."
 
 Pub. L. 112–166, §1, Aug. 10, 2012, 126 Stat. 1283, provided that: "This Act \[see Tables for classification\] may be cited as the 'Presidential Appointment Efficiency and Streamlining Act of 2011'."
 
@@ -234,7 +248,7 @@ Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: "This Act \[
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided that: "This title \[enacting chapter 14 of this title, subchapter II of chapter 35 of this title, and section 3319 of this title, amending sections 1103, 3111, 3304, 3393, 3592 to 3594, 4107, 5307, 7701, 7905, 8336, 8339, 8414, and 8421 of this title, sections 1115 and 1116 of Title 31, Money and Finance, and section 1902 of Title 50, War and National Defense, repealing section 3393a of this title, enacting provisions set out as notes under sections 1103, 1401, 3301, 3521, 3592, 3593, and 8336 of thistitle, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] may be cited as the 'Chief Human Capital Officers Act of 2002'."
+Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided that: "This title \[enacting chapter 14 of this title, subchapter II of chapter 35 of this title, and section 3319 of this title, amending sections 1103, 3111, 3304, 3393, 3592 to 3594, 4107, 5307, 7701, 7905, 8336, 8339, 8414, and 8421 of this title, sections 1115 and 1116 of Title 31, Money and Finance, and section 1902 of Title 50, War and National Defense, repealing section 3393a of this title, enacting provisions set out as notes under sections 1103, 1401, 3301, 3521, 3592, 3593, and 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] may be cited as the 'Chief Human Capital Officers Act of 2002'."
 
 #### Short Title of 2001 Amendment
 

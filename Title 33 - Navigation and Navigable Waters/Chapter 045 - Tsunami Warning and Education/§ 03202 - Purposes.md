@@ -18,7 +18,9 @@ The purposes of this chapter are—
 
 &emsp;(8) to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
 
-(Pub. L. 109–424, §3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, §803, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, §§503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
+(Pub. L. 109–424, §3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, §803, Jan. 12, 2007, 120Stat. 3653; Pub. L. 115–25, title V, §§503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -36,7 +38,7 @@ Par. (4). Pub. L. 115–25, §503(5), added par. (4). Former par. (4) redesignat
 
 Par. (5). Pub. L. 115–25, §503(4), (6), redesignated par. (4) as (5), substituted ", increase, and develop uniform standards and guidelines for" for "and increase", and inserted ", including the warning signs of locally generated tsunami" after "approaching". Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 115–25, §503(4), (7), redesignated par. (5) as (6) and substituted semicolon at end for", including the Indian Ocean; and". Former par. (6) redesignated (8).
+Par. (6). Pub. L. 115–25, §503(4), (7), redesignated par. (5) as (6) and substituted semicolon at end for ", including the Indian Ocean; and". Former par. (6) redesignated (8).
 
 Par. (7). Pub. L. 115–25, §503(8), added par. (7).
 

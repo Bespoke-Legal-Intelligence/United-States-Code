@@ -8,7 +8,7 @@ It is the purpose of this chapter to provide a plan for classification of positi
 
 &emsp;&emsp;(B) variations in rates of basic pay paid to different employees will be in proportion to substantial differences in the difficulty, responsibility, and qualification requirements of the work performed and to the contributions of employees to efficiency and economy in the service; and
 
-&emsp;(2) individual positions will, in accordance with their duties, responsibilities, and qualification requirements, be so grouped and identified by classes and grades, as defined by section 5102 of this title, and the various classes will be so described in published standards, as provided by section 5105 of this title, that the resulting position-classification system can be used in all phases of personnel administration.
+&emsp;(2) individual positions will, in accordance with their duties, responsibilities, and qualification requirements, be so grouped and identified by classes and grades, as defined by section 5102 of this title, and the various classeswill be so described in published standards, as provided by section 5105 of this title, that the resulting position-classification system can be used in all phases of personnel administration.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443.)
 
@@ -29,6 +29,8 @@ Oct. 28, 1949, ch. 782, §101, 63 Stat. 954.
 The words "and for rates of basic compensation" are omitted as inapplicable to this chapter since the provisions of former chapter 21 relating to rates of basic compensation are carried into subchapter III of chapter 53. The word "officer" is omitted as included in "employee" is defined in section 5102.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of the report.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to Chapter 51 and Subchapter III of Chapter 53
 

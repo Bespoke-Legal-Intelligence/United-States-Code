@@ -2,7 +2,7 @@
 
 #### (a) Seal, and other matters incident to operation
 
-Each of the bodies corporate named in section 1717(a)(2) of this title shall have power to adopt, alter, and use a corporate seal, which shall be judicially noticed; to enter into and perform contracts, leases, cooperative agreements, or other transactions, on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, Territory, or possession, or the Commonwealth of Puerto Rico, or with any political subdivision thereof, or with any person, firm, association, or corporation; to execute, in accordance with its bylaws, all instruments necessary or appropriate in the exercise of any of its powers; in its corporate name, to sue and to be sued, and to complain and to defend, in any court of competent jurisdiction, State or Federal, but no attachment, injunction, or other similar process, mesne or final, shall be issued against the property of the Association or against the Association with respect to its property; to conduct its business without regard to any qualification or similar statute in any State of the United States, including the District of Columbia, the Commonwealth of Puerto Rico, and the Territories and possessions of the United States; to lease, purchase, or acquire any property, real, personal, or mixed, or any interest therein, tohold, rent, maintain, modernize, renovate, improve, use, and operate such property, and to sell, for cash or credit, lease, or otherwise dispose of the same, at such time and in such manner as and to the extent that it may deem necessary or appropriate; to prescribe, repeal, and amend or modify, rules, regulations, or requirements governing the manner in which its general business may be conducted; to accept gifts or donations of services, or of property, real, personal, or mixed, tangible, or intangible, in aid of any of its purposes; and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+Each of the bodies corporate named in section 1717(a)(2) of this title shall have power to adopt, alter, and use a corporate seal, which shall be judicially noticed; to enter into and perform contracts, leases, cooperative agreements, or other transactions, on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, Territory, or possession, or the Commonwealth of Puerto Rico, or with any political subdivision thereof, or with any person, firm, association, or corporation; to execute, in accordance with its bylaws, all instruments necessary or appropriate in the exercise of any of its powers; in its corporate name, to sue and to be sued, and to complain and to defend, in any court of competent jurisdiction, State or Federal, but no attachment, injunction, or other similar process, mesne or final, shall be issued against the property of the Association or against the Association with respect to its property; to conduct its business without regard to any qualification or similar statute in any State of the United States, including the District of Columbia, the Commonwealth of Puerto Rico, and the Territories and possessions of the United States; to lease, purchase, or acquire any property, real, personal, or mixed, or any interest therein, to hold, rent, maintain, modernize, renovate, improve, use, and operate such property, and to sell, for cash or credit, lease, or otherwise dispose of the same, at such time and in such manner as and to the extent that it may deem necessary or appropriate; to prescribe, repeal, and amend or modify, rules, regulations, or requirements governing the manner in which its general business may be conducted; to accept gifts or donations of services, or of property, real, personal, or mixed, tangible, or intangible, in aid of any of its purposes; and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (b) Determination with respect to obligations and expenditures
 
@@ -10,7 +10,7 @@ Except as may be otherwise provided in this subchapter, in chapter 91 of title 3
 
 #### (c) Exemption from taxation
 
-(1) The Association, including its franchise, capital, reserves, surplus, mortgages or other security holdings, and income shall be exempt from all taxation now or hereafter imposed by the United States, by any territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the Association shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
+(1) The Association, including its franchise, capital, reserves, surplus, mortgages or other security holdings, and income shall be exempt from all taxation now or hereafter imposed by the United States, by any territory, dependency, or possession thereof, or by any State, county,municipality, or local taxing authority, except that any real property of the Association shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
 (2) The corporation, including its franchise, capital, reserves, surplus, mortgages or other security holdings, and income, shall be exempt from all taxation now or hereafter imposed by any State, territory, possession, Commonwealth, or dependency of the United States, or by the District of Columbia, or by any county, municipality, or local taxing authority, except that any real property of the corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent as other real property is taxed.
 
@@ -46,7 +46,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 (1) The programs, activities, receipts, expenditures, and financial transactions of the corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to such books, accounts, financial records, reports, files, and such other papers, things, or property belonging to or in use by the corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The corporation shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General.
 
-(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the corporation or any auditor for an audit of the corporation under subsection (l), to any books, accounts, financial records, reports, files, or otherpapers, things, or property belonging to or in use by the corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
+(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the corporation or any auditor for an audit of the corporation under subsection (l), to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
 
 #### (k) Financial reports; submission to Director; contents
 
@@ -132,7 +132,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 &emsp;(H) describe trends in both the primary and secondary multifamily housing mortgage markets, including a description of the progress made, and any factors impeding progress toward standardization and securitization of mortgage products for multifamily housing;
 
-&emsp;(I) describe trends in the delinquency and default rates of mortgages secured by housing for low- and moderate-income families that have been purchased by the corporation, including a comparison of such trends with delinquency and default information for mortgage products serving households with incomes above the median level that have been purchased by the corporation, and evaluate the impact of such trends on the standards and levels of risk of mortgage products serving low- and moderate-income families;
+&emsp;(I) describe trends in the delinquency and default rates of mortgages secured by housingfor low- and moderate-income families that have been purchased by the corporation, including a comparison of such trends with delinquency and default information for mortgage products serving households with incomes above the median level that have been purchased by the corporation, and evaluate the impact of such trends on the standards and levels of risk of mortgage products serving low- and moderate-income families;
 
 &emsp;(J) describe in the aggregate the seller and servicer network of the corporation, including the volume of mortgages purchased from minority-owned, women-owned, and community-oriented lenders, and any efforts to facilitate relationships with such lenders;
 
@@ -151,6 +151,8 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
 (June 27, 1934, ch. 847, title III, §309, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 620; amended Pub. L. 87–70, title VI, §603(e), June 30, 1961, 75 Stat. 177; Pub. L. 90–448, title VIII, §802(z)–(ee), Aug. 1, 1968, 82 Stat. 540, 541; Pub. L. 92–310, title II, §223(c), June 6, 1972, 86 Stat. 206; Pub. L. 93–383, title VIII, §806(k), Aug. 22, 1974, 88 Stat. 728; Pub. L. 94–375, §17(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title IV, §408(c), Oct. 12, 1977, 91 Stat. 1138; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–440, title II, §§208, 209, 213(a), Oct. 3, 1984, 98 Stat. 1696, 1698; Pub. L. 98–479, title II, §203(a)(3), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 100–242, title IV, §444, Feb. 5, 1988, 101 Stat. 1922; Pub. L. 101–73, title VII, §731(m)(3), Aug. 9, 1989, 103 Stat. 436; Pub. L. 102–550, title XIII, §1381(j)–(q), (s)(3), Oct. 28, 1992, 106 Stat. 3996–4001; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §§1113(b)(1), 1161(b), July 30, 2008, 122 Stat. 2678, 2779.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -186,7 +188,7 @@ Subsec. (n)(3)(B). Pub. L. 110–289, §1161(b)(2)(C), substituted "Director of 
 
 <b>1992</b>—Subsec. (d)(2). Pub. L. 102–550, §1381(s)(3)(A)(ii), which directed the substitution, in last sentence, of "the basic pay of such persons" for "his basic pay", was executed by making the substitution in penultimate sentence to reflect the probable intent of Congress, because the words "his basic pay" do not appear in last sentence.
 
-Pub. L. 102–550, §1381(j)(1), (s)(3)(A)(i), in first sentence, substituted "as the board of directors determines reasonable and comparable with compensation for employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in paragraph (3)(C)) of the corporation shall be based on the performance of the corporation" for "as it may determine" and in third sentence "the employment of such officer or employee" for "his employment" in two places.
+Pub. L. 102–550, §1381(j)(1), (s)(3)(A)(i), in first sentence, substituted "as the board of directors determines reasonable and comparable with compensationfor employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in paragraph (3)(C)) of the corporation shall be based on the performance of the corporation" for "as it may determine" and in third sentence "the employment of such officer or employee" for "his employment" in two places.
 
 Subsec. (d)(3). Pub. L. 102–550, §1381(j)(2), added par. (3).
 
@@ -230,9 +232,11 @@ Subsec. (h). Pub. L. 90–448, §802(ee), added subsec. (h).
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–70 inserted "or other security holdings" after "mortgages".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating tosecurities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1974 Amendment
 
@@ -242,10 +246,6 @@ Pub. L. 93–383, title VIII, §806(k), Aug. 22, 1974, 88 Stat. 728, provided th
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
 
-#### Transfer of Functions
-
-"Director of the Office of Personnel Management" substituted for "United States Civil Service Commission" pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -253,4 +253,10 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 #### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
 
 Pub. L. 96–399, title III, §330, Oct. 8, 1980, 94 Stat. 1652, provided that: "If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section \[Oct. 8, 1980\], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+"Director of the Office of Personnel Management" substituted for "United States Civil Service Commission" pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

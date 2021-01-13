@@ -24,6 +24,8 @@ Herbicide Agent.—For purposes of this section, the term "herbicide agent" has 
 
 (Added Pub. L. 116–23, §3(a), June 25, 2019, 133 Stat. 969.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 116–23, §3(d), June 25, 2019, 133 Stat. 970, provided that: "The amendments made by this section \[enacting this section\] shall take effect on January 1, 2020."

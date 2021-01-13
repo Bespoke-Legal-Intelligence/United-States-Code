@@ -42,11 +42,15 @@ June 30, 1949, ch. 288, title III, §304A(b), as added Pub. L. 103–355, title 
 
 In subsection (b)(2), the words "as the case may be" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(b)(12)(A), substituted "a commercial product or a commercial service" for "a commercial item".
 
 Subsec. (b). Pub. L. 115–232, §836(b)(12)(B), in heading, substituted "Commercial Products or Commercial Services" for "Commercial Items" and, in text, substituted "a commercial product or a commercial service" for "a commercial item" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

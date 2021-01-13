@@ -20,6 +20,8 @@ The information required by subsection (a)(1) may be provided in classified form
 
 (Pub. L. 108–333, title II, §201, Oct. 18, 2004, 118 Stat. 1293; Pub. L. 108–447, div. D, title V, §534(j), Dec. 8, 2004, 118 Stat. 3007; Pub. L. 110–346, §9, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, §8, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, §7(d), July 20, 2018, 132 Stat. 1523.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–198, §7(d)(1), substituted "2022" for "2017" in introductory provisions.
@@ -30,5 +32,5 @@ Subsecs. (b), (c). Pub. L. 115–198, §7(d)(2), (3), added subsec. (b) and rede
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–346 substituted "annually thereafter through 2012" for "in each of the 2 years thereafter" in introductory provisions.
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447 substituted "subparagraphs (A) through (D) of section 7832(b)(1) of thistitle" for "paragraphs (1) through (4) of section 7832(b) of this title".
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447 substituted "subparagraphs (A) through (D) of section 7832(b)(1) of this title" for "paragraphs (1) through (4) of section 7832(b) of this title".
 

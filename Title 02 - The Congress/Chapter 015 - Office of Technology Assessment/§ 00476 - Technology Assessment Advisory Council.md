@@ -36,9 +36,13 @@ The term of office of each member of the Council appointed under subsection (a)(
 
 (Pub. L. 92–484, §7, Oct. 13, 1972, 86 Stat. 800; Pub. L. 99–234, title I, §107(a), Jan. 2, 1986, 99 Stat. 1759.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (e)(1). Pub. L. 99–234 substituted "payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in" for "a per diem in lieu of subsistence at not to exceed the rate prescribed in sections 5702 and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

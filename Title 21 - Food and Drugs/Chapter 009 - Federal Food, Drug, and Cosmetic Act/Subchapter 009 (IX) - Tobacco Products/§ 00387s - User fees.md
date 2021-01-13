@@ -66,7 +66,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (iv) Reallocations
 
-&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of thistitle or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
+&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of this title or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
 
 #### (3) Determination of user fee by company
 
@@ -84,7 +84,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (4) Allocation of assessment within each class of tobacco product
 
-&emsp;The percentage share of each manufacturer or importer of a particular class of tobacco products of the total user fee to be paid by all manufacturers or importers of that class of tobacco products shall be the percentage determined for purposes of allocations under subsections (e) through (h) of section 518d of title 7.
+&emsp;The percentage share of each manufacturer or importer of a particular class of tobacco products of the total user fee to be paid by allmanufacturers or importers of that class of tobacco products shall be the percentage determined for purposes of allocations under subsections (e) through (h) of section 518d of title 7.
 
 #### (5) Allocation for cigars
 
@@ -142,7 +142,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (E) Obligation of start-up costs in anticipation of available fee collections
 
-&emsp;&emsp;Notwithstanding any other provision of law, following the enactment of an appropriation for fees under this section for fiscal year 2010, or any portion thereof, obligations for costs of tobacco regulation activities during the start-up period may be incurred in anticipation of the receipt of offsetting fee collections through procedures specified in section 1534 of title 31.
+&emsp;&emsp;Notwithstanding any other provision of law, following the enactment of an appropriation for fees under this section for fiscal year 2010, or any portion thereof, obligations for costs of tobacco regulation activitiesduring the start-up period may be incurred in anticipation of the receipt of offsetting fee collections through procedures specified in section 1534 of title 31.
 
 #### (3) Authorization of appropriations
 
@@ -163,6 +163,8 @@ If the date of enactment of the Family Smoking Prevention and Tobacco Control Ac
 &emsp;(3) For the quarter following the quarter to which paragraph (2) applies, the full quarterly fee amounts shall be assessed and collected, in addition to collection of the pro rata fees assessed under paragraph (2).
 
 (June 25, 1938, ch. 675, §919, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1826.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

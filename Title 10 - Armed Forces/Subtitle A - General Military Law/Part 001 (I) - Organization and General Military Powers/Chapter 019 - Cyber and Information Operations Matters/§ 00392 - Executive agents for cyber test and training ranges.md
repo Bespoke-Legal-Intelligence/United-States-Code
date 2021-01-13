@@ -20,7 +20,7 @@ Establishment.—The Secretary of Defense shall prescribe the roles, responsibil
 
 Biennial integrated plan.—The biennial integrated plan required under paragraph (1) shall include plans for the following:
 
-&emsp;&emsp;(A) Developing and maintaining a comprehensive list of cyber and information technology ranges, test facilities, test beds, and other means of testing, training, and developing software, personnel, and tools for accommodating the mission of the Department. Such list shall include resources from both governmental and nongovernmental entities.
+&emsp;&emsp;(A) Developing and maintaining a comprehensive list of cyber and informationtechnology ranges, test facilities, test beds, and other means of testing, training, and developing software, personnel, and tools for accommodating the mission of the Department. Such list shall include resources from both governmental and nongovernmental entities.
 
 &emsp;&emsp;(B) Organizing and managing designated cyber and information technology test ranges, including—
 

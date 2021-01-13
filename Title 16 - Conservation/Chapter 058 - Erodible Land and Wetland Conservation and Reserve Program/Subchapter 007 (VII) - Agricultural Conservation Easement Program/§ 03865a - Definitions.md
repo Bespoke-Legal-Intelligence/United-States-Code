@@ -114,7 +114,7 @@ In this subchapter:
 
 #### (5) Monitoring report
 
-&emsp;The term "monitoring report" means a report, the contents of which are formulated and prepared by the holder of an agricultural landeasement, that accurately documents whether the land subject to the agricultural land easement is in compliance with the terms and conditions of the agricultural land easement.
+&emsp;The term "monitoring report" means a report, the contents of which are formulated and prepared by the holder of an agricultural land easement, that accurately documents whether the land subject to the agricultural land easement is in compliance with the terms and conditions of the agricultural land easement.
 
 #### (6) Program
 

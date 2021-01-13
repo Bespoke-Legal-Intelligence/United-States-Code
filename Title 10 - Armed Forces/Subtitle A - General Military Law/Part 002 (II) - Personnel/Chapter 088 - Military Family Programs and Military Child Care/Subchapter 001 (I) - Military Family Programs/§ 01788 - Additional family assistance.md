@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense may provide for the families of members of
 
 Primary Purpose of Assistance.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
-(Added Pub. L. 107–314, div. A, title VI, §652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, §1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 107–314, div. A, title VI, §652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L.111–383, div. A, title X, §1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Reports.—
 
 &emsp;"(1)
 
-Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program under this section. The report shall include a comprehensive description of the assessments under subsection (d), as well as the following:
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\],the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program under this section. The report shall include a comprehensive description of the assessments under subsection (d), as well as the following:
 
 &emsp;&emsp;"(A) Which installations the Secretary selected for the pilot program under subsection (a)(2).
 

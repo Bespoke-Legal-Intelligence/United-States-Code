@@ -18,7 +18,7 @@
 
 #### (2) Certain misdemeanors
 
-&emsp;Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is <sup>1</sup> misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual's first conviction for amisdemeanor which involves only possession of a controlled substance.
+&emsp;Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is <sup>1</sup> misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual's first conviction for a misdemeanor which involves only possession of a controlled substance.
 
 #### (c) Period of ineligibility
 
@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(3) the term "felony" means a criminal offense punishable by death or imprisonment for more than one year;
 
-&emsp;(4) the term "imprisoned" means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, a treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
+&emsp;(4) the term "imprisoned" means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, atreatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
 
 &emsp;(5) the term "misdemeanor" means a criminal offense other than a felony;
 
@@ -57,6 +57,8 @@ As used in this section—
 &emsp;(7) the term "State law" means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
 
 (Aug. 1, 1956, ch. 841, title I, §42, as added Pub. L. 100–690, title IV, §4603(2), Nov. 18, 1988, 102 Stat. 4287.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

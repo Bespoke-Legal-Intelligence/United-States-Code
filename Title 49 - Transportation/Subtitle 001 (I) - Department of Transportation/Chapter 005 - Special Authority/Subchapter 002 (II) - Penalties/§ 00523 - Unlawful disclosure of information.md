@@ -10,7 +10,7 @@
 
 &emsp;(3) to another motor carrier, motor carrier of migrant workers, or motor private carrier, or its agent, to adjust mutual traffic accounts in the ordinary course of business.
 
-(c) An employee of the Secretary of Transportation delegated to make an inspection under section 504 of this title who knowingly discloses information acquired during that inspection, except as directed by the Secretary, a court, or a judge of that court, shall be fined not more than$500, imprisoned for not more than 6 months, or both.
+(c) An employee of the Secretary of Transportation delegated to make an inspection under section 504 of this title who knowingly discloses information acquired during that inspection, except as directed by the Secretary, a court, or a judge of that court, shall be fined not more than $500, imprisoned for not more than 6 months, or both.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2436.)
 

@@ -14,13 +14,15 @@ Whenever, after a conveyance has been made by this Act or under the Alaska Nativ
 
 #### (c) Status of certain lease offers
 
-Offers for noncompetitive oil and gas leases under the Mineral Leasing Act of 1920 \[30 U.S.C. 181 et seq.\] which were filed but which did not result in the issuance of a lease on or before December 18, 1971, on lands selected by, and conveyed before, on, or after December 2, 1980, to, Native Corporations or to individual Natives under paragraph (5) or (6) of section 14(h) \[43 U.S.C. 1613(h)(5) or (6)\] as part of the entitlement to receive land under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] shall not constitute valid existing rights under section 14(g) of such Act \[43 U.S.C. 1613(g)\] or under this Act.
+Offers for noncompetitive oil and gas leases under the Mineral Leasing Act of 1920 \[30 U.S.C. 181 et seq.\] which were filed but which did notresult in the issuance of a lease on or before December 18, 1971, on lands selected by, and conveyed before, on, or after December 2, 1980, to, Native Corporations or to individual Natives under paragraph (5) or (6) of section 14(h) \[43 U.S.C. 1613(h)(5) or (6)\] as part of the entitlement to receive land under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] shall not constitute valid existing rights under section 14(g) of such Act \[43 U.S.C. 1613(g)\] or under this Act.
 
 #### (d) Limitation
 
 This Act is not intended to modify, repeal, or otherwise affect any provision of the Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Laws 94–456 and 95–178, and shall not be construed as imposing any additional restriction on the use or management of those lands described in section 22(k) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(k)\].
 
 (Pub. L. 96–487, title IX, §903, Dec. 2, 1980, 94 Stat. 2433.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

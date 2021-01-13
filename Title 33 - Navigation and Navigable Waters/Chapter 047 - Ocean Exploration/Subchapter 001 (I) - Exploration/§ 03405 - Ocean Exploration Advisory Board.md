@@ -22,6 +22,8 @@ Nothing in subchapter <sup>1</sup> supersedes, or limits the authority of the S
 
 (Pub. L. 111–11, title XII, §12005, Mar. 30, 2009, 123 Stat. 1418.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

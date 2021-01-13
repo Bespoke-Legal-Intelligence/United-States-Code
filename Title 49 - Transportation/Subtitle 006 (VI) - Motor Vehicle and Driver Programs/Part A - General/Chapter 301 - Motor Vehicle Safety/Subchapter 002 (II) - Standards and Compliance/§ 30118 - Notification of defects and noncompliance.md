@@ -6,7 +6,7 @@ Notification by Secretary.—The Secretary of Transportation shall notify the ma
 
 (b)
 
-Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that the defect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
+Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that thedefect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
 
 (2) If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains the defect or does not comply, the Secretary shall order the manufacturer to—
 

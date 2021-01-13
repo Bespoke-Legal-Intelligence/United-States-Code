@@ -134,5 +134,5 @@ Pub. L. 101–510, div. A, title V, §524, Nov. 5, 1990, 104 Stat. 1562, directe
 
 #### Deadline for Regulations Implementing Subsection (e) of This Section
 
-Pub. L. 100–180, div. A, title VII, §718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: "The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]."
+Pub. L. 100–180, div. A, title VII, §718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: "The Secretary concernedshall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]."
 

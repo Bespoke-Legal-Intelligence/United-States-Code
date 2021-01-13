@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(2)(B)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, in item 204 substituted "General Counsel; Judicial Officer; Chief Postal Inspector" for "Assistant Postmasters General; General Counsel; Judicial Officer".

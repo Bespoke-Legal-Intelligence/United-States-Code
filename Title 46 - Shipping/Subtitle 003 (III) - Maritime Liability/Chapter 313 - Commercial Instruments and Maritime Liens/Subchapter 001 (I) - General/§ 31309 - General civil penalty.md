@@ -16,6 +16,8 @@ New
 
 Section 31309 provides for a civil penalty of not more than $10,000 for a violation of this chapter or a regulation prescribed under this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.

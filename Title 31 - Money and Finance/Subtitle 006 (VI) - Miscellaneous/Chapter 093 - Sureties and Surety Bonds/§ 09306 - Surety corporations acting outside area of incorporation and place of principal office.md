@@ -42,9 +42,11 @@ In subsection (c)(2), before clause (A), the words "the district in which the su
 
 In subsection (c)(3), the words "decree or" are omitted as being included in "order". The words "and binding" are omitted as being included in "valid". The words "as if the corporation were served in the judicial district of the court" are substituted for "on such company as if served with process in said district" for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(1)\], substituted "has a resident agent for service of process for that district. The resident agent—" and pars. (1) and (2) for "designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(1)\], substituted "has a resident agent for service of process for that district. The resident agent—" and pars. (1) and (2) for "designates a person by writtenpower of attorney to be the resident agent of the corporation for that district. The designated person—
 
 &emsp;"(1) may appear for the surety corporation;
 

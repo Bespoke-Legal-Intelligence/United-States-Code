@@ -54,7 +54,7 @@ Application.—To be eligible to participate in the program, a State shall submi
 
 &emsp;(7) evidence of having sought, received, and addressed comments on the proposed application from the public; and
 
-&emsp;(8) any such additional information as the Secretary, or, with respect to section (d)(1)(A), the Secretary in consultation with the Chair, may require.
+&emsp;(8) any such additional information as the Secretary, or, with respect to section (d)(1)(A),the Secretary in consultation with the Chair, may require.
 
 (c)
 
@@ -140,7 +140,7 @@ Notification.—The State shall notify the Secretary of the final action of the 
 
 &emsp;&emsp;&emsp;(ii)
 
-Publication.—The Secretary shall publish the notice of final action in theFederal Register not later than 30 days after the date of receipt of the notice under clause (i).
+Publication.—The Secretary shall publish the notice of final action in the Federal Register not later than 30 days after the date of receipt of the notice under clause (i).
 
 &emsp;&emsp;(C)
 
@@ -258,7 +258,9 @@ Project.—The term "project" means—
 
 &emsp;&emsp;(B) a multimodal project.
 
-(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L.115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
+(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -272,13 +274,15 @@ The date of enactment of this section, referred to in subsecs. (j) and (k), is t
 
 Subsec. (e)(2)(A), (3)(B)(i). Pub. L. 115–254, §578(2), substituted "150 days as set forth in section 139(l)" for "2 years".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Purpose
 
-Pub. L. 114–94, div. A, title I, §1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: "The purpose of this section \[enacting this section and provisions set out as a note under this section\] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
+Pub. L. 114–94, div. A, title I, §1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: "The purpose of this section\[enacting this section and provisions set out as a note under this section\] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
 
 #### Rulemaking
 

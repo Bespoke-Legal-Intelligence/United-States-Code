@@ -42,11 +42,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590; Pub. L. 109–435, title X, §1010(c)(2), (d)(1), Dec. 20, 2006, 120 Stat. 3261.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (d), means the enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
-Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39,The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
 
@@ -94,6 +96,8 @@ Subsec. (c). Pub. L. 96–499, §414(a), inserted provision requiring Postal Ser
 
 Subsecs. (d) to (i). Pub. L. 94–421, §2(b), added subsecs. (d) to (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -104,7 +108,7 @@ Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided 
 
 Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 
-Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
+Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Votingand Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
 
 #### Effective Date of 1990 Amendment
 
@@ -136,7 +140,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Pub. L. 99–272, title XV, §15101, Apr. 7, 1986, 100 Stat. 330, provided that: "Notwithstanding subsection (c) of section 2401 of title 39, United States Code, the amount authorized to be appropriated pursuant to such subsection for fiscal year 1986 shall be $749,000,000."
 
-Section 1723 of Pub. L. 97–35, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, §101, July 18, 1982, 96 Stat. 189, provided that: "Notwithstanding section 2401(c) of title 39, United States Code, the amount authorized to be appropriated under such section shall not exceed—
+Pub. L. 97–35, title XVII, §1723, Aug. 13, 1981, 95 Stat. 759, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, §101, July 18, 1982, 96 Stat. 189, provided that: "Notwithstanding section 2401(c) of title 39, United States Code, the amount authorized to be appropriated under such section shall not exceed—
 
 &emsp;"(1) $696,000,000 for fiscal year 1982;
 

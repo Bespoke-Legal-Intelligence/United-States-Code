@@ -38,13 +38,15 @@ Nothing in this chapter <sup>1</sup> creates a right or benefit, substantive or
 
 (Pub. L. 106–248, title II, §207, July 25, 2000, 114 Stat. 617; Pub. L. 115–141, div. O, title III, §302(8), Mar. 23, 2018, 132 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 96–586 (commonly known as the "Santini-Burton Act"), referred to in subsec. (b)(1), is Pub. L. 96–586, Dec. 23, 1980, 94 Stat. 3381. For complete classification of this Act to the Code, see Tables.
 
 The Southern Nevada Public Land Management Act of 1998, referred to in subsec. (b)(2), is Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2343, which amended section 460ccc–1 of Title 16, Conservation, and section 6901 of Title 31, Money and Finance, and enacted provisions set out as a note under section 6901 of Title 31. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 6901 of Title 31 and Tables.
 
-The White Pine County Conservation, Recreation, and Development Act of 2006, referred to in subsec.\(b)(3), is title III of div. C of Pub. L. 109–432, Dec. 20, 2006, 120 Stat. 3028, which enacted provisions set out as notes under sections 1241 and 1244 of Title 16, Conservation, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of Title 16. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1241 of Title 16 and Tables.
+The White Pine County Conservation, Recreation, and Development Act of 2006, referred to in subsec. (b)(3), is title III of div. C of Pub. L. 109–432, Dec. 20, 2006, 120 Stat. 3028, which enacted provisions set out as notes under sections 1241 and 1244 of Title 16, Conservation, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of Title 16. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1241 of Title 16 and Tables.
 
 The Lincoln County Conservation, Recreation, and Development Act of 2004, referred to in subsec. (b)(4), is Pub. L. 108–424, Nov. 30, 2004, 118 Stat. 2403, which enacted provisions set out as notes under sections 1241 and 1244 of Title 16, Conservation, and provisions listed in a table of Wilderness Areas set out under section 1132 of Title 16 and amended provisions listed in a table of National Wildlife Conservation Areas set out under section 668dd of Title 16. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 1241 of Title 16 and Tables.
 

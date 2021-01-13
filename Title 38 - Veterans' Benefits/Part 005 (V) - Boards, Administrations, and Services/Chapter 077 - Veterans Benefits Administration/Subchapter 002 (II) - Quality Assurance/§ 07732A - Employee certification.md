@@ -16,6 +16,8 @@ Employee and Manager Requirement.—The Secretary shall require appropriate empl
 
 (Added Pub. L. 110–389, title II, §225(a)(1), Oct. 10, 2008, 122 Stat. 4158.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Deadlines for Implementation
 
 Pub. L. 110–389, title II, §225(a)(3), Oct. 10, 2008, 122 Stat. 4158, provided that: "The Secretary of Veterans Affairs shall—

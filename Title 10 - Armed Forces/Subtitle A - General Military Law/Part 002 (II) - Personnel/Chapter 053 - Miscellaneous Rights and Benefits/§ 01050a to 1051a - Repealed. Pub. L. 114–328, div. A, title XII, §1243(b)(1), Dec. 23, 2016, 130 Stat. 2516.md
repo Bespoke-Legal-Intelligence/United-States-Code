@@ -8,5 +8,5 @@ Section 1051a, added Pub. L. 107–314, div. A, title XII, §1201(a)(1), Dec. 2,
 
 #### Air Force Scholarships for Partnership for Peace Nations To Participate in the Euro-NATO Joint Jet Pilot Training Program
 
-Pub. L. 111–383, div. A, title XII, §1206, Jan. 7, 2011, 124 Stat. 4387, permitted the Secretary of the Air Force to establish and maintain a demonstration scholarship program, until Sept. 30, 2012, to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program.
+Pub. L. 111–383, div. A, title XII, §1206, Jan. 7, 2011, 124 Stat. 4387, permitted the Secretary of the Air Force to establish and maintain a demonstration scholarship program, until Sept. 30, 2012, to allow personnel of theair forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program.
 

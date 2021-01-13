@@ -50,7 +50,7 @@ Penalties applicable to individuals and small business concerns.—
 
 (6)
 
-Failure To Collect Airport Security Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collectsuch badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+Failure To Collect Airport Security Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
 (7)
 
@@ -344,7 +344,7 @@ In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 198
 
 In subsection (d)(4)(C), the word "or" is substituted for "and" for clarity.
 
-In subsection (d)(5)(B) and (7)(A), the words "in accordance with section 554 of title 5" are omitted forconsistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
+In subsection (d)(5)(B) and (7)(A), the words "in accordance with section 554 of title 5" are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
 
 In subsection (d)(5)(B), the words "consistent with this subsection" are omitted as surplus.
 
@@ -408,7 +408,7 @@ Subsec. (f)(1)(A)(i). Pub. L. 115–254, §372(e)(4), inserted "chapter 448," af
 
 Subsec. (g). Pub. L. 115–254, §1991(g)(1)(D), substituted "Administrator of the Federal Aviation Administration" for "Administrator".
 
-Subsec. (h)(2). Pub. L. 115–254, §1991(g)(1)(E), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator".
+Subsec. (h)(2). Pub. L. 115–254, §1991(g)(1)(E), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "UnderSecretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator".
 
 <b>2016</b>—Subsec. (d)(2). Pub. L. 114–190 inserted "section 46320," after "section 46319,".
 
@@ -532,7 +532,7 @@ Pub. L. 104–264, §502(c)(2), which directed amendment of subpar. (A) by inser
 
 Subsec. (a)(3). Pub. L. 104–287, §5(77)(C), realigned margins of subpars. (A) and (B).
 
-Subsec. (a)(5). Pub. L. 104–264, §804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "In the case of a violation of section 47107(b) ofthis title, the maximum civil penalty for a continuing violation shall not exceed $50,000."
+Subsec. (a)(5). Pub. L. 104–264, §804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "In the case of a violation of section 47107(b) of this title, the maximum civil penalty for a continuing violation shall not exceed $50,000."
 
 Subsec. (c)(1)(A). Pub. L. 104–287, §5(77)(D)(ii), (iii), struck out "or" before "subchapter II" and inserted ", or section 44909" before "of this title".
 
@@ -598,7 +598,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by section 502(c) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 

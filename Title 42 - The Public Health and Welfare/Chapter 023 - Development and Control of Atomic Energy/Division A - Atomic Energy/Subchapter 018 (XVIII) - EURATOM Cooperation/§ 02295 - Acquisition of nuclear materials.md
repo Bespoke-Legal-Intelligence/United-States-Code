@@ -14,7 +14,7 @@ Any contract made under the provisions of this section to acquire uranium enrich
 
 #### (d) Contracts for purchase of special nuclear materials
 
-Any contract made under this section for the purchase of special nuclear material or any interest therein may be made without regard tothe provisions of sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31.
+Any contract made under this section for the purchase of special nuclear material or any interest therein may be made without regard to the provisions of sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31.
 
 #### (e) Certification by Commission
 

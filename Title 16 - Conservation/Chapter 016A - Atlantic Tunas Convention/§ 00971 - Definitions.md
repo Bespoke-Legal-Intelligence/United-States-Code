@@ -56,7 +56,7 @@ Pub. L. 104–43, title III, §301, Nov. 3, 1995, 109 Stat. 382, provided that: 
 
 #### Short Title
 
-Pub. L. 94–70, §1, Aug. 5, 1975, 89 Stat. 385, provided: "That this Act \[enacting this chapter and provisions set out below\] may be cited as the 'Atlantic Tunas Convention Act of 1975'."
+Pub. L. 94–70, §1, Aug. 5, 1975, 89 Stat. 385, provided: "That this Act \[enacting this chapter and provisionsset out below\] may be cited as the 'Atlantic Tunas Convention Act of 1975'."
 
 #### Separability
 

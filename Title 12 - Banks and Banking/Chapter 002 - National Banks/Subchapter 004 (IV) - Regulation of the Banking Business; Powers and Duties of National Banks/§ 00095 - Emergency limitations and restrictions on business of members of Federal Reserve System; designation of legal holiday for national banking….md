@@ -4,21 +4,27 @@
 
 (b)(1) In the event of natural calamity, riot, insurrection, war, or other emergency conditions occurring in any State whether caused by acts of nature or of man, the Comptroller of the Currency may designate by proclamation any day a legal holiday for the national banking associations located in that State. In the event that the emergency conditions affect only part of a State, the Comptroller of the Currency may designate the part so affected and may proclaim a legal holiday for the national banking associations located in that affected part. In the event that a State or a State official authorized by law designates any day as a legal holiday for ceremonial or emergency reasons, for the State or any part thereof, that same day shall be a legal holiday for all national banking associations or their offices located in that State or the part so affected. A national banking association or its affected offices may close or remain open on such a State-designated holiday unless the Comptroller of the Currency by written order directs otherwise.
 
-(2) For the purpose of this subsection, the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, theTrust Territory of the Pacific Islands, or any other territory or possession of the United States.
+(2) For the purpose of this subsection, the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
 (Mar. 9, 1933, ch. 1, title I, §4, 48 Stat. 2; Pub. L. 96–221, title VII, §705, Mar. 31, 1980, 94 Stat. 187; Pub. L. 97–320, title IV, §407, Oct. 15, 1982, 96 Stat. 1513; Pub. L. 97–457, §21, Jan. 12, 1983, 96 Stat. 2509.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1983</b>—Subsec. (b)(1). Pub. L. 97–457 inserted "a State or" before "a State official".
 
-<b>1982</b>—Subsec. (b)(1). Pub. L. 97–320 substituted "In the event that a State official authorized by law designates any day as a legal holiday for ceremonial or emergency reasons, for the State or any part thereof, that same day shall be a legal holiday for all national banking associations or their offices located in that State or the part so affected. A national banking association or its affected offices may close or remain open on such a State-designated holiday unless the Comptroller of the Currency by written order directs otherwise" for "In the event that a State or a State official authorized by law designates any day as a legal holiday for either emergency or ceremonial reasons for all banks chartered by that State to do business within that State, that same day shall be a legal holiday for all national banking associations chartered to do business within that State unless the Comptroller of the Currency shall by written order permit all national banking associations located in that State to remain open".
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–320 substituted "In the event that a State official authorized by law designates any day as a legal holiday for ceremonial or emergency reasons, for the State or any part thereof, that same day shall be a legal holiday for all national banking associations or their offices located in that State or the part so affected. A national banking association or its affected offices may close or remain open on such a State-designated holiday unless the Comptroller of the Currency by written order directs otherwise" for "In the event that a State or a State official authorized by law designates any day as a legal holiday for either emergency or ceremonial reasons for all banks chartered by that State to do business within that State, that same day shall be a legal holiday for all national banking associations chartered to do business within that State unless the Comptroller of the Currency shallby written order permit all national banking associations located in that State to remain open".
 
 <b>1980</b>—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### <b>Executive Documents</b>
 
 #### Bank Holiday of 1933
 

@@ -68,6 +68,8 @@ The Congress makes the following findings:
 
 (Pub. L. 104–114, §2, Mar. 12, 1996, 110 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Cuban Democracy Act of 1992, referred to in par. (11), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
@@ -76,7 +78,9 @@ The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–19
 
 The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
+Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
 

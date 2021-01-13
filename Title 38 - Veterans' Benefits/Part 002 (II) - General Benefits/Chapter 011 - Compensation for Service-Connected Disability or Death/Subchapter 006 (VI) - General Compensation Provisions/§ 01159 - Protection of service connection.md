@@ -4,6 +4,8 @@ Service connection for any disability or death granted under this title which ha
 
 (Added Pub. L. 86–501, §1, June 10, 1960, 74 Stat. 195, §359; amended Pub. L. 87–825, §6, Oct. 15, 1962, 76 Stat. 950; renumbered §1159 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 359 of this title as this section.
@@ -12,7 +14,9 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator"
 
 <b>1962</b>—Pub. L. 87–825 provided for computation of the period from the date the administrator determines as the date the status commenced for rating purposes.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962,see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 

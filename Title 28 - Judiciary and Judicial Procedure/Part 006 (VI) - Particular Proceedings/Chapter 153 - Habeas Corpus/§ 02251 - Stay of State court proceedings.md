@@ -32,9 +32,13 @@ A provision requiring an appeal to be taken within 3 months was omitted as cover
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177 designated first par. of existing provisions as subsec. (a)(1) and inserted headings, added pars. (2) and (3), and designated second par. of existing provisions as subsec. (b) and inserted heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -6,11 +6,15 @@
 
 (Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3639; amended Pub. L. 105–368, title VI, §602(e)(3)(B), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–14 substituted "hereinafter" for "hereafter".
 
 <b>1998</b>—Pub. L. 105–368 substituted "Native American Veteran Housing Loan Program Account" for "Housing loan program account" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -34,13 +34,13 @@ The United States Government shall seek the consent of the owner or the operator
 
 &emsp;&emsp;&emsp;(i) in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, the intensity, duration, timing, and mode of the requested inspection is based on the risk to the object and purpose of the Convention by the quantities of chemical produced, the characteristics of the facility and the nature of activities carried out at the facility, and the requested inspection, when considered with previous such inspections of the facility undertaken in the current calendar year, shall not exceed the number reasonably required based on the risk to the object and purpose of the Convention as described above;
 
-&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site andthe nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
+&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site and the nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any facility related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the facility was selected randomly by the Technical Secretariat using appropriate mechanisms, such as specifically designed computer software, on the basis of two weighting factors: (I) equitable geographical distribution of inspections; and (II) the information on the declared sites available to the Technical Secretariat, related to the relevant chemical, the characteristics of the plant site, and the nature of activities carried out there;
 
 &emsp;&emsp;(G) the earliest commencement and latest closing dates and times of the inspection; and
 
-&emsp;&emsp;(H) the duration of inspection will not exceed time limits specified in the Convention unless agreed by the owner, operator, or agent in charge of the plant.
+&emsp;&emsp;(H) the duration of inspection will not exceed time limits specified in the Conventionunless agreed by the owner, operator, or agent in charge of the plant.
 
 #### (3) Content of warrants
 
@@ -98,9 +98,13 @@ The United States Government shall seek the consent of the owner or the operator
 
 (Pub. L. 105–277, div. I, title III, §305, Oct. 21, 1998, 112 Stat. 2681–875.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(4)(B)(v), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

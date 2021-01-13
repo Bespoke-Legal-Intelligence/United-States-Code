@@ -8,11 +8,11 @@ The Secretary shall, without charge to a State receiving payments under section 
 
 #### (1) In general
 
-&emsp;Upon the request of a State receiving payments under section 300d–11(a) of this title, theSecretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out section 300d–11(b) of this title and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of a State receiving payments under section 300d–11(a) of this title, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out section 300d–11(b) of this title and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
 
 #### (2) Reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments to the State under section 300d–11(a) of this title by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce theamount of payments to the State under section 300d–11(a) of this title by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title XII, §1221, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2926.)
 

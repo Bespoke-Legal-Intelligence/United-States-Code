@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 114–328, §510(g)(1), (5), redesignated subsec. (h) as (f
 
 Subsec. (f)(1). Pub. L. 114–328, §510(e)(1), substituted "the requirement in subsection (a)" for "standards prescribed in subsection (a)".
 
-Subsec. (f)(2) to (6). Pub. L. 114–328, §510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out ", but not less than two years"before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
+Subsec. (f)(2) to (6). Pub. L. 114–328, §510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out ", but not less than two years" before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
 
 "(2) A joint duty assignment under the circumstances described in subsection (c)."
 
@@ -186,7 +186,7 @@ Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: "The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection."
 
-Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), "Certain officers with critical combat operations skills", which read as follows: "Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b)."
+Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), "Certain officers withcritical combat operations skills", which read as follows: "Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b)."
 
 Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (d), "Exception", which read as follows:
 

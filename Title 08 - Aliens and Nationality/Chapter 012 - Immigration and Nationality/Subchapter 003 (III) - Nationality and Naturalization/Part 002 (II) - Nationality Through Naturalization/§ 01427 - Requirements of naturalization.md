@@ -10,7 +10,7 @@ Absence from the United States of more than six months but less than one year du
 
 Absence from the United States for a continuous period of one year or more during the period for which continuous residence is required for admission to citizenship (whether preceding or subsequent to the filing of the application for naturalization) shall break the continuity of such residence, except that in the case of a person who has been physically present and residing in the United States, after being lawfully admitted for permanent residence, for an uninterrupted period of at least one year, and who thereafter is employed by or under contract with the Government of the United States or an American institution of research recognized as such by the Attorney General, or is employed by an American firm or corporation engaged in whole or in part in the development of foreign trade and commerce of the United States, or a subsidiary thereof more than 50 per centum of whose stock is owned by an American firm or corporation, or is employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence, no period of absence from the United States shall break the continuity of residence if—
 
-&emsp;(1) prior to the beginning of such period of employment (whether such period begins before or after his departure from the United States), but prior to the expiration of one year of continuous absence from the United States, the person has established to the satisfaction of the Attorney General that his absence from the United States for such period is to be on behalf of such Government, or for the purposeof carrying on scientific research on behalf of such institution, or to be engaged in the development of such foreign trade and commerce or whose residence abroad is necessary to the protection of the property rights in such countries in such firm or corporation, or to be employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence; and
+&emsp;(1) prior to the beginning of such period of employment (whether such period begins before or after his departure from the United States), but prior to the expiration of one year of continuous absence from the United States, the person has established to the satisfaction of the Attorney General that his absence from the United States for such period is to be on behalf of such Government, or for the purpose of carrying on scientific research on behalf of such institution, or to be engaged in the development of such foreign trade and commerce or whose residence abroad is necessary to the protection of the property rights in such countries in such firm or corporation, or to be employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence; and
 
 &emsp;(2) such person proves to the satisfaction of the Attorney General that his absence from the United States for such period has been for such purpose.
 
@@ -37,6 +37,8 @@ In determining whether the applicant has sustained the burden of establishing go
 (3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligence shall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 109–149, title V, §518, Dec. 30, 2005, 119 Stat. 2882.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (f)(3). Pub. L. 101–649, §407(c)(2), substituted reference to applica
 <b>1985</b>—Subsec. (g). Pub. L. 99–169 added subsec. (g).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116 inserted provision that the spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

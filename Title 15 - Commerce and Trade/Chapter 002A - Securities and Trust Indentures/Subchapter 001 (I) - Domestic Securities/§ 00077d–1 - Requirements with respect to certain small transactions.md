@@ -28,7 +28,7 @@ A person acting as an intermediary in a transaction involving the offer or sale 
 
 &emsp;&emsp;&emsp;(iii) an understanding of such other matters as the Commission determines appropriate, by rule;
 
-&emsp;(5) take such measures to reduce the risk of fraud with respect to such transactions, as established by the Commission, by rule, including obtaining a background and securities enforcement regulatory history check on each officer, director, and person holding more than 20 percent of the outstanding equity of every issuer whose securities are offered by such person;
+&emsp;(5) take such measures to reduce the risk of fraud with respect to such transactions, as established by the Commission, by rule, including obtaining a background and securities enforcement regulatory history check on each officer, director, and person holding more than20 percent of the outstanding equity of every issuer whose securities are offered by such person;
 
 &emsp;(6) not later than 21 days prior to the first day on which securities are sold to any investor (or such other period as the Commission may establish), make available to the Commission and to potential investors any information provided by the issuer pursuant to subsection (b);
 
@@ -64,7 +64,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 &emsp;&emsp;&emsp;&emsp;(II) financial statements of the issuer, which shall be certified by the principal executive officer of the issuer to be true and complete in all material respects;
 
-&emsp;&emsp;&emsp;(ii) more than $100,000, but not more than $500,000, financial statements reviewed by a public accountant who is independent of the issuer, using professionalstandards and procedures for such review or standards and procedures established by the Commission, by rule, for such purpose; and
+&emsp;&emsp;&emsp;(ii) more than $100,000, but not more than $500,000, financial statements reviewed by a public accountant who is independent of the issuer, using professional standards and procedures for such review or standards and procedures established by the Commission, by rule, for such purpose; and
 
 &emsp;&emsp;&emsp;(iii) more than $500,000 (or such other amount as the Commission may establish, by rule), audited financial statements;
 
@@ -90,7 +90,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 &emsp;(2) not advertise the terms of the offering, except for notices which direct investors to the funding portal or broker;
 
-&emsp;(3) not compensate or commit to compensate, directly or indirectly, any person to promote its offerings through communication channels provided by a broker or funding portal, without taking such steps as the Commission shall, by rule, require to ensure that such person clearly discloses the receipt, past or prospective, of such compensation, upon each instance of such promotional communication;
+&emsp;(3) not compensate or commit to compensate, directly or indirectly, any person topromote its offerings through communication channels provided by a broker or funding portal, without taking such steps as the Commission shall, by rule, require to ensure that such person clearly discloses the receipt, past or prospective, of such compensation, upon each instance of such promotional communication;
 
 &emsp;(4) not less than annually, file with the Commission and provide to investors reports of the results of operations and financial statements of the issuer, as the Commission shall, by rule, determine appropriate, subject to such exceptions and termination dates as the Commission may establish, by rule; and
 
@@ -164,7 +164,7 @@ Nothing in this section or section 77d(6) <sup>1</sup> of this title shall be c
 
 #### (2) Income and net worth
 
-&emsp;The income and net worth of a natural person under section 77d(6)(B) <sup>1</sup> of this title shall be calculated in accordance with any rules of the Commission under this subchapter regarding the calculation of the income and net worth, respectively, of an accredited investor.
+&emsp;The income and net worth of a natural person under section 77d(6)(B) <sup>1</sup> of this title shallbe calculated in accordance with any rules of the Commission under this subchapter regarding the calculation of the income and net worth, respectively, of an accredited investor.
 
 (May 27, 1933, ch. 38, title I, §4A, as added Pub. L. 112–106, title III, §302(b), Apr. 5, 2012, 126 Stat. 315.)
 

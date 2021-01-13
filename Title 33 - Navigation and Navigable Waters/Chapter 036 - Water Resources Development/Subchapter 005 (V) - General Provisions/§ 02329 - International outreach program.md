@@ -26,6 +26,8 @@ The funds to carry out the provisions of this section shall include funds deposi
 
 (Pub. L. 102–580, title IV, §401, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 114–322, title I, §1138, Dec. 16, 2016, 130 Stat. 1657.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -33,6 +35,8 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–322 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Secretary to engage in activities to inform the United States maritime industry and port authorities of technological innovations abroad that could significantly improve waterborne transportation in the United States, both inland and deep draft.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

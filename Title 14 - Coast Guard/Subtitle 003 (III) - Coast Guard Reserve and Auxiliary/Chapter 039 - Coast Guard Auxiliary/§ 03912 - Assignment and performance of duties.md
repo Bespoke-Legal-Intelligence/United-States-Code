@@ -10,6 +10,8 @@ Based on title 14, U.S.C., 1946 ed., §268 (Feb. 19, 1941, ch. 8, title I, §9, 
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 831 of this title as this section.

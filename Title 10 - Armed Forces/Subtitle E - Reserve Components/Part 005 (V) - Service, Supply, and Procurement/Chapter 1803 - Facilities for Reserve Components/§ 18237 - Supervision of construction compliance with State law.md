@@ -22,7 +22,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §6, 64 Stat. 831.
 
-The words "of facilities" are omitted as surplusage. The words "Chief of Engineers" are substituted for thewords "Chief, Corps of Engineers" to conform to section 3036(a)(1) of this title. The words "of the Army" and "of the Navy" are inserted for clarity.
+The words "of facilities" are omitted as surplusage. The words "Chief of Engineers" are substituted for the words "Chief, Corps of Engineers" to conform to section 3036(a)(1) of this title. The words "of the Army" and "of the Navy" are inserted for clarity.
 
 1958
 

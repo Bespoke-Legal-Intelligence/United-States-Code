@@ -4,6 +4,8 @@ Subject to the provisions of this chapter, each eligible veteran may select a pr
 
 (Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, §1670; amended Pub. L. 94–502, title II, §211(5), Oct. 15, 1976, 90 Stat. 2388; renumbered §3470, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1177, which was classified to section 1620 (first sentence) of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
@@ -13,6 +15,8 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 <b>1991</b>—Pub. L. 102–83 renumbered section 1670 of this title as this section.
 
 <b>1976</b>—Pub. L. 94–502 substituted "the veteran" for "him" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -15,7 +15,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 12,000 | 1,668 | 864 | 252&nbsp;&nbsp; |
 | 13,000 | 1,804 | 924 | 262&nbsp;&nbsp; |
 | 14,000 | 1,940 | 984 | 272&nbsp;&nbsp; |
-| 15,000 | 2,075 | 1,044 | 282&nbsp;&nbsp; |
+| 15,000 | 2,075 | 1,044 | 282   |
 | 16,000 | 2,210 | 1,104 | 291&nbsp;&nbsp; |
 | 17,000 | 2,345 | 1,164 | 300&nbsp;&nbsp; |
 | 18,000 | 2,479 | 1,223 | 309&nbsp;&nbsp; |
@@ -122,11 +122,11 @@ Determinations by Interpolation.—If the total number of members of a reserve c
 
 (c)
 
-Reallocations to Lower Grades.—Whenever the number of officers serving in any gradefor duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+Reallocations to Lower Grades.—Whenever the number of officers serving in any grade for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d)
 
-Secretarial Waiver.—(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
+Secretarial Waiver.—(1) Upon determining that it is in the national interest to doso, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
 
 (2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
 
@@ -170,7 +170,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(b)\], added su
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added subsec. (d).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, andin the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, and in the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 412 to 438 and in the Air Force in grade of Major or Lieutenant Commander from 643 to 791, in grade of Lieutenant Colonel or Commander from 672 to 713, and in grade of Colonel or Navy Captain from 274 to 297.
 

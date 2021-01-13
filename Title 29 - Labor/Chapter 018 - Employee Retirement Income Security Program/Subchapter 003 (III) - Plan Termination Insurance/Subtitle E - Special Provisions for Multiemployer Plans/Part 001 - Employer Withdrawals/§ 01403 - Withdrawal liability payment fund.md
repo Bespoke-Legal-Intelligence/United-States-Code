@@ -52,7 +52,7 @@ For purposes of this section, the term "withdrawal liability payment fund", and 
 
 &emsp;(i) any amount described in paragraph (1) and paragraph (2), and
 
-&emsp;(ii) reasonable and necessary administrative expenses in connection with the establishment and operation of the trust and the processing of claims against the fund.
+&emsp;(ii) reasonable and necessary administrative expenses in connection with the establishmentand operation of the trust and the processing of claims against the fund.
 
 (B) The amounts paid by a plan to a fund shall be deemed a reasonable expense of administering the plan under sections 1103(c)(1) and 1104(a)(1)(A)(ii) of this title, and the payments made by a fund to a participating plan shall be deemed services necessary for the operation of the plan within the meaning of section 1108(b)(2) of this title or within the meaning of section 4975(d)(2) of title 26.
 
@@ -92,6 +92,8 @@ The corporation may provide by regulation rules not inconsistent with this secti
 
 (Pub. L. 93–406, title IV, §4223, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1241; amended Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -99,6 +101,8 @@ This chapter, referred to in subsec. (f), was in the original "this Act", meanin
 #### Amendments
 
 <b>1989</b>—Subsecs. (b)(1), (c)(4)(B). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

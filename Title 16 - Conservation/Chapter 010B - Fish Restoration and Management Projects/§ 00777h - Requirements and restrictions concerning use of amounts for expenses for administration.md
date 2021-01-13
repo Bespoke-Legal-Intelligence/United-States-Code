@@ -58,7 +58,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generallyaccepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
+&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
 
 #### (2) Auditor
 
@@ -68,7 +68,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, theInspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 

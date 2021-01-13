@@ -32,7 +32,7 @@ Duration and Terms of Coverage.—(1) Provisional coverage under subsection (a) 
 
 (3) The Secretary, at any time, may—
 
-&emsp;(A) terminate the provisional coverage under subsection (a) of a service or supply, regardless of whether such termination is beforethe end of the period described in paragraph (1);
+&emsp;(A) terminate the provisional coverage under subsection (a) of a service or supply, regardless of whether such termination is before the end of the period described in paragraph (1);
 
 &emsp;(B) establish or disestablish terms and conditions for such coverage; or
 

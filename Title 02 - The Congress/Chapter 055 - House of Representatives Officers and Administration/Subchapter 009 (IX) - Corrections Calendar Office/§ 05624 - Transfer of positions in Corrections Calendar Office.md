@@ -8,13 +8,15 @@
 
 (2) Notwithstanding any other provision of law, in the case of any individual who is an incumbent of a position transferred under paragraph (1) at the time of the transfer, the total number of days of annual leave and the total number of days of sick leave which were provided by the Corrections Calendar Office to the individual and which remain unused as of the date of the transfer shall remain available for the individual to use after the transfer.
 
-(b) Effective with respect to fiscal year 2004 and each succeeding fiscal year, the lump sumallowance for salaries and expenses of the Corrections Calendar Office provided under House Resolution 130, One Hundred Fifth Congress, agreed to April 24, 1997, as enacted into permanent law by section 101 of the Legislative Branch Appropriations Act, 1998 (2 U.S.C. 74d–1 et seq.) \[now 2 U.S.C. 5622 and 5623\], is transferred as follows:
+(b) Effective with respect to fiscal year 2004 and each succeeding fiscal year, the lump sum allowance for salaries and expenses of the Corrections Calendar Office provided under House Resolution 130, One Hundred Fifth Congress, agreed to April 24, 1997, as enacted into permanent law by section 101 of the Legislative Branch Appropriations Act, 1998 (2 U.S.C. 74d–1 et seq.) \[now 2 U.S.C. 5622 and 5623\], is transferred as follows:
 
 &emsp;(1) 63.5 percent of such allowance shall be transferred to the Office of the Speaker.
 
 &emsp;(2) 36.5 percent of such allowance shall be transferred to the Office of the Minority Leader.
 
 (Pub. L. 108–83, title I, §106, Sept. 30, 2003, 117 Stat. 1018.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

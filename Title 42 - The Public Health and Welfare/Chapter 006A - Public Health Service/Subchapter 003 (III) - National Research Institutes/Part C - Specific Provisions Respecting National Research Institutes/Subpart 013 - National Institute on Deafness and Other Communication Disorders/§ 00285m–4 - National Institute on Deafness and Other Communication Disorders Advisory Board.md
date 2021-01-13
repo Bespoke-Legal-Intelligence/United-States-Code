@@ -24,7 +24,7 @@ The Advisory Board shall be composed of eighteen appointed members and nonvoting
 
 #### (c) Compensation
 
-Members of an Advisory Board who are officers or employees of the Federal Governmentshall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
+Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
 
 #### (d) Term of office; vacancies
 
@@ -50,7 +50,7 @@ The Advisory Board shall—
 
 &emsp;(2) for the purpose of assuring the most effective use and organization of resources respecting deafness and other communication disorders, advise and make recommendations to the Congress, the Secretary, the Director of NIH, the Director of the Institute, and the heads of other appropriate Federal agencies for the implementation and revision of such plan; and
 
-&emsp;(3) maintain liaison with other advisory bodies related to Federal agencies involved in the implementation of such plan and with key non-Federal entities involved in activities affecting the control of such disorders.
+&emsp;(3) maintain liaison with other advisory bodies related to Federal agencies involved in the implementation of such plan and with keynon-Federal entities involved in activities affecting the control of such disorders.
 
 #### (i) Subcommittee activities; workshops and conferences; collection of data
 
@@ -92,7 +92,7 @@ Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Di
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1988 Amendment
 

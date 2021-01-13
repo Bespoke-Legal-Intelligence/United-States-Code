@@ -10,7 +10,7 @@ The Secretary of Labor (hereinafter in this section referred to as the "Secretar
 
 #### (b) Types of technical assistance authorized
 
-In carrying out subsection (a), the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services, unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
+In carrying out subsection (a), the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services,unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
 
 #### (c) Administrative authorities
 
@@ -49,6 +49,8 @@ There are authorized to be appropriated to the Department of Labor for the 3-yea
 &emsp;(2) $1,000,000 for technical assistance to Hungary.
 
 (Pub. L. 101–179, title II, §202, Nov. 28, 1989, 103 Stat. 1308.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

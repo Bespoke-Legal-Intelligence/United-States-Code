@@ -2,7 +2,7 @@
 
 (a) The Director may by rule prescribe that any paper or fee required to be filed in the Patent and Trademark Office will be considered filed in the Office on the date on which it was deposited with the United States Postal Service or would have been deposited with the United States Postal Service but for postal service interruptions or emergencies designated by the Director.
 
-(b) When the day, or the last day, for taking any action or paying any fee in the UnitedStates Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
+(b) When the day, or the last day, for taking any action or paying any fee in the United States Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may betaken, or the fee paid, on the next succeeding secular or business day.
 
 (July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
@@ -11,6 +11,8 @@
 Based on Title 35, U.S.C., 1946 ed., §21 (Mar. 2, 1927, ch. 273, §14, 44 Stat. 1337).
 
 "Fixed by statute" is omitted from the corresponding section of the existing statute as unnecessary. Saturday is added as a day on which action need not be taken.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Based on Title 35, U.S.C., 1946 ed., §21 (Mar. 2, 1927, ch. 273, §14, 44 Stat.
 <b>1982</b>—Pub. L. 97–247 substituted "Filing date and day for taking action" for "Day for taking action falling on Saturday, Sunday, or holiday" as section catchline, added subsec. (a), redesignated existing provisions as subsec. (b) and inserted "Federal" after "Sunday, or a".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

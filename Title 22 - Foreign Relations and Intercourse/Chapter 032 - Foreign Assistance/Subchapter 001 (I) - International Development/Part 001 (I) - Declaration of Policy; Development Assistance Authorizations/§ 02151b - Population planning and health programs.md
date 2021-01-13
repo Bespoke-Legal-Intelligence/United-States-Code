@@ -52,7 +52,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 (1) None of the funds made available to carry out subchapter I of this chapter may be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-(2) None of the funds made available to carry out subchapter I of this chapter may be used to pay for the performance of involuntary sterilizations as a method of family planning or to coerce or provide any financial incentive to any person to undergo sterilizations.
+(2) None of the funds made available to carry out subchapter I of this chapter may be used topay for the performance of involuntary sterilizations as a method of family planning or to coerce or provide any financial incentive to any person to undergo sterilizations.
 
 (3) None of the funds made available to carry out subchapter I of this chapter may be used to pay for any biomedical research which relates, in whole or in part, to methods of, or the performance of, abortions or involuntary sterilization as a means of family planning.
 
@@ -66,17 +66,15 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 (2) Funds appropriated under this subsection are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amendedPub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759; Pub. L. 108–25, title III, §§301(a)(1), 303(c), May 27, 2003, 117 Stat. 728, 737.)
+(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759; Pub. L. 108–25, title III, §§301(a)(1), 303(c), May 27, 2003, 117 Stat. 728, 737.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Consolidated Appropriations Resolution, 2003, referred to in subsec. (c)(4), is Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 11. Provisions under the heading "Child Survival and Health Programs Fund" in Pub. L. 108–7 appear at 117 Stat. 161 and are not classified to the Code.
 
 This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -126,11 +124,17 @@ Subsec. (c). Pub. L. 95–88, §103(b), redesignated former subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 95–88, §103(c), added subsec. (d).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be usedfor population planning, either in separate programs or as an element of health programs.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be used for population planning, either in separate programs or as an element of health programs.
 
 Subsec. (b). Pub. L. 94–161, §304(4), added subsec. (b).
 
 <b>1974</b>—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $165,000,000 from $145,000,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -147,10 +151,6 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date of 1977 Amendment
 
 Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977."
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Findings
 
@@ -189,4 +189,10 @@ Pub. L. 106–264, title II, §202, Aug. 19, 2000, 114 Stat. 758, provided that:
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 
 Pub. L. 99–83, title III, §305(b), Aug. 8, 1985, 99 Stat. 215, provided that: "Each annual report required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act \[22 U.S.C. 2151b(c)(3)\]."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

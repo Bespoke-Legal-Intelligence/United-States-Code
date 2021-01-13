@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiencyof the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -17,6 +17,8 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 &emsp;(7) notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for overseas public diplomacy facilities not physically located together with other Department of State facilities abroad.
 
 (Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Pub. L. 87–139, §11, Aug. 14, 1961, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), Aug. 15, 1979, 93 Stat. 398–400; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title II, §217, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 100–204, title II, §205, Dec. 22, 1987, 101 Stat. 1374; Pub. L. 102–138, title II, §203, Oct. 28, 1991, 105 Stat. 692; Pub. L. 103–236, title II, §222, Apr. 30, 1994, 108 Stat. 421; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(4), Oct. 21, 1998, 112 Stat. 2681–787.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -46,11 +48,13 @@ In par. (6), "section 5703 of title 5" substituted for "section 5 of the Adminis
 
 <b>1979</b>—Par. (1). Pub. L. 96–60, §204(a), struck out "within the limitation of such appropriations as the Congress may provide," after "chapter,".
 
-Par. (3). Pub. L. 96–60, §203(e), substituted "leasing of associated real property (either within or outside the United States)" for "leasing of real property both within and without the continental limits of the United States" and provided for alteration, improvement, and repair of such property, without regard to section 278aof title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
+Par. (3). Pub. L. 96–60, §203(e), substituted "leasing of associated real property (either within or outside the United States)" for "leasing of real property both within and without the continental limits of the United States" and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
 
 Par. (5). Pub. L. 96–60, §203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted "pertinent" before "appropriation".
 
 <b>1961</b>—Par. (6). Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses as authorized by section 73b–2 of title 5, for provisions which allowed payment of actual transportation expenses and a maximum of $10 per diem.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

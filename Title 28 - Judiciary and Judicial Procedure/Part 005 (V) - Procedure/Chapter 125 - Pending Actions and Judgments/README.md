@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–317, title II, §203(b), Oct. 19, 1996, 110 Stat. 3850, substituted "for enforcement in other districts" for "of the district courts and the Court of International Trade" in item 1963.

@@ -59,6 +59,7 @@
 | [<b>52.</b>](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md) | <b>Water Infrastructure Finance and Innovation</b> | <b>3901</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md) | <b>Harmful Algal Bloom and Hypoxia Research and Control</b> | <b>4001</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Commercial%20Engagement%20Through%20Ocean%20Technology/README.md) | <b>Commercial Engagement Through Ocean Technology</b> | <b>4101</b> |
+| [<b>55.</b>](Chapter%20055%20-%20Save%20Our%20Seas%202.0/README.md) | <b>Save Our Seas 2.0</b> | <b>4201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,3 +124,4 @@
 - [Chapter 052 - Water Infrastructure Finance and Innovation](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md)
 - [Chapter 053 - Harmful Algal Bloom and Hypoxia Research and Control](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md)
 - [Chapter 054 - Commercial Engagement Through Ocean Technology](Chapter%20054%20-%20Commercial%20Engagement%20Through%20Ocean%20Technology/README.md)
+- [Chapter 055 - Save Our Seas 2.0](Chapter%20055%20-%20Save%20Our%20Seas%202.0/README.md)

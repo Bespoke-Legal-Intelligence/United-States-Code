@@ -10,7 +10,7 @@ Plan.—
 
 &emsp;(1)
 
-In general.—The Administrator shall develop a plan for the certification, permitting,authorizing, or allowing of the deployment of technologies or systems for the detection and mitigation of unmanned aircraft systems.
+In general.—The Administrator shall develop a plan for the certification, permitting, authorizing, or allowing of the deployment of technologies or systems for the detection and mitigation of unmanned aircraft systems.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ The Aircraft Sabotage Act, referred to in subsec. (g), is part B (§§2011–201
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Computer Fraud and Abuse Act of 1986, referred to in subsec. (g), is Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure. Section 1031 of Title 18 was enacted by Pub. L. 100–700, known as the Major Fraud Act of 1988.
+The Computer Fraud and Abuse Act of 1986, referred to in subsec. (g), is Pub. L. 99–474, §1, Oct. 16, 1986, 100Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure. Section 1031 of Title 18 was enacted by Pub. L. 100–700, known as the Major Fraud Act of 1988.
 
 #### Cooperation Related to Certain Counter-UAS Technology
 
@@ -80,7 +80,7 @@ Reporting.—As part of the pilot program, the Administrator shall establish and
 
 "(c)
 
-Report to Congress.—Not later than 1 year after the date of enactment of the FAA Reauthorization Act of 2018 \[Oct. 5, 2018\], and annually thereafter through the duration of the pilot program established in subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senateand Committee on Transportation and Infrastructure of the House of Representatives\] a report on the following:
+Report to Congress.—Not later than 1 year after the date of enactment of the FAA Reauthorization Act of 2018 \[Oct. 5, 2018\], and annually thereafter through the duration of the pilot program established in subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the following:
 
 &emsp;"(1) The number of unauthorized unmanned aircraft operations detected in restricted airspace, including in and around airports, together with a description of such operations.
 

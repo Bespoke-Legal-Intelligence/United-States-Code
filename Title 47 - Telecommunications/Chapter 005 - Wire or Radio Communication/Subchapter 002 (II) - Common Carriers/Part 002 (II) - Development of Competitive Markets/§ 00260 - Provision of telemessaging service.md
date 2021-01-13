@@ -14,7 +14,7 @@ The Commission shall establish procedures for the receipt and review of complain
 
 #### (c) "Telemessaging service" defined
 
-As used in this section, the term "telemessaging service" means voice mail and voice storage and retrieval services, any live operator services used to record, transcribe, or relay messages (other than telecommunications relay services),and any ancillary services offered in combination with these services.
+As used in this section, the term "telemessaging service" means voice mail and voice storage and retrieval services, any live operator services used to record, transcribe, or relay messages (other than telecommunications relay services), and any ancillary services offered in combination with these services.
 
 (June 19, 1934, ch. 652, title II, §260, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 79.)
 

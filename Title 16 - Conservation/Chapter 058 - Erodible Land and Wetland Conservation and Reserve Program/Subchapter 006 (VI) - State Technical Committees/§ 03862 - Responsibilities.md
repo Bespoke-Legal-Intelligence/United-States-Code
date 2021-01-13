@@ -32,7 +32,7 @@ Each State technical committee shall provide public notice of, and permit public
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original "this title", meaning title XII of Pub. L.99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) to (c), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

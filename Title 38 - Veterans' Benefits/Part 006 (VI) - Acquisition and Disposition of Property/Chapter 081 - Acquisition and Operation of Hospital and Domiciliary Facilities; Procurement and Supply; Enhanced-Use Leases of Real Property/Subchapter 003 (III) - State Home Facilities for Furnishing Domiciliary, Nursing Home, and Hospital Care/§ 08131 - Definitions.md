@@ -4,15 +4,19 @@ For the purpose of this subchapter—
 
 &emsp;(1) The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
-&emsp;(2) The term "State" does not include any possession of the United States.
+&emsp;(2) The term "State" includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) but does not include any possession of the United States.
 
 &emsp;(3) The term "construction" means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, adult day health, or hospital care in State homes, and the provision of initial equipment for any such buildings.
 
 &emsp;(4) The term "cost of construction" means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5031; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, §224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered §8131, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L.102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title III, §342(b)(1), Oct. 9, 1996, 110 Stat. 3206.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5031; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, §224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered §8131, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title III, §342(b)(1), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 116–315, title III, §3004(c)(1), Jan. 5, 2021, 134 Stat. 4992.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Par. (2). Pub. L. 116–315 inserted "includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) but" before "does not".
 
 <b>1996</b>—Par. (3). Pub. L. 104–262 inserted "adult day health," before "or hospital care".
 
@@ -28,6 +32,8 @@ Par. (d). Pub. L. 95–62, §3(2), struck out provisions which had limited defin
 
 <b>1976</b>—Par. (a). Pub. L. 94–581 substituted "veteran" for "war veteran".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–576, title II, §224(e), Oct. 28, 1986, 100 Stat. 3263, provided that: "The amendments made by this section \[amending this section and sections 5033 and 5035 \[now 8133 and 8135\] of this title\] shall take effect on July 1, 1987."
@@ -38,7 +44,7 @@ Pub. L. 95–62, §5, July 5, 1977, 91 Stat. 263, provided that:
 
 "(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[amending this section and sections 5032 to 5036 \[now 8132 to 8136\] of this title and repealing section 644 of this title\] shall be effective October 1, 1977.
 
-"(b)(1) The terms and conditions of any grant made prior to October 1, 1977, under section 644 of title 38, United States Code \[former section 644 of this title\], and regulations prescribed thereunder, shall remain in full force and effect unless modified, by the mutual agreement of the parties, in accordance with the provisions of subchapter III of chapter 81 of such title, and regulations prescribed thereunder, in effect after September 30, 1977.
+"(b)(1) The terms and conditions of any grant made prior to October 1, 1977, under section 644 of title 38, United States Code \[former section 644 of this title\], and regulations prescribed thereunder, shall remain infull force and effect unless modified, by the mutual agreement of the parties, in accordance with the provisions of subchapter III of chapter 81 of such title, and regulations prescribed thereunder, in effect after September 30, 1977.
 
 "(2) With respect to any grant made prior to October 1, 1977, under subchapter III of chapter 81 of such title, the Administrator of Veterans' Affairs shall, upon application of a grantee, modify the terms and conditions of such grant to comply with the provisions of such subchapter as amended by this Act, and regulations prescribed thereunder, and shall promptly notify each such grantee of the grantee's right to request such modification."
 

@@ -59,6 +59,7 @@
 | [1475b](%C2%A7%2001475b%20-%20Volunteer%20authority.md) | Volunteer authority. |
 | [1476\.](%C2%A7%2001476%20-%20Elimination%20of%20oaths%20for%20written%20statements%3B%20discretion%20of%20Secretary%20of%20the%20Interior.md) | Elimination of oaths for written statements; discretion of Secretary of the Interior. |
 | [1476a.](%C2%A7%2001476a%20-%20Unsworn%20written%20statements%20subject%20to%20penalties%20of%20presenting%20false%20claims.md) | Unsworn written statements subject to penalties of presenting false claims. |
+| [1477\.](%C2%A7%2001477%20-%20Snow%20water%20supply%20forecasting.md) | Snow water supply forecasting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -124,3 +125,4 @@
 - [&sect; 01475b - Volunteer authority](%C2%A7%2001475b%20-%20Volunteer%20authority.md)
 - [&sect; 01476 - Elimination of oaths for written statements; discretion of Secretary of the Interior](%C2%A7%2001476%20-%20Elimination%20of%20oaths%20for%20written%20statements%3B%20discretion%20of%20Secretary%20of%20the%20Interior.md)
 - [&sect; 01476a - Unsworn written statements subject to penalties of presenting false claims](%C2%A7%2001476a%20-%20Unsworn%20written%20statements%20subject%20to%20penalties%20of%20presenting%20false%20claims.md)
+- [&sect; 01477 - Snow water supply forecasting](%C2%A7%2001477%20-%20Snow%20water%20supply%20forecasting.md)

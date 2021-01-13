@@ -12,7 +12,7 @@ For the purpose of promoting the efficiency of and informing the review by the F
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and thenecessary expertise can be provided by the external experts.
+&emsp;&emsp;The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and the necessary expertise can be provided by the external experts.
 
 #### (B) External experts
 
@@ -52,7 +52,7 @@ The external experts who are consulted under this section may be considered spec
 
 #### (e) Other consultation
 
-Nothing in this section shall be construed to limit the ability of the Secretary to consult with individuals and organizations as authorized prior to July 9, 2012.
+Nothing in this section shall be construed to limit the ability of the Secretary to consultwith individuals and organizations as authorized prior to July 9, 2012.
 
 #### (f) No right or obligation
 
@@ -87,6 +87,8 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 &emsp;The requirements of this subsection shall apply only in instances where the consultation is undertaken solely under the authority of this section. The requirements of this subsection shall not apply to any consultation initiated under any other authority.
 
 (June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

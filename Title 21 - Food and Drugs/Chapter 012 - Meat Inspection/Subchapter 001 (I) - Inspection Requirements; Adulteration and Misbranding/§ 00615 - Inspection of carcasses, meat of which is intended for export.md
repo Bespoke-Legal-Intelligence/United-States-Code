@@ -2,7 +2,9 @@
 
 The Secretary shall also cause to be made a careful inspection of the carcasses and parts thereof of all amenable species, the meat of which, fresh, salted, canned, corned, packed, cured, or otherwise prepared, is intended and offered for export to any foreign country, at such times and places and in such manner as he may deem proper.
 
-(Mar. 4, 1907, ch. 2907, title I, §15, formerly 13th par., 34 Stat. 1263; renumbered §15 and amended Pub. L. 90–201, §§1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, §15, formerly 13th par., 34 Stat. 1263; renumbered §15 and amended Pub. L. 90–201, §§1, 3(b), 12(a), Dec. 15, 1967, 81Stat. 584, 588, 592; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ Section was formerly classified to section 83 of this title.
 <b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines".
 
 <b>1967</b>—Pub. L. 90–201, §§3(b), 12(a), struck out "of Agriculture" after "Secretary" and included horses, mules, and other equines in the list of animals, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

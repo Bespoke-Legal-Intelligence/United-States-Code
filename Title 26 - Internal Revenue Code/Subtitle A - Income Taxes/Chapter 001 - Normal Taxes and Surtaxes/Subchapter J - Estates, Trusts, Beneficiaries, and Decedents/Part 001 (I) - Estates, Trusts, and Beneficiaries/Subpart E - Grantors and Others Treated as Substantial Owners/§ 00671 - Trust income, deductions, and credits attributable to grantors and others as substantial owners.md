@@ -90,7 +90,7 @@ Election treated as a liquidation.—If an election is made under subsection (c)
 
 &emsp;"(2)
 
-Termination of election.—If an entity ceases to be described in subsection (b) or violates any term of the agreement described in subsection (c)(2), the entity shall, for purposes of the Internal Revenue Code of 1986, be treated as a corporation for the taxable year in which such cessation or violation occurs and for all subsequent taxable years.
+Termination of election.—If an entity ceases to be described in subsection (b) or violates any termof the agreement described in subsection (c)(2), the entity shall, for purposes of the Internal Revenue Code of 1986, be treated as a corporation for the taxable year in which such cessation or violation occurs and for all subsequent taxable years.
 
 &emsp;"(3)
 

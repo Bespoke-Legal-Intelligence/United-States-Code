@@ -20,13 +20,15 @@
 
 (Pub. L. 101–163, title III, §319, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 104–19, title I, §701, July 27, 1995, 109 Stat. 220.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 162–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Prior Provisions
 
-Act Aug. 15, 1876, ch. 287, 19 Stat. 147, transferred duties relative to the Capitol theretofore performed by Commissioner of Public Buildings and Grounds to Architect of the Capitol.
+Act Aug. 15, 1876, ch. 287, 19 Stat. 147, transferred duties relative to the Capitol theretofore performed byCommissioner of Public Buildings and Grounds to Architect of the Capitol.
 
 Act Mar. 2, 1867, ch. 167, §2, 14 Stat. 466, abolished office of Commissioner of Public Buildings and Grounds referred to in section 1811 of this title, and transferred the duties of that office to the Chief of Engineers of the Army.
 
@@ -43,6 +45,8 @@ Act May 2, 1828, ch. 45, §3, 4 Stat. 266, abolished office of Architect of the 
 Subsec. (a)(2)(D). Pub. L. 104–19, §701(3), substituted "Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate" for "Administration of the House of Representatives and the Committee on Rules and Administration of the Senate".
 
 Subsec. (b). Pub. L. 104–19, §701(1), substituted "office" for "Office" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

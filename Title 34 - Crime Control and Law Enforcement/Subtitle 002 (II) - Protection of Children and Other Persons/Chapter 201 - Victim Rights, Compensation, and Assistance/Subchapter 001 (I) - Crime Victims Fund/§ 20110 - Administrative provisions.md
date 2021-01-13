@@ -22,7 +22,7 @@ No person shall on the ground of race, color, religion, national origin, handica
 
 #### (f) Failure to comply with provisions; notice and hearing; power of Director
 
-If, after reasonable notice and opportunity for a hearing on the record, the Director finds that a State has failed to comply substantially with any provision of this subchapter or a rule, regulation, guideline, or procedure issued under this subchapter, or an application submitted in accordance with this subchapter or the provisions of any other applicable law, the Director shall—
+If, after reasonable notice and opportunity for a hearing on the record, the Director finds that a State has failed to comply substantially with any provision of this subchapter or a rule, regulation, guideline, or procedure issued under thissubchapter, or an application submitted in accordance with this subchapter or the provisions of any other applicable law, the Director shall—
 
 &emsp;(1) terminate payments to such State;
 
@@ -39,6 +39,8 @@ The Director shall, on December 31, 1990, and on June 30 every two years thereaf
 Each entity receiving sums made available under this subchapter for administrative purposes shall certify that such sums will not be used to supplant State or local funds, but will be used to increase the amount of such funds that would, in the absence of Federal funds, be made available for these purposes.
 
 (Pub. L. 98–473, title II, §1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, §48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, §604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Subsec. (f). Pub. L. 100–690, §7123(b)(13), substituted "Director" for "Attor
 Subsec. (g). Pub. L. 100–690, §7123(b)(14), substituted "Director" for "Attorney General" in two places and "on December 31, 1990, and on December 31 every 2 years thereafter" for "no later than December 31, 1987".
 
 <b>1986</b>—Subsecs. (g), (h). Pub. L. 99–646 redesignated subsec. (h) as (g) and substituted "1402", which was translated as "section 10601 of this title" for "1302", which had been editorially translated as "section 10601 of this title", thereby requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

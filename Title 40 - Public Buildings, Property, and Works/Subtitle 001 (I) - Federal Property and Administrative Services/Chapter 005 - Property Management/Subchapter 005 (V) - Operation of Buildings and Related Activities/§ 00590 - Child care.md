@@ -52,7 +52,7 @@ Reimbursement for costs.—For space allotted under subsection (b), if there is 
 
 (d)
 
-Payment of Other Costs.—If an agency has a child care facility in its space, or is asponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
+Payment of Other Costs.—If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
 
 &emsp;(1) pay accreditation fees, including renewal fees, for the child care facility to be accredited by a nationally recognized early-childhood professional organization;
 
@@ -90,7 +90,7 @@ Definition.—For purposes of this subsection, the term "Executive agency" has t
 
 &emsp;(2)
 
-In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal or leased facility, or through contract, for civilian employees of the agency.
+In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal orleased facility, or through contract, for civilian employees of the agency.
 
 &emsp;(3)
 
@@ -165,6 +165,8 @@ In subsection (g)(2), the word "hereafter" is omitted as unnecessary.
 In subsection (g)(4), the words "as appropriate" are omitted as unnecessary.
 
 In subsection (g)(5), the words "in this or any other Act" are omitted as unnecessary. The words "of the House of Representatives and the Senate" are added for consistency in the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Contents of notification to officer
 
-In making a notification required under section 300ff–132 of this title or section 300ff–133(d)(2) of this title, a medical facility shall provide—
+In making a notification required under section 300ff–132 of this title or section300ff–133(d)(2) of this title, a medical facility shall provide—
 
 &emsp;(1) the name of the infectious disease involved; and
 

@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 June 10, 1921, ch. 18, §207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, §1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, §102(a), 84 Stat. 2085; restated Mar. 2, 1974, Pub. L. 93–250, §1, 88 Stat. 11.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–264, §1, Dec. 14, 2016, 130 Stat. 1371, provided that: "This Act \[enacting section 1126 of this title, amending section 503 of this title, and enacting provisions set out as notes under sections 503 and 1126 of this title\] may be cited as the 'Program Management Improvement Accountability Act'."
@@ -29,10 +31,6 @@ Pub. L. 101–576, title I, §101, Nov. 15, 1990, 104 Stat. 2838, provided that:
 #### Transfer of Functions
 
 Pub. L. 104–53, title II, §211, Nov. 19, 1995, 109 Stat. 535, as amended by Pub. L. 104–316, title II, §203, Oct. 19, 1996, 110 Stat. 3845, provided that: "Personnel transferred pursuant to this section, as in effect immediately before the effective date of section 303 \[203\] of the General Accounting Office Act of 1996 \[Pub. L. 104–316, Oct. 19, 1996\], shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause."
-
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Disaster Relief Funding Guidance
 
@@ -252,7 +250,7 @@ Requirement for Public-Private Competition.—
 
 &emsp;&emsp;"(A) the conversion is based on the result of a public-private competition that includes a most efficient and cost effective organization plan developed by such activity or function;
 
-&emsp;&emsp;"(B) the Competitive Sourcing Official determines that, over all performance periods stated inthe solicitation of offers for performance of the activity or function, the cost of performance of the activity or function by a contractor would be less costly to the executive agency by an amount that equals or exceeds the lesser of—
+&emsp;&emsp;"(B) the Competitive Sourcing Official determines that, over all performance periods stated in the solicitation of offers for performance of the activity or function, the cost of performance of the activity or function by a contractor would be less costly to the executive agency by an amount that equals or exceeds the lesser of—
 
 &emsp;&emsp;&emsp;"(i) 10 percent of the most efficient organization's personnel-related costs for performance of that activity or function by Federal employees; or
 
@@ -580,7 +578,7 @@ Government corporation.—A Government corporation or a Government controlled co
 
 &emsp;"(3)
 
-Nonappropriated funds instrumentality.—A part of a department or agency if all of the employeesof that part of the department or agency are employees referred to in section 2105(c) of title 5, United States Code.
+Nonappropriated funds instrumentality.—A part of a department or agency if all of the employees of that part of the department or agency are employees referred to in section 2105(c) of title 5, United States Code.
 
 &emsp;"(4)
 
@@ -652,7 +650,7 @@ Pub. L. 105–277, div. A, §101(b) \[title II, §209\], Oct. 21, 1998, 112 Stat
 
 #### Department of the Interior Franchise Fund Pilot
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 108–7, div. F, title I, §149, Feb. 20, 2003, 117 Stat. 245, provided that: "There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain availableuntil expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356."
+Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 108–7, div. F, title I, §149, Feb. 20, 2003, 117 Stat. 245, provided that: "There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356."
 
 #### Department of Veterans Affairs Franchise Fund Pilot
 
@@ -690,9 +688,11 @@ Pub. L. 110–161, div. E, title V, §524, Dec. 26, 2007, 121 Stat. 2074.
 
 Pub. L. 109–295, title V, §526, Oct. 4, 2006, 120 Stat. 1382.
 
-Pub. L. 116–93, div. D, title V, §504, Dec. 20, 2019, 133 Stat. 2526, provided that: "Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31)\[set out above\], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act \[div. D of Pub. L. 116–93; see Tables for classification\] in the same manner as such section applied to funds made available in that Act: <i>Provided</i>, That funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security."
+Pub. L. 116–260, div. F, title V, §504, Dec. 27, 2020, 134 Stat. 1469, provided that: "Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31) \[set out above\], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act \[div. F of Pub. L. 116–260; see Tables for classification\] in the same manner as such section applied to funds made available in that Act: <i>Provided</i>, That funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. D, title V, §504, Dec. 20, 2019, 133 Stat. 2526.
 
 Pub. L. 116–6, div. A, title V, §504, Feb. 15, 2019, 133 Stat. 38.
 
@@ -702,7 +702,7 @@ Pub. L. 109–13, div. A, title VI, §6025, May 11, 2005, 119 Stat. 287, provide
 
 Pub. L. 108–90, title V, §506, Oct. 1, 2003, 117 Stat. 1153, provided in part: "That such fund \[Federal Emergency Management Agency Working Capital Fund\] shall hereafter be known as the 'Department of Homeland Security Working Capital Fund'."
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: "For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: <i>Provided further</i>, That income of such fund maybe retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\]."
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: "For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\]."
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
@@ -754,7 +754,7 @@ Termination of Certain Authority.—The authority of the Secretary of Homeland S
 
 \[Pub. L. 109–90, title V, §539, Oct. 18, 2005, 119 Stat. 2088, amended section 403(f) of Pub. L. 103–356, set out above, by substituting "October 1, 2006" for "October 1, 2005", for activities related to the Department of Homeland Security Working Capital Fund.\]
 
-\[Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357, which directed the amendment of subsec. (f) of section 403 of Pub. L. 103–356, set out above, by substituting "October 1, 2004" for "October 1, 2003", was executed by making the substitution for "December 31, 2004" to reflect the probable intent of Congress.\]
+\[Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357, which directed the amendment of subsec. (f)of section 403 of Pub. L. 103–356, set out above, by substituting "October 1, 2004" for "October 1, 2003", was executed by making the substitution for "December 31, 2004" to reflect the probable intent of Congress.\]
 
 #### Simplification of Management Reporting Process
 
@@ -814,6 +814,12 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 Pub. L. 101–576, title II, §204, Nov. 15, 1990, 104 Stat. 2842, provided that: "Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act \[Nov. 15, 1990\]."
 
+#### <b>Executive Documents</b>
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
 #### <b>REORGANIZATION PLAN NO. 2 OF 1970</b>
 
 #### Eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, as amended Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085
@@ -834,7 +840,7 @@ There are hereby transferred to the President of the United States all functions
 
 #### Sec. 103. Records, Property, Personnel, and Funds
 
-\[Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section provided that the records, property, personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.\]
+\[Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section provided that the records, property,personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.\]
 
 #### PART II. DOMESTIC COUNCIL
 
@@ -882,7 +888,7 @@ The staff of the Council shall be headed by an Executive Director who shall be a
 
 #### Sec. 301. Effective Date
 
-The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of theUnited States Code, or on July 1, 1970, whichever is later.
+The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of the United States Code, or on July 1, 1970, whichever is later.
 
 #### Message of the President
 
@@ -980,7 +986,7 @@ Finally, the new Office will continue the Legislative Reference functions now pe
 
 The people deserve a more responsive and more effective Government. The times require it. These changes will help provide it.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), "to promote the better execution of the laws, the more effective management of the Executive Branch and of its agenciesand functions, and the expeditious administration of the public business;" and Section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable."
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), "to promote the better execution of the laws, the more effective management of the Executive Branch and of its agencies and functions, and the expeditious administration of the public business;" and Section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable."
 
 The reorganizations provided for in this plan make necessary the appointment and compensation of new officers, as specified in Section 102(c) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the Executive Branch who have similar responsibilities.
 
@@ -1080,7 +1086,7 @@ Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931, which related to transfer of ce
 
 Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to transfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America,including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to transfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
 
 Section 1. The following functions which heretofore have been performed by the Director of the Office of Management and Budget, either alone or in conjunction with the Office of Personnel Management, are hereby reassigned and delegated to the Office of Personnel Management:
 
@@ -1142,7 +1148,7 @@ Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
 By virtue of the authority vested in me as President by the Constitution and statutes of the United States, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], Section 3(a) of the Paperwork Reduction Act of 1980 (Public Law 96–511, 94 Stat. 2825, 44 U.S.C. 3503 note), and Section 301 of Title 3 of the United States Code, and in order to transfer, redelegate, and reassign certain statistical policy functions from the Secretary of Commerce to the Director of the Office of Management and Budget, and to require redelegation of certain functions to the Administrator for the Office of Information and Regulatory Affairs, it is hereby ordered as follows:
 
-Section 1. Sec. 1(c) of Executive Order No. 11541 of July 1, 1970, as amended \[set out as a note above\], is amended by deleting the last phrase "is terminated on October 9, 1977" and substituting therefor "shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable".
+Section 1. Sec. 1(c) of Executive Order No. 11541 of July 1, 1970, as amended \[set out as a note above\], isamended by deleting the last phrase "is terminated on October 9, 1977" and substituting therefor "shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable".
 
 Sec. 2. Executive Order No. 10253 of July 11, 1951, as amended \[31 U.S.C. 1104 note\], is further amended as follows:
 
@@ -1168,7 +1174,7 @@ Sec. 3. Executive Order No. 10033, as amended \[22 U.S.C. 286f note\], is furthe
 
 Sec. 4. (a) Executive Order No. 12013 is revoked.
 
-(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting "the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act" \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor"the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act" \[22 U.S.C. 3103(a)(3)\].
+(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting "the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act" \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor "the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act" \[22 U.S.C. 3103(a)(3)\].
 
 Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned from the Secretary of Commerce to the Director of the Office of Management and Budget by the delegations made in this Order, are hereby transferred to the Director of the Office of Management and Budget.
 
@@ -1284,7 +1290,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12805
 
-Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to Pub. L. 110–409, §7(c)(2), Oct. 14, 2008, 122 Stat. 4313, which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the InspectorsGeneral on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See section 7(c)(2) of Pub. L. 110–409, set out as an Effective Date; Existing Executive Orders note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to Pub. L. 110–409, §7(c)(2), Oct. 14, 2008, 122 Stat. 4313, which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See section 7(c)(2) of Pub. L. 110–409, set out as an Effective Date; Existing Executive Orders note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12816
 
@@ -1412,7 +1418,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Interagency Council on Administrative Management.</i>
 
-(a) <i>Purpose and Membership</i>. An Interagency Council on Administrative Management ("Council") is established as an interagency coordination mechanism. TheCouncil shall be composed of the Deputy Director for Management of the Office of Management and Budget, who shall serve as Chair, and one senior administrative management official from each of the following agencies:
+(a) <i>Purpose and Membership</i>. An Interagency Council on Administrative Management ("Council") is established as an interagency coordination mechanism. The Council shall be composed of the Deputy Director for Management of the Office of Management and Budget, who shall serve as Chair, and one senior administrative management official from each of the following agencies:
 
 1\. Department of State;
 
@@ -1500,7 +1506,7 @@ Ex. Ord. No. 13571, Apr. 27, 2011, 76 F.R. 24339, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the quality of service to the public by the Federal Government, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The public deserves competent, efficient, and responsive service from the Federal Government. Executive departments and agencies (agencies) must continuously evaluate their performance in meeting this standard and work to improve it. To this end, Executive Order 12862 (Setting Customer Service Standards), issued on September 11, 1993, requires agencies that provide significant services directly to the public to identify and survey their customers, establish service standards and track performance against those standards, and benchmark customer service performance against the best in business. This effort to "put people first" was an important step. It was reinforced by a Presidential Memorandum for the Heads of Executive Departments and Agencies issued on March 22, 1995 (Improving Customer Service), and a further Presidential Memorandum issued on March 3, 1998 (Conducting "Conversations with America" to Further Improve Customer Service).
+Section 1. <i>Policy</i>. The public deserves competent, efficient, and responsive service from the Federal Government. Executive departments and agencies (agencies) must continuously evaluate their performance in meeting this standard and work to improve it. To this end, Executive Order 12862 (Setting Customer Service Standards), issued on September 11, 1993, requires agencies that provide significant services directly to the public to identify and survey their customers, establishservice standards and track performance against those standards, and benchmark customer service performance against the best in business. This effort to "put people first" was an important step. It was reinforced by a Presidential Memorandum for the Heads of Executive Departments and Agencies issued on March 22, 1995 (Improving Customer Service), and a further Presidential Memorandum issued on March 3, 1998 (Conducting "Conversations with America" to Further Improve Customer Service).
 
 However, with advances in technology and service delivery systems in other sectors, the public's expectations of the Government have continued to rise. The Government must keep pace with and even exceed those expectations. Government must also address the need to improve its services, not only to individuals, but also to private and Governmental entities to which the agency directly provides significant services. Government managers must learn from what is working in the private sector and apply these best practices to deliver services better, faster, and at lower cost. Such best practices include increasingly popular lower-cost, self-service options accessed by the Internet or mobile phone and improved processes that deliver services faster and more responsively, reducing the overall need for customer inquiries and complaints. The Federal Government has a responsibility to streamline and make more efficient its service delivery to better serve the public.
 
@@ -1550,7 +1556,7 @@ The American people must be able to trust that their Government is doing everyth
 
 The implementation of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) (Recovery Act) has seen unprecedented transparency. The Recovery Accountability and Transparency Board (RATB) has developed innovative technologies and approaches for preventing and identifying fraud and abuse that have the potential to improve performance across all of Government spending.
 
-Sec. 2. <i>Accountable Government Initiative</i>. (a) On September 14, 2010, in a Memorandum to the Senior Executive Service, my Administration introduced goals for the Accountable Government Initiative (Initiative). The mission of the Initiative is to monitor and promote agency progress in making Government work better, faster, and more efficiently. To hold executive departments and agencies (agencies) accountable for obtaining results consistent with this mission, the Vice President shall convene periodic meetings in which Cabinet members and the Director of the Office of Management and Budget (OMB) report to him on improvements implemented under their direction.
+Sec. 2. <i>Accountable Government Initiative</i>. (a) On September 14, 2010, in a Memorandum to the Senior Executive Service, my Administration introduced goals for the Accountable Government Initiative (Initiative). The mission of the Initiative is to monitor and promoteagency progress in making Government work better, faster, and more efficiently. To hold executive departments and agencies (agencies) accountable for obtaining results consistent with this mission, the Vice President shall convene periodic meetings in which Cabinet members and the Director of the Office of Management and Budget (OMB) report to him on improvements implemented under their direction.
 
 (b) The Federal Chief Performance Officer (CPO), who also serves as the Deputy Director for Management of OMB and the Chair of the President's Management Council (PMC), shall work with the PMC to support agencies' performance and management reform and cost-cutting efforts. The CPO will lead OMB and the PMC in identifying practices that should be adopted across agencies and in facilitating reforms that require cross-agency coordination and cooperation. The CPO shall work with agencies to ensure that each area identified as critical to performance improvement has robust performance metrics in place, and that these metrics are frequently analyzed and reviewed by agency leadership. Agencies shall update these metrics quarterly, as appropriate, on the website performance.gov.
 
@@ -1610,7 +1616,7 @@ Each agency head shall designate a Chief Operating Officer, who shall be the sen
 
 &emsp;(c) assisting the agency head in promoting Government reform, developing strategic plans, and measuring results; and
 
-&emsp;(d) overseeing agency-specific efforts to integrate performance and budgeting, expand competitive sourcing, strengthen their workforce, improve financial management, advance e-government, apply information policy and technology policies, and other Government-wide management reforms.
+&emsp;(d) overseeing agency-specific efforts to integrate performance and budgeting, expand competitivesourcing, strengthen their workforce, improve financial management, advance e-government, apply information policy and technology policies, and other Government-wide management reforms.
 
 2\. <i>Implement Additional Agency Reforms.</i>
 

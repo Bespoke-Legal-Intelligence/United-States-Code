@@ -28,6 +28,8 @@ The second sentence of item 1 of the revised section is a provision appearing an
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10 was renumbered section 9 of this title.
@@ -49,6 +51,8 @@ Subsec. (a)1. Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(1)\], as amende
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office", wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

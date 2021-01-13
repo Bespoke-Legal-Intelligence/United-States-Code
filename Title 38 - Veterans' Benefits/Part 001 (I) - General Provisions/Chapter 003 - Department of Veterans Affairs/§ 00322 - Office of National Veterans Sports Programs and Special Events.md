@@ -28,7 +28,7 @@ Qualifying Program or Event.—For purposes of this section, a qualifying progra
 
 Monthly Assistance Allowance.—(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to—
 
-&emsp;(A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctionedby the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
+&emsp;(A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
 
 &emsp;(B) a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
 
@@ -36,7 +36,7 @@ Monthly Assistance Allowance.—(1) Subject to the availability of appropriation
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2020.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2022.
 
 (e)
 
@@ -56,13 +56,17 @@ Applicability to Commonwealths and Territories of the United States.—The provi
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171.)
+(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5401, Oct. 1, 2020, 134 Stat. 751.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(4). Pub. L. 116–159 substituted "2022" for "2020".
 
 <b>2018</b>—Subsec. (d)(4). Pub. L. 115–251 substituted "2020" for "2019".
 
@@ -86,6 +90,12 @@ Pub. L. 113–37, §2(a)(1), inserted "and $500,000 for the period beginning Oct
 
 Subsecs. (e), (f). Pub. L. 113–59, §4(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–37, §4, Sept. 30, 2013, 127 Stat. 525, provided that:
@@ -108,13 +118,13 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(1) In 1998, Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 (33 \[36\] U.S.C. 101 note) \[see Short Title of 1998 Amendment note set out under section 101 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations\], which amended chapter 2205 of title 36, United States Code, and included a statement that the purpose of the Act was 'to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes'.
 
-&emsp;"(2) The United States Olympic Committee manages and administers the Paralympic Program for physically disabled athletes.
+&emsp;"(2) The United States Olympic Committee \[now United States Olympic and Paralympic Committee\] manages and administers the Paralympic Program for physically disabled athletes.
 
 &emsp;"(3) The Department of Veterans Affairs provides health care to veterans and administers recreational activities for patients including the Golden Age Games, the National Veterans Wheelchair Games, and the Winter Sports Clinic.
 
-&emsp;"(4) In 2005, the United States Olympic Committee entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs.
+&emsp;"(4) In 2005, the United States Olympic Committee \[now United States Olympic and Paralympic Committee\] entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs.
 
-&emsp;"(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants andreducing the incidence of secondary medical conditions in those participants.
+&emsp;"(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants and reducing the incidence of secondary medical conditions in those participants.
 
 &emsp;"(6) Because of Operation Iraqi Freedom and Operation Enduring Freedom, the number of disabled veterans and disabled members of the Armed Forces has increased substantially and it is therefore desirable to supplement the rehabilitation and recreation programs of the Department of Veterans Affairs through sports for disabled veterans and members of the Armed Forces.
 

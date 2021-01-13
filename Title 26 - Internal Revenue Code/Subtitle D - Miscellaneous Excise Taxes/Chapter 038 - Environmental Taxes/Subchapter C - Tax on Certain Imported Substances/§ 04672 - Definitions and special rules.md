@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 #### (4) Modifications to list
 
-&emsp;The Secretary shall add to the list under paragraph (3) substances which meet either the weight or value tests of paragraph (2)(B) and may remove from such list only substances which meet neither of such tests.
+&emsp;The Secretary shall add to the list under paragraph (3) substances which meet either the weight or value tests of paragraph (2)(B)and may remove from such list only substances which meet neither of such tests.
 
 #### (b) Other definitions
 

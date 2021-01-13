@@ -16,7 +16,7 @@
 
 #### (b) Inapplicability of carriers and other service providers
 
-For purposes of subsection (a), a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
+For purposes of subsection (a), a person shall not be considered to make any communicationfor commercial purposes to the extent that such person is—
 
 &emsp;(1) a telecommunications carrier engaged in the provision of a telecommunications service;
 
@@ -48,7 +48,7 @@ For purposes of subsection (a), a person shall not be considered to make any com
 
 &emsp;A person making a communication described in subsection (a)—
 
-&emsp;&emsp;(A) shall not disclose any information collected for the purposes of restricting accessto such communications to individuals 17 years of age or older without the prior written or electronic consent of—
+&emsp;&emsp;(A) shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of—
 
 &emsp;&emsp;&emsp;(i) the individual concerned, if the individual is an adult; or
 
@@ -92,7 +92,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (5) Internet information location tool
 
-&emsp;The term "Internet information location tool" means a service that refers or links users to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
+&emsp;The term "Internet information location tool" means a service that refers or linksusers to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
 
 #### (6) Material that is harmful to minors
 
@@ -110,6 +110,8 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 (June 19, 1934, ch. 652, title II, §231, as added Pub. L. 105–277, div. C, title XIV, §1403, Oct. 21, 1998, 112 Stat. 2681–736.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under section 223 of this title.
@@ -122,7 +124,7 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 &emsp;"(2) the protection of the physical and psychological well-being of minors by shielding them from materials that are harmful to them is a compelling governmental interest;
 
-&emsp;"(3) to date, while the industry has developed innovative ways to help parents and educators restrictmaterial that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
+&emsp;"(3) to date, while the industry has developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
 
 &emsp;"(4) a prohibition on the distribution of material harmful to minors, combined with legitimate defenses, is currently the most effective and least restrictive means by which to satisfy the compelling government interest; and
 

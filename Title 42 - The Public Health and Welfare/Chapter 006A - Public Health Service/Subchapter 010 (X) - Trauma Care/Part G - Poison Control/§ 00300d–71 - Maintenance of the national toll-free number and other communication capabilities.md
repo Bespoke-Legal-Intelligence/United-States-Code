@@ -26,7 +26,7 @@ Subsec. (a). Pub. L. 116–94, §403(a)(2), added subsec. (a) and struck out for
 
 Subsec. (b). Pub. L. 116–94, §403(a)(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–94, §403(a)(3), (5), redesignated subsec. (b) as (c) and substituted "2020 through 2024" for "2015 through 2019" and "establishment, implementation, and maintenance activities carried out under subsections (a) and (b)" for "maintenance of the nationwide toll free phone number under subsection (a)".
+Subsec. (c). Pub. L. 116–94, §403(a)(3), (5), redesignated subsec. (b) as (c) and substituted "2020 through 2024" for"2015 through 2019" and "establishment, implementation, and maintenance activities carried out under subsections (a) and (b)" for "maintenance of the nationwide toll free phone number under subsection (a)".
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a)."
 

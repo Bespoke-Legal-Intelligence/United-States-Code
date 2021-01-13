@@ -10,7 +10,7 @@ Such fee shall be paid no later than thirty days after the end of each calendar 
 
 #### (c) Submission of statement
 
-Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
+Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition tothe permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 
 #### (d) Penalty
 
@@ -48,7 +48,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5)are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
 
 &emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(9) of this title.
 
@@ -60,7 +60,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(E) For the purpose of paragraph (8).
 
-(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) or expended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
+(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) orexpended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
 
 (B) Funds made available under this paragraph may be used for reclamation or drainage abatement at a site referred to in subparagraph (A) if the Secretary makes either of the following findings:
 
@@ -152,13 +152,13 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;The excess determined under clause (i) shall be calculated by taking into account only—
 
-&emsp;&emsp;&emsp;&emsp;(I) those beneficiaries actually enrolled in the Plan as of December 20, 2019, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
+&emsp;&emsp;&emsp;&emsp;(I) those beneficiaries actually enrolled in the Plan as of December 27, 2020, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
 
-&emsp;&emsp;&emsp;&emsp;(II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019; and
+&emsp;&emsp;&emsp;&emsp;(II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) ora related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, 2019, or any year thereafter,<sup>1</sup> (or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced); and
 
-&emsp;&emsp;&emsp;&emsp;(III) the cost of administering the resolution of disputes process administered (as of December 20, 2019) by the Trustees of the Plan.
+&emsp;&emsp;&emsp;&emsp;(III) the cost of administering the resolution of disputes process administered (as of December 27, 2020) by the Trustees of the Plan.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 20, 2019, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2019.
+&emsp;&emsp;&nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 27, 2020, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2020.
 
 #### (iii) Eligibility of certain retirees
 
@@ -296,7 +296,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
 
-&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008,$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
+&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has notpreviously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
 
 &emsp;&emsp;&emsp;(i) prior to December 20, 2006, the signatory operator (or any related person to the operator)—
 
@@ -325,6 +325,10 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 &emsp;&emsp;&emsp;(ii) the amount is determined without regard to subsection (h)(5)(A); and
 
 &emsp;&emsp;&emsp;(iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
+
+#### (C) Increase in limitation to account for calculation of health benefit plan excess
+
+&emsp;&emsp;The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020.
 
 #### (4) Additional amounts
 
@@ -362,7 +366,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than the 90th day of each plan year beginning after December 20, 2019, the trustees of the 1974 UMWA Pension Plan shall file with the Secretary of the Treasury or the Secretary's delegate and the Pension Benefit Guaranty Corporation a report (including appropriate documentation and actuarial certifications from the plan actuary, as required by the Secretary of the Treasury or the Secretary's delegate) that contains—
+&emsp;&emsp;&emsp;Not later than the 90th day of each plan year beginning after December 20, 2019, thetrustees of the 1974 UMWA Pension Plan shall file with the Secretary of the Treasury or the Secretary's delegate and the Pension Benefit Guaranty Corporation a report (including appropriate documentation and actuarial certifications from the plan actuary, as required by the Secretary of the Treasury or the Secretary's delegate) that contains—
 
 &emsp;&emsp;&emsp;&emsp;(I) whether the plan is in endangered or critical status under section 1085 of title 29 and section 432 of title 26 as of the first day of such plan year;
 
@@ -420,13 +424,29 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, §167(b), (c), as added Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, §202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, §104(a), May 5, 2017, 131 Stat. 803; Pub. L. 116–94, div. M, §§102(a), 103, Dec. 20, 2019, 133 Stat. 3091, 3094.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), titleXXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, §167(b), (c), as added Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, 1010; Pub. L. 114–223, div. C, §202(b), as added Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134; Pub. L. 115–31, div. M, title I, §104(a), May 5, 2017, 131 Stat. 803; Pub. L. 116–94, div. M, §§102(a), 103, Dec. 20, 2019, 133 Stat. 3091, 3094; Pub. L. 116–260, div. Y, §2(a), (b), Dec. 27, 2020, 134 Stat. 2417, 2418.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020, referred to in subsec. (i)(3)(C), are the amendments made to subsec. (h)(2)(C)(ii) of this section made by section 2(a) of div. Y of Pub. L. 116–260. See 2020 Amendment notes below.
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original "the date of enactment of this paragraph", which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (h)(2)(C)(ii). Pub. L. 116–260, §2(a)(4), substituted "January 1, 2020" for "January 1, 2019" in concluding provisions.
+
+Pub. L. 116–260, §2(a)(1), substituted "December 27, 2020" for "December 20, 2019" wherever appearing.
+
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–260, §2(a)(3), inserted "(or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced)" before "; and".
+
+Pub. L. 116–260, §2(a)(2), substituted "2019, or any year thereafter," for "or 2019".
+
+Subsec. (i)(3)(C). Pub. L. 116–260, §2(b), addded subpar. (C).
 
 <b>2019</b>—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, §103(4), substituted "January 1, 2019" for "January 1, 2017" in concluding provisions.
 
@@ -516,7 +536,21 @@ Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substitut
 
 <b>1987</b>—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
 
-#### Effective Dates of 2019 Amendment
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. Y, §2(c), Dec. 27, 2020, 134 Stat. 2418, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 27, 2020\].
+
+"(2)
+
+Subsection (a)(3).—The amendment made by subsection (a)(3) \[amending this section\] shall apply to denials and reductions after December 31, 2019."
+
+#### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. M, §102(b), Dec. 20, 2019, 133 Stat. 3094, provided that:
 
@@ -547,4 +581,6 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 <i><sup>1</sup></i><i> So in original. Probably should be "tipple,".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>1</sup></i><i> So in original.</i>
 

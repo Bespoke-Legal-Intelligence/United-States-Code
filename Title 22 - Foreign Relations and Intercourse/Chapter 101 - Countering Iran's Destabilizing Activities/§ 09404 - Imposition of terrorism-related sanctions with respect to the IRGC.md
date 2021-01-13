@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) The IRGC is subject to sanctions pursuant to Executive Order No. 13382 (50 U.S.C. 1701 note; relating to blocking property of weapons of mass destruction delivery system proliferators and their supporters), the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), Executive Order No. 13553 (50 U.S.C. 1701 note; relating to blocking property of certain persons with respect to serious human rights abuses by the Government of Iran), and Executive Order No. 13606 (50 U.S.C. 1701 note; relating to blocking the property and suspending entry into the United States of certain persons with respect to grave human rights abuses by the Governments of Iran and Syria via information technology).
+&emsp;(1) The IRGC is subject to sanctions pursuant to Executive Order No. 13382 (50 U.S.C. 1701 note; relating to blocking property of weapons of mass destruction delivery system proliferators and their supporters), the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), Executive Order No. 13553 (50 U.S.C. 1701note; relating to blocking property of certain persons with respect to serious human rights abuses by the Government of Iran), and Executive Order No. 13606 (50 U.S.C. 1701 note; relating to blocking the property and suspending entry into the United States of certain persons with respect to grave human rights abuses by the Governments of Iran and Syria via information technology).
 
 &emsp;(2) The Iranian Revolutionary Guard Corps–Quds Force (in this section referred to as the "IRGC–QF") is the primary arm of the Government of Iran for executing its policy of supporting terrorist and insurgent groups. The IRGC–QF provides material, logistical assistance, training, and financial support to militants and terrorist operatives throughout the Middle East and South Asia and was designated for the imposition of sanctions by the Secretary of the Treasury pursuant to Executive Order No. 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism) in October 2007 for its support of terrorism.
 
@@ -20,6 +20,8 @@ The sanctions described in this subsection are sanctions applicable with respect
 
 (Pub. L. 115–44, title I, §105, Aug. 2, 2017, 131 Stat. 892.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 13382, referred to in subsec. (a)(1), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
@@ -31,6 +33,8 @@ Executive Order No. 13553, referred to in subsec. (a)(1), is Ex. Ord. No. 13553,
 Executive Order No. 13606, referred to in subsec. (a)(1), is Ex. Ord. No. 13606, Apr. 22, 2012, 77 F.R. 24571, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 Executive Order No. 13224, referred to in subsecs. (a)(2) and (c), is Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, which is listed in a table under section 1701 of Title 50, War and National Defense.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

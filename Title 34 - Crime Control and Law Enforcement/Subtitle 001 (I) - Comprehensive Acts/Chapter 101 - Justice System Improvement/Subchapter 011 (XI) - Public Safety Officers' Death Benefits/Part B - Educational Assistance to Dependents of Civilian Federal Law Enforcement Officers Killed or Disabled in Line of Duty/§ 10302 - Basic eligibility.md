@@ -20,7 +20,7 @@ No person shall receive assistance under this part for a period in excess of for
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no child shall be eligible for assistance under this part after the child's 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
+&emsp;Subject to paragraph (2), no child shall be eligible for assistance under this part after thechild's 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
 
 #### (2) Delayed approvals
 
@@ -41,6 +41,8 @@ No person shall receive assistance under this part for a period in excess of for
 &emsp;&emsp;&emsp;(ii) ending on the date on which the claim for benefits is approved.
 
 (Pub. L. 90–351, title I, §1212, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, §2(3), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, §1086(b)(1)(G), (H), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–36, §3, June 2, 2017, 131 Stat. 851.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -69,6 +71,8 @@ Subsec. (c). Pub. L. 112–239, §1086(b)(1)(H)(ii), struck out "dependent" befo
 Subsec. (a)(2). Pub. L. 105–390, §2(3)(B), substituted "Except as provided in paragraph (3), financial" for "Financial".
 
 Subsec. (a)(3). Pub. L. 105–390, §2(3)(C), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

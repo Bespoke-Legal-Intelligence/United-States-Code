@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) the corporation's recommendations for action on the proposal in light of such comments.
 
-> In addition, the board of directors, before making a final decision under this paragraph on a proposal, shall, upon the request of an established trade association or other interested representatives of private industry, provide a reasonable opportunity to such trade association or other representatives to present comments directly to the board of directors on the proposal.
+> In addition, the board of directors, before making a final decision under this paragraph on a proposal, shall, upon the request of an established trade association or other interested representatives of private industry, provide a reasonable opportunity to such trade association orother representatives to present comments directly to the board of directors on the proposal.
 
 (5) Federal Prison Industries shall publish in the manner specified in paragraph (4)(B) the final decision of the board with respect to the production of a new product or the significant expansion of the production of an existing product.
 
@@ -74,6 +74,8 @@ Subsection (c) of section 4122 of title 18, U.S.C., as added by this amendment \
 
 Subsections (d) and (e) of such section 4122, added by this amendment \[see section 63\], incorporate, with changes in phraseology, the provisions of sections 1 and 2 of act of June 29, 1948 (ch. 719, 62 Stat. 1100), extending the functions and duties of Federal Prisons Industries, Incorporated, to military disciplinary barracks. Section 3 of such act is incorporated in section 4121 of such title by another section of this bill, and section 4 of such act is classified to section 1621a of title 50, U.S.C., Appendix, War and National Defense.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled "An Act to establish in the Treasury a correctional institution industries fund for the government of the District of Columbia, and for other purposes", referred to in subsec. (e)(3), is Pub. L. 88–622, Oct. 3, 1964, 78 Stat. 1000.
@@ -89,6 +91,8 @@ Subsec. (e). Pub. L. 90–226, §802(3), added subsec. (e). Former subsec. (e) r
 <b>1951</b>—Subsecs. (d), (e). Act Oct. 31, 1951, substituted "Department of Defense" for "National Military Establishment".
 
 <b>1949</b>—Act May 24, 1949, designated existing first two pars. as subsecs. (a) and (b), respectively, and added subsecs. (c) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

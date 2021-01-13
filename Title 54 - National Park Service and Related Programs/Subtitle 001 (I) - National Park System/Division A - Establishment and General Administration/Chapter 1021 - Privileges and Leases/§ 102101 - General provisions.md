@@ -10,7 +10,7 @@ No lease or grant of a privilege that interferes with free access.—No natural 
 
 &emsp;(2)
 
-Exception for grazing livestock.—The Secretary, under such regulations and on such terms as the Secretary may prescribe, may grant the privilege to graze livestock within a System unit when, in the Secretary's judgment, the use is not detrimental to the primary purpose for which the System unit was created. This paragraph does not apply to Yellowstone National Park.
+Exception for grazing livestock.—The Secretary, under such regulations and on such terms as the Secretary may prescribe, may grant the privilege to graze livestock within aSystem unit when, in the Secretary's judgment, the use is not detrimental to the primary purpose for which the System unit was created. This paragraph does not apply to Yellowstone National Park.
 
 (b)
 

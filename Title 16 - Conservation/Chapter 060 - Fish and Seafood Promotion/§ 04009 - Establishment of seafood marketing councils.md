@@ -16,7 +16,7 @@ An application for a charter for a council shall be made by filing with the Secr
 
 &emsp;(4) the identification of each sector and the number and terms of representatives of each sector that will be represented as voting members of the council;
 
-&emsp;(5) the identification of those sectors (including the sector consisting of harvesters, the sector consisting of receivers, and, if subject to assessment, the sector consisting of importers) subject to a referendum to establish a council under subsection (e) of this section;
+&emsp;(5) the identification of those sectors (including the sector consisting of harvesters,the sector consisting of receivers, and, if subject to assessment, the sector consisting of importers) subject to a referendum to establish a council under subsection (e) of this section;
 
 &emsp;(6) a specification for each sector described under paragraph (5) of this subsection of the minimum requirements, as measured by income, volume, or other relevant factors, that a person engaging in business in the sector must meet in order to participate in a referendum;
 

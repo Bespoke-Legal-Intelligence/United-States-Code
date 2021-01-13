@@ -8,7 +8,9 @@ It is the sense of the Congress that other countries should give favorable consi
 
 (Pub. L. 96–35, §7, July 20, 1979, 93 Stat. 92; Pub. L. 97–113, title VII, §734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required a Presidential report to Congress nolater than Jan. 31, 1980, on United States efforts to encourage aid to Egypt and Israel.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required a Presidential report to Congress no later than Jan. 31, 1980, on United States efforts to encourage aid to Egypt and Israel.
 

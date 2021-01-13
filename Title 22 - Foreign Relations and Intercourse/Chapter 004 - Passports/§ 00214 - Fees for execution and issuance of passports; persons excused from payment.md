@@ -2,13 +2,15 @@
 
 (a) There shall be collected and paid into the Treasury of the United States a fee, prescribed by the Secretary of State by regulation, for the filing of each application for a passport (including the cost of passport issuance and use) and a fee, prescribed by the Secretary of State by regulation, for executing each such application except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service. Such fees shall not be refundable, except as the Secretary may by regulation prescribe. No passport fee shall be collected from an officer or employee of the United States proceeding abroad in the discharge of official duties, or from members of his immediate family; from an American seaman who requires a passport in connection with his duties aboard an American flag-vessel; from a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes. No execution fee shall be collected for an application made before a Federal official by a person excused from payment of the passport fee under this section.
 
-(b)(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, toremain available until expended for the purposes of meeting such costs.
+(b)(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.
 
 (2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
 
 (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
 (June 4, 1920, ch. 223, §1, 41 Stat. 750; Feb. 10, 1956, ch. 31, 70 Stat. 11; Pub. L. 90–428, §2, July 26, 1968, 82 Stat. 446; Pub. L. 92–14, §1, May 14, 1971, 85 Stat. 38; Pub. L. 93–417, Sept. 17, 1974, 88 Stat. 1151; Pub. L. 97–241, title I, §116(a), Aug. 24, 1982, 96 Stat. 279; Pub. L. 104–208, div. A, title I, §101(a) \[title IV, §407\], Sept. 30, 1996, 110 Stat. 3009, 3009–55; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426; Pub. L. 109–167, §2, Jan. 10, 2006, 119 Stat. 3578; Pub. L. 109–210, §1, Mar. 24, 2006, 120 Stat. 319; Pub. L. 109–472, §5, Jan. 11, 2007, 120 Stat. 3555; Pub. L. 115–31, div. J, title VII, §7081(f), May 5, 2017, 131 Stat. 716.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -20,7 +22,7 @@
 
 Subsec. (a). Pub. L. 109–210 substituted "or from a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member" for "or from a widow, child, parent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member".
 
-<b>1999</b>—Pub. L. 106–113, in first sentence, substituted "the filing of each application for a passport (including the cost of passport issuance and use)" for "each passport issued" and "each such application except" for "each application for a passport; except" and inserted after first sentence "Such fees shall not be refundable, except as the Secretary may by regulation prescribe."
+<b>1999</b>—Pub. L. 106–113, in first sentence, substituted "the filing of each application for a passport (includingthe cost of passport issuance and use)" for "each passport issued" and "each such application except" for "each application for a passport; except" and inserted after first sentence "Such fees shall not be refundable, except as the Secretary may by regulation prescribe."
 
 <b>1996</b>—Pub. L. 104–208 inserted "; except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service" before period at end of first sentence and struck out after first sentence "Nothing contained in this section shall be construed to limit the right of the Secretary of State by regulation (1) to authorize State officials to collect and retain the execution fee, or (2) to transfer to the United States Postal Service the execution fee for each application accepted by that Service."
 
@@ -34,6 +36,8 @@ Subsec. (a). Pub. L. 109–210 substituted "or from a widow, widower, child, par
 
 <b>1956</b>—Act Feb. 10, 1956, increased from $1 to $2 the fee for executing passport applications, and reworded authorization of State officials to collect and retain $2 fee.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426, provided that: "The amendments made by this section \[amending this section and repealing section 216 of this title\] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 \[22 U.S.C. 214\], as amended by subsection (a)." \[Final regulations issued Feb. 23, 2000, effective May 15, 2000, see 65 F.R. 14211.\]
@@ -46,11 +50,17 @@ Pub. L. 92–14, §2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126,
 
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under section 217a of this title.
 
+#### Extension of Consular Fees
+
+Pub. L. 116–260, div. K, title VII, §7069(a), Dec. 27, 2020, 134 Stat. 1812, provided that: "Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2021 by substituting 'the costs of providing consular services' for 'such costs'."
+
 #### Extension of Authority
 
-Pub. L. 116–94, div. G, title VII, §7034(l)(1), Dec. 20, 2019, 133 Stat. 2872, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting 'September 30, 2020' for 'September 30, 2010'."
+Pub. L. 116–260, div. K, title VII, §7034(l)(1), Dec. 27, 2020, 134 Stat. 1749, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting 'September 30, 2021' for 'September 30, 2010'."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(l)(1), Dec. 20, 2019, 133 Stat. 2872.
 
 Pub. L. 116–6, div. F, title VII, §7034(m)(1), Feb. 15, 2019, 133 Stat. 326.
 

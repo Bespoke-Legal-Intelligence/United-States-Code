@@ -32,6 +32,8 @@ For purposes of construing this division and the amendments made by this divisio
 
 (Pub. L. 111–84, div. E, §4710, Oct. 28, 2009, 123 Stat. 2841.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This division, referred to in text, is division E of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2835, known as the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act. For complete classification of division E to the Code, see Short Title of 2009 Act note set out under section 10101 of this title and Tables.

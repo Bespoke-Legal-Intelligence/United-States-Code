@@ -1,6 +1,8 @@
 ### §1728. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 96–420, §9, Oct. 10, 1980, 94 Stat. 1795, which provided that payments to a tribe under this subchapter would not affect eligibility of the State for participation in Federal financial aid programs andthat receipt of payments from the State would not affect eligibility of a tribe for Federal benefits, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 96–420, §9, Oct. 10, 1980, 94 Stat. 1795, which provided that payments to a tribe under this subchapter would not affect eligibility of the State forparticipation in Federal financial aid programs and that receipt of payments from the State would not affect eligibility of a tribe for Federal benefits, was omitted from the Code as being of special and not general application.
 

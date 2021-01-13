@@ -18,7 +18,7 @@ An offense described in this section is punishable by a fine of not more than $1
 
 #### (d) Federal jurisdiction
 
-There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.
+There is Federal jurisdiction over an offense under this section if the person committing theoffense was an officer or employee of the United States at the time the offense was committed.
 
 (Pub. L. 95–511, title III, §307, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3452.)
 

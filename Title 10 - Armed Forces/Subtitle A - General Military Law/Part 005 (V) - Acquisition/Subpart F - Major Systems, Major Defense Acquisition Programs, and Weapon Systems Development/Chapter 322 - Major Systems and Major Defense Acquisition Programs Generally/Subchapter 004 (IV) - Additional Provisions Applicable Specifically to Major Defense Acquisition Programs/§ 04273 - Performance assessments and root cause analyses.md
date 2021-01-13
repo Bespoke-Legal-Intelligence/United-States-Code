@@ -1,0 +1,90 @@
+### §4273. Performance assessments and root cause analyses
+
+(a)
+
+Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses.—
+
+&emsp;(1)
+
+In general.—The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense as the principal official of the Department of Defense responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+&emsp;(2)
+
+No program execution responsibility.—The Secretary shall ensure that the senior official designated under paragraph (1) is not responsible for program execution.
+
+&emsp;(3)
+
+Staff and resources.—The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out the senior official's function under this section.
+
+(b)
+
+Responsibilities.—The senior official designated under subsection (a) shall be responsible for the following:
+
+&emsp;(1) Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;(2) Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by 4376(a)(1) <sup>1</sup> of this title, or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;(3) Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
+
+&emsp;(4) Evaluating the utility of performance metrics used to measure the cost, schedule, and performance of major defense acquisition programs, and making such recommendations to the Secretary of Defense as the official considers appropriate to improve such metrics.
+
+&emsp;(5) Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
+
+&emsp;&emsp;(A) before certification under sections 4736 <sup>2</sup> and 4377 of this title;
+
+&emsp;&emsp;(B) before entry into full-rate production; or
+
+&emsp;&emsp;(C) in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
+
+(c)
+
+Performance Assessments.—For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
+
+&emsp;(1) The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
+
+&emsp;(2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
+
+(d)
+
+Root Cause Analyses.—For purposes of this section and sections 4736 <sup>2</sup> and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+
+&emsp;(1) unrealistic performance expectations;
+
+&emsp;(2) unrealistic baseline estimates for cost or schedule;
+
+&emsp;(3) immature technologies or excessive manufacturing or integration risk;
+
+&emsp;(4) unanticipated design, engineering, manufacturing, or technology integration issues arising during program performance;
+
+&emsp;(5) changes in procurement quantities;
+
+&emsp;(6) inadequate program funding or funding instability;
+
+&emsp;(7) poor performance by government or contractor personnel responsible for program management; or
+
+&emsp;(8) any other matters.
+
+(e)
+
+Support of Applicable Capabilities and Expertise.—The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
+
+(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325, §2438; Pub. L. 112–239, div. A, title X, §1076(f)(27), Jan. 2, 2013, 126 Stat. 1953; Pub. L.114–92, div. A, title X, §1077(b), Nov. 25, 2015, 129 Stat. 998; Pub. L. 116–92, div. A, title IX, §902(72), Dec. 20, 2019, 133 Stat. 1551; renumbered §4273 and amended Pub. L. 116–283, div. A, title XVIII, §1847(e)(3), Jan. 1, 2021, 134 Stat. 4256.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1847(e)(3), renumbered section 2438 of this title as this section.
+
+Subsec. (b)(2). Pub. L. 116–283, §1847(e)(3)(A), substituted "4376(a)(1)" for "section 2433a(a)(1)".
+
+Subsec. (b)(5)(A). Pub. L. 116–283, §1847(e)(3)(B), substituted "sections 4736 and 4377" for "section 2433a".
+
+Subsec. (d). Pub. L. 116–283, §1847(e)(3)(B), substituted "sections 4736 and 4377" for "section 2433a" in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "4376".</i>
+

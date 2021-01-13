@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-The Director shall establish a program of assistance to institutions of higher education thatenter into partnerships with for-profit entities to support research to improve the security of computer systems. The partnerships may also include government laboratories and nonprofit research institutions. The program shall—
+The Director shall establish a program of assistance to institutions of higher education that enter into partnerships with for-profit entities to support research to improve the security of computer systems. The partnerships may also include government laboratories and nonprofit research institutions. The program shall—
 
 &emsp;(1) include multidisciplinary, long-term research;
 
 &emsp;(2) include research directed toward addressing needs identified through the activities of the Computer System Security <sup>1</sup> and Privacy Advisory Board under section 278g–3(f) <sup>2</sup> of this title; and
 
-&emsp;(3) promote the development of a robust research community working at the leading edge of knowledge in subject areas relevant to the security of computer systems by providing support for graduate students, post-doctoral researchers, and senior researchers.
+&emsp;(3) promote the development of a robust research community working at the leadingedge of knowledge in subject areas relevant to the security of computer systems by providing support for graduate students, post-doctoral researchers, and senior researchers.
 
 #### (b) Fellowships
 
@@ -82,7 +82,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (4) Reports
 
-&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d).
+&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use andresponsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d).
 
 #### (e) Review of program
 

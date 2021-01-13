@@ -14,7 +14,7 @@ The Comptroller also may terminate the conservatorship upon the appointment of a
 
 #### (c) Enforcement under Federal Deposit Insurance Act
 
-Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act \[12 U.S.C. 1818(i)\], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1818(b)\] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commencedlater than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
+Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act \[12 U.S.C. 1818(i)\], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1818(b)\] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commenced later than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
 
 #### (d) Action upon termination
 
@@ -30,6 +30,8 @@ Such terms, conditions, and limitations as may be prescribed under subsection (a
 
 (Mar. 9, 1933, ch. 1, title II, §205, 48 Stat. 3; Pub. L. 101–73, title VIII, §804, Aug. 9, 1989, 103 Stat. 443.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
@@ -37,6 +39,8 @@ The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "If the Comptroller of the Currency becomes satisfied that it may safely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception as to Transfer of Functions
 

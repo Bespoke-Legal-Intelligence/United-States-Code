@@ -6,7 +6,7 @@ Construction.—
 
 &emsp;(1)
 
-Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which itis located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(2)
 
@@ -85,6 +85,8 @@ Pub. L. 86–249, §7(f) (related to §4(b)), Sept. 9, 1959, as added Pub. L. 10
 In subsection (a)(1) and (2), the words "and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the words "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title.
 
 In subsection (b)(2)(B), the words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 7(f) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -4,6 +4,8 @@ No moneys or annuities stipulated by any treaty with an Indian tribe for which a
 
 (R.S. §2100; May 29, 1928, ch. 901, §1(81), 45 Stat. 992.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2100 derived from act Mar. 2, 1867, ch. 173, §2, 14 Stat. 515.

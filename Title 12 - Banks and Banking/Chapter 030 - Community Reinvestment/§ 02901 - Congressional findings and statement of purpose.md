@@ -12,6 +12,8 @@
 
 (Pub. L. 95–128, title VIII, §802, Oct. 12, 1977, 91 Stat. 1147.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 95–128, title VIII, §801, Oct. 12, 1977, 91 Stat. 1147, provided that: "This title \[enacting this chapter\] may be cited as the 'Community Reinvestment Act of 1977'."
@@ -42,5 +44,5 @@ Recommendations.—The final report submitted under paragraph (1)(B) shall inclu
 
 #### Report on Community Development Lending
 
-Pub. L. 102–550, title IX, §910, Oct. 28, 1992, 106 Stat. 3874, provided that not later than 12 months after Oct. 28, 1992, the Board of Governors of the Federal Reserve System shall submit a report to Congress comparingresidential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods, with the report to contain comparisons of relevant risks and reasons for different lending practices.
+Pub. L. 102–550, title IX, §910, Oct. 28, 1992, 106 Stat. 3874, provided that not later than 12 months after Oct. 28, 1992, the Board of Governors of the Federal Reserve System shall submit a report to Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods, with the report to contain comparisons of relevant risks and reasons for different lending practices.
 

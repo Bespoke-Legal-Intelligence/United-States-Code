@@ -56,7 +56,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, ofwhich the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) "civil aircraft" means an aircraft except a public aircraft.
 
@@ -64,7 +64,7 @@ General Definitions.—In this part—
 
 &emsp;(18) "conditional sales contract" means a contract—
 
-&emsp;&emsp;(A) for the sale of an aircraft, aircraft engine, propeller, appliance, or spare part,under which the buyer takes possession of the property but title to the property vests in the buyer at a later time on—
+&emsp;&emsp;(A) for the sale of an aircraft, aircraft engine, propeller, appliance, or spare part, under which the buyer takes possession of the property but title to the property vests in the buyer at a later time on—
 
 &emsp;&emsp;&emsp;(i) paying any part of the purchase price;
 

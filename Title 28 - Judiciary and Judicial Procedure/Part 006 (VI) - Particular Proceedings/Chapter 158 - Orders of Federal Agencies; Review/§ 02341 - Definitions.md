@@ -40,6 +40,8 @@ Subsection (a) of former section 1031 of title 5 is omitted as unnecessary becau
 
 In paragraph (3), reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, §306, eff. May 24, 1950, 64 Stat. 1277. Reference to "Federal Maritime Commission" is substituted for "Federal Maritime Board" on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 812 of the Fair Housing Act, referred to in par. (3)(D), is classified to section 3612 of Title 42, The Public Health and Welfare.
@@ -55,6 +57,8 @@ Par. (3)(E). Pub. L. 104–88, §305(d)(2)–(4), added subpar. (E).
 <b>1988</b>—Par. (3)(D). Pub. L. 100–430 added subpar. (D).
 
 <b>1975</b>—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

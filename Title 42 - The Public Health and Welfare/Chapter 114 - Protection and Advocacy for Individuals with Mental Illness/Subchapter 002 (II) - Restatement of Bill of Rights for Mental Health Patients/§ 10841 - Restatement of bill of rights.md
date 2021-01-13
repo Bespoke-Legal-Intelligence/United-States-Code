@@ -1,6 +1,6 @@
 ### §10841. Restatement of bill of rights
 
-It is the sense of the Congress that, as previously stated in title V of the Mental Health Systems Act \[42 U.S.C. 9501 et seq.\], each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President's Commission on Mental Health and the following:
+It is the sense of the Congress that, as previously stated in title V of the Mental Health Systems Act \[42 U.S.C. 9501 et seq.\], each State should review and revise, if necessary, its lawsto ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President's Commission on Mental Health and the following:
 
 &emsp;(1) A person admitted to a program or facility for the purpose of receiving mental health services should be accorded the following:
 
@@ -26,7 +26,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;&emsp;(vi) any appropriate and available alternative treatments, services, and types of providers of mental health services.
 
-&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant to the treatment plan, in the absence of suchperson's informed, voluntary, written consent to such mode or course of treatment, except treatment—
+&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant to the treatment plan, in the absence of such person's informed, voluntary, written consent to such mode or course of treatment, except treatment—
 
 &emsp;&emsp;&emsp;(i) during an emergency situation if such treatment is pursuant to or documented contemporaneously by the written order of a responsible mental health professional; or
 
@@ -50,7 +50,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(K) The right to be informed promptly at the time of admission and periodically thereafter, in language and terms appropriate to such person's condition and ability to understand, of the rights described in this section.
 
-&emsp;&emsp;(L) The right to assert grievances with respect to infringement of the rights described in this section, including the right to have such grievances considered in a fair, timely, and impartial grievance procedure provided for or by the program or facility.
+&emsp;&emsp;(L) The right to assert grievances with respect to infringement of the rights described in this section, including the right to havesuch grievances considered in a fair, timely, and impartial grievance procedure provided for or by the program or facility.
 
 &emsp;&emsp;(M) Notwithstanding subparagraph (J), the right of access to (including the opportunities and facilities for private communication with) any available—
 

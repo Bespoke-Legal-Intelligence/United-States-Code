@@ -58,7 +58,7 @@ Any person obtaining information under subsection (a) or (c) shall, in accordanc
 
 #### (e) Regulations
 
-As soon as practicable after October 17, 1986, the Administrator shall promulgate regulations describing criteria and parameters for the statement of need under subsection <sup>1</sup> (a) and (c) and the confidentiality agreement under subsection (d).
+As soon as practicable after October 17, 1986, the Administrator shall promulgate regulationsdescribing criteria and parameters for the statement of need under subsection <sup>1</sup> (a) and (c) and the confidentiality agreement under subsection (d).
 
 (Pub. L. 99–499, title III, §323, Oct. 17, 1986, 100 Stat. 1750.)
 

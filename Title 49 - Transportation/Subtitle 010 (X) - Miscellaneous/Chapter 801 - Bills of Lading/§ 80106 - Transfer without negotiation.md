@@ -10,7 +10,7 @@ Compelling Indorsement.—When a negotiable bill of lading is transferred for va
 
 (c)
 
-Effect of Notification.—(1) When a transferee notifies the common carrier that a nonnegotiable bill of lading has been transferred under subsection (a) of this section, the carrieris obligated directly to the transferee for any obligations the carrier owed to the transferor immediately before the notification. However, before the carrier is notified, the transferee's title to the goods and right to acquire the obligations of the carrier may be defeated by—
+Effect of Notification.—(1) When a transferee notifies the common carrier that a nonnegotiable bill of lading has been transferred under subsection (a) of this section, the carrier is obligated directly to the transferee for any obligations the carrier owed to the transferor immediately before the notification. However, before the carrier is notified, the transferee's title to the goods and right to acquire the obligations of the carrier may be defeated by—
 
 &emsp;(A) garnishment, attachment, or execution on the goods by a creditor of the transferor; or
 

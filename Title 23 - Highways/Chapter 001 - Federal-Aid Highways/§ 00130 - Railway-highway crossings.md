@@ -42,7 +42,7 @@ Obligation availability.—Sums set aside each fiscal year under subparagraph (A
 
 &emsp;(2)
 
-Special rule.—If a State demonstrates to the satisfaction of the Secretary that theState has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
+Special rule.—If a State demonstrates to the satisfaction of the Secretary that the State has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
 
 (f)
 
@@ -62,7 +62,7 @@ Federal share.—The Federal share payable on account of any project financed wi
 
 (g)
 
-Annual Report.—Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation,<sup>1</sup> of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, not later than April 1, 2006, and every 2 years thereafter,,<sup>1</sup> on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary's report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway <sup>2</sup> crossings program.
+Annual Report.—Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation,<sup>1</sup> of the Senate and the Committee on Transportation and Infrastructure of the Houseof Representatives, not later than April 1, 2006, and every 2 years thereafter,,<sup>1</sup> on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary's report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway <sup>2</sup> crossings program.
 
 (h)
 
@@ -112,7 +112,9 @@ Initial reporting of crossing information.—Not later than 1 year after the dat
 
 Periodic updating of crossing information.—On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L.110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -159,6 +161,8 @@ Subsec. (j). Pub. L. 105–178, §1202(d), added subsec. (j).
 <b>1995</b>—Subsec. (g). Pub. L. 104–59 substituted "Committee on Transportation and Infrastructure" for "Committee on Public Works and Transportation" in third sentence.
 
 <b>1987</b>—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -252,7 +256,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 "(b) The Secretary of Transportation shall carry out a demonstration project for the elimination or protection of certain public ground-level rail-highway crossings in, or in the vicinity of, Springfield, Illinois.
 
-"(c) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Brownsville, Texas, and Matamoros, Mexico, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submittedto the Secretary by the Brownsville Navigation District, providing for the construction of an international bridge and for the elimination of a substantial number of existing railway-road conflict points within the cities.
+"(c) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Brownsville, Texas, and Matamoros, Mexico, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the Brownsville Navigation District, providing for the construction of an international bridge and for the elimination of a substantial number of existing railway-road conflict points within the cities.
 
 "(d) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in East Saint Louis, Illinois, for the relocation of rail lines between Thirteenth and Forty-third Streets, in accordance with methodology approved by the Secretary. The Secretary of Transportation shall carry out a demonstration project for the relocation of rail lines in the vicinity of Carbondale, Illinois.
 
@@ -294,7 +298,7 @@ Highway authorizations provisions of section 104(a)(1) and (2) of Pub. L. 93–8
 
 "(a) For the purpose of carrying out the provisions of title 23, United States Code, the following sums are hereby authorized to be appropriated:
 
-"(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 forthe fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
+"(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 for the fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
 
 "(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal year ending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976."
 

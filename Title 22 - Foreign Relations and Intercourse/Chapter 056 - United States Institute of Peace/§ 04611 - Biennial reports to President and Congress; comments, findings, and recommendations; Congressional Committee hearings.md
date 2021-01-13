@@ -4,9 +4,13 @@ Beginning two years after October 19, 1984, and at intervals of two years therea
 
 (Pub. L. 98–525, title XVII, §1712, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 105–244, title IX, §931(3), Oct. 7, 1998, 112 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–244 substituted "President may prepare" for "President shall prepare" and "may hold hearings" for "shall hold hearings".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -156,7 +156,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 &emsp;"(A) shall not permit the operation of the vessel other than in the foreign commerce of the United States;
 
-&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in thecase of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
+&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in the case of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
 
 &emsp;"(C) shall require that the vessel be documented (and remain documented) under the laws of the United States.
 

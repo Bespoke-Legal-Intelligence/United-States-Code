@@ -16,6 +16,8 @@
 
 (Added Pub. L. 98–473, title II, §2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, §7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–132 inserted "or conspires" after "attempts".
@@ -23,6 +25,8 @@
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 inserted before period at end "and, if the death of any person results, shall be punished by death or life imprisonment".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–690 substituted "(c) As" for "(C) As".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

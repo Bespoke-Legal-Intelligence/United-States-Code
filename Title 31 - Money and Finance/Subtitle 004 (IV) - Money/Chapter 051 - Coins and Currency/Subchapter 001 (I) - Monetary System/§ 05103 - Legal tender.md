@@ -32,9 +32,13 @@ The words "All . . . regardless of when coined or issued" are omitted as unnec
 
 This restores to 31:5103 the reference to public charges, taxes, and dues because they are not considered to be debts. See, <i>Hagar v. Reclamation District No. 108</i>, 111 U.S. 701, 706 (1884).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–452 inserted ", public charges, taxes, and dues" after "all debts".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

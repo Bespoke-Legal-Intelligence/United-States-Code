@@ -24,7 +24,7 @@ Report on Exemptions.—The Secretary of Defense shall review all exemptions gra
 
 "(d)
 
-Sense of Congress.—It is the sense of Congress that whenever any motor vehicle capable of operatingon gasoline or alcohol-gasoline blends that is owned or operated by the Department of Defense or any other department or agency of the Federal Government is refueled, it shall be refueled with an alcohol-gasoline blend containing at least 10 percent domestically produced alcohol if available along the normal travel route of the vehicle at the same or lower price than unleaded gasoline."
+Sense of Congress.—It is the sense of Congress that whenever any motor vehicle capable of operating on gasoline or alcohol-gasoline blends that is owned or operated by the Department of Defense or any other department or agency of the Federal Government is refueled, it shall be refueled with an alcohol-gasoline blend containing at least 10 percent domestically produced alcohol if available along the normal travel route of the vehicle at the same or lower price than unleaded gasoline."
 
 #### Ex. Ord. No. 12261. Implementation of Use of Gasohol in Federal Motor Vehicles
 
@@ -36,7 +36,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–102. Agencies may procure the components of gasohol and do their own blending.
 
-1–103. In determining the feasibility of specifying gasohol as a substitute motor fuel in procurement actions for unleaded gasoline, agencies shall include in their considerations such factors as the availability of storage facilities for bulk purchases and the number of vehicles capable of operating on gasohol.
+1–103. In determining the feasibility of specifying gasohol as a substitute motor fuel in procurement actionsfor unleaded gasoline, agencies shall include in their considerations such factors as the availability of storage facilities for bulk purchases and the number of vehicles capable of operating on gasohol.
 
 1–104. Agencies shall designate those vehicles which are capable of using gasohol, consistent with overall agency needs and sound vehicle management practices. Agencies shall specify the conditions governing the use of gasohol, including when gasohol shall be purchased from normal retail outlets by vehicle operators.
 

@@ -12,7 +12,7 @@ It shall be unlawful for any person at least eighteen years of age to knowingly 
 
 #### (b) Penalty for first offense
 
-Any person who violates subsection (a) is subject to twice the maximum punishment otherwise authorized and at least twice any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year.
+Any person who violates subsection (a) is subject to twice the maximum punishment otherwise authorized and at least twice any term ofsupervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year.
 
 #### (c) Penalty for subsequent offenses
 
@@ -37,6 +37,8 @@ In any case of any sentence imposed under this section, imposition or execution 
 Except as authorized by this subchapter, it shall be unlawful for any person to knowingly or intentionally provide or distribute any controlled substance to a pregnant individual in violation of any provision of this subchapter. Any person who violates this subsection shall be subject to the provisions of subsections (b), (c), and (e).
 
 (Pub. L. 91–513, title II, §420, formerly §405B, as added Pub. L. 99–570, title I, §1102, Oct. 27, 1986, 100 Stat. 3207–10; amended Pub. L. 100–690, title VI, §§6452(b)(1), 6459, 6470(d), Nov. 18, 1988, 102 Stat. 4371, 4373, 4378; renumbered §420 and amended Pub. L. 101–647, title X, §§1002(c), 1003(c), title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

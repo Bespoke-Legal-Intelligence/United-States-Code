@@ -34,7 +34,7 @@ Use of Assistance.—Assistance provided under the military adaptive sports prog
 
 &emsp;(2) for such related activities and expenses as the Secretary of Defense may authorize.
 
-(Added Pub. L. 112–81, div. A, title V, §589(a), Dec. 31, 2011, 125 Stat. 1437; amended Pub. L. 116–92, div. A, title V, §592(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1414, 1415.)
+(Added Pub. L. 112–81, div. A, title V, §589(a), Dec. 31, 2011, 125 Stat. 1437; amended Pub. L.116–92, div. A, title V, §592(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1414, 1415.)
 
 #### Amendments
 

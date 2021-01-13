@@ -32,7 +32,7 @@ So much of 34 U.S.C. 901a as authorizes a commuted ration for enlisted members o
 
 In subsection (a) reference to the Coast and Geodetic Survey is omitted since there are no enlisted personnel in that service, and reference to the Coast Guard is omitted as covered by 14 U.S.C. 478.
 
-In subsections (a) and (b) the words "or furlough therefrom" are omitted as surplusage, and the words "for each day" are inserted to make clear the fact that a ration is a daily allowance of food and that, in subsection (b), the commuted ration is credited on a daily basis. The words "and cadets" are omitted as there are no cadets in the Navy or Marine Corps entitled to a Navy ration. Aviation cadets are entitled to the basic allowance for subsistence prescribed for officers (34 U.S.C. 850c).
+In subsections (a) and (b) the words "or furlough therefrom" are omitted as surplusage, and the words "for each day" are inserted to make clear the fact that a ration is a daily allowance of food and that, in subsection (b), the commuted ration is credited on a daily basis. The words "and cadets" are omitted as there areno cadets in the Navy or Marine Corps entitled to a Navy ration. Aviation cadets are entitled to the basic allowance for subsistence prescribed for officers (34 U.S.C. 850c).
 
 In subsection (c) the words "prescribed by law" and "in accordance with law" are omitted as surplusage.
 

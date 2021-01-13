@@ -12,7 +12,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 &emsp;&emsp;&emsp;(ii) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
 
-&emsp;&emsp;(B) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+&emsp;&emsp;(B) the relevant international organization for the conservation and protection of suchresources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
 
 &emsp;&emsp;(C) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
 

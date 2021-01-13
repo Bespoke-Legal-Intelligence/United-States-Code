@@ -60,11 +60,11 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehouses under subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
+&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehousesunder subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
 
 #### (2) Withdrawal for domestic use
 
-&emsp;Wine entered into customs bonded warehouses under subsection (c)(4) for purposes ofremoval under paragraph (1) may be withdrawn therefrom for domestic use. Wines so withdrawn shall be treated as American goods exported and returned.
+&emsp;Wine entered into customs bonded warehouses under subsection (c)(4) for purposes of removal under paragraph (1) may be withdrawn therefrom for domestic use. Wines so withdrawn shall be treated as American goods exported and returned.
 
 #### (3) Sale or unauthorized use prohibited
 

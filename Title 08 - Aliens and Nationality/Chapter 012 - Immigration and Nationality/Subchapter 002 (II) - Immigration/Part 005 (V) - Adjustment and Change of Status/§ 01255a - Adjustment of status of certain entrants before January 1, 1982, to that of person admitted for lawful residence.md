@@ -44,7 +44,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Admissions
 
-&emsp;&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the UnitedStates in order to apply for adjustment of status under this subsection.
+&emsp;&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for adjustment of status under this subsection.
 
 #### (4) Admissible as immigrant
 
@@ -126,7 +126,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Authorization of employment
 
-&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment inthe United States and provide to that alien an "employment authorized" endorsement or other appropriate work permit.
+&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment in the United States and provide to that alien an "employment authorized" endorsement or other appropriate work permit.
 
 #### (c) Applications for adjustment of status
 
@@ -402,7 +402,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Treatment of certain programs
 
-&emsp;Assistance furnished under any of the following provisions of law shall not be construed to be financial assistance described in paragraph (1)(A)(i):
+&emsp;Assistance furnished under any of the following provisions of law shall not be construedto be financial assistance described in paragraph (1)(A)(i):
 
 &emsp;&emsp;(A) The Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
@@ -420,7 +420,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(H) The Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
-&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard tothe amendment made by section 301 of the Social Security Amendments of 1972).
+&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
@@ -431,6 +431,8 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title V, §512(q), July 22, 2014, 128 Stat. 1712.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -464,7 +466,7 @@ The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V o
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (h)(4)(F), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generallyto subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -559,6 +561,8 @@ Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted "or for the prep
 Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end "Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act)."
 
 Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out "by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section" after "permanent residence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

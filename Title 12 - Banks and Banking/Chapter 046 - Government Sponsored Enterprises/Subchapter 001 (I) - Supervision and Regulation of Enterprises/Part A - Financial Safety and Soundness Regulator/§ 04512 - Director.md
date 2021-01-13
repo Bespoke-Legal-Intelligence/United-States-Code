@@ -58,7 +58,7 @@ There is established the position of the Director of the Agency, who shall be th
 
 #### (3) Considerations
 
-&emsp;In exercising such functions, powers, and duties, the Deputy Director for Housing Mission and Goals shall consider the differences between the enterprises and the Federal HomeLoan Banks, including those described in section 4513(d) of this title.
+&emsp;In exercising such functions, powers, and duties, the Deputy Director for Housing Mission and Goals shall consider the differences between the enterprises and the Federal Home Loan Banks, including those described in section 4513(d) of this title.
 
 #### (f) Acting Director
 
@@ -75,6 +75,8 @@ The Director and each of the Deputy Directors may not—
 &emsp;(3) have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3-year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.
 
 (Pub. L. 102–550, title XIII, §1312, as added Pub. L. 110–289, div. A, title I, §1101, July 30, 2008, 122 Stat. 2662.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

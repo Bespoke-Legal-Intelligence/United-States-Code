@@ -38,6 +38,8 @@ The word "employee" is substituted for "civilian officers and employees" in view
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1106(1), substituted ", personal effects, and family household pets," for "and personal effects," in concluding provisions.

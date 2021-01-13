@@ -1,10 +1,12 @@
 ### §2345. Effect on State and local law
 
-(a) Nothing in this chapter shall be construed to affect the concurrent jurisdiction of a Stateor local government to enact and enforce its own cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized for violation of such laws, and to provide for penalties for the violation of such laws.
+(a) Nothing in this chapter shall be construed to affect the concurrent jurisdiction of a State or local government to enact and enforce its own cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized for violation of such laws, and to provide for penalties for the violation of such laws.
 
 (b) Nothing in this chapter shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by a number of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized in violation of such laws, and to establish cooperative programs for the administration of such laws.
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 109–177, title I, §121(b)(5), (e), (g)(2), Mar. 9, 2006, 120 Stat. 222–224.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

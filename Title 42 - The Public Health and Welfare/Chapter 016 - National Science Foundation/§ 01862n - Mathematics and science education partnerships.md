@@ -228,7 +228,7 @@ In this section—
 
 &emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L.114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 <b>2015</b>—Subsec. (a)(10)(A)(iii)(III). Pub. L. 114–95, §9215(ggg)(2)(A), which directed substitution of "(as described in section 1114(a)(1)(A))" for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6314(a)(1))" was executed by making the substitution for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)" to reflect the probable intent of Congress.
 
-Subsec. (c)(4). Pub. L. 114–95, §9215(ggg)(2)(B), substituted "other programs with similar purposes" for "the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.)".
+Subsec. (c)(4). Pub. L. 114–95, §9215(ggg)(2)(B), substituted "other programs with similar purposes" for "the program authorized under part B of title II of theElementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.)".
 
 <b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted "the department, college, or program of education at an institution of higher education, a State educational agency," for "a State educational agency".
 
@@ -296,7 +296,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress 
 
 &emsp;"(4) The research and education activities of the National Science Foundation promote the discovery, integration, dissemination, and application of new knowledge in service to society and prepare future generations of scientists, mathematicians, and engineers who will be necessary to ensure America's leadership in the global marketplace.
 
-&emsp;"(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery ofmathematics and science education in the United States, and improve the technological literacy of all people in the United States.
+&emsp;"(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the United States, and improve the technological literacy of all people in the United States.
 
 &emsp;"(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
 
@@ -336,7 +336,7 @@ Eligible nonprofit organization.—The term 'eligible nonprofit organization' me
 
 &emsp;"(7)
 
-Foundation.—The term 'Foundation' means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Foundation.—The term 'Foundation' means the National Science Foundation established undersection 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
 &emsp;"(8)
 

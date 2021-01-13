@@ -8,9 +8,13 @@ The provisions of sections 1302(b)(3), section <sup>1</sup> 1381(l), and 1384(c
 
 (Pub. L. 104–1, title V, §501, Jan. 23, 1995, 109 Stat. 39; Pub. L. 115–397, title II, §201(c), Dec. 21, 2018, 132 Stat. 5317.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–397 inserted ", section 1381(l)," before"and 1384(c) of this title" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

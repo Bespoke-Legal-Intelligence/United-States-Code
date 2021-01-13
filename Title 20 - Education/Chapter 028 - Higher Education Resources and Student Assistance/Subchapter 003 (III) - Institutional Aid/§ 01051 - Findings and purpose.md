@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) these institutions play an important role in the American system of higher education, and there is a strong national interest in assisting them in solving their problems and in stabilizing their management and fiscal operations, and in becoming financially independent; and
 
-&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin and whose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
+&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin andwhose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
 
 #### (b) Purpose
 

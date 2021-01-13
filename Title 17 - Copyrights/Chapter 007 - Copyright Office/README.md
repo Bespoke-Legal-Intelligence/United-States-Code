@@ -11,7 +11,7 @@
 | [707\.](%C2%A7%2000707%20-%20Copyright%20Office%20forms%20and%20publications.md) | Copyright Office forms and publications. |
 | [708\.](%C2%A7%2000708%20-%20Copyright%20Office%20fees.md) | Copyright Office fees. |
 | [709\.](%C2%A7%2000709%20-%20Delay%20in%20delivery%20caused%20by%20disruption%20of%20postal%20or%20other%20services.md) | Delay in delivery caused by disruption of postal or other services. |
-| \[710. | Repealed.\] |
+| [710\.](%C2%A7%2000710%20-%20Emergency%20relief%20authority.md) | Emergency relief authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,7 +21,7 @@
 
 Chapter 7 entitled "Copyright Office," sets forth the administrative and housekeeping provisions of the bill.
 
-<b>Administrative Procedure Act.</b> Under an amendment to section 701 adopted by the Committee, the Copyright Office is made fully subject to the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] with one exception: under section 706(b), reproduction and distribution of copyright deposit copies would be madeunder the Freedom of Information Act \[5 U.S.C. 552\] only to the extent permitted by the Copyright Office regulations.
+<b>Administrative Procedure Act.</b> Under an amendment to section 701 adopted by the Committee, the Copyright Office is made fully subject to the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] with one exception: under section 706(b), reproduction and distribution of copyright deposit copies would be made under the Freedom of Information Act \[5 U.S.C. 552\] only to the extent permitted by the Copyright Office regulations.
 
 <b>Retention and Disposition of Deposited Articles.</b> A recurring problem in the administration of the copyright law has been the need to reconcile the storage limitations of the Copyright Office with the continued value of deposits in identifying copyrighted works. Aside from its indisputable utility to future historians and scholars, a substantially complete collection of both published and unpublished deposits, other than those selected by the Library of Congress, would avoid the many difficulties encountered when copies needed for identification in connection with litigation or other purposes have been destroyed. The basic policy behind section 704 is that copyright deposits should be retained as long as possible, but that the Register of Copyrights and the Librarian of Congress should be empowered to dispose of them under appropriate safeguards when they decide that it has become necessary to do so.
 
@@ -45,7 +45,11 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 <b>Reproductions for the Blind and Handicapped.</b> Section 710 directs the Register of Copyrights to establish by regulation forms and procedures by which the copyright owners of certain categories of works may voluntarily grant to the Library of Congress a license to reproduce and distribute copies or phonorecords of the work solely for the use of the blind and physically handicapped.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–136, div. B, title IX, §19011(b), Mar. 27, 2020, 134 Stat. 582, added item 710.
 
 <b>2000</b>—Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 "Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures."
 
@@ -65,4 +69,4 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 - [&sect; 00707 - Copyright Office forms and publications](%C2%A7%2000707%20-%20Copyright%20Office%20forms%20and%20publications.md)
 - [&sect; 00708 - Copyright Office fees](%C2%A7%2000708%20-%20Copyright%20Office%20fees.md)
 - [&sect; 00709 - Delay in delivery caused by disruption of postal or other services](%C2%A7%2000709%20-%20Delay%20in%20delivery%20caused%20by%20disruption%20of%20postal%20or%20other%20services.md)
-- [&sect; 00710 - Repealed. Pub. L. 106&#8211;379, &sect;3(a)(1), Oct. 27, 2000, 114 Stat. 1445](%C2%A7%2000710%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93379%2C%20%C2%A73%28a%29%281%29%2C%20Oct.%2027%2C%202000%2C%20114%20Stat.%201445.md)
+- [&sect; 00710 - Emergency relief authority](%C2%A7%2000710%20-%20Emergency%20relief%20authority.md)

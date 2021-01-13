@@ -2,7 +2,7 @@
 
 (a)(1) Regulations prescribed under section 7451(a) of this title shall provide that whenever an employee in a covered position is given a new duty assignment which is a promotion, the rate of basic pay of that employee shall be increased at least one step increment in that employee's grade.
 
-(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a rate two step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
+(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a ratetwo step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 
@@ -18,7 +18,7 @@
 
 (4) Whenever the director of a health-care facility makes an appointment described in paragraph (1) without prior approval at a higher level of authority within the Department, the director shall—
 
-&emsp;(A) state in a document the reasons for employing the employee in a covered position ata rate of pay in excess of the minimum rate of basic pay applicable to the grade in which the employee is appointed (and retain that document on file); and
+&emsp;(A) state in a document the reasons for employing the employee in a covered position at a rate of pay in excess of the minimum rate of basic pay applicable to the grade in which the employee is appointed (and retain that document on file); and
 
 &emsp;(B) in the first budget documents submitted to the Secretary by the director after the employee is employed, include documentation for the need for such increased rates of basic pay described in clause (A).
 
@@ -43,6 +43,8 @@
 (4) Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
 
 (Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, §5, Dec. 3, 2004, 118 Stat. 2645; Pub. L. 111–163, title VI, §601(i), May 5, 2010, 124 Stat. 1170.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Subsec. (c)(1). Pub. L. 102–40, §401(c)(3)(C), substituted "7401(1)" for "410
 Subsec. (e). Pub. L. 102–40, §401(c)(3)(C), substituted "7401(1)" for "4104(1)".
 
 Subsec. (f). Pub. L. 102–40, §401(c)(3)(D), substituted "7451" for "4141".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

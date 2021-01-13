@@ -70,7 +70,7 @@ Subsec. (d)(1). Pub. L. 105–34, §1604(g)(2), struck out "or 669(d) and (e)" a
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–188, §1904(c)(2), struck out subsec. (c) which read as follows: "
 
-Special RuleApplicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust."
+Special Rule Applicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust."
 
 Subsec. (d)(2). Pub. L. 104–188, §1904(b)(1), inserted at end "Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term 'taxes imposed on the trust' includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income."
 
@@ -96,7 +96,7 @@ Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (e)(1). Pub. L. 94–455, §701(d)(2), struck out provision that preceding taxable year does not include any taxable year of the trust which begins before Jan. 1, 1969, in the case of a capital gain distribution made during a taxable year beginning after Dec. 31, 1968.
 
-Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which related to undistributed capital gains, and subsec. (g) which related to capital gain distribution.
+Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which related to undistributed capital gains,and subsec. (g) which related to capital gain distribution.
 
 <b>1971</b>—Subsec. (g). Pub. L. 92–178 struck out "for such taxable year" after "undistributed capital gain" in introductory text.
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 104–188 effective Aug. 20, 1996, with exception for certa
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1978 Amendment
 

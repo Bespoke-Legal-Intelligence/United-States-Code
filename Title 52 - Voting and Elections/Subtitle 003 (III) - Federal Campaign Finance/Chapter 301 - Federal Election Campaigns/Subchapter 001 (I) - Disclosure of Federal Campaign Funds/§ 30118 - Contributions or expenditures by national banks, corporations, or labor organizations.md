@@ -16,7 +16,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;(B) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee of the political purposes of such fund at the time of such solicitation; and
 
-&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
+&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to informsuch employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
 
 (4)(A) Except as provided in subparagraphs (B), (C), and (D), it shall be unlawful—
 
@@ -24,7 +24,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;(ii) for a labor organization, or a separate segregated fund established by a labor organization, to solicit contributions to such a fund from any person other than its members and their families.
 
-(B) It shall not be unlawful under this section for a corporation, a labor organization, or a separate segregated fund established by such corporation or such labor organization, to make 2 written solicitations for contributions during the calendar year from any stockholder, executive or administrative personnel, or employee of a corporation or the families of such persons. Asolicitation under this subparagraph may be made only by mail addressed to stockholders, executive or administrative personnel, or employees at their residence and shall be so designed that the corporation, labor organization, or separate segregated fund conducting such solicitation cannot determine who makes a contribution of $50 or less as a result of such solicitation and who does not make such a contribution.
+(B) It shall not be unlawful under this section for a corporation, a labor organization, or a separate segregated fund established by such corporation or such labor organization, to make 2 written solicitations for contributions during the calendar year from any stockholder, executive or administrative personnel, or employee of a corporation or the families of such persons. A solicitation under this subparagraph may be made only by mail addressed to stockholders, executive or administrative personnel, or employees at their residence and shall be so designed that the corporation, labor organization, or separate segregated fund conducting such solicitation cannot determine who makes a contribution of $50 or less as a result of such solicitation and who does not make such a contribution.
 
 (C) This paragraph shall not prevent a membership organization, cooperative, or corporation without capital stock, or a separate segregated fund established by a membership organization, cooperative, or corporation without capital stock, from soliciting contributions to such a fund from members of such organization, cooperative, or corporation without capital stock.
 
@@ -80,13 +80,15 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 #### (B) Targeted communication
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "targeted communication" means an electioneering communication (as defined in section 30104(f)(3) of this title) that is distributed from a television or radio broadcaststation or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
+&emsp;&emsp;For purposes of subparagraph (A), the term "targeted communication" means an electioneering communication (as defined in section 30104(f)(3) of this title) that is distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
 
 #### (C) Definition
 
 &emsp;&emsp;For purposes of this paragraph, a communication is "targeted to the relevant electorate" if it meets the requirements described in section 30104(f)(3)(C) of this title.
 
 (Pub. L. 92–225, title III, §316, formerly §321, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 490; renumbered §316 and amended Pub. L. 96–187, title I, §§105(5), 112(d), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 107–155, title II, §§203, 204, 214(d), Mar. 27, 2002, 116 Stat. 91, 92, 95.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 Subsec. (c)(6). Pub. L. 107–155, §204, added par. (6).
 
 <b>1980</b>—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted "It" for "it".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

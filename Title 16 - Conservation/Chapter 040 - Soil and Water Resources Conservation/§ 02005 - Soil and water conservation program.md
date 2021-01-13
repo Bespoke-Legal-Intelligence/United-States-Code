@@ -12,7 +12,7 @@ The Secretary is hereby authorized and directed to develop in cooperation with a
 
 &emsp;(4) identification and evaluation of alternative methods for the conservation, protection, environmental improvement, and enhancement of soil and water resources, in the context of alternative time frames, and a recommendation of the preferred alternatives and the extent to which they are being implemented;
 
-&emsp;(5) investigation and analysis of the practicability, desirability, and feasibility of collecting organic waste materials, including manure, crop and food wastes, industrial organic waste, municipal sewage sludge, logging andwood-manufacturing residues, and any other organic refuse, composting, or similarly treating such materials, transporting and placing such materials onto the land to improve soil tilth and fertility. The analysis shall include the projected cost of such collection, transportation, and placement in accordance with sound locally approved soil and water conservation practices;
+&emsp;(5) investigation and analysis of the practicability, desirability, and feasibility of collecting organic waste materials, including manure, crop and food wastes, industrial organic waste, municipal sewage sludge, logging and wood-manufacturing residues, and any other organic refuse, composting, or similarly treating such materials, transporting and placing such materials onto the land to improve soil tilth and fertility. The analysis shall include the projected cost of such collection, transportation, and placement in accordance with sound locally approved soil and water conservation practices;
 
 &emsp;(6) analysis of the Federal and non-Federal inputs required to implement the program;
 

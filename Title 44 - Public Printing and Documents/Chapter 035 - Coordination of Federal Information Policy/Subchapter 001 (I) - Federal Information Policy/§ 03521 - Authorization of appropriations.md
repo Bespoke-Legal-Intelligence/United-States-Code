@@ -4,11 +4,15 @@ There are authorized to be appropriated to the Office of Information and Regulat
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 184, §3520; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; renumbered §3521, Pub. L. 107–198, §3(a)(1), June 28, 2002, 116 Stat. 730.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–198 renumbered section 3520 of this title as this section.
 
 <b>2000</b>—Pub. L. 106–398 substituted "subchapter" for "chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

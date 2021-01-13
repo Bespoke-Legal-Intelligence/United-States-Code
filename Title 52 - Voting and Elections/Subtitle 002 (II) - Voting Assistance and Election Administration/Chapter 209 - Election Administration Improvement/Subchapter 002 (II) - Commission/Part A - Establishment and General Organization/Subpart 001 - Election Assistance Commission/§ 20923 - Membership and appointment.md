@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1year, except that the chair and vice chair may not be affiliated with the same political party.
+&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1 year, except that the chair and vice chair may not be affiliated with the same political party.
 
 #### (2) Number of terms
 
@@ -67,6 +67,8 @@
 &emsp;No member appointed to the Commission under subsection (a) may engage in any other business, vocation, or employment while serving as a member of the Commission and shall terminate or liquidate such business, vocation, or employment before sitting as a member of the Commission.
 
 (Pub. L. 107–252, title II, §203, Oct. 29, 2002, 116 Stat. 1674.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

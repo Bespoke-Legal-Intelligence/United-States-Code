@@ -170,7 +170,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (B) Income requirements for residences in high housing cost area
 
-&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a high housing cost area is the percentage (not greater than 140 percent) equal to the product of—
+&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a highhousing cost area is the percentage (not greater than 140 percent) equal to the product of—
 
 &emsp;&emsp;&emsp;(I) 115 percent, and
 
@@ -462,7 +462,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the value of services performed by the mortgagor or members of his family in completing the residence, and
 
-&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least 2 years before the date on which construction of the residence begins.
+&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least2 years before the date on which construction of the residence begins.
 
 #### (C) Special rule for qualified rehabilitation loans
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 #### (C) Limited equity cooperative housing
 
-&emsp;&emsp;For purposes of this paragraph, the term "limited equity cooperative housing" means any dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term "limited equity cooperative housing" meansany dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
 
 #### (D) Qualified cooperative housing corporation
 
@@ -698,7 +698,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;In the case of any State to which clause (ii) does not apply, the State veterans limit for any calendar year is the amount equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) insuch period for which the amount of such bonds so issued was the lowest), divided by
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) in such period for which the amount of such bonds so issued was the lowest), divided by
 
 &emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985 during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
 
@@ -1071,7 +1071,7 @@ Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165,168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
+Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
 
 #### Effective Date of 2008 Amendment
 
@@ -1085,7 +1085,7 @@ Pub. L. 110–245, title I, §103(d), June 17, 2008, 122 Stat. 1626, provided th
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
+Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of theTax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
 Pub. L. 109–432, div. A, title IV, §416(b), Dec. 20, 2006, 120 Stat. 2965, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
@@ -1167,7 +1167,7 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Transition Rule
 
-Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, asamended by this section, shall be applied by substituting '30 years' for '25 years'."
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting '30 years' for '25 years'."
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 

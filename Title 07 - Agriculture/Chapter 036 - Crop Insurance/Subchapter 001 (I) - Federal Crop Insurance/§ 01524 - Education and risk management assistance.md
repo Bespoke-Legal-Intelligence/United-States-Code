@@ -10,7 +10,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debtreduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -138,7 +138,7 @@ Subsec. (a)(2)(A). Pub. L. 115–334, §11125(a)(4), substituted "and providing 
 
 Subsec. (a)(3). Pub. L. 115–334, §11125(a)(3), (5)(A), redesignated par. (4) as (3) and, in introductory provisions, substituted "program established under paragraph (2)" for "programs established under paragraphs (2) and (3)" and inserted "farm viability and" after "emphasis on" and ", business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation" after "benchmarking". Former par. (3) redesignated (2).
 
-Subsec. (a)(3)(D)(iii), (E). Pub. L. 115–334, §11125(a)(5)(B), (C), added subpars. (D)(iii) and (E) and struck out former subpar. (E) which read as follows:"new or established farmers or ranchers that are converting production and marketing systems to pursue new markets."
+Subsec. (a)(3)(D)(iii), (E). Pub. L. 115–334, §11125(a)(5)(B), (C), added subpars. (D)(iii) and (E) and struck out former subpar. (E) which read as follows: "new or established farmers or ranchers that are converting production and marketing systems to pursue new markets."
 
 Subsec. (a)(3)(F). Pub. L. 115–334, §12306(b)(3)(A)–(C), added subpar. (F).
 

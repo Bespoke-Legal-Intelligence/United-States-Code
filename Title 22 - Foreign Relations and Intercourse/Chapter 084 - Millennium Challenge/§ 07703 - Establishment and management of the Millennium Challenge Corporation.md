@@ -54,7 +54,7 @@ There is established in the executive branch a corporation to be known as the "M
 
 &emsp;The Board shall consist of—
 
-&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of the United States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
+&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of theUnited States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
 
 &emsp;&emsp;(B) four other individuals with relevant international experience who shall be appointed by the President, by and with the advice and consent of the Senate, of which—
 
@@ -130,6 +130,8 @@ There is established in the executive branch a corporation to be known as the "M
 
 (Pub. L. 108–199, div. D, title VI, §604, Jan. 23, 2004, 118 Stat. 212; Pub. L. 115–167, title II, §202, Apr. 23, 2018, 132 Stat. 1279.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (c)(2), (8)(B)(i)(I), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -140,5 +142,5 @@ Section is comprised of section 604 of div. D of Pub. L. 108–199. Subsec. (b)(
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read asfollows: "Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years."
+<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read as follows: "Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years."
 

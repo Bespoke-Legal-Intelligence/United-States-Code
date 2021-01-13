@@ -8,9 +8,11 @@
 | [<b>3.</b>](Chapter%20003%20-%20Security%20and%20Accountability%20for%20Every%20Port/README.md) | <b>Security and Accountability for Every Port</b> | <b>901</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Transportation%20Security/README.md) | <b>Transportation Security</b> | <b>1101</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Border%20Infrastructure%20and%20Technology%20Modernization/README.md) | <b>Border Infrastructure and Technology Modernization</b> | <b>1401</b> |
-| [<b>6.</b>](Chapter%20006%20-%20Cybersecurity/README.md) | <b>Cybersecurity</b> | <b>1501</b> |
+| [<b>6.</b>](Chapter%20006%20-%20Cybersecurity/README.md) | <b>Cybersecurity</b> | <b>1500</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

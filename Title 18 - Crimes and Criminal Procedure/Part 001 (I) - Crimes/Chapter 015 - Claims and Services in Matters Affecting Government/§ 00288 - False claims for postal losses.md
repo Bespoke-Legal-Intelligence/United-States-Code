@@ -20,6 +20,8 @@ Reference to persons causing, assisting, aiding, or abetting, was omitted as suc
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100" in fifth par.

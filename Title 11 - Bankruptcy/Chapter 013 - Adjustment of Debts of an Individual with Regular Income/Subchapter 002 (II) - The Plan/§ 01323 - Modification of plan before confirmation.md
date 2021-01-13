@@ -4,7 +4,7 @@
 
 (b) After the debtor files a modification under this section, the plan as modified becomes the plan.
 
-(c) Any holder of a secured claim that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the planas modified, unless the modification provides for a change in the rights of such holder from what such rights were under the plan before modification, and such holder changes such holder's previous acceptance or rejection.
+(c) Any holder of a secured claim that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless the modification provides for a change in the rights of such holder from what such rights were under the plan before modification, and such holder changes such holder's previous acceptance or rejection.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649.)
 

@@ -16,7 +16,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 #### (A) In general
 
-&emsp;&emsp;Any person alleging a violation of section 255, 617, or 619 of this title by a manufacturer of equipment or provider of service subject to such sections may file a formal or informal complaint with the Commission.
+&emsp;&emsp;Any person alleging a violation of section 255, 617, or 619 of this title by a manufacturer of equipment or provider of service subjectto such sections may file a formal or informal complaint with the Commission.
 
 #### (B) Investigation of informal complaint
 
@@ -26,7 +26,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 &emsp;&emsp;&emsp;(ii)
 
-No violation.—If a determination is made that a violation has not occurred,the Commission shall provide the basis for such determination.
+No violation.—If a determination is made that a violation has not occurred, the Commission shall provide the basis for such determination.
 
 #### (C) Consolidation of complaints
 
@@ -113,6 +113,8 @@ Within one year after October 8, 2010, the Commission shall, in consultation wit
 Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the public about the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
 
 (June 19, 1934, ch. 652, title VII, §717, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124 Stat. 2758; amended Pub. L. 111–265, §2(3), Oct. 8, 2010, 124 Stat. 2795.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

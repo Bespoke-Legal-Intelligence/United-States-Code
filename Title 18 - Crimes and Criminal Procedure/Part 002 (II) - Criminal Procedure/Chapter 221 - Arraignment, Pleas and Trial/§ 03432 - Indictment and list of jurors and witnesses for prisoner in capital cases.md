@@ -16,11 +16,15 @@ Rule 10 of the Federal Rules of Criminal Procedure requires that the defendant i
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–16 inserted ", excluding intermediate weekends and holidays," after "commencement of trial".
 
 <b>1994</b>—Pub. L. 103–322 inserted before period at end ", except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -20,6 +20,8 @@ Reimbursement.—Reimbursement for services carried out under this subsection (i
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, §152(5), Aug. 13, 1973, 87 Stat. 276; Pub. L. 112–141, div. A, title I, §1521(f), July 6, 2012, 126 Stat. 579.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 214 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(2), is classified to section 4634 of Title 42, The Public Health and Welfare.
@@ -29,6 +31,8 @@ Section 214 of the Uniform Relocation Assistance and Real Property Acquisition P
 <b>2012</b>—Subsec. (a). Pub. L. 112–141 added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary is authorized to perform by contract or otherwise, authorized engineering or other services in connection with the survey, construction, maintenance, or improvement of highways for other Government agencies, cooperating foreign countries, and State cooperating agencies, and reimbursement for such services, which may include depreciation on engineering and roadbuilding equipment used, shall be credited to the appropriation concerned."
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–87 substituted "Federal Highway Administration" for "Bureau of Public Roads" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

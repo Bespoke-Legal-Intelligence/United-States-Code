@@ -26,7 +26,7 @@ The detention benefits allowed under subsection (b) shall be allowed to the pers
 
 #### (e) Certification of claims
 
-Any claim allowed by the Commission under this section (except under subsections (g) and (i)) shall be certified to the Secretary of the Treasury for payment out of the war claims funds established by section 4110 of this title, and shall be payable by the Secretary of theTreasury to the person entitled thereto; except that where the person entitled to payment is under any legal disability, any part of the amount payable may, in the discretion of the Commission, be paid, for the use of the claimant, to the natural or legal guardian, committee, conservator, or curator of the claimant, or, if there is no such guardian, committee, conservator, or curator, then the Commission may, in its discretion, make payment to any other person, including the spouse of such claimant, whom the Commission may determine is vested with the care of the claimant or his estate for the use and benefit of such claimant or estate; and if such person is a minor, any part of the amount payable may, in the discretion of the Commission, be paid to such minor.
+Any claim allowed by the Commission under this section (except under subsections (g) and (i)) shall be certified to the Secretary of the Treasury for payment out of the war claims funds established by section 4110 of this title, and shall be payable by the Secretary of the Treasury to the person entitled thereto; except that where the person entitled to payment is under any legal disability, any part of the amount payable may, in the discretion of the Commission, be paid, for the use of the claimant, to the natural or legal guardian, committee, conservator, or curator of the claimant, or, if there is no such guardian, committee, conservator, or curator, then the Commission may, in its discretion, make payment to any other person, including the spouse of such claimant, whom the Commission may determine is vested with the care of the claimant or his estate for the use and benefit of such claimant or estate; and if such person is a minor, any part of the amount payable may, in the discretion of the Commission, be paid to such minor.
 
 #### (f) Application of War Hazards Compensation Act; factors for determining benefits; effective date
 
@@ -36,7 +36,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(A) the average weekly wage of any such civilian American citizen, whether employed, self-employed, or not employed, shall be deemed to have been $37.50;
 
-&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or not any such civilian American citizen was employed;
+&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or notany such civilian American citizen was employed;
 
 &emsp;(C) notice of injury or death shall not be required; and limitation provisions with respect to the filing of claims for injury, disability, or death shall not begin to run until July 3, 1948; and
 
@@ -62,7 +62,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 #### (g) Benefits for civilian internees in Korea, and dependents; time
 
-(1) As used in this subsection, the term "civilian American citizens" means any person who, being then a citizen of the United States, wascaptured in Korea on or after June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or who went into hiding in Korea in order to avoid capture or internment by any such hostile force; except (A) a person who at any time voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force, or (B) a regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States.
+(1) As used in this subsection, the term "civilian American citizens" means any person who, being then a citizen of the United States, was captured in Korea on or after June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or who went into hiding in Korea in order to avoid capture or internment by any such hostile force; except (A) a person who at any time voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force, or (B) a regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States.
 
 (2) The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to June 25, 1950, during which he was held by any such hostile force as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by any such hostile force.
 
@@ -76,7 +76,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(C) child or children of the deceased (in equal shares) if there is no widow or dependent husband.
 
-(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of funds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
+(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out offunds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
 
 (6) Each claim filed under this subsection must be filed not later than one year from whichever of the following dates last occurs:
 
@@ -128,7 +128,7 @@ In the case of any Guamanian killed or captured by the Imperial Japanese Governm
 
 > The Commission shall complete its determinations for each claim filed under this subsection at the earliest practicable date, but not later than one year after the date on which such claim was filed.
 
-(7) There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
+(7) There are authorized to be appropriated such amounts as may be necessary to carry outthe purposes of this subsection, including necessary administrative expenses.
 
 (July 3, 1948, ch. 826, title I, §5, 62 Stat. 1242; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Apr. 9, 1952, ch. 168, §1, 66 Stat. 49; Aug. 21, 1954, ch. 784, §1, 68 Stat. 759; Aug. 31, 1954, ch. 1162, title I, §§101 (a)–(c), 102(a), 68 Stat. 1033, 1034; Pub. L. 87–617, Aug. 31, 1962, 76 Stat. 413; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107; Pub. L. 91–289, §3, June 24, 1970, 84 Stat. 324; Pub. L. 94–383, Aug. 12, 1976, 90 Stat. 1122.)
 
@@ -174,7 +174,7 @@ Subsec. (g). Act Aug. 21, 1954, §1(a), added subsec. (g).
 
 "Secretary of Labor" substituted for "Federal Security Administrator" in subsec. (f)(6) pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
 
-For provisions transferring Foreign Claims Settlement Commission of the United States to Departmentof Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

@@ -14,7 +14,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Conversion
 
-&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States that provide State aid to local educational agencies on the basis of average daily membership (or other similar data).
+&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States thatprovide State aid to local educational agencies on the basis of average daily membership (or other similar data).
 
 #### (C) Special rule
 
@@ -492,7 +492,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(xvi) create programs to enable paraprofessionals (assisting teachers employed by a local educational agency receiving assistance under part A of subchapter I) to obtain the education necessary for those paraprofessionals to become certified and licensed teachers;
 
-&emsp;&emsp;&emsp;(xvii) provide follow-up training to teachers who have participated in activities described in this paragraph that are designed to ensure that the knowledge and skills learned by the teachers are implemented in the classroom; and
+&emsp;&emsp;&emsp;(xvii) provide follow-up training to teachers who have participated in activities described in this paragraph that are designed to ensure that the knowledge andskills learned by the teachers are implemented in the classroom; and
 
 &emsp;&emsp;&emsp;(xviii) where practicable, provide jointly for school staff and other early childhood education program providers, to address the transition to elementary school, including issues related to school readiness.
 

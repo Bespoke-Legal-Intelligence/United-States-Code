@@ -22,7 +22,7 @@ Basis for Appointments.—Members of each Advisory Committee—
 
 &emsp;(3) shall include individuals with substantial background and achievement in finance, management, labor relations, science, technology, and office automation.
 
-> In addition to the voting members, each Advisory Committee shall include a representative ofeach labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
+> In addition to the voting members, each Advisory Committee shall include a representative of each labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
 
 (c)
 
@@ -68,6 +68,8 @@ Inapplicability of Patent Prohibition.—Section 4 shall not apply to voting mem
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -92,6 +94,8 @@ Subsec. (i). Pub. L. 107–273, §13203(b)(1), inserted ", privileged," after "
 
 Subsec. (j). Pub. L. 107–273, §13203(b)(2), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–274, §1(n), Jan. 14, 2013, 126 Stat. 2459, provided that: "Except as otherwise provided in this Act \[amending this section and sections 42, 115, 123, 135, 154, 299, and 311 of this title, repealing section 373 of this title, enacting provisions set out as notes under this section and sections 2, 135, 298, and 311 of this title, and amending provisions set out as a note under section 321 of this title\], the amendments made by this Act shall take effect on the date of enactment of this Act \[Jan. 14, 2013\], and shall apply to proceedings commenced on or after such date of enactment."
@@ -106,7 +110,7 @@ Pub. L. 112–274, §1(l)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
 
 "(A)
 
-In general.—The Secretary of Commerce shall, in the Secretary's discretion, determine the time andmanner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
+In general.—The Secretary of Commerce shall, in the Secretary's discretion, determine the time and manner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
 
 "(B)
 

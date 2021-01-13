@@ -10,13 +10,15 @@ The Majority Leader and Minority Leader of the Senate shall be the chairman and 
 
 #### (c) Appointment of Senate Curator; assignment of assistants
 
-The Secretary of the Senate shall appoint a Senate Curator approved by the Senate Commission on Art. The Senate Curator shall be an employee of the Secretary of the Senate assignedto assist the Commission. The Secretary of the Senate shall assign additional employees to assist the Commission, and provide such other assistance, as the Commission determines necessary.
+The Secretary of the Senate shall appoint a Senate Curator approved by the Senate Commission on Art. The Senate Curator shall be an employee of the Secretary of the Senate assigned to assist the Commission. The Secretary of the Senate shall assign additional employees to assist the Commission, and provide such other assistance, as the Commission determines necessary.
 
 #### (d) Hearings and meetings
 
 The Commission shall be empowered to hold hearings, summon witnesses, administer oaths, employ reporters, request the production of papers and records, take such testimony, and adopt such rules for the conduct of its hearings and meetings, as it deems necessary.
 
 (Pub. L. 100–696, title IX, §901(a), (b)(1), (3), Nov. 18, 1988, 102 Stat. 4610, 4611; Pub. L. 108–83, title I, §3(d)(1), Sept. 30, 2003, 117 Stat. 1012.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -33,6 +35,8 @@ Subsec. (c). Pub. L. 108–83, §3(d)(1)(B), added subsec. (c) and struck out fo
 <b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(3), substituted "Senate Commission on Art" for "Commission on Art and Antiquities of the United States Senate".
 
 Subsec. (b). Pub. L. 100–696, §901(b)(1), inserted "The Secretary of the Senate shall be the Executive Secretary of the Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Senate Rulemaking Power
 

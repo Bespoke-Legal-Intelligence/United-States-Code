@@ -8,13 +8,15 @@
 
 (d) An individual who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under section 2126 of this title. However, the grade of the director may not be higher than captain.
 
-(e) The Secretary may revoke any designation as director of the Coast Guard Band. When an individual's designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
+(e) The Secretary may revoke any designation as director of the Coast Guard Band. When anindividual's designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
 
 &emsp;(1) to be discharged from the Coast Guard; or
 
 &emsp;(2) to revert to the grade and status he held at the time of his designation as director.
 
 (Added Pub. L. 89–189, §1(1), Sept. 17, 1965, 79 Stat. 820, §336; amended Pub. L. 102–587, title V, §5201, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 107–295, title III, §311, Nov. 25, 2002, 116 Stat. 2102; Pub. L. 109–241, title II, §204(a), July 11, 2006, 120 Stat. 520; renumbered §317 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -33,6 +35,8 @@ Subsec. (e). Pub. L. 109–241, §204(a)(4), substituted "When an individual's d
 <b>2002</b>—Subsec. (d). Pub. L. 107–295 substituted "captain" for "commander".
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–587 substituted "commander" for "lieutenant commander".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Current Director
 

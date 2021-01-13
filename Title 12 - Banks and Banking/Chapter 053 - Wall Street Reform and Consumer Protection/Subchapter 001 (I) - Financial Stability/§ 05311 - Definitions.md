@@ -28,7 +28,7 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (B) U.S. nonbank financial company
 
-&emsp;&emsp;The term "U.S. nonbank financial company" means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
+&emsp;&emsp;The term "U.S. nonbank financial company" means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swapdata repository registered with the Commodity Futures Trading Commission), that is—
 
 &emsp;&emsp;&emsp;(i) incorporated or organized under the laws of the United States or any State; and
 
@@ -68,6 +68,8 @@ For purposes of the application of parts A and C (other than section 5323(b) of 
 
 (Pub. L. 111–203, title I, §102, July 21, 2010, 124 Stat. 1391.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -77,6 +79,8 @@ The Bank Holding Company Act of 1956, referred to in subsec. (a)(1), is act May 
 The Farm Credit Act of 1971, referred to in subsec. (a)(4)(B), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 Part C, referred to in subsec. (c), was in the original "subtitle C", meaning subtitle C (§§161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

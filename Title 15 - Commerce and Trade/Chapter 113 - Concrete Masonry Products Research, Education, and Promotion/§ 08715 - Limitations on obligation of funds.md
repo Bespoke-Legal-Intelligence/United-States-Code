@@ -34,7 +34,7 @@ After the covered period, the Board may withdraw and obligate in any fiscal year
 
 #### (f) Covered period defined
 
-In this section, the term "covered period" means the period that begins on October 5, 2018,and ends on the last day of the 11th fiscal year that begins on or after such date.
+In this section, the term "covered period" means the period that begins on October 5, 2018, and ends on the last day of the 11th fiscal year that begins on or after such date.
 
 (Pub. L. 115–254, div. E, §1316, Oct. 5, 2018, 132 Stat. 3483.)
 

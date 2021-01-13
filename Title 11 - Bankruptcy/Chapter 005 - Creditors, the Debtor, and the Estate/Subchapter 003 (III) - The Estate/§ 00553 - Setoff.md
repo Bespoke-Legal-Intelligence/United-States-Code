@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) for the purpose of obtaining a right of setoff against the debtor (except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561).
 
-(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, 561, 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days beforethe date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, 561, 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
 
 &emsp;(A) 90 days before the date of the filing of the petition; and
 
@@ -46,6 +46,8 @@ The section states that the right of setoff is unaffected by the bankruptcy code
 
 As under section 547(f), the debtor is presumed to have been insolvent during the 90 days before the case.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, §907(n)(1), inserted "(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)" before semicolon.
@@ -66,13 +68,15 @@ Pub. L. 103–394, §205(b), substituted "365(h)" for "365(h)(2)".
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–353 inserted ", 362(b)(7)," after "362(b)(6)", and substituted ", 365(h)(2), or 365(i)(2)" for "or 365(h)(1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

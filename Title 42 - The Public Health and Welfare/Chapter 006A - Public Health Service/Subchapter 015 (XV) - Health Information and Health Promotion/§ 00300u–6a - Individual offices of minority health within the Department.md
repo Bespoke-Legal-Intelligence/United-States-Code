@@ -14,7 +14,7 @@ Each Office of Minority Health established in an agency listed in subsection (a)
 
 #### (d) References
 
-Except as otherwise specified, any reference in Federal law to an Office of Minority Health (in the Department of Health and Human Services) is deemed to be a reference to the Office of Minority Health in the Office of the Secretary.
+Except as otherwise specified, any reference in Federal law to an Office of Minority Health (inthe Department of Health and Human Services) is deemed to be a reference to the Office of Minority Health in the Office of the Secretary.
 
 #### (e) Funding
 

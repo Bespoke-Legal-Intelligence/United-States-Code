@@ -10,26 +10,22 @@
 | [705\.](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%27%20organizations.md) | Badge or medal of veterans' organizations. |
 | [706\.](%C2%A7%2000706%20-%20Red%20Cross.md) | Red Cross. |
 | [706a.](%C2%A7%2000706a%20-%20Geneva%20distinctive%20emblems.md) | Geneva distinctive emblems. |
-| [707\.](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md) | 4–H Club emblem fraudulently used.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [708\.](%C2%A7%2000708%20-%20Swiss%20Confederation%20coat%20of%20arms.md) | Swiss Confederation coat of arms. |
+| \[707, 708. | Repealed.\] |
 | [709\.](%C2%A7%2000709%20-%20False%20advertising%20or%20misuse%20of%20names%20to%20indicate%20Federal%20agency.md) | False advertising or misuse of names to indicate Federal agency. |
 | [710\.](%C2%A7%2000710%20-%20Cremation%20urns%20for%20military%20use.md) | Cremation urns for military use. |
-| [711\.](%C2%A7%2000711%20-%20Smokey%20Bear%20character%20or%20name.md) | "Smokey Bear" character or name. |
-| [711a.](%C2%A7%2000711a%20-%20Woodsy%20Owl%20character%2C%20name%2C%20or%20slogan.md) | "Woodsy Owl" character, name, or slogan. |
+| \[711, 711a. | Repealed.\] |
 | [712\.](%C2%A7%2000712%20-%20Misuse%20of%20names%2C%20words%2C%20emblems%2C%20or%20insignia.md) | Misuse of names, words, emblems, or insignia. |
 | [713\.](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20the%20seal%20of%20the%20United%20States%E2%80%A6.md) | Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress. |
-| \[714. | Repealed.\] |
-| [715\.](%C2%A7%2000715%20-%20The%20Golden%20Eagle%20Insignia.md) | "The Golden Eagle Insignia". |
+| \[714, 715. | Repealed.\] |
 | [716\.](%C2%A7%2000716%20-%20Public%20employee%20insignia%20and%20uniform.md) | Public employee insignia and uniform. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 "4–H Club emblem fraudulently used", 708 "Swiss Confederation coat of arms", 711 " 'Smokey Bear' character or name", 711a " 'Woodsy Owl' character, name, or slogan", and 715 " 'The Golden Eagle Insignia' ".
 
 <b>2007</b>—Pub. L. 109–481, §2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
 
@@ -37,7 +33,7 @@
 
 <b>2000</b>—Pub. L. 106–547, §3(b), Dec. 19, 2000, 114 Stat. 2740, added item 716.
 
-<b>1997</b>—Pub. L. 105–55, title III, §308(e), Oct. 7, 1997, 111 Stat. 1198, substituted "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress" for "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate" in item 713.
+<b>1997</b>—Pub. L. 105–55, title III, §308(e), Oct. 7, 1997, 111 Stat. 1198, substituted "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate,the seal of the United States House of Representatives, and the seal of the United States Congress" for "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate" in item 713.
 
 <b>1991</b>—Pub. L. 102–229, title II, §210(e), Dec. 12, 1991, 105 Stat. 1717, substituted "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate." for "Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President." in item 713.
 
@@ -67,8 +63,6 @@
 
 <b>1949</b>—Act May 24, 1949, ch. 139, §14, 63 Stat. 91, inserted "Uniform of armed forces and Public Health Service" in lieu of enumerating the specific branches in item 702.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -82,14 +76,14 @@
 - [&sect; 00705 - Badge or medal of veterans' organizations](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%27%20organizations.md)
 - [&sect; 00706 - Red Cross](%C2%A7%2000706%20-%20Red%20Cross.md)
 - [&sect; 00706a - Geneva distinctive emblems](%C2%A7%2000706a%20-%20Geneva%20distinctive%20emblems.md)
-- [&sect; 00707 - 4&#8211;H club emblem fraudulently used](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md)
-- [&sect; 00708 - Swiss Confederation coat of arms](%C2%A7%2000708%20-%20Swiss%20Confederation%20coat%20of%20arms.md)
+- [&sect; 00707 - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(3), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000707%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%283%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
+- [&sect; 00708 - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(4), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000708%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%284%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
 - [&sect; 00709 - False advertising or misuse of names to indicate Federal agency](%C2%A7%2000709%20-%20False%20advertising%20or%20misuse%20of%20names%20to%20indicate%20Federal%20agency.md)
 - [&sect; 00710 - Cremation urns for military use](%C2%A7%2000710%20-%20Cremation%20urns%20for%20military%20use.md)
-- [&sect; 00711 - Smokey Bear character or name](%C2%A7%2000711%20-%20Smokey%20Bear%20character%20or%20name.md)
-- [&sect; 00711a - Woodsy Owl character, name, or slogan](%C2%A7%2000711a%20-%20Woodsy%20Owl%20character%2C%20name%2C%20or%20slogan.md)
+- [&sect; 00711 - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(5), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000711%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%285%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
+- [&sect; 00711a - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(6), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000711a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%286%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
 - [&sect; 00712 - Misuse of names, words, emblems, or insignia](%C2%A7%2000712%20-%20Misuse%20of%20names%2C%20words%2C%20emblems%2C%20or%20insignia.md)
 - [&sect; 00713 - Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States&#8230;](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20the%20seal%20of%20the%20United%20States%E2%80%A6.md)
 - [&sect; 00714 - Repealed. Pub. L. 97&#8211;258, &sect;2(d)(1)(B), Sept. 13, 1982, 96 Stat. 1058](%C2%A7%2000714%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93258%2C%20%C2%A72%28d%29%281%29%28B%29%2C%20Sept.%2013%2C%201982%2C%2096%20Stat.%201058.md)
-- [&sect; 00715 - The Golden Eagle Insignia](%C2%A7%2000715%20-%20The%20Golden%20Eagle%20Insignia.md)
+- [&sect; 00715 - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(7), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000715%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%287%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
 - [&sect; 00716 - Public employee insignia and uniform](%C2%A7%2000716%20-%20Public%20employee%20insignia%20and%20uniform.md)

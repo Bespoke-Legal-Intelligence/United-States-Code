@@ -24,6 +24,8 @@ In subsection (b), the words "A motion to discharge" are substituted for "Such m
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–614 substituted "75 calendar days" for "45 calendar days".

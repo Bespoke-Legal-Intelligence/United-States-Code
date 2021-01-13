@@ -82,7 +82,7 @@ National Security Finding.—As part of an aeronautical study conducted under su
 
 (g)
 
-Special Rule for Identified Geographic Areas.—In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10, the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10, the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since the project was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
+Special Rule for Identified Geographic Areas.—In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10, the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10, the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since theproject was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
 
 (h)
 
@@ -164,7 +164,7 @@ Subsecs. (f), (g). Pub. L. 114–328, §341(a)(3), added subsecs. (f) and (g).
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing withinthe 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill."
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill."
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 

@@ -30,6 +30,8 @@ The authority to appoint employees under this section shall terminate on the dat
 
 (June 25, 1938, ch. 675, §714, as added and amended Pub. L. 112–144, title II, §208, title III, §307, July 9, 2012, 126 Stat. 1007, 1025; Pub. L. 115–52, title II, §202(b), Aug. 18, 2017, 131 Stat. 1013.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–52 substituted "379i(9)" for "379i(8)".
@@ -38,9 +40,11 @@ The authority to appoint employees under this section shall terminate on the dat
 
 Subsec. (c). Pub. L. 112–144, §307(2), amended subsec. (c) generally. Prior to amendment, text read as follows: "The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in section 379j–1(a)(1) of this title."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of this subchapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of this subchapterto be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 2012 Amendment
 

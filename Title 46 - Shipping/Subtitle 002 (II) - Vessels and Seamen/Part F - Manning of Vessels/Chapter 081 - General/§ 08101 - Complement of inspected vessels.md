@@ -14,7 +14,7 @@
 
 (d) A vessel to which this section applies may not be operated without having in its service the complement required in the certificate of inspection.
 
-(e) When a vessel is deprived of the service of a member of its complement without the consent, fault, or collusion of the owner, charterer, managing operator, agent, master, or individual in charge of the vessel, the master shall engage, if obtainable, a number of members equal to the number of those of whose services the master has been deprived. The replacements must be of the same or a higher grade or rating than thosewhose places they fill. If the master finds the vessel is sufficiently manned for the voyage, and replacements are not available to fill all the vacancies, the vessel may proceed on its voyage. Within 12 hours after the vessel arrives at its destination, the master shall report in writing to the Secretary the cause of each deficiency in the complement. A master failing to make the report is liable to the United States Government for a civil penalty of $1,000 for each deficiency.
+(e) When a vessel is deprived of the service of a member of its complement without the consent, fault, or collusion of the owner, charterer, managing operator, agent, master, or individual in charge of the vessel, the master shall engage, if obtainable, a number of members equal to the number of those of whose services the master has been deprived. The replacements must be of the same or a higher grade or rating than those whose places they fill. If the master finds the vessel is sufficiently manned for the voyage, and replacements are not available to fill all the vacancies, the vessel may proceed on its voyage. Within 12 hours after the vessel arrives at itsdestination, the master shall report in writing to the Secretary the cause of each deficiency in the complement. A master failing to make the report is liable to the United States Government for a civil penalty of $1,000 for each deficiency.
 
 (f) The owner, charterer, or managing operator of a vessel not manned as required by this section is liable to the Government for a civil penalty of $10,000.
 
@@ -66,6 +66,8 @@ When a vessel has a vacancy in the manning required by its certificate of inspec
 
 Subsections (f), (g) and (h) prescribe civil penalties for noncompliance with manning requirements. Subsection (g) also prohibits the employment or service of an individual in a licensed capacity who is not licensed by the Secretary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
@@ -83,6 +85,8 @@ Subsec. (i). Pub. L. 101–380, §4104, added subsec. (i).
 <b>1986</b>—Subsec. (a). Pub. L. 99–640 amended subsec. (a) generally, inserting cl. (1) designation before "a sailing school" and adding cl. (2).
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–557 substituted provisions relating to inspection under chapter 33 of this title, for provisions relating to applicability of part B of this subtitle.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

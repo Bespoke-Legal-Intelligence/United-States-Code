@@ -72,13 +72,15 @@ Except to the extent inconsistent with the provisions of this chapter, the admin
 
 #### (2) Funding
 
-&emsp;Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscal year, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
+&emsp;Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscalyear, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
 
 (Pub. L. 108–199, div. D, title VI, §614, Jan. 23, 2004, 118 Stat. 222.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original "this title", meaningtitle VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 

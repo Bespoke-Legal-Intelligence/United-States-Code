@@ -8,7 +8,7 @@
 
 #### (2) Collaboration and cooperation
 
-&emsp;The Secretary shall collaborate with the Secretary of Energy and cooperate with the private sector and host foreign government to implement the pilot program under this subsection.
+&emsp;The Secretary shall collaborate with the Secretary of Energy and cooperate with theprivate sector and host foreign government to implement the pilot program under this subsection.
 
 #### (b) Implementation
 
@@ -55,6 +55,8 @@ Not later than 120 days after achieving full-scale implementation under subsecti
 If the Secretary determines the available technology meets the criteria outlined in subsection (c), the Secretary, in cooperation with the Secretary of State, shall seek to secure the cooperation of foreign governments to initiate and maximize the use of such technology at foreign ports to scan all cargo bound for the United States as quickly as possible.
 
 (Pub. L. 109–295, title V, §558, Oct. 4, 2006, 120 Stat. 1392.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

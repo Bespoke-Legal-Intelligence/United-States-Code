@@ -98,11 +98,11 @@ Subsec. (d)(2). Pub. L. 95–30, §201(2), substituted "January 1, 1979" for "Ja
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 reenacted subsec. (a) without change.
 
-Subsec. (b). Pub. L. 94–455, among other changes, substituted "December 31, 1977, 22 percent" for "December 31, 1976, 22 percent" and "after December 31, 1974 and before January 1, 1978" for "after December 31, 1974 and before January 1, 1977" and struck out provisions relating to the six-month application of the general rule.
+Subsec. (b). Pub. L. 94–455, among other changes, substituted "December 31, 1977, 22 percent" for "December 31, 1976, 22 percent" and "after December 31, 1974 andbefore January 1, 1978" for "after December 31, 1974 and before January 1, 1977" and struck out provisions relating to the six-month application of the general rule.
 
 Subsec. (c). Pub. L. 94–455 struck out provisions relating to the special rule for 1976 for calendar year taxpayers.
 
-Subsec. (d). Pub. L. 94–455, among other changes, substituted provisions relating to surtax exemption of $25,000 for a taxable year ending Dec. 31, 1977, or $50,000 for a taxable year ending after Dec. 31, 1974, and beforeJan. 1, 1978, for provisions relating to surtax exemption of $50,000 for any taxable year and struck out provisions relating to six-month application of the general rule.
+Subsec. (d). Pub. L. 94–455, among other changes, substituted provisions relating to surtax exemption of $25,000 for a taxable year ending Dec. 31, 1977, or $50,000 for a taxable year ending after Dec. 31, 1974, and before Jan. 1, 1978, for provisions relating to surtax exemption of $50,000 for any taxable year and struck out provisions relating to six-month application of the general rule.
 
 <b>1975</b>—Subsec. (b). Pub. L. 94–164 redesignated existing pars. (1) and (2) as pars. (1)(A) and (1)(B), and in par. (1)(A) as so redesignated substituted "after December 31, 1976" for "before January 1, 1975 or after December 31, 1975", and in par. (1)(B) as so redesignated substituted "January 1, 1977" for "January 1, 1976", and added par. (2).
 
@@ -208,7 +208,7 @@ Pub. L. 97–34, title II, §231(c), Aug. 13, 1981, 95 Stat. 250, provided that:
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §301(c), Nov. 6, 1978, 92 Stat. 2824, provided that: "The amendments made by thissection \[amending this section and sections 12, 57, 244, 247, 511, 527, 528, 802, 821, 826, 852, 857, 882, 907, 922, 962, 1351, 1551, 1561, 6154, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1978."
+Pub. L. 95–600, title III, §301(c), Nov. 6, 1978, 92 Stat. 2824, provided that: "The amendments made by this section \[amending this section and sections 12, 57, 244, 247, 511, 527, 528, 802, 821, 826, 852, 857, 882, 907, 922, 962, 1351, 1551, 1561, 6154, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1978."
 
 #### Effective Date of 1976 Amendment
 

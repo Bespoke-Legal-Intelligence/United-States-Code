@@ -42,6 +42,8 @@
 
 (Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, §3(a), Oct. 8, 2008, 122 Stat. 4068.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5711 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -58,7 +60,7 @@ Subsec. (b)(2). Pub. L. 108–96, §104(1), substituted "The" for "Subject to pa
 
 Subsec. (b)(3), (4). Pub. L. 108–96, §104(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "If, as a result of paragraph (2), the amount allotted under paragraph (1) with respect to a State for a fiscal year would be less than the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992, then the amounts allotted to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allot under paragraph (1) with respect to such State for the fiscal year an amount equal to the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992."
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–71, §3(b)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with theimmediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system."
+<b>1999</b>—Subsec. (a). Pub. L. 106–71, §3(b)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with the immediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system."
 
 Subsec. (b)(2). Pub. L. 106–71, §3(b)(2), struck out "the Trust Territory of the Pacific Islands," after "American Samoa,".
 
@@ -87,6 +89,8 @@ Subsec. (b). Pub. L. 98–473, §651(b), inserted "and to the families of such j
 Subsecs. (b), (c). Pub. L. 96–509, §18(c)(5), added subsecs. (b) and (c).
 
 <b>1977</b>—Pub. L. 95–115 substituted "technical assistance and short-term training to States, localities and nonprofit private agencies and coordinated networks of such agencies in" for "technical assistance to localities and nonprofit private agencies in", "needs of runaway youth or otherwise homeless youth in" for "needs of runaway youth in", and "such youth" for "runaway youth" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

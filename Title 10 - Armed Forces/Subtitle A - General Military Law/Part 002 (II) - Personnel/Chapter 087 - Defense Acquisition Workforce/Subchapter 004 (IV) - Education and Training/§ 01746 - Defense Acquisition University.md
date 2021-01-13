@@ -16,7 +16,7 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 (3) The Secretary of Defense shall ensure that—
 
-&emsp;(A) not later than September 1, 2021, not less than five full-time visiting professors employed under paragraph (1) are from civilian colleges or universities described under paragraph (2); ; <sup>1</sup> and
+&emsp;(A) not later than September 1, 2021, not less than five full-time visiting professors employed under paragraph (1) are from civilian colleges or universities described under paragraph (2); and
 
 &emsp;(B) not later than September 1, 2022, not less than ten full-time visiting professors employed under paragraph (1) are from such civilian colleges or universities.
 
@@ -34,9 +34,17 @@ Cooperative Research and Development Agreements.—(1) In engaging in research a
 
 (2) The Defense Acquisition University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–383, div. A, title VIII, §877(c)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4306; Pub. L. 114–328, div. A, title II, §214(b), Dec. 23, 2016, 130 Stat. 2048; Pub. L. 116–92, div. A, title VIII, §861(c), title IX, §902(23), Dec. 20, 2019, 133 Stat. 1516, 1545.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–383, div. A, title VIII, §877(c)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4306; Pub. L. 114–328, div. A, title II, §214(b), Dec. 23, 2016, 130 Stat. 2048; Pub. L. 116–92, div. A, title VIII, §861(c), title IX, §902(23), Dec. 20, 2019, 133 Stat. 1516, 1545; Pub. L. 116–283, div. A, title X, §1081(a)(32), title XVIII, §1841(e)(1), Jan. 1, 2021, 134 Stat. 3872, 4244.)
+
+#### Amendment of Subsection (d)(1)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(1) of this section is amended by striking "section 2358" and inserting "section 4001". See 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(3)(A). Pub. L. 116–283, §1081(a)(32), struck out the second semicolon before "and".
+
+Subsec. (d)(1). Pub. L. 116–283, §1841(e)(1), substituted "section 4001" for "section 2358".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §902(23), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
 
@@ -55,6 +63,10 @@ Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out "(1)" before "The Secretary of Defense" and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1841(e)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
@@ -163,6 +175,4 @@ Pub. L. 114–328, div. A, title VIII, §832, Dec. 23, 2016, 130 Stat. 2283, pro
 #### Establishment of Initial Defense Acquisition University Structure
 
 Pub. L. 101–510, div. A, title XII, §1205, Nov. 5, 1990, 104 Stat. 1658, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that, not later than Oct. 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to prescribe regulations for the initial structure for a defense acquisition university under this section and to prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the university structure, and not later than Aug. 1, 1992, the Secretary was to carry out the implementation plan.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

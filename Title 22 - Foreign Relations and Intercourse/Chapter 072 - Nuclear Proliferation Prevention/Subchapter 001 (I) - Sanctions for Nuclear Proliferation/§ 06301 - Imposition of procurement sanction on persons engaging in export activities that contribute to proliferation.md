@@ -88,7 +88,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 #### (1) Criterion for waiver
 
-&emsp;The President may waive the application of the sanction imposed on any person pursuant to this section, after the end of the 12-month period beginning on the date on which thatsanction was imposed on that person, if the President determines and certifies in writing to the Congress that the continued imposition of the sanction would have a serious adverse effect on vital United States interests.
+&emsp;The President may waive the application of the sanction imposed on any person pursuant to this section, after the end of the 12-month period beginning on the date on which that sanction was imposed on that person, if the President determines and certifies in writing to the Congress that the continued imposition of the sanction would have a serious adverse effect on vital United States interests.
 
 #### (2) Notification of and report to Congress
 
@@ -96,9 +96,13 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 (Pub. L. 103–236, title VIII, §821, Apr. 30, 1994, 108 Stat. 508.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (a)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -116,13 +120,15 @@ Pub. L. 103–236, title VIII, §801, Apr. 30, 1994, 108 Stat. 507, provided tha
 
 Pub. L. 103–236, title VIII, §851, Apr. 30, 1994, 108 Stat. 525, which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of Pub. L. 103–236, the provisions of parts A (amending section 3281 of this title) and B (see Effective Date note above) of title VIII of Pub. L. 103–236 were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by Pub. L. 104–164, title I, §157(a), July 21, 1996, 110 Stat. 1440.
 
+#### <b>Executive Documents</b>
+
 #### Assignment of Certain Functions Relating to Procurement Sanctions on Persons Engaging in Export Activities that Contribute to Proliferation
 
 Memorandum of President of the United States, Mar. 5, 2007, 72 F.R. 11283, provided:
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Secretary of Commerce\[, and\] the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
 
 In the performance of their respective functions under this memorandum, the Secretaries of State and Defense shall, as appropriate, consult each other, the Secretaries of the Treasury and Commerce, and the heads of other departments and agencies.
 

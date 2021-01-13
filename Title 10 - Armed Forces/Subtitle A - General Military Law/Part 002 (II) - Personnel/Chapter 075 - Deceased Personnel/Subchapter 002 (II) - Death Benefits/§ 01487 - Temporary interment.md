@@ -1,6 +1,6 @@
 ### §1487. Temporary interment
 
-Whenever necessary for the temporary interment of remains pending transportation under this chapter to a designated cemetery, the Secretary concerned may acquire, and provide for the maintenance of, grave sites in commercial cemeteries, or he may acquire the right to use such grave sites for burial purposes. If the death occurs outside the United States and a temporary commercial grave site is not available on a reasonable basis, the Secretary may acquire land, or the right to use land, necessary for the temporary interment of the remains under this chapter.
+Whenever necessary for the temporary interment of remains pending transportation under this chapter to a designated cemetery, the Secretary concerned may acquire, and provide for the maintenance of, grave sites in commercialcemeteries, or he may acquire the right to use such grave sites for burial purposes. If the death occurs outside the United States and a temporary commercial grave site is not available on a reasonable basis, the Secretary may acquire land, or the right to use land, necessary for the temporary interment of the remains under this chapter.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 115.)
 

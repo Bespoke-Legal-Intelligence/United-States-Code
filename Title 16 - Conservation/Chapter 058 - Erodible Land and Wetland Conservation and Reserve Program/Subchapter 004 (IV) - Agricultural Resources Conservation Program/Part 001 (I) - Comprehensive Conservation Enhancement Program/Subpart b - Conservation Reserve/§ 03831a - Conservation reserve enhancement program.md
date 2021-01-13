@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Management
 
-&emsp;The term "management" means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practice on eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
+&emsp;The term "management" means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practiceon eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
 
 &emsp;&emsp;(A) throughout the term of the contract; and
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agreement under subsection (b)(1) that includes riparian buffersas an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
+&emsp;&emsp;In the case of an agreement under subsection (b)(1) that includes riparian buffers as an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
 
 #### (B) Limitation
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (1) Food-producing woody plants
 
-&emsp;In the case of an agreement under subsection (b)(1) that includes forested riparian buffers as an eligible practice, the Secretary shall allow an owner or operator—
+&emsp;In the case of an agreement under subsection (b)(1) that includes forested riparian buffers asan eligible practice, the Secretary shall allow an owner or operator—
 
 &emsp;&emsp;(A) to plant food-producing woody plants in the forested riparian buffers, on the conditions that—
 

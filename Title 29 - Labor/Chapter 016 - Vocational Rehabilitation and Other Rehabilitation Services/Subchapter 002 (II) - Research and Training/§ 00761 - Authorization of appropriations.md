@@ -2,7 +2,9 @@
 
 There are authorized to be appropriated to carry out this subchapter $103,970,000 for fiscal year 2015, $112,001,000 for fiscal year 2016, $114,325,000 for fiscal year 2017, $116,860,000 for fiscal year 2018, $119,608,000 for fiscal year 2019, and $122,143,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title II, §201, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337,2681–412; Pub. L. 113–128, title IV, §432, July 22, 2014, 128 Stat. 1660.)
+(Pub. L. 93–112, title II, §201, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 113–128, title IV, §432, July 22, 2014, 128 Stat. 1660.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

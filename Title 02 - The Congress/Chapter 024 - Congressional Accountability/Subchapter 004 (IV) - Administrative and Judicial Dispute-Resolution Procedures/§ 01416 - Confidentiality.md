@@ -62,7 +62,7 @@ The records of hearing officers and the Board may be made public if required for
 
 &emsp;In this subsection, the "final disposition" of a claim means any of the following:
 
-&emsp;&emsp;(A) An order or agreement to pay an award or settlement, including an agreement reached pursuant to mediation under section 1403 of this title.
+&emsp;&emsp;(A) An order or agreement to pay an award or settlement, including an agreementreached pursuant to mediation under section 1403 of this title.
 
 &emsp;&emsp;(B) A final decision of a hearing officer under section 1405(g) of this title that is no longer subject to review by the Board under section 1406 of this title.
 
@@ -83,6 +83,8 @@ A final decision entered under section 1405(g) or 1406(e) of this title shall be
 Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee's claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office's defense to the claim, in the course of any proceeding under this subchapter.
 
 (Pub. L. 104–1, title IV, §416, Jan. 23, 1995, 109 Stat. 38; Pub. L. 114–6, §2(c), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–397, title I, §§112, 114, Dec. 21, 2018, 132 Stat. 5311, 5313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +111,8 @@ Subsec. (f). Pub. L. 115–397, §114(b)(4), added subsec. (f). Former subsec. (
 <b>2015</b>—Subsec. (b). Pub. L. 114–6, §2(c)(1), inserted before period at end ", and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement".
 
 Subsec. (c). Pub. L. 114–6, §2(c)(2), inserted at end "The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

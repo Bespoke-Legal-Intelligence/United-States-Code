@@ -54,6 +54,8 @@ Section 31330(c) makes the president or chief executive officer of a corporation
 
 Subsection (a) of this section adds criminal and civil penalties for a preferred mortgagor's failure to carry out certain requirements under chapter 313 of title 46 (as enacted by this Act).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–281, §913(d)(1)(A), inserted "or" after semicolon.
@@ -67,6 +69,8 @@ Subsec. (a)(1)(D). Pub. L. 111–281, §913(d)(1)(C), struck out subpar. (D) whi
 Subsec. (a)(2)(B) to (D). Pub. L. 111–281, §913(d)(2), inserted "or" at end of subpar. (B), substituted "faith." for "faith; or" at end of subpar. (C), and struck out subpar. (D) which read as follows: "does not comply with section 31321(h) of this title."
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324 struck out "31328 or" before "31329" in pars. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

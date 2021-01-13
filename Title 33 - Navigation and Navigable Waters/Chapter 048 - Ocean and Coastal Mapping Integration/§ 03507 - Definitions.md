@@ -36,6 +36,8 @@ In this chapter:
 
 (Pub. L. 111–11, title XII, §12208, Mar. 30, 2009, 123 Stat. 1426.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Presidential Proclamation No. 5030, referred to in par. (4), is set out under section 1453 of Title 16, Conservation.

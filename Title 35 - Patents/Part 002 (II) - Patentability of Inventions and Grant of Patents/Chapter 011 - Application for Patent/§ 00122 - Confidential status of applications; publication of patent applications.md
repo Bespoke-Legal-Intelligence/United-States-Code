@@ -78,6 +78,8 @@ Other requirements.—Any submission under paragraph (1) shall—
 
 This section enacts the Patent Office rule of secrecy of applications.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out ", unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional" after "regarded as abandoned".
@@ -95,6 +97,8 @@ Subsec. (e). Pub. L. 112–29, §8(a), added subsec. (e).
 <b>1999</b>—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: "Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner."
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

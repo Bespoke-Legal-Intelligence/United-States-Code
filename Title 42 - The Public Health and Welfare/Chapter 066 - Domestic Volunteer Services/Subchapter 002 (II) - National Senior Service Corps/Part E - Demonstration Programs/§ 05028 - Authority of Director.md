@@ -6,7 +6,7 @@ The Director is authorized to make grants to or enter into contracts with public
 
 #### (b) Activities
 
-An organization that receives a grant or enters into a contract under subsection (a) may use funds made available through the grant or contract for activities such as—
+An organization that receives a grant or enters into a contract under subsection (a) mayuse funds made available through the grant or contract for activities such as—
 
 &emsp;(1) linking youth groups and older American organizations in volunteer activities;
 

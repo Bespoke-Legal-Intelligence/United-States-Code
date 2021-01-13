@@ -96,7 +96,7 @@ The Administrator shall provide guidance and technical assistance to community w
 
 #### (2) Authority to recognize
 
-&emsp;Consistent with section 12(d) of the National Technology Transfer and Advancement Act of1995, the Administrator shall recognize technical standards that are developed or adopted by third-party organizations or voluntary consensus standards bodies that carry out the objectives or activities required by this section as a means of satisfying the requirements under subsection (a) or (b).
+&emsp;Consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995, the Administrator shall recognize technical standards that are developed or adopted by third-party organizations or voluntary consensus standards bodies that carry out the objectives or activities required by this section as a means of satisfying the requirements under subsection (a) or (b).
 
 #### (g) Technical assistance and grants
 

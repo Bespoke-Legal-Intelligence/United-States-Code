@@ -1,5 +1,7 @@
 ### §1751a. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 29, 1948, ch. 711, §2, 62 Stat. 1091, related to establishment of Bureau of Federal Credit Unions. See section 1752a of this title.

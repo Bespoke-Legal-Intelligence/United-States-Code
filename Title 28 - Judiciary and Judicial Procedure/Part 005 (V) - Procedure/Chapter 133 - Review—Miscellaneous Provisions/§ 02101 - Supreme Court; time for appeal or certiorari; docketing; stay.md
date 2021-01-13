@@ -12,7 +12,7 @@
 
 (f) In any case in which the final judgment or decree of any court is subject to review by the Supreme Court on writ of certiorari, the execution and enforcement of such judgment or decree may be stayed for a reasonable time to enable the party aggrieved to obtain a writ of certiorari from the Supreme Court. The stay may be granted by a judge of the court rendering the judgment or decree or by a justice of the Supreme Court, and may be conditioned on the giving of security, approved by such judge or justice, that if the aggrieved party fails to make application for such writ within the period allotted therefor, or fails to obtain an order granting his application, or fails to make his plea good in the Supreme Court, he shall answer for all damages and costs which the other party may sustain by reason of the stay.
 
-(g) The time for application for a writ of certiorari to review a decision of the United StatesCourt of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
+(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
 
 (June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §106, 63 Stat. 104; Pub. L. 98–209, §10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, §5(b), June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832.)
 
@@ -48,6 +48,8 @@ The new subsection (d) of section 2101 supplies an omission in revised title 28,
 
 The other amendment merely renumbers subsections (d) and (e) of such section 2101 as subsections (e) and (f), respectively.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (g). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals".
@@ -59,6 +61,8 @@ The other amendment merely renumbers subsections (d) and (e) of such section 210
 <b>1949</b>—Subsec. (c). Act May 24, 1949, §106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
 
 Subsecs. (d) to (f). Act May 24, 1949, §106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

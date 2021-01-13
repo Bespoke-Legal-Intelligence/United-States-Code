@@ -56,6 +56,8 @@ Pub. L. 104–106, div. E, §5002, Feb. 10, 1996, 110 Stat. 679.
 
 The text of 40:1401(1) is omitted as unnecessary because the complete name of the Director of the Office of Management and Budget is used the first time the term appears in a section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (1). Pub. L. 115–232, in heading, substituted "Commercial product" for "Commercial item" and, in text, substituted "The term 'commercial product' has" for "The term 'commercial item' has".
@@ -68,9 +70,13 @@ Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted "section 133 of title 41
 
 Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted "ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer," for "ancillary equipment,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13011
 
@@ -80,7 +86,7 @@ Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 132
 
 Ex. Ord. No. 13103, Sept. 30, 1998, 63 F.R. 53273, provided:
 
-The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with ourinternational trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It shall be the policy of the United States Government that each executive agency shall work diligently to prevent and combat computer software piracy in order to give effect to copyrights associated with computer software by observing the relevant provisions of international agreements in effect in the United States, including applicable provisions of the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights, the Berne Convention for the Protection of Literary and Artistic Works, and relevant provisions of Federal law, including the Copyright Act.
 
@@ -110,7 +116,7 @@ Sec. 2. <i>Responsibilities of Agency Heads</i>. In connection with the acquisit
 
 Sec. 3. <i>Chief Information Officers Council</i>. The Chief Information Officers Council ("Council") established by section 3 of Executive Order No. 13011 of July 16, 1996 \[set out above\], shall be the principal interagency forum to improve executive agency practices regarding the acquisition and use of computer software, and monitoring and combating the use of unauthorized computer software. The Council shall provide advice and make recommendations to executive agencies and to the Office of Management and Budget regarding appropriate government-wide measures to carry out this order. The Council shall issue its initial recommendations within 6 months of the date of this order.
 
-Sec. 4. <i>Office of Management and Budget</i>. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act \[probably means the Clinger-Cohen Act of 1996, div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3 of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
+Sec. 4. <i>Office of Management and Budget</i>. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act \[probably means the Clinger-Cohen Act of 1996, div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
 
 Sec. 5. <i>Definition</i>. "Executive agency" and "agency" have the meaning given to that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
 

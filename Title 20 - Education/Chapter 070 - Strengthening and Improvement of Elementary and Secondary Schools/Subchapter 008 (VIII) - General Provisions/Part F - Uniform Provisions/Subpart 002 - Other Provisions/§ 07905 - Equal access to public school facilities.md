@@ -36,7 +36,7 @@ This section may be cited as the "Boy Scouts of America Equal Access Act".
 
 #### (2) Rule
 
-&emsp;For the purpose of this section, an elementary school or secondary school has a limited public forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
+&emsp;For the purpose of this section, an elementary school or secondary school has a limitedpublic forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
 
 (Pub. L. 89–10, title VIII, §8525, formerly title IX, §9525, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1981; renumbered title VIII, §8525, Pub. L. 114–95, title VIII, §8001(a)(6), Dec. 10, 2015, 129 Stat. 2088, 2089.)
 

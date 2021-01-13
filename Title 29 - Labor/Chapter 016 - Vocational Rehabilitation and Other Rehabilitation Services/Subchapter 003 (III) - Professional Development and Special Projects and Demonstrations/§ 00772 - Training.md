@@ -28,7 +28,7 @@
 
 #### (3) Related Federal statutes
 
-&emsp;In carrying out this subsection, the Commissioner may make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training regarding provisions of Federal statutes, including section 794 of this title, title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.), and the provisions of titles II and XVI of the Social Security Act (42 U.S.C. 401 et seq. and 1381 et seq.), that are related to work incentives for individuals with disabilities.
+&emsp;In carrying out this subsection, the Commissioner may make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training regarding provisions of Federal statutes, including section 794 of this title, title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.), and the provisions of titles II and XVI of the Social Security Act (42U.S.C. 401 et seq. and 1381 et seq.), that are related to work incentives for individuals with disabilities.
 
 #### (4) Training for statewide workforce systems personnel
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&nbsp;within a period, beginning after the recipient completes the training for which the scholarship was awarded, of not more than the sum of the number of years in the period described in subclause (III) and 2 additional years; and
 
-&emsp;&emsp;&emsp;(ii) repay all or part of any scholarship received, plus interest, if the individualdoes not fulfill the requirements of clause (i),
+&emsp;&emsp;&emsp;(ii) repay all or part of any scholarship received, plus interest, if the individual does not fulfill the requirements of clause (i),
 
 > &emsp;&emsp;except as the Commissioner by regulation may provide for repayment exceptions and deferrals.
 
@@ -191,6 +191,8 @@ The Commissioner, subject to the provisions of section 776 of this title, may re
 There are authorized to be appropriated to carry out this section $33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.
 
 (Pub. L. 93–112, title III, §302, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1184; amended Pub. L. 108–446, title III, §305(h)(4), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, §441(b), July 22, 2014, 128 Stat. 1672.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

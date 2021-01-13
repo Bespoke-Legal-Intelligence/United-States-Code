@@ -2,7 +2,7 @@
 
 #### (a) Relief of housing shortage; advances
 
-In order to assist in relieving the acute shortage of housing which now exists and to promote the production of housing for veterans of World War II at moderate prices or rentals within their reasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to finance the manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
+In order to assist in relieving the acute shortage of housing which now exists and to promote the production of housing for veterans of World War II at moderate prices or rentals within theirreasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to finance the manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
 
 #### (b) Eligibility requirements
 
@@ -30,7 +30,7 @@ Debentures issued under this section shall be issued in accordance with the prov
 
 #### (f) Applicability of other provisions
 
-The provisions of sections 1713(k) and 1738(a) of this title shall be applicable to loans insured under this section, except that as applied to such loans (1) the reference in section 1713(k) of this title to "subsection (g)" shall be construed to refer to "subsection (d)" of this section; (2) the references in section 1713(k) of this title to insured mortgages shall be construed to refer to the assignment or other security for loans insured under this section; and (3) the references in section 1738(a) of this title to a mortgage or mortgages shall be construed to include a loan or loans under this section. The provisions of section 1738(d) of this title shall also be applicable to loans insured under this section and the reference in section 1738(d) of this title to a mortgage shall be construed to include a loan or loans with respect to which a contract of insurance is issued pursuant to this section.
+The provisions of sections 1713(k) and 1738(a) of this title shall be applicable to loans insured under this section, except that as applied to such loans (1) the reference in section 1713(k) of this title to "subsection (g)" shall be construed to refer to "subsection (d)" of this section; (2) the references in section 1713(k) of this title to insured mortgages shall be construed to refer to the assignment or other security for loans insured under this section; and (3) the references in section 1738(a) of this title to a mortgage or mortgages shall be construed to include a loan or loans under this section. The provisions of section 1738(d) of this title shall also be applicable to loans insured under this section and the reference in section 1738(d) of this title to amortgage shall be construed to include a loan or loans with respect to which a contract of insurance is issued pursuant to this section.
 
 #### (g) Disposal of evidence of debt, contract, claim, personal property, or security; collection or compromise of obligations and rights
 
@@ -53,6 +53,8 @@ The Secretary shall fix a premium charge for the insurance granted under this se
 (5) The Secretary is authorized to fix a premium charge for the insurance granted under this subsection, in addition to the premium charge authorized under subsection (h) of this section. Such premium charge shall not exceed an amount equivalent to 1 per centum of the original principal of such promissory note or notes and shall be paid at such time and in such manner as may be prescribed by the Secretary.
 
 (June 27, 1934, ch. 847, title VI, §609, as added June 30, 1947, ch. 163, title I, §3, 61 Stat. 193; amended Aug. 10, 1948, ch. 832, title I, §101(d), 62 Stat. 1269; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 89–117, title XI, §1108(r), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

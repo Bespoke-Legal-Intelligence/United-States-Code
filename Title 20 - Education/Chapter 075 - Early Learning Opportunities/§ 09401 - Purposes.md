@@ -46,7 +46,7 @@ Findings.—Congress finds that—
 
 &emsp;"(10) several cost-benefit analysis studies indicate that for each $1 invested in quality early learning programs, the Federal Government can save over $5 by reducing the number of children and families who participate in Federal Government programs like special education and welfare;
 
-&emsp;"(11) for children placed in the care of others during the workday, the low salaries paid to the child carestaff, the lack of career progression for the staff, and the lack of child development specialists involved in early learning and child care programs, make it difficult to attract and retain the quality of staff necessary for a positive early learning experience;
+&emsp;"(11) for children placed in the care of others during the workday, the low salaries paid to the child care staff, the lack of career progression for the staff, and the lack of child development specialists involved in early learning and child care programs, make it difficult to attract and retain the quality of staff necessary for a positive early learning experience;
 
 &emsp;"(12) Federal Government support for early learning has primarily focused on out-of-home care programs like those established under the Head Start Act \[42 U.S.C. 9831 et seq.\], the Child Care and Development Block Grant \[Act\] of 1990 \[42 U.S.C. 9857 et seq.\], and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], and these programs—
 

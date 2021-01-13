@@ -6,7 +6,7 @@ Subject to subsection (b), the President shall cause to be published in the Fede
 
 #### (1) Determinations of governments, officials, and entities of particular concern
 
-&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title. Any designation of a non-state actor as an entity of particular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.
+&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title. Any designation of a non-state actor as an entity ofparticular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.
 
 #### (2) Presidential actions
 
@@ -30,11 +30,13 @@ The President may limit publication of information under this section in the sam
 
 (Pub. L. 105–292, title IV, §408, Oct. 27, 1998, 112 Stat. 2808; Pub. L. 114–281, title III, §305, Dec. 16, 2016, 130 Stat. 1436.)
 
-#### Amendments
-
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–281 inserted at end "Any designation of a non-state actor as an entity of particular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section."
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–281 inserted at end "Any designation of a non-state actor as an entity of particular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section."
 

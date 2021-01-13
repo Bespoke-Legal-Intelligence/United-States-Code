@@ -42,7 +42,7 @@
 
 #### (2) Term
 
-&emsp;The term of office of a Deputy Executive Director shall be not more than 2 terms of 5years, except that the first Deputy Executive Directors shall have a single term of 6 years.
+&emsp;The term of office of a Deputy Executive Director shall be not more than 2 terms of 5 years, except that the first Deputy Executive Directors shall have a single term of 6 years.
 
 #### (3) Compensation
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the relative merits of securing private counsel, designating a non-attorney representative, or proceeding without representation for proceedings before the Office;
 
-&emsp;&emsp;&emsp;(iii) advising and consulting with, on a privileged and confidential basis, a coveredemployee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
+&emsp;&emsp;&emsp;(iii) advising and consulting with, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
 
 &emsp;&emsp;&emsp;(iv) assisting, on a privileged and confidential basis, a covered employee who seeks consideration under title IV of an allegation of a violation of part A of subchapter II in understanding the procedures, and the significance of the procedures, described in subchapter IV, including—
 
@@ -200,11 +200,13 @@ In carrying out the functions of the Office, the Executive Director may procure 
 
 (Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, §1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §2(a), Dec. 26, 2007, 121 Stat. 2459; Pub. L. 115–397, title II, §204, Dec. 21, 2018, 132 Stat. 5318; Pub. L. 116–94, div. E, title II, §212(a)(3)(C), Dec. 20, 2019, 133 Stat. 2775.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), (B), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classifiedprincipally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
 
@@ -229,6 +231,8 @@ Subsec. (c)(2). Pub. L. 110–161, §1101(b)(3), added par. (2) and struck out h
 Subsec. (c)(5). Pub. L. 110–164, §2(a)(3), substituted "not more than 2 terms" for "a single term".
 
 Subsec. (e). Pub. L. 110–161, §1101(b)(4), substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

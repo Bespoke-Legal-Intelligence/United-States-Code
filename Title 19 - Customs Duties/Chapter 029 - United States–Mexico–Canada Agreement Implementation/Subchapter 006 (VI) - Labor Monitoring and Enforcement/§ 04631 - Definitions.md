@@ -1,0 +1,18 @@
+### §4631. Definitions
+
+In this subchapter:
+
+#### (1) Labor attaché
+
+&emsp;The term "labor attaché" means an individual hired under part B.
+
+#### (2) Labor obligations
+
+&emsp;The term "labor obligations" means the obligations under chapter 23 of the USMCA (relating to labor).
+
+#### (3) Mexico's labor reform
+
+&emsp;The term "Mexico's labor reform" means the legislation on labor reform enacted by Mexico on May 1, 2019.
+
+(Pub. L. 116–113, title VII, §701, Jan. 29, 2020, 134 Stat. 80.)
+

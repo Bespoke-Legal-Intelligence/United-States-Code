@@ -38,7 +38,7 @@ In this section, the term "eligible institution" means an institution of higher 
 
 &emsp;&emsp;&emsp;(i) A graduate school or department of such institution.
 
-&emsp;&emsp;&emsp;(ii) A graduate school or department of such institution in collaboration with anundergraduate college or school of such institution.
+&emsp;&emsp;&emsp;(ii) A graduate school or department of such institution in collaboration with an undergraduate college or school of such institution.
 
 &emsp;&emsp;&emsp;(iii) An organizational unit within such institution that offers a program of postbaccalaureate study leading to a graduate degree, including an interdisciplinary or an interdepartmental program.
 
@@ -110,7 +110,7 @@ In this section, the term "eligible institution" means an institution of higher 
 
 #### (1) Authorization
 
-&emsp;An eligible institution that receives a grant under this section shall use the grant funds to make fellowship awards to minorities and women who are enrolled at such institution in a doctoral degree program, or program for the highest possible degree available, and—
+&emsp;An eligible institution that receives a grant under this section shall use the grant funds tomake fellowship awards to minorities and women who are enrolled at such institution in a doctoral degree program, or program for the highest possible degree available, and—
 
 &emsp;&emsp;(A) intend to pursue a career in instruction at—
 

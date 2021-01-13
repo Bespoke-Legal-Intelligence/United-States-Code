@@ -28,7 +28,7 @@ The purposes of the technology transfer program under this section are to—
 
 #### (c) Identification
 
-Pursuant to the agreements required by subsection (a), the Secretary, through the Agencyfor International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
+Pursuant to the agreements required by subsection (a), the Secretary, through the Agency for International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
 
 #### (d) Financial mechanisms
 
@@ -52,7 +52,7 @@ Pursuant to the agreements required by subsection (a), the Secretary, through th
 
 (1) Pursuant to the agreements under subsection (a), the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) which propose to utilize a United States renewable energy technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
-(2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
+(2) The solicitation under this subsection shall, to the extent appropriate, be modeledafter the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
 
 (3) Any solicitation made under this subsection shall include the following requirements:
 

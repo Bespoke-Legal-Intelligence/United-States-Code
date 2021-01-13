@@ -50,7 +50,7 @@ Such advances shall be made upon the note or obligation of the member secured as
 
 #### (d) Obligation to repay; additional security; sale of advances to other banks
 
-The institution applying for an advance shall enter into a primary and unconditional obligation to pay off all advances, together with interest and any unpaid costs and expenses in connection therewith according to the terms under which they were made, in such form as shall meet the requirements of the bank. The bank shall reserve the right to require at any time, when deemed necessary for its protection, deposits of additional collateral security or substitutions of security by the borrowing institution, and each borrowing institution shall assign additional or substituted security when and as so required. Any Federal Home Loan Bank shall have power to sell to any other Federal Home Loan Bank, with or without recourse, any advance made under the provisions of this chapter, or to allow to such bank a participation therein, and any other Federal Home Loan Bank shall have power to purchase such advance or to accept a participation therein, together with an appropriate assignment of security therefor.
+The institution applying for an advance shall enter into a primary and unconditional obligation to pay off all advances, together with interest and any unpaid costs and expenses in connection therewith according to the terms under which they were made, in such form as shall meet the requirements of the bank. The bank shall reserve the right to require at any time, when deemed necessary for its protection, deposits of additional collateral security or substitutions of security by the borrowing institution, and each borrowing institution shall assign additional or substituted security when and as sorequired. Any Federal Home Loan Bank shall have power to sell to any other Federal Home Loan Bank, with or without recourse, any advance made under the provisions of this chapter, or to allow to such bank a participation therein, and any other Federal Home Loan Bank shall have power to purchase such advance or to accept a participation therein, together with an appropriate assignment of security therefor.
 
 #### (e) Priority of certain secured interests
 
@@ -256,13 +256,15 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public\(including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
+&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
 
 #### (B) Proprietary information
 
 &emsp;&emsp;Not withstanding subparagraph (A), the Director may not provide public access to, or disclose to the public, any information required to be submitted under this subsection that the Director determines is proprietary or that would provide personally identifiable information and that is not otherwise publicly accessible through other forms, unless the Director determines that it is in the public interest to provide such information.
 
-(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
+(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -385,6 +387,8 @@ Subsec. (b)(1). Act May 28, 1935, §6, substituted "twenty" for "fifteen" and om
 <b>1934</b>—Subsec. (a). Act June 27, 1934, amended subsec. (a) generally.
 
 Subsec. (b). Act Apr. 27, 1934, inserted "unless the amount," etc. to end of first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

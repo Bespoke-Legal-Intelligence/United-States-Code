@@ -54,9 +54,9 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 (1) Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying out contracts, grant agreements and cooperative agreements pursuant to this chapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
 
-(2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises as defined in section 1452 of this title, except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
+(2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises (as defined in section 1452 of this title), except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
 
-(3)(A) Any policy of insurance obtained or provided by the Secretary pursuant to this subsection shall contain a provision that the insurance carrier shall waive any right it may have to raise as a defense the sovereign immunity of an Indian tribe from suit, but that such waiver shall extend only to claims the amount and nature of which are within the coverage and limits of the policy and shall not authorize or empower such insurance carrier to waive or otherwise limit the tribe's sovereign immunity outside or beyond the coverage or limits of the policy of insurance.
+(3)(A) Any policy of insurance obtained or provided by the Secretary pursuant to this subsection shall contain a provision that the insurance carrier shall waive any right it may haveto raise as a defense the sovereign immunity of an Indian tribe from suit, but that such waiver shall extend only to claims the amount and nature of which are within the coverage and limits of the policy and shall not authorize or empower such insurance carrier to waive or otherwise limit the tribe's sovereign immunity outside or beyond the coverage or limits of the policy of insurance.
 
 (B) No waiver of the sovereign immunity of an Indian tribe pursuant to this paragraph shall include a waiver to the extent of any potential liability for interest prior to judgment or for punitive damages or for any other limitation on liability imposed by the law of the State in which the alleged injury occurs.
 
@@ -74,7 +74,25 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 &emsp;(B) by an administrative judge.
 
-(Pub. L. 93–638, title I, §102, formerly §§102 and 103(c), Jan. 4, 1975, 88 Stat. 2206; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, §201, Sept. 27, 1988, 102 Stat. 1817; renumbered §102 and amended Pub. L. 100–472, title II, §201(a), (b)(1), Oct. 5, 1988, 102 Stat. 2288, 2289; Pub. L. 100–581, title II, §210, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–644, title II, §203(b), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(5)–(9), Oct. 25, 1994, 108 Stat. 4251–4253; Pub. L. 106–260, §6, Aug. 18, 2000, 114 Stat. 732.)
+#### (f) Good faith requirement
+
+In the negotiation of contracts and funding agreements, the Secretary shall—
+
+&emsp;(1) at all times negotiate in good faith to maximize implementation of the self-determination policy; and
+
+&emsp;(2) carry out this chapter in a manner that maximizes the policy of Tribal self-determination, in a manner consistent with—
+
+&emsp;&emsp;(A) the purposes specified in section 5302 of this title; and
+
+&emsp;&emsp;(B) the PROGRESS for Indian Tribes Act.
+
+#### (g) Rule of construction
+
+Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.
+
+(Pub. L. 93–638, title I, §102, formerly §§102 and 103(c), Jan. 4, 1975, 88 Stat. 2206; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, §201, Sept. 27, 1988, 102 Stat. 1817; renumbered §102 and amended Pub. L. 100–472, title II, §201(a), (b)(1), Oct. 5, 1988, 102 Stat. 2288, 2289; Pub. L. 100–581, title II, §210, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–644, title II, §203(b), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(5)–(9), Oct. 25, 1994, 108 Stat. 4251–4253; Pub. L. 106–260, §6, Aug. 18, 2000, 114 Stat. 732; Pub. L. 116–180, title II, §202, Oct. 21, 2020, 134 Stat. 879.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -82,9 +100,13 @@ Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, c
 
 Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsec. (c)(1), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1), (f)(2), and (g), was in the original "this Act", meaning Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+The PROGRESS for Indian Tribes Act, referred to in subsec. (f)(2)(B), is Pub. L. 116–180, Oct. 21, 2020, 134 Stat. 857, also known as the Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 5301 of this title and Tables.
+
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (g), is section 101(a) of Pub. L. 116–180, which is set out as a note under section 5361 of this title.
 
 #### Codification
 
@@ -94,11 +116,15 @@ Subsec. (d) of this section was formerly classified to the last sentence of subs
 
 #### Amendments
 
+<b>2020</b>—Subsec. (c)(2). Pub. L. 116–180, §202(1), substituted "economic enterprises (as defined in section 1452 of this title), except that" for "economic enterprises as defined in section 1452 of this title, except that".
+
+Subsecs. (f), (g). Pub. L. 116–180, §202(2), added subsecs. (f) and (g).
+
 <b>2000</b>—Subsec. (e)(1). Pub. L. 106–260 inserted "or any civil action conducted pursuant to section 5331(a) of this title" after "subsection (b)(3) of this section".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(5), inserted concluding provisions.
 
-Subsec. (a)(2). Pub. L. 103–413, §102(6)(A)(i), (ii), (vi), inserted ", or a proposal to amend or renew a self-determination contract," before "to the Secretary for review" in first sentence and, in second sentence, substituted "Subject to the provisions of paragraph (4), theSecretary" for "The Secretary", inserted "and award the contract" after "approve the proposal", substituted "the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that" for ", within sixty days of receipt of the proposal, a specific finding is made that", and inserted concluding provisions.
+Subsec. (a)(2). Pub. L. 103–413, §102(6)(A)(i), (ii), (vi), inserted ", or a proposal to amend or renew a self-determination contract," before "to the Secretary for review" in first sentence and, in second sentence, substituted "Subject to the provisions of paragraph (4), the Secretary" for "The Secretary", inserted "and award the contract" after "approve the proposal", substituted "the Secretary provides written notification to the applicant that contains a specific finding that clearly demonstrates that, or that is supported by a controlling legal authority that" for ", within sixty days of receipt of the proposal, a specific finding is made that", and inserted concluding provisions.
 
 Subsec. (a)(2)(D), (E). Pub. L. 103–413, §102(6)(A)(iii)–(v), added subpars. (D) and (E).
 
@@ -121,6 +147,8 @@ Subsec. (d). Pub. L. 100–472, §201(b)(1), redesignated the last sentence of s
 Pub. L. 100–446 inserted into sentence beginning "For purposes of" the words "by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations" after "claims", "prior to, including, or after December 22, 1987," after "performance", "an Indian tribe," after "investigations," and ": <i>Provided</i>, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor" after "the contract or agreement".
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–202 inserted sentence at end deeming a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement to be part of the Public Health Service while carrying out any such contract or agreement and its employees to be employees of the Service while acting within the scope of their employment in carrying out the contract or agreement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

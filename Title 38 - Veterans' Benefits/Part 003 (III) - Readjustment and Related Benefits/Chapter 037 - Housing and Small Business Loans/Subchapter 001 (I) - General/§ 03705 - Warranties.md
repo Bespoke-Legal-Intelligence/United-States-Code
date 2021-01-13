@@ -6,6 +6,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1206, §1805; Pub. L. 94–324, §7(9), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §15(a)(1), June 13, 1991, 105 Stat. 288; renumbered §3705, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1202(a)(2), Nov. 2, 1994, 108 Stat. 4689.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–54, §15(a)(1)(A). See 1991 Amendment note below.
@@ -19,6 +21,8 @@ Pub. L. 102–54, §15(a)(1)(A), as amended by Pub. L. 103–446, substituted "a
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" and "Secretary's" for "Administrator" and "Administrator's", respectively, wherever appearing.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted "the Administrator's" for "his" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

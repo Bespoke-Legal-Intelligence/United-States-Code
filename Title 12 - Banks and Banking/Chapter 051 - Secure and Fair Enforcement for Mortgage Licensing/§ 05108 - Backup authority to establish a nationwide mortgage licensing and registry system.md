@@ -4,9 +4,13 @@ If at any time the Director determines that the Nationwide Mortgage Licensing Sy
 
 (Pub. L. 110–289, div. A, title V, §1509, July 30, 2008, 122 Stat. 2819; Pub. L. 111–203, title X, §1100(3), July 21, 2010, 124 Stat. 2106.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

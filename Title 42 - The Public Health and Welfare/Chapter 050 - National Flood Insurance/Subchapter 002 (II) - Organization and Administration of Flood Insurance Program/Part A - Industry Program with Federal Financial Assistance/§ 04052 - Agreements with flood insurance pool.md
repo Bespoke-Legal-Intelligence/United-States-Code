@@ -16,7 +16,7 @@ Such agreements shall specify—
 
 &emsp;(4) the terms and conditions under which operating costs and allowances set forth in the schedules prescribed under section 4018 of this title may be paid, and
 
-&emsp;(5) the terms and conditions under which premium equalization payments under section 4054 of this title will be made and reinsurance claims under section 4055 of this title will be paid.
+&emsp;(5) the terms and conditions under which premium equalization payments under section4054 of this title will be made and reinsurance claims under section 4055 of this title will be paid.
 
 #### (c) Additional provisions
 

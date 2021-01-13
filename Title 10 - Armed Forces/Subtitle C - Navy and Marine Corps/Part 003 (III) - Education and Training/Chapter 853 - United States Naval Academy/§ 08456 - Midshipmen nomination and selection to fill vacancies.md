@@ -54,7 +54,7 @@ In subsection (b) the provision authorizing the Secretary of the Navy to nominat
 
 Reference in subsection (e) to the strength of the "brigade of midshipmen" is dropped, since there is no statutory requirement that the midshipmen at the Academy be so organized, and the term is a recognition of current organization only. The language authorizing the Secretary, in his discretion, to nominate additional midshipmen to meet the needs of the armed services but not to exceed the authorized strength of the Academy is changed to authorize the Secretary to "fill the vacancies by nominating additional midshipmen". In exercising his discretion under this subsection, these factors are necessarily considered by the Secretary, irrespective of a specific provision so instructing him.
 
-In subsection (f) the word "admission" is changed to the word "appointment", since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons forfailure to complete the course is omitted as unnecessary.
+In subsection (f) the word "admission" is changed to the word "appointment", since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 88–276, §3(2), substituted "three-fourths of those nomin
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1973 Amendment
 

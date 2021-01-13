@@ -22,6 +22,8 @@
 
 (Added Pub. L. 105–264, §5(b), Oct. 19, 1998, 112 Stat. 2355; amended Pub. L. 109–325, §1(a), Oct. 11, 2006, 120 Stat. 1760; Pub. L. 111–112, §1(a), Nov. 30, 2009, 123 Stat. 3024.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(3). Pub. L. 111–112, §1(a)(1), struck out par. (3) which read as follows: "Nothing in this section is intended to limit the authority of any agency to conduct test programs."
@@ -37,6 +39,8 @@ Subsec. (e). Pub. L. 111–112, §1(a)(5), added subsec. (e) and struck out form
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–325, §1(a)(1), struck out "for a period not to exceed 24 months" after "disbursing official".
 
 Subsec. (e). Pub. L. 109–325, §1(a)(2), substituted "11 years" for "7 years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

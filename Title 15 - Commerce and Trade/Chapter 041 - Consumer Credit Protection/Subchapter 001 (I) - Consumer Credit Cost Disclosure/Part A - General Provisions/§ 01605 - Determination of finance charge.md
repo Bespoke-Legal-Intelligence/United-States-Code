@@ -2,7 +2,7 @@
 
 #### (a) "Finance charge" defined
 
-Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
+Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided anddoes not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
 
 &emsp;(1) Interest, time price differential, and any amount payable under a point, discount, or other system or additional charges.
 
@@ -76,7 +76,7 @@ In connection with credit transactions not under an open end credit plan that ar
 
 > &emsp;&emsp;if the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one percent of the total amount of credit extended.
 
-(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L.111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Pub. L. 104–29, §2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that: "The 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 

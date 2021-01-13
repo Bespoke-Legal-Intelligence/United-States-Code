@@ -52,6 +52,8 @@
 
 (Added Pub. L. 109–8, title VI, §601(a), Apr. 20, 2005, 119 Stat. 119; amended Pub. L. 111–327, §2(c)(2), Dec. 22, 2010, 124 Stat. 3563.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(3)(H), are set out in the Appendix to Title 11, Bankruptcy.
@@ -59,6 +61,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(3)(H), are
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(3)(H). Pub. L. 111–327 inserted "the" after "against".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

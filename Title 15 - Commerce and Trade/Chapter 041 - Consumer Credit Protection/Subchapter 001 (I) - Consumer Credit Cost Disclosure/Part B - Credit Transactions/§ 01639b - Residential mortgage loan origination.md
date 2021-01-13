@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any mortgage loan, a mortgage originator may not receive from any person other than the consumer and no person, other than the consumer, who knows or has reason to know that a consumer has directly compensated or will directly compensate a mortgage originator may pay a mortgage originator any origination fee or charge except bona fide third party charges not retained by the creditor, mortgage originator, or an affiliate of the creditor or mortgage originator.
+&emsp;&emsp;For any mortgage loan, a mortgage originator may not receive from any person otherthan the consumer and no person, other than the consumer, who knows or has reason to know that a consumer has directly compensated or will directly compensate a mortgage originator may pay a mortgage originator any origination fee or charge except bona fide third party charges not retained by the creditor, mortgage originator, or an affiliate of the creditor or mortgage originator.
 
 #### (B) Exception
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(ii) mischaracterizing or suborning the mischaracterization of the appraised value of the property securing the extension of credit; or
 
-&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principaldwelling from another mortgage originator.
+&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
 
 #### (4) Rules of construction
 
@@ -92,7 +92,7 @@
 
 #### (1) In general
 
-&emsp;The Bureau shall, by regulations, prohibit or condition terms, acts or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section 1639c of this title, necessary or proper to effectuate the purposes of this section and section 1639c of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.
+&emsp;The Bureau shall, by regulations, prohibit or condition terms, acts or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section1639c of this title, necessary or proper to effectuate the purposes of this section and section 1639c of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.
 
 #### (2) Application
 

@@ -4,7 +4,7 @@
 
 (b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination. If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.
 
-(c) Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such awardor presentation is submitted in a timely manner as prescribed by law or regulation.
+(c) Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
 
 (d) In this section:
 
@@ -108,7 +108,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 "(d)
 
-Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
+Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shallsubmit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 "(2) The report shall include, with respect to each request for consideration received, the following information:
 

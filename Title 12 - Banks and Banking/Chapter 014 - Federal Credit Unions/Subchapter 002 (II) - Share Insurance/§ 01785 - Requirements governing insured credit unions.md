@@ -38,7 +38,7 @@ Conversion of insured credit unions to mutual savings banks.—
 
 &emsp;(A)
 
-In general.—Notwithstanding paragraph (1), an insured credit union may convert to amutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
 &emsp;(B)
 
@@ -68,7 +68,7 @@ Limit on compensation of officials.—
 
 &emsp;&emsp;(i)
 
-In general.—No director or senior management official of an insured credit union may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
+In general.—No director or senior management official of an insured creditunion may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
 
 &emsp;&emsp;&emsp;(I) director fees; and
 
@@ -204,6 +204,8 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 (June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, §362(2), July 21, 2010, 124 Stat. 1549.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
@@ -251,6 +253,8 @@ Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the
 Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
 <b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing, and "its" for "his" where appropriate.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

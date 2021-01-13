@@ -48,7 +48,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 #### (4) Meetings
 
-&emsp;The Board shall meet at the call of the Chairman and there shall be at least two meetings each year. A majority of the voting members of the Board serving at any one time shall constitute a quorum for the transaction of business. The Foundation shall have an official seal, which shall be judicially noticed. Voting membership on the Board shall not be deemed to be an office within the meaning of the laws of the United States.
+&emsp;The Board shall meet at the call of the Chairman and there shall be at least twomeetings each year. A majority of the voting members of the Board serving at any one time shall constitute a quorum for the transaction of business. The Foundation shall have an official seal, which shall be judicially noticed. Voting membership on the Board shall not be deemed to be an office within the meaning of the laws of the United States.
 
 #### (d) Compensation and expenses
 
@@ -116,6 +116,8 @@ As used in this section—
 
 (Pub. L. 102–372, §4, Sept. 30, 1992, 106 Stat. 1171; Pub. L. 104–288, §9(b), Oct. 11, 1996, 110 Stat. 3407.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 4 of Pub. L. 102–372. Subsec. (n) of section 4 of Pub. L. 102–372 amended section 2123(a) of this title.
@@ -125,6 +127,8 @@ Section was enacted as part of the Tourism Policy and Export Promotion Act of 19
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(1)(B)(i), (2). Pub. L. 104–288 substituted "Secretary of Commerce" for "Under Secretary of Commerce for Travel and Tourism".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

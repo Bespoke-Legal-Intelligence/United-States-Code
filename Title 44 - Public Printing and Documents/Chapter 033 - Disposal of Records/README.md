@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–187, §7(b), Nov. 26, 2014, 128 Stat. 2011, struck out items 3315 "Definitions", 3316 "Establishment of Commission", 3317 "Duties of Commission", 3318 "Membership", 3319 "Director and staff; experts and consultants", 3320 "Powers of Commission", 3321 "Support services", 3322 "Report", 3323 "Termination", and 3324 "Authorization of appropriations".

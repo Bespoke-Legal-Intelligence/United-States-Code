@@ -40,6 +40,8 @@ In subsection (a), the words "has received" are substituted for "who have receiv
 
 In subsection (b), the word "may" is substituted for "shall have the power, moreover, to" for consistency and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–207 substituted "the parents, spouse, siblings, and lineal descendants" for "parents and lineal descendants".

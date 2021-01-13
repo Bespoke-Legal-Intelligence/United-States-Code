@@ -14,5 +14,5 @@ Section 6661, added Pub. L. 97–248, title III, §323(a), Sept. 3, 1982, 96 Sta
 
 #### Effective Date of Repeal
 
-Repeal applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
+Repeal applicable to returns the due date for which (determined without regard to extensions) is after Dec.31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
 

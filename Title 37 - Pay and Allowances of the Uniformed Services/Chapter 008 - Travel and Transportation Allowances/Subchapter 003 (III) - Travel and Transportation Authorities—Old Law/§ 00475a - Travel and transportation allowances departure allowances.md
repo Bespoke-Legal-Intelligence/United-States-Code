@@ -8,15 +8,17 @@
 
 &emsp;(3) a dependent who established a household at or in the vicinity of the member's duty station but who is temporarily absent therefrom for any reason when departure of dependents is authorized or ordered by competent authority; and
 
-&emsp;(4) a dependent who was authorized to join the member and who departed from his former place of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was authorized or ordered.
+&emsp;(4) a dependent who was authorized to join the member and who departed from his formerplace of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was authorized or ordered.
 
-(b)(1) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled tohave one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
+(b)(1) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled to have one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
 
 (2) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under paragraph (1) does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
 (c) During and after the travel authorities expiration date, no allowance under subsection (a) or transportation or reimbursement under subsection (b) may be provided with respect to an authority or order to depart.
 
 (Added Pub. L. 89–26, §1(1), May 22, 1965, 79 Stat. 116, §405a; amended Pub. L. 89–608, §2, Sept. 30, 1966, 80 Stat. 851; Pub. L. 96–465, title II, §2303(e), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–60, title I, §§121(c), 123, Oct. 14, 1981, 95 Stat. 1002, 1003; Pub. L. 99–661, div. A, title XIII, §1343(b)(3), Nov. 14, 1986, 100 Stat. 3995; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §625(b)(1), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 104–106, div. A, title VI, §622(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 105–261, div. A, title VI, §653(c), Oct. 17, 1998, 112 Stat. 2052; renumbered §475a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(5), Dec. 31, 2011, 125 Stat. 1460, 1462.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 97–60, §121(c), substituted "that is owned by the member
 <b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted "to depart" and "departure" for "evacuated" and "evacuation", respectively, wherever appearing.
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

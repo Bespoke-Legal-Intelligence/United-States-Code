@@ -10,7 +10,7 @@ No information acquired pursuant to this subchapter shall be disclosed for law e
 
 #### (c) Notification by United States
 
-Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrievedperson and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
+Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
 
 #### (d) Notification by States or political subdivisions
 
@@ -52,7 +52,7 @@ If an emergency employment of electronic surveillance is authorized under subsec
 
 &emsp;(3) the fact that during the period information was or was not obtained.
 
-> On an ex parte showing of good cause to the judge the serving of the notice required by this subsection may be postponed or suspended for aperiod not to exceed ninety days. Thereafter, on a further ex parte showing of good cause, the court shall forego ordering the serving of the notice required under this subsection.
+> On an ex parte showing of good cause to the judge the serving of the notice required by this subsection may be postponed or suspended for a period not to exceed ninety days. Thereafter, on a further ex parte showing of good cause, the court shall forego ordering the serving of the notice required under this subsection.
 
 #### (k) Coordination with law enforcement on national security matters
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Report on Mechanisms for Determinations of Disclosure of Information for Law Enforcement Purposes
 

@@ -20,7 +20,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 &emsp;(B) notify the plan sponsor of the new plan of the benefits, assets, and liabilities which will be transferred to the new plan.
 
-(3) Within 60 days after receipt of the notice described in paragraph (2)(B), the new plan may file an appeal with the corporation to preventthe transfer. The transfer shall not be made if the corporation determines that the new plan would suffer substantial financial harm as a result of the transfer. Upon notification described in paragraph (2), if—
+(3) Within 60 days after receipt of the notice described in paragraph (2)(B), the new plan mayfile an appeal with the corporation to prevent the transfer. The transfer shall not be made if the corporation determines that the new plan would suffer substantial financial harm as a result of the transfer. Upon notification described in paragraph (2), if—
 
 &emsp;(A) the employer fails to object to the transfer within 60 days after receipt of the notice described in paragraph (2)(A), or
 
@@ -88,6 +88,8 @@ For purposes of this section—
 
 (Pub. L. 93–406, title IV, §4235, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1247; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), July 18, 1984, 98 Stat. 899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1421 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
@@ -99,6 +101,8 @@ The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 3
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "September 25, 1980" for "April 28, 1980".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

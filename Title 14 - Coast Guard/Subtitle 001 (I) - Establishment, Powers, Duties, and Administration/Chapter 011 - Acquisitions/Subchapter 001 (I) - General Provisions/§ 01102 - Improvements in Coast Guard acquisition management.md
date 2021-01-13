@@ -6,7 +6,7 @@ Project or Program Managers.—
 
 &emsp;(1)
 
-Level 1 projects.—An individual may not be assigned as the project or program manager for a Level 1 acquisition unless theindividual holds a Level III acquisition certification as a program manager.
+Level 1 projects.—An individual may not be assigned as the project or program manager for a Level 1 acquisition unless the individual holds a Level III acquisition certification as a program manager.
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Information maintained.—Information maintained with such capability shall incl
 
 (d)
 
-Appointments to Acquisition Positions.—The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
+Appointments to Acquisition Positions.—The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of individuals for positions in the acquisition workforce.
 
 (e)
 
@@ -90,13 +90,17 @@ Identification of career paths.—To establish acquisition management as a core 
 
 Promotion parity.—The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2931, §562; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, §210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333; renumbered §1102, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2931, §562; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, §210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333; renumbered §1102, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(10), Jan. 1, 2021, 134 Stat. 4748.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of enactment of the Coast Guard Authorization Act of 2010 and the date of enactment of this section, referred to in subsec. (b)(1), (2)(A), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 116–283 substituted "individuals" for "persons".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 562 of this title as this section.
 
@@ -106,23 +110,13 @@ The date of enactment of the Coast Guard Authorization Act of 2010 and the date 
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §402(a), which enacted this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
 #### Acquisition Workforce Expedited Hiring Authority
 
-Pub. L. 111–281, title IV, §404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, §218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, §804, Dec. 4, 2018, 132 Stat. 4300, provided that:
-
-"(a)
-
-In General.—For purposes of section 3304 of title 5, United States Code, the Commandant of the Coast Guard may—
-
-&emsp;"(1) designate any category of acquisition positions within the Coast Guard as positions for which there exists a shortage of candidates or there is a critical hiring need; and
-
-&emsp;"(2) use the authorities in such sections \[sic\] to recruit and appoint highly qualified persons directly to positions so designated.
-
-"(b)
-
-Reports.—The Commandant shall include in reports under section 569a of title 14, United States Code \[now 14 U.S.C. 5103\], information described in that section regarding positions designated under this section."
+Pub. L. 111–281, title IV, §404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, §218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, §804, Dec. 4, 2018, 132 Stat. 4300, which authorized the Commandant of the Coast Guard to recruit and appoint persons directly to certain acqusition positions in the Coast Guard, was repealed by Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8219(c), Jan. 1, 2021, 134 Stat. 4656.
 

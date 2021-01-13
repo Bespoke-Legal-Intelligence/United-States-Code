@@ -6,7 +6,7 @@
 
 (c) The Secretary shall fix the fees for examinations held under this section by physicians not employed by or under contract to the United States to furnish medical services to employees. The fees, when authorized or approved by the Secretary, are paid from the Employees' Compensation Fund.
 
-(d) If an employee refuses to submit to or obstructs an examination, his right to compensation under this subchapter is suspended until the refusal or obstruction stops. Compensation is not payable while a refusal or obstruction continues, and the period of the refusal or obstruction is deducted from the period for which compensation is payable to the employee.
+(d) If an employee refuses to submit to or obstructs an examination, his right to compensation under this subchapter is suspended untilthe refusal or obstruction stops. Compensation is not payable while a refusal or obstruction continues, and the period of the refusal or obstruction is deducted from the period for which compensation is payable to the employee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 544.)
 

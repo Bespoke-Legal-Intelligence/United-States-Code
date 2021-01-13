@@ -200,11 +200,11 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
+&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -252,7 +252,7 @@ For purposes of this part—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under thegroup health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
@@ -286,6 +286,8 @@ For purposes of this part—
 
 (Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 111–3, title III, §311(b)(1)(A), Feb. 4, 2009, 123 Stat. 65; Pub. L. 111–5, div. B, title I, §1899D(b), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(b), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(2), Oct. 21, 2011, 125 Stat. 419.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -306,6 +308,8 @@ Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–40 applicable to plan years beginning after Feb. 12, 2011, with transitional rules, see section 242(b) of Pub. L. 112–40, set out as a note under section 9801 of Title 26, Internal Revenue Code.
@@ -316,7 +320,7 @@ Amendment by Pub. L. 111–344 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 

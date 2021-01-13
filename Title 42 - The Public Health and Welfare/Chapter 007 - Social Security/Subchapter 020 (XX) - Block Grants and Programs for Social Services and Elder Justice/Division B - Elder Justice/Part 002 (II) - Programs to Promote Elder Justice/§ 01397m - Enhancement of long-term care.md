@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant under this subsection, a long-term care facility shallsubmit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the long-term care facility is located with respect to carrying out activities funded under the grant).
+&emsp;&emsp;To be eligible to receive a grant under this subsection, a long-term care facility shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the long-term care facility is located with respect to carrying out activities funded under the grant).
 
 #### (B) Authority to limit number of applicants
 

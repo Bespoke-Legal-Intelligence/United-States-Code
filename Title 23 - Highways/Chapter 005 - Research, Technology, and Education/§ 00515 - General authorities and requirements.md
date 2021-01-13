@@ -14,7 +14,7 @@ Policy.—Intelligent transportation system research projects and operational te
 
 (c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the UnitedStates, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
 
 (d)
 
@@ -134,7 +134,7 @@ In general.—The Secretary shall issue guidelines and requirements for the repo
 
 &emsp;&emsp;(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any realor apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
 
 &emsp;&emsp;(C)
 
@@ -145,6 +145,8 @@ Funding.—The guidelines and requirements issued under subparagraph (A) shall e
 Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
 
 (Added Pub. L. 112–141, div. E, title III, §53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, §1446(a)(14), title VI, §6007, Dec. 4, 2015, 129 Stat. 1438, 1567.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -157,6 +159,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(5), is Pub. L. 92
 <b>2015</b>—Pub. L. 114–94, §1446(a)(14), substituted "sections 512 through 518" for "this chapter" wherever appearing.
 
 Subsec. (h)(4). Pub. L. 114–94, §6007, in introductory provisions, substituted "May 1 of each year" for "February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012" and "make available to the public on a Department of Transportation website" for "submit to Congress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

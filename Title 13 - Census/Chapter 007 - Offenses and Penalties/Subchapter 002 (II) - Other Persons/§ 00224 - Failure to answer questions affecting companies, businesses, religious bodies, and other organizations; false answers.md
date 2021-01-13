@@ -1,6 +1,6 @@
 ### §224. Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers
 
-Whoever, being the owner, official, agent, person in charge, or assistant to the person in charge, of any company, business, institution, establishment, religious body, or organization of any nature whatsoever, neglects or refuses, when requested by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof, to answer completely and correctly to the best of his knowledge all questions relating to his company, business, institution, establishment, religious body, or other organization, or to records or statistics in his official custody, contained on any census or other schedule or questionnaire prepared and submitted to him under the authority of this title, shall be fined not more than $500; and if he willfully gives a false answer to any such question, he shall be fined not more than $10,000.
+Whoever, being the owner, official, agent, person in charge, or assistant to the person incharge, of any company, business, institution, establishment, religious body, or organization of any nature whatsoever, neglects or refuses, when requested by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof, to answer completely and correctly to the best of his knowledge all questions relating to his company, business, institution, establishment, religious body, or other organization, or to records or statistics in his official custody, contained on any census or other schedule or questionnaire prepared and submitted to him under the authority of this title, shall be fined not more than $500; and if he willfully gives a false answer to any such question, he shall be fined not more than $10,000.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1024; Pub. L. 85–207, §18, Aug. 28, 1957, 71 Stat. 484; Pub. L. 94–521, §14, Oct. 17, 1976, 90 Stat. 2465.)
 
@@ -24,11 +24,15 @@ Provisions in sections 74, 84 and 210 of title 13, U.S.C., 1952 ed., that it "sh
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–521 struck out provision enumerating methods by which the Department of Commerce may transmit a request to answer census questions under this section, substituted "schedule or questionnaire" for "schedule", struck out provision authorizing a sixty day maximum prison term for neglecting or refusing to answer census questions submitted under this section and a similar provision authorizing a one year maximum prison term for willfully giving a false answer to any such questions.
 
 <b>1957</b>—Pub. L. 85–207 inserted "by certified mail," after "by registered mail,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

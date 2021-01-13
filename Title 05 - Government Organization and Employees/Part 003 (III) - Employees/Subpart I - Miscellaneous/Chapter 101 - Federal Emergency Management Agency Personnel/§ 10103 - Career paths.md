@@ -26,6 +26,8 @@ Policy.—The Administrator shall establish a policy for assigning Agency person
 
 (Added Pub. L. 109–295, title VI, §621(a), Oct. 4, 2006, 120 Stat. 1413.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 844 of the Homeland Security Act of 2002, referred to in subsec. (b), is classified to section 414 of Title 6, Domestic Security.

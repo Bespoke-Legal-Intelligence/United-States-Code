@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering theState TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -38,7 +38,7 @@
 
 #### (C) Report to Congress
 
-&emsp;&emsp;The Secretary shall submit interim reports and, based on the evaluation conducted under subparagraph (B), a final report toCongress on the demonstration projects conducted under this subsection.
+&emsp;&emsp;The Secretary shall submit interim reports and, based on the evaluation conducted under subparagraph (B), a final report to Congress on the demonstration projects conducted under this subsection.
 
 #### (4) Definitions
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;The Secretary shall develop an experimental or control group testing protocol in consultation with an independent evaluation contractor selected by the Secretary. Such contractor shall evaluate—
 
-&emsp;&emsp;&emsp;(i) the impact of core training competencies described in paragraph (3)(A), including curricula developed to implement such core training competencies, for personal or home care aides within each participating State on job satisfaction, mastery of job skills, beneficiary and family caregiver satisfaction with services, and additional measures determined by the Secretary in consultation with the expert panel;
+&emsp;&emsp;&emsp;(i) the impact of core training competencies described in paragraph (3)(A), including curricula developed to implement such core training competencies, for personal or home care aides within each participating State on job satisfaction, mastery of job skills, beneficiary and family caregiver satisfaction with services, andadditional measures determined by the Secretary in consultation with the expert panel;
 
 &emsp;&emsp;&emsp;(ii) the impact of providing such core training competencies on the existing training infrastructure and resources of States; and
 
@@ -226,7 +226,7 @@
 
 #### (C) Personal or home care aide
 
-&emsp;&emsp;The term "personal or home care aide" means an individual who helps individualswho are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
+&emsp;&emsp;The term "personal or home care aide" means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
 
 #### (D) State
 
@@ -277,6 +277,10 @@ Subsec. (c)(1). Pub. L. 113–93 substituted "2015" for "2014".
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
+#### Extension of Demonstration Projects To Address Health Professions Workforce Needs
+
+Pub. L. 116–136, div. A, title III, §3823, Mar. 27, 2020, 134 Stat. 433, provided that: "Activities authorized by section 2008 of the Social Security Act \[42 U.S.C. 1397g\] shall continue through November 30, 2020, in the manner authorized for fiscal year 2019, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority through the date so specified at the pro rata portion of the total amount authorized for such activities in fiscal year 2019."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

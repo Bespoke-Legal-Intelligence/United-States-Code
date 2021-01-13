@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsection (a), a person may distribute to a c
 
 #### (c) Validation
 
-For the purpose of subsection (b), a card, code, or other means of access is validated when itmay be used to initiate an electronic fund transfer.
+For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
 
 (Pub. L. 90–321, title IX, §911, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 

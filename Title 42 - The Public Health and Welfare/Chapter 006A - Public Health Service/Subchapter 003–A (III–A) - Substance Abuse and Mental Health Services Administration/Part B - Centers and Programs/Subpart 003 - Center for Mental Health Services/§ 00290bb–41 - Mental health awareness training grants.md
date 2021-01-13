@@ -8,7 +8,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identify and appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
+&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms ofchildhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identify and appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
 
 #### (2) Emergency services personnel
 

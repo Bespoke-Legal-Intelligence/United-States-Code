@@ -142,6 +142,8 @@ In subsection (d), the reference in section 251(a) of existing title 37 to the a
 
 In subsection (e), the words "Effective April 15, 1955," are omitted as executed. The words "United States" are substituted for the word "Government". The words "messing facilities" are substituted for the word "messes" to conform to subsections (b) and (d).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (h)(1). Pub. L. 110–417, §602(1), struck out before period at end "during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section".
@@ -156,7 +158,7 @@ Subsec. (h)(3). Pub. L. 109–364 substituted "December 31, 2007" for "December 
 
 Subsec. (i). Pub. L. 109–163, §607(a)(1), redesignated subsec. (h) as (i).
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "The" for "On and after January 1, 2002, the", and struck out former par. (1) which read as follows: "Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlistedmember for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "The" for "On and after January 1, 2002, the", and struck out former par. (1) which read as follows: "Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
 
 &emsp;"(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age."
 
@@ -172,7 +174,7 @@ Subsecs. (f) to (h). Pub. L. 108–136, §604, added subsec. (f) and redesignate
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-"(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
+"(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect tothe Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
 
 "(2) An enlisted member referred to in paragraph (1) is a member who is granted permission to mess separately and whose duties require the member to buy at least one meal from a source other than a messing facility of the United States."
 
@@ -220,6 +222,8 @@ Subsecs. (d) to (f). Pub. L. 93–419, §3(4), (5), struck out subsec. (d) which
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to various special provisions, see section 610 of Pub. L. 110–181, set out as a Correction of Lapsed Authorities for Payment of Bonuses, Special Pays, and Similar Benefits for Members of the Uniformed Services note under section 2130a of Title 10, Armed Forces.
@@ -266,11 +270,13 @@ Pub. L. 105–85, div. A, title VI, §602(c)–(f), Nov. 18, 1997, 111 Stat. 177
 
 Pub. L. 96–343, §7, Sept. 8, 1980, 94 Stat. 1128, provided that: "Effective September 1, 1980, the rates of basic allowance for subsistence authorized by section 402 of title 37, United States Code, as in effect on the day before the date of the enactment of this Act \[Sept. 8, 1980\] (as prescribed by the President under section 1009 of such title), are increased by 10 percent."
 
-#### Regulations Relating to Subsistence Allowance
-
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10119
 
 Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+
+#### Regulations Relating to Subsistence Allowance
+
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 

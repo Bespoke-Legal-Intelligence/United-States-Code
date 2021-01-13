@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, and subject to subsection (d), grant
 
 #### (b) Plan development
 
-In developing the mass evacuation plans authorized under subsection (a), each State, local, or tribal government shall, to the maximum extent practicable—
+In developing the mass evacuation plans authorized under subsection (a), each State, local,or tribal government shall, to the maximum extent practicable—
 
 &emsp;(1) establish incident command and decision making processes;
 
@@ -48,9 +48,13 @@ Nothing in this section may be construed to preclude a State, local, or tribal g
 
 (Pub. L. 107–296, title V, §512, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1407; amended Pub. L. 110–53, title I, §102(b), Aug. 3, 2007, 121 Stat. 293.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(5)(A). Pub. L. 110–53 inserted ", including the elderly" after "needs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

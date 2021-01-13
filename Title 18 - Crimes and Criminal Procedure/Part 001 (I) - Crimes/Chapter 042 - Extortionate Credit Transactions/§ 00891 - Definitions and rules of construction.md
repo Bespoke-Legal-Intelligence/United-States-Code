@@ -22,6 +22,8 @@ For the purposes of this chapter:
 
 (Added Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 160.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Congressional Findings and Declaration of Purpose
 
 Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
@@ -32,7 +34,7 @@ Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
 
 &emsp;"(2) Extortionate credit transactions are characterized by the use, or the express or implicit threat of the use, of violence or other criminal means to cause harm to person, reputation, or property as a means of enforcing repayment. Among the factors which have rendered past efforts at prosecution almost wholly ineffective has been the existence of exclusionary rules of evidence stricter than necessary for the protection of constitutional rights.
 
-&emsp;"(3) Extortionate credit transactions are carried on to a substantial extent in interstate and foreign commerce and through the means and instrumentalities of such commerce. Even where extortionate credit transactions are purely intrastate in character, they nevertheless directly affect interstate and foreign commerce.
+&emsp;"(3) Extortionate credit transactions are carried on to a substantial extent in interstate and foreign commerce and through the means and instrumentalities of such commerce. Even where extortionate credittransactions are purely intrastate in character, they nevertheless directly affect interstate and foreign commerce.
 
 &emsp;"(4) Extortionate credit transactions directly impair the effectiveness and frustrate the purposes of the laws enacted by the Congress on the subject of bankruptcies.
 
@@ -40,5 +42,5 @@ Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
 
 #### Annual Report to Congress by Attorney General
 
-Section 203 of Pub. L. 90–321 directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, §109(b), Dec. 21, 1982, 96 Stat. 1820.
+Pub. L. 90–321, title II, §203, May 29, 1968, 82 Stat. 162, directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, §109(b), Dec. 21, 1982, 96 Stat. 1820.
 

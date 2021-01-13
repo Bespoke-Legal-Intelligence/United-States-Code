@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (IV) Minimum funding
 
-&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 132(b)(1)(B)(iv)(IV) of the Workforce Investment Act of 1998 \[29 U.S.C. 2862(b)(1)(B)(iv)(IV)\] (as in effect on the day before July 22, 2014).
+&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 132(b)(1)(B)(iv)(IV) of the Workforce Investment Act of 1998 \[29U.S.C. 2862(b)(1)(B)(iv)(IV)\] (as in effect on the day before July 22, 2014).
 
 #### (v) Definitions
 
@@ -146,7 +146,7 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for afiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (II) Maximum percentage
 
@@ -192,6 +192,8 @@ The Secretary shall—
 
 (Pub. L. 113–128, title I, §132, July 22, 2014, 128 Stat. 1511; Pub. L. 114–18, §2(d), May 22, 2015, 129 Stat. 213.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
@@ -199,6 +201,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1)(B)(iv)(I), (2)(B)(iii)(I). Pub. L. 114–18 inserted "less than" after "fiscal year that is".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

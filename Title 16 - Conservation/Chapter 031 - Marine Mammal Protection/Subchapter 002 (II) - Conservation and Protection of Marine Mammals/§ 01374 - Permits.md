@@ -20,7 +20,7 @@ Any permit issued under this section shall—
 
 &emsp;&emsp;(D) any other terms or conditions which the Secretary deems appropriate.
 
-> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
+> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first considerwhether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
 
 #### (c) Importation for scientific research, public display, or enhancing survival or recovery of species or stock
 
@@ -134,7 +134,7 @@ Any permit issued under this section shall—
 
 &emsp;(iii) for the purpose of enhancing the survival or recovery of a species or stock, and by or to, respectively, a person which meets the requirements of paragraph (4).
 
-(B)(i) A person which has a permit under paragraph (2), or a person exercising rights underparagraph (2)(C), which has possession of a marine mammal that gives birth to progeny shall—
+(B)(i) A person which has a permit under paragraph (2), or a person exercising rights under paragraph (2)(C), which has possession of a marine mammal that gives birth to progeny shall—
 
 &emsp;(I) notify the Secretary of the birth of such progeny within 30 days after the date of birth; and
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, ifno hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
@@ -262,7 +262,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 #### Modification of Permits Existing Prior to April 30, 1994
 
-Pub. L. 103–238, §5(c), Apr. 30, 1994, 108 Stat. 541, provided that: "Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act\[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act."
+Pub. L. 103–238, §5(c), Apr. 30, 1994, 108 Stat. 541, provided that: "Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act \[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

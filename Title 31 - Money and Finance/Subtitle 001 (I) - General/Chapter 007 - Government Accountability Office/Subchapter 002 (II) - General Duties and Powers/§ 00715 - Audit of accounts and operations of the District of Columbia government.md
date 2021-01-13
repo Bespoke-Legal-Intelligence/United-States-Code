@@ -52,6 +52,8 @@ In subsection (c)(2), the words "After the Council receives the statement of the
 
 In subsection (d), the words "To carry out this section" are added for clarity. The words "records and property of or used by . . . shall be made available to the Comptroller General" are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "of Columbia government" are added for consistency. The words "The Mayor shall provide facilities to carry out an audit" are substituted for 31:61(a)(last sentence words after last comma) for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §11717(b), substituted "District of Columbia Home Rule Act" for "District of Columbia Self-Government and Governmental Reorganization Act".
@@ -60,13 +62,15 @@ Subsec. (b). Pub. L. 105–33, §11244(b), substituted "and (other than the audi
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–102 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L.105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1991 Amendment
 

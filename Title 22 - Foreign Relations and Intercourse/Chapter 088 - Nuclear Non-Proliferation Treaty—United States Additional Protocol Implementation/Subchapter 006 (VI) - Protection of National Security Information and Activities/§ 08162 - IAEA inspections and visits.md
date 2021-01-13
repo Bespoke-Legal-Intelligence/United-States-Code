@@ -6,7 +6,7 @@ No national of a country designated by the Secretary of State under section 2371
 
 #### (b) Presence of United States Government personnel
 
-IAEA inspectors shall be accompanied at all times by United States Government personnel when inspecting sites, locations, facilities, or activities in the United States under the Additional Protocol.
+IAEA inspectors shall be accompanied at all times by United States Government personnel when inspecting sites, locations, facilities, oractivities in the United States under the Additional Protocol.
 
 #### (c) Vulnerability and related assessments
 

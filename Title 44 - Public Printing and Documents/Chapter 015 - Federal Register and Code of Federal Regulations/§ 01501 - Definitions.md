@@ -16,9 +16,13 @@ As used in this chapter, unless the context otherwise requires—
 
 Based on 44 U.S. Code, 1964 ed., §304 (July 26, 1935, ch. 417, §4, 49 Stat. 501).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 inserted definition of "National Archives of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

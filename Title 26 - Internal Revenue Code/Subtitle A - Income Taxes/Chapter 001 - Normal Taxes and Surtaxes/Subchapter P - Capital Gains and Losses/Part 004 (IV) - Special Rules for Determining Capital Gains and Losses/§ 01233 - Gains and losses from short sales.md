@@ -16,7 +16,7 @@ If gain or loss from a short sale is considered as gain or loss from the sale or
 
 #### (c) Certain options to sell
 
-Subsection (b) shall not include an option to sell property at a fixed price acquired on thesame day on which the property identified as intended to be used in exercising such option is acquired and which, if exercised, is exercised through the sale of the property so identified. If the option is not exercised, the cost of the option shall be added to the basis of the property with which the option is identified. This subsection shall apply only to options acquired after August 16, 1954.
+Subsection (b) shall not include an option to sell property at a fixed price acquired on the same day on which the property identified as intended to be used in exercising such option is acquired and which, if exercised, is exercised through the sale of the property so identified. If the option is not exercised, the cost of the option shall be added to the basis of the property with which the option is identified. This subsection shall apply only to options acquired after August 16, 1954.
 
 #### (d) Long-term losses
 
@@ -84,7 +84,7 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 #### (2) Statute of limitations
 
-&emsp;If property becomes substantially worthless during a taxable year and any short sale of such property remains open at the time such property becomes substantially worthless, then—
+&emsp;If property becomes substantially worthless during a taxable year and any short sale of such property remains open at the time suchproperty becomes substantially worthless, then—
 
 &emsp;&emsp;(A) the statutory period for the assessment of any deficiency attributable to any part of the gain on such transaction shall not expire before the earlier of—
 

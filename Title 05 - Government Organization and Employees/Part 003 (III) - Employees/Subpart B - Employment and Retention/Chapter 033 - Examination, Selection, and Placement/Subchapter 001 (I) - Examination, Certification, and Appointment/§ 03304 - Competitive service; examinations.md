@@ -102,6 +102,8 @@ In subsection (d), the word "Employees" is substituted for "collector, postmaste
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(3)(B). Pub. L. 115–46 inserted "(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)" after "severe shortage of candidates".
@@ -144,6 +146,8 @@ Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted "the Office of Personnel Management" for "a Civil Service Commission board of examiners".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -154,7 +158,7 @@ Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\]."
+Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 yearsafter the date of the enactment of this Act \[Dec. 19, 1995\]."
 
 Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: "The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 

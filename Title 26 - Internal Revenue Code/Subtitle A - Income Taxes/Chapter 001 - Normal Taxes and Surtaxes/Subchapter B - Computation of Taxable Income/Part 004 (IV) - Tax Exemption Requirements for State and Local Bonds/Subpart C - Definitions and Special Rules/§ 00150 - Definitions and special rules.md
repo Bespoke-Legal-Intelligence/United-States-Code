@@ -54,7 +54,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond which,when issued, purported to be a tax-exempt qualified 501(c)(3) bond, if any portion of such facility—
+&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to be a tax-exempt qualified 501(c)(3) bond, if any portion of such facility—
 
 &emsp;&emsp;&emsp;(i) is used in a trade or business of any person other than a 501(c)(3) organization or a governmental unit, but
 
@@ -136,7 +136,7 @@ For purposes of this part and section 103—
 
 #### (A) In general
 
-&emsp;&emsp;Any qualified scholarship funding bond, and qualified student loan bond, outstandingon the date of the issuer's election under this paragraph (and any bond (or series of bonds) issued to refund such a bond) shall not fail to be a tax-exempt bond solely because the issuer ceases to be described in subparagraphs (A) and (B) of paragraph (2) if the issuer meets the requirements of subparagraphs (B) and (C) of this paragraph.
+&emsp;&emsp;Any qualified scholarship funding bond, and qualified student loan bond, outstanding on the date of the issuer's election under this paragraph (and any bond (or series of bonds) issued to refund such a bond) shall not fail to be a tax-exempt bond solely because the issuer ceases to be described in subparagraphs (A) and (B) of paragraph (2) if the issuer meets the requirements of subparagraphs (B) and (C) of this paragraph.
 
 #### (B) Assets and liabilities of issuer transferred to taxable subsidiary
 
@@ -220,7 +220,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;(B) which is required (by written agreement) by the political subdivision to furnish firefighting services in such area.
 
-> &emsp;For purposes of subparagraph (A), other firefighting services provided in an area shall be disregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981.
+> &emsp;For purposes of subparagraph (A), other firefighting services provided in an area shall bedisregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981.
 
 #### (3) Treatment as private activity bonds only for certain purposes
 

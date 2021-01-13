@@ -8,11 +8,15 @@ The Archivist of the United States, acting through the Office of the Federal Reg
 
 Based on 44 U.S. Code, 1964 ed., §301 (July 26, 1935, ch. 417, §1, 49 Stat. 500; 1939 Reorg. Plan No. II, §202, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1435; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

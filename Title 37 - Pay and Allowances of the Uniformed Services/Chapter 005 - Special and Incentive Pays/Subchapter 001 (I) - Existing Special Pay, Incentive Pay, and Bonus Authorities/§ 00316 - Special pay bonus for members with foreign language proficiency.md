@@ -4,7 +4,7 @@
 
 Availability of Bonus.—Subject to subsection (c), the Secretary concerned may pay a bonus under this section to a member of the uniformed services who—
 
-&emsp;(1) is qualified in a uniformed services specialty requiring proficiency in a foreign language identified by the Secretary concerned as a foreign language in which it is necessary tohave personnel proficient because of national defense or public health considerations;
+&emsp;(1) is qualified in a uniformed services specialty requiring proficiency in a foreign language identified by the Secretary concerned as a foreign language in which it is necessary to have personnel proficient because of national defense or public health considerations;
 
 &emsp;(2) received training, under regulations prescribed by the Secretary concerned, designed to develop a proficiency in such a foreign language;
 
@@ -32,7 +32,7 @@ Certification Interrupted by Contingency Operation.—(1) Notwithstanding subsec
 
 (2) The Secretary concerned may treat the date on which the member was assigned to duty in connection with the contingency operation as equivalent to a certification date. In the case of a member whose certification will expire during such a duty assignment, the Secretary shall commence the next one-year certification period on the date on which the prior certification period expires.
 
-(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paid not later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member in accordance with regulations prescribed under subsection (f).
+(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paidnot later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member in accordance with regulations prescribed under subsection (f).
 
 (4) If a member fails to obtain the required certification under subsection (c) before the end of the period provided under paragraph (3), the Secretary concerned may require the member to repay all or a portion of the bonus in the manner provided in section 303a(e) of this title.
 
@@ -45,6 +45,8 @@ Repayment.—A member who receives a bonus under this section, but who does not 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
 (Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §620(a)(1), Oct. 28, 2004, 118 Stat. 1952; Pub. L. 109–163, div. A, title VI, §§639(a)–(e)(1), 687(b)(25), Jan. 6, 2006, 119 Stat. 3301, 3302, 3331.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -66,7 +68,7 @@ Subsec. (d)(1). Pub. L. 109–163, §639(d)(2)(A)(i), struck out "monthly specia
 
 Subsec. (d)(1)(C). Pub. L. 109–163, §639(d)(2)(A)(ii), substituted "under subsection (a)" for "for receipt of special pay under subsection (a) or a bonus under subsection (b), whichever applies to the member".
 
-Subsec. (d)(2). Pub. L. 109–163, §639(d)(2)(B), substituted "The Secretary concerned" for "For purposesof providing an annual bonus to a member under the authority of this subsection, the Secretary concerned".
+Subsec. (d)(2). Pub. L. 109–163, §639(d)(2)(B), substituted "The Secretary concerned" for "For purposes of providing an annual bonus to a member under the authority of this subsection, the Secretary concerned".
 
 Subsec. (d)(3). Pub. L. 109–163, §639(d)(2)(C), struck out "special pay or" before "a bonus under" and before "bonus was paid" and substituted "subsection (f)" for "subsection (h)".
 
@@ -92,7 +94,7 @@ Subsec. (g). Pub. L. 109–163, §639(b)(1), struck out heading and text of subs
 
 "(1) The Secretary concerned may require a member who receives a bonus under this section, but who does not satisfy an eligibility requirement specified in paragraph (1), (2), (3), or (4) of subsection (a) for the entire certification period, to repay to the United States an amount which bears the same ratio to the total amount of the bonus paid to the member as the unsatisfied portion of the certification period bears to the entire certification period.
 
-"(2) An obligation to repay the United States imposed under paragraph (1) or subsection (f)(4) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered for the member less than five years after the expiration of the certification period does not discharge the member from a debt arising under this paragraph. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section."
+"(2) An obligation to repay the United States imposed under paragraph (1) or subsection (f)(4) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered for the member less than five years after the expiration of the certification period does not discharge the memberfrom a debt arising under this paragraph. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section."
 
 Subsec. (h). Pub. L. 109–163, §639(b)(2), redesignated subsec. (h) as (f).
 
@@ -113,6 +115,8 @@ Subsec. (a)(3)(C). Pub. L. 104–201, §616(a)(3)(B), struck out "military" befo
 Subsec. (a)(3)(D). Pub. L. 104–201, §616(a)(3)(C), substituted "uniformed service" for "Department of Defense" and "Secretary concerned" for "Secretary of Defense".
 
 Subsec. (d). Pub. L. 104–201, §616(b), substituted "the jurisdiction of the Secretary," for "his jurisdiction and" and inserted before period at end ", by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -46,9 +46,13 @@ In this chapter, the definitions under section 3502 shall apply, and the term—
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2901.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (8)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -381,6 +385,8 @@ Purposes.—The purposes of this Act \[see Tables for classification\] are the f
 &emsp;"(10) To transform agency operations by utilizing, where appropriate, best practices from public and private sector organizations.
 
 &emsp;"(11) To provide enhanced access to Government information and services in a manner consistent with laws regarding protection of personal privacy, national security, records retention, access for persons with disabilities, and other relevant laws."
+
+#### <b>Executive Documents</b>
 
 #### Building a 21st Century Digital Government
 

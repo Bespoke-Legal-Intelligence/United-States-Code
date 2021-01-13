@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (2) Native Corporation
 
-&emsp;The term "Native Corporation" has the meaning given such term by section 3(m) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)).
+&emsp;The term "Native Corporation" has the meaning given such term by section 3(m) ofthe Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)).
 
 #### (3) Settlement Common Stock
 

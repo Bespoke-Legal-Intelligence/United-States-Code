@@ -44,13 +44,41 @@
 
 (4) Notwithstanding paragraph (3), a qualified provider of entrepreneurship courses shall maintain such records as the Secretary determines to be necessary to comply with reporting requirements that apply under section 3684(a)(1) of this title with respect to eligible persons and veterans enrolled in an entrepreneurship course offered by the provider.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, §305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, §110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, §203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, §305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, §110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, §203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561; Pub. L. 116–315, title I, §1015(a), Jan. 5, 2021, 134 Stat. 4945.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–315, title I, §1015(a), (c), Jan. 5, 2021, 134 Stat. 4945, provided that, effective on Aug. 1, 2021, this section is amended:</i>
+
+<i>(1) in subsection (b), by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(4) The educational institution is approved and participates in a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) or the Secretary has waived the requirement under this paragraph with respect to an educational institution and submits to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives notice of such waiver."; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+<i>"(d)(1) The Secretary shall submit to Congress an annual report on any waivers issued pursuant to subsection (b)(4) or section 3672(b)(2)(A)(i) of this title.</i>
+
+<i>"(2) Each report submitted under paragraph (1) shall include, for the year covered by the report, the following:</i>
+
+&emsp;<i>"(A) The name of each educational institution for which a waiver was issued.</i>
+
+&emsp;<i>"(B) The justification for each such waiver.</i>
+
+&emsp;<i>"(C) The total number of waivers issued."</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(4). Pub. L. 116–315, §1015(a)(1), added par. (4).
+
+Subsec. (d). Pub. L. 116–315, §1015(a)(2), added subsec. (d).
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–315, §408(b)(1), substituted "A State approving agency, or the Secretary when acting in the role of a State approving agency," for "The Secretary or a State approving agency" and "not covered by section 3672 of this title" for "offered by proprietary for-profit educational institutions" in introductory provisions.
 
@@ -76,7 +104,7 @@ Subsec. (b). Pub. L. 111–377, §203(c)(2), inserted "the Secretary or" after "
 
 <b>1994</b>—Subsec. (a)(2)(B). Pub. L. 103–446 substituted "Except as provided in section 3672(e) of this title, a State" for "A State".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted "the Act of February 23, 1917 (20 U.S.C. 11 et seq.);" for "sections 11–28 of title 20; or", redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: "For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title."
+<b>1992</b>—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted "the Act of February 23, 1917 (20 U.S.C. 11 et seq.);" for "sections 11–28 of title 20; or", redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: "For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of itscatalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title."
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1775 of this title as this section.
 
@@ -95,6 +123,12 @@ Pub. L. 94–502, §504(1), inserted provision requiring that copies of the scho
 Subsec. (b). Pub. L. 94–502, §504(2), inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in section 1776(c)(7) of this title.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–358 inserted "or veteran" after "eligible person" in three places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–315 effective on Aug. 1, 2021, see section 1015(c) of Pub. L. 116–315, set out as a note under section 3672 of this title.
 
 #### Effective Date of 2011 Amendment
 

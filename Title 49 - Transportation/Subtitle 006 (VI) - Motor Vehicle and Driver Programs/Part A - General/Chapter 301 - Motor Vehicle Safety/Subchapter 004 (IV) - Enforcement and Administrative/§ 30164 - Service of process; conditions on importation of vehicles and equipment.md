@@ -10,7 +10,7 @@ Service.—An agent may be served at the agent's office or usual place of reside
 
 (c)
 
-Identifying Information.—A manufacturer (including an importer) offering a motor vehicle or motor vehicle equipment for importshall provide, upon request, such information that is necessary to identify and track the products as the Secretary, by rule, may specify, including—
+Identifying Information.—A manufacturer (including an importer) offering a motor vehicle or motor vehicle equipment for import shall provide, upon request, such information that is necessary to identify and track the products as the Secretary, by rule, may specify, including—
 
 &emsp;(1) the product by name and the manufacturer's address; and
 
@@ -50,7 +50,7 @@ Exception.—The requirements of subsections (c) and (d) shall not apply to orig
 
 (f)
 
-Rulemaking.—In issuing regulations under this section, the Secretary shall seek to reduce duplicative requirements by coordinating with the Department of Homeland Security.
+Rulemaking.—In issuing regulations under this section, the Secretary shall seek to reduceduplicative requirements by coordinating with the Department of Homeland Security.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 112–141, div. C, title I, §31208(2), July 6, 2012, 126 Stat. 761.)
 

@@ -10,6 +10,8 @@ Notwithstanding any other provision of law, any vessel described in subsection (
 
 (Pub. L. 96–283, title I, §112, June 28, 1980, 94 Stat. 571.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title 52 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
@@ -20,7 +22,9 @@ Title 53 of the Revised Statutes, referred to in subsec. (b), consisted of R.S. 
 
 In subsec. (b), "chapter 51 of title 46" substituted for "the International Voyage Load Line Act of 1973" on authority of Pub. L. 99–509, title V, §5103(b), Oct. 21, 1986, 100 Stat. 1927, section 5101 of which enacted parts C and J of subtitle II of Title 46, Shipping.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

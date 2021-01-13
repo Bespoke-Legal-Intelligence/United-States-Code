@@ -40,7 +40,7 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the provisions of subsection (a) or (b), the Administrator, after notice and opportunity for public comment, may authorize the production of limited quantities of a class II substance in excess of the quantities otherwise permitted under such provisions solely for export to and usein developing countries that are Parties to the Montreal Protocol, as determined by the Administrator. Any production authorized under this subsection shall be solely for purposes of satisfying the basic domestic needs of such countries.
+&emsp;&emsp;Notwithstanding the provisions of subsection (a) or (b), the Administrator, afternotice and opportunity for public comment, may authorize the production of limited quantities of a class II substance in excess of the quantities otherwise permitted under such provisions solely for export to and use in developing countries that are Parties to the Montreal Protocol, as determined by the Administrator. Any production authorized under this subsection shall be solely for purposes of satisfying the basic domestic needs of such countries.
 
 #### (B) Cap on exception
 

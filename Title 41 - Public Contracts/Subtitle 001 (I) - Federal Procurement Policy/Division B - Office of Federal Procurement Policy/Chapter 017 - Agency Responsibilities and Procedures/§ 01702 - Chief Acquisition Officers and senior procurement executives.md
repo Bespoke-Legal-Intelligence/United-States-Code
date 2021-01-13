@@ -20,7 +20,7 @@ Advice and assistance.—A Chief Acquisition Officer shall advise and assist the
 
 Other functions.—The functions of each Chief Acquisition Officer include—
 
-&emsp;&emsp;(A) monitoring the performance of acquisition activities and acquisition programs of the executive agency, evaluating the performance of those programs on the basis of applicable performance measurements, andadvising the head of the executive agency regarding the appropriate business strategy to achieve the mission of the executive agency;
+&emsp;&emsp;(A) monitoring the performance of acquisition activities and acquisition programs of the executive agency, evaluating the performance of those programs on the basis of applicable performance measurements, and advising the head of the executive agency regarding the appropriate business strategy to achieve the mission of the executive agency;
 
 &emsp;&emsp;(B) increasing the use of full and open competition in the acquisition of property and services by the executive agency by establishing policies, procedures, and practices that ensure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Federal Government's requirements (including performance and delivery schedules) at the lowest cost or best value considering the nature of the property or service procured;
 
@@ -91,6 +91,8 @@ Pub. L. 93–400, §16, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1
 1702(c)
 
 41:414(c).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

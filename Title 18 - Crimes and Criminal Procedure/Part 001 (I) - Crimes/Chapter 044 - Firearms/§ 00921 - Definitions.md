@@ -70,7 +70,7 @@
 
 &emsp;(i) a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium; or
 
-&emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight ofmore than 25 percent of the total weight of the projectile.
+&emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
 
 (C) The term "armor piercing ammunition" does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
@@ -128,7 +128,7 @@
 
 (27) The term "motor vehicle" has the meaning given such term in section 13102 of title 49, United States Code.
 
-(28) The term "semiautomatic rifle" means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(28) The term "semiautomatic rifle" means any repeating rifle which utilizes a portion ofthe energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
 (29) The term "handgun" means—
 
@@ -171,6 +171,8 @@
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
 (Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -258,6 +260,8 @@ Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining "firearm", "destructive device", and "crime punishable by imprisonment for a term exceeding one year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
@@ -272,7 +276,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §119(e)\], Oct. 21, 1998, 112 St
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an EffectiveDate note under section 1301 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -338,13 +342,13 @@ Pub. L. 101–647, title XVII, §1702(a), Nov. 29, 1990, 104 Stat. 4844, provide
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: "This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notesunder section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the 'Undetectable Firearms Act of 1988'."
+Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: "This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the 'Undetectable Firearms Act of 1988'."
 
 #### Short Title of 1986 Amendments
 
 Pub. L. 99–570, title I, subtitle I, §1401, Oct. 27, 1986, 100 Stat. 3207–39, provided that: "This subtitle \[amending section 924 of this title\] may be cited as the 'Career Criminals Amendment Act of 1986'."
 
-Pub. L. 99–308, §1(a), May 19, 1986, 100 Stat. 449, provided that: "This Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] may be cited as the 'Firearms Owners' Protection Act'."
+Pub. L. 99–308, §1(a), May 19, 1986, 100 Stat. 449, provided that: "This Act \[enacting section 926A of thistitle, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] may be cited as the 'Firearms Owners' Protection Act'."
 
 #### Short Title
 
@@ -402,7 +406,7 @@ Pub. L. 90–351, title IV, §901, June 19, 1968, 82 Stat. 225, provided that:
 
 &emsp;"(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
 
-&emsp;"(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
+&emsp;"(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers\(largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
 &emsp;"(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fall into the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
 

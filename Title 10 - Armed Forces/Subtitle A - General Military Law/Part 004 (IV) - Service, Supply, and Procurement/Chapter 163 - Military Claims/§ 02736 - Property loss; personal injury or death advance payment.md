@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Under such regulations as the Secretary of a military department may prescribe, payment of an amount not in excess of $10,000 may be made in advance of the submission of a claim to or for any person, or his legal representatives, who was injured or killed, or whose property was damaged or lost, under circumstances for which allowance of a claim is authorized by law. Payments under this subsection are limited to those which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32."
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Under such regulations as the Secretary of a military department may prescribe, payment of an amount not in excess of $10,000 may be made in advance of the submission of a claim to or for any person, or his legal representatives, who was injured or killed, or whose property was damaged or lost, under circumstances for which allowance of a claim is authorized by law. Payments under this subsection are limited to those which would otherwise be payable undersection 2733 or 2734 of this title or section 715 of title 32."
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–564 substituted "$10,000" for "$1,000".
 

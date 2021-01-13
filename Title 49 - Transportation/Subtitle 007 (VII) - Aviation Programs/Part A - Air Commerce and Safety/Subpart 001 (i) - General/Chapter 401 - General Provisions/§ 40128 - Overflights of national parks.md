@@ -36,7 +36,7 @@ Competitive bidding for limited capacity parks.—Whenever an air tour managemen
 
 &emsp;&emsp;&emsp;(v) any training programs for pilots provided by the person submitting the proposal; and
 
-&emsp;&emsp;&emsp;(vi) responsiveness of the person submitting the proposal to any relevant criteriadeveloped by the National Park Service for the affected park.
+&emsp;&emsp;&emsp;(vi) responsiveness of the person submitting the proposal to any relevant criteria developed by the National Park Service for the affected park.
 
 &emsp;&emsp;(C)
 
@@ -74,7 +74,7 @@ Exemption for national parks with 50 or fewer flights each year.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (1), a national park that has 50 or fewer commercial air tour operations over the park each year shall be exempt from the requirements of this section, except as provided in subparagraph (B).
+In general.—Notwithstanding paragraph (1), a national park that has 50 orfewer commercial air tour operations over the park each year shall be exempt from the requirements of this section, except as provided in subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -490,7 +490,7 @@ Deadline for rule.—No later than January 2005, the Secretary of Transportation
 
 "(2)
 
-Resolution of disputes.—Subject to applicable administrative law and procedures, if the Secretary determines that a dispute among interested parties (including outside groups) or government agencies cannot be resolved within a reasonable time frame and could delay finalizing the rulemaking described in subsection (a), or implementation of final standards under such rule, due to controversy over adoption of quiet technology routes, establishment of incentives to encourage adoption of such routes, establishment of incentives to encourage adoption of quite technology, or other measures to achieve substantial restoration of natural quiet, the Secretary shall refer such dispute toa recognized center for environmental conflict resolution."
+Resolution of disputes.—Subject to applicable administrative law and procedures, if the Secretary determines that a dispute among interested parties (including outside groups) or government agencies cannot be resolved within a reasonable time frame and could delay finalizing the rulemaking described in subsection (a), or implementation of final standards under such rule, due to controversy over adoption of quiet technology routes, establishment of incentives to encourage adoption of such routes, establishment of incentives to encourage adoption of quite technology, or other measures to achieve substantial restoration of natural quiet, the Secretary shall refer such dispute to a recognized center for environmental conflict resolution."
 
 #### National Parks Air Tour Management
 
@@ -610,7 +610,7 @@ Duties.—The advisory group shall provide advice, information, and recommendati
 
 &emsp;"(1) on the implementation of this title and the amendments made by this title;
 
-&emsp;"(2) on commonly accepted quiet aircraft technology for use in commercial air tour operations overa national park or tribal lands, which will receive preferential treatment in a given air tour management plan;
+&emsp;"(2) on commonly accepted quiet aircraft technology for use in commercial air tour operations over a national park or tribal lands, which will receive preferential treatment in a given air tour management plan;
 
 &emsp;"(3) on other measures that might be taken to accommodate the interests of visitors to national parks; and
 
@@ -666,7 +666,7 @@ Pub. L. 100–91, Aug. 18, 1987, 101 Stat. 674, as amended by Pub. L. 106–510,
 
 "(a)
 
-Study by Park Service.—The Secretary of the Interior (hereinafter referred to as the 'Secretary'), acting through the Director of the National Park Service, shall conduct a study to determine the proper minimum altitude which should be maintained by aircraft when flying over units of the National Park System. The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration (hereinafter referred to as the 'Administrator'), shall provide technical assistance to the Secretary in carrying out the study.
+Study by Park Service.—The Secretary of the Interior (hereinafter referred to as the 'Secretary'),acting through the Director of the National Park Service, shall conduct a study to determine the proper minimum altitude which should be maintained by aircraft when flying over units of the National Park System. The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration (hereinafter referred to as the 'Administrator'), shall provide technical assistance to the Secretary in carrying out the study.
 
 "(b)
 
@@ -738,7 +738,7 @@ Recommendations.—
 
 &emsp;"(1)
 
-Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], the Secretary shall submit to the Administrator recommendations regarding actions necessary for the protection of resources in the Grand Canyon from adverse impacts associated with aircraft overflights. The recommendations shall provide for substantial restoration of the natural quiet and experience of the park and protection of public health and safety from adverse effects associated with aircraft overflight. Except as provided in subsection (c), the recommendations shall contain provisions prohibiting the flight of aircraft below the rim of the Canyon, and shall designate flight free zones. Such zones shall be flight free except for purposes of administration and for emergency operations, including those required for the transportation of persons and supplies to and from Supai Village and the lands of the Havasupai Indian Tribe of Arizona. The Administrator, after consultation with the Secretary, shall define the rim of the Canyon in a manner consistent with the purposes of this paragraph.
+Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], the Secretary shall submit to the Administrator recommendations regarding actions necessary for the protection of resources in the Grand Canyon from adverse impactsassociated with aircraft overflights. The recommendations shall provide for substantial restoration of the natural quiet and experience of the park and protection of public health and safety from adverse effects associated with aircraft overflight. Except as provided in subsection (c), the recommendations shall contain provisions prohibiting the flight of aircraft below the rim of the Canyon, and shall designate flight free zones. Such zones shall be flight free except for purposes of administration and for emergency operations, including those required for the transportation of persons and supplies to and from Supai Village and the lands of the Havasupai Indian Tribe of Arizona. The Administrator, after consultation with the Secretary, shall define the rim of the Canyon in a manner consistent with the purposes of this paragraph.
 
 &emsp;"(2)
 
@@ -764,7 +764,7 @@ Helicopter Flights of River Runners.—Subsection (b) shall not prohibit the fli
 
 #### "SEC. 4. BOUNDARY WATERS CANOE AREA WILDERNESS.
 
-"The Administrator shall conduct surveillance of aircraft flights over the Boundary Waters Canoe Area Wilderness as authorized by the Act of October 21, 1978 (92 Stat. 1649–1659) for a period of not less than 180 days beginning within 60 days of enactment of this Act \[Aug. 18, 1987\]. In addition to any actions the Administrator may take as a result of such surveillance, he shall provide a report to the Committee on Interior and Insular Affairs and the Committee on Public Works and Transportation of the United States House of Representatives and to the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the United States Senate. Such report is to be submitted within 30 days of completion of the surveillance activities. Such report shall includebut not necessarily be limited to information on the type and frequency of aircraft using the airspace over the Boundary Waters Canoe Area Wilderness.
+"The Administrator shall conduct surveillance of aircraft flights over the Boundary Waters Canoe Area Wilderness as authorized by the Act of October 21, 1978 (92 Stat. 1649–1659) for a period of not less than 180 days beginning within 60 days of enactment of this Act \[Aug. 18, 1987\]. In addition to any actions the Administrator may take as a result of such surveillance, he shall provide a report to the Committee on Interior and Insular Affairs and the Committee on Public Works and Transportation of the United States House of Representatives and to the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the United States Senate. Such report is to be submitted within 30 days of completion of the surveillance activities. Such report shall include but not necessarily be limited to information on the type and frequency of aircraft using the airspace over the Boundary Waters Canoe Area Wilderness.
 
 #### "SEC. 5. ASSESSMENT OF NATIONAL FOREST SYSTEM WILDERNESS OVERFLIGHTS.
 

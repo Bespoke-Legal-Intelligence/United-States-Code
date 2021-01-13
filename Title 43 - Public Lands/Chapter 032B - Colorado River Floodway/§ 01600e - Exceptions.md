@@ -8,7 +8,7 @@ Notwithstanding section 1600d of this title, the appropriate Federal officer, af
 
 &emsp;(c) the maintenance, replacement, reconstruction, repair, and expansion, of publicly or tribally owned or operated roads, structures (including bridges), or facilities: <i>Provided</i>, That, no such expansion shall be permitted unless—
 
-&emsp;&emsp;(1) the expansion is designed and built in accordance with the procedures and standards established in section 650.101 of title 23,Code of Federal Regulations, and the following as they may be amended from time to time; and
+&emsp;&emsp;(1) the expansion is designed and built in accordance with the procedures and standards established in section 650.101 of title 23, Code of Federal Regulations, and the following as they may be amended from time to time; and
 
 &emsp;&emsp;(2) the boundaries of the Floodway are adjusted to account for changes in flows caused, directly or indirectly, by the expansion;
 
@@ -36,13 +36,17 @@ Notwithstanding section 1600d of this title, the appropriate Federal officer, af
 
 (Pub. L. 99–450, §7, Oct. 8, 1986, 100 Stat. 1132; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 113–287, §5(l)(5), Dec. 19, 2014, 128 Stat. 3271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed "The Robert T. Stafford Disaster Relief and Emergency Assistance Act", and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Act was renamed the "Robert T. Stafford Disaster Relief and Emergency Assistance Act" by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 1114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed "The Robert T. Stafford Disaster Relief and Emergency Assistance Act", and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Act was renamed the "Robert T. Stafford Disaster Reliefand Emergency Assistance Act" by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 1114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
 <b>2014</b>—Subsec. (e)(3). Pub. L. 113–287 substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

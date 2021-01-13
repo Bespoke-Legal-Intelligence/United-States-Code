@@ -110,7 +110,7 @@ Waiver Authority.—The Secretary of the military department concerned may waive
 
 Definitions.—For purposes of this section:
 
-&emsp;"(1) The term 'Operation Desert Storm' has the meaning given such term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 (Public Law 102–25; 105 Stat. 77; 10 U.S.C. 101 note).
+&emsp;"(1) The term 'Operation Desert Storm' has the meaning given such term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization andPersonnel Benefits Act of 1991 (Public Law 102–25; 105 Stat. 77; 10 U.S.C. 101 note).
 
 &emsp;"(2) The term 'Persian Gulf War' has the meaning given such term in section 101(33) of title 38, United States Code."
 

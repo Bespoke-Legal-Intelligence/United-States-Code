@@ -16,7 +16,7 @@
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "compliant coal" means coal that contains not less than 1.0 and not more than 1.2 pounds of sulfur dioxide per million Btu; and
+&emsp;&emsp;(A) the term "compliant coal" means coal that contains not less than 1.0 and not morethan 1.2 pounds of sulfur dioxide per million Btu; and
 
 &emsp;&emsp;(B) the term "supercompliant coal" means coal that contains less than 1.0 pounds of sulfur dioxide per million Btu.
 

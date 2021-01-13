@@ -44,6 +44,8 @@ Annual Updates.—Not later than May 1, 2007, and May 1st of each of the next 5 
 
 (Added Pub. L. 109–295, title VI, §621(a), Oct. 4, 2006, 120 Stat. 1412.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsecs. (a) and (b)(1), is the date of enactment of Pub. L. 109–295, which was approved Oct. 4, 2006.

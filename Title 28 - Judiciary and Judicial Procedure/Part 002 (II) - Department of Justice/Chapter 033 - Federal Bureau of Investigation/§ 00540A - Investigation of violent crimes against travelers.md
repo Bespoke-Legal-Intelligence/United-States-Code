@@ -20,9 +20,13 @@ Definitions.—In this section—
 
 (Added Pub. L. 103–322, title XXXII, §320916(a), Sept. 13, 1994, 108 Stat. 2129; amended Pub. L. 104–294, title VI, §604(b)(21), Oct. 11, 1996, 110 Stat. 3507.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

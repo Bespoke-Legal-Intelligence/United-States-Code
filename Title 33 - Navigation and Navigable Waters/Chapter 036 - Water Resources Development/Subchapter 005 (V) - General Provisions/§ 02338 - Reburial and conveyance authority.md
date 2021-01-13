@@ -30,9 +30,13 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 (Pub. L. 106–541, title II, §208, Dec. 11, 2000, 114 Stat. 2590.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

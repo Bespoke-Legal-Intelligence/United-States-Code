@@ -22,7 +22,7 @@ Monthly Special Pay.—Each of the following officers is entitled to special pay
 
 &emsp;&emsp;&emsp;(ii) is an officer in the Biomedical Sciences Corps of the Air Force and holds a degree in veterinary medicine; or
 
-&emsp;&emsp;(C) who is a veterinary officer of the Reserve Corps of the Public Health Service,
+&emsp;&emsp;(C) who is a veterinary officer of the Reserve Corps <sup>1</sup> of the Public Health Service,
 
 > &emsp;who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
@@ -64,6 +64,8 @@ In subsection (a), clause (1) is substituted for section 234(c)(1), (2), and (3)
 
 In subsection (b), the words "disability retirement pay" are omitted as covered by the words "retired pay".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(1)\], substituted "who is an officer in the Biomedical Sciences Corps and holds a degree in veterinary medicine" for "who is designated as a veterinary officer".
@@ -76,7 +78,7 @@ Subsec. (a)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(2)\], ad
 
 <b>1987</b>—Pub. L. 100–180 substituted semicolon for comma at end of par. (2)(A) and "; or" for ", or" at end of par. (2)(B).
 
-Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), semicolon for comma at end of par. (1)(A), "; or" for ", or" at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for "; and" at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could not be executed because no comma appeared at end of par. (1)(B).
+Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), semicolon for comma at end of par.\(1)(A), "; or" for ", or" at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for "; and" at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could not be executed because no comma appeared at end of par. (1)(B).
 
 <b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
@@ -94,6 +96,12 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–2 substituted "July 1, 1967" for "July 1, 1963" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–65, div. A, title VI, §616(b), Oct. 5, 1999, 113 Stat. 652, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to months beginning on and after that date."
@@ -105,4 +113,6 @@ Amendment by Pub. L. 95–114 effective Oct. 1, 1977, see section 4 of Pub. L. 9
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -15,3 +15,4 @@ Part A—Improved Privacy Provisions and Security Provisions
 - [&sect; 17938 - Business associate contracts required for certain entities](%C2%A7%2017938%20-%20Business%20associate%20contracts%20required%20for%20certain%20entities.md)
 - [&sect; 17939 - Improved enforcement](%C2%A7%2017939%20-%20Improved%20enforcement.md)
 - [&sect; 17940 - Audits](%C2%A7%2017940%20-%20Audits.md)
+- [&sect; 17941 - Recognition of security practices](%C2%A7%2017941%20-%20Recognition%20of%20security%20practices.md)

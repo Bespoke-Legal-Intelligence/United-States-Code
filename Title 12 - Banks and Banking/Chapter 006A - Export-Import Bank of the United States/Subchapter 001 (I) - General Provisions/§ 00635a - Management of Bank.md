@@ -128,7 +128,7 @@ Material change defined.—In clause (i), the term "material change", with respe
 
 &emsp;(E)
 
-Requirement to address views of commenters.—Before taking final action on an application to which this paragraph applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any personwho submitted comments on the application pursuant to this paragraph.
+Requirement to address views of commenters.—Before taking final action on an application to which this paragraph applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any person who submitted comments on the application pursuant to this paragraph.
 
 &emsp;(F)
 
@@ -172,7 +172,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;There is established a Small Business Division (in this subsection referred to as the "Division") within the Bank in order to—
 
-&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy forsmall business concerns (as defined in section 632(a) of title 15);
 
 &emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
 
@@ -192,7 +192,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Dedicated personnel
 
-&emsp;The President of the Bank shall ensure that each operating division within the Bank has staff that specializes in processing transactions that primarily benefit small businessconcerns (as defined in section 632(a) of title 15).
+&emsp;The President of the Bank shall ensure that each operating division within the Bank has staff that specializes in processing transactions that primarily benefit small business concerns (as defined in section 632(a) of title 15).
 
 #### (2) Responsibilities
 
@@ -256,7 +256,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (B) Other members
 
-&emsp;&emsp;Except as otherwise provided in this subsection, the President of the Bank shall determine the composition of the Small Business Committee, and shall appoint or remove the members of the Small BusinessCommittee. In making such appointments, the President of the Bank shall ensure that the Small Business Committee is comprised of—
+&emsp;&emsp;Except as otherwise provided in this subsection, the President of the Bank shall determine the composition of the Small Business Committee, and shall appoint or remove the members of the Small Business Committee. In making such appointments, the President of the Bank shall ensure that the Small Business Committee is comprised of—
 
 &emsp;&emsp;&emsp;(i) the senior managing officers responsible for underwriting and processing transactions; and
 
@@ -418,11 +418,13 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;&emsp;(B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I,§113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
 
 #### Termination of Amendment
 
 <i>For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -496,6 +498,8 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 
 <b>1954</b>—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date of 2019 Amendment
 
 Pub. L. 116–94, div. I, title IV, §409(b), Dec. 20, 2019, 133 Stat. 3026, provided that: "The amendments made by subsection (a) \[amending this section\] shall have no force or effect after December 31, 2026."
@@ -532,7 +536,7 @@ Report to the congress.—Within 1 year after the date of the enactment of this 
 
 #### Board of Directors; Exception to Quorum Requirement
 
-Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485,provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
 
 #### Compensation of Employees
 
@@ -560,9 +564,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;"(B) whether or not the authority of subsection (a) should be extended."
 
-\[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until September 30, 2015".\]
+\[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) of such section shall remain in effect until September 30, 2021".\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 
 \[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
 
@@ -612,7 +618,9 @@ A Board of Directors and an Advisory Committee reestablished for the Export-Impo
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Foreign Economic Administration
 

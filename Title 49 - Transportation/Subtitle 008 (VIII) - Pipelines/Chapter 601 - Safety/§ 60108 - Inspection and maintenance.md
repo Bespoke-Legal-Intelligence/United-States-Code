@@ -2,19 +2,41 @@
 
 (a)
 
-Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspectionand maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
+Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
-(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
+(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety, must meet the requirements of any regulations promulgated under section 60102(q), and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
 &emsp;(A) relevant available pipeline safety information;
 
 &emsp;(B) the appropriateness of the plan for the particular kind of pipeline transportation or facility;
 
-&emsp;(C) the reasonableness of the plan; and
+&emsp;(C) the reasonableness of the plan;
 
-&emsp;(D) the extent to which the plan will contribute to public safety and the protection of the environment.
+&emsp;(D) the extent to which the plan will contribute to—
 
-(3) A plan required under this subsection shall be made available to the Secretary or State authority on request under section 60117 of this title.
+&emsp;&emsp;(i) public safety;
+
+&emsp;&emsp;(ii) eliminating hazardous leaks and minimizing releases of natural gas from pipeline facilities; and
+
+&emsp;&emsp;(iii) the protection of the environment; and
+
+&emsp;(E) the extent to which the plan addresses the replacement or remediation of pipelines that are known to leak based on the material (including cast iron, unprotected steel, wrought iron, and historic plastics with known issues), design, or past operating and maintenance history of the pipeline.
+
+(3)
+
+Review of plans.—
+
+&emsp;(A)
+
+In general.—Not later than 2 years after the date of enactment of this subparagraph, and not less frequently than once every 5 years thereafter, the Secretary or relevant State authority with a certification in effect under section 60105 shall review each plan described in this subsection.
+
+&emsp;(B)
+
+Context of review.—The Secretary may conduct a review under this paragraph as an element of the inspection of the operator carried out by the Secretary under subsection (b).
+
+&emsp;(C)
+
+Inadequate programs.—If the Secretary determines that a plan reviewed under this paragraph does not comply with the requirements of this chapter (including any regulations promulgated under this chapter), has not been adequately implemented, is inadequate for the safe operation of a pipeline facility, or is otherwise inadequate, the Secretary may conduct enforcement proceedings under this chapter.
 
 (b)
 
@@ -22,7 +44,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(A) the location of the pipeline facility.
 
-&emsp;(B) the type, size, age, manufacturer, method of construction, and condition of the pipeline facility.
+&emsp;(B) the type, size, age, manufacturer, method of construction, construction material, and condition of the pipeline facility.
 
 &emsp;(C) the nature and volume of material transported through the pipeline facility.
 
@@ -70,7 +92,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigationalsafety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -112,7 +134,7 @@ In General.—After the completion of a Pipeline and Hazardous Materials Safety 
 
 &emsp;(2) within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917; Pub. L. 114–183, §7(a), June 22, 2016, 130 Stat. 518.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917; Pub. L. 114–183, §7(a), June 22, 2016, 130 Stat. 518; Pub. L. 116–260, div. R, title I, §114(a), Dec. 27, 2020, 134 Stat. 2230.)
 
 Historical and Revision Notes
 
@@ -304,11 +326,21 @@ In subsection (d)(2), the words "(relating to coordination of Federal informatio
 
 #### References in Text
 
-Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
+The date of enactment of this subparagraph, referred to in subsec. (a)(3)(A), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
+Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation,prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of Pub. L. 96–129, which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §114(a)(1)(A)(i), in introductory provisions, inserted ", must meet the requirements of any regulations promulgated under section 60102(q)," after "the need for pipeline safety".
+
+Subsec. (a)(2)(D), (E). Pub. L. 116–260, §114(a)(1)(A)(ii), (iii), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "the extent to which the plan will contribute to public safety and the protection of the environment."
+
+Subsec. (a)(3). Pub. L. 116–260, §114(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "A plan required under this subsection shall be made available to the Secretary or State authority on request under section 60117 of this title."
+
+Subsec. (b)(1)(B). Pub. L. 116–260, §114(a)(2), inserted "construction material," after "method of construction,".
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–183 added subsec. (e).
 
@@ -339,6 +371,10 @@ Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted "standard
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deadline
+
+Pub. L. 116–260, div. R, title I, §114(b), Dec. 27, 2020, 134 Stat. 2231, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], each pipeline operator shall update the inspection and maintenance plan prepared by the operator under section 60108(a) of title 49, United States Code, to address the elements described in the amendments to that section made by subsection (a)."
 
 #### Information-Sharing System
 
@@ -420,7 +456,7 @@ Establishment of Database.—The Secretary may establish, if appropriate, a nati
 
 &emsp;"(1) after submission of the report required under subsection (a); or
 
-&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee onEnergy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
+&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
 
 #### Report on Natural Gas Leak Reporting
 
@@ -504,7 +540,7 @@ Congressional authority.—In order to provide Congress the necessary time to re
 
 &emsp;"(3)
 
-Standards.—As soon as practicable following the review period, if the report required by subsection (a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
+Standards.—As soon as practicable following the review period, if the report required by subsection\(a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
 
 &emsp;&emsp;"(A) require operators of hazardous liquid pipeline facilities to use leak detection systems where practicable; and
 

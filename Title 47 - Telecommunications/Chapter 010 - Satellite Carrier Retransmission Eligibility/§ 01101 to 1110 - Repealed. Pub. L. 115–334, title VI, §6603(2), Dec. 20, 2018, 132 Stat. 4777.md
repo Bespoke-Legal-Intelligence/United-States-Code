@@ -4,7 +4,7 @@ Section 1101, Pub. L. 106–553, §1(a)(2) \[title X, §1002\], Dec. 21, 2000, 1
 
 Section 1102, Pub. L. 106–553, §1(a)(2) \[title X, §1003\], Dec. 21, 2000, 114 Stat. 2762, 2762A–128, related to establishment of the LOCAL Television Loan Guarantee Board.
 
-Section 1103, Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129; Pub. L. 107–171, title VI, §6404(b)(1), May 13, 2002, 116 Stat. 430; Pub. L.110–289, div. A, title II, §1216(f), July 30, 2008, 122 Stat. 2792, related to approval of loan guarantees.
+Section 1103, Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129; Pub. L. 107–171, title VI, §6404(b)(1), May 13, 2002, 116 Stat. 430; Pub. L. 110–289, div. A, title II, §1216(f), July 30, 2008, 122 Stat. 2792, related to approval of loan guarantees.
 
 Section 1104, Pub. L. 106–553, §1(a)(2) \[title X, §1005\], Dec. 21, 2000, 114 Stat. 2762, 2762A–134; Pub. L. 107–171, title VI, §6404(b)(2), May 13, 2002, 116 Stat. 430, related to administration of loan guarantees.
 
@@ -19,6 +19,8 @@ Section 1108, Pub. L. 106–553, §1(a)(2) \[title X, §1010\], Dec. 21, 2000, 1
 Section 1109, Pub. L. 106–553, §1(a)(2) \[title X, §1011\], Dec. 21, 2000, 114 Stat. 2762, 2762A–141; Pub. L. 107–171, title VI, §6404(a), May 13, 2002, 116 Stat. 429, related to authorizations of appropriations.
 
 Section 1110, Pub. L. 106–553, §1(a)(2) \[title X, §1012\], Dec. 21, 2000, 114 Stat. 2762, 2762A–141, related to prevention of interference to direct broadcast satellite services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -36,9 +36,13 @@ No Charge Against Entitlement.—Any amount paid an individual under this sectio
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(6), Oct. 13, 2010, 124 Stat. 2896.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(2)(B). Pub. L. 111–275 substituted "higher learning" for "higher education".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

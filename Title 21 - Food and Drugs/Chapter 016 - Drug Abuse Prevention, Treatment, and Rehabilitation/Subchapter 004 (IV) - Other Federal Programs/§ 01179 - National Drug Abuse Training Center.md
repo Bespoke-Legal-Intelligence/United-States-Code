@@ -20,7 +20,9 @@ The services and facilities of the Center shall, in accordance with regulations 
 
 (Pub. L. 92–255, title IV, §412, Mar. 21, 1972, 86 Stat. 84.)
 
-#### National Advisory Council for Drug Abuse Prevention
+#### <b>Editorial Notes</b>
 
-Section 1151 of this title, which established the National Advisory Council for Drug Abuse Prevention, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
+#### References in Text
+
+The National Advisory Council for Drug Abuse Prevention, referred to in subsec. (a), was established by section 1151 of this title, which was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 

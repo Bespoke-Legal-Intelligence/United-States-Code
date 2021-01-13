@@ -88,6 +88,8 @@ Libraries.—A library (as that term is defined in section 213(1) of the Library
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, §116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–23, §501(a), substituted "may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request" for "may" in introductory provisions.
@@ -104,7 +106,7 @@ Subsec. (f). Pub. L. 109–178, §5, added subsec. (f).
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–56, §505(a)(1), inserted "at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director" after "Deputy Assistant Director" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out "in a position not lower than Deputy Assistant Director" after "(or his designee" and substituted "made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and" for "made that—
+Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out "in a position not lower than Deputy Assistant Director" after "(or his designee" and substituted "made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism orclandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and" for "made that—
 
 &emsp;"(A) the name, address, length of service, and toll billing records sought are relevant to an authorized foreign counterintelligence investigation; and
 
@@ -131,6 +133,8 @@ Required Certification.—The Director of the Federal Bureau of Investigation (o
 &emsp;"(2) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)."
 
 Subsec. (e). Pub. L. 103–142, §2, inserted ", and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate," after "Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

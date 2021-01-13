@@ -2,7 +2,7 @@
 
 (a)
 
-Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and controlover, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
+Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and control over, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
 
 (b)
 
@@ -50,7 +50,7 @@ Pentagon Reservation Maintenance Revolving Fund.—(1) There is established in t
 
 (4)(A) Except as provided in subparagraph (B), the authority of the Secretary to use monies from the Fund to support construction or alteration activities at the Pentagon Reservation expires on September 30, 2012.
 
-(B) Notwithstanding the date specified in subparagraph (A), the Secretary may use monies from the Fund after that date to support construction or alteration activities at the Pentagon Reservation within the limits specified in section 2805 of this title.
+(B) Notwithstanding the date specified in subparagraph (A), the Secretary may use moniesfrom the Fund after that date to support construction or alteration activities at the Pentagon Reservation within the limits specified in section 2805 of this title.
 
 (f)
 
@@ -60,7 +60,7 @@ Definitions.— In this section:
 
 &emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres)and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
+&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
 
 &emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 114–328, §2829E(d)(5), inserted heading.
 
 Subsec. (f). Pub. L. 114–328, §2829E(d)(6), inserted heading.
 
-Subsec. (f)(1). Pub. L. 114–328, §2829E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'Pentagon Reservation' means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles."
+Subsec. (f)(1). Pub. L. 114–328, §2829E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "The term 'Pentagon Reservation' means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles."
 
 Subsec. (f)(3) to (5). Pub. L. 114–328, §2829E(a)(2), added pars. (3) to (5).
 

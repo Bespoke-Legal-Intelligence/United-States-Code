@@ -36,7 +36,7 @@ The Secretary shall approve applications under subsection (b) that are not subje
 
 &emsp;(3) the capability of the applicant to carry out the plan; and
 
-&emsp;(4) the extent to which tenants, the local government and the local community support and participate in the design and implementation of the activities proposed to be funded under the application.
+&emsp;(4) the extent to which tenants, the local government and the local community supportand participate in the design and implementation of the activities proposed to be funded under the application.
 
 #### (d) Federally assisted low-income housing
 

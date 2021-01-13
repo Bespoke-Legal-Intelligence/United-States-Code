@@ -10,7 +10,7 @@ For purposes of this chapter, the term—
 
 &emsp;(d) "Indian" means a person who is a member of an Indian tribe;
 
-&emsp;(e) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+&emsp;(e) "Indian tribe" or "Indian Tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
 &emsp;(f) "indirect costs" means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
 
@@ -20,11 +20,15 @@ For purposes of this chapter, the term—
 
 &emsp;(i) "Secretary", unless otherwise designated, means either the Secretary of Health and Human Services or the Secretary of the Interior or both;
 
-&emsp;(j) "self-determination contract" means a contract (or grant or cooperative agreement utilized under section 5308 of this title) entered into under subchapter I of this chapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: <i>Provided</i>, That except as provided <sup>1</sup> the last proviso in section 5324(a) <sup>2</sup> of this title, no contract (or grant or cooperative agreement utilized under section 5308 of this title) entered into under subchapter I of this chapter shall be construed to be a procurement contract;
+&emsp;(j) "self-determination contract" means a contract entered into under subchapter I (or a grant or cooperative agreement used under section 5308 of this title) between a Tribal organization and the appropriate Secretary for the planning, conduct, and administration of programs or services that are otherwise provided to Indian Tribes and members of Indian Tribes pursuant to Federal law, subject to the condition that, except as provided in section 5324(a)(3) of this title, no contract entered into under subchapter I (or grant or cooperative agreement used under section 5308 of this title) shall be—
+
+&emsp;&emsp;(1) considered to be a procurement contract; or
+
+&emsp;&emsp;(2) except as provided in section 5328(a)(1) of this title, subject to any Federal procurement law (including regulations);
 
 &emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
-&emsp;(l) "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
+&emsp;(l) "Tribal organization" or "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
 &emsp;(m) "construction contract" means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
 
@@ -34,7 +38,9 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(3) for the health facility maintenance and improvement program administered by the Secretary of Health and Human Services.
 
-(Pub. L. 93–638, §4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, §103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, §208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, §2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, §202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, §102(1), Oct. 25, 1994, 108 Stat. 4250.)
+(Pub. L. 93–638, §4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, §103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, §208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, §2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, §202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, §102(1), Oct. 25, 1994, 108 Stat. 4250; Pub. L. 116–180, title II, §201(a), Oct. 21, 2020, 134 Stat. 878.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -42,15 +48,19 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
-Subchapter I of this chapter, referred to in subsec. (j), was in the original "title I of this act", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
-
-Section 5324(a) of this title, referred to in subsec. (j), was repealed and a new subsec. (a) of section 5324 was added by Pub. L. 103–413, title I, §102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
+Subchapter I, referred to in subsec. (j), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
 Section was formerly classified to section 450b of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e). Pub. L. 116–180, §201(a)(2)(A), substituted " 'Indian tribe' or 'Indian Tribe' means" for " 'Indian tribe' means".
+
+Subsec. (j). Pub. L. 116–180, §201(a)(1), added subsec. (j) and struck out former subsec. (j) which defined "self-determination contract".
+
+Subsec. (l). Pub. L. 116–180, §201(a)(2)(B), substituted " 'Tribal organization' or 'tribal organization' means" for " 'tribal organization' means".
 
 <b>1994</b>—Subsec. (g). Pub. L. 103–413, §102(1)(A), substituted "indirect cost rate" for "indirect costs rate".
 
@@ -60,7 +70,7 @@ Subsec. (m). Pub. L. 103–413, §102(1)(B)–(D), added subsec. (m).
 
 Subsec. (h). Pub. L. 101–644, §202(1), struck out "in existence on October 5, 1988," before "which meets this definition".
 
-Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or cooperative agreement utilized under section 5308 of this title) entered" for "contract entered" in two places.
+Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or cooperative agreement utilized undersection 5308 of this title) entered" for "contract entered" in two places.
 
 Pub. L. 101–301, §2(a)(2), (3), substituted "under this chapter" for "pursuant to this Act" in two places and struck out "the" before "Secretary".
 
@@ -71,8 +81,4 @@ Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted "by a tribal organizati
 Pub. L. 100–581, §208(a)(2), which directed the amendment of subsec. (h) by substituting "a tribal organization or the tribal organization's Indian tribe for purposes of section 5321(a) of this title" for "a tribal organization or a tribal governing body" was executed by substituting the new language for "a tribal organization or tribal governing body" to reflect the probable intent of Congress.
 
 Subsec. (j). Pub. L. 100–581, §208(b), substituted "the Secretary for the planning" for "Secretary the planning" and "except as provided the last proviso in section 5324(a) of this title, no contract" for "no contract".
-
-<i><sup>1</sup></i><i> So in original. Probably should be "provided in".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

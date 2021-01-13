@@ -6,6 +6,8 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, §514(a), (c), (d), July 10, 1984, 98 Stat. 387.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–353, §514(a), substituted "Implementation" for "Execution" in section catchline.
@@ -14,7 +16,9 @@ Subsec. (a). Pub. L. 98–353, §514(c), struck out the comma after "shall carry
 
 Subsec. (b). Pub. L. 98–353, §514(d), inserted "a" after "by".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

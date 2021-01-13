@@ -92,7 +92,7 @@ In subsection (c), the words "departments, agencies, and instrumentalities of th
 
 In subsection (d), the words "The Secretary" are added for clarity. The words "effective date" are substituted for "the date . . . is to take effect" to eliminate unnecessary words. The words "under this chapter" are added for clarity. The words "However, the Secretary may prescribe a different effective date" are substituted for "unless the Secretary" for clarity. The word "different" is substituted for "earlier or later" to eliminate unnecessary words.
 
-In subsection (e), the words "duties and powers" are substituted for "responsibilities", and the word"change" is substituted for "adjust", and for clarity and consistency in the revised title.
+In subsection (e), the words "duties and powers" are substituted for "responsibilities", and the word "change" is substituted for "adjust", and for clarity and consistency in the revised title.
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Limitations.—
 
 &emsp;"(1)
 
-Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with any adopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
+Compliance with successor standards.—Any rule promulgated pursuant to this section may notprohibit the operation on public roads of agricultural equipment that is equipped in accordance with any adopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
 
 &emsp;"(2)
 
@@ -298,7 +298,7 @@ Phase-in period required.—The safety standards prescribed pursuant to subsecti
 
 &emsp;"(2)
 
-Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles basedon data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
+Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
 
 &emsp;&emsp;"(A) which type or types of motor vehicles shall be phased-in first; and
 

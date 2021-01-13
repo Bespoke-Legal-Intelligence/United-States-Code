@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 
@@ -170,7 +170,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (5) National laboratories
 
-&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a center established under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
+&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a centerestablished under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
 
 #### (6) Disclosure
 
@@ -330,11 +330,53 @@ There are authorized to be appropriated to carry out—
 
 &emsp;(6) the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.
 
-(Pub. L. 110–140, title VI, §641, Dec. 19, 2007, 121 Stat. 1688.)
+#### (q) Critical material recycling and reuse research, development, and demonstration program
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Critical material
+
+&emsp;&emsp;The term "critical material" has the meaning given the term in 1606 of title 30.
+
+#### (B) Critical material recycling
+
+&emsp;&emsp;The term "critical material recycling" means the separation and recovery of critical materials embedded within an energy storage system through physical or chemical means for the purpose of reuse of those critical materials in other technologies.
+
+#### (2) Establishment
+
+&emsp;Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program for critical material recycling and reuse of energy storage systems containing critical materials.
+
+#### (3) Research, development, and demonstration
+
+&emsp;In carrying out the program established under paragraph (1), the Secretary shall conduct—
+
+&emsp;&emsp;(A) research, development, and demonstration activities for—
+
+&emsp;&emsp;&emsp;(i) technologies, process improvements, and design optimizations that facilitate and promote critical material recycling of energy storage systems, including separation and sorting of component materials of such systems, and extraction, recovery, and reuse of critical materials from such systems;
+
+&emsp;&emsp;&emsp;(ii) technologies and methods that mitigate emissions and environmental impacts that arise from critical material recycling, including disposal of toxic reagents and byproducts related to critical material recycling processes;
+
+&emsp;&emsp;&emsp;(iii) technologies to enable extraction, recovery, and reuse of energy storage systems from electric vehicles and critical material recycling from such vehicles; and
+
+&emsp;&emsp;&emsp;(iv) technologies and methods to enable the safe transport, storage, and disposal of energy storage systems containing critical materials, including waste materials and components recovered during the critical material recycling process; and
+
+&emsp;&emsp;(B) research on nontechnical barriers to improve the collection and critical material recycling of energy storage systems, including strategies to improve consumer education of, acceptance of, and participation in, the critical material recycling of energy storage systems.
+
+#### (4) Report to Congress
+
+&emsp;Not later than 2 years after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the activities, findings, and progress of the program.
+
+(Pub. L. 110–140, title VI, §641, Dec. 19, 2007, 121 Stat. 1688; Pub. L. 116–260, div. Z, title III, §3201(e), Dec. 27, 2020, 134 Stat. 2523.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (q). Pub. L. 116–260 added subsec. (q).
 
 #### Effective Date
 

@@ -6,11 +6,13 @@
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 540; amended Pub. L. 87–338, Oct. 3, 1961, 75 Stat. 751; Pub. L. 89–64, July 7, 1965, 79 Stat. 210; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–64 substituted "subject to a civil penalty of not more than $1,000 which shall be recoverable in a civil action brought in the name of the United States" for "fined not more than $1,000, or imprisoned not more than one year, or both".
+<b>1965</b>—Subsec. (a). Pub. L. 89–64 substituted "subject to a civil penalty of not more than $1,000 which shall berecoverable in a civil action brought in the name of the United States" for "fined not more than $1,000, or imprisoned not more than one year, or both".
 
 <b>1961</b>—Pub. L. 87–338 designated existing provisions as subsec. (a), struck out "willfully" before "imparts or conveys", and added subsec. (b).
 

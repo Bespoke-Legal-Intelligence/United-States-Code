@@ -96,7 +96,7 @@ Team or subset.—The employees included within the team or subset described in 
 
 #### Examination of Both Paper and Electronic Statements and Returns
 
-Pub. L. 116–25, title II, §2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper."
+Pub. L. 116–25, title II, §2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall examine thestatements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper."
 
 #### Underreporting of Income
 
@@ -120,7 +120,7 @@ Standards and Procedures To Be Considered.—The guidelines described in subsect
 
 &emsp;&emsp;"(B) the maximum length of time, on average, a taxpayer who is a victim of stolen identity refund fraud and is entitled to a tax refund which has been stolen should have to wait to receive such refund; and
 
-&emsp;&emsp;"(C) the maximum number of offices and employees within the Internal Revenue Service with whoma taxpayer who is a victim of stolen identity refund fraud should be required to interact in order to resolve a case;
+&emsp;&emsp;"(C) the maximum number of offices and employees within the Internal Revenue Service with whom a taxpayer who is a victim of stolen identity refund fraud should be required to interact in order to resolve a case;
 
 &emsp;"(2) standards for opening, assigning, reassigning, or closing a case involving stolen identity refund fraud; and
 

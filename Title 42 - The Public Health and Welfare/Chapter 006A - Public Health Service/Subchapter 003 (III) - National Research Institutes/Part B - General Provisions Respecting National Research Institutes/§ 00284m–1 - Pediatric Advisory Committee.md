@@ -8,7 +8,7 @@ The Secretary of Health and Human Services shall, under section 217a of this tit
 
 #### (1) In general
 
-&emsp;The advisory committee shall advise and make recommendations to the Secretary, through the Commissioner of Food and Drugs,on matters relating to pediatric therapeutics (including drugs and biological products) and medical devices.
+&emsp;The advisory committee shall advise and make recommendations to the Secretary, through the Commissioner of Food and Drugs, on matters relating to pediatric therapeutics (including drugs and biological products) and medical devices.
 
 #### (2) Matters included
 

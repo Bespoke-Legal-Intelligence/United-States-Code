@@ -10,7 +10,7 @@ In making grants and contracts under this section the Secretary shall take into 
 
 #### (c) Reduction of grant amount
 
-The Secretary, at the request of a recipient of a grant under subsection (a), may reduce the amount of such grant by the fair market valueof any supplies or equipment furnished the grant recipient by the Secretary. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment on which the reduction of such grant is based. Such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+The Secretary, at the request of a recipient of a grant under subsection (a), may reduce the amount of such grant by the fair market value of any supplies or equipment furnished the grant recipient by the Secretary. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment on which the reduction of such grant is based. Such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (d) Authorization of appropriations
 
@@ -56,7 +56,7 @@ Amendment by sections 202(a) and 204(a), (b) of Pub. L. 94–63 effective July 1
 
 #### Study as to Discrimination by Schools of Medicine, Nursing, or Osteopathy Against Applicants Because of Reluctance or Willingness To Participate in Abortions or Sterilizations; Report Not Later Than February 1, 1978
 
-Pub. L. 95–215, §7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Health, Education, and Welfare to conduct a study and report to specific committees of Congress not later than Feb. 1, 1978, as to whether schools of medicine, nursing, or osteopathy discriminate against applicants because of applicant's reluctance or unwillingness to participate in performance of abortions or sterilizations contrary to religious beliefs or moral convictions.
+Pub. L. 95–215, §7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Health, Education, and Welfare to conduct a study and report to specific committees of Congress not later than Feb. 1, 1978, as to whether schools of medicine, nursing, or osteopathy discriminate against applicants because of applicant's reluctance or unwillingness to participate in performance of abortions orsterilizations contrary to religious beliefs or moral convictions.
 
 #### Congressional Declaration of Purpose
 

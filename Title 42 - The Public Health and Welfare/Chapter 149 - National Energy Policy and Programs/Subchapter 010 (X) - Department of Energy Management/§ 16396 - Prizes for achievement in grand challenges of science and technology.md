@@ -2,11 +2,11 @@
 
 #### (a) Authority
 
-The Secretary may carry out a program to award cash prizes in recognition of breakthrough achievements in research, development,demonstration, and commercial application that have the potential for application to the performance of the mission of the Department.
+The Secretary may carry out a program to award cash prizes in recognition of breakthrough achievements in research, development, demonstration, and commercial application that have the potential for application to the performance of the mission of the Department.
 
 #### (b) Competition requirements
 
-The program under subsection (a) may include prizes for the achievement of goals articulated by the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
+The program under subsection (a) may include prizes for the achievement of goals articulatedby the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
 
 #### (c) Prizes for processes and technologies to reduce dependence on imported oil
 
@@ -16,7 +16,19 @@ The Secretary, in cooperation with the Freedom Prize Foundation, shall support a
 
 The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
 
-#### (e) Authorization of appropriations
+#### (e) Coordination
+
+In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+
+&emsp;(1) issue Department-wide guidance on the design, development, and implementation of prize competitions;
+
+&emsp;(2) collect and disseminate best practices on the design and administration of prize competitions;
+
+&emsp;(3) streamline contracting mechanisms for the implementation of prize competitions; and
+
+&emsp;(4) provide training and prize competition design support, as necessary, to Department staff to develop prize competitions and challenges.
+
+#### (f) Authorization of appropriations
 
 There are authorized to be appropriated—
 
@@ -24,7 +36,7 @@ There are authorized to be appropriated—
 
 &emsp;(2) $5,000,000 to carry out the program under subsection (c).
 
-#### (f) H-prize
+#### (g) H-prize
 
 #### (1) Prize authority
 
@@ -60,11 +72,11 @@ There are authorized to be appropriated—
 
 #### (D) Funding sources
 
-&emsp;&emsp;Prizes under this subsection shall consist of Federal appropriated funds and any funds provided by the administering entity (including funds raised pursuant to subparagraph (C)(ii)) for such cash prize programs. The Secretary may accept funds from other Federal agencies for such cash prizes and, notwithstanding section 3302(b) of title 31, may use such funds for the cash prize program under this subsection. Other than publication of the names of prize sponsors, the Secretary may not give any special consideration to any private sector entity or individual in return for a donation to the Secretary or administering entity.
+&emsp;&emsp;Prizes under this subsection shall consist of Federal appropriated funds and any funds provided by the administering entity (including funds raised pursuant to subparagraph (C)(ii)) for such cash prize programs. The Secretary may accept funds from other Federal agencies for such cash prizes and,notwithstanding section 3302(b) of title 31, may use such funds for the cash prize program under this subsection. Other than publication of the names of prize sponsors, the Secretary may not give any special consideration to any private sector entity or individual in return for a donation to the Secretary or administering entity.
 
 #### (E) Announcement of prizes
 
-&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announcedamount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
+&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize; and
 
@@ -122,7 +134,7 @@ There are authorized to be appropriated—
 
 &emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation with the administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
 
-&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, oragent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
+&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
 
 &emsp;&emsp;&emsp;(ii) have a familial or financial relationship with an individual who is a registered participant in the prize competition for which he or she will serve as a judge.
 
@@ -190,15 +202,23 @@ There are authorized to be appropriated—
 
 #### (B) Carryover of funds
 
-&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
+&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposesonly after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
 
 #### (8) Nonsubstitution
 
 &emsp;The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 
-(Pub. L. 109–58, title X, §1008, Aug. 8, 2005, 119 Stat. 933; Pub. L. 110–140, title VI, §654, Dec. 19, 2007, 121 Stat. 1695.)
+(Pub. L. 109–58, title X, §1008, Aug. 8, 2005, 119 Stat. 933; Pub. L. 110–140, title VI, §654, Dec. 19, 2007, 121 Stat. 1695; Pub. L. 116–260, div. Z, title IX, §9004, Dec. 27, 2020, 134 Stat. 2598.)
+
+#### References in Text
+
+Section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, referred to in subsec. (e), is section 105 of Pub. L. 111–358, title I, Jan. 4, 2011, 124 Stat. 3989, which enacted section 3719 of Title 15, Commerce and Trade, and amended section 20144 of Title 51, National and Commercial Space Programs.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e). Pub. L. 116–260 added subsec. (e). Former subsec. (e) redesignated (f) as the probable intent of Congress.
+
+Subsecs. (f) to (h). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsecs. (e) and (f) as (f) and (g), respectively, to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–140 added subsec. (f).
 

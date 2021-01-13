@@ -14,7 +14,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(6) "lease site" means any lands or submerged lands, including the surface of a severed mineral estate, on which exploration for, or extraction or removal of, oil or gas is authorized pursuant to a lease;
 
-&emsp;(7) "lessee" means any person to whom the United States issues an oil and gas lease or any person to whom operating rights in a lease have been assigned;
+&emsp;(7) "lessee" means any person to whom the United States issues an oil and gas lease orany person to whom operating rights in a lease have been assigned;
 
 &emsp;(8) "mineral leasing law" means any Federal law administered by the Secretary authorizing the disposition under lease of oil or gas;
 
@@ -52,7 +52,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(B) with respect to a demand, the receipt by the Secretary or a delegated State or a lessee or its designee (with written notice to the lessee who designated the designee) of the demand;
 
-&emsp;(21) "credit" means the application of an overpayment (in whole or in part) against anobligation which has become due to discharge, cancel or reduce the obligation;
+&emsp;(21) "credit" means the application of an overpayment (in whole or in part) against an obligation which has become due to discharge, cancel or reduce the obligation;
 
 &emsp;(22) "delegated State" means a State which, pursuant to an agreement or agreements under section 1735 of this title, performs authorities, duties, responsibilities, or activities of the Secretary;
 
@@ -114,6 +114,8 @@ For the purposes of this chapter, the term—
 
 (Pub. L. 97–451, §3, Jan. 12, 1983, 96 Stat. 2448; Pub. L. 92–203, §29(f)(1), as added Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813; Pub. L. 104–185, §2, Aug. 13, 1996, 110 Stat. 1700; Pub. L. 104–200, §1(1), Sept. 22, 1996, 110 Stat. 2421.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Act of June 28, 1906 (34 Stat. 539), referred to in par. (3), is not classified to the Code.
@@ -131,6 +133,8 @@ Par. (25)(B). Pub. L. 104–200, substituted "provisions of section 1712(a)" for
 Pars. (26) to (33). Pub. L. 104–185, §2(2), added pars. (26) to (33).
 
 <b>1988</b>—Pars. (3), (4). Pub. L. 92–203 inserted "or which is administered by the United States pursuant to section 1613(g) of title 43" after "alienation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

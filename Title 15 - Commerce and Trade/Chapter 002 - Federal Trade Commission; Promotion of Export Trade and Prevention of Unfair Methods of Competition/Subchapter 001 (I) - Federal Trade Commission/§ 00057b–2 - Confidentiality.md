@@ -20,7 +20,7 @@ For purposes of this section:
 
 (B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
-(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
+(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owneror provider of any such information of a request for information designated as confidential by the owner or provider.
 
 (D) While in the possession of the custodian and under such reasonable terms and conditions as the Commission shall prescribe—
 
@@ -78,7 +78,7 @@ For purposes of this section:
 
 &emsp;(A) the disclosure of information to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider;
 
-&emsp;(B) the disclosure of the results of any investigation or study carried out or prepared bythe Commission, except that no information shall be identified nor shall information be disclosed in such a manner as to disclose a trade secret of any person supplying the trade secret, or to disclose any commercial or financial information which is obtained from any person and which is privileged or confidential;
+&emsp;(B) the disclosure of the results of any investigation or study carried out or prepared by the Commission, except that no information shall be identified nor shall information be disclosed in such a manner as to disclose a trade secret of any person supplying the trade secret, or to disclose any commercial or financial information which is obtained from any person and which is privileged or confidential;
 
 &emsp;(C) the disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party; or
 
@@ -154,7 +154,7 @@ Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted "tangible things," after "do
 
 #### Termination Date of 2006 Amendment
 
-Amendment by section 6 of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 6 of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1994 Amendment
 

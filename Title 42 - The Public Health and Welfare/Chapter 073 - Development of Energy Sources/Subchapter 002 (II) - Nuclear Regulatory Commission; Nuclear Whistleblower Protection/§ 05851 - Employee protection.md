@@ -52,7 +52,7 @@
 
 #### (c) Review
 
-(1) Any person adversely affected or aggrieved by an order issued under subsection (b) may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
+(1) Any person adversely affected or aggrieved by an order issued under subsection (b) may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraphshall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
 (2) An order of the Secretary with respect to which review could have been obtained under paragraph (1) shall not be subject to judicial review in any criminal or other civil proceeding.
 
@@ -92,7 +92,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 (2) A determination by the Secretary under this section that a violation of subsection (a) has not occurred shall not be considered by the Commission or the Department of Energy in its determination of whether a substantial safety hazard exists.
 
-(Pub. L. 93–438, title II, §211, formerly §210, as added Pub. L. 95–601, §10, Nov. 6, 1978, 92 Stat. 2951; renumbered §211 and amended Pub. L. 102–486, title XXIX, §2902(a)–(g), (h)(2), (3), Oct.24, 1992, 106 Stat. 3123, 3124; Pub. L. 109–58, title VI, §629, Aug. 8, 2005, 119 Stat. 785.)
+(Pub. L. 93–438, title II, §211, formerly §210, as added Pub. L. 95–601, §10, Nov. 6, 1978, 92 Stat. 2951; renumbered §211 and amended Pub. L. 102–486, title XXIX, §2902(a)–(g), (h)(2), (3), Oct. 24, 1992, 106 Stat. 3123, 3124; Pub. L. 109–58, title VI, §629, Aug. 8, 2005, 119 Stat. 785.)
 
 #### References in Text
 

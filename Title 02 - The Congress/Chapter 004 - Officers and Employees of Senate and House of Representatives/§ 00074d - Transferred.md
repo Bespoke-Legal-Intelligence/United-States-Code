@@ -1,8 +1,12 @@
 ### §74d. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 74d was editorially reclassified as section 5621 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Positions in Corrections Calendar Office
 

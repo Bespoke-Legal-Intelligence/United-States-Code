@@ -8,7 +8,7 @@
 
 &emsp;(1) Only veterans described in those paragraphs and a house manager may reside in the residence or facility.
 
-&emsp;(2) Each resident, other than the house manager, shall be required to make payments that contribute to covering the expenses of board and the operational costs of the residence or facility for the period of residence in such housing.
+&emsp;(2) Each resident, other than the house manager, shall be required to make payments thatcontribute to covering the expenses of board and the operational costs of the residence or facility for the period of residence in such housing.
 
 &emsp;(3) In order to foster the therapeutic and rehabilitative objectives of such housing (A) residents shall be prohibited from using alcohol or any controlled substance or item, (B) any resident violating that prohibition may be expelled from the residence or facility, and (C) each resident shall agree to undergo drug testing or such other measures as the Secretary shall prescribe to ensure compliance with that prohibition.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) transfer administrative jurisdiction over such property within the Department from the Veterans Benefits Administration to the Veterans Health Administration; and
 
-&emsp;(B) transfer from the General Post Fund to the Loan Guaranty Revolving Fund under chapter 37 of this title an amount (not to exceed the amount the Secretary paid for the property) representing the amount the Secretary considers could be obtained by sale of such property to a nonprofit organization or aState for use as a shelter for homeless veterans.
+&emsp;(B) transfer from the General Post Fund to the Loan Guaranty Revolving Fund under chapter 37 of this title an amount (not to exceed the amount the Secretary paid for the property) representing the amount the Secretary considers could be obtained by sale of such property to a nonprofit organization or a State for use as a shelter for homeless veterans.
 
 (3) In the case of any residential property obtained by the Secretary from the Department of Housing and Urban Development under this section, the amount paid by the Secretary to that Department for that property may not exceed the amount that the Secretary of Housing and Urban Development would charge for the sale of that property to a nonprofit organization or a State for use as a shelter for homeless persons. Funds for such charge shall be derived from the General Post Fund.
 
@@ -45,6 +45,8 @@
 (h) Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The Secretary shall manage the operation of this section so as to ensure that expenditures under this subsection for any fiscal year shall not exceed by more than $500,000 proceeds credited to the General Post Fund under this section. The operation of the program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President's budget for each fiscal year.
 
 (Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2284, §1772; renumbered §2032, Pub. L. 107–95, §5(b)(1), Dec. 21, 2001, 115 Stat. 918.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

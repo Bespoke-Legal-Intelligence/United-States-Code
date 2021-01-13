@@ -14,9 +14,13 @@ In the case of contumacy by or refusal to obey a subpena issued to any person, t
 
 (Pub. L. 91–513, title II, §506, Oct. 27, 1970, 84 Stat. 1272; Pub. L. 100–690, title VI, §6058, Nov. 18, 1988, 102 Stat. 4319.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted "listed chemicals, tableting machines, or encapsulating machines," after "with respect to controlled substances,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -8,7 +8,7 @@ Standard Workweek.—The wages of every laborer and mechanic employed by any con
 
 Contract Requirements.—A contract described in section 3701 of this title, and any obligation of the Federal Government, a territory of the United States, or the District of Columbia in connection with that contract, must provide that—
 
-&emsp;(1) a contractor or subcontractor contracting for any part of the contract work which may require or involve the employment of laborers or mechanics shall not require or permit any laborer or mechanic, in any workweekin which the laborer or mechanic is employed on that work, to work more than 40 hours in that workweek, except as provided in this chapter; and
+&emsp;(1) a contractor or subcontractor contracting for any part of the contract work which may require or involve the employment of laborers or mechanics shall not require or permit any laborer or mechanic, in any workweek in which the laborer or mechanic is employed on that work, to work more than 40 hours in that workweek, except as provided in this chapter; and
 
 &emsp;(2) when a violation of clause (1) occurs, the contractor and any subcontractor responsible for the violation are liable—
 
@@ -55,6 +55,8 @@ Pub. L. 87–581, title I, §102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145,
 40:328(b)(2) (last sentence).
 
 In subsection (a). the words "Notwithstanding any other provision of law" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

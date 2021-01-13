@@ -48,7 +48,7 @@
 
 &emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actualknowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity; and
 
@@ -106,7 +106,7 @@
 
 > This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.
 
-(e) It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce, to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
+(e) It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce,to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
 
 (f)(1) It shall be unlawful for any common or contract carrier to transport or deliver in interstate or foreign commerce any firearm or ammunition with knowledge or reasonable cause to believe that the shipment, transportation, or receipt thereof would be in violation of the provisions of this chapter.
 
@@ -220,7 +220,7 @@
 
 &emsp;(G) this decline in the quality of education has an adverse impact on interstate commerce and the foreign commerce of the United States;
 
-&emsp;(H) States, localities, and school systems find it almost impossible to handle gun-related crime by themselves—even States, localities, and school systems that have made strong efforts to prevent, detect, and punish gun-related crime find their efforts unavailing due in part to the failure or inability of other States or localities to take strong measures; and
+&emsp;(H) States, localities, and school systems find it almost impossible to handle gun-related crime by themselves—even States, localities, and school systems that have made strong efforts to prevent, detect, and punishgun-related crime find their efforts unavailing due in part to the failure or inability of other States or localities to take strong measures; and
 
 &emsp;(I) the Congress has the power, under the interstate commerce clause and other provisions of the Constitution, to enact measures to ensure the integrity and safety of the Nation's schools by enactment of this subsection.
 
@@ -488,7 +488,7 @@ Exceptions.—Subsections (d)(5)(B), (g)(5)(B), and (s)(3)(B)(v)(II) do not appl
 
 &emsp;&emsp;(C) an official of a foreign government or a distinguished foreign visitor who has been so designated by the Department of State; or
 
-&emsp;&emsp;(D) a foreign law enforcement officer of a friendly foreign government entering theUnited States on official law enforcement business.
+&emsp;&emsp;(D) a foreign law enforcement officer of a friendly foreign government entering the United States on official law enforcement business.
 
 &emsp;(3)
 
@@ -496,7 +496,7 @@ Waiver.—
 
 &emsp;&emsp;(A)
 
-Conditions for waiver.—Any individual who has been admitted to the United States under a nonimmigrant visa may receive a waiver from the requirements of subsection (g)(5), if—
+Conditions for waiver.—Any individual who has been admitted to the UnitedStates under a nonimmigrant visa may receive a waiver from the requirements of subsection (g)(5), if—
 
 &emsp;&emsp;&emsp;(i) the individual submits to the Attorney General a petition that meets the requirements of subparagraph (C); and
 
@@ -566,11 +566,13 @@ Defined term.—As used in this paragraph, the term "qualified civil liability a
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct.21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
 
 #### Amendment of Section
 
 <i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -652,7 +654,7 @@ Subsec. (d)(8). Pub. L. 103–322, §110401(b), added par. (8).
 
 Subsec. (g)(8). Pub. L. 103–322, §110401(c), added par. (8).
 
-Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "It shall be unlawful for any person to receive,conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen."
+Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen."
 
 Subsec. (q). Pub. L. 103–322, §320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
@@ -690,7 +692,7 @@ Subsec. (r). Pub. L. 101–647, §2204(b), added subsec. (r).
 
 Subsec. (p). Pub. L. 100–649 added subsec. (p).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–308, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;"
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–308, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;".
 
 Subsec. (a)(2). Pub. L. 99–308, §102(2)(A), in provision preceding subpar. (A) struck out "or ammunition" after "any firearm".
 
@@ -787,6 +789,8 @@ Subsec. (k). Pub. L. 90–618 redesignated former subsec. (i) as (k). Former sub
 Subsec. (l). Pub. L. 90–618 redesignated former subsec. (j) as (l).
 
 Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added licensed collectors to the enumerated list of licensees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -933,6 +937,8 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which requir
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 
 Pub. L. 100–649, §2(e), Nov. 10, 1988, 102 Stat. 3817, directed the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation to conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in subsec. (p)(2)(C) of this section) while distinguishing innocuous metal objects; studies were to be completed within 6 months after Nov. 10, 1988, and include a schedule to install such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study.
+
+#### <b>Executive Documents</b>
 
 #### Improving Availability of Relevant Executive Branch Records to the National Instant Criminal Background Check System
 

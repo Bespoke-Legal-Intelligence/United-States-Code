@@ -20,7 +20,7 @@
 
 &emsp;The Secretary may make a grant under this chapter on behalf of an Indian tribe for a fiscal year only if—
 
-&emsp;&emsp;(A) the Indian tribe has submitted to the Secretary an Indian housing plan for suchfiscal year under section 4112 of this title; and
+&emsp;&emsp;(A) the Indian tribe has submitted to the Secretary an Indian housing plan for such fiscal year under section 4112 of this title; and
 
 &emsp;&emsp;(B) the plan has been determined under section 4113 of this title to comply with the requirements of section 4112 of this title.
 
@@ -74,7 +74,7 @@ Each recipient shall make all reasonable efforts, consistent with the purposes o
 
 For purposes of section 501 of title 40, on election by the applicable Indian tribe—
 
-&emsp;(1) each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program,service, or other activity under this chapter; and
+&emsp;(1) each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program, service, or other activity under this chapter; and
 
 &emsp;(2) each Indian tribe or tribally designated housing entity and each employee of the Indian tribe or tribally designated housing entity shall have access to sources of supply on the same basis as employees of an Executive agency.
 
@@ -83,6 +83,8 @@ For purposes of section 501 of title 40, on election by the applicable Indian tr
 Notwithstanding any other provision of law, with respect to any grant (or portion of a grant) made on behalf of an Indian tribe under this chapter that is intended to benefit 1 Indian tribe, the tribal employment and contract preference laws (including regulations and tribal ordinances) adopted by the Indian tribe that receives the benefit shall apply with respect to the administration of the grant (or portion of a grant).
 
 (Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §4, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, §101, Oct. 14, 2008, 122 Stat. 4320.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -111,6 +113,8 @@ Subsec. (d). Pub. L. 105–276, §595(e)(4)(A), added subsec. (d) heading, intro
 &emsp;"(1) the affordable housing assisted with grant amounts received by the recipient (exclusive of any portions not assisted with amounts provided under this chapter) is exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and".
 
 Subsec. (d)(2). Pub. L. 105–276, §595(e)(4)(B), inserted "for the tribe" after "the recipient" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

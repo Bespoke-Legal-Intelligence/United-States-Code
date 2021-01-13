@@ -10,9 +10,13 @@ Definition.—As used in this section, the term "tracking device" means an elect
 
 (Added Pub. L. 99–508, title I, §108(a), Oct. 21, 1986, 100 Stat. 1858.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 3117 was renumbered section 3118 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

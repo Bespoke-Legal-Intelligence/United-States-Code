@@ -118,7 +118,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) an Indian tribe, band, nation, or other organized group or community, including—
 
-&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organizedtraditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of section 1602 of title 43,
 
@@ -252,7 +252,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) that—
 
-&emsp;&emsp;&emsp;(i) is integrated into and enhances the academic curriculum of the students, or the educational components of the community service program in which the participants are enrolled; and
+&emsp;&emsp;&emsp;(i) is integrated into and enhances the academic curriculum of the students, orthe educational components of the community service program in which the participants are enrolled; and
 
 &emsp;&emsp;&emsp;(ii) provides structured time for the students or participants to reflect on the service experience.
 

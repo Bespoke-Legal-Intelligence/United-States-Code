@@ -4,6 +4,8 @@ The Farm Credit Banks and the capital, reserves, and surplus thereof, and the in
 
 (Pub. L. 92–181, title I, §1.15, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, §401(l), Aug. 17, 1988, 102 Stat. 997.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1.15 of Pub. L. 92–181 was classified to section 2033 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
@@ -14,7 +16,7 @@ A prior section 2032, Pub. L. 92–181, title I, §1.14, Dec. 10, 1971, 85 Stat.
 
 A prior section 2033, Pub. L. 92–181, title I, §1.15, Dec. 10, 1971, 85 Stat. 587; Pub. L. 96–592, title I, §110, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(5), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, §705(b), title VIII, §805(b), Jan. 6, 1988, 101 Stat. 1707, 1715; Pub. L. 100–399, title VI, §604, title VII, §702(a), Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, §401. See section 2013 of this title.
 
-A prior section 2034, Pub. L. 92–181, title I, §1.16, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §111, Dec. 24,1980, 94 Stat. 3439; Pub. L. 99–205, title III, §304(a), Dec. 23, 1985, 99 Stat. 1708, related to association stock, value of shares, voting, and purchase, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2034, Pub. L. 92–181, title I, §1.16, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §111, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title III, §304(a), Dec. 23, 1985, 99 Stat. 1708, related to association stock, value of shares, voting, and purchase, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 A prior section 2051, Pub. L. 92–181, title I, §1.17, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §112, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(6), title VI, §602, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, §802(f), Jan. 6, 1988, 101 Stat. 1711, related to land bank reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
@@ -29,6 +31,8 @@ A prior section 2055, Pub. L. 92–181, title I, §1.21, Dec. 10, 1971, 85 Stat.
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–399 inserted a comma after "therefrom" and substituted "3124" for "742(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -14,7 +14,7 @@ Incentive Contracts.—
 
 &emsp;(3) Before entering into such an order or cost-plus-incentive-fee order such parties must agree that the wage-grade employees of the Coast Guard Yard or Coast Guard industrial establishment will take action to improve the delivery schedule or technical performance agreed to in the order for industrial work to which such parties initially agreed.
 
-&emsp;(4) Notwithstanding any other provision of law, if the industrial workforce of the CoastGuard Yard or Coast Guard industrial establishment satisfies the performance target established in such an order or cost-plus-incentive-fee order—
+&emsp;(4) Notwithstanding any other provision of law, if the industrial workforce of the Coast Guard Yard or Coast Guard industrial establishment satisfies the performance target established in such an order or cost-plus-incentive-fee order—
 
 &emsp;&emsp;(A) the adjustment to be made pursuant to subsection (a) shall be reduced by an agreed-upon amount and distributed to such wage-grade industrial employees; and
 
@@ -25,6 +25,8 @@ Incentive Contracts.—
 #### Historical and Revision Notes
 
 This section is intended to eliminate a very cumbersome and inefficient method of accounting for industrial jobs at the Coast Guard Yard and other shore establishments where industrial work may be undertaken. Under existing law several accounts must be kept current for each job in progress. Under this statute the working fund would be available for all types of expenditures in connection with a job and the breakdown into separate accounts could be done after the job is complete. The other armed forces have provisions of law which permit a working fund similar to the one provided by this section. 81st Congress, House Report No. 557.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

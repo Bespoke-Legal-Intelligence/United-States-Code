@@ -6,7 +6,7 @@ The Foreign Claims Settlement Commission of the United States (hereinafter refer
 
 #### (b) Rules and regulations; delegation of functions; time limit on filing of claims
 
-The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. The limit of time within which claims may be filed with the Commission shall in no event be later than March 31, 1952. The Commission shall take immediate action to advise all persons entitled to file claims under the provisions of this subchapter administered by the Commission of their rights under such provisions, and to assist them in the preparation and filing of their claims.
+The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The Commission shall give public notice of the time when, and the limit of timewithin which, claims may be filed, which notice shall be published in the Federal Register. The limit of time within which claims may be filed with the Commission shall in no event be later than March 31, 1952. The Commission shall take immediate action to advise all persons entitled to file claims under the provisions of this subchapter administered by the Commission of their rights under such provisions, and to assist them in the preparation and filing of their claims.
 
 #### (c) Subpenas; issuance; contempt; witness fees; administration of oaths
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 2001 of the former Appendix to this t
 
 #### Amendments
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–209 struck out subsec. (d) which provided for terms of office of Chairman andmembers of Foreign Claims Settlement Commission of United States. See section 1622c(c) of Title 22, Foreign Relations and Intercourse.
+<b>1980</b>—Subsec. (d). Pub. L. 96–209 struck out subsec. (d) which provided for terms of office of Chairman and members of Foreign Claims Settlement Commission of United States. See section 1622c(c) of Title 22, Foreign Relations and Intercourse.
 
 <b>1962</b>—Subsecs. (b), (c)(1). Pub. L. 87–846, §102, made technical amendment to reference in original act which appears in text as reference to this subchapter.
 

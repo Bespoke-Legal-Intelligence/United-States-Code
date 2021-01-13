@@ -126,7 +126,9 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496;amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -180,7 +182,7 @@ Subsec. (a)(1). Pub. L. 102–583, §4(a), added par. (1) and struck out former 
 
 &emsp;"(E) the objective of the United States in dealing with the problem of international money laundering should be to ensure that countries adopt comprehensive domestic measures against money laundering and cooperative with each other in narcotics money laundering investigations, prosecutions, and related forfeiture actions; and
 
-&emsp;"(F) effective international cooperation is necessary to control the illicit cultivation, production, and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs."
+&emsp;"(F) effective international cooperation is necessary to control the illicit cultivation, production,and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs."
 
 Subsec. (a)(1)(D) to (F). Pub. L. 102–550, §1519(a), struck out "and" at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
@@ -238,7 +240,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 "(C) The report shall also include information on multilateral and bilateral strategies pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering.
 
-"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect toachieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 "(E) As used in this paragraph, the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking."
 
@@ -250,7 +252,7 @@ Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to 
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted "or" at end of subpar. (A), substituted a period for "or" at end of subpar. (B), and struck out subpar. (C) which read as follows: "through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government."
 
-Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating to actions by international bodies and subsec. (k) relating to procedures for determining major drug-transit countries.
+Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating to actions by international bodiesand subsec. (k) relating to procedures for determining major drug-transit countries.
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–231, §17(a), struck out at end "This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation."
 
@@ -368,7 +370,7 @@ Subsecs. (f) to (j). Pub. L. 98–164, §1003(b), added subsecs. (f) to (j).
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
-Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with anyrecommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
+Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
 
 Subsec. (e). Pub. L. 97–113, §502(b), added subsec. (e).
 
@@ -381,6 +383,8 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 <b>1976</b>—Subsec. (c). Pub. L. 94–329 added subsec. (c).
 
 <b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -397,10 +401,6 @@ Pub. L. 100–202, §101(e) \[title V, §585(b)\], Dec. 22, 1987, 101 Stat. 1329
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Prevention of Smuggling of Methamphetamine Into the United States From Mexico
 
@@ -522,7 +522,7 @@ Congressional Review of Agreements.—The President shall submit any such agreem
 
 "(b) \[(c)\]
 
-Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection\(a) shall be exercised in coordination with multilateral debt relief activities.
+Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities.
 
 "(c) \[(d)\]
 
@@ -600,7 +600,7 @@ Pub. L. 99–570, title II, §2029, Oct. 27, 1986, 100 Stat. 3207–72, directed
 
 Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
-"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate fromthe appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shall be paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
+"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shall be paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
 
 "(b) This section shall apply to pay periods beginning on or after October 1, 2001."
 
@@ -701,6 +701,12 @@ Pub. L. 94–329, title IV, §408, June 30, 1976, 90 Stat. 759, as amended by Pu
 "(a) The Congress, while sharing the concern of the President over the urgent need for international cooperation to restrict traffic in dangerous drugs, is convinced that such efforts must be consistent with respect for fundamental human rights. The Congress, therefore, calls upon the President to take steps to insure that United States efforts to secure stringent international law enforcement measures are combined with efforts to secure fair and humane treatment for citizens of all countries.
 
 "(b) The Congress requests that the President communicate directly to the President and Government of the Republic of Mexico, a nation with which we have friendly and cooperative relations, the continuing desire of the United States for such relations between our two countries and the concern of the United States over treatment of United States citizens arrested in Mexico."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Presidential Authorities Under International Narcotics Control Act of 1990
 

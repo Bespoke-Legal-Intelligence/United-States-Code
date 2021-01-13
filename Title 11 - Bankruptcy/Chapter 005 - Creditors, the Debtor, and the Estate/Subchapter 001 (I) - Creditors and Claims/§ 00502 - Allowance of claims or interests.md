@@ -2,7 +2,7 @@
 
 (a) A claim or interest, proof of which is filed under section 501 of this title, is deemed allowed, unless a party in interest, including a creditor of a general partner in a partnership that is a debtor in a case under chapter 7 of this title, objects.
 
-(b) Except as provided in subsections (e)(2), (f), (g), (h) and (i) of this section, if such objection to a claim is made, the court, after notice and a hearing, shall determine the amount of such claim in lawful currency of the United States as of the date of the filing of the petition, and shall allow such claim in such amount, except to the extent that—
+(b) Except as provided in subsections (e)(2), (f), (g), (h) and (i) of this section, if such objection to a claim is made, the court, after notice and a hearing, shall determine the amount of such claim in lawful currency of the United States as of the date of the filing of the petition, and shallallow such claim in such amount, except to the extent that—
 
 &emsp;(1) such claim is unenforceable against the debtor and property of the debtor, under any agreement or applicable law for a reason other than because such claim is contingent or unmatured;
 
@@ -36,7 +36,13 @@
 
 &emsp;(8) such claim results from a reduction, due to late payment, in the amount of an otherwise applicable credit available to the debtor in connection with an employment tax on wages, salaries, or commissions earned from the debtor; or
 
-&emsp;(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of theorder for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
+&emsp;(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—
+
+&emsp;&emsp;(A) a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;
+
+&emsp;&emsp;(B) in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and
+
+&emsp;&emsp;(C) a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057).
 
 (c) There shall be estimated for purpose of allowance under this section—
 
@@ -58,7 +64,7 @@
 
 (f) In an involuntary case, a claim arising in the ordinary course of the debtor's business or financial affairs after the commencement of the case but before the earlier of the appointment of a trustee and the order for relief shall be determined as of the date such claim arises, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
 
-(g)(1) A claim arising from the rejection, under section 365 of this title or under a plan under chapter 9, 11, 12, or 13 of this title, of an executory contract or unexpired lease of the debtor that has not been assumed shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
+(g)(1) A claim arising from the rejection, under section 365 of this title or under a plan under chapter 9, 11, 12, or 13 of this title, of an executory contract or unexpired lease of the debtor that has not been assumed shall be determined, and shall be allowed under subsection (a), (b), or\(c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
 
 (2) A claim for damages calculated in accordance with section 562 shall be allowed under subsection (a), (b), or (c), or disallowed under subsection (d) or (e), as if such claim had arisen before the date of the filing of the petition.
 
@@ -86,7 +92,19 @@
 
 &emsp;(B) the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, §445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, §213(a), title III, §304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134; Pub. L. 109–8, title II, §201(a), title VII, §716(d), title IX, §910(b), Apr. 20, 2005, 119 Stat. 42, 130, 184.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, §445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, §213(a), title III, §304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134; Pub. L. 109–8, title II, §201(a), title VII, §716(d), title IX, §910(b), Apr. 20, 2005, 119 Stat. 42, 130, 184; Pub. L. 116–260, div. FF, title X, §1001(d)(2), (3)(B), Dec. 27, 2020, 134 Stat. 3218.)
+
+#### Amendment of Subsection (b)(9)
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b)(9) of this section is amended:</i>
+
+<i>(1) in subparagraph (A), by adding "and" at the end;</i>
+
+<i>(2) in subparagraph (B), by striking "; and" and inserting a period; and</i>
+
+<i>(3) by striking subparagraph (C).</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -102,7 +120,7 @@ As used in section 502(b)(7), the phrase "lease of real property" applies only t
 
 Historically, the limitation on allowable claims of lessors of real property was based on two considerations. First, the amount of the lessor's damages on breach of a real estate lease was considered contingent and difficult to prove. Partly for this reason, claims of a lessor of real estate were not provable prior to the 1934 amendments, to the Bankruptcy Act \[former title 11\]. Second, in a true lease of real property, the lessor retains all risks and benefits as to the value of the real estate at the termination of the lease. Historically, it was, therefore, considered equitable to limit the claims of real estate lessor.
 
-However, these considerations are not present in "lease financing" transactions where, in substance, the "lease" involves a sale of the real estate and the rental payments are in substance the payment of principal and interest on a secured loan or sale. In a financing lease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing "leases" are in substance installment sales or loans. The "lessors" are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
+However, these considerations are not present in "lease financing" transactions where, in substance, the "lease" involves a sale of the real estate and the rental payments are in substance the payment of principaland interest on a secured loan or sale. In a financing lease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing "leases" are in substance installment sales or loans. The "lessors" are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
 
 Whether a "lease" is true or bona fide lease or, in the alternative a financing "lease" or a lease intended as security, depends upon the circumstances of each case. The distinction between a true lease and a financing transaction is based upon the economic substance of the transaction and not, for example, upon the locus of title, the form of the transaction or the fact that the transaction is denominated as a "lease." The fact that the lessee, upon compliance with the terms of the lease, becomes or has the option to become the owner of the leased property for no additional consideration or for nominal consideration indicates that the transaction is a financing lease or lease intended as security. In such cases, the lessor has no substantial interest in the leased property at the expiration of the lease term. In addition, the fact that the lessee assumes and discharges substantially all the risks and obligations ordinarily attributed to the outright ownership of the property is more indicative of a financing transaction than of a true lease. The rental payments in such cases are in substance payments of principal and interest either on a loan secured by the leased real property or on the purchase of the leased real property. See, e.g., Financial Accounting Standards Board Statement No. 13 and SEC Reg. S–X, 17 C.F.R. sec. 210.3–16(q) (1977); <i>cf. First National Bank of Chicago v. Irving Trust Co</i>., 74 F.2d 263 (2nd Cir. 1934); and Albenda and Lief, "Net Lease Financing Transactions Under the Proposed Bankruptcy Act of 1973," 30 Business Lawyer, 713 (1975).
 
@@ -130,7 +148,7 @@ Section 511 of the Senate amendment is deleted. Its substance is adopted in sect
 
 #### senate report no. 95–989
 
-A proof of claim or interest is prima facie evidence of the claim or interest. Thus, it is allowed under subsection (a) unless a party in interest objects. The rules and case law will determine who is a party in interest for purposes of objection to allowance. The case law is well developed on this subject today. As a result of the change in the liability of a general partner's estate for the debts of this partnership, see proposed 11 U.S.C. 723, the category of persons that are parties in interest in the partnership case will be expanded to include a creditor of a partner against whose estate the trustee of the partnership estate may proceed under proposed 11 U.S.C. 723(c).
+A proof of claim or interest is prima facie evidence of the claim or interest. Thus, it is allowed under subsection (a) unless a party in interest objects. The rules and case law will determine who is a party in interest for purposes of objection to allowance. The case law is well developed on this subject today. As a result of the change in the liability of a general partner's estate for the debts of this partnership, see proposed 11 U.S.C. 723, the category of persons that are parties in interest inthe partnership case will be expanded to include a creditor of a partner against whose estate the trustee of the partnership estate may proceed under proposed 11 U.S.C. 723(c).
 
 Subsection (b) prescribes the grounds on which a claim may be disallowed. The court will apply these standards if there is an objection to a proof of claim. The burden of proof on the issue of allowance is left to the Rules of Bankruptcy Procedure. Under the current chapter XIII rules, a creditor is required to prove that his claim is free from usury, rule 13–301. It is expected that the rules will make similar provision for both liquidation and individual repayment plan cases. See Bankruptcy Act §656(b) \[section 1056(b) of former title 11\]; H.R. 31, 94th Cong., 1st sess., sec. 6–104(a) (1975).
 
@@ -182,13 +200,19 @@ The bill, as reported, deletes a provision in the bill as originally introduced 
 
 Paragraph (9) \[of subsec. (b)\] requires disallowance of certain employment tax claims. These relate to a Federal tax credit for State unemployment insurance taxes which is disallowed if the State tax is paid late. This paragraph disallows the Federal claim for the tax the same as if the credit had been allowed in full on the Federal return.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(9), are set out in the Appendix to this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(9). Pub. L. 109–8, §716(d), inserted ", and except that in a case under chapter 13, a claimof a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required" before period at end.
+<b>2020</b>—Subsec. (b)(9). Pub. L. 116–260, §1001(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required."
+
+Subsec. (b)(9)(C). Pub. L. 116–260, §1001(d)(3)(B), struck out subpar. (C) which read as follows: "a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057)."
+
+<b>2005</b>—Subsec. (b)(9). Pub. L. 109–8, §716(d), inserted ", and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required" before period at end.
 
 Subsec. (g). Pub. L. 109–8, §910(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -245,6 +269,12 @@ Subsec. (e)(1)(C). Pub. L. 98–353, §445(d)(4), substituted "asserts a right o
 Subsec. (h). Pub. L. 98–353, §445(e), substituted "522" for "522(i)".
 
 Subsec. (j). Pub. L. 98–353, §445(f), amended subsec. (j) generally, inserting provisions relating to reconsideration of a disallowed claim, and provisions relating to reconsideration of a claim under this subsection.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by section 1001(d)(3)(B) of Pub. L. 116–260 effective on the date that is 1 year after Dec. 27, 2020, see section 1001(d)(3) of div. FF of Pub. L. 116–260, set out as a note under section 501 of this title.
 
 #### Effective Date of 2005 Amendment
 

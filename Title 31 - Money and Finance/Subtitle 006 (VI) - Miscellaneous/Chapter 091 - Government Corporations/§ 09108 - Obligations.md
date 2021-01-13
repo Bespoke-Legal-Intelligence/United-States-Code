@@ -50,7 +50,7 @@ In subsections (a) and (b), the words "on or after December 6, 1945" are omitted
 
 In subsection (a), before clause (1), the word "Before" is substituted for "which are" for clarity. The words "bonds, notes, debentures, and other similar" are omitted as surplus. The words "as have been" are omitted as executed. In clause (1), the words "terms and" are omitted as surplus. The restatement of the source provisions does not affect other existing laws.
 
-In subsection (b), the word "Government" is added for consistency. The words "for its own account and in its own right and interest, at any one time aggregating" and "his approval with respect to any transactionor classes of transactions subject to the provisions of . . . for such period of time and" are omitted as surplus.
+In subsection (b), the word "Government" is added for consistency. The words "for its own account and in its own right and interest, at any one time aggregating" and "his approval with respect to any transaction or classes of transactions subject to the provisions of . . . for such period of time and" are omitted as surplus.
 
 In subsection (c), the word "agency" is substituted for "Federal agency" because of section 101 of the revised title. The words "any of the functions vested in him by" and "for such purpose" are omitted as surplus.
 
@@ -60,6 +60,8 @@ In subsection (d)(2), the words "(when the ownership, control, and operation of 
 
 This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–334 struck out "the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)))," after "do not apply to".
@@ -67,6 +69,8 @@ This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperati
 <b>1983</b>—Subsec. (d)(2). Pub. L. 97–452 struck out "the National Consumer Cooperative Bank," after "the Regional Banks for Cooperatives," which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
 <b>1982</b>—Subsec. (d)(2). Pub. L. 97–258, §2(l)(2), struck out "the National Consumer Cooperative Bank," after "Regional Banks for Cooperatives,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

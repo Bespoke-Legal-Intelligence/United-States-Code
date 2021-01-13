@@ -4,9 +4,13 @@ The Secretary may transfer to and merge with "Emergencies in the Diplomatic and 
 
 (Pub. L. 110–161, div. J, title I (part), Dec. 26, 2007, 121 Stat. 2278.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Secretary, referred to in text, means the Secretary of State.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Diplomatic and Consular Programs Account
 

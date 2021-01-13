@@ -16,13 +16,15 @@ This chapter, referred to in text, was in the original "this Act", and was trans
 
 <b>2015</b>—Pub. L. 114–53 substituted "September 30, 2017." for "on September 30, 2016."
 
-<b>2014</b>—Pub. L. 113–235 substituted "on September 30, 2016" for "10 years after December 8, 2004". Amendment was executed as the probable intent of Congress, notwithstanding error in directory language which referenced the editorial translation of "December 8, 2004"rather than "the date of the enactment of this Act" which appeared in the original.
+<b>2014</b>—Pub. L. 113–235 substituted "on September 30, 2016" for "10 years after December 8, 2004". Amendment was executed as the probable intent of Congress, notwithstanding error in directory language which referenced the editorial translation of "December 8, 2004" rather than "the date of the enactment of this Act" which appeared in the original.
 
 #### Recreation Fees
 
-Pub. L. 116–94, div. D, title IV, §425, Dec. 20, 2019, 133 Stat. 2748, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting 'October 1, 2021' for 'September 30, 2019'."
+Pub. L. 116–260, div. G, title IV, §423, Dec. 27, 2020, 134 Stat. 1541, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting 'October 1, 2022' for 'September 30, 2019'."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title IV, §425, Dec. 20, 2019, 133 Stat. 2748.
 
 Pub. L. 116–6, div. E, title IV, §427, Feb. 15, 2019, 133 Stat. 264.
 

@@ -40,7 +40,7 @@ If an application for a loan or loan guarantee under this chapter is disapproved
 
 #### (d) Approved lender designation applications; time for decision by Secretary
 
-In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, theSecretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
+In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, the Secretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
 
 #### (e) Processing loan applications; personnel and other resources made available; use of authorities of law
 
@@ -56,7 +56,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (1) As used in this subsection:
 
-&emsp;(A) The term "approved lender" means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
+&emsp;(A) The term "approved lender" means a lender approved prior to October 28, 1992, bythe Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
 
 &emsp;(B) The term "seasoned direct loan borrower" means a borrower receiving a direct loan under this chapter who has been classified as "commercial" or "standard" under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
@@ -126,7 +126,7 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title V, §5401(c)(1), title VI, §6601(a)(2), Dec. 20, 2018, 132 Stat. 4674, 4776.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128Stat. 847; Pub. L. 115–334, title V, §5401(c)(1), title VI, §6601(a)(2), Dec. 20, 2018, 132 Stat. 4674, 4776.)
 
 #### References in Text
 

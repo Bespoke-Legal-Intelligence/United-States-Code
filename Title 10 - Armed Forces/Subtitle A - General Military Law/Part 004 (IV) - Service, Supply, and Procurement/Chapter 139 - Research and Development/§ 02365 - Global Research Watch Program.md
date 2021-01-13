@@ -42,7 +42,11 @@ Classification of Database Information.—Information in electronic databases of
 
 Termination.—The requirement to carry out the program under this section shall terminate on September 30, 2025.
 
-(Added Pub. L. 108–136, div. A, title II, §231(a), Nov. 24, 2003, 117 Stat. 1421; amended Pub. L. 109–364, div. A, title II, §232, Oct. 17, 2006, 120 Stat. 2134; Pub. L. 111–84, div. A, title II, §211, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(j)(3), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1076(c)(2)(B), Jan. 2, 2013, 126 Stat. 1950; Pub. L. 114–92, div. A, title II, §215, Nov. 25, 2015, 129 Stat. 769; Pub. L. 116–92, div. A, title II, §266, Dec. 20, 2019, 133 Stat. 1301.)
+(Added Pub. L. 108–136, div. A, title II, §231(a), Nov. 24, 2003, 117 Stat. 1421; amended Pub. L. 109–364, div. A, title II, §232, Oct. 17, 2006, 120Stat. 2134; Pub. L. 111–84, div. A, title II, §211, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(j)(3), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1076(c)(2)(B), Jan. 2, 2013, 126 Stat. 1950; Pub. L. 114–92, div. A, title II, §215, Nov. 25, 2015, 129 Stat. 769; Pub. L. 116–92, div. A, title II, §266, Dec. 20, 2019, 133 Stat. 1301.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1842(b), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 303 of this title, as added by section 1842(a) of Pub. L. 116–283, inserted after section 4065, and redesignated as section 4066 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -81,6 +85,10 @@ Subsec. (e). Pub. L. 111–383, §901(j)(3)(D), substituted "Assistant Secretary
 Subsec. (f). Pub. L. 111–84, §211(b), substituted "2015" for "2011".
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–364 substituted "2011" for "2006".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2011 Amendment
 

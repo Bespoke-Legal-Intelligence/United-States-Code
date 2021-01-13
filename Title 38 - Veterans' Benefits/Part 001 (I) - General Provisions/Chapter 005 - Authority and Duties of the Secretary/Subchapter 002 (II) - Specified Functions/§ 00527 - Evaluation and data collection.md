@@ -8,9 +8,89 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 391.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Requirement for Collection and Analysis of Data on Department of Veterans Affairs Benefits and Services and Disaggregation of Such Data by Gender, Race, and Ethnicity
+
+Pub. L. 116–315, title V, §5401, Jan. 5, 2021, 134 Stat. 5045, provided that: "The Secretary of Veterans Affairs shall—
+
+&emsp;"(1) collect and analyze data on each program of the Department of Veterans Affairs that provides a service or benefit to a veteran, including the program carried out under section 1144 of title 10, United States Code;
+
+&emsp;"(2) disaggregate such data by gender, race, and ethnicity, when the data lends itself to such disaggregation; and
+
+&emsp;"(3) publish the data collected and analyzed under paragraph (1), except for such cases in which the Secretary determines that some portions of the data would undermine the anonymity of a veteran."
+
+#### Addition of Burn Pit Registration and Other Information to Electronic Health Records of Members of the Armed Forces
+
+Pub. L. 116–283, div. A, title VII, §720, Jan. 1, 2021, 134 Stat. 3697, provided that:
+
+"(a)
+
+Updates to Electronic Health Records.—Beginning not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall ensure that—
+
+&emsp;"(1) the electronic health record maintained by the Secretary for a member of the Armed Forces registered with the Airborne Hazards and Open Burn Pit Registry is updated with any information contained in such registry with respect to the member; and
+
+&emsp;"(2) any occupational or environmental health exposure recorded in the Defense Occupational and Environmental Health Readiness System (or any successor system) is linked to the electronic health record system of the Department of Defense to notify health professionals treating a member specified in paragraph (1) of any such exposure recorded for the member.
+
+"(b)
+
+Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
+
+#### Health Assessments of Veterans Diagnosed With Pandemic Diseases To Determine Exposure to Open Burn Pits and Toxic Airborne Chemicals
+
+Pub. L. 116–283, div. A, title VII, §735, Jan. 1, 2021, 134 Stat. 3703, provided that:
+
+"(a)
+
+Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Health Assessments for Veterans During a Pandemic and Inclusion of Information in Registry.—
+
+&emsp;"(1)
+
+Health assessments and physical examinations.—The Secretary of Veterans Affairs shall ensure that the first health assessment or physical examination furnished to a veteran under the laws administered by the Secretary after the veteran tests positive for a pathogen, such as a virus, with respect to which a public health emergency has been declared under section 319 of the Public Health Service Act (42 U.S.C. 247d) includes an evaluation of whether the veteran has been—
+
+&emsp;&emsp;"(A) based or stationed at a location where an open burn pit was used; or
+
+&emsp;&emsp;"(B) exposed to toxic airborne chemicals or other airborne contaminants relating to service in the Armed Forces, including an evaluation of any information recorded as part of the Airborne Hazards and Open Burn Pit Registry.
+
+&emsp;"(2)
+
+Inclusion of individuals in registry.—If an evaluation conducted under paragraph (1) with respect to a veteran establishes that the veteran was based or stationed at a location where an open burn pit was used, or that the individual was exposed to toxic airborne chemicals or other airborne contaminants, the individual shall be enrolled in the Airborne Hazards and Open Burn Pit Registry unless the veteran elects to not enroll in such registry.
+
+&emsp;"(3)
+
+Rule of construction.—Nothing in this subsection may be construed to preclude eligibility of a veteran for benefits under the laws administered by the Secretary of Veterans Affairs by reason of the history of exposure of the veteran to an open burn pit not being recorded in an evaluation conducted under paragraph (1).
+
+"(b)
+
+Study on Impact of Viral Pandemics on Members of Armed Forces and Veterans Who Have Experienced Toxic Exposure.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall conduct a study, through the Airborne Hazards and Burn Pits Center of Excellence (in this subsection referred to as the 'Center'), on the health impacts of infection with a pathogen, such as a virus, with respect to which a public health emergency has been declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), including a coronavirus, to members of the Armed Forces and veterans who have been exposed to open burn pits and other toxic exposures for the purposes of understanding the health impacts of the pathogen and whether individuals infected with the pathogen are at increased risk of severe symptoms due to previous conditions linked to toxic exposure.
+
+&emsp;"(2)
+
+Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted under paragraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics.
+
+"(c)
+
+Definitions.—In this subsection \[probably should be "section"\]:
+
+&emsp;"(1) The term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note).
+
+&emsp;"(2) The term 'coronavirus' has the meaning given that term in section 506 of the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123 \[134 Stat. 155\]).
+
+&emsp;"(3) The term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 126 Stat. 2422; 38 U.S.C. 527 note)."
+
+#### Access of Veterans to Individual Longitudinal Exposure Record
+
+Pub. L. 116–283, div. H, title XCI, §9105, Jan. 1, 2021, 134 Stat. 4783, provided that: "The Secretary of Veterans Affairs shall provide to a veteran read-only access to the documents of the veteran contained in the Individual Longitudinal Exposure Record in a printable format through a portal accessible through an internet website of the Department of Veterans Affairs."
 
 #### Access to Information in Burn Pit Registry
 
@@ -38,7 +118,7 @@ Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term
 
 #### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
 
-Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relatingto such effects, including with respect to research efforts and training of clinical staff on related matters."
+Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the VeteransHealth Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
 
 #### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
 
@@ -58,7 +138,7 @@ Inclusion of Certain Information.—The Secretary of Defense shall include in th
 
 #### Establishment of Open Burn Pit Registry
 
-Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, provided that:
+Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, §2010(g), Jan. 5, 2021, 134 Stat. 4979, provided that:
 
 "(a)
 
@@ -128,7 +208,7 @@ Eligible individual.—The term 'eligible individual' means any individual who, 
 
 &emsp;"(2)
 
-Open burn pit.—The term 'open burn pit' means an area of land located in Afghanistan or Iraq that—
+Open burn pit.—The term 'open burn pit' means an area of land located in Afghanistan, Iraq, or Uzbekistan that—
 
 &emsp;&emsp;"(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and
 
@@ -254,7 +334,7 @@ Definitions.—For the purposes of this section:
 
 "(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek toenter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 "(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -324,7 +404,7 @@ Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five follo
 
 "(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled 'VA National Survey of Persian Gulf Veterans—Phase III', the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
 
-"(B) With respect to any findings of that study and any other pertinent medical literature which identifyscientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+"(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
 "(d)
 

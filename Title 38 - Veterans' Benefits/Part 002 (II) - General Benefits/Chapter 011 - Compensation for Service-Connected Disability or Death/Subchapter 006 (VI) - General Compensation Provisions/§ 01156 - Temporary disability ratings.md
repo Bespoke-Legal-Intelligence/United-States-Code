@@ -40,7 +40,7 @@ Termination of Temporary Disability Ratings.—(1) Except as provided in paragra
 
 &emsp;&emsp;(ii) provided in regulations prescribed by the Secretary.
 
-&emsp;(B) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(B), until the date on which a rating decision is issued to such veteran following the medical examination scheduled under subsection (a)(3).
+&emsp;(B) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(B), until the date on which a rating decision is issued to such veteran following themedical examination scheduled under subsection (a)(3).
 
 &emsp;(C) For a veteran who is assigned a temporary disability rating under subsection (a)(1)(C), until the later of the date that is—
 
@@ -62,9 +62,13 @@ Construction.—Nothing in this section shall be construed to preclude the Secre
 
 (Added Pub. L. 110–389, title II, §211(a), Oct. 10, 2008, 122 Stat. 4149.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, §5(a),Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

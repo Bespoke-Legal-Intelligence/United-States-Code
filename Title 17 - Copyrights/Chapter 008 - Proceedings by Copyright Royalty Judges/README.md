@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 This chapter consisted of sections 801 to 803, related to proceedings by copyright arbitration royalty panels, prior to being amended generally by Pub. L. 108–419.

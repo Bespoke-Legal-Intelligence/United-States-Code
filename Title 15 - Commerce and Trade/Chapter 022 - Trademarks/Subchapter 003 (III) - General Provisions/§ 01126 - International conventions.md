@@ -34,7 +34,7 @@ A mark duly registered in the country of origin of the foreign applicant may be 
 
 #### (f) Domestic registration independent of foreign registration
 
-The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shallbe independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
 #### (g) Trade or commercial names of foreign nationals protected without registration
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 87–772 inserted "certification or a" after "accompanied b
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 

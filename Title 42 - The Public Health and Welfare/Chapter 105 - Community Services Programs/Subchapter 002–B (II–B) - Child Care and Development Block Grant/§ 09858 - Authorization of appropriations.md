@@ -6,7 +6,7 @@ There is authorized to be appropriated to carry out this subchapter $2,360,000,0
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–186 substituted "subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020" for "subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002".
+<b>2014</b>—Pub. L. 113–186 substituted "subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and$2,748,591,018 for fiscal year 2020" for "subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002".
 
 <b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995."
 
@@ -142,7 +142,7 @@ year study.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 2 years after the date on which the Secretary first awards grants under this section, the Secretary shall conduct a study to determine—
+In general.—Not later than 2 years after the date on which the Secretary first awards grantsunder this section, the Secretary shall conduct a study to determine—
 
 &emsp;&emsp;&emsp;"(i) the capacity of covered entities to meet the child care needs of communities within States;
 

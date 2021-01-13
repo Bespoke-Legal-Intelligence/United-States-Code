@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcoholdistribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -196,7 +196,7 @@ It is the sense of the Congress that:
 
 #### (E) Supplement not supplant
 
-&emsp;&emsp;Grant funds provided under this paragraph shall be used to supplement, not supplant, Federal and non-Federal funds available for carrying out the activities described in this paragraph.
+&emsp;&emsp;Grant funds provided under this paragraph shall be used to supplement, not supplant, Federal and non-Federal funds available forcarrying out the activities described in this paragraph.
 
 #### (F) Evaluation
 
@@ -254,7 +254,7 @@ It is the sense of the Congress that:
 
 #### (D) Accountability
 
-&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under thisparagraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
+&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under this paragraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of student studies, mental health referrals, illnesses, or deaths);
 

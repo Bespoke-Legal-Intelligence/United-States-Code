@@ -70,7 +70,7 @@
 
 &emsp;(9) "adolescent" means an individual under the age of nineteen; and
 
-&emsp;(10) "unemancipated minor" means a minor who is subject to the control, authority, and supervision of his or her parents or guardians, as determined under State law.
+&emsp;(10) "unemancipated minor" means a minor who is subject to the control, authority, andsupervision of his or her parents or guardians, as determined under State law.
 
 (b) Until such time as the Secretary promulgates regulations pursuant to the second sentence of this subsection, the Secretary shall use the regulations promulgated under title VI of the Health Services and Centers Amendments of 1978 \[42 U.S.C. 300a–21 et seq.\] which were in effect on August 13, 1981, to determine which necessary services are core services for purposes of this subchapter. The Secretary may promulgate regulations to determine which necessary services are core services for purposes of this subchapter based upon an evaluation of and information concerning which necessary services are essential to carry out the purposes of this subchapter and taking into account (1) factors such as whether services are to be provided in urban or rural areas, the ethnic groups to be served, and the nature of the populations to be served, and (2) the results of the evaluations required under section 300z–5(b) of this title. The Secretary may from time to time revise such regulations.
 

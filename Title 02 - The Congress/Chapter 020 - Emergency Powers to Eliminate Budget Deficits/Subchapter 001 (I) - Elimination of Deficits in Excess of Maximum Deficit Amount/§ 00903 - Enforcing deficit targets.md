@@ -34,7 +34,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (2) Second
 
-&emsp;If additional reductions in non-defense accounts are required to be made, the maximum reduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
+&emsp;If additional reductions in non-defense accounts are required to be made, the maximumreduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
 
 #### (3) Third
 
@@ -70,7 +70,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
-&emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), themaximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
+&emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
 &emsp;&emsp;(D) For each fiscal year the adjustments required to be made with the submission of the President's budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President's budget for that year.
 
@@ -105,6 +105,8 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 &emsp;For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
 
 (Pub. L. 99–177, title II, §253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

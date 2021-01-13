@@ -2,7 +2,7 @@
 
 (a)
 
-Removal by President.—The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
+Removal by President.—The President may remove the name of any officer from a listof officers recommended for promotion by a selection board convened under this chapter.
 
 (b)
 

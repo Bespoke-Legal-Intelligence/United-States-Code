@@ -16,9 +16,13 @@ Nothing in this section affects—
 
 (Pub. L. 101–640, title III, §306, Nov. 28, 1990, 104 Stat. 4635.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

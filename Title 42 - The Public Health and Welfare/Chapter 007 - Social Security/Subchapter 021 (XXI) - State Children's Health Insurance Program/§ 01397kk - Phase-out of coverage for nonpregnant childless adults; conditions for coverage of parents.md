@@ -28,11 +28,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an applicationto the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
+&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval
 
-&emsp;&emsp;The Secretary shall make a decision to approve or deny an application for a Medicaid nonpregnant childless adults waiver submitted under subparagraph (A) within 90 days of the date of the submission of the application. If no decision has been made by the Secretary as of December 31, 2009, on the application of a State for a Medicaid nonpregnant childless adults waiver that was submitted to the Secretary by September 30, 2009, the application shall be deemed approved.
+&emsp;&emsp;The Secretary shall make a decision to approve or deny an application for a Medicaid nonpregnant childless adults waiver submitted under subparagraph (A) within 90 days of the date of the submission of the application. If no decision has been made bythe Secretary as of December 31, 2009, on the application of a State for a Medicaid nonpregnant childless adults waiver that was submitted to the Secretary by September 30, 2009, the application shall be deemed approved.
 
 #### (C) Standard for budget neutrality
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub.L. 109–171, which is set out as a note under section 1397gg of this title.
+Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
 
 #### Amendments
 
@@ -174,5 +174,5 @@ Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. 
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 ofPub. L. 111–3, set out as a note under section 1396 of this title.
 

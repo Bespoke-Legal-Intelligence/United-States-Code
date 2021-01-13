@@ -70,7 +70,7 @@
 
 #### (5) First-in-Class use
 
-&emsp;Notwithstanding paragraphs (2) through (4), a new building project may qualify under thissection if the Secretary determines that the project—
+&emsp;Notwithstanding paragraphs (2) through (4), a new building project may qualify under this section if the Secretary determines that the project—
 
 &emsp;&emsp;(A) represents a First-In-Class use of renewable energy; or
 

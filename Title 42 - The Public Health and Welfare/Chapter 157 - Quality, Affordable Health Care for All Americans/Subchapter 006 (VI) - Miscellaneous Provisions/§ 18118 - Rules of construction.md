@@ -10,7 +10,7 @@ Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1
 
 #### (c) Student health insurance plans
 
-Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to prohibit an institution of higher education (as such term is defined for purposes of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\]) from offering a student health insurance plan, to the extent that such requirement is otherwise permitted under applicable Federal, State or local law.
+Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to prohibit an institution of higher education (as such term isdefined for purposes of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\]) from offering a student health insurance plan, to the extent that such requirement is otherwise permitted under applicable Federal, State or local law.
 
 #### (d) No effect on existing requirements
 

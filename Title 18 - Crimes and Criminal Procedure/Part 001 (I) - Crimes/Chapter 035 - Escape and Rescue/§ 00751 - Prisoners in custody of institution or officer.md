@@ -22,6 +22,8 @@ Reference to "custody or confinement is for extradition" was inserted to avoid p
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" after "any offense, be" and for "fined not more than $1,000" after "conviction, be" in subsec. (a) and substituted "fined under this title" for "fined not more than $1,000" in subsec. (b).
@@ -31,6 +33,8 @@ Changes were made in phraseology and arrangement.
 <b>1965</b>—Pub. L. 89–176 inserted "or facility" after "institution".
 
 <b>1963</b>—Pub. L. 88–251 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

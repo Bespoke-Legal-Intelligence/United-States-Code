@@ -30,6 +30,8 @@ Transition Rule.—Until regulations under section 3633 first take effect, rates
 
 (Added Pub. L. 109–435, title II, §202, Dec. 20, 2006, 120 Stat. 3206.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.

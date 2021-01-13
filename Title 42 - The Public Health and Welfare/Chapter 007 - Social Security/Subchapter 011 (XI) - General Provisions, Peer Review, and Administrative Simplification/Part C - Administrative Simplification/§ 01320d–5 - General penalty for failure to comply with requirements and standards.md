@@ -100,7 +100,7 @@
 
 #### (4) Notice to Secretary
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Secretary and provide the Secretary with a copy of its complaint, except in any case in whichsuch prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Secretary shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Secretary and provide the Secretary with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Secretary shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 

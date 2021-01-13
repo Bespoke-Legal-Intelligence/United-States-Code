@@ -10,7 +10,7 @@ Standards for Automobiles and Certain Other Vehicles.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation, after consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall prescribe separate average fuel economy standards for—
+In general.—The Secretary of Transportation, after consultation with the Secretaryof Energy and the Administrator of the Environmental Protection Agency, shall prescribe separate average fuel economy standards for—
 
 &emsp;&emsp;(A) passenger automobiles manufactured by manufacturers in each model year beginning with model year 2011 in accordance with this subsection;
 
@@ -124,7 +124,7 @@ Study.—Not later than 1 year after the National Academy of Sciences publishes 
 
 &emsp;&emsp;(A) the appropriate test procedures and methodologies for measuring the fuel efficiency of such vehicles and work trucks;
 
-&emsp;&emsp;(B) the appropriate metric for measuring and expressing commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency performance, taking into consideration, among other things, thework performed by such on-highway vehicles and work trucks and types of operations in which they are used;
+&emsp;&emsp;(B) the appropriate metric for measuring and expressing commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency performance, taking into consideration, among other things, the work performed by such on-highway vehicles and work trucks and types of operations in which they are used;
 
 &emsp;&emsp;(C) the range of factors, including, without limitation, design, functionality, use, duty cycle, infrastructure, and total overall energy consumption and operating costs that affect commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency; and
 
@@ -304,7 +304,7 @@ Therefore, I request that:
 
 (a) in order to comply with the EISA requirement that fuel economy increases begin with model year 2011, you take all measures consistent with law, and in coordination with the Environmental Protection Agency, to publish in the Federal Register by March 30, 2009, a final rule prescribing increased fuel economy for model year 2011;
 
-(b) before promulgating a final rule concerning model years after model year 2011, you consider the appropriate legal factors under the EISA, the comments filed in response to the Notice of Proposed Rulemaking, the relevant technological and scientific considerations, and to the extent feasible, the forthcoming report bythe National Academy of Sciences mandated under section 107 of EISA; and
+(b) before promulgating a final rule concerning model years after model year 2011, you consider the appropriate legal factors under the EISA, the comments filed in response to the Notice of Proposed Rulemaking, the relevant technological and scientific considerations, and to the extent feasible, the forthcoming report by the National Academy of Sciences mandated under section 107 of EISA; and
 
 (c) in adopting the final rules in paragraphs (a) and (b) above, you consider whether any provisions regarding preemption are consistent with the EISA, the Supreme Court's decision in <i>Massachusetts v. EPA</i> and other relevant provisions of law and the policies underlying them.
 
@@ -324,7 +324,7 @@ America has the opportunity to lead the world in the development of a new genera
 
 Section 1. <i>Medium- and Heavy-Duty Trucks.</i>
 
-While the Federal Government and many States have now created a harmonized framework for addressing the fuel economy of and greenhouse gas emissions from cars and light-duty trucks, medium- and heavy-duty trucks and buses continue to be a major source of fossil fuel consumption and greenhouse gas pollution. I therefore request that the Administrators of the EPA and the NHTSA immediately begin work on a joint rulemaking under the Clean Air Act (CAA) and the Energy Independence and Security Act of 2007 (EISA) to establish fuel efficiency and greenhouse gas emissions standards for commercial medium- and heavy-duty vehicles beginning with model year 2014, with the aim of issuing a final rule by July 30, 2011. As part of this rule development process, I request that the Administrators of the EPA and the NHTSA:
+While the Federal Government and many States have now created a harmonized framework for addressing the fuel economy of and greenhouse gas emissions from cars and light-duty trucks, medium- and heavy-duty trucks and buses continue to be a major source of fossil fuel consumption and greenhouse gas pollution. I therefore request that the Administrators of the EPA and the NHTSA immediately begin work on a joint rulemaking under the Clean Air Act (CAA) and the EnergyIndependence and Security Act of 2007 (EISA) to establish fuel efficiency and greenhouse gas emissions standards for commercial medium- and heavy-duty vehicles beginning with model year 2014, with the aim of issuing a final rule by July 30, 2011. As part of this rule development process, I request that the Administrators of the EPA and the NHTSA:
 
 (a) Propose and take comment on strategies, including those designed to increase the use of existing technologies, to achieve substantial annual progress in reducing transportation sector emissions and fossil fuel consumption consistent with my Administration's overall energy and climate security goals. These strategies should consider whether particular segments of the diverse heavy-duty vehicle sector present special opportunities to reduce greenhouse gas emissions and increase fuel economy. For example, preliminary estimates indicate that large tractor trailers, representing half of all greenhouse gas emissions from this sector, can reduce greenhouse gas emissions by as much as 20 percent and increase their fuel efficiency by as much as 25 percent with the use of existing technologies;
 

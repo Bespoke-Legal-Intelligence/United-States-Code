@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under such regulations in conformity with this section as the Administrator shall prescribe taking into account the availability, cost, and terms of liability insurance, any contract between the Administrationand a provider may provide that the United States will indemnify the provider against successful claims (including reasonable expenses of litigation or settlement) by third parties for death, bodily injury, or loss of or damage to property resulting from launch services and reentry services carried out under the contract that the contract defines as unusually hazardous or nuclear in nature, but only to the extent the total amount of successful claims related to the activities under the contract—
+In General.—Under such regulations in conformity with this section as the Administrator shall prescribe taking into account the availability, cost, and terms of liability insurance, any contract between the Administration and a provider may provide that the United States will indemnify the provider against successful claims (including reasonable expenses of litigation or settlement) by third parties for death, bodily injury, or loss of or damage to property resulting from launch services and reentry services carried out under the contract that the contract defines as unusually hazardous or nuclear in nature, but only to the extent the total amount of successful claims related to the activities under the contract—
 
 &emsp;(1) is more than the amount of insurance or demonstration of financial responsibility described in subsection (c)(3); and
 
@@ -52,7 +52,7 @@ Amount of insurance.—For the total claims related to one launch or reentry, a 
 
 &emsp;(4)
 
-Coverage.—An insurance policy or demonstration of financial responsibility under this subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services:
+Coverage.—An insurance policy or demonstration of financial responsibility underthis subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services:
 
 &emsp;&emsp;(A) The Government.
 
@@ -122,7 +122,7 @@ Anti-deficiency act.—Notwithstanding any other provision of this section—
 
 &emsp;&emsp;(A) all obligations under this section are subject to the availability of funds; and
 
-&emsp;&emsp;(B) nothing in this section may be construed to require obligation or payment of funds in violation of sections 1341, 1342, 1349through 1351, and 1511 through 1519 of title 31, United States Code (commonly referred to as the "Anti-Deficiency Act").
+&emsp;&emsp;(B) nothing in this section may be construed to require obligation or payment of funds in violation of sections 1341, 1342, 1349 through 1351, and 1511 through 1519 of title 31, United States Code (commonly referred to as the "Anti-Deficiency Act").
 
 (j)
 
@@ -167,6 +167,8 @@ Third party.—The term "third party" means a person except—
 &emsp;&emsp;(E) a government astronaut.
 
 (Added Pub. L. 115–10, title III, §305(a), Mar. 21, 2017, 131 Stat. 30.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

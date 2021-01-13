@@ -30,7 +30,7 @@ No fee may be charged in connection with the submission, processing, or consider
 
 &emsp;A significant negative impact on the United States defense industrial base is the following:
 
-&emsp;&emsp;(A) A reduction in the availability of an item produced in the United States that islikely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States, or for the production of an item in the United States for the Department of Defense or other agency for the advancement of the national security of the United States.
+&emsp;&emsp;(A) A reduction in the availability of an item produced in the United States that is likely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States, or for the production of an item in the United States for the Department of Defense or other agency for the advancement of the national security of the United States.
 
 &emsp;&emsp;(B) A reduction in the production in the United States of an item that is the result of research and development carried out, or funded by, the Department of Defense or other Federal department or agency to advance the national security of the United States, or a federally funded research and development center.
 

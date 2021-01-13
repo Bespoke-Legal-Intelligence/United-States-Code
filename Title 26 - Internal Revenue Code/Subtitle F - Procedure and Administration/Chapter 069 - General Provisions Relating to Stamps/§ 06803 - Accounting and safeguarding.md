@@ -14,7 +14,7 @@ The Secretary may from time to time make such regulations as he may find necessa
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 redesignated subsec. (b)(1) as (a), substituted "paragraph (2)" for "paragraph (2) or (3)", and struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (b). Pub. L. 94–455 redesignated par. (2) as entire subsection, struck out "or his delegate" after "Secretary" and substituted "paragraph (2)" for "paragraphs (2) and (3)". Par. (1) redesignated subsec. (a).
+Subsec. (b). Pub. L. 94–455 redesignated par. (2) as entire subsection, struck out "or his delegate" after"Secretary" and substituted "paragraph (2)" for "paragraphs (2) and (3)". Par. (1) redesignated subsec. (a).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–310 repealed subsec. (a) which related to bonds, deposits of receipts, and accounts of postmasters, and which required the Postmaster General to transfer all receipts to the Treasury.
 

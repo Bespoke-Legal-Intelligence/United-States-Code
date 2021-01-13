@@ -6,7 +6,7 @@ The Secretary shall designate and maintain an identifiable administrative unit i
 
 &emsp;(2) conduct a program of public information to inform the public of the need for organ donations,
 
-&emsp;(3) provide technical assistance to organ procurement organizations, the Organ Procurement and Transplantation Network established under section 274 of this title, and other entities in the health care system involved in organ donations, procurement, and transplants, and
+&emsp;(3) provide technical assistance to organ procurement organizations, the Organ Procurement and Transplantation Network established under section 274 of this title, and other entities in the health care system involved inorgan donations, procurement, and transplants, and
 
 &emsp;(4) provide information—
 

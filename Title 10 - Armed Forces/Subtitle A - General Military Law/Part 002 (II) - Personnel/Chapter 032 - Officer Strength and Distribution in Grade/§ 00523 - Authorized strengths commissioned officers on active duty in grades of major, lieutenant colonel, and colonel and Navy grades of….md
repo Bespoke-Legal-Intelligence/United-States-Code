@@ -138,7 +138,7 @@ Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively r
 
 &emsp;"(B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32;
 
-&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
+&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering,recruiting, instructing, or training the reserve components;
 
 &emsp;"(D) on active duty to pursue special work;
 
@@ -216,7 +216,7 @@ Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, prov
 
 #### Ceilings on Commissioned Officers on Active Duty
 
-Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
+Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1,1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

@@ -4,6 +4,8 @@ A subpena of the Secretary of the Treasury may be served by any person designate
 
 (Aug. 11, 1955, ch. 800, §2, 69 Stat. 685.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.

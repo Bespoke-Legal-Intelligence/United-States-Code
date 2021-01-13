@@ -8,7 +8,7 @@ The Administrator, in consultation with the Secretary of State and the heads of 
 
 &emsp;(2) recognizes licenses and permits issued under this subchapter to the extent that such nation, under its laws, (A) prohibits any person from engaging in exploration or commercial recovery which conflicts with that authorized under any such license or permit and (B) complies with the date for issuance of licenses and the effective date for permits provided in section 1412(c)(1)(D) of this title;
 
-&emsp;(3) recognizes, under its procedures, priorities of right, consistent with those providedin this chapter and the regulations issued under this chapter, for applications for licenses for exploration or permits for commercial recovery, which applications are made either under its procedures or under this chapter; and
+&emsp;(3) recognizes, under its procedures, priorities of right, consistent with those provided in this chapter and the regulations issued under this chapter, for applications for licenses for exploration or permits for commercial recovery, which applications are made either under its procedures or under this chapter; and
 
 &emsp;(4) provides an interim legal framework for exploration and commercial recovery which does not unreasonably interfere with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law.
 

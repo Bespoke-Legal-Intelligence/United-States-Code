@@ -22,7 +22,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (1) Development
 
-&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunction with the Secretary for the removal of public housing units identified under subsection (a) from the inventory of the public housing agency and the annual contributions contract.
+&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunctionwith the Secretary for the removal of public housing units identified under subsection (a) from the inventory of the public housing agency and the annual contributions contract.
 
 #### (2) Approval
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of law, if a project or projects are identif
 
 &emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437l of this title, any amounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
 
-&emsp;(3) in the case of an agency receiving assistance for the major reconstruction of obsolete projects, any amounts obligated by the Secretary for the major reconstruction of such project or projects pursuant to section 1437c(j)(2) of this title, as in effect immediately before the effective date under section503(a) of the Quality Housing and Work Responsibility Act of 1998; and
+&emsp;(3) in the case of an agency receiving assistance for the major reconstruction of obsolete projects, any amounts obligated by the Secretary for the major reconstruction of such project or projects pursuant to section 1437c(j)(2) of this title, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998; and
 
 &emsp;(4) in the case of an agency receiving assistance pursuant to the formulas under section 1437g of this title, any amounts provided to the agency which are attributable pursuant to the formulas for allocating such assistance to such project or projects.
 

@@ -6,7 +6,7 @@ The Act entitled "An Act to express the intent of Congress with reference to the
 
 #### (b) Mandatory insurance licensing requirements
 
-No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
+No person shall engage in the business of insurance in a State as principal or agent unlesssuch person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
 
 #### (c) Affiliations
 
@@ -34,7 +34,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), and except with respect to insurance sales, solicitation, and cross marketing activities, which shall be governed by paragraph (2), no State may, by statute, regulation, order, interpretation, or other action, prevent or restrict a depository institution or an affiliate thereof from engaging directly or indirectly, either by itself or in conjunction with an affiliate, or any other person, in any activity authorizedor permitted under this Act and the amendments made by this Act.
+&emsp;Except as provided in paragraph (3), and except with respect to insurance sales, solicitation, and cross marketing activities, which shall be governed by paragraph (2), no State may, by statute, regulation, order, interpretation, or other action, prevent or restrict a depository institution or an affiliate thereof from engaging directly or indirectly, either by itself or in conjunction with an affiliate, or any other person, in any activity authorized or permitted under this Act and the amendments made by this Act.
 
 #### (2) Insurance sales
 
@@ -72,7 +72,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) from engaging in any activity described in this clause that would not violate section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\], as interpreted by the Board of Governors of the Federal Reserve System; or
 
-&emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or thatinsurance is available from the depository institution or an affiliate of the depository institution.
+&emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
 &emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
@@ -90,7 +90,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
 
-&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that such insurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
+&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that suchinsurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
 
 #### (C) Limitations
 
@@ -198,7 +198,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33,which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
+The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
@@ -278,7 +278,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
-&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United Stateseconomy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
+&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
 "(b)
 
@@ -474,7 +474,7 @@ In general.—There is established in the Department of the Treasury the Terrori
 
 &emsp;"(2)
 
-Authority of the secretary.—Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
+Authority of the secretary.—Notwithstanding any other provision of State or Federal law,the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
 
 &emsp;"(3)
 
@@ -838,7 +838,7 @@ Amount.—The amount under this paragraph is the greater of $1,000,000 and, in t
 
 &emsp;"(3)
 
-Recovery of amount in dispute.—A penalty under this subsection for any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
+Recovery of amount in dispute.—A penalty under this subsection for any failure to pay, charge,collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
 
 "(f)
 
@@ -1004,7 +1004,7 @@ Substantive law.—The substantive law for decision in any such action described
 
 &emsp;"(4)
 
-Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of anact of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
+Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
 
 &emsp;"(5)
 

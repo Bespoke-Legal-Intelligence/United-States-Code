@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;The 1992 UMWA Benefit Plan shall provide health care benefits coverage to each eligiblebeneficiary which is substantially the same as (and subject to all the limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
+&emsp;The 1992 UMWA Benefit Plan shall provide health care benefits coverage to each eligible beneficiary which is substantially the same as (and subject to all the limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
 
 #### (2) Managed care
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(B) obtaining a unit price discount in exchange for patient volume and preferred provider status with the amount of the potential discount varying by geographic region,
 
-&emsp;&emsp;(C) limiting benefit payments to physicians to the allowable charge under title XVIII of the Social Security Act, while protecting beneficiaries from balance billing by providers,
+&emsp;&emsp;(C) limiting benefit payments to physicians to the allowable charge under titleXVIII of the Social Security Act, while protecting beneficiaries from balance billing by providers,
 
 &emsp;&emsp;(D) utilizing, in the claims payment function "appropriateness of service" protocols under title XVIII of the Social Security Act if more stringent,
 
@@ -134,7 +134,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

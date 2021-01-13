@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
+General Authority.—The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism, cyber incidents, transnational organized crime, and foreign state threats against—
 
 &emsp;(1) an individual, vessel, or public or commercial structure, that is—
 
@@ -16,17 +16,23 @@ General Authority.—The Secretary may take actions described in subsection (b) 
 
 Specific Authority.—Under subsection (a), the Secretary may—
 
-&emsp;(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
+&emsp;(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism cyber <sup>1</sup> incidents, transnational organized crime, and foreign state threats;
 
-&emsp;(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
+&emsp;(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism cyber <sup>1</sup> incidents, transnational organized crime, and foreign state threats; and
 
-&emsp;(3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in section 70101 of title 46, United States Code.
+&emsp;(3) dispatch properly trained and qualified, armed (as needed), Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents, as defined in section 70101 of title 46, United States Code.
 
 (c)
 
-Definitions, Administration, and Enforcement.—This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70034, 70035, and 70036.
+Definitions, Administration, and Enforcement.—This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70033, 70035, and 70036. When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563.
 
-(Added and amended Pub. L. 115–282, title IV, §402(b)(1), (2), Dec. 4, 2018, 132 Stat. 4264.)
+(Added and amended Pub. L. 115–282, title IV, §402(b)(1), (2), Dec. 4, 2018, 132 Stat. 4264; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8341, Jan. 1, 2021, 134 Stat. 4709.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Executive Order Nos. 12866 and 13563, referred to in subsec. (c), are set out as notes under section 601 of Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -38,7 +44,17 @@ A prior section 70116, added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8341(1), inserted ", cyber incidents, transnational organized crime, and foreign state threats" after "an act of terrorism" in introductory provisions.
+
+Subsec. (b)(1), (2). Pub. L. 116–283, §8341(2)(A), inserted "cyber incidents, transnational organized crime, and foreign state threats" after "terrorism".
+
+Subsec. (b)(3). Pub. L. 116–283, §8341(2)(B), substituted ", armed (as needed)," for "armed" and "terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents," for "terrorism or transportation security incidents,".
+
+Subsec. (c). Pub. L. 116–283, §8341(3), substituted "70033," for "70034," and inserted at end "When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563."
+
 <b>2018</b>—Pub. L. 115–282, §402(b)(1), transferred section catchline and subsecs. (a) and (b) of section 7 of Pub. L. 92–340 to this chapter and redesignated them as this section. See Codification note above. Catchline text was editorially conformed to the style used in this title.
 
 Subsec. (c). Pub. L. 115–282, §402(b)(2), added subsec. (c).
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by a comma.</i>
 

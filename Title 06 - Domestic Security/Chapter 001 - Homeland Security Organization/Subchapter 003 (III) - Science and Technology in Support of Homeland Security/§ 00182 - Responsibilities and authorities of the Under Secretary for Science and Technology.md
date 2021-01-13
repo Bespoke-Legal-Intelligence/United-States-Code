@@ -22,7 +22,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(8) collaborating with the Secretary of Agriculture and the Attorney General as provided in section 8401 of title 7;
 
-&emsp;(9) collaborating with the Secretary of Health and Human Services and the AttorneyGeneral in determining any new biological agents and toxins that shall be listed as "select agents" in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 262a of title 42;
+&emsp;(9) collaborating with the Secretary of Health and Human Services and the Attorney General in determining any new biological agents and toxins that shall be listed as "select agents" in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 262a of title 42;
 
 &emsp;(10) supporting United States leadership in science and technology;
 
@@ -35,6 +35,8 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 &emsp;(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
 
 (Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(1)(C), Aug. 3, 2007, 121 Stat. 334; Pub. L. 115–278, §2(g)(3)(A), Nov. 16, 2018, 132 Stat. 4178.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

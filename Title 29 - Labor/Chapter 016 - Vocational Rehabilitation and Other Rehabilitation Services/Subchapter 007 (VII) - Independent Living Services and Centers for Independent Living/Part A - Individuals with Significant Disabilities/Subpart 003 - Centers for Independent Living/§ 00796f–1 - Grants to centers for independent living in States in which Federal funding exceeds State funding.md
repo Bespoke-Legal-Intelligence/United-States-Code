@@ -88,6 +88,8 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 (Pub. L. 93–112, title VII, §722, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1229; amended Pub. L. 113–128, title IV, §482(a), July 22, 2014, 128 Stat. 1692.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 796f–1, Pub. L. 93–112, title VII, §722, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4456; amended Pub. L. 103–73, title I, §114(i), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -106,6 +108,8 @@ Subsec. (d)(2)(A). Pub. L. 113–128, §482(a)(3)(B)(ii), added subpar. (A) and 
 
 Subsecs. (e), (g). Pub. L. 113–128, §482(a)(4), which directed substitution of "Administrator." for "Commissioner" wherever appearing, was executed by substituting "Administrator" for "Commissioner" wherever appearing, to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Grants to Centers for Independent Living in States in Which Federal Funding Exceeds State Funding
 
 Pub. L. 111–213, §2(a), July 29, 2010, 124 Stat. 2343, provided that:
@@ -118,9 +122,9 @@ In general.—If the conditions described in paragraph (2) are satisfied with re
 
 &emsp;&emsp;"(i) shall distribute among such centers funds appropriated for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.) by any Act other than the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) in the same proportion as such funds were distributed among such centers in the State in fiscal year 2009, notwithstanding section 722(e) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–1(e)) and any contrary provision of a State plan submitted under section 704 of such Act (29 U.S.C. 796c); and
 
-&emsp;&emsp;"(ii) shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
+&emsp;&emsp;"(ii) shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C oftitle VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
 
-&emsp;"(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centersfrom funds appropriated by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).
+&emsp;"(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).
 
 "(2)
 

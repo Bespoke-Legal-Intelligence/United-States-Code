@@ -254,7 +254,7 @@ A Federal agency shall—
 
 &emsp;&emsp;(B) the spouse, minor child, partner, or organization (other than a State or political subdivision of the State) of the member, alternate, officer, or employee, in which the member, alternate, officer, or employee is serving as officer, director, trustee, partner, or employee; or
 
-&emsp;&emsp;(C) any person or organization with whom the member, alternate, officer, or employeeis negotiating or has any arrangement concerning prospective employment;
+&emsp;&emsp;(C) any person or organization with whom the member, alternate, officer, or employee is negotiating or has any arrangement concerning prospective employment;
 
 > &emsp;has a financial interest.
 

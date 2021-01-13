@@ -80,7 +80,7 @@ Subsec. (f). Pub. L. 103–43, §2010(b)(3), substituted "Section 238" for "Sect
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this titleto reflect renumbering of corresponding section of original act.
 
 Pub. L. 100–607 substituted "300aaa" for "300cc".
 

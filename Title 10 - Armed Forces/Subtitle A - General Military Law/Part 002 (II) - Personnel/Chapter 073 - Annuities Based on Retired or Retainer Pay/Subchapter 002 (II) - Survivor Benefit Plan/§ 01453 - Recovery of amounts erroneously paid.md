@@ -12,7 +12,7 @@ Authority To Waive Recovery.—Recovery of an amount erroneously paid to a perso
 
 &emsp;(2) recovery of such amount would be contrary to the purposes of this subchapter or against equity and good conscience.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 104–201, div. A, titleVI, §634, Sept. 23, 1996, 110 Stat. 2577; Pub. L. 104–316, title I, §105(a), Oct. 19, 1996, 110 Stat. 3830.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577; Pub. L. 104–316, title I, §105(a), Oct. 19, 1996, 110 Stat. 3830.)
 
 #### Amendments
 

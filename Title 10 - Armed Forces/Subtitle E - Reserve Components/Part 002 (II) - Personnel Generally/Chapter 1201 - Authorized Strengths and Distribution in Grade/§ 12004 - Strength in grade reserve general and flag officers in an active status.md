@@ -6,7 +6,7 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Army | 207   |
+| Army | 207&nbsp;&nbsp; |
 | Air Force | 157&nbsp;&nbsp; |
 | Navy | 48&nbsp;&nbsp; |
 | Marine Corps | 10\. |
@@ -19,7 +19,7 @@
 
 &emsp;(3) Those counted under section 526 of this title.
 
-&emsp;(4) Those serving in a joint duty assignment for purposes of chapter 38 of this title, except that the number of officers who may be excluded under this paragraph may not exceed the number equal to 20 percent of the number of officers authorized for the armed force concerned by subsection (a).
+&emsp;(4) Those serving in a joint duty assignment for purposes of chapter 38 of this title, exceptthat the number of officers who may be excluded under this paragraph may not exceed the number equal to 20 percent of the number of officers authorized for the armed force concerned by subsection (a).
 
 (c)(1) The following Navy reserve officers shall not be counted for purposes of this section:
 

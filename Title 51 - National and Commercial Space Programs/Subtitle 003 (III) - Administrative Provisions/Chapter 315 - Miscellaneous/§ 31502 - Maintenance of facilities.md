@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title X, §1002(a), Oct. 15, 2008, 122 Stat. 4806.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Facilities and Infrastructure
 
 Pub. L. 115–10, title VIII, §837, Mar. 21, 2017, 131 Stat. 69, provided that:

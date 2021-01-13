@@ -1,5 +1,7 @@
 ### §207. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, acts Jan. 31, 1899, ch. 78, §7, 30 Stat. 811; July 1, 1916, ch. 209, 39 Stat. 309, related to return of nonresident indigent insane in District of Columbia.

@@ -36,6 +36,8 @@ Reporting.—The National ITS program plan shall be submitted and biennially upd
 
 (Added Pub. L. 109–59, title V, §5301(a), Aug. 10, 2005, 119 Stat. 1804; amended Pub. L. 114–94, div. A, title VI, §6019(d)(1)(D), Dec. 4, 2015, 129 Stat. 1581.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
@@ -47,6 +49,8 @@ A prior section 512, formerly 511, added Pub. L. 90–495, §30, Aug. 23, 1968, 
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 struck out "as part of the transportation research and development strategic plan developed under section 508" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -262,7 +266,7 @@ Priority Areas.—Under the program, the Secretary shall give higher priority to
 
 &emsp;&emsp;"(B) ensuring that a national, interoperable 5–1–1 system, along with a national traffic information system that includes a user-friendly, comprehensive website, is fully implemented for use by travelers throughout the United States by September 30, 2010; and
 
-&emsp;&emsp;"(C)(i) improving incident management response, particularly in rural areas, so that rural emergency response times are reduced by an average of 10 minutes; and
+&emsp;&emsp;"(C)(i) improving incident management response, particularly in rural areas, so that rural emergencyresponse times are reduced by an average of 10 minutes; and
 
 &emsp;&emsp;"(ii) improving communication between emergency care providers and trauma centers;
 
@@ -338,7 +342,7 @@ Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1
 
 &emsp;&emsp;"(A) projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508 of title 23, United States Code; or
 
-&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date ofenactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
+&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
 
 &emsp;&emsp;&emsp;"(i) would not adversely affect the goals or purposes of this subtitle \[subtitle C (§§5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title\];
 
@@ -528,7 +532,7 @@ Pub. L. 109–59, title VI, §6010, Aug. 10, 2005, 119 Stat. 1877, provided that
 
 "(a)
 
-Categorical Exclusions.—Not later than one year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall initiate a rulemaking process to establish, to the extent appropriate, categorical exclusions for activities that support the deployment of intelligent transportation infrastructure and systems from the requirement that an environmental assessment or an environmental impact statement be prepared under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) in compliance with the standards for categorical exclusions established by that Act \[42 U.S.C. 4321 et seq.\].
+Categorical Exclusions.—Not later than one year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall initiate a rulemaking process to establish, to the extent appropriate, categorical exclusions for activities that support the deployment of intelligent transportation infrastructure and systems from the requirement that an environmental assessment or an environmental impact statement be prepared under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) incompliance with the standards for categorical exclusions established by that Act \[42 U.S.C. 4321 et seq.\].
 
 "(b)
 

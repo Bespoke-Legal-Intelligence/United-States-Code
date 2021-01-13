@@ -2,7 +2,7 @@
 
 #### (a) Use by plan actuary in determining unfunded vested benefits of a plan for computing withdrawal liability of employer
 
-The corporation may prescribe by regulation actuarial assumptions which may be used by aplan actuary in determining the unfunded vested benefits of a plan for purposes of determining an employer's withdrawal liability under this part. Withdrawal liability under this part shall be determined by each plan on the basis of—
+The corporation may prescribe by regulation actuarial assumptions which may be used by a plan actuary in determining the unfunded vested benefits of a plan for purposes of determining an employer's withdrawal liability under this part. Withdrawal liability under this part shall be determined by each plan on the basis of—
 
 &emsp;(1) actuarial assumptions and methods which, in the aggregate, are reasonable (taking into account the experience of the plan and reasonable expectations) and which, in combination, offer the actuary's best estimate of anticipated experience under the plan, or
 
@@ -26,11 +26,15 @@ For purposes of this part, the term "unfunded vested benefits" means with respec
 
 (Pub. L. 93–406, title IV, §4213, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1233; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (b)(1). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

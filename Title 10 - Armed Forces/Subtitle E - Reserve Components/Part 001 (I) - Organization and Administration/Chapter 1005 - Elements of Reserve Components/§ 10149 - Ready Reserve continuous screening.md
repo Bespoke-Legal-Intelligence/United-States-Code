@@ -12,7 +12,7 @@
 
 &emsp;(5) That members whose mobilization in an emergency would result in an extreme personal or community hardship are not retained in the Ready Reserve.
 
-(b)(1) In applying Ready Reserve continuous screening under this section, an individual whois both a member of the Ready Reserve and a Member of Congress may not be transferred to the Standby Reserve or discharged on account of the individual's position as a Member of Congress.
+(b)(1) In applying Ready Reserve continuous screening under this section, an individual who is both a member of the Ready Reserve and a Member of Congress may not be transferred to the Standby Reserve or discharged on account of the individual's position as a Member of Congress.
 
 (2) The transfer or discharge of an individual who is both a member of the Ready Reserve and a Member of Congress may be ordered—
 

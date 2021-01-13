@@ -30,9 +30,13 @@ For purposes of this section, the term "institutional network" means a communica
 
 (June 19, 1934, ch. 652, title VI, §611, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; Pub. L. 104–104, title V, §506(a), Feb. 8, 1996, 110 Stat. 136.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–104 inserted before period at end ", except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,6 +18,8 @@ In any case in which—
 
 (Pub. L. 91–510, title IV, §483, Oct. 26, 1970, 84 Stat. 1196.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.

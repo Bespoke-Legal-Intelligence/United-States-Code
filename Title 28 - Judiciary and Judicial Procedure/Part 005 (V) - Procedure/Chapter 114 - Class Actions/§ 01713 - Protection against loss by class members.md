@@ -1,8 +1,10 @@
 ### §1713. Protection against loss by class members
 
-The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in a net loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
+The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in anet loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
 
 (Added Pub. L. 109–2, §3(a), Feb. 18, 2005, 119 Stat. 7.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

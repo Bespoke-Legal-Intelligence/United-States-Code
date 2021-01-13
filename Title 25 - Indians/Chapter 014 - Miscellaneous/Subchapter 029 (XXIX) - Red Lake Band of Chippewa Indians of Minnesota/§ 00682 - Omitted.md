@@ -1,5 +1,7 @@
 ### §682. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 19, 1952, ch. 445, §2, 66 Stat. 139, which provided that moneys paid under former sections 681 to 683 of this title would not be subject to liens or claims, was omitted from the Code as being of special and not general application.

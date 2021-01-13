@@ -28,7 +28,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(D) The placement of the firearm of a Federal flight deck officer on board the aircraft to ensure both its security and its ease of retrieval in an emergency.
 
-&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into the avionics, electrical systems, or other sensitive areas of the aircraft.
+&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into theavionics, electrical systems, or other sensitive areas of the aircraft.
 
 &emsp;&emsp;(F) The division of responsibility between pilots in the event of an act of criminal violence or air piracy if only 1 pilot is a Federal flight deck officer and if both pilots are Federal flight deck officers.
 
@@ -120,7 +120,7 @@ In general.—The Administrator shall require a Federal flight deck officer to r
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Use of facilities for requalification.—The Administrator shall allow a Federal flight deck officer to requalify to carry a firearm under the program through training at a Transportation Security Administration-approved firearms training facility utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
+Use of facilities for requalification.—The Administrator shall allow a Federal flight deck officer to requalify to carry a firearm under the program through training at a Transportation Security Administration-approved firearmstraining facility utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -202,7 +202,7 @@ Consistency with federal air marshal program.—The Administrator shall harmoniz
 
 (g)
 
-Authority To Use Force.—Notwithstanding section 44903(d), the Administrator shall prescribe the standards and circumstances under which a Federal flight deck officer may use, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
+Authority To Use Force.—Notwithstanding section 44903(d), the Administrator shall prescribe the standards and circumstances under which a Federal flight deck officer mayuse, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
 
 (h)
 
@@ -326,7 +326,7 @@ Pub. L. 115–254, div. K, title I, §1963(i), Oct. 5, 2018, 132 Stat. 3604, pro
 
 &emsp;"(1) the Secretary of Transportation shall revise section 15.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals; and
 
-&emsp;"(2) the Administrator \[of the Transportation Security Administration\] shall revise section 1520.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flightdeck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals."
+&emsp;"(2) the Administrator \[of the Transportation Security Administration\] shall revise section 1520.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals."
 
 Pub. L. 115–254, div. K, title I, §1963(j), Oct. 5, 2018, 132 Stat. 3604, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall prescribe such regulations as may be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section."
 

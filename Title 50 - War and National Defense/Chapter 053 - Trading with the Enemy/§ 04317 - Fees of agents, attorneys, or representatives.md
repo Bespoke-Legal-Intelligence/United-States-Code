@@ -14,7 +14,7 @@ Section was formerly classified to section 20 of the former Appendix to this tit
 
 #### Amendments
 
-<b>1956</b>—Act June 25, 1956, struck out provisions which required a schedule of fees to be furnished to, and approved by, the President or such officer or agency as hedesignated, and which permitted approval of such schedule of fees only upon a determination that the individual fees did not exceed fair compensation for services rendered.
+<b>1956</b>—Act June 25, 1956, struck out provisions which required a schedule of fees to be furnished to, and approved by, the President or such officer or agency as he designated, and which permitted approval of such schedule of fees only upon a determination that the individual fees did not exceed fair compensation for services rendered.
 
 <b>1946</b>—Act Mar. 8, 1946, raised limitation of fees from 3 per centum of amount involved to 10 per centum.
 

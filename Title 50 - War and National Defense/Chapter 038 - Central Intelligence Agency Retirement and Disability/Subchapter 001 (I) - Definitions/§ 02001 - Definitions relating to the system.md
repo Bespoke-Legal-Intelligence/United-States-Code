@@ -84,7 +84,7 @@ Pub. L. 102–183, title III, §302(d), Dec. 4, 1991, 105 Stat. 1263, provided t
 
 Pub. L. 102–183, title III, §303(b), Dec. 4, 1991, 105 Stat. 1264, provided that: "(1) The amendments made by subsection (a) \[amending section 221(p)–(r) of Pub. L. 88–643\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Dec. 4, 1991\].
 
-"(2)(A) The amendment made by subsection (a)(2) \[enacting section 221(q) of Pub. L. 88–643\] shall apply with respect to participants and former participants regardless of whether they retire before, on, or after the effective date specified in paragraph (1), except that paragraph (1)(A) of section 221(q) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) shall apply only with respect to participants who retire on or after that effective date.
+"(2)(A) The amendment made by subsection (a)(2) \[enacting section 221(q) of Pub. L. 88–643\] shall apply with respect to participants and former participants regardless of whether they retire before, on, or after the effective date specified in paragraph (1), except that paragraph (1)(A) of section 221(q) of the Central IntelligenceAgency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) shall apply only with respect to participants who retire on or after that effective date.
 
 "(B) In applying the provisions of paragraph (1)(B) of section 221(q) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) to a participant or former participant who retires before the effective date specified in paragraph (1)—
 
@@ -148,7 +148,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 "(d) The amendment made by section 210 \[amending section 251 of Pub. L. 88–643\] is effective only with respect to annuity accruing for full months beginning after January 8, 1971; but any part of a period of separation referred to in such amendment in which the participant or former participant was receiving benefits under chapter 81 of title 5, United States Code or any earlier statute on which such chapter is based shall be counted whether the person returns to duty before, on, or after January 8, 1971. With respect to any person retired before such date of enactment, any such part of a period of separation shall be counted only upon application of the retired person.
 
-"(e) The amendment in section 211 \[amending section 252(a)(2) of Pub. L. 88–643\] to credit certain service inthe Public Health Service is effective as of April 8, 1960, and the amendment to credit certain service in the National Oceanic and Atmospheric Administration is effective as of September 14, 1961.
+"(e) The amendment in section 211 \[amending section 252(a)(2) of Pub. L. 88–643\] to credit certain service in the Public Health Service is effective as of April 8, 1960, and the amendment to credit certain service in the National Oceanic and Atmospheric Administration is effective as of September 14, 1961.
 
 "(f) The amendment in section 212 \[enacting section 264 of Pub. L. 88–643\] is effective as of June 30, 1974.
 
@@ -214,7 +214,7 @@ Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 
-For temporary provisions providing modified contributions and procedures for officers and employees participating in the Central Intelligence Agency Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For temporary provisions providing modified contributions and procedures for officers and employeesparticipating in the Central Intelligence Agency Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Contingent Once-a-Year Adjustment in Annuities
 

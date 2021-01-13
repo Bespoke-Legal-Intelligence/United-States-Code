@@ -54,7 +54,7 @@
 
 &emsp;(A) by the President or his designee for each executive agency, except with regard to employees of the United States Postal Service, the President or, at his discretion, the Postmaster General shall promulgate such regulations;
 
-&emsp;(B) jointly by the President pro tempore of the Senate and the Speaker of the House of Representatives, or their designee, for the legislative branch of the Government; and
+&emsp;(B) jointly by the President pro tempore of the Senate and the Speaker of the House ofRepresentatives, or their designee, for the legislative branch of the Government; and
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
@@ -71,6 +71,8 @@
 (3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
 (Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -92,7 +94,7 @@ Subsec. (k)(3). Pub. L. 109–241 substituted "Secretary of Homeland Security" f
 
 Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations."
 
-Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: "The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall becredited to the appropriation, fund, or account from which such administrative costs were paid."
+Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: "The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid."
 
 <b>1996</b>—Subsecs. (h)(2), (i). Pub. L. 104–193 substituted "section 459 of the Social Security Act (42 U.S.C. 659)" for "sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662)".
 
@@ -101,6 +103,8 @@ Subsec. (j)(2). Pub. L. 104–106, §643(a), added par. (2) and struck out forme
 Subsec. (k)(3), (4). Pub. L. 104–106, §643(b), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (l). Pub. L. 104–106, §643(c), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -123,6 +127,8 @@ Pub. L. 115–91, div. A, title VI, §634, Dec. 12, 2017, 131 Stat. 1431, provid
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 
 Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 659 of Title 42, The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12897. Garnishment of Federal Employees' Pay
 

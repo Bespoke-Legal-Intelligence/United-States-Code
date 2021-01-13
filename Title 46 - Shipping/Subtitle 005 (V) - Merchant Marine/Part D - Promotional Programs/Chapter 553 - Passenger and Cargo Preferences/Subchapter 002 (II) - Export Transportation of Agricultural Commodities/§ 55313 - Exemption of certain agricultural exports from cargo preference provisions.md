@@ -10,7 +10,7 @@ Sections 55304 and 55305 of this title do not apply to export activities of the 
 
 &emsp;(4) credit or credit guarantees for not more than 3 years are extended by the Corporation to finance or guarantee export sales of United States agricultural commodities or their products; or
 
-&emsp;(5) agricultural commodities or their products owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services at least equal in value to the agricultural commodities or their products for which they are exchanged or bartered (determined on the basis of prevailing world market prices at the time of the exchange or barter), but this paragraph does not exempt from the cargo preference provisions referred to in section 55314(b) of this title any requirement otherwise applicable to the materials, goods, equipment, or services imported under the transaction.
+&emsp;(5) agricultural commodities or their products owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services at least equal in value to the agricultural commodities or their products for whichthey are exchanged or bartered (determined on the basis of prevailing world market prices at the time of the exchange or barter), but this paragraph does not exempt from the cargo preference provisions referred to in section 55314(b) of this title any requirement otherwise applicable to the materials, goods, equipment, or services imported under the transaction.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1644.)
 

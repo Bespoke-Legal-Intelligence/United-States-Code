@@ -78,7 +78,7 @@ The methodology developed under this section shall be updated periodically (incl
 
 #### (1) In general
 
-&emsp;Not later than 2 years after the date of publication of the methodology under subsection (d)(1), the Secretary, in consultation with the Secretary of Energy and State geological surveys, shall complete a national assessment of capacity for carbon dioxide in accordance with the methodology.
+&emsp;Not later than 2 years after the date of publication of the methodology under subsection\(d)(1), the Secretary, in consultation with the Secretary of Energy and State geological surveys, shall complete a national assessment of capacity for carbon dioxide in accordance with the methodology.
 
 #### (2) Geological verification
 

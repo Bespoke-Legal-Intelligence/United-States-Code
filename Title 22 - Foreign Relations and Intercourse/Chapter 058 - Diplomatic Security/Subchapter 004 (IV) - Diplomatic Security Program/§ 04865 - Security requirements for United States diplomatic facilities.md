@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -50,7 +50,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary determines that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -124,7 +124,9 @@ The following security requirements shall apply with respect to United States di
 
 Nothing in this section alters or amends existing security requirements not addressed by this section.
 
-(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454;Pub. L. 114–323, title I, §102, Dec. 16, 2016, 130 Stat. 1909.)
+(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454; Pub. L. 114–323, title I, §102, Dec. 16, 2016, 130 Stat. 1909.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -136,17 +138,7 @@ Section was enacted as part of the Secure Embassy Construction and Counterterror
 
 Subsec. (a)(7). Pub. L. 114–323, §102(2), inserted before period at end ", including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack".
 
-#### Delegation of Authority
-
-Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
-
-Memorandum for the Secretary of Defense
-
-By the authority vested in me by the Constitution and laws of the United States of America, I hereby delegate to the Secretary of Defense the responsibility of the President, under section 606 of the Foreign Relations Authorization Act for Fiscal Years 2000 and 2001 (Public Law 106–113) \[22 U.S.C. 4865\], to submit the required report to the Congress.
-
-You are hereby authorized and directed to publish this delegation in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
 
@@ -206,7 +198,7 @@ Reconciliation Required.—For each fiscal year, the Secretary of Defense shall 
 
 "(b)
 
-Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
+Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number ofDepartment of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
 
 #### Findings
 
@@ -220,7 +212,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 &emsp;"(4) Threats continue to be made against United States diplomatic facilities.
 
-&emsp;"(5) Accountability Review Boards were convened following the bombings, as required by Public Law99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the 'Crowe panels').
+&emsp;"(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the 'Crowe panels').
 
 &emsp;"(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985.
 
@@ -308,7 +300,7 @@ Priority on use of funds.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), funds authorized to be appropriated by section 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
+In general.—Except as provided in subparagraph (B), funds authorized to be appropriated bysection 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
 
 &emsp;&emsp;"(B)
 
@@ -323,4 +315,18 @@ Prohibition on Transfer of Funds.—None of the funds authorized to be appropria
 For definitions of the terms "Secretary" and "appropriate congressional committees" used in this section and in section 1000(a)(7) \[div. A, title VI, §605\] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) \[§3\] of Pub. L. 106–113, set out as a note under section 2651 of this title.
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: "In this title \[enacting this section, amending section 4831 of this title, and enacting provisions set out as notes above\], the terms 'United States diplomatic facility' and 'diplomatic facility' mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me by the Constitution and laws of the United States of America, I hereby delegate to the Secretary of Defense the responsibility of the President, under section 606 of the Foreign Relations Authorization Act for Fiscal Years 2000 and 2001 (Public Law 106–113) \[22 U.S.C. 4865\], to submit the required report to the Congress.
+
+You are hereby authorized and directed to publish this delegation in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -64,7 +64,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 | 2,500 lbs | 31\.7 mpg&nbsp;&nbsp; |
 | 2,750 lbs | 28\.8 mpg&nbsp;&nbsp; |
 | 3,000 lbs | 26\.4 mpg&nbsp;&nbsp; |
-| 3,500 lbs | 22\.6 mpg   |
+| 3,500 lbs | 22\.6 mpg&nbsp;&nbsp; |
 | 4,000 lbs | 19\.8 mpg&nbsp;&nbsp; |
 | 4,500 lbs | 17\.6 mpg&nbsp;&nbsp; |
 | 5,000 lbs | 15\.9 mpg&nbsp;&nbsp; |
@@ -168,7 +168,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(iv) for 2004 and later model vehicles, has received a certificate that such vehicle meets or exceeds—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
 
@@ -256,7 +256,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(ii) which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
 
@@ -286,7 +286,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (i) Certain passenger automobiles and light trucks
 
-&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(A) applies, the term "maximum available power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(A) applies, the term "maximumavailable power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
 
 #### (ii) Other motor vehicles
 
@@ -512,7 +512,7 @@ For purposes of this section—
 
 This section shall not apply to any property purchased after—
 
-&emsp;(1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2020,
+&emsp;(1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021,
 
 &emsp;(2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,
 
@@ -520,7 +520,7 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–123, div. D, title I, §40403(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §124(a), Dec. 20, 2019, 133 Stat. 3231.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19,2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–123, div. D, title I, §40403(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §124(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §142(a), Dec. 27, 2020, 134 Stat. 3054.)
 
 #### References in Text
 
@@ -531,6 +531,8 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (k)(1). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (k)(1). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2017".
 
@@ -568,6 +570,10 @@ Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesigna
 
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §142(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made by this section \[amending this section\] shall apply to property purchased after December 31, 2020."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §124(b), Dec. 20, 2019, 133 Stat. 3231, provided that: "The amendment made by this section \[amending this section\] shall apply to property purchased after December 31, 2017."
@@ -586,7 +592,7 @@ Pub. L. 113–295, div. A, title II, §218(c), Dec. 19, 2014, 128 Stat. 4035, pr
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) ofPub. L. 112–240, set out as a note under section 23 of this title.
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -606,7 +612,7 @@ Amendment by section 1144(a) of Pub. L. 111–5 applicable to taxable years begi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) ofPub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
 #### Effective Date of 2005 Amendment
 

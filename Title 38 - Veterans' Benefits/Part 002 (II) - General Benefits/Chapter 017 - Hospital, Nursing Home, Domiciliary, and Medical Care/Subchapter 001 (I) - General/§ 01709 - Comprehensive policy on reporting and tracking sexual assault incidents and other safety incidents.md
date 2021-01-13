@@ -72,7 +72,7 @@ Updates to Policy.—The Secretary shall review and revise the policy required b
 
 (d)
 
-Annual Report.—(1) Not later than 60 days after the date on which the Secretary develops the policy required by subsection (a) and not later than October 1 of each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation of the policy.
+Annual Report.—(1) Not later than 60 days after the date on which the Secretary developsthe policy required by subsection (a) and not later than October 1 of each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation of the policy.
 
 (2) The report required by paragraph (1) shall include—
 

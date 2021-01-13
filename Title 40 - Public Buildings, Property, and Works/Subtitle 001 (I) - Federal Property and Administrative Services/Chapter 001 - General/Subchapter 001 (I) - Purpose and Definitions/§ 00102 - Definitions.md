@@ -68,7 +68,7 @@ Property.—The term "property" means any interest in property except—
 
 &emsp;(10)
 
-Surplus property.—The term "surplus property" means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
+Surplus property.—The term "surplus property" means excess property that the Administrator determines is not required tomeet the needs or responsibilities of all federal agencies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(l)(2), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 114–318, §3(b)(2), Dec. 16, 2016, 130 Stat. 1613.)
 
@@ -91,6 +91,8 @@ June 30, 1949, ch. 288, §3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§7(a), 8(a
 In this section, the words "and in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the words "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The definition of "Administrator" is omitted as unnecessary. The text of 40:472(i) is omitted as unnecessary because of the definition of "person" in 1:1.
 
 In clause (6), the words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

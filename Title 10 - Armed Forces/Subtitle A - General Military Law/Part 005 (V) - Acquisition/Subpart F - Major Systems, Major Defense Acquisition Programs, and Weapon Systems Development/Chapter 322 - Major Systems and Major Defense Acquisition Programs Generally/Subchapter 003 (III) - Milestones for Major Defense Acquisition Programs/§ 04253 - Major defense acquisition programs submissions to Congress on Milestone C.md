@@ -1,0 +1,40 @@
+### §4253. Major defense acquisition programs: submissions to Congress on Milestone C
+
+(a)
+
+Brief Summary Report.—Not later than 15 days after granting Milestone C approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following:
+
+&emsp;(1) The estimated cost and schedule for the program established by the military department concerned, including—
+
+&emsp;&emsp;(A) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+&emsp;&emsp;(B) the planned dates for initial operational test and evaluation and initial operational capability.
+
+&emsp;(2) The independent estimated cost for the program established pursuant to section 3221(b)(6) of this title, and any independent estimated schedule for the program, including—
+
+&emsp;&emsp;(A) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+&emsp;&emsp;(B) the planned dates for initial operational test and evaluation and initial operational capability.
+
+&emsp;(3) A summary of any production, manufacturing, and fielding risks associated with the program.
+
+&emsp;(4) An assessment of the sufficiency of the developmental test and evaluation completed, including the use of automated data analytics or modeling and simulation tools and methodologies.
+
+(b)
+
+Additional Information.—At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee further information or underlying documentation for the information in a brief summary report submitted under subsection (a), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that subsection.
+
+(c)
+
+Congressional Intelligence Committees Defined.—In this section, the term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
+
+(Added Pub. L. 114–328, div. A, title VIII, §808(c)(1), Dec. 23, 2016, 130 Stat. 2265, §2366c; amended Pub. L. 115–91, div. A, title VIII, §838(a)(2), Dec. 12, 2017, 131 Stat. 1474; renumbered §4253 and amended Pub. L. 116–283, div. A, title XVIII, §1847(d)(3), Jan. 1, 2021, 134 Stat. 4256.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 renumbered section 2366c of this title as this section and, in subsec. (a)(2), substituted "section 3221(b)(6)" for "section 2334(a)(6)" in introductory provisions. Section was inserted after section 4252 of this title, as renumbered by par. (2) of section 1847(d) of Pub. L. 116–283, to reflect the probable intent of Congress, notwithstanding language directing this section be inserted after section 4252 of this title "as transferred and redesignated by paragraph (3)" of section 1847(d).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

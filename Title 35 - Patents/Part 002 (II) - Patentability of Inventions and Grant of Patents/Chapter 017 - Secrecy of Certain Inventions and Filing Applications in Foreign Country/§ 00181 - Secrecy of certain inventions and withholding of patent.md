@@ -16,6 +16,8 @@ Based on Title 35, U.S.C., 1946 ed., §151 (Feb. 1, 1952, ch. 4, §1, 66 Stat. 3
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], substituted "Commissioner of Patents" for "Commissioner" wherever appearing.
@@ -28,15 +30,19 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(7)(C)\], in third par., inser
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(7)(D)\], inserted "the publication of an application or" after "kept secret and" in first sentence of fourth par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(9) \[title IV, §4507(7)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(B)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(B)\] of Pub. L. 106–113 effective 4 monthsafter Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+
+#### <b>Executive Documents</b>
 
 #### Defense Agencies
 

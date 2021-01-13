@@ -8,6 +8,8 @@ The Director of the Government Publishing Office shall employ workmen who are th
 
 Based on 44 U.S. Code, 1964 ed., §41 (Jan. 12, 1895, ch. 23, §45, 28 Stat. 607).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(i)(3), substituted "the direction of the Director" for "his direction".

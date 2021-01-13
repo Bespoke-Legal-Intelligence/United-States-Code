@@ -22,7 +22,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 &emsp;&emsp;(B) watershed assessments and planning activities; and
 
-&emsp;&emsp;(C) such other projects as the Secretary, in cooperation with Indian tribes and the headsof other Federal agencies, determines to be appropriate.
+&emsp;&emsp;(C) such other projects as the Secretary, in cooperation with Indian tribes and the heads of other Federal agencies, determines to be appropriate.
 
 #### (3) Feasibility study and reports
 
@@ -38,11 +38,11 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $12,500,000.
+&emsp;&emsp;The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $18,500,000.
 
 #### (B) Specific authorization
 
-&emsp;&emsp;If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $12,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
+&emsp;&emsp;If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $18,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
 
 #### (c) Consultation and coordination with Secretary of the Interior
 
@@ -108,13 +108,17 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.
 
-(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, §2011, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 113–121, title I, §1031(a), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1121, Dec. 16, 2016, 130 Stat. 1644; Pub. L. 115–270, title I, §1157(i), Oct. 23, 2018, 132 Stat. 3794.)
+(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, §2011, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 113–121, title I, §1031(a), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1121, Dec. 16, 2016, 130 Stat. 1644; Pub. L. 115–270, title I, §1157(i), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 116–260, div. AA, title III, §303, Dec. 27, 2020, 134 Stat. 2703.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(4). Pub. L. 116–260 substituted "$18,500,000" for "$12,500,000" in subpars. (A) and (B).
 
 <b>2018</b>—Subsec. (b)(4). Pub. L. 115–270 amended par. (4) generally. Prior to amendment, text read as follows:
 
@@ -151,6 +155,8 @@ Subsec. (b)(1)(B). Pub. L. 110–114, §2011(a)(2), inserted ", and including l
 Subsec. (b)(2). Pub. L. 110–114, §2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (e). Pub. L. 110–114, §2011(b), substituted "2012" for "2006".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

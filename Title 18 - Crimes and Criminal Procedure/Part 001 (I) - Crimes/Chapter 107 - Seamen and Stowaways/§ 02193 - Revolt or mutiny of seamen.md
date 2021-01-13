@@ -10,6 +10,8 @@ Based on title 18, U.S.C., 1940 ed., §484 (Mar. 4, 1909, ch. 321, §293, 35 Sta
 
 Punishment provision for mandatory fine and imprisonment was rephrased in the alternative so as to vest power in the court to impose either a fine, or imprisonment, or both, in its discretion.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

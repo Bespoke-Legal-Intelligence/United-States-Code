@@ -34,7 +34,7 @@ The Secretary may assign a registration number to any person or any establishmen
 
 #### (f) Availability of registrations for inspection
 
-The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) of subsection (j) and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
+The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) ofsubsection (j) and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
 
 #### (g) Exclusions from application of section
 
@@ -154,9 +154,13 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;(D) Any material change in any information previously submitted pursuant to this paragraph or paragraph (1).
 
-(3) The Secretary may also require each registrant under this section to submit a list of each drug product which (A) the registrant is manufacturing, preparing, propagating, compounding, or processing for commercial distribution, and (B) contains a particular ingredient. The Secretary may not require the submission of such a list unless he has made a finding that the submission of such a list is necessary to carry out the purposes of this chapter.
+(3)(A) Each person who registers with the Secretary under this section with regard to a drug shall report annually to the Secretary on the amount of each drug listed under paragraph (1) that was manufactured, prepared, propagated, compounded, or processed by such person for commercial distribution. Such information may be required to be submitted in an electronic format as determined by the Secretary. The Secretary may require that information required to be reported under this paragraph be submitted at the time a public health emergency is declared by the Secretary under section 247d of title 42.
 
-(4) The Secretary shall require persons subject to this subsection to use, for purposes of this subsection, the unique facility identifier systems specified under subsections (b)(3) and (i)(4) with respect to drugs. Such requirement shall not apply until the date that the identifier system under subsection (b)(3) or (i)(4), as applicable, is specified by the Secretary.
+(B) By order of the Secretary, certain biological products or categories of biological products regulated under section 262 of title 42 may be exempt from some or all of the reporting requirements under subparagraph (A), if the Secretary determines that applying such reporting requirements to such biological products or categories of biological products is not necessary to protect the public health.
+
+(4) The Secretary may also require each registrant under this section to submit a list of each drug product which (A) the registrant is manufacturing, preparing, propagating, compounding, or processing for commercial distribution, and (B) contains a particular ingredient. The Secretary may not require the submission of such a list unless he has made a finding that the submission of such a list is necessary to carry out the purposes of this chapter.
+
+(5) The Secretary shall require persons subject to this subsection to use, for purposes of this subsection, the unique facility identifier systems specified under subsections (b)(3) and (i)(4) with respect to drugs. Such requirement shall not apply until the date that the identifier system under subsection (b)(3) or (i)(4), as applicable, is specified by the Secretary.
 
 #### (k) Report preceding introduction of devices into interstate commerce
 
@@ -172,7 +176,7 @@ Each person who is required to register under this section and who proposes to b
 
 (1) A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title. The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
 
-(2) Not later than 120 calendar days after December 13, 2016, and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines nolonger requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
+(2) Not later than 120 calendar days after December 13, 2016, and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
 
 &emsp;(A) each type of class I device so identified shall be exempt from the requirement for a report under subsection (k); and
 
@@ -240,11 +244,11 @@ Each person who is required to register under this section and who proposes to b
 
 #### (1) In general
 
-&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary by electronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
+&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary byelectronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
 
 #### (2) Electronic database
 
-&emsp;Not later than 2 years after the Secretary specifies a unique facility identifier system under subsections (b) and (i), the Secretary shall maintain an electronic database, whichshall not be subject to inspection under subsection (f), populated with the information submitted as described under paragraph (1) that—
+&emsp;Not later than 2 years after the Secretary specifies a unique facility identifier system under subsections (b) and (i), the Secretary shall maintain an electronic database, which shall not be subject to inspection under subsection (f), populated with the information submitted as described under paragraph (1) that—
 
 &emsp;&emsp;(A) enables personnel of the Food and Drug Administration to search the database by any field of information submitted in a registration described under paragraph (1), or combination of such fields; and
 
@@ -274,13 +278,17 @@ Each person who is required to register under this section and who proposes to b
 
 &emsp;Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.
 
-(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066; Pub. L. 114–255, div. A, title III, §§3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, 130 Stat. 1126, 1130, 1154; Pub. L. 115–52, title VII, §701(a), title IX, §901(e), Aug. 18, 2017, 131 Stat. 1054, 1076.)
+(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066; Pub. L. 114–255, div. A, title III, §§3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, 130 Stat. 1126, 1130, 1154; Pub. L. 115–52, title VII, §701(a), title IX, §901(e), Aug. 18, 2017, 131 Stat. 1054, 1076; Pub. L. 116–136, div. A, title III, §3112(e), Mar. 27, 2020, 134 Stat. 363.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (o)(2)(C), probably means the date of the enactment of Pub. L. 107–250, which enacted subsec. (o) of this section and was approved Oct. 26, 2002.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j)(3) to (5). Pub. L. 116–136 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Amendment was executed to reflect the probable intent of Congress, notwithstanding omission of the word "and" in name of Act being amended.
 
 <b>2017</b>—Subsec. (h)(2). Pub. L. 115–52, §701(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title, at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter."
 
@@ -308,7 +316,7 @@ Subsec. (m)(3). Pub. L. 114–255, §3054(b)(2)(C), added par. (3).
 
 Subsec. (q). Pub. L. 114–255, §3059(a), added subsec. (q).
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–144, §701(1)(A), which directed amendment of par. (1) by "striking 'On or before' and all that follows through the period at the end and inserting the following: 'During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary thename of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and", was executed as if an end quotation mark for the inserted material followed "address.", to reflect the probable intent of Congress. Prior to amendment, stricken text read as follows: "On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary his name, places of business, and all such establishments."
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–144, §701(1)(A), which directed amendment of par. (1) by "striking 'On or before' and all that follows through the period at the end and inserting the following: 'During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary the name of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and", was executed as if an end quotation mark for the inserted material followed "address.", to reflect the probable intent of Congress. Prior to amendment, stricken text read as follows: "On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary his name, places of business, and all such establishments."
 
 Subsec. (b)(3). Pub. L. 112–144, §701(1)(B), added par. (3).
 
@@ -430,13 +438,19 @@ Subsecs. (b), (c). Pub. L. 89–74, §4(b), (c), inserted "or in the wholesaling
 
 Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1), inserted "or the wholesaling, jobbing, or distributing of any depressant or stimulant drug" and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–136 effective 180 days after Mar. 27, 2020, see section 3112(g) of Pub. L. 116–136, set out as a note under section 356c of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–188 effective upon the expiration of the 180-day period beginning June 12, 2002, see section 321(c) of Pub. L. 107–188, set out as a note under section 331 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by sections 206(a), 209(a), 213(b), and 417 of Pub. L. 105–115 effective 90 days after Nov. 21, 1997,except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
+Amendment by sections 206(a), 209(a), 213(b), and 417 of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Effective Date of 1972 Amendment
 

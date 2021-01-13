@@ -10,7 +10,7 @@ The Attorney General shall defend any civil action or proceeding brought in any 
 
 #### (c) Removal to United States district court; procedure; proceeding upon removal deemed a tort action against United States; hearing on motion to remand to determine availability of remedy against United States; remand to State court or dismissal
 
-Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the UnitedStates as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
+Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
 
 #### (d) Compromise or settlement of claim by Attorney General
 
@@ -46,7 +46,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
-(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i), the Secretary and the Attorney General may not determine that the provision of services which are the subject ofsuch a determination are not covered under this section.
+(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i), the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
 
 (G) In the case of an entity described in paragraph (4) that has not submitted an application under subparagraph (D):
 
@@ -122,7 +122,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g), but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254b and 256a of this title.<sup>1</sup>
 
-(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
+(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
 #### (l) Timely response to filing of action or proceeding
 
@@ -134,7 +134,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (1) An entity or officer, governing board member, employee, or contractor of an entity described in subsection (g)(1) shall, for purposes of this section, be deemed to be an employee of the Public Health Service with respect to services provided to individuals who are enrollees of a managed care plan if the entity contracts with such managed care plan for the provision of services.
 
-(2) Each managed care plan which enters into a contract with an entity described in subsection (g)(4) shall deem the entity and any officer, governing board member, employee, or contractor of the entity as meeting whatever malpractice coverage requirements such plan may require of contracting providers for a calendaryear if such entity or officer, governing board member, employee, or contractor of the entity has been deemed to be an employee of the Public Health Service for purposes of this section for such calendar year. Any plan which is found by the Secretary on the record, after notice and an opportunity for a full and fair hearing, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under titles XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
+(2) Each managed care plan which enters into a contract with an entity described in subsection (g)(4) shall deem the entity and any officer, governing board member, employee, or contractor of the entity as meeting whatever malpractice coverage requirements such plan may require of contracting providers for a calendar year if such entity or officer, governing board member, employee, or contractor of the entity has been deemed to be an employee of the Public Health Service for purposes of this section for such calendar year. Any plan which is found by the Secretary on the record, after notice and an opportunity for a full and fair hearing, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under titles XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
 
 (3) For purposes of this subsection, the term "managed care plan" shall mean health maintenance organizations and similar entities that contract at-risk with payors for the provision of health services or plan enrollees and which contract with providers (such as entities described in subsection (g)(4)) for the delivery of such services to plan enrollees.
 
@@ -168,7 +168,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) an estimate of the amount of such insurance that such entities (together with the officers, governing board members, employees, and contractors of such entities who have been deemed to be employees for purposes of this section) will purchase after December 26, 1995.
 
-&emsp;(C) An estimate of the medical malpractice liability loss history of such entities for the 10-year period preceding October 1, 1996, including but not limited to the following:
+&emsp;(C) An estimate of the medical malpractice liability loss history of such entities for the10-year period preceding October 1, 1996, including but not limited to the following:
 
 &emsp;&emsp;(i) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by the Federal Government pursuant to deeming entities as employees for purposes of this section.
 
@@ -190,7 +190,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(C) The service is a qualifying health service (as defined in paragraph (4)).
 
-&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefitsprogram). With respect to compliance with such condition:
+&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program). With respect to compliance with such condition:
 
 &emsp;&emsp;(i) The health care practitioner may receive repayment from the free clinic for reasonable expenses incurred by the health care practitioner in the provision of the service to the individual.
 
@@ -218,7 +218,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) This subsection may not be construed as deeming any free clinic to be an employee of the Public Health Service for purposes of this section.
 
-&emsp;(C) With respect to a free clinic, a health care practitioner is not a free clinic health professional unless the free clinic sponsors the health care practitioner. For purposes of this subsection, the free clinic shall be considered to be sponsoring the health care practitioner if—
+&emsp;(C) With respect to a free clinic, a health care practitioner is not a free clinic health professional unless the free clinic sponsors thehealth care practitioner. For purposes of this subsection, the free clinic shall be considered to be sponsoring the health care practitioner if—
 
 &emsp;&emsp;(i) with respect to the health care practitioner, the free clinic submits to the Secretary an application meeting the requirements of subsection (g)(1)(D); and
 
@@ -276,7 +276,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;Except as provided in paragraph (5)(B)(ii), the United States shall be liable under this subsection with respect to a claim arising out of the administration of a covered countermeasure to an individual only if—
 
-&emsp;&emsp;&emsp;(i) the countermeasure was administered by a qualified person, for a purpose stated in paragraph (7)(A)(i), and during the effective period of a declaration by the Secretary under subparagraph (A) with respect to such countermeasure; and
+&emsp;&emsp;&emsp;(i) the countermeasure was administered by a qualified person, for a purpose statedin paragraph (7)(A)(i), and during the effective period of a declaration by the Secretary under subparagraph (A) with respect to such countermeasure; and
 
 &emsp;&emsp;&emsp;(ii)(I) the individual was within a category of individuals covered by the declaration; or
 
@@ -558,7 +558,7 @@ Subsec. (p). Pub. L. 107–296 added subsec. (p).
 
 Subsec. (o). Pub. L. 104–191 added subsec. (o).
 
-<b>1995</b>—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted "and subject to the approval by the Secretary of an application under subparagraph (D)" after "For purposes of this section", substituted "an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor" for ", an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) of this section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor", and added subpars. (B) to (H).
+<b>1995</b>—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted "and subject to the approval by the Secretary of an application under subparagraph (D)" after "For purposes of this section", substituted "an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor" for ", an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) ofthis section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor", and added subpars. (B) to (H).
 
 Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end "This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996."
 
@@ -620,19 +620,7 @@ Pub. L. 102–501, §6, Oct. 24, 1992, 106 Stat. 3272, provided that: "The amend
 
 #### Report on Risk Exposure of Covered Entities
 
-Pub. L. 102–501, §5, Oct. 24, 1992, 106 Stat. 3271, provided that:
-
-"(a)
-
-In General.—Not later than April 1, 1995, the Attorney General, in consultation with the Secretary of Health and Human Services (hereafter referred to as the 'Secretary'), shall submit a report to Congress on the medical malpractice liability claims experience of entities subject to section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\] (as added by section 2(a)) and the risk exposure associated with such entities.
-
-"(b)
-
-Effect of Liability Protections on Costs Incurred by Covered Entities.—The Attorney General's report under subsection (a) shall include an analysis by the Secretary comparing—
-
-&emsp;"(1) the Secretary's estimate of the aggregate amounts that such entities (together with the officers, employees, and contractors of such entities who are subject to section 224(g) of such Act) would have directly or indirectly paid to obtain medical malpractice liability insurance coverage had section 224(g) of the Public Health Service Act not been enacted into law, with
-
-&emsp;"(2) the aggregate amounts by which the grants received by such entities under the Public Health Service Act \[42 U.S.C. 201 et seq.\] were reduced as a result of the enactment of section 224(k)(2) of such Act \[42 U.S.C. 233(k)(2)\]."
+Pub. L. 102–501, §5, Oct. 24, 1992, 106 Stat. 3271, provided that the Attorney General, by Apr. 1, 1995, and in consultation with the Secretary of Health and Human Services, was to submit a report to Congress on the medical malpractice liability claims experience of entities subject to subsec. (g) of this section, including their risk exposure and the effect of liability protections on costs incurred.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

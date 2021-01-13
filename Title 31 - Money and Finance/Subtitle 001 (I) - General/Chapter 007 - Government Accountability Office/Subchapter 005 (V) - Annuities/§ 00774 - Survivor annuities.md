@@ -102,6 +102,8 @@ In subsection (d), before clause (1), the words "of a Comptroller General or ret
 
 In subsection (e), the words "and shall be further reduced in accordance with subsection (d) of this section if applicable" are omitted because of the restatement. The words "or a retired Comptroller General" are omitted as executed. The words "during which a deposit was not made" are substituted for "rendered" for clarity. The word "unpaid" is added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–426, §205(1), substituted "18 months" for "5 years".
@@ -125,6 +127,8 @@ Subsec. (c)(2), (3). Pub. L. 100–426, §205(2), amended pars. (2) and (3) gene
 Subsec. (d)(1). Pub. L. 100–426, §205(3), substituted "1.5 percent" for "1.25 percent" in introductory provisions.
 
 Subsec. (e). Pub. L. 100–426, §205(4), substituted "more than 50 percent nor less than 25 percent" for "more than 40 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

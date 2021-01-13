@@ -22,6 +22,8 @@ June 15, 1936, ch. 546, §1 (words before "for patriotic, historical, and educat
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–237 substituted "Yeomen (F)" for "Yoemen F".

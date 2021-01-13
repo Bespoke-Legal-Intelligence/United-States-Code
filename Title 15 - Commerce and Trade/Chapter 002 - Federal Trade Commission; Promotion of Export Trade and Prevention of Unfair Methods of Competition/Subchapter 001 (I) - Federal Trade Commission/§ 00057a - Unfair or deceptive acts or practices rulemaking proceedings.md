@@ -20,7 +20,7 @@
 
 &emsp;(ii) invite the response of interested parties with respect to such proposed rulemaking, including any suggestions or alternative methods for achieving such objectives.
 
-(B) The Commission shall submit such advance notice of proposed rulemaking to theCommittee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. The Commission may use such additional mechanisms as the Commission considers useful to obtain suggestions regarding the content of the area of inquiry before the publication of a general notice of proposed rulemaking under paragraph (1)(A).
+(B) The Commission shall submit such advance notice of proposed rulemaking to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. The Commission may use such additional mechanisms as the Commission considers useful to obtain suggestions regarding the content of the area of inquiry before the publication of a general notice of proposed rulemaking under paragraph (1)(A).
 
 (C) The Commission shall, 30 days before the publication of a notice of proposed rulemaking pursuant to paragraph (1)(A), submit such notice to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives.
 
@@ -60,7 +60,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (2)(A) The term "Commission" as used in this subsection and subsections (b) and (c) includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
 
-(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B)shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) shall not be treated as an amendment or repeal of a rule.
+(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) shall not be treated as an amendment or repeal of a rule.
 
 (3) When any rule under subsection (a)(1)(B) takes effect a subsequent violation thereof shall constitute an unfair or deceptive act or practice in violation of section 45(a)(1) of this title, unless the Commission otherwise expressly provides in such rule.
 
@@ -192,7 +192,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than banks referred to in subparagraph (A) or (B)), by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation."
 
-<b>1989</b>—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act."
+<b>1989</b>—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by theFederal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act."
 
 <b>1987</b>—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted "and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))" and in last sentence inserted "or Federal credit unions described in paragraph (4)," in two places, substituted "any such" for "either such", and inserted ", savings and loan institutions or Federal credit unions".
 
@@ -276,7 +276,7 @@ Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committ
 
 Pub. L. 93–637, title II, §202(c), Jan. 4, 1975, 88 Stat. 2198, provided that:
 
-"(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) ofsuch Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
+"(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
 
 "(2) If a rule described in paragraph (1) of this subsection is valid and if section 18 of the Federal Trade Commission Act \[this section\] would have applied to such rule had such rule been promulgated after the date of enactment of this Act, any substantive change in the rule after it has been promulgated shall be made in accordance with such section 18."
 

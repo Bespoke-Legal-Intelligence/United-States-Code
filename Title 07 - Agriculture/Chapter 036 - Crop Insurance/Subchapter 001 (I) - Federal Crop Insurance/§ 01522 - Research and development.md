@@ -20,7 +20,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Reasonable costs
 
-&emsp;&emsp;&emsp;For the purpose of reimbursing research and development and maintenance costsunder this section, costs of the applicant shall be considered reasonable costs if the costs are based on—
+&emsp;&emsp;&emsp;For the purpose of reimbursing research and development and maintenance costs under this section, costs of the applicant shall be considered reasonable costs if the costs are based on—
 
 &emsp;&emsp;&emsp;&emsp;(I) for any employees or contracted personnel, wage rates equal to not more than 2 times the hourly wage rate plus benefits, as provided by the Bureau of Labor Statistics for the year in which such costs are incurred, calculated using the formula applied to an applicant by the Corporation in reviewing proposed project budgets under this section on October 1, 2016; and
 
@@ -92,7 +92,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (F) Submission of policy
 
-&emsp;&emsp;If the Board approves an advanced payment under subparagraph (E), the Boardshall establish a date by which the applicant shall present a submission in compliance with section 1508(h) of this title (including the procedures implemented under that section) to the Board for approval.
+&emsp;&emsp;If the Board approves an advanced payment under subparagraph (E), the Board shall establish a date by which the applicant shall present a submission in compliance with section 1508(h) of this title (including the procedures implemented under that section) to the Board for approval.
 
 #### (G) Final payment
 
@@ -132,7 +132,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Corporation shall approve a reimbursement under paragraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
+&emsp;&emsp;Subject to subparagraph (B), the Corporation shall approve a reimbursement underparagraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
 
 #### (B) Waiver for hemp
 
@@ -182,7 +182,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (5) Treatment of payment
 
-&emsp;Payments made under this subsection for a policy shall be considered as payment in fullby the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
+&emsp;Payments made under this subsection for a policy shall be considered as payment in full by the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
 
 #### (6) Reimbursement amount
 
@@ -408,7 +408,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+&emsp;&emsp;Not later than 18 months after December 20, 2018, the Corporation shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
 
 &emsp;&emsp;&emsp;(i) the results of the research and development carried out under subparagraph (A); and
 
@@ -506,7 +506,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Availability of policy
 
-&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
+&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
 
 #### (B) Research and development described
 
@@ -552,7 +552,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Availability of policy
 
-&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporationshall make available a policy described in clause (i) if—
+&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporation shall make available a policy described in clause (i) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the results of the feasibility study under clause (i) are viable; and
 
@@ -604,7 +604,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Availability of policy
 
-&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
+&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
 
 #### (B) Research and development described
 
@@ -644,7 +644,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 &emsp;The Corporation may enter into a partnership under paragraph (2)—
 
-&emsp;&emsp;(A) to enhance the notice and timeliness of notice of weather conditions that could negatively affect crop yields, quality, and final product use in order to allow producers to take preventive actions to increase endproduct profitability and marketability and to reduce the possibility of crop insurance claims;
+&emsp;&emsp;(A) to enhance the notice and timeliness of notice of weather conditions that could negatively affect crop yields, quality, and final product use in order to allow producers to take preventive actions to increase end product profitability and marketability and to reduce the possibility of crop insurance claims;
 
 &emsp;&emsp;(B) to develop a multifaceted approach to pest management and fertilization to decrease inputs, decrease environmental exposure, and increase application efficiency;
 
@@ -760,7 +760,7 @@ Subsec. (e)(3). Pub. L. 113–79, §11022(b)(2), struck out "to provide either r
 
 Subsec. (e)(4). Pub. L. 113–79, §11022(b)(3), struck out par. (4) which related to prohibited research and development by the Corporation.
 
-<b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
+<b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1)and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
 
 Subsec. (b)(2)(C)(v). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 

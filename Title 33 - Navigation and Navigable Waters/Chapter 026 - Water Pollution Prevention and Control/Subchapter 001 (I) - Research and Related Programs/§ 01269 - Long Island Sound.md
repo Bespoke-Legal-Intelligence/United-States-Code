@@ -14,7 +14,7 @@ The Office shall assist the conference study in carrying out its goals. Specific
 
 &emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
-&emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
+&emsp;(2) conduct or commission studies deemed necessary for strengthened implementation ofthe Comprehensive Conservation and Management Plan including, but not limited to—
 
 &emsp;&emsp;(A) population growth and the adequacy of wastewater treatment facilities;
 
@@ -98,7 +98,7 @@ The Office shall assist the conference study in carrying out its goals. Specific
 
 #### (1) Coordination
 
-&emsp;The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve thewater quality and living resources of the watershed.
+&emsp;The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve the water quality and living resources of the watershed.
 
 #### (2) Methods
 
@@ -117,6 +117,8 @@ The Office shall assist the conference study in carrying out its goals. Specific
 There is authorized to be appropriated to the Administrator to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
 
 (June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, §1, Dec. 22, 2005, 119 Stat. 2646; Pub. L. 115–270, title IV, §4104(a), (c)(1), Oct. 23, 2018, 132 Stat. 3873, 3875.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -153,6 +155,8 @@ Subsec. (e). Pub. L. 106–457, §403(2), added subsec. (e). Former subsec. (e) 
 Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted "2001 through 2005" for "1991 through 2001" in par. (1) and "not to exceed $40,000,000 for each of fiscal years 2001 through 2005" for "not to exceed $3,000,000 for each of the fiscal years 1991 through 2001" in par. (2).
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–303 substituted "2001" for "1996" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Long Island Sound Stewardship
 

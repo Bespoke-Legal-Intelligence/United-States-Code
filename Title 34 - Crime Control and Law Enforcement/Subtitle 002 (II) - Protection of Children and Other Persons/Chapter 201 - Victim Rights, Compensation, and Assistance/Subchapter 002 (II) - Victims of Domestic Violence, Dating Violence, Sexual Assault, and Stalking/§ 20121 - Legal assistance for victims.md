@@ -32,9 +32,9 @@ To be eligible for a grant under subsection (c), applicants shall certify in wri
 
 &emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a tribal, State, territorial, or local domestic violence, dating violence, sexual assault or stalking victim service provider or coalition, as well as appropriate tribal, State, territorial, and local law enforcement officials;
 
-&emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) has informed and willcontinue to inform State, local, or tribal domestic violence, dating violence, or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
+&emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) has informed and will continue to inform State, local, or tribal domestic violence, dating violence, or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
 
-&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, in cases where sexual assault, domestic violence, dating violence, or child sexual abuse is an issue.
+&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, incases where sexual assault, domestic violence, dating violence, or child sexual abuse is an issue.
 
 #### (e) Evaluation
 
@@ -72,6 +72,8 @@ The Attorney General may evaluate the grants funded under this section through c
 
 (Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765; Pub. L. 113–4, title I, §103, Mar. 7, 2013, 127 Stat. 73.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reference to "part" in subsec. (f)(2)(B)(ii) heading, appearing in the original, is unidentifiable because title II of div. B of Pub. L. 106–386 does not contain parts.
@@ -104,9 +106,9 @@ Subsec. (c). Pub. L. 109–162, §103(3), inserted "and tribal organizations, te
 
 Subsec. (d)(2). Pub. L. 109–162, §103(4), added par. (2) and struck out former par. (2) which read as follows: "any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;".
 
-Subsec. (e). Pub. L. 109–162, §103(5), which directed amendment identical to that made by Pub. L. 108–405,§205(5), was not executed. See 2004 Amendment note below.
+Subsec. (e). Pub. L. 109–162, §103(5), which directed amendment identical to that made by Pub. L. 108–405, §205(5), was not executed. See 2004 Amendment note below.
 
-Subsec. (f)(1). Pub. L. 109–162, §103(6)(A), added par. (1) and struck out former par. (1). Former text read as follows: "There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005."
+Subsec. (f)(1). Pub. L. 109–162, §103(6)(A), added par. (1) and struck out former par. (1). Former text read as follows: "There is authorized to be appropriated to carryout this section $40,000,000 for each of fiscal years 2001 through 2005."
 
 Subsec. (f)(2)(A). Pub. L. 109–271, §7(d)(1)(A)(i), substituted "3 percent" for "10 percent".
 
@@ -133,6 +135,8 @@ Subsec. (d)(4). Pub. L. 108–405, §205(4)(D), inserted "dating violence," afte
 Subsec. (e). Pub. L. 108–405, §205(5), inserted "dating violence," after "domestic violence,".
 
 Subsec. (f)(2)(A). Pub. L. 108–405, §205(6), inserted "dating violence," after "domestic violence,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

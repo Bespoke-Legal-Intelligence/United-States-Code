@@ -8,7 +8,7 @@
 
 &emsp;(i) the forty-five day period specified in section 6106(e) of this title; and
 
-&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
+&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of theCongress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
 
 (B) The forty-five day period specified in subparagraph (A)(ii) shall include only days during which both Houses of the Congress are in session.
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, asamended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Amendments
 

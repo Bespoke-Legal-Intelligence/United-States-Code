@@ -14,7 +14,7 @@ Housing shall qualify as affordable housing for purposes of this chapter only if
 
 &emsp;&emsp;(D) in the case of a contract to purchase housing to be constructed, is made available for purchase only by a family that is a low-income family at the time the contract is entered into; and
 
-&emsp;(2) except for housing assisted under section 1437bb of title 42 (as in effect before the date of the effectiveness of this chapter), each dwelling unit in the housing will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property (as determined by the Secretary) without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this chapter, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action—
+&emsp;(2) except for housing assisted under section 1437bb of title 42 (as in effect before the date of the effectiveness of this chapter), each dwelling unit in the housing will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property (as determined by the Secretary) without regard to the term of the mortgage or to transfer of ownership, orfor such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this chapter, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action—
 
 &emsp;&emsp;(A) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure; and
 
@@ -30,6 +30,8 @@ The provisions of paragraph (2) of subsection (a) regarding binding commitments 
 
 (Pub. L. 104–330, title II, §205, Oct. 26, 1996, 110 Stat. 4033; Pub. L. 105–276, title V, §595(e)(8), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title II, §204, Oct. 14, 2008, 122 Stat. 4326.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -43,6 +45,8 @@ For the date of the effectiveness of this chapter, referred to in subsec. (a)(2)
 <b>2008</b>—Subsec. (c). Pub. L. 110–411 added subsec. (c).
 
 <b>1998</b>—Subsec. (a)(1)(B) to (D). Pub. L. 105–276 added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: "in the case of housing for homeownership, is made available for purchase only by a family that is a low-income family at the time of purchase; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

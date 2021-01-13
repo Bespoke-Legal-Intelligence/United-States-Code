@@ -72,6 +72,8 @@ If, 6 months after July 21, 2010, the Appraisal Subcommittee determines that no 
 
 (Pub. L. 101–73, title XI, §1122, Aug. 9, 1989, 103 Stat. 518; Pub. L. 103–325, title III, §315, Sept. 23, 1994, 108 Stat. 2222; Pub. L. 111–203, title XIV, §1473(l)–(p), (t)(4), July 21, 2010, 124 Stat. 2196, 2197, 2199.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(A) to (C). Pub. L. 111–203, §1473(t)(4)(A), realigned margins.
@@ -91,6 +93,8 @@ Subsec. (i). Pub. L. 111–203, §1473(p), added subsec. (i).
 <b>1994</b>—Subsec. (a). Pub. L. 103–325, §315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
 
 Subsecs. (b) to (f). Pub. L. 103–325, §315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

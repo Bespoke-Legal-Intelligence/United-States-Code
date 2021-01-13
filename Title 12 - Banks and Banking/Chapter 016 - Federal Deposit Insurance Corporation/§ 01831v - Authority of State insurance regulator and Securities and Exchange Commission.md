@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, the provisions of—
 
 &emsp;(3) section 1848a <sup>1</sup> of this title that limit whatever authority the Board might otherwise have to take direct or indirect action with respect to holding companies and their functionally regulated subsidiaries;
 
-> shall also limit whatever authority that a Federal banking agency might otherwise have underany statute or regulation to require reports, make examinations, impose capital requirements, or take any other direct or indirect action with respect to any functionally regulated affiliate of a depository institution, subject to the same standards and requirements as are applicable to the Board under those provisions.
+> shall also limit whatever authority that a Federal banking agency might otherwise have under any statute or regulation to require reports, make examinations, impose capital requirements, or take any other direct or indirect action with respect to any functionally regulated affiliate of a depository institution, subject to the same standards and requirements as are applicable to the Board under those provisions.
 
 #### (b) Certain exemption authorized
 
@@ -34,9 +34,13 @@ For purposes of this section, the following definitions shall apply:
 
 (Sept. 21, 1950, ch. 967, §2\[45\], as added Pub. L. 106–102, title I, §112(b), Nov. 12, 1999, 113 Stat. 1367.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1848a of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 111–203, title VI, §604(c)(2), July 21, 2010, 124 Stat. 1601.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

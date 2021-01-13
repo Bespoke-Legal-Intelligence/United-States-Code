@@ -24,13 +24,15 @@ Whenever any department, agency, or instrumentality of the United States or of a
 
 #### (d) Information available from Parent Locator Service
 
-To the extent that information which the United States Central Authority is authorized to obtain under the provisions of subsection (c) can be obtained through the Parent Locator Service, the United States Central Authority shall first seek to obtain such information from the Parent Locator Service, before requesting such information directly under the provisions of subsection (c) of this section.
+To the extent that information which the United States Central Authority is authorized to obtain under the provisions of subsection (c) can be obtained through the Parent LocatorService, the United States Central Authority shall first seek to obtain such information from the Parent Locator Service, before requesting such information directly under the provisions of subsection (c) of this section.
 
 #### (e) Recordkeeping
 
 The United States Central Authority shall maintain appropriate records concerning its activities and the disposition of cases brought to its attention.
 
 (Pub. L. 100–300, §9, Apr. 29, 1988, 102 Stat. 440.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

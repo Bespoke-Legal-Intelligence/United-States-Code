@@ -42,7 +42,7 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out "with the concurrence of the National Science Board" after "the Director" and substituted "In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee." for "The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee."
 
-Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
+Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee onWomen in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
 
 Subsec. (d). Pub. L. 105–207, §202(d)(2)(F), struck out "additional" after "organize such".
 
@@ -70,7 +70,7 @@ Pub. L. 107–368, §20, Dec. 19, 2002, 116 Stat. 3063, provided that: "As part 
 
 &emsp;"(2) a description of past and present policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in science, mathematics, and engineering fields, including activities in support of minority-serving institutions; and
 
-&emsp;"(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along withproposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act \[42 U.S.C. 1885 et seq.\]."
+&emsp;"(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along with proposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act \[42 U.S.C. 1885 et seq.\]."
 
 \[For definitions of terms used in section 20 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
 

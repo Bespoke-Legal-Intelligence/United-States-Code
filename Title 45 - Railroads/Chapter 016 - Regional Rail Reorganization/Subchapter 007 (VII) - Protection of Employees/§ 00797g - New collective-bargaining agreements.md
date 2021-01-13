@@ -6,7 +6,7 @@ Not later than 60 days after the effective date of any conveyance pursuant to th
 
 #### (b) Procedure
 
-(1) Any procedure for finally determining the components of the first single collective bargaining agreement for any class or craft, agreed upon before August 13, 1981, shall be completed no later than 45 days after August 13, 1981. Such agreed upon procedure shall be deemed to satisfy the requirements of sections 157 and 158 of this title. The National Mediation Board shallappoint any person as provided for by such agreements.
+(1) Any procedure for finally determining the components of the first single collective bargaining agreement for any class or craft, agreed upon before August 13, 1981, shall be completed no later than 45 days after August 13, 1981. Such agreed upon procedure shall be deemed to satisfy the requirements of sections 157 and 158 of this title. The National Mediation Board shall appoint any person as provided for by such agreements.
 
 (2) Nothing in this section shall be construed to require the parties to enter into a new single collective bargaining agreement if the agreement between the parties in effect immediately prior to August 13, 1981, complied with section 774(d) <sup>1</sup> of this title as in effect immediately prior to such date.
 
@@ -15,6 +15,8 @@ Not later than 60 days after the effective date of any conveyance pursuant to th
 Employees of the Corporation may not serve notices under section 156 of this title for the purpose of negotiating job stabilization or other protective agreements with the Corporation until after April 1, 1984.
 
 (Pub. L. 93–236, title VII, §708, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 665.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

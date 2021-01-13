@@ -20,7 +20,7 @@
 
 > optional life insurance on family members may be continued under the same conditions as provided in section 8714b(c)(2) through (4).
 
-(d)(1) During each period in which the optional life insurance on family members is in force the full cost thereof shall be withheld from the employee's pay. During each period in which an employee continues optional life insurance on family members after retirement or while in receipt of compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in subsection (c) of this section, the full cost shall be withheld from the annuity or compensation, except that, beginning at the end of the calendar month in which the former employee becomes 65 years of age, the optional life insurance on family members shall be without cost to the employee. Notwithstanding the preceding sentence, the full cost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee. Amounts so withheld shall be deposited, used, and invested as provided in section 8714 of this title and shall be reported and accounted for together with amounts withheld under section 8714a(d) of this title.
+(d)(1) During each period in which the optional life insurance on family members is in force the full cost thereof shall be withheld from the employee's pay. During each period in which an employee continues optional life insurance on family members after retirement or while in receipt of compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in subsection (c) of this section, the full cost shall be withheld from the annuity or compensation, except that, beginning at the end of the calendar month in which the former employee becomes 65 years of age, the optional life insurance on family members shall be without cost to the employee. Notwithstanding the preceding sentence, the fullcost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee. Amounts so withheld shall be deposited, used, and invested as provided in section 8714 of this title and shall be reported and accounted for together with amounts withheld under section 8714a(d) of this title.
 
 (2) If an agency fails to withhold the proper cost of optional life insurance on family members from an individual's salary, compensation, or retirement annuity, the collection of amounts properly due may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of any unpaid amount, the agency shall submit an amount equal to the uncollected amount to the Office for deposit to the Employees' Life Insurance Fund.
 
@@ -31,6 +31,8 @@
 (f) The amount of optional life insurance which is in force under this section on a family member of an employee or former employee on the date of the death of the family member shall be paid, on the establishment of a valid claim by the employee, to such employee or, in the event of the death of the employee before payment can be made, to the person or persons entitled to the group life insurance in force on the employee under section 8705 of this title.
 
 (Added Pub. L. 96–427, §8(a), Oct. 10, 1980, 94 Stat. 1836; amended Pub. L. 98–353, title II, §206, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(5), June 6, 1986, 100 Stat. 598; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §§6(4), 8, Oct. 30, 1998, 112 Stat. 2951, 2953; Pub. L. 111–350, §5(a)(14), Jan. 4, 2011, 124 Stat. 3842.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ Subsec. (d)(3). Pub. L. 105–311, §6(4), added par. (3).
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1977. Prior to such effective date, par. (1) read as follows: "Optional life insurance on family members shall stop at the earlier of the employee's death, the employee's separation from the service, 12 months after discontinuance of pay, or the employee's entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to individual policies under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter."
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

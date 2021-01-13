@@ -6,7 +6,7 @@
 
 (c) All persons in the Navy and in the Marine Corps are enjoined to behave themselves in a reverent and becoming manner during divine service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 378, §6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered §8221, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 378, §6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered§8221, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 

@@ -24,7 +24,7 @@ In this subchapter, the term "development area" means the area to be developed, 
 
 &emsp;thence west along the northern side of E Street to the northeast corner of the intersection of E Street and Thirteenth Street Northwest;
 
-&emsp;thence north along the eastern side of Thirteenth Street to the northeast corner of theintersection of F Street and Thirteenth Street Northwest;
+&emsp;thence north along the eastern side of Thirteenth Street to the northeast corner of the intersection of F Street and Thirteenth Street Northwest;
 
 &emsp;thence west along the northern side of F Street to the northwest corner of the intersection of F Street and Fifteenth Street Northwest;
 
@@ -57,6 +57,8 @@ Pub. L. 92–578, §2, Oct. 27, 1972, 86 Stat. 1266.
 The text of 40:871(a)–(e) is omitted as obsolete.
 
 The words "being the southwest corner of the intersection of Fifteenth Street and E Street Northwest" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,11 +4,13 @@
 
 &emsp;(1) all property of the kind specified in section 541 that the debtor acquires after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13, whichever occurs first; and
 
-&emsp;(2) earnings from services performed by the debtor after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13, whichever occurs first.
+&emsp;(2) earnings from services performed by the debtor after the commencement of the casebut before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13, whichever occurs first.
 
 (b) Except as provided in section 1104 or a confirmed plan or order confirming a plan, the debtor shall remain in possession of all property of the estate.
 
 (Added Pub. L. 109–8, title III, §321(a)(1), Apr. 20, 2005, 119 Stat. 94.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

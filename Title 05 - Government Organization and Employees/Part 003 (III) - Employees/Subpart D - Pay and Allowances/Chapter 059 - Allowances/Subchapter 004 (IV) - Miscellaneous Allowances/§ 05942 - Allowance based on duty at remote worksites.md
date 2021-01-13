@@ -42,11 +42,15 @@ Act
 
 Mar. 31, 1966, Pub. L. 89–383, §1, 80 Stat. 98.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1971</b>—Pub. L. 91–656 substituted "duty at remote worksites" for "duty on California offshore islands or at Nevada Test Site" in section catchline and assignment to duty "at a site so remote from the nearest established communities or suitable places of residence as to require an appreciable degree of expense, hardship, and inconvenience, beyond that normally encountered in metropolitan commuting, on the part of the employee in commuting to and from his residence and such worksite" for assignment to duty "on one of the California offshore islands or at the United States Atomic Energy Commission Nevada Test Site, including the Nuclear Rocket Development Station", inserted reference to employee "of an Executive department or an independent establishment" and provision for designation by regulation of sites to which the rates apply.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1971 Amendment
 
@@ -55,6 +59,8 @@ Pub. L. 91–656, §6(b), Jan. 8, 1971, 84 Stat. 1954, provided that: "Notwithst
 &emsp;"(1) allowances may be paid to employees under section 5942 of title 5, United States Code, and the regulations prescribed by the President under such section, as in effect immediately prior to the effective date of this section \[Jan. 8, 1971\]; and
 
 &emsp;"(2) such regulations may be amended or revoked in accordance with such section 5942 as in effect immediately prior to the effective date of this section \[Jan. 8, 1971\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

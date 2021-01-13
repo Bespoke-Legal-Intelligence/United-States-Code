@@ -30,9 +30,11 @@ Beginning 5 years after January 6, 1988, the Farm Credit Administration shall no
 
 (Pub. L. 92–181, title IV, §4.4, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, §101(4), title II, §205(f)(2), Dec. 23, 1985, 99 Stat. 1679, 1706; Pub. L. 100–233, title II, §207(c), title III, §303, Jan. 6, 1988, 101 Stat. 1608, 1620; Pub. L. 100–399, title III, §303, Aug. 17, 1988, 102 Stat. 995.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–233, §303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment."
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable forthe interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment."
 
 Subsec. (c). Pub. L. 100–233, §207(c), redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term "bank" included the Capital Corporation.
 
@@ -47,6 +49,8 @@ Pub. L. 100–233, §303(b), added subsec. (e).
 <b>1985</b>—Subsec. (b). Pub. L. 99–205, §205(f)(2), substituted "execution of" for "Governor to execute" in first sentence and struck out "by the Governor" after "shall be executed" in second sentence.
 
 Subsecs. (c), (d). Pub. L. 99–205, §101(4), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -4,6 +4,8 @@ Two copies of the journals and documents, and of each book printed by either Hou
 
 (R.S. §97.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §97 derived from Res. Jan. 2, 1857, No. 5, §5, 11 Stat. 253.

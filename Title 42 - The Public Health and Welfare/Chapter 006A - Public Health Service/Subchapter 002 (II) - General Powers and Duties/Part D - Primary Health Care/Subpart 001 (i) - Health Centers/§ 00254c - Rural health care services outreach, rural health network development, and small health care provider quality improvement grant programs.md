@@ -40,37 +40,37 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+&emsp;&emsp;In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of basic health care services, and enhance the delivery of health care, in rural areas.
 
 #### (B) Types of grants
 
-&emsp;&emsp;The Director may award the grants—
+&emsp;&emsp;The Director may award the grants to—
 
-&emsp;&emsp;&emsp;(i) to promote expanded delivery of health care services in rural areas under subsection (e);
+&emsp;&emsp;&emsp;(i) promote expanded delivery of health care services in rural areas under subsection (e);
 
-&emsp;&emsp;&emsp;(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
+&emsp;&emsp;&emsp;(ii) provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
+&emsp;&emsp;&emsp;(iii) provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 #### (e) Rural health care services outreach grants
 
 #### (1) Grants
 
-&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director mayaward the grants for periods of not more than 3 years.
+&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a grant under this subsection for a project, an entity—
+&emsp;To be eligible to receive a grant under this subsection for a project, an entity shall—
 
-&emsp;&emsp;(A) shall be a rural public or rural nonprofit private entity;
+&emsp;&emsp;(A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-&emsp;&emsp;(B) shall represent a consortium composed of members—
+&emsp;&emsp;(B) represent a consortium composed of members that—
 
-&emsp;&emsp;&emsp;(i) that include 3 or more health care providers; and
+&emsp;&emsp;&emsp;(i) include 3 or more health care providers; and
 
-&emsp;&emsp;&emsp;(ii) that may be nonprofit or for-profit entities; and
+&emsp;&emsp;&emsp;(ii) may be nonprofit or for-profit entities; and
 
-&emsp;&emsp;(C) shall not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
+&emsp;&emsp;(C) not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
 
 #### (3) Applications
 
@@ -80,7 +80,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 &emsp;&emsp;(B) a description of the manner in which the project funded under the grant will meet the health care needs of rural underserved populations in the local community or region to be served;
 
-&emsp;&emsp;(C) a description of how the local community or region to be served will be involved in the development and ongoing operations of the project;
+&emsp;&emsp;(C) a description of how the rural underserved populations in the local community or region to be served will be involved in the development and ongoing operations of the project;
 
 &emsp;&emsp;(D) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -94,31 +94,31 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (A) In general
 
-&emsp;&emsp;The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+&emsp;&emsp;The Director may award rural health network development grants to eligible entities to plan, develop, and implement integrated health care networks that collaborate in order to—
 
 &emsp;&emsp;&emsp;(i) achieve efficiencies;
 
-&emsp;&emsp;&emsp;(ii) expand access to, coordinate, and improve the quality of essential health care services; and
+&emsp;&emsp;&emsp;(ii) expand access to, coordinate, and improve the quality of basic health care services and associated health outcomes; and
 
 &emsp;&emsp;&emsp;(iii) strengthen the rural health care system as a whole.
 
 #### (B) Grant periods
 
-&emsp;&emsp;The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.
+&emsp;&emsp;The Director may award grants under this subsection for periods of not more than 5 years.
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a grant under this subsection, an entity—
+&emsp;To be eligible to receive a grant under this subsection, an entity shall—
 
-&emsp;&emsp;(A) shall be a rural public or rural nonprofit private entity;
+&emsp;&emsp;(A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-&emsp;&emsp;(B) shall represent a network composed of participants—
+&emsp;&emsp;(B) represent a network composed of participants that—
 
-&emsp;&emsp;&emsp;(i) that include 3 or more health care providers; and
+&emsp;&emsp;&emsp;(i) include 3 or more health care providers; and
 
-&emsp;&emsp;&emsp;(ii) that may be nonprofit or for-profit entities; and
+&emsp;&emsp;&emsp;(ii) may be nonprofit or for-profit entities; and
 
-&emsp;&emsp;(C) shall not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
+&emsp;&emsp;(C) not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
 
 #### (3) Applications
 
@@ -134,9 +134,9 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 &emsp;&emsp;&emsp;(ii) the degree to which the participants are ready to integrate their functions; and
 
-&emsp;&emsp;&emsp;(iii) how the local community or region to be served will benefit from and be involved in the activities carried out by the network;
+&emsp;&emsp;&emsp;(iii) how the rural underserved populations in the local community or region to be served will benefit from and be involved in the development and ongoing operations of the network;
 
-&emsp;&emsp;(D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
+&emsp;&emsp;(D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
 
 &emsp;&emsp;(E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -148,17 +148,17 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (1) Grants
 
-&emsp;The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities. The Director may award the grants for periods of 1 to 3 years.
+&emsp;The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes. The Director may award the grants for periods of 1 to 5 years.
 
 #### (2) Eligibility
 
-&emsp;To be eligible for a grant under this subsection, an entity—
+&emsp;To be eligible for a grant under this subsection, an entity shall—
 
-&emsp;&emsp;(A)(i) shall be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
+&emsp;&emsp;(A)(i) be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
 
-&emsp;&emsp;(ii) shall be another rural provider or network of small rural providers identified by the Secretary as a key source of local care; and
+&emsp;&emsp;(ii) be another rural provider or network of small rural providers identified by the Secretary as a key source of local or regional care; and
 
-&emsp;&emsp;(B) shall not previously have received a grant under this subsection for the same or a similar project.
+&emsp;&emsp;(B) not previously have received a grant under this subsection for the same or a similar project.
 
 #### (3) Applications
 
@@ -170,7 +170,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 &emsp;&emsp;(C) a description of the manner in which the project funded under the grant will assure continuous quality improvement in the provision of services by the entity;
 
-&emsp;&emsp;(D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
+&emsp;&emsp;(D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
 
 &emsp;&emsp;(E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -198,7 +198,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Preference
 
-&emsp;In awarding grants under this section, the Secretary shall give preference to entities that—
+&emsp;In awarding grants under this section, the Secretary, as appropriate, shall give preference to entities that—
 
 &emsp;&emsp;(A) are located in health professional shortage areas or medically underserved communities, or serve medically underserved populations; or
 
@@ -206,19 +206,69 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (i) Report
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
+Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsections (e), (f), and (g), including the impact of projects funded under such programs on the health status of rural residents with chronic conditions.
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.
+There are authorized to be appropriated to carry out this section $79,500,000 for each of fiscal years 2021 through 2025.
 
-(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §4, Oct. 8, 2008, 122 Stat. 3994.)
+(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §4, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 116–136, div. A, title III, §3213, Mar. 27, 2020, 134 Stat. 370.)
 
 #### Prior Provisions
 
 A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(2)(A). Pub. L. 116–136, §3213(1)(A), substituted "basic" for "essential".
+
+Subsec. (d)(2)(B). Pub. L. 116–136, §3213(1)(B), inserted "to" after "grants" in introductory provisions and struck out "to" at beginning of cls. (i) to (iii).
+
+Subsec. (e)(1). Pub. L. 116–136, §3213(2)(A), inserted "improving and" after "outreach by" and ", through community engagement and evidence-based or innovative, evidence-informed models" after "rural areas" and substituted "5 years" for "3 years".
+
+Subsec. (e)(2). Pub. L. 116–136, §3213(2)(B)(i), inserted "shall" after "entity" in introductory provisions.
+
+Subsec. (e)(2)(A). Pub. L. 116–136, §3213(2)(B)(ii), substituted "be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations" for "shall be a rural public or rural nonprofit private entity".
+
+Subsec. (e)(2)(B). Pub. L. 116–136, §3213(2)(B)(iii), (iv), struck out "shall" before "represent" and inserted "that" after "members" in introductory provisions and struck out "that" at beginning of cls. (i) and (ii).
+
+Subsec. (e)(2)(C). Pub. L. 116–136, §3213(2)(B)(iii), struck out "shall" before "not previously".
+
+Subsec. (e)(3)(C). Pub. L. 116–136, §3213(2)(C), substituted "the rural underserved populations in the local community or region" for "the local community or region".
+
+Subsec. (f)(1)(A). Pub. L. 116–136, §3213(3)(A)(i)(I), substituted "plan, develop, and implement integrated health care networks that collaborate" for "promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks" in introductory provisions.
+
+Subsec. (f)(1)(A)(ii). Pub. L. 116–136, §3213(3)(A)(i)(II), substituted "basic health care services and associated health outcomes" for "essential health care services".
+
+Subsec. (f)(1)(B). Pub. L. 116–136, §3213(3)(A)(ii), amended subpar. (B) generally. Prior to amendment,text read as follows: "The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate."
+
+Subsec. (f)(2). Pub. L. 116–136, §3213(3)(B)(i), inserted "shall" after "entity" in introductory provisions.
+
+Subsec. (f)(2)(A). Pub. L. 116–136, §(3)(B)(ii), substituted "be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations" for "shall be a rural public or rural nonprofit private entity".
+
+Subsec. (f)(2)(B). Pub. L. 116–136, §3213(3)(B)(iii), struck out "shall" before "represent" and inserted "that" after "participants" in introductory provisions and struck out "that" at beginning of cls. (i) and (ii).
+
+Subsec. (f)(2)(C). Pub. L. 116–136, §3213(3)(B)(iv), struck out "shall" before "not previously".
+
+Subsec. (f)(3)(C)(iii). Pub. L. 116–136, §3213(3)(C)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "how the local community or region to be served will benefit from and be involved in the activities carried out by the network;".
+
+Subsec. (f)(3)(D). Pub. L. 116–136, §3213(3)(C)(ii), substituted "the rural underserved populations in the local community or region" for "the local community or region".
+
+Subsec. (g)(1). Pub. L. 116–136, §3213(4)(A), inserted ", including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes" after "quality improvement activities" and substituted "5 years" for "3 years".
+
+Subsec. (g)(2). Pub. L. 116–136, §3213(4)(B)(i), inserted "shall" after "entity" in introductory provisions.
+
+Subsec. (g)(2)(A). Pub. L. 116–136, §3213(4)(B)(ii), (iii), struck out "shall" at beginning of cls. (i) and (ii), and inserted "or regional" after "local" in cl. (ii).
+
+Subsec. (g)(2)(B). Pub. L. 116–136, §3213(4)(B)(ii), struck out "shall" before "not previously".
+
+Subsec. (g)(3)(D). Pub. L. 116–136, §3213(4)(C), substituted "the rural underserved populations in the local community or region" for "the local community or region".
+
+Subsec. (h)(3). Pub. L. 116–136, §3213(5), inserted ", as appropriate," after "the Secretary" in introductory provisions.
+
+Subsec. (i). Pub. L. 116–136, §3213(6), amended subsec. (i) generally. Prior to amendment, text read as follows: "Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g)."
+
+Subsec. (j). Pub. L. 116–136, §3213(7), substituted "$79,500,000 for each of fiscal years 2021 through 2025" for "$45,000,000 for each of fiscal years 2008 through 2012".
 
 <b>2008</b>—Subsec. (j). Pub. L. 110–355 substituted "$45,000,000 for each of fiscal years 2008 through 2012." for "$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006."
 
@@ -228,7 +278,7 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 
@@ -313,4 +363,50 @@ Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later 
 &emsp;"(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
 
 &emsp;"(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues."
+
+#### Ex. Ord. No. 13941. Improving Rural Health and Telehealth Access
+
+Ex. Ord. No. 13941, Aug. 3, 2020, 85 F.R. 47881, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. My Administration is committed to improving the health of all Americans by improving access to better care, including for the approximately 57 million Americans living in rural communities. Americans living in rural communities face unique challenges when seeking healthcare services, such as limited transportation opportunities, shortages of healthcare workers, and an inability to fully benefit from technological and care-delivery innovations. These factors have contributed to financial insecurity and impaired health outcomes for rural Americans, who are more likely to die from five leading causes, many of which are preventable, than their urban counterparts. That gap widened from 2010 to 2017 for cancer, heart disease, and chronic lower respiratory disease.
+
+Since 2010, the year the \[Patient Protection and\] Affordable Care Act \[Pub. L. 111–148\] was passed, 129 rural hospitals in the United States have closed. Predictably, financial distress is the strongest driver for risk of closure, and many rural hospitals lack sufficient patient volume to be sustainable under traditional healthcare-reimbursement mechanisms. From 2015 to 2017, the average occupancy rate of a hospital that closed was only 22 percent. When hospitals close, the patient population around them carries an increased risk of mortality due to increased travel time and decreased access.
+
+During the COVID–19 public health emergency (PHE), hospitals curtailed elective medical procedures and access to in-person clinical care was limited. To help patients better access healthcare providers, my Administration implemented new flexibility regarding what services may be provided via telehealth, who may provide them, and in what circumstances, and the use of telehealth increased dramatically across the Nation. Internal analysis by the Centers for Medicare and Medicaid Services (CMS) of the Department of Health and Human Services (HHS) showed a weekly jump in virtual visits for CMS beneficiaries, from approximately 14,000 pre-PHE to almost 1.7 million in the last week of April. Additionally, a recent report by HHS shows that nearly half (43.5 percent) of Medicare fee-for-service primary care visits were provided through telehealth in April, compared with far less than one percent (0.1 percent) in February before the PHE. Importantly, the report finds that telehealth visits continued to be frequent even after in-person primary care visits resumed in May, indicating that the expansion of telehealth services is likely to be a more permanent feature of the healthcare delivery system.
+
+Rural healthcare providers, in particular, need these types of flexibilities to provide continuous care to patients in their communities. It is the purpose of this order to increase access to, improve the quality of, and improve the financial economics of rural healthcare, including by increasing access to high-quality care through telehealth.
+
+Sec. 2. <i>Launching an Innovative Payment Model to Enable Rural Healthcare Transformation</i>. Within 30 days of the date of this order \[Aug. 3, 2020\], the Secretary of HHS (Secretary) will announce a new model, pursuant to section 1115A of the Social Security Act (42 U.S.C. 1315a), to test innovative payment mechanisms in order to ensure that rural healthcare providers are able to provide the necessary level and quality of care. This model should give rural providers flexibilities from existing Medicare rules, establish predictable financial payments, and encourage the movement into high-quality, value-based care.
+
+Sec. 3. <i>Investments in Physical and Communications Infrastructure</i>. Within 30 days of the date of this order, the Secretary and the Secretary of Agriculture shall, consistent with applicable law and subject to the availability of appropriations, and in coordination with the Federal Communications Commission and other executive departments and agencies, as appropriate, develop and implement a strategy to improve rural health by improving the physical and communications healthcare infrastructure available to rural Americans.
+
+Sec. 4. <i>Improving the Health of Rural Americans</i>. Within 30 days of the date of this order, the Secretary shall submit a report to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, regarding existing and upcoming policy initiatives to:
+
+(a) increase rural access to healthcare by eliminating regulatory burdens that limit the availability of clinical professionals;
+
+(b) prevent disease and mortality by developing rural-specific efforts to drive improved health outcomes;
+
+(c) reduce maternal mortality and morbidity; and
+
+(d) improve mental health in rural communities.
+
+Sec. 5. <i>Expanding Flexibilities Beyond the Public Health Emergency</i>. Within 60 days of the date of this order, the Secretary shall review the following temporary measures put in place during the PHE, and shall propose a regulation to extend these measures, as appropriate, beyond the duration of the PHE:
+
+(a) the additional telehealth services offered to Medicare beneficiaries; and
+
+(b) the services, reporting, staffing, and supervision flexibilities offered to Medicare providers in rural areas.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

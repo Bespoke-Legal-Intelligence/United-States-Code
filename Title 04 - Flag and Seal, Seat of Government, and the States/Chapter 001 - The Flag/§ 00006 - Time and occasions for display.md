@@ -34,6 +34,8 @@ June 22, 1942, ch. 435, §2, 56 Stat. 378; Dec. 22, 1942, ch. 806, §2, 56 Stat.
 
 In subsection (d), the words "Veterans Day" are substituted for "Armistice Day" because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–15 inserted "National Vietnam War Veterans Day, March 29;" after "third Monday in February;".

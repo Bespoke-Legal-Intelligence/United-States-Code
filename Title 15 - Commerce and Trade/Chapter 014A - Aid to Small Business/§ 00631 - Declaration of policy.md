@@ -2,7 +2,7 @@
 
 #### (a) Aid, counsel, assistance, etc., to small business concerns
 
-The essence of the American economic system of private enterprise is free competition. Onlythrough full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
+The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
 
 #### (b) Assistance to compete in international markets
 
@@ -42,7 +42,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
 
-&emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
+&emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only asa tool for developing business ownership among groups that own and control little productive capital.
 
 (B) It is therefore the purpose of the programs authorized by section 636(j) of this title to—
 
@@ -188,7 +188,7 @@ Subsec. (b). Pub. L. 87–70 included small-business concerns which are displace
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: "This Act \[see Short Title of 1997 Amendmentnote below\] and the amendments made by this Act shall take effect on October 1, 1997."
+Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: "This Act \[see Short Title of 1997 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1997."
 
 #### Effective Date of 1989 Amendment
 
@@ -258,6 +258,10 @@ Pub. L. 97–35, title XIX, §1918, Aug. 13, 1981, 95 Stat. 781, provided that: 
 
 Pub. L. 96–302, title V, §507, July 2, 1980, 94 Stat. 854, provided that: "This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–142, §1, June 5, 2020, 134 Stat. 641, provided that: "This Act \[amending sections 636 and 9005 of this title, enacting provisions set out as notes under section 636 of this title and section 3111 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 3111 of Title 26\] may be cited as the 'Paycheck Protection Program Flexibility Act of 2020'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–70, §1, Nov. 22, 2019, 133 Stat. 1145, provided that: "This Act \[amending provisions set out as a note under section 636 of this title\] may be cited as the 'Rebuilding Small Businesses After Disasters Act'."
@@ -272,7 +276,7 @@ Pub. L. 115–324, §1, Dec. 17, 2018, 132 Stat. 4444, provided that: "This Act 
 
 Pub. L. 115–259, §1, Oct. 9, 2018, 132 Stat. 3664, provided that: "This Act \[enacting section 648c of this title, amending section 648 of this title, and enacting provisions set out as notes under section 648c of this title\] may be cited as the 'Small Business Innovation Protection Act of 2017'."
 
-Pub. L. 115–189, §1, June 21, 2018, 132 Stat. 1492, provided that: "This Act \[enacting sections 657t and 657uof this title, amending sections 632, 636, 639, 647, and 657t of this title, enacting provisions set out as notes under sections 657t and 657u of this title, and amending provisions set out as notes under this section\] may be cited as the 'Small Business 7(a) Lending Oversight Reform Act of 2018'."
+Pub. L. 115–189, §1, June 21, 2018, 132 Stat. 1492, provided that: "This Act \[enacting sections 657t and 657u of this title, amending sections 632, 636, 639, 647, and 657t of this title, enacting provisions set out as notes under sections 657t and 657u of this title, and amending provisions set out as notes under this section\] may be cited as the 'Small Business 7(a) Lending Oversight Reform Act of 2018'."
 
 #### Short Title of 2016 Amendment
 
@@ -312,7 +316,7 @@ Pub. L. 110–186, §1, Feb. 14, 2008, 122 Stat. 623, provided that: "This Act \
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
+Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notesunder section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
 
 #### Short Title of 2004 Amendment
 
@@ -366,7 +370,7 @@ Pub. L. 104–36, §1, Oct. 12, 1995, 109 Stat. 295, provided that: "This Act \[
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–403, §1(a), Oct. 22, 1994, 108 Stat. 4175, provided that: "This Act \[enacting chapter 97 of this title and sections 697d to 697f of this title, amending this section and sections 632 to 634, 634d, 636 to 638, 644, 648, 652, 656, 683, 687, and 697 of this title, repealing section 697e of this title, enacting provisions set out as notes under this section and sections 634b, 636, 637, 644, 661, and 697d to 697f of this title, amending provisions set out as notes under this section and sections 633, 636, 637, and 694b of this title, and repealing provisions set out as a note under section 697 of this title\] may be cited as the 'Small Business Administration Reauthorization and Amendments Act of 1994'."
+Pub. L. 103–403, §1(a), Oct. 22, 1994, 108 Stat. 4175, provided that: "This Act \[enacting chapter 97 of this titleand sections 697d to 697f of this title, amending this section and sections 632 to 634, 634d, 636 to 638, 644, 648, 652, 656, 683, 687, and 697 of this title, repealing section 697e of this title, enacting provisions set out as notes under this section and sections 634b, 636, 637, 644, 661, and 697d to 697f of this title, amending provisions set out as notes under this section and sections 633, 636, 637, and 694b of this title, and repealing provisions set out as a note under section 697 of this title\] may be cited as the 'Small Business Administration Reauthorization and Amendments Act of 1994'."
 
 #### Short Title of 1993 Amendment
 
@@ -374,7 +378,7 @@ Pub. L. 103–81, §1(a), Aug. 13, 1993, 107 Stat. 780, provided that: "This Act
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: "This Act \[amending sections 634, 636, 637,and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the 'Small Business Research and Development Enhancement Act of 1992'."
+Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: "This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the 'Small Business Research and Development Enhancement Act of 1992'."
 
 Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: "This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the 'Small Business Innovation Research Program Reauthorization Act of 1992'."
 
@@ -414,7 +418,7 @@ Pub. L. 100–418, title VIII, §8001, Aug. 23, 1988, 102 Stat. 1553, provided t
 
 Pub. L. 98–395, §1, Aug. 21, 1984, 98 Stat. 1366, provided that: "This Act \[amending sections 636 and 648 of this title and provisions set out as notes under this section and section 648 of this title\] may be cited as the 'Small Business Development Center Improvement Act of 1984'."
 
-Pub. L. 98–362, §1, July 16, 1984, 98 Stat. 431, provided that: "This Act \[amending sections 632, 633, and 637 of this title and enacting provisions set out as notes under sections 633 and 637 of this title\] may be cited as the 'Small Business Computer Security and Education Act of 1984'."
+Pub. L. 98–362, §1, July 16, 1984, 98 Stat. 431, provided that: "This Act \[amending sections 632, 633, and 637 of this title and enacting provisions set out as notesunder sections 633 and 637 of this title\] may be cited as the 'Small Business Computer Security and Education Act of 1984'."
 
 Pub. L. 98–352, §1, July 10, 1984, 98 Stat. 329, provided that: "This Act \[amending sections 633, 634, and 639 of this title and enacting provisions set out as notes under section 634 of this title\] may be cited as the 'Small Business Secondary Market Improvements Act of 1984'."
 
@@ -482,7 +486,7 @@ Pub. L. 85–536, §2\[19\], July 18, 1958, 72 Stat. 396, provided that: "If any
 
 #### Authorization of Appropriations
 
-Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554,§1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703; Pub. L. 107–20, title II, §2203(a), July 24, 2001, 115 Stat. 170; Pub. L. 108–217, §3, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–447, div. K, title I, §121, Dec. 8, 2004, 118 Stat. 3446; Pub. L. 115–189, §5, June 21, 2018, 132 Stat. 1497, provided that:
+Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554, §1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703; Pub. L. 107–20, title II, §2203(a), July 24, 2001, 115 Stat. 170; Pub. L. 108–217, §3, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–447, div. K, title I, §121, Dec. 8, 2004, 118 Stat. 3446; Pub. L. 115–189, §5, June 21, 2018, 132 Stat. 1497; Pub. L. 116–260, div. N, title III, §329(d), Dec. 27, 2020, 134 Stat. 2042, provided that:
 
 "(a)(1) For fiscal year 2000 and each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary and appropriate, to remain available until expended, and to be available solely—
 
@@ -556,7 +560,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 Additional authorizations.—
 
-&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2005 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[15 U.S.C. 636(b)\], and to carry out the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], including salaries and expenses of the Administration.
+&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2005 such sums asmay be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[15 U.S.C. 636(b)\], and to carry out the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], including salaries and expenses of the Administration.
 
 &emsp;&emsp;"(B) Notwithstanding any other provision of this paragraph, for fiscal year 2005—
 
@@ -638,7 +642,43 @@ Notice required before exercising authority.—Not later than 30 days before the
 
 &emsp;"(3)
 
-Limitation.—The Administrator shall not exercise the authority under paragraph (1) more than once during any fiscal year."
+Limitation.—The Administrator shall not exercise the authority under paragraph (1) more than once during any fiscal year.
+
+"(h)
+
+Microloan Program.—For each of fiscal years 2021 through 2025, the Administration is authorized to make—
+
+&emsp;"(1) $80,000,000 in technical assistance grants, as provided in section 7(m) \[15 U.S.C. 636(m)\]; and
+
+&emsp;"(2) $110,000,000 in direct loans, as provided in section 7(m)."
+
+#### Category Management Training
+
+Pub. L. 116–283, div. A, title VIII, §871, Jan. 1, 2021, 134 Stat. 3788, provided that:
+
+"(a)
+
+In General.—Not later than 8 months after the date of the enactment of this section \[Jan. 1, 2021\], the Administrator of the Small Business Administration, in coordination with the Administrator of the Office of Federal Procurement Policy and any other head of a Federal agency (as determined by the Administrator), shall develop a training curriculum on category management for staff of Federal agencies with procurement or acquisition responsibilities. Such training shall include—
+
+&emsp;"(1) best practices for procuring goods and services from small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)); and
+
+&emsp;"(2) information on avoiding conflicts with the requirements of the Small Business Act (15 U.S.C. 631 et seq.).
+
+"(b)
+
+Use of Curriculum.—The Administrator of the Small Business Administration—
+
+&emsp;"(1) shall ensure that staff for Federal agencies described in subsection (a) receive the training described in such subsection; and
+
+&emsp;"(2) may request the assistance of the relevant Director of Small and Disadvantaged Business Utilization (as described in section 15(k) of the Small Business Act (15 U.S.C. 644(k))) to carry out the requirements of paragraph (1).
+
+"(c)
+
+Submission to Congress.—The Administrator of the Small Business Administration shall provide a copy of the training curriculum developed under subsection (a) to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate.
+
+"(d)
+
+Category Management Defined.—In this section, the term 'category management' has the meaning given by the Director of the Office of Management and Budget."
 
 #### Small Business Act Contracting Requirements Training
 
@@ -668,7 +708,7 @@ Responsibility for Achieving Small Business Goals.—The head of an agency shall
 
 "(c)
 
-Definitions.—In this section \[enacting this note and provisions set out as a note under section 3396 of Title 5, Government Organization and Employees\] the term 'responsible for acquisition', with respect to a member of the senior executive service or other seniorofficial, means such a member or official who acquires services or supplies, directs agency organizations to acquire services or supplies, oversees acquisition officials, including program managers, contracting officers, and other acquisition workforce personnel responsible for formulating and approving acquisition strategies and plans."
+Definitions.—In this section \[enacting this note and provisions set out as a note under section 3396 of Title 5, Government Organization and Employees\] the term 'responsible for acquisition', with respect to a member of the senior executive service or other senior official, means such a member or official who acquires services or supplies, directs agency organizations to acquire services or supplies, oversees acquisition officials, including program managers, contracting officers, and other acquisition workforce personnel responsible for formulating and approving acquisition strategies and plans."
 
 #### Loan Application Processing
 
@@ -844,7 +884,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.\]
 
-Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal department and agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to, and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
+Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal departmentand agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to, and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
 
 (b) The head of each Federal department or agency shall, when so requested by the Secretary, designate his Under Secretary or such other similar official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning minority business enterprise.
 
@@ -860,7 +900,7 @@ Sec. 5. <i>Policies and Standards</i>. The Secretary may establish such policies
 
 Sec. 6. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 
-(a) "Minority business enterprise" means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to,Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
+(a) "Minority business enterprise" means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to, Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
 
 (b) "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -898,7 +938,7 @@ Section 1. <i>Minority Business Development Plans</i>. (a) Minority business ent
 
 (e) The Secretary of Commerce shall provide an annual report to the President, through the Cabinet Council on Commerce and Trade, on activities under this Order and agency implementation of minority business development programs.
 
-Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by law and consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
+Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by lawand consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
 
 (b) Each Federal agency shall, to the extent permitted by law and consistent with its primary mission, establish minority business development programs, consistent with Section 211 of Public Law 95–507 \[amending 15 U.S.C. 637(d)\] to develop and implement incentive techniques to encourage greater minority business subcontracting by Federal prime contractors.
 
@@ -964,7 +1004,7 @@ Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secreta
 
 (b) For the purposes of this order, "businesses headed by underserved populations" means businesses headed by women or minorities, and/or located in rural communities.
 
-Sec. 3. <i>Expedited Response to Worker Dislocation</i>. (a) The Secretary of Labor shall expedite the Federal response to worker dislocation through the Workforce Investment Act and the Trade Adjustment Assistance program by proactively seeking information, from avariety of sources, on actual or prospective layoffs, including the media and community and labor union members, and by sharing such information with appropriate state workforce officials. In addition, the Department of Labor (Labor) shall undertake a number of proactive steps to support public outreach activities aimed at workers, employers, the media, local officials, the community, and labor organizations and their members to improve awareness of the adjustment assistance available through Labor programs, including, but not limited to:
+Sec. 3. <i>Expedited Response to Worker Dislocation</i>. (a) The Secretary of Labor shall expedite the Federal response to worker dislocation through the Workforce Investment Act and the Trade Adjustment Assistance program by proactively seeking information, from a variety of sources, on actual or prospective layoffs, including the media and community and labor union members, and by sharing such information with appropriate state workforce officials. In addition, the Department of Labor (Labor) shall undertake a number of proactive steps to support public outreach activities aimed at workers, employers, the media, local officials, the community, and labor organizations and their members to improve awareness of the adjustment assistance available through Labor programs, including, but not limited to:
 
 &emsp;(1) developing a set of methods to inform employers of the services available through Labor workforce programs, which will explain the requirements of the Worker Adjustment and Retraining Notification Act, 29 U.S.C. 2101 <i>et seq</i>., and provide information on worker adjustment programs, including the Trade Adjustment Assistance and the basic dislocated worker programs, emphasizing the importance of early intervention to minimize the affects of work layoffs;
 

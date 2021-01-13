@@ -18,6 +18,8 @@ Congress declares that—
 
 (Pub. L. 91–173, §2, Dec. 30, 1969, 83 Stat. 742; Pub. L. 95–164, title I, §102(a), Nov. 9, 1977, 91 Stat. 1290; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in par. (g), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -27,6 +29,8 @@ This chapter, referred to in par. (g), was in the original "this Act", meaning P
 <b>1977</b>—Pars. (a) to (d), (f). Pub. L. 95–164, §102(a)(1), inserted "or other" after "coal" wherever appearing.
 
 Par. (g). Pub. L. 95–164, §102(a)(1), (2), inserted "or other" after "coal" wherever appearing and substituted "Secretary of Labor" for "Secretary of the Interior".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -82,5 +86,5 @@ Pub. L. 109–236, §7, June 15, 2006, 120 Stat. 500, provided that: "The Secret
 
 &emsp;"(2) requires the Mine Safety and Health Administration to be as responsive as possible to requests from the families of mine accident victims for information relating to mine accidents; and
 
-&emsp;"(3) requires that in such accidents, that the Mine Safety and Health Administration shall serve as theprimary communicator with the operator, miners' families, the press and the public."
+&emsp;"(3) requires that in such accidents, that the Mine Safety and Health Administration shall serve as the primary communicator with the operator, miners' families, the press and the public."
 

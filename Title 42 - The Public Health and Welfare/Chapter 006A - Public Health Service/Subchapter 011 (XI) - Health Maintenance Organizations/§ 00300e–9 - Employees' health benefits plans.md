@@ -102,5 +102,5 @@ Amendment by section 110(a)(1), (2) of Pub. L. 94–460 applicable with respect 
 
 #### Collective Bargaining Agreements in Effect on October 24, 1988, Unaffected
 
-Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the PublicHealth Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
+Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the Public Health Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
 

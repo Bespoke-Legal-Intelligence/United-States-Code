@@ -4,7 +4,7 @@ As used in this subchapter, the term "Department of Energy defense nuclear facil
 
 &emsp;(1) A production facility or utilization facility (as defined in section 2014 of this title) that is under the control or jurisdiction of the Secretary of Energy and that is operated for national security purposes, but the term does not include—
 
-&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1,1982, pertaining to the Naval nuclear propulsion program;
+&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program;
 
 &emsp;&emsp;(B) any facility or activity involved with the transportation of nuclear explosives or nuclear material;
 
@@ -30,5 +30,5 @@ The Nuclear Waste Policy Act of 1982, referred to in par. (2), is Pub. L. 97–4
 
 #### References to United States Enrichment Corporation
 
-References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998),to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 

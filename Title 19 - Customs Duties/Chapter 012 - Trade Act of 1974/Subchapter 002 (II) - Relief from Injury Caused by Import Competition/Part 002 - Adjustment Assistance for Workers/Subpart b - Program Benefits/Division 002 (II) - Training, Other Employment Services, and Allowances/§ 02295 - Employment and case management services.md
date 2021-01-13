@@ -16,7 +16,7 @@ The Secretary shall make available, directly or through agreements with States u
 
 &emsp;(5) Short-term prevocational services, including development of learning skills, communications skills, interviewing skills, punctuality, personal maintenance skills, and professional conduct to prepare individuals for employment or training.
 
-&emsp;(6) Individual career counseling, including job search and placement counseling, during the period in which the individual is receiving a trade adjustment allowance or training under this part, and after receiving such training for purposes of job placement.
+&emsp;(6) Individual career counseling, including job search and placement counseling, during the period in which the individual is receiving a trade adjustment allowance or trainingunder this part, and after receiving such training for purposes of job placement.
 
 &emsp;(7) Provision of employment statistics information, including the provision of accurate information relating to local, regional, and national labor market areas, including—
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

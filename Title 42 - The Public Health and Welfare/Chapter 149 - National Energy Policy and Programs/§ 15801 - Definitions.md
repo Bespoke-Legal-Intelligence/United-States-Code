@@ -16,7 +16,7 @@ Except as otherwise provided, in this Act:
 
 &emsp;&emsp;The term "institution of higher education" includes an organization that—
 
-&emsp;&emsp;&emsp;(i) is organized, and at all times thereafter operated, exclusively for the benefit of, to perform the functions of, or to carryout the functions of one or more organizations referred to in subparagraph (A); and
+&emsp;&emsp;&emsp;(i) is organized, and at all times thereafter operated, exclusively for the benefit of, to perform the functions of, or to carry out the functions of one or more organizations referred to in subparagraph (A); and
 
 &emsp;&emsp;&emsp;(ii) is operated, supervised, or controlled by or in connection with one or more of those organizations.
 

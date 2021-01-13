@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) is not imprisoned under Federal, State, or local authority, and
 
-&emsp;&emsp;(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2021.
+&emsp;&emsp;(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022.
 
 #### (2) Joint returns
 
@@ -276,9 +276,9 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;In the case of the death of an eligible individual—
 
-&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
+&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may betaken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
 
-&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall betreated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
+&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
 #### (11) Election
 
@@ -316,7 +316,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053.)
 
 #### References in Text
 
@@ -343,6 +343,8 @@ A prior section 35 was renumbered section 37 of this title.
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(1)(B). Pub. L. 116–260 substituted "January 1, 2022" for "January 1, 2021".
 
 <b>2019</b>—Subsec. (b)(1)(B). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2020".
 
@@ -400,9 +402,13 @@ Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–
 
 <b>2004</b>—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a)."
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: "The amendment made by this section \[amending this section\] shall apply to months beginning after December 31, 2020."
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §146(b), Dec. 20, 2019, 133 Stat. 3236, provided that: "The amendment made by this section \[amending this section\] shall apply to months beginning after December 31, 2019."
+Pub. L. 116–94, div. Q, title I, §146(b), Dec. 20, 2019, 133 Stat. 3236, provided that: "The amendment made bythis section \[amending this section\] shall apply to months beginning after December 31, 2019."
 
 #### Effective Date of 2015 Amendment
 
@@ -418,7 +424,7 @@ Plans available on individual market for use of tax credit.—The amendment made
 
 "(3)
 
-Transition rule.—Notwithstanding section 35(g)(11)(B)(i) of the Internal Revenue Code of 1986 (as added by this title), an election to apply section 35 of such Code to an eligible coverage month (as defined insection 35(b) of such Code) (and not to claim the credit under section 36B of such Code with respect to such month) in a taxable year beginning after December 31, 2013, and before the date of the enactment of this Act \[June 29, 2015\]—
+Transition rule.—Notwithstanding section 35(g)(11)(B)(i) of the Internal Revenue Code of 1986 (as added by this title), an election to apply section 35 of such Code to an eligible coverage month (as defined in section 35(b) of such Code) (and not to claim the credit under section 36B of such Code with respect to such month) in a taxable year beginning after December 31, 2013, and before the date of the enactment of this Act \[June 29, 2015\]—
 
 &emsp;"(A) may be made at any time on or after such date of enactment and before the expiration of the 3-year period of limitation prescribed in section 6511(a) with respect to such taxable year; and
 
@@ -498,7 +504,7 @@ Pub. L. 107–210, div. A, title II, §203(f), Aug. 6, 2002, 116 Stat. 972, prov
 
 #### Agency Outreach
 
-Pub. L. 114–27, title IV, §407(g), June 29, 2015, 129 Stat. 383, provided that: "As soon as possible after the dateof the enactment of this Act \[June 29, 2015\], the Secretaries of the Treasury, Health and Human Services, and Labor (or such Secretaries' delegates) and the Director of the Pension Benefit Guaranty Corporation (or the Director's delegate) shall carry out programs of public outreach, including on the Internet, to inform potential eligible individuals (as defined in section 35(c)(1) of the Internal Revenue Code of 1986) of the extension of the credit under section 35 of the Internal Revenue Code of 1986 and the availability of the election to claim such credit retroactively for coverage months beginning after December 31, 2013."
+Pub. L. 114–27, title IV, §407(g), June 29, 2015, 129 Stat. 383, provided that: "As soon as possible after the date of the enactment of this Act \[June 29, 2015\], the Secretaries of the Treasury, Health and Human Services, and Labor (or such Secretaries' delegates) and the Director of the Pension Benefit Guaranty Corporation (or the Director's delegate) shall carry out programs of public outreach, including on the Internet, to inform potential eligible individuals (as defined in section 35(c)(1) of the Internal Revenue Code of 1986) of the extension of the credit under section 35 of the Internal Revenue Code of 1986 and the availability of the election to claim such credit retroactively for coverage months beginning after December 31, 2013."
 
 #### Survey and Report on Enhanced Health Coverage Tax Credit Program
 

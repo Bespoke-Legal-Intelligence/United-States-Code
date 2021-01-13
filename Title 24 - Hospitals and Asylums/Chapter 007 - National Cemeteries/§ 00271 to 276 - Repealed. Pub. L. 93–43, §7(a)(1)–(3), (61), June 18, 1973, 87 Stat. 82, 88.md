@@ -16,6 +16,8 @@ Section 276, R.S. §4875; act July 30, 1912, ch. 258, 37 Stat. 240, provided for
 
 Subject matter is generally covered by section 2400 et seq. of Title 38, Veterans' Benefits. See sections 2404 and 2406 of Title 38.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
@@ -28,7 +30,7 @@ Pub. L. 97–306, title IV, §405, Oct. 14, 1982, 96 Stat. 1443, provided that: 
 
 Pub. L. 93–43, §7(a), June 18, 1973, 87 Stat. 82, provided in part that sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title are repealed, except with respect to rights and duties that matured, penalties, liabilities, and forfeitures that were incurred, and proceedings that were begun before effective date of such section 7.
 
-Section 7 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe andpublish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
+Section 7 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
 
 #### Functions, Powers, and Duties of Secretaries Unaffected
 

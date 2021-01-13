@@ -34,6 +34,8 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1801, 1814 (related to termi
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "Pennsylvania" for "Delaware".

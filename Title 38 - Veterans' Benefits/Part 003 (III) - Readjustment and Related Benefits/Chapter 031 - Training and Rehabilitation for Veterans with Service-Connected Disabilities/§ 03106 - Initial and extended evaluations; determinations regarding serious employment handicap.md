@@ -14,9 +14,11 @@
 
 (e) The Secretary shall in all cases determine as expeditiously as possible whether the achievement of a vocational goal by a veteran currently is reasonably feasible. In the case of a veteran provided extended evaluation under subsection (c) of this section (including any periods of extensions under section 3105(a) of this title), the Secretary shall make such determination not later than the end of such extended evaluation or period of extension, as the case may be. In determining whether the achievement of a vocational goal currently is reasonably feasible, the Secretary shall resolve any reasonable doubt in favor of determining that such achievement currently is reasonably feasible.
 
-(f) In connection with each period of extended evaluation of a veteran and each rehabilitation program for a veteran who is determined to have a serious employment handicap, the Secretary shall assign a Department of Veterans Affairsemployee to be responsible for the management and followup of the provision of all services (including appropriate coordination of employment assistance under section 3117 of this title) and assistance under this chapter to such veteran.
+(f) In connection with each period of extended evaluation of a veteran and each rehabilitation program for a veteran who is determined to have a serious employment handicap, the Secretary shall assign a Department of Veterans Affairs employee to be responsible for the management and followup of the provision of all services (including appropriate coordination of employment assistance under section 3117 of this title) and assistance under this chapter to such veteran.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1506; amended Pub. L. 99–576, title III, §333(b)(4), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3106 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(9), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(f)(1), Oct. 9, 1996, 110 Stat. 3324.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -49,6 +51,8 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted "3117" for "1517".
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" and "Department of Veterans Affairs" for "Administrator" and "Veterans' Administration", respectively, wherever appearing.
 
 <b>1986</b>—Subsecs. (a)(2)(B), (b) to (d). Pub. L. 99–576 substituted "currently is reasonably feasible" for "is reasonably feasible" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

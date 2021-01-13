@@ -48,7 +48,7 @@ Special rule for regional projects.—A Commission may increase to 60 percent un
 
 &emsp;&emsp;(A) the project or activity involves 3 or more counties or more than one State; and
 
-&emsp;&emsp;(B) the Commission determines in accordance with section 15302(a) that the project or activity will bring significant interstate or multicounty benefits to a region.
+&emsp;&emsp;(B) the Commission determines in accordance with section 15302(a) that the project oractivity will bring significant interstate or multicounty benefits to a region.
 
 (e)
 
@@ -59,6 +59,8 @@ Maintenance of Effort.—Funds may be provided by a Commission for a program or 
 No Relocation Assistance.—Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236; amended Pub. L. 115–334, title VI, §6304(b), Dec. 20, 2018, 132 Stat. 4749.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -72,9 +74,15 @@ Subsec. (b). Pub. L. 115–334, §6304(b)(2), substituted "paragraph (1), (2), (
 
 Subsec. (f). Pub. L. 115–334, §6304(b)(3), substituted ", except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States." for period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
+
+#### Waiver of Requirements Relating to Non-Federal Cost-Share Grants and Cooperative Agreements for the Northern Border Regional Commission
+
+Pub. L. 116–260, div. D, title V, §505(b), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Northern Border Regional Commission under section 15501(d) of title 40, United States Code, are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 
 #### State Capacity Building Grant Program
 
@@ -150,7 +158,7 @@ Annual work plan.—
 
 &emsp;"(A)
 
-In general.—For each fiscal year, before providing a grant under the program, each Commission State shall provide to the Commission an annualwork plan that includes the proposed use of the grant.
+In general.—For each fiscal year, before providing a grant under the program, each Commission State shall provide to the Commission an annual work plan that includes the proposed use of the grant.
 
 &emsp;"(B)
 

@@ -2,7 +2,7 @@
 
 #### (a) Prevention and education program
 
-The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the Secretary of the Department in which the Coast Guard is operating and other appropriate agencies, shall establish an oil spill prevention and education program for small vessels. The program shall provide for assessment, outreach, and training and voluntary compliance activities to prevent and improve the effective response to oil spills from vessels and facilities not required to prepare a vessel response plan under the Federal Water Pollution Control Act\(33 U.S.C. 1251 et seq.), including recreational vessels, commercial fishing vessels, marinas, and aquaculture facilities. The Under Secretary may provide grants to sea grant colleges and institutes designated under section 1126 of this title and to State agencies, tribal governments, and other appropriate entities to carry out—
+The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the Secretary of the Department in which the Coast Guard is operating and other appropriate agencies, shall establish an oil spill prevention and education program for small vessels. The program shall provide for assessment, outreach, and training and voluntary compliance activities to prevent and improve the effective response to oil spills from vessels and facilities not required to prepare a vessel response plan under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), including recreational vessels, commercial fishing vessels, marinas, and aquaculture facilities. The Under Secretary may provide grants to sea grant colleges and institutes designated under section 1126 of this title and to State agencies, tribal governments, and other appropriate entities to carry out—
 
 &emsp;(1) regional assessments to quantify the source, incidence and volume of small oil spills, focusing initially on regions in the country where, in the past 10 years, the incidence of such spills is estimated to be the highest;
 
@@ -17,6 +17,8 @@ The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with 
 There are authorized to be appropriated to the Under Secretary of Commerce for Oceans and Atmosphere to carry out this section, $10,000,000 for each of fiscal years 2010 through 2014.
 
 (Pub. L. 111–281, title VII, §705, Oct. 15, 2010, 124 Stat. 2982.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

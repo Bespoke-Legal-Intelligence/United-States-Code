@@ -16,7 +16,7 @@ The Secretary of Health and Human Services may, in accordance with regulations a
 
 &emsp;(1) the development, construction, operation, provision, or maintenance of adequate health facilities or services including the training of personnel for such work, from funds appropriated to the Indian Health Service for Indian health services or Indian health facilities; or
 
-&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity ofa tribal organization to enter into a contract or contracts pursuant to section 103 of this Act.<sup>2</sup>
+&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 103 of this Act.<sup>2</sup>
 
 #### (c) Use as matching shares for other similar Federal grant programs
 
@@ -42,6 +42,8 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 (Pub. L. 93–638, title I, §103, formerly §104, Jan. 4, 1975, 88 Stat. 2207; renumbered §103 and amended Pub. L. 100–472, title II, §202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, §203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 103 of this Act, referred to in subsec. (b)(2), probably means former section 103 of Pub. L. 93–638, which was classified to former section 450g of this title, prior to repeal in part and transfer in part to former section 450f(d) of this title by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289, and editorial reclassification and renumbering of former section 450f(d) as section 5321(d) of this title. See Prior Provisions note below.
@@ -65,6 +67,8 @@ A prior section 103 of Pub. L. 93–638 was classified to former section 450g of
 Subsec. (b). Pub. L. 100–472, §202(c), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsecs. (d), (e). Pub. L. 100–472, §202(d), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary To Acquire Lands In Trust
 

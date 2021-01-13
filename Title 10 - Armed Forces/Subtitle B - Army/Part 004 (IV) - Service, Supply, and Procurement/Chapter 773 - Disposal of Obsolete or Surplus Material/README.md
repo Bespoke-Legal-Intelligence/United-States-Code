@@ -38,7 +38,7 @@ Pub. L. 115–91, div. A, title III, §348, Dec. 12, 2017, 131 Stat. 1365, as am
 
 "(a)
 
-Required Transfer.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], and subject to subsection (c), the Secretary of the Army shall transfer to a suitable organic facility all excess firearms, related spare parts and components, small arms ammunition, and ammunition components currently stored at Defense Distribution Depot, Anniston, Alabama, that are no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law.
+Required Transfer.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], and subject to subsection (c), the Secretary of theArmy shall transfer to a suitable organic facility all excess firearms, related spare parts and components, small arms ammunition, and ammunition components currently stored at Defense Distribution Depot, Anniston, Alabama, that are no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law.
 
 "(b)
 

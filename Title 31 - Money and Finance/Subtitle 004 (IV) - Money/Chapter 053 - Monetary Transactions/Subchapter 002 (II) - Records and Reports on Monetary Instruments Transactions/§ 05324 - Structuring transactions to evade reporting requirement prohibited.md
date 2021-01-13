@@ -40,9 +40,11 @@ In general.—Whoever violates this section shall be fined in accordance with ti
 
 &emsp;(2)
 
-Enhanced penalty for aggravated cases.—Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United StatesCode, imprisoned for not more than 10 years, or both.
+Enhanced penalty for aggravated cases.—Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United States Code, imprisoned for not more than 10 years, or both.
 
 (Added Pub. L. 99–570, title I, §1354(a), Oct. 27, 1986, 100 Stat. 3207–22; amended Pub. L. 102–550, title XV, §§1517(a), 1525(a), 1535(a)(1), Oct. 28, 1992, 106 Stat. 4059, 4064, 4066; Pub. L. 103–322, title XXXIII, §330017(a)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§411(a), 413(a)(2), Sept. 23, 1994, 108 Stat. 2253, 2254; Pub. L. 107–56, title III, §§353(c), 365(b)(1), (2)(A), Oct. 26, 2001, 115 Stat. 323, 334, 335; Pub. L. 108–458, title VI, §6203(g), Dec. 17, 2004, 118 Stat. 3747.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Subsec. (c). Pub. L. 103–325, §411(a), added subsec. (c).
 <b>1992</b>—Pub. L. 102–550, §1525(a)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 102–550, §§1517(a), 1535(a)(1), inserted the following duplicative provisions "or section 5325 or regulations prescribed under such section 5325" and ", section 5325, or the regulations issued thereunder" after "section 5313(a)" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

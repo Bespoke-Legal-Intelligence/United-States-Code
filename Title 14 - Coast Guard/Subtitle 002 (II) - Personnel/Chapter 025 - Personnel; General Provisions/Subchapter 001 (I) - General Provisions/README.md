@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §114(c)(1), Dec. 4, 2018, 132 Stat. 4224, inserted subchapter I designation and heading.
@@ -22,3 +24,4 @@
 - [&sect; 02511 - Investigations of flag officers and Senior Executive Service employees](%C2%A7%2002511%20-%20Investigations%20of%20flag%20officers%20and%20Senior%20Executive%20Service%20employees.md)
 - [&sect; 02512 - Leave policies for the Coast Guard](%C2%A7%2002512%20-%20Leave%20policies%20for%20the%20Coast%20Guard.md)
 - [&sect; 02513 - Computation of length of service](%C2%A7%2002513%20-%20Computation%20of%20length%20of%20service.md)
+- [&sect; 02514 - Career flexibility to enhance retention of members](%C2%A7%2002514%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md)

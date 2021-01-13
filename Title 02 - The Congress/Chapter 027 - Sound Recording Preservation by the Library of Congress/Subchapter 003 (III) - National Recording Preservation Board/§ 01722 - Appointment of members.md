@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Librarian shall request each organization described in paragraph (2) to submit a list of three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetings which the individual appointed to the Board cannot attend.
+&emsp;The Librarian shall request each organization described in paragraph (2) to submit a list of three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetingswhich the individual appointed to the Board cannot attend.
 
 #### (2) Organizations described
 
@@ -67,6 +67,8 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 &emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member's predecessor.
 
 (Pub. L. 106–474, title I, §122, Nov. 9, 2000, 114 Stat. 2088; Pub. L. 110–336, §2(a)(2), Oct. 2, 2008, 122 Stat. 3726.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

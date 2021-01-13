@@ -80,7 +80,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 #### (3) United Nations reform
 
-&emsp;(A)(i) A description of the status of efforts to establish and implement an independent office of the Inspector General at the United Nations.
+&emsp;(A)(i) A description of the status of efforts to establish and implement an independent officeof the Inspector General at the United Nations.
 
 &emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
@@ -112,7 +112,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 #### (2) Information to be provided
 
-&emsp;In connection with such consultations, the following information shall be provided eachmonth to the designated congressional committees:
+&emsp;In connection with such consultations, the following information shall be provided each month to the designated congressional committees:
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
@@ -192,6 +192,8 @@ Nothing in this section is intended to alter or supersede any notification requi
 
 (Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108 Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(1), (2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390; Pub. L. 114–323, title III, §306(a), Dec. 16, 2016, 130 Stat. 1920.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -224,6 +226,8 @@ Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (
 
 <b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -232,17 +236,13 @@ Committee on International Relations of House of Representatives changed to Comm
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to reporting to Congress not less than once each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 39 of House Document No. 103–7.
 
-#### Delegation of Functions
-
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
-
 #### Public Availability of Information
 
 Pub. L. 114–323, title III, §306(b), Dec. 16, 2016, 130 Stat. 1921, provided that: "Not later than 14 days after submitting each report under section 4(c) of the United Nations Participation Act of 1945 (22 U.S.C. 287b(c)), the Director of the Office of Management and Budget shall post a text-based, searchable version of any unclassified information described in paragraph (1)(D) of such section (as amended by subsection (a) of this section) on a publicly available website."
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 
-Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, andto submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
+Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
 
 #### Designated Congressional Committees
 
@@ -251,4 +251,10 @@ Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that:
 #### Report on Policies Pursued by Other Countries in International Organizations
 
 Pub. L. 98–164, title I, §117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, §707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by Pub. L. 103–236, title I, §139(27), Apr. 30, 1994, 108 Stat. 399.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 

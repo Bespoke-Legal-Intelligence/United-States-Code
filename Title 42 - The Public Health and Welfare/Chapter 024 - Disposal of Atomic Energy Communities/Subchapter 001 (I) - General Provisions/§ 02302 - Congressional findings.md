@@ -4,7 +4,7 @@ The Congress of the United States makes the following findings concerning the co
 
 &emsp;(a) The continued morale of project-connected persons is essential to the common defense and security of the United States.
 
-&emsp;(b) In issuing rules and regulations required or permitted under this chapter for the disposal of the communities and in disposing of the communities in accordance with the provisions of this chapter and in accordance with the rules and regulations required or permitted by this chapter, the Commission is acting under authority delegated to it by the Congress.
+&emsp;(b) In issuing rules and regulations required or permitted under this chapter for the disposal of the communities and in disposing ofthe communities in accordance with the provisions of this chapter and in accordance with the rules and regulations required or permitted by this chapter, the Commission is acting under authority delegated to it by the Congress.
 
 &emsp;(c) Funds of the United States may be provided for the disposal of the communities and for assistance in the operation of the communities thereafter under conditions which will provide for the common defense and promote the general welfare.
 

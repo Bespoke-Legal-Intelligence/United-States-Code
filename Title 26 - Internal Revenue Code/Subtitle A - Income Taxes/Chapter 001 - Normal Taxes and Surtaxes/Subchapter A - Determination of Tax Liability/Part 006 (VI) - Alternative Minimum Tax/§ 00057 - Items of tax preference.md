@@ -12,7 +12,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (A) In general
 
-&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in thetaxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
+&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
 
 #### (B) Excess intangible drilling costs
 
@@ -72,7 +72,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (ii) Exception for qualified 501(c)(3) bonds
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include any qualified 501(c)(3) bond (as defined in section 145).
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include anyqualified 501(c)(3) bond (as defined in section 145).
 
 #### (iii) Exception for certain housing bonds
 
@@ -92,7 +92,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (v) Certain bonds issued before September 1, 1986
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shallbe treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraphs (1) and (2) of section 141(b) were applied by substituting "25 percent" for "10 percent" each place it appears,
 
@@ -144,7 +144,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L. 92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92 Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L.92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92 Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
 

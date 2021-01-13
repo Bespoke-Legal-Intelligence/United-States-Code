@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
+The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certainprojects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
 
 #### (b) Availability of financial assistance
 
@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to in this 
 
 A rental or cooperative housing project is eligible for assistance under this section only if such project—
 
-&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715l(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C.1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
+&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715l(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
 
 &emsp;(B) is assisted under section 23 of the United States Housing Act of 1937 \[42 U.S.C. 1421b\], as in effect immediately before January 1, 1975, section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] following conversion to such assistance from assistance under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\]; or
 
@@ -46,7 +46,7 @@ No assistance may be made available under this section unless the Secretary has 
 
 #### (e) Consultation with local officials
 
-Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local government in which such project is located and seek assurances that—
+Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local governmentin which such project is located and seek assurances that—
 
 &emsp;(1) the community in which the project is located is or will provide essential services to the project in keeping with the community's general level of such services;
 
@@ -58,7 +58,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 (1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) and which does not exceed the sum of—
 
-&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs orthe failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
+&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
 
 &emsp;(B) an amount determined by the Secretary to be necessary to maintain the low- and moderate-income character of the project by reducing deficiencies, which exist at the beginning of the first year with respect to which assistance is made available for the project under this section and for which payment has not previously been made, in the reserve funds established by the project owner for the purpose of replacing capital items;
 
@@ -136,7 +136,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(ii) such interest rate plus such allowance shall not exceed 6 percent per annum nor be less than 3 percent per annum.
 
-(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shallnot be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
+(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
 (D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term "remaining useful life" means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
@@ -196,13 +196,15 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (o) Coordination of assistance
 
-The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance thecost effectiveness of the Federal response to troubled multifamily housing.
+The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 
 #### (p) Enhanced voucher eligibility
 
 Notwithstanding any other provision of law, any project that receives or has received assistance under this section and which is the subject of a transaction under which the project is preserved as affordable housing, as determined by the Secretary, shall be considered eligible low-income housing under section 229 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4119) for purposes of eligibility of residents of such project for enhanced voucher assistance provided under section 8(t) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)) (pursuant to section 223(f) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4113(f))).
 
 (Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title I \[title II, §217(a), (b)\], Nov. 30, 1983, 97 Stat. 1186; Pub. L. 98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359; Pub. L. 105–276, title V, §550(g), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 106–74, title V, §536, Oct. 20, 1999, 113 Stat. 1121.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -368,6 +370,8 @@ Subsec. (j). Pub. L. 97–35, §321(f)(1), (2)(A), redesignated former subsec. (
 
 Subsec. (h). Pub. L. 96–153, §205(a), authorized appropriations for fiscal year 1980.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
@@ -510,7 +514,7 @@ Resident Review.—The Secretary shall require each owner of a covered multifami
 
 "(c)
 
-State Housing Finance Agency Review.—To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[42 U.S.C. 1440\]), the Secretary shall require the owner of the property to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
+State Housing Finance Agency Review.—To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[42 U.S.C. 1440\]), the Secretary shall require the owner of theproperty to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
 
 "(d)
 
@@ -582,7 +586,7 @@ Pub. L. 101–235, title II, §204(c), Dec. 15, 1989, 103 Stat. 2040, as amended
 
 #### National Commission on Severely Distressed Public Housing
 
-Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
+Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to bemost severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
 
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 

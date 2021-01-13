@@ -1,8 +1,12 @@
 ### §463. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 463 was editorially reclassified as section 5103 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Restoration of Vacant and Undisposed-of Ceded Lands in Certain Indian Reservations
 

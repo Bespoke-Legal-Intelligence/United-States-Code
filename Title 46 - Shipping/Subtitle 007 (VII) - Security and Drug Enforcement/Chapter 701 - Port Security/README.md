@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [70101\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070101%20-%20Definitions.md) | Definitions. |
 | [70102\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070102%20-%20United%20States%20facility%20and%20vessel%20vulnerability%20assessments.md) | United States facility and vessel vulnerability assessments. |
-| [70102a.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070102a%20-%20Port%2C%20harbor%2C%20and%20coastal%20facility%20security.md) | Port, harbor, and coastal facility security. |
+| \[70102a. | Repealed.\] |
 | [70103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070103%20-%20Maritime%20transportation%20security%20plans.md) | Maritime transportation security plans. |
 | [70104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070104%20-%20Transportation%20security%20incident%20response.md) | Transportation security incident response. |
 | [70105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070105%20-%20Transportation%20security%20cards.md) | Transportation security cards. |
@@ -43,11 +43,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items 70102a and 70116.
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4754, repealed amendment by Pub. L. 115–282, §408(c), and further provided that the provisions of law amended by section 408 of Pub. L. 115–282 are amended to read as if such section were not enacted. See 2018 Amendment note below.
 
-Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
+<b>2018</b>—Pub. L. 115–282, title IV, §408(c), Dec. 4, 2018, 132 Stat. 4268, which added item 70102a "Port, harbor, and coastal facility security", was repealed by Pub. L. 116–283, §8507(d)(1).
+
+Pub. L. 115–282, title IV, §402(b)(3), Dec. 4, 2018, 132 Stat. 4264, added item 70116.
 
 <b>2016</b>—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
 

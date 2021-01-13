@@ -10,13 +10,13 @@
 
 #### (B) Request requirements
 
-&emsp;&emsp;A request for a framework for review of an application made under subparagraph (A) shall be made within 180 calendar days of November 26, 2014, and shall include the preference of such sponsor as to whether such application is reviewed by the Secretary in accordance with—
+&emsp;&emsp;A request for a framework for review of an application made under subparagraph (A)shall be made within 180 calendar days of November 26, 2014, and shall include the preference of such sponsor as to whether such application is reviewed by the Secretary in accordance with—
 
 &emsp;&emsp;&emsp;(i) the processes and procedures set forth for pending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section;
 
 &emsp;&emsp;&emsp;(ii) the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations);
 
-&emsp;&emsp;&emsp;(iii) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth forpending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section; or
+&emsp;&emsp;&emsp;(iii) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth for pending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section; or
 
 &emsp;&emsp;&emsp;(iv) an initial filing determination under the processes and procedures described in section 360fff–2(b) of this title and the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations).
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 18 months after November 26, 2014, the Secretary shall issue proposed regulations establishing timelines for the review of applications for GRASE determinations for drugs other than nonprescription sunscreen active ingredients or combinations of nonprescription sunscreen active ingredients that are submitted to the Secretary after November 26, 2014, under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), and that are found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), or that are subject to this subsection pursuant toparagraph (1) or (3) of subsection (a), as applicable, providing—
+&emsp;Not later than 18 months after November 26, 2014, the Secretary shall issue proposed regulations establishing timelines for the review of applications for GRASE determinations for drugs other than nonprescription sunscreen active ingredients or combinations of nonprescription sunscreen active ingredients that are submitted to the Secretary after November 26, 2014, under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), and that are found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), or that are subject to this subsection pursuant to paragraph (1) or (3) of subsection (a), as applicable, providing—
 
 &emsp;&emsp;(A) timely and efficient completion of evaluations of applications under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations) for drugs other than sunscreens; and
 
@@ -105,4 +105,18 @@
 &emsp;The Secretary shall finalize the regulations under this section not later than 27 months after November 26, 2014.
 
 (June 25, 1938, ch. 675, §586F, as added Pub. L. 113–195, §3, Nov. 26, 2014, 128 Stat. 2046.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Treatment of Non-Sunscreen Time and Extent Applications
+
+Pub. L. 116–136, div. A, title III, §3854(d), Mar. 27, 2020, 134 Stat. 457, provided that:
+
+"(1)
+
+In general.—Any application described in section 586F of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360fff–6) that was submitted to the Secretary pursuant to section 330.14 of title 21, Code of Federal Regulations, as such provisions were in effect immediately prior to the date of enactment date of this Act \[Mar. 27, 2020\], shall be extinguished as of such date of enactment, subject to paragraph (2).
+
+"(2)
+
+Order request.—Nothing in paragraph (1) precludes the submission of an order request under section 505G(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355h(b)\], as added by section 3851 of this subtitle, with respect to a drug that was the subject of an application extinguished under paragraph (1)."
 

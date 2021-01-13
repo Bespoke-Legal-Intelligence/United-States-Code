@@ -46,7 +46,7 @@ Select agents.—Whoever knowingly possesses a biological agent or toxin where s
 
 &emsp;(2)
 
-Certain other biological agents and toxins.—Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 for whichsuch person has not obtained a registration required by regulations under section 212(c) of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+Certain other biological agents and toxins.—Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 for which such person has not obtained a registration required by regulations under section 212(c) of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
 (d)
 
@@ -79,6 +79,8 @@ Definitions.—In this section:
 &emsp;(4) The term "lawfully admitted for permanent residence" has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
 (Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 116–31, §2, July 25, 2019, 133 Stat. 1034.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -119,6 +121,8 @@ Subsec. (d). Pub. L. 107–188, §231(a)(4), redesignated subsec. (b) as (d).
 Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted "The term 'select agent' means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include" for "The term 'select agent' does not include".
 
 Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted "section 101(a)(3)" for "section 1010(a)(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

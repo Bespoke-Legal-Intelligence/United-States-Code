@@ -16,7 +16,7 @@ Educational Assistance.—An individual may elect to receive educational assista
 
 &emsp;&emsp;(D) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10 but has not used any entitlement under such chapter;
 
-&emsp;&emsp;(E) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of this title and is making contributions toward such assistance under section 3011(b) or 3012(c) of this title; or
+&emsp;&emsp;(E) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of this title and ismaking contributions toward such assistance under section 3011(b) or 3012(c) of this title; or
 
 &emsp;&emsp;(F) is a member of the Armed Forces who is not entitled to basic educational assistance under chapter 30 of this title by reason of an election under section 3011(c)(1) or 3012(d)(1) of this title; and
 
@@ -82,7 +82,7 @@ Assistance for Members Having Made Contributions Toward GI Bill.—
 
 &emsp;(1)
 
-Additional assistance.—In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
+Additional assistance.—In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) <sup>1</sup> of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
 
 &emsp;&emsp;(A) the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of this title, as of the date of the election, multiplied by
 
@@ -102,7 +102,7 @@ Months of remaining entitlement for certain individuals.—In the case of an ind
 
 &emsp;(3)
 
-Timing of payment.—The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual's entitlement to educational assistance under this chapter.
+Timing of payment.—The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) <sup>1</sup> of that section (as applicable), before the exhaustion of the individual's entitlement to educational assistance under this chapter.
 
 (g)
 
@@ -126,7 +126,15 @@ Irrevocability of Elections.—An election under subsection (a) or (c)(1) is irr
 
 (Added Pub. L. 114–315, title IV, §405(a), Dec. 16, 2016, 130 Stat. 1555.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Paragraph (7) of section 3313(c) of this title, referred to in subsec. (f)(1), (3), was repealed by Pub. L. 115–48, title I, §105(b), Aug. 16, 2017, 131 Stat. 975.
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in Pub. L. 110–252, title V, §5003(c), June 30, 2008, 122 Stat. 2375, which was formerly set out as a note under section 3301 of this title prior to repeal by Pub. L. 114–315, title IV, §405(c), Dec. 16, 2016, 130 Stat. 1558.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

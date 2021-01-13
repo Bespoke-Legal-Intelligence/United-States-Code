@@ -12,7 +12,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (1) Program of temporary assistance for needy families
 
-&emsp;The amount of assistance otherwise required to be provided under a State program fundedunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
+&emsp;The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
 #### (2) Benefits under the Food and Nutrition Act of 2008
 
@@ -66,6 +66,8 @@ Nothing in this section shall be construed to deny the following Federal benefit
 
 (Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 113–79, title IV, §4030(n), Feb. 7, 2014, 128 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -76,7 +78,7 @@ The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and 
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
 
@@ -91,6 +93,8 @@ Subsec. (e)(2). Pub. L. 113–79, §4030(n)(3), substituted "section 3 of the Fo
 Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted "section 3(s)" for "section 3(m)" and "section 3(l)" for "section 3(h)".
 
 <b>1997</b>—Subsec. (d)(2). Pub. L. 105–33 substituted "a conviction if the conviction is for conduct" for "convictions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

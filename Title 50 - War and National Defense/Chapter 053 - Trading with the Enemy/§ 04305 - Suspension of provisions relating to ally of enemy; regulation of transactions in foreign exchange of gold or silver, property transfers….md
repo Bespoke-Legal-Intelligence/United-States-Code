@@ -6,11 +6,11 @@ If the President shall have reasonable cause to believe that any act is about to
 
 (b)(1) During the time of war, the President may, through any agency that he may designate, and under such rules and regulations as he may prescribe, by means of instructions, licenses, or otherwise—
 
-&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or toany banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
+&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or to any banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
 
 &emsp;(B) investigate, regulate, direct and compel, nullify, void, prevent or prohibit, any acquisition holding, withholding, use, transfer, withdrawal, transportation, importation or exportation of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
 
-> by any person, or with respect to any property, subject to the jurisdiction of the United States; and any property or interest of any foreign country or national thereof shall vest, when, as, and upon the terms, directed by the President, in such agency or person as may be designated from time to time by the President, and upon such terms and conditions as the President may prescribe such interest or property shall be held, used, administered, liquidated, sold, or otherwise dealt with in the interest of and for the benefit of the United States, and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes; and the President shall, in the manner hereinabove provided, require any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to any act or transaction referred to in this subdivision either before, during, or after the completion thereof, or relative to any interest in foreign property, or relative to any property in which any foreign country or any national thereof has or has had any interest, or as may be otherwise necessary to enforce the provisions of this subdivision, and in any case in which a report could be required, the President may, in the manner hereinabove provided, require the production, or if necessary to the national security or defense, the seizure, of any books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
+> by any person, or with respect to any property, subject to the jurisdiction of the United States; and any property or interest of any foreign country or national thereof shall vest, when, as, and upon the terms, directed by the President, in such agency or person as may be designated from time to time by the President, and upon such terms and conditions as the President may prescribe such interest or property shall be held, used, administered, liquidated, sold, or otherwise dealt with in the interest of and for the benefit of the United States, and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes; and the President shall, in the manner hereinabove provided, require any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to any act or transaction referred to in this subdivision either before, during, or after the completion thereof, or relative to any interest in foreign property, or relative to any property in which any foreign country or any national thereof has or has had any interest, or as may be otherwise necessary to enforce the provisions of this subdivision, and in any case in which a report could be required, the President may, in the manner hereinabove provided, require the production, orif necessary to the national security or defense, the seizure, of any books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
 
 (2) Any payment, conveyance, transfer, assignment, or delivery of property or interest therein, made to or for the account of the United States, or as otherwise directed, pursuant to this subdivision or any rule, regulation, instruction, or direction issued hereunder shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same; and no person shall be held liable in any court for or in respect to anything done or omitted in good faith in connection with the administration of, or in pursuance of and in reliance on, this subdivision, or any rule, regulation, instruction, or direction issued hereunder.
 
@@ -36,7 +36,7 @@ Subsec. (b) was also formerly classified to section 95a of Title 12, Banks and B
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The authority granted to the President in this subsection does not include the authority to regulate or prohibit, directly or indirectly, the importation fromany country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 4604 of this title or with respect to which no acts are prohibited by chapter 37 of title 18."
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The authority granted to the President in this subsection does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 4604 of this title or with respect to which no acts are prohibited by chapter 37 of title 18."
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–418 added par. (4).
 
@@ -56,12 +56,6 @@ Subsec. (b)(3). Pub. L. 95–223, §103(b), struck out provisions that whoever w
 
 Act Mar. 9, 1933, ch. 1, title I, §1, 48 Stat. 1, provided that: "The actions, regulations, rules, licenses, orders and proclamations heretofore or hereafter taken, promulgated, made, or issued by the President of the United States or the Secretary of the Treasury since March 4, 1933, pursuant to the authority conferred by subdivision (b) of section 5 of the act of October 6, 1917, as amended \[50 U.S.C. 4305(b)\], are hereby approved and confirmed."
 
-#### Delegation of Functions
-
-President's powers under subsec. (b) of this section delegated during World War II to Secretary of the Treasury by Memorandum of the President dated Feb. 12, 1942, 7 F.R. 1409, and to Alien Property Custodian by Ex. Ord. No. 9095, Mar. 11, 1942, 7 F.R. 1971.
-
-Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in or transferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under section 4306 of this title.
-
 #### Limitation on Exercise of Emergency Authorities
 
 Pub. L. 103–236, title V, §525(b)(2), Apr. 30, 1994, 108 Stat. 474, provided that: "The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Apr. 30, 1994\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as amended by paragraph (1) of this subsection, may not be regulated or prohibited."
@@ -76,13 +70,19 @@ Pub. L. 95–223, title I, §101(b), (c), Dec. 28, 1977, 91 Stat. 1625, provided
 
 "(c) The termination and extension provisions of subsection (b) of this section supersede the provisions of section 101(a) \[50 U.S.C. 1601(a)\] and of title II \[50 U.S.C. 1621 et seq.\] of the National Emergencies Act to the extent that the provisions of subsection (b) of this section are inconsistent with those provisions."
 
+#### Delegation of Functions
+
+President's powers under subsec. (b) of this section delegated during World War II to Secretary of the Treasury by Memorandum of the President dated Feb. 12, 1942, 7 F.R. 1409, and to Alien Property Custodian by Ex. Ord. No. 9095, Mar. 11, 1942, 7 F.R. 1971.
+
+Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in or transferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under section 4306 of this title.
+
 #### Proc. No. 8271. Termination of the Exercise of Authorities Under the Trading With the Enemy Act With Respect to North Korea
 
 Proc. No. 8271, June 26, 2008, 73 F.R. 36785, provided:
 
 I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) \[now 50 U.S.C. 4305 note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 <i>et seq</i>.) \[now 50 U.S.C. 4301 et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September 13, 2007 (72 <i>FR</i> 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
 
-Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500,and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
+Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500, and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
 
 Sec. 2. The Secretary of the Treasury is authorized and directed to take all appropriate measures within the Secretary's authority to give effect to this proclamation.
 
@@ -100,7 +100,7 @@ Ex. Ord. No. 8389, Apr. 10, 1940, 5 F.R. 1400, as amended by Ex. Ord. No. 8405, 
 
 #### section 1. certain foreign banking transactions prohibited
 
-All of the following transactions are prohibited, except as specifically authorized by the Secretary of the Treasury by means of regulations, rulings, instructions, licenses, or otherwise, if (i) such transactions are by, or on behalf of, or pursuant to the direction of any foreign country designated in this Order, or any national thereof, or (ii) such transactions involve property in which any foreign country designated in this Order, or any national thereof, has at any time on or since the effective date of this Order had any interest of any nature whatsoever, direct or indirect:
+All of the following transactions are prohibited, except as specifically authorized by the Secretary of the Treasury by means of regulations, rulings, instructions, licenses, or otherwise, if (i) such transactions are by, or on behalf of, or pursuant to the direction of anyforeign country designated in this Order, or any national thereof, or (ii) such transactions involve property in which any foreign country designated in this Order, or any national thereof, has at any time on or since the effective date of this Order had any interest of any nature whatsoever, direct or indirect:
 
 A. All transfers of credit between any banking institutions within the United States; and all transfers of credit between any banking institution within the United States and any banking institution outside the United States (including any principal, agent, home office, branch, or correspondent outside the United States, of a banking institution within the United States);
 
@@ -296,21 +296,23 @@ The terms and provisions of Executive Order 9095 of March 11, 1942, as amended \
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
 
-Determination of President of the United States, No. 2019–23, Sept. 13, 2019, 84 F.R. 49189, provided:
+Determination of President of the United States, No. 2020–10, Sept. 9, 2020, 85 F.R. 57075, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 10, 2018 (83 <i>FR</i> 46347, September 12, 2018), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2019.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 13, 2019 (84 <i>FR</i> 49189, September 18, 2019), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2020.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2020, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2021, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2019–23, Sept. 13, 2019, 84 F.R. 49189.
 
 Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347.
 

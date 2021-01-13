@@ -8,7 +8,7 @@
 
 &emsp;(B) the member shall not pay a security deposit;
 
-&emsp;(C) the Secretary (except as provided in subparagraphs (D) and (E)) shall compensate the landlord for breach of the lease by the member and for damage to the rental unit caused by the member or by a guest or dependent of the member;
+&emsp;(C) the Secretary (except as provided in subparagraphs (D) and (E)) shall compensate the landlord for breach of the lease by the member and for damage to the rental unit caused bythe member or by a guest or dependent of the member;
 
 &emsp;(D) the total liability of the Secretary for a breach of the lease or for damage described in subparagraph (C) may not exceed an amount equal to the amount that the Secretary determines would have been required by the landlord as a security deposit in the absence of an agreement authorized in this paragraph;
 

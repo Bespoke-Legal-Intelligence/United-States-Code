@@ -42,7 +42,7 @@ The Secretary, in formulating regulations for making grants to the States to acq
 
 #### (g) Public sale; notice and hearing
 
-(1) Where land acquired pursuant to this section is deemed to be suitable for industrial, commercial, residential, or recreational development, the Secretary may sell or authorize the States to sell such land by public sale under a system of competitive bidding, at not less than fair market value and under such other regulations promulgated to insure that such lands are put to proper use consistent with local andState land use plans, if any, as determined by the Secretary.
+(1) Where land acquired pursuant to this section is deemed to be suitable for industrial, commercial, residential, or recreational development, the Secretary may sell or authorize the States to sell such land by public sale under a system of competitive bidding, at not less than fair market value and under such other regulations promulgated to insure that such lands are put to proper use consistent with local and State land use plans, if any, as determined by the Secretary.
 
 (2) The Secretary or the State pursuant to an approved State program, when requested after appropriate public notice shall hold a public hearing, with the appropriate notice, in the county or counties or the appropriate subdivisions of the State in which lands acquired pursuant to this section are located. The hearings shall be held at a time which shall afford local citizens and governments the maximum opportunity to participate in the decision concerning the use or disposition of the lands after restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices.
 
@@ -52,6 +52,8 @@ In addition to the authority to acquire land under subsection (d) of this sectio
 
 (Pub. L. 95–87, title IV, §407, Aug. 3, 1977, 91 Stat. 462; Pub. L. 101–508, title VI, §6012(d)(4)–(7), Nov. 5, 1990, 104 Stat. 1388–298.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §6012(d)(4), (5), substituted a semicolon for the period at end of par. (4) and "then, upon giving notice" for "Then, upon giving notice" in concluding provisions.
@@ -59,6 +61,8 @@ In addition to the authority to acquire land under subsection (d) of this sectio
 Subsec. (e). Pub. L. 101–508, §6012(d)(6), substituted "paragraph (1) of subsection (c)" for "paragraph (1), of this subsection".
 
 Subsec. (g)(2). Pub. L. 101–508, §6012(d)(7), substituted "use or" for "use of" before "disposition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

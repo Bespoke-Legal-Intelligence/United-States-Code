@@ -56,7 +56,7 @@ For the purpose of this section, an error consists of—
 
 #### References in Text
 
-Section 1693m of this title, referred to in subsec. (e), was in the original a reference to section 915 of Pub. L. 90–321, and was translated as meaning section 916 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 915 of Pub. L. 90–321 as section 916 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.
+Section 1693m of this title, referred to in subsec. (e), was in the original a reference to section 915 of Pub. L.90–321, and was translated as meaning section 916 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 915 of Pub. L. 90–321 as section 916 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.
 
 #### Amendments
 

@@ -4,6 +4,8 @@ The death and disability benefits of this chapter shall, notwithstanding the ser
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §352; renumbered §1152, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 352 of this title as this section.

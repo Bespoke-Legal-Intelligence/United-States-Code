@@ -8,15 +8,19 @@ For the purposes of this chapter, examiners appointed by the a <sup>1</sup> Fed
 
 (June 13, 1933, ch. 64, §13, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 343; amended Pub. L. 111–203, title III, §369(11), July 21, 2010, 124 Stat. 1565.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Reserve Act, referred to in par. (1), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-Title LXII of the Revised Statutes, referred to in par. (1), consists of R.S. §§5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title.See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title LXII of the Revised Statutes, referred to in par. (1), consists of R.S. §§5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "a Federal banking agency" for "Director" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

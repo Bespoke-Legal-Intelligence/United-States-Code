@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) "wire communication" means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or other like connection between the point of origin and the point of reception (including the use of such connection in a switching station) furnished or operated by any person engaged in providing or operating such facilities for the transmission of interstate or foreign communications or communications affecting interstate or foreign commerce;
+&emsp;(1) "wire communication" means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or otherlike connection between the point of origin and the point of reception (including the use of such connection in a switching station) furnished or operated by any person engaged in providing or operating such facilities for the transmission of interstate or foreign communications or communications affecting interstate or foreign commerce;
 
 &emsp;(2) "oral communication" means any oral communication uttered by a person exhibiting an expectation that such communication is not subject to interception under circumstances justifying such expectation, but such term does not include any electronic communication;
 
@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(11) "aggrieved person" means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
-&emsp;(12) "electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire,radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
+&emsp;(12) "electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
 
 &emsp;&emsp;(A) any wire or oral communication;
 
@@ -98,6 +98,8 @@ As used in this chapter—
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Communications Act of 1934, referred to in par. (10), is classified to section 153 of Title 47, Telecommunications.
@@ -139,6 +141,8 @@ Par. (8). Pub. L. 99–508, §101(a)(5), (c)(1)(A), substituted "wire, oral, or 
 Pars. (9)(b), (11). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral".
 
 Pars. (12) to (18). Pub. L. 99–508, §101(a)(6), added pars. (12) to (18).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2001 Amendment
 
@@ -196,7 +200,7 @@ Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: 
 
 "(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
-"(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity ofcourt and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
+"(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
 "(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 

@@ -124,6 +124,8 @@ In carrying out subsection (a), the Director may not prescribe or set a specific
 
 (Pub. L. 102–550, title XIII, §1318, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1113(a), 1114, July 30, 2008, 122 Stat. 2678, 2679.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–289, §1113(a)(1), substituted "and withholding of executive" for "of excessive" in section catchline.
@@ -133,6 +135,8 @@ Subsec. (a). Pub. L. 110–289, §1113(a)(2), substituted "regulated entity" for
 Subsecs. (b) to (d). Pub. L. 110–289, §1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 Subsec. (e). Pub. L. 110–289, §1114, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Equity in Government Compensation
 

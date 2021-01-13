@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 May 28, 1936, ch. 471, §3, 49 Stat. 1391.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Par. (3). Pub. L. 113–199 substituted "surviving spouses" for "widows".

@@ -36,6 +36,8 @@
 
 (Pub. L. 100–242, title II, §215, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4252; amended Pub. L. 102–550, title III, §317(a)(1), Oct. 28, 1992, 106 Stat. 3772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–550 made technical amendment to reference to section 1437f(c)(1) of title 42 to reflect correction of corresponding provision of original act.

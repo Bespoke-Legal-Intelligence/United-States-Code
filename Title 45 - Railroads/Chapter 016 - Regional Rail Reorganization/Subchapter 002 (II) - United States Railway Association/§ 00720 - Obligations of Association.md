@@ -30,9 +30,11 @@ There are hereby authorized to be appropriated to the Secretary such amounts as 
 
 #### (g) Lawful investments
 
-All obligations issued by the Association shall be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shallbe under the authority and control of the United States or any officer or officers thereof. All such obligations issued pursuant to this section shall be exempt securities within the meaning of laws administered by the Securities and Exchange Commission.
+All obligations issued by the Association shall be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority and control of the United States or any officer or officers thereof. All such obligations issued pursuant to this section shall be exempt securities within the meaning of laws administered by the Securities and Exchange Commission.
 
 (Pub. L. 93–236, title II, §210, Jan. 2, 1974, 87 Stat. 1000; Pub. L. 94–210, title VI, §§604, 607(k), Feb. 5, 1976, 90 Stat. 88, 97; Pub. L. 94–555, title II, §203(e), Oct. 19, 1976, 90 Stat. 2620; Pub. L. 96–448, title VII, §703(f)(3), Oct. 14, 1980, 94 Stat. 1965.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -47,6 +49,8 @@ In subsec. (e), "chapter 31 of title 31" and "such chapter" substituted for "the
 Pub. L. 94–210, §604, substituted provisions authorizing $275,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to availability or issuance after Feb. 5, 1976, for provisions authorizing $1,500,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to limitations on amounts issued to Corporation and available for rehabilitation and modernization of rail properties.
 
 Subsec. (c). Pub. L. 94–210, §607(k), inserted provisions relating to guarantees as general obligations of the United States and pledge of full faith and credit for payment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

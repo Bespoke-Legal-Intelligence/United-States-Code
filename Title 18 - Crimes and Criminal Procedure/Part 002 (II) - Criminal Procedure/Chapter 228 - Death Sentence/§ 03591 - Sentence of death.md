@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) intentionally and specifically engaged in an act of violence, knowing that the act created a grave risk of death to a person, other than one of the participants in the offense, such that participation in the act constituted a reckless disregard for human life and the victim died as a direct result of the act,
 
-> shall be sentenced to death if, after consideration of the factors set forth in section 3592 inthe course of a hearing held pursuant to section 3593, it is determined that imposition of a sentence of death is justified, except that no person may be sentenced to death who was less than 18 years of age at the time of the offense.
+> shall be sentenced to death if, after consideration of the factors set forth in section 3592 in the course of a hearing held pursuant to section 3593, it is determined that imposition of a sentence of death is justified, except that no person may be sentenced to death who was less than 18 years of age at the time of the offense.
 
 (b) A defendant who has been found guilty of—
 
@@ -25,6 +25,8 @@
 > shall be sentenced to death if, after consideration of the factors set forth in section 3592 in the course of a hearing held pursuant to section 3593, it is determined that imposition of a sentence of death is justified, except that no person may be sentenced to death who was less than 18 years of age at the time of the offense.
 
 (Added Pub. L. 103–322, title VI, §60002(a), Sept. 13, 1994, 108 Stat. 1959.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

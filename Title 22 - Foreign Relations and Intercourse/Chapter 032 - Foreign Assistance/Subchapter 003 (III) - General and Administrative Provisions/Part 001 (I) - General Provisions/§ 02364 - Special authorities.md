@@ -6,7 +6,7 @@
 
 (2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
-(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairsand the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 (4)(A) The authority of this subsection may not be used in any fiscal year to authorize—
 
@@ -32,15 +32,13 @@ The President is authorized to use amounts not to exceed $50,000,000 of the fund
 
 (Pub. L. 87–195, pt. III, §614, Sept. 4, 1961, 75 Stat. 444; Pub. L. 89–583, pt. III, §301(f), (g), Sept. 19, 1966, 80 Stat. 805; Pub. L. 90–137, pt. III, §301(e), Nov. 14, 1967, 81 Stat. 459; Pub. L. 93–559, §19(b), Dec. 30, 1974, 88 Stat. 1800; Pub. L. 96–533, title I, §117(a), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 99–83, title I, §128, Aug. 8, 1985, 99 Stat. 206; Pub. L. 101–222, §8, Dec. 12, 1989, 103 Stat. 1899; Pub. L. 103–199, title VII, §705(2), Dec. 17, 1993, 107 Stat. 2328.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(1), (2), (4)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
-
-#### References to Part IV of Subchapter I Deemed References to Part IV of Subchapter II
-
-Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. References to part IV of subchapter I, or any sections thereof, are deemed references to part IV of subchapter II (§2346 et seq.) of this chapter, or to appropriate sections thereof. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title.
 
 #### Amendments
 
@@ -60,9 +58,17 @@ Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. Refe
 
 Subsec. (c). Pub. L. 89–583, §301(g), inserted provision for reports to Congress of use of funds under this subsec.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Part IV of Subchapter I Deemed References to Part IV of Subchapter II
+
+Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. References to part IV of subchapter I, or any sections thereof, are deemed references to part IV of subchapter II (§2346 et seq.) of this chapter, or to appropriate sections thereof. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

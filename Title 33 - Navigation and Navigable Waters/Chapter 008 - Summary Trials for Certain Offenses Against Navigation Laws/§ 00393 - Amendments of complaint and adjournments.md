@@ -4,9 +4,13 @@ It shall be lawful for the court to allow the United States attorney to amend hi
 
 (R.S. §4302; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §4302 derived from act June 11, 1864, ch. 121, §6, 13 Stat. 125.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

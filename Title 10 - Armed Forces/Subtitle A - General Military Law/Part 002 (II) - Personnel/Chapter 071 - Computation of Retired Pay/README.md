@@ -32,7 +32,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformedservices retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
+<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformed services retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
 
@@ -42,7 +42,7 @@
 
 <b>1987</b>—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" in item 1403.
 
-<b>1986</b>—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted "of members who first became members before September 8, 1980" in item 1402, substituted "Retired pay base for members who first became members before September 8, 1980: final basic pay" for "Limitations on revocation of retired pay" in item 1406 and "Retired pay base for members who first became members after September 7, 1980: high-36 month average" for "Retired pay base" in item 1407, and added items 1409 to 1412.
+<b>1986</b>—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted "of members who first became members before September 8, 1980" in item 1402, substituted "Retired pay base for members who first became members before September 8, 1980: final basic pay" for "Limitations on revocation of retired pay" in item 1406 and "Retired pay base for members who first became members after September 7, 1980: high-36month average" for "Retired pay base" in item 1407, and added items 1409 to 1412.
 
 <b>1982</b>—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
 

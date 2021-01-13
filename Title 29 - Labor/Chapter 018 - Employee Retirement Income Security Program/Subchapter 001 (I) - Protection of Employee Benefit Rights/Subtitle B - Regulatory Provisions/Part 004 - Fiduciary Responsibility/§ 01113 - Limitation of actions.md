@@ -10,6 +10,8 @@ No action may be commenced under this subchapter with respect to a fiduciary's b
 
 (Pub. L. 93–406, title I, §413, Sept. 2, 1974, 88 Stat. 889; Pub. L. 100–203, title IX, §9342(b), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §§7881(j)(4), 7894(e)(5), Dec. 19, 1989, 103 Stat. 2443, 2450.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–239, §7894(e)(5), struck out "(a)" before "No action".
@@ -18,9 +20,11 @@ Par. (2). Pub. L. 101–239, §7881(j)(4), struck out comma after "violation".
 
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 struck out "(A)" after "date" and struck out "or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(j)(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(j)(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7894(e)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

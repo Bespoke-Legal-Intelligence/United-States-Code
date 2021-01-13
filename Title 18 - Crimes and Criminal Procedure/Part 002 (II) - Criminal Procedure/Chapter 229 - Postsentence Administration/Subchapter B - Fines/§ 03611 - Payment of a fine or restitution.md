@@ -4,6 +4,8 @@ A person who is sentenced to pay a fine, assessment, or restitution, shall pay t
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, §3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For a prior section 3611, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
@@ -15,6 +17,8 @@ For a prior section 3611, applicable to offenses committed prior to Nov. 1, 1987
 <b>1990</b>—Pub. L. 101–647 substituted "604(a)(18)" for "604(a)(17)".
 
 <b>1987</b>—Pub. L. 100–185 amended section generally. Prior to amendment, section read as follows: "A person who has been sentenced to pay a fine pursuant to the provisions of subchapter C of chapter 227 shall pay the fine immediately, or by the time and method specified by the sentencing court, to the clerk of the court. The clerk shall forward the payment to the United States Treasury."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -44,7 +48,7 @@ May 1, 1988,
 
 to October 31, 1988.—(1) Notwithstanding section 3611 of title 18, United States Code, a person who during the period beginning on May 1, 1988, and ending on October 31, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment in accordance with this subsection.
 
-"(2) In a case initiated by citation or violation notice, such person shall pay the fine or assessment (including any interest or penalty), as specified by the Director of the Administrative Office of the United StatesCourts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(17) of title 28, United States Code.
+"(2) In a case initiated by citation or violation notice, such person shall pay the fine or assessment (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(17) of title 28, United States Code.
 
 "(3) In any other case, such person shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984."
 

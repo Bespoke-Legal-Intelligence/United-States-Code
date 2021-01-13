@@ -204,7 +204,7 @@ Subsec. (a)(6)(C)(i). Pub. L. 114–92, §702(b)(1), substituted "Beginning Octo
 
 Subsec. (a)(6)(C)(ii). Pub. L. 114–92, §702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more."
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph\(2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph (2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
 
 Subsec. (a)(6)(A)(i)(I). Pub. L. 113–291, §702(b)(1)(A), substituted "$8" for "$5".
 
@@ -222,7 +222,7 @@ Subsec. (a)(9). Pub. L. 113–291, §702(c)(1), which directed amendment of such
 
 Subsec. (a)(2)(F). Pub. L. 112–239, §702(a)(2), added subpar. (F).
 
-Subsec. (a)(6)(A). Pub. L. 112–239, §712(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title."
+Subsec. (a)(6)(A). Pub. L. 112–239, §712(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformularyagents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title."
 
 Subsec. (a)(6)(C). Pub. L. 112–239, §712(a)(2), added subpar. (C).
 
@@ -290,9 +290,125 @@ Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Pilot Program on Receipt of Non-Generic Prescription Maintenance Medications Under TRICARE Pharmacy Benefits Program
+
+Pub. L. 116–283, div. A, title VII, §706, Jan. 1, 2021, 134 Stat. 3689, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Authority.—Subject to paragraph (2), the Secretary of Defense may carry out a pilot program under which eligible covered beneficiaries may elect to receive non-generic prescription maintenance medications selected by the Secretary under subsection (c) through military medical treatment facility pharmacies, retail pharmacies, or the nationalmail-order pharmacy program, notwithstanding section 1074g(a)(9) of title 10, United States Code.
+
+&emsp;"(2)
+
+Requirement.—The Secretary may carry out the pilot program under paragraph (1) only if the Secretary determines that the total costs to the Department of Defense for eligible covered beneficiaries to receive non-generic prescription maintenance medications under the pilot program will not exceed the total costs to the Department for such beneficiaries to receive such medications under the national mail-order pharmacy program pursuant to section 1074g(a)(9) of title 10, United States Code. In making such determination, the Secretary shall consider all manufacturer discounts, refunds and rebates, pharmacy transaction fees, and all other costs.
+
+"(b)
+
+Duration.—If the Secretary carries out the pilot program under subsection (a)(1), the Secretary shall carry out the pilot program for a three-year period beginning not later than March 1, 2021.
+
+"(c)
+
+Selection of Medication.—If the Secretary carries out the pilot program under subsection (a)(1), the Secretary shall select non-generic prescription maintenance medications described in section 1074g(a)(9)(C)(ii) of title 10, United States Code, to be covered by the pilot program.
+
+"(d)
+
+Notification.—If the Secretary carries out the pilot program under subsection (a)(1), in providing each eligible covered beneficiary with an explanation of benefits, the Secretary shall notify the beneficiary of whether the medication that the beneficiary is prescribed is covered by the pilot program.
+
+"(e)
+
+Briefing and Reports.—
+
+&emsp;"(1)
+
+Briefing.—If the Secretary determines to carry out the pilot program under subsection (a)(1), not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the implementation of the pilot program.
+
+&emsp;"(2)
+
+Interim report.—If the Secretary carries out the pilot program under subsection (a)(1), not later than 18 months after the commencement of the pilot program, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+&emsp;"(3)
+
+Comptroller general report.—
+
+&emsp;&emsp;"(A)
+
+In general.—If the Secretary carries out the pilot program under subsection (a)(1), not later than March 1, 2024, the Comptroller General of the United States shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) The number of eligible covered beneficiaries who participated in the pilot program and an assessment of the satisfaction of such beneficiaries with the pilot program.
+
+&emsp;&emsp;&emsp;"(ii) The rate by which eligible covered beneficiaries elected to receive non-generic prescription maintenance medications at a retail pharmacy pursuant to the pilot program, and how such rate affected military medical treatment facility pharmacies and the national mail-order pharmacy program.
+
+&emsp;&emsp;&emsp;"(iii) The amount of cost savings realized by the pilot program, including with respect to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) dispensing fees incurred at retail pharmacies compared to the national mail-order pharmacy program for brand name prescription drugs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) administrative fees;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) any costs paid by the United States for the drugs in addition to the procurement costs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the use of military medical treatment facilities; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) copayments paid by eligible covered beneficiaries.
+
+&emsp;&emsp;&emsp;"(iv) A comparison of supplemental rebates between retail pharmacies and other points of sale.
+
+"(f)
+
+Rule of Construction.—Nothing in this section may be construed to affect—
+
+&emsp;"(1) the ability of the Secretary to carry out section 1074g(a)(9)(C) of title 10, United States Code, after the date on which the pilot program is completed; or
+
+&emsp;"(2) the prices established for medications under section 8126 of title 38, United States Code.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'eligible covered beneficiary' has the meaning given that term in section 1074g(i) of title 10, United States Code.
+
+&emsp;"(2) The terms 'military medical treatment facility pharmacies', 'retail pharmacies', and 'the national mail-order pharmacy program' mean the methods for receiving prescription drugs as described in clauses (i), (ii), and (iii), respectively, of section 1074g(a)(2)(E) of title 10, United States Code."
+
+#### Policy To Address Prescription Opioid Safety
+
+Pub. L. 116–283, div. A, title VII, §719, Jan. 1, 2021, 134 Stat. 3696, provided that:
+
+"(a)
+
+Requirement.—The Secretary of Defense shall develop a policy and tracking mechanism to monitor and provide oversight of opioid prescribing to ensure that the provider practices of medication-prescribing health professionals across the military health system conform with—
+
+&emsp;"(1) the clinical practice guidelines of the Department of Defense and the Department of Veterans Affairs; and
+
+&emsp;"(2) the prescribing guidelines published by the Centers for Disease Control and Prevention and the Food and Drug Administration.
+
+"(b)
+
+Elements.—The requirements under subsection (a) shall include the following:
+
+&emsp;"(1) Providing oversight and accountability of opioid prescribing practices that are outside of the recommended parameters for dosage, supply, and duration as identified in the guideline published by the Centers for Disease Control and Prevention titled 'CDC Guideline for Prescribing Opioids for Chronic Pain—United States, 2016', or such successor guideline, and the guideline published by the Department of Defense and Department of Veterans Affairs titled 'DoD/VA Management of Opioid Therapy (OT) for Chronic Pain Clinical Practice Guideline, 2017' or such successor guideline.
+
+&emsp;"(2) Implementing oversight and accountability responsibilities for opioid prescribing safety as specified in paragraph (1).
+
+&emsp;"(3) Implementing systems to ensure that the prescriptions in the military health system data repository are appropriately documented and that the processing date and the metric quantity field for opioid prescriptions in liquid form are consistent within the electronic health record system known as 'MHS GENESIS'.
+
+&emsp;"(4) Implementing opioid prescribing controls within the electronic health record system known as 'MHS GENESIS' and document if an overdose reversal drug was co-prescribed.
+
+&emsp;"(5) Developing metrics that can be used by the Defense Health Agency and each military medical treatment facility to actively monitor and limit the overprescribing of opioids and to monitor the co-prescribing of overdose reversal drugs as accessible interventions.
+
+&emsp;"(6) Developing a report that tracks progression toward reduced levels of opioid use and includes an identification of prevention best practices established by the Department.
+
+&emsp;"(7) Developing and implementing a plan to improve communication and value-based initiatives between pharmacists and medication-prescribing health professionals across the military health system."
+
 #### Implementation
 
-Pub. L. 116–92, div. A, title VII, §713(c), Dec. 20, 2019, 133 Stat. 1446, provided that: "Beginning not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall implement subsection (h) of section 1074g of title 10, United States Code, as added by subsection (a)."
+Pub. L. 116–92, div. A, title VII, §713(c), Dec. 20, 2019, 133 Stat. 1446, provided that: "Beginning not later than90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall implement subsection (h) of section 1074g of title 10, United States Code, as added by subsection (a)."
 
 #### Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries
 
@@ -544,7 +660,7 @@ Nonparticipation.—
 
 &emsp;"(1)
 
-Opt out.—The Secretary shall give TRICARE for Life beneficiaries who have been covered by the pilot program under subsection (a) for a period of oneyear an opportunity to opt out of continuing to participate in the program.
+Opt out.—The Secretary shall give TRICARE for Life beneficiaries who have been covered by the pilot program under subsection (a) for a period of one year an opportunity to opt out of continuing to participate in the program.
 
 &emsp;"(2)
 
@@ -564,7 +680,7 @@ Sunset.—The Secretary may not carry out the pilot program under subsection (a)
 
 "(f)
 
-TRICARE for Life Beneficiary Defined.—In this section, the term 'TRICARE for Life beneficiary' means a TRICARE beneficiary enrolled in the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of title 10, United States Code."
+TRICARE for Life Beneficiary Defined.—In this section, the term 'TRICARE for Life beneficiary' means a TRICARE beneficiary enrolled in the Medicare wraparound coverage option of the TRICARE programmade available to the beneficiary by reason of section 1086(d) of title 10, United States Code."
 
 #### Education and Training on Use of Pharmaceuticals in Rehabilitation Programs for Wounded Warriors
 

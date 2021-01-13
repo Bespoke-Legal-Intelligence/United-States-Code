@@ -4,6 +4,8 @@ The Commission shall have responsibility for the supervision and maintenance of 
 
 (Pub. L. 100–696, title IX, §901(a), Nov. 18, 1988, 102 Stat. 4610; Pub. L. 107–68, title I, §108(a), Nov. 12, 2001, 115 Stat. 569.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 188b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -13,6 +15,8 @@ Section is based on section 3 of Senate Resolution No. 382, Ninetieth Congress, 
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–68 substituted "and of the Old Supreme Court Chamber insofar as each" for "insofar as it".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

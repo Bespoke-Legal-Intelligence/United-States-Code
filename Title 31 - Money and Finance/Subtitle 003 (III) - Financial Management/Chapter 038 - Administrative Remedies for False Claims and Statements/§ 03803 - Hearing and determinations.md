@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents,transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 
@@ -176,9 +176,11 @@
 
 (C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
-(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
+(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officerunder subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(o), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, §4030(o), Feb. 7, 2014, 128 Stat. 815.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -194,7 +196,7 @@ Section 336 of the Older Americans Act, referred to in subsec. (c)(2)(C)(xi), pr
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946,ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
@@ -217,6 +219,8 @@ Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted "supplemental nutri
 <b>1996</b>—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;".
 
 <b>1994</b>—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted "special supplemental nutrition program" for "special supplemental food program".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

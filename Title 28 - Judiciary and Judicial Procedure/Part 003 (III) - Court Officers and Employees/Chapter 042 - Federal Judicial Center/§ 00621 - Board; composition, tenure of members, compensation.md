@@ -16,6 +16,8 @@
 
 (Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §§228, 229, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 104–317, title VI, §601(b), Oct. 19, 1996, 110 Stat. 3857.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–317, §601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: <i>Provided, however</i>, That the judges so elected shall not be members of the Judicial Conference of the United States; and".
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 104–317, §601(b)(2), substituted "retirement pursuant to
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–598, §228, inserted reference to one active judge of the bankruptcy courts of the United States.
 
 Subsec. (b). Pub. L. 95–598, §229, struck out provisions requiring that section 629 of this title govern the terms of office of the first members elected to the Board.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -4,6 +4,8 @@ The Foreign Claims Settlement Commission of the United States, established under
 
 (Pub. L. 96–209, title I, §101, Mar. 14, 1980, 94 Stat. 96.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
@@ -12,9 +14,11 @@ Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No.
 
 Section was not enacted as part of the International Claims Settlement Act of 1949 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 96–209, title VI, Mar. 14, 1980, 94 Stat. 99, provided that: "This Act \[enacting sections 1622a to 1622g of this title, amending sections 5316 of Title 5, Government Organization and Employees, and section 4101 of Title 50, War and National Defense, and enacting provisions set out as notes under this section, section 363 of former Title 31, Money and Finance, and section 7546 ofTitle 42, The Public Health and Welfare\] shall take effect on the date of enactment \[Mar. 14, 1980\]."
+Pub. L. 96–209, title VI, Mar. 14, 1980, 94 Stat. 99, provided that: "This Act \[enacting sections 1622a to 1622g of this title, amending sections 5316 of Title 5, Government Organization and Employees, and section 4101 of Title 50, War and National Defense, and enacting provisions set out as notes under this section, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment \[Mar. 14, 1980\]."
 
 #### Authority of Director of Office of Management and Budget Relating to Transfer of Foreign Claims Settlement Commission of the United States and Termination of Affairs of Annual Assay Commission, United States Marine Corps Memorial Commission, and Low-Emission Vehicle Certification Board
 

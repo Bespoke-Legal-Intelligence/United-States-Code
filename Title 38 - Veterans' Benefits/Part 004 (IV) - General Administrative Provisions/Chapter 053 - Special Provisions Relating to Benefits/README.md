@@ -27,10 +27,15 @@
 | [5317A.](%C2%A7%2005317A%20-%20Use%20of%20income%20information%20from%20other%20agencies%20independent%20verification%20required%20before%20termination%20or%20reduction%20of%20certain%20benefits%20and%E2%80%A6.md) | Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services. |
 | [5318\.](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md) | Review of Social Security Administration death information. |
 | [5319\.](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md) | Limitations on access to financial records. |
+| [5320\.](%C2%A7%2005320%20-%20Threshold%20for%20reporting%20debts%20to%20consumer%20reporting%20agencies.md) | Threshold for reporting debts to consumer reporting agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title II, §2007(b), Jan. 5, 2021, 134 Stat. 4977, added item 5320.
 
 <b>2018</b>—Pub. L. 115–141, div. J, title II, §259(b), Mar. 23, 2018, 132 Stat. 829, added item 5303B.
 
@@ -63,6 +68,8 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 <b>1970</b>—Pub. L. 91–376, §8(c), Aug. 12, 1970, 84 Stat. 790, added item 3111.
 
 <b>1962</b>—Pub. L. 87–825, §4(b), Oct. 15, 1962, 76 Stat. 950, added item 3110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Veterans Affairs Notice Relating to Debt Collection Activities
 
@@ -130,3 +137,4 @@ Progress reports.—If the Secretary has not submitted each notice required by p
 - [&sect; 05317A - Use of income information from other agencies independent verification required before termination or reduction of certain benefits and&#8230;](%C2%A7%2005317A%20-%20Use%20of%20income%20information%20from%20other%20agencies%20independent%20verification%20required%20before%20termination%20or%20reduction%20of%20certain%20benefits%20and%E2%80%A6.md)
 - [&sect; 05318 - Review of Social Security Administration death information](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md)
 - [&sect; 05319 - Limitations on access to financial records](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md)
+- [&sect; 05320 - Threshold for reporting debts to consumer reporting agencies](%C2%A7%2005320%20-%20Threshold%20for%20reporting%20debts%20to%20consumer%20reporting%20agencies.md)

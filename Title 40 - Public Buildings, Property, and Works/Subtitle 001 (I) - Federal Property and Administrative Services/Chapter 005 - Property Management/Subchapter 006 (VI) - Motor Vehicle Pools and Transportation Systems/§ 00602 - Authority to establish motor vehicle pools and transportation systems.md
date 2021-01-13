@@ -22,7 +22,7 @@ Methods of Providing Vehicles and Services.—As determined by the Administrator
 
 (c)
 
-Recipients of Vehicles and Services.—The Administrator shall, so far as practicable, furnish motor vehicles and related servicesunder this section to any federal agency, mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, on its request.
+Recipients of Vehicles and Services.—The Administrator shall, so far as practicable, furnish motor vehicles and related services under this section to any federal agency, mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, on its request.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1121.)
 

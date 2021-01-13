@@ -4,17 +4,21 @@ Any law enforcement or criminal justice program or project underwritten, in whol
 
 (Pub. L. 90–351, title I, §1103, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, §609E(b), Oct. 12, 1984, 98 Stat. 2098.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3795b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in former section 3793 of Title 42, The Public Health andWelfare, prior to the general amendment of this chapter by Pub. L. 96–157.
+Provisions similar to this section were contained in former section 3793 of Title 42, The Public Health and Welfare, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 substituted "Office of Justice Programs, Bureau of Justice Assistance" for "Law Enforcement Assistance Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

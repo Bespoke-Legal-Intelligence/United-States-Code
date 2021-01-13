@@ -14,9 +14,11 @@ The Administrator shall ensure that—
 
 #### (b) Audits and reviews required
 
-The Administrator shall ensure that any database or similar application processing system for Federal disaster relief assistance programsadministered by the Agency undergoes a review by the Inspector General of the Agency to determine the existence and implementation of such internal controls required under this section and the amendments made by this section.
+The Administrator shall ensure that any database or similar application processing system for Federal disaster relief assistance programs administered by the Agency undergoes a review by the Inspector General of the Agency to determine the existence and implementation of such internal controls required under this section and the amendments made by this section.
 
 (Pub. L. 109–295, title VI, §696, Oct. 4, 2006, 120 Stat. 1460.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

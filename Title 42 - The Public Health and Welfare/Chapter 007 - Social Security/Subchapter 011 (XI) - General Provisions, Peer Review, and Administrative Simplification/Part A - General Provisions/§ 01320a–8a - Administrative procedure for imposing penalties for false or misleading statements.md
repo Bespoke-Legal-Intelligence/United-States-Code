@@ -8,7 +8,7 @@ Any person who—
 
 &emsp;(2) makes such a statement or representation for such use with knowing disregard for the truth, or
 
-&emsp;(3) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II or benefits or payments under subchapter XVI, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
+&emsp;(3) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II or benefits or payments under subchapterXVI, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
 
 > shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) to be imposed by the Commissioner of Social Security.
 
@@ -80,5 +80,5 @@ Section applicable to statements and representations made on or after Dec. 14, 1
 
 #### Regulations
 
-Pub. L. 106–169, title II, §207(d), Dec. 14, 1999, 113 Stat. 1838, provided that: "Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[42 U.S.C. 1320a–8a\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases."
+Pub. L. 106–169, title II, §207(d), Dec. 14, 1999, 113 Stat. 1838, required, within 6 months after Dec. 14, 1999, the development of regulations prescribing the administrative process for making determinations under this section and guidance on discretion in imposing penalties.
 

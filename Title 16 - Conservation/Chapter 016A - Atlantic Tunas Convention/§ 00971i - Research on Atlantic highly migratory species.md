@@ -4,7 +4,7 @@
 
 #### (b) Highly migratory species research and monitoring
 
-(1) Within 6 months after November 3, 1995, the Secretary of Commerce, in cooperation with the advisory committee established under section 4 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b) and in consultation with the United States Commissioners on the International Commission for the Conservation of Atlantic Tunas (referred to elsewhere in this section as the "Commission") and the Secretary of State, shall develop and implement a comprehensive research and monitoring program to support theconservation and management of Atlantic bluefin tuna and other highly migratory species that shall—
+(1) Within 6 months after November 3, 1995, the Secretary of Commerce, in cooperation with the advisory committee established under section 4 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b) and in consultation with the United States Commissioners on the International Commission for the Conservation of Atlantic Tunas (referred to elsewhere in this section as the "Commission") and the Secretary of State, shall develop and implement a comprehensive research and monitoring program to support the conservation and management of Atlantic bluefin tuna and other highly migratory species that shall—
 
 &emsp;(A) identify and define the range of stocks of highly migratory species in the Atlantic Ocean, including Atlantic bluefin tuna; and
 

@@ -24,7 +24,7 @@ Pub. L. 91–664, §1, Jan. 8, 1971, 84 Stat. 1978, provided: "That this Act \[e
 
 #### Dedication to Justice William O. Douglas
 
-Pub. L. 95–11, Mar. 15, 1977, 91 Stat. 21, provided: "That the canal and towpath of the Chesapeake andOhio Canal National Historical Park are hereby dedicated to Justice William O. Douglas in grateful recognition of his long outstanding service as a prominent American conservationist and for his efforts to preserve and protect the canal and towpath from development.
+Pub. L. 95–11, Mar. 15, 1977, 91 Stat. 21, provided: "That the canal and towpath of the Chesapeake and Ohio Canal National Historical Park are hereby dedicated to Justice William O. Douglas in grateful recognition of his long outstanding service as a prominent American conservationist and for his efforts to preserve and protect the canal and towpath from development.
 
 "
 

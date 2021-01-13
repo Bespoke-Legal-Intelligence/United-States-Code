@@ -36,6 +36,8 @@ Annual Report.—Not later than July 31 of each year, the Secretary shall submit
 
 (Added Pub. L. 111–81, §3(a), Oct. 22, 2009, 123 Stat. 2137; amended Pub. L. 113–235, div. I, title II, §244(a), Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title VI, §601(a), Dec. 16, 2016, 130 Stat. 1569.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(7). Pub. L. 114–315 added par. (7).
@@ -52,11 +54,13 @@ Subsec. (c). Pub. L. 113–235, §244(a)(1), (3)(A), (G), in heading, substitute
 
 Pub. L. 113–235, §244(a)(3)(B)–(F), inserted "Veterans Health Administration," after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Amendment by Pub. L. 114–315 applicable to fiscal years beginning on and after Oct. 1, 2017, see section 601(c) of Pub. L. 114–315, set out as a note under section 1105 of Title 31, Money and Finance.
 
-#### Effective Date of 2014Amendment
+#### Effective Date of 2014 Amendment
 
 Pub. L. 113–235, div. I, title II, §244(b), Dec. 16, 2014, 128 Stat. 2569, provided that: "Section 117 of title 38, United States Code, shall apply as follows:
 

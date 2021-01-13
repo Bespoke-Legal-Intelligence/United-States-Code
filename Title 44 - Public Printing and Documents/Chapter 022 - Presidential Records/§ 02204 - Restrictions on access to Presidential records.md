@@ -2,7 +2,7 @@
 
 (a) Prior to the conclusion of a President's term of office or last consecutive term of office, as the case may be, the President shall specify durations, not to exceed 12 years, for which access shall be restricted with respect to information, in a Presidential record, within one or more of the following categories:
 
-&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and (B) in fact properly classified pursuant to such Executive order;
+&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense orforeign policy and (B) in fact properly classified pursuant to such Executive order;
 
 &emsp;(2) relating to appointments to Federal office;
 
@@ -42,6 +42,8 @@
 
 (Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2525; amended Pub. L. 98–497, title I, §107(b)(7), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 113–187, §§2(a)(2)(A), (d), 8(4), Nov. 26, 2014, 128 Stat. 2005, 2006, 2011.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c)(2), probably means Pub. L. 95–591, Nov. 4, 1978, 92 Stat. 2523, known as the Presidential Records Act of 1978, which enacted this chapter, amended sections 2107 and 2108 of this title, and enacted provisions set out as notes under section 2201 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 101 of this title and Tables.
@@ -62,6 +64,8 @@ Subsec. (f). Pub. L. 113–187, §2(d), added subsec. (f).
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–497 substituted "National Archives and Records Administration" for "National Archives and Records Service of the General Services Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
@@ -69,6 +73,8 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Effective Date
 
 Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12667
 
@@ -114,9 +120,9 @@ Sec. 3. <i>Claim of Executive Privilege by Incumbent President</i>. (a) Upon rec
 
 (d) If the President decides to invoke executive privilege, the Counsel to the President shall notify the former President, the Archivist, and the Attorney General in writing of the claim of privilege and the specific Presidential records to which it relates. After receiving such notice, the Archivist shall not disclose the privileged records unless directed to do so by an incumbent President or by a final court order.
 
-Sec. 4. <i>Claim of Executive Privilege by Former President</i>. (a) Upon receipt of a claim of executive privilege by a living former President, the Archivist shall consult with the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel), the Counsel to the President, and such other executiveagencies as the Archivist deems appropriate concerning the Archivist's determination as to whether to honor the former President's claim of privilege or instead to disclose the Presidential records notwithstanding the claim of privilege. Any determination under section 3 of this order that executive privilege shall not be invoked by the incumbent President shall not prejudice the Archivist's determination with respect to the former President's claim of privilege.
+Sec. 4. <i>Claim of Executive Privilege by Former President</i>. (a) Upon receipt of a claim of executive privilege by a living former President, the Archivist shall consult with the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel), the Counsel to the President, and such other executive agencies as the Archivist deems appropriate concerning the Archivist's determination as to whether to honor the former President's claim of privilege or instead to disclose the Presidential records notwithstanding the claim of privilege. Any determination under section 3 of this order that executive privilege shall not be invoked by the incumbent President shall not prejudice the Archivist's determination with respect to the former President's claim of privilege.
 
-(b) In making the determination referred to in subsection (a) of this section, the Archivist shall abide by any instructions given him by the incumbent President or his designee unless otherwise directed by a final court order. The Archivist shall notify the incumbent and former Presidents of his determination at least 30 days prior to disclosure of the Presidential records, unless a shorter time period is required in the circumstances set forth in section 1270.44 of the NARA regulations. Copies of the notice for the incumbent President shall be delivered to the President (through the Counsel to the President) and the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel). The copy of the notice for the former President shall be delivered to the former President or his designated representative.
+(b) In making the determination referred to in subsection (a) of this section, the Archivist shall abide by any instructions given him by the incumbent President or his designee unless otherwise directed by a final court order. The Archivist shall notify the incumbentand former Presidents of his determination at least 30 days prior to disclosure of the Presidential records, unless a shorter time period is required in the circumstances set forth in section 1270.44 of the NARA regulations. Copies of the notice for the incumbent President shall be delivered to the President (through the Counsel to the President) and the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel). The copy of the notice for the former President shall be delivered to the former President or his designated representative.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

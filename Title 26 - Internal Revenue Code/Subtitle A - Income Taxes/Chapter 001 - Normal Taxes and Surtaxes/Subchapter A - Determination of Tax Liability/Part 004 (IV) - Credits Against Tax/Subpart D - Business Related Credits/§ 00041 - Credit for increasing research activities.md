@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) an organization which is a Federal laboratory,
 
-&emsp;&emsp;&nbsp;for qualified research which is energy research, subparagraph (A) shall be applied by substituting "100 percent" for "65 percent".
+&emsp;&emsp;&nbsp;for qualified research which is energy research, subparagraph (A) shall be appliedby substituting "100 percent" for "65 percent".
 
 #### (ii) Eligible small business
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
-&emsp;&emsp;&emsp;&emsp;(VI) in the case of the taxpayer's 10th such taxable year, 5/6 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, 8th, and 9th such taxable years is of the aggregate gross receipts of the taxpayer for such years, and
+&emsp;&emsp;&emsp;&emsp;(VI) in the case of the taxpayer's 10th such taxable year, 5/6 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, 8th, and 9th such taxable years is ofthe aggregate gross receipts of the taxpayer for such years, and
 
 &emsp;&emsp;&emsp;&emsp;(VII) for taxable years thereafter, the percentage which the aggregate qualified research expenses for any 5 taxable years selected by the taxpayer from among the 5th through the 10th such taxable years is of the aggregate gross receipts of the taxpayer for such selected years.
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 #### (B) Floor amount
 
-&emsp;&emsp;Except in the case of a taxpayer which was in existence during a taxable year (other than a short taxable year) in the base period, the minimum basic research amount for any base period shall not be less than 50 percent of the basic research payments for the taxable year for which a determination is being made under this subsection.
+&emsp;&emsp;Except in the case of a taxpayer which was in existence during a taxable year (other than a short taxable year) in the base period, the minimum basic research amount for anybase period shall not be less than 50 percent of the basic research payments for the taxable year for which a determination is being made under this subsection.
 
 #### (5) Maintenance-of-effort amount
 
@@ -518,7 +518,7 @@ For purposes of this section—
 
 #### (C) Exclusion from incremental credit calculation
 
-&emsp;&emsp;For purposes of determining the amount of credit allowable under subsection (a)(1) for any taxable year, the amount of the basic research payments taken into account under subsection (a)(2)—
+&emsp;&emsp;For purposes of determining the amount of credit allowable under subsection (a)(1) forany taxable year, the amount of the basic research payments taken into account under subsection (a)(2)—
 
 &emsp;&emsp;&emsp;(i) shall not be treated as qualified research expenses under subsection (a)(1)(A), and
 
@@ -674,7 +674,7 @@ For purposes of this section—
 
 #### (B) Treatment of persons
 
-&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related persons for purposes of subparagraph (A)(iii) and as a single person for purposes of subparagraph (A)(iv).
+&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 shallbe treated as related persons for purposes of subparagraph (A)(iii) and as a single person for purposes of subparagraph (A)(iv).
 
 #### (C) Foreign research
 
@@ -700,7 +700,7 @@ In the case of an individual who—
 
 &emsp;(4) is a shareholder in an S corporation,
 
-> the amount determined under subsection (a) for any taxable year shall not exceed an amount\(separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
+> the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
 
 #### (h) Treatment of credit for qualified small businesses
 
@@ -846,7 +846,7 @@ Pub. L. 114–113, §121(a)(1), struck out subsec. (h) which provided the termin
 
 <b>2013</b>—Subsec. (f)(1)(A)(ii). Pub. L. 112–240, §301(c)(1), substituted "shall be determined on a proportionate basis to its share of the aggregate of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, taken into account by such controlled group for purposes of this section" for "shall be its proportionate shares of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, giving rise to the credit".
 
-Subsec. (f)(1)(B)(ii). Pub. L. 112–240, §301(c)(2), substituted "shall be determined on a proportionate basis to its share of the aggregate of the qualified research expenses, basic research payments, and amounts paidor incurred to energy research consortiums, taken into account by all such persons under common control for purposes of this section" for "shall be its proportionate shares of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, giving rise to the credit".
+Subsec. (f)(1)(B)(ii). Pub. L. 112–240, §301(c)(2), substituted "shall be determined on a proportionate basis to its share of the aggregate of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, taken into account by all such persons under common control for purposes of this section" for "shall be its proportionate shares of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, giving rise to the credit".
 
 Subsec. (f)(3)(A). Pub. L. 112–240, §301(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "If, after December 31, 1983, a taxpayer acquires the major portion of a trade or business of another person (hereinafter in this paragraph referred to as the 'predecessor') or the major portion of a separate unit of a trade or business of a predecessor, then, for purposes of applying this section for any taxable year ending after such acquisition, the amount of qualified research expenses paid or incurred by the taxpayer during periods before such acquisition shall be increased by so much of such expenses paid or incurred by the predecessor with respect to the acquired trade or business as is attributable to the portion of such trade or business or separate unit acquired by the taxpayer, and the gross receipts of the taxpayer for such periods shall be increased by so much of the gross receipts of such predecessor with respect to the acquired trade or business as is attributable to such portion."
 
@@ -912,7 +912,7 @@ Subsec. (c)(4)(A)(iii). Pub. L. 106–170, §502(b)(1)(C), substituted "3.75 per
 
 Subsecs. (c)(6), (d)(4)(F). Pub. L. 106–170, §502(c)(1), inserted ", the Commonwealth of Puerto Rico, or any possession of the United States" before period at end.
 
-Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
+Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) forits first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
 
 Subsec. (h)(1)(B). Pub. L. 106–170, §502(a)(1)(A), substituted "June 30, 2004" for "June 30, 1999".
 
@@ -986,7 +986,7 @@ Subsec. (h)(1). Pub. L. 101–239, §7110(a)(1)(A), substituted "December 31, 19
 
 Subsec. (h)(2). Pub. L. 101–239, §7110(a)(1), substituted "January 1, 1991" for "January 1, 1990" in two places and substituted "December 31, 1990" for "December 31, 1989".
 
-Pub. L. 101–239, §7110(b)(2)(H), substituted "base amount" for "base period expenses" in heading and "the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph)" for "any amount for any base period with respect to such taxable year shall be the amount which bears the same ratio to such amount for such base period" in text.
+Pub. L. 101–239, §7110(b)(2)(H), substituted "base amount" for "base period expenses" in heading and "the base amount with respect to such taxable yearshall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph)" for "any amount for any base period with respect to such taxable year shall be the amount which bears the same ratio to such amount for such base period" in text.
 
 Subsec. (i). Pub. L. 101–239, §7814(e)(2)(C), redesignated subsec. (i) as (h).
 
@@ -1216,7 +1216,7 @@ Estimated tax.—The amendments made by this section shall not be taken into acc
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13111(a)(1) of Pub. L. 103–66 applicable to taxable years ending after June 30, 1992, seesection 13111(c) of Pub. L. 103–66, set out as a note under section 45C of this title.
+Amendment by section 13111(a)(1) of Pub. L. 103–66 applicable to taxable years ending after June 30, 1992, see section 13111(c) of Pub. L. 103–66, set out as a note under section 45C of this title.
 
 Pub. L. 103–66, title XIII, §13112(c), Aug. 10, 1993, 107 Stat. 422, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993."
 
@@ -1290,7 +1290,7 @@ Transitional rule.—
 
 &emsp;"(A)
 
-In general.—If, with respect to the first taxable year to which the amendments made by this section apply and which ends in 1981 or 1982, the taxpayer may only take into account qualified research expenses paid or incurred during a portion of such taxable year, the amount of the qualified research expenses taken into account for the base period of such taxable year shall be the amount which bears the same ratio to the total qualified research expenses for such base period as the number of months in such portion of such taxable year bears to the total number of months in such taxable year.
+In general.—If, with respect to the first taxable year to which the amendments made by this section apply and which ends in 1981 or 1982, the taxpayer may only take into account qualified research expenses paid or incurred during a portion of suchtaxable year, the amount of the qualified research expenses taken into account for the base period of such taxable year shall be the amount which bears the same ratio to the total qualified research expenses for such base period as the number of months in such portion of such taxable year bears to the total number of months in such taxable year.
 
 &emsp;"(B)
 
@@ -1306,7 +1306,7 @@ Pub. L. 109–432, div. A, title I, §123, Dec. 20, 2006, 120 Stat. 2944, provid
 
 "(a)
 
-Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) \[now 280C(c)(2)(C)\] of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify.Such election shall be made in the manner prescribed by such Secretary or designee.
+Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) \[now 280C(c)(2)(C)\] of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
 
 "(b)
 
@@ -1390,7 +1390,7 @@ Pub. L. 100–647, title IV, §4007(b), Nov. 10, 1988, 102 Stat. 3652, directed 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### New Section 41 Treated as Continuation of Old Section 44F
 

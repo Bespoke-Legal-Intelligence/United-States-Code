@@ -4,13 +4,15 @@ Notwithstanding any other provisions of this chapter, debentures issued under an
 
 (June 27, 1934, ch. 847, title II, §224, as added Aug. 2, 1954, ch. 649, title I, §126, 68 Stat. 606; amended Pub. L. 87–70, title VI, §612(i), June 30, 1961, 75 Stat. 182; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §104(b), Aug. 1, 1968, 82 Stat. 488; Pub. L. 108–199, div. G, title II, §215, Jan. 23, 2004, 118 Stat. 394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat.1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–199, which directed amendment of section by adding sentence relating to interest rate for claim paid in cash at end of first paragraph, was executed by adding sentence at end of section to reflect the probable intent of Congress.
+<b>2004</b>—Pub. L. 108–199, which directed amendment of section by adding sentence relating to interest rate forclaim paid in cash at end of first paragraph, was executed by adding sentence at end of section to reflect the probable intent of Congress.
 
 <b>1968</b>—Pub. L. 90–448 included debentures issued pursuant to section 1715z–3 of this title.
 

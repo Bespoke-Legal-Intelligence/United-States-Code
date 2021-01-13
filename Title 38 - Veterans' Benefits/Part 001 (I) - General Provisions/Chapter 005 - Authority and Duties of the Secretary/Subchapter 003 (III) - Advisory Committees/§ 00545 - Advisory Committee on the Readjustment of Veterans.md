@@ -20,7 +20,7 @@
 
 &emsp;(ii) provide information relating to the nature and character of psychological problems arising from service in the Armed Forces;
 
-&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizational structures, and services of the Department in assisting veterans in readjusting to civilian life; and
+&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizationalstructures, and services of the Department in assisting veterans in readjusting to civilian life; and
 
 &emsp;(iv) provide on-going advice on the most appropriate means of responding to the readjustment needs of veterans in the future.
 
@@ -46,6 +46,8 @@
 
 (Added Pub. L. 104–262, title III, §333(a)(1), Oct. 9, 1996, 110 Stat. 3199; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -57,6 +59,8 @@ Prior section 545 of this title, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139,
 #### Amendments
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–14 substituted "hereinafter" for "hereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Commission on Servicemembers and Veterans Transition Assistance
 
@@ -120,7 +124,7 @@ Meetings.—The Commission shall meet at the call of the chairman of the Commiss
 
 "(h)
 
-Panels.—The Commission may establish panels composed of less than the full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of such panels shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
+Panels.—The Commission may establish panels composed of less than the full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of such panels shall be subject to the review and control of the Commission. Anyfindings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
 
 "(i)
 
@@ -212,7 +216,7 @@ Reports.—(1) Not later than 90 days after the date on which all members of the
 
 "(a)
 
-Hearings.—The Commission may hold such hearings, sit and act at such times and places, takesuch testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this title.
+Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this title.
 
 "(b)
 
@@ -236,7 +240,7 @@ Miscellaneous Administrative Support.—The Secretary of Defense, the Secretary 
 
 "(a)
 
-Compensation of Members.—Each member of the Commission may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
+Compensation of Members.—Each member of the Commission may be compensated at a rate equal tothe daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
 
 "(b)
 

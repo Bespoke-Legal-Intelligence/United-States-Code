@@ -14,6 +14,8 @@ The punishment by fine of not more than $5,000 or imprisoned not more than 10 ye
 
 Minor verbal change was made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 inserted "or attempts to rob" after "robs".

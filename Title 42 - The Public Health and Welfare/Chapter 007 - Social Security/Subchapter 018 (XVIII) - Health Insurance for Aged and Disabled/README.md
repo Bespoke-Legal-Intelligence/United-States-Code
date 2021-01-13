@@ -38,7 +38,7 @@ Sec. 5. <i>Enabling Providers to Spend More Time with Patients</i>. Within 1 yea
 
 (b) proposing a regulation that would ensure appropriate reimbursement by Medicare for time spent with patients by both primary and specialist health providers practicing in all types of health professions; and
 
-(c) conducting a comprehensive review of regulatory policies that create disparities in reimbursement between physicians and non-physician practitioners and proposing a regulation that would, to the extent allowed by law, ensure that items and services provided by clinicians, including physicians, physician assistants, and nurse practitioners, are appropriately reimbursed in accordance with the work performed rather than the clinician's occupation.
+(c) conducting a comprehensive review of regulatory policies that create disparities in reimbursement between physicians and non-physician practitioners and proposing a regulation that would, to the extent allowed by law, ensure that items and services providedby clinicians, including physicians, physician assistants, and nurse practitioners, are appropriately reimbursed in accordance with the work performed rather than the clinician's occupation.
 
 Sec. 6. <i>Encouraging Innovation for Patients</i>. Within 1 year of the date of this order, the Secretary shall propose regulatory and sub-regulatory changes to the Medicare program to encourage innovation for patients by:
 

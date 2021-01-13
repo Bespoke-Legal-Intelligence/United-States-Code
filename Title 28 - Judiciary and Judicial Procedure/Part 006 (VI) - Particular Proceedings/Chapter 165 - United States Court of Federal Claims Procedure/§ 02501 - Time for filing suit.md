@@ -22,6 +22,8 @@ Words "nor shall any of the said disabilities operate cumulatively" were omitted
 
 The section was extended to include claims referred by the head of an executive department in conformity with section 2510 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in last par.
@@ -31,6 +33,8 @@ The section was extended to include claims referred by the head of an executive 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 <b>1954</b>—Act Sept. 3, 1954, struck out ", or the claim is referred by the Senate or House of Representatives, or by the head of an executive department" in first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

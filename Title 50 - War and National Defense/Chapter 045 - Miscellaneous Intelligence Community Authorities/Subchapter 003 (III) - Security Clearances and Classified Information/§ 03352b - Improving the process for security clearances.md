@@ -62,7 +62,7 @@ Not later than 180 days after December 20, 2019, the Security Executive Agent sh
 
 &emsp;&emsp;&emsp;(ii) provides written justification to the appropriate congressional committees for any such determination.
 
-&emsp;(4) A policy and implementation plan for agencies and departments of the UnitedStates, as a part of the security clearance process, to accept automated records checks generated pursuant to a security clearance applicant's employment with a prior employer.
+&emsp;(4) A policy and implementation plan for agencies and departments of the United States, as a part of the security clearance process, to accept automated records checks generated pursuant to a security clearance applicant's employment with a prior employer.
 
 &emsp;(5) A policy for the use of certain background information on individuals collected by the private sector for background investigation purposes.
 

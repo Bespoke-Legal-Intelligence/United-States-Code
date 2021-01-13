@@ -30,11 +30,15 @@ Subsection (a) specifies that unless the court for cause orders otherwise, the d
 
 Subsection (b) specifies that the dismissal reinstates proceedings or custodianships that were superseded by the bankruptcy case, reinstates avoided transfers, reinstates voided liens, vacates any order, judgment, or transfer ordered as a result of the avoidance of a transfer, and revests the property of the estate in the entity in which the property was vested at the commencement of the case. The court is permitted to order a different result for cause. The basic purpose of the subsection is to undo the bankruptcy case, as far as practicable, and to restore all property rights to the position in which they were found at the commencement of the case. This does not necessarily encompass undoing sales of property from the estate to a good faith purchaser. Where there is a question over the scope of the subsection, the court will make the appropriate orders to protect rights acquired in reliance on the bankruptcy case.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted "109(g)" for "109(f)".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "; nor does the dismissal of a case under this title prejudice thedebtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title".
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

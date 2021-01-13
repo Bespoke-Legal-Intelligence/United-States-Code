@@ -94,6 +94,8 @@ In paragraph (2), the definition of "money due" is substituted for "unpaid compe
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 36a of title 2, referred to in par. (1)(iv), was editorially reclassified as section 4592 of Title 2, The Congress.
@@ -103,6 +105,8 @@ Section 5344 of this title, referred to in par. (2)(I), was amended generally by
 #### Amendments
 
 <b>1979</b>—Par. (1). Pub. L. 96–54 inserted "and" after cl. (iv).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

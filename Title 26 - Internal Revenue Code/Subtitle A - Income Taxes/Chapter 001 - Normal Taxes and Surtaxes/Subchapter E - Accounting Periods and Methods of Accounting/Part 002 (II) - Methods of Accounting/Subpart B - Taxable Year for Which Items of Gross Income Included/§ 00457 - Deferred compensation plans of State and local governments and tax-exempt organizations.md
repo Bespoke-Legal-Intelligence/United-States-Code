@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;The term "eligible employer" means—
 
-&emsp;&emsp;(A) a State, political subdivision of a State, and any agency or instrumentality of a State or political subdivision of a State, and
+&emsp;&emsp;(A) a State, political subdivision of a State, and any agency or instrumentality ofa State or political subdivision of a State, and
 
 &emsp;&emsp;(B) any other organization (other than a governmental unit) exempt from tax under this subtitle.
 
@@ -188,11 +188,11 @@ For purposes of this section—
 
 #### (iii) Cost of living adjustment
 
-&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016, and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016, and any increase under this paragraph that is not a multipleof $500 shall be rounded to the next lowest multiple of $500.
 
 #### (iv) Special rule for application of limitation on accruals for certain plans
 
-&emsp;&emsp;&emsp;In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment underthe plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant's age at the time of the calculation.
+&emsp;&emsp;&emsp;In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant's age at the time of the calculation.
 
 #### (C) Qualified services
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (17) Trustee-to-trustee transfers to purchase permissive service credit
 
-&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trusteetransfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
 
 &emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
 
@@ -624,7 +624,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trust need not be established by reason of the amendments made by this section before January 1, 1999."
+Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trustneed not be established by reason of the amendments made by this section before January 1, 1999."
 
 Pub. L. 104–188, title I, §1458(c)(1), Aug. 20, 1996, 110 Stat. 1820, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to accruals of length of service awards after December 31, 1996."
 
@@ -732,7 +732,7 @@ Deferred compensation plans for state judges.—The amendments made by this sect
 
 Special rule for certain deferred compensation plans.—The amendments made by this section shall not apply—
 
-&emsp;"(A) to employees on August 16, 1986, of a nonprofit corporation organized under the laws of the State of Alabama maintaining a deferred compensation plan with respect to which the Internal Revenue Service issued a ruling dated March 17, 1976, that the plan would not affect the tax-exempt status of the corporation, or
+&emsp;"(A) to employees on August 16, 1986, of a nonprofit corporation organized under the laws of the State ofAlabama maintaining a deferred compensation plan with respect to which the Internal Revenue Service issued a ruling dated March 17, 1976, that the plan would not affect the tax-exempt status of the corporation, or
 
 &emsp;"(B) to to \[sic\] individuals eligible to participate on August 16, 1986, in a deferred compensation plan with respect to which a letter dated November 6, 1975, submitted the original plan to the Internal Revenue Service, an amendment was submitted on November 19, 1975, and the Internal Revenue Service responded with a letter dated December 24, 1975,
 
@@ -744,7 +744,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date
 

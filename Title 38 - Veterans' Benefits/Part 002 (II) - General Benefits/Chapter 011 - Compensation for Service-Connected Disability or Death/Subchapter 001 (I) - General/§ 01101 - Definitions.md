@@ -2,11 +2,11 @@
 
 For the purposes of this chapter—
 
-(1) The term "veteran" includes a person who died in the active military, naval, or air service.
+(1) The term "veteran" includes a person who died in the active military, naval, air, or space service.
 
 (2) The term "period of war" includes, in the case of any veteran—
 
-&emsp;(A) any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, or air service after April 5, 1917, and before November 12, 1918; and
+&emsp;(A) any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, air, or space service after April 5, 1917, and before November 12, 1918; and
 
 &emsp;(B) any period of continuous service performed by such veteran after December 31, 1946, and before July 26, 1947, if such period began before January 1, 1947.
 
@@ -134,9 +134,13 @@ For the purposes of this chapter—
 
 > and such other tropical diseases as the Secretary may add to this list.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, §301; Pub. L. 94–433, title IV, §§401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, title VII, §702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, §313, May 20, 1988, 102 Stat. 535; renumbered §1101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, §301; Pub. L. 94–433, title IV, §§401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, title VII, §702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, §313, May 20, 1988, 102 Stat. 535; renumbered §1101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, §926(a)(5), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pars. (1), (2)(A). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 301 of this title as this section.
 
@@ -151,6 +155,8 @@ Pars. (3), (4). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for
 Par. (3). Pub. L. 94–433, §401(2), substituted "Hansen's disease" for "Leprosy".
 
 Par. (4). Pub. L. 94–433, §401(3), inserted "Hansen's disease" after "Filiariasis" and struck out "Leprosy" before "Loiasis".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 
@@ -178,7 +184,7 @@ Membership.—(1) The commission shall be composed of 13 members, appointed as f
 
 &emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
-&emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one ofwhom shall be a veteran who was awarded a decoration specified in paragraph (2).
+&emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
 &emsp;"(C) Two members appointed by the majority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
@@ -364,7 +370,7 @@ Pub. L. 95–479, title III, §305, Oct. 18, 1978, 92 Stat. 1565, directed Admin
 
 #### Amputees, Cardiovascular Disorders; Study
 
-Pub. L. 94–433, title IV, §403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientificstudy to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
+Pub. L. 94–433, title IV, §403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
 
 #### Study of Claims for Dependency and Indemnity Compensation
 

@@ -4,7 +4,7 @@
 
 Offense.—Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully—
 
-&emsp;(1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
+&emsp;(1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, incash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
 
 &emsp;(2) pays or offers any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
 
@@ -75,6 +75,8 @@ Definitions.—In this section—
 &emsp;(5) the term "recovery home" means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
 
 (Added Pub. L. 115–271, title VIII, §8122(a), Oct. 24, 2018, 132 Stat. 4108.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

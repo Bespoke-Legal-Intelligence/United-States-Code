@@ -6,6 +6,8 @@
 
 (Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5072; renumbered §8212 and amended Pub. L. 102–40, title IV, §402(b)(2)(B), (d)(1), May 7, 1991, 105 Stat. 239.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(2)(B), renumbered section 5072 of this title as this section.

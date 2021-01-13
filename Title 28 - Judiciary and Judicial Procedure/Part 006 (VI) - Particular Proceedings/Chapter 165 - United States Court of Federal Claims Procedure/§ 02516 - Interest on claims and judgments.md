@@ -12,7 +12,7 @@
 
 Act
 
-Based on title 28, U.S.C., 1940 ed., §284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept.30, 1890, ch. 1126, §1, 26 Stat. 537; Mar. 3, 1911, ch. 231, §177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, §1324(b), 42 Stat. 316; June 2, 1924, ch. 234, §1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, §3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, §615(a), 45 Stat. 877; June 22, 1936, ch. 690, §808, 49 Stat. 1746).
+Based on title 28, U.S.C., 1940 ed., §284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept. 30, 1890, ch. 1126, §1, 26 Stat. 537; Mar. 3, 1911, ch. 231, §177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, §1324(b), 42 Stat. 316; June 2, 1924, ch. 234, §1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, §3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, §615(a), 45 Stat. 877; June 22, 1936, ch. 690, §808, 49 Stat. 1746).
 
 Subdivision (b) of section 284 of title 28, U.S.C., 1940 ed., was omitted as covered by section 3771 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Such omission required the exception in subdivision (a) of such section 284, reading: "except as provided in subdivision (b)", to be changed to read: "or Act of Congress expressly providing for payment thereof."
 
@@ -36,6 +36,8 @@ Act
 
 Section 2(g)(5) of the bill restates 28:2516(b) because the provisions in 28:2516(b) on the periods for computing interest were superseded by the source provisions restated in section 1304 of the revised title 31.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–554 substituted "the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding" for "the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately before".
@@ -49,6 +51,8 @@ Subsec. (b). Pub. L. 97–258 substituted provisions that interest on a judgment
 Pub. L. 97–164, §§302(d), 402, eff. Oct. 1, 1982, struck out "at the rate of four percent per annum" and all that follows through "affirmance" and inserted in lieu thereof ", from the date of the filing of the transcript of the judgment in the General Accounting Office to the date of the mandate of the affirmance, at a rate of interest equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment".
 
 <b>1954</b>—Subsec. (b). Act Sept. 3, 1954, inserted "for any period" after "allowed" in last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

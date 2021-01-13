@@ -32,7 +32,7 @@
 
 &emsp;(2) whose post of duty is outside the United States; and
 
-&emsp;(3) who returns on leave to the United States, or to his place of residence, which is outside the area of employment, in its territories or possessions including the Commonwealth of Puerto Rico.
+&emsp;(3) who returns on leave to the United States, or to his place of residence, which isoutside the area of employment, in its territories or possessions including the Commonwealth of Puerto Rico.
 
 > This subsection does not apply to more than one period of leave in a prescribed tour of duty at a post outside the United States.
 
@@ -92,6 +92,8 @@ In subsection (a), the words "Except as otherwise provided in this subsection" a
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 108–411, which was approved Oct. 30, 2004.
@@ -112,6 +114,8 @@ Subsec. (f). Pub. L. 108–411, §202(b), added subsec. (f).
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–181 substituted "an employee whose current employment is limited to less than 90 days is entitled" and "under successive appointments" for "an employee is entitled" and "under one or more appointments" respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–411, title II, §202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: "None of the amendments made by subsection (a) \[amending this section\] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments."
@@ -126,7 +130,7 @@ In General.—Except as otherwise provided in this section, this Act and the ame
 
 "(b)
 
-Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note undersection 4725 of Title 2, The Congress\] shall be effective as of December 31, 1991.
+Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note under section 4725 of Title 2, The Congress\] shall be effective as of December 31, 1991.
 
 "(2) The amendments made by section 5(d) \[amending section 8440d of this title\] shall be effective as of December 9, 1991.
 

@@ -26,9 +26,13 @@ A Government authority may obtain financial records under section 3402(2) of thi
 
 (Pub. L. 95–630, title XI, §1105, Nov. 10, 1978, 92 Stat. 3699.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of thisAct to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

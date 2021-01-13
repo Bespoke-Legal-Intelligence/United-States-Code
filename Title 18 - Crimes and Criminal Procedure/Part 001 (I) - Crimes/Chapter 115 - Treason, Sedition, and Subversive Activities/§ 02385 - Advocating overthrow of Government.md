@@ -32,6 +32,8 @@ Words "upon conviction thereof" which preceded "be fined" were omitted as surplu
 
 The phraseology was considerably changed to effect consolidation but without any change of substance.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $20,000" in fourth and fifth pars.
@@ -39,6 +41,8 @@ The phraseology was considerably changed to effect consolidation but without any
 <b>1962</b>—Pub. L. 87–486 defined the terms "organizes" and "organize".
 
 <b>1956</b>—Act July 24, 1956, substituted "$20,000" for "$10,000", and "twenty years" for "ten years" in the paragraph prescribing penalties applicable to advocating overthrow of government and inserted provisions relating to conspiracy to commit any offense named in this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1956 Amendment
 

@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(H) to identify roles and responsibilities of Federal agencies in aquatic nuisance species monitoring and response; and
 
-&emsp;&emsp;(I) to provide resource assistance to States implementing State-level programs to enterinto partnerships with Federal agencies in enforcing the requirements under subsection (p) of section 1322 of title 33.
+&emsp;&emsp;(I) to provide resource assistance to States implementing State-level programs to enter into partnerships with Federal agencies in enforcing the requirements under subsection (p) of section 1322 of title 33.
 
 #### (4) Collaboration
 

@@ -6,7 +6,7 @@ In addition to the criteria used in evaluating applications as described in sect
 
 #### (b) Reporting
 
-Not later than December 31, 2019, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
+Not later than December 31, 2019, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
 
 &emsp;(1) a summary of—
 

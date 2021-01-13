@@ -1,6 +1,6 @@
 ### §2828. Leasing of military family housing
 
-(a)(1) Subject to paragraph (2), the Secretary of the military department concerned may lease housing facilities at or near a military installation in the United States, Puerto Rico, or Guam for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with fair market rental charge, as family housing to civilian employees of the Department of Defense stationed at such installation.
+(a)(1) Subject to paragraph (2), the Secretary of the military department concerned may leasehousing facilities at or near a military installation in the United States, Puerto Rico, or Guam for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with fair market rental charge, as family housing to civilian employees of the Department of Defense stationed at such installation.
 
 (2) A lease may only be made under paragraph (1) if the Secretary concerned finds that there is a shortage of adequate housing at or near such military installation and that—
 
@@ -20,7 +20,7 @@
 
 (3) Not more than 500 housing units may be leased under subsection (a) for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation) exceeds the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5).
 
-(4)(A) The Secretary of the Army may lease not more than eight housing units in the vicinity of Miami, Florida, for key and essential personnel, as designated by the Secretary, for the United States Southern Command for which theexpenditure for the rental of such units (including the cost of utilities, maintenance, and operation, including security enhancements) exceeds the expenditure limitations in paragraphs (2) and (3).
+(4)(A) The Secretary of the Army may lease not more than eight housing units in the vicinity of Miami, Florida, for key and essential personnel, as designated by the Secretary, for the United States Southern Command for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation, including security enhancements) exceeds the expenditure limitations in paragraphs (2) and (3).
 
 (B) The amount of all leases under this paragraph may not exceed $280,000 per year, as adjusted from time to time under paragraph (6).
 
@@ -126,7 +126,7 @@ Subsec. (e)(6). Pub. L. 107–314, §2801(b)(1), (4), redesignated par. (5) as (
 
 Subsec. (b)(3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(2)\], substituted "the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)" for "$12,000 per unit per year but does not exceed $14,000 per unit per year".
 
-Subsec. (b)(4). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(a)\], designated existing provisions as subpar. (A),struck out last sentence which read as follows: "The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.", and added subpars. (B) and (C).
+Subsec. (b)(4). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(a)\], designated existing provisions as subpar. (A), struck out last sentence which read as follows: "The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.", and added subpars. (B) and (C).
 
 Subsec. (b)(5), (6). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(b)\], added pars. (5) and (6) and struck out former par. (5) which read as follows: "At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year."
 

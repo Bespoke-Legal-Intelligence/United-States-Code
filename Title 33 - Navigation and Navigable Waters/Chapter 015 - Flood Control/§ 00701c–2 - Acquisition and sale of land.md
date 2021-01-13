@@ -4,6 +4,8 @@ The provisions of sections 593 to 595 of this title relating to river and harbor
 
 (Aug. 18, 1941, ch. 377, §6, 55 Stat. 650; Oct. 31, 1951, ch. 654, §3(6), 65 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Oct. 31, 1951, struck out "558a and" in the reference to other sections.

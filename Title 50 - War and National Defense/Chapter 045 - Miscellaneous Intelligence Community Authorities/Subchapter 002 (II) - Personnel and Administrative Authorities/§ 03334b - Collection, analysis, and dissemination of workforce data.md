@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iv) that provides demographic comparisons to the relevant nongovernmental labor force and the relevant civilian labor force;
 
-&emsp;&emsp;(C) shall include an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations;
+&emsp;&emsp;(C) shall include an analysis of applicant flow data, including the percentage and levelof positions for which data are collected, and a discussion of any resulting policy changes or recommendations;
 
 &emsp;&emsp;(D) shall include demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs;
 

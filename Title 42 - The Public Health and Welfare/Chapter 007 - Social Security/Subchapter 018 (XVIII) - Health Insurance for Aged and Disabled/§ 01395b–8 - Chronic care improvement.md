@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) providing an entitlement to participate in a chronic care improvement program under this section;
 
-&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395oo of this title, or otherwise, with respect to a chroniccare improvement program under this section; or
+&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395oo of this title, or otherwise, with respect to a chronic care improvement program under this section; or
 
 &emsp;&emsp;(D) providing benefits under a chronic care improvement program for which a claim may be submitted to the Secretary by any provider of services or supplier (as defined in section 1395x(d) of this title).
 
@@ -74,7 +74,7 @@
 
 #### (5) Independent evaluations of Phase I programs
 
-&emsp;The Secretary shall contract for an independent evaluation of the programs conducted under this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
+&emsp;The Secretary shall contract for an independent evaluation of the programs conductedunder this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
 
 &emsp;&emsp;(A) Quality improvement measures, such as adherence to evidence-based guidelines and rehospitalization rates.
 
@@ -204,7 +204,7 @@
 
 #### (A) Specification of performance standards
 
-&emsp;&emsp;Each agreement under this section with a chronic care improvement organization shall specify performance standards for each of the factors specified in subsection (c)(2), including clinical quality and spending targetsunder this subchapter, against which the performance of the chronic care improvement organization under the agreement is measured.
+&emsp;&emsp;Each agreement under this section with a chronic care improvement organization shall specify performance standards for each of the factors specified in subsection (c)(2), including clinical quality and spending targets under this subchapter, against which the performance of the chronic care improvement organization under the agreement is measured.
 
 #### (B) Adjustment of payment based on performance
 

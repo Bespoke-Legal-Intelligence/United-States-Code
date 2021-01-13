@@ -46,7 +46,7 @@
 
 #### (1) Commercial stations
 
-&emsp;Notwithstanding subsection (a)(1), a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
+&emsp;Notwithstanding subsection (a)(1), a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast stationin a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
 
 #### (2) Noncommercial stations
 
@@ -182,7 +182,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, a satellite service or other service provided by the satellite carrier to the subscriber;
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
+&emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of suchorder by the person to whom the order is directed;
 
 &emsp;&emsp;&emsp;(iii) a disclosure of the names and addresses of subscribers to any satellite service or other service, if—
 
@@ -306,7 +306,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) whether the television station provides coverage or other local service to such community;
 
-&emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcaststation signals that originate in their State of residence;
+&emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
 
 &emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
 
@@ -332,13 +332,15 @@ As used in this section:
 
 (June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX \[title II, §§203, 205, 206(a), 210\], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253; Pub. L. 113–200, title I, §102(a), Dec. 4, 2014, 128 Stat. 2060.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Section 119(a)(14) of title 17, referred to in subsec. (a)(3), was redesignated as section 119(a)(13) of title 17 by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. However, provision relating to signals of low power television station was section 119(a)(15) of title 17, which was repealed by section 102(h)(1)(C) of Pub. L. 111–175.
 
-The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(5) and (k)(2)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
+The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs.\(a)(5) and (k)(2)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
 
 For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see section 206(b) of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note below.
 
@@ -380,6 +382,8 @@ Subsec. (k). Pub. L. 108–447, §203(a)(1), redesignated subsec. (h) as (k).
 
 Subsec. (k)(4) to (8). Pub. L. 108–447, §203(b)(3), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of Title 17, Copyrights.
@@ -390,7 +394,7 @@ Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 St
 
 #### Market Modification Process
 
-Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The \[Federal Communications\]Commission shall make information available to consumers on its website that explains the market modification process, including—
+Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The \[Federal Communications\] Commission shall make information available to consumers on its website that explains the market modification process, including—
 
 &emsp;"(1) who may petition to include additional communities within, or exclude communities from, a—
 
@@ -452,7 +456,7 @@ Pub. L. 111–175, title II, §205, May 27, 2010, 124 Stat. 1250, provided that:
 
 "(a)
 
-In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
+In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulationspromulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
 
 "(b)
 
@@ -510,7 +514,7 @@ Study; Report.—
 
 Study.—If no satellite carrier files a request for a certification under section 342 of the Communications Act of 1934 \[47 U.S.C. 342\] (as added by section 206 of this title) within 270 days after the date of the enactment of this Act, the Federal Communications Commission shall initiate a study of—
 
-&emsp;&emsp;"(A) incentives that would induce a satellite carrier to provide the signals of 1 or more televisionbroadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
+&emsp;&emsp;"(A) incentives that would induce a satellite carrier to provide the signals of 1 or more television broadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
 
 &emsp;&emsp;"(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
 

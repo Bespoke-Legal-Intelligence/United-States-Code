@@ -22,6 +22,8 @@ As used in this chapter—
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, §501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–273, div. C, title III, §13206(a)(12), Nov. 2, 2002, 116 Stat. 1904.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
@@ -37,6 +39,8 @@ Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to i
 <b>1984</b>—Subsec. (d). Pub. L. 98–620, §501(1), inserted "or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.)" after "title".
 
 Subsec. (e). Pub. L. 98–620, §501(2), inserted ": <i>Provided</i>, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance" after "agreement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

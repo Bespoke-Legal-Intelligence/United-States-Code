@@ -26,7 +26,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (d)
 
-Board of Advisors.—The Secretary of the Navy shall establish a board of advisors for the Marine Corps University. The Secretary shall ensure that the board is established so as to meet all requirements of the appropriate regional accrediting association.
+Board of Advisors.—The Secretary of the Navy shall establish a board of advisors for theMarine Corps University. The Secretary shall ensure that the board is established so as to meet all requirements of the appropriate regional accrediting association.
 
 (Added Pub. L. 103–337, div. A, title IX, §911(a)(1), Oct. 5, 1994, 108 Stat. 2828, §7102; amended Pub. L. 107–107, div. A, title V, §532(a)–(b)(3)(A), (c)(1), Dec. 28, 2001, 115 Stat. 1104, 1105; Pub. L. 108–136, div. A, title V, §531(a), Nov. 24, 2003, 117 Stat. 1472; Pub. L. 108–375, div. A, title X, §1084(d)(31), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 110–417, \[div. A\], title V, §543(g)(1), Oct. 14, 2008, 122 Stat. 4462; renumbered §8592, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
 

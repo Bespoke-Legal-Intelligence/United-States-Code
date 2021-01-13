@@ -30,9 +30,13 @@ The President shall report to the Congress annually, in the reports required by 
 
 (Pub. L. 99–399, title VI, §601, Aug. 27, 1986, 100 Stat. 874.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, and not as part of the Nuclear Non-Proliferation Act of 1978 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Nuclear Terrorism Prevention
 
@@ -58,7 +62,7 @@ Pub. L. 110–181, div. C, title XXXI, subtitle D, Jan. 28, 2008, 122 Stat. 586,
 
 &emsp;"(2) the President should accelerate programs, requesting additional funding as appropriate, to prevent nuclear terrorism, including combating nuclear smuggling, securing and accounting for nuclear weapons, and eliminating, removing, or securing and accounting for formula quantities of strategic special nuclear material wherever such quantities may be;
 
-&emsp;"(3) the United States, together with the international community, should take a comprehensive approach to reducing the danger of nuclear terrorism, including by making additional efforts to identify and eliminate terrorist groups that aim to acquire nuclear weapons, to ensure that nuclear weapons worldwide are secure and accounted for and that formula quantities of strategic special nuclear material worldwide are eliminated, removed, or secure and accounted for to a degree sufficient to defeat the threat that terrorists and criminals have shown they canpose, and to increase the ability to find and stop terrorist efforts to manufacture nuclear explosives or to transport nuclear explosives and materials anywhere in the world;
+&emsp;"(3) the United States, together with the international community, should take a comprehensive approach to reducing the danger of nuclear terrorism, including by making additional efforts to identify and eliminate terrorist groups that aim to acquire nuclear weapons, to ensure that nuclear weapons worldwide are secure and accounted for and that formula quantities of strategic special nuclear material worldwide are eliminated, removed, or secure and accounted for to a degree sufficient to defeat the threat that terrorists and criminals have shown they can pose, and to increase the ability to find and stop terrorist efforts to manufacture nuclear explosives or to transport nuclear explosives and materials anywhere in the world;
 
 &emsp;"(4) within such a comprehensive approach, a high priority must be placed on ensuring that all nuclear weapons worldwide are secure and accounted for and that all formula quantities of strategic special nuclear material worldwide are eliminated, removed, or secure and accounted for; and
 
@@ -118,7 +122,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;&emsp;&emsp;"(iii) The role that international agencies and the international community have committed to play, together with a plan for securing international contributions.
 
-&emsp;&emsp;"(D) An assessment of the progress made in implementing the plan described in subparagraph (C), including a description of the efforts of foreign governments to secure and account for nuclear weapons and related equipment and to eliminate, remove, or secure and account for formula quantities of strategic special nuclear material.
+&emsp;&emsp;"(D) An assessment of the progress made in implementing the plan described in subparagraph (C),including a description of the efforts of foreign governments to secure and account for nuclear weapons and related equipment and to eliminate, remove, or secure and account for formula quantities of strategic special nuclear material.
 
 &emsp;"(2) A section on efforts to establish and implement the international nuclear security standard described in section 3133(b) and related policies.
 

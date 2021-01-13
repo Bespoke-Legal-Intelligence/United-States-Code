@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the provisions of this paragraph, if the State offers to convey to the Secretary all right, title, and interest of the State in and to specific parcels of non-Federal land, and the offer is acceptable to the Secretary, the Secretary may, subject to valid existing rights, accept the offer and convey to the State all right, title, and interest of the United States in and to the Federal land generally depicted on the map as "Tract A".
+&emsp;&emsp;Subject to the provisions of this paragraph, if the State offers to convey to theSecretary all right, title, and interest of the State in and to specific parcels of non-Federal land, and the offer is acceptable to the Secretary, the Secretary may, subject to valid existing rights, accept the offer and convey to the State all right, title, and interest of the United States in and to the Federal land generally depicted on the map as "Tract A".
 
 #### (B) Conditions
 

@@ -92,7 +92,7 @@ The scope of the research and development under subsection (a) shall include the
 
 #### (ii) Briefing
 
-&emsp;&emsp;&emsp;Not later than December 21, 2020, the Administrator of the Federal Emergency Management Agency, shall brief the appropriate congressional committees regarding the maintenance of systems, including the alerting capabilities of the integrated public alert and warning system authorized under section 321o of this title.
+&emsp;&emsp;&emsp;Not later than December 21, 2020, the Administrator of the Federal EmergencyManagement Agency, shall brief the appropriate congressional committees regarding the maintenance of systems, including the alerting capabilities of the integrated public alert and warning system authorized under section 321o of this title.
 
 #### (E) Quadrennial risk assessments
 
@@ -148,17 +148,19 @@ The scope of the research and development under subsection (a) shall include the
 
 &emsp;&emsp;(B) The terms "prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
 
-&emsp;&emsp;(C) The term "Sector-Specific Agency" has the meaning given that term in section 651 of this title.
+&emsp;&emsp;(C) The term "Sector Risk Management Agency" has the meaning given that term in section 651 of this title.
 
 #### (e) Rule of construction
 
 Nothing in this section may be construe— <sup>1</sup>
 
-&emsp;(1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
+&emsp;(1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
 
-&emsp;(2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019.
+&emsp;(2) as diminishing or transferring any authorities vested in the Administrator of theFederal Emergency Management Agency or in the Agency prior to December 20, 2019.
 
-(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821.)
+(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821; Pub. L. 116–283, div. H, title XC, §9002(c)(2)(A), Jan. 1, 2021, 134 Stat. 4772.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -168,11 +170,17 @@ Section 61003(c) of division F of the Fixing America's Surface Transportation Ac
 
 #### Amendments
 
+<b>2021</b>—Subsec. (d)(3)(C). Pub. L. 116–283, §9002(c)(2)(A)(i), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
+
+Subsec. (e)(1). Pub. L. 116–283, §9002(c)(2)(A)(ii), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
+
 <b>2019</b>—Pub. L. 116–92, §1740(a)(1)(A), inserted "and threat assessment, response, and recovery" after "development" in section catchline.
 
 Subsecs. (d), (e). Pub. L. 116–92, §1740(a)(1)(B), added subsecs. (d) and (e).
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–278, §2(g)(3)(C), substituted "Section 673 of this title" for "Section 133 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Benchmarks; Definitions
 
@@ -189,6 +197,8 @@ Definitions.—In this section \[amending this section and section 347 of this t
 &emsp;"(1) The term 'appropriate congressional committees' has the meaning given that term in subsection (d) of section 320 of the Homeland Security Act of 2002 \[6 U.S.C. 195f(d)\], as added by subsection (a) of this section; and
 
 &emsp;"(2) The terms 'critical infrastructure', 'EMP', and 'GMD' have the meanings given such terms in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101)."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13865. Coordinating National Resilience to Electromagnetic Pulses
 
@@ -214,7 +224,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 Sec. 3. <i>Policy</i>. (a) It is the policy of the United States to prepare for the effects of EMPs through targeted approaches that coordinate whole-of-government activities and encourage private-sector engagement. The Federal Government must provide warning of an impending EMP; protect against, respond to, and recover from the effects of an EMP through public and private engagement, planning, and investment; and prevent adversarial events through deterrence, defense, and nuclear nonproliferation efforts. To achieve these goals, the Federal Government shall engage in risk-informed planning, prioritize research and development (R\&D) to address the needs of critical infrastructure stakeholders, and, for adversarial threats, consult Intelligence Community assessments.
 
-(b) To implement the actions directed in this order, the Federal Government shall promote collaboration and facilitate information sharing, including the sharing of threat and vulnerability assessments, among executive departments and agencies (agencies), the owners and operators of critical infrastructure, and other relevant stakeholders, as appropriate. The Federal Government shall also provide incentives, as appropriate, to private-sector partners to encourage innovation that strengthens critical infrastructure against the effects of EMPs through the development and implementation of best practices, regulations, and appropriate guidance.
+(b) To implement the actions directed in this order, the Federal Government shall promote collaboration and facilitate information sharing, including the sharing of threat and vulnerability assessments, among executive departments and agencies (agencies), the owners and operators of critical infrastructure, and otherrelevant stakeholders, as appropriate. The Federal Government shall also provide incentives, as appropriate, to private-sector partners to encourage innovation that strengthens critical infrastructure against the effects of EMPs through the development and implementation of best practices, regulations, and appropriate guidance.
 
 Sec. 4. <i>Coordination</i>. (a) The Assistant to the President for National Security Affairs (APNSA), through National Security Council staff and in consultation with the Director of the Office of Science and Technology Policy (OSTP), shall coordinate the development and implementation of executive branch actions to assess, prioritize, and manage the risks of EMPs. The APNSA shall, on an annual basis, submit a report to the President summarizing progress on the implementation of this order, identifying gaps in capability, and recommending how to address those gaps.
 
@@ -230,7 +240,7 @@ Sec. 5. <i>Roles and Responsibilities</i>. (a) The Secretary of State shall:
 
 (i) in cooperation with the heads of relevant agencies and with United States allies, international partners, and private-sector entities as appropriate, improve and develop the ability to rapidly characterize, attribute, and provide warning of EMPs, including effects on space systems of interest to the United States;
 
-(ii) provide timely operational observations, analyses, forecasts, and other products for naturally occurring EMPs to support the mission of the Department of Defense along with United States allies and international partners, including the provision of alerts and warnings for natural EMPs that may affect weaponssystems, military operations, or the defense of the United States;
+(ii) provide timely operational observations, analyses, forecasts, and other products for naturally occurring EMPs to support the mission of the Department of Defense along with United States allies and international partners, including the provision of alerts and warnings for natural EMPs that may affect weapons systems, military operations, or the defense of the United States;
 
 (iii) conduct R\&D and testing to understand the effects of EMPs on Department of Defense systems and infrastructure, improve capabilities to model and simulate the environments and effects of EMPs, and develop technologies to protect Department of Defense systems and infrastructure from the effects of EMPs to ensure the successful execution of Department of Defense missions;
 
@@ -329,6 +339,8 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "construed—".</i>
 

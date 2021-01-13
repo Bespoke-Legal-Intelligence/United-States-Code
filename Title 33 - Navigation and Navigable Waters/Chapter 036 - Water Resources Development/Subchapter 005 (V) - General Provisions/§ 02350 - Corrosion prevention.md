@@ -46,6 +46,8 @@ In the first annual report submitted to Congress after December 16, 2016, in acc
 
 (Pub. L. 113–121, title I, §1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1142, Dec. 16, 2016, 130 Stat. 1658.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -53,6 +55,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 #### Amendments
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–322 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

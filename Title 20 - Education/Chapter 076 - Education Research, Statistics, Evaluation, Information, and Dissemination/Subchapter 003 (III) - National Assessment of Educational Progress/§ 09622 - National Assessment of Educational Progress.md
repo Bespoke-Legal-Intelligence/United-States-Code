@@ -20,7 +20,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(C) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private schools in reading and mathematics in grade 12 in regularly scheduled intervals, but at least as often as such assessments were conducted prior to January 8, 2002;
 
-&emsp;&emsp;(D) to the extent time and resources allow, and after the requirements described in subparagraph (B) are implemented and the requirements described in subparagraph (C) are met, conduct additional national assessments and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in grades 4, 8, and 12 in public and private elementary schools and secondary schools in regularly scheduled intervals in additional subject matter, including writing, science, history, geography, civics, economics, foreign languages, and arts, and the trend assessment described in subparagraph (F);
+&emsp;&emsp;(D) to the extent time and resources allow, and after the requirements described in subparagraph (B) are implemented and the requirements described in subparagraph (C) are met, conduct additional national assessments and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in grades 4, 8, and 12 in public and private elementary schools andsecondary schools in regularly scheduled intervals in additional subject matter, including writing, science, history, geography, civics, economics, foreign languages, and arts, and the trend assessment described in subparagraph (F);
 
 &emsp;&emsp;(E) conduct the reading and mathematics assessments described in subparagraph (B) in the same year, and every other year thereafter, to provide for 1 year in which no such assessments are conducted in between each administration of such assessments;
 
@@ -88,7 +88,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(A) use widely accepted professional testing standards, objectively measure academic achievement, knowledge, and skills, and ensure that any academic assessment authorized under this section be tests that do not evaluate or assess personal or family beliefs and attitudes or publicly disclose personally identifiable information;
 
-&emsp;&emsp;(B) only collect information that is directly related to the appraisal of academic achievement, and to the fair and accurate presentation of such information; and
+&emsp;&emsp;(B) only collect information that is directly related to the appraisal of academicachievement, and to the fair and accurate presentation of such information; and
 
 &emsp;&emsp;(C) collect information on race, ethnicity, socioeconomic status, disability, limited English proficiency, and gender.
 
@@ -128,7 +128,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Report
 
-&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant to subparagraph (A) and responses by the Assessment Board pursuant to subparagraph\(C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
+&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant to subparagraph (A) and responses by the Assessment Board pursuant to subparagraph (C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
 
 #### (E) Cognitive questions
 
@@ -206,7 +206,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Status
 
-&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in amanner that makes clear the status of such levels.
+&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in a manner that makes clear the status of such levels.
 
 #### (E) Updates
 
@@ -244,7 +244,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (2) Report
 
-&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the President, and the Nation on the findings and recommendations of such reviews.
+&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of theSenate, the President, and the Nation on the findings and recommendations of such reviews.
 
 #### (3) Use of findings and recommendations
 
@@ -333,6 +333,22 @@ Committee on Education and the Workforce of House of Representatives changed to 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
+#### Rescheduling of the NAEP Mandated Biennial 4th and 8th Grade Assessment and Alignment of the Mandated Quadrennial 12th Grade Assessment
+
+Pub. L. 116–260, div. FF, title I, §104, Dec. 27, 2020, 134 Stat. 3088, provided that:
+
+"(a)
+
+Current Assessment Administration Rescheduling.—Notwithstanding any other provision of law and due to the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19—
+
+&emsp;"(1) the biennial 4th and 8th grade reading and mathematics assessments scheduled to be conducted during the 2020–2021 school year in accordance with paragraphs (2)(B) and (3)(A)(i) of section 303(b) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)) and, as practicable and subject to the discretion of the National Assessment Governing Board, the Trial Urban District Assessment, shall be conducted during the 2021–2022 school year; and
+
+&emsp;"(2) the next quadrennial 12th grade reading and mathematics assessments carried out in accordance with section 303(b)(2)(C) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)(2)(C)) after the date of enactment of this section \[Dec. 27, 2020\], shall be conducted during the 2023–2024 school year.
+
+"(b)
+
+Future Assessment Administration.—In accordance with section 303(b)(2)(B) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)(2)(B)), the next biennial assessments following the 2021–2022 administration, as authorized under subsection (a), shall occur in the 2023–2024 school year and, as practicable and subject to the discretion of the National Assessment Governing Board, the next Trial Urban District Assessment following the 2021–2022 administration, as authorized under subsection (a), shall occur in the 2023–2024 school year."
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

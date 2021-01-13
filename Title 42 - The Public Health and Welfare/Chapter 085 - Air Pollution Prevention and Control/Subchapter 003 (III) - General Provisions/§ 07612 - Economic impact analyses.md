@@ -18,7 +18,7 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numericalvalues are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 
@@ -100,7 +100,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 &emsp;&emsp;&emsp;"(i) the significant air quality standards and controls required under this Act, and
 
-&emsp;&emsp;&emsp;"(ii) the differences between the significant standards and controls required under this Act and similar standards and controls adopted and enforced by the major trading partners of the United States,
+&emsp;&emsp;&emsp;"(ii) the differences between the significant standards and controls required under this Actand similar standards and controls adopted and enforced by the major trading partners of the United States,
 
 &nbsp;&nbsp;on the international competitiveness of United States manufacturers; and
 
@@ -110,7 +110,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
 
-&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options\(such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
+&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 
 &emsp;"(3)
 

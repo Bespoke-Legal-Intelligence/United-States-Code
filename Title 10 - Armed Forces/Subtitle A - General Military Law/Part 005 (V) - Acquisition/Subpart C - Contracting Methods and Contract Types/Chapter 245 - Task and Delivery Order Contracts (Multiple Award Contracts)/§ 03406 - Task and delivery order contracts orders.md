@@ -1,0 +1,120 @@
+### §3406. Task and delivery order contracts: orders
+
+(a)
+
+Applicability.—This section applies to task and delivery order contracts entered into under sections 3403 and 3405 of this title.
+
+(b)
+
+Issuance of Orders.—The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
+
+&emsp;(1) A separate notice for such order under section 1708 of title 41 or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
+
+&emsp;(2) Except as provided in subsection (c), a competition (or a waiver of competition approved in accordance with section 3204(e) of this title) that is separate from that used for entering into the contract.
+
+(c)
+
+Multiple Award Contracts.—When multiple task or delivery order contracts are awarded under section 3403(d)(1)(B) or 3405(f) of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
+
+&emsp;(1) the agency's need for the services or property ordered is of such unusual urgency that providing such opportunity to all such contractors would result in unacceptable delays in fulfilling that need;
+
+&emsp;(2) only one such contractor is capable of providing the services or property required at the level of quality required because the services or property ordered are unique or highly specialized;
+
+&emsp;(3) the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis;
+
+&emsp;(4) it is necessary to place the order with a particular contractor in order to satisfy a minimum guarantee; or
+
+&emsp;(5) the task or delivery order satisfies one of the exceptions in section 3204(a) of this title to the requirement to use competitive procedures.
+
+(d)
+
+Enhanced Competition for Orders in Excess of $5,000,000.—In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (c) is not met unless all such contractors are provided, at a minimum—
+
+&emsp;(1) a notice of the task or delivery order that includes a clear statement of the agency's requirements;
+
+&emsp;(2) a reasonable period of time to provide a proposal in response to the notice;
+
+&emsp;(3) disclosure of the significant factors and subfactors, including cost or price, that the agency expects to consider in evaluating such proposals, and their relative importance;
+
+&emsp;(4) in the case of an award that is to be made on a best value basis, a written statement documenting the basis for the award and the relative importance of quality and price or cost factors; and
+
+&emsp;(5) an opportunity for a post-award debriefing consistent with the requirements of section 3304 of this title.
+
+(e)
+
+Statement of Work.—A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
+
+(f)
+
+Protests.—(1) A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
+
+&emsp;(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
+
+&emsp;(B) a protest of an order valued in excess of $25,000,000.
+
+(2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+
+(g)
+
+Task and Delivery Order Ombudsman.—
+
+&emsp;(1)
+
+Appointment or designation and responsibilities.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 3403(d)(1)(B) or 3405(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
+
+&emsp;(2)
+
+Who is eligible.—The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
+
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252, §2304c; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285; renumbered §3406 and amended Pub. L. 116–283, div. A, title XVIII, §1820(e), Jan. 1, 2021, 134 Stat. 4194.)
+
+#### Prior Provisions
+
+Prior sections 3441 and 3442 were repealed by Pub. L. 96–513, title II, §207, title VII, §701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+
+Section 3441, act Aug. 10, 1956, ch. 1041, 70A Stat. 195, provided that temporary appointments be made only in the Army without specification of component.
+
+Section 3442, act Aug. 10, 1056, ch. 1041, 70A Stat. 195, provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See section 601 of this title.
+
+A prior section 3443, act Aug. 10, 1956, ch. 1041, 70A Stat. 196, related to grade of appointment of reserve commissioned officers on active duty, prior to repeal by Pub. L. 85–861, §36B(6), Sept. 2, 1958, 72 Stat. 1570.
+
+Prior sections 3444 and 3445 were repealed by Pub. L. 96–513, title II, §207, title VII, §701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+
+Section 3444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, §1(81)(A), 72 Stat. 1480, authorized the President, in time of war or national emergency, to appoint any qualified person, including a person who is not a Regular or Reserve, in any temporary grade, provided for vacation of the appointment, and permitted, for purposes of determining grade, position on a promotion list, seniority in temporary grade, and eligibility for promotion, an officer of the Medical Corps or Dental Corps who is appointed in a temporary grade to be credited, when he enters active duty, with constructive service authorized by section 3294(b) of this title. See section 603 of this title.
+
+Section 3445, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, §1(81)(B), 72 Stat. 1480, provided that in addition to the temporary appointments authorized, in time of war or national emergency, a regular officer or a reserve warrant officer may be appointed in any temporary grade higher than his regular or reserve grade, without vacating that grade, or a person who holds no commissioned grade in the Regular Army be appointed in any temporary commissioned grade. See section 603 of this title.
+
+A prior section 3446 was renumbered section 7176 of this title.
+
+Prior sections 3447 to 3449 were repealed by Pub. L. 96–513, title II, §§207, 208, title VII, §701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+
+Section 3447, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, §1(81)(D), 72 Stat. 1480; Sept. 28, 1971, Pub. L. 92–129, title VI, §602, 85 Stat. 361, provided that temporary appointment of a person be made without reference to any other appointment that he may hold in the Army, temporary appointments of commissioned officers in the Regular Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades of lieutenant colonel and above, temporary appointments of commissioned officers in the reserve components of the Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades above major, and that the President may vacate at any time a temporary appointment in a commissioned grade. See section 601 of this title.
+
+Section 3448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 197; Aug. 8, 1958, Pub. L. 85–603, §1(2), 72 Stat. 526, authorized the Secretary of the Army, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at the pleasure of the Secretary, and such warrant officers entitled to count all periods of active duty under the appointment as warrant or enlisted service for all purposes and to the benefits of all laws and regulations applicable to the retirement, pensions, and disability of members of the Army on active duty. See section 602 of this title.
+
+Section 3449, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that temporary promotions in warrant officergrades be governed by such regulations as the Secretary of the Army prescribe. See section 602 of this title.
+
+A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army, prior to repeal by Pub. L. 90–235, §3(b)(1), Jan. 2, 1968, 81 Stat. 758.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1820(e)(1), (2), renumbered section 2304c of this title as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.
+
+Subsec. (a). Pub. L. 116–283, §1820(e)(3), substituted "sections 3403 and 3405" for "sections 2304a and 2304b".
+
+Subsec. (b)(2). Pub. L. 116–283, §1820(e)(4), substituted "subsection (c)" for "subsection (b)" and "section 3204(e)" for "section 2304(f)".
+
+Subsec. (c). Pub. L. 116–283, §1820(e)(5)(A), which directed substitution of "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1) or 2304b(c)", was executed by making the substitution for "section 2304a(d)(1)(B) or 2304b(e)" in introductory provisions, to reflect the probable intent of Congress.
+
+Subsec. (c)(5). Pub. L. 116–283, §1820(e)(5)(B), substituted "section 3204(a)" for "section 2304(c)".
+
+Subsec. (d). Pub. L. 116–283, §1820(e)(6)(A), substituted "subsection (c)" for "subsection (b)" in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 116–283, §1820(e)(6)(B), substituted "section 3304" for "section 2305(b)(5)".
+
+Subsec. (g). Pub. L. 116–283, §1820(e)(7), designated first and second sentences as pars. (1) and (2), respectively, and inserted headings and, in par. (1), substituted "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1)(B) or 2304b(e)" and "subsection (c)" for "subsection (b)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

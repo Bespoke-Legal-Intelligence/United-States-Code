@@ -40,11 +40,11 @@ Section 6231(c), referred to in subsec. (e), was redesignated section 6231(d) by
 
 #### Prior Provisions
 
-A prior section 6234, added Pub. L. 105–34, title XII, §1231(a), Aug. 5, 1997, 111 Stat. 1020; amended Pub. L. 107–147, title IV, §416(d)(1)(D), Mar. 9, 2002, 116 Stat. 55, related to declaratory judgment relating to treatment of items other than partnership items with respect toan oversheltered return, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
+A prior section 6234, added Pub. L. 105–34, title XII, §1231(a), Aug. 5, 1997, 111 Stat. 1020; amended Pub. L. 107–147, title IV, §416(d)(1)(D), Mar. 9, 2002, 116 Stat. 55, related to declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §206(j), substituted "the amount of (as of the date of the filing of the petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment" for "the amount of the imputed underpayment (as of the date of the filing of the petition)".
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §206(j), substituted "the amount of (as of the date of the filing ofthe petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment" for "the amount of the imputed underpayment (as of the date of the filing of the petition)".
 
 Subsec. (c). Pub. L. 115–141, §201(c)(7), substituted "all partnership-related items" for "all items of income, gain, loss, deduction, or credit of the partnership".
 

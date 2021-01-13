@@ -20,6 +20,10 @@ Program To Encourage Diversification of Defense Laboratories.—(1) The Secretar
 
 (Added Pub. L. 102–484, div. D, title XLII, §4224(a), Oct. 23, 1992, 106 Stat. 2682; amended Pub. L. 104–201, div. A, title VIII, §829(f), Sept. 23, 1996, 110 Stat. 2614.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1868(b), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 383 of this title, as added by section 1868(a) of Pub. L. 116–283, inserted after section 4831, and redesignated as section 4832 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Prior Provisions
 
 A prior section 2514, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1601, directed Secretary of Defense to enhance research relating to manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
@@ -30,13 +34,17 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 <b>1996</b>—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: "The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council."
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### National Action Plan on Advanced Superconductivity Research and Development
 
 Superconductivity research and development activities by Secretary of Defense and by Defense Advanced Research Projects Agency, see section 5207 of Title 15, Commerce and Trade.
 
 #### Pilot Program To Improve Incentives for Technology Transfer From Department of Defense Laboratories
 
-Pub. L. 115–91, div. A, title II, §233, Dec. 12, 2017, 131 Stat. 1339, provided that:
+Pub. L. 115–91, div. A, title II, §233, Dec. 12, 2017, 131 Stat. 1339, as amended by Pub. L. 116–283, div. A, title II, §216(c), Jan. 1, 2021, 134 Stat. 3460, provided that:
 
 "(a)
 
@@ -54,7 +62,7 @@ In General.—The Secretary of Defense shall establish a pilot program to assess
 
 &emsp;&emsp;"(B) to further scientific exchange among the laboratories of the agency;
 
-&emsp;&emsp;"(C) for education and training of employees consistent with the research and development missionsand objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
+&emsp;&emsp;"(C) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
 
 &emsp;&emsp;"(D) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or
 
@@ -92,7 +100,7 @@ Certain Assignments.—Under the pilot program, if the invention involved was on
 
 "(e)
 
-Sunset.—The pilot program under this section shall terminate 5 years after the date of the enactment of this Act \[Dec. 12, 2017\]."
+Sunset.—The pilot program under this section shall terminate on September 30, 2025."
 
 #### Enhanced Transfer of Technology Developed at Department of Defense Laboratories
 

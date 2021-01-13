@@ -20,6 +20,8 @@ The Congress makes the following findings:
 
 (Pub. L. 102–484, div. A, title XVII, §1702, Oct. 23, 1992, 106 Stat. 2575.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 102–484, div. A, title XVII, §1712, Oct. 23, 1992, 106 Stat. 2581, provided that: "This title \[enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\]."
@@ -27,6 +29,8 @@ Pub. L. 102–484, div. A, title XVII, §1712, Oct. 23, 1992, 106 Stat. 2581, pr
 #### Short Title
 
 Pub. L. 102–484, div. A, title XVII, §1701, Oct. 23, 1992, 106 Stat. 2575, provided that: "This title \[enacting this chapter, amending section 4315 of Title 50, War and National Defense, and enacting provisions set out as a note above\] may be cited as the 'Cuban Democracy Act of 1992'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12854. Implementation of Cuban Democracy Act
 
@@ -38,7 +42,7 @@ I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 
 Section 1. <i>Implementation of the Act</i>. All agencies are hereby directed to take all appropriate measures within their authority, including the promulgation of rules and regulations, to carry out the provisions of the Act.
 
-Sec. 2. <i>Functions of the Department of State</i>. The Secretary of State shall be responsible for implementingsections 1704, 1707, and 1708 of the Act \[22 U.S.C. 6003, 6006, 6007\]. Responsibility for transmitting the certification required by section 1707 and the report required by section 1708 of the Act is delegated to the Secretary of State.
+Sec. 2. <i>Functions of the Department of State</i>. The Secretary of State shall be responsible for implementing sections 1704, 1707, and 1708 of the Act \[22 U.S.C. 6003, 6006, 6007\]. Responsibility for transmitting the certification required by section 1707 and the report required by section 1708 of the Act is delegated to the Secretary of State.
 
 Sec. 3. <i>Functions of the Department of the Treasury</i>. Except as provided in section 4 of this order, the Secretary of the Treasury shall be responsible for implementing sections 1705(b)–(e) and 1706 \[22 U.S.C. 6004(b)–(e), 6005\] of the Act, to the extent that these sections pertain to transactions with Cuba.
 

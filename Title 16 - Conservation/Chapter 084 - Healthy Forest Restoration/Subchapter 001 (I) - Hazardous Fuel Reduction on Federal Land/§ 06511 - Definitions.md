@@ -42,13 +42,13 @@ In this subchapter:
 
 #### (4) Condition class 2
 
-&emsp;The term "condition class 2", with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station in the general technical report entitled "Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management" (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
+&emsp;The term "condition class 2", with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station inthe general technical report entitled "Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management" (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
 
 &emsp;&emsp;(A) fire regimes on the land have been moderately altered from historical ranges;
 
 &emsp;&emsp;(B) there exists a moderate risk of losing key ecosystem components from fire;
 
-&emsp;&emsp;(C) fire frequencies have increased or decreased from historical frequencies by 1 ormore return intervals, resulting in moderate changes to—
+&emsp;&emsp;(C) fire frequencies have increased or decreased from historical frequencies by 1 or more return intervals, resulting in moderate changes to—
 
 &emsp;&emsp;&emsp;(i) the size, frequency, intensity, or severity of fires; or
 

@@ -6,9 +6,9 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (b) Rates of tax
 
-(1) On still wines containing not more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021 <sup>1</sup> of alcohol by volume, $1.07 per wine gallon;
+(1) On still wines containing not more than 16 percent of alcohol by volume, $1.07 per wine gallon;
 
-(2) On still wines containing more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021 <sup>1</sup> and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
+(2) On still wines containing more than 16 percent and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
 
 (3) On still wines containing more than 21 percent and not exceeding 24 percent of alcohol by volume, $3.15 per wine gallon;
 
@@ -18,57 +18,13 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 (6) On hard cider, 22.6 cents per wine gallon.
 
-#### (c) Credit for small domestic producers
+#### (c) Credit
 
 #### (1) Allowance of credit
 
-&emsp;Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting "5.6 cents" for "90 cents".
-
-#### (2) Reduction in credit
-
-&emsp;The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.
-
-#### (3) Time for determining and allowing credit
-
-&emsp;The credit allowable by paragraph (1)—
-
-&emsp;&emsp;(A) shall be determined at the same time the tax is determined under subsection (a) of this section, and
-
-&emsp;&emsp;(B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
-
-#### (4) Controlled groups
-
-&emsp;Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
-
-#### (5) Denial of deduction
-
-&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
-
-#### (6) Credit for transferee in bond
-
-&emsp;If—
-
-&emsp;&emsp;(A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
-
-&emsp;&emsp;(B) wine produced by such person is removed during such calendar year by any other person (hereafter in this paragraph referred to as the "transferee") to whom such wine was transferred in bond and who is liable for the tax imposed by this section with respect to such wine, and
-
-&emsp;&emsp;(C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee's credit under this paragraph,
-
-> &emsp;then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
-
-#### (7) Regulations
-
-&emsp;The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
-
-&emsp;&emsp;(A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
-
-&emsp;&emsp;(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
-
-#### (8) Temporary special rule
-
 #### (A) In general
 
-&emsp;&emsp;In the case of wine removed after December 31, 2017, and before January 1, 2021, paragraphs (1) and (2) shall not apply and there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
+&emsp;&emsp;There shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) $1 per wine gallon on the first 30,000 wine gallons of wine, plus
 
@@ -76,7 +32,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;&emsp;&emsp;(iii) 53.5 cents per wine gallon on the first 620,000 wine gallons of wine to which clauses (i) and (ii) do not apply,
 
-> &emsp;&emsp;which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (9) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+> &emsp;&emsp;which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
 
 #### (B) Adjustment of credit for hard cider
 
@@ -88,19 +44,43 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;&emsp;&emsp;(iii) in clause (iii) of such subparagraph, by substituting "3.3 cents" for "53.5 cents".
 
-#### (C) Application of certain rules
+#### (2) Time for determining and allowing credit
 
-&emsp;&emsp;Paragraphs (3) and (6) shall be applied by substituting "paragraph (1) or (8)" for "paragraph (1)" each place it appears therein.
+&emsp;The credit allowable by paragraph (1)—
 
-#### (9) Allowance of credit for foreign manufacturers and importers
+&emsp;&emsp;(A) shall be determined at the same time the tax is determined under subsection (a) of this section, and
+
+&emsp;&emsp;(B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
+
+#### (3) <sup>1</sup> Controlled groups
+
+&emsp;Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
+
+#### (4) Denial of deduction
+
+&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
+
+#### (5) Credit for transferee in bond
+
+&emsp;If—
+
+&emsp;&emsp;(A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
+
+&emsp;&emsp;(B) wine produced by such person is removed during such calendar year by any other person (hereafter in this paragraph referred to as the "transferee") to whom such wine was transferred in bond and who is liable for the tax imposed by this section with respect to such wine, and
+
+&emsp;&emsp;(C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee's credit under this paragraph,
+
+> &emsp;then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
+
+#### (6) Allowance of credit for foreign manufacturers and importers
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (8) (referred to in this paragraph as the "tax credit") may be assigned by the person who produced such wine (referred to in this paragraph as the "foreign producer"), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+&emsp;&emsp;In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (1) (referred to in this paragraph as the "tax credit") may be assigned by the person who produced such wine (referred to in this paragraph as the "foreign producer"), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
 
 #### (B) Assignment
 
-&emsp;&emsp;The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
+&emsp;&emsp;The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
 
 &emsp;&emsp;&emsp;(i) a limitation to ensure that the number of wine gallons of wine for which the tax credit has been assigned by a foreign producer—
 
@@ -116,7 +96,11 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (C) Controlled group
 
-&emsp;&emsp;For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (4).
+&emsp;&emsp;For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
+
+#### (7) Regulations
+
+&emsp;The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
 
 #### (d) Wine gallon
 
@@ -162,7 +146,7 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;&emsp;For purposes of this section, the term "mead" means a wine—
 
-&emsp;&emsp;&emsp;(i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+&emsp;&emsp;&emsp;(i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
 &emsp;&emsp;&emsp;(ii) which is derived solely from honey and water,
 
@@ -174,7 +158,7 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;&emsp;For purposes of this section, the term "low alcohol by volume wine" means a wine—
 
-&emsp;&emsp;&emsp;(i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+&emsp;&emsp;&emsp;(i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
 &emsp;&emsp;&emsp;(ii) which is derived—
 
@@ -186,17 +170,89 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;&emsp;&emsp;(iv) which contains less than 8.5 percent alcohol by volume.
 
-#### (3) Termination
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2),Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, §144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
 
-&emsp;This subsection shall not apply to wine removed after December 31, 2020.
+#### Amendment of Subsection (c)
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, §144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235.)
+<i>Pub. L. 116–260, div. EE, title I, §107(c), Dec. 27, 2020, 134 Stat. 3047, provided that, applicable to wine removed after Dec. 31, 2022, subsection (c) of this section is amended by redesignating paragraph (7) as paragraph (8) and by inserting after paragraph (6) the following new paragraph:</i>
+
+#### <i>(7) Refunds in lieu of tax credits for foreign production removed after December 31, 2022</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—</i>
+
+&emsp;&emsp;&emsp;<i>(i) paragraph (1) shall not apply, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
+
+#### <i>(B) Amount of refund</i>
+
+&emsp;&emsp;<i>The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) excess (if any) of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.</i>
+
+#### <i>(C) Application of rules related to elections and assignments</i>
+
+&emsp;&emsp;<i>Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.</i>
+
+#### <i>(D) Rules for refunds within 90 days</i>
+
+&emsp;&emsp;<i>For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.</i>
+
+<i>See 2020 Amendment note below.</i>
+
+#### Codification
+
+Pub. L. 116–260, div. EE, title I, §110(b), Dec. 27, 2020, 134 Stat. 3049, provided that, for single taxpayer rules relating to wine, see the cross reference under subsec. (c)(3) of this section.
 
 #### Prior Provisions
 
 A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(1), (2). Pub. L. 116–260, §106(e)(1), substituted "16 percent" for "14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021".
+
+Subsec. (c). Pub. L. 116–260, §106(d)(1)(A), struck out "for small domestic producers" after "Credit" in heading.
+
+Subsec. (c)(1). Pub. L. 116–260, §106(d)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: "Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting '5.6 cents' for '90 cents'."
+
+Subsec. (c)(1)(A). Pub. L. 116–260, §106(d)(2)(A), inserted "but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph" after "into the United States during the calendar year" in concluding provisions.
+
+Subsec. (c)(2) to (5). Pub. L. 116–260, §106(d)(1)(C), (D), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year."
+
+Subsec. (c)(6). Pub. L. 116–260, §106(d)(1)(E), which directed only the redesignation of par. (9) as (6), was executed by redesignating par. (9) as (6) and transferring it so as to appear after par. (5), to reflect the probable intent of Congress. Former par. (6) redesignated (5).
+
+Subsec. (c)(6)(A). Pub. L. 116–260, §106(d)(2)(B)(i), substituted "paragraph (1)" for "paragraph (8)".
+
+Subsec. (c)(6)(B). Pub. L. 116–260, §106(d)(2)(B)(ii), substituted "The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security," for "The Secretary" in introductory provisions.
+
+Subsec. (c)(6)(C). Pub. L. 116–260, §106(d)(2)(B)(iii), substituted "paragraph (3)" for "paragraph (4)".
+
+Subsec. (c)(7). Pub. L. 116–260, §107(c)(1), added par. (7). Former par. (7) redesignated (8).
+
+Pub. L. 116–260, §106(d)(1)(F), amended par. (7) generally. Prior to amendment, text read as follows: "The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+
+&emsp;"(A) to prevent the credit provided in this subsection from benefiting any person who producesmore than 250,000 wine gallons of wine during a calendar year, and
+
+&emsp;"(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year."
+
+Subsec. (c)(8). Pub. L. 116–260, §107(c)(1), redesignated par. (7) as (8).
+
+Pub. L. 116–260, §106(d)(1)(C), struck out par. (8) which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
+
+Subsec. (c)(9). Pub. L. 116–260, §106(d)(1)(E), redesignated par. (9) as (6).
+
+Subsec. (h)(2)(A)(i), (B)(i). Pub. L. 116–260, §106(f)(1)(A), substituted "the Secretary may" for "the Secretary shall".
+
+Subsec. (h)(3). Pub. L. 116–260, §106(f)(1)(B), struck out par. (3). Text read as follows: "This subsection shall not apply to wine removed after December 31, 2020."
 
 <b>2019</b>—Subsec. (b)(1), (2). Pub. L. 116–94, §144(e)(1), substituted "January 1, 2021" for "January 1, 2020".
 
@@ -270,6 +326,16 @@ Subsec. (b). Pub. L. 89–44, §501(c)(1)–(5), struck out provisions at end of
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–75 substituted "July 1, 1960" for "July 1, 1959" in five places.
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §106(d)(3), Dec. 27, 2020, 134 Stat. 3044, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2020."
+
+Pub. L. 116–260, div. EE, title I, §106(e)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2020."
+
+Pub. L. 116–260, div. EE, title I, §106(f)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2020."
+
+Pub. L. 116–260, div. EE, title I, §107(c)(2), Dec. 27, 2020, 134 Stat. 3048, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2022."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §144(d)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2019."
@@ -286,7 +352,7 @@ Pub. L. 115–97, title I, §13804(d), Dec. 22, 2017, 131 Stat. 2175, provided t
 
 Pub. L. 115–97, title I, §13805(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by this section \[amending this section\] shall apply to wine removed after December 31, 2017."
 
-Pub. L. 115–97, title I, §13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by this section \[amending this section\] shall apply to wine removed after December 31, 2017."
+Pub. L. 115–97, title I, §13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by thissection \[amending this section\] shall apply to wine removed after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -330,5 +396,5 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 Imposition of tax on wine, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>1</sup></i><i> See Codification note below.</i>
 

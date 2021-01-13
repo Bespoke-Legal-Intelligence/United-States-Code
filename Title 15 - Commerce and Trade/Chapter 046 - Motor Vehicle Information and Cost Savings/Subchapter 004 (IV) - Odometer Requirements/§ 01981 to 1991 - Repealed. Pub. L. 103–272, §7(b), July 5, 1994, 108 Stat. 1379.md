@@ -20,7 +20,7 @@ Section 1989, Pub. L. 92–513, title IV, §409, Oct. 20, 1972, 86 Stat. 963, re
 
 Section 1990, Pub. L. 92–513, title IV, §410, Oct. 20, 1972, 86 Stat. 963; Pub. L. 94–364, title IV, §407, July 14, 1976, 90 Stat. 984, related to injunctive relief to restrain violations of this subchapter. See section 32709 of Title 49.
 
-Section 1990a, Pub. L. 92–513, title IV, §411, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 984, related to State action to restrain violation of this subchapter or recover damages therefor. See section 32709 of Title 49.
+Section 1990a, Pub. L. 92–513, title IV, §411, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 984, related to State action to restrain violation of thissubchapter or recover damages therefor. See section 32709 of Title 49.
 
 Section 1990b, Pub. L. 92–513, title IV, §412, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 984; amended Pub. L. 99–579, §3(a), Oct. 28, 1986, 100 Stat. 3311, related to civil penalty for violation of this subchapter. See section 32709 of Title 49.
 

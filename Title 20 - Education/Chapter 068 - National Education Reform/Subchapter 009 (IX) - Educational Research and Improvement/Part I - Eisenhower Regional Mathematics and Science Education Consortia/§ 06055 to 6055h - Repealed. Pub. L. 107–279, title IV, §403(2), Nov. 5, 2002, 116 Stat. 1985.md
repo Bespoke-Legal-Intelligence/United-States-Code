@@ -1,6 +1,6 @@
 ### §§6055 to 6055h. Repealed. Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section 6055, Pub. L. 103–227, title IX, §1021, formerly Pub. L. 89–10, title XIII, §13301, as added Pub. L. 103–382,title I, §101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, §1021, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(15), Jan. 8, 2002, 115 Stat. 1987, 1988, authorized grants and contracts for establishment and operation of regional mathematics and science education consortia.
+Section 6055, Pub. L. 103–227, title IX, §1021, formerly Pub. L. 89–10, title XIII, §13301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, §1021, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(15), Jan. 8, 2002, 115 Stat. 1987, 1988, authorized grants and contracts for establishment and operation of regional mathematics and science education consortia.
 
 Another section 1021 of Pub. L. 103–227 amended section 2421 of this title prior to the general amendment of chapter 44 of this title by Pub. L. 105–332.
 

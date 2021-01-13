@@ -40,7 +40,7 @@
 
 &emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 
-&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (1) of this subsection;
+&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amountspecified in the notice of withholding furnished under paragraph (1) of this subsection;
 
 &emsp;(4) pay the subcontractor as soon as practicable after the correction of the identified subcontract performance deficiency, and—
 
@@ -84,7 +84,7 @@
 
 &emsp;(3) the remedial actions to be taken by the subcontractor in order to receive payment of the amounts withheld.
 
-(h) A prime contractor may not request payment from the agency of any amount withheldor retained in accordance with subsection (d) of this section until such time as the prime contractor has determined and certified to the agency that the subcontractor is entitled to the payment of such amount.
+(h) A prime contractor may not request payment from the agency of any amount withheld or retained in accordance with subsection (d) of this section until such time as the prime contractor has determined and certified to the agency that the subcontractor is entitled to the payment of such amount.
 
 (i) A dispute between a contractor and subcontractor relating to the amount or entitlement of a subcontractor to a payment or a late payment interest penalty under a clause included in the subcontract pursuant to subsection (b) or (c) of this section does not constitute a dispute to which the United States is a party. The United States may not be interpleaded in any judicial or administrative proceeding involving such a dispute.
 
@@ -94,6 +94,8 @@
 
 (Added Pub. L. 100–496, §9(a)(2), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 107–217, §3(h)(7), Aug. 21, 2002, 116 Stat. 1300.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3905 was renumbered section 3906 of this title.
@@ -101,6 +103,8 @@ A prior section 3905 was renumbered section 3906 of this title.
 #### Amendments
 
 <b>2002</b>—Subsec. (f)(1). Pub. L. 107–217 substituted "section 3133(b) of title 40" for "section 2 of the Act of August 24, 1935 (40 U.S.C. 270b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

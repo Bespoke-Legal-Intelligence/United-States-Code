@@ -22,13 +22,17 @@ Interest from the fund established under subsection (a) may periodically be with
 
 (Pub. L. 100–297, title V, §5211, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2078.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 100–297 and probably should be "this part", meaning part B oftitle V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 100–297 and probably should be "this part", meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 2510, Pub. L. 100–297, title V, §5211, Apr. 28, 1988, 102 Stat. 394, related to regulations, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2509 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

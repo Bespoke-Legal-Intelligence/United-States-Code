@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (July 30, 1946, ch. 700, §6, 60 Stat. 714; ch. 782, title II, §202(2), title XI, §1106(a), Oct. 28, 1949, 63 Stat. 954, 972.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Article IX of the constitution of the Organization, referred to in text, is article IX of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
@@ -26,6 +28,8 @@ In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revi
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
@@ -38,7 +42,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 Pub. L. 97–241, title I, §109, Aug. 24, 1982, 96 Stat. 276, provided that:
 
-"(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act \[section 102(2) of Pub. L. 97–241, which was not classified to the Code\] or by any other Act for 'International Organizations and Conferences' may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is to license journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics.
+"(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act \[section 102(2) of Pub. L. 97–241, which was not classified to the Code\] or by any other Act for 'International Organizations and Conferences' may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is tolicense journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics.
 
 "(b) Not later then February 1 of each year, the Secretary of State shall report to the Congress with respect to whether the United Nations Educational, Scientific and Cultural Organization has taken any action described in subsection (a) of this section."
 

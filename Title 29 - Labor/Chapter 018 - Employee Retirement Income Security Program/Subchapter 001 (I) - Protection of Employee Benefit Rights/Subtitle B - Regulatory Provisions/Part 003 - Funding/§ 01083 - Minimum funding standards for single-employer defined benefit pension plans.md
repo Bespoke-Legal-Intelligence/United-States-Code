@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (B) Shortfall installment
 
-&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year period under subparagraph (A) with respect to any shortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
+&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year period under subparagraph (A) with respect to anyshortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
 
 #### (C) Segment rates
 
@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (II) Cap to apply
 
-&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts\(determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
+&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts (determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
 
 #### (III) Limitation on years to which amounts carried for
 
@@ -470,7 +470,7 @@ For purposes of this section—
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
-&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitationwhich would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
+&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
 
 #### (C) Decrease
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) does not result in a determination of the value of plan assets which, at any time, is lower than 90 percent or greater than 110 percent of the fair market value of such assets at such time.
 
-> &emsp;&emsp;Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assumed earnings rate specified by the actuary but not in excess ofthe third segment rate applicable under subsection (h)(2)(C)(iii)), as specified by the Secretary of the Treasury.
+> &emsp;&emsp;Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assumed earnings rate specified by the actuary but not in excess of the third segment rate applicable under subsection (h)(2)(C)(iii)), as specified by the Secretary of the Treasury.
 
 #### (4) Accounting for contribution receipts
 
@@ -628,7 +628,7 @@ For purposes of this section—
 
 #### (II) Applicable minimum percentage; applicable maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table:
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar yearshall be determined in accordance with the following table:
 
 | If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
 | :--- | :---: | ---: |
@@ -688,13 +688,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is a sufficient number of plan participants, and the pension plans have been maintained for a sufficient period of time, to have credible information necessary for purposes of subclause (II), and
 
-&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintainedby the sponsor and projected trends in general mortality experience.
+&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintained by the sponsor and projected trends in general mortality experience.
 
 #### (iv) All plans in controlled group must use separate table
 
 &emsp;&emsp;&emsp;Except as provided by the Secretary of the Treasury, a plan sponsor may not use a mortality table under this subparagraph for any plan maintained by the plan sponsor unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) a separate mortality table is established and used under this subparagraph for each other plan maintained by the plan sponsor and if the plan sponsor is a member of a controlled group, each member of the controlled group, and
+&emsp;&emsp;&emsp;&emsp;(I) a separate mortality table is established and used under this subparagraphfor each other plan maintained by the plan sponsor and if the plan sponsor is a member of a controlled group, each member of the controlled group, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements of clause (iii) are met separately with respect to the table so established for each such plan, determined by only taking into account the participants of such plan, the time such plan has been in existence, and the actual experience of such plan.
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directlyto a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -1025,7 +1025,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan's funding target attainment percentage for the plan year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the sum of the purchases of annuities, payments of single sums, and suchother disbursements as the Secretary of the Treasury shall provide in regulations.
+&emsp;&emsp;&emsp;&emsp;(II) the sum of the purchases of annuities, payments of single sums, and such other disbursements as the Secretary of the Treasury shall provide in regulations.
 
 #### (v) Liquid assets
 
@@ -1193,9 +1193,11 @@ In the case of a qualified transfer (as defined in section 420 of title 26), any
 
 #### (6) Effect on premium rate calculation
 
-&emsp;Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a planfor which an election is made to apply the alternative standards described in paragraph (3), the additional premium under section 1306(a)(3)(E) of this title shall be determined as if such election had not been made.
+&emsp;Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under section 1306(a)(3)(E) of this title shall be determined as if such election had not been made.
 
-(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(b)(1), Nov. 2, 2015, 129 Stat. 593; Pub. L. 116–94, div. O, title I, §115(b), Dec. 20, 2019, 133 Stat. 3158.)
+(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat.789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(b)(1), Nov. 2, 2015, 129 Stat. 593; Pub. L. 116–94, div. O, title I, §115(b), Dec. 20, 2019, 133 Stat. 3158.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1263,9 +1265,11 @@ Subsec. (i)(4)(B). Pub. L. 110–458, §101(b)(1)(F)(ii), substituted "subparagr
 
 Subsec. (j)(3)(A). Pub. L. 110–458, §101(b)(1)(G)(i), inserted last sentence.
 
-Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternatevaluation date" for "and short years" in heading and added cl. (iii).
+Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternate valuation date" for "and short years" in heading and added cl. (iii).
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section" after "subsection (j)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

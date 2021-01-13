@@ -108,6 +108,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 The amendment to 5 U.S.C. 5108(c)(5) corrects a typographical error and conforms to the source law (act of October 11, 1962, Public Law 87–793, section 606(b), 76 Stat. 849; former 5 U.S.C. 1105(j)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–68 added subsec. (c).
@@ -118,7 +120,7 @@ The amendment to 5 U.S.C. 5108(c)(5) corrects a typographical error and conforms
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to classification of positions above GS–15, consisting of subsecs. (a) and (b), for provisions relating to classification of provisions at GS–16, 17, and 18, consisting of subsecs. (a) to (c).
 
-Subsec. (c). Pub. L. 101–474 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out formerpar. (1), which read as follows: "the Director of the Administrative Office of the United States Courts, subject to the standards and procedures prescribed by this chapter, may place a total of 17 positions in GS–16, 17, and 18; and".
+Subsec. (c). Pub. L. 101–474 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: "the Director of the Administrative Office of the United States Courts, subject to the standards and procedures prescribed by this chapter, may place a total of 17 positions in GS–16, 17, and 18; and".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–325 added cl. (iii) and substituted "the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service" for "GS–16, 17, and 18 in the Federal Bureau of Investigation" in last sentence.
 
@@ -148,7 +150,7 @@ Subsec. (c)(8). Pub. L. 95–624 substituted "45" for "32".
 
 Subsec. (c)(12). Pub. L. 95–454, §414(a)(1)(D)(i), redesignated par. (12) relating to the Chief Judge of the United States Tax Court, as (3).
 
-Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13) relating to the Commodity Futures Trading Commission, par. (14) relating to the Secretary of Health, Education, and Welfare, par. (15) relating to the Chairman of the Equal Employment Opportunity Commission, and par. (16) relating to the Secretary of Health, Education, and Welfare.
+Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13) relating to the Commodity Futures Trading Commission, par. (14) relating to the Secretary of Health, Education, and Welfare, par. (15) relating tothe Chairman of the Equal Employment Opportunity Commission, and par. (16) relating to the Secretary of Health, Education, and Welfare.
 
 Subsec. (c)(17). Pub. L. 95–563 added par. (17).
 
@@ -217,6 +219,8 @@ Subsec. (b). Pub. L. 89–632, §1(b), designated existing provisions as par. (1
 Subsec. (c)(1). Public L. 89–632, §1(c), increased number of positions in GAO from 39 to 64.
 
 Subsec. (c)(2). Pub. L. 89–632, §1(d), increased number of positions in FBI from 75 to 110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

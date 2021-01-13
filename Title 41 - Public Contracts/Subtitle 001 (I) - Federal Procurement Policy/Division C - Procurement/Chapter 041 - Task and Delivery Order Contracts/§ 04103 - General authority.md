@@ -16,7 +16,7 @@ Solicitation.—The solicitation for a task or delivery order contract shall inc
 
 (c)
 
-Applicability of Restriction on Use of Noncompetitive Procedures.—The head of an executive agency may use procedures other thancompetitive procedures to enter into a task or delivery order contract under this section only if an exception in section 3304(a) of this title applies to the contract and the use of those procedures is approved in accordance with section 3304(e) of this title.
+Applicability of Restriction on Use of Noncompetitive Procedures.—The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in section 3304(a) of this title applies to the contract and the use of those procedures is approved in accordance with section 3304(e) of this title.
 
 (d)
 
@@ -72,7 +72,7 @@ Contract Modifications.—A task or delivery order may not increase the scope, p
 
 (f)
 
-Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 4105 of this title, this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in section 1105(g) of title 31).
+Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 4105 of this title, this section does not apply to a task or delivery order contract for the acquisition ofadvisory and assistance services (as defined in section 1105(g) of title 31).
 
 (g)
 

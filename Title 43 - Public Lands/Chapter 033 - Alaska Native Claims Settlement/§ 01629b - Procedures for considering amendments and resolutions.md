@@ -56,9 +56,9 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 &emsp;(B) a level of the total voting power of the corporation greater than a majority (but not greater than two-thirds of the total voting power of the corporation) if the corporation establishes such a level by an amendment to its articles of incorporation.
 
-(2) A Native Corporation in amending its articles of incorporation pursuant to section 1606(g)(2) of this title to authorize the issuance of a new class or series of stock may provide that a majority (or more than a majority) of theshares of such class or series must vote in favor of an amendment or resolution described in subsection (a) (other than an amendment authorized by section 1629c of this title) in order for such amendment or resolution to be approved.
+(2) A Native Corporation in amending its articles of incorporation pursuant to section 1606(g)(2) of this title to authorize the issuance of a new class or series of stock may provide that a majority (or more than a majority) of the shares of such class or series must vote in favor of an amendment or resolution described in subsection (a) (other than an amendment authorized by section 1629c of this title) in order for such amendment or resolution to be approved.
 
-(3) A resolution described in subsection (a)(3) or an amendment to articles of incorporation under section 1606(g)(1)(B) of this title shall be considered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
+(3) A resolution described in subsection (a)(3) or an amendment to articles of incorporation under section 1606(g)(1)(B) of this title shall beconsidered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
 
 &emsp;(A) a majority of the shares present or represented by proxy at the meeting relating to the resolution or amendment to articles of incorporation; or
 
@@ -73,6 +73,8 @@ For the purposes of this section, the determination of total voting power of a N
 For purposes of this section and section 1629e of this title, a Native Corporation shall be considered to be transferring all or substantially all of its assets to a Settlement Trust only if such assets represent two-thirds or more of the fair market value of the Native Corporation's total assets.
 
 (Pub. L. 92–203, §36, as added Pub. L. 100–241, §7, Feb. 3, 1988, 101 Stat. 1795; amended Pub. L. 108–7, div. F, title III, §337(a), Feb. 20, 2003, 117 Stat. 278; Pub. L. 109–179, §1, Mar. 13, 2006, 120 Stat. 283; Pub. L. 109–221, title I, §101(a), May 12, 2006, 120 Stat. 336.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Subsec. (f). Pub. L. 109–221, §101(a)(2), made technical amendment to referen
 Subsec. (d)(d)(3). Pub. L. 108–7, §337(a)(2), as amended by Pub. L. 109–221, §101(a)(1)(A), (B), added par. (d)(3) to subsec. (d).
 
 Subsec. (f). Pub. L. 108–7, §337(a)(3), as amended by Pub. L. 109–221, §101(a)(1)(A), (C), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

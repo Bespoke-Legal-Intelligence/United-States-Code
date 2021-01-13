@@ -34,6 +34,8 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 (Dec. 20, 1945, ch. 583, §5, 59 Stat. 620; Oct. 10, 1949, ch. 660, §3, 63 Stat. 735; Pub. L. 95–12, §1, Mar. 18, 1977, 91 Stat. 22; Pub. L. 111–195, title I, §107(a)(1), July 1, 2010, 124 Stat. 1337.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Article 41 of said Charter, referred to in subsec. (a), is an article of the United Nations Charter.
@@ -47,6 +49,8 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 Subsec. (c). Pub. L. 95–12, §1(2), added subsec. (c).
 
 <b>1949</b>—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia
 
@@ -69,6 +73,8 @@ Pub. L. 95–12, §2, Mar. 18, 1977, 91 Stat. 23, provided that:
 "(b) If the President suspends the operation of the amendments contained in this Act \[amending this section\], he shall so report to the Congress. In addition, the President shall report to the Congress when he terminates such suspension.
 
 "(c) If the President suspends the operation of the amendments contained in this Act \[amending this section\], any reference in those amendments to date of enactment \[Mar. 18, 1977\] shall be deemed to be a reference to the date on which such suspension is terminated by the President."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11322
 
@@ -112,7 +118,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12918, May 26, 1994, 59 F.R. 28205, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.) \[now 50 U.S.C. 4601 et seq.\], the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), theExport Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.) \[now 50 U.S.C. 4601 et seq.\], the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
 
 Section 1. <i>Arms Embargo</i>. The following activities are prohibited, notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order: (a) The sale or supply to Rwanda from the territory of the United States by any person, or by any United States person in any foreign country or other location, or using any U.S.-registered vessel or aircraft, of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary police equipment, and spare parts for the aforementioned, irrespective of origin. This prohibition does not apply to activities related to the United Nations Assistance Mission for Rwanda or the United Nations Observer Mission Uganda-Rwanda or other entities permitted to have such items by the United Nations Security Council; and
 
@@ -130,7 +136,7 @@ Sec. 4. <i>Authorization</i>. All agencies of the United States Government are h
 
 Sec. 5. <i>Delegation of Authority</i>. The Secretary of State and the Secretary of Commerce in consultation with the Secretary of State are hereby authorized to promulgate rules and regulations, and to employ all powers granted to the President by section 5 of the United Nations Participation Act \[of 1945\] \[22 U.S.C. 287c\] and not otherwise delegated by Executive order, as may be necessary to carry out the purpose of implementing any other arms embargo mandated by resolution of the United Nations Security Council, consistent with the allocation of functions delegated under section 3 of this order. The Secretary of State or the Secretary of Commerce may redelegate any of these functions to other officers and agencies of the United States Government.
 
-Sec. 6. <i>Judicial Review</i>. Nothing contained in this order shall create any right or benefit, substantive orprocedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. Nothing contained in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 7. <i>Effective Date</i>. This order shall take effect at 11:59 p.m. eastern daylight time on May 26, 1994.
 

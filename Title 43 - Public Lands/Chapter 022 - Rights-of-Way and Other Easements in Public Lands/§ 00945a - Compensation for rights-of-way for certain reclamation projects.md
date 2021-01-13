@@ -4,9 +4,13 @@ Notwithstanding the existence of any reservation of right-of-way to the United S
 
 (Pub. L. 88–561, §1, Sept. 2, 1964, 78 Stat. 808; Pub. L. 89–624, Oct. 4, 1966, 80 Stat. 873.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–624 inserted "to the United States" and "or any State statute,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

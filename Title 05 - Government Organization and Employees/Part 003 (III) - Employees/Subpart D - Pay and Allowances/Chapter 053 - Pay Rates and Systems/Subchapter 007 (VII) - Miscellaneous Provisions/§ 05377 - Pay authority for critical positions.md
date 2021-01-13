@@ -34,7 +34,7 @@
 
 (d)(1) The rate of basic pay fixed under this section by an agency head may not be less than the rate of basic pay (including any comparability payments) which would then otherwise be payable for the position involved if this section had never been enacted.
 
-(2) Basic pay may not be fixed under this section at a rate greater than the rate payable forlevel I of the Executive Schedule, except upon written approval of the President.
+(2) Basic pay may not be fixed under this section at a rate greater than the rate payable for level I of the Executive Schedule, except upon written approval of the President.
 
 (e) The authority to fix the rate of basic pay under this section for a position shall terminate—
 
@@ -58,6 +58,8 @@
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §103(a)\], Nov. 5, 1990, 104 Stat. 1427, 1444; amended Pub. L. 102–378, §2(34), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 108–411, title I, §102, Oct. 30, 2004, 118 Stat. 2311; Pub. L. 108–447, div. B, title I, §115, Dec. 8, 2004, 118 Stat. 2870.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in section 5312 of this title.
@@ -78,6 +80,8 @@ Subsec. (h). Pub. L. 108–411, §102(2), (4), in introductory provisions, subst
 
 Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -87,6 +91,8 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 #### Effective Date
 
 Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

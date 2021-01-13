@@ -16,7 +16,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 &emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
-> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
+> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. Forpurposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
 (B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
@@ -58,7 +58,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (iii) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
-&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
+&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent ofthe actuarial equivalent of in-service distribution of benefits, and
 
 &emsp;(II) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
@@ -150,7 +150,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under theplan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -230,7 +230,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;(i) all mandatory contributions made by the employee,
 
-&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
+&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section 1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
 
 &emsp;(iii) interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
@@ -304,7 +304,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(v) the transferee plan allows the participant or beneficiary described in clause (iii) to receive any distribution to which the participant or beneficiary is entitled under the transferee plan in the form of a single sum distribution.
 
-(B) Subparagraph (A) shall apply to plan mergers and other transactions having the effect of a direct transfer, including consolidations of benefits attributable to different employers within a multiple employer plan.
+(B) Subparagraph (A) shall apply to plan mergers and other transactions having the effect of adirect transfer, including consolidations of benefits attributable to different employers within a multiple employer plan.
 
 (5) Except to the extent provided in regulations promulgated by the Secretary of the Treasury, a defined contribution plan shall not be treated as failing to meet the requirements of this subsection merely because of the elimination of a form of distribution previously available thereunder. This paragraph shall not apply to the elimination of a form of distribution with respect to any participant unless—
 
@@ -422,7 +422,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (ii) Certain restrictions and conditions not allowed
 
-&emsp;&emsp;&emsp;Except as provided in regulations, a plan shall not meet the requirements of thisparagraph if the plan imposes restrictions or conditions with respect to the investment of employer securities which are not imposed on the investment of other assets of the plan. This subparagraph shall not apply to any restrictions or conditions imposed by reason of the application of securities laws.
+&emsp;&emsp;&emsp;Except as provided in regulations, a plan shall not meet the requirements of this paragraph if the plan imposes restrictions or conditions with respect to the investment of employer securities which are not imposed on the investment of other assets of the plan. This subparagraph shall not apply to any restrictions or conditions imposed by reason of the application of securities laws.
 
 #### (5) Applicable individual account plan
 
@@ -456,7 +456,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;&emsp;&emsp;(I) no employer corporation, or parent corporation of an employer corporation, has issued any publicly traded employer security, and
 
-&emsp;&emsp;&emsp;&emsp;(II) no employer corporation, or parent corporation of an employer corporation, has issued any special class of stock which grants particular rights to, or bears particular risks for, the holder or issuer with respect to any corporation described in clause (i) which has issued any publicly traded employer security.
+&emsp;&emsp;&emsp;&emsp;(II) no employer corporation, or parent corporation of an employer corporation, has issued any special class of stock which grants particular rights to, or bears particular risks for, the holder orissuer with respect to any corporation described in clause (i) which has issued any publicly traded employer security.
 
 #### (iii) Definitions
 
@@ -520,7 +520,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 | <b> Plan year to which paragraph (3)  applies:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| 1st | 33   |
+| 1st | 33&nbsp;&nbsp; |
 | 2d | 66&nbsp;&nbsp; |
 | 3d | 100\. |
 
@@ -561,6 +561,8 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
 (Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -686,6 +688,8 @@ Subsec. (e). Pub. L. 98–397, §102(f), substituted "5 consecutive 1-year break
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–235 applicable to all periods before, on, and after Dec. 16, 2014, see section 2(c) of div. P of Pub. L. 113–235, set out as a note under section 411 of Title 26, Internal Revenue Code.
@@ -704,7 +708,7 @@ Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beg
 
 Amendment by section 701(a)(1) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Amendment by section 901(b)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 901(b)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, withspecial rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2002 Amendment
 
@@ -756,7 +760,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988,with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 

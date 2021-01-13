@@ -4,9 +4,13 @@ The receipt of assets or assumption of liabilities by the consolidated bank, the
 
 (Pub. L. 92–181, title III, §3.27, as added Pub. L. 100–233, title IV, §415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 100–399, title IV, §407(g), Aug. 17, 1988, 102 Stat. 1001.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–399 substituted "cooperative" for "taxable institution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -4,6 +4,8 @@ Whenever the water users take over the care, operation, and maintenance of a pro
 
 (Dec. 5, 1924, ch. 4, §4, subsec. I, 43 Stat. 703.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 The definitions in section 371 of this title apply to this section.

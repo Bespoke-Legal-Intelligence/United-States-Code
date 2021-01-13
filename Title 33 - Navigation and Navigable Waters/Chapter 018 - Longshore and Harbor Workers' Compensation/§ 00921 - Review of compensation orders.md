@@ -10,7 +10,7 @@ A compensation order shall become effective when filed in the office of the depu
 
 (2) For the purpose of carrying out its functions under this chapter, three members of the Board shall constitute a quorum and official action can be taken only on the affirmative vote of at least three members.
 
-(3) The Board shall be authorized to hear and determine appeals raising a substantial question of law or fact taken by any party in interest from decisions with respect to claims of employees under this chapter and the extensions thereof. The Board's orders shall be based upon the hearing record. The findings of fact in the decision under review by the Board shall be conclusive if supported by substantial evidence in the record considered as a whole. The payment of the amounts required by an award shall not be stayed pending final decision in any such proceeding unless ordered by the Board. No stay shall be issued unless irreparable injury would otherwise ensue to the employer or carrier.
+(3) The Board shall be authorized to hear and determine appeals raising a substantial question of law or fact taken by any party in interest from decisions with respect to claims of employees under this chapter and the extensions thereof. The Board's orders shall be based upon the hearing record. The findings of fact in the decision under review by the Board shall be conclusive if supported by substantial evidence in therecord considered as a whole. The payment of the amounts required by an award shall not be stayed pending final decision in any such proceeding unless ordered by the Board. No stay shall be issued unless irreparable injury would otherwise ensue to the employer or carrier.
 
 (4) The Board may, on its own motion or at the request of the Secretary, remand a case to the administrative law judge for further appropriate action. The consent of the parties in interest shall not be a prerequisite to a remand by the Board.
 
@@ -30,6 +30,8 @@ Proceedings for suspending, setting aside, or enforcing a compensation order, wh
 
 (Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 As originally enacted, subsec. (d) contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia".
@@ -44,9 +46,11 @@ Subsec. (b)(5). Pub. L. 98–426, §15(4), added par. (5).
 
 <b>1978</b>—Subsec. (b)(4). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting serviceof process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days' notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
+<b>1972</b>—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to thecourt and hearing on at least three days' notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
 
 Subsecs. (c) to (e). Pub. L. 92–576, §15(a), (b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Medium- or heavy-duty electric vehicle
 
-&emsp;The term "medium- or heavy-duty electric vehicle" means an electric, hybrid electric, orplug-in hybrid electric vehicle with a gross vehicle weight of more than 8,501 pounds.
+&emsp;The term "medium- or heavy-duty electric vehicle" means an electric, hybrid electric, or plug-in hybrid electric vehicle with a gross vehicle weight of more than 8,501 pounds.
 
 #### (4) Neighborhood electric vehicle
 

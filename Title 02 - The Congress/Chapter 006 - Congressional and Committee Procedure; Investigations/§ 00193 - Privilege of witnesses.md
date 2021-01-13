@@ -4,6 +4,8 @@ No witness is privileged to refuse to testify to any fact, or to produce any pap
 
 (R.S. §103; June 22, 1938, ch. 594, 52 Stat. 942.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §103 derived from act Jan. 24, 1862, ch. 11, 12 Stat. 333.

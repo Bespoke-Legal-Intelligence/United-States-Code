@@ -21,10 +21,15 @@
 | [116\.](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md) | Reports to Congress: cost information. |
 | [117\.](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20accounts.md) | Advance appropriations for certain accounts. |
 | [118\.](%C2%A7%2000118%20-%20Submission%20of%20reports%20to%20Congress%20in%20electronic%20form.md) | Submission of reports to Congress in electronic form. |
+| [119\.](%C2%A7%2000119%20-%20Contracting%20for%20statistical%20analyses%20and%20data%20evaluation.md) | Contracting for statistical analyses and data evaluation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–171, title III, §306(b), Oct. 17, 2020, 134 Stat. 805, added item 119.
 
 <b>2014</b>—Pub. L. 113–235, div. I, title II, §244(c), Dec. 16, 2014, 128 Stat. 2569, added item 117 and struck out former item 117 "Advance appropriations for certain medical care accounts".
 
@@ -76,3 +81,4 @@ Pub. L. 111–163, title X, §1003(b), May 5, 2010, 124 Stat. 1183, added items 
 - [&sect; 00116 - Reports to Congress cost information](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md)
 - [&sect; 00117 - Advance appropriations for certain accounts](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20accounts.md)
 - [&sect; 00118 - Submission of reports to Congress in electronic form](%C2%A7%2000118%20-%20Submission%20of%20reports%20to%20Congress%20in%20electronic%20form.md)
+- [&sect; 00119 - Contracting for statistical analyses and data evaluation](%C2%A7%2000119%20-%20Contracting%20for%20statistical%20analyses%20and%20data%20evaluation.md)

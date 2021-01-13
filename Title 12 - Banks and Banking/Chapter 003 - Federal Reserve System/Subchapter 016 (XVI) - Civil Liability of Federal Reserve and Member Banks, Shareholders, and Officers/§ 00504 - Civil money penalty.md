@@ -84,6 +84,8 @@ The resignation, termination of employment or participation, or separation of an
 
 (Dec. 23, 1913, ch. 6, §29, as added Pub. L. 95–630, title I, §101, Nov. 10, 1978, 92 Stat. 3641; amended Pub. L. 97–320, title IV, §424(c), (d)(1), (e), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 101–73, title IX, §§905(f), 907(g), Aug. 9, 1989, 103 Stat. 461, 470.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title" was in the original "section 22, 23A, or 23B", meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, §615(b), July 21, 2010, 124 Stat. 1615.
@@ -98,9 +100,11 @@ Subsec. (m). Pub. L. 101–73, §905(f), added subsec. (m).
 
 Subsec. (d). Pub. L. 97–320, §424(e), substituted "twenty days from the service" for "ten days from the date".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug.9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 

@@ -66,7 +66,7 @@ Subsec. (a). Pub. L. 98–369, §461(a)(1), substituted "$10,000" for "$5,000" i
 
 <b>1978</b>—Pub. L. 95–600, §502(a)(2)(A), substituted "$5,000" for "$1,500" in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §502(a)(1), "$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A" for "$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or" in par. (1), "$5,000, in the case of the tax imposed by chapter 11, or" for "$1,500 in the case of the tax imposed by chapter 11," in par. (2), and added par. (3).
+Subsec. (a). Pub. L. 95–600, §502(a)(1), "$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A" for "$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or" in par. (1), "$5,000, in the case of the tax imposedby chapter 11, or" for "$1,500 in the case of the tax imposed by chapter 11," in par. (2), and added par. (3).
 
 Subsec. (g). Pub. L. 95–600, §502(b), added subsec. (g).
 
@@ -122,7 +122,7 @@ General Rule.—Except as provided in subsections (b) and (c), the provisions of
 
 "(b)
 
-Collection and Administration of State Taxes by the United States May Not Begin Before January 1, 1974.—Section 6361 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 202(a)of this Act) shall take effect on whichever of the following is the later:
+Collection and Administration of State Taxes by the United States May Not Begin Before January 1, 1974.—Section 6361 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 202(a) of this Act) shall take effect on whichever of the following is the later:
 
 &emsp;"(1) January 1, 1974, or
 

@@ -54,7 +54,7 @@ Procedures for the Use of Qualified Private Auditors.—(1) Not later than Octob
 
 (4) The Secretary of Defense shall consider the results of an incurred cost audit performed under this section without regard to whether the Defense Contract Audit Agency or a qualified private auditor performed the audit.
 
-(5) The contracting officer for a contract that is the subject of an incurred cost audit shallhave the sole discretion to determine what action should be taken based on an audit finding on direct costs of the contract.
+(5) The contracting officer for a contract that is the subject of an incurred cost audit shall have the sole discretion to determine what action should be taken based on an audit finding on direct costs of the contract.
 
 (d)
 
@@ -116,7 +116,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "generally accepted government auditing standards" means the generally accepted government auditing standards of the Comptroller General of the United States.
 
-&emsp;(5) The term "numeric materiality standard" means a dollar amount of misstatements, including omissions, contained in an incurredcost audit that would be material if the misstatements, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the Government made on the basis of the incurred cost audit.
+&emsp;(5) The term "numeric materiality standard" means a dollar amount of misstatements, including omissions, contained in an incurred cost audit that would be material if the misstatements, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the Government made on the basis of the incurred cost audit.
 
 &emsp;(6) The term "qualified incurred cost submission" means a submission by a contractor of costs incurred under a flexibly priced contract that has been qualified by the Department of Defense as sufficient to conduct an incurred cost audit.
 
@@ -127,6 +127,10 @@ Definitions.—In this section:
 &emsp;&emsp;(B) that has received a passing peer review rating, as defined by generally accepted government auditing standards.
 
 (Added Pub. L. 115–91, div. A, title VIII, §803(a), Dec. 12, 2017, 131 Stat. 1451; amended Pub. L. 115–232, div. A, title X, §1081(a)(19), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title XVII, §1731(a)(41), Dec. 20, 2019, 133 Stat. 1814.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1835(c), Jan. 1, 2021, 134 Stat. 4151, 4240, pro</i><i>vided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 279 of this title, as added by section 1835(a) of Pub. L. 116–283, inserted after section 3841, and redesignated as section 3842 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -139,4 +143,8 @@ Section 809 of the National Defense Authorization Act for Fiscal Year 2016, refe
 <b>2019</b>—Subsec. (d)(1), (2). Pub. L. 116–92 substituted "a task order" for "an task order".
 
 <b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–232 redesignated cls. (A) and (B) as (i) and (ii), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

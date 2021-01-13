@@ -4,6 +4,8 @@ The President is hereby authorized to accept membership for the United States in
 
 (Mar. 4, 1948, ch. 97, §1, 62 Stat. 66.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purpose of Commission
 
 Act Mar. 4, 1948, ch. 97, 62 Stat. 65, provided that:
@@ -14,13 +16,15 @@ Act Mar. 4, 1948, ch. 97, 62 Stat. 65, provided that:
 
 #### Acceptance of Caribbean Organization Agreement
 
-Pub. L. 87–73, June 30, 1961, 75 Stat. 194, provided: "That the President is hereby authorized to accept onbehalf of the Government of the United States of America the 'Agreement for the Establishment of the Caribbean Organization' signed at Washington on June 21, 1960, by representatives of the Governments of the Republic of France, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America; that the participation of the Commonwealth of Puerto Rico and the Virgin Islands of the United States in the Caribbean Organization is hereby authorized; that the Caribbean Organization shall, upon promulgation by the President of an Executive order to this effect, be entitled to the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288); and that the Secretary of State is hereby authorized to appoint or designate a United States observer to the Caribbean Organization."
+Pub. L. 87–73, June 30, 1961, 75 Stat. 194, provided: "That the President is hereby authorized to accept on behalf of the Government of the United States of America the 'Agreement for the Establishment of the Caribbean Organization' signed at Washington on June 21, 1960, by representatives of the Governments of the Republic of France, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America; that the participation of the Commonwealth of Puerto Rico and the Virgin Islands of the United States in the Caribbean Organization is hereby authorized; that the Caribbean Organization shall, upon promulgation by the President of an Executive order to this effect, be entitled to the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288); and that the Secretary of State is hereby authorized to appoint or designate a United States observer to the Caribbean Organization."
 
 #### Termination of Caribbean Commission
 
 Article III of the Agreement of the Establishment of the Caribbean Organization provides that "On the termination of the Agreement for the establishment of the Caribbean Commission, signed at Washington on October 30, 1946, the assets of the Caribbean Commission shall be and are by virtue of this Agreement transferred to and vested in the Caribbean Organization. The Caribbean Organization is hereby authorized to assume at the same time the liabilities of the Caribbean Commission and shall be regarded as the successor body to the Caribbean Commission."
 
 Article IV of such Agreement provides that "The Agreement for the establishment of the Caribbean Commission shall terminate at the end of the first meeting of the Caribbean Council provided for in the Statute annexed to this Agreement."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10609. Delegation of Authority To Appoint Alternate Commissioners
 

@@ -10,7 +10,7 @@ Limitation on Exercise of Authority.—The Secretary of a military department ma
 
 &emsp;(1) A detailed description of officer requirements for officers within the competitive category.
 
-&emsp;(2) An explanation of the number of opportunities for consideration for promotion to each particular grade, and an estimate of promotion timing, within the competitive category.
+&emsp;(2) An explanation of the number of opportunities for consideration for promotion to eachparticular grade, and an estimate of promotion timing, within the competitive category.
 
 &emsp;(3) An estimate of the size of the promotion zone for each grade within the competitive category.
 

@@ -22,6 +22,8 @@ Jan. 5, 1905, ch. 23, §8, as added June 23, 1910, ch. 372, §2, 36 Stat. 604; M
 
 The words "from time to time" are omitted \[as\] unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–26 struck out "nine" before "trustees elected" in first sentence and substituted "The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees." for "The board of governors shall prescribe regulations on terms and tenure of office, accountability, and expenses of the board of trustees."

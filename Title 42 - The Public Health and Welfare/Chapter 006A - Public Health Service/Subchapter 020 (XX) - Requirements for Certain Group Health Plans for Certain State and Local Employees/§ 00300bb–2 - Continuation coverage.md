@@ -30,7 +30,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (v) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employeeshall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 #### (vi) Special rule for disability
 
@@ -74,7 +74,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII,§1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
+(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remar
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, seesection 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, see section 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 

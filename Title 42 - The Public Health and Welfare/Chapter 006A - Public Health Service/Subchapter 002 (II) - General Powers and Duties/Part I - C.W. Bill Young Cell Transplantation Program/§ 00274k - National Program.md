@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the "Program"), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow andcord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the "Program"), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
 
 &emsp;(1) Each member of the Advisory Council shall serve for a term of 2 years, and each such member may serve as many as 3 consecutive 2-year terms, except that—
 
@@ -26,7 +26,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(B) to limit the number of members of the Advisory Council with any such affiliation.
 
-&emsp;(6) The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit to Congress an annual report on the activities carried out under this section.
+&emsp;(6) The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit to Congressan annual report on the activities carried out under this section.
 
 #### (b) Accreditation
 
@@ -90,7 +90,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;&emsp;(v) provide for a system of patient advocacy through the office established under subsection (h);
 
-&emsp;&emsp;&emsp;(vi) coordinate with the qualified cord blood banks to support informational and educational activities in accordance with subsection (g);
+&emsp;&emsp;&emsp;(vi) coordinate with the qualified cord blood banks to support informational andeducational activities in accordance with subsection (g);
 
 &emsp;&emsp;&emsp;(vii) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
 
@@ -98,7 +98,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (B) Efforts to increase collection of high quality cord blood units
 
-&emsp;&emsp;In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,<sup>1</sup> consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,<sup>1</sup> consistent with the requirements under the National Cord Blood Inventoryprogram under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+&emsp;&emsp;In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,<sup>1</sup> consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,<sup>1</sup> consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
 
 #### (C) Definition
 
@@ -208,7 +208,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (B) Priorities
 
-&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A), the Program shall give priority to supporting the recruitment of pregnant women to serve as donors of cord blood for populations that are identified under paragraph (1).
+&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A),the Program shall give priority to supporting the recruitment of pregnant women to serve as donors of cord blood for populations that are identified under paragraph (1).
 
 #### (3) Transplantation as treatment option
 
@@ -284,7 +284,7 @@ In developing policies affecting the Program, the Secretary shall consult with t
 
 #### (1) Application
 
-&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an application at such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
+&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an applicationat such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
 
 #### (2) Considerations
 
@@ -312,7 +312,7 @@ Any person who discloses the content of any record referred to in subsection (d)
 
 #### References in Text
 
-Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in subsec. (d)(2)(A)(iv), (B), issection 2 of Pub. L. 109–129, Dec. 20, 2005, 119 Stat. 2550, which is set out as a note under this section.
+Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in subsec. (d)(2)(A)(iv), (B), is section 2 of Pub. L. 109–129, Dec. 20, 2005, 119 Stat. 2550, which is set out as a note under this section.
 
 #### Amendments
 
@@ -406,7 +406,7 @@ In General.—The Secretary of Health and Human Services shall enter into contra
 
 Requirements.—The Secretary shall require each recipient of a contract under this section—
 
-&emsp;"(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with theinformed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[42 U.S.C. 274k(c)\], in a manner that complies with applicable Federal and State regulations;
+&emsp;"(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[42 U.S.C. 274k(c)\], in a manner that complies with applicable Federal and State regulations;
 
 &emsp;"(2) to encourage donation from a genetically diverse population;
 
@@ -500,7 +500,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct astudy of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

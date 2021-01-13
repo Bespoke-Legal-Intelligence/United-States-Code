@@ -6,7 +6,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;(1) if he participates knowingly in, or knowingly undertakes to conceal, an act or omission of such other fiduciary, knowing such act or omission is a breach;
 
-&emsp;(2) if, by his failure to comply with section 1104(a)(1) of this title in the administration of his specific responsibilities which give rise to his status as a fiduciary, he has enabled such other fiduciary to commit a breach; or
+&emsp;(2) if, by his failure to comply with section 1104(a)(1) of this title in the administration ofhis specific responsibilities which give rise to his status as a fiduciary, he has enabled such other fiduciary to commit a breach; or
 
 &emsp;(3) if he has knowledge of a breach by such other fiduciary, unless he makes reasonable efforts under the circumstances to remedy the breach.
 

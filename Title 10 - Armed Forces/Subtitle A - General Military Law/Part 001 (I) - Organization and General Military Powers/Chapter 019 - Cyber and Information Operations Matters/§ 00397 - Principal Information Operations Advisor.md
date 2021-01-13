@@ -12,11 +12,11 @@ Responsibilities.—The Principal Information Operations Advisor shall have the 
 
 &emsp;(2) Overall integration and supervision of the deterrence of, conduct of, and defense against information operations.
 
-&emsp;(3) Promulgation of policies to ensure adequate coordination and deconfliction with the Department of State, the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), and other relevant agencies and departments of the Federal Government.
+&emsp;(3) Promulgation of policies to ensure adequate coordination and deconfliction with theDepartment of State, the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), and other relevant agencies and departments of the Federal Government.
 
 &emsp;(4) Coordination with the head of the Global Engagement Center to support the purpose of the Center (as set forth by section 1287(a)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note)) and liaison with the Center and other relevant Federal Government entities to support such purpose.
 
-&emsp;(5) Establishing and supervising a rigorous risk management process to mitigate the risk of potential exposure of United States Persons <sup>1</sup> to information intended exclusively for foreign audiences.
+&emsp;(5) Establishing and supervising a rigorous risk management process to mitigate the risk of potential exposure of United States persons to information intended exclusively for foreign audiences.
 
 &emsp;(6) Promulgation of standards for the attribution or public acknowledgment, if any, of operations in the information environment.
 
@@ -24,15 +24,19 @@ Responsibilities.—The Principal Information Operations Advisor shall have the 
 
 &emsp;(8) Such other matters relating to information operations as the Secretary shall specify for purposes of this subsection.
 
-(Added Pub. L. 116–92, div. A, title XVI, §1631(a)(1), Dec. 20, 2019, 133 Stat. 1741.)
+(Added Pub. L. 116–92, div. A, title XVI, §1631(a)(1), Dec. 20, 2019, 133 Stat. 1741; amended Pub. L. 116–283, div. A, title X, §1081(a)(16), Jan. 1, 2021, 134 Stat. 3871.)
 
 #### References in Text
 
 The enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 116–92, which added this section and was approved Dec. 20, 2019.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(5). Pub. L. 116–283 substituted "persons" for "Persons".
+
 #### Conducting of Military Operations in the Information Environment
 
-Pub. L. 116–92, div. A, title XVI, §1631(b)–(i), Dec. 20, 2019, 133 Stat. 1742–1745, provided that:
+Pub. L. 116–92, div. A, title XVI, §1631(b)–(i), Dec. 20, 2019, 133 Stat. 1742–1745, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(6), title XVII, §1749(b), Jan. 1, 2021, 134 Stat. 3873, 4142, provided that:
 
 "(b)
 
@@ -88,9 +92,11 @@ Strategy and posture review required.—Not later than 270 days after the date o
 
 &emsp;&emsp;"(C) designate Information Operations Force Providers and Information Operations Joint Force Trainers for the Department of Defense;
 
-&emsp;&emsp;"(D) develop and persistently manage a joint lexicon for terms related to information operations, including 'information operations', 'information environment', 'operations in the information environment', and 'information related capabilities'; and
+&emsp;&emsp;"(D) develop and persistently manage a joint lexicon for terms related to information operations, including 'information operations', 'information environment', 'operations in the information environment', and 'information related capabilities'\[;\] and \[sic\]
 
-&emsp;&emsp;"(E) determine the collective set of combat capabilities that will be treated as part of operations in the information environment, including cyber warfare, space warfare, military information support operations, electronic warfare, public affairs, and civil affairs.
+&emsp;&emsp;"(E) determine the collective set of combat capabilities that will be treated as part of operations in the information environment, including cyber warfare, space warfare, military information supportoperations, electronic warfare, public affairs, and civil affairs; and
+
+&emsp;&emsp;"(F) designate a Department of Defense entity to develop, apply, and continually refine an assessment capability for defining and measuring the impact of Department information operations, which entity shall be organizationally independent of Department components performing or otherwise engaged in operational support to Department information operations.
 
 &emsp;"(2)
 
@@ -140,7 +146,7 @@ Elements.—The plan required under paragraph (1) shall address the following:
 
 Definitions.—In this section:
 
-&emsp;"(1) The terms 'foreign person' \[probably should be "foreign power"\] and 'United States person' have the meanings given such terms in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
+&emsp;"(1) The terms 'foreign power' and 'United States person' have the meanings given such terms in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
 
 &emsp;"(2) The term 'hostilities' has the same meaning as such term is used in the War Powers Resolution (50 U.S.C. 1541 et seq.).
 
@@ -158,5 +164,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;"(iv) in support of military operations short of hostilities and in areas where hostilities are not occurring for the purpose of preparation of the environment, influence, force protection, and deterrence."
 
-<i><sup>1</sup></i><i> So in original. "Persons" probably should not be capitalized.</i>
+\[Amendment by Pub. L. 116–283, §1749(b), to section 1631(g) of Pub. L. 116–92, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
+
+\[Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(6) of Pub. L. 116–283 to section 1631(i) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.\]
 

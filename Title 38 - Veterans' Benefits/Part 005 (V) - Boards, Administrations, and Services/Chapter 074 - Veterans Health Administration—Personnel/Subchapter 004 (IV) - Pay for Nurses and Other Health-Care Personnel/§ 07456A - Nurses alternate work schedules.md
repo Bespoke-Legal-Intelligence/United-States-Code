@@ -52,6 +52,8 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 (Added Pub. L. 108–445, §4(a)(1), Dec. 3, 2004, 118 Stat. 2643; amended Pub. L. 111–163, title VI, §602(c), May 5, 2010, 124 Stat. 1173.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–163, §602(c)(2)(A), substituted "72/80" for "36/40" in heading.

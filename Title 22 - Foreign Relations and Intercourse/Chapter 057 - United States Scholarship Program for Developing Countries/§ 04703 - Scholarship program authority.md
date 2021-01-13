@@ -6,7 +6,7 @@ The President, acting through the United States Information Agency, shall provid
 
 #### (b) Form of scholarship; forgiveness of loan repayment
 
-To encourage students to use their training in their countries of origin, each scholarship pursuant to this section shall be in the form of a loan with all repayment to be forgiven upon the student's prompt return to his or her country of origin for a period which is at least one year longer than the period spent studying in the United States. If the student is granted asylumin the United States pursuant to section 1158 of title 8 or is admitted to the United States as a refugee pursuant to section 1157 of title 8, half of the repayment shall be forgiven.
+To encourage students to use their training in their countries of origin, each scholarship pursuant to this section shall be in the form of a loan with all repayment to be forgiven upon the student's prompt return to his or her country of origin for a period which is at least one year longer than the period spent studying in the United States. If the student is granted asylum in the United States pursuant to section 1158 of title 8 or is admitted to the United States as a refugee pursuant to section 1157 of title 8, half of the repayment shall be forgiven.
 
 #### (c) Consultation
 
@@ -18,9 +18,13 @@ For purposes of this chapter, the term "institution of higher education" has the
 
 (Pub. L. 99–93, title VI, §603, Aug. 16, 1985, 99 Stat. 440; Pub. L. 105–244, title I, §102(a)(7)(D), Oct. 7, 1998, 112 Stat. 1619.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

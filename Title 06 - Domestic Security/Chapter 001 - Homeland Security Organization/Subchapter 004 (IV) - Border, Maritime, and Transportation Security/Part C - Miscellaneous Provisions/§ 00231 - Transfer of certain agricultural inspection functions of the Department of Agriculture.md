@@ -34,7 +34,7 @@ For purposes of this section, the term "functions" does not include any quaranti
 
 #### (2) Rulemaking coordination
 
-&emsp;The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering thefunctions transferred under subsection (a) under a law specified in subsection (b).
+&emsp;The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering the functions transferred under subsection (a) under a law specified in subsection (b).
 
 #### (3) Effective administration
 
@@ -66,7 +66,7 @@ For purposes of this section, the term "functions" does not include any quaranti
 
 #### (1) Transfer of funds
 
-&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e), to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
+&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from timeto time in accordance with the agreement under subsection (e), to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
 
 #### (2) Limitation
 
@@ -77,6 +77,8 @@ For purposes of this section, the term "functions" does not include any quaranti
 Not later than the completion of the transition period defined under section 541 of this title, the Secretary of Agriculture shall transfer to the Secretary not more than 3,200 full-time equivalent positions of the Department of Agriculture.
 
 (Pub. L. 107–296, title IV, §421, Nov. 25, 2002, 116 Stat. 2182.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

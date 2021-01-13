@@ -18,7 +18,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Sums allotted to the States under this section shall be used to pay for the Federal share of the cost of carrying out projects in accordance with State plans approved under section 15024 of this title for the provision under such plans of services for individuals with developmental disabilities.
+&emsp;&emsp;Sums allotted to the States under this section shall be used to pay for the Federalshare of the cost of carrying out projects in accordance with State plans approved under section 15024 of this title for the provision under such plans of services for individuals with developmental disabilities.
 
 #### (2) Adjustments
 
@@ -58,7 +58,7 @@
 
 #### (6) Increase in allotments
 
-&emsp;In any year in which the total amount appropriated under section 15029 of this title fora fiscal year exceeds the total amount appropriated under such section (or a corresponding provision) for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), the Secretary shall increase each of the minimum allotments described in paragraphs (3) and (4). The Secretary shall increase each minimum allotment by an amount that bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph (or a corresponding provision) for prior fiscal years) as the amount that is equal to the difference between—
+&emsp;In any year in which the total amount appropriated under section 15029 of this title for a fiscal year exceeds the total amount appropriated under such section (or a corresponding provision) for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), the Secretary shall increase each of the minimum allotments described in paragraphs (3) and (4). The Secretary shall increase each minimum allotment by an amount that bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph (or a corresponding provision) for prior fiscal years) as the amount that is equal to the difference between—
 
 &emsp;&emsp;(A) the total amount appropriated under section 15029 of this title for the fiscal year for which the increase in the minimum allotment is being made; minus
 
@@ -82,7 +82,7 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 #### (1) In general
 
-&emsp;If the Secretary determines that an amount of an allotment to a State for a period (of a fiscal year or longer) will not be required by the State during the period for the purpose for which the allotment was made, the Secretary may reallot the amount.
+&emsp;If the Secretary determines that an amount of an allotment to a State for a period (of a fiscal year or longer) will not be required bythe State during the period for the purpose for which the allotment was made, the Secretary may reallot the amount.
 
 #### (2) Timing
 

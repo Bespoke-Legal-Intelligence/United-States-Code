@@ -86,7 +86,7 @@ Subsecs. (g), (h). Pub. L. 110–181, §906(b)(2)(C), redesignated subsec. (h) a
 
 <b>2004</b>—Subsec. (b)(1). Pub. L. 108–375, §527(b)(1)(A), substituted "chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy" for "chapter 1606".
 
-Subsec. (b)(2)(C). Pub. L. 108–375, §527(b)(1)(B), substituted "(including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607" for "for educational assistance under chapter 1606".
+Subsec. (b)(2)(C). Pub. L. 108–375, §527(b)(1)(B), substituted "(including funds from the Department inwhich the Coast Guard is operating) for educational assistance under chapters 1606 and 1607" for "for educational assistance under chapter 1606".
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §535(b)(1), inserted "paragraphs (3) and (4) of section 510(e) and" after "Department of Defense benefits under".
 

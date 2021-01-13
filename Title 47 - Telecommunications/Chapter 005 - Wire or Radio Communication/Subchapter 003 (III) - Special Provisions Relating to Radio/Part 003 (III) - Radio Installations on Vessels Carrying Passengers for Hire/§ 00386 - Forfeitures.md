@@ -2,11 +2,13 @@
 
 The following forfeitures shall apply to this part in addition to penalties and forfeitures provided by subchapter V of this chapter:
 
-(a) Any vessel of the United States that is navigated in violation of the provisions of this part or of the rules and regulations of the Commission made in pursuance thereof shall forfeit to the United States the sum of $5,000 recoverable by way of suit or libel. Each day during which such navigation occurs shall constitute a separate offense.
+(a) Any vessel of the United States that is navigated in violation of the provisions of this part or of the rules and regulations of the Commission made in pursuance thereof shall forfeit to the United States the sum of $5,000 recoverable by way of suit or libel. Each day duringwhich such navigation occurs shall constitute a separate offense.
 
 (b) Every willful failure on the part of the master of a vessel of the United States to enforce or to comply with the provisions of this part or the rules and regulations of the Commission made in pursuance thereof shall cause him to forfeit to the United States the sum of $1,000.
 
 (June 19, 1934, ch. 652, title III, §386, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1048; amended Pub. L. 101–239, title III, §3002(h), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 103–414, title III, §303(a)(20)(F), Oct. 25, 1994, 108 Stat. 4295.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -15,6 +17,8 @@ The following forfeitures shall apply to this part in addition to penalties and 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §3002(h)(1), substituted "$5,000" for "$500".
 
 Subsec. (b). Pub. L. 101–239, §3002(h)(2), substituted "$1,000" for "$100".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

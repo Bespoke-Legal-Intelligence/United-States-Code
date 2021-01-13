@@ -6,7 +6,7 @@ Representatives designated or selected for the purposes of collective bargaining
 
 #### (b) Determination of bargaining unit by Board
 
-The Board shall decide in each case whether, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this subchapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, craft unit, plant unit, or subdivision thereof: <i>Provided</i>, That the Board shall not (1) decide that any unit is appropriate for such purposes if such unit includes both professional employees and employees who are not professional employees unless a majority of such professional employees vote for inclusion in such unit; or (2)decide that any craft unit is inappropriate for such purposes on the ground that a different unit has been established by a prior Board determination, unless a majority of the employees in the proposed craft unit vote against separate representation or (3) decide that any unit is appropriate for such purposes if it includes, together with other employees, any individual employed as a guard to enforce against employees and other persons rules to protect property of the employer or to protect the safety of persons on the employer's premises; but no labor organization shall be certified as the representative of employees in a bargaining unit of guards if such organization admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than guards.
+The Board shall decide in each case whether, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this subchapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, craft unit, plant unit, or subdivision thereof: <i>Provided</i>, That the Board shall not (1) decide that any unit is appropriate for such purposes if such unit includes both professional employees and employees who are not professional employees unless a majority of such professional employees vote for inclusion in such unit; or (2) decide that any craft unit is inappropriate for such purposes on the ground that a different unit has been established by a prior Board determination, unless a majority of the employees in the proposed craft unit vote against separate representation or (3) decide that any unit is appropriate for such purposes if it includes, together with other employees, any individual employed as a guard to enforce against employees and other persons rules to protect property of the employer or to protect the safety of persons on the employer's premises; but no labor organization shall be certified as the representative of employees in a bargaining unit of guards if such organization admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than guards.
 
 #### (c) Hearings on questions affecting commerce; rules and regulations
 
@@ -38,6 +38,8 @@ Whenever an order of the Board made pursuant to section 160(c) of this title is 
 
 (July 5, 1935, ch. 372, §9, 49 Stat. 453; June 23, 1947, ch. 120, title I, §101, 61 Stat. 143; Oct. 22, 1951, ch. 534, §1(c), (d), 65 Stat. 601; Pub. L. 86–257, title II, §201(d), title VII, §702, Sept. 14, 1959, 73 Stat. 525, 542.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1959</b>—Subsec. (c)(3). Pub. L. 86–257, §702, substituted "Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike" for "Employees on strike who are not entitled to reinstatement shall not be eligible to vote."
@@ -51,6 +53,8 @@ Subsec. (h). Pub. L. 86–257, §201(d), repealed subsec. (h) which related to a
 Subsecs. (f) to (h). Act Oct. 22, 1951, §1(d), struck out "No petition under section 159(e)(1) shall be entertained" wherever appearing.
 
 <b>1947</b>—Act June 23, 1947, amended section generally to allow employees to carry their grievances directly to the employer, to circumscribe certain powers of the Board, to make the union file with the Secretary of Labor its constitution, bylaws, and report before being certified as a bargaining agent, to require annual reports by labor unions, and to require labor unions to file affidavits with the Board showing that none of its officers are affiliated with or believe in the Communist Party.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1959 Amendment
 

@@ -16,6 +16,8 @@
 
 (Pub. L. 90–202, §5, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, §6, Apr. 6, 1978, 92 Stat. 192.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(a) of the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (a)(1)(A), is section 3(a) of Pub. L. 95–256, Apr. 6, 1978, 92 Stat. 189, which amended section 631 of this title.

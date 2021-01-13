@@ -6,7 +6,7 @@ Not later than 90 days after August 10, 2012, and as appropriate thereafter, the
 
 &emsp;(1) identify foreign persons that are officials, agents, or affiliates of Iran's Revolutionary Guard Corps; and
 
-&emsp;(2) for each foreign person identified under paragraph (1) that is not already designated for the imposition of sanctions pursuant to theInternational Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)—
+&emsp;(2) for each foreign person identified under paragraph (1) that is not already designated for the imposition of sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)—
 
 &emsp;&emsp;(A) designate that foreign person for the imposition of sanctions pursuant to that Act; and
 
@@ -71,6 +71,8 @@ Nothing in this section shall be construed to remove any sanction of the United 
 #### Termination of Section
 
 <i>For termination of section, see section 8785(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

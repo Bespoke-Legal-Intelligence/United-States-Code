@@ -22,7 +22,7 @@ In this section:
 
 #### (b) Reports
 
-Not later than 1 year after May 11, 2016, and biannually thereafter, the Attorney General, inconsultation with the Intellectual Property Enforcement Coordinator, the Director, and the heads of other appropriate agencies, shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, and make publicly available on the Web site of the Department of Justice and disseminate to the public through such other means as the Attorney General may identify, a report on the following:
+Not later than 1 year after May 11, 2016, and biannually thereafter, the Attorney General, in consultation with the Intellectual Property Enforcement Coordinator, the Director, and the heads of other appropriate agencies, shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, and make publicly available on the Web site of the Department of Justice and disseminate to the public through such other means as the Attorney General may identify, a report on the following:
 
 &emsp;(1) The scope and breadth of the theft of the trade secrets of United States companies occurring outside of the United States.
 
@@ -49,6 +49,8 @@ Not later than 1 year after May 11, 2016, and biannually thereafter, the Attorne
 &emsp;&emsp;(D) provide a mechanism for United States companies to confidentially or anonymously report the theft of trade secrets occurring outside of the United States.
 
 (Pub. L. 114–153, §4, May 11, 2016, 130 Stat. 382.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

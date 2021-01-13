@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 &emsp;&emsp;&emsp;(i) To provide a lower cost residential alternative to institutional care and to prevent or delay the need for institutional care.
 
-&emsp;&emsp;&emsp;(ii) To provide a permanent or transitional residential setting with appropriateservices that enhances the quality of life for individuals who are unable to live independently.
+&emsp;&emsp;&emsp;(ii) To provide a permanent or transitional residential setting with appropriate services that enhances the quality of life for individuals who are unable to live independently.
 
 &emsp;&emsp;&emsp;(iii) To prevent homelessness among eligible persons by increasing available suitable housing resources.
 
@@ -92,7 +92,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (D) Intensive assistance
 
-&emsp;&emsp;That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residenceassisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
+&emsp;&emsp;That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residence assisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
 
 #### (2) Services
 
@@ -102,7 +102,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revisedgenerally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
 

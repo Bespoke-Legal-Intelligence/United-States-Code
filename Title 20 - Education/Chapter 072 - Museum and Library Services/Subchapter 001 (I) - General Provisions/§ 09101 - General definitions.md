@@ -100,7 +100,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §701\], Sept. 30, 199
 
 Pub. L. 94–462, title II, §201, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: "This title \[enacting this chapter\] may be cited as the 'Museum and Library Services Act'."
 
-Pub. L. 94–462, title II, §211, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: "Thissubtitle \[subtitle B (§§211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter\] may be cited as the 'Library Services and Technology Act'."
+Pub. L. 94–462, title II, §211, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: "This subtitle \[subtitle B (§§211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter\] may be cited as the 'Library Services and Technology Act'."
 
 Pub. L. 94–462, title II, §271, as added by Pub. L. 108–81, title III, §306(2), Sept. 25, 2003, 117 Stat. 1002, provided that: "This subtitle \[subtitle C (§§271–276) of title II of Pub. L. 94–462, enacting subchapter III of this chapter\] may be cited as the 'Museum Services Act'."
 

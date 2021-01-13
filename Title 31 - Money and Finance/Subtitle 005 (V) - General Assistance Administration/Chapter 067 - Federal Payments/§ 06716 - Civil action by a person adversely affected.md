@@ -32,6 +32,8 @@ Intervention by Attorney General.—In an action under this section to enforce c
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1878.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6716, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1024; Pub. L. 98–185, §9(f), (g), Nov. 30, 1983, 97 Stat. 1312; Pub. L. 98–216, §1(8), Feb. 14, 1984, 98 Stat. 4, related to prohibition of discrimination, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.

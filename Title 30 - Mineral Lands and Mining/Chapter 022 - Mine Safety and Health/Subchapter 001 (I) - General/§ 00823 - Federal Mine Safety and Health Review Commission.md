@@ -42,7 +42,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 (iii) Each issue shall be separately numbered and plainly and concisely stated, and shall be supported by detailed citations to the record when assignments of error are based on the record, and by statutes, regulations, or principal authorities relied upon. Except for good cause shown, no assignment of error by any party shall rely on any question of fact or law upon which the administrative law judge had not been afforded an opportunity to pass. Review by the Commission shall be granted only by affirmative vote of two of the Commissioners present and voting. If granted, review shall be limited to the questions raised by the petition.
 
-(B) At any time within 30 days after the issuance of a decision of an administrative law judge, the Commission may in its discretion (by affirmative vote of two of the Commissioners present and voting) order the case before it for review but only upon the ground that the decision may be contrary to law or Commission policy, or that a novel question of policy has been presented. The Commission shall state in such order the specific issue of law, Commission policy, or novel question of policy involved. If a party's petition for discretionary review has been granted, the Commission shall not raise or consider additional issues in such review proceedings except in compliance with the requirements of this paragraph.
+(B) At any time within 30 days after the issuance of a decision of an administrative law judge, the Commission may in its discretion (by affirmative vote of two of the Commissioners present and voting) order the case before it for review but only upon the ground that the decision may be contrary to law or Commission policy, or that a novel question of policy has been presented. The Commission shall state in suchorder the specific issue of law, Commission policy, or novel question of policy involved. If a party's petition for discretionary review has been granted, the Commission shall not raise or consider additional issues in such review proceedings except in compliance with the requirements of this paragraph.
 
 (C) For the purpose of review by the Commission under paragraph (A) or (B) of this subsection, the record shall include: (i) all matters constituting the record upon which the decision of the administrative law judge was based; (ii) the rulings upon proposed findings and conclusions; (iii) the decision of the administrative law judge; (iv) the petition or petitions for discretionary review, responses thereto, and the Commission's order for review; and (v) briefs filed on review. No other material shall be considered by the Commission upon review. The Commission either may remand the case to the administrative law judge for further proceedings as it may direct or it may affirm, set aside, or modify the decision or order of the administrative law judge in conformity with the record. If the Commission determines that further evidence is necessary on an issue of fact it shall remand the case for further proceedings before the administrative law judge.
 
@@ -54,6 +54,8 @@ In connection with hearings before the Commission or its administrative law judg
 
 (Pub. L. 91–173, title I, §113, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (d), and (e), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -64,9 +66,13 @@ For the effective date of the Federal Mine Safety and Health Amendments Act of 1
 
 Provisions similar to this section were contained in section 729 of this title prior to its repeal by Pub. L. 95–164.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -162,6 +162,8 @@ Planning products.—This section does not affect the use of planning products i
 
 (Added Pub. L. 112–141, div. A, title I, §1310(a), July 6, 2012, 126 Stat. 540; amended Pub. L. 114–94, div. A, title I, §1305, Dec. 4, 2015, 129 Stat. 1386.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (b)(1) and (d)(9), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -172,9 +174,11 @@ The date of enactment of the FAST Act, referred to in subsec. (d)(9), is the dat
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to integration of planning and environmental review.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

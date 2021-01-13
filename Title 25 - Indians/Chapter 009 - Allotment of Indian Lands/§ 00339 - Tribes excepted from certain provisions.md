@@ -4,9 +4,13 @@ The provisions of this act shall not extend to the territory occupied by the Che
 
 (Feb. 8, 1887, ch. 119, §8, 24 Stat. 391.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sacs and Foxes; Missouri Indians
 

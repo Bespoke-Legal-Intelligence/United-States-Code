@@ -28,7 +28,7 @@ To carry out its objectives, each Center shall make available the following (on 
 
 #### (2) Business services
 
-&emsp;Business support services, including language translation services, clerical services, and a commercial library containing a comprehensive collection of reference materials covering United States and host country industries and markets.
+&emsp;Business support services, including language translation services, clerical services,and a commercial library containing a comprehensive collection of reference materials covering United States and host country industries and markets.
 
 #### (3) Commercial law information services
 

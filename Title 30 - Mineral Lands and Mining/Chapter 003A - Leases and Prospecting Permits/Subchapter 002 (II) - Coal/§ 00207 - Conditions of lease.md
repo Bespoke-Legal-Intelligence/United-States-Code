@@ -34,7 +34,9 @@ A coal lease shall be for a term of twenty years and for so long thereafter as c
 
 Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary's approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.
 
-(Feb. 25, 1920, ch. 85, §7, 41 Stat. 439; Pub. L. 94–377, §6, Aug. 4, 1976, 90 Stat. 1087; Pub. L.109–58, title IV, §§434, 435, Aug. 8, 2005, 119 Stat. 761, 762.)
+(Feb. 25, 1920, ch. 85, §7, 41 Stat. 439; Pub. L. 94–377, §6, Aug. 4, 1976, 90 Stat. 1087; Pub. L. 109–58, title IV, §§434, 435, Aug. 8, 2005, 119 Stat. 761, 762.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ Prior to taking any action on a leasehold which might cause a significant distur
 Subsec. (c). Pub. L. 109–58, §435, struck out "and not later than three years after a lease is issued," before "the lessee shall submit".
 
 <b>1976</b>—Pub. L. 94–377 designated existing provisions as subsec. (a), substituted provisions limiting the lease term to 20 years and for so long thereafter as coal is produced annually in commercial quantities for provision authorizing leases for indeterminate periods upon condition of diligent development and continued operation except for strikes, the elements, or casualties not attributable to lessees; provisions for payment of royalties as determined by the Secretary of not less than 12½ per centum of coal value, except as reduced for coal from underground mining operations for provisions specifying royalties as stated in the lease, but not less than 5 cents per ton; provision for rentals as prescribed by regulation for provision setting rentals as fixed by the Secretary at not less than 25 cents per acre for the first year, 50 cents for the second, third, fourth and fifth years, and $1 for each year thereafter, and provision for readjustment of royalties and terms and conditions after primary period of twenty years and subsequent ten year intervals for provision for readjustment after twenty years unless otherwise provided by law, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

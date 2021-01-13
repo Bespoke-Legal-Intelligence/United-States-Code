@@ -38,7 +38,7 @@ For purposes of this part, the term "employee stock purchase plan" means a plan 
 
 &emsp;(7) under the terms of the plan, such option cannot be exercised after the expiration of—
 
-&emsp;&emsp;(A) 5 years from the date such option is granted if, under the terms of such plan, theoption price is to be not less than 85 percent of the fair market value of such stock at the time of the exercise of the option, or
+&emsp;&emsp;(A) 5 years from the date such option is granted if, under the terms of such plan, the option price is to be not less than 85 percent of the fair market value of such stock at the time of the exercise of the option, or
 
 &emsp;&emsp;(B) 27 months from the date such option is granted, if the option price is not determinable in the manner described in subparagraph (A);
 

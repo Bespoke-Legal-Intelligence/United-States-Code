@@ -26,7 +26,7 @@ For purposes of the application of Federal civil rights laws, all assistance pro
 
 #### (e) Eligible grantees
 
-A grant under this section may be made, pursuant to such requirements as the Secretary of the Treasury shall establish for experience and success in attracting private financing and carrying out the types of activities proposed under the application of the grantee, only to—
+A grant under this section may be made, pursuant to such requirements as the Secretary ofthe Treasury shall establish for experience and success in attracting private financing and carrying out the types of activities proposed under the application of the grantee, only to—
 
 &emsp;(1) a Treasury certified community development financial institution; or
 
@@ -50,7 +50,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury shall provide, in a competitive application process established by regulation, for eligible grantees under subsection (e) to submit applications forCapital Magnet Fund grants to the Secretary at such time and in such manner as the Secretary shall determine.
+&emsp;The Secretary of the Treasury shall provide, in a competitive application process established by regulation, for eligible grantees under subsection (e) to submit applications for Capital Magnet Fund grants to the Secretary at such time and in such manner as the Secretary shall determine.
 
 #### (2) Content of application
 
@@ -120,7 +120,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 #### (7) Prohibition of consideration of use for meeting housing goals or duty to serve
 
-&emsp;In determining the compliance of the enterprises with the housing goals under this section and the duty to serve underserved markets under section 4565 of this title, the Director of the Federal Housing Finance Agency may not consider any Capital Magnet Fund amounts used under this section for eligible activities under subsection (f). The Director of the Federal Housing Finance Agency shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from Capital Magnet Fund grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
+&emsp;In determining the compliance of the enterprises with the housing goals under this section and the duty to serve underserved markets under section 4565 of this title, the Director of the Federal Housing Finance Agency may not consider any Capital Magnet Fund amounts used under this section for eligible activities under subsection (f). The Director ofthe Federal Housing Finance Agency shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from Capital Magnet Fund grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
 
 #### (8) Accountability of recipients and grantees
 
@@ -132,7 +132,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 &emsp;&emsp;&emsp;(ii) establish minimum requirements for agreements, between the grantee and the Capital Magnet Fund, regarding assistance from the Capital Magnet Fund, which shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) appropriate periodic financial and project reporting, record retention, andaudit requirements for the duration of the grant to the recipient to ensure compliance with the limitations and requirements of this section and the regulations under this section; and
+&emsp;&emsp;&emsp;&emsp;(I) appropriate periodic financial and project reporting, record retention, and audit requirements for the duration of the grant to the recipient to ensure compliance with the limitations and requirements of this section and the regulations under this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any other requirements that the Secretary determines are necessary to ensure appropriate grant administration and compliance.
 

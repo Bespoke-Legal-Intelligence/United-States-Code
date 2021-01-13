@@ -1,8 +1,8 @@
 ### §7303. Possession and description of merchant mariners' documents
 
-A merchant mariner's document shall be retained by the seaman to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the seaman. In addition, the document shall specify the rate or ratings in which the seaman is qualified to serve.
+A merchant mariner's document shall be retained by the individual to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the individual. In addition, the document shall specify the rate or ratings in which the individual is qualified to serve.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 107–295, title IV, §421, Nov. 25, 2002, 116 Stat. 2125.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 107–295, title IV, §421, Nov. 25, 2002, 116 Stat. 2125; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(3), Jan. 1, 2021, 134 Stat. 4751.)
 
 Historical and Revision Notes
 
@@ -16,7 +16,11 @@ Historical and Revision Notes
 
 Section 7303 requires seamen to retain their merchant mariner's documents. It also specifies the information that is to be contained in the document.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "individual" for "seaman" wherever appearing.
 
 <b>2002</b>—Pub. L. 107–295 struck out "the thumbprint," after "photograph,".
 

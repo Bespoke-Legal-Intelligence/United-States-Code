@@ -24,7 +24,7 @@ The Congress makes the following findings:
 
 The purposes of sections 620 to 620j of this title are—
 
-&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federal resources management plans, and other actions or decisions, affecting the use of forest resources;
+&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federalresources management plans, and other actions or decisions, affecting the use of forest resources;
 
 &emsp;(2) to take action essential for the acquisition and distribution of forest resources or products in short supply in the western United States;
 

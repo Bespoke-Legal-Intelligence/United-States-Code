@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 A chapter-wide definition for the term "Office" is added for clarity and convenience.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90 substituted "Commerce" for "Commercialization".

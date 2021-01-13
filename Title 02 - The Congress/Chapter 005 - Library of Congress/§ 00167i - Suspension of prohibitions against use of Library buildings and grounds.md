@@ -4,6 +4,8 @@ In order to permit the observance of authorized ceremonies within the Library of
 
 (Aug. 4, 1950, ch. 561, §10, 64 Stat. 412; Pub. L. 110–161, div. H, title I, §1004(d)(2)(C), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(3), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(C). See 2007 Amendment note below.
@@ -11,6 +13,8 @@ In order to permit the observance of authorized ceremonies within the Library of
 <b>2008</b>—Pub. L. 110–178 substituted "5103 and 5104 of title 40" for "167a to 167e of this title".
 
 <b>2007</b>—Pub. L. 110–161, §1004(d)(2)(C), which made amendment identical to that of Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

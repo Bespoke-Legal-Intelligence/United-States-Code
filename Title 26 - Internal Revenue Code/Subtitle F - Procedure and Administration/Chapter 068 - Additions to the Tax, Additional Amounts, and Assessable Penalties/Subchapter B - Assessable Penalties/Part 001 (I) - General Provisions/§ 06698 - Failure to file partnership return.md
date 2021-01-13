@@ -48,7 +48,7 @@ Another section 6698, formerly section 6694, relating to failure to file informa
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(n)(2)(A), inserted ", or a partnership adjustment tracking reportunder section 6226(b)(4)(A)," after "under section 6031" in introductory provisions.
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(n)(2)(A), inserted ", or a partnership adjustment tracking report under section 6226(b)(4)(A)," after "under section 6031" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 115–141, §206(n)(2)(B), inserted ", or such report," after "such return".
 

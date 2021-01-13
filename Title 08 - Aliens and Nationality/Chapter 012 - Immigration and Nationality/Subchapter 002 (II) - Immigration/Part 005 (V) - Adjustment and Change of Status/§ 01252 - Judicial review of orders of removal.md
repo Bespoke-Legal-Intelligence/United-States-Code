@@ -58,7 +58,7 @@ With respect to review of an order of removal under subsection (a)(1), the follo
 
 #### (2) Venue and forms
 
-&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit inwhich the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
+&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
 
 #### (3) Service
 
@@ -208,7 +208,7 @@ A court may review a final order of removal only if—
 
 &emsp;&emsp;(A) is an alien who was not ordered removed under section 1225(b)(1) of this title, or
 
-&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided ahearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1).
+&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided a hearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1).
 
 #### (5) Scope of inquiry
 
@@ -229,6 +229,8 @@ A court may review a final order of removal only if—
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -332,13 +334,15 @@ Subsec. (e). Pub. L. 97–116, §18(h)(1)(B), substituted "(18), or (19)" for "o
 
 <b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out "shall upon conviction be guilty of a felony."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–13, div. B, title I, §101(h)(3), (4), May 11, 2005, 119 Stat. 305, 306, provided that:
 
 "(3) The amendment made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases in which the final administrative removal order is or was issued before, on, or after such date.
 
-"(4) The amendments made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall applyto all cases pending before any court on or after such date."
+"(4) The amendments made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases pending before any court on or after such date."
 
 Pub. L. 109–13, div. B, title I, §106(b), May 11, 2005, 119 Stat. 311, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect upon the date of the enactment of this division \[May 11, 2005\] and shall apply to cases in which the final administrative order of removal, deportation, or exclusion was issued before, on, or after the date of the enactment of this division."
 

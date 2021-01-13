@@ -20,7 +20,7 @@ An individual shall be eligible for a scholarship or fellowship under the progra
 
 #### (c) Agreement
 
-An individual seeking a scholarship or fellowship under the program established under this section shall enter into an agreement, in writing, with the Administrator that includes the following:
+An individual seeking a scholarship or fellowship under the program established under thissection shall enter into an agreement, in writing, with the Administrator that includes the following:
 
 &emsp;(1) The agreement of the Administrator to provide such individual with a scholarship or fellowship in the form of educational assistance for a specified number of school years (not to exceed five school years) during which such individual is pursuing a program of education in a qualifying field of study, which educational assistance may include payment of tuition, fees, books, laboratory expenses, and a stipend.
 
@@ -66,7 +66,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (e) Preference for cooperative education students
 
-In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who isenrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
+In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who is enrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
 
 #### (f) Coordination of benefits
 
@@ -84,7 +84,7 @@ Of the amounts authorized to be appropriated by section 3101(a)(2) <sup>1</sup>
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. TitleIV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 3101(a)(2), referred to in subsec. (h), is section 3101(a)(2) of Pub. L. 110–417, div. C, title XXXI, Oct. 14, 2008, 122 Stat. 4752, which is not classified to the Code.
 

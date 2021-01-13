@@ -2,7 +2,7 @@
 
 When an appeal is taken to the United States Court of Appeals for the Federal Circuit, the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Director, within such time after the date of the decision from which the appeal is taken as the Director prescribes, but in no case less than 60 days after that date.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3362; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3362; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -10,17 +10,21 @@ Based on Title 35, U.S.C., 1946 ed., §60 (R.S. 4912, amended (1) Mar. 2, 1927, 
 
 Changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
-<b>1984</b>—Pub. L. 98–620 amended section generally, substituting "the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date" for "the appellant shall give notice thereof to the Commissioner, and shall file in thePatent and Trademark Office his reasons of appeal, specifically set forth in writing, within such time after the date of the decision appealed from, not less than sixty days, as the Commissioner appoints".
+<b>1984</b>—Pub. L. 98–620 amended section generally, substituting "the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date" for "the appellant shall give notice thereof to the Commissioner, and shall file in the Patent and Trademark Office his reasons of appeal, specifically set forth in writing, within such time after the date of the decision appealed from, not less than sixty days, as the Commissioner appoints".
 
 <b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

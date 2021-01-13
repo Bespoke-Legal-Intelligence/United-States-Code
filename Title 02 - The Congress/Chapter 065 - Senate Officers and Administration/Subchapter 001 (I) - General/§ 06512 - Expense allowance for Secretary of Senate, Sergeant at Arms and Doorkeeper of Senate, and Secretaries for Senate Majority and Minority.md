@@ -6,6 +6,8 @@
 
 (Pub. L. 97–51, §119, Oct. 1, 1981, 95 Stat. 964; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 334; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–83, title I, §5(a), Sept. 30, 2003, 117 Stat. 1013.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 65c of this title prior to editorial reclassification and renumbering as this section.
@@ -17,6 +19,8 @@ Section was formerly classified to section 65c of this title prior to editorial 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–63, which directed that "$3,000" be substituted for "$2,000" in first sentence of subsec. (a), was executed by making the substitution in second sentence as the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

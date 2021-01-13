@@ -188,7 +188,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (4) S termination year
 
-&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
+&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of anelection made under subsection (a) takes effect (other than on the 1st day thereof).
 
 #### (5) Tax for C short year determined on annualized basis
 
@@ -240,7 +240,7 @@ If—
 
 &emsp;(4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
 
-> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, suchcorporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be, during the period specified by the Secretary.
+> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be, during the period specified by the Secretary.
 
 #### (g) Election after termination
 
@@ -354,7 +354,7 @@ Pub. L. 108–357, title II, §231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provide
 
 Pub. L. 108–357, title II, §237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
-Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by this section \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
+Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by thissection \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
 
 #### Effective Date of 1999 Amendment
 

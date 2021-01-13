@@ -30,7 +30,9 @@ Sunset.—The reporting requirement under this section terminates effective Sept
 
 (Added Pub. L. 114–90, title II, §201(a), Nov. 25, 2015, 129 Stat. 719.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of enactment of the U.S. Commercial Space Launch Competitiveness Act, referred to in subsec. (a), is the date of enactment of Pub. L. 114–90, which was approved Nov. 25, 2015.
+The date of enactment of the U.S. Commercial Space Launch Competitiveness Act, referred to in subsec. (a),is the date of enactment of Pub. L. 114–90, which was approved Nov. 25, 2015.
 

@@ -1,6 +1,6 @@
 ### §733. Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress
 
-The Director of the Government Publishing Office on order of a Member of Congress, on prepayment of the cost, may reprint documents andreports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
+The Director of the Government Publishing Office on order of a Member of Congress, on prepayment of the cost, may reprint documents and reports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
 
 He may also furnish without cost to Members and the Resident Commissioner from Puerto Rico, blank franks printed on sheets and perforated, or singly at their option, for public documents. Franks shall contain in the upper left-hand corner the following words: "Public document. United States Senate" or "House of Representatives U.S." and in the upper right-hand corner the letters "U.S.S." or "M. C." Franks may also contain information relating to missing children as provided in section 3220 of title 39. But he may not print any other words except where it is desirable to affix the official title of a document. Other words printed on franks shall be at the personal expense of the Member or Resident Commissioner ordering them.
 
@@ -22,6 +22,8 @@ By inference he should be included in section 733, since the franking privilege 
 
 Changes have been made in section 733 to include the Resident Commissioner as to printing of franks.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing.
@@ -31,6 +33,8 @@ Changes have been made in section 733 to include the Resident Commissioner as to
 <b>1974</b>—Pub. L. 93–255 struck out "Postage paid by Congress." after "Public document." in second par.
 
 <b>1973</b>—Pub. L. 93–191 substituted "Public document. Postage paid by Congress." for "Public document. Free." in second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

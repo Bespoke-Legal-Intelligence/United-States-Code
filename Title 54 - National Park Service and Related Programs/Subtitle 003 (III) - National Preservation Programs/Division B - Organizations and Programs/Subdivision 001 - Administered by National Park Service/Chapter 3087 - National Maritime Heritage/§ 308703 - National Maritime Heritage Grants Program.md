@@ -72,7 +72,7 @@ Use of grants.—Amounts received by a State Historic Preservation Officer as a 
 
 (d)
 
-Criteria for Direct Grant and Subgrant Eligibility.—To qualify for a subgrant from theNational Trust under subsection (b), or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c), a person shall—
+Criteria for Direct Grant and Subgrant Eligibility.—To qualify for a subgrant from the National Trust under subsection (b), or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c), a person shall—
 
 &emsp;(1) demonstrate that the project for which the direct grant or subgrant will be used has the potential for reaching a broad audience with an effective educational program based on American maritime history, technology, or the role of maritime endeavors in American culture;
 
@@ -211,6 +211,8 @@ In subsection (f), the text of 16 U.S.C. 5403(f)(1) is omitted as obsolete.
 In subsection (g), the text of 16 U.S.C. 5403(g)(2) is omitted as obsolete.
 
 In subsection (h)(2), the text of 16 U.S.C. 5403(h)(5) and (6) is omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -54,7 +54,7 @@ Pub. L. 109–163 designated existing provisions as par. (1), substituted "durin
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–261 substituted "during the period beginning on October 1, 1990, and ending onSeptember 30, 2001" for "during the nine-year period beginning on October 1, 1990."
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 substituted "during the period beginning on October 1, 1990, and ending on September 30, 2001" for "during the nine-year period beginning on October 1, 1990."
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 

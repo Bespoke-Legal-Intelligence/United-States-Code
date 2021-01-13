@@ -6,7 +6,7 @@ It shall be the duty of all persons owning, operating, and tending the drawbridg
 
 #### (b) Nonstructural vessel appurtenances; unreasonable delays
 
-No vessel owner or operator shall signal a drawbridge to open for any nonstructural vessel appurtenance which is not essential to navigation or which is easily lowered and no person shall unreasonably delay the opening of a draw after the signal required by rules or regulations under this section has been given. The Secretary of the department in which the Coast Guard is operating shall issue rules and regulations to implement this subsection.
+No vessel owner or operator shall signal a drawbridge to open for any nonstructural vessel appurtenance which is not essential to navigation or which is easily lowered and no person shall unreasonably delay the opening of a drawafter the signal required by rules or regulations under this section has been given. The Secretary of the department in which the Coast Guard is operating shall issue rules and regulations to implement this subsection.
 
 #### (c) Civil penalties for violation; notice and hearing; assessment, collection, and remission; civil actions
 
@@ -108,6 +108,8 @@ The Secretary of the department in which the Coast Guard is operating—
 
 (Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, §601(b), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, §306(b)(3), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–282, title VIII, §832, Dec. 4, 2018, 132 Stat. 4316.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The last proviso of subsec. (a) of this section was from a part of section 6 of act June 13, 1902, which reads as follows: "Any regulations heretofore or hereafter prescribed by the Secretary of War in pursuance of the fourth and fifth sections of the river and harbor Act of August eighteenth, eighteen hundred and ninety-four \[this section and section 1 of this title\], and any regulations hereafter prescribed in pursuance of the aforesaid section four as amended by section eleven of this Act \[section 1 of this title\], may be enforced as provided in section seventeen of the river and harbor Act of March third, eighteen hundred and ninety-nine \[section 413 of this title\], the provisions whereof are hereby made applicable to the said regulations."
@@ -131,6 +133,8 @@ Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1
 <b>1982</b>—Subsec. (a). Pub. L. 97–322, §108(a)(1)–(4), designated existing provisions as subsec. (a); struck out from second sentence after "boats," the clause "or who shall unreasonably delay the opening of said draw after reasonable signal shall have been given,"; substituted in first proviso "subsection" for "section"; and in second proviso provided for punishment of "willful" violation of rules and regulations.
 
 Subsecs. (b), (c). Pub. L. 97–322, §108(a)(5), added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

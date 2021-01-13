@@ -1,12 +1,22 @@
 ### §763a–2. Application to persons of Coast Guard
 
-The provisions of sections 763 and 763a–1 of this title shall not apply to persons of the Coast Guard other than officers and employees of the former Lighthouse Service who, on June 30, 1939, met the requirements for retirement (except those relating to age and period of service) of said sections.
+The provisions of sections 763 <sup>1</sup> and 763a–1 <sup>1</sup> of this title shall not apply to persons of the Coast Guard other than officers and employees of the former Lighthouse Service who, on June 30, 1939, met the requirements for retirement (except those relating to age and period of service) of said sections.
 
 (June 6, 1940, ch. 257, §7, 54 Stat. 247.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 763 of this title, referred to in text, was repealed, to the extent comprised of section 6 of act June 20, 1918, by Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8510(a), Jan. 1, 2021, 134 Stat. 4757.
+
+Section 763a–1 of this title, referred to in text, was repealed by Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8512(a)(10), Jan. 1, 2021, 134 Stat. 4759.
 
 #### Codification
 
 Sections 763 and 763a–1 of this title, referred to in text, was, in the original: "The provisions of section 6 of the Act approved June 20, 1918 (40 Stat. 608), as amended and supplemented (U.S.C., 1934 edition, Supp. V., title 33, secs. 763 and 763a–1)".
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -17,4 +27,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See section 108 of Title 49, Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

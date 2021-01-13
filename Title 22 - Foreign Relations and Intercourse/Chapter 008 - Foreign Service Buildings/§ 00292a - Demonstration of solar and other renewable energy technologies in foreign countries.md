@@ -28,7 +28,7 @@ It is the purpose of this section to provide for the demonstration of solar ener
 
 &emsp;(E) systems for developing fuels from biomass.
 
-> The Secretary of Energy shall inform the Secretary of State of all such technologies which are feasible for such projects, taking into account the resources and environmental conditions of the countries in which such projects are to be implemented. Upon the request of the Secretary of State, the Secretary of Energy shall provide to the Secretary of State any technical information or other technical assistance which the Secretary of State considers necessary with respect to any such project. Any project selected under this section should be similar to projects which have been demonstrated by the Department of Energy (or any of its predecessor agencies) to be reliable, maintainable, and technically feasible.
+> The Secretary of Energy shall inform the Secretary of State of all such technologies which are feasible for such projects, taking into account the resources and environmental conditions of the countries in which such projects are to be implemented. Upon the request of the Secretary of State, the Secretary of Energy shall provide to the Secretary of State any technical information or other technical assistance which the Secretary of State considers necessary with respect to any such project. Any project selected under this section should be similar to projectswhich have been demonstrated by the Department of Energy (or any of its predecessor agencies) to be reliable, maintainable, and technically feasible.
 
 (3) Any project selected under this section shall be adaptable to the local resources, climatic conditions, and economic circumstances of the country in which such project is implemented in order that such country will be more likely to implement similar projects.
 
@@ -45,6 +45,8 @@ Whenever any building is constructed under the authority contained in section 29
 In addition to amounts otherwise available for such purposes, $4,000,000 of the amount authorized to be appropriated by section 101(a)(1) of this Act shall be available only to carry out the purposes of this section.
 
 (Pub. L. 95–426, title I, §105, Oct. 7, 1978, 92 Stat. 965.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

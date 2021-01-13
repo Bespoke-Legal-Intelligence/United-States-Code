@@ -6,7 +6,7 @@ Not later than one year after the effective date of this chapter, the Administra
 
 #### (b) Administrator's annual report to Congress; contents
 
-The Administrator shall prepare and submit directly to the Congress and the President everyyear after May 7, 1974, a report which shall include—
+The Administrator shall prepare and submit directly to the Congress and the President every year after May 7, 1974, a report which shall include—
 
 &emsp;(1) a review and analysis of the major actions taken by the Administrator;
 

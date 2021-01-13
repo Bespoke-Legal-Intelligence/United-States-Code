@@ -2,7 +2,7 @@
 
 #### (a) Management
 
-The Secretary, acting through the Bureau of Land Management, shall manage the conservation area in a manner that conserves, protects, and enhances its resources and values, including those resources and values specified in subsection <sup>1</sup> 460ppp–2(a) of this title, in accordance with this subchapter, the Federal Land Policyand Management Act of 1976 (43 U.S.C. 1701 et seq.), and other applicable provisions of law.
+The Secretary, acting through the Bureau of Land Management, shall manage the conservation area in a manner that conserves, protects, and enhances its resources and values, including those resources and values specified in subsection <sup>1</sup> 460ppp–2(a) of this title, in accordance with this subchapter, the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), and other applicable provisions of law.
 
 #### (b) Access
 

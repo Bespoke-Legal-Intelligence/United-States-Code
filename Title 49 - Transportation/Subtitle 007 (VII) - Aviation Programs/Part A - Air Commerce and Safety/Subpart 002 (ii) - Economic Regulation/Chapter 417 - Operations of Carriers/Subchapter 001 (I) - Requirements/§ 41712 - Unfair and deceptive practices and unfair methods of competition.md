@@ -14,7 +14,7 @@ Disclosure Requirement for Sellers of Tickets for Flights.—
 
 &emsp;(1)
 
-In general.—It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—
+In general.—It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, orother person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—
 
 &emsp;&emsp;(A) the name of the air carrier providing the air transportation; and
 

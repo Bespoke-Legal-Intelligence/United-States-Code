@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an "RECC Working Group"). Each RECCWorking Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.
+There is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an "RECC Working Group"). Each RECC Working Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.
 
 #### (b) Membership
 
@@ -76,6 +76,8 @@ The duties of each RECC Working Group shall include—
 
 (Pub. L. 107–296, title XVIII, §1805, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1439; amended Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1805 of Pub. L. 107–296 was renumbered section 1905 and was classified to section 595 of this title, prior to repeal by Pub. L. 115–387, §2(a)(4), Dec. 21, 2018, 132 Stat. 5163.
@@ -83,4 +85,10 @@ Another section 1805 of Pub. L. 107–296 was renumbered section 1905 and was cl
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–278 substituted "Assistant Director for Emergency Communications" for "Director for Emergency Communications".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

@@ -62,7 +62,7 @@ In this subchapter—
 
 &emsp;&emsp;(D) acquiring land for, or constructing, a burn area training structure on or off the airport to provide live fire drill training for aircraft rescue and firefighting personnel required to receive the training under regulations the Secretary prescribes, including basic equipment and minimum structures to support the training under standards the Administrator of the Federal Aviation Administration prescribes.
 
-&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
+&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approvedby the Secretary under this subchapter or under section 40117.
 
 &emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
@@ -106,7 +106,7 @@ In this subchapter—
 
 &emsp;(6) "amount made available under section 48103" or "amount newly made available" means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
 
-&emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
+&emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passengerboardings each year and is receiving scheduled passenger aircraft service.
 
 &emsp;(8) "general aviation airport" means a public-use airport that is located in a State and that, as determined by the Secretary—
 
@@ -136,7 +136,7 @@ In this subchapter—
 
 &emsp;(15) "passenger boardings"—
 
-&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, asthe Secretary determines under regulations the Secretary prescribes; and
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
@@ -330,7 +330,7 @@ In clause (8), before subclause (A), the words "the initial as well as continuin
 
 In clause (9), the words "scheduled and nonscheduled" are omitted as surplus. The word "cargo" is substituted for "property (including mail)" for consistency in the revised title.
 
-In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words "that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
+In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words"that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
 
 In clause (12), the words "included in one project grant application" are substituted for "submitted together", and the words "or all projects to be undertaken" are substituted for "including the combined submission of all projects", for clarity and consistency in this chapter.
 
@@ -422,7 +422,7 @@ Pars. (24), (25). Pub. L. 108–176, §801(a)(1), redesignated pars. (19) and (2
 
 Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
 
-<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted ", universal access systems, and emergency call boxes," for "and universal access systems," and inserted "and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices" before semicolon at end.
+<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted ", universal access systems, and emergencycall boxes," for "and universal access systems," and inserted "and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices" before semicolon at end.
 
 Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end ", including closed circuit weather surveillance equipment if the airport is located in Alaska".
 

@@ -10,6 +10,8 @@ Forms and Process.—Not later than 1 year after the date of enactment of the SA
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title I, §110, Oct. 13, 2006, 120 Stat. 1893.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the SAFE Port Act, referred to in subsecs. (a) and (b), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
@@ -17,6 +19,8 @@ The date of enactment of the SAFE Port Act, referred to in subsecs. (a) and (b),
 #### Amendments
 
 <b>2006</b>—Subsecs. (a), (b). Pub. L. 109–347 substituted "Not later than 1 year after the date of enactment of the SAFE Port Act, the" for "The".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### International Seafarer Identification
 

@@ -18,7 +18,7 @@ For purposes of this part, the term "distributable net income" means, with respe
 
 #### (4) Extraordinary dividends and taxable stock dividends
 
-&emsp;For purposes only of subpart B (relating to trusts which distribute current income only), there shall be excluded those items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary,acting in good faith, does not pay or credit to any beneficiary by reason of his determination that such dividends are allocable to corpus under the terms of the governing instrument and applicable local law.
+&emsp;For purposes only of subpart B (relating to trusts which distribute current income only), there shall be excluded those items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, does not pay or credit to any beneficiary by reason of his determination that such dividends are allocable to corpus under the terms of the governing instrument and applicable local law.
 
 #### (5) Tax-exempt interest
 
@@ -42,7 +42,7 @@ For purposes of this part, the term "distributable net income" means, with respe
 
 #### (b) Income
 
-For purposes of this subpart and subparts B, C, and D, the term "income", when not preceded by the words "taxable", "distributable net", "undistributed net", or "gross", means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
+For purposes of this subpart and subparts B, C, and D, the term "income", when not preceded by the words "taxable", "distributable net", "undistributed net", or "gross", means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividendswhich the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
 
 #### (c) Beneficiary
 
@@ -152,7 +152,7 @@ For purposes of subparts B, C, and D—
 
 &emsp;&emsp;(B) any United States person not described in subparagraph (A) who is related to such grantor or beneficiary,
 
-> &emsp;the amount of such loan (or the fair market value of the use of such property) shall be treated as a distribution by such trust to such grantor or beneficiary (as the case may be).
+> &emsp;the amount of such loan (or the fair market value of the use of such property) shall betreated as a distribution by such trust to such grantor or beneficiary (as the case may be).
 
 #### (2) Definitions and special rules
 
@@ -292,7 +292,7 @@ Abusive transactions.—The amendment made by subsection (b) \[amending this sec
 
 "(3)
 
-Loans from trusts.—The amendment made by subsection (c) \[amending this section and section 7872of this title\] shall apply to loans of cash or marketable securities made after September 19, 1995."
+Loans from trusts.—The amendment made by subsection (c) \[amending this section and section 7872 of this title\] shall apply to loans of cash or marketable securities made after September 19, 1995."
 
 #### Effective Date of 1993 Amendment
 
@@ -376,5 +376,5 @@ Pub. L. 100–647, title X, §1018(e), Nov. 10, 1988, 102 Stat. 3581, provided t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

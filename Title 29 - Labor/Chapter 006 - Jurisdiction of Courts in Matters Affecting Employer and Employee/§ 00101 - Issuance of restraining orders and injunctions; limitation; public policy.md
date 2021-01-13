@@ -4,6 +4,8 @@ No court of the United States, as defined in this chapter, shall have jurisdicti
 
 (Mar. 23, 1932, ch. 90, §1, 47 Stat. 70.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act Mar. 23, 1932, ch. 90, 47 Stat. 70, which enacted this chapter, is popularly known as the "Norris-LaGuardia Act".

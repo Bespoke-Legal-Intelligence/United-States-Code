@@ -6,7 +6,7 @@ There is created as an agency of the United States of America a body corporate t
 
 #### (b) Congressional declaration of purpose
 
-The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
+The future of freedom, security, and economic development in the Western Hemisphere rests onthe realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
 
 &emsp;(1) strengthen the bonds of friendship and understanding among the peoples of this hemisphere;
 
@@ -24,7 +24,7 @@ The Foundation shall carry out the purposes set forth in subsection (b) of this 
 
 #### (d) Coordination of activities with national and international agencies
 
-In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, andother entities engaged in promoting social and economic development of Latin America.
+In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
 
 #### (e) Powers and functions
 
@@ -58,7 +58,7 @@ Upon termination of the corporate life of the Foundation all of its assets shall
 
 #### (g) Board of directors; number, term, and appointment
 
-The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the "Board") composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
+The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the "Board") composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director ofthe Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
 
 #### (h) Reimbursement of expenses
 
@@ -78,7 +78,7 @@ In furtherance and not in limitation of the powers conferred upon it, the Board 
 
 #### (l) President of Foundation: appointment and compensation; employment of experts and consultants
 
-(1) The chief executive officer of the Foundation shall be a President who shall be appointedby the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+(1) The chief executive officer of the Foundation shall be a President who shall be appointed by the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 (2) Experts and consultants, or organizations thereof, may be employed as authorized by section 3109 of title 5.
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
@@ -130,9 +130,11 @@ Funds made available to the Foundation may be used for printing and binding with
 
 (Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680; Pub. L. 110–38, §1, June 21, 2007, 121 Stat. 230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as anote under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -177,6 +179,8 @@ Subsec. (a). Pub. L. 92–226, §406(2), substituted "Inter-American Foundation"
 Subsec. (e)(4). Pub. L. 92–226, §406(4), inserted ", including expenses for representation (not to exceed $10,000 in any fiscal year),".
 
 Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted "Foundation" for "Institute" and "President" for "Executive Director" in two places, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

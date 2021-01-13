@@ -4,6 +4,8 @@ This chapter may be cited as the "Railroad Unemployment Insurance Act".
 
 (June 25, 1938, ch. 680, §17, 52 Stat. 1113.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,12 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 #### Codification
 
 Another section 17 of Act June 25, 1938, was classified to section 368 of this title prior to repeal by Pub. L. 104–251, §5(c), Oct. 9, 1996, 110 Stat. 3165.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §231, Dec. 27, 2020, 134 Stat. 1957, provided that: "This subchapter \[subchapterIII (§§231–235) of title II of div. N of Pub. L. 116–260, amending section 352 of this title, section 906 of Title 2, The Congress, and section 9030 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 352 of this title, section 906 of Title 2, and section 9030 of Title 15\] may be cited as the 'Continued Assistance to Rail Workers Act of 2020'."
 
 #### Short Title of 1996 Amendment
 

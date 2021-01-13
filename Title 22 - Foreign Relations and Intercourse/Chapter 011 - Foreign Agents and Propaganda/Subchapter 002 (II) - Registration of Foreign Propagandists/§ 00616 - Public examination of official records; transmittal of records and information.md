@@ -6,7 +6,7 @@ The Attorney General shall retain in permanent form one copy of all registration
 
 #### (b) Secretary of State
 
-The Attorney General shall, promptly upon receipt, transmit one copy of every registrationstatement filed hereunder and one copy of every amendment or supplement thereto filed hereunder, to the Secretary of State for such comment and use as the Secretary of State may determine to be appropriate from the point of view of the foreign relations of the United States. Failure of the Attorney General so to transmit such copy shall not be a bar to prosecution under this subchapter.
+The Attorney General shall, promptly upon receipt, transmit one copy of every registration statement filed hereunder and one copy of every amendment or supplement thereto filed hereunder, to the Secretary of State for such comment and use as the Secretary of State may determine to be appropriate from the point of view of the foreign relations of the United States. Failure of the Attorney General so to transmit such copy shall not be a bar to prosecution under this subchapter.
 
 #### (c) Executive departments and agencies; Congressional committees
 
@@ -28,6 +28,8 @@ The Attorney General is authorized to furnish to departments and agencies in the
 
 (June 8, 1938, ch. 327, §6, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Pub. L. 89–486, §6, July 4, 1966, 80 Stat. 247; Pub. L. 104–65, §9(7), Dec. 19, 1995, 109 Stat. 700; Pub. L. 110–81, title II, §212(b), Sept. 14, 2007, 121 Stat. 749.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section related to rules and regulations. Provisions on that subject were incorporated in section 620 of this title by 1942 amendment.
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 104–65, §9(7)(C), struck out "copies of political propag
 <b>1966</b>—Pub. L. 89–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

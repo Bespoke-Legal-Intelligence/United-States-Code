@@ -38,7 +38,7 @@ Trust Fund.—The amendments made by section 1427 \[enacting section 2396 of thi
 
 "(d)
 
-Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date onwhich the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
+Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date on which the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
 
 "(e)
 
@@ -60,7 +60,7 @@ Pub. L. 100–418, title I, §1428(a), Aug. 23, 1988, 102 Stat. 1254, provided t
 
 &emsp;"(A) undertake negotiations necessary to achieve changes in the General Agreement on Tariffs and Trade that would allow any country to impose a small uniform fee of not more than 0.15 percent on all imports to such country for the purpose of using the revenue from such fee to fund programs which directly assist adjustment to import competition, and
 
-&emsp;"(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
+&emsp;"(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C.2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
 
 "(2) In the report that is submitted under section 163 of the Trade Act of 1974 \[19 U.S.C. 2213\] for 1989 and 1990, the President shall include a statement on the progress of negotiations conducted under paragraph (1).
 

@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have theright to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -50,7 +50,7 @@
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
-(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
+(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure ofSocial Security account numbers for all covered beneficiaries.
 
 (3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
 
@@ -66,7 +66,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
 
-Section 1079(j) of this title, referred to in subsec. (k)(1), (5), was redesignated section 1079(i) of this titleby Pub. L. 113–291, div. A, title VII, §703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
+Section 1079(j) of this title, referred to in subsec. (k)(1), (5), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, §703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
 
 #### Codification
 
@@ -154,7 +154,7 @@ Pub. L. 101–189, div. A, title VII, §727(b), Nov. 29, 1989, 103 Stat. 1480, p
 
 #### Effective Date
 
-Pub. L. 99–272, title II, §2001(b), Apr. 7, 1986, 100 Stat. 101, provided that: "Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided afterSeptember 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\]."
+Pub. L. 99–272, title II, §2001(b), Apr. 7, 1986, 100 Stat. 101, provided that: "Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 #### Pilot Program on Increased Third-Party Collection Reimbursements in Military Medical Treatment Facilities
 

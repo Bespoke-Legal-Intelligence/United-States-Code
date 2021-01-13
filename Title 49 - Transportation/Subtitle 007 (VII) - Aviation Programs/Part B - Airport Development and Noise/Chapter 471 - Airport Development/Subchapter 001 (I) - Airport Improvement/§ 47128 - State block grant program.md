@@ -14,7 +14,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 &emsp;(3) deciding the State uses a programming process acceptable to the Secretary;
 
-&emsp;(4) finding that the State has agreed to comply with United States Government standardrequirements for administering the block grant, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements; and
+&emsp;(4) finding that the State has agreed to comply with United States Government standard requirements for administering the block grant, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements; and
 
 &emsp;(5) finding that the State has agreed to provide the Secretary with program information the Secretary requires.
 

@@ -52,7 +52,7 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 
 #### (2) Effect of failure to make unanimous election
 
-&emsp;If all the producers on a farm fail to make a unanimous election under paragraph (1), the producers on the farm shall be deemed to have elected price loss coverage under section 9016 of this title for acres allocated on the farm to seed cotton.
+&emsp;If all the producers on a farm fail to make a unanimous election under paragraph (1), theproducers on the farm shall be deemed to have elected price loss coverage under section 9016 of this title for acres allocated on the farm to seed cotton.
 
 #### (h) Option to change election
 

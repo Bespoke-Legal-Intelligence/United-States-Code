@@ -4,6 +4,8 @@ The Secretary is authorized from time to time to promulgate such regulations and
 
 (July 19, 1940, ch. 643, §8, 54 Stat. 777.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

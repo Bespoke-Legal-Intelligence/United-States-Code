@@ -26,7 +26,7 @@ Section 11345a, added Pub. L. 96–296, §27(a), July 1, 1980, 94 Stat. 819; ame
 
 Section 11346, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1437; Pub. L. 97–449, §5(g)(7), Jan. 12, 1983, 96 Stat. 2443, related to expedited rail carrier procedures in consolidations, mergers, and acquisitions of control.
 
-Section 11347, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1439; Pub. L. 98–216, §2(16), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(31), July 5, 1994, 108 Stat. 1378, relatedto employee protective arrangements in transactions involving rail carriers. See section 11326 of this title.
+Section 11347, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1439; Pub. L. 98–216, §2(16), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(31), July 5, 1994, 108 Stat. 1378, related to employee protective arrangements in transactions involving rail carriers. See section 11326 of this title.
 
 Section 11348, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1439; Pub. L. 96–454, §8(b)(1), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–261, §19(b), Sept. 20, 1982, 96 Stat. 1121; Pub. L. 97–449, §5(g)(8), Jan. 12, 1983, 96 Stat. 2443; Pub. L. 98–554, title II, §227(a)(3), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 103–272, §5(m)(32), July 5, 1994, 108 Stat. 1378; Pub. L. 103–429, §6(17), Oct. 31, 1994, 108 Stat. 4379, related to Interstate Commerce Commission authority over noncarriers that acquire control of carriers. See section 14303 of this title.
 

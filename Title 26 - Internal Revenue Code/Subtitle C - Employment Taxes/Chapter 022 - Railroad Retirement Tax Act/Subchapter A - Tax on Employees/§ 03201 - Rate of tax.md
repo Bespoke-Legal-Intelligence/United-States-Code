@@ -99,7 +99,7 @@ Pub. L. 89–212, §6, Sept. 29, 1965, 79 Stat. 862, provided that: "The amendme
 
 Pub. L. 89–97, title I, §105(b)(4), July 30, 1965, 79 Stat. 336, provided that: "The amendments made by this subsection \[amending this section and sections 3211 and 3221 of this title\] shall be effective with respect to compensation paid for services rendered after December 31, 1965."
 
-Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 1966, or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[this chapter\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 1966, or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[this chapter\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date noteunder section 1395i–1 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1959 Amendment
 
@@ -111,7 +111,7 @@ Act Aug. 31, 1954, ch. 1164, pt. IV, §407, 68 Stat. 1042, as amended by act Oct
 
 #### Separability
 
-Pub. L. 93–69, title III, §301, July 10, 1973, 87 Stat. 168, provided that: "If any provision of this Act \[amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228o of Title 45\] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of suchprovision to other persons or circumstances shall not be affected thereby."
+Pub. L. 93–69, title III, §301, July 10, 1973, 87 Stat. 168, provided that: "If any provision of this Act \[amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228o of Title 45\] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of such provision to other persons or circumstances shall not be affected thereby."
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 

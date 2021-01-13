@@ -4,9 +4,13 @@ The jurisdiction of the Mississippi River Commission is extended so as to includ
 
 (July 27, 1916, ch. 260, §1, 39 Stat. 402; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from part of section 1 of the Rivers and Harbors Appropriation Act of 1916.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

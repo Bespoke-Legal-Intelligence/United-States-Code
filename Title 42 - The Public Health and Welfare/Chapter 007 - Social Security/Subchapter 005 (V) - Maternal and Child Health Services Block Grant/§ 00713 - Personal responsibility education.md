@@ -6,9 +6,9 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, the Secretary shall allot to each State an amount equal to the product of—
+&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, the Secretary shall allot to each State an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
+&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) the State youth population percentage determined under paragraph (2).
 
@@ -16,7 +16,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2019, and ending May 22, 2020.
+&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000.
 
 #### (ii) Pro rata adjustments
 
@@ -26,7 +26,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State shall not be paid from its allotment for a fiscal year or the period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
+&emsp;&emsp;&emsp;A State shall not be paid from its allotment for a fiscal year unless the State submits an application to the Secretary for the fiscal year and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
 
 #### (ii) Requirements
 
@@ -54,13 +54,13 @@
 
 #### (3) Availability of State allotments
 
-&emsp;Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year or period.
+&emsp;Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year.
 
 #### (4) Authority to award grants from State allotments to local organizations and entities in nonparticipating States
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011,the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2019 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2019 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
 #### (B) Competitive prep grants
 
@@ -88,7 +88,7 @@
 
 #### (1) In general
 
-&emsp;The purpose of an allotment under subsection (a)(1) to a State is to enable the State (or, in the case of grants made under subsection (a)(4)(B), to enable a local organization or entity) to carry out personal responsibility education programs consistent with this subsection.
+&emsp;The purpose of an allotment under subsection (a)(1) to a State is to enable the State\(or, in the case of grants made under subsection (a)(4)(B), to enable a local organization or entity) to carry out personal responsibility education programs consistent with this subsection.
 
 #### (2) Personal responsibility education programs
 
@@ -136,11 +136,11 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
-&emsp;Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
+&emsp;From the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
 
 #### (A) Grants for Indian tribes or tribal organizations
 
@@ -158,11 +158,7 @@
 
 #### (iii) Evaluation
 
-&emsp;&emsp;&emsp;The Secretary shall evaluate the programs and activities carried out with funds made available through allotments or grants under this section.
-
-#### (3) Exception
-
-&emsp;Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for the period described in subsection (a)(1)(A).
+&emsp;&emsp;&emsp;The Secretary shall evaluate the programs and activities carried out withfunds made available through allotments or grants under this section.
 
 #### (d) Administration
 
@@ -218,9 +214,9 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2019 and $48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023. Amounts appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113.)
+(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992.)
 
 #### Prior Provisions
 
@@ -231,6 +227,36 @@ Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat.
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–215 substituted "December 18, 2020" for "December 11, 2020" wherever appearing.
+
+Pub. L. 116–159 substituted "December 11, 2020" for "November 30, 2020" wherever appearing.
+
+Subsec. (a)(1)(A). Pub. L. 116–260, §302(1)(A)(i)(I), substituted "2023" for "2020 and for the period beginning October 1, 2020, and ending December 18, 2020" in introductory provisions.
+
+Pub. L. 116–136, §3822(1)(A)(i), substituted "2020 and for the period beginning October 1, 2020, and ending November 30, 2020" for "2019 and for the period beginning October 1, 2019, and ending May 22, 2020" in introductory provisions.
+
+Subsec. (a)(1)(A)(i). Pub. L. 116–260, §302(1)(A)(i)(II), struck out "or period" after "for the fiscal year".
+
+Subsec. (a)(1)(B)(i). Pub. L. 116–260, §302(1)(A)(ii), struck out at end: "The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2020, and ending December 18, 2020."
+
+Pub. L. 116–136, §3822(1)(A)(ii), substituted "October 1, 2020, and ending November 30, 2020" for "October 1, 2019, and ending May 22, 2020".
+
+Subsec. (a)(1)(C)(i). Pub. L. 116–260, §302(1)(A)(iii), struck out "or the period described in subparagraph (A)" after "for a fiscal year" and "or period" after "for the fiscal year".
+
+Subsec. (a)(3). Pub. L. 116–260, §302(1)(B), struck out "or the period described in paragraph (1)(A)" after "for a fiscal year" and "or period" after "such fiscal year".
+
+Subsec. (a)(4)(A). Pub. L. 116–260, §302(1)(C), in first sentence, substituted "2023" for "2020 and for the period described in paragraph (1)(A)" and "2023" for "2020 and for the period so described" and, in second sentence, struck out "or the period so described" before "that remain unexpended".
+
+Pub. L. 116–136, §3822(2), substituted "2020" for "2019" in two places.
+
+Subsec. (c)(1), (2). Pub. L. 116–260, §302(2)(A), substituted "From" for "Subject to paragraph (3), from" in par. (1) and in introductory provisions of par. (2).
+
+Subsec. (c)(3). Pub. L. 116–260, §302(2)(B), struck out par. (3). Text read as follows: "Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for the period described in subsection (a)(1)(A)."
+
+Subsec. (f). Pub. L. 116–260, §302(3), substituted "2023" for "2020, and for the period beginning on October 1, 2020, and ending on December 18, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020".
+
+Pub. L. 116–136, §3822(3), substituted "2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020" for "2019 and $48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020".
 
 <b>2019</b>—Subsec. (a)(1)(A). Pub. L. 116–94, §304(1)(A), substituted "May 22, 2020" for "December 20, 2019" in introductory provisions.
 

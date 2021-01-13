@@ -18,17 +18,21 @@ The detainer authority conferred on representatives of the Secretary of Agricult
 
 (Pub. L. 91–597, §23, Dec. 29, 1970, 84 Stat. 1632; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(g), Dec. 13, 1991, 105 Stat. 1901.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub. L. 89–755, Nov. 3, 1966, 80Stat. 1296, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted "(2) with respect to egg handlers specified in paragraphs (1) and (2) of section 1034(e) of this title, no State or local jurisdiction may impose temperature requirements pertaining to eggs packaged for the ultimate consumer which are in addition to, or different from, Federal requirements, and (3)" for "and (2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -42,7 +42,7 @@ Pub. L. 98–76, §211(c), substituted "12.75 percent" for "11.75 percent".
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–215 substituted the rate of excise tax imposed on every employer under section 3221(c) of this title for a flat 2-cents per man hour tax as the rate for additional taxes imposed on the income of employee representatives for each man hour of compensation paid.
 
-<b>1966</b>—Pub. L. 89–700 substituted "rendered after September 30, 1965" for "rendered after December 31, 1964", and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was soamended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended".
+<b>1966</b>—Pub. L. 89–700 substituted "rendered after September 30, 1965" for "rendered after December 31, 1964", and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended".
 
 Pub. L. 89–699, §301(b), (d), designated existing provisions as subsec. (a), and substituted "14 percent" for "13½ percent" in subd. (3), "14½ percent" for "14 percent" in subd. (4), and "15 percent" for "14½ percent" in subd. (5).
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with re
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–699, title III, §301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, §8, Mar. 17, 1970, 84 Stat. 72, provided that: "The amendments made by subsections (d) and (e) of this section \[amending this section and section 3221 of this title\] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act \[Oct. 30, 1966\], for which compensation is paid."
+Pub. L. 89–699, title III, §301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, §8, Mar. 17, 1970, 84Stat. 72, provided that: "The amendments made by subsections (d) and (e) of this section \[amending this section and section 3221 of this title\] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act \[Oct. 30, 1966\], for which compensation is paid."
 
 #### Effective Date of 1965 Amendments
 
@@ -104,7 +104,7 @@ Amendment by section 111(c)(2) of Pub. L. 89–97 applicable to calendar year 19
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day of calendar month nextfollowing May 1959, see section 202 of Pub. L. 86–28, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day of calendar month next following May 1959, see section 202 of Pub. L. 86–28, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1954 Amendment
 

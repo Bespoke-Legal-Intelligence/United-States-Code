@@ -50,6 +50,8 @@ June 29, 1936, ch. 858, title I, §101, 49 Stat. 1985; Pub. L. 91–469, §1, Oc
 
 This section consolidates the source provisions to eliminate repetition.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(4). Pub. L. 111–84 inserted "constructed in the United States" after "vessels".

@@ -32,9 +32,13 @@
 
 (Added Pub. L. 103–430, §2(a), Oct. 31, 1994, 108 Stat. 4393.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Census Address List Improvement Act of 1994, referred to in subsec. (a)(3), is section 3 of Pub. L. 103–430, set out below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Development of Appeals Process by Administrator of Office of Information and Regulatory Affairs
 

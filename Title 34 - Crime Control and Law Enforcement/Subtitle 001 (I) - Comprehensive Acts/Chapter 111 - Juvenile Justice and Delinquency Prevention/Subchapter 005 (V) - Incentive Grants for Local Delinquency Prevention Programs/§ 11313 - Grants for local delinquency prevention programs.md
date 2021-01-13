@@ -60,7 +60,7 @@ In awarding grants under this section for a fiscal year, the Administrator may n
 
 &emsp;&emsp;&emsp;(iii) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness;
 
-&emsp;&emsp;&emsp;(iv) identifying under the plan submitted under paragraph (5) potential savings andefficiencies associated with successful implementation of such plan; and
+&emsp;&emsp;&emsp;(iv) identifying under the plan submitted under paragraph (5) potential savings and efficiencies associated with successful implementation of such plan; and
 
 &emsp;&emsp;&emsp;(v) describing how such savings and efficiencies may be used to carry out delinquency prevention programs and be reinvested in the continuing implementation of such programs after the end of the subgrant period.
 
@@ -146,6 +146,8 @@ In awarding grants under this section for a fiscal year, the Administrator may n
 
 (Pub. L. 93–415, title V, §504, as added Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1895; amended Pub. L. 111–211, title II, §246(a), July 29, 2010, 124 Stat. 2295; Pub. L. 115–385, title III, §304, Dec. 21, 2018, 132 Stat. 5147.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 506, referred to in subsec. (b), means section 506 of Pub. L. 93–415, which was formerly section 505 of the Act prior to renumbering by Pub. L. 115–385, and was classified to section 5784 of Title 42, The Public Health and Welfare, prior to omission from the Code. After renumbering section 505 as 506, Pub. L. 115–385 went on to add a new section 505 of the Act and then repeal "section 505", which was executed by repealing section 506 as renumbered, to reflect the probable intent of Congress. A new section relating to authorization of appropriations was enacted by Pub. L. 115–385 as section 601 of Pub. L. 93–415 and is classified to section 11321 of this title.
@@ -167,6 +169,8 @@ Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 
 <b>2010</b>—Subsec. (a). Pub. L. 111–211, §246(a)(1), inserted ", or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)" after "subsection (b)" in introductory provisions.
 
 Subsec. (d). Pub. L. 111–211, §246(a)(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -224,7 +228,7 @@ Criteria.—In making grants under this section, the Attorney General shall give
 
 &emsp;&emsp;"(A) A program focusing on—
 
-&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and young adults who have had or are likely to have contact with the juvenile justice system;
+&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and youngadults who have had or are likely to have contact with the juvenile justice system;
 
 &emsp;&emsp;&emsp;"(ii) fostering positive relationships between program participants and supportive adults in the community; and
 
@@ -358,7 +362,7 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 &emsp;"(4) Based on PAL chapter demographics, approximately 85 percent of the youths who benefit from PAL programs live in inner cities and urban areas.
 
-&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations. PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
+&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations.PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
 
 &emsp;"(6) Today's youth face far greater risks than did their parents and grandparents. Law enforcement statistics demonstrate that youth between the ages of 12 and 18 are at risk of committing violent acts and being victims of violent acts between the hours of 3 p.m. and 8 p.m.
 

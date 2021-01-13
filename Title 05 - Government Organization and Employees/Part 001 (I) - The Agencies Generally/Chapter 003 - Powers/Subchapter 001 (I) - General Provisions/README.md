@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 115–435, title I, §101(a)(1), Jan. 14, 2019, 132 Stat. 5529, inserted subchapter heading.

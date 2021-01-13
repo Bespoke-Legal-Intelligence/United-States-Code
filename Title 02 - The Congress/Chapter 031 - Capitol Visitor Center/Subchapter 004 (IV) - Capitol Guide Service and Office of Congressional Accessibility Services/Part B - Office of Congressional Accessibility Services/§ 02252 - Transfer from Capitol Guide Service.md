@@ -16,7 +16,7 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 
 #### (2) Eligibility for immediate retirement on basis of involuntary separation
 
-&emsp;For purposes of section 8336(d) and section 8414(b) of title 5, an individual described in paragraph (1) who is separated from service with the Office of Congressional Accessibility Services shall be considered to have separated from the service involuntarily if, at the time the individual is separated from service—
+&emsp;For purposes of section 8336(d) and section 8414(b) of title 5, an individual described inparagraph (1) who is separated from service with the Office of Congressional Accessibility Services shall be considered to have separated from the service involuntarily if, at the time the individual is separated from service—
 
 &emsp;&emsp;(A) the individual has completed 25 years of service under such title; or
 
@@ -27,6 +27,8 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 &emsp;The Director of Accessibility Services may not impose a period of probation with respect to the transfer of any individual who is transferred to the Office of Congressional Accessibility Services under subsection (a).
 
 (Pub. L. 110–437, title IV, §412, Oct. 20, 2008, 122 Stat. 4995.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -66,7 +66,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
-(5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are ownedby him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
+(5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are owned by him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
 
 (6) The provisions of this subsection shall not apply to—
 
@@ -162,7 +162,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 (5) In exercising its authority under this subsection, the Commission shall take such steps as it deems necessary or appropriate in the public interest or for the protection of investors (A) to achieve centralized reporting of information regarding ownership, (B) to avoid unnecessarily duplicative reporting by and minimize the compliance burden on persons required to report, and (C) to tabulate and promptly make available the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State agencies and the public.
 
-(6) The Commission may, by rule or order, exempt, in whole or in part, any person or class of persons from any or all of the reporting requirements of this subsection as it deems necessary or appropriate in the public interest or for the protection of investors.
+(6) The Commission may, by rule or order, exempt, in whole or in part, any person or class ofpersons from any or all of the reporting requirements of this subsection as it deems necessary or appropriate in the public interest or for the protection of investors.
 
 #### (h) Large trader reporting
 
@@ -442,7 +442,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 &emsp;&emsp;&emsp;&emsp;(V) validated complaint; and
 
-&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.
+&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, managementresponse, remediation, retesting, and closing of noncompliance issues.
 
 #### (C) Annual reports
 
@@ -674,7 +674,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;&emsp;(D) knowingly conducted any transaction or dealing with—
 
-&emsp;&emsp;&emsp;(i) any person the property and interests in property of which are blocked pursuant to Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
+&emsp;&emsp;&emsp;(i) any person the property and interests in property of which are blocked pursuantto Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
 
 &emsp;&emsp;&emsp;(ii) any person the property and interests in property of which are blocked pursuant to Executive Order No. 13382 (70 Fed. Reg. 38567; relating to blocking of property of weapons of mass destruction proliferators and their supporters); or
 
@@ -712,7 +712,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;Upon receiving a report under paragraph (4) that includes a disclosure of an activity described in paragraph (1) (other than an activity described in subparagraph (D)(iii) of that paragraph), the President shall—
 
-&emsp;&emsp;(A) initiate an investigation into the possible imposition of sanctions under the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), section 8513 or 8514a of title 22, an Executive order specified inclause (i) or (ii) of paragraph (1)(D), or any other provision of law relating to the imposition of sanctions with respect to Iran, as applicable; and
+&emsp;&emsp;(A) initiate an investigation into the possible imposition of sanctions under the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), section 8513 or 8514a of title 22, an Executive order specified in clause (i) or (ii) of paragraph (1)(D), or any other provision of law relating to the imposition of sanctions with respect to Iran, as applicable; and
 
 &emsp;&emsp;(B) not later than 180 days after initiating such an investigation, make a determination with respect to whether sanctions should be imposed with respect to the issuer or the affiliate of the issuer (as the case may be).
 
@@ -734,7 +734,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is act Sept. 2
 
 Section 7201 of this title, referred to in subsec. (k)(1), was in the original "section 2 of the Sarbanes-Oxley Act of 2002", Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
 
-The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which isclassified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (p)(5), is section 1502 of Pub. L. 111–203, which amended this section and enacted provisions set out as a note below.
 
@@ -822,7 +822,7 @@ Subsecs. (g), (h). Pub. L. 95–213, §203, added subsecs. (g) and (h).
 
 <b>1975</b>—Subsec. (f). Pub. L. 94–29 added subsec. (f).
 
-<b>1970</b>—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
+<b>1970</b>—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which wouldhave been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
 
 Subsec. (d)(5), (6). Pub. L. 91–567, §1(b), added par. (5) and redesignated former par. (5) as (6).
 
@@ -950,7 +950,7 @@ Updates.—The Secretary of State shall update the map required under subparagra
 
 &emsp;&emsp;"(D)
 
-Publication in federal register.—The Secretary of State shall add minerals to the list ofminerals in the definition of conflict minerals under section 1502 \[amending this section and enacting this note\], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
+Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 \[amending this section and enacting this note\], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
 
 "(d)
 
@@ -1045,6 +1045,8 @@ In General.—The Securities and Exchange Commission shall consult and coordinat
 Definitions.—For purposes of subsection (a), the terms 'insured depository institution', 'depository institution holding company', and 'appropriate Federal banking agency' have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]."
 
 #### Adjustment of Registration Fee Rate
+
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 

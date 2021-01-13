@@ -6,7 +6,7 @@ Exclusion of Particular Source.—
 
 &emsp;(1)
 
-Criteria for exclusion.—An executive agency may provide for the procurement of property or services covered by section 3301 of this title using competitive procedures but excluding a particular source to establish ormaintain an alternative source of supply for that property or service if the agency head determines that to do so would—
+Criteria for exclusion.—An executive agency may provide for the procurement of property or services covered by section 3301 of this title using competitive procedures but excluding a particular source to establish or maintain an alternative source of supply for that property or service if the agency head determines that to do so would—
 
 &emsp;&emsp;(A) increase or maintain competition and likely result in reduced overall cost for the procurement, or for an anticipated procurement, of the property or services;
 
@@ -30,7 +30,7 @@ Exclusion of Other Than Small Business Concerns.—An executive agency may provi
 
 (c)
 
-Nonapplication of Justification and Approval Requirements.—A contract awarded pursuant to the competitive procedures referred to in subsections (a) and (b) is not subject to the justification and approval required by section 3304(e)(1) of this title.
+Nonapplication of Justification and Approval Requirements.—A contract awarded pursuant to the competitive procedures referredto in subsections (a) and (b) is not subject to the justification and approval required by section 3304(e)(1) of this title.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3747.)
 

@@ -132,7 +132,7 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of divisionA <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
@@ -188,7 +188,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;&emsp;(C) In the case of a child who has attained 18 years of age, a supervised setting in which the child is living independently.
 
-&emsp;&emsp;(D) A setting providing high-quality residential care and supportive services to children and youth who have been found to be,or are at risk of becoming, sex trafficking victims, in accordance with section 671(a)(9)(C) of this title.
+&emsp;&emsp;(D) A setting providing high-quality residential care and supportive services to children and youth who have been found to be, or are at risk of becoming, sex trafficking victims, in accordance with section 671(a)(9)(C) of this title.
 
 #### (3) Assessment to determine appropriateness of placement in a qualified residential treatment program
 
@@ -244,7 +244,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 #### References in Text
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4),is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
 Division A of subchapter XX, referred to in subsec. (h)(1), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
@@ -316,7 +316,7 @@ Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). F
 
 Amendment by section 50712(a) of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
-Amendment by section 50741(a)(1), (b) of Pub. L. 115–123 effective Oct. 1, 2019, with State option to delayeffective date for not more than 2 years and subject to State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
+Amendment by section 50741(a)(1), (b) of Pub. L. 115–123 effective Oct. 1, 2019, with State option to delay effective date for not more than 2 years and subject to State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -350,7 +350,7 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: "The amendments made by this section \[amending this section and sections 602, 673, and 675 of this title\] shall become effective April 1, 1988."
+Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: "The amendments made by this section \[amending this section and sections 602,673, and 675 of this title\] shall become effective April 1, 1988."
 
 #### Effective Date of 1980 Amendment
 

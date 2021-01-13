@@ -72,7 +72,7 @@ Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce s
 
 "(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
 
-"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-up tropical cyclone reconnaissance and tracking systems."
+"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-uptropical cyclone reconnaissance and tracking systems."
 
 #### United States Weather Research Program
 
@@ -266,7 +266,7 @@ Termination.—The Committee shall terminate on December 31, 1999.
 
 "(a)
 
-Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+Report.—The Secretary shall prepare a report on the proposed modernization of the National WeatherService and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 "(b)
 
@@ -326,7 +326,7 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 "
 
-Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expendituresfor the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
 
 "
 

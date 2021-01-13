@@ -66,7 +66,7 @@ There are authorized to be appropriated to carry out section 3224 of this title�
 
 #### (e) Assistance for veterans
 
-If, as of July 22, 2014, any unobligated funds appropriated to carry out section 2913 of this title, as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
+If, as of July 22, 2014, any unobligated funds appropriated to carry out section 2913 of this title, as in effect on the day before July 22, 2014,remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
 
 #### (f) Assistance for eligible workers
 
@@ -74,9 +74,13 @@ If, as of July 22, 2014, any unobligated funds appropriated to carry out subsect
 
 (Pub. L. 113–128, title I, §172, July 22, 2014, 128 Stat. 1585.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

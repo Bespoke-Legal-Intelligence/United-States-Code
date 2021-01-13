@@ -2,7 +2,7 @@
 
 Not later than 180 days after October 5, 2018, the Administrator shall provide guidance and training on an annual basis to State, local, and Indian tribal governments, first responders, and utility companies on—
 
-&emsp;(1) the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return to functioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
+&emsp;(1) the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return tofunctioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
 
 &emsp;(2) how hospitals, nursing homes and other long-term care facilities should adequately prepare for power outages during a major disaster or emergency, as those terms are defined in section 5122 of title 42; and
 
@@ -10,9 +10,13 @@ Not later than 180 days after October 5, 2018, the Administrator shall provide g
 
 (Pub. L. 115–254, div. D, §1208, Oct. 5, 2018, 132 Stat. 3441.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and also as part of the FAA Reauthorization Act of 2018, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

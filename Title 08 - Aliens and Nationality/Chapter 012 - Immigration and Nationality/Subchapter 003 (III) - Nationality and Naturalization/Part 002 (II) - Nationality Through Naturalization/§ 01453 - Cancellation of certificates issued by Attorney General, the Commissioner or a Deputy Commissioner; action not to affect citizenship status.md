@@ -4,6 +4,8 @@ The Attorney General is authorized to cancel any certificate of citizenship, cer
 
 (June 27, 1952, ch. 477, title III, ch. 2, §342, 66 Stat. 263.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.

@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or minor, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
 
-&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to haveaccess to residential care or services provided with a grant under this section.
+&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to have access to residential care or services provided with a grant under this section.
 
 #### (4) Minor victim of sex trafficking
 
@@ -202,6 +202,8 @@ Not later than 30 months after March 7, 2013, the Comptroller General of the Uni
 
 (Pub. L. 109–164, title II, §202, Jan. 10, 2006, 119 Stat. 3569; Pub. L. 110–457, title III, §302(3), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1241(a), Mar. 7, 2013, 127 Stat. 149; Pub. L. 115–393, title III, §301(e)(1)(A), (3), Dec. 21, 2018, 132 Stat. 5272.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 March 7, 2013, referred to in subsec. (j), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, which amended this section generally, to reflect the probable intent of Congress.
@@ -220,11 +222,13 @@ Subsec. (i). Pub. L. 115–393, §301(e)(3), substituted "2018 through 2021" for
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–457 substituted "$8,000,000 for each of the fiscal years 2008 through 2011" for "$10,000,000 for each of the fiscal years 2006 and 2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–393, title III, §301(e)(2), Dec. 21, 2018, 132 Stat. 5272, provided that: "The amendments made by paragraph (1) \[amending this section and repealing provisions set out as a note under this section\] shall take effect as though enacted on March 6, 2017."
 
 #### Effective and Termination Dates of 2013 Amendment
 
-Pub. L. 113–4, title XII, §1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to thissection by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, §301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
+Pub. L. 113–4, title XII, §1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to this section by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, §301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
 

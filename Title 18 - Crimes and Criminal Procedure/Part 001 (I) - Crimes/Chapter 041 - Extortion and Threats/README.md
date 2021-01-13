@@ -15,6 +15,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–544, §2(b)(2), Dec. 19, 2000, 114 Stat. 2715, struck out "protected by the Secret Service" after "other persons" in item 879.

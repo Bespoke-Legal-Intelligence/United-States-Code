@@ -6,7 +6,7 @@ Report Required.—
 
 &emsp;(1)
 
-In general.—Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+In general.—Not later than 30 days after the submission to Congress of the budget ofthe President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Elements.—Each report required under paragraph (1) shall include the following
 
 &emsp;&emsp;(E) A detailed description of any plans to retire, dismantle, or eliminate any nuclear warheads or bombs, nuclear weapons delivery systems, or any platforms (including silos and submarines) which carry such nuclear warheads, bombs, or delivery systems.
 
-&emsp;&emsp;(F) In accordance with paragraph (3), a detailed estimate of the budget requirements associated with sustaining and modernizing the nuclear deterrent of the United States and the nuclear weapons stockpile of the United States, including the costs associated with the plans outlined under subparagraphs (A) through (E), over the 10-year period following the date of the report, including the applicable and appropriate costs associatedwith the procurement, military construction, operation and maintenance, and research, development, test, and evaluation accounts of the Department of Defense. The Secretary may include information and data for a period beyond such 10-year period if the Secretary determines that such information and data is accurate and useful in understanding the long-term nuclear modernization plan.
+&emsp;&emsp;(F) In accordance with paragraph (3), a detailed estimate of the budget requirements associated with sustaining and modernizing the nuclear deterrent of the United States and the nuclear weapons stockpile of the United States, including the costs associated with the plans outlined under subparagraphs (A) through (E), over the 10-year period following the date of the report, including the applicable and appropriate costs associated with the procurement, military construction, operation and maintenance, and research, development, test, and evaluation accounts of the Department of Defense. The Secretary may include information and data for a period beyond such 10-year period if the Secretary determines that such information and data is accurate and useful in understanding the long-term nuclear modernization plan.
 
 &emsp;&emsp;(G) A detailed description of the steps taken to implement the plan submitted in the previous year, including difficulties encountered in implementing the plan in the previous year.
 
@@ -70,7 +70,7 @@ Budgets for even-numbered fiscal years.—If the Director determines that a cove
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A) The term "covered even-numbered fiscal year report" means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
+&emsp;&emsp;(A) The term "covered even-numbered fiscal year report" means a report required tobe transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
 
 &emsp;&emsp;(B) The term "covered odd-numbered fiscal year report" means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an odd-numbered fiscal year.
 
@@ -78,17 +78,21 @@ Definitions.—In this subsection:
 
 Comptroller General Review.—The Comptroller General of the United States shall—
 
-&emsp;(1) review each report under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
+&emsp;(1) periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
 
-&emsp;(2) not later than 180 days after the date on which such report under subsection (a) is submitted, submit to the congressional defense committees a summary of each such review.
+&emsp;(2) submit to the congressional defense committees a summary of each such review.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059.)
 
 #### Codification
 
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 116–283, §1633(1), substituted "periodically review reports submitted" for "review each report".
+
+Subsec. (c)(2). Pub. L. 116–283, §1633(2), struck out "not later than 180 days after the date on which such report under subsection (a) is submitted," before "submit to the congressional defense committees".
 
 <b>2019</b>—Pub. L. 116–92, §1665(c)(1)(D), conformed section designation and catchline to the style of this title.
 

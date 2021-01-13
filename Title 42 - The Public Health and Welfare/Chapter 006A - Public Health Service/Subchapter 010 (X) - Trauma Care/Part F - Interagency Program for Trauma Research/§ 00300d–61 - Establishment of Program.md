@@ -86,7 +86,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) another extrinsic agent, including an extrinsic agent that is thermal, electrical, chemical, or radioactive.
 
-&emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+&emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Suchterm does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 #### (i) Authorization of appropriations
 

@@ -74,7 +74,7 @@ Requirement for Guidance and Regulations.—The Federal Acquisition Regulation s
 
 (f)
 
-Special Authority for Military Construction Projects.—(1) The Secretary of amilitary department may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of section 2807(b) of this title shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
+Special Authority for Military Construction Projects.—(1) The Secretary of a military department may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of section 2807(b) of this title shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
 
 (2) Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience before funds are first made available for construction may not exceed an amount attributable to the final design of the project.
 
@@ -83,6 +83,10 @@ Special Authority for Military Construction Projects.—(1) The Secretary of ami
 (4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
 
 (Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 108–375, div. B, title XXVIII, §2807, Oct. 28, 2004, 118 Stat. 2123; Pub. L. 109–163, div. B, title XXVIII, §2807, Jan. 6, 2006, 119 Stat. 3508; Pub. L. 113–291, div. A, title VIII, §814, Dec. 19, 2014, 128 Stat. 3430; Pub. L. 115–91, div. A, title VIII, §823, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–92, div. A, title XVII, §1731(a)(38), Dec. 20, 2019, 133 Stat. 1814.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1813(b), Jan. 1, 2021, 134 Stat. 4151, 4177, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, as added by section 1813(a) of Pub. L. 116–283,inserted after the table of sections at the beginning, and redesignated as section 3241 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -108,9 +112,13 @@ Subsec. (f)(4). Pub. L. 109–163, §2807(b), substituted "2008" for "2007" wher
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "(40 U.S.C." for "(41 U.S.C.".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

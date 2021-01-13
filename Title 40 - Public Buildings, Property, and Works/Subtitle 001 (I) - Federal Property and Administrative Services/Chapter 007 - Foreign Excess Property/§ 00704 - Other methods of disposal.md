@@ -10,7 +10,7 @@ Methods of Disposal.—
 
 &emsp;(1)
 
-Sale, exchange, lease, or transfer.—The head of an executive agency may dispose of foreign excess property by sale, exchange, lease, or transfer, for cash, credit or other property, with or without warranty, underterms and conditions the head of the executive agency considers proper.
+Sale, exchange, lease, or transfer.—The head of an executive agency may dispose of foreign excess property by sale, exchange, lease, or transfer, for cash, credit or other property, with or without warranty, under terms and conditions the head of the executive agency considers proper.
 
 &emsp;(2)
 

@@ -18,9 +18,19 @@
 
 (3) In any case where there is no adverse party, a copy of the complaint shall be served on the Director, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the United States Patent and Trademark Office shall be admitted on motion of any party, upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the United States Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
 
-(4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse partiesdirected to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
+(4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
-(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, §9(a), Sept. 16, 2011, 125 Stat. 316.)
+(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, §9(a), Sept. 16, 2011, 125 Stat. 316; Pub. L. 116–260, div. Q, title II, §225(d)(2), Dec. 27, 2020, 134 Stat. 2207.)
+
+#### Amendment of Subsections (a)(1) and (b)(1)
+
+<i>Pub. L. 116–260, div. Q, title II, §225(d)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(1), by striking "or an applicant for renewal" and inserting "an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding"; and</i>
+
+<i>(2) in subsection (b)(1), by inserting ", except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding," before "is dissatisfied".</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Codification
 
@@ -31,6 +41,10 @@ Pub. L. 93–596, which provided for the substitution of "Patent and Trademark O
 Acts Feb. 20, 1905, ch. 592, §§9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1478.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §225(d)(2)(A), substituted "an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding" for "or an applicant for renewal".
+
+Subsec. (b)(1). Pub. L. 116–260, §225(d)(2)(B), inserted ", except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding," before "is dissatisfied".
 
 <b>2011</b>—Subsec. (b)(4). Pub. L. 112–29 substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
@@ -56,7 +70,7 @@ Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. P
 
 Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office for provisions which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant, and any additional papers and evidence specified by the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
-Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
+Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent andTrademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
 
 <b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Customs and Patent Appeals" and "Court of Customs and Patent Appeals" wherever appearing.
 
@@ -77,6 +91,10 @@ Subsec. (b)(3), (4). Pub. L. 93–596 substituted "Patent and Trademark Office" 
 <b>1958</b>—Pub. L. 85–609 authorized appeals by persons dissatisfied with the decision of the Trademark Trial and Appeal Board, and substituted "Trademark Trial and Appeal Board" for "Commissioner" in proviso.
 
 <b>1952</b>—Act July 19, 1952, substituted references to new title 35 for repealed section of title 35.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
 
 #### Effective Date of 2011 Amendment
 

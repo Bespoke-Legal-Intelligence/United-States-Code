@@ -18,13 +18,17 @@ Mandatory punishment provisions were rephrased in the alternative.
 
 Minor changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304 in first par. substituted "documentation of any vessel" for "recording, registry, or enrollment of any vessel, in the office of any collector of the customs, or a license to any vessel for carrying on the coasting trade or fisheries of the United States" and struck out "collector or other" after "granted by any" and in second par. struck out "license," after "certificate,".
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 

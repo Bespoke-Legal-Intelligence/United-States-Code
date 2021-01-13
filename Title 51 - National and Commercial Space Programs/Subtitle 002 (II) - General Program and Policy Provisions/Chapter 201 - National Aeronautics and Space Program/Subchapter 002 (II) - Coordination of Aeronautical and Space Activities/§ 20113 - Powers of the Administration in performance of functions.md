@@ -32,7 +32,7 @@ Gifts.—In the performance of its functions, the Administration is authorized t
 
 (e)
 
-Contracts, Leases, and Agreements.—In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of section 3324 of title 31, to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
+Contracts, Leases, and Agreements.—In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of section 3324 of title 31, to enter into and perform such contracts, leases,cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
 
 (f)
 
@@ -80,13 +80,13 @@ Possessory interests.—A concessioner may be accorded a possessory interest, co
 
 (l)
 
-Detailing Members of Armed Services.—In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
+Detailing Members of Armed Forces.—In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, Marine Corps, and Space Force may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
 
 (m)
 
 Claims Against the United States.—In the performance of its functions, the Administration is authorized—
 
-&emsp;(1) to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for $25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration's functions as specified in section 20112(a) of this title, where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
+&emsp;(1) to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for$25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration's functions as specified in section 20112(a) of this title, where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
 
 &emsp;(2) if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 
@@ -94,7 +94,7 @@ Claims Against the United States.—In the performance of its functions, the Adm
 
 Identification of Government Astronauts.—For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333; Pub. L. 114–90, title I, §112(d), Nov. 25, 2015, 129 Stat. 712; Pub. L. 115–10, title VIII, §835(d), Mar. 21, 2017, 131 Stat. 69.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333; Pub. L. 114–90, title I, §112(d), Nov. 25, 2015, 129 Stat. 712; Pub. L. 115–10, title VIII, §835(d), Mar. 21, 2017, 131 Stat. 69; Pub. L. 116–283, div. A, title IX, §927(f), Jan. 1, 2021, 134 Stat. 3832.)
 
 Historical and Revision Notes
 
@@ -124,6 +124,8 @@ In subsection (i), the words "maximum rate payable under section 5376 of title 5
 
 In subsection (k)(1), the words "section 1302 of title 40" are substituted for "section 321 of the Act of June 30, 1932 (47 Stat. 412; 40 U.S.C. 303b)" on authority of section 5(c) of Public Law 107–217 (116 Stat. 1303), the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level III of the Executive Schedule, referred to in subsec. (b)(1), is set out in section 5314 of Title 5, Government Organization and Employees.
@@ -132,11 +134,15 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
+<b>2021</b>—Subsec. (l). Pub. L. 116–283 substituted "Forces" for "Services" in heading and "Marine Corps, and Space Force" for "and Marine Corps" in text.
+
 <b>2017</b>—Subsec. (g). Pub. L. 115–10, §835(d)(2), struck out "and Congress" after "advice to the Administration".
 
 Pub. L. 115–10, §835(d)(1), inserted "and Congress" after "advice to the Administration".
 
 <b>2015</b>—Subsec. (n). Pub. L. 114–90 added subsec. (n).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

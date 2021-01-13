@@ -22,7 +22,7 @@ It shall be unlawful for any person to effect, in contravention of such rules an
 
 &emsp;(1) any transaction in connection with any security whereby any party to such transaction acquires—
 
-&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from orselling the security to another without being bound to do so;
+&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so;
 
 &emsp;&emsp;(B) any security futures product on the security; or
 

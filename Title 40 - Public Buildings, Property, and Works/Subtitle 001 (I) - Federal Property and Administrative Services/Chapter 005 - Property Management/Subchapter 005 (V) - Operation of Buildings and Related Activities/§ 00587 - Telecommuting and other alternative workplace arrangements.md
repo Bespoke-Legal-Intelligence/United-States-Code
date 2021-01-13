@@ -26,7 +26,7 @@ Deposit and use of fees.—The Administrator may—
 
 &emsp;&emsp;(A) deposit user fees into the Federal Buildings Fund and use the fees to pay costs incurred in establishing and operating the telecommuting center; and
 
-&emsp;&emsp;(B) accept and retain income received by the General Services Administration, fromfederal agencies and non-federal sources, to defray costs directly associated with the functions of telecommuting centers.
+&emsp;&emsp;(B) accept and retain income received by the General Services Administration, from federal agencies and non-federal sources, to defray costs directly associated with the functions of telecommuting centers.
 
 (c)
 

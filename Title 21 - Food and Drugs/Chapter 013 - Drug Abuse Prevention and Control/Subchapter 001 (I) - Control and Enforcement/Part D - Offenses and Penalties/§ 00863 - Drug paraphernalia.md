@@ -20,7 +20,7 @@ Any drug paraphernalia involved in any violation of subsection (a) of this secti
 
 #### (d) "Drug paraphernalia" defined
 
-The term "drug paraphernalia" means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
+The term "drug paraphernalia" means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine,hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
 
 &emsp;(1) metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes with or without screens, permanent screens, hashish heads, or punctured metal bowls;
 
@@ -81,6 +81,8 @@ This section shall not apply to—
 &emsp;(2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
 (Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

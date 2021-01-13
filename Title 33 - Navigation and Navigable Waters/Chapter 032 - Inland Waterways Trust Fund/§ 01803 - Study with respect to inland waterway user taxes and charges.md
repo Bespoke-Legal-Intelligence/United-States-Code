@@ -12,7 +12,7 @@ The Secretary of Transportation, and the Secretary of Commerce, in consultation 
 
 #### (b) Considerations relating to the taxing mechanism
 
-&emsp;(1) The extent to which the Federal Government should seek to recover some or all of Federal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
+&emsp;(1) The extent to which the Federal Government should seek to recover some or all ofFederal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
 
 &emsp;(2) The various forms of inland waterway user taxes and charges which could be established.
 
@@ -96,7 +96,7 @@ The effects of inland waterway user taxes and charges on—
 
 &emsp;(2) The expansion and improvement of the inland waterways determined to be necessary by the Secretary of the Army under section 158 of the Water Resources Development Act of 1976 (Public Law 94–587) or estimated to be necessary under paragraph (3).
 
-&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, the portion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
+&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, theportion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
 
 #### (g) "Inland waterway user taxes and charges" defined
 
@@ -112,6 +112,8 @@ There are hereby authorized to be appropriated from time to time to the Secretar
 
 (Pub. L. 95–502, title II, §205, Oct. 21, 1978, 92 Stat. 1698; Pub. L. 104–88, title III, §338, Dec. 29, 1995, 109 Stat. 954.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587), referred to in subsec. (f)(2), is section 158 of Pub. L. 94–587, Oct. 22, 1976, 90 Stat. 2933, which is set out as a note under section 540 of this title.
@@ -119,6 +121,8 @@ Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587)
 #### Amendments
 
 <b>1995</b>—Subsec. (f)(1). Pub. L. 104–88 substituted "as set forth in sections 10101 and 13101 of title 49" for "as set forth in the preamble to the Transportation Act of 1940".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -12,9 +12,13 @@ Similar harboring and concealing language was added to section 2388 of this titl
 
 Mandatory punishment provision was rephrased in the alternative.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indictment for Violating This Section and Sections 793, 794; Limitation Period
 

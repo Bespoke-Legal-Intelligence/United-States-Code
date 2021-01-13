@@ -4,6 +4,8 @@ In any action commenced prior to or on or after May 14, 1947 to recover unpaid m
 
 (May 14, 1947, ch. 52, §11, 61 Stat. 89; Pub. L. 93–259, §6(d)(2)(B), Apr. 8, 1974, 88 Stat. 62.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fair Labor Standards Act of 1938, as amended, referred to in text, is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
@@ -11,6 +13,8 @@ The Fair Labor Standards Act of 1938, as amended, referred to in text, is act Ju
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–259 substituted "section 216 of this title" for "section 216(b) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

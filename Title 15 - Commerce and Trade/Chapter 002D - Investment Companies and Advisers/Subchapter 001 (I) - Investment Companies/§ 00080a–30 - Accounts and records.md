@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Records of persons having custody or use of the securities, deposits, or credits of a registered investment company that relate to such custody or use, are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+&emsp;&emsp;Records of persons having custody or use of the securities, deposits, or credits of a registered investment company that relate to such custody or use, are subject at anytime, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
 #### (B) Certain persons subject to other regulation
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -24,7 +24,7 @@ The President shall provide such other information as the Congress may request i
 
 #### (c) Periodic reports; semiannual requirement
 
-Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
+Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically onthe status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
 
 (Pub. L. 93–148, §4, Nov. 7, 1973, 87 Stat. 555.)
 

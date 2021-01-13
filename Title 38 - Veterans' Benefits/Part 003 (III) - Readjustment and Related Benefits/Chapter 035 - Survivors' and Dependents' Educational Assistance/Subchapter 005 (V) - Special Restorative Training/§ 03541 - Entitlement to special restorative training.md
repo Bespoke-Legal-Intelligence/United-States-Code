@@ -12,6 +12,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1741; Pub. L. 88–361, §6, July 7, 1964, 78 Stat. 298; Pub. L. 94–502, title III, §310(21), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3541 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title I, §109(b)(1), Dec. 27, 2001, 115 Stat. 986.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–103 struck out "of the parent or guardian" after "request" in introductory provisions.
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3511" for "1711".
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "if the Administrator finds" for "if he finds".
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–361 authorized the Administrator to extend the period if he finds additional assistance necessary to accomplish the purpose of special restorative training.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

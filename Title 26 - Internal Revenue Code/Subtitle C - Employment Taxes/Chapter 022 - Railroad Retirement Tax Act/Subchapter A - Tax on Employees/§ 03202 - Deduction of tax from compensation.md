@@ -90,7 +90,7 @@ Amendment by Pub. L. 98–76 applicable to remuneration paid after Dec. 31, 1984
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1903(a)(7) of Pub. L. 94–455 applicable with respect to compensation paid for services rendered after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3201 of this title.
+Amendment by section 1903(a)(7) of Pub. L. 94–455 applicable with respect to compensation paid for servicesrendered after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day 
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
+Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
 

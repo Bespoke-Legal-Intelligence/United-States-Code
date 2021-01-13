@@ -26,9 +26,13 @@ For purposes of this section, the terms "regenerative medicine therapy" and "reg
 
 (June 25, 1938, ch. 675, §506G, as added Pub. L. 114–255, div. A, title III, §3036, Dec. 13, 2016, 130 Stat. 1104; amended Pub. L. 115–52, title IX, §901(b), Aug. 18, 2017, 131 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(1)(A). Pub. L. 115–52 substituted "identify" for "identity".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidance Regarding Devices Used in the Recovery, Isolation, or Delivery of Regenerative Advanced Therapies
 

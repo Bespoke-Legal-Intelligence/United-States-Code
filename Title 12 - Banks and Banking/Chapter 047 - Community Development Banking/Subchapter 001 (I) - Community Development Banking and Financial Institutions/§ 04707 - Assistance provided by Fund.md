@@ -86,7 +86,7 @@
 
 #### (2) Exception
 
-&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
+&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during thesame 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
 
 &emsp;&emsp;(A) the subsidiary or affiliate—
 
@@ -185,6 +185,8 @@ The Fund may, at any time, sell its equity investments and loans, but the Fund s
 Nothing in this subchapter shall affect any authority of the appropriate Federal banking agency to supervise and regulate any institution or company.
 
 (Pub. L. 103–325, title I, §108, Sept. 23, 1994, 108 Stat. 2172.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

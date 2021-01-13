@@ -18,7 +18,7 @@ A prior section 5224 of Pub. L. 89–10 was classified to section 7223c of this 
 
 <b>2015</b>—Pub. L. 114–95, §5003(7)(C), inserted "or specially qualified agency" after "Each State educational agency" in introductory provisions.
 
-Pub. L. 114–95, §5003(7)(A), (B), substituted "Report" for "Accountability" in section catchline, struck out subsec. (a) designation and heading before "Each State", and struck out subsecs. (b) to (e) which related to specially qualified agency report, biennial reports to Congress, academic achievement assessment, and determination regarding continuing participation, respectively.
+Pub. L. 114–95, §5003(7)(A), (B), substituted "Report" for "Accountability" in section catchline, struck outsubsec. (a) designation and heading before "Each State", and struck out subsecs. (b) to (e) which related to specially qualified agency report, biennial reports to Congress, academic achievement assessment, and determination regarding continuing participation, respectively.
 
 Par. (1). Pub. L. 114–95, §5003(7)(D), added par. (1) and struck out former par. (1) which read as follows: "the method the State educational agency used to award grants to eligible local educational agencies, and to provide assistance to schools, under this subpart;".
 

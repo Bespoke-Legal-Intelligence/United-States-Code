@@ -48,7 +48,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(iii) the exercise of independent judgment in a limited field;
 
-&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for the exercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
+&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for theexercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
 
 &emsp;&emsp;(C) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -88,7 +88,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) considerable specialized or supervisory training and experience;
 
-&emsp;&emsp;&emsp;(ii) comprehensive and thorough working knowledge of a specialized and complexsubject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) comprehensive and thorough working knowledge of a specialized and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) to a considerable extent the exercise of independent judgment; or
 
@@ -154,7 +154,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;(B) to serve as assistant head of a major organization involving work of comparable level within a bureau;
 
-&emsp;&emsp;(C) to perform, under administrative direction, with wide latitude for the exercise ofindependent judgment, work of unusual difficulty and responsibility requiring extended professional, scientific, or technical training and experience which has demonstrated leadership and marked attainments in professional, scientific, or technical research, practice, or administration; or
+&emsp;&emsp;(C) to perform, under administrative direction, with wide latitude for the exercise of independent judgment, work of unusual difficulty and responsibility requiring extended professional, scientific, or technical training and experience which has demonstrated leadership and marked attainments in professional, scientific, or technical research, practice, or administration; or
 
 &emsp;&emsp;(D) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -212,6 +212,8 @@ Former sections 1111 and 1112 are combined and restated.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in text, is set out under section 5332 of this title.
@@ -219,6 +221,8 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–509 struck out "18" before "grades" in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -288,7 +292,7 @@ Sec. 304. (a) Within one year after the date of enactment of this Act, the Commi
 
 "(b) Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
 
-&emsp;"(1) the Civil Service Commission shall complete its functions under this Act and shall transmit to the President a comprehensive report of the result of its activities, together with its recommendations (including its draft of proposed legislation to carry out such recommendations), and
+&emsp;"(1) the Civil Service Commission shall complete its functions under this Act and shall transmit to thePresident a comprehensive report of the result of its activities, together with its recommendations (including its draft of proposed legislation to carry out such recommendations), and
 
 &emsp;"(2) the President shall transmit that report (including the recommendations and draft of proposed legislation of the Commission) to the Congress, together with such recommendations as the President deems appropriate.
 

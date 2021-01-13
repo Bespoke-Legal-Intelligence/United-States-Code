@@ -18,7 +18,7 @@
 
 &emsp;(B) the reasons why those needs would not be so addressed;
 
-&emsp;(4) the specific criteria to be used in determining which individuals may receive the benefits described under sections 9804 and 9805 (including the criteria for granting bonuses inthe absence of a critical need), and how the level of those benefits will be determined;
+&emsp;(4) the specific criteria to be used in determining which individuals may receive the benefits described under sections 9804 and 9805 (including the criteria for granting bonuses in the absence of a critical need), and how the level of those benefits will be determined;
 
 &emsp;(5) the safeguards or other measures that will be applied to ensure that this chapter is carried out in a manner consistent with merit system principles;
 
@@ -67,6 +67,8 @@
 (i) The budget request for the Administration for the first fiscal year beginning after the date of enactment of this chapter and for each fiscal year thereafter shall include a statement of the total amount of appropriations requested for such fiscal year to carry out this chapter.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 462.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

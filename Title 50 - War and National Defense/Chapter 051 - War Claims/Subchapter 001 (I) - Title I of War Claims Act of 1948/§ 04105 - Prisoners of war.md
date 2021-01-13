@@ -10,7 +10,7 @@ The Commission is authorized to receive, adjudicate according to law, and provid
 
 #### (c) Persons entitled to payments
 
-Claims pursuant to subsection (b) shall be paid to the person entitled thereto, and shall in case of death of the persons who are entitled be payable only to or for the benefit of the following persons:
+Claims pursuant to subsection (b) shall be paid to the person entitled thereto, and shall in caseof death of the persons who are entitled be payable only to or for the benefit of the following persons:
 
 &emsp;(1) Widow or husband if there is no child or children of the deceased;
 
@@ -50,7 +50,7 @@ Claims pursuant to subsection (b) shall be paid to the person entitled thereto, 
 
 #### (e) Extension to Korean War prisoners
 
-(1) As used in this subsection the term "prisoner of war" means any regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States who was held as a prisoner of war for any period of time subsequent to June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or any person (military or civilian) assigned to duty in the U.S.S. Pueblo who was captured by the military forces of North Korea on January 23, 1968, and thereafter held prisoner by the Government of North Korea for any period of time ending on or before December 23, 1968, exceptany person who, at any time, voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force.
+(1) As used in this subsection the term "prisoner of war" means any regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States who was held as a prisoner of war for any period of time subsequent to June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or any person (military or civilian) assigned to duty in the U.S.S. Pueblo who was captured by the military forces of North Korea on January 23, 1968, and thereafter held prisoner by the Government of North Korea for any period of time ending on or before December 23, 1968, except any person who, at any time, voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force.
 
 (2) The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by any prisoner of war for compensation for the failure of the hostile force by which he was held as a prisoner of war, or its agents, to furnish him the quantity or quality of food prescribed for prisoners of war under the terms of the Geneva Convention of July 27, 1929. The compensation allowed to any prisoner of war under the provisions of this paragraph shall be at the rate of $1 for each day on which he was held as a prisoner of war and on which such hostile force, or its agents, failed to furnish him such quantity or quality of food.
 

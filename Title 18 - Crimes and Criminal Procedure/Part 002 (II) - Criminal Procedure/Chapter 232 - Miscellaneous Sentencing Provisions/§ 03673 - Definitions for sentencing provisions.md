@@ -10,9 +10,13 @@ As used in chapters 227 and 229—
 
 (Added Pub. L. 98–473, title II, §212(a)(4), Oct. 12, 1984, 98 Stat. 2010; amended Pub. L. 99–646, §2(a), Nov. 10, 1986, 100 Stat. 3592.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–646 redesignated pars. (a) to (c) as (1) to (3), respectively, and inserted "the term" after "(1)", "(2)", and "(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -18,9 +18,13 @@ The mission of the United States Information Agency shall be to further the nati
 
 (Pub. L. 95–426, title II, §202, Oct. 7, 1978, 92 Stat. 972; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Year 1979, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

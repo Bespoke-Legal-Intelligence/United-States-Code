@@ -1,0 +1,190 @@
+### §4505. Procurement of services: tracking of purchases
+
+(a)
+
+Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
+
+&emsp;(1) Logistics management services.
+
+&emsp;(2) Equipment related services.
+
+&emsp;(3) Knowledge-based services.
+
+&emsp;(4) Electronics and communications services.
+
+(b)
+
+Data To Be Collected.—The data required to be collected under subsection (a) includes the following:
+
+&emsp;(1) The services purchased.
+
+&emsp;(2) The total dollar amount of the purchase.
+
+&emsp;(3) The form of contracting action used to make the purchase.
+
+&emsp;(4) Whether the purchase was made through—
+
+&emsp;&emsp;(A) a performance-based contract, performance-based task order, or other performance-based arrangement that contains firm fixed prices for the specific tasks to be performed;
+
+&emsp;&emsp;(B) any other performance-based contract, performance-based task order, or performance-based arrangement; or
+
+&emsp;&emsp;(C) any contract, task order, or other arrangement that is not performance based.
+
+&emsp;(5) In the case of a purchase made through an agency other than the Department of Defense, the agency through which the purchase is made.
+
+&emsp;(6) The extent of competition provided in making the purchase and whether there was more than one offer.
+
+&emsp;(7) Whether the purchase was made from—
+
+&emsp;&emsp;(A) a small business concern;
+
+&emsp;&emsp;(B) a small business concern owned and controlled by socially and economically disadvantaged individuals; or
+
+&emsp;&emsp;(C) a small business concern owned and controlled by women.
+
+(c)
+
+Inventory Summary.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts and contracts closely associated with inherently governmental functions on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition and Sustainment, as follows:
+
+&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
+
+&emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
+
+&emsp;&emsp;(ii) the calculation of contractor full-time equivalents for direct labor, using direct labor hours in a manner that is comparable to the calculation of Department of Defense civilian full-time employees; and
+
+&emsp;&emsp;(iii) the conduct and completion of the annual review required under subsection (e)(1).
+
+&emsp;(B) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
+
+(2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+
+&emsp;(A) The functions and missions performed by the contractor.
+
+&emsp;(B) The contracting organization, the component of the Department of Defense administering the contract, and the organization whose requirements are being met through contractor performance of the function.
+
+&emsp;(C) The funding source for the contract under which the function is performed by appropriation and operating agency.
+
+&emsp;(D) The fiscal year for which the activity first appeared on an inventory under this section.
+
+&emsp;(E) The number of contractor employees, expressed as full-time equivalents for direct labor, using direct labor hours and associated cost data collected from contractors (except that estimates may be used where such data is not available and cannot reasonably be made available in a timely manner for the purpose of the inventory).
+
+&emsp;(F) A determination whether the contract pursuant to which the activity is performed is a personal services contract.
+
+&emsp;(G) A summary of the data required to be collected for the activity under subsection (a).
+
+(3) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+(d)
+
+Review and Planning Requirements.—Within 90 days after the date on which an inventory is submitted under subsection (c), the Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall—
+
+&emsp;(1) review the contracts and activities in the inventory for which such Secretary or agency head is responsible, with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):
+
+&emsp;&emsp;(A) Special studies or analysis that is not research and development.
+
+&emsp;&emsp;(B) Information technology and telecommunications.
+
+&emsp;&emsp;(C) Support, including professional, administrative, and management;
+
+&emsp;(2) ensure that—
+
+&emsp;&emsp;(A) each contract on the list that is a personal services contract has been entered into, and is being performed, in accordance with applicable statutory and regulatory requirements;
+
+&emsp;&emsp;(B) the activities on the list do not include any inherently governmental functions; and
+
+&emsp;&emsp;(C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions; and
+
+&emsp;(3) identify activities that should be considered for conversion—
+
+&emsp;&emsp;(A) to performance by civilian employees of the Department of Defense pursuant to section 2463 of this title; or
+
+&emsp;&emsp;(B) to an acquisition approach that would be more advantageous to the Department of Defense.
+
+(e)
+
+Development of Plan and Enforcement and Approval Mechanisms.—The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
+
+&emsp;(1) provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title;
+
+&emsp;(2) ensure the inventory is used to inform strategic workforce planning;
+
+&emsp;(3) facilitate use of the inventory for compliance with section 3137 of this title; and
+
+&emsp;(4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
+
+(f)
+
+Comptroller General Report.—Not later than March 31, 2018, the Comptroller General of the United States shall submit to the congressional defense committees a report on the status of the data collection required in subsection (a) and an assessment of the efforts by the Department of Defense to implement subsection (e).
+
+(g)
+
+Rule of Construction.—Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+
+(h)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Performance-based.—The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+
+&emsp;(2)
+
+Function closely associated with inherently governmental functions.—The term "function closely associated with inherently governmental functions" has the meaning given that term in section 4508(b)(3) of this title.
+
+&emsp;(3)
+
+Inherently governmental functions.—The term "inherently governmental functions" has the meaning given that term in section 4508(b)(2) of this title.
+
+&emsp;(4)
+
+Personal services contract.—The term "personal services contract" means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
+
+&emsp;(5)
+
+Service acquisition portfolio groups.—The term "service acquisition portfolio groups" means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services (January 5, 2016) or successor guidance.
+
+&emsp;(6)
+
+Staff augmentation contracts.—The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) <sup>1</sup> of this title).
+
+&emsp;(7)
+
+Simplified acquisition threshold.—The term "simplified acquisition threshold" hasthe meaning given the term in section 134 of title 41.
+
+&emsp;(8)
+
+Small business act definitions.—
+
+&emsp;&emsp;(A) The term "small business concern" has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
+
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176, §2330a; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853; renumbered §4505 and amended Pub. L. 116–283, div. A, title XVIII, §§1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294.)
+
+#### References in Text
+
+Section 4505(g)(5) of this title, referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
+
+#### Prior Provisions
+
+A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to procurement by Secretary of the Army of production equipment, was repealed by Pub. L. 103–160, div. A, title VIII, §823(1), Nov. 30, 1993, 107 Stat. 1707.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1856(g), renumbered section 2330a of this title as this section.
+
+Subsec. (e)(3). Pub. L. 116–283, §1883(b)(2), substituted "section 3137" for "section 235".
+
+Subsec. (h)(2). Pub. L. 116–283, §1883(b)(2), substituted "section 4508(b)(3)" for "section 2383(b)(3)".
+
+Subsec. (h)(3). Pub. L. 116–283, §1856(h), substituted "section 4508(b)(2)" for "section 2383(b)(2)".
+
+Subsec. (h)(6). Pub. L. 116–283, §1883(b)(2), substituted "section 4505(g)(5)" for "section 2330a(g)(5)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

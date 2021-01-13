@@ -2,33 +2,33 @@
 
 (a)
 
-Project Reports.—(1) The Secretary of Defense shall transmit to the appropriate committees of Congress a report describing—
+Project Reports.—(1) The Secretary concerned shall transmit to the appropriate committees of Congress a report describing—
 
-&emsp;(A) each contract for the acquisition or construction of family housing units or unaccompanied housing units that the Secretary proposes to solicit under this subchapter; and
+&emsp;(A) each contract or agreement for the acquisition or construction of family housing units or unaccompanied housing units under this subchapter; and
 
 &emsp;(B) each conveyance or lease proposed under section 2878 of this title.
 
-(2) For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph shall include the following:
+(2) A report required by paragraph (1) shall include the following:
 
-&emsp;(A) A description of the contract, conveyance, or lease, including a summary of the terms of the contract, conveyance, or lease.
+&emsp;(A) A description of the contract, agreement, conveyance, or lease, including a summary of the terms of the contract, agreement, conveyance, or lease.
 
-&emsp;(B) A description of the authorities to be utilized in entering into the contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease, including a justification of the intended method of participation.
+&emsp;(B) A description of the authorities to be utilized in entering into the contract, agreement, conveyance, or lease and the intended method of participation of the United States in the contract, agreement, conveyance, or lease, including a justification of the intended method of participation.
 
-&emsp;(C) A statement of the scored cost of the contract, conveyance, or lease, as determined by the Office of Management and Budget.
+&emsp;(C) A statement of the scored cost of the contract, agreement, conveyance, or lease, as determined by the Office of Management and Budget.
 
-&emsp;(D) A statement of the United States funds required for the contract, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease.
+&emsp;(D) A statement of the United States funds required for the contract, agreement, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, agreement, conveyance, or lease.
 
-&emsp;(E) An economic assessment of the life cycle costs of the contract, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, conveyance, or lease.
+&emsp;(E) An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
 
-(3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+(3)(A) In the case of a contract or agreement described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract or agreement will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
 
-&emsp;(i) the closure or realignment of the installation for which housing will be provided under the contract;
+&emsp;(i) the closure or realignment of the installation for which housing will be provided under the contract or agreement;
 
 &emsp;(ii) a reduction in force of units stationed at such installation; or
 
 &emsp;(iii) the extended deployment of units stationed at such installation.
 
-(B) If the contract will or may include such a guarantee, the report shall also—
+(B) If the contract or agreement will or may include such a guarantee, the report shall also—
 
 &emsp;(i) describe the nature of the guarantee; and
 
@@ -58,7 +58,7 @@ Annual Reports to Accompany Budget Materials.—The Secretary of Defense shall i
 
 (c)
 
-Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation ofthe status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
 &emsp;(1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
@@ -78,7 +78,7 @@ Annual Report on Privatization Projects.—The Secretary of Defense shall submit
 
 &emsp;(9) An assessment of maintenance response times and completion of maintenance requests.
 
-&emsp;(10) An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord.
+&emsp;(10) An assessment of the dispute resolution process under section 2894(c) of this title, which shall include a list of dispute resolution cases by installation and the final outcome of each case.
 
 &emsp;(11) An assessment of overall customer service for tenants.
 
@@ -96,9 +96,19 @@ Annual Report on Privatization Projects.—The Secretary of Defense shall submit
 
 &emsp;&emsp;(D) A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act (15 U.S.C. 2688).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, §3016(d), Dec. 20, 2019, 133 Stat. 1929.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, §3016(d), Dec. 20, 2019, 133 Stat. 1929; Pub. L. 116–283, div. B, title XXVIII, §§2803(c), 2811(h), Jan. 1, 2021, 134 Stat. 4320, 4326.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §2803(c)(1)(A), substituted "The Secretary concerned" for "The Secretary of Defense" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 116–283, §2803(c)(1)(B), inserted "or agreement" after "each contract" and struck out "that the Secretary proposes to solicit" after "unaccompanied housing units".
+
+Subsec. (a)(2). Pub. L. 116–283, §2803(c)(2), substituted "A report required by paragraph (1)" for "For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph" in introductory provisions and inserted "agreement," after "contract," wherever appearing.
+
+Subsec. (a)(3). Pub. L. 116–283, §2803(c)(3), inserted "or agreement" after "contract" wherever appearing.
+
+Subsec. (c)(10). Pub. L. 116–283, §2811(h), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord."
 
 <b>2019</b>—Subsec. (c)(7) to (14). Pub. L. 116–92 added pars. (7) to (14).
 

@@ -36,6 +36,8 @@ Arctic Definition.—In this section, the term "Arctic" has the meaning given su
 
 (Added Pub. L. 113–281, title V, §501(a), Dec. 18, 2014, 128 Stat. 3056, §90; amended Pub. L. 115–232, div. C, title XXXV, §3533(d), Aug. 13, 2018, 132 Stat. 2321; renumbered §716, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 90 of this title as this section.

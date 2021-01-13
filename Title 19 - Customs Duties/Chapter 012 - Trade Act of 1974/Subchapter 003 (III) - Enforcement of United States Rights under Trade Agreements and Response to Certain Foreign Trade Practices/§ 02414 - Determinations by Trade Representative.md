@@ -34,7 +34,7 @@
 
 &emsp;(ii) the foreign country involved in the investigation is making substantial progress in drafting or implementing legislative or administrative measures that will provide adequate and effective protection of intellectual property rights, or
 
-&emsp;(iii) such foreign country is undertaking enforcement measures to provide adequate andeffective protection of intellectual property rights,
+&emsp;(iii) such foreign country is undertaking enforcement measures to provide adequate and effective protection of intellectual property rights,
 
 > the Trade Representative shall publish in the Federal Register notice of such determination and shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 9 months after the date on which such investigation is initiated.
 

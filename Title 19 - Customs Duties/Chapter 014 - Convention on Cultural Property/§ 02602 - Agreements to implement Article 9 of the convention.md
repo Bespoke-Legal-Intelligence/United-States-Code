@@ -24,7 +24,7 @@
 
 &emsp;For purposes of paragraph (1), the President may enter into—
 
-&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions set forth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
+&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions setforth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
 
 &emsp;&emsp;(B) a multilateral agreement with the State Party and with one or more other nations (whether or not a State Party) under which the United States will apply such restrictions, and the other nations will apply similar restrictions, with respect to such material.
 
@@ -44,7 +44,7 @@ The President may not enter into any agreement under subsection (a) which has an
 
 #### (1) In general
 
-&emsp;The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) unless the application of the import restrictions set forth in section 2606 ofthis title with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
+&emsp;The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) unless the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
 
 #### (2) Exception to restrictions
 

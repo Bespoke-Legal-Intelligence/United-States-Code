@@ -6,7 +6,7 @@
 
 &emsp;(A) on the basis of demonstrated ability in the medical profession, in health-care administration and policy formulation, or in health-care fiscal management; and
 
-&emsp;(B) on the basis of substantial experience in connection with the programs of the Veterans Health Administration or programs of similar content and scope.
+&emsp;(B) on the basis of substantial experience in connection with the programs of the VeteransHealth Administration or programs of similar content and scope.
 
 (b) The Under Secretary for Health is the head of, and is directly responsible to the Secretary for the operation of, the Veterans Health Administration.
 
@@ -32,6 +32,8 @@
 
 (Added and amended Pub. L. 102–83, §§2(a), 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 379, 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(c)(1), (e)(2), Nov. 2, 1994, 108 Stat. 4683, 4685; Pub. L. 108–422, title V, §503, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §210(a), Dec. 22, 2006, 120 Stat. 3418.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
@@ -51,6 +53,8 @@ Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted "Chie
 <b>1992</b>—Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" wherever appearing.
 
 <b>1991</b>—Subsec. (d)(2)(F). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

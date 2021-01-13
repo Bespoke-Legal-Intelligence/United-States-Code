@@ -72,7 +72,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;&emsp;&emsp;(I) made by or with the approval of an executive officer of that entity; and
 
-&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officer that the statement was false or misleading.
+&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officerthat the statement was false or misleading.
 
 #### (2) Oral forward-looking statements
 

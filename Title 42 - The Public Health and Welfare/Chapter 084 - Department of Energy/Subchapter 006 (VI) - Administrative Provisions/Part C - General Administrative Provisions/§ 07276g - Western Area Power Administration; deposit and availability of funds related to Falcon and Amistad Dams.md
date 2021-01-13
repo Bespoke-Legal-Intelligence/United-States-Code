@@ -6,7 +6,7 @@ Notwithstanding the provisions of section 2 of the Act of June 18, 1954 (68 Stat
 
 #### References in Text
 
-Section 2 of the Act of June 18, 1954 (68 Stat. 255), referred to in text, probably means section 2 of act June 18, 1954, ch. 310, 68 Stat. 256, which is not classified to the Code.
+Section 2 of the Act of June 18, 1954 (68 Stat. 255), referred to in text, probably means section 2 of act June18, 1954, ch. 310, 68 Stat. 256, which is not classified to the Code.
 
 "This account" and "this appropriation", referred to in text, mean funds appropriated under the heading "
 

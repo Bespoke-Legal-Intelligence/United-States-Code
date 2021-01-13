@@ -10,6 +10,8 @@ For all purposes, including actions in any court in the United States, the Congr
 
 (Pub. L. 102–383, title II, §201, Oct. 5, 1992, 106 Stat. 1452; Pub. L. 116–76, §4(a)(1), Nov. 27, 2019, 133 Stat. 1163.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–76 substituted "November 27, 2019" for "such date" in two places.

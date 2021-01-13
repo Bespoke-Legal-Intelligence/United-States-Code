@@ -66,6 +66,8 @@ Pub. L. 100–147, title II, §210, Oct. 30, 1987, 101 Stat. 874.
 
 In subsection (a), the word "provisions" is substituted for "provisons" to correct an error in the law.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

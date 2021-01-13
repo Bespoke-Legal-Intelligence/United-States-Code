@@ -18,11 +18,15 @@ Historical and Revision Notes
 
 Mar. 4, 1907, ch. 2918, §1 (10th par. under "Coast and Geodetic Survey"); restated June 21, 1955, ch. 172, §1; restated Sept. 26, 1961, Pub. L. 87–304, 75 Stat. 665.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–513 substituted "Allotments: commissioned officers of the National Oceanic and Atmospheric Administration" for "Commissioned officers of Environmental Science Services Administration" in section catchline and "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration" in text.
 
 <b>1966</b>—Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

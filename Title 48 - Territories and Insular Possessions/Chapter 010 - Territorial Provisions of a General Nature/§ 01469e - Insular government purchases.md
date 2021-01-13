@@ -1,6 +1,6 @@
 ### §1469e. Insular government purchases
 
-The Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, andthe United States Virgin Islands are authorized to make purchases through the General Services Administration.
+The Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands are authorized to make purchases through the General Services Administration.
 
 (Pub. L. 102–247, title III, §302, Feb. 24, 1992, 106 Stat. 38; Pub. L. 114–187, title IV, §406, June 30, 2016, 130 Stat. 592.)
 

@@ -86,7 +86,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (2) Repayment upon sale
 
-&emsp;Assistance payments under this subchapter shall be repayable from the net proceeds of the sale, without interest, upon the sale of the property for which the assistance payments are made. If the sale results in no net proceeds or the net proceeds are insufficient to repay the amount of the assistance payments in full, the Board of Directors shall release the lien to the extent that the debt secured by the lien remains unpaid.
+&emsp;Assistance payments under this subchapter shall be repayable from the net proceeds of the sale, without interest, upon the sale of the property for which the assistance payments are made. If the sale results in no net proceeds or the net proceeds are insufficient to repay the amount of the assistance payments in full,the Board of Directors shall release the lien to the extent that the debt secured by the lien remains unpaid.
 
 #### (3) Repayment upon increased income
 

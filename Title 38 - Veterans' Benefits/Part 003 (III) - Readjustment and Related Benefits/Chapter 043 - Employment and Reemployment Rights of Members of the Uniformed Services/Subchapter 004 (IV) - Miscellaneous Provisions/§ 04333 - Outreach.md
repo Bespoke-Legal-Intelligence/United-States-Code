@@ -4,9 +4,13 @@ The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs s
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3169.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4333 was renumbered section 7633 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

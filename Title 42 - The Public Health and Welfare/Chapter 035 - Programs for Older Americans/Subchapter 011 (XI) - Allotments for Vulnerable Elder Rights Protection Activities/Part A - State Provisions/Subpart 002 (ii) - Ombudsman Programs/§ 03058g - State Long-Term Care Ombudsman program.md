@@ -124,6 +124,10 @@
 
 &emsp;&emsp;&emsp;The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
 
+#### (E) Rule of construction for volunteer Ombudsman representatives
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as prohibiting the program from providing and financially supporting recognition for an individual designated under subparagraph (A) as a volunteer to represent the Ombudsman program, or from reimbursing or otherwise providing financial support to such an individual for any costs, such as transportation costs, incurred by the individual in serving as such volunteer.
+
 #### (b) Procedures for access
 
 #### (1) In general
@@ -308,7 +312,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(F) providing policy, regulatory, and legislative recommendations to solve identified problems, to resolve the complaints, to improve the quality of care and life of residents, to protect the health, safety, welfare, and rights of residents, and to remove the barriers;
 
-&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
+&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal,State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
 
 &emsp;(3)(A) provide such information as the Office determines to be necessary to public and private agencies, legislators, and other persons, regarding—
 
@@ -366,7 +370,7 @@ The State shall—
 
 &emsp;(3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
-(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293; Pub. L. 114–144, §8(c), Apr. 19, 2016, 130 Stat. 347.)
+(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293; Pub. L. 114–144, §8(c), Apr. 19, 2016, 130 Stat. 347; Pub. L. 116–131, title VI, §602, Mar. 25, 2020, 134 Stat. 268.)
 
 #### References in Text
 
@@ -379,6 +383,8 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(7)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(5)(E). Pub. L. 116–131 added subpar. (E).
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–144, §8(c)(1)(A), inserted at end "The Ombudsman shall be responsible for the management, including the fiscal management, of the Office."
 

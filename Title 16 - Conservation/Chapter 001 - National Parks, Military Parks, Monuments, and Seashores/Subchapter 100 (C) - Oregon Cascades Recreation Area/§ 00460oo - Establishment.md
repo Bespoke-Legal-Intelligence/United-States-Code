@@ -36,7 +36,7 @@ Within the recreation area, the Secretary may permit, under appropriate regulati
 
 &emsp;(3) livestock grazing, to the extent that such use will not significantly adversely affect the resources of the recreation area;
 
-&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, or the health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
+&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, orthe health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
 
 &emsp;(5) those developments or facilities necessary for the public enjoyment and use of the recreation area, when such development or facilities do not detract from the purposes of the recreation area; and
 

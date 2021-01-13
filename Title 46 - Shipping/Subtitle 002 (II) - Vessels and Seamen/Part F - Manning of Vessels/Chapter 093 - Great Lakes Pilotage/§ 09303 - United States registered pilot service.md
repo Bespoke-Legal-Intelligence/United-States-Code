@@ -60,6 +60,8 @@ Subsection (e) provides for the suspension or revocation of a certificate or reg
 
 Subsection (f) provides for setting the rates and charges for pilotage services.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–241, §302(1), inserted at end "The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year."

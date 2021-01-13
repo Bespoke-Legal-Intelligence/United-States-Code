@@ -140,7 +140,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Amount of loss
 
-&emsp;The amount of the loss taken into account in the preceding taxable year by reason ofparagraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
+&emsp;The amount of the loss taken into account in the preceding taxable year by reason of paragraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
 
 #### (4) Use of disaster loan appraisals to establish amount of loss
 
@@ -280,7 +280,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §§11044(a), 11050(a), Dec. 22, 2017, 131 Stat. 2087, 2089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §§11044(a), 11050(a), Dec. 22, 2017, 131 Stat. 2087, 2089.)
 
 #### References in Text
 
@@ -374,7 +374,7 @@ Subsec. (k). Pub. L. 97–248, §310(b)(5), redesignated former subsec. (j), set
 
 <b>1972</b>—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted "attributable to a disaster" before "occurring in an area", and at end of second sentence, inserted "based on facts existing at the date the taxpayer claims the loss".
 
-Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disasterwhich occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
+Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disaster which occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
 
 <b>1971</b>—Subsec. (g)(3). Pub. L. 91–687 substituted "stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock" for "at least 95 percent of each class of its stock" in subpar. (A), and inserted at the end of the subsection the sentence providing that the term "stock", as used in subpar. (A), does not include nonvoting stock which is limited and preferred as to dividends.
 
@@ -454,7 +454,7 @@ Pub. L. 98–369, div. A, title X, §1051(b), July 18, 1984, 98 Stat. 1045, prov
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §203(c), Sept. 3, 1982, 96 Stat. 422, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section)."
+Pub. L. 97–248, title II, §203(c), Sept. 3, 1982, 96 Stat. 422, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section)."
 
 Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
@@ -494,7 +494,7 @@ Pub. L. 87–426, §2(b), Mar. 31, 1962, 76 Stat. 51, provided that: "The amendm
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §1(c), Sept. 2, 1958, 72 Stat. 1606, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except as otherwise expressly provided—
+Pub. L. 85–866, title I, §1(c), Sept. 2, 1958, 72 Stat. 1606, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "Except as otherwise expressly provided—
 
 &emsp;"(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234, 1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
 
@@ -524,7 +524,7 @@ General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986�
 
 "(b)
 
-FSLIC Assistance.—For purposes of this section, the term 'FSLIC assistance' means any assistance\(or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or \[former\] section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
+FSLIC Assistance.—For purposes of this section, the term 'FSLIC assistance' means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or \[former\] section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
 
 "(c)
 
@@ -640,7 +640,7 @@ Freight forwarder operating authority.—Subsection (b) shall apply to taxable y
 
 #### Deduction for Motor Carrier Operating Authority
 
-Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6,1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a)
 
@@ -730,7 +730,7 @@ Income Taken Into Account.—For purposes of this section, the income taken into
 
 &emsp;"(1) in the case of an individual described in subsection (a)(2)(A), the amount of income (not in excess of $5,000) attributable to the cancellation of a disaster loan under section 7 of the Small Business Act or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act received by reason of the disaster described in subsection (a)(1), or
 
-&emsp;"(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not inexcess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
+&emsp;"(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not in excess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
 
 "(d)
 

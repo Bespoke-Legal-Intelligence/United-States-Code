@@ -56,9 +56,87 @@ In clause (4), the words "committee of Congress" are substituted for "committee 
 
 In clause (5), the words "at the request of any such committee, direct assistants from his office" are omitted as surplus.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Oversight and Audit Authority
+
+Pub. L. 116–136, div. B, title IX, §19010, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. N, title II, §282, Dec. 27, 2020, 134 Stat. 1984, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Health, Education, Labor, and Pensions of the Senate;
+
+&emsp;&emsp;"(D) the Committee on Appropriations of the House of Representatives;
+
+&emsp;&emsp;"(E) the Committee on Homeland Security of the House of Representatives;
+
+&emsp;&emsp;"(F) the Committee on Oversight and Reform of the House of Representatives;
+
+&emsp;&emsp;"(G) the Committee on Energy and Commerce of the House of Representatives;
+
+&emsp;&emsp;"(H) the Committee on Finance of the Senate; and
+
+&emsp;&emsp;"(I) the Committee on Ways and Means of the House of Representatives; and
+
+&emsp;"(2) the term 'Comptroller General' means the Comptroller General of the United States.
+
+"(b)
+
+Authority.—The Comptroller General shall conduct monitoring and oversight of the exercise of authorities, or the receipt, disbursement, and use of funds made available, under this Act \[div. B of Pub. L. 116–136, see Tables for classification\] or any other Act to prepare for, respond to, and recover from the Coronavirus 2019 pandemic and the effect of the pandemic on the health, economy, and public and private institutions of the United States, including public health and homeland security efforts by the Federal Government and the use of selected funds under this or any other Act related to the Coronavirus 2019 pandemic and a comprehensive audit and review of charges made to Federal contracts pursuant to authorities provided in the Coronavirus Aid, Relief, and Economic Security Act \[Pub. L. 116–136, see Tables for classification\].
+
+"(c)
+
+Briefings and Reports.—In conducting monitoring and oversight under subsection (b), the Comptroller General shall—
+
+&emsp;"(1) during the period beginning on the date of enactment of this Act \[Mar. 27, 2020\] and ending on the date on which the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) expires, offer regular briefings on not less frequently than a monthly basis to the appropriate congressional committees regarding Federal public health and homeland security efforts;
+
+&emsp;"(2) publish reports regarding the ongoing monitoring and oversight efforts, which, along with any audits and investigations conducted by the Comptroller General, shall be submitted to the appropriate congressional committees and posted on the website of the Government Accountability Office—
+
+&emsp;&emsp;"(A) not later than 90 days after the date of enactment of this Act, and every other month thereafter until the date that is 1 year after the date of enactment of this Act; and
+
+&emsp;&emsp;"(B) after the period described in subparagraph (A), on a periodic basis; and
+
+&emsp;"(3) submit to the appropriate congressional committees additional reports as warranted by the findings of the monitoring and oversight activities of the Comptroller General.
+
+"(d)
+
+Access to Information.—
+
+&emsp;"(1)
+
+Right of access.—In conducting monitoring and oversight activities under this section, the Comptroller General shall have access to records, upon request, of any Federal, State, or local agency, contractor, grantee, recipient, or subrecipient pertaining to any Federal effort or assistance of any type related to the Coronavirus 2019 pandemic under this Act or any other Act, including private entities receiving such assistance.
+
+&emsp;"(2)
+
+Copies.—The Comptroller General may make and retain copies of any records accessed under paragraph (1) as the Comptroller General determines appropriate.
+
+&emsp;"(3)
+
+Interviews.—In addition to such other authorities as are available, the Comptroller General or a designee of the Comptroller General may interview Federal, State, or local officials, contractor staff, grantee staff, recipients, or subrecipients pertaining to any Federal effort or assistance of any type related to the Coronavirus 2019 pandemic under this or any other Act, including private entities receiving such assistance.
+
+&emsp;"(4)
+
+Inspection of facilities.—As determined necessary by the Comptroller General, the Government Accountability Office may inspect facilities at which Federal, State, or local officials, contractor staff, grantee staff, or recipients or subrecipients carry out their responsibilities related to the Coronavirus 2019 pandemic.
+
+&emsp;"(5)
+
+Enforcement.—Access rights under this subsection shall be subject to enforcement consistent with section 716 of title 31, United States Code.
+
+"(e)
+
+Relationship to Existing Authority.—Nothing in this section shall be construed to limit, amend, supersede, or restrict in any manner any existing authority of the Comptroller General."
+
 #### Identification, Consolidation, and Elimination of Duplicative Government Programs
 
-Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: "The Comptroller General of the Government Accountability Office shall conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions."
+Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: "The Comptroller General of the Government Accountability Office shall conduct routineinvestigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions."
 
 #### Report on Tobacco Settlement Agreement
 

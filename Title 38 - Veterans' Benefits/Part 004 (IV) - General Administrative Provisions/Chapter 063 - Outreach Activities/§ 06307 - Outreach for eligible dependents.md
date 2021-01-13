@@ -10,6 +10,8 @@ Information as to Availability of Outreach Services for Dependents.—The Secret
 
 (Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 410.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 7727 of this title prior to repeal by Pub. L. 109–233.

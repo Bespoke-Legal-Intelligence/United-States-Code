@@ -2,7 +2,7 @@
 
 #### (a) Principal purpose of bilateral development assistance
 
-The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources.The Congress recognizes that the magnitude of these efforts exceeds the resources of developing countries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
+The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources. The Congress recognizes that the magnitude of these efforts exceeds the resources of developing countries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
 
 Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes which have limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
 
@@ -74,7 +74,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter,and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 

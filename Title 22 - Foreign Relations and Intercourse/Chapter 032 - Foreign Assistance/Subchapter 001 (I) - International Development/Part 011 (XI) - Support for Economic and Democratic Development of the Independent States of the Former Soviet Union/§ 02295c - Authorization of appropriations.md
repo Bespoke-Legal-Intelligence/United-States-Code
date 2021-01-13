@@ -16,6 +16,8 @@ To carry out this part, there are authorized to be appropriated to the President
 
 (Pub. L. 87–195, pt. I, §498C, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3330.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.

@@ -14,7 +14,7 @@ If any person fails to pay an assessment of a civil penalty after it has become 
 
 #### (d) In rem jurisdiction
 
-A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 1857 of this title shall be liable in rem for any civil penalty assessed for such violation under this section and may be proceeded againstin any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 1857 of this title shall be liable in rem for any civil penalty assessed for such violation under this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 #### (e) Compromise or other action by Secretary
 
@@ -22,7 +22,7 @@ The Secretary may compromise, modify, or remit, with or without conditions, any 
 
 #### (f) Subpenas
 
-For the purposes of conducting any hearing under this section, the Secretary may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+For the purposes of conducting any hearing under this section, the Secretary may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid thesame fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (g) Permit sanctions
 
@@ -48,7 +48,13 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 (5) No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
-(Pub. L. 94–265, title III, §308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, §10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, §114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, §114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599.)
+(Pub. L. 94–265, title III, §308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, §10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, §114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, §114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599; Pub. L. 116–340, §3(b), (e)(2), Jan. 13, 2021, 134 Stat. 5129.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 116–340, §3(b), (c), Jan. 13, 2021, 134 Stat. 5129, provided that, effective 1 year after Jan. 13, 2021, subsection (a) of this section is amended by inserting "or section 1870" after "section 1857".</i>
+
+<i>Pub. L. 116–340, §3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking "or section 1870" after "section 1857".</i>
 
 #### References in Text
 
@@ -56,11 +62,15 @@ This chapter, referred to in subsec. (g)(1), was in the original "this Act", mea
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–340, §3(e)(2), struck out "or section 1870" after "section 1857".
+
+Pub. L. 116–340, §3(b), inserted "or section 1870" after "section 1857".
+
 <b>1996</b>—Subsec. (a). Pub. L. 104–297, §114(a), struck out "ability to pay," after "history of prior offenses," and inserted at end "In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing."
 
 Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney."
 
-Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted "(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operatorwho has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue," for "or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,".
+Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted "(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by theSecretary has not been paid and is overdue," for "or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,".
 
 <b>1990</b>—Pub. L. 101–627, §114(a)(1), inserted "and permit sanctions" after "penalties" in section catchline.
 
@@ -73,6 +83,12 @@ Subsec. (g). Pub. L. 101–627, §114(a)(3), added subsec. (g).
 Subsecs. (d) to (f). Pub. L. 99–659, §108(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–453 added subsec. (e).
+
+#### Effective and Termination Dates of 2021 Amendment
+
+Pub. L. 116–340, §3(c), Jan. 13, 2021, 134 Stat. 5129, provided that: "The amendments made by this Act \[enacting section 1870 of this title and amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Jan. 13, 2021\]."
+
+Pub. L. 116–340, §3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that the amendment made by section 3(e)(2) is effective five years after Jan. 13, 2021.
 
 #### Effective Date
 

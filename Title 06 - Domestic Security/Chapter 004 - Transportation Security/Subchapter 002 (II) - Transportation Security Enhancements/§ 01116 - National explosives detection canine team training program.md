@@ -38,7 +38,7 @@ For purposes of this section, the term "explosives detection canine team" means 
 
 &emsp;&emsp;(A) coordinate with key stakeholders, including international, Federal, State, and local officials, and private sector and academic entities to develop best practice guidelines for such a standardized program, as appropriate;
 
-&emsp;&emsp;(B) require that explosives detection canine teams trained by nonprofit organizations, universities, or private sector entities that are used or made available by the Secretary be trained consistent with specific training criteria developed by the Secretary; and
+&emsp;&emsp;(B) require that explosives detection canine teams trained by nonprofit organizations, universities, or private sector entitiesthat are used or made available by the Secretary be trained consistent with specific training criteria developed by the Secretary; and
 
 &emsp;&emsp;(C) review the status of the private sector programs on at least an annual basis to ensure compliance with training curricula, performance standards, and other requirements.
 
@@ -64,7 +64,7 @@ Not later than 1 year after August 3, 2007, the Comptroller General shall report
 
 #### (g) Authorization
 
-There are authorized to be appropriated to the Secretary such sums as may be necessary tocarry out this section for fiscal years 2007 through 2011.
+There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section for fiscal years 2007 through 2011.
 
 #### (h) Third party canine teams for air cargo security
 
@@ -110,9 +110,13 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 (Pub. L. 110–53, title XIII, §1307, Aug. 3, 2007, 121 Stat. 395; Pub. L. 115–254, div. K, title I, §1941, Oct. 5, 2018, 132 Stat. 3582.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–254 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Public Area Security
 
@@ -172,7 +176,7 @@ Proposed Standards and Recommendations.—Not later than 180 days after the date
 
 "(e)
 
-Strategy.—Not later than 180 days after the date the recommendations are submitted under subsection (d), the Administrator shall develop and submit to the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of theHouse of Representatives\] a strategy for working with non-Federal stakeholders to facilitate expanded \[sic\] the domestic canine breeding capacity described in subsection (a), based on such recommendations.
+Strategy.—Not later than 180 days after the date the recommendations are submitted under subsection (d), the Administrator shall develop and submit to the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a strategy for working with non-Federal stakeholders to facilitate expanded \[sic\] the domestic canine breeding capacity described in subsection (a), based on such recommendations.
 
 "(f)
 
@@ -294,7 +298,7 @@ Exception.—The Administrator may, on a case-by-case basis, deploy a certified 
 
 &emsp;&emsp;&emsp;"(iii)
 
-Nondeployable canines.—Any certified canine provided to the TSA under clause (i) that does not complete training for deployment under that clause shall be the responsibility of the largehub airport unless the TSA agrees to a different outcome.
+Nondeployable canines.—Any certified canine provided to the TSA under clause (i) that does not complete training for deployment under that clause shall be the responsibility of the large hub airport unless the TSA agrees to a different outcome.
 
 &emsp;&emsp;"(C)
 

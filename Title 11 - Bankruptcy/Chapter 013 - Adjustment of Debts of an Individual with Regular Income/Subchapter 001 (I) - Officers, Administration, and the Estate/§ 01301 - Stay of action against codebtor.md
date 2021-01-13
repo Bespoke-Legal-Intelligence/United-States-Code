@@ -32,7 +32,7 @@ Subsection (a) automatically stays the holder of a claim based on a consumer deb
 
 Under the terms of the agreement with the codebtor who is not in bankruptcy, the creditor has a right to collect all payments to the extent they are not made by the debtor at the time they are due. To the extent to which a chapter 13 plan does not propose to pay a creditor his claims, the creditor may obtain relief from the court from the automatic stay and collect such claims from the codebtor. Conversely, a codebtor obtains the benefit of any payments made to the creditor under the plan. If a debtor defaults on scheduled payments under the plan, then the codebtor would be liable for the remaining deficiency; otherwise, payments not made under the plan may never be made by the codebtor. The obligation of the codebtor to make the creditor whole at the time payments are due remains.
 
-The automatic stay under this section pertains only to the collection of a consumer debt, defined by section 101(7) of this title to mean a debt incurred by an individual primarily for a personal, family, or household purpose. Therefore, not all debts owed by a chapter 13 debtor will be subject to the stay of the codebtor, particularly those business debts incurred by an individual with regular income, as defined by section 101(24) of this title, engaged in business, that is permitted by virtue of section 109(b) and section 1304 to obtain chapter 13 relief.
+The automatic stay under this section pertains only to the collection of a consumer debt, defined by section 101(7) of this title to mean a debt incurred by an individual primarily for a personal, family, or household purpose. Therefore, not all debts owed by a chapter 13 debtor will be subject to the stay of the codebtor, particularly those business debts incurred by an individual with regular income, as defined by section 101(24) ofthis title, engaged in business, that is permitted by virtue of section 109(b) and section 1304 to obtain chapter 13 relief.
 
 Subsection (b) excepts the giving of notice of dishonor of a negotiable instrument from the reach of the codebtor stay.
 
@@ -48,11 +48,15 @@ Subsection (b) permits the creditor, notwithstanding the stay, to present a nego
 
 Subsection (c) requires the court to grant relief from the stay in certain circumstances. The court must grant relief to the extent that the debtor does not propose to pay, under the plan, the amount owed to the creditor. The court must also grant relief to the extent that the debtor was really the codebtor in the transaction, that is, to the extent that the nondebtor party actually received the consideration for the claim held by the creditor. Finally, the court must grant relief to the extent that the creditor's interest would be irreparably harmed by the stay, for example, where the codebtor filed bankruptcy himself, or threatened to leave the locale, or lost his job.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–353, §524, inserted "continuation of" after "by".
 
 Subsec. (d). Pub. L. 98–353, §313, added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

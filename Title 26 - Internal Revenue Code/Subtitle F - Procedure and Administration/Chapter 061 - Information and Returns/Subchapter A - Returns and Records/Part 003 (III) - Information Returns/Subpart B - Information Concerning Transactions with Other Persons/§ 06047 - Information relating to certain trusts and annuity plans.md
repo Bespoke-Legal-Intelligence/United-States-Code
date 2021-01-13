@@ -88,7 +88,7 @@ Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) 
 
 "(3) both such employer or plan administrator and such person,".
 
-Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For provisions relating to penalties for failure to file a return required by this section, see section 6652(e)."
+Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "For provisions relating to penalties for failure to file a return required by this section, see section 6652(e)."
 
 <b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of "section 3405(d)(3)" for "section 3405(d)(1)", could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
 

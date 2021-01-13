@@ -18,6 +18,8 @@ There are authorized to be appropriated to the United States Anti-Doping Agency�
 
 (Pub. L. 109–469, title VII, §703, Dec. 29, 2006, 120 Stat. 3534; Pub. L. 113–280, §3, Dec. 18, 2014, 128 Stat. 3020.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–280 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2007 to 2011.

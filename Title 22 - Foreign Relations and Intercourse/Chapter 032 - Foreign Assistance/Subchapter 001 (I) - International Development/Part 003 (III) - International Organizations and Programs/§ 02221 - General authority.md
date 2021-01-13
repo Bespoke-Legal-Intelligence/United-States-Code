@@ -2,7 +2,7 @@
 
 #### (a) Voluntary contributions; grants and loans in case of the Indus Basin Development Fund
 
-When he determines it to be in the national interest, the President is authorized to make voluntary contributions on a grant basis to international organizations and to programs administered by such organizations, and in the case of the Indus Basin Development Fund administered by the International Bank for Reconstruction and Development to make grants and loans payable as to principal and interest inUnited States dollars and subject to the provisions of section 2151t(b) of this title, on such terms and conditions as he may determine, in order to further the purposes of subchapter I of this chapter.
+When he determines it to be in the national interest, the President is authorized to make voluntary contributions on a grant basis to international organizations and to programs administered by such organizations, and in the case of the Indus Basin Development Fund administered by the International Bank for Reconstruction and Development to make grants and loans payable as to principal and interest in United States dollars and subject to the provisions of section 2151t(b) of this title, on such terms and conditions as he may determine, in order to further the purposes of subchapter I of this chapter.
 
 #### (b) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 
@@ -32,15 +32,13 @@ It is the sense of the Congress that the President should instruct the appropria
 
 The President is authorized to permit the United States to participate in and to use any of the funds made available under subchapter I of this chapter after December 29, 1981, for the purpose of furnishing assistance (on such terms and conditions as the President may determine) to the International Food Policy Research Institute.
 
-(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII,§702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113, title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
+(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII, §702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113, title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -66,7 +64,7 @@ Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
 <b>1973</b>—Subsec. (e). Pub. L. 93–189 added subsec. (e).
 
-<b>1969</b>—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to the United Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
+<b>1969</b>—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to theUnited Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–137 added subsec. (d).
 
@@ -78,17 +76,25 @@ Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contrib
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Use of Contributions for Projects in Cuba
 
 Pub. L. 91–194, title I, §100, Feb. 9, 1970, 84 Stat. 5, provided in part: "That the President shall seek to assure that no contribution to the United Nations Development Program authorized by the Foreign Assistance Act of 1961, as amended \[section 2151 et seq. of this title\], shall be used for projects for economic or technical assistance to the Government of Cuba, so long as Cuba is governed by the Castro regime."
 
 Similar provisions were contained in Pub. L. 89–691, title I, §100, Oct. 15, 1966, 80 Stat. 1018; Pub. L. 90–249, title I, §100, Jan. 2, 1968, 81 Stat. 936; Pub. L. 90–581, title I, §100, Oct. 17, 1968, 82 Stat. 1137.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

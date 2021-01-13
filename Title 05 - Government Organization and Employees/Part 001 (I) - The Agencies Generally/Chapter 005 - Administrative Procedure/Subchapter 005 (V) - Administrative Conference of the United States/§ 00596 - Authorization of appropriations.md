@@ -22,6 +22,8 @@ The word "hereby" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–290 amended section generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter not more than $3,000,000 for fiscal year 2005, $3,100,000 for fiscal year 2006, and $3,200,000 for fiscal year 2007. Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries."
@@ -38,9 +40,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Pub. L. 95–293 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982, of $1,700,000, $2,000,000, $2,300,000, and $2,300,000, respectively, for provisions authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, June 30, 1977, and June 30, 1978, of $760,000, $805,000, $850,000, $900,000, and $950,000, respectively, and provisions authorizing for each fiscal year thereafter such sums as may be necessary.
 
-<b>1972</b>—Pub. L. 92–526 substituted provisions authorizing to be appropriated necessary sums not in excess of $760,000 for fiscal year ending June 30, 1974, $805,000 for fiscal year ending June 30, 1975, $850,000 for fiscal year ending June 30, 1976, $900,000 for fiscal year ending June 30, 1977, and $950,000 for fiscal year ending June 30, 1978, and each fiscal year thereafter, for provisions authorizing to be appropriated necessary sums, not in excess of $450,000 per annum.
+<b>1972</b>—Pub. L. 92–526 substituted provisions authorizing to be appropriated necessary sums not in excess of $760,000 for fiscal year ending June 30, 1974, $805,000 forfiscal year ending June 30, 1975, $850,000 for fiscal year ending June 30, 1976, $900,000 for fiscal year ending June 30, 1977, and $950,000 for fiscal year ending June 30, 1978, and each fiscal year thereafter, for provisions authorizing to be appropriated necessary sums, not in excess of $450,000 per annum.
 
 <b>1969</b>—Pub. L. 91–164 substituted "$450,000 per annum" for "$250,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

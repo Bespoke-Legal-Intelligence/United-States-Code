@@ -4,9 +4,13 @@ For the purpose of controlling the floods, improving navigation, and regulating 
 
 (Dec. 21, 1928, ch. 42, §1, 45 Stat. 1057.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation law, referred to in text, is defined in section 617k of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

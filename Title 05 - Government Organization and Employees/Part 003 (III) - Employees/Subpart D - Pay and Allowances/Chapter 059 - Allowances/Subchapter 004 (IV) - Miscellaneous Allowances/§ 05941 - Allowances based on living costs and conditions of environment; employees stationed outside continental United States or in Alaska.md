@@ -68,6 +68,8 @@ The last proviso of former section 118h which provided the effective date of the
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
@@ -80,9 +82,11 @@ Section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009, re
 
 Subsecs. (b) to (d). Pub. L. 111–84, §1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on orafter Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
@@ -95,6 +99,8 @@ Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pu
 &emsp;"(3) an evaluation of the likely impact of the different approaches on the Government's ability to recruit and retain a well-qualified workforce.
 
 > For the purpose of conducting such study and preparing such report, the Office may accept and utilize (without regard to any restriction on unanticipated travel expenses imposed in an Appropriations Act) funds made available to the Office pursuant to court approval."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10000. Regulations Governing Additional Compensation and Credit Granted Certain Federal Employees Serving Outside the United States
 
@@ -138,7 +144,7 @@ Payment of Foreign Post Differentials.
 
 (a) The following regulations shall govern the payment of foreign post differentials under this Part:
 
-(1) Payments shall begin as of the date of arrival at the post on assignment or transfer and shall end as of the date of departure from the post for separation or transfer, except that in case of local recruitment such payments shall begin and end as of the beginning and the end of employment, respectively.
+(1) Payments shall begin as of the date of arrival at the post on assignment or transfer and shall end as of the date of departure from the post for separation ortransfer, except that in case of local recruitment such payments shall begin and end as of the beginning and the end of employment, respectively.
 
 (2) Payments for periods of leave and of detail shall begin and end as determined in regulations prescribed under section 102(c) hereof.
 
@@ -170,7 +176,7 @@ Additional Compensation by Reason of Environment. The Office of Personnel Manage
 
 Sec. 203.
 
-Basis for Non-Foreign Area Post Differential. The Office of Personnel Management may establish a non-foreign area post differential for anyplace in the non-foreign areas when, and only when, the place involves any one or more of the following: (a) extraordinarily difficult living conditions, (b) excessive physical hardship, or (c) notably unhealthful conditions.
+Basis for Non-Foreign Area Post Differential. The Office of Personnel Management may establish a non-foreign area post differential for any place in the non-foreign areas when, and only when, the place involves any one or more of the following: (a) extraordinarily difficult living conditions, (b) excessive physical hardship, or (c) notably unhealthful conditions.
 
 Sec. 204.
 

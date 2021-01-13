@@ -4,15 +4,81 @@ There is a Secretary of Veterans Affairs, who is the head of the Department and 
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Waiver of Pay Caps for Employees of Department of Veterans Affairs During Public Health Emergencies
+
+Pub. L. 116–136, div. B, title X, §20008, Mar. 27, 2020, 134 Stat. 588, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, the Secretary of Veterans Affairs may waive any limitation on pay for an employee of the Department of Veterans Affairs during a public health emergency for work done in support of response to the emergency.
+
+"(b)
+
+Reporting.—
+
+&emsp;"(1)
+
+In general.—For each month that the Secretary waives a limitation under subsection (a), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the waiver.
+
+&emsp;"(2)
+
+Contents.—Each report submitted under paragraph (1) for a waiver or waivers in a month shall include the following:
+
+&emsp;&emsp;"(A) Where the waiver or waivers were used, including in which component of the Department and, as the case may be, which medical center of the Department.
+
+&emsp;&emsp;"(B) For how many employees the waiver or waivers were used, disaggregated by component of the Department and, if applicable, medical center of the Department.
+
+&emsp;&emsp;"(C) The average amount by which each payment exceeded the waived pay limitation that was waived, disaggregated by component of the Department and, if applicable, medical center of the Department.
+
+"(c)
+
+Employee of the Department of Veterans Affairs Defined.—In this section, the term 'employee of the Department of Veterans Affairs' includes any employee of the Department of Veterans Affairs, regardless of the authority under which the employee was hired."
+
+\[For definition of "public health emergency" as used in section 20008 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out below.\]
+
+#### Provision by Department of Veterans Affairs of Personal Protective Equipment for Home Health Workers
+
+Pub. L. 116–136, div. B, title X, §20009, Mar. 27, 2020, 134 Stat. 588, provided that:
+
+"(a)
+
+Provision of Equipment.—
+
+&emsp;"(1)
+
+In general.—During a public health emergency, the Secretary of Veterans Affairs shall provide to employees and contractors of the Department of Veterans Affairs personal protective equipment necessary to provide home care to veterans under the laws administered by the Secretary.
+
+&emsp;"(2)
+
+Source of equipment.—Personal protective equipment may be provided under paragraph (1) through the All Hazards Emergency Cache of the Department or any other source available to the Department.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Home care.—The term 'home care' has the meaning given that term in section 1803(c) of title 38, United States Code.
+
+&emsp;"(2)
+
+Personal protective equipment.—The term 'personal protective equipment' means any protective equipment required to prevent the wearer from contracting COVID–19, including gloves, N–95 respirator masks, gowns, goggles, face shields, or other equipment required for safety."
+
+\[For definition of "public health emergency" as used in section 20009 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out below.\]
+
 #### Secretary's Approval of Research Using Canines, Felines, or Non-Human Primates
 
-Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806, provided that:
+Pub. L. 116–260, div. J, title II, §247, Dec. 27, 2020, 134 Stat. 1682, provided that:
 
-"(a) None of the funds appropriated or otherwise made available by this Act \[div. F of Pub. L. 116–94, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
+"(a) None of the funds appropriated or otherwise made available by this Act \[div. J of Pub. L. 116–260, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
 
 "(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—
 
@@ -36,7 +102,7 @@ Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806, provid
 
 &emsp;"(5) the protocols in place to ensure the necessity, safety, and efficacy of the research; and
 
-"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
+"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
 
 &emsp;"(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report;
 
@@ -46,7 +112,11 @@ Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806, provid
 
 &emsp;"(4) the protocols in place to ensure the necessity, safety, and efficacy of such research.
 
-"(e) Not later than December 31, 2020, the Secretary shall submit to such Committees a plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than five years after the date of the enactment of this Act."
+"(e) Not later than December 31, 2021, the Secretary shall submit to such Committees an updated plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 \[Dec. 20, 2019\]."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806.
 
 #### Plans for Use of Supplemental Appropriations Required
 
@@ -172,7 +242,7 @@ Budget Information.—In the documentation providing detailed information on the
 
 "(b)
 
-Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determinesthat, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans' Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year."
+Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans' Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year."
 
 #### Information and Training Concerning AIDS Prevention
 
@@ -197,6 +267,12 @@ Required Elements of Information Program.—In conducting the program under subs
 "(c)
 
 Training in AIDS Prevention.—The Secretary shall establish and carry out a program that provides for education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs."
+
+#### Definition of "Public Health Emergency"
+
+Pub. L. 116–136, div. B, title X, §20003, Mar. 27, 2020, 134 Stat. 585, provided that: "In this title \[enacting provisions set out as notes above and under sections 1503, 1710B, 1712A, 1714, 1741, 2011, 2041, and 2044 of this title\], the term 'public health emergency' means an emergency with respect to COVID–19 declared by a Federal, State, or local authority."
+
+#### <b>Executive Documents</b>
 
 #### Emergency Preparedness Functions
 

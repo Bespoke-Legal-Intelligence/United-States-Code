@@ -50,6 +50,8 @@ Guaranteed Renewability.—The benefits and coverage made available to eligible 
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 107–314, div. A, title XI, §1101(b), Dec. 2, 2002, 116 Stat. 2660.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec. (f), is classified to section 7702B(g)(2) of Title 26, Internal Revenue Code.

@@ -74,7 +74,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term "early intervention services" means HIV/AIDS early intervention services described in section 300ff–51(e) of this title, with follow-up referral provided for the purpose of facilitating the access of individuals receiving the services to HIV-related health services. The entitiesthrough which such services may be provided under the grant include public health departments, emergency rooms, substance abuse and mental health treatment programs, detoxification centers, detention facilities, clinics regarding sexually transmitted diseases, homeless shelters, HIV/AIDS counseling and testing sites, health care points of entry specified by States, federally qualified health centers, and entities described in section 300ff–52(a) of this title that constitute a point of access to services by maintaining referral relationships.
+&emsp;For purposes of this section, the term "early intervention services" means HIV/AIDS early intervention services described in section 300ff–51(e) of this title, with follow-up referral provided for the purpose of facilitating the access of individuals receiving the services to HIV-related health services. The entities through which such services may be provided under the grant include public health departments, emergency rooms, substance abuse and mental health treatment programs, detoxification centers, detention facilities, clinics regarding sexually transmitted diseases, homeless shelters, HIV/AIDS counseling and testing sites, health care points of entry specified by States, federally qualified health centers, and entities described in section 300ff–52(a) of this title that constitute a point of access to services by maintaining referral relationships.
 
 #### (2) Conditions
 
@@ -96,7 +96,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (f) Construction
 
-A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
+A State may not use amounts received under a grant awarded under section 300ff–21 of thistitle to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
 (July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2785, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -132,7 +132,7 @@ Subsec. (b). Pub. L. 104–146, §3(c)(2)(B), struck out heading and text of sub
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

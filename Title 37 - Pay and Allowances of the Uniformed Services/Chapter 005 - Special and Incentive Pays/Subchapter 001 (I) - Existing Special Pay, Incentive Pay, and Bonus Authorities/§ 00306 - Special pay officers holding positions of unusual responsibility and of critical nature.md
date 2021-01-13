@@ -64,6 +64,8 @@ In subsection (a), the words "an armed force under his jurisdiction" are substit
 
 In subsection (c), the words "(other than for training)" are inserted for clarity, since members on duty for training only are not included in computing strength authorizations.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136, §616(a)(1), designated existing provisions as par. (1), substituted "described in paragraph (2)" for "who is entitled to the basic pay of pay grade O–6 or below and", and added par. (2).
@@ -80,19 +82,21 @@ Subsecs. (e), (f). Pub. L. 108–136, §616(a)(2), redesignated subsecs. (d) and
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–587, §5205(a), substituted "of pay grade O–6 or below" for "of pay grade O–3, O–4, O–5, or O–6" in text and amended table by substituting "O–4 and below" for "O–4" and striking out line providing monthly rate of $50 for pay grade O–3.
+<b>1992</b>—Subsec. (a). Pub. L. 102–587, §5205(a), substituted "of pay grade O–6 or below" for "of pay grade O–3, O–4,O–5, or O–6" in text and amended table by substituting "O–4 and below" for "O–4" and striking out line providing monthly rate of $50 for pay grade O–3.
 
 Subsec. (c). Pub. L. 102–587, §5205(b), substituted "in each of the pay grades O–3 and below," for "in pay grade O–3,".
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–510 struck out subsec. (f) which read as follows: "The Secretary of Defense shall report to Congress by March 1 of each year following a calendar year in which special pay is disbursed under this section. Negative reports need not be submitted."
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–322 struck out last sentence providing that the Secretary of Transportationshall make a similar report for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+<b>1982</b>—Subsec. (f). Pub. L. 97–322 struck out last sentence providing that the Secretary of Transportation shall make a similar report for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–284 made section inapplicable to a person entitled to special pay under section 302a or 302b of this title.
 
 Subsec. (f). Pub. L. 96–470 substituted provision requiring the Secretary of Defense to report by Mar. 1 of each year following a calendar year in which special pay is disbursed under this section and providing that negative reports need not be submitted for provision requiring the Secretary of Defense to report by Mar. 1 of each year on the administration of this section within each military department during the preceding calendar year.
 
 <b>1968</b>—Subsecs. (d), (f). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

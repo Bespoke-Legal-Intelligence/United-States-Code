@@ -24,7 +24,7 @@ The Congress finds and declares that—
 
 &emsp;(10) the 1988 amendments to the Fish and Wildlife Conservation Act of 1980 require the Secretary of the Interior to identify conservation measures to assure that nongame migratory bird species do not reach the point at which measures of the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] are necessary;
 
-&emsp;(11) protection of migratory birds and their habitats requires long-term planning and the close cooperation and coordination of management activities by Canada, Mexico, and the United States within the framework of the 1916 and 1936 Migratory Bird Conventions and the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere;
+&emsp;(11) protection of migratory birds and their habitats requires long-term planning and the close cooperation and coordination of management activities by Canada, Mexico, and the United States within the framework of the 1916 and 1936 Migratory Bird Conventions andthe Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere;
 
 &emsp;(12) the North American Waterfowl Management Plan, signed in 1986 by the Minister of Environment for Canada and the Secretary of the Interior for the United States and in 1994 by the Secretary of Sedesol for Mexico, provides a framework for maintaining and restoring an adequate habitat base to ensure perpetuation of populations of North American waterfowl and other migratory bird species;
 

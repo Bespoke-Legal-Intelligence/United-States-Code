@@ -1,6 +1,8 @@
 ### §723. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, act Aug. 23, 1954, ch. 831, §3, 68 Stat. 769, which provided for termination of Federal powers over tribe effective on the date of the proclamation, was omitted from the Code as being of special and not general application.
+Section, act Aug. 23, 1954, ch. 831, §3, 68 Stat. 769, which provided for termination of Federal powers overtribe effective on the date of the proclamation, was omitted from the Code as being of special and not general application.
 

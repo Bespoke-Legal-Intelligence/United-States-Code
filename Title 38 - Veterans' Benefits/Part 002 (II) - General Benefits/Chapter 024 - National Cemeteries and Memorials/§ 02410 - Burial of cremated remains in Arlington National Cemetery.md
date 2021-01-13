@@ -10,6 +10,8 @@
 
 (Added Pub. L. 101–237, title V, §502(a), Dec. 18, 1989, 103 Stat. 2093, §1010; amended Pub. L. 102–54, §14(b)(22), June 13, 1991, 105 Stat. 284; renumbered §2410, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–158, §1(a), May 20, 2016, 130 Stat. 394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 114–158, which was approved May 20, 2016.
@@ -21,6 +23,8 @@ The date of the enactment of this paragraph, referred to in subsec. (c)(2), is t
 <b>1991</b>—Pub. L. 102–83 renumbered section 1010 of this title as this section.
 
 Subsec. (b). Pub. L. 102–54 substituted "each military department" for "the military departments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

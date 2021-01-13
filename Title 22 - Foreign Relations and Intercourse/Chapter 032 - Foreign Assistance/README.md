@@ -61,6 +61,7 @@
 | 2152j–2. | Training requirements regarding the participation of women in conflict prevention and peace building. |
 | 2152j–3. | Consultation and collaboration. |
 | 2152j–4. | Definitions. |
+| [2152k.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152k%20-%20Assistance%20to%20improve%20early%20childhood%20outcomes%20globally.md) | Assistance to improve early childhood outcomes globally. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,7 +109,7 @@
 |  |  |
 | :--- | ---: |
 | 2191 to 2194. | Repealed. |
-| [2194a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20004%20%28iv%29%20-%20Overseas%20Private%20Investment%20Corporation/%C2%A7%2002194a%20-%20Omitted.md) | Omitted. |
+| [2194a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20004%20%28iv%29%20-%20Overseas%20Private%20Investment%20Corporation/%C2%A7%2002194a%20-%20Omitted.md) | Contract authority of Corporation; specific authorization in appropriation Acts required. |
 | 2194b to 2196. | Repealed. |
 | [2197\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20004%20%28iv%29%20-%20Overseas%20Private%20Investment%20Corporation/%C2%A7%2002197%20-%20General%20provisions%20relating%20to%20insurance%2C%20guaranty%2C%20financing%2C%20and%20reinsurance%20programs.md) | General provisions relating to insurance, guaranty, financing, and reinsurance programs. |
 | 2198 to 2200b. | Repealed. |
@@ -256,6 +257,8 @@
 | [2274\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002274%20-%20Economic%20assistance%20coordination.md) | Economic assistance coordination. |
 | [2275\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002275%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2276\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002276%20-%20Central%20American%20countries%20defined.md) | "Central American countries" defined. |
+| [2277\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002277%20-%20Strategy%20to%20advance%20prosperity%2C%20combat%20corruption%2C%20strengthen%20democratic%20governance%2C%20and%20improve%20civilian%20security%20in%20El%20Salvador%E2%80%A6.md) | Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras. |
+| [2277a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002277a%20-%20Targeted%20sanctions%20to%20fight%20corruption%20in%20El%20Salvador%2C%20Guatemala%2C%20and%20Honduras.md) | Targeted sanctions to fight corruption in El Salvador, Guatemala, and Honduras. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -397,7 +400,8 @@
 | [2346a.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20004%20%28IV%29%20-%20Economic%20Support%20Fund/%C2%A7%2002346a%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 | [2346b.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20004%20%28IV%29%20-%20Economic%20Support%20Fund/%C2%A7%2002346b%20-%20Emergency%20assistance.md) | Emergency assistance. |
 | [2346c.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20004%20%28IV%29%20-%20Economic%20Support%20Fund/%C2%A7%2002346c%20-%20Administration%20of%20justice.md) | Administration of justice. |
-| 2346d to 2346i. | Repealed. |
+| [2346d.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20004%20%28IV%29%20-%20Economic%20Support%20Fund/%C2%A7%2002346d%20-%20People-to-People%20Partnership%20for%20Peace%20Fund.md) | People-to-People Partnership for Peace Fund. |
+| 2346e to 2346i. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

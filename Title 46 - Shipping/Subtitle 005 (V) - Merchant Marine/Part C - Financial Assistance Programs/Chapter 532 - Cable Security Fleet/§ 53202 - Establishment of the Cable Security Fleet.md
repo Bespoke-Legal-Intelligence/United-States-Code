@@ -132,6 +132,8 @@ Waiver of Age Registration.—The Secretary, in conjunction with the Operating A
 
 (Added Pub. L. 116–92, div. C, title XXXV, §3521(a), Dec. 20, 2019, 133 Stat. 1989.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Act, referred to in subsec. (d)(1), means the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.

@@ -32,7 +32,7 @@
 
 (c) The Comptroller General shall relieve a certifying official from liability for an overpayment—
 
-&emsp;(1) to a common carrier under section 3726 of this title when the Comptroller General decides the overpayment occurred only because the administrative audit before payment did not verify transportation rates, freight classifications, or land-grant deductions and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
+&emsp;(1) to a common carrier under section 3726 of this title when the Comptroller General decides the overpayment occurred only because the administrative audit before payment didnot verify transportation rates, freight classifications, or land-grant deductions and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
 
 &emsp;(2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
@@ -94,6 +94,8 @@ In subsection (d), the words "under the jurisdiction" are omitted as surplus. Th
 
 This clarifies section 3528(b) by restoring the authority of the Comptroller General to deny relief to certifying officials in the same way relief may be denied to disbursing officials.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(5). Pub. L. 105–264, §3(a)(2)(A), added par. (5).
@@ -105,6 +107,8 @@ Subsec. (c)(2). Pub. L. 105–264, §3(a)(2)(C), inserted "and the Administrator
 <b>1996</b>—Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: "This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia."
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–216 designated existing provisions as par. (1), substituted designations of subpars. (A) and (B) and cls. (i), (ii), and (iii) for former designations of pars. (1) and (2) and subpars. (A), (B), and (C), respectively, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

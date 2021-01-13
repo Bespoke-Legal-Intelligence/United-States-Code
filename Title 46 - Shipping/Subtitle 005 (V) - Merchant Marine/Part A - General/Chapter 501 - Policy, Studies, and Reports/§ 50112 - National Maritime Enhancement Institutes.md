@@ -46,7 +46,7 @@ Criteria for Designation.—The Secretary shall designate an institute under thi
 
 (e)
 
-Financial Awards.—The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
+Financial Awards.—The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annualamount of the Federal share of the awards by the Secretary may not exceed $500,000.
 
 (f)
 
@@ -69,6 +69,8 @@ Historical and Revision Notes
 46 App.:1121–2.
 
 Pub. L. 101–115, §8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, title VII, §702, Nov. 16, 1990, 104 Stat. 2994; Pub. L. 102–241, §47, Dec. 19, 1991, 105 Stat. 2227; Pub. L. 106–398, §1 \[div. C, title XXXV, §3504\], Oct. 30, 2000, 114 Stat. 1654, 1654A–493; Pub. L. 108–426, Nov. 30, 2004, §2(c)(4), 118 Stat. 2424.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

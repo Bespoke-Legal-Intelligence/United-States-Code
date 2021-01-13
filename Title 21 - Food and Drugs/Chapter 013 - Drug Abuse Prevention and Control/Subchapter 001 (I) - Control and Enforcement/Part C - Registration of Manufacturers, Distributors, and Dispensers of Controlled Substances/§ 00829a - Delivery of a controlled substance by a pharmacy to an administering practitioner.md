@@ -40,6 +40,8 @@ Notwithstanding section 802(10) of this title, a pharmacy may deliver a controll
 
 (Pub. L. 91–513, title II, §309A, as added Pub. L. 115–271, title III, §3204(a), Oct. 24, 2018, 132 Stat. 3945.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.

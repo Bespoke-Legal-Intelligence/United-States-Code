@@ -82,7 +82,7 @@ Definitions Relating to Travel and Transportation Allowances.—In this subchapt
 
 &emsp;(6) The term "miscellaneous expenses" means authorized expenses incurred in addition to authorized allowances during the performance of official travel by an authorized traveler.
 
-&emsp;(7) The term "personal property", with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personalitems that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title.
+&emsp;(7) The term "personal property", with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personal items that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title.
 
 &emsp;(8) The term "relocation allowances" means the costs associated with relocating a member of the uniformed services and the member's dependents between an old and new temporary or permanent duty assignment location or other authorized location.
 
@@ -90,9 +90,13 @@ Definitions Relating to Travel and Transportation Allowances.—In this subchapt
 
 (Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1453; amended Pub. L. 113–66, div. A, title VI, §621(a)(1), Dec. 26, 2013, 127 Stat. 783.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(2)(C). Pub. L. 113–66 inserted "or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose of Consolidation and Reform of Travel and Transportation Authorities of the Uniformed Services
 

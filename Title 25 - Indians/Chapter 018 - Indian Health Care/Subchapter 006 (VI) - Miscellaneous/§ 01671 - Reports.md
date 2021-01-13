@@ -30,6 +30,8 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 (Pub. L. 94–437, title VIII, §801, formerly title VII, §701, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, §801, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §801, Oct. 29, 1992, 106 Stat. 4572, 4584.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602 of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (d).
@@ -53,6 +55,8 @@ Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 11
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: "The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Commission on Indian and Native Alaskan Health Care
 
@@ -196,7 +200,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### References to Sections 701 to 720 of Public Law 94–437
 
-Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: "Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated."
+Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: "Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub.L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

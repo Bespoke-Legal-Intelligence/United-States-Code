@@ -24,7 +24,9 @@ This section shall be given effect notwithstanding that a financial institution 
 
 The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, and section 78eee(b)(2) of title 15).
 
-(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, §4(a), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–203, title II, §211(c), July 21, 2010, 124 Stat. 1514.)
+(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20,2005, 119 Stat. 168; Pub. L. 109–390, §4(a), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–203, title II, §211(c), July 21, 2010, 124 Stat. 1514.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Subsec. (f). Pub. L. 109–390, §4(a)(1), struck out "paragraphs (8)(E), (8)(F)
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract."
 
 Subsec. (f). Pub. L. 109–8, §906(b)(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

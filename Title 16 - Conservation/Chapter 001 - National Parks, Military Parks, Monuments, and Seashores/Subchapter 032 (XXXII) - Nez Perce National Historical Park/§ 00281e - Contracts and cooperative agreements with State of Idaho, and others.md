@@ -6,7 +6,7 @@ In order to carry out the purpose of this subchapter, the Secretary of the Inter
 
 #### (b) Erection and maintenance of tablets and markers
 
-To facilitate the interpretation of the Nez Perce country the Secretary is authorized to erect and maintain tablets or markers in accordance with the provisions contained in the Act approved August 21, 1935, entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes" (49 Stat. 666).<sup>1</sup>
+To facilitate the interpretation of the Nez Perce country the Secretary is authorized toerect and maintain tablets or markers in accordance with the provisions contained in the Act approved August 21, 1935, entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes" (49 Stat. 666).<sup>1</sup>
 
 #### (c) Consultation with Nez Perce Tribe officials
 

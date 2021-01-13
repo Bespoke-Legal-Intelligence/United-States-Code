@@ -10,6 +10,8 @@ Benefits in Event of Death.—The Secretary of Labor shall pay to any survivor o
 
 (Added Pub. L. 90–291, §1(a), Apr. 19, 1968, 82 Stat. 99.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective only with respect to personal injuries sustained on or after Apr. 19, 1968, see section 2 of Pub. L. 90–291, set out as a note under section 8191 of this title.

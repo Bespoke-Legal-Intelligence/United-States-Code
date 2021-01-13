@@ -20,9 +20,13 @@ Sept. 28, 1959, Pub. L. 86–382, §13, 73 Stat. 716.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Director of the Office of Personnel Management" for "Chairman of the Civil Service Commission" and "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

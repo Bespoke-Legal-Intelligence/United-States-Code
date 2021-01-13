@@ -108,7 +108,7 @@ Facility Management, Operation, Monitoring, and Enforcement.—
 
 &emsp;(1)
 
-In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
+In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to theSecretary that the authority will carry out the following responsibilities with respect to the facility:
 
 &emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
@@ -260,6 +260,8 @@ Consultation of MPO.—If a HOV facility charging tolls under paragraph (4) or (
 
 (Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1514, July 6, 2012, 126 Stat. 572; Pub. L. 114–94, div. A, title I, §1411(b), Dec. 4, 2015, 129 Stat. 1413.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 30D(d)(1) of the Internal Revenue Code of 1986, referred to in subsec. (b)(5)(A)(ii), is classified to section 30D(d)(1) of Title 26, Internal Revenue Code.
@@ -327,6 +329,8 @@ Subsec. (d)(1)(C). Pub. L. 112–141, §1514(3)(C), substituted "whenever the op
 Subsec. (d)(1)(D), (E). Pub. L. 112–141, §1514(3)(D), added subpars. (D) and (E).
 
 <b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted "paragraph (4)" for "paragraph (3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

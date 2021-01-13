@@ -44,9 +44,9 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;The Director of National Intelligence shall—
+&emsp;The President shall—
 
-&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with nationalsecurity and with applicable legal standards relating to privacy and civil liberties;
+&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
 
 &emsp;&emsp;(B) designate the organizational and management structures that will be used to operate and manage the ISE; and
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Attributes
 
-&emsp;The Director of National Intelligence shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The Director of National Intelligence shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
+&emsp;The President shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The President shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
 
 &emsp;&emsp;(A) connects existing systems, where appropriate, provides no single points of failure, and allows users to share information among agencies, between levels of government, and, as appropriate, with the private sector;
 
@@ -85,6 +85,16 @@ In this section:
 &emsp;&emsp;(N) provides a resolution process that enables changes by authorized officials regarding rules and policies for the access, use, and retention of information within the scope of the information sharing environment; and
 
 &emsp;&emsp;(O) incorporates continuous, real-time, and immutable audit capabilities, to the maximum extent practicable.
+
+#### (3) Delegation
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the President may delegate responsibility for carrying out this subsection.
+
+#### (B) Limitation
+
+&emsp;&emsp;The President may not delegate responsibility for carrying out this subsection to the Director of National Intelligence.
 
 #### (c) Preliminary report
 
@@ -244,7 +254,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(D) actions taken to ensure that procurement of and investments in systems and technology are consistent with the implementation plan for the ISE;
 
-&emsp;&emsp;(E) the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including the availability of processes for correcting errors;
+&emsp;&emsp;(E) the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including theavailability of processes for correcting errors;
 
 &emsp;&emsp;(F) the extent to which State, tribal, and local officials are participating in the ISE;
 
@@ -310,7 +320,9 @@ The program manager is authorized to hire not more than 40 full-time employees t
 
 There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
 
-(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 116–92, div. E, title LXIV, §6402, Dec. 20, 2019, 133 Stat. 2196.)
+(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 116–92, div. E, title LXIV, §6402, Dec. 20, 2019, 133 Stat. 2196; Pub. L. 116–260, div. W, title III, §307, Dec. 27, 2020, 134 Stat. 2368.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -322,9 +334,15 @@ The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Actof 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–260, §307(1), substituted "President" for "Director of National Intelligence" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–260, §307(2), substituted "President" for "Director of National Intelligence" in two places in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 116–260, §307(3), added par. (3).
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §6402(a)(1), substituted "Director of National Intelligence" for "President" in introductory provisions.
 
@@ -374,15 +392,19 @@ Subsec. (h)(1). Pub. L. 110–53, §504(5), substituted "and not later than June
 
 Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: "There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions noteunder section 3001 of Title 50, War and National Defense.
 
 #### Procedures To Clear Individuals From Terrorist Database Lists
 
 Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: "Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13356
 
@@ -426,7 +448,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
 (iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;" \[not set out in the Code\]
 

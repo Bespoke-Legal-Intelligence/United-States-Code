@@ -6,6 +6,8 @@
 
 (Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5033; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 90–432, §2, July 26, 1968, 82 Stat. 448; Pub. L. 93–82, title IV, §403(c), Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–62, §3(4), July 5, 1977, 91 Stat. 262; Pub. L. 96–151, title I, §101(a), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 97–251, §8, Sept. 8, 1982, 96 Stat. 716; Pub. L. 99–576, title II, §224(a), Oct. 28, 1986, 100 Stat. 3262; Pub. L. 101–110, §1(c), Oct. 6, 1989, 103 Stat. 682; Pub. L. 101–237, title II, §201(b), Dec. 18, 1989, 103 Stat. 2066; renumbered §8133, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §402, Nov. 4, 1992, 106 Stat. 4954.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–585 struck out before period at end of first sentence "through September 30, 1992".
@@ -24,7 +26,7 @@ Pub. L. 101–110 substituted "1990" for "1989".
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–151 inserted provisions extending authorization of a like sum from one to two years, and provisions authorizing to be appropriated such sums as necessary for the fiscal years ending Sept. 30, 1981, and Sept. 30, 1982.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–62 substituted "$15,000,000 for the fiscal year ending September 30, 1978, and a like sum for the succeeding fiscal year" for "$5,000,000 for the fiscal year ending June 30, 1965, and a like sum for each of the fourteen succeeding fiscal years" and "applications for carrying out the purposes and meeting the requirements of this subchapter" for "applications for carrying out the purposes of section 5032 of this title".
+<b>1977</b>—Subsec. (a). Pub. L. 95–62 substituted "$15,000,000 for the fiscal year ending September 30, 1978, and a like sum for the succeeding fiscal year" for "$5,000,000 forthe fiscal year ending June 30, 1965, and a like sum for each of the fourteen succeeding fiscal years" and "applications for carrying out the purposes and meeting the requirements of this subchapter" for "applications for carrying out the purposes of section 5032 of this title".
 
 Subsec. (b). Pub. L. 95–62 substituted "shall remain available until expended" for "shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated".
 
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 95–62 substituted "shall remain available until expended"
 <b>1968</b>—Subsec. (a). Pub. L. 90–432 substituted "nine succeeding fiscal years" for "four succeeding fiscal years".
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–311 repealed subsec. (c) which limited to not more than 10 per centum of the funds appropriated pursuant to subsec. (a) of this section the moneys which could be used to assist in the construction of nursing home care facilities in any one State.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

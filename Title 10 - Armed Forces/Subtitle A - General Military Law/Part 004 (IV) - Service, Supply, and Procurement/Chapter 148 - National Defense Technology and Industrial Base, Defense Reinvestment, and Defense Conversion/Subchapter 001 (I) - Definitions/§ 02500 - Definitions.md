@@ -58,7 +58,11 @@ In this chapter:
 
 &emsp;(15) The term "integration" means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491;amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316.)
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1866(c), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 381 of this title, as amended by section 1866(b) of Pub. L. 116–283, inserted after the table of sections at the beginning, and redesignated as section 4801 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -106,6 +110,10 @@ Par. (8). Pub. L. 103–160, §1182(a)(9)(B), substituted "subsection (b)(4)" fo
 
 Pars. (13) to (15). Pub. L. 103–160, §1315(f), added pars. (13) to (15).
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–337, div. A, title XI, §1101, Oct. 5, 1994, 108 Stat. 2862, provided that: "This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994'."
@@ -136,7 +144,7 @@ Pub. L. 102–484, div. D, title XLII, §4201, Oct. 23, 1992, 106 Stat. 2659, pr
 
 #### Transition Provision; "Defense Critical Technology" Defined
 
-Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defense critical technology" for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
+Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defense critical technology" for purposes of this chapter, wouldhave meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

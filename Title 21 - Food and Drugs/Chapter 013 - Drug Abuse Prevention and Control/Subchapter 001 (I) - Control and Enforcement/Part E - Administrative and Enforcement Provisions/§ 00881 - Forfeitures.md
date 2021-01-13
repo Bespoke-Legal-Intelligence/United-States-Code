@@ -48,7 +48,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (1) Whenever property is civilly or criminally forfeited under this subchapter the Attorney General may—
 
-&emsp;(A) retain the property for official use or, in the manner provided with respect to transfersunder section 1616a of title 19, transfer the property to any Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
+&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
 
 &emsp;(B) except as provided in paragraph (4), sell, by public sale or any other commercially feasible means, any forfeited property which is not required to be destroyed by law and which is not harmful to the public;
 
@@ -98,7 +98,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (1) All species of plants from which controlled substances in schedules I and II may be derived which have been planted or cultivated in violation of this subchapter, or of which the owners or cultivators are unknown, or which are wild growths, may be seized and summarily forfeited to the United States.
 
-(2) The failure, upon demand by the Attorney General or his duly authorized agent, of the person in occupancy or in control of land or premises upon which such species of plants are growing or being stored, to produce an appropriateregistration, or proof that he is the holder thereof, shall constitute authority for the seizure and forfeiture.
+(2) The failure, upon demand by the Attorney General or his duly authorized agent, of the person in occupancy or in control of land or premises upon which such species of plants are growing or being stored, to produce an appropriate registration, or proof that he is the holder thereof, shall constitute authority for the seizure and forfeiture.
 
 (3) The Attorney General, or his duly authorized agent, shall have authority to enter upon any lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
 
@@ -119,6 +119,8 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
 (Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -216,6 +218,8 @@ Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
 Subsec. (e). Pub. L. 95–633, §301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale and inserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
@@ -229,10 +233,6 @@ Pub. L. 101–189, div. A, title XII, §1215(b), Nov. 29, 1989, 103 Stat. 1569, 
 Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
 Pub. L. 100–690, title VI, §6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: "Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991."
-
-#### Transfer of Functions
-
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 #### Constructive Seizure Procedures
 
@@ -270,11 +270,17 @@ Notice.—At the time of seizure or upon issuance of a summons to appear under s
 
 "(d)
 
-Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—Not later than 90 days after the enactment of this Act \[Nov. 18, 1988\], the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall prescribe joint regulations, after a public comment period of at least 30 days, providing for issuance of a summons to appear in lieu of seizure of a commercial fishing industry vessel as defined in section 2101(11a), (11b), and (11c) \[now 2101(12), (13), and (14)\] of title 46, United States Code, for violations involving the possession of personal use quantities of a controlled substance. These regulations shall apply when the violation is committed on a commercial fishing industry vessel that is proceeding to or from a fishing area or intermediate port of call, or is actively engaged in fishing operations. The authority provided under this section shall not affect existing authority to arrest an individual for drug-related offenses or to release that individual into the custody of the vessel's master. Upon answering a summons to appear, the procedures set forth in subsections (a), (b), and (c) of this section shall apply. The jurisdiction of the district court for any forfeiture incurred shall not be affected by the use of a summons under this section.
+Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—Not later than 90 days after the enactment of this Act \[Nov. 18, 1988\], the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall prescribe joint regulations, after a public comment period of at least 30 days, providing for issuance of a summons to appear in lieu of seizure of a commercial fishing industry vessel as defined in section 2101(11a), (11b), and (11c) \[now 2101(12), (13), and (14)\] of title 46, United States Code,for violations involving the possession of personal use quantities of a controlled substance. These regulations shall apply when the violation is committed on a commercial fishing industry vessel that is proceeding to or from a fishing area or intermediate port of call, or is actively engaged in fishing operations. The authority provided under this section shall not affect existing authority to arrest an individual for drug-related offenses or to release that individual into the custody of the vessel's master. Upon answering a summons to appear, the procedures set forth in subsections (a), (b), and (c) of this section shall apply. The jurisdiction of the district court for any forfeiture incurred shall not be affected by the use of a summons under this section.
 
 "(e)
 
 Personal Use Quantities of a Controlled Substance.—For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (k) has been enacted.</i>
 

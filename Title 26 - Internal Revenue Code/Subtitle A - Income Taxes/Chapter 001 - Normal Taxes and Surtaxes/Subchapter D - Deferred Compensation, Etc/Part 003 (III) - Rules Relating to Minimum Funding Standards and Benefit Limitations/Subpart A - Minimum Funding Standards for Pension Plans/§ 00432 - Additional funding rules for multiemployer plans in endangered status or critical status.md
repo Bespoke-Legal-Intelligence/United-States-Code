@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;Notwithstanding paragraph (2) and subject to paragraph (3)(B)(iv)—
 
-&emsp;&emsp;(A) the plan sponsor of a multiemployer plan that is not in critical status for a plan year but that is projected by the plan actuary, pursuant to the determination under paragraph (3), to be in critical status in any of the succeeding 5 plan years may, not later than 30 days after the date of the certification under paragraph (3)(A), elect to be in critical status effective for the current plan year,
+&emsp;&emsp;(A) the plan sponsor of a multiemployer plan that is not in critical status for a plan year but that is projected by the plan actuary, pursuant to the determination under paragraph (3), to be in critical status in any of the succeeding 5 plan years may, not laterthan 30 days after the date of the certification under paragraph (3)(A), elect to be in critical status effective for the current plan year,
 
 &emsp;&emsp;(B) the plan year in which the plan sponsor elects to be in critical status under subparagraph (A) shall be treated for purposes of this section as the first year in which the plan is in critical status, regardless of the date on which the plan first satisfies the criteria for critical status under paragraph (2), and
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
 
-&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respectto such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
+&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
 
 > &emsp;&emsp;the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (C).
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
-> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
+> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits,and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
 
 #### (2) Exception for years after process begins
 
@@ -470,7 +470,7 @@ For purposes of this section—
 
 #### (A) Imposition of surcharge
 
-&emsp;&emsp;Each employer otherwise obligated to make a contribution for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contribution otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contribution otherwise so required.
+&emsp;&emsp;Each employer otherwise obligated to make a contribution for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contribution otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is incritical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contribution otherwise so required.
 
 #### (B) Enforcement of surcharge
 
@@ -542,7 +542,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any notice under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of theSecretary, in consultation with the Secretary of Labor,
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of the Secretary, in consultation with the Secretary of Labor,
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
@@ -678,7 +678,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities ofthe plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
+&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities of the plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
@@ -790,7 +790,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -838,7 +838,7 @@ For purposes of this section—
 
 #### (vi) Final authorization to suspend
 
-&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with thePension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
+&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
 
 #### (I) Judicial review
 
@@ -908,7 +908,7 @@ For purposes of this section—
 
 #### (3) Special rules for plan adoption period
 
-&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—
+&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) forthe initial critical year and ending on the date of the adoption of a rehabilitation plan—
 
 &emsp;&emsp;(A) the plan sponsor may not accept a collective bargaining agreement or participation agreement with respect to the multiemployer plan that provides for—
 
@@ -1044,7 +1044,7 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec.\(e)(9)(D)(vii)(III), is the date of enactment of div. O of Pub. L. 113–235, which was approved Dec. 16, 2014.
+The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of div. O of Pub. L. 113–235, which was approved Dec. 16, 2014.
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to section 430 of Title 42, The Public Health and Welfare.
 
@@ -1132,7 +1132,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(i), substituted "sectio
 
 Subsec. (c)(7)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(ii)(I), substituted "to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor," for "to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,".
 
-Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B). Prior to amendment, text read as follows: "The date specified in this subparagraph is the earlier of the date—
+Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B). Prior to amendment, text read as follows: "The datespecified in this subparagraph is the earlier of the date—
 
 &emsp;"(i) on which the Secretary of Labor certifies that the parties are at an impasse, or
 

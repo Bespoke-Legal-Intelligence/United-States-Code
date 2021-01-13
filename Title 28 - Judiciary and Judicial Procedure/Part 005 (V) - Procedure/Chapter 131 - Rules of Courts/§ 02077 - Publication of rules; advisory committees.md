@@ -6,11 +6,15 @@
 
 (Added Pub. L. 97–164, title II, §208(a), Apr. 2, 1982, 96 Stat. 54; amended Pub. L. 100–702, title IV, §401(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 101–650, title IV, §406, Dec. 1, 1990, 104 Stat. 5124.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–650 inserted before period at end of first sentence "and, in the case of an advisory committee appointed by a court of appeals, of the rules of the judicial council of the circuit".
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–702 substituted "Each court, except the Supreme Court, that is authorized to prescribe rules of the conduct of such court's business under section 2071 of this title shall appoint" for "Each court of appeals shall appoint" and "such court" for "the court of appeals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 Pub. L. 98–577, title V, §502, Oct. 30, 1984, 98 Stat. 3085.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Small Business and Federal Procurement Competition Enhancement Act of 1984, referred to in text, is Pub. L. 98–577, Oct. 30, 1984, 98 Stat. 3066. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of this title and Tables.

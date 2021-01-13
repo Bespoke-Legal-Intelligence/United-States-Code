@@ -6,7 +6,7 @@ In this subchapter:
 
 &emsp;(2) The term "medication-assisted treatment" means the use of medications approved by the Food and Drug Administration for the treatment of opioid abuse.
 
-&emsp;(3) The term "opioid" means any drug, including heroin, having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+&emsp;(3) The term "opioid" means any drug, including heroin, having an addiction-forming oraddiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
 
 &emsp;(4) The term "schedule II, III, or IV controlled substance" means a controlled substance that is listed on schedule II, schedule III, or schedule IV of section 812(c) of title 21.
 
@@ -29,6 +29,8 @@ In this subchapter:
 &emsp;(8) The term "State substance abuse agency" has the meaning given that term in section 290bb–1(r)(6) of title 42.
 
 (Pub. L. 90–351, title I, §3025, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 713.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

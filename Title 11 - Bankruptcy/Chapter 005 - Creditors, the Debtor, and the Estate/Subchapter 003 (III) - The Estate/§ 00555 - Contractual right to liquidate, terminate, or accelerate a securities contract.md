@@ -4,13 +4,15 @@ The exercise of a contractual right of a stockbroker, financial institution, fin
 
 (Added Pub. L. 97–222, §6(a), July 27, 1982, 96 Stat. 236; amended Pub. L. 98–353, title III, §469, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title V, §501(b)(6), (d)(20), Oct. 22, 1994, 108 Stat. 4143, 4146; Pub. L. 109–8, title IX, §907(g), (o)(7), Apr. 20, 2005, 119 Stat. 177, 182.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Pub. L. 109–8, §907(g)(2), (o)(7), in first sentence, inserted "financial par
 <b>1994</b>—Pub. L. 103–394 substituted "section 741 of this title" for "section 741(7)" and struck out "(15 U.S.C. 78aaa et seq.)" after "Act of 1970".
 
 <b>1984</b>—Pub. L. 98–353 inserted ", financial institution," after "stockbroker".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

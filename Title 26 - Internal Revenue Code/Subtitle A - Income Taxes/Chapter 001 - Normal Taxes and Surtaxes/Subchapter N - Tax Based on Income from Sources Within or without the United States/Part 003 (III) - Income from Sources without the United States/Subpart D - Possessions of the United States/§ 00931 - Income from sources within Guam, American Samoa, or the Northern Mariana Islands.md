@@ -26,7 +26,7 @@ For purposes of this section, the term "specified possession" means Guam, Americ
 
 Amounts paid for services performed as an employee of the United States (or any agency thereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII, §1272(a), Oct. 22, 1986, 100 Stat. 2593; Pub. L. 108–357, title VIII, §908(c)(1), Oct. 22, 2004, 118 Stat. 1656.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII,§1272(a), Oct. 22, 1986, 100 Stat. 2593; Pub. L. 108–357, title VIII, §908(c)(1), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Definitions and Special Rules.—
 
 &emsp;"(1)
 
-Implementation year.—For purposes of this section, the term "implementation year" means the 1st fiscal year of the possession in which the tax laws authorized by subsection (a) take effect.
+Implementation year.—For purposes of this section, the term 'implementation year' means the 1st fiscal year of the possession in which the tax laws authorized by subsection (a) take effect.
 
 &emsp;"(2)
 

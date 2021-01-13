@@ -30,7 +30,7 @@ It is the sense of the Congress that the President, in providing assistance to i
 
 &emsp;(2) seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
 
-&emsp;(3) utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, whichmay include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
+&emsp;(3) utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
 
 (Pub. L. 114–195, §3, July 20, 2016, 130 Stat. 676.)
 

@@ -24,7 +24,7 @@ Pub. L. 89–793, §1, Nov. 8, 1966, 80 Stat. 1438, provided: "That titles I, II
 
 #### Separability
 
-Pub. L. 89–793, title VI, §604, Nov. 8, 1966, 80 Stat. 1450, provided that: "If any provision of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] or the application thereof to any personor circumstance is held invalid, the remainder of the Act and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
+Pub. L. 89–793, title VI, §604, Nov. 8, 1966, 80 Stat. 1450, provided that: "If any provision of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18,Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
 
 #### Authorization of Appropriations
 

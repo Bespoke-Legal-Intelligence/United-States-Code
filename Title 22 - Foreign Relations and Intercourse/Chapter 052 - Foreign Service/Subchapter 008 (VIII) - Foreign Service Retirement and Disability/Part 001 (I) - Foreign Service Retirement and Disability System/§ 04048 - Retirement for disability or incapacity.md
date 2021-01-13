@@ -2,7 +2,7 @@
 
 #### (a) Causes; service credit
 
-Any participant who has at least 5 years of service credit toward retirement under the System (excluding military and naval service) and who becomes totally disabled or incapacitated for useful and efficient service by reason of disease, illness, or injury (not due to vicious habits, intemperance, or willful conduct of the participant) shall, upon his or her own application or upon order of the Secretary, be retired on anannuity computed as prescribed in section 4046 of this title. If the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the System at the time of retirement, his or her annuity shall be computed on the assumption that the participant has had 20 years of service, except that the additional service credit that may accrue to a participant under this sentence shall in no case exceed the difference between his or her age at the time of retirement and age 60.
+Any participant who has at least 5 years of service credit toward retirement under the System (excluding military and naval service) and who becomes totally disabled or incapacitated for useful and efficient service by reason of disease, illness, or injury (not due to vicious habits, intemperance, or willful conduct of the participant) shall, upon his or her own application or upon order of the Secretary, be retired on an annuity computed as prescribed in section 4046 of this title. If the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the System at the time of retirement, his or her annuity shall be computed on the assumption that the participant has had 20 years of service, except that the additional service credit that may accrue to a participant under this sentence shall in no case exceed the difference between his or her age at the time of retirement and age 60.
 
 However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of title 5) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this part excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5 or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this part in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this part.
 
@@ -26,13 +26,15 @@ Notwithstanding any other law, the right of any individual entitled to an annuit
 
 &emsp;(2) authorize the deduction of such amount from the annuity payable under this part, which amount shall be transmitted to the Department of Labor for reimbursement to such Fund.
 
-> Deductions from such annuity may be made from accrued and accruing payments, or may be prorated against and paid from accruing payments in such manner as the Secretary of Labor shall determine, whenever the Secretary ofLabor finds that the financial circumstances of the annuitant warrant deferred refunding.
+> Deductions from such annuity may be made from accrued and accruing payments, or may be prorated against and paid from accruing payments in such manner as the Secretary of Labor shall determine, whenever the Secretary of Labor finds that the financial circumstances of the annuitant warrant deferred refunding.
 
 #### (f) Time of filing application; waiver
 
 A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
 (Pub. L. 96–465, title I, §808, Oct. 17, 1980, 94 Stat. 2110; Ex. Ord. No. 12289, §2, Feb. 14, 1981, 46 F.R. 12693; Pub. L. 99–335, title IV, §402(a)(2), (b), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §215(a), Jan. 8, 1988, 101 Stat. 1774; Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Subsec. (d). Pub. L. 99–335, §402(b)(1), substituted "subchapter I of such ch
 Subsec. (e). Pub. L. 99–335, §402(b)(2), substituted "part" for "chapter" in two places.
 
 <b>1981</b>—Subsec. (a). Ex. Ord. No. 12289 added second par. relating to computation of annuity for participant retiring under this section and receiving retired or retainer pay.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

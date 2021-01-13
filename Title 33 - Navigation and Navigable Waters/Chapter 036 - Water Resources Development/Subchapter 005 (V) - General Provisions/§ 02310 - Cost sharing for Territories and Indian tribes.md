@@ -10,11 +10,15 @@ The Secretary shall waive local cost-sharing requirements up to $200,000 for all
 
 #### (b) Inflation adjustment
 
-The Secretary shall adjust the dollar amount specified in subsection (a) for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018.
+The Secretary shall adjust the dollar amount specified in subsection (a) on an annual basis for inflation.
 
-(Pub. L. 99–662, title XI, §1156, Nov. 17, 1986, 100 Stat. 4256; Pub. L. 113–121, title I, §1032, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1119, Dec. 16, 2016, 130 Stat. 1643; Pub. L. 115–270, title I, §§1155(a), 1156, Oct. 23, 2018, 132 Stat. 3793.)
+(Pub. L. 99–662, title XI, §1156, Nov. 17, 1986, 100 Stat. 4256; Pub. L. 113–121, title I, §1032, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1119, Dec. 16, 2016, 130 Stat. 1643; Pub. L. 115–270, title I, §§1155(a), 1156, Oct. 23, 2018, 132 Stat. 3793; Pub. L. 116–260, div. AA, title I, §135, Dec. 27, 2020, 134 Stat. 2649.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260 substituted "on an annual basis for inflation." for "for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018."
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–270, §1155(a), substituted "or tribal organization (as those terms are defined in section 5304 of title 25)." for "(as defined in section 5130 of title 25)."
 
@@ -25,6 +29,8 @@ Subsec. (b). Pub. L. 115–270, §1156, substituted "October 23, 2018" for "June
 Subsec. (a). Pub. L. 114–322, §1119(2), inserted dash after "projects" and par. (1) designation before "in American" and added par. (2).
 
 <b>2014</b>—Pub. L. 113–121 designated existing provisions as subsec. (a) and inserted heading, inserted "Puerto Rico," before "and the Trust Territory of the Pacific Islands", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

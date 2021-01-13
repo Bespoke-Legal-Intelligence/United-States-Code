@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (1) Centers
 
-&emsp;The Secretary may make grants to public and nonprofit private entities for projects toplan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
+&emsp;The Secretary may make grants to public and nonprofit private entities for projects to plan and develop health centers which will serve medically underserved populations. Aproject for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
 
 &emsp;&emsp;(A) an assessment of the need that the population proposed to be served by the health center for which the project is undertaken has for required primary health services and additional health services;
 
@@ -182,9 +182,11 @@ For purposes of this section:
 
 &emsp;&emsp;(E) expanding the use of telehealth and technology-enabled collaborative learning and capacity building models;
 
-&emsp;&emsp;(F) care integration, including integration of behavioral health, mental health, or substance use disorder services; and
+&emsp;&emsp;(F) care integration, including integration of behavioral health, mental health, or substance use disorder services;
 
-&emsp;&emsp;(G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center.
+&emsp;&emsp;(G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center; and
+
+&emsp;&emsp;(H) improving access to recommended immunizations.
 
 #### (2) Sustainability
 
@@ -696,7 +698,11 @@ In making grants under this section, the Secretary shall give special considerat
 
 &emsp;In addition to any amounts made available pursuant to paragraph (1) of this subsection, section 282a of this title, or section 254b–2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title.
 
-(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283.)
+#### (6) Additional amounts for supplemental awards
+
+&emsp;In addition to any amounts made available pursuant to this subsection, section 282a of this title, or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
+
+(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925.)
 
 #### References in Text
 
@@ -717,6 +723,10 @@ Another prior section 254b, act July 1, 1944, ch. 373, title III, §329, as adde
 A prior section 330 of act July 1, 1944, was classified to section 254c of this title prior to the general amendment of this subpart by Pub. L. 104–299.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(1)(H). Pub. L. 116–260 added subpar. (H).
+
+Subsec. (r)(6). Pub. L. 116–136 added par. (6).
 
 <b>2018</b>—Subsec. (b)(1)(A)(ii), (2)(A). Pub. L. 115–123, §50901(b)(1), (2), substituted "use disorder" for "abuse".
 
@@ -1030,7 +1040,7 @@ Content.—In conducting the study under subparagraph (A), the Comptroller Gener
 
 &emsp;&emsp;"(ii) any cost savings to other Federal programs derived from providing health services in school-based health centers;
 
-&emsp;&emsp;"(iii) the effect on the Federal Budget and the health of students of providing Federal funds toschool-based health centers and clinics, including the result of providing disease prevention and nutrition information;
+&emsp;&emsp;"(iii) the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information;
 
 &emsp;&emsp;"(iv) the impact of access to health care from school-based health centers in rural or underserved areas; and
 
@@ -1080,7 +1090,7 @@ Dissemination.—The Administrator of the Health Resources and Services Administ
 
 #### Guarantee Study
 
-Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: "The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[42 U.S.C. 254b\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 \[Oct. 26, 2002\]."
+Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, required the Secretary of Health and Human Services to conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under this section and to prepare and submit a report to Congress regarding such ability by 2 years after Oct. 26, 2002.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
@@ -1089,6 +1099,40 @@ Pub. L. 104–299, §4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: "Whenev
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299
 
 Pub. L. 104–299, §4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: "After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\]."
+
+#### Ex. Ord. No. 13937. Access to Affordable Life-Saving Medications
+
+Ex. Ord. No. 13937, July 24, 2020, 85 F.R. 45755, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Insulin is a critical and life-saving medication that approximately 8 million Americans rely on to manage diabetes. Likewise, injectable epinephrine is a life-saving medication used to stop severe allergic reactions.
+
+The price of insulin in the United States has risen dramatically over the past decade. The list price for a single vial of insulin today is often more than $250 and most patients use at least two vials per month. As for injectable epinephrine, recent increased competition is helping to drive prices down. Nevertheless, the price for some types of injectable epinephrine remains more than $600 per kit. While Americans with diabetes and severe allergic reactions may have access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs such as Medicare and Medicaid, many Americans still struggle to purchase these products.
+
+Federally Qualified Health Centers (FQHCs), as defined in section 1905(l)(2)(B)(i) and (ii) of the Social Security Act, as amended, 42 U.S.C. 1396d(l)(2)(B)(i) and\(ii), receive discounted prices through the 340B Prescription Drug Program on prescription drugs. Due to the sharp increases in list prices for many insulins and some types of injectable epinephrine in recent years, many of these products may be subject to the "penny pricing" policy when distributed to FQHCs, meaning FQHCs may purchase the drug at a price of one penny per unit of measure. These steep discounts, however, are not always passed through to low-income Americans at the point of sale. Those with low-incomes can be exposed to high insulin and injectable epinephrine prices, as they often do not benefit from discounts negotiated by insurers or the Federal or State governments.
+
+Sec. 2. <i>Policy</i>. It is the policy of the United States to enable Americans without access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs, such as Medicare and Medicaid, to purchase these pharmaceuticals from an FQHC at a price that aligns with the cost at which the FQHC acquired the medication.
+
+Sec. 3. <i>Improving the Availability of Insulin and Injectable Epinephrine for the Uninsured</i>. To the extent permitted by law, the Secretary of Health and Human Services shall take action to ensure future grants available under section 330(e) of the Public Health Service Act, as amended, 42 U.S.C. 254b(e), are conditioned upon FQHCs' having established practices to make insulin and injectable epinephrine available at the discounted price paid by the FQHC grantee or sub-grantee under the 340B Prescription Drug Program (plus a minimal administration fee) to individuals with low incomes, as determined by the Secretary, who:
+
+(a) have a high cost sharing requirement for either insulin or injectable epinephrine;
+
+(b) have a high unmet deductible; or
+
+(c) have no health care insurance.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers
 
@@ -1102,7 +1146,7 @@ The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided $2 bi
 
 One of the key benefits health centers provide to the communities they serve is quality primary health care services. Health centers use interdisciplinary teams to treat the "whole patient" and focus on chronic disease management to reduce the use of costlier providers of care, such as emergency rooms and hospitals.
 
-Federally qualified health centers provide an excellent environment to demonstrate the further improvements to health care that may be offered by the medical homes approach. In general, this approach emphasizes the patient's relationship with a primary careprovider who coordinates the patient's care and serves as the patient's principal point of contact for care. The medical homes approach also emphasizes activities related to quality improvement, access to care, communication with patients, and care management and coordination. These activities are expected to improve the quality and efficiency of care and to help avoid preventable emergency and inpatient hospital care. Demonstration programs establishing the medical homes approach have been recommended by the Medicare Payment Advisory Commission, an independent advisory body to the Congress.
+Federally qualified health centers provide an excellent environment to demonstrate the further improvements to health care that may be offered by the medical homes approach. In general, this approach emphasizes the patient's relationship with a primary care provider who coordinates the patient's care and serves as the patient's principal point of contact for care. The medical homes approach also emphasizes activities related to quality improvement, access to care, communication with patients, and care management and coordination. These activities are expected to improve the quality and efficiency of care and to help avoid preventable emergency and inpatient hospital care. Demonstration programs establishing the medical homes approach have been recommended by the Medicare Payment Advisory Commission, an independent advisory body to the Congress.
 
 Therefore, I direct you to implement a Medicare Federally Qualified Health Center Advanced Primary Care Practice demonstration, pursuant to your statutory authority to conduct experiments and demonstrations on changes in payments and services that may improve the quality and efficiency of services to beneficiaries. Health centers participating in this demonstration must have shown their ability to provide comprehensive, coordinated, integrated, and accessible health care.
 

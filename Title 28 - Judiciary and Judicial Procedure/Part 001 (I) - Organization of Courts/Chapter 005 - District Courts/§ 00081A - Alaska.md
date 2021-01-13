@@ -6,9 +6,13 @@ Alaska constitutes one judicial district.
 
 (Added Pub. L. 85–508, §12(b), July 7, 1958, 72 Stat. 348; amended Pub. L. 86–70, §23(b), June 25, 1959, 73 Stat. 147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1959</b>—Pub. L. 86–70 inserted "Ketchikan,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1959 Amendment
 
@@ -22,7 +26,7 @@ Pub. L. 85–508, §13, July 7, 1958, 72 Stat. 349, provided that: "No writ, act
 
 #### Appeals
 
-Pub. L. 85–508, §14, July 7, 1958, 72 Stat. 349, provided that: "All appeals taken from the District Court for the Territory of Alaska to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit, previous to the admission of Alaska as a State, shall be prosecuted to final determination as though this Act had not been passed. All cases in which final judgement has been rendered in such district court, and in which appeals might be had except for the admission of such State, may still be sued out, taken, and prosecuted to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit under the provisions of then existing law, and there held and determined in like manner; and in either case, the Supreme Court of the United States, or the United States Court of Appeals, in the event of reversal, shall remand the said cause to either the State supreme court or other final appellate court of said State, or the United States district court for said district, as the case may require: <i>Provided</i>, That the time allowed by existing law for appeals from the district court for said Territory shall not be enlarged thereby."
+Pub. L. 85–508, §14, July 7, 1958, 72 Stat. 349, provided that: "All appeals taken from the District Court for the Territory of Alaska to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit, previous to the admission of Alaska as a State, shall be prosecuted to final determination as though this Act had not been passed. All cases in which final judgement has been rendered in such district court, and in which appeals might be had except for the admission of such State, may still be sued out, taken, and prosecuted to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit under the provisions of then existing law, and there held and determined in like manner; and in either case, the Supreme Court of the United States, or the United States Court of Appeals, in the event of reversal, shall remand the said cause to either the Statesupreme court or other final appellate court of said State, or the United States district court for said district, as the case may require: <i>Provided</i>, That the time allowed by existing law for appeals from the district court for said Territory shall not be enlarged thereby."
 
 #### Transfer of Cases
 
@@ -43,6 +47,8 @@ Pub. L. 85–508, §18, July 7, 1958, 72 Stat. 350, provided that: "The provisio
 #### Schedule of Fees, Mileage, or Other Compensation
 
 Pub. L. 86–70, §23(c), June 25, 1959, 73 Stat. 147, provided that: "Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25) shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[this section\], providing for the admission of the State of Alaska into the Union, is established."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10867. Assumption of Functions by United States District Court for District of Alaska
 

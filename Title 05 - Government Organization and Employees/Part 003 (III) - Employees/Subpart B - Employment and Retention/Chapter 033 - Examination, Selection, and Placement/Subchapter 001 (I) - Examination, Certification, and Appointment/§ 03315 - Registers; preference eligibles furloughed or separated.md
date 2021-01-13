@@ -32,11 +32,15 @@ In subsection (a), the term "Executive agency" is substituted for "any agency or
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

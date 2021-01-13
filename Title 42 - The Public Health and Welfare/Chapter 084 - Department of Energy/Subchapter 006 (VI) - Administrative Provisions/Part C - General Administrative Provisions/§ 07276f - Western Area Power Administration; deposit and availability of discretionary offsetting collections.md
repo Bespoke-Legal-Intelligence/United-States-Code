@@ -8,7 +8,7 @@ Notwithstanding section 3302 of title 31, section 825s of title 16, and section 
 
 "This account" and "this appropriation", referred to in text, mean funds appropriated under the heading "
 
-Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration" oftitle III of the Energy and Water Development and Related Agencies Appropriations Act, 2010, Pub. L. 111–85.
+Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration" of title III of the Energy and Water Development and Related Agencies Appropriations Act, 2010, Pub. L. 111–85.
 
 #### Codification
 

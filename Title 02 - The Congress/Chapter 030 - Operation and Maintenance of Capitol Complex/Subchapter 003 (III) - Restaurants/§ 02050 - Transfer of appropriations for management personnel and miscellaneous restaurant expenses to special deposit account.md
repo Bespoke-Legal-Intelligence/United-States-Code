@@ -4,6 +4,8 @@ Appropriations under this heading for management personnel and miscellaneous res
 
 (Pub. L. 105–55, title I, Oct. 7, 1997, 111 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Appropriations under this heading, referred to in text, probably means appropriations under the headings "ARCHITECT OF THE CAPITOL", "

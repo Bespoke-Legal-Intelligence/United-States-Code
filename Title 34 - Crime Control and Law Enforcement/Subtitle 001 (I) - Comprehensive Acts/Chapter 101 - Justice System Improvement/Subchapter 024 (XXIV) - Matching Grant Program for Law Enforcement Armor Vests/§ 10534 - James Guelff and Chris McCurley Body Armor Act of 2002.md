@@ -44,7 +44,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Pursuant to its authority under section 994(p) of title 28, the United States Sentencing Commission shall review and amend the Federal sentencing guidelines and the policy statements of the Commission, as appropriate, to provide an appropriate sentencing enhancement for any crime of violence (as defined in section 16 of title 18) or drug trafficking crime (as defined in section 924(c) of title 18) (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) in which the defendant used body armor.
+&emsp;Pursuant to its authority under section 994(p) of title 28, the United States SentencingCommission shall review and amend the Federal sentencing guidelines and the policy statements of the Commission, as appropriate, to provide an appropriate sentencing enhancement for any crime of violence (as defined in section 16 of title 18) or drug trafficking crime (as defined in section 924(c) of title 18) (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) in which the defendant used body armor.
 
 #### (2) Sense of Congress
 
@@ -102,6 +102,8 @@ In this section:
 
 (Pub. L. 107–273, div. C, title I, §11009, Nov. 2, 2002, 116 Stat. 1819; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 11009 of Pub. L. 107–273. Subsec. (e) of section 11009 of Pub. L. 107–273 enacted section 931 of Title 18, Crimes and Criminal Procedure, and amended sections 921 and 924 of Title 18.
@@ -111,6 +113,8 @@ Section was enacted as part of the 21st Century Department of Justice Appropriat
 In subsec. (f), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)" in par. (1), and "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)" in par. (2), on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was formerly classified to section 3796ll–3 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -122,7 +126,7 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -50,7 +50,7 @@ Claims pursuant to this section shall be payable out of funds appropriated under
 
 &emsp;&emsp;&emsp;(ii) administrative costs may be awarded only if incurred on or after the date that the bankruptcy petition is filed.
 
-(Added Pub. L. 100–647, title VI, §6241(a), Nov. 10, 1988, 102 Stat. 3747; amended Pub. L. 104–168, titleVIII, §§801(a), 802(a), July 30, 1996, 110 Stat. 1465; Pub. L. 105–206, title III, §3102(a), (c), July 22, 1998, 112 Stat. 730.)
+(Added Pub. L. 100–647, title VI, §6241(a), Nov. 10, 1988, 102 Stat. 3747; amended Pub. L. 104–168, title VIII, §§801(a), 802(a), July 30, 1996, 110 Stat. 1465; Pub. L. 105–206, title III, §3102(a), (c), July 22, 1998, 112 Stat. 730.)
 
 #### Prior Provisions
 

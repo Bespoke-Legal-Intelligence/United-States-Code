@@ -24,7 +24,7 @@ In general.—The Secretary shall establish priority criteria for project select
 
 &emsp;&emsp;(D) public participation in determining rehabilitation or development needs;
 
-&emsp;&emsp;(E) the extent to which a project supports or complements target activities undertaken as part of a local government's overall community development and urban revitalization program;
+&emsp;&emsp;(E) the extent to which a project supports or complements target activities undertakenas part of a local government's overall community development and urban revitalization program;
 
 &emsp;&emsp;(F) the extent to which a proposed project would provide—
 
@@ -79,6 +79,8 @@ Pub. L. 95–625, title X, §1005, Nov. 10, 1978, 92 Stat. 3540; Pub. L. 103–3
 In subsection (a), the words "Within one hundred and twenty days after November 10, 1978" are omitted as obsolete.
 
 In subsection (b), the word "standard" is omitted as obsolete. The words "the Director of the Office of Management and Budget" are substituted for "census". See 31 U.S.C. 1104(d), Executive Order No. 10253 (31 U.S.C. 1104 note), and 44 U.S.C. 3504(e)(3).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

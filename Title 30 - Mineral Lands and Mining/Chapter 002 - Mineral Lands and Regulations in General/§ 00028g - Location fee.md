@@ -2,7 +2,9 @@
 
 Notwithstanding any other provision of law, for every unpatented mining claim, mill or tunnel site located after August 10, 1993, to the extent provided in advance in Appropriations Acts, pursuant to the Mining Laws of the United States, the locator shall, at the time the location notice is recorded with the Bureau of Land Management, pay to the Secretary of the Interior a location fee, in addition to the claim maintenance fee required by section 28f of this title, of $25.00 per claim.
 
-(Pub. L. 103–66, title X, §10102, Aug. 10, 1993, 107 Stat. 406; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–235; Pub. L. 107–63, title I, (2), Nov. 5, 2001, 115 Stat. 419; Pub. L. 108–108, title I, (2), Nov. 10, 2003, 117 Stat. 1245;Pub. L. 110–161, div. F, title I, (3), Dec. 26, 2007, 121 Stat. 2101; Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 704; Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2907.)
+(Pub. L. 103–66, title X, §10102, Aug. 10, 1993, 107 Stat. 406; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–235; Pub. L. 107–63, title I, (2), Nov. 5, 2001, 115 Stat. 419; Pub. L. 108–108, title I, (2), Nov. 10, 2003, 117 Stat. 1245; Pub. L. 110–161, div. F, title I, (3), Dec. 26, 2007, 121 Stat. 2101; Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 704; Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2907.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -29,6 +31,8 @@ Pub. L. 111–8, which directed the removal of the modifications made by Pub. L.
 <b>2001</b>—Pub. L. 107–63 substituted "2003" for "2001". See Codification note above.
 
 <b>1998</b>—Pub. L. 105–277 substituted "2001" for "1998". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

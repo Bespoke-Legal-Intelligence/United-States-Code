@@ -1,6 +1,6 @@
 ### §1430. Married persons and employees of certain nonprofit organizations
 
-(a) Any person whose spouse is a citizen of the United States, or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty, may benaturalized upon compliance with all the requirements of this subchapter except the provisions of paragraph (1) of section 1427(a) of this title if such person immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least three years, and during the three years immediately preceding the date of filing his application has been living in marital union with the citizen spouse (except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent), who has been a United States citizen during all of such period, and has been physically present in the United States for periods totaling at least half of that time and has resided within the State or the district of the Service in the United States in which the applicant filed his application for at least three months.
+(a) Any person whose spouse is a citizen of the United States, or any person who obtainedstatus as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty, may be naturalized upon compliance with all the requirements of this subchapter except the provisions of paragraph (1) of section 1427(a) of this title if such person immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least three years, and during the three years immediately preceding the date of filing his application has been living in marital union with the citizen spouse (except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent), who has been a United States citizen during all of such period, and has been physically present in the United States for periods totaling at least half of that time and has resided within the State or the district of the Service in the United States in which the applicant filed his application for at least three months.
 
 (b) Any person, (1) whose spouse is (A) a citizen of the United States, (B) in the employment of the Government of the United States, or of an American institution of research recognized as such by the Attorney General, or of an American firm or corporation engaged in whole or in part in the development of foreign trade and commerce of the United States, or a subsidiary thereof, or of a public international organization in which the United States participates by treaty or statute, or is authorized to perform the ministerial or priestly functions of a religious denomination having a bona fide organization within the United States, or is engaged solely as a missionary by a religious denomination or by an interdenominational mission organization having a bona fide organization within the United States, and (C) regularly stationed abroad in such employment, and (2) who is in the United States at the time of naturalization, and (3) who declares before the Attorney General in good faith an intention to take up residence within the United States immediately upon the termination of such employment abroad of the citizen spouse, may be naturalized upon compliance with all the requirements of the naturalization laws, except that no prior residence or specified period of physical presence within the United States or within a State or a district of the Service in the United States or proof thereof shall be required.
 
@@ -18,6 +18,8 @@
 
 (June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72 Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 106–386, div. B, title V, §1503(e), Oct. 28, 2000, 114 Stat. 1522; Pub. L. 108–136, div. A, title XVII, §1703(f)(1), (h), Nov. 24, 2003, 117 Stat. 1695, 1696; Pub. L. 110–181, div. A, title VI, §674(a), Jan. 28, 2008, 122 Stat. 185.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
@@ -26,7 +28,7 @@
 
 Pub. L. 108–136, §1703(f)(1), inserted at end "For purposes of this subsection, the terms 'United States citizen' and 'citizen spouse' include a person granted posthumous citizenship under section 1440–1 of this title."
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–386 inserted ", or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty," after "citizen of the United States" and "(except in the case of a person who has been battered or subjected to extremecruelty by a United States citizen spouse or parent)" after "has been living in marital union with the citizen spouse".
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 inserted ", or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty," after "citizen of the United States" and "(except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent)" after "has been living in marital union with the citizen spouse".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(5), substituted "application" for "petition" wherever appearing.
 
@@ -49,6 +51,8 @@ Subsec. (d). Pub. L. 101–649, §407(b)(1)(B), substituted "within a State or a
 <b>1967</b>—Subsec. (c). Pub. L. 90–215 added subsec. (c).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–697 inserted provision relating to persons performing religious duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

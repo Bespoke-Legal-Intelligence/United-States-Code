@@ -10,7 +10,7 @@ Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected
 
 Termination of Eligibility Upon Termination of Service.—(1) Except as provided in paragraph (2), eligibility for TRICARE Reserve Select coverage of a member under this section shall terminate upon the termination of the member's service in the Selected Reserve.
 
-(2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall terminate 180 days after the date on which the member is separated.
+(2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretaryconcerned, shall terminate 180 days after the date on which the member is separated.
 
 (c)
 
@@ -74,7 +74,7 @@ Subsec. (f)(2). Pub. L. 114–328, §701(j)(1)(B)(ii), added par. (2) and struck
 
 Pub. L. 110–181 substituted "September 30, 2008" for "September 30, 2007".
 
-<b>2006</b>—Pub. L. 109–364, §706(c)(2), substituted "TRICARE standard coverage for members of the Selected Reserve" for "coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in section catchline.
+<b>2006</b>—Pub. L. 109–364, §706(c)(2), substituted "TRICARE standard coverage for members of the Selected Reserve" for "coverage for members of reservecomponents who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in section catchline.
 
 Pub. L. 109–163, §701(f)(1), substituted "active duty in support of a contingency operation" for "active duty" in section catchline.
 
@@ -124,7 +124,7 @@ Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, p
 
 Pub. L. 109–364, div. A, title VII, §706(f), Oct. 17, 2006, 120 Stat. 2282, as amended by Pub. L. 110–181, div. A, title VII, §706(a), Jan. 28, 2008, 122 Stat. 189, provided that:
 
-"(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\]under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
+"(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\] under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
 
 "(2) The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) \[set out as an Effective Date of 2006 Amendment note above\] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006."
 
@@ -262,7 +262,7 @@ Premium amount.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The annual premium calculated under this subparagraph is an amountequal to 28 percent of the total annual amount of a premium under the health benefits plan selected.
+In general.—The annual premium calculated under this subparagraph is an amount equal to 28 percent of the total annual amount of a premium under the health benefits plan selected.
 
 &emsp;&emsp;&emsp;"(ii)
 

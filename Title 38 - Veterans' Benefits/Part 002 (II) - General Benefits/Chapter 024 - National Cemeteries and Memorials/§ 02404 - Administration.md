@@ -34,13 +34,15 @@
 
 &emsp;(C) during such interment or funeral, memorial service, or ceremony, the family of the deceased veteran may display any religious or other symbols chosen by the family.
 
-(2) Subject to regulations prescribed by the Secretary under paragraph (4), including suchregulations ensuring the security of a national cemetery, the Secretary shall, to the maximum extent practicable, provide to any military or volunteer veterans honor guard, including such guards belonging to a veterans service organization or other nongovernmental group that provides services to veterans, access to public areas of a national cemetery if such access is requested by the next of kin or other agent of a deceased veteran whose interment or funeral, memorial service, or ceremony is being held in such cemetery.
+(2) Subject to regulations prescribed by the Secretary under paragraph (4), including such regulations ensuring the security of a national cemetery, the Secretary shall, to the maximum extent practicable, provide to any military or volunteer veterans honor guard, including such guards belonging to a veterans service organization or other nongovernmental group that provides services to veterans, access to public areas of a national cemetery if such access is requested by the next of kin or other agent of a deceased veteran whose interment or funeral, memorial service, or ceremony is being held in such cemetery.
 
 (3) With respect to the interment or funeral, memorial service, or ceremony of a deceased veteran at a national cemetery, the Secretary shall notify the next of kin or other agent of the deceased veteran of funeral honors available to the deceased veteran, including such honors provided by any military or volunteer veterans honor guard described in paragraph (2).
 
 (4) The Secretary shall prescribe regulations to carry out this subsection.
 
 (Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -70,6 +72,8 @@ Subsec. (d). Pub. L. 99–576, §701(55)(A), substituted "the veteran" for "he".
 
 Subsecs. (e), (g). Pub. L. 99–576, §701(55)(B), (C), substituted "the Administrator" and "the Administrator's" for "he" and "his", respectively, wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Pub. L. 93–43, §6, June 18, 1973, 87 Stat. 81, provided that:
@@ -86,7 +90,7 @@ Pub. L. 93–43, §6, June 18, 1973, 87 Stat. 81, provided that:
 
 "\[<i>Abatement of proceedings; proceedings against United States or officer of Veterans' Administration; judicial orders; continuation of suits by Administrator</i>\] (e) No suit, action, or other proceeding commenced by or against any officer in his official capacity as an official of the Department of the Army, the Department of the Navy, or the Department of the Air Force with respect to functions transferred under subsection (a) or (c) of this section shall abate by reason of the enactment of this section. No cause of action by or against any such department with respect to functions transferred under such subsection (a) or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this section. Causes of actions, suits, or other proceedings may be asserted by or against the United States or such officer of the Veterans' Administration as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, upon its own motion or that of any party, enter an order which will give effect to the provisions of this subsection. If before the date this section takes effect \[see note hereunder\], any such department, or officer thereof in his official capacity, is a party to a suit with respect to any function so transferred, such suit shall be continued by the Administrator of Veterans' Affairs."
 
-\[Section 6 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) ofPub. L. 93–43, set out as an Effective Date note under section 2306 of this title.\]
+\[Section 6 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as an Effective Date note under section 2306 of this title.\]
 
 \[The United States Soldiers' and Airmen's Home and the United States Naval Home were incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.\]
 

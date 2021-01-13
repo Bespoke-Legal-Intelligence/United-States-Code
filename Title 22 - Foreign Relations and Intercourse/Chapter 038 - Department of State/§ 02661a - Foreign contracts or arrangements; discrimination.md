@@ -10,6 +10,8 @@ Information should not be disseminated about opportunities for, and there should
 
 (Pub. L. 94–350, title I, §121, July 12, 1976, 90 Stat. 829; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Par. (1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.

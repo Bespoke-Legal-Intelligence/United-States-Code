@@ -4,6 +4,8 @@ In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Inte
 
 (Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996; Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418, Mar. 11, 2009, 123 Stat. 747; Pub. L. 112–74, div. E, title IV, §422, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 113–76, div. G, title IV, §430, Jan. 17, 2014, 128 Stat. 345.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2001, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
@@ -18,5 +20,5 @@ Section was formerly set out as a note under section 1701 of this title.
 
 <b>2009</b>—Pub. L. 111–8 substituted "2011" for "2008".
 
-<b>2005</b>—Pub. L. 109–54 substituted "2008" for "2005", struck out "may pilot test agency-wide joint permitting and leasing programs" before ", subject to annual review", inserted "may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federaloffices and facilities leased by an agency of either Department;" after "Congress,", inserted ", National Park Service, Fish and Wildlife Service," after "Bureau of Land Management", and inserted at end "To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds."
+<b>2005</b>—Pub. L. 109–54 substituted "2008" for "2005", struck out "may pilot test agency-wide joint permitting and leasing programs" before ", subject to annual review", inserted "may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department;" after "Congress,", inserted ", National Park Service, Fish and Wildlife Service," after "Bureau of Land Management", and inserted at end "To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds."
 

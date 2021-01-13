@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Intrusion assessments
 
-&emsp;The term "intrusion assessments" means actions taken under the intrusion assessmentplan to identify and remove intruders in agency information systems.
+&emsp;The term "intrusion assessments" means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
 
 #### (4) Intrusion assessment plan
 
@@ -99,6 +99,8 @@ Not later than 3 years after December 18, 2015, the Comptroller General of the U
 Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
 
 (Pub. L. 114–113, div. N, title II, §226, Dec. 18, 2015, 129 Stat. 2969; Pub. L. 115–278, §2(h)(1)(F), Nov. 16, 2018, 132 Stat. 4182.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

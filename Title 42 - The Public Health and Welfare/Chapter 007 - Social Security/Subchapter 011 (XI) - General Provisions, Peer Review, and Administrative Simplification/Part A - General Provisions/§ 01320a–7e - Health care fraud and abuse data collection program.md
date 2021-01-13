@@ -56,7 +56,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 #### (2) Corrections
 
-&emsp;Each Government agency and health plan shall report corrections of information already reported about any final adverse action taken against a health care provider, supplier, or practitioner, in such form and manner that the Secretary prescribes by regulation.
+&emsp;Each Government agency and health plan shall report corrections of information alreadyreported about any final adverse action taken against a health care provider, supplier, or practitioner, in such form and manner that the Secretary prescribes by regulation.
 
 #### (d) Access to reported information
 
@@ -142,7 +142,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(A), is classifi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section."
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section."
 
 Subsec. (d). Pub. L. 111–148, §6403(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 

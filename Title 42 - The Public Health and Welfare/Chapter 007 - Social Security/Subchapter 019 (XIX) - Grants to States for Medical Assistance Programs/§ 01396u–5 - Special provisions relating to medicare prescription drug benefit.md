@@ -156,7 +156,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 &emsp;&emsp;For purposes of this section, the term "full-benefit dual eligible individual" means for a State for a month an individual who—
 
-&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapterXVIII, or under an MA–PD plan under part C of such subchapter; and
+&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII, or under an MA–PD plan under part C of such subchapter; and
 
 &emsp;&emsp;&emsp;(ii) is determined eligible by the State for medical assistance for full benefits under this subchapter for such month under section 1396a(a)(10)(A) or 1396a(a)(10)(C) of this title, by reason of section 1396a(f) of this title, or under any other category of eligibility for medical assistance for full benefits under this subchapter, as determined by the Secretary.
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. Nopayment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -220,7 +220,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (4) Treatment of funding for certain fiscal years
 
-&emsp;Notwithstanding paragraph (1)(B), in the case that Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa establishes and submits to the Secretary a plan described in paragraph (2) with respect to any of fiscal years 2020 through 2021, the amount specified for such a year in paragraph (3) for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa, as the case may be, shall be taken into account in applying, as applicable,subparagraph (A)(ii), (B)(ii), (C)(ii), (D)(ii), or (E)(ii) of section 1308(g)(2) of this title for such year.
+&emsp;Notwithstanding paragraph (1)(B), in the case that Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa establishes and submits to the Secretary a plan described in paragraph (2) with respect to any of fiscal years 2020 through 2021, the amount specified for such a year in paragraph (3) for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa, as the case may be, shall be taken into account in applying, as applicable, subparagraph (A)(ii), (B)(ii), (C)(ii), (D)(ii), or (E)(ii) of section 1308(g)(2) of this title for such year.
 
 #### (5) Report
 

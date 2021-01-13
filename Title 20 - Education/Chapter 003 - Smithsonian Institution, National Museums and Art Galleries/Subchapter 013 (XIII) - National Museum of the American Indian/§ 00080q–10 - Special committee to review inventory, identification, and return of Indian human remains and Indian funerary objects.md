@@ -44,7 +44,7 @@ The Secretary shall prescribe regulations and provide administrative support for
 
 #### (f) Report and termination
 
-At the conclusion of the work of the committee, the Secretary shall be so <sup>1</sup> certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
+At the conclusion of the work of the committee, the Secretary shall be so <sup>1</sup> certify by report to the Congress. The committee shall ceaseto exist 120 days after the submission of the report.
 
 #### (g) Nonapplicability of Federal Advisory Committee Act
 

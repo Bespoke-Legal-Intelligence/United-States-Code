@@ -10,7 +10,7 @@ Transportation.—The Secretary of Transportation may waive this subchapter with
 
 (c)
 
-National Oceanic and Atmospheric Administration.—The Secretary of Commerce maywaive this subchapter with respect to contracts for the construction, alteration, or repair of vessels, regardless of the terms of the contracts as to payment or title, when the contract is made under the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a et seq.).
+National Oceanic and Atmospheric Administration.—The Secretary of Commerce may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels, regardless of the terms of the contracts as to payment or title, when the contract is made under the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149; Pub. L. 109–304, §17(g)(2), Oct. 6, 2006, 120 Stat. 1709; Pub. L. 115–91, div. C, title XXXV, §3502(b)(2), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, §3515(c), Aug. 13, 2018, 132 Stat. 2313.)
 
@@ -40,6 +40,8 @@ In subsection (a), the words "Secretary of Transportation" are substituted for "
 
 In subsection (b), the words "of any kind or nature" are omitted as unnecessary. The words "sections 1535 and 1536 of title 31" are substituted for "the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended \[31 U.S.C. 686, 686b\]" because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
@@ -51,6 +53,8 @@ An Act to define the functions and duties of the Coast and Geodetic Survey, and 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §3502(b)(2), substituted "31 or" for "31," and struck out "or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.)," after "title 46,".
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–304 substituted "subtitle V of title 46" for "the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

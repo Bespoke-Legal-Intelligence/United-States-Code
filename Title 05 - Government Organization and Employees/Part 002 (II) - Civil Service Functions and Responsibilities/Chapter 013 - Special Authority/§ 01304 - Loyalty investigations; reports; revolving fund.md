@@ -14,7 +14,7 @@
 
 (d) The investigation and report required by subsection (a) of this section shall be made by the Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
 
-(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at therequest of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
 
 (2) The capital of the fund consists of the aggregate of—
 
@@ -82,13 +82,15 @@ Apr. 5, 1952, ch. 159, §3, 66 Stat. 44.
 
 Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, and is added for clarity. In subsection (a), the reference to section 10(b)(5)(B)(i) and (B)(ii) of the Act of August 1, 1946 (60 Stat. 766) is omitted because of the amendment of the Act of April 5, 1952, by the Act of July 31, 1953, ch. 283, 67 Stat. 240, and the reenactment of the provisions of the Act of April 5, 1952, insofar as they relate to the Atomic Energy Commission as section 145 of the Atomic Energy Act of 1954 (68 Stat. 942; 42 U.S.C. 2165). The references to section 1(2) of the Act of May 22, 1947 (61 Stat. 125), section 1 of the joint resolution of May 21, 1947 (61 Stat. 125), and section 110(c) of the Act of April 3, 1948 (62 Stat. 137) are omitted as these Acts were repealed by the Act of Aug. 26, 1954, ch. 937 §542(a) (1), (2), and (4), 68 Stat. 861. Reference to section 510 of the Mutual Security Act of 1951 (65 Stat. 381) is omitted because this section was replaced by section 531 of the Mutual Security Act of 1954 (68 Stat. 859) and the latter was repealed by the Act of Sept. 4, 1961, Pub. L. 87–195, §642(2), 75 Stat. 460.
 
-In subsection (d), the references to section 10(b)(5)(B)(i) and (ii) of the Atomic Energy Act of 1946, section 510 of the Mutual Security Act of 1951, a majority of the members of the Atomic Energy Commission, and the Director of Mutual Security (which was changed to Director of the International Cooperation Administration on authority of section 8 of 1953 Reorg. Plan No. 7, 67 Stat. 641, and Executive Order 10610 of May 9, 1955) are omitted because of the disposition ofthe two sections as explained with reference to subsection (a).
+In subsection (d), the references to section 10(b)(5)(B)(i) and (ii) of the Atomic Energy Act of 1946, section 510 of the Mutual Security Act of 1951, a majority of the members of the Atomic Energy Commission, and the Director of Mutual Security (which was changed to Director of the International Cooperation Administration on authority of section 8 of 1953 Reorg. Plan No. 7, 67 Stat. 641, and Executive Order 10610 of May 9, 1955) are omitted because of the disposition of the two sections as explained with reference to subsection (a).
 
 In subsection (e), the words "There is established" are omitted as executed.
 
 In subsection (g), the reference to statutes other than this section is omitted because nothing in those statutes affect the responsibility in question.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -119,6 +121,8 @@ Subsec. (e)(5). Pub. L. 113–80, §2(2), designated existing provisions as subp
 <b>1969</b>—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 
 Subsec. (f). Pub. L. 91–189, §1(b), authorized an agency to use available appropriations to reimburse the Commission or the Federal Bureau of Investigation for the cost of training and functions performed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

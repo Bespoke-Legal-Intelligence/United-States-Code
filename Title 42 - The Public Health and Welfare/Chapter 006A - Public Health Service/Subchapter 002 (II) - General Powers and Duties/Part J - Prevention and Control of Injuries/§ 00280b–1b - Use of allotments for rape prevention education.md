@@ -16,7 +16,7 @@ The Secretary, acting through the National Center for Injury Prevention and Cont
 
 &emsp;(6) education to increase awareness about drugs and alcohol used to facilitate rapes or sexual assaults; and
 
-&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault,including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
+&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
 
 #### (b) Collection and dissemination of information on sexual assault
 
@@ -54,7 +54,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### Codification
 
-Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of "the section 393B (42 U.S.C. 280b–1c)" of act July 1, 1944, "relating to the use of allotments for rape prevention education" as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.
+Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of "the section 393B (42 U.S.C. 280b–1c)" of act July 1, 1944, "relating to the use of allotments for rapeprevention education" as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.
 
 #### Prior Provisions
 

@@ -18,11 +18,15 @@ As used in this section, the term "officer of the Congress" means—
 
 (Pub. L. 91–510, title IV, §431, Oct. 26, 1970, 84 Stat. 1190.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 60–1 of this title prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as anEffective Date of 1970 Amendment note under section 4301 of this title.
 

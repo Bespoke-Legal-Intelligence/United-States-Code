@@ -4,15 +4,19 @@ No visa shall be issued to any alien seeking to enter the United States until su
 
 (June 27, 1952, ch. 477, title II, ch. 7, §261, 66 Stat. 223; Pub. L. 99–653, §8, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(g), Oct. 24, 1988, 102 Stat. 2617.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–525 made technical correction to Pub. L. 99–653. See 1986 Amendment note below.
 
 <b>1986</b>—Pub. L. 99–653, as amended by Pub. L. 100–525, amended section generally, striking out "and fingerprinted" after "has been registered" and substituting "section 1201(b) of this title" for "section 1201(b) of this title, unless such alien has been exempted from being fingerprinted as provided in that section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 

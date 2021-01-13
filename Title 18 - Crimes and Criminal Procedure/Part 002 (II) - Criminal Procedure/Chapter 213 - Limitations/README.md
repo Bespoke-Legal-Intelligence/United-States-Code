@@ -36,6 +36,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, title X, §1079A(b)(2), July 21, 2010, 124 Stat. 2079, added item 3301.

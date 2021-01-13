@@ -18,7 +18,7 @@ Lands acquired by the Secretary by exchange under this section which are within 
 
 (2) If within one hundred and eighty days after the submission of an appraisal or appraisals for review and approval by the Secretary concerned, the Secretary concerned and the other party or parties involved cannot agree to accept the findings of an appraisal or appraisals, the appraisal or appraisals shall be submitted to an arbitrator appointed by the Secretary from a list of arbitrators submitted to him by the American Arbitration Association for arbitration to be conducted in accordance with the real estate valuation arbitration rules of the American Arbitration Association. Such arbitration shall be binding for a period of not to exceed two years on the Secretary concerned and the other party or parties involved in the exchange insofar as concerns the value of the lands which were the subject of the appraisal or appraisals.
 
-(3) Within thirty days after the completion of the arbitration, the Secretary concerned and the other party or parties involved in the exchange shall determine whether to proceed with the exchange, modify the exchange to reflect the findings of the arbitration or any other factors, or to withdraw from the exchange. A decision to withdraw from the exchange may be made by either the Secretary concerned or the other party or parties involved.
+(3) Within thirty days after the completion of the arbitration, the Secretary concerned and the other party or parties involved in the exchange shall determine whether to proceed with the exchange, modify the exchange to reflect the findings of the arbitration or any other factors, or to withdraw from the exchange. A decision towithdraw from the exchange may be made by either the Secretary concerned or the other party or parties involved.
 
 (4) Instead of submitting the appraisal to an arbitrator, as provided in paragraph (2) of this section,<sup>1</sup> the Secretary concerned and the other party or parties involved in an exchange may mutually agree to employ a process of bargaining or some other process to determine the values of the properties involved in the exchange.
 
@@ -42,7 +42,7 @@ Unless mutually agreed otherwise by the Secretary concerned and the other party 
 
 &emsp;&emsp;(ii) also permit the Secretary concerned, where such Secretary determines it is in the public interest and it is in the best interest of consummating an exchange pursuant to this Act or other applicable law, and upon mutual agreement of the parties, to make adjustments to the relative values involved in an exchange transaction in order to compensate a party or parties to the exchange for assuming costs or other responsibilities or requirements which would ordinarily be borne by the other party or parties.
 
-As used in this subparagraph, the term "costs or other responsibilities or requirements" shallinclude, but not be limited to, costs or other requirements associated with land surveys and appraisals, mineral examinations, title searches, archeological surveys and salvage, removal of encumbrances, arbitration pursuant to subsection (d) of this section, curing deficiencies preventing highest and best use, and other costs to comply with laws, regulations and policies applicable to exchange transactions, or which are necessary to bring the Federal or non-Federal lands or interests involved in the exchange to their highest and best use for the appraisal and exchange purposes. Prior to making any adjustments pursuant to this subparagraph, the Secretary concerned shall be satisfied that the amount of such adjustment is reasonable and accurately reflects the approximate value of any costs or services provided or any responsibilities or requirements assumed.
+As used in this subparagraph, the term "costs or other responsibilities or requirements" shall include, but not be limited to, costs or other requirements associated with land surveys and appraisals, mineral examinations, title searches, archeological surveys and salvage, removal of encumbrances, arbitration pursuant to subsection (d) of this section, curing deficiencies preventing highest and best use, and other costs to comply with laws, regulations and policies applicable to exchange transactions, or which are necessary to bring the Federal or non-Federal lands or interests involved in the exchange to their highest and best use for the appraisal and exchange purposes. Prior to making any adjustments pursuant to this subparagraph, the Secretary concerned shall be satisfied that the amount of such adjustment is reasonable and accurately reflects the approximate value of any costs or services provided or any responsibilities or requirements assumed.
 
 #### (g) Exchanges to proceed under existing laws and regulations pending new rules and regulations
 
@@ -54,7 +54,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 &emsp;(A) the combined value of the lands or interests therein to be transferred from Federal ownership by the Secretary concerned in such exchange is not more than $150,000; and
 
-&emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgated pursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
+&emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgatedpursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
 
 &emsp;(C) the definition of and procedure for determining "approximately equal value" has been set forth in regulations by the Secretary concerned and the Secretary concerned documents how such determination was made in the case of the particular exchange involved.
 
@@ -68,6 +68,8 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 (Pub. L. 94–579, title II, §206, Oct. 21, 1976, 90 Stat. 2756; Pub. L. 100–409, §§3, 9, Aug. 20, 1988, 102 Stat. 1087, 1092.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
@@ -80,9 +82,11 @@ Act of January 22, 1983 (commonly known as the "Small Tracts Act"), referred to 
 
 Pub. L. 100–409, §9, inserted provision relating to waiver of cash equalization payments.
 
-Subsec. (c). Pub. L. 100–409, §3(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Lands acquired by exchange under this section by the Secretary which are within the boundaries of the National Forest System may be transferred to the Secretary of Agriculture and shall then become National Forest System lands and subject to all the laws,rules, and regulations applicable to the National Forest System. Lands acquired by exchange by the Secretary under this section which are within the boundaries of National Park, Wildlife Refuge, Wild and Scenic Rivers, Trails, or any other System established by Act of Congress may be transferred to the appropriate agency head for administration as part of such System and in accordance with the laws, rules, and regulations applicable to such System."
+Subsec. (c). Pub. L. 100–409, §3(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Lands acquired by exchange under this section by the Secretary which are within the boundaries of the National Forest System may be transferred to the Secretary of Agriculture and shall then become National Forest System lands and subject to all the laws, rules, and regulations applicable to the National Forest System. Lands acquired by exchange by the Secretary under this section which are within the boundaries of National Park, Wildlife Refuge, Wild and Scenic Rivers, Trails, or any other System established by Act of Congress may be transferred to the appropriate agency head for administration as part of such System and in accordance with the laws, rules, and regulations applicable to such System."
 
 Subsecs. (d) to (i). Pub. L. 100–409, §3(a), added subsecs. (d) to (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Statement of Findings and Purposes
 
@@ -110,7 +114,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1988 Amendment note se
 
 &emsp;&emsp;"(B) establishing procedures and guidelines for the resolution of appraisal disputes.\[;\]
 
-&emsp;"(2) to provide sufficient resources to the Secretaries of the Interior and Agriculture to ensure that land exchange activities can proceed consistent with the public interest; and
+&emsp;"(2) to provide sufficient resources to the Secretaries of the Interior and Agriculture to ensure thatland exchange activities can proceed consistent with the public interest; and
 
 &emsp;"(3) to require a study and report concerning improvements in the handling of certain information related to Federal and other lands."
 

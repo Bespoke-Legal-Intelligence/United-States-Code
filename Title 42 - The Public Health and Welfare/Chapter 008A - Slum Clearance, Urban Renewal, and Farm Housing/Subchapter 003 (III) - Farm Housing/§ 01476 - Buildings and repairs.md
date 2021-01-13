@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 89–348, which directed the repeal in subsec. (b) of the r
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–70, §§804(b)(1), 805(a)(1), inserted a reference to section 1484 of this title in two places, and struck out provisions which authorized the conduct of research and technical studies including the development, demonstration, and promotion of construction of adequate farm dwellings and other buildings for the purposes of stimulating construction, improving architectural design and utility, utilizing new and native materials, economies in materials and construction methods, and new methods of production, distribution, assembly, and construction, which provisions are now contained in subsec. (b) of this section.
 
-Subsecs. (b) to (e). Pub. L. 87–70, §805(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as (e). Provisions of subsec. (b) were formerly contained in subsec. (a).
+Subsecs. (b) to (e). Pub. L. 87–70, §805(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as\(e). Provisions of subsec. (b) were formerly contained in subsec. (a).
 
 #### Study of Emergency Potable Water and Sewage Program
 

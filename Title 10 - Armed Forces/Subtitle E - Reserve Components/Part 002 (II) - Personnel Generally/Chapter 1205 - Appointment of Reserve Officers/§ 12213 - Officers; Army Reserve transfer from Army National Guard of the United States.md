@@ -72,11 +72,11 @@ Pub. L. 103–337, §1636(a), struck out at end "Notwithstanding any other provi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendments
 
-Pub. L. 104–106, div. A, title XV, §1501(f)(1), Feb. 10, 1996, 110 Stat. 501, provided that: "Section 1636 of theReserve Officer Personnel Management Act \[Pub. L. 103–337, amending this section and repealing sections 8356 and 8379 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\]."
+Pub. L. 104–106, div. A, title XV, §1501(f)(1), Feb. 10, 1996, 110 Stat. 501, provided that: "Section 1636 of the Reserve Officer Personnel Management Act \[Pub. L. 103–337, amending this section and repealing sections 8356 and 8379 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\]."
 
 Amendment by sections 1662(c)(3) and 1675(b)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

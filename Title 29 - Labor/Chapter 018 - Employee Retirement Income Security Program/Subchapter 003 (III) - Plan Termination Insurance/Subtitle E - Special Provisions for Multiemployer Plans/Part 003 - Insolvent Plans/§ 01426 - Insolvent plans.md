@@ -26,7 +26,7 @@ For purposes of this section, for a plan year—
 
 &emsp;(i) the term "person in pay status" means—
 
-&emsp;&emsp;(I) a participant or beneficiary on the last day of the base plan year who, at any time during such year, was paid an early, late, normal, or disability retirement benefit (or a death benefit related to a retirement benefit), and
+&emsp;&emsp;(I) a participant or beneficiary on the last day of the base plan year who, at any time during such year, was paid an early, late, normal, or disability retirement benefit (ora death benefit related to a retirement benefit), and
 
 &emsp;&emsp;(II) to the extent provided in regulations prescribed by the Secretary of the Treasury, any other person who is entitled to such a benefit under the plan.
 
@@ -76,9 +76,9 @@ For purposes of this section, for a plan year—
 
 (3) In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the corporation.
 
-(4) Notice required by this subsection shall be given in accordance with regulations prescribed by the corporation, except that notice to the Secretary of the Treasury shall be given in accordance with regulations prescribed by the Secretary of the Treasury.
+(4) Notice required by this subsection shall be given in accordance with regulations prescribedby the corporation, except that notice to the Secretary of the Treasury shall be given in accordance with regulations prescribed by the Secretary of the Treasury.
 
-(5) The corporation may prescribe a time other than the time prescribed by this section for themaking of a determination or the filing of a notice under this section.
+(5) The corporation may prescribe a time other than the time prescribed by this section for the making of a determination or the filing of a notice under this section.
 
 #### (f) Financial assistance from corporation; conditions and criteria applicable
 
@@ -91,6 +91,8 @@ For purposes of this section, for a plan year—
 Subsections (a) and (c) shall not apply to a plan that, for the plan year, is operating under section 1085(e)(9) of this title, regarding benefit suspensions by certain multiemployer plans in critical and declining status.
 
 (Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259; amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886; Pub. L. 113–235, div. O, title I, §108(a)(2), Dec. 16, 2014, 128 Stat. 2786.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -113,6 +115,8 @@ Subsec. (e)(1)(B). Pub. L. 113–235, §108(a)(2)(D)(ii), substituted "section 1
 Subsec. (g). Pub. L. 113–235, §108(a)(2)(E), added subsec. (g).
 
 <b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted "5 plan years" for "3 plan years" the second place it appeared and inserted at end "If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

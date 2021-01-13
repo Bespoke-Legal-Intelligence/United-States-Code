@@ -8,7 +8,7 @@ Upon the exportation or destruction under customs supervision of articles manufa
 
 #### (1) In general
 
-&emsp;If imported duty-paid merchandise or merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise is used in the manufacture or production of articles within a period not to exceed 5 years from the date of importation of such imported merchandise, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.
+&emsp;If imported duty-paid merchandise or merchandise classifiable under the same 8-digitHTS subheading number as such imported merchandise is used in the manufacture or production of articles within a period not to exceed 5 years from the date of importation of such imported merchandise, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.
 
 #### (2) Requirements relating to transfer of merchandise
 
@@ -100,7 +100,7 @@ Upon the exportation of jet aircraft engines manufactured or produced abroad tha
 
 #### (i) Proof of exportation
 
-A person claiming drawback under this section based on the exportation of an article shallprovide proof of the exportation of the article. Such proof of exportation—
+A person claiming drawback under this section based on the exportation of an article shall provide proof of the exportation of the article. Such proof of exportation—
 
 &emsp;(1) shall establish fully the date and fact of exportation and the identity of the exporter; and
 
@@ -134,7 +134,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 &emsp;&emsp;&emsp;(I) is the importer of the imported merchandise, or
 
-&emsp;&emsp;&emsp;(II) received the imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, directly or indirectly from the person who imported and paid any duties, taxes, and fees imposed under Federal law upon importation or entry and due on the imported merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
+&emsp;&emsp;&emsp;(II) received the imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, directly orindirectly from the person who imported and paid any duties, taxes, and fees imposed under Federal law upon importation or entry and due on the imported merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
 
 > then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback. Notwithstanding subparagraph (A), drawback shall be allowed under this paragraph with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent. Transfers of merchandise may be evidenced by business records kept in the normal course of business and no additional certificates of transfer shall be required.
 
@@ -146,7 +146,9 @@ A person claiming drawback under this section based on the exportation of an art
 
 > shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B) or (2)(C).
 
-(4)(A) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act \[19 U.S.C. 3333(a)\], shall not constitute an exportation for purposes of paragraph (2).
+(4)(A)(i) Effective upon the entry into force of the USMCA, the exportation to a USMCA country of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 4534(a) of this title, shall not constitute an exportation for purposes of paragraph (2).
+
+(ii) In this subparagraph, the terms "USMCA" and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
 (B) Beginning on January 1, 2015, the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
@@ -194,7 +196,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 #### (B) Claims with respect to unused merchandise
 
-&emsp;&emsp;The regulations required by subparagraph (A) for determining the calculation of amounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise, which were imposed under Federal law upon entry or importation of the imported merchandise, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item or, if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the merchandise, then—
+&emsp;&emsp;The regulations required by subparagraph (A) for determining the calculation ofamounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise, which were imposed under Federal law upon entry or importation of the imported merchandise, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item or, if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the merchandise, then—
 
 &emsp;&emsp;&emsp;(i) in the case of an article that is exported, the amount of the refund shall be equal to 99 percent of the lesser of—
 
@@ -252,21 +254,21 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 (1) For purposes of this subsection and subsection (o)—
 
-&emsp;(A) the term "NAFTA Act" means the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301 et seq.\];
+&emsp;(A) the term "USMCA country" has the meaning given that term in section 4502 of this title;
 
-&emsp;(B) the terms "NAFTA country" and "good subject to NAFTA drawback" have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\];
+&emsp;(B) the term "good subject to USMCA drawback" has the meaning given that term in section 4534(a) of this title;
 
-&emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to section 1508(b)(2)(B) of this title; and
+&emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to section 4534(e) of this title; and
 
 &emsp;(D) the term "good subject to Chile FTA drawback" has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
-(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may berefunded, waived, or reduced in an amount that exceeds the lesser of—
 
 &emsp;(A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
-&emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
+&emsp;(B) the total amount of customs duties paid on the good to the USMCA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 (4)(A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q), if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
 
@@ -284,13 +286,13 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 (1) For purposes of subsection (g), if—
 
-&emsp;(A) a vessel is built for the account and ownership of a resident of a NAFTA country or the government of a NAFTA country, and
+&emsp;(A) a vessel is built for the account and ownership of a resident of a USMCA country or the government of a USMCA country, and
 
-&emsp;(B) imported materials that are used in the construction and equipment of the vessel are goods subject to NAFTA drawback,
+&emsp;(B) imported materials that are used in the construction and equipment of the vessel are goods subject to USMCA drawback,
 
-> the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
+> the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the USMCA country.
 
-(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+(2) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
 (3) For purposes of subsection (g), if—
 
@@ -342,7 +344,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(C) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the exported article is exported during the period that the qualified article described in subparagraph (A)(i) or (A)(ii) (whichever is applicable) is manufactured or produced, or within 180 days after the close of such period.
 
-&emsp;&emsp;(D) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the specific petroleum refinery or production facility which made the qualified article concerned is identified.
+&emsp;&emsp;(D) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the specific petroleum refinery or production facility whichmade the qualified article concerned is identified.
 
 &emsp;&emsp;(E) In the case of the requirement of subparagraph (A)(iii) or (A)(iv), the exported article is exported within 180 days after the date of entry of an imported qualified article described in subparagraph (A)(iii) or (A)(iv) (whichever is applicable).
 
@@ -374,7 +376,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the HTS as the qualified article. If an article is referred to under the same eight-digit classification of the HTS as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
-&emsp;&emsp;(C) The term "drawback claimant" means the exporter of the exported article or the refiner, producer, or importer of either thequalified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
+&emsp;&emsp;(C) The term "drawback claimant" means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
 #### (4) Limitation on drawback
 
@@ -424,7 +426,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > &emsp;whichever is later.
 
-(B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+(B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(2) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
 
 (C) For purposes of this paragraph, the term "major disaster" has the meaning given that term in section 5122(2) of title 42.
 
@@ -442,7 +444,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > as the basis for drawback on merchandise possessed by the drawback successor after the date of succession.
 
-(3) For purposes of this subsection, the term "drawback successor" means an entity to which another entity (in this subsection referred to asthe "predecessor") has transferred by written agreement, merger, or corporate resolution—
+(3) For purposes of this subsection, the term "drawback successor" means an entity to which another entity (in this subsection referred to as the "predecessor") has transferred by written agreement, merger, or corporate resolution—
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
@@ -494,7 +496,7 @@ In this section:
 
 &emsp;The term "indirectly" means a transfer of merchandise or an article from one person to another person with one or more intermediate transfers.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309; Pub. L. 114–125, title IX, §906(a)–(n), Feb. 24, 2016, 130 Stat. 226–233.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309; Pub. L. 114–125, title IX, §906(a)–(n), Feb. 24, 2016, 130 Stat. 226–233; Pub. L. 116–113, title V, §501(e)(3), Jan. 29, 2020, 134 Stat. 68; Pub. L. 116–260, div. O, title VI, §601(c)(2)(A)(iii), (d)(2), Dec. 27, 2020, 134 Stat. 2150, 2151.)
 
 #### Amendment of Section
 
@@ -504,9 +506,7 @@ In this section:
 
 #### References in Text
 
-Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs.\(j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
-
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (n)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (o)(2), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
@@ -533,6 +533,22 @@ R.S. §3048, which was not repealed, read as follows: "So much money as may be n
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. §3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§1, 2, 48 Stat. 1225.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j)(4)(A). Pub. L. 116–113, §501(e)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act, of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act, shall not constitute an exportation for purposes of paragraph (2)."
+
+Subsec. (n)(1)(A), (B). Pub. L. 116–113, §501(e)(3)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) the term 'NAFTA Act' means the North American Free Trade Agreement Implementation Act;
+
+"(B) the terms 'NAFTA country' and 'good subject to NAFTA drawback' have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act;".
+
+Subsec. (n)(1)(C). Pub. L. 116–260, §601(c)(2)(A)(iii), substituted "section 4534(e) of this title" for "section 1508(b)(2)(B) of this title".
+
+Subsec. (n)(2), (3). Pub. L. 116–113, §501(e)(3)(B)(ii), substituted "USMCA" for "NAFTA" wherever appearing.
+
+Subsec. (o). Pub. L. 116–113, §501(e)(3)(C), substituted "USMCA" for "NAFTA" wherever appearing.
+
+Subsec. (r)(3)(B). Pub. L. 116–260, §601(d)(2), substituted "section 1508(c)(2)" for "section 1508(c)(3)".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–125, §906(a), substituted "an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback, except that" for "the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such".
 
@@ -716,7 +732,7 @@ Subsecs. (q) to (v). Pub. L. 103–182, §632(a)(7), added subsecs. (q) to (v).
 
 <b>1990</b>—Subsec. (n). Pub. L. 101–382, §134(a)(1), inserted ", except an article" before "made from" and substituted comma for "of 1988" before "does not".
 
-Subsec. (o). Pub. L. 101–382, §134(a)(2), inserted at end "This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the date proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988)."
+Subsec. (o). Pub. L. 101–382, §134(a)(2), inserted at end "This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the dateproclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988)."
 
 Subsec. (p). Pub. L. 101–382, §484A(a), added subsec. (p).
 
@@ -754,7 +770,13 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 
 #### Change of Name
 
-"Puerto Rico" substituted in subsec. (j) for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of Title 48, Territories and Insular Possessions.
+"Puerto Rico" substituted in subsec. (j) (now (m)) for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of Title 48, Territories and Insular Possessions.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under section 81c of this title.
 
 #### Effective Date of 2016 Amendment
 
@@ -778,7 +800,7 @@ Reporting of operability of automated commercial environment computer system.—
 
 "(3)
 
-Transition rule.—During the one-year period beginning on the date that is 2 years after the date ofthe enactment of this Act, a person may elect to file a claim for drawback under—
+Transition rule.—During the one-year period beginning on the date that is 2 years after the date of the enactment of this Act, a person may elect to file a claim for drawback under—
 
 &emsp;"(A) section 313 of the Tariff Act of 1930 \[19 U.S.C. 1313\], as amended by this section; or
 
@@ -836,7 +858,7 @@ Pub. L. 106–36, title II, §2404(b), June 25, 1999, 113 Stat. 169, provided th
 
 Pub. L. 106–36, title II, §2419(b), June 25, 1999, 113 Stat. 178, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 25, 1999\], and shall apply to drawback claims filed on and after such date."
 
-Pub. L. 106–36, title II, §2420(e), June 25, 1999, 113 Stat. 179, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the amendment made by section 632(a)(6) of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182, amending this section\]. For purposes of section 632(b) of that Act \[set out as a note below\], the 3-year requirement set forth in section 313(r) of the Tariff Act of 1930 \[19 U.S.C. 1313(r)\] shall not apply to any drawback claim filed within 6 months after the date of the enactment of this Act \[June 25, 1999\] for which that 3-year period would have expired."
+Pub. L. 106–36, title II, §2420(e), June 25, 1999, 113 Stat. 179, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the amendment made by section 632(a)(6) of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182, amending this section\]. For purposes of section 632(b) of that Act \[formerly set out as a note below\], the 3-year requirement set forth in section 313(r) of the Tariff Act of 1930 \[19 U.S.C. 1313(r)\] shall not apply to any drawback claim filed within 6 months after the date of the enactment of this Act \[June 25, 1999\] for which that 3-year period would have expired."
 
 #### Effective Date of 1994 Amendment
 
@@ -848,15 +870,11 @@ Pub. L. 103–465, title IV, §422(e), Dec. 8, 1994, 108 Stat. 4965, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
-Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
-Pub. L. 103–182, title VI, §632(b), Dec. 8, 1993, 107 Stat. 2197, provided that: "Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
-
-&emsp;"(1) claims filed or liquidated on or after January 1, 1988, and
-
-&emsp;"(2) claims that are unliquidated, under protest, or in litigation on the date of the enactment of this Act \[Dec. 8, 1993\]."
+Pub. L. 103–182, title VI, §632(b), Dec. 8, 1993, 107 Stat. 2197, which related to the application of the amendment made by subsec. (a)(6) of Pub. L. 103–182 to various claims, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date of 1990 Amendment
 
@@ -892,7 +910,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 
 #### Construction of 1993 Amendment
 
-Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by section 632(a) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by section 632(a) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

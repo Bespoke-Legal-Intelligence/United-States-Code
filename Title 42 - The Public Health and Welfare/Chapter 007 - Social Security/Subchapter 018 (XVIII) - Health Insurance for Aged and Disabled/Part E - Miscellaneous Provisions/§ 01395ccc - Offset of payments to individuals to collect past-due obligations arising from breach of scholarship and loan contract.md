@@ -32,7 +32,7 @@
 
 &emsp;(B) subject to paragraph (4), the Secretary shall immediately exclude the individual from the program under this subchapter, until such time as the entire past-due obligation has been repaid.
 
-(4) The Secretary shall not exclude an individual pursuant to paragraph (2)(C)(ii) or paragraph\(3)(B) if such individual is a sole community practitioner or sole source of essential specialized services in a community if a State requests that the individual not be excluded.
+(4) The Secretary shall not exclude an individual pursuant to paragraph (2)(C)(ii) or paragraph (3)(B) if such individual is a sole community practitioner or sole source of essential specialized services in a community if a State requests that the individual not be excluded.
 
 #### (b) Past-due obligation
 

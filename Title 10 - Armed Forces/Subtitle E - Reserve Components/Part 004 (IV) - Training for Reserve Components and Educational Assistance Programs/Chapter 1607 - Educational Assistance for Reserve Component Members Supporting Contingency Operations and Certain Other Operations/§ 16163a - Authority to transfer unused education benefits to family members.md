@@ -6,7 +6,7 @@ In General.—Subject to the provisions of this section, the Secretary concerned
 
 (b)
 
-Eligible Members.—A member referred to in subsection (a) is a member of the armed forces who, at the time of the approval of themember's request to transfer entitlement to basic educational assistance under this section, has completed at least—
+Eligible Members.—A member referred to in subsection (a) is a member of the armed forces who, at the time of the approval of the member's request to transfer entitlement to basic educational assistance under this section, has completed at least—
 
 &emsp;(1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the armed forces; or
 

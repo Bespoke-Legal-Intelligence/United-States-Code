@@ -88,7 +88,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such students that are high school students that earn credit toward a recognized postsecondary credential;
 
-&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs ofstudy prepare students, including special populations, for subsequent employment in high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
+&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs of study prepare students, including special populations, for subsequent employment in high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(iii) employer involvement in, benefit from, and satisfaction with, career and technical education programs and programs of study and career and technical education students' preparation for employment;
 
@@ -210,7 +210,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 #### (3) Application
 
-&emsp;To receive a grant under this subsection, an eligible entity, eligible institution, or eligible recipient shall submit an application to theSecretary at such time, in such manner, and containing such information as the Secretary may require, including, at a minimum—
+&emsp;To receive a grant under this subsection, an eligible entity, eligible institution, or eligible recipient shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including, at a minimum—
 
 &emsp;&emsp;(A) an identification and designation of the agency, institution, or school responsible for the administration and supervision of the program assisted under this paragraph;
 
@@ -310,7 +310,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;&emsp;(ii) externships or site visits with business and industry;
 
-&emsp;&emsp;&emsp;(iii) the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for appropriate academic and career and technical education teachers to jointly develop and implement curricula and pedagogical strategies;
+&emsp;&emsp;&emsp;(iii) the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for appropriate academic and career and technical education teachers to jointly develop andimplement curricula and pedagogical strategies;
 
 &emsp;&emsp;&emsp;(iv) mentoring by experienced teachers;
 

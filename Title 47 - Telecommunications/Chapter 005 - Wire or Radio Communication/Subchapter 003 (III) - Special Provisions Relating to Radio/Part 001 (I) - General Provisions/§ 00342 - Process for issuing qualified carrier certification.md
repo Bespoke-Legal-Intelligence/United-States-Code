@@ -26,7 +26,7 @@ Any entity seeking the certification provided for in subsection (a) shall submit
 
 &emsp;&emsp;(C) Maps, with superimposed effective isotropically radiated power predictions obtained in the satellite manufacturer's pre-launch tests, showing that the contours of the carrier's satellite beams as designed and the geographic area that the carrier's satellite beams are designed to cover are predicted to provide a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
 
-&emsp;&emsp;(D) For any satellite relied upon for certification under this section, an affidavit stating that, to the best of the affiant's knowledge, there have been no satellite or sub-system failures subsequent to the satellite's launch that would degrade the design performance to such a degree that a satellite transponder used to provide local service to any such designated market area is precluded from delivering a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
+&emsp;&emsp;(D) For any satellite relied upon for certification under this section, an affidavitstating that, to the best of the affiant's knowledge, there have been no satellite or sub-system failures subsequent to the satellite's launch that would degrade the design performance to such a degree that a satellite transponder used to provide local service to any such designated market area is precluded from delivering a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
 
 &emsp;&emsp;(E) Any additional engineering, designated market area, or other information the Commission considers necessary to determine whether the Commission shall grant a certification under this section.
 
@@ -76,11 +76,15 @@ For the purposes of this section:
 
 (June 19, 1934, ch. 652, title III, §342, as added Pub. L. 111–175, title II, §206, May 27, 2010, 124 Stat. 1250.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 119(g) of title 17, referred to in subsecs. (a) and (d), was redesignated section 119(f) of title 17 by Pub. L. 116–94, div. P, title XI, §1102(a)(6), Dec. 20, 2019, 133 Stat. 3203.
 
 The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2) and (b)(1), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Technical Guidelines Development Committee (hereafter in this subpart referred to as the "Development Committee").
+There is hereby established the Technical Guidelines Development Committee (hereafterin this subpart referred to as the "Development Committee").
 
 #### (b) Duties
 
@@ -73,6 +73,8 @@ Members of the Development Committee shall not receive any compensation for thei
 At the time the Commission adopts any voluntary voting system guideline pursuant to section 20962 of this title, the Development Committee shall cause to have published in the Federal Register the recommendations it provided under this section to the Executive Director of the Commission concerning the guideline adopted.
 
 (Pub. L. 107–252, title II, §221, Oct. 29, 2002, 116 Stat. 1682.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

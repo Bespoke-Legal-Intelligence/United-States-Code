@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(F) the method or sources of data that are used under subsection (c) and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
 
-&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services to such children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
+&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services tosuch children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
 
 &emsp;&emsp;(H) how, if the agency disagrees with the views of the private school officials on the provision of services through a contract, the local educational agency will provide in writing to such private school officials an analysis of the reasons why the local educational agency has chosen not to use a contractor;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(B) using the results of a survey that, to the extent possible, protects the identity of families of private school students, and allowing such survey results to be extrapolated if complete actual data are unavailable;
 
-&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
+&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendancearea, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
 
 &emsp;&emsp;(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 
@@ -196,11 +196,11 @@ Subsec. (b)(1)(I) to (L). Pub. L. 114–95, §1011(2)(A)(iii)–(v), added subpa
 
 Subsec. (b)(2) to (4). Pub. L. 114–95, §1011(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5), inserted "meaningful" before "consultation" in first sentence, inserted second sentence,and substituted "such consultation has, or attempts at such consultation have, taken place" for "such consultation has taken place" in last sentence. Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5), inserted "meaningful" before "consultation" in first sentence, inserted second sentence, and substituted "such consultation has, or attempts at such consultation have, taken place" for "such consultation has taken place" in last sentence. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 114–95, §1011(2)(B), redesignated par. (5) as (6).
 
-Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make a decision that treats the private school students equitably as required by this section" before period at end.
+Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make adecision that treats the private school students equitably as required by this section" before period at end.
 
 Subsec. (b)(6)(B). Pub. L. 114–95, §1011(2)(E)(ii), substituted "wishes to file a complaint," for "wishes to complain,".
 

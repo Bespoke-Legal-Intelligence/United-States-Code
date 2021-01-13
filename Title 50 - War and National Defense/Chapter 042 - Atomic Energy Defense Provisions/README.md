@@ -50,6 +50,8 @@
 | [2538b.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538b%20-%20Stockpile%20responsiveness%20program.md) | Stockpile responsiveness program. |
 | [2538c.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538c%20-%20Long-term%20plan%20for%20meeting%20national%20security%20requirements%20for%20unencumbered%20uranium.md) | Long-term plan for meeting national security requirements for unencumbered uranium. |
 | [2538d.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538d%20-%20Incorporation%20of%20integrated%20surety%20architecture.md) | Incorporation of integrated surety architecture. |
+| [2538e.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538e%20-%20W93%20nuclear%20warhead%20acquisition%20process.md) | W93 nuclear warhead acquisition process. |
+| [2538f.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538f%20-%20Earned%20value%20management%20and%20technology%20readiness%20levels%20for%20life%20extension%20programs.md) | Earned value management and technology readiness levels for life extension programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,6 +105,7 @@
 | [2588\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002588%20-%20Public%20participation%20in%20planning%20for%20defense%20environmental%20cleanup.md) | Public participation in planning for defense environmental cleanup. |
 | [2589\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002589%20-%20Policy%20of%20Department%20of%20Energy%20regarding%20future%20defense%20environmental%20management%20matters.md) | Policy of Department of Energy regarding future defense environmental management matters. |
 | [2590\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002590%20-%20Estimation%20of%20costs%20of%20meeting%20defense%20environmental%20cleanup%20milestones%20required%20by%20consent%20orders.md) | Estimation of costs of meeting defense environmental cleanup milestones required by consent orders. |
+| [2591\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002591%20-%20Public%20statement%20of%20environmental%20liabilities.md) | Public statement of environmental liabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -157,6 +160,7 @@
 | [2657\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002657%20-%20Annual%20report%20and%20certification%20on%20status%20of%20security%20of%20atomic%20energy%20defense%20facilities.md) | Annual report and certification on status of security of atomic energy defense facilities. |
 | 2658 to 2660. Repealed. |  |
 | [2661\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002661%20-%20Protection%20of%20certain%20nuclear%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain nuclear facilities and assets from unmanned aircraft. |
+| [2662\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002662%20-%20Reporting%20on%20penetrations%20of%20networks%20of%20contractors%20and%20subcontractors.md) | Reporting on penetrations of networks of contractors and subcontractors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -232,6 +236,7 @@
 | [2754\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002754%20-%20Life-cycle%20cost%20estimates%20of%20certain%20atomic%20energy%20defense%20capital%20assets.md) | Life-cycle cost estimates of certain atomic energy defense capital assets. |
 | [2755\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002755%20-%20Matters%20relating%20to%20critical%20decisions.md) | Matters relating to critical decisions. |
 | [2756\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002756%20-%20Unfunded%20priorities%20of%20the%20Administration.md) | Unfunded priorities of the Administration. |
+| [2757\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002757%20-%20Review%20of%20adequacy%20of%20nuclear%20weapons%20budget.md) | Review of adequacy of nuclear weapons budget. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -249,7 +254,7 @@
 |  |  |
 | :--- | ---: |
 | [2771\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002771%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28u%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202184.md) | Repealed. |
-| [2772\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002772%20-%20Quarterly%20reports%20on%20financial%20balances%20for%20atomic%20energy%20defense%20activities.md) | Quarterly reports on financial balances for atomic energy defense activities. |
+| [2772\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002772%20-%20Reports%20on%20financial%20balances%20for%20atomic%20energy%20defense%20activities.md) | Reports on financial balances for atomic energy defense activities. |
 | [2773\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002773%20-%20Independent%20acquisition%20project%20reviews%20of%20capital%20assets%20acquisition%20projects.md) | Independent acquisition project reviews of capital assets acquisition projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

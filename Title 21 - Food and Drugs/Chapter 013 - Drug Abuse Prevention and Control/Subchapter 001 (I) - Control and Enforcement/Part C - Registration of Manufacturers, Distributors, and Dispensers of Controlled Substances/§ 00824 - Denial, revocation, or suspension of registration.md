@@ -22,7 +22,7 @@ The Attorney General may limit revocation or suspension of a registration to the
 
 #### (c) Service of show cause order; proceedings
 
-(1) Before taking action pursuant to this section, or pursuant to a denial of registration under section 823 of this title, the Attorney General shall serve upon the applicant or registrant an order to show cause why registration should not be denied, revoked, or suspended.
+(1) Before taking action pursuant to this section, or pursuant to a denial of registration under section 823 of this title, the Attorney General shall serve upon the applicant or registrantan order to show cause why registration should not be denied, revoked, or suspended.
 
 (2) An order to show cause under paragraph (1) shall—
 
@@ -50,7 +50,7 @@ The suspension or revocation of a registration under this section shall operate 
 
 #### (f) Disposition of controlled substances or list I chemicals
 
-In the event the Attorney General suspends or revokes a registration granted under section 823 of this title, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocationorder, as the case may be, may, in the discretion of the Attorney General, be placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of sale deposited in court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title. All right, title, and interest in such controlled substances or list I chemicals shall vest in the United States upon a revocation order becoming final.
+In the event the Attorney General suspends or revokes a registration granted under section 823 of this title, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of sale deposited in court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title. All right, title, and interest in such controlled substances or list I chemicals shall vest in the United States upon a revocation order becoming final.
 
 #### (g) Seizure or placement under seal of controlled substances or list I chemicals
 
@@ -58,9 +58,11 @@ The Attorney General may, in his discretion, seize or place under seal any contr
 
 (Pub. L. 91–513, title II, §304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, §4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, §8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, §3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, §330024(e), Sept. 13, 1994, 108 Stat. 2151; Pub. L. 106–310, div. B, title XXXV, §3502(b), Oct. 17, 2000, 114 Stat. 1227; Pub. L. 114–145, §2(a)(2), (b), Apr. 19, 2016, 130 Stat. 354.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), and (d)(2), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), and (d)(2), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the "ControlledSubstances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
@@ -97,6 +99,8 @@ Subsec. (g). Pub. L. 98–473, §513, added subsec. (g).
 <b>1974</b>—Subsec. (a). Pub. L. 93–281, §4(a), provided for revocation or suspension of a registration pursuant to section 823(g) of this title for failure of a registrant to comply with standards referred to in such section 823(g).
 
 Subsec. (d). Pub. L. 93–281, §4(b), substituted "A suspension under this subsection" for "Such suspension" in third sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

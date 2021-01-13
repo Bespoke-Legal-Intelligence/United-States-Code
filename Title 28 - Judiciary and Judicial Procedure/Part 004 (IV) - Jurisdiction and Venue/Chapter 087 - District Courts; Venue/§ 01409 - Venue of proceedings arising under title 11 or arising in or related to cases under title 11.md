@@ -6,17 +6,21 @@
 
 (c) Except as provided in subsection (b) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case as statutory successor to the debtor or creditors under section 541 or 544(b) of title 11 in the district court for the district where the State or Federal court sits in which, under applicable nonbankruptcy venue provisions, the debtor or creditors, as the case may be, may have commenced an action on which such proceeding is based if the case under title 11 had not been commenced.
 
-(d) A trustee may commence a proceeding arising under title 11 or arising in or related to a case under title 11 based on a claim arising after the commencement of such case from the operation of the business of the debtor only in the district court for the district where a State or Federal court sits in which, under applicable nonbankruptcy venue provisions, an action on such claim may have been brought.
+(d) A trustee may commence a proceeding arising under title 11 or arising in or related to a case under title 11 based on a claim arising after the commencement of such case from the operation of the business of the debtor only inthe district court for the district where a State or Federal court sits in which, under applicable nonbankruptcy venue provisions, an action on such claim may have been brought.
 
 (e) A proceeding arising under title 11 or arising in or related to a case under title 11, based on a claim arising after the commencement of such case from the operation of the business of the debtor, may be commenced against the representative of the estate in such case in the district court for the district where the State or Federal court sits in which the party commencing such proceeding may, under applicable nonbankruptcy venue provisions, have brought an action on such claim, or in the district court in which such case is pending.
 
 (Added Pub. L. 98–353, title I, §102(a), July 10, 1984, 98 Stat. 334; amended Pub. L. 109–8, title IV, §410, Apr. 20, 2005, 119 Stat. 106; Pub. L. 116–54, §3(b), Aug. 23, 2019, 133 Stat. 1085.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–54 substituted "$25,000" for "$10,000".
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–8 substituted "$15,000, or a debt (excluding a consumer debt) against a noninsider of less than $10,000," for "$5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -29,6 +33,8 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 #### Effective Date
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

@@ -20,6 +20,8 @@ July 9, 1918, ch. 143 (proviso of 13th par. under "National Guard"), 40 Stat. 87
 
 The word "members" is substituted for the words "officers and enlisted men". The word "Regular" is omitted, since the organization is now prescribed for the Army, and the Regular Army is only a personnel category.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "State and Territory, Puerto Rico, and the District of Columbia".

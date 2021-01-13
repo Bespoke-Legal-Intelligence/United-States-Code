@@ -44,13 +44,17 @@ The Director may extend, by not more than 24 months, the 1-year or 2-year period
 
 (Pub. L. 110–289, div. A, title V, §1508, July 30, 2008, 122 Stat. 2818; Pub. L. 111–203, title X, §1100(3), (6), July 21, 2010, 124 Stat. 2106.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100(3), (6)(A), inserted section catchline, struck out former section catchline which read "Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system", and substituted "Director" for "Secretary" wherever appearing in text.
 
 Subsec. (f). Pub. L. 111–203, §1100(6)(B), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

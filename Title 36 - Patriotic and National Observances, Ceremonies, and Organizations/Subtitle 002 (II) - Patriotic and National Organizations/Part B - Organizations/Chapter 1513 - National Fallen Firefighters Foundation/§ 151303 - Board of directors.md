@@ -116,6 +116,8 @@ Subsection (f)(1) is substituted for "Appointment to the Board shall not constit
 
 This amends subsections (f) and (g) of section 151303 of title 36, as enacted by section 1 of Public Law 105–225 (Aug. 12, 1998, 112 Stat. 1400). The amendment clarifies the restatement of 36:5202(a)(3) by making it clear that appointment to the board of directors of the National Fallen Firefighters Foundation does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted "The chairman" for "The Chairman".
@@ -141,6 +143,8 @@ Status and Compensation.—Members of the board—
 "(g)
 
 Liability of Directors.—Members of the board are not personally liable, except for gross negligence."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

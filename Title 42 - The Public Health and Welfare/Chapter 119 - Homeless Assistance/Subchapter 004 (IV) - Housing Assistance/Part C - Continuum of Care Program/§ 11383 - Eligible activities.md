@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants awarded under section 11382 of this title to qualified applicants shall be used tocarry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
 
 &emsp;(1) Construction of new housing units to provide transitional or permanent housing.
 
@@ -58,7 +58,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 &emsp;&emsp;(A) earlier than 10 years after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 100 percent of the assistance; or
 
-&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent ofthe assistance for each of the years in the 15-year period for which the project fails to provide that housing.
+&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent of the assistance for each of the years in the 15-year period for which the project fails to provide that housing.
 
 #### (2) Prevention of undue benefits
 
@@ -82,7 +82,7 @@ The Secretary may allow reasonable costs associated with staff training to be in
 
 #### (f) Eligibility for permanent housing
 
-Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
+Any project that receives assistance under subsection (a) and that provides project-based orsponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
 
 #### (g) Administration of rental assistance
 

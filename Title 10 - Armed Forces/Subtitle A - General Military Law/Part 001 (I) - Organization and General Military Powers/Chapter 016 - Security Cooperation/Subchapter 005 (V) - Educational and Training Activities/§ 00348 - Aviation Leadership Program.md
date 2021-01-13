@@ -20,7 +20,7 @@ Supplies and Clothing.—(1) The Secretary of the Air Force may, under such cond
 
 (c)
 
-Allowances.—The Secretary of the Air Force may pay to a person receiving training under this section a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.
+Allowances.—The Secretary of the Air Force may pay to a person receiving trainingunder this section a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.
 
 (Added Pub. L. 114–328, div. A, title XII, §1241(i)(1), Dec. 23, 2016, 130 Stat. 2507.)
 

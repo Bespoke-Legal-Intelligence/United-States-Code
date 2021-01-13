@@ -32,6 +32,8 @@ Applicability to Order of Restitution.—In accordance with section 3664(m)(1)(A
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, §3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, §2(b), Dec. 16, 2016, 130 Stat. 1948; Pub. L. 115–299, §7(a), Dec. 7, 2018, 132 Stat. 4388.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 207 of the Social Security Act, referred to in subsec. (a), is classified to section 407 of Title 42, The Public Health and Welfare.
@@ -53,6 +55,8 @@ For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987
 <b>1990</b>—Subsec. (c). Pub. L. 101–647, which directed amendment of "Section 3613(c)" by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting "construed to mean 'fine'." for "construed to mean 'fine.' " in subsec. (c) of this section to reflect the probable intent of Congress.
 
 <b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

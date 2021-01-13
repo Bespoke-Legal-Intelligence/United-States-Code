@@ -18,7 +18,7 @@ South Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Western Division shall be held at Deadwood and Rapid City.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–638, Oct. 10, 1966, 80 Stat. 883; Pub. L. 92–376, Aug. 10, 1972, 86 Stat. 529; Pub. L. 101–650, title III, §324(b), Dec. 1, 1990, 104 Stat. 5120.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–638, Oct. 10, 1966, 80 Stat. 883; Pub. L. 92–376, Aug. 10,1972, 86 Stat. 529; Pub. L. 101–650, title III, §324(b), Dec. 1, 1990, 104 Stat. 5120.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +29,8 @@ A provision relating to maintenance of offices by the clerk was omitted as cover
 Provisions that the Northern Division included Lake Traverse Indian Reservation and that part of Standing Rock Indian Reservation lying in South Dakota; that the Southern Division included the Yorkton Indian Reservation; that the Central Division included the Cheyenne River, Lower Brule, and Crow Creek Indian Reservations; and that the Western Division included Rosebud and Pine Ridge Indian Reservations, were all omitted as surplusage. (See Reviser's Note under section 114 of this title.)
 
 Changes in arrangement and phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

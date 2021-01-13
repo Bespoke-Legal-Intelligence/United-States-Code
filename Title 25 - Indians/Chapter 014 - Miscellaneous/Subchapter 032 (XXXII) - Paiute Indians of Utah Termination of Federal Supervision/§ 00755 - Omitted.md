@@ -1,5 +1,7 @@
 ### §755. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §15, 68 Stat. 1103, which related to execution of patents, deeds, and other instruments by the Secretary of the Interior, was omitted from the Code as being of special and not general application.

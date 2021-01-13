@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State exercising primary enforcement responsibility for public water systems may modify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period to provide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
+&emsp;A State exercising primary enforcement responsibility for public water systems maymodify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period to provide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
 
 &emsp;&emsp;(A) monitoring, conducted at the beginning of the period for the contaminant concerned and certified to the State by the public water system, fails to detect the presence of the contaminant in the ground or surface water supplying the public water system; and
 
@@ -28,7 +28,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the phrase "reliably and consistently below the maximum contaminant level" means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to bereliably and consistently below the maximum contaminant level.
+&emsp;&emsp;For purposes of subparagraph (A), the phrase "reliably and consistently below the maximum contaminant level" means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
 
 #### (3) Effect of detection of contaminants
 

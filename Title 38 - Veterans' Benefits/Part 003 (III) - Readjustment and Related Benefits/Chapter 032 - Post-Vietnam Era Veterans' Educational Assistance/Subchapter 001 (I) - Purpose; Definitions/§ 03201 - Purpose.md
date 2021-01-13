@@ -4,6 +4,8 @@ It is the purpose of this chapter (1) to provide educational assistance to those
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2393, §1601; amended Pub. L. 99–576, title III, §309(a)(1), Oct. 28, 1986, 100 Stat. 3270; renumbered §3201, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 3201 was renumbered section 5501 of this title.
@@ -13,6 +15,8 @@ Prior section 3201 was renumbered section 5501 of this title.
 <b>1991</b>—Pub. L. 102–83 renumbered section 1601 of this title as this section.
 
 <b>1986</b>—Pub. L. 99–576 inserted "and before July 1, 1985,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

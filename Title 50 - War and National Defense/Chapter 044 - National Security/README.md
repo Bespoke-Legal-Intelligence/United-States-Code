@@ -41,6 +41,7 @@
 | [3042\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003042%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LXVII%2C%20%C2%A76742%28b%29%283%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202240.md) | Repealed. |
 | [3043\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003043%20-%20Annual%20national%20security%20strategy%20report.md) | Annual national security strategy report. |
 | [3043a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003043a%20-%20National%20intelligence%20strategy.md) | National intelligence strategy. |
+| [3043b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003043b%20-%20Annual%20reports%20on%20worldwide%20threats.md) | Annual reports on worldwide threats. |
 | [3044\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003044%20-%20Software%20licensing.md) | Software licensing. |
 | [3045\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003045%20-%20National%20mission%20of%20National%20Geospatial-Intelligence%20Agency.md) | National mission of National Geospatial-Intelligence Agency. |
 | [3046\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003046%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20I%2C%20%C2%A71075%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203694.md) | Repealed. |
@@ -193,6 +194,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part D—National Intelligence University
+
+|  |  |
+| :--- | ---: |
+| [3227\.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227%20-%20Transfer%20date.md) | Transfer date. |
+| [3227a.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227a%20-%20Degree-granting%20authority.md) | Degree-granting authority. |
+| [3227b.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227b%20-%20Reporting.md) | Reporting. |
+| [3227c.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227c%20-%20Continued%20applicability%20of%20the%20Federal%20Advisory%20Committee%20Act%20to%20the%20Board%20of%20Visitors.md) | Continued applicability of the Federal Advisory Committee Act to the Board of Visitors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IX—ADDITIONAL MISCELLANEOUS PROVISIONS
 
 |  |  |
@@ -203,8 +215,11 @@
 | [3234\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003234%20-%20Prohibited%20personnel%20practices%20in%20the%20intelligence%20community.md) | Prohibited personnel practices in the intelligence community. |
 | [3235\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003235%20-%20Semiannual%20reports%20on%20investigations%20of%20unauthorized%20disclosures%20of%20classified%20information.md) | Semiannual reports on investigations of unauthorized disclosures of classified information. |
 | [3236\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003236%20-%20Inspector%20General%20external%20review%20panel.md) | Inspector General external review panel. |
-| [3237\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Communist%20Party%20of%20China.md) | Annual reports on influence operations and campaigns in the United States by the Communist Party of China. |
+| [3237\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Chinese%20Communist%20Party.md) | Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party. |
+| [3237a.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003237a%20-%20Annual%20reports%20on%20security%20services%20of%20the%20People%27s%20Republic%20of%20China%20in%20the%20Hong%20Kong%20Special%20Administrative%20Region.md) | Annual reports on security services of the People's Republic of China in the Hong Kong Special Administrative Region. |
 | [3238\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003238%20-%20Annual%20reports%20on%20influence%20operations%20and%20campaigns%20in%20the%20United%20States%20by%20the%20Russian%20Federation.md) | Annual reports on influence operations and campaigns in the United States by the Russian Federation. |
+| [3239\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003239%20-%20Requirement%20to%20buy%20certain%20satellite%20component%20from%20American%20sources.md) | Requirement to buy certain satellite component from American sources. |
+| [3240\.](Subchapter%20009%20%28IX%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2003240%20-%20Report%20on%20best%20practices%20to%20protect%20privacy%2C%20civil%20liberties%2C%20and%20civil%20rights%20of%20Chinese%20Americans.md) | Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

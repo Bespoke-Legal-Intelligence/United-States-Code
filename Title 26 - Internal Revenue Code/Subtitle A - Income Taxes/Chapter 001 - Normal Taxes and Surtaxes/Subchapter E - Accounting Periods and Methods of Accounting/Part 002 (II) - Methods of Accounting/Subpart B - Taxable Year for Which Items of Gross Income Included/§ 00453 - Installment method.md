@@ -36,7 +36,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (2) Time and manner for making election
 
-&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect toa disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
+&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect to a disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
 
 #### (3) Election revocable only with consent
 
@@ -122,7 +122,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (8) Extension of statute of limitations
 
-&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding theprovisions of any law or rule of law which would otherwise prevent such assessment.
+&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
 
 #### (f) Definitions and special rules
 
@@ -308,7 +308,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (B) Real property
 
-&emsp;&emsp;Any disposition of real property which is held by the taxpayer for sale to customers inthe ordinary course of the taxpayer's trade or business.
+&emsp;&emsp;Any disposition of real property which is held by the taxpayer for sale to customers in the ordinary course of the taxpayer's trade or business.
 
 #### (2) Exceptions
 
@@ -368,11 +368,11 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat.3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV,§403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
 
@@ -558,7 +558,7 @@ Coordination with tax reform act of 1986.—The amendments made by this section 
 
 Amendment by section 631(e)(8) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at alltimes thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
+Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
 Pub. L. 99–514, title VIII, §812(c), Oct. 22, 1986, 100 Stat. 2372, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
 

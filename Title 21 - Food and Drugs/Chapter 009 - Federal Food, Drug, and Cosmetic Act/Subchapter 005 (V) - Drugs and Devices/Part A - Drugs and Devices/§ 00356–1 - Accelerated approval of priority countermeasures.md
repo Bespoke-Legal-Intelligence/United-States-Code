@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services may designate a priority countermeasure as a fast-track product pursuant to section 356 of this title or as a device granted review priority pursuant to section 360e(d)(5) <sup>1</sup> of this title. Sucha designation may be made prior to the submission of—
+The Secretary of Health and Human Services may designate a priority countermeasure as a fast-track product pursuant to section 356 of this title or as a device granted review priority pursuant to section 360e(d)(5) <sup>1</sup> of this title. Such a designation may be made prior to the submission of—
 
 &emsp;(1) a request for designation by the sponsor or applicant; or
 
@@ -27,6 +27,8 @@ For purposes of this title: <sup>1</sup>
 &emsp;(2) The term "priority drugs or biological products" means a drug or biological product that is the subject of a drug or biologics application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997.
 
 (Pub. L. 107–188, title I, §122, June 12, 2002, 116 Stat. 613.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

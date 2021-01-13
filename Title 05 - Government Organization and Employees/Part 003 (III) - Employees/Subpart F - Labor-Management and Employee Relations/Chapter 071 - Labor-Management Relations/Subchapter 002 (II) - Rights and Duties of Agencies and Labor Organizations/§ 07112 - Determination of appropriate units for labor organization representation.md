@@ -28,9 +28,13 @@
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1200; amended Pub. L. 102–378, §2(54), Oct. 2, 1992, 106 Stat. 1354.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out "(1)" after subsec. (a) designation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

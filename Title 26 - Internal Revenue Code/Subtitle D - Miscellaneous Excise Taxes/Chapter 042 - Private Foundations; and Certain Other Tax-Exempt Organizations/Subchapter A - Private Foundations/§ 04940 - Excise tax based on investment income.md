@@ -20,7 +20,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (2) Gross investment income
 
-&emsp;For purposes of paragraph (1), the term "gross investment income" means the grossamount of income from interest, dividends, rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
+&emsp;For purposes of paragraph (1), the term "gross investment income" means the gross amount of income from interest, dividends, rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
 
 #### (3) Deductions
 
@@ -112,7 +112,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;&emsp;The rules of paragraphs (3) and (4) of section 4946(a) shall apply for purposes of subparagraph (B)(ii).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481;Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, §206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, §206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
 
 #### Codification
 
@@ -206,7 +206,7 @@ and (c).—Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (a
 
 #### Savings Provision
 
-Pub. L. 91–172, title I, §101(l), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title I, §101(l), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII,§703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -256,7 +256,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;&emsp;"(iii) by defining the distributable amount as the sum of the amount determined under section 4942(d) (after the application of clauses (i) and (ii)), and the amount of the dividend income from such stock.
 
-> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or anyother instrument does not permit compliance with such provisions.
+> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or any other instrument does not permit compliance with such provisions.
 
 "(4)
 

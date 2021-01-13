@@ -10,7 +10,7 @@
 
 (2)(A) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
 
-(B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
+(B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under chapter 13 or section 1781 of this title to such person as the surviving spouse of the veteran.
 
 (3) If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
 
@@ -30,11 +30,19 @@
 
 &emsp;(D) Chapter 37, relating to housing loans.
 
+&emsp;(E) Section 1562(a)(2), relating to Medal of Honor special pension.
+
 (e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title I, §101(a), Dec. 6, 2002, 116 Stat. 2821; Pub. L. 108–183, title I, §101(a), title VII, §708(a)(1), Dec. 16, 2003, 117 Stat. 2652, 2673.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title I, §101(a), Dec. 6, 2002, 116 Stat. 2821; Pub. L. 108–183, title I, §101(a), title VII, §708(a)(1), Dec. 16, 2003, 117 Stat. 2652, 2673; Pub. L. 116–315, title II, §§2003(b)(2)(B), 2009, Jan. 5, 2021, 134 Stat. 4970, 4978.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(2)(B). Pub. L. 116–315, §2009, inserted "chapter 13 or" after "benefits under".
+
+Subsec. (d)(5)(E). Pub. L. 116–315, §2003(b)(2)(B), added subpar. (E).
 
 <b>2003</b>—Subsec. (d)(2)(B). Pub. L. 108–183, §101(a), substituted "The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55" for "The remarriage after age 55".
 
@@ -84,6 +92,12 @@ Subsec. (d)(3). Pub. L. 99–576, §701(2)(F), substituted "surviving spouse" fo
 
 <b>1962</b>—Subsecs. (d), (e). Pub. L. 87–674 added subsecs. (d) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–315, title II, §2003(b)(3), Jan. 5, 2021, 134 Stat. 4970, provided that: "The amendments made by this subsection \[amending this section and section 1562 of this title\] shall apply with respect to payment of pension under section 1562 of title 38, United States Code, for months beginning after the date of the enactment of this Act \[Jan. 5, 2021\]."
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–183, title I, §101(c), Dec. 16, 2003, 117 Stat. 2653, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1311 of this title\] shall take effect on January 1, 2004."
@@ -124,7 +138,7 @@ Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended b
 
 #### Limitation on Payments
 
-Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: "No payment may be made to aperson by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\]."
+Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: "No payment may be made to a person by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\]."
 
 #### Applicability of Amendments
 

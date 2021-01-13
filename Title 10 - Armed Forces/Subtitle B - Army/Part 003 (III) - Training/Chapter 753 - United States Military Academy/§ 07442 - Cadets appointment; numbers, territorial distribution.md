@@ -10,7 +10,7 @@
 
 &emsp;(4) Five cadets from each congressional district, nominated by the Representative from the district.
 
-&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
+&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the Houseof Representatives from the District of Columbia.
 
 &emsp;(6) Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
@@ -78,7 +78,7 @@
 
 &emsp;(4) The limitations provided for in this subsection do not affect the operation of subsection (e).
 
-(h) The Superintendent shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
+(h) The Superintendent shall furnish to any Member of Congress, upon the written request ofsuch Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
 (i) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Corps of Cadets, the Secretary of the Army may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
@@ -164,7 +164,7 @@ In subsection (b), the words "from whatever source of admission", in 10:1092a, a
 
 In subsection (c), the first 15 words are substituted for the words "all of which cadets shall be". The words "domiciled in" are substituted for the words "actual residents of" to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words "including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
+In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words"including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
 
 In subsection (f), the words "whether a death is service-connected" are substituted for the words "as to the service connection of the cause of death".
 
@@ -254,7 +254,7 @@ Subsec. (h). Pub. L. 96–513 substituted "The" for "Effective beginning with no
 
 <b>1975</b>—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted "children" for "sons" wherever appearing.
 
-<b>1973</b>—Subsec. (a)(6). Pub. L. 93–171, §1(1), substituted "One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands" for "Five cadets from each Territory, nominated by the Delegate in Congress from the Territory".
+<b>1973</b>—Subsec. (a)(6). Pub. L. 93–171, §1(1), substituted "One cadet from the Virgin Islands, nominated by theDelegate in Congress from the Virgin Islands" for "Five cadets from each Territory, nominated by the Delegate in Congress from the Territory".
 
 Subsec. (a)(9). Pub. L. 93–171, §1(2), struck out reference to Guam and Virgin Islands.
 
@@ -274,7 +274,7 @@ Subsec. (a)(5). Pub. L. 90–623 substituted "Commissioner" for "Commissioners".
 
 Subsec. (a)(2). Pub. L. 89–650, §1(2), provided for nominations to the Military Academy by the President pro tempore of the Senate if there is no Vice President.
 
-Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the MilitaryAcademy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the Military Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
 Subsec. (b)(3). Pub. L. 89–650, §1(4), substituted "reserve components of the Army" for "the Army Reserve".
 
@@ -334,11 +334,105 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### Information on Nominations and Applications for Military Service Academies
+
+Pub. L. 116–283, div. A, title V, §575, Jan. 1, 2021, 134 Stat. 3645, provided that:
+
+"(a) Nominations Portal.—
+
+&emsp;"(1)
+
+In general.—Not later than two years after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website.
+
+&emsp;"(2)
+
+Information collection and reporting.—The online portal established under paragraph (1) shall have the ability to—
+
+&emsp;&emsp;"(A) collect, from each nominating source, the demographic information described in subsection (b) for each individual nominated to attend a military service academy; and
+
+&emsp;&emsp;"(B) collect the information required to be included in each annual report of the Secretary under subsection (c) in a manner that enables the Secretary to automatically compile such information when preparing the report.
+
+&emsp;"(3)
+
+Availability of information.—The portal shall allow Members of Congress, other nominating sources, and their designees to view their past nomination records for all application cycles.
+
+"(b)
+
+Standard Classifications for Collection of Demographic Data.—
+
+&emsp;"(1)
+
+Standards required.—The Secretary, in consultation with the Superintendents of the military service academies, shall establish standard classifications that cadets, midshipmen, and applicants to the academies may use to report gender, race, and ethnicity and to provide other demographic information in connection with admission to or enrollment in an academy.
+
+&emsp;"(2)
+
+Consistency with omb guidance.—The standard classifications established under paragraph (1) shall be consistent with the standard classifications specified in Office of Management and Budget Directive No. 15 (pertaining to race and ethnic standards for Federal statistics and administrative reporting) or any successor directive.
+
+&emsp;"(3)
+
+Incorporation into applications and records.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall incorporate the standard classifications established under paragraph (1) into—
+
+&emsp;&emsp;"(A) applications for admission to the military service academies; and
+
+&emsp;&emsp;"(B) the military personnel records of cadets and midshipmen enrolled in such academies.
+
+"(c)
+
+Annual Report on the Demographics Military Service Academy Applicants.—
+
+&emsp;"(1)
+
+Report required.—Not later than September 30 of each year beginning after the establishment of the online portal, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the demographics of applicants to military service academies for the most recently concluded application year.
+
+&emsp;"(2)
+
+Elements.—Each report under paragraph (1) shall include, with respect to each military service academy, the following:
+
+&emsp;&emsp;"(A) The number of individuals who submitted an application for admission to the academy in the application year covered by the report.
+
+&emsp;&emsp;"(B) Of the individuals who submitted an application for admission to the academy in such year—
+
+&emsp;&emsp;&emsp;"(i) the overall demographics of applicant pool, disaggregated by the classifications established under subsection (b);
+
+&emsp;&emsp;&emsp;"(ii) the number and percentage who received a nomination, disaggregated by the classifications established under subsection (b);
+
+&emsp;&emsp;&emsp;"(iii) the number and percentage who received an offer for appointment to the academy, disaggregated by the classifications established under subsection (b); and
+
+&emsp;&emsp;&emsp;"(iv) the number and percentage who accepted an appointment to the academy, disaggregated by the classifications established under subsection (b).
+
+&emsp;"(3)
+
+Consultation.—In preparing each report under paragraph (1), the Secretary shall consult with the Superintendents of the military service academies.
+
+&emsp;"(4)
+
+Availability of reports and data.—The Secretary shall—
+
+&emsp;&emsp;"(A) make the results of each report under paragraph (1) available on a publicly accessible website of the Department of Defense; and
+
+&emsp;&emsp;"(B) ensure that any data included with the report is made available in a machine-readable format that is downloadable, searchable, and sortable.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'application year' means the period beginning on January 1 of one year and ending on June 1 of the following year.
+
+&emsp;"(2) The term 'machine-readable' has the meaning given that term in section 3502(18) of title 44, United States Code.
+
+&emsp;"(3) The term 'military service academy' means—
+
+&emsp;&emsp;"(A) the United States Military Academy;
+
+&emsp;&emsp;"(B) the United States Naval Academy; and
+
+&emsp;&emsp;"(C) the United States Air Force Academy."
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 

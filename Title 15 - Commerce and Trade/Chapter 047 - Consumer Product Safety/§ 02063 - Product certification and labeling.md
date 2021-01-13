@@ -54,7 +54,7 @@ Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 
 
 &emsp;&emsp;(vi)
 
-All other children's product safety rules.—The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children's product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children's product safety rules established or revised 1 year or more after such date, not later than 90 days before such rules or revisions take effect.
+All other children's product safety rules.—The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children's product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children's product safety rules established or revised 1 year or more after such date, notlater than 90 days before such rules or revisions take effect.
 
 &emsp;(C)
 
@@ -136,7 +136,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(ii) The extent to which modification of the certification requirements may have the effect of reducing redundant third party testing by or on behalf of 2 or more importers of a product that is substantially similar or identical in all material respects.
 
-&emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset ofsuch components selected by a third party conformity assessment body.
+&emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset of such components selected by a third party conformity assessment body.
 
 &emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantially similar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
 
@@ -224,7 +224,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (B) Metal component parts of bicycles
 
-&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to metal component parts of bicycles with respect to compliance with the lead content limits in place pursuant to section 1278a(b)(6) of this title.
+&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to metal component parts of bicycleswith respect to compliance with the lead content limits in place pursuant to section 1278a(b)(6) of this title.
 
 #### (e) Withdrawal of accreditation
 
@@ -324,7 +324,7 @@ In this section:
 
 #### (h) Rule of construction
 
-Compliance of any children's product with third party testing and certification or generalconformity certification requirements under this section shall not be construed to exempt such children's product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
+Compliance of any children's product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children's product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 
 #### (i) Requirement for advertisements
 

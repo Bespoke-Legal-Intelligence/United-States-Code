@@ -40,6 +40,8 @@ In subsection (a), the words "from time to time examine" are substituted for "ex
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 901(c) of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 60e–2(a) of Title 2, The Congress.
@@ -52,9 +54,11 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: "That this Act \[amending sections 903 to 906 and 908 to912 of this title\] may be cited as the 'Reorganization Act Amendments of 1984'."
+Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: "That this Act \[amending sections 903 to 906 and 908 to 912 of this title\] may be cited as the 'Reorganization Act Amendments of 1984'."
 
 #### Short Title of 1977 Amendment
 
@@ -63,6 +67,8 @@ Pub. L. 95–17, §1, Apr. 6, 1977, 91 Stat. 29, provided: "That this Act \[amen
 #### National Commission on Executive Organization
 
 Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally
 
@@ -388,7 +394,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 

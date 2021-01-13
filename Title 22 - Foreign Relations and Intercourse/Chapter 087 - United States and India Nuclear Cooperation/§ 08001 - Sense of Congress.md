@@ -38,6 +38,8 @@ It is the sense of Congress that—
 
 (Pub. L. 109–401, title I, §102, Dec. 18, 2006, 120 Stat. 2726.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 109–401, title I, §101, Dec. 18, 2006, 120 Stat. 2726, provided that: "This title \[enacting this chapter and amending section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare\] may be cited as the 'Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006'."
@@ -102,7 +104,7 @@ Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and
 
 "(c)
 
-Certification Requirement.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the 'Nuclear Non-Proliferation Treaty'), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
+Certification Requirement.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligationof the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the 'Nuclear Non-Proliferation Treaty'), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
 
 "(d)
 
@@ -188,6 +190,8 @@ Termination.—The requirement to transmit the report under paragraph (1) termin
 
 \[Functions of President under section 204(c) of Pub. L. 110–369, set out above, delegated to Secretary of State by Memorandum of President of the United States, Mar. 10, 2010, 75 F.R. 13427.\]
 
+#### <b>Executive Documents</b>
+
 #### Certifications Pursuant to the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act (Public Law 110–369)
 
 Determination of President of the United States, No. 2009–6, Oct. 20, 2008, 73 F.R. 63841, provided:
@@ -196,7 +200,7 @@ Memorandum for the Secretary of State
 
 Pursuant to section 102(c) and section 204(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, I hereby certify that:
 
-1\. Entry into force and implementation of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and
+1\. Entry into force and implementation of the United States-India Agreement for Cooperation on PeacefulUses of Nuclear Energy pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and
 
 2\. It is the policy of the United States to work with members of the Nuclear Suppliers Group, individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
 

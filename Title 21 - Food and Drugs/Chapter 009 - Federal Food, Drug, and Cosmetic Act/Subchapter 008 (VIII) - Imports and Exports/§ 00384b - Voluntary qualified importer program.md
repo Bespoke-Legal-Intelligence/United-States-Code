@@ -48,9 +48,11 @@ Any statement or representation made by an importer to the Secretary shall be su
 
 #### (g) Definition
 
-For purposes of this section, the term "importer" means the person that brings food, or causes food to be brought, from a foreign country into the customs territory of the United States.
+For purposes of this section, the term "importer" means the person that brings food, orcauses food to be brought, from a foreign country into the customs territory of the United States.
 
 (June 25, 1938, ch. 675, §806, as added Pub. L. 111–353, title III, §302, Jan. 4, 2011, 124 Stat. 3955.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

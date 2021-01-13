@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §112(c)(5), Dec. 4, 2018, 132 Stat. 4221, inserted subchapter III designation and heading.

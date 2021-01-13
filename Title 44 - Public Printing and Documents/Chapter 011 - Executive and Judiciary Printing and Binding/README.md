@@ -28,11 +28,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1102, 1111, and 1115.
 
 <b>1984</b>—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

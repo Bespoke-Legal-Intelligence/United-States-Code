@@ -12,7 +12,7 @@ Form of Notice.—If a notice appears on the phonorecords, it shall consist of t
 
 &emsp;(2) the year of first publication of the sound recording; and
 
-&emsp;(3) the name of the owner of copyright in the sound recording, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner; if the producer of the sound recording is named on the phonorecord labels or containers, and if no other name appears in conjunction with the notice, the producer's name shall be considered a part of the notice.
+&emsp;(3) the name of the owner of copyright in the sound recording, or an abbreviation by whichthe name can be recognized, or a generally known alternative designation of the owner; if the producer of the sound recording is named on the phonorecord labels or containers, and if no other name appears in conjunction with the notice, the producer's name shall be considered a part of the notice.
 
 (c)
 
@@ -34,6 +34,8 @@ In general, the form of the notice specified by section 402(b) consists of the s
 
 There are at least three reasons for prescribing use of the symbol "(P)" rather than "©" in the notice to appear on phonorecords of sound recordings. Aside from the need to avoid confusion between claims to copyright in the sound recording and in the musical or literary work embodied in it, there is also a necessity for distinguishing between copyright claims in the sound recording and in the printed text or art work appearing on the record label, album cover, liner notes, et cetera. The symbol "©" has also been adopted as the international symbol for the protection of sound recordings by the "Phonograms Convention" (the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, done at Geneva October 29, 1971), to which the United States is a party.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–568, §7(b)(1), (2), substituted "General provisions" for "General requirement" in heading, and "may be placed on" for "shall be placed on all" in text.
@@ -41,6 +43,8 @@ There are at least three reasons for prescribing use of the symbol "(P)" rather 
 Subsec. (b). Pub. L. 100–568, §7(b)(3), substituted "If a notice appears on the phonorecords, it" for "The notice appearing on the phonorecords".
 
 Subsec. (d). Pub. L. 100–568, §7(b)(4), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

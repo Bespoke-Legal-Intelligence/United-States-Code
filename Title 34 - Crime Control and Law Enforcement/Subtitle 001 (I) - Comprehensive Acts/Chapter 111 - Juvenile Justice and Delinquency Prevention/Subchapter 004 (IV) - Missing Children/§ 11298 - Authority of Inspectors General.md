@@ -20,6 +20,8 @@ An Inspector General appointed under section 3 or 8G of the Inspector General Ac
 
 (Pub. L. 101–647, title XXXVII, §3703, as added Pub. L. 110–344, §9, Oct. 7, 2008, 122 Stat. 3936.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.

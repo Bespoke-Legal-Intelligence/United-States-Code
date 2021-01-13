@@ -4,6 +4,8 @@ The certificate mentioned in section 1a of this title shall be countersigned by 
 
 (R.S. §19.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §19 derived from act July 25, 1866, ch. 245, §3, 14 Stat. 244.

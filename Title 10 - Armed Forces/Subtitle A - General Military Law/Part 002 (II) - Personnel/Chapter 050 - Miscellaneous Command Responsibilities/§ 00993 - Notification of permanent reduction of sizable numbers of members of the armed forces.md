@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "indirect reduction" means subsequent planned reductions or relocations in base operations support services and personnel able to occur due to the direct reductions.
 
-&emsp;(2) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the severalStates, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+&emsp;(2) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
 (Added Pub. L. 112–81, div. B, title XXVIII, §2864(a), Dec. 31, 2011, 125 Stat. 1702; amended Pub. L. 112–239, div. B, title XXVIII, §2851, Jan. 2, 2013, 126 Stat. 2159.)
 

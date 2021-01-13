@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of 10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000—
+In General.—The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000—
 
 &emsp;(1) provides that all certifications for an end-state capability or asset under such contract, delivery order, or task order, respectively, will be conducted by the Commandant or an independent third party, and that self-certification by a contractor or subcontractor is not allowed;
 
@@ -40,6 +40,8 @@ Technical Authority.—The Commandant shall maintain or designate the technical 
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2936, §565; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, §3533(f), Aug. 13, 2018, 132 Stat. 2321; renumbered §1106 and amended Pub. L. 115–282, title I, §§108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §108(b), renumbered section 565 of this title as this section.
@@ -51,6 +53,8 @@ Subsec. (b)(1). Pub. L. 115–232, §3533(f)(2), struck out "after the date of e
 Subsec. (d). Pub. L. 115–282, §123(b)(2), substituted "section 308" for "section 56".
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §402(a), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

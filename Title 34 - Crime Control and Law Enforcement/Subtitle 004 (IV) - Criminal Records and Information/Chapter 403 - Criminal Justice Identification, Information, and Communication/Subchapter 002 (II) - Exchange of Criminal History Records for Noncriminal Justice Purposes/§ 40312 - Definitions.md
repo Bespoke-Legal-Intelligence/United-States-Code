@@ -28,6 +28,8 @@ In this subchapter:
 
 (Pub. L. 105–251, title II, §213, Oct. 9, 1998, 112 Stat. 1874.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14612 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

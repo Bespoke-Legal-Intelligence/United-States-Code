@@ -4,9 +4,13 @@ Any clerical assistants who continue on the House pay rolls under the provisions
 
 (Aug. 21, 1935, ch. 600, §2, 49 Stat. 680.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 92c of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

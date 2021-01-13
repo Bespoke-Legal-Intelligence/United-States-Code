@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable, may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under section 3907 of this title.
+&emsp;Subject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable,may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under section 3907 of this title.
 
 #### (2) Financial risk assessment
 
@@ -176,6 +176,8 @@
 
 (Pub. L. 113–121, title V, §5029, June 10, 2014, 128 Stat. 1338; Pub. L. 114–322, title IV, §5008(c), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, §4201(a)(3), (b)(1), Oct. 23, 2018, 132 Stat. 3877, 3878.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
@@ -191,6 +193,8 @@ Subsec. (c)(2)(B). Pub. L. 115–270, §4201(a)(3), designated existing provisio
 <b>2016</b>—Subsec. (b)(7). Pub. L. 114–322, §5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B).
 
 Subsec. (b)(10). Pub. L. 114–322, §5008(c)(2), added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

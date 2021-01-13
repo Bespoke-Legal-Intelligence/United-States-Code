@@ -4,9 +4,13 @@ When the authorization of a project of river and harbor improvement requires tha
 
 (Mar. 3, 1933, ch. 216, 47 Stat. 1545; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 A prior provision that the reduction authorized by this section was not to apply to contributions made prior to Mar. 3, 1933, was omitted as obsolete.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

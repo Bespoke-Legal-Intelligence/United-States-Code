@@ -10,7 +10,7 @@ Nothing in this section shall affect the ability of a State to impose, on a comp
 
 #### (c) State and local government authority
 
-Nothing in this section affects the authority of a State or local government to manage the public rights-of-way or to require fair and reasonable compensation from telecommunications providers, on a competitively neutral and nondiscriminatory basis, for use of public rights-of-way on a nondiscriminatory basis, if the compensation required is publicly disclosed by such government.
+Nothing in this section affects the authority of a State or local government to manage thepublic rights-of-way or to require fair and reasonable compensation from telecommunications providers, on a competitively neutral and nondiscriminatory basis, for use of public rights-of-way on a nondiscriminatory basis, if the compensation required is publicly disclosed by such government.
 
 #### (d) Preemption
 

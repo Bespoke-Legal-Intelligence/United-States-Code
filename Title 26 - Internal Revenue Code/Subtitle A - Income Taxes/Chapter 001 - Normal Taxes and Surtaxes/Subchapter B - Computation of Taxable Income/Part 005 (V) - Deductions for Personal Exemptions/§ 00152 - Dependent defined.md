@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "dependent" does not include an individual who is not a citizen or national of the United States unless such individual is a resident of the United States or a country contiguous to the United States.
+&emsp;&emsp;The term "dependent" does not include an individual who is not a citizen or national ofthe United States unless such individual is a resident of the United States or a country contiguous to the United States.
 
 #### (B) Exception for adopted child
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) No parent claiming qualifying child
 
-&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but noparent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
+&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
 
 #### (d) Qualifying relative
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of an individual legally separated from the individual's spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
 
-&emsp;&emsp;&emsp;(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is noliability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+&emsp;&emsp;&emsp;(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
 
 #### (e) Special rule for divorced parents, etc.
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 #### (3) Determination of household status
 
-&emsp;An individual shall not be treated as a member of the taxpayer's household if at any timeduring the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
+&emsp;An individual shall not be treated as a member of the taxpayer's household if at any time during the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
 
 #### (4) Brother and sister
 
@@ -372,7 +372,7 @@ Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted "section 151(c)(4)" f
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted "section 151(c)(3)" for "section 151(e)(3)".
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse ofparent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted "section 213(d)(5)" for "section 213(d)(4)".
 
@@ -440,7 +440,7 @@ Amendment by section 482(b)(2) of Pub. L. 98–369 applicable to taxable years b
 
 Amendment by section 1901(a)(24), (b)(7)(B), (8)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, §2139(b), Oct. 4, 1976, 90 Stat. 1932, provided that: "The amendment made by this section \[amending this section\] shall apply to taxableyears beginning after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XXI, §2139(b), Oct. 4, 1976, 90 Stat. 1932, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Effective Date of 1972 Amendment
 

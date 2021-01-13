@@ -24,7 +24,7 @@
 
 #### (B) Transfer authority during transition
 
-&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
+&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House ofRepresentatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
 
 #### (2) General expenses
 
@@ -50,7 +50,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (A) In general
 
-&emsp;&emsp;The Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, suspend with or without pay, discipline, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to andin accordance with applicable laws and regulations.
+&emsp;&emsp;The Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, suspend with or without pay, discipline, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to and in accordance with applicable laws and regulations.
 
 #### (B) Special rule for terminations
 
@@ -88,6 +88,8 @@ This section and the amendments made by this section shall take effect on Februa
 
 (Pub. L. 108–7, div. H, title I, §1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, §2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49; Pub. L. 113–76, div. I, title I, §1002(b), Jan. 17, 2014, 128 Stat. 424.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the amendments made by this section, referred to in subsec. (i), see Codification note below.
@@ -103,6 +105,8 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 <b>2014</b>—Pub. L. 113–76 struck out subsec. (f) which established a worker's compensation account for the Capitol Police.
 
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

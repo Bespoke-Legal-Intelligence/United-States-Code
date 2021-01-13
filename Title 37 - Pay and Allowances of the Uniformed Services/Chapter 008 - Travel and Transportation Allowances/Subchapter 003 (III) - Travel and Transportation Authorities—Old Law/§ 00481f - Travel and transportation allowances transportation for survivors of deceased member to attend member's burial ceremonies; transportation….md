@@ -34,7 +34,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 (d)
 
-Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
+Travel And Transportation Allowances In Connection With Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip travel and transportation allowances in connection with ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
 &emsp;(A) The primary next of kin of the member.
 
@@ -70,9 +70,21 @@ Regulations.—The Secretaries concerned shall prescribe uniform regulations to 
 
 Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481fand amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841; Pub. L. 116–283, div. A, title XI, §1104(b), Jan. 1, 2021, 134 Stat. 3890.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 116–283, §1104(b)(1), which directed substitution of "
+
+Travel And Transportation Allowances In Connection With" for "
+
+Transportation To" in heading, was executed by making the substitution for "
+
+Transportation to" to reflect the probable intent of Congress.
+
+Subsec. (d)(1). Pub. L. 116–283, §1104(b)(2), substituted "travel and transportation allowances in connection with" for "transportation to" in introductory provisions.
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–92, §622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
 
@@ -129,6 +141,8 @@ Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted "The" for "If no per
 <b>1993</b>—Subsec. (c). Pub. L. 103–35 substituted "section 401(a) of this title" for "section 401 of this title".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted "or inactive duty in order that such dependents may" for "for a period of 30 days or more in order to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

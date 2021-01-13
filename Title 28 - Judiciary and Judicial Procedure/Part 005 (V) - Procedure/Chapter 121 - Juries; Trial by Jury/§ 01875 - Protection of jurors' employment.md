@@ -18,6 +18,8 @@
 
 (Added Pub. L. 95–572, §6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, §1, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 110–406, §19, Oct. 13, 2008, 122 Stat. 4295.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–406 substituted "$5,000 for each violation as to each employee, and may be ordered to perform community service." for "$1,000 for each violation as to each employee."
@@ -26,7 +28,9 @@
 
 Subsec. (d)(2). Pub. L. 97–463, §1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted "only if the court finds that the action is frivolous" for "if the court determines that the action is frivolous".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
+Section applicable with respect to any grand or petit juror summoned for service or actually serving on orafter Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
 

@@ -6,7 +6,7 @@ The Commission shall be composed of a Chairman and two members. The Chairman sha
 
 #### (b) Appointment and compensation of members other than Chairman
 
-The other members of the Commission shall be appointed by the President, by and with the advice and consent of the Senate, and serve on a part-time basis, and be compensated on a per diem basis at a rate of compensation equivalent to the daily rate for level V of the Executive Schedule under section 5316 of title 5 for each day that such member is employed in the actual performance of official business of the Commission as may be directed by the Chairman. Each member shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
+The other members of the Commission shall be appointed by the President, by and with the advice and consent of the Senate, and serve on a part-time basis, and be compensated on a per diem basis at a rate of compensation equivalentto the daily rate for level V of the Executive Schedule under section 5316 of title 5 for each day that such member is employed in the actual performance of official business of the Commission as may be directed by the Chairman. Each member shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (c) Terms of office
 
@@ -18,9 +18,13 @@ Notwithstanding the provisions of subsections (a), (b), and (c) of this section,
 
 (Pub. L. 96–209, title I, §103, Mar. 14, 1980, 94 Stat. 96.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the International Claims Settlement Act of 1949 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—CADETS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §110(c)(1)(B), Dec. 4, 2018, 132 Stat. 4213, inserted subchapter II designation and heading.

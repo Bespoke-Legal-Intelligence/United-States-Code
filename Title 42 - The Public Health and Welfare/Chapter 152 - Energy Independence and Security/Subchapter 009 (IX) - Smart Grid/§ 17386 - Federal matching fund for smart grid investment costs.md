@@ -8,7 +8,7 @@ The Secretary shall establish a Smart Grid Investment Matching Grant Program to 
 
 Qualifying Smart Grid investments may include any of the following made on or after December 19, 2007:
 
-&emsp;(1) In the case of appliances covered for purposes of establishing energy conservationstandards under part B of title III of the Energy Policy and Conservation Act of 1975 (42 U.S.C. 6291 et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
+&emsp;(1) In the case of appliances covered for purposes of establishing energy conservation standards under part B of title III of the Energy Policy and Conservation Act of 1975 (42 U.S.C. 6291 et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
 
 &emsp;(2) In the case of specialized electricity-using equipment, including motors and drivers, installed in industrial or commercial applications, the documented expenditures incurred by its owner or its manufacturer of installing devices or modifying that equipment to engage in Smart Grid functions.
 
@@ -62,7 +62,7 @@ The term "smart grid functions" means any of the following:
 
 &emsp;(5) The ability to detect, prevent, communicate with regard to, respond to, or recover from system security threats, including cyber-security threats and terrorism, using digital information, media, and devices.
 
-&emsp;(6) The ability of any appliance or machine to respond to such signals, measurements, orcommunications automatically or in a manner programmed by its owner or operator without independent human intervention.
+&emsp;(6) The ability of any appliance or machine to respond to such signals, measurements, or communications automatically or in a manner programmed by its owner or operator without independent human intervention.
 
 &emsp;(7) The ability to use digital information to operate functionalities on the electric utility grid that were previously electro-mechanical or manual.
 
@@ -94,7 +94,7 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 #### References in Text
 
-The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generally to part A (§6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generallyto part A (§6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 2621(d)(17) of title 16, referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146.
 

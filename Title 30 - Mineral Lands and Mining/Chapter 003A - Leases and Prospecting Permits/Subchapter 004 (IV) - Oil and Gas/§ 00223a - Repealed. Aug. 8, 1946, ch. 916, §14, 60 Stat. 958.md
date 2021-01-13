@@ -2,6 +2,8 @@
 
 Section, act Aug. 21, 1935, ch. 599, §2, 49 Stat. 679, related to new oil and gas leases in lieu of old.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 See note set out under section 181 of this title.

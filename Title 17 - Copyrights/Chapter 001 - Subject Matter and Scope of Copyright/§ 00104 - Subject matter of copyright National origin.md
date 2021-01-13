@@ -48,6 +48,8 @@ Section 104 of the bill \[this section\], which sets forth the basic criteria un
 
 The third of these conditions represents a treaty obligation of the United States. Under the Second Protocol of the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
@@ -68,6 +70,8 @@ Subsec. (d). Pub. L. 105–304, §102(b)(2), added subsec. (d).
 
 Subsec. (c). Pub. L. 100–568, §4(a)(3), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 102(b)(1) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, and amendment by section 102(b)(2) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(2)(C) of Pub. L. 105–304, set out as a note under section 101 of this title.
@@ -75,6 +79,8 @@ Amendment by section 102(b)(1) of Pub. L. 105–304 effective Oct. 28, 1998, exc
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 3792. Copyright Extension: Germany
 

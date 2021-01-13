@@ -54,7 +54,7 @@ Goals and Accountability.—In making grants under this section, the Secretary s
 
 &emsp;"(6) dwellings are developed in connection with assistance under this section on a geographically diverse basis, which includes areas having high housing costs, rural areas, and areas underserved by other homeownership opportunities that are populated by low-income families unable to otherwise afford housing.
 
-> If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section,the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
+> If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section, the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
 
 "(c)
 
@@ -114,7 +114,7 @@ Energy Efficiency Requirements.—The Secretary may not require any dwelling dev
 
 "(h)
 
-Geographical Diversity.—In making grants under subsection (a), the Secretary shall ensure that grants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
+Geographical Diversity.—In making grants under subsection (a), the Secretary shall ensure thatgrants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
 
 "(i)
 
@@ -154,7 +154,7 @@ Environmental Review.—A grant under this section shall be considered to be fun
 
 "(n)
 
-Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made underthis section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
+Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made under this section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
 
 "(o)
 
@@ -206,7 +206,7 @@ Self-help housing assistance.—$40,000,000 for carrying out section 11 of this 
 
 &emsp;"(2)
 
-National cities in schools community development program.—$10,000,000 for carrying out section 930 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3887).
+National cities in schools community development program.—$10,000,000 for carrying out section930 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3887).
 
 &emsp;"(3)
 

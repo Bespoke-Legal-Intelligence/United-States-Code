@@ -76,13 +76,15 @@ In this section—
 
 #### (4) Underserved populations
 
-&emsp;In making grants under this section, the Attorney General shall give priority to proposals providing services to culturally specific and underserved populations.
+&emsp;In making grants under this section, the Attorney General shall give priority to proposalsproviding services to culturally specific and underserved populations.
 
 #### (5) Authorization of appropriations
 
 &emsp;There is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2014 through 2018.
 
 (Pub. L. 103–322, title IV, §40801, as added Pub. L. 106–386, div. B, title II, §1209(a), Oct. 28, 2000, 114 Stat. 1508; amended Pub. L. 113–4, title II, §204(a), Mar. 7, 2013, 127 Stat. 82.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -91,6 +93,8 @@ Section was formerly classified to section 14041 of Title 42, The Public Health 
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–4 amended section generally. Prior to amendment, section defined terms for this part.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

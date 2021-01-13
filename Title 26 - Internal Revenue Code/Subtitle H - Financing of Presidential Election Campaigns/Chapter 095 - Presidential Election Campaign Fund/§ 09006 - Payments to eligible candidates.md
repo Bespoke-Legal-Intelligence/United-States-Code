@@ -26,7 +26,7 @@ Pub. L. 94–283, §302(a), redesignated subsec. (c) as (b). Former subsec. (b),
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Pub. L. 94–283, §302(a), (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund to make payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
+Pub. L. 94–283, §302(a), (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund tomake payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 94–283, §302(a), redesignated subsec. (d) as (c).
 

@@ -22,7 +22,9 @@ In determining whether or not probable cause exists for purposes of an order und
 
 #### (c) Specifications and directions of orders
 
-#### (1) Specifications
+(1)
+
+Specifications.—
 
 &emsp;An order approving an electronic surveillance under this section shall specify—
 
@@ -36,21 +38,21 @@ In determining whether or not probable cause exists for purposes of an order und
 
 &emsp;&emsp;(E) the period of time during which the electronic surveillance is approved.
 
-#### (2) Directions
+(2) direct— <sup>2</sup>
 
-&emsp;An order approving an electronic surveillance under this section shall direct—
+&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(A) that the minimization procedures be followed;
+&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
 
-&emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
+&emsp;(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
 
-&emsp;&emsp;(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
+(3)
 
-#### (3) Special directions for certain orders
+Special directions for certain orders.—
 
-&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+&emsp;An order approving an electronic surveillance under this section in circumstanceswhere the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
 &emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -84,7 +86,7 @@ In determining whether or not probable cause exists for purposes of an order und
 
 (2) If the Attorney General authorizes the emergency employment of electronic surveillance under paragraph (1), the Attorney General shall require that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
 
-(3) In the absence of a judicial order approving such electronic surveillance, the surveillance shall terminate when the information sought isobtained, when the application for the order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
+(3) In the absence of a judicial order approving such electronic surveillance, the surveillance shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
 
 (4) A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title.
 
@@ -162,31 +164,13 @@ Certifications made by the Attorney General pursuant to section 1802(a) of this 
 
 #### (i) Bar to legal action
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee,agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 
 #### (j) Pen registers and trap and trace devices
 
 In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title.
 
 (Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §§701(a), 705(a), (c), June 2, 2015, 129 Stat. 298, 300; Pub. L. 115–118, title II, §205(b)(2), Jan. 19, 2018, 132 Stat. 22; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143.)
-
-#### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that, effective Mar. 15, 2020, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:</i>
-
-&emsp;<i>(2) direct—</i>
-
-&emsp;&emsp;<i>(A) that the minimization procedures be followed;</i>
-
-&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
-
-&emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
-
-&emsp;&emsp;<i>(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.</i>
-
-<i>See 2006, 2009, 2010, 2011, 2015, and 2019 Amendment notes below.</i>
-
-<i>\[Amendment made by Pub. L. 114–23 to section 102(b) of Pub. L. 109–177, delaying the reversion of subsec. (c)(2) of this section from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.\]</i>
 
 #### References in Text
 
@@ -198,7 +182,7 @@ This chapter, referred to in subsecs. (d), (f)(1), and (i), was in the original 
 
 #### Codification
 
-As originally enacted, Pub. L. 107–56, §225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, §314(a)(2)(C), and Pub. L. 107–273, §4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 whichhad the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
+As originally enacted, Pub. L. 107–56, §225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, §314(a)(2)(C), and Pub. L. 107–273, §4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
 
 #### Amendments
 
@@ -280,7 +264,7 @@ Pub. L. 107–56, §225, as amended by Pub. L. 107–273, §4005(c), added subse
 
 <b>2000</b>—Subsecs. (b), (c). Pub. L. 106–567, §602(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–567, §602(b)(1), (3), redesignated subsec. (c) as (d) and substituted "subsection\(c)(1)" for "subsection (b)(1)". Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 106–567, §602(b)(1), (3), redesignated subsec. (c) as (d) and substituted "subsection (c)(1)" for "subsection (b)(1)". Former subsec. (d) redesignated (e).
 
 Subsecs. (e) to (h). Pub. L. 106–567, §602(b)(1), redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
@@ -302,7 +286,7 @@ In general.—Effective March 15, 2020, the Foreign Intelligence Surveillance Ac
 
 Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect."
 
-\[Pub. L. 109–177, §102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, §705(a), amended section 102(b)(1) by substituting "December 15, 2019" for "June 1, 2015", thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Amendment of Section, Codification, and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
+\[Pub. L. 109–177, §102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, §705(a), amended section 102(b)(1) by substituting "December 15, 2019" for "June 1, 2015", thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Codification and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
 
 #### Effective Date of 2004 Amendment
 
@@ -323,4 +307,6 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of Title 47, Telecommunications.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

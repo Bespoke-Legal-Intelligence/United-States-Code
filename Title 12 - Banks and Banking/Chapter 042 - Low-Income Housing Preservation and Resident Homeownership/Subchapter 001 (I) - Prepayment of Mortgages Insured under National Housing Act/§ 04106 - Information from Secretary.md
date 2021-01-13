@@ -2,7 +2,7 @@
 
 #### (a) Information to owners terminating affordability restrictions
 
-The Secretary shall provide each owner who submits a notice of intent to terminate the low-income affordability restrictions on the housing under section 4108 of this title with information under this section not later than 6 months after receipt of the notice of intent. The information shall include a description of the criteria for such termination specified under section 4108 of this title and the documentation required to satisfy such criteria.
+The Secretary shall provide each owner who submits a notice of intent to terminate the low-income affordability restrictions on the housing under section 4108 of this title with information under this section not later than 6 months after receipt of the notice of intent. The information shall include a description of the criteria for such termination specified under section 4108 ofthis title and the documentation required to satisfy such criteria.
 
 #### (b) Information to owners extending low-income affordability restrictions
 
@@ -43,6 +43,8 @@ The Secretary shall make any information provided to the owner under subsections
 &emsp;Upon filing a second notice of intent under this subsection, the owner shall simultaneously file such notice of the intent with the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located and with the mortgagee, and shall inform the tenants of the housing of the filing.
 
 (Pub. L. 100–242, title II, §216, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4253; amended Pub. L. 102–550, title III, §§303, 317(a)(2), Oct. 28, 1992, 106 Stat. 3763, 3772.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

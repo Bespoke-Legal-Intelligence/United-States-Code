@@ -22,7 +22,7 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 
 <b>1956</b>—Act Aug. 1, 1956, inserted "the Governor of Guam" after "Commissioner of Agriculture and Commerce of Puerto Rico," and "Guam" after "Puerto Rico" where they appeared in the three remaining places.
 
-Act July 2, 1956, struck out provisions which authorized the Secretary to cooperate with the Division ofGame and Fish of the Board of Commissioners of Agriculture and Forestry of Hawaii, removed the limitation of $25,000 on the amount of funds which could be apportioned to Hawaii in any one year, and substituted "Territory of Alaska" for "Territories" in two places.
+Act July 2, 1956, struck out provisions which authorized the Secretary to cooperate with the Division of Game and Fish of the Board of Commissioners of Agriculture and Forestry of Hawaii, removed the limitation of $25,000 on the amount of funds which could be apportioned to Hawaii in any one year, and substituted "Territory of Alaska" for "Territories" in two places.
 
 <b>1950</b>—Act Aug. 3, 1950, increased funds allocated annually to Alaska and Hawaii from $25,000 to $10,000, respectively, to $75,000 and $25,000.
 

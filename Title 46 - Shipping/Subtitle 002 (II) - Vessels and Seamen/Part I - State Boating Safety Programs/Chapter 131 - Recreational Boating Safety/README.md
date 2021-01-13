@@ -19,6 +19,8 @@
 
 This Chapter establishes the recreational boating safety and facility program administered by the Coast Guard. The general purpose is to encourage State participation in boating safety education and enforcement activities.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title VI, §601(c)(4)(A), Dec. 4, 2018, 132 Stat. 4289, struck out item 13110 "National Boating Safety Advisory Council".

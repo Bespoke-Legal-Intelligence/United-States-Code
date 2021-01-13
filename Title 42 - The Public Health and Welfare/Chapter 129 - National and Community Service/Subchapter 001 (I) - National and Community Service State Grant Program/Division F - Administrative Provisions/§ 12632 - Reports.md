@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 120 days after the end of each fiscal year, the Corporation shall prepare andsubmit, to the authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate, a report concerning the programs that receive assistance under the national service laws.
+&emsp;Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate, a report concerning the programs that receive assistance under the national service laws.
 
 #### (2) Content
 

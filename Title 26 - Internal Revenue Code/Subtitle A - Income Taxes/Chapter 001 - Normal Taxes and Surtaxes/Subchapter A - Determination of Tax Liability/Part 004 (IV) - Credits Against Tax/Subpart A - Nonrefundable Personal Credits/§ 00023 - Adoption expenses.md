@@ -246,7 +246,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by thissection \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011."
+Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by this section \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -318,7 +318,7 @@ Subsection (a).—The amendments made by subsection (a) \[amending this section 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6018(h), July 22, 1998, 112 Stat. 823, provided that: "The amendments made by this section \[amending this section and sections 219, 408, 414, and 679 of this title and amending provisions set out as notes under sections 167 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate."
+Pub. L. 105–206, title VI, §6018(h), July 22, 1998, 112 Stat. 823, provided that: "The amendments made by this section \[amending this section and sections 219,408, 414, and 679 of this title and amending provisions set out as notes under sections 167 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate."
 
 Amendment by section 6008(d)(6) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -328,7 +328,7 @@ Pub. L. 105–34, title XVI, §1601(j), Aug. 5, 1997, 111 Stat. 1093, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection, sections 30A, 52, 55, 137, 401, 403, 404, 408, 414, 512, 529, 593, 641, 679, 860L, 956, 1361, 1374, 4001, 4041, 4092, 4261, 6039D, 6048, 6050R, 6501, 6693, 7701, and 9503 of this title, section 1055 of Title 29, Labor, and provisions set out as notes under sections 529 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 30A, 52, 55, 137, 401, 403, 404, 408, 414, 512, 529, 593, 641, 679, 860L, 956, 1361, 1374, 4001, 4041, 4092, 4261, 6039D, 6048, 6050R, 6501, 6693, 7701, and 9503 of this title, section 1055 of Title 29, Labor, and provisions set out as notes under sections 529 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.
 
 "(2)
 

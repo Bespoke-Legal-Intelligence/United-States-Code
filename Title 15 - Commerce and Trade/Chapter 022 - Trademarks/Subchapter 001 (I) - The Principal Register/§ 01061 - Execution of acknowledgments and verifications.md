@@ -18,5 +18,5 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 

@@ -44,7 +44,7 @@
 
 #### (3) Consultation
 
-&emsp;The Administrator shall carry out activities under this subsection in consultation with the Advisory Commission and the National Community Antidrug Coalition Institute.
+&emsp;The Administrator shall carry out activities under this subsection in consultation with theAdvisory Commission and the National Community Antidrug Coalition Institute.
 
 #### (4) Limitation on use of certain funds for evaluation of Program
 
@@ -52,15 +52,19 @@
 
 (Pub. L. 100–690, title I, §1033, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 230; amended Pub. L. 107–82, §1(e), (f), Dec. 14, 2001, 115 Stat. 818; Pub. L. 115–271, title VIII, §8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, §2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–74, §2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, §8203(b)(4)(A). See 2018 Amendment note below.
 
-<b>2018</b>—Subsecs. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, §8203(b)(4)(A), as amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), substituted "substance use and misuse" for "substance abuse".
+<b>2018</b>—Subsec. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, §8203(b)(4)(A), as amended by Pub. L. 116–74, §2(c)(1)(A)(ii)(II), substituted "substance use and misuse" for "substance abuse".
 
 <b>2001</b>—Subsec. (b)(3). Pub. L. 107–82, §1(e), added par. (3).
 
 Subsec. (b)(4). Pub. L. 107–82, §1(f), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

@@ -24,7 +24,7 @@ Initial 14-day waiting period.—If the Board finds that a qualified employee ha
 
 &emsp;&emsp;(II)
 
-Subsequent days of unemployment.—For subsequent days of unemployment dueto the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
+Subsequent days of unemployment.—For subsequent days of unemployment due to the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
 
 &emsp;&emsp;(III)
 
@@ -72,11 +72,15 @@ Definition of period of continuing sickness.—For the purposes of this subparag
 
 Special rule regarding end of period.—For purposes of applying clause (ii), a period of continuing sickness ends when an employee exhausts rights to sickness benefits under subsection (c) of this section.
 
-(2) The daily benefit rate with respect to any such employee for such day of unemployment or sickness shall be in an amount equal to 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year, but not less than $12.70: <i>Provided, however</i>, That for registration periods beginning after June 30, 1975, but before July 1, 1976, such amount shall not exceed $24 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1976, but before July 1, 1988, such amount shall not exceed $25 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection. The daily rate of compensation referred to in this paragraph shall be determined by the Board on the basis of information furnished to the Board by the employee, his employer, or both.
+(2) The daily benefit rate with respect to any such employee for such day of unemployment or sickness shall be in an amount equal to 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year, but not less than $12.70: <i>Provided, however</i>, That for registration periods beginning after June 30, 1975, but before July 1, 1976, such amount shall not exceed $24 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1976, but before July 1, 1988, such amount shall not exceed $25 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and thatfor registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection. The daily rate of compensation referred to in this paragraph shall be determined by the Board on the basis of information furnished to the Board by the employee, his employer, or both.
 
 (3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this title shall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
 
 (4) In computing benefits to be paid, days of unemployment shall not be combined with days of sickness in the same registration period.
+
+(5)(A) Notwithstanding paragraph (3), subsection (c)(1)(B), and any other limitation on total benefits in this chapter, for registration periods beginning on or after April 1, 2020, but on or before July 31, 2020, and for registration periods beginning after December 26, 2020, but on or before March 14, 2021, a recovery benefit shall be payable to a qualified employee with respect to any registration period in which the employee received unemployment benefits under paragraph (1)(A), and in any registration period in which the employee did not receive unemployment benefits due to the limitation in subsection (c)(1)(B) or due to reaching the maximum number of days of benefits in the benefit year beginning July 1, 2019, or July 1, 2020, under subsection (c)(1)(A). No recovery benefits shall be payable under this section upon the exhaustion of the funds appropriated under subparagraph (B) for payment of benefits under this subparagraph. For registration periods beginning on or after April 1, 2020, but on or before July 31, 2020, the recovery benefit payable under this subparagraph shall be in the amount of $1,200. For registration periods beginning after December 26, 2020, but on or before March 14, 2021, the recovery benefit payable under this subparagraph shall be in the amount of $600.
+
+(B) Out of any funds in the Treasury not otherwise appropriated, there are appropriated $425,000,000 to cover the cost of recovery benefits provided under subparagraph (A), to remain available until expended.
 
 #### (b) Time of payments
 
@@ -114,19 +118,27 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 &emsp;&emsp;&emsp;Subject to clause (iii), in the case of an employee who has 10 or more years of service (as so defined), with respect to extended unemployment benefits—
 
-&emsp;&emsp;&emsp;&emsp;(I) subparagraph (A) shall be applied by substituting "130 days of unemployment" for "65 days of unemployment"; and
+&emsp;&emsp;&emsp;&emsp;(I) subparagraph (A) shall be applied by substituting "185 days of unemployment" for "65 days of unemployment"; and
 
-&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B) shall be applied by inserting "(or, in the case of unemployment benefits, 13 consecutive 14-day periods)" after "7 consecutive 14-day periods".
+&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B) shall be applied by inserting "(or, in the case of unemployment benefits, 19 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 <sup>1</sup> have elapsed)" after "7 consecutive 14-day periods".
 
 #### (ii) Employees with less than 10 years of service
 
-&emsp;&emsp;&emsp;Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted.
+&emsp;&emsp;&emsp;Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted and if—
+
+&emsp;&emsp;&emsp;&emsp;(A) subparagraph (A) were applied by substituting "120 days of unemployment" for "65 days of unemployment"; and
+
+&emsp;&emsp;&emsp;&emsp;(B) subparagraph (B) were applied by inserting "(or, in the case of unemployment benefits, 12 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 <sup>1</sup> have elapsed)" after "7 consecutive 14-day periods".
 
 #### (iii) Application
 
-&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2013, except that no extended benefit period under this paragraph shall begin after December 31, 2013. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2019, and ending on June 30, 2021, except that the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins after March 14, 2021, and shall not apply to any employee with respect to any registration period beginning after April 5, 2021..<sup>2</sup> Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (v) for payment of benefits under this subparagraph.
 
-#### (iv) Appropriation
+#### (iv) Treatment of certain calendar days
+
+&emsp;&emsp;&emsp;No calendar day occurring during the period beginning on the first date with respect to which the employee has exhausted all rights to extended unemployment benefits under this paragraph as in effect on the day before the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 <sup>1</sup> and ending with the date of such enactment may be treated as a day of unemployment for purposes of the payment of extended unemployment benefits under this paragraph.
+
+#### (v) Appropriation
 
 &emsp;&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.
 
@@ -134,7 +146,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (A) General rule
 
-&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respectto the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
+&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respect to the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
 
 #### (B) Exception
 
@@ -146,7 +158,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (d) Overpayment of benefits; recovery; liability of officers
 
-If the Board finds that at any time more than the correct amount of benefits has been paid to any individual under this chapter or a payment has been made to an individual not entitled thereto (including payments made prior to July 1, 1940), recovery by adjustments in subsequent payments to which such individual is entitled under this chapter or any other Act administered by the Board may, except as otherwise provided in this subsection, be made under regulations prescribed by the Board. If such individual dies before recovery is completed, recovery may be made by set-off or adjustments, under regulations prescribed by the Board, in subsequent payments due, under this chapter or any other Act administered by the Board, to the estate, designee, next of kin, legal representative, or surviving spouse of such individual, with respect to the employment of such individual.
+If the Board finds that at any time more than the correct amount of benefits has been paid toany individual under this chapter or a payment has been made to an individual not entitled thereto (including payments made prior to July 1, 1940), recovery by adjustments in subsequent payments to which such individual is entitled under this chapter or any other Act administered by the Board may, except as otherwise provided in this subsection, be made under regulations prescribed by the Board. If such individual dies before recovery is completed, recovery may be made by set-off or adjustments, under regulations prescribed by the Board, in subsequent payments due, under this chapter or any other Act administered by the Board, to the estate, designee, next of kin, legal representative, or surviving spouse of such individual, with respect to the employment of such individual.
 
 Adjustments under this subsection may be made either by deductions from subsequent payments or, with respect to payments which are to be made during a lifetime or lifetimes, by subtracting the total amount of benefits paid in excess of the proper amount from the actuarial value, as determined by the Board, of such payments to be made during a lifetime or lifetimes and recertifying such payments on the basis of the reduced actuarial value. In the latter case, recovery shall be deemed to have been completed upon such recertification.
 
@@ -166,13 +178,33 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10,1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344; Pub. L. 116–136, div. A, title II, §§2113, 2114(a), Mar. 27, 2020, 134 Stat. 334; Pub. L. 116–260, div. N, title II, §§232(a), 233(a), Dec. 27, 2020, 134 Stat. 1957.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2)(D)(iii) and (d), was in the original "this Act", meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+This chapter, referred to in subsecs. (a)(5)(A), (c)(2)(D)(iii), and (d), was in the original "this Act", meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+
+The date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 and the date of such enactment, referred to in subsec. (c)(2)(D)(i)(II), (ii)(B), (iv), is the date of enactment of chapter 1 (§201 et seq.) of subtitle A of title II of div. N of Pub. L. 116–260, which was approved Dec. 27, 2020. Chapter 1 included subchapter III (§231 et seq.), known as the Continued Assistance to Rail Workers Act of 2020, which, as part of chapter 1, was also approved Dec. 27, 2020.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(5). Pub. L. 116–136, §2113, added par. (5).
+
+Subsec. (a)(5)(A). Pub. L. 116–260, §232(a), inserted "and for registration periods beginning after December 26, 2020, but on or before March 14, 2021," after "July 31, 2020,", substituted "a recovery benefit" for "a recovery benefit in the amount of $1,200" and "July 1, 2019, or July 1, 2020" for "July 1, 2019", and inserted at end "For registration periods beginning on or after April 1, 2020, but on or before July 31, 2020, the recovery benefit payable under this subparagraph shall be in the amount of $1,200. For registration periods beginning after December 26, 2020, but on or before March 14, 2021, the recovery benefit payable under this subparagraph shall be in the amount of $600."
+
+Subsec. (c)(2)(D)(i)(I). Pub. L. 116–260, §233(a)(1)(A), substituted "185 days" for "130 days".
+
+Subsec. (c)(2)(D)(i)(II). Pub. L. 116–260, §233(a)(1)(B), substituted "19 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 have elapsed" for "13 consecutive 14-day periods".
+
+Subsec. (c)(2)(D)(ii). Pub. L. 116–260, §233(a)(2), in introductory provisions, substituted "if such clause had not been enacted and if—" for "if such clause had not been enacted.", and added subcls. (A) and (B).
+
+Subsec. (c)(2)(D)(iii). Pub. L. 116–260, §233(a)(3), substituted "June 30, 2021" for "June 30, 2020", "except that the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins after March 14, 2021, and shall not apply to any employee with respect to any registration period beginning after April 5, 2021." for "except that no extended benefit period under this paragraph shall begin after December 31, 2020", and "clause (v)" for "clause (iv)".
+
+Pub. L. 116–136, §2114(a), substituted "July 1, 2019" for "July 1, 2008", "June 30, 2020" for "June 30, 2013", and "December 31, 2020" for "December 31, 2013".
+
+Subsec. (c)(2)(D)(iv), (v). Pub. L. 116–260, §233(a)(4), (5), added cl. (iv) and redesignated former cl. (iv) as (v).
 
 <b>2013</b>—Subsec. (c)(2)(D)(iii). Pub. L. 112–240 substituted "June 30, 2013" for "June 30, 2012" and "December 31, 2013" for "December 31, 2012".
 
@@ -210,7 +242,7 @@ Subsec. (h). Pub. L. 104–251, §5(b), struck out subsec. (h), which provided f
 
 <b>1995</b>—Subsec. (h)(3). Pub. L. 104–88 substituted "Surface Transportation Board, adjusted, as determined by the Railroad Retirement Board" for "Interstate Commerce Commission, adjusted, as determined by the Board".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §7201(a)(1), (2), inserted "(1)" after "(a)" and substituted subpars. (A) and (B) for "Benefits shall be payable to any qualified employee for each day of unemployment in excess of four during any registration period: <i>Provided, however</i>, That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work. Benefits shall be payable to any qualified employee for each day of sickness after the fourth consecutive day of sickness in a period of continuing sickness, but excluding four days of sickness in any registration period. A period of continuing sickness means (i) a period of consecutive days of sickness, whether from one or more causes, or (ii) a period of successive days of sickness due to a single cause without interruption of more than ninety consecutive days which are not days of sickness."
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §7201(a)(1), (2), inserted "(1)" after "(a)" and substituted subpars. (A) and (B) for "Benefits shall be payable to any qualified employee for each day of unemployment in excess of four during any registration period: <i>Provided, however</i>, That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work. Benefits shall be payable to any qualified employee for each day of sickness after the fourth consecutive day of sickness in a period ofcontinuing sickness, but excluding four days of sickness in any registration period. A period of continuing sickness means (i) a period of consecutive days of sickness, whether from one or more causes, or (ii) a period of successive days of sickness due to a single cause without interruption of more than ninety consecutive days which are not days of sickness."
 
 Subsec. (a)(2). Pub. L. 100–647, §7201(a)(3)–(6), inserted "(2)" before "The daily benefit", substituted "sickness, that for" for "sickness and that for", inserted "but before July 1, 1988," after "June 30, 1976," and inserted ", that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection." after "unemployment or sickness".
 
@@ -218,7 +250,7 @@ Subsec. (a)(3). Pub. L. 100–647, §7201(a)(7), added par. (3).
 
 Subsec. (a)(4). Pub. L. 100–647, §7201(a)(8), inserted "(4)" before "In computing benefits".
 
-Subsec. (c). Pub. L. 100–647, §7101(c), substituted "shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount thatbears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600" for "not in excess of $775 in any month shall be taken into account".
+Subsec. (c). Pub. L. 100–647, §7101(c), substituted "shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600" for "not in excess of $775 in any month shall be taken into account".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–76 substituted "That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work" for "That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of the first seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment".
 
@@ -254,7 +286,7 @@ Subsec. (c). Act Aug. 31, 1954, §304(b), inserted proviso at end.
 
 <b>1952</b>—Subsec. (a). Act May 15, 1952, substituted a new table of daily benefit rates.
 
-<b>1946</b>—Subsec. (a). Act July 31, 1946, §305, changed first and second pars. to include benefits for days of sickness, changed reference to total amount of compensation payable to him in second par. to total compensation, added new benefit rates to table for compensation of $2,000 to $2,499.99 and $2,500 and over, and added last two pars. relating to maternity benefits and to computation of benefits.
+<b>1946</b>—Subsec. (a). Act July 31, 1946, §305, changed first and second pars. to include benefits for days of sickness, changed reference to total amount of compensation payable to him in second par. to total compensation, added new benefit rates to table for compensation of $2,000 to $2,499.99 and $2,500 and over, and added lasttwo pars. relating to maternity benefits and to computation of benefits.
 
 Subsec. (c). Act July 31, 1946, §306, increased maximum days of unemployment to 130 and established same maximum for days of sickness.
 
@@ -275,6 +307,12 @@ Subsec. (d). Act June 20, 1939, §§8, 9, redesignated subsec. (e) as (d). Forme
 Subsec. (e). Act June 20, 1939, §9, redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Act June 20, 1939, §9, redesignated subsec (g) as (f) and struck out reference to subsec. (a). Former subsec. (f) redesignated (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §233(b), Dec. 27, 2020, 134 Stat. 1958, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply as if included in the enactment of the CARES Act \[Pub. L. 116–136\] (15 U.S.C. 9001 et seq.)."
 
 #### Effective Date of 1996 Amendment
 
@@ -334,13 +372,21 @@ Act July 31, 1946, ch. 709, §403, 60 Stat. 742, provided that: "Sections 301, 3
 
 For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 10, 1940, set out as a note under section 351 of this title.
 
+#### Clarification on Authority To Use Funds
+
+Pub. L. 116–260, div. N, title II, §232(b), Dec. 27, 2020, 134 Stat. 1957, provided that: "Funds appropriated under subparagraph (B) of section 2(a)(5) of the Railroad Unemployment Insurance Act (45 U.S.C. 352(a)(5)) shall be available to cover the cost of recovery benefits provided under such section 2(a)(5) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(a)(5) as in effect on the day before the date of enactment of this Act \[Dec. 27, 2020\]."
+
+Pub. L. 116–260, div. N, title II, §233(c), Dec. 27, 2020, 134 Stat. 1958, provided that: "Funds appropriated under either the first or second sentence of clause (v) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)(2)(D)\] (as redesignated by subsection (a)(4)) shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D) as in effect on the day before the date of enactment of this Act \[Dec. 27, 2020\]."
+
+Pub. L. 116–136, div. A, title II, §2114(b), Mar. 27, 2020, 134 Stat. 334, provided that: "Funds appropriated under either the first or second sentence of clause (iv) \[now (v)\] of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)(2)(D)(v)\] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D) as in effect on the day before the date of enactment of this Act \[Mar. 27, 2020\]."
+
 #### Extended Unemployment Benefits and Administrative Expenses
 
 Pub. L. 112–240, title V, §504(b), (c), Jan. 2, 2013, 126 Stat. 2345, provided that:
 
 "(b)
 
-Clarification on Authority to Use Funds.—Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)(2)(D)\] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act \[Jan. 2, 2013\].
+Clarification on Authority to Use Funds.—Funds appropriated under either the first or second sentence of clause (iv) \[now (v)\] of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)(2)(D)(v)\] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act \[Jan. 2, 2013\].
 
 "(c)
 
@@ -422,15 +468,7 @@ Termination of Benefits.—In the case of an individual who is receiving extende
 
 #### GAO Study of Fraud and Payment Errors
 
-Pub. L. 100–647, title VII, §7107, Nov. 10, 1988, 102 Stat. 3774, provided that: "The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program. Not later than 1 year after the date of the enactment of this Act \[Nov. 10, 1988\], the Comptroller General shall report to Congress the results of such study. Such report shall include—
-
-&emsp;"(1) estimates of rates and amounts of annual losses due to fraud and overpayment;
-
-&emsp;"(2) comparisons of such rates with the rates of losses in other Federal programs which experience such losses;
-
-&emsp;"(3) recommendations for legislative measures that could be taken to reduce the losses in the railroad unemployment compensation program arising from fraud and payment errors; and
-
-&emsp;"(4) such other matters relating to such fraud and payment errors as the Comptroller General determines are appropriate."
+Pub. L. 100–647, title VII, §7107, Nov. 10, 1988, 102 Stat. 3774, provided that the Comptroller General would study the frequency of fraud and payment errors in the railroad unemployment compensation program, and not later than 1 year after Nov. 10, 1988, report various estimates, comparisons, and recommendations to Congress.
 
 #### Benefits for Certain Employees Who Exhausted Rights to Benefits Before April 1, 1959
 
@@ -439,4 +477,8 @@ Pub. L. 86–28, pt. III, §303(b), May 19, 1959, 73 Stat. 31, provided that: "A
 #### Interchange of Information Between Secretary of Labor and Railroad Retirement Board
 
 Pub. L. 86–28, pt. III, §303(c), May 19, 1959, 73 Stat. 31, provided that: "The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof \[set out above\], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 \[section 1400 et seq. of Title 42, The Public Health and Welfare\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

@@ -48,7 +48,7 @@ For purposes of this section a reportable event occurs—
 
 &emsp;&emsp;(C) immediately after the distribution, the plan has nonforfeitable benefits which are not funded;
 
-&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of thistitle, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
+&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of this title, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
 
 &emsp;(9) when, as a result of an event, a person ceases to be a member of the controlled group;
 
@@ -84,6 +84,8 @@ Any information or documentary material submitted to the corporation pursuant to
 
 (Pub. L. 93–406, title IV, §4043, Sept. 2, 1974, 88 Stat. 1024; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 103–465, title VII, §771(a)–(e)(1), Dec. 8, 1994, 108 Stat. 5042, 5043; Pub. L. 109–280, title IV, §407(c)(2), Aug. 17, 2006, 120 Stat. 930.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -105,6 +107,8 @@ Subsecs. (d), (e). Pub. L. 103–465, §771(b), (e)(1), redesignated subsecs. (c
 Subsec. (f). Pub. L. 103–465, §771(d), added subsec. (f).
 
 <b>1989</b>—Subsec. (b)(4). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

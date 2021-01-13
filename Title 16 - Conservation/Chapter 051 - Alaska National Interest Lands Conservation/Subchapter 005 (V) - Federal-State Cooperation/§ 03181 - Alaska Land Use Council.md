@@ -106,7 +106,7 @@ The Council shall establish and implement a public participation program to assi
 
 &emsp;(1) A committee of land-use advisors appointed by the Cochairmen made up of representatives of commercial and industrial land users in Alaska, recreational land users, wilderness users, environmental groups, Native Corporations, and other public and private organizations. To the maximum extent practicable, the membership of the committee shall provide a balanced mixture of national, State, and local perspective and expertise on land and resource use issues; and
 
-&emsp;(2) A system for (A) the identification of persons and communities, in rural and urban Alaska, who or which may be directly or significantly affected by studies conducted, or advice and recommendations given by the Council pursuant to this section, and (B) guidelines for, and implementation of, a system for effective public participation by such persons or communities in the development of such studies, advice and recommendations by the Council.
+&emsp;(2) A system for (A) the identification of persons and communities, in rural and urban Alaska, who or which may be directly or significantly affected by studies conducted, or advice and recommendations given by the Council pursuant to this section, and (B) guidelines for, and implementation of, a system for effective public participation by suchpersons or communities in the development of such studies, advice and recommendations by the Council.
 
 (Pub. L. 96–487, title XII, §1201, Dec. 2, 1980, 94 Stat. 2466.)
 

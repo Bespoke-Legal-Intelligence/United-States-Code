@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Each beneficiary country that enters into a Conservation Agreement under section 2431g ofthis title shall be required to establish a Conservation Fund to receive payments of interest and principal on new obligations undertaken by the beneficiary country under this subchapter.
+Each beneficiary country that enters into a Conservation Agreement under section 2431g of this title shall be required to establish a Conservation Fund to receive payments of interest and principal on new obligations undertaken by the beneficiary country under this subchapter.
 
 #### (b) Requirements relating to operation of Fund
 
@@ -15,6 +15,8 @@ The following terms and conditions shall apply to the Fund in the same manner as
 &emsp;(3) The provision relating to disbursements under subsection (d) of such section.
 
 (Pub. L. 87–195, pt. V, §810, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 892; amended Pub. L. 108–323, §3(c), Oct. 6, 2004, 118 Stat. 1219; Pub. L. 115–440, §9(a), Jan. 14, 2019, 132 Stat. 5584.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

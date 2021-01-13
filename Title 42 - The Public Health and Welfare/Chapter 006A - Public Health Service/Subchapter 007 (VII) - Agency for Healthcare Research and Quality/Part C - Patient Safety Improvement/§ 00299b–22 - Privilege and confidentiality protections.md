@@ -64,7 +64,7 @@ Except as provided in subsection (g)(3)—
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) shall continue to be privileged and confidential as provided for in subsections (a) and (b), and such disclosure shall not be treated as a waiver of privilege orconfidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) shall continue to be privileged and confidential as provided for in subsections (a) and (b), and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
@@ -120,7 +120,7 @@ Except as provided in subsection (g)(3)—
 
 #### (2) Procedure
 
-&emsp;The provisions of section 1320a–7a of this title, other than subsections (a) and (b) and the first sentence of subsection (c)(1), shall apply to civil money penalties under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title.
+&emsp;The provisions of section 1320a–7a of this title, other than subsections (a) and (b) andthe first sentence of subsection (c)(1), shall apply to civil money penalties under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title.
 
 #### (3) Relation to HIPAA
 

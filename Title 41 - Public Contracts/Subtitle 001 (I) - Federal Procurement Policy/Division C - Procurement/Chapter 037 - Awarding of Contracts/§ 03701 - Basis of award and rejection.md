@@ -30,6 +30,8 @@ June 30, 1949, ch. 288, title III, §303B(a), (b), as added Pub. L. 98–369, ti
 
 41:253b(b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Use of Lowest Price Technically Acceptable Source Selection Process
 
 Pub. L. 115–232, div. A, title VIII, §880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, §806(a)(2), Dec. 20, 2019, 133 Stat. 1485, provided that:
@@ -89,6 +91,8 @@ Pub. L. 98–577, title I, §101, Oct. 30, 1984, 98 Stat. 3066, provided that: "
 &emsp;"(2) promote the use of contracting opportunities as a means to expand the industrial base of the United States in order to ensure adequate responsive capability of the economy to the increased demands of the Government in times of national emergency; and
 
 &emsp;"(3) foster opportunities for the increased participation in the competitive procurement process of small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12979. Agency Procurement Protests
 

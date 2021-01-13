@@ -14,6 +14,8 @@ Use of Non-Department Facilities.—In carrying out this section, the Secretary 
 
 (Added Pub. L. 115–182, title I, §153(a), June 6, 2018, 132 Stat. 1437; amended Pub. L. 115–251, title II, §211(a)(10), Sept. 29, 2018, 132 Stat. 3175.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–251 substituted "this title" for "this chapter".

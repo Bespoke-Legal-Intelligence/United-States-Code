@@ -18,7 +18,9 @@ A complete and detailed statement of the facts and pertinent provisions of law i
 
 The number of aliens who may be granted the status of aliens lawfully admitted for permanent residence in any fiscal year, pursuant to this section, shall not exceed fifty.
 
-(Pub. L. 85–316, §13, Sept. 11, 1957, 71 Stat. 642; Pub. L. 97–116, §17, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(kk), Oct. 24, 1988, 102 Stat. 2622; Pub. L. 103–416, title II, §207, Oct. 25, 1994, 108 Stat. 4312; Pub. L. 104–208, div. C, title VI, §671(b)(4), Sept. 30, 1996, 110 Stat. 3009–721.)
+(Pub. L. 85–316, §13, Sept. 11, 1957, 71 Stat. 642; Pub. L. 97–116, §17, Dec. 29, 1981, 95 Stat. 1619;Pub. L. 100–525, §9(kk), Oct. 24, 1988, 102 Stat. 2622; Pub. L. 103–416, title II, §207, Oct. 25, 1994, 108 Stat. 4312; Pub. L. 104–208, div. C, title VI, §671(b)(4), Sept. 30, 1996, 110 Stat. 3009–721.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Pub. L. 103–416, §207(2), as amended by Pub. L. 104–208, substituted "The" 
 <b>1988</b>—Subsec. (b). Pub. L. 100–525 struck out "of" after "as of the date".
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116 inserted provision requiring that the alien has shown compelling reasons demonstrating both that the alien is unable to return to the country represented by the government which accredited the alien or the member of the alien's immediate family and that adjustment of the alien's status to that of an alien lawfully admitted for permanent residence would be in the national interest.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

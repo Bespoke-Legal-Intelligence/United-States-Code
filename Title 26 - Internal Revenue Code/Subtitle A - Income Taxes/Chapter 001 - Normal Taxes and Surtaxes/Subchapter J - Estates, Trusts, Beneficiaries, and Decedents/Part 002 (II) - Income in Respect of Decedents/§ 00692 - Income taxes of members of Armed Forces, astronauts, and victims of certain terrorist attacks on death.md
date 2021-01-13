@@ -10,7 +10,7 @@ In the case of any individual who dies while in active service as a member of th
 
 #### (b) Individuals in missing status
 
-For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of theUnited States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
 
 #### (c) Certain military or civilian employees of the United States dying as a result of injuries
 

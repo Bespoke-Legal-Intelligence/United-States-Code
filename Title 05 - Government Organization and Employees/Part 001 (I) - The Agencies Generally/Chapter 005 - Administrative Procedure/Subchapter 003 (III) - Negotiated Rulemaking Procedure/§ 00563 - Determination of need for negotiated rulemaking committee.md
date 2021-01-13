@@ -40,9 +40,13 @@ Duties of conveners.—The convener shall report findings and may make recommend
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §583; renumbered §563, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 583 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Negotiated Rulemaking Committees
 

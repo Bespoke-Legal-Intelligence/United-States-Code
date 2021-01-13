@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each bank for cooperatives shall elect a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
+Each bank for cooperatives shall elect a board of directors of such number, for such term, insuch manner, and with such qualifications as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
 #### (b) Nomination and election
 
@@ -19,6 +19,8 @@ Each bank for cooperatives shall elect a board of directors of such number, for 
 &emsp;The total number of votes under this subsection shall be the number of voting stockholders of a bank for cooperatives multiplied by two.
 
 (Pub. L. 92–181, title III, §3.2, Dec. 10, 1971, 85 Stat. 603; Pub. L. 99–205, title II, §205(e)(2), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–399, title IX, §901(d), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, §503, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 115–334, title V, §5411(5), Dec. 20, 2018, 132 Stat. 4679.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (b)(2). Pub. L. 115–334, §5411(5)(D)(i), (E), redesignated subsec. (a
 Subsec. (b). Pub. L. 100–399 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For the purposes of this section the provisions of sections 2222(b) and (c), 2225, 2226, and 2227 of this title shall apply to and shall be the authority of the Central Bank for Cooperatives the same as though it were a district bank."
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–205 substituted "Farm Credit Administration" for "Governor with the advice and consent of the Federal Farm Credit Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

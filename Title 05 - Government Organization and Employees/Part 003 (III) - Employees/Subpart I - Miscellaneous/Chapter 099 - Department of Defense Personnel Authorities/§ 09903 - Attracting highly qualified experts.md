@@ -8,7 +8,7 @@ In General.—The Secretary may carry out a program using the authority provided
 
 Authority.—Under the program, the Secretary may—
 
-&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such termsare defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
+&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
 
 &emsp;(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376, as increased by locality-based comparability payments under section 5304, notwithstanding any provision of this title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -56,11 +56,15 @@ Savings Provisions.—In the event that the Secretary terminates this program, i
 
 (Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1632; amended Pub. L. 112–81, div. A, title XI, §1105, Dec. 31, 2011, 125 Stat. 1612.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2). Pub. L. 112–81, §1105(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section."
+<b>2011</b>—Subsec. (d)(2). Pub. L. 112–81, §1105(1), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section."
 
 Subsec. (d)(3). Pub. L. 112–81, §1105(2), inserted at end "In computing an employee's total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
@@ -88,7 +92,7 @@ Requirement to Disclose Names of Senior Mentors.—The Secretary of Defense shal
 
 "(b)
 
-Senior Mentor Defined.—In this section, the term 'senior mentor' has the meaning provided in thememorandum from the Secretary of Defense relating to policy on senior mentors, dated April 1, 2010."
+Senior Mentor Defined.—In this section, the term 'senior mentor' has the meaning provided in the memorandum from the Secretary of Defense relating to policy on senior mentors, dated April 1, 2010."
 
 #### Requirements for Department of Defense Senior Mentors
 

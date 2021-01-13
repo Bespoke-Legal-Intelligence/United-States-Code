@@ -14,6 +14,8 @@ The first paragraph of the corresponding section of existing statute is revised 
 
 The last sentence relating to new matter is added but represents no departure from present practice.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out "of this title" after "41(h)(1)".
@@ -23,6 +25,8 @@ The last sentence relating to new matter is added but represents no departure fr
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4403\], designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

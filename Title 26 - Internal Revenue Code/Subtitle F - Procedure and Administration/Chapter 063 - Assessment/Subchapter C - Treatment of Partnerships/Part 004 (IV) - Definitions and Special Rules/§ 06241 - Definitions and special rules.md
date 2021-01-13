@@ -54,13 +54,13 @@ For purposes of this subchapter—
 
 #### (8) Extension to entities filing partnership return
 
-&emsp;If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of thissubchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
+&emsp;If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
 
 #### (9) Coordination with other chapters
 
 #### (A) In general
 
-&emsp;&emsp;This subchapter shall not apply with respect to any tax imposed (including any amount required to be deducted or withheld) under chapter 2, 2A, 3, or 4, except that any partnership adjustment determined under this subchapter for purposes of chapter 1 shall be taken into account for purposes of determining any such tax to the extent that such adjustment is relevant to such determination.
+&emsp;&emsp;This subchapter shall not apply with respect to any tax imposed (including any amount required to be deducted or withheld)under chapter 2, 2A, 3, or 4, except that any partnership adjustment determined under this subchapter for purposes of chapter 1 shall be taken into account for purposes of determining any such tax to the extent that such adjustment is relevant to such determination.
 
 #### (B) Timing of withholding
 

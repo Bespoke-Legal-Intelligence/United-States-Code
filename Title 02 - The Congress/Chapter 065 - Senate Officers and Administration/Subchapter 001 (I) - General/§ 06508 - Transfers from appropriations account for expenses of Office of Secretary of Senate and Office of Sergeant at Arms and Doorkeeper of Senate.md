@@ -6,19 +6,21 @@
 
 (Pub. L. 100–458, title I, §3, Oct. 1, 1988, 102 Stat. 2161; Pub. L. 101–302, title III, §317, May 25, 1990, 104 Stat. 247.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 68–6 of this title prior to editorial reclassification and renumbering as this section.
 
 Section is from the Congressional Operations Appropriations Act, 1989, which is title I of the Legislative Branch Appropriations Act, 1989.
 
-#### Amendments
-
-<b>1990</b>—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 100–202, §101(i) \[title I, §8\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295.
+
+#### Amendments
+
+<b>1990</b>—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
 

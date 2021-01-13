@@ -6,7 +6,7 @@ Congress finds the following:
 
 &emsp;(1) Fugitive Safe Surrender is a program of the United States Marshals Service, in partnership with public, private, and faith-based organizations, which temporarily transforms a church into a courthouse, so fugitives can turn themselves in, in an atmosphere where they feel more comfortable to do so, and have nonviolent cases adjudicated immediately.
 
-&emsp;(2) In the 4-day pilot program in Cleveland, Ohio, over 800 fugitives turned themselves in. By contrast, a successful Fugitive Task Force sweep, conducted for 3 days after Fugitive Safe Surrender, resulted in the arrest of 65 individuals.
+&emsp;(2) In the 4-day pilot program in Cleveland, Ohio, over 800 fugitives turned themselves in.By contrast, a successful Fugitive Task Force sweep, conducted for 3 days after Fugitive Safe Surrender, resulted in the arrest of 65 individuals.
 
 &emsp;(3) Fugitive Safe Surrender is safer for defendants, law enforcement, and innocent bystanders than needing to conduct a sweep.
 
@@ -31,6 +31,8 @@ There are authorized to be appropriated to the United States Marshals Service to
 Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
 
 (Pub. L. 109–248, title VI, §632, July 27, 2006, 120 Stat. 641.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

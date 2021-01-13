@@ -30,7 +30,7 @@
 
 (C) For the purposes of this paragraph, the term "eligible applicant" means any United States private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
 
-(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
+(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph todemonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
@@ -148,7 +148,7 @@ Request for proposals.—Not later than 12 months after the date of the enactmen
 
 &emsp;"(B)
 
-Award of contracts.—Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewerthan 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical.
+Award of contracts.—Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewer than 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical.
 
 &emsp;"(C)
 

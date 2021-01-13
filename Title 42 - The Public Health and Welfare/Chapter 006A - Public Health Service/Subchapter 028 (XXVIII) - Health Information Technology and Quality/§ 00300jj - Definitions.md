@@ -60,7 +60,7 @@ In this subchapter:
 
 &emsp;The term "qualified electronic health record" means an electronic record of health-related information on an individual that—
 
-&emsp;&emsp;(A) includes patient demographic and clinical health information, such as medical history and problem lists; and
+&emsp;&emsp;(A) includes patient demographic and clinical health information, such as medical history and problem lists;
 
 &emsp;&emsp;(B) has the capacity—
 
@@ -70,13 +70,15 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) to capture and query information relevant to health care quality; and
 
-&emsp;&emsp;&emsp;(iv) to exchange electronic health information with, and integrate such information from other sources.
+&emsp;&emsp;&emsp;(iv) to exchange electronic health information with, and integrate such information from other sources; and
+
+&emsp;&emsp;(C) includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104(o) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
 
 #### (15) <sup>4</sup> State
 
 &emsp;The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174.)
+(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174; Pub. L. 116–260, div. CC, title I, §119(b), Dec. 27, 2020, 134 Stat. 2952.)
 
 #### References in Text
 
@@ -84,9 +86,11 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 #### Amendments
 
+<b>2020</b>—Par. (13)(C). Pub. L. 116–260 added subpar. (C).
+
 <b>2016</b>—Par. (7). Pub. L. 114–255, §4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "The term 'HIT Policy Committee' means such Committee established under section 300jj–12(a) of this title."
 
-Par. (8). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: "The term 'HIT Standards Committee' means such Committee established under section 300jj–13(a) of this title."
+Par. (8). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior toamendment, text of par. (8) read as follows: "The term 'HIT Standards Committee' means such Committee established under section 300jj–13(a) of this title."
 
 Par. (9). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 

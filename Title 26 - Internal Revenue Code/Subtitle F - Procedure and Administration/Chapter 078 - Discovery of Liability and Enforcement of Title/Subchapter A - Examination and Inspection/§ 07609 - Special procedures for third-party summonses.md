@@ -32,7 +32,7 @@
 
 #### (C) Intervention; etc.
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall bebound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
 
 #### (c) Summons to which section applies
 
@@ -110,7 +110,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (1) Jurisdiction
 
-&emsp;The United States district court for the district within which the person to be summonedresides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
 
 #### (2) Special rule for proceedings under subsections (f) and (g)
 

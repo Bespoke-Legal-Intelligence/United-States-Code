@@ -26,7 +26,7 @@ Grade Crossing Safety.—Not more than $1,000,000 may be appropriated to the Sec
 
 (c)
 
-Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automated track inspection, and grants under section 20105(e) of this title remain available until expended.
+Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automatedtrack inspection, and grants under section 20105(e) of this title remain available until expended.
 
 (d)
 

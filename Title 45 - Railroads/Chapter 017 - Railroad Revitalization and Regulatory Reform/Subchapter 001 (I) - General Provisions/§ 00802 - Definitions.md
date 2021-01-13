@@ -20,6 +20,8 @@ As used in this Act, unless the context otherwise indicates, the term—
 
 (Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953; Pub. L. 109–59, title IX, §9003(a), Aug. 10, 2005, 119 Stat. 1921.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -33,6 +35,8 @@ The Regional Rail Reorganization Act of 1973, referred to in par. (4), is Pub. L
 <b>1995</b>—Par. (7). Pub. L. 104–88 substituted "rail carrier subject to part A of subtitle IV of title 49" for "common carrier by railroad or express, as defined in section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))".
 
 <b>1983</b>—Par. (7). Pub. L. 97–468 struck out "and the Alaska Railroad" before the semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

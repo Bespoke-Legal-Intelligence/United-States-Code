@@ -34,7 +34,7 @@ Existing non-federal water rights.—Nothing in this section prevents or inhibit
 
 &emsp;"(2)
 
-Renewal or reissuance of expiring land use authorization for decreed water rights.—Nothingin this section prevents or inhibits the renewal or reissuance of expiring land use authorizations for decreed water rights. The Forest Service may extend, as needed, any expiring land use authorization for such time as is necessary to incorporate the results of the study authorized by subsection (d).
+Renewal or reissuance of expiring land use authorization for decreed water rights.—Nothing in this section prevents or inhibits the renewal or reissuance of expiring land use authorizations for decreed water rights. The Forest Service may extend, as needed, any expiring land use authorization for such time as is necessary to incorporate the results of the study authorized by subsection (d).
 
 "(d)
 

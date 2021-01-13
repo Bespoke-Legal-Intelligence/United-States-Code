@@ -14,7 +14,7 @@ Reserve Retirees Under Age 60.—A member or former member of a reserve componen
 
 (d)
 
-Dependents.—(1) Dependents of a member who is permitted under subsection (a) or (b) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
+Dependents.—(1) Dependents of a member who is permitted under subsection (a) or (b) touse commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
 
 (2) Dependents of a member who is permitted under subsection (c) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members of the armed forces entitled to retired pay under any other provision of law.
 

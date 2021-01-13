@@ -4,9 +4,13 @@ Subject to the provision of section 1973 of this title, insurance coverage grant
 
 (Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 172, §779; renumbered §1979 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 779 of this title as this section and substituted "1973" for "773".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

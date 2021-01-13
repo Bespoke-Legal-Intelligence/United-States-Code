@@ -36,6 +36,8 @@ United states person.—The term "United States person" means—
 
 (Added Pub. L. 111–223, §3(a), Aug. 10, 2010, 124 Stat. 2381.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 111–223, §2, Aug. 10, 2010, 124 Stat. 2380, provided that: "Congress finds the following:

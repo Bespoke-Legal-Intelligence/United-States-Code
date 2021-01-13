@@ -24,7 +24,7 @@ The policy developed under subsection (a) shall include—
 
 &emsp;&emsp;(A) questions regarding sexual harassment can be confidentially asked and confidentially answered; and
 
-&emsp;&emsp;(B) incidents of sexual harassment can be confidentially reported; and
+&emsp;&emsp;(B) incidents of sexual harassment can be reported on a restricted or unrestricted basis; and
 
 &emsp;(4) a prohibition on retaliation and consequences for retaliatory actions.
 
@@ -62,5 +62,11 @@ The Secretary shall designate out of existing staff at least 1 employee of the A
 
 &emsp;&emsp;(D) Such recommendations as the Director may have with respect to sexual harassment in the Administration.
 
-(Pub. L. 114–328, div. C, title XXXV, §3541, Dec. 23, 2016, 130 Stat. 2800.)
+(Pub. L. 114–328, div. C, title XXXV, §3541, Dec. 23, 2016, 130 Stat. 2800; Pub. L. 116–259, title V, §504(a)(1), Dec. 23, 2020, 134 Stat. 1180.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(3)(B). Pub. L. 116–259 substituted "can be reported on a restricted or unrestricted basis" for "can be confidentially reported".
 

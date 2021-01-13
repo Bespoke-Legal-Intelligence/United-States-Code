@@ -24,6 +24,8 @@ Consistent with the purposes of section 290k–2 of this title, the Secretary of
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.

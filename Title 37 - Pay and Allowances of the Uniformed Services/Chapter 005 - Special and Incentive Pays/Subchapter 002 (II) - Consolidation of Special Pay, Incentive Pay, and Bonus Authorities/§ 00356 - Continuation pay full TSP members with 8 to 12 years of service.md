@@ -10,7 +10,7 @@ Continuation Pay.—The Secretary concerned shall make a payment of continuation
 
 (b)
 
-Payment Amount.—The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member's monthly basic pay. The multiple for a full TSP member who is a member of a regular component or a reserve component, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10), shall not be less than 2.5 times the member's monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) shall not be less than 0.5 times themonthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
+Payment Amount.—The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member's monthly basic pay. The multiple for a full TSP member who is a member of a regular component or a reserve component, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10), shall not be less than 2.5 times the member's monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
 
 &emsp;(1) in the case of a member of a regular component—
 
@@ -50,6 +50,8 @@ Regulations.—Each Secretary concerned shall prescribe regulations to carry out
 
 (Added Pub. L. 114–92, div. A, title VI, §634(a), Nov. 25, 2015, 129 Stat. 850; amended Pub. L. 114–328, div. A, title VI, §633(a)–(d)(1), Dec. 23, 2016, 130 Stat. 2163.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328, §633(d)(1), substituted "Continuation pay: full TSP members with 8 to 12 years of service" for "Continuation pay: full TSP members with 12 years of service" in section catchline.
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 114–328, §633(b), substituted heading and introductory p
 Amount.—The amount of continuation pay payable to a full TSP member under subsection (a) shall be the amount that is equal to—".
 
 Subsec. (d). Pub. L. 114–328, §633(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary concerned shall pay continuation pay under subsection (a) to a full TSP member when the member completes 12 years of service. If the Secretary concerned also provides continuation pay under subsection (c) to the member, that continuation pay shall be provided when the member completes 12 years of service."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

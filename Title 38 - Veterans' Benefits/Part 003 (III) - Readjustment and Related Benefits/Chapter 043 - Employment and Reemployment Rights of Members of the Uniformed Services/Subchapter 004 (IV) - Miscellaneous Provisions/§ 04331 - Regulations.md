@@ -14,6 +14,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 109–233, title V, §503(14), June 15, 2006, 120 Stat. 417.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4331 was renumbered section 7631 of this title.
@@ -21,6 +23,8 @@ A prior section 4331 was renumbered section 7631 of this title.
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(2)(C). Pub. L. 109–233 substituted "section 2302(a)(2)(C)(ii)" for "section 2303(a)(2)(C)(ii)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

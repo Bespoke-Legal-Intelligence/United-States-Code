@@ -4,6 +4,8 @@ The Government Accountability Office shall study those provisions of law which p
 
 (Pub. L. 93–344, title IV, §404, formerly §405, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059; renumbered §404 and amended Pub. L. 105–33, title X, §10116(c)(1), (2), Aug. 5, 1997, 111 Stat. 692; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 404 of Pub. L. 93–344, which is not classified to the Code, was renumbered section 403 by Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.
@@ -13,6 +15,8 @@ A prior section 404 of Pub. L. 93–344, which is not classified to the Code, wa
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and text.
 
 <b>1997</b>—Pub. L. 105–33, §10116(c)(2), substituted "mandatory spending" for "spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

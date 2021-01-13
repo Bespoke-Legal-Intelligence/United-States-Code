@@ -6,7 +6,7 @@
 
 #### (b) Issuance of permit; nonrenewability
 
-If the Attorney General finds (1) that the applicant under subsection (a)(1) has been lawfully admitted to the United States for permanentresidence, or that the applicant under subsection (a)(2) has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing at the time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
+If the Attorney General finds (1) that the applicant under subsection (a)(1) has been lawfully admitted to the United States for permanent residence, or that the applicant under subsection (a)(2) has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing at the time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
 
 #### (c) Multiple reentries
 
@@ -22,15 +22,19 @@ A permit issued under this section in the possession of the person to whom issue
 
 (June 27, 1952, ch. 477, title II, ch. 3, §223, 66 Stat. 194; Pub. L. 97–116, §6, Dec. 29, 1981, 95 Stat. 1615.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Clause (6) of section 3 of the Immigration Act of 1924, referred to in subsec. (a), which was classified to section 203(6) of this title, was repealed by section 403(a)(2) of act June 27, 1952. See section 1101(a)(15)(E) of this title.
 
-This chapter, referred to in subsec. (e), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original, "this Act", meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116 substituted "two years from the date of issuance and shall not be renewable" for "one year from the date of issuance: <i>Provided</i>, That the Attorney General may in his discretion extend the validity of the permit for a period or periods not exceeding one year in the aggregate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

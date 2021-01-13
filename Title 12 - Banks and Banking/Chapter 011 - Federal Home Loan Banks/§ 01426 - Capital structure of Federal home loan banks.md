@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amounts paid for the Class A stock;
 
-&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
+&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include anyreserves or allowances made or held against specific assets; and
 
 &emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Director determines by regulation to be appropriate to include in determining total capital.
 
@@ -116,7 +116,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (D) Adjustments to minimum required investment
 
-&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of thebank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
+&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
 
 #### (2) Transition rule
 
@@ -136,7 +136,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors of the bank and approved by the Director in accordance with its regulations.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors ofthe bank and approved by the Director in accordance with its regulations.
 
 #### (B) Rights requirement
 
@@ -208,7 +208,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (1) In general
 
-&emsp;A Federal home loan bank, in its sole discretion, may redeem or repurchase, as appropriate, any shares of Class A or Class B stock issued by the bank and held by a member that are in excess of the minimum stock investment required of that member.
+&emsp;A Federal home loan bank, in its sole discretion, may redeem or repurchase, as appropriate, any shares of Class A or Class B stockissued by the bank and held by a member that are in excess of the minimum stock investment required of that member.
 
 #### (2) Excess stock
 
@@ -248,9 +248,11 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 (July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, §608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, §1224, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 110–289, div. A, title I, §1110(b), title II, §1204(4), (10), July 30, 2008, 122 Stat. 2676, 2786.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46\(§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
 
@@ -272,7 +274,7 @@ Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, §1204(4)(B), substituted "reg
 
 <b>1999</b>—Pub. L. 106–102 amended section generally, substituting present provisions for provisions authorizing banks to issue capital stock and providing for minimum subscriptions, retirement of oversubscriptions, cancellation of oversubscriptions, aggregate unpaid loan principal, reports and information, payments for stock, transfer or hypothecation of stock, withdrawal or removal of members, surrender and cancellation of stock, prepayment penalties, disposal of stock, dividends, and acquisition of membership after expiration of period of withdrawal.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted "Board" for "board", and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted "Board" for "board", and struck out former subsec. (a)which related to minimum amount of capital stock and subscription books.
 
 Subsec. (b). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted "Board may" for "Federal Home Loan Bank Board may" in par. (1), and "The Board" for "The Federal Home Loan Bank Board" in par. (5). Former subsec. (b) redesignated (a).
 
@@ -312,7 +314,7 @@ Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term "aggregate unpaid loan principal" and authorized the board to require members to submit reports and information for purposes of this subsection.
 
-Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of suchmember's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
+Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
 <b>1955</b>—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 
@@ -321,6 +323,8 @@ Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members 
 <b>1935</b>—Subsec. (k). Act May 28, 1935, omitted exception clause relating to stock held by the United States.
 
 <b>1934</b>—Subsecs. (c), (e). Act June 27, 1934, substituted "$500" for "$1,500".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1961 Amendment
 

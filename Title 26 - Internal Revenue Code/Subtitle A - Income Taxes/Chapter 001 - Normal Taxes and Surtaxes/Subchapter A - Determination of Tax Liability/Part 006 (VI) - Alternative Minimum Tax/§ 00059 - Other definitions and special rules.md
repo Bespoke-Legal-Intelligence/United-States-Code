@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes ofsection 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.
 
 #### (2) Pre-credit tentative minimum tax
 
@@ -36,7 +36,7 @@ For purposes of this part—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under this paragraph may be made only for the taxpayer's first taxableyear which begins after December 31, 1997, and for which the taxpayer claims an alternative minimum tax foreign tax credit.
+&emsp;&emsp;&emsp;An election under this paragraph may be made only for the taxpayer's first taxable year which begins after December 31, 1997, and for which the taxpayer claims an alternative minimum tax foreign tax credit.
 
 #### (ii) Election revocable only with consent
 
@@ -108,7 +108,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (A) Application of section 1254
 
-&emsp;&emsp;In the case of any disposition of property to which section 1254 applies (determined without regard to this section), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 1254, be treated as a deduction allowable under section 263(c), 616(a), or 617(a), whichever is appropriate.
+&emsp;&emsp;In the case of any disposition of property to which section 1254 applies (determinedwithout regard to this section), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 1254, be treated as a deduction allowable under section 263(c), 616(a), or 617(a), whichever is appropriate.
 
 #### (B) Application of section 617(d)
 
@@ -122,7 +122,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (g) Tax benefit rule
 
-The Secretary may prescribe regulations under which differently treated items shall beproperly adjusted where the tax treatment giving rise to such items will not result in the reduction of the taxpayer's regular tax for the taxable year for which the item is taken into account or for any other taxable year.
+The Secretary may prescribe regulations under which differently treated items shall be properly adjusted where the tax treatment giving rise to such items will not result in the reduction of the taxpayer's regular tax for the taxable year for which the item is taken into account or for any other taxable year.
 
 #### (h) Coordination with certain limitations
 
@@ -292,7 +292,7 @@ Amendment by section 1704(m)(3) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1992, see section 1915(d) ofPub. L. 102–486, set out as a note under section 56 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1992, see section 1915(d) of Pub. L. 102–486, set out as a note under section 56 of this title.
 
 #### Effective Date of 1990 Amendment
 

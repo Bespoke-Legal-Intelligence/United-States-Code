@@ -54,7 +54,7 @@ To the extent only that this section applies to service coordinators for covered
 
 &emsp;&emsp;&emsp;(vi) their consumer protection rights under Federal law;
 
-&emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protectsuch residents against fraudulent telemarketing; and
+&emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protect such residents against fraudulent telemarketing; and
 
 &emsp;&emsp;(C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on "mooch lists" confiscated from fraudulent telemarketers.
 

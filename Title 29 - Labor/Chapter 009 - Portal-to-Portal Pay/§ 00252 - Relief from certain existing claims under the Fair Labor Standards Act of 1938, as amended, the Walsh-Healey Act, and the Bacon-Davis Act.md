@@ -6,7 +6,7 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 &emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
-&emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
+&emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect atthe time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
 
 #### (b) Compensable activity
 
@@ -26,9 +26,11 @@ No cause of action based on unpaid minimum wages, unpaid overtime compensation, 
 
 (May 14, 1947, ch. 52, §2, 61 Stat. 85.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a), (c) to (e), is act June 25, 1938,ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a), (c) to (e), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a), (c) to (e), are defined for purposes of this chapter in section 262 of this title.
 

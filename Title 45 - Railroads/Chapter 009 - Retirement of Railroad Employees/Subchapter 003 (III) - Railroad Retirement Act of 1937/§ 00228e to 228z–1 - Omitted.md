@@ -1,5 +1,7 @@
 ### §§228e to 228z–1. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 228e to 228z–1 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812, by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974.
@@ -22,7 +24,7 @@ Section 228k, act Aug. 29, 1935, ch. 812, §11, as restated June 24, 1937, ch. 3
 
 Section 228l, act Aug. 29, 1935, ch. 812, §12, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316 and amended Aug. 12, 1955, ch. 869, §4, 69 Stat. 716, related to assignability of annuities and pension payments under this subchapter. See section 231m of this title.
 
-Section 228m, act Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316;amended Sept. 6, 1958, Pub. L. 85–927, pt. I, §4, 72 Stat. 1781, related to penalties under this subchapter. See section 231l of this title.
+Section 228m, act Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316; amended Sept. 6, 1958, Pub. L. 85–927, pt. I, §4, 72 Stat. 1781, related to penalties under this subchapter. See section 231l of this title.
 
 Section 228n, act Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316, related to separability of provisions. See section 231s of this title.
 
@@ -32,15 +34,15 @@ Section 228p, act Aug. 29, 1935, ch. 812, §16, as added June 24, 1937, ch. 382,
 
 Section 228q, act Aug. 29, 1935, ch. 812, §17, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317; amended Oct. 30, 1951, ch. 632, §24, 65 Stat. 690, defined "employment" as used in this subchapter. See section 231q of this title.
 
-Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1917, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation. See section 231p of this title.
+Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation. See section 231p of this title.
 
-Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1917, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence. See section 231k of this title.
+Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1937, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence. See section 231k of this title.
 
 Section 228s–1, act June 24, 1937, ch. 382, pt. I, §20, as added Aug. 31, 1954, ch. 1164, pt. I, §15, 68 Stat. 1040; amended May 19, 1959, Pub. L. 86–28, pt. I, §4, 73 Stat. 28; Aug. 29, 1959, Pub. L. 86–211, §8(c), 73 Stat. 436; Oct. 30, 1966, Pub. L. 89–700, title I, §110, 80 Stat. 1085, related to waiver of annuities and pensions under this subchapter. See section 231k of this title
 
 Section 228s–2, act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335; amended July 30, 1965, Pub. L. 89–97, title I, §111(b)(1), 79 Stat. 340; Jan. 2, 1968, Pub. L. 90–248, title I, §129(c)(13), 81 Stat. 849, related to hospital insurance benefits for the aged. See section 231f of this title.
 
-Section 228s–3, act Aug. 29, 1935, ch. 812, §22, as added Oct. 30, 1972, Pub. L. 92–603, title II, §201(d), 86 Stat. 1373, related to hospital insurance benefits for the disabled. See section 231f of this title.
+Section 228s–3, act Aug. 29, 1935, ch. 812, §22, as added Oct. 30, 1972, Pub. L. 92–603, title II, §201(d), 86 Stat.1373, related to hospital insurance benefits for the disabled. See section 231f of this title.
 
 Section 228t, act Oct. 30, 1951, ch. 632, §25(d), 65 Stat. 690, related to certain retirement or survivor annuities awarded prior to Oct. 30, 1951.
 
@@ -57,6 +59,8 @@ Section 228y, act Oct. 30, 1951, ch. 632, §25(i), 65 Stat. 691, related to cert
 Section 228z, act Aug. 7, 1956, ch. 1022, §3, 70 Stat. 1076, related to increased pensions and annuities awarded before July 1, 1956 and annuities under subchapter II of this chapter.
 
 Section 228z–1, Pub. L. 86–28, pt. I, §5, May 19, 1959, 73 Stat. 28, related to additional increases in certain pensions and annuities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Actuarial Soundness of the Railroad Retirement System
 
@@ -92,7 +96,7 @@ Pub. L. 89–97, title I, §105(a)(2), July 30, 1965, 79 Stat. 335, provided tha
 
 #### Hospital Insurance Benefits for the Aged
 
-Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335, required theRailroad Retirement Board to certify to the Secretary of Health, Education, and Welfare, in order to provide hospital insurance benefits for annuitants, pensioners, and certain other aged individuals for purposes of the Social Security program, the name of anyone aged 65 who was entitled to an annuity or pension under this subchapter, would have been so entitled had he ceased compensated service and had applied for such annuity, or bore a particular relationship to certain qualified employees, and specified such additional information as such certification was to include.
+Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335, required the Railroad Retirement Board to certify to the Secretary of Health, Education, and Welfare, in order to provide hospital insurance benefits for annuitants, pensioners, and certain other aged individuals for purposes of the Social Security program, the name of anyone aged 65 who was entitled to an annuity or pension under this subchapter, would have been so entitled had he ceased compensated service and had applied for such annuity, or bore a particular relationship to certain qualified employees, and specified such additional information as such certification was to include.
 
 #### Increases in Certain Pensions and Annuities
 

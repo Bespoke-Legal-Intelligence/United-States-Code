@@ -48,7 +48,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (B) Such grants shall continue until such time as all such activities, development, and operation are terminated at such site.
 
-(4)(A) The State of Nevada or any affected unit of local government may not receive any grant under paragraph (1) after the expiration of the 1-year period following—
+(4)(A) The State of Nevada or any affected unit of local government may not receive any grantunder paragraph (1) after the expiration of the 1-year period following—
 
 &emsp;(i) the date on which the Secretary notifies the Governor and legislature of the State of Nevada of the termination of site characterization activities at the site in such State;
 

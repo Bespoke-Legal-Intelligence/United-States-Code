@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (B) Exception for cash and deferred arrangements
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a profit-sharing or stock bonus plan or rural cooperative plan (within the meaning of section 401(k)(7)) which includes a qualified cash or deferred arrangement (as defined in section 401(k)(2)) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
+&emsp;&emsp;Subparagraph (A) shall not apply to a profit-sharing or stock bonus plan or rural cooperative plan (within the meaning of section 401(k)(7)) which includes a qualified cash ordeferred arrangement (as defined in section 401(k)(2)) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
 
 #### (C) Exception for certain plans maintained by educational institutions
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) No employee is required to complete more than 3 years of employment with the employer or employers maintaining the plan as a condition of participation in the plan, and the employment requirement for each employee is the same.
 
-&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
+&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate inthe plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
 
 #### (4) Certain controlled groups, etc.
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting "calendar year 2012" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
-> &emsp;If any increase determined under this paragraph is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
+> &emsp;If any increase determined under this paragraph is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 #### (j) Simple cafeteria plans for small businesses
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (B) Employers not in existence during preceding year
 
-&emsp;&emsp;If an employer was not in existence throughout the preceding year, the determination under subparagraph (A) shall be based on the average number of employeesthat it is reasonably expected such employer will employ on business days in the current year.
+&emsp;&emsp;If an employer was not in existence throughout the preceding year, the determination under subparagraph (A) shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current year.
 
 #### (C) Growing employers retain treatment as small employer
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(37), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1),title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(37), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -334,7 +334,7 @@ Subsec. (h)(2). Pub. L. 113–295, §220(g), substituted "means any" for "means,
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–148, §1515(a), (b), substituted "For purposes of this section—" for "For purposes of this section,"; designated remainder of first sentence and second sentence as par. (1), inserted heading, and substituted "The term" for "the term"; designated third sentence as par. (2), inserted heading, and substituted "The term 'qualified benefit' shall not include" for "Such term shall not include"; and added par. (3).
 
-Subsec. (i). Pub. L. 111–148, §10902(a), amended subsec. (i) generally. Prior to amendment, text read as follows:"For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement."
+Subsec. (i). Pub. L. 111–148, §10902(a), amended subsec. (i) generally. Prior to amendment, text read as follows: "For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement."
 
 Pub. L. 111–148, §9005(a)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -416,7 +416,7 @@ Subsec. (c). Pub. L. 98–369, §531(b)(2)(B), inserted "statutory" before "nont
 
 Subsec. (d)(1). Pub. L. 98–369, §531(b)(1), substituted "among 2 or more benefits consisting of cash and statutory nontaxable benefits" for "among two or more benefits" in cl. (B) and struck out "The benefits which may be chosen may be nontaxable benefits, or cash, property, or other taxable benefits."
 
-Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting "Statutory" in heading and"statutory" before "nontaxable benefit" in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
+Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting "Statutory" in heading and "statutory" before "nontaxable benefit" in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
 
 Subsec. (h). Pub. L. 98–611 and Pub. L. 98–612, made identical amendments, substituting cross reference provision for reporting requirements provisions.
 
@@ -458,7 +458,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -509,6 +509,78 @@ Pub. L. 95–600, title I, §134(c), Nov. 6, 1978, 92 Stat. 2785, as amended by 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Temporary Special Rules for Health and Dependent Care Flexible Spending Arrangements
+
+Pub. L. 116–260, div. EE, title II, §214, Dec. 27, 2020, 134 Stat. 3068, provided that:
+
+"(a)
+
+Carryover From 2020
+
+Plan Year.—For plan years ending in 2020, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2021.
+
+"(b)
+
+Carryover From 2021
+
+Plan Year.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2022.
+
+"(c)
+
+Extension of Grace Periods, etc.—
+
+&emsp;"(1)
+
+In general.—A plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement extends the grace period for a plan year ending in 2020 or 2021 to 12 months after the end of such plan year, with respect to unused benefits or contributions remaining in a health flexible spending arrangement or a dependent care flexible spending arrangement.
+
+&emsp;"(2)
+
+Post-termination reimbursements from health FSAs.—A plan that includes a health flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement allows (under rules similar to the rules applicable to dependent care flexible spending arrangements) an employee who ceases participation in the plan during calendar year 2020 or 2021 to continue to receive reimbursements from unused benefits or contributions through the end of the plan year in which such participation ceased (including any grace period, taking into account any modification of a grace period permitted under paragraph (1)).
+
+"(d)
+
+Special Carry Forward Rule for Dependent Care Flexible Spending Arrangements Where Dependent Aged Out During Pandemic.—
+
+&emsp;"(1)
+
+In general.—In the case of any eligible employee, section 21(b)(1)(A) of the Internal Revenue Code of 1986 shall be applied by substituting 'age 14' for 'age 13' for purposes of determining the dependent care assistance which may be paid or reimbursed with respect to such employee under the dependent care flexible spending arrangement referred to in paragraph (3)(A) with respect to such employee during—
+
+&emsp;&emsp;"(A) the plan year described in paragraph (3)(A), and
+
+&emsp;&emsp;"(B) in the case of an employee described in paragraph (3)(B)(ii), the subsequent plan year.
+
+&emsp;"(2)
+
+Application to subsequent plan year limited to unused balance from preceding plan year.—Paragraph (1)(B) shall only apply to so much of the amounts paid for dependent care assistance with respect to the dependents referred to in paragraph (3)(B) as does not exceed the unused balance described in paragraph (3)(B)(ii).
+
+&emsp;"(3)
+
+Eligible employee.—For purposes of this section, the term 'eligible employee' means any employee who—
+
+&emsp;&emsp;"(A) is enrolled in a dependent care flexible spending arrangement for the last plan year with respect to which the end of the regular enrollment period for such plan year was on or before January 31, 2020, and
+
+&emsp;&emsp;"(B) has one or more dependents (as defined in section 152(a)(1) of the Internal Revenue Code of 1986) who attain the age of 13—
+
+&emsp;&emsp;&emsp;"(i) during such plan year, or
+
+&emsp;&emsp;&emsp;"(ii) in the case of an employee who (after the application of this section) has an unused balance in the employee's account under such arrangement for such plan year (determined as of the close of the last day on which, under the terms of the plan, claims for reimbursement may be made with respect to such plan year), the subsequent plan year.
+
+"(e)
+
+Change in Election Amount.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement allows an employee to make an election to modify prospectively the amount (but not in excess of any applicable dollar limitation) of such employee's contributions to any such flexible spending arrangement (without regard to any change in status).
+
+"(f)
+
+Definitions.—Any term used in this section which is also used in section 106, 125, or 129 of the Internal Revenue Code of 1986, or the regulations or guidance thereunder, shall have the same meaning as when used in such section, regulations, or guidance.
+
+"(g)
+
+Plan Amendments.—A plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement is amended pursuant to a provision under this section and such amendment is retroactive, if—
+
+&emsp;"(1) such amendment is adopted not later than the last day of the first calendar year beginning after the end of the plan year in which the amendment is effective, and
+
+&emsp;"(2) the plan or arrangement is operated consistent with the terms of such amendment during the period beginning on the effective date of the amendment and ending on the date the amendment is adopted."
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

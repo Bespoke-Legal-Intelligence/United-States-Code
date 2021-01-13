@@ -22,7 +22,7 @@ A prior section 5511, act Aug. 16, 1954, ch. 736, 68A Stat. 677, consisted of pr
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–653 effective on first day of second month which begins more than 10 days afterOct. 13, 1964, see section 4 of Pub. L. 88–653, set out as a note under section 5383 of this title.
+Amendment by Pub. L. 88–653 effective on first day of second month which begins more than 10 days after Oct. 13, 1964, see section 4 of Pub. L. 88–653, set out as a note under section 5383 of this title.
 
 #### Effective Date
 

@@ -24,7 +24,7 @@
 
 #### (3) Failure to request or accept mediation to have no effect on treatment of claim
 
-&emsp;The failure of a party to request mediation under this section with respect to a claim, orthe failure of a party to agree to a request for mediation under this section, may not be taken into consideration under any procedure under this title with respect to the claim, including a preliminary review under section 1402a of this title, a formal hearing under section 1405 of this title, or a civil action under section 1408 of this title.
+&emsp;The failure of a party to request mediation under this section with respect to a claim, or the failure of a party to agree to a request for mediation under this section, may not be taken into consideration under any procedure under this title with respect to the claim, including a preliminary review under section 1402a of this title, a formal hearing under section 1405 of this title, or a civil action under section 1408 of this title.
 
 #### (b) Process
 
@@ -54,13 +54,15 @@ No individual, who is appointed by the Executive Director to mediate, may conduc
 
 (Pub. L. 104–1, title IV, §404, formerly §403, Jan. 23, 1995, 109 Stat. 32; Pub. L. 114–6, §2(a), Mar. 20, 2015, 129 Stat. 81; renumbered §404 and amended Pub. L. 115–397, title I, §§101(c)(2), 104, Dec. 21, 2018, 132 Stat. 5301, 5305.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 404 of Pub. L. 104–1 was classifed to section 1404 of this title, prior to repeal by Pub. L. 115–397, title I, §101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
+A prior section 404 of Pub. L. 104–1 was classified to section 1404 of this title, prior to repeal by Pub. L. 115–397, title I, §101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
 
 #### Amendments
 
@@ -68,11 +70,13 @@ A prior section 404 of Pub. L. 104–1 was classifed to section 1404 of this tit
 
 Subsec. (b)(2). Pub. L. 115–397, §104(b), substituted "meetings with the parties during which, at the request of any of the parties, the parties shall be separated," for "meetings with the parties separately or jointly".
 
-Subsec. (c). Pub. L. 115–397, §104(c), substituted "The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period." for "The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office."
+Subsec. (c). Pub. L. 115–397, §104(c), substituted "The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the jointrequest of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period." for "The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office."
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–6, §2(a)(1), substituted "from the master list developed and maintained under subsection (e)" for "after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters".
 
 Subsec. (e). Pub. L. 114–6, §2(a)(2), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

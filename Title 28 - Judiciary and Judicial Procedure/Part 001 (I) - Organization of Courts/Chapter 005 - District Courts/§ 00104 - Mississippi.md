@@ -48,6 +48,8 @@ Provisions relating to the maintenance of offices by the clerks and marshals wer
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b). Pub. L. 113–61 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to southern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
@@ -67,6 +69,8 @@ Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 <b>1967</b>—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
 
 <b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

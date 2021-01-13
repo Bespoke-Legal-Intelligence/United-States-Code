@@ -16,11 +16,19 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 &emsp;&emsp;(A) developing innovative approaches for improving access by older individuals to transportation services, including volunteer driver programs, economically sustainable transportation programs, and programs that allow older individuals to transfer their automobiles to a provider of transportation services in exchange for the services;
 
-&emsp;&emsp;(B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number;
+&emsp;&emsp;(B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number, call center, website or Internet-based portal, mobile application, or other technological tools;
 
-&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services; and
+&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services;
 
-&emsp;&emsp;(D) providing special services to link older individuals to transportation services not provided under subchapter III.
+&emsp;&emsp;(D)(i) improving the aggregation, availability, and accessibility of information on options for transportation services for older individuals, including information on public transit, on-demand transportation services, volunteer-based transportation services, and other private transportation providers; and
+
+&emsp;&emsp;(ii) providing older individuals with the ability to schedule trips both in advance and on demand, as appropriate;
+
+&emsp;&emsp;(E) identifying opportunities to share resources and reduce costs of transportation services for older individuals;
+
+&emsp;&emsp;(F) coordinating individualized trip planning responses to requests from older individuals for transportation services; and
+
+&emsp;&emsp;(G) providing special services to link older individuals to transportation services not provided under subchapter III.
 
 #### (c) Economically sustainable transportation
 
@@ -30,9 +38,13 @@ In this section, the term "economically sustainable transportation" means demand
 
 &emsp;(2) that the provider will provide without receiving Federal or other public financial assistance, after a period of not more than 5 years of providing the services under this section.
 
-(Pub. L. 89–73, title IV, §416, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §405, Oct. 17, 2006, 120 Stat. 2554.)
+(Pub. L. 89–73, title IV, §416, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §405, Oct. 17, 2006, 120 Stat. 2554; Pub. L. 116–131, title III, §305, Mar. 25, 2020, 134 Stat. 263.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(B). Pub. L. 116–131, §305(1), inserted ", call center, website or Internet-based portal, mobile application, or other technological tools" before semicolon at end.
+
+Subsec. (b)(2)(D) to (G). Pub. L. 116–131, §305(2)–(4), added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
 
 <b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to grants and contracts to provide technical assistance to improve transportation for seniors.
 

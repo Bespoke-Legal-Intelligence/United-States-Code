@@ -26,9 +26,11 @@
 
 &emsp;(B) in the case that the determination of such rate is not reasonably certain, on the basis of the employee's average rate of compensation during the 12-month period immediately preceding such period (or, if shorter, the period of employment immediately preceding such period).
 
-(c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reasonof the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
+(c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3162; amended Pub. L. 104–275, title III, §311(8), Oct. 9, 1996, 110 Stat. 3335.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ A prior section 4318 was renumbered section 7618 of this title.
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–275 substituted "services, such payment period" for "services," in last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

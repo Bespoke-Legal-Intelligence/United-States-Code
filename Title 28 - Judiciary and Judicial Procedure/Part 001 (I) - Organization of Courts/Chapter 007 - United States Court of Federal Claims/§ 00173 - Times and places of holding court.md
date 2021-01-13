@@ -16,6 +16,8 @@ The term "chief judge" was substituted for "Chief Justice." (See reviser's note 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court" in three places.
@@ -27,6 +29,8 @@ Minor changes were made in phraseology.
 <b>1964</b>—Pub. L. 88–426 increased salaries of judges from $25,500 to $33,000 a year.
 
 <b>1955</b>—Act Mar. 2, 1955, increased salaries of judges from $17,500 to $25,500 a year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -82,6 +82,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.

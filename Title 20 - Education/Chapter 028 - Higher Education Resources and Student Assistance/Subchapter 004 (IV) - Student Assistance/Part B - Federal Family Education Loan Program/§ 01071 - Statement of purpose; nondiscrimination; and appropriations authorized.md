@@ -62,7 +62,7 @@ Another section 411 of Pub. L. 105–244 enacted subpart 8 (§1070f et seq.) of 
 
 #### Prior Provisions
 
-A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug. 3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug.3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 &emsp;"(1) as otherwise provided in such part B;
 
-&emsp;"(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
+&emsp;"(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to newborrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
 
 &emsp;"(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 

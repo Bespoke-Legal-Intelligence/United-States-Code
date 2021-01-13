@@ -10,6 +10,8 @@ Before approving a right-of-way application described in subsection (a) of this 
 
 (Pub. L. 97–468, title VI, §609, Jan. 14, 1983, 96 Stat. 2574; Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 12, 1914 (43 U.S.C. 975 et seq.), referred to in subsec. (b), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, popularly known as the Alaska Railroad Act, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title 43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of this title.
@@ -18,7 +20,7 @@ Section 615 of this title, referred to in subsec. (b), means section 615 of titl
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–7 struck out subsec. (c) which read as follows: "Reversion to the United Statesof any portion of any right-of-way or exclusive-use easement granted to the State or State-owned railroad shall occur only as provided in section 1209 of this title. For purposes of such section, the date of the approval of any such right-of-way shall be deemed the 'date of transfer'."
+<b>2003</b>—Subsec. (c). Pub. L. 108–7 struck out subsec. (c) which read as follows: "Reversion to the United States of any portion of any right-of-way or exclusive-use easement granted to the State or State-owned railroad shall occur only as provided in section 1209 of this title. For purposes of such section, the date of the approval of any such right-of-way shall be deemed the 'date of transfer'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -23,3 +23,4 @@
 - [&sect; 03315 - Annual certification of controlled access programs](%C2%A7%2003315%20-%20Annual%20certification%20of%20controlled%20access%20programs.md)
 - [&sect; 03316 - Submission of intelligence community policies](%C2%A7%2003316%20-%20Submission%20of%20intelligence%20community%20policies.md)
 - [&sect; 03316a - Reports on intelligence community participation in vulnerabilities equities process of Federal Government](%C2%A7%2003316a%20-%20Reports%20on%20intelligence%20community%20participation%20in%20vulnerabilities%20equities%20process%20of%20Federal%20Government.md)
+- [&sect; 03316b - Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency](%C2%A7%2003316b%20-%20Continuity%20of%20operations%20plans%20for%20certain%20elements%20of%20the%20intelligence%20community%20in%20the%20case%20of%20a%20national%20emergency.md)

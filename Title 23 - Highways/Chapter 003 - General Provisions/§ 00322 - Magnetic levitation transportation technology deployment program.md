@@ -102,7 +102,7 @@ Preconstruction planning activities.—Not later than 90 days after a deadline e
 
 &emsp;(2)
 
-Final design, engineering, and construction activities.—After completion ofpreconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
+Final design, engineering, and construction activities.—After completion of preconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
 
 (g)
 
@@ -150,7 +150,7 @@ Availability of funds.—Funds made available under paragraph (1) shall remain a
 
 &emsp;(3)
 
-Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and airquality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
 &emsp;(4)
 
@@ -182,6 +182,8 @@ Availability.—Notwithstanding section 118(a), funds made available under subpa
 
 (Added and amended Pub. L. 105–178, title I, §1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, §9003(i), July 22, 1998, 112 Stat. 841; Pub. L. 114–94, div. A, title I, §1109(c)(3), Dec. 4, 2015, 129 Stat. 1343.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18, 1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
@@ -209,6 +211,8 @@ Subsec. (d)(2)(B). Pub. L. 105–178, §1218(c)(2)(B)(ii), as added by Pub. L. 1
 Subsec. (h)(1)(B)(i). Pub. L. 105–178, §1218(c)(3), as added by Pub. L. 105–206, §9003(i), inserted "(other than subsection (i))" after "this section".
 
 Subsec. (i). Pub. L. 105–178, §1218(c)(4), as added by Pub. L. 105–206, §9003(i), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

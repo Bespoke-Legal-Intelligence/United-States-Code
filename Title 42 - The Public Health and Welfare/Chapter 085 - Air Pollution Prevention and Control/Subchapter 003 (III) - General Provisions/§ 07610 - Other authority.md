@@ -2,13 +2,13 @@
 
 #### (a) Authority and responsibilities under other laws not affected
 
-Except as provided in subsection (b) of this section, this chapter shall not be construed as superseding or limiting the authorities and responsibilities, under any other provision of law, of the Administrator or any other Federal officer, department, or agency.
+Except as provided in subsection (b) of this section, this chapter shall not be construed assuperseding or limiting the authorities and responsibilities, under any other provision of law, of the Administrator or any other Federal officer, department, or agency.
 
 #### (b) Nonduplication of appropriations
 
 No appropriation shall be authorized or made under section 241, 243, or 246 of this title for any fiscal year after the fiscal year ending June 30, 1964, for any purpose for which appropriations may be made under authority of this chapter.
 
-(July 14, 1955, ch. 360, title III, §310, formerly §10, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77Stat. 401; renumbered §303, Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §310 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713.)
+(July 14, 1955, ch. 360, title III, §310, formerly §10, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 401; renumbered §303, Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §310 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713.)
 
 #### Codification
 

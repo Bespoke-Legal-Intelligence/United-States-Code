@@ -8,7 +8,7 @@ The Secretary of the Interior may—
 
 > which he determines to be suitable for use as an inviolate sanctuary, or for any other management purpose, for migratory birds. The Secretary may pay, when deemed necessary by him and from moneys authorized to be appropriated for the purposes of this subchapter (A) the purchase or rental price of any such area or interest therein, and (B) the expenses incident to the location, examination, survey, and acquisition of title (including options) of any such area or interest therein. No lands acquired, held, or used by the United States for military purposes shall be subject to any provisions of this subchapter.
 
-(Feb. 18, 1929, ch. 257, §5, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 95–616, §5(a), Nov. 8, 1978, 92 Stat. 3113.)
+(Feb. 18, 1929, ch. 257, §5, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R.2731, 53 Stat. 1433; Pub. L. 95–616, §5(a), Nov. 8, 1978, 92 Stat. 3113.)
 
 #### Amendments
 

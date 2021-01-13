@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 114–255, §2040(a)(1), substituted "conduct, support, and
 
 Subsec. (c)(1)(C). Pub. L. 114–255, §2040(a)(2), substituted "within the Center" for "of the Center".
 
-Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read as follows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
+Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read asfollows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
 
 Subsec. (d)(2)(C). Pub. L. 114–255, §2040(a)(3)(B), added subpar. (C).
 
@@ -160,7 +160,7 @@ Pub. L. 101–613, §3(b), Nov. 16, 1990, 104 Stat. 3230, which required the Sec
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expirationof such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

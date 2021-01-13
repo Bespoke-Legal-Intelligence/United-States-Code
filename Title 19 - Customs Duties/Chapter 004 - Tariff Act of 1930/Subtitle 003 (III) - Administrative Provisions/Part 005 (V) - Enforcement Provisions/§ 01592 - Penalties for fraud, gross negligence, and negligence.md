@@ -6,7 +6,7 @@
 
 &emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
 
-&emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into thecommerce of the United States by means of—
+&emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
 &emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written or oral statement, or act which is material and false, or
 
@@ -96,13 +96,9 @@
 
 > &emsp;The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
-#### (5) Prior disclosure regarding NAFTA claims
+#### (5) Prior disclosure regarding claims under the USMCA
 
-&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
-
-&emsp;&emsp;(A) has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) on which the claim was based contains incorrect information; and
-
-&emsp;&emsp;(B) in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 4531 of this title if the importer, in accordance with regulations prescribed by the Secretary of the Treasury, promptly makes a corrected declaration and pays any duties owing with respect to that good.
 
 #### (6) Prior disclosure regarding claims under the United States-Chile Free Trade Agreement
 
@@ -118,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by theSecretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
 #### (B) Time periods for making corrections
 
@@ -164,27 +160,23 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;(4) if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of proof that the act or omission did not occur as a result of negligence.
 
-#### (f) False certifications regarding exports to NAFTA countries
+#### (f) False certifications of origin under the USMCA
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) that a good to be exported to a NAFTA country (as defined in section 3301(4) of this title) qualifies under the rules of origin set out in section 3332 of this title.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a USMCA certification of origin (as such term is defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 4531 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
-#### (2) Applicable provisions
+#### (2) Prompt and voluntary disclosure of incorrect information
 
-&emsp;The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
-
-&emsp;&emsp;(A) subsection (d) does not apply, and
-
-&emsp;&emsp;(B) subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+&emsp;No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a USMCA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
 
 #### (3) Exception
 
-&emsp;A person may not be considered to have violated paragraph (1) if—
+&emsp;A person shall not be considered to have violated paragraph (1) if—
 
-&emsp;&emsp;(A) the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
+&emsp;&emsp;(A) the information was correct at the time it was provided in a USMCA certification of origin but was later rendered incorrect due to a change in circumstances; and
 
-&emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
+&emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
 #### (g) False certifications of origin under the United States-Chile Free Trade Agreement
 
@@ -194,7 +186,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (2) Immediate and voluntary disclosure of incorrect information
 
-&emsp;No penalty shall be imposed under this subsection if, immediately after an exporter orproducer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
+&emsp;No penalty shall be imposed under this subsection if, immediately after an exporter or producer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
 
 #### (3) Exception
 
@@ -262,7 +254,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a CTPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CTPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -294,7 +286,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475; Pub. L. 112–41, title II, §204(a), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(a), Oct. 21, 2011, 125 Stat. 483; Pub. L. 112–43, title II, §205(a), Oct. 21, 2011, 125 Stat. 518.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475; Pub. L. 112–41, title II, §204(a), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(a), Oct. 21, 2011, 125 Stat. 483; Pub. L. 112–43, title II, §205(a), Oct. 21, 2011, 125 Stat. 518; Pub. L. 116–113, title II, §204(a), Jan. 29, 2020, 134 Stat. 44.)
 
 #### Amendment of Section
 
@@ -326,7 +318,7 @@ Section 203 of the United States-Peru Trade Promotion Agreement Implementation A
 
 Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsecs. (c)(11) and (j)(1), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to insubsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
+Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
 
 Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(13) and (l)(1), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
 
@@ -343,6 +335,10 @@ R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced acc
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(5). Pub. L. 116–113, §204(a)(1), added par. (5) and struck out former par. (5) which related to prior disclosure regarding NAFTA claims.
+
+Subsec. (f). Pub. L. 116–113, §204(a)(2), added subsec. (f) and struck out former subsec. (f) which related to false certifications regarding exports to NAFTA countries.
 
 <b>2011</b>—Subsec. (c)(11). Pub. L. 112–41, §§107(c), 204(a)(1)(B), temporarily added par. (11). Former par. (11) redesignated (12). See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -370,7 +366,7 @@ Subsec. (i). Pub. L. 110–138, §§107(c), 205(a)(2), temporarily added subsec.
 
 Subsec. (h). Pub. L. 109–53, §§107(d), 206(a)(2), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
-<b>2004</b>—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
+<b>2004</b>—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par.\(8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
 
 <b>2003</b>—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -406,7 +402,7 @@ Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted "the Customs Service
 
 Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end "For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed."
 
-Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer mayprovide, after notice by the appropriate customs officer of his".
+Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his".
 
 Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), which directed the substitution of "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure, or within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his", was executed by making the substitution for text which began "time of disclosure or within 30 days", to reflect the probable intent of Congress.
 
@@ -424,13 +420,17 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 <b>1935</b>—Act Aug. 5, 1935, inserted "whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered or exported from the United States on or after that date, see section 204(c) of Pub. L. 116–113, set out as a note under section 1514 of this title.
+
 #### Effective and Termination Dates of 2011 Amendment
 
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the UnitedStates–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 
@@ -456,7 +456,7 @@ Amendment by section 3(a)(4), (5) of Pub. L. 104–295 applicable as of Dec. 8, 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 205(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 205(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced
 
 Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
-"(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 asadded by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
+"(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) \[subsecs. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
 
 "(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a "qualified vocational rehabilitation counselor"), other qualified rehabilitation personnel, and other qualified personnel should facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
-&emsp;&emsp;(F) Individuals with disabilities and the individuals' representatives are full partners in a vocational rehabilitation program andmust be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
+&emsp;&emsp;(F) Individuals with disabilities and the individuals' representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
 &emsp;&emsp;(G) Accountability measures must facilitate the accomplishment of the goals and objectives of the program, including providing vocational rehabilitation services to, among others, individuals with the most significant disabilities.
 
@@ -122,6 +122,8 @@
 
 (Pub. L. 93–112, title I, §100, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1116; amended Pub. L. 113–128, title IV, §411, July 22, 2014, 128 Stat. 1640.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -151,6 +153,8 @@ Subsec. (a)(3)(B). Pub. L. 113–128, §411(a)(3)(A), substituted "competitive i
 Subsec. (a)(3)(E). Pub. L. 113–128, §411(a)(3)(B), inserted "should" before "facilitate the accomplishment".
 
 Subsec. (b)(1). Pub. L. 113–128, §411(b), substituted "$3,302,053,000 for each of the fiscal years 2015 through 2020" for "such sums as may be necessary for fiscal years 1999 through 2003".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

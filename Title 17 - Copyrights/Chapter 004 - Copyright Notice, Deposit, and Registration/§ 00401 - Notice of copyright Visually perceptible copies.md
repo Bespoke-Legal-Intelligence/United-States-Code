@@ -38,9 +38,9 @@ A requirement that the public be given formal notice of every work in which copy
 
 &emsp;(4) It shows the date of publication.
 
-Ranged against these values of a notice requirement are its burdens and unfairness to copyright owners. One of the strongest arguments for revision of the present statute has been the need to avoid the arbitrary and unjust forfeitures now resulting from unintentional or relatively unimportant omissions or errors in the copyright notice. It has been contended that the disadvantages of the notice requirement outweigh its values and that it should therefore be eliminated or substantially liberalized.
+Ranged against these values of a notice requirement are its burdens and unfairness to copyright owners. Oneof the strongest arguments for revision of the present statute has been the need to avoid the arbitrary and unjust forfeitures now resulting from unintentional or relatively unimportant omissions or errors in the copyright notice. It has been contended that the disadvantages of the notice requirement outweigh its values and that it should therefore be eliminated or substantially liberalized.
 
-The fundamental principle underlying the notice provisions of the bill is that the copyright notice has real values which should be preserved, and that this should be done by inducing use of notice without causing outright forfeiture for errors or omissions. Subject to certain safeguards for innocent infringers, protectionwould not be lost by the complete omission of copyright notice from large numbers of copies or from a whole edition, if registration for the work is made before or within 5 years after publication. Errors in the name or date in the notice could be corrected without forfeiture of copyright.
+The fundamental principle underlying the notice provisions of the bill is that the copyright notice has real values which should be preserved, and that this should be done by inducing use of notice without causing outright forfeiture for errors or omissions. Subject to certain safeguards for innocent infringers, protection would not be lost by the complete omission of copyright notice from large numbers of copies or from a whole edition, if registration for the work is made before or within 5 years after publication. Errors in the name or date in the notice could be corrected without forfeiture of copyright.
 
 Sections 401 and 402 set out the basic notice requirements of the bill, the former dealing with "copies from which the work can be visually perceived," and the latter covering "phonorecords" of a "sound recording." The notice requirements established by these parallel provisions apply only when copies or phonorecords of the work are "publicly distributed." No copyright notice would be required in connection with the public display of a copy by any means, including projectors, television, or cathode ray tubes connected with information storage and retrieval systems, or in connection with the public performance of a work by means of copies or phonorecords, whether in the presence of an audience or through television, radio, computer transmission, or any other process.
 
@@ -52,6 +52,8 @@ Subsection (b) of section 401, which sets out the form of notice to appear on vi
 
 By providing simply that the notice "shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright," subsection (c) follows the flexible approach of the Universal Copyright Convention. The further provision empowering the Register of Copyrights to set forth in regulations a list of examples of "specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement" will offer substantial guidance and avoid a good deal of uncertainty. A notice placed or affixed in accordance with the regulations would clearly meet the requirements but, since the Register's specifications are not to "be considered exhaustive," a notice placed or affixed in some other way might also comply with the law if it were found to "give reasonable notice" of the copyright claim.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–568, §7(a)(1), (2), substituted "General provisions" for "General requirement" in heading, and "may be placed on" for "shall be placed on all" in text.
@@ -59,6 +61,8 @@ By providing simply that the notice "shall be affixed to the copies in such mann
 Subsec. (b). Pub. L. 100–568, §7(a)(3), substituted "If a notice appears on the copies, it" for "The notice appearing on the copies".
 
 Subsec. (d). Pub. L. 100–568, §7(a)(4), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

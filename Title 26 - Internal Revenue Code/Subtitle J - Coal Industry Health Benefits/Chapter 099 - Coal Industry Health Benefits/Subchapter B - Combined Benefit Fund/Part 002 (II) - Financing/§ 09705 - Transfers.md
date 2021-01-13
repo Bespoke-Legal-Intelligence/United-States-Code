@@ -20,7 +20,7 @@
 
 &emsp;Amounts transferred to the Combined Fund under paragraph (1) shall—
 
-&emsp;&emsp;(A) in the case of the transfer on February 1, 1993, be used to proportionately reduce the premium of each assigned operator under section 9704(a) for the plan year of the Fund beginning February 1, 1993, and
+&emsp;&emsp;(A) in the case of the transfer on February 1, 1993, be used to proportionately reduce the premium of each assigned operator undersection 9704(a) for the plan year of the Fund beginning February 1, 1993, and
 
 &emsp;&emsp;(B) in the case of any other such transfer, be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) and the death benefit premium under section 9704(a)(2) of each assigned operator for the plan year in which transferred and for any subsequent plan year in which such funds remain available.
 

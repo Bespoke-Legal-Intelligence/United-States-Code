@@ -32,6 +32,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, §512; Pub. L. 86–670, §2, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, §111(b), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, §106(17), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, §105, Nov. 4, 1978, 92 Stat. 2500; renumbered §1512 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1512 was renumbered section 3112 of this title.
@@ -50,7 +52,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator"
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" in introductory provisions.
 
-<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted "(except the rate provided under subsection (g) of such section)" after "of this title", substituted "a period of war" for "World War I", and struck out exception to pension elections formerly provided pursuant to subpar. (B).
+<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted "(except the rate provided under subsection (g) of suchsection)" after "of this title", substituted "a period of war" for "World War I", and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
 Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted "as in effect on December 31, 1978, under regulations which the Administrator shall prescribe" for "if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph".
 
@@ -61,6 +63,8 @@ Subsec. (b). Pub. L. 94–169 substituted "such veteran" for "he".
 <b>1967</b>—Subsec. (a)(3). Pub. L. 90–77 designated existing provisions as subpar. (A), inserted "except as provided in subparagraph (B)", and added subpar. (B).
 
 <b>1960</b>—Subsec. (a)(3). Pub. L. 86–670 added cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

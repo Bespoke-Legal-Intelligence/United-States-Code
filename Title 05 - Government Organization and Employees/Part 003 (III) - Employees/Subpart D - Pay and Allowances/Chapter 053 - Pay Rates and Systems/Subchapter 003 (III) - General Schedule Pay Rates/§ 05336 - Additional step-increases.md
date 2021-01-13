@@ -34,6 +34,8 @@ For repeal of Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 78
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–89 struck out "covered by the performance management and recognition system established under chapter 54 of this title, or," after "individual".
@@ -43,6 +45,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Subsec. (c). Pub. L. 95–454, §503(h), inserted reference to merit pay system established under section 5402 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) when advisable, shall report to Congress on those terms and classifications, and recommend legislation necessary to promote the establishment, maintenance, and use of standard terms and classifications by the executive branch of the Government; and
 
-&emsp;(3) in carrying out this subsection, shall give particular consideration to the needs of the Committees on Appropriations and on theBudget of both Houses of Congress, the Committee on Ways and Means of the House, the Committee on Finance of the Senate, and the Congressional Budget Office.
+&emsp;(3) in carrying out this subsection, shall give particular consideration to the needs of the Committees on Appropriations and on the Budget of both Houses of Congress, the Committee on Ways and Means of the House, the Committee on Finance of the Senate, and the Congressional Budget Office.
 
 (d) Agencies shall use the standard terms and classifications published under subsection (c)(1) of this section in providing fiscal, budget, and program information to Congress.
 

@@ -20,9 +20,13 @@ Sept. 26, 1961, Pub. L. 87–304, §5, 75 Stat. 663.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–68 inserted at end "For purposes of this section, the term 'agency' includes the Office of the Architect of the Capitol."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

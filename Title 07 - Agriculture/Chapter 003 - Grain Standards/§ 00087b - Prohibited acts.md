@@ -14,7 +14,7 @@
 
 &emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been established with respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
 
-&emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
+&emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer oremployee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
 
 &emsp;(8) forcibly assault, resist, oppose, impede, intimidate, or interfere with any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture in, or on account of, the performance of the duties of the officer, employee, or other person under this chapter;
 
@@ -100,7 +100,7 @@
 
 <b>1994</b>—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1993</b>—Pub. L. 103–156, §12(l), which directed amendment of "Section 13", without specifying the name of the Act being amended, was executed to this section,which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(l), which directed amendment of "Section 13", without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 103–156, §12(l)(1), substituted "the representative of the Administrator" for "his representative".
 

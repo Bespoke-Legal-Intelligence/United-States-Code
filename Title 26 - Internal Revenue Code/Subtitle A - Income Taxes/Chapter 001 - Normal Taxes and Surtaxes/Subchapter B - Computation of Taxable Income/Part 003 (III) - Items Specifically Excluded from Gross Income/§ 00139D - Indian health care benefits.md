@@ -14,7 +14,7 @@ For purposes of this section, the term "qualified Indian health care benefit" me
 
 &emsp;(3) coverage under accident or health insurance (or an arrangement having the effect of accident or health insurance), or an accident or health plan, provided by an Indian tribe or tribal organization for medical care to a member of an Indian tribe, include a spouse or dependent of such a member, and
 
-&emsp;(4) any other medical care provided by an Indian tribe or tribal organization that supplements, replaces, or substitutes for a program or service relating to medical care provided by the Federal government to Indian tribes or members of such a tribe.
+&emsp;(4) any other medical care provided by an Indian tribe or tribal organization that supplements, replaces, or substitutes for a program or service relating to medical care provided bythe Federal government to Indian tribes or members of such a tribe.
 
 #### (c) Definitions
 

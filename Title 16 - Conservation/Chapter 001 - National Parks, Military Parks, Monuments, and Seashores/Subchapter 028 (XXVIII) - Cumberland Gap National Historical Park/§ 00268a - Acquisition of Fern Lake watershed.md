@@ -16,7 +16,7 @@ This section may be cited as the "Fern Lake Conservation and Recreation Act".
 
 &emsp;&emsp;(C) Fern Lake is the water supply source for the city of Middlesboro, Kentucky, and environs.
 
-&emsp;&emsp;(D) The 4,500-acre Fern Lake watershed is privately owned, and the 150-acre lake and part of the watershed are currently for sale,but the Secretary of the Interior is precluded by the first section of the Act of June 11, 1940 (16 U.S.C. 261), from using appropriated funds to acquire the lands.
+&emsp;&emsp;(D) The 4,500-acre Fern Lake watershed is privately owned, and the 150-acre lake and part of the watershed are currently for sale, but the Secretary of the Interior is precluded by the first section of the Act of June 11, 1940 (16 U.S.C. 261), from using appropriated funds to acquire the lands.
 
 #### (2) Purposes
 

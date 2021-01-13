@@ -30,6 +30,8 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
 
+&emsp;(11) Providing for the provision of drugs, biological products, vaccines, and critical medical supplies required to enable combat readiness and protect the health of the armed forces.
+
 (b)
 
 Civil-Military Integration Policy.—The Secretary of Defense shall ensure that the United States attains the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
@@ -40,7 +42,11 @@ Civil-Military Integration Policy.—The Secretary of Defense shall ensure that 
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, §846(a), Dec. 20, 2019, 133 Stat. 1503.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, §846(a), Dec. 20, 2019, 133 Stat. 1503; Pub. L. 116–283, div. A, title VII, §713(a), Jan. 1, 2021, 134 Stat. 3692.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 382 of this title, as added by section 1867(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as section 4811 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -49,6 +55,8 @@ A prior section 2501, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B
 Another prior section 2501 was renumbered section 2533 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(11). Pub. L. 116–283 added par. (11).
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted "The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043)." after first sentence.
 
@@ -88,6 +96,10 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing the public sector demand for capital, increases the amount of capital available" for "and thereby free up capital".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1867(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Support for Defense Manufacturing Communities To Support the Defense Industrial Base
 
 Pub. L. 115–232, div. A, title VIII, §846, Aug. 13, 2018, 132 Stat. 1881, provided that:
@@ -98,7 +110,7 @@ Program Authorized.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense may, in coordination with the Secretary of Commerce and working in coordination with the defense manufacturing institutes, establish within the Department of Defense a program to make long-term investments in critical skills, facilities, research and development, and small business support in order to strengthen the national security innovation base by designating and supporting consortiums as defense manufacturing communities.
+In general.—The Secretary of Defense may, in coordination with the Secretary of Commerce and working in coordination with the defense manufacturing institutes, establish within the Department of Defense a program to make long-term investments in critical skills, facilities, research and development, and small business support in order to strengthen the national security innovation base by designating andsupporting consortiums as defense manufacturing communities.
 
 &emsp;"(2)
 
@@ -134,7 +146,7 @@ Renewal.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary may renew a designation made under paragraph (1) for up to twoadditional two-year periods. Any designation as a defense manufacturing community or renewal of such designation that is in effect before the date of the enactment of this Act \[Aug. 13, 2018\] shall count toward the limit set forth in this subparagraph.
+In general.—The Secretary may renew a designation made under paragraph (1) for up to two additional two-year periods. Any designation as a defense manufacturing community or renewal of such designation that is in effect before the date of the enactment of this Act \[Aug. 13, 2018\] shall count toward the limit set forth in this subparagraph.
 
 &emsp;&emsp;"(B)
 
@@ -234,7 +246,7 @@ Notification.—Not later than 90 days after establishing or designating the pro
 
 &emsp;&emsp;"(C) Identification of, or recommendations for, any statutory changes needed to improve the effectiveness of the process.
 
-&emsp;&emsp;"(D) Projected resources necessary to purchase any commercially available tools identified under subparagraph (B) and to carry out any statutory changes identified under subparagraph (C).
+&emsp;&emsp;"(D) Projected resources necessary to purchase any commercially available tools identified undersubparagraph (B) and to carry out any statutory changes identified under subparagraph (C).
 
 "(b)
 
@@ -280,7 +292,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 #### Greater Integration of the National Technology and Industrial Base
 
-Pub. L. 114–328, div. A, title VIII, §881, Dec. 23, 2016, 130 Stat. 2315, provided that:
+Pub. L. 114–328, div. A, title VIII, §881, Dec. 23, 2016, 130 Stat. 2315, as amended by Pub. L. 116–283, div. A, title XVIII, §1866(d)(3), Jan. 1, 2021, 134 Stat. 4280, provided that:
 
 "(a)
 
@@ -312,9 +324,11 @@ Amendment to Definition of National Technology and Industrial Base.—\[Amended 
 
 Reporting Requirement.—The Secretary of Defense shall report on the progress of implementing the plan in subsection (a) in the report required under section 2504 of title 10, United States Code."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1866(d)(3), Jan. 1, 2021, 134 Stat. 4151, 4280, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 881 of Pub. L. 114–328, set out above, is amended in subsec. (a) by substituting "section 4801" for "section 2500" in introductory provisions and "section 4811(b)" for "section 2501(b)" in par. (4), and in subsec. (c) by substituting "section 4814" for "section 2504".\]</i>
+
 #### Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States
 
-Pub. L. 114–92, div. A, title II, §218, Nov. 25, 2015, 129 Stat. 772, provided that:
+Pub. L. 114–92, div. A, title II, §218, Nov. 25, 2015, 129 Stat. 772, as amended by Pub. L. 116–283, div. A, title XVIII, §1841(e)(2), Jan. 1, 2021, 134 Stat. 4244, provided that:
 
 "(a)
 
@@ -324,7 +338,7 @@ Program Established.—
 
 In general.—The Secretary of Defense shall establish a technology offset program to build and maintain the military technological superiority of the United States by—
 
-&emsp;&emsp;"(A) accelerating the fielding of offset technologies that would help counter technological advantages of potential adversaries of the United States, including directed energy, low-cost, high-speed munitions, autonomous systems, undersea warfare, cyber technology, and intelligence data analytics, developed using research funding of the Department of Defense and accelerating the commercialization of such technologies; and
+&emsp;&emsp;"(A) accelerating the fielding of offset technologies that would help counter technological advantages of potential adversaries of the United States, including directed energy, low-cost, high-speed munitions, autonomous systems, underseawarfare, cyber technology, and intelligence data analytics, developed using research funding of the Department of Defense and accelerating the commercialization of such technologies; and
 
 &emsp;&emsp;"(B) developing and implementing new policies and acquisition and business practices.
 
@@ -388,6 +402,8 @@ In general.—The authority to carry out the program under subsection (a)(1) sha
 
 Transfer after termination.—Any amounts made available for the program that remain available for obligation on the date on which the program terminates may be transferred under subsection (d) during the 180-day period beginning on the date of the termination of the program."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(e)(2), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 218(b)(1) of Pub. L. 114–92, set out above, is amended by substituting "section 4003" for "section 2371b".\]</i>
+
 #### Expansion of the Industrial Base
 
 Pub. L. 111–383, div. A, title VIII, §891, Jan. 7, 2011, 124 Stat. 4310, provided that:
@@ -436,7 +452,7 @@ Establishment.—Not later than one year after the date of the enactment of this
 
 Specification.—The roles and responsibilities of the executive agent designated under subsection (a) shall include each of the following:
 
-&emsp;&emsp;"(A) Development and maintenance of a printed circuit board and interconnect technology roadmap that ensures that the Department of Defense has access to the manufacturing capabilities and technical expertise necessary to meet future military requirements regarding such technology.
+&emsp;&emsp;"(A) Development and maintenance of a printed circuit board and interconnect technology roadmapthat ensures that the Department of Defense has access to the manufacturing capabilities and technical expertise necessary to meet future military requirements regarding such technology.
 
 &emsp;&emsp;"(B) Development of recommended funding strategies necessary to meet the requirements of the roadmap developed under subparagraph (A).
 
@@ -462,7 +478,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat.2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, §1866(d)(4), Jan. 1, 2021, 134 Stat. 4280, provided that:
 
 #### "SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -526,7 +542,7 @@ Use of Fund.—The Secretary of Defense is authorized to use all amounts in the 
 
 "(d)
 
-Limitation on Use of Fund.—Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing the Secretary's plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients.
+Limitation on Use of Fund.—Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing theSecretary's plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients.
 
 "(e)
 
@@ -539,6 +555,8 @@ Fund Manager.—The Secretary of Defense shall designate a Fund manager. The dut
 &emsp;"(1) ensuring the visibility and accountability of transactions engaged in through the Fund; and
 
 &emsp;"(2) reporting to Congress each year regarding activities of the Fund during the previous fiscal year."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1866(d)(4), Jan. 1, 2021, 134 Stat. 4151, 4280, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, part I of subtitle B of title VIII of Pub. L. 108–136, set out above, is amended, in section 812(a)(1)(B), by substituting "section 4811" for "section 2501"; in section 812(b)(3), by substituting "section 4817" for "section 2507"; and, in section 814(c), by substituting "section 4864" for "section 2534".\]</i>
 
 #### Air Force Science and Technology Planning
 
@@ -564,7 +582,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of the Air F
 
 &emsp;"(2) Complete and adopt a policy directive that provides for changes in how the Air Force makes budgetary and nonbudgetary decisions with respect to its science and technology development programs and how it carries out those programs.
 
-&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into lawby Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
+&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
 
 &emsp;"(4) Ensure that development and science and technology planning and investment activities are carried out for future space warfighting systems and for future nonspace warfighting systems in an integrated manner.
 
@@ -662,7 +680,7 @@ Long-Term Challenges.—(1) The Secretary of the Air Force shall establish an in
 
 &emsp;"(B) should not select a linear extension of any ongoing Air Force science and technology program for consideration as a science and technology challenge under subparagraph (A).
 
-"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technicalcoordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
+"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technical coordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
 
 "(5) In carrying out subsection (a), the Secretary of the Air Force shall review the science and technology challenges identified pursuant to this subsection and, for each such challenge, at a minimum—
 
@@ -712,7 +730,7 @@ Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required
 
 #### Sense of Congress on Defense Science and Technology Program
 
-Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604; Pub. L. 109–364, div. A, title II, §217, Oct. 17, 2006, 120 Stat. 2125, which provided the sense of Congress as to funding objectives for the Defense Science and Technology Program, was repealed by Pub. L. 111–84, div. A, title II, §213, Oct. 28, 2009, 123 Stat. 2226.
+Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X,§1031(h)(1), Nov. 24, 2003, 117 Stat. 1604; Pub. L. 109–364, div. A, title II, §217, Oct. 17, 2006, 120 Stat. 2125, which provided the sense of Congress as to funding objectives for the Defense Science and Technology Program, was repealed by Pub. L. 111–84, div. A, title II, §213, Oct. 28, 2009, 123 Stat. 2226.
 
 Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
 
@@ -800,7 +818,7 @@ Pub. L. 104–201, div. A, title II, §270, Sept. 23, 1996, 110 Stat. 2469, as a
 
 #### Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors
 
-Pub. L. 104–106, div. A, title VIII, §808, Feb. 10, 1996, 110 Stat. 393, authorized Secretary of Defense to enter into agreements with defense contractors under which certain cost reimbursement rules would be applied and required submission of report to congressional defense committees not later than one year after Feb. 10, 1996, prior to repeal by Pub. L. 105–85, div. A, title X, §1027(d), Nov. 18, 1997, 111 Stat. 1880. See section 7315 of this title.
+Pub. L. 104–106, div. A, title VIII, §808, Feb. 10, 1996, 110 Stat. 393, authorized Secretary of Defense to enter into agreements with defense contractors under which certain cost reimbursement rules would be applied and required submission of report to congressional defensecommittees not later than one year after Feb. 10, 1996, prior to repeal by Pub. L. 105–85, div. A, title X, §1027(d), Nov. 18, 1997, 111 Stat. 1880. See section 7315 of this title.
 
 #### Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs
 
@@ -886,7 +904,7 @@ Maximum department of defense share.—The Secretary of Defense shall ensure tha
 
 &emsp;"(2)
 
-Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources."
+Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculatingthe share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -900,11 +918,11 @@ Pub. L. 102–484, div. D, title XLII, §4218, Oct. 23, 1992, 106 Stat. 2671, re
 
 #### Industrial Diversification Planning for Defense Contractors
 
-Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations toencourage defense contractors to engage in industrial diversification planning."
+Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning."
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
 
-Pub. L. 102–484, div. D, title XLIV, §4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, §1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, §1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, as amended by Pub. L. 116–283, div. A, title XVIII, §1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 "(a)
 
@@ -955,4 +973,6 @@ Definitions.—For purposes of this section:
 &emsp;"(1) The term 'major defense program' means a program that is carried out to produce or acquire a major system (as defined in section 2302(5) of title 10, United States Code).
 
 &emsp;"(2) The terms 'substantial reduction' and 'substantially reduced', with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 4471(f)(1) of Pub. L. 102–484, set out above, is amended by substituting "section 3041" for "section 2302(5)".\]</i>
 

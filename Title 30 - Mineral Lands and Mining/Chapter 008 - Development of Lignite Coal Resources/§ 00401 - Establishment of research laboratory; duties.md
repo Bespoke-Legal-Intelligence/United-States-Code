@@ -4,9 +4,13 @@ The Secretary of the Interior, acting through the United States Bureau of Mines,
 
 (Mar. 25, 1948, ch. 146, §1, 62 Stat. 85.)
 
+#### <b>Editorial Notes</b>
+
 #### Transfer of Functions
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appropriations
 

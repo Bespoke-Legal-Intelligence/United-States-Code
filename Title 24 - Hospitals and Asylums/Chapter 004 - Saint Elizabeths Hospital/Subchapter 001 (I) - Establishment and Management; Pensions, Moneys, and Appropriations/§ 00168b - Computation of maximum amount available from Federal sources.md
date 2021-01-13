@@ -4,6 +4,8 @@ Amounts chargeable to and available from Federal sources for inpatient and outpa
 
 (Pub. L. 100–436, title II, Sept. 20, 1988, 102 Stat. 1693.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, §10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380.
@@ -19,6 +21,8 @@ federal subsidy for saint elizabeths hospital" of title II, "Department of Healt
 #### Codification
 
 Section is from the appropriation act cited as the credit to this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

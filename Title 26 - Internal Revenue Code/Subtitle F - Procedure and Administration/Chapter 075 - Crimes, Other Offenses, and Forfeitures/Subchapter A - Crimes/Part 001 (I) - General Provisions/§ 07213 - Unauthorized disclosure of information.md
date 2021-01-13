@@ -8,7 +8,7 @@
 
 #### (2) State and other employees
 
-&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), (k)(10), (13), or (14), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), (k)(10), (13), (14), or (15), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 #### (3) Other persons
 
@@ -28,7 +28,7 @@ Any officer or employee of the United States who divulges or makes known in any 
 
 #### (c) Disclosures by certain delegates of Secretary
 
-All provisions of law relating to the disclosure of information, and all provisions of law relating to penalties for unauthorized disclosure of information, which are applicable in respect of any function under this title when performed by an officer or employee of the Treasury Department are likewise applicable in respect of such function when performed by any person who is a "delegate" within the meaning of section 7701(a)(12)(B).
+All provisions of law relating to the disclosure of information, and all provisions of law relating to penalties for unauthorized disclosure of information, which are applicable in respect of any function under this title when performed by an officer or employee of the Treasury Departmentare likewise applicable in respect of such function when performed by any person who is a "delegate" within the meaning of section 7701(a)(12)(B).
 
 #### (d) Disclosure of software
 
@@ -44,9 +44,11 @@ Any person who willfully divulges or makes known software (as defined in section
 
 &emsp;&emsp;<b>For penalties for disclosure of confidential information by any officer or employee of the United States or any department or agency thereof, see 18 U.S.C. 1905.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, §90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, §103(s), Sept. 13, 1960, 74 Stat. 940; Pub. L. 94–455, title XII, §1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, §127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, §302(b), Dec.5, 1980, 94 Stat. 2604; Pub. L. 96–611, §11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, §356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, §8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, §21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, §701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, §8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, §6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, §5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, §1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, §11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, §2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, §3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, §201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, §105(e)(4), title VIII, §811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, §1224(b)(5), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 111–148, title I, §1414(d), Mar. 23, 2010, 124 Stat. 237; Pub. L. 112–240, title II, §209(b)(3), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 114–184, §2(b)(2)(C), June 30, 2016, 130 Stat. 537; Pub. L. 116–25, title I, §1405(a)(2)(B), title II, §2003(c)(2)(B), July 1, 2019, 133 Stat. 998, 1003.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, §90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, §103(s), Sept. 13, 1960, 74 Stat. 940; Pub. L. 94–455, title XII, §1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, §127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, §302(b), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–611, §11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, §356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, §8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, §21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, §701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, §8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, §6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, §5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, §1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, §11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, §2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, §3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, §201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, §105(e)(4), title VIII, §811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, §1224(b)(5), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 111–148, title I, §1414(d), Mar. 23, 2010, 124 Stat. 237; Pub. L. 112–240, title II, §209(b)(3), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 114–184, §2(b)(2)(C), June 30, 2016, 130 Stat. 537; Pub. L. 116–25, title I, §1405(a)(2)(B), title II, §2003(c)(2)(B), July 1, 2019, 133 Stat. 998, 1003; Pub. L. 116–260, div. N, title II, §283(b)(2)(C), div. FF, title I, §102(b)(2)(C), Dec. 27, 2020, 134 Stat. 1985, 3084.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, div. N, §283(b)(2)(C), and div. FF, §102(b)(2)(C), amended par. (2) identically, substituting "(k)(10), (13), (14), or (15)" for "(k)(10), (13), or (14)".
 
 <b>2019</b>—Subsec. (a)(2). Pub. L. 116–25, §2003(c)(2)(B), substituted ", (13), or (14)" for "or (13)".
 
@@ -120,13 +122,17 @@ Subsecs. (d), (e). Pub. L. 94–455, §1202(d), (h)(3), redesignated subsec. (e)
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable to disclosures made on or after Dec. 27, 2020, see section 284(a)(4) of div. N of Pub. L. 116–260 and section 102(c) of div. FF of Pub. L. 116–260, set out as notes under section 6103 of this title.
+
 #### Effective Date of 2019 Amendment
 
 Amendment by section 1405(a)(2)(B) of Pub. L. 116–25 applicable to disclosures made after July 1, 2019, see section 1405(c)(1) of Pub. L. 116–25, set out as a note under section 6103 of this title.
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–184 applicable to disclosures made after June 30, 2016, see section 2(c) of Pub.L. 114–184, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 114–184 applicable to disclosures made after June 30, 2016, see section 2(c) of Pub. L. 114–184, set out as a note under section 6103 of this title.
 
 #### Effective Date of 2006 Amendment
 

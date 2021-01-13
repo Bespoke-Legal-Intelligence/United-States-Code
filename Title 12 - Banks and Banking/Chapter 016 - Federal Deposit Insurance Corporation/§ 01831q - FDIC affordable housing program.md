@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term "realizable disposition value" means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) <sup>1</sup>of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term "realizable disposition value" means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value ofa property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) <sup>1</sup> of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -76,7 +76,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (5) Exception to avoid displacement of existing residents
 
-&emsp;Notwithstanding the first sentence of paragraph (2), during the 180-day period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation may sell the property to the household residing in the property, but only if (A) such household was residing in the property at the time notice regarding the property was provided to clearinghouses under paragraph (1), (B) such sale is necessary to avoid the displacement of, and unnecessary hardship to, the resident household, (C) the resident household intends to occupy the property as a principal residence for at least 12 months, and (D) the resident household certifies in writing that the household intends to occupy the property for at least 12 months.
+&emsp;Notwithstanding the first sentence of paragraph (2), during the 180-day period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation may sell the property to the household residing in the property, but only if (A) such household was residing in the property at the time notice regarding the property was provided to clearinghouses underparagraph (1), (B) such sale is necessary to avoid the displacement of, and unnecessary hardship to, the resident household, (C) the resident household intends to occupy the property as a principal residence for at least 12 months, and (D) the resident household certifies in writing that the household intends to occupy the property for at least 12 months.
 
 #### (d) Rules governing disposition of eligible multifamily housing properties
 
@@ -134,7 +134,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;With respect to any purchase under paragraph (4) or (5) by a qualifying multifamily purchaser involving more than one eligible multifamily housing property as a part of the same negotiation, with respect to which the purchaser intends to aggregate the low-income occupancy required under this paragraph over the total number of units so purchased—
 
-&emsp;&emsp;&emsp;(i) not less than 40 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for low-income and very low-income families during the remaining useful life of thebuilding or structure in which the units are located; provided that
+&emsp;&emsp;&emsp;(i) not less than 40 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for low-income and very low-income families during the remaining useful life of the building or structure in which the units are located; provided that
 
 &emsp;&emsp;&emsp;(ii) not less than 20 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for very low-income families during the remaining useful life of the building or structure in which the units are located; and further provided that
 
@@ -232,7 +232,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (3) National Affordable Housing Act
 
-&emsp;The Corporation shall coordinate the disposition of eligible residential property under this section with appropriate programs and provisions of, and amendments made by, theCranston-Gonzalez National Affordable Housing Act, including titles II \[42 U.S.C. 12721 et seq.\] and IV of such Act.
+&emsp;The Corporation shall coordinate the disposition of eligible residential property under this section with appropriate programs and provisions of, and amendments made by, the Cranston-Gonzalez National Affordable Housing Act, including titles II \[42 U.S.C. 12721 et seq.\] and IV of such Act.
 
 #### (i) Exemption for certain transactions with insured depository institutions
 
@@ -356,7 +356,7 @@ Notwithstanding subsections (c), (d), (f), and (g), the Corporation may transfer
 
 #### (2) Low-income occupancy
 
-&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and\(l)(3) shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (3) Clearinghouses
 
@@ -546,6 +546,8 @@ For purposes of this section:
 
 (Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1441a of this title, referred to in subsecs. (b)(2)(D)(ii), (g)(1)(B), and (n)(1), (4), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
@@ -578,7 +580,7 @@ Another section 2\[40\] of act Sept. 21, 1950, was renumbered section 2\[43\] an
 
 Subsec. (d)(8)(A). Pub. L. 103–325, §602(a)(66), substituted "meeting the" for "meeting".
 
-<b>1993</b>—Subsec. (g)(1)(B). Pub. L. 103–204, §14(d)(2), inserted at end "The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing andto nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms 'women-owned business' and 'minority-owned business' have the meanings given such terms in section 1441a(r) of this title, and the term 'minority' has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989."
+<b>1993</b>—Subsec. (g)(1)(B). Pub. L. 103–204, §14(d)(2), inserted at end "The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms 'women-owned business' and 'minority-owned business' have the meanings given such terms in section 1441a(r) of this title, and the term 'minority' has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989."
 
 Subsec. (m)(4). Pub. L. 103–204, §14(f)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Corporation shall not be liable to any depositor, creditor, or shareholder of any insured depository institution for which the Corporation has been appointed receiver, or any claimant against such an institution, because the disposition of assets of the institution under this section affects the amount of return from the assets."
 
@@ -599,6 +601,8 @@ Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former sub
 Subsec. (p)(7)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "that has an appraised value that does not exceed the applicable dollar amount specified in the first sentence of section 203(b)(2) of the National Housing Act, as such dollar amount is increased on an area-by-area basis under such section for areas with high prevailing housing sales prices, except that for purposes of this paragraph no such increase may exceed 150 percent of the dollar amount specified in section 203(b)(2)."
 
 Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: "that has an appraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Affordable Housing Advisory Board
 

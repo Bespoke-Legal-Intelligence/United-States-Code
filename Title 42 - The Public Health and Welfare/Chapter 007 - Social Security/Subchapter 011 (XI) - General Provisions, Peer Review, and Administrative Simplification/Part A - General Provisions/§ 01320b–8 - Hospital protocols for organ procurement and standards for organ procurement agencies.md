@@ -18,7 +18,7 @@
 
 &emsp;(i) the waiver is expected to increase organ donation; and
 
-&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organ procurement agency with which the hospital seeks to enter into an agreement under the waiver.
+&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organprocurement agency with which the hospital seeks to enter into an agreement under the waiver.
 
 (B) In making a determination under subparagraph (A), the Secretary may consider factors that would include, but not be limited to—
 
@@ -94,7 +94,7 @@ Pub. L. 103–432, §155(a)(1)(C)(i), redesignated par. (2) as (3).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -108,7 +108,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Pub. L. 99–509, title IX, §9318(b), Oct. 21, 1986, 100 Stat. 2010, as amended by Pub. L. 100–119, title I, §107(c), Sept. 29, 1987, 101 Stat. 784; Pub. L. 100–203, title IV, §4009(g)(1), Dec. 22, 1987, 101 Stat. 1330–58, provided that:
 
-"(1) Section 1138(a) of the Social Security Act \[42 U.S.C. 1320b–8(a)\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act\[42 U.S.C. 1395 et seq., 1396 et seq.\] as of November 21, 1987."
+"(1) Section 1138(a) of the Social Security Act \[42 U.S.C. 1320b–8(a)\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] as of November 21, 1987."
 
 "(2) Section 1138(b) of such Act \[42 U.S.C. 1320b–8(b)\] shall apply to costs of organs procured on or after March 31, 1988."
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 48 - Territories and Insular Possessions
 
-GPO's 2019 edition (laws in effect as of 2020-01-24), from its printed page marks. The exact position of
+GPO's 2020 edition (laws in effect as of 2021-01-13), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title48.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -586,8 +586,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01808 - Operations](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001808%20-%20Operations.md) | 198 |
 | [Subchapter 002 (II) - Judicial Matters](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/README.md) | 198 |
 | [&sect; 01821 - District Court for the Northern Mariana Islands](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001821%20-%20District%20Court%20for%20the%20Northern%20Mariana%20Islands.md) | 198–199 |
-| [&sect; 01822 - Jurisdiction of District Court; original jurisdiction; procedural requirements](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001822%20-%20Jurisdiction%20of%20District%20Court%3B%20original%20jurisdiction%3B%20procedural%20requirements.md) | 199 |
-| [&sect; 01823 - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001823%20-%20Appellate%20jurisdiction%20of%20District%20Court%3B%20procedure%3B%20review%20by%20United%20States%20Court%20of%20Appeals%20for%20Ninth%20Circuit%3B%20rules.md) | 199–200 |
+| [&sect; 01822 - Jurisdiction of District Court; original jurisdiction; procedural requirements](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001822%20-%20Jurisdiction%20of%20District%20Court%3B%20original%20jurisdiction%3B%20procedural%20requirements.md) | 199–200 |
+| [&sect; 01823 - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001823%20-%20Appellate%20jurisdiction%20of%20District%20Court%3B%20procedure%3B%20review%20by%20United%20States%20Court%20of%20Appeals%20for%20Ninth%20Circuit%3B%20rules.md) | 200 |
 | [&sect; 01824 - Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001824%20-%20Relations%20between%20courts%20of%20United%20States%20and%20courts%20of%20Northern%20Mariana%20Islands%3B%20applicability%20of%20statutory%20provisions.md) | 200–201 |
 | [&sect; 01825 - Effective date](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001825%20-%20Effective%20date.md) | 201 |
 | [&sect; 01826 - Authorization of appropriations](Chapter%20017%20-%20Northern%20Mariana%20Islands/Subchapter%20002%20%28II%29%20-%20Judicial%20Matters/%C2%A7%2001826%20-%20Authorization%20of%20appropriations.md) | 201 |

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation to be known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
+The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation tobe known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -38,7 +38,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (2) Fees
 
-&emsp;The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation inamounts determined reasonable and appropriate by the Executive Director.
+&emsp;The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation in amounts determined reasonable and appropriate by the Executive Director.
 
 #### (3) Authority of Foundation
 
@@ -270,7 +270,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of the Foundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of theFoundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted "an individual to serve as the initial Chair" for "an appointed member of the Board to serve as the Chair", and added subpar. (B).
 
@@ -444,7 +444,7 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted "5" for "3".
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -14,6 +14,8 @@ This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
 (Pub. L. 108–7, div. H, title I, §1201, Feb. 20, 2003, 117 Stat. 372; Pub. L. 115–244, div. B, title I, §133(a), Sept. 21, 2018, 132 Stat. 2936.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a)(1), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -28,7 +30,9 @@ Prior similar provisions were contained in Pub. L. 107–68, title I, §131, Nov
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–244, which directed amendment of "2 U.S.C. 1821" by inserting "To promote efficiency and economy in contracting and to avoid unnecessary burdens, the Architect of the Capitol is granted authority to utilize special simplified procedures for purchases of property and services the aggregate amount of which does not exceed $250,000." before "Notwithstanding any other provision of law—", was executed by making the insertion in subsec. (a) of section 1201 of Pub. L. 108–7, div. H, title I, which is classified to this section, to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–244, div. B, title I, §133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply withrespect to fiscal year 2019 and each succeeding fiscal year."
+Pub. L. 115–244, div. B, title I, §133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
 

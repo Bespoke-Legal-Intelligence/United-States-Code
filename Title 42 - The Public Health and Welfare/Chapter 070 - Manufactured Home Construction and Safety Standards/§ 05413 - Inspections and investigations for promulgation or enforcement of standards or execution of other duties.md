@@ -12,7 +12,7 @@ The Secretary is authorized to conduct such inspections and investigations as ma
 
 &emsp;(B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c). Each such inspection shall be commenced and completed with reasonable promptness.
 
-(2) The Secretary is authorized to contract with State and local governments and privateinspection organizations to carry out his functions under this subsection.
+(2) The Secretary is authorized to contract with State and local governments and private inspection organizations to carry out his functions under this subsection.
 
 #### (c) Powers of Secretary
 
@@ -38,7 +38,7 @@ Each manufacturer of manufactured homes shall submit the building plans for ever
 
 #### (f) Records, reports and information from manufacturers, distributors and retailers of manufactured homes; inspection and examination of relevant books, papers, records and documents by designated person
 
-Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
+Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary mayreasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 

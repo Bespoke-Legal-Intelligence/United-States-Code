@@ -10,7 +10,7 @@
 
 &emsp;(2) expressly provides that it is available after the fiscal year covered by the law in which it appears.
 
-(d) A law may be construed to make an appropriation out of the Treasury or to authorizemaking a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.
+(d) A law may be construed to make an appropriation out of the Treasury or to authorize making a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 917.)
 
@@ -52,6 +52,8 @@ In subsection (c), before clause (1), the words "specific or indefinite" are omi
 
 In subsection (d), the words "passed after June 30, 1906" are omitted as executed.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–1, §1, Jan. 16, 2019, 133 Stat. 3, provided that: "This Act \[amending section 1341 of this title\] may be cited as the 'Government Employee Fair Treatment Act of 2019'."
@@ -84,6 +86,8 @@ Pub. L. 104–134, title I, §101(d) \[title V, §509\], Apr. 26, 1996, 110 Stat
 
 Pub. L. 103–333, title V, §515, Sept. 30, 1994, 108 Stat. 2574.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13457. Protecting American Taxpayers From Government Spending on Wasteful Earmarks
 
 Ex. Ord. No. 13457, Jan. 29, 2008, 73 F.R. 6417, provided:
@@ -100,7 +104,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 (iii) no oral or written communications concerning earmarks shall supersede statutory criteria, competitive awards, or merit-based decisionmaking.
 
-(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views arein writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
+(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communicationsfrom the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
 
 (c) Heads of agencies shall otherwise implement within their respective agencies the policy set forth in section 1 of this order, consistent with such instructions as the Director of the Office of Management and Budget may prescribe.
 

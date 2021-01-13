@@ -78,7 +78,7 @@
 
 #### (ii) Incorporation into contract
 
-&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary shall incorporate the requirement that the organization (andMedicare+Choice plans it offers) comply with standards under clause (i) as part of the contract between the Secretary and the organization under section 1395w–27 of this title.
+&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary shall incorporate the requirement that the organization (and Medicare+Choice plans it offers) comply with standards under clause (i) as part of the contract between the Secretary and the organization under section 1395w–27 of this title.
 
 #### (iii) Enforcement
 

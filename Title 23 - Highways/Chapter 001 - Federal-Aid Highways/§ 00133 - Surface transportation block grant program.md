@@ -292,6 +292,8 @@ Treatment of Projects.—Notwithstanding any other provision of law, projects fu
 
 (Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129 Stat. 1338, 1410, 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -422,7 +424,7 @@ Subsec. (d)(3)(D). Pub. L. 105–178, §1108(b)(1), substituted "Hawaii and Alas
 
 Subsec. (d)(5)(C). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter forprojects not subject to review by the Secretary under this chapter."
+Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter for projects not subject to review by the Secretary under this chapter."
 
 Subsec. (e)(3)(A). Pub. L. 105–178, §1108(d), struck out at end "Payments shall not exceed the Federal share of costs incurred as of the date the State requests payments."
 
@@ -434,7 +436,7 @@ Subsec. (f). Pub. L. 105–178, §1108(e), as amended by Pub. L. 109–59, §111
 
 &emsp;"(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 
-&emsp;"(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction during such period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period."
+&emsp;"(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction duringsuch period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period."
 
 <b>1995</b>—Subsec. (d)(5). Pub. L. 104–59, §315, added par. (5).
 
@@ -443,6 +445,8 @@ Subsec. (e)(3). Pub. L. 104–59, §316(1), designated existing provisions as su
 Subsec. (e)(5). Pub. L. 104–59, §316(2), added par. (5).
 
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–429 substituted "chapter 53 of title 49" for "the Federal Transit Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

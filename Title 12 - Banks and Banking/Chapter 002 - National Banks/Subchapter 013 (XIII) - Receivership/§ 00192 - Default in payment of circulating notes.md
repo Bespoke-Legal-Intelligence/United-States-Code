@@ -4,7 +4,9 @@ On becoming satisfied, as specified in sections 131 and 132 <sup>1</sup> of thi
 
 <i>Provided</i>, That the Comptroller may, if he deems proper, deposit any of the money so made in any regular Government depositary, or in any State or national bank either of the city or town in which the insolvent bank was located, or of a city or town as adjacent thereto as practicable; if such deposit is made he shall require the depositary to deposit United States bonds or other satisfactory securities with the Treasurer of the United States for the safekeeping and prompt payment of the money so deposited: <i>Provided</i>, That no security in the form of deposit of United States bonds, or otherwise, shall be required in the case of such parts of the deposits as are insured under section 12B of the Federal Reserve Act, as amended. Such depositary shall pay upon such money interest at such rate as the Comptroller may prescribe, not less, however, than 2 per centum per annum upon the average monthly amount of such deposits.
 
-(R.S. §5234; May 15, 1916, ch. 121, 39 Stat. 121; Aug. 23, 1935, ch. 614, title III, §339, 49 Stat. 721; Pub. L. 86–230, §17, Sept. 8, 1959, 73 Stat. 458; Pub. L. 103–325, title VI, §602(g)(11), Sept. 23, 1994, 108 Stat. 2294.)
+(R.S. §5234; May 15, 1916, ch. 121, 39 Stat. 121; Aug. 23, 1935, ch. 614, title III, §339, 49 Stat. 721;Pub. L. 86–230, §17, Sept. 8, 1959, 73 Stat. 458; Pub. L. 103–325, title VI, §602(g)(11), Sept. 23, 1994, 108 Stat. 2294.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ R.S. §5234 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which wa
 <b>1959</b>—Pub. L. 86–230 struck out provisions which required receiver to enforce the personal liability of shareholders.
 
 <b>1935</b>—Act Aug. 23, 1935, inserted second proviso in second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

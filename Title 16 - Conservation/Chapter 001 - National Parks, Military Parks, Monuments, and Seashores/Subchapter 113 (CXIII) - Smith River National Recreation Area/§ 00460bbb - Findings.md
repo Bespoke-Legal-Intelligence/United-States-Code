@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) the Smith River, undammed and free-flowing from its headwaters to the Pacific Ocean, represents one of the last wholly intact vestiges of an invaluable legacy of wild and scenic rivers;
 
-&emsp;(2) the Smith River watershed, from the diverse conifer forests of the Siskiyou Mountains and unique botanical communities of theNorth Fork serpentine to the ancient redwoods along the river's lower reaches, exhibits a richness of ecological diversity unusual in a basin of its size;
+&emsp;(2) the Smith River watershed, from the diverse conifer forests of the Siskiyou Mountains and unique botanical communities of the North Fork serpentine to the ancient redwoods along the river's lower reaches, exhibits a richness of ecological diversity unusual in a basin of its size;
 
 &emsp;(3) the Smith River watershed's scenic beauty, renowned anadromous fisheries, exceptional water quality, and abundant wildlife combine with its ready accessibility to offer exceptional opportunities for a wide range of recreational activities, including wilderness, water sports, fishing, hunting, camping, and sightseeing;
 

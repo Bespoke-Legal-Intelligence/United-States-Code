@@ -46,7 +46,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in goodfaith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
+&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
 
 #### (2) Exceptions
 
@@ -79,6 +79,8 @@ The Commission shall comply with all of the records management requirements set 
 When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.
 
 (Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, §809, Dec. 20, 2019, 133 Stat. 3079.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

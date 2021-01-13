@@ -20,6 +20,8 @@ It is the sense of Congress that the United States should use all appropriate di
 
 (Pub. L. 107–327, title III, §303, Dec. 4, 2002, 116 Stat. 2812.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

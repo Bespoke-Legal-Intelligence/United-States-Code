@@ -46,7 +46,7 @@ The Secretary shall appoint an advisory committee to advise, consult with, and m
 
 #### (c) Submission and approval of application; form, manner and contents
 
-No grant may be made under subsection (a) unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
+No grant may be made under subsection (a) unless an application therefor is submitted toand approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 
 #### (d) Authorization of appropriations
 

@@ -6,6 +6,8 @@
 
 (Added Pub. L. 91–452, title I, §101(a), Oct. 15, 1970, 84 Stat. 923; amended Pub. L. 100–690, title VII, §7020(d), Nov. 18, 1988, 102 Stat. 4396.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted ", the Associate Attorney General" after "Deputy Attorney General".

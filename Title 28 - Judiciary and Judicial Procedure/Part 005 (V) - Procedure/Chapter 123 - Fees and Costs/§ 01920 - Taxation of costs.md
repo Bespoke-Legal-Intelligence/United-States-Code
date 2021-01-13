@@ -28,6 +28,8 @@ Word "may" was substituted for "shall" before "tax as costs," in view of Rule 54
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (2). Pub. L. 110–406, §6(1), substituted "for printed or electronically recorded transcripts" for "of the court reporter for all or any part of the stenographic transcript".
@@ -35,6 +37,8 @@ Changes were made in phraseology.
 Par. (4). Pub. L. 110–406, §6(2), substituted "the costs of making copies of any materials where the copies are" for "copies of papers".
 
 <b>1978</b>—Par. (6). Pub. L. 95–539 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

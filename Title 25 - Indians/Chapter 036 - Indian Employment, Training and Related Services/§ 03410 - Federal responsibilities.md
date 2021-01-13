@@ -66,6 +66,8 @@
 
 (Pub. L. 102–477, §11, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, §11, Dec. 18, 2017, 131 Stat. 2032.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–93 amended section generally. Prior to amendment, section related to Federal responsibilities, specifying the responsibilities of Department of the Interior, and report requirements.

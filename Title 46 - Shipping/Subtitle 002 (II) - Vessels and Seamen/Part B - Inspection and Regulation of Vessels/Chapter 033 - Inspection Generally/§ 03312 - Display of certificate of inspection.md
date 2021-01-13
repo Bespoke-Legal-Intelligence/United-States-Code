@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 3312 requires the conspicuous display of the certificate of inspection to provide notice that the vessel is in compliance with applicable maritime safety laws and regulations. The section also applies to the posting of the temporary certificate of inspection.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.

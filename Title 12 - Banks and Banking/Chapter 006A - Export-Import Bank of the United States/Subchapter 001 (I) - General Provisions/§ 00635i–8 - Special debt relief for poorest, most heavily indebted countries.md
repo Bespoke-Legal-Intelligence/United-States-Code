@@ -44,9 +44,13 @@ The authority provided by subsection (a) may be exercised only in such amounts o
 
 (July 31, 1945, ch. 341, §14, formerly §11, as added Pub. L. 103–87, title V, §570(b), Sept. 30, 1993, 107 Stat. 970; renumbered §14, Pub. L. 103–428, §2(b), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 107–189, §24(b)(6), June 14, 2002, 116 Stat. 709.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–189 substituted "principal" for "principle".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority With Respect to Debt Reduction for Poorest Countries
 

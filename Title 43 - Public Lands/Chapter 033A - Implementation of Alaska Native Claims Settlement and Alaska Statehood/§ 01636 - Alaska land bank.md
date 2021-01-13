@@ -2,7 +2,7 @@
 
 #### (a) Establishment; agreements
 
-(1) In order to enhance the quantity and quality of Alaska's renewable resources and to facilitate the coordinated management and protection of Federal, State, and Native and other private lands, there is hereby established the Alaska Land Bank Program. Any private landowner is authorized as provided in this section to enter into a written agreement with the Secretary if his lands adjoin, or his use of such lands would directly affect, Federal land, Federal and State land, or State land if the State is not participating in the program. Any private landowner described in subsection (d)(1) whose lands do not adjoin, or whose use of such lands would not directly affect either Federal or State lands also is entitled to enter into an agreement with the Secretary. Any private landowner whose lands adjoin, or whose use of such lands would directly affect, only State, or State and private lands, is authorized as provided in this section to enter into an agreement with the State of Alaska if the State is participating in the program. If the Secretary is the contracting party with the private landowner, he shall afford the State an opportunity to participate in negotiations and become a party to the agreement. An agreement may include all or part of the lands of any private landowner: <i>Provided</i>, That no lands shall be included in the agreement unless the Secretary, or the State, determines that the purposes of the program will be promoted by their inclusion.
+(1) In order to enhance the quantity and quality of Alaska's renewable resources and to facilitate the coordinated management and protection of Federal, State, and Native and other private lands, there is hereby established the Alaska Land Bank Program. Any private landowner is authorized as provided in this section to enter into a written agreement with the Secretary if his lands adjoin, or his use of such lands would directly affect, Federal land, Federal and State land, or State land if the State is not participating in the program. Any private landowner described in subsection (d)(1) whose lands do not adjoin, or whose use of such lands would not directly affect either Federal or State lands also is entitled to enter into an agreement with the Secretary. Any private landowner whose lands adjoin, or whose use of such lands would directly affect, only State, or State and private lands, is authorized as provided in this section to enter into an agreement with the State of Alaska ifthe State is participating in the program. If the Secretary is the contracting party with the private landowner, he shall afford the State an opportunity to participate in negotiations and become a party to the agreement. An agreement may include all or part of the lands of any private landowner: <i>Provided</i>, That no lands shall be included in the agreement unless the Secretary, or the State, determines that the purposes of the program will be promoted by their inclusion.
 
 (2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7), and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a private landowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
 
@@ -40,7 +40,7 @@ Each agreement referred to in subsection (a) shall have an initial term of ten y
 
 #### (d) Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act
 
-(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
+(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interestsin land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
 
 &emsp;(i) adverse possession and similar claims based upon estoppel;
 
@@ -102,7 +102,7 @@ Action by a Trustee.—(A) Except as provided in this paragraph and in section 1
 
 &emsp;(ii) to any land, or interest in land, which has been—
 
-&emsp;&emsp;(I) developed or leased prior to the vesting of the trustee, receiver, or custodian with the right, title, or interest of the Native Corporation; or
+&emsp;&emsp;(I) developed or leased prior to the vesting of the trustee, receiver, or custodian withthe right, title, or interest of the Native Corporation; or
 
 &emsp;&emsp;(II) expressly pledged as security for any loan or expressly committed to any commercial transaction in a valid agreement; or
 
@@ -120,7 +120,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 &emsp;&emsp;(II) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock, nor
 
-&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement CommonStock and by Natives and descendants of Natives,
+&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives,
 
 > &emsp;represents a majority of either the total equity of the corporation or the total voting power of the corporation for the purposes of electing directors; or
 
@@ -162,9 +162,11 @@ Except as expressly provided in subsection (d), no provision of this section sha
 
 (Pub. L. 96–487, title IX, §907, Dec. 2, 1980, 94 Stat. 2444; Pub. L. 100–241, §11, Feb. 3, 1988, 101 Stat. 1806; Pub. L. 105–333, §§1, 2, Oct. 31, 1998, 112 Stat. 3129.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1601 of this title and Tables.
 
 This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 

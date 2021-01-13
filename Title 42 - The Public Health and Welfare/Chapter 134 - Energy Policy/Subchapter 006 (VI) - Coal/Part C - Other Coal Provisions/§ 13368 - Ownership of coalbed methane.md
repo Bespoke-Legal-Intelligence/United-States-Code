@@ -20,7 +20,7 @@ Not later than 180 days after October 24, 1992, the Secretary of the Interior, w
 
 #### (c) Failure to adopt statutory or regulatory procedure
 
-If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within 3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer thissection and shall promulgate such regulations as are necessary to carry out this section in that State.
+If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within 3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer this section and shall promulgate such regulations as are necessary to carry out this section in that State.
 
 #### (d) Implementation by Secretary of the Interior
 
@@ -64,7 +64,7 @@ Following issuance of an order establishing a spacing unit under subsection (f),
 
 &emsp;(A) each legally entitled participating working interest owner shall receive a proportionate share of the proceeds attributable to the conflicting ownership interest;
 
-&emsp;(B) each legally entitled nonparticipating working interest owner shall receive a proportionate share of the proceeds attributable to the conflicting ownership interest, less the cost of being carried as a nonparticipating working interest owner (as determined by the election of the entity under the applicable pooling order);
+&emsp;(B) each legally entitled nonparticipating working interest owner shall receive a proportionate share of the proceeds attributable tothe conflicting ownership interest, less the cost of being carried as a nonparticipating working interest owner (as determined by the election of the entity under the applicable pooling order);
 
 &emsp;(C) each entity leasing (or deemed to have leased) its coalbed methane ownership interest to the unit operator shall receive a share of the royalty proceeds (as set out in the applicable pooling order) attributable to the conflicting interests of lessees; and
 
@@ -164,7 +164,7 @@ As used in this section—
 
 #### Codification
 
-October 24, 1992, referred to in subsec. (j)(4), was in the original "the effective date of this section", which was translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
+October 24, 1992, referred to in subsec. (j)(4), was in the original "the effective date of this section", whichwas translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
 
 #### Federal Coalbed Methane Regulation
 

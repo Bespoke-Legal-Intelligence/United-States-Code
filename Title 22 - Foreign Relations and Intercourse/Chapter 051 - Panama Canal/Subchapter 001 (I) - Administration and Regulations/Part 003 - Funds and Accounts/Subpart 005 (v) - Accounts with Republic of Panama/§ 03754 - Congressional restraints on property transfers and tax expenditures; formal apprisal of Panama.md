@@ -16,13 +16,19 @@
 
 (Pub. L. 96–70, title I, §1344, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, §5428(c), Dec. 22, 1987, 101 Stat. 1330–274.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (b)(4). Pub. L. 100–203 substituted "available" for "appropriated to or" and "Panama Canal Revolving Fund" for "Panama Canal Commission Fund".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

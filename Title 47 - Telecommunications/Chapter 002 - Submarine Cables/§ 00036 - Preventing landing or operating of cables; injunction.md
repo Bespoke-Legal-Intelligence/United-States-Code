@@ -4,9 +4,13 @@ The President is empowered to prevent the landing of any cable about to be lande
 
 (May 27, 1921, ch. 12, §3, 42 Stat. 8.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

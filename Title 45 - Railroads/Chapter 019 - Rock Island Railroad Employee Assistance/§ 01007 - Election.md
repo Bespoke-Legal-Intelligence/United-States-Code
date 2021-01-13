@@ -2,7 +2,7 @@
 
 #### (a) Assistance received under employee protection agreement; waiver of other employee protection benefits; exception
 
-Any employee who receives any assistance under an employee protection agreement entered into or benefit schedule prescribed under section 1005 of this title or any new career training assistance under section 1014 of this title shall be deemed to waive any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49 or any applicable contract or agreement (other than as provided in the agreement entered into in Washington, District of Columbia, on March 4, 1980, entitled "Labor Protective Agreement Between Railroads Parties Hereto Involved in Midwest Rail Restructuring and Employees of Such Railroads Represented by theRail Labor Organizations Operating Through the Railway Labor Executives' Association").
+Any employee who receives any assistance under an employee protection agreement entered into or benefit schedule prescribed under section 1005 of this title or any new career training assistance under section 1014 of this title shall be deemed to waive any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49 or any applicable contract or agreement (other than as provided in the agreement entered into in Washington, District of Columbia, on March 4, 1980, entitled "Labor Protective Agreement Between Railroads Parties Hereto Involved in Midwest Rail Restructuring and Employees of Such Railroads Represented by the Rail Labor Organizations Operating Through the Railway Labor Executives' Association").
 
 #### (b) Filing of statement
 
@@ -20,7 +20,9 @@ An employee shall not be eligible to receive any assistance (other than moving e
 
 &emsp;(2) at any time after the date such employee receives an offer of employment, in his craft and for which such employee is qualified, from a rail carrier acquiring lines of the Rock Island Railroad.
 
-(Pub. L. 96–254, title I, §108, May 30, 1980, 94 Stat. 402; Pub. L. 96–448, title VII, §701(b)(2), Oct. 14, 1980, 94 Stat. 1960; Pub. L. 97–468, title II, §232, Jan. 14, 1983, 96 Stat. 2547.)
+(Pub. L. 96–254, title I, §108, May 30, 1980, 94 Stat. 402; Pub. L. 96–448, title VII, §701(b)(2), Oct. 14,1980, 94 Stat. 1960; Pub. L. 97–468, title II, §232, Jan. 14, 1983, 96 Stat. 2547.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 97–468, §232(2), substituted "120 days after the effecti
 Subsec. (d). Pub. L. 97–468, §232(1), substituted "entered into or benefit schedule prescribed" for "or arrangement entered into".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–448 inserted reference to the agreement entered into in Washington on Mar. 4, 1980, and included the title of the agreement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

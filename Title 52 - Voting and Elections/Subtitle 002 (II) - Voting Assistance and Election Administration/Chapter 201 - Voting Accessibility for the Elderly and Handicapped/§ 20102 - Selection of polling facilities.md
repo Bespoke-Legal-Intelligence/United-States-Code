@@ -22,7 +22,7 @@ Subsection (a) shall not apply to a polling place—
 
 #### (c) Report to Federal Election Commission
 
-(1) Not later than December 31 of each even-numbered year, the chief election officer of each State shall report to the Federal Election Commission, in a manner to be determined by the Commission, the number of accessible and inaccessible polling places in such State on the date of the preceding general Federal election, and the reasons for any instance of inaccessibility.
+(1) Not later than December 31 of each even-numbered year, the chief election officer of eachState shall report to the Federal Election Commission, in a manner to be determined by the Commission, the number of accessible and inaccessible polling places in such State on the date of the preceding general Federal election, and the reasons for any instance of inaccessibility.
 
 (2) Not later than April 30 of each odd-numbered year, the Federal Election Commission shall compile the information reported under paragraph (1) and shall transmit that information to the Congress.
 
@@ -30,9 +30,13 @@ Subsection (a) shall not apply to a polling place—
 
 (Pub. L. 98–435, §3, Sept. 28, 1984, 98 Stat. 1678.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1973ee–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -10,9 +10,13 @@ A United States attorney or assistant United States attorney or a person authori
 
 (Added Pub. L. 86–682, §9, Sept. 2, 1960, 74 Stat. 707.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was derived from R.S. §925, which was originally classified to section 738 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. §925 was reclassified to section 838 of Title 39. R.S. §925 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as section 2711 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

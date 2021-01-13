@@ -12,7 +12,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 (1) Gifts or bequests of money under subsection (a)(2) shall, when received by the Architect, be deposited with the Treasurer of the United States, who shall credit these deposits as offsetting collections to an account entitled "Botanic Garden, Gifts and Donations". The gifts or bequests described under subsection (a)(2) shall be accepted only in the total amount provided in appropriations Acts.
 
-(2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearingobligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
+(2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
 
 (3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 6101 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
 
@@ -32,6 +32,8 @@ Any gift accepted by the Architect of the Capitol under this section shall be co
 
 (Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, §201, Oct. 21, 1998, 112 Stat. 2445.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -49,6 +51,8 @@ Section was classified to section 216c of former Title 40, prior to the enactmen
 &emsp;"(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the United States Botanic Garden Conservatory to Third Street, S.W., in the District of Columbia; and
 
 &emsp;"(2) accept gifts, including money, plants, volunteer time, planning, construction and installation expenses, assistance and implements, and garden structures, on behalf of the United States Botanic Garden for the purpose of constructing the National Garden described in paragraph (1)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Funds Available for Constructing, Equipping, and Maintaining National Garden
 

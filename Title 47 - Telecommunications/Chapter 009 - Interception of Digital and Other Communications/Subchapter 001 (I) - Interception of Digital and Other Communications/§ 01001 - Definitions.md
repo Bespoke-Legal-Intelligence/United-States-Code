@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) a service that permits a customer to retrieve stored information from, or file information for storage in, information storage facilities;
+&emsp;&emsp;&emsp;(i) a service that permits a customer to retrieve stored information from, or fileinformation for storage in, information storage facilities;
 
 &emsp;&emsp;&emsp;(ii) electronic publishing; and
 
@@ -45,6 +45,8 @@ For purposes of this subchapter—
 &emsp;&emsp;&emsp;(ii) any class or category of telecommunications carriers that the Commission exempts by rule after consultation with the Attorney General.
 
 (Pub. L. 103–414, title I, §102, Oct. 25, 1994, 108 Stat. 4279.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

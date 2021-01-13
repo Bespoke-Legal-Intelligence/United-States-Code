@@ -108,9 +108,13 @@ Pub. L. 88–352, title VII, §716(a), (b), July 2, 1964, 78 Stat. 266, provided
 
 "(b) Notwithstanding subsection (a), sections of this title other than sections 703, 704, 706, and 707 \[sections 2000e–2, 2000e–3, 2000e–5, and 2000e–6 of this title\] shall become effective immediately \[July 2, 1964\]."
 
+#### Short Title of 1978 Amendment
+
+Pub. L. 95–555, Oct. 31, 1978, 92 Stat. 2076, which enacted subsec. (k) of this section and notes set out below, is popularly known as the "Pregnancy Discrimination Act".
+
 #### Glass Ceiling
 
-Pub. L. 102–166, title II, Nov. 21, 1991, 105 Stat. 1081–1087, entitled the "Glass Ceiling Act of 1991", established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilledwork force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
+Pub. L. 102–166, title II, Nov. 21, 1991, 105 Stat. 1081–1087, entitled the "Glass Ceiling Act of 1991", established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilled work force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
 
 #### Readjustment of Benefits
 
@@ -120,7 +124,7 @@ Pub. L. 95–555, §3, Oct. 31, 1978, 92 Stat. 2076, provided that: "Until the e
 
 Ex. Ord. No. 11126, Nov. 1, 1963, 28 F.R. 11717, as amended by Ex. Ord. No. 11221, May 6, 1965, 30 F.R. 6427; Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, which related to the Interdepartmental Committee on the Status of Women and the Citizens' Advisory Council on the Status of Women, was revoked by Ex. Ord. No. 12050, Apr. 4, 1978, 43 F.R. 14431, formerly set out below.
 
-#### Ex. Ord. No. 11246. Equal Opportunity in Federal Employment
+#### Ex. Ord. No. 11246. Equal Employment Opportunity
 
 Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended by Ex. Ord. No. 11375, Oct. 13, 1967, 32 F.R. 14303; Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985; Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501; Ex. Ord. No. 13279, §4, Dec. 12, 2002, 67 F.R. 77143; Ex. Ord. No. 13665, §2, Apr. 8, 2014, 79 F.R. 20749; Ex. Ord. No. 13672, §2, July 21, 2014, 79 F.R. 42971, provided:
 

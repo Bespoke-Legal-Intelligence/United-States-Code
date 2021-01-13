@@ -58,6 +58,8 @@ Functions of the Chief Acquisition Officer.—The functions of the Chief Acquisi
 
 (Added Pub. L. 111–281, title IV, §401(a), Oct. 15, 2010, 124 Stat. 2929, §56; amended Pub. L. 114–328, div. A, title VIII, §899(a), Dec. 23, 2016, 130 Stat. 2332; renumbered §308 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), (c)(4), Dec. 4, 2018, 132 Stat. 4196, 4240, 4241.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retired pay of warrant officers involuntarily retired under section 307, prior to repeal by act May 29, 1954, ch. 249, §20(o), 68 Stat. 167, and by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.
@@ -71,6 +73,8 @@ Subsec. (b)(3). Pub. L. 115–282, §123(c)(4), substituted "chapter 11" for "ch
 Subsec. (c)(10)(A). Pub. L. 115–282, §123(b)(2), substituted "section 1171" for "section 581".
 
 <b>2016</b>—Subsec. (c)(10). Pub. L. 114–328 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Selection Deadline
 
@@ -90,5 +94,5 @@ Subject to appropriations.—The requirement under paragraph (1) is subject to t
 
 #### Elevation of Disputes to the Chief Acquisition Officer
 
-Pub. L. 111–281, title IV, §401(e), Oct. 15, 2010, 124 Stat. 2931, provided that: "If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding Level 1 or Level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue."
+Pub. L. 111–281, title IV, §401(e), Oct. 15, 2010, 124 Stat. 2931, which directed the Commandant to provide to Congress a description of the issues involved in disputes elevated to the Chief Acquisition Officer that remained unresolved after 90 days, was repealed by Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8501(a)(4), Jan. 1, 2021, 134 Stat. 4745.
 

@@ -10,7 +10,7 @@ The purpose of this section is to enable the Secretary to ensure to the maximum 
 
 #### (b) Secretarial authority
 
-To the extent necessary to accomplish the purpose specified in subsection (a), the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI, or any regulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
+To the extent necessary to accomplish the purpose specified in subsection (a), the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI, or anyregulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
 
 &emsp;(1)(A) conditions of participation or other certification requirements for an individual health care provider or types of providers,
 
@@ -34,9 +34,9 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;(5) deadlines and timetables for performance of required activities, except that such deadlines and timetables may only be modified, not waived;
 
-&emsp;(6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan; and
+&emsp;(6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan;
 
-&emsp;(7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgated under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)— <sup>1</sup>
+&emsp;(7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgateid under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)— <sup>1</sup>
 
 &emsp;&emsp;(A) section 164.510 of title 45, Code of Federal Regulations, relating to—
 
@@ -50,7 +50,9 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;&emsp;&emsp;(i) the patient's right to request privacy restrictions; and
 
-&emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
+&emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications; and
+
+&emsp;(8) in the case of a telehealth service (as defined in paragraph (4)(F) of section 1395m(m) of this title) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of section 1395m(m) of this title.
 
 > Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
 
@@ -100,31 +102,61 @@ For purposes of this section:
 
 #### (1) Emergency area; emergency period
 
-&emsp;An "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
+#### (A) In general
 
-&emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
+&emsp;&emsp;Subject to subparagraph (B), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
 
-&emsp;&emsp;(B) a public health emergency declared by the Secretary pursuant to section 247d of this title.
+&emsp;&emsp;&emsp;(i) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
+
+&emsp;&emsp;&emsp;(ii) a public health emergency declared by the Secretary pursuant to section 247d of this title.
+
+#### (B) Exception
+
+&emsp;&emsp;For purposes of subsection (b)(8), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
+
+&emsp;&emsp;&emsp;(i) the public health emergency declared by the Secretary pursuant to section 247d of this title on January 31, 2020, entitled "Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus"; and
+
+&emsp;&emsp;&emsp;(ii) any renewal of such declaration pursuant to such section 247d of this title.
 
 #### (2) Health care provider
 
 &emsp;The term "health care provider" means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.
 
-(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855.)
+(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855; Pub. L. 116–123, div. B, §102(a)(1), (2), (b), Mar. 6, 2020, 134 Stat. 156; Pub. L. 116–127, div. F, §6010, Mar. 18, 2020, 134 Stat. 210; Pub. L. 116–136, div. A, title III, §3703, Mar. 27, 2020, 134 Stat. 416.)
 
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(7), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-The National Emergencies Act, referred to in subsec. (g)(1)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(l)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(8). Pub. L. 116–136, §3703(1), substituted ", the requirements of section 1395m(m) of this title." for "to an individual by a qualified provider (as defined in subsection (g)(3))—
+
+&emsp;"(A) the requirements of paragraph (4)(C) of such section, except that a facility fee under paragraph (2)(B)(i) of such section may only be paid to an originating site that is a site described in any of subclauses (I) through (IX) of paragraph (4)(C)(ii) of such section; and
+
+&emsp;"(B) the restriction on use of a telephone described in the second sentence of section 410.78(a)(3) of title 42, Code of Federal Regulations (or a successor regulation), but only if such telephone has audio and video capabilities that are used for two-way, real-time interactive communication."
+
+Pub. L. 116–123, §102(a)(1), added par. (8).
+
+Subsec. (g)(1). Pub. L. 116–123, §102(b), amended par. (1) generally. Prior to amendment, text read as follows: "An 'emergency area' is a geographical area in which, and an 'emergency period' is the period during which, there exists—
+
+&emsp;"(A) an emergency or disaster declared by the President pursuant to the National Emergencies Actor the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and
+
+&emsp;"(B) a public health emergency declared by the Secretary pursuant to section 247d of this title."
+
+Subsec. (g)(3). Pub. L. 116–136, §3703(2), struck out par. (3) which defined the term "qualified provider".
+
+Pub. L. 116–123, §102(a)(2), added par. (3).
+
+Subsec. (g)(3)(A). Pub. L. 116–127 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "furnished to such individual an item or service for which payment was made under subchapter XVIII during the 3-year period ending on the date such telehealth service was furnished; or".
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–417, §302(b)(1)(B), (C), in concluding provisions, substituted "and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to" for "and shall be limited to" and inserted at end "If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies."
 
@@ -147,6 +179,42 @@ Pub. L. 109–417, title III, §302(b)(2), Dec. 19, 2006, 120 Stat. 2856, provid
 #### Effective Date
 
 Pub. L. 107–188, title I, §143(b), June 12, 2002, 116 Stat. 629, provided that: "The amendment made by subsection (a) \[enacting this section\] shall be effective on and after September 11, 2001."
+
+#### Coverage of Testing for COVID–19
+
+Pub. L. 116–127, div. F, §6001, Mar. 18, 2020, 134 Stat. 201, as amended by Pub. L. 116–136, div. A, title III, §3201, Mar. 27, 2020, 134 Stat. 366, provided that:
+
+"(a)
+
+In General.—A group health plan and a health insurance issuer offering group or individual health insurance coverage (including a grandfathered health plan (as defined in section 1251(e) of the Patient Protection and Affordable Care Act \[42 U.S.C. 18011(e)\])) shall provide coverage, and shall not impose any cost sharing (including deductibles, copayments, and coinsurance) requirements or prior authorization or other medical management requirements, for the following items and services furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act \[Mar. 18, 2020\]:
+
+&emsp;"(1) An in vitro diagnostic test defined in section 809.3 of title 21, Code of Federal Regulations (or successor regulations) for the detection of SARS–CoV–2 or the diagnosis of the virus that causes COVID–19, and the administration of such a test, that—
+
+&emsp;&emsp;"(A) is approved, cleared, or authorized under section 510(k), 513, 515, or 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(k), 360c, 360e, 360bbb–3);
+
+&emsp;&emsp;"(B) the developer has requested, or intends to request, emergency use authorization under section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3), unless and until the emergency use authorization request under such section 564 has been denied or the developer of such test does not submit a request under such section within a reasonable timeframe;
+
+&emsp;&emsp;"(C) is developed in and authorized by a State that has notified the Secretary of Health and Human Services of its intention to review tests intended to diagnose COVID–19; or
+
+&emsp;&emsp;"(D) other test that the Secretary determines appropriate in guidance.
+
+&emsp;"(2) Items and services furnished to an individual during health care provider office visits (which term in this paragraph includes in-person visits and telehealth visits), urgent care center visits, and emergency room visits that result in an order for or administration of an in vitro diagnostic product described in paragraph (1), but only to the extent such items and services relate to the furnishing or administration of such product or to the evaluation of such individual for purposes of determining the need of such individual for such product.
+
+"(b)
+
+Enforcement.—The provisions of subsection (a) shall be applied by the Secretary of Health and Human Services, Secretary of Labor, and Secretary of the Treasury to group health plans and health insurance issuers offering group or individual health insurance coverage as if included in the provisions of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\], part 7 of the Employee Retirement Income Security Act of 1974 \[probably means part 7 of subtitle B of title I of Pub. L. 93–406, 29 U.S.C. 1181 et seq.\], and subchapter B of chapter 100 of the Internal Revenue Code of 1986 \[26 U.S.C. 9811 et seq.\], as applicable.
+
+"(c)
+
+Implementation.—The Secretary of Health and Human Services, Secretary of Labor, and Secretary of the Treasury may implement the provisions of this section through sub-regulatory guidance, program instruction or otherwise.
+
+"(d)
+
+Terms.—The terms 'group health plan'; 'health insurance issuer'; 'group health insurance coverage', and 'individual health insurance coverage' have the meanings given such terms in section 2791 of the Public Health Service Act (42 U.S.C. 300gg–91), section 733 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b), and section 9832 of the Internal Revenue Code of 1986 \[26 U.S.C. 9832\], as applicable."
+
+#### Implementation of 2020 Amendment
+
+Pub. L. 116–123, div. B, §102(a)(3), Mar. 6, 2020, 134 Stat. 156, provided that: "The Secretary of Health and Human Services may implement the amendments made by this subsection \[amending this section\] by program instruction or otherwise."
 
 <i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the dash.</i>
 

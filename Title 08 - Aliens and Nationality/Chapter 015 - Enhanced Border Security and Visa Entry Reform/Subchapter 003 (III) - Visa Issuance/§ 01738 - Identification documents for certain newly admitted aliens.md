@@ -4,6 +4,8 @@ Not later than 180 days after May 14, 2002, the Attorney General shall ensure th
 
 (Pub. L. 107–173, title III, §309, May 14, 2002, 116 Stat. 556.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.

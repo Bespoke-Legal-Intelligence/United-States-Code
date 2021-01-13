@@ -6,11 +6,15 @@
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 109–177, title I, §121(a)(2), (b)(2), Mar. 9, 2006, 120 Stat. 221, 222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177, §121(b)(2), inserted "or contraband smokeless tobacco" after "contraband cigarettes".
 
 Subsec. (b). Pub. L. 109–177, §121(a)(2), substituted "10,000" for "60,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

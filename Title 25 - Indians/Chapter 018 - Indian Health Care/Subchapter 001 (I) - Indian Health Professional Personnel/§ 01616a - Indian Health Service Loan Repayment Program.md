@@ -36,9 +36,9 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;&emsp;(ii) a license to practice a health profession in a State;
 
-&emsp;(2)(A) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(2)(A) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service;
 
-&emsp;(B) be eligible for selection for civilian service in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(B) be eligible for selection for civilian service in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service;
 
 &emsp;(C) meet the professional standards for civil service employment in the Indian Health Service; or
 
@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (c) Application and contract forms
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -234,11 +234,13 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(6) the amount of scholarship grants provided under section 1613a of this title, in total and by health profession;
 
-&emsp;(7) the number of providers of health care that will be needed by Indian health programs, by location and profession, during the three fiscal years beginning after the date the report is filed; and
+&emsp;(7) the number of providers of health care that will be needed by Indian health programs,by location and profession, during the three fiscal years beginning after the date the report is filed; and
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
 (Pub. L. 94–437, title I, §108, as added Pub. L. 100–713, title I, §108, Nov. 23, 1988, 102 Stat. 4789; amended Pub. L. 102–573, title I, §§106(a)–(g)(1), (h), (i), 117(b)(3), title IX, §902(2)(C), (D), Oct. 29, 1992, 106 Stat. 4535–4537, 4544, 4591.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -288,9 +290,17 @@ Subsec. (n). Pub. L. 102–573, §106(i), amended subsec. (n) generally. Prior t
 
 Subsec. (o). Pub. L. 102–573, §117(b)(3), struck out subsec. (o) which read as follows: "There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–573, title I, §106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act \[this section\] entered into on or after the date of enactment of this Act \[Oct. 29, 1992\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Change of Name note below.</i>
 

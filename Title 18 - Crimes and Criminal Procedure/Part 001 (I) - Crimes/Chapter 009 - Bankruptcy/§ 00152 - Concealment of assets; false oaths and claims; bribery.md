@@ -32,6 +32,8 @@ Section was broadened to apply to one who gives or offers a bribe.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $5,000" in closing provisions.
@@ -50,9 +52,11 @@ Pub. L. 103–322 substituted "fined under this title" for "fined not more than 
 
 Pub. L. 86–519 struck out "under oath" after "knowingly and fraudulently presents" in third par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1978 Amendment
 
@@ -60,5 +64,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Savings Provision
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 

@@ -2,7 +2,7 @@
 
 #### (a) Consultation
 
-The Attorney General shall consult with the Secretary of Health and Human Services andany other appropriate officials in carrying out this subchapter.
+The Attorney General shall consult with the Secretary of Health and Human Services and any other appropriate officials in carrying out this subchapter.
 
 #### (b) Use of components
 
@@ -24,7 +24,7 @@ In addition to any other requirements that may be specified by the Attorney Gene
 
 &emsp;(4) identify related governmental or community initiatives which complement or will be coordinated with the proposal;
 
-&emsp;(5) certify that there has been appropriate consultation with all affected agencies and that there will be appropriate coordination with all affected agencies in the implementation of the program, including the State mental health authority;
+&emsp;(5) certify that there has been appropriate consultation with all affected agencies and that there will be appropriate coordinationwith all affected agencies in the implementation of the program, including the State mental health authority;
 
 &emsp;(6) certify that participating offenders will be supervised by one or more designated judges with responsibility for the mental health court program;
 
@@ -35,6 +35,8 @@ In addition to any other requirements that may be specified by the Attorney Gene
 &emsp;(9) certify that participating first time offenders without a history of a mental illness will receive a mental health evaluation.
 
 (Pub. L. 90–351, title I, §2203, as added Pub. L. 106–515, §3(a), Nov. 13, 2000, 114 Stat. 2400.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

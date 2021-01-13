@@ -18,6 +18,8 @@ Exception.—The requirements of chapter 102 of title 10 shall not apply to a un
 
 (Added Pub. L. 116–92, div. A, title V, §519(a), Dec. 20, 2019, 133 Stat. 1350.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.

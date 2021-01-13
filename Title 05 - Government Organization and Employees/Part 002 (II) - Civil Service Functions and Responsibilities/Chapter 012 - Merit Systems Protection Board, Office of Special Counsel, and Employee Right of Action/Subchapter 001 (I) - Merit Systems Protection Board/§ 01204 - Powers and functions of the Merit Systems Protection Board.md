@@ -34,7 +34,7 @@
 
 (B) The Board shall prescribe regulations under which any employee who is aggrieved by the failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
 
-(3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
+(3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries asmay be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
 (f)(1) At any time after the effective date of any rule or regulation issued by the Director of the Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
 
@@ -77,6 +77,8 @@
 (n) The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
 
 (Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122, §1205; amended Pub. L. 97–258, §3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §1204 and amended Pub. L. 101–12, §3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, §506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, §2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, §2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, §1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, §107(a), Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–76, div. E, title V, Jan. 17, 2014, 128 Stat. 217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -143,6 +145,8 @@ Subsec. (j). Pub. L. 101–12, §3(a)(7)(F), (I), redesignated former subsec. (i
 Subsecs. (k), (l). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
 <b>1982</b>—Subsec. (j). Pub. L. 97–258 substituted "section 1105 of title 31" for "section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

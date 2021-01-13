@@ -8,6 +8,8 @@
 
 (Added Pub. L. 100–702, title IV, §401(a), Nov. 19, 1988, 102 Stat. 4648; amended Pub. L. 101–650, title III, §§315, 321, Dec. 1, 1990, 104 Stat. 5115, 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §103, 63 Stat. 104; July 18, 1949, ch. 343, §2, 63 Stat. 446; May 10, 1950, ch. 174, §2, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, §12(m), 72 Stat. 348; Nov. 6, 1966, Pub. L. 89–773, §1, 80 Stat. 1323, authorized the Supreme Court to prescribe rules of civil procedure, prior to repeal by Pub. L. 100–702, §§401(a), 407, effective Dec. 1, 1988.
@@ -15,6 +17,8 @@ A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 #### Amendments
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–650 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -28,7 +32,9 @@ Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as
 
 Rules of civil procedure promulgated under this section as applicable to the District Court of the Virgin Islands, see section 1615 of Title 48, Territories and Insular Possessions.
 
+#### <b>Court Rules</b>
+
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, inaccordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 

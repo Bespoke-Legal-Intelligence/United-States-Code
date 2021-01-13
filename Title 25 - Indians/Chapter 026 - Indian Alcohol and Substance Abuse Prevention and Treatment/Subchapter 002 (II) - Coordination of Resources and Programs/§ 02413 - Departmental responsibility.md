@@ -58,6 +58,8 @@ The Secretary of the Interior, acting through the Bureau of Indian Affairs, the 
 
 (Pub. L. 99–570, title IV, §4207, Oct. 27, 1986, 100 Stat. 3207–141; Pub. L. 100–690, title II, §2216, Nov. 18, 1988, 102 Stat. 4221; Pub. L. 102–573, title VII, §703(2), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(a)(3), July 29, 2010, 124 Stat. 2288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsecs. (b)(1)(B)(ii) and (c)(2), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -72,7 +74,7 @@ Subsec. (b)(1). Pub. L. 111–211, §241(a)(3)(B)(i), added par. (1) and struck 
 
 Subsec. (b)(2). Pub. L. 111–211, §241(a)(3)(B)(ii)(I), inserted heading.
 
-Subsec. (b)(2)(A). Pub. L. 111–211, §241(a)(3)(B)(ii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: "monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title, and".
+Subsec. (b)(2)(A). Pub. L. 111–211, §241(a)(3)(B)(ii)(II), added subpar. (A) and struck out former subpar. (A)which read as follows: "monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title, and".
 
 Subsec. (b)(2)(B). Pub. L. 111–211, §241(a)(3)(B)(ii)(III)(aa), struck out "within the Bureau of Indian Affairs" after "point of contact".
 

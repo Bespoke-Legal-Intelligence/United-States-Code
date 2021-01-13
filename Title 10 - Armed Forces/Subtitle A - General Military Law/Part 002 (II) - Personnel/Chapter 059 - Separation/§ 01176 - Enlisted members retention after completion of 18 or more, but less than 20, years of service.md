@@ -40,5 +40,5 @@ Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, pr
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title V, §562(b), Nov. 30, 1993, 107 Stat. 1669, provided that: "Subsection (b) of section 1176 of title 10, United States Code, as added by subsection (a), shall take effect as of October 23, 1992."
+Pub. L. 103–160, div. A, title V, §562(b), Nov. 30, 1993, 107 Stat. 1669, provided that: "Subsection (b) of section1176 of title 10, United States Code, as added by subsection (a), shall take effect as of October 23, 1992."
 

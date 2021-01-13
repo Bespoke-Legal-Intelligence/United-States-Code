@@ -80,9 +80,11 @@ In subsection (b), the words "except that the Council members initially appointe
 
 In subsection (b)(1), the words "the sessions" are substituted for "such meetings" for clarity as elsewhere the word "sessions" refers to sessions of the Conference and "meetings" refers to meetings of the Council.
 
-In subsection (c)(7), the words "subject to the civil service and classification laws" are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specifically excepted. The words "and fix the pay of" are added for clarity.
+In subsection (c)(7), the words "subject to the civil service and classification laws" are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specificallyexcepted. The words "and fix the pay of" are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -99,6 +101,8 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 <b>1972</b>—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
 Subsec. (c)(11) to (15). Pub. L. 92–526, §1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Administrative Conference of United States
 

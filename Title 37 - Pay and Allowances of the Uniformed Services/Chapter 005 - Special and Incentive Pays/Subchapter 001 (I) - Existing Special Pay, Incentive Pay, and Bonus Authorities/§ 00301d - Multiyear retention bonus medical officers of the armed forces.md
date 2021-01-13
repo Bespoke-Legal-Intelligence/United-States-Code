@@ -24,6 +24,8 @@ Repayment.—An officer who does not complete the period of active duty specifie
 
 (Added Pub. L. 101–510, div. A, title VI, §611(a)(1), Nov. 5, 1990, 104 Stat. 1576; amended Pub. L. 102–484, div. A, title X, §1054(a)(2), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 107–314, div. A, title VI, §615(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(2), Jan. 6, 2006, 119 Stat. 3327; Pub. L. 110–181, div. A, title VI, §615(b), Jan. 28, 2008, 122 Stat. 150.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–181 substituted "$75,000" for "$50,000".
@@ -35,6 +37,8 @@ Repayment.—An officer who does not complete the period of active duty specifie
 <b>1992</b>—Subsec. (c)(2). Pub. L. 102–484, §1054(a)(2)(A), substituted "owed" for "owned".
 
 Subsec. (c)(3). Pub. L. 102–484, §1054(a)(2)(B), substituted "November 5, 1990" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 102–190, div. A, title VI, §615, Dec. 5, 1991, 105 Stat. 1377, provid
 
 "(a)
 
-Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of section 301d of title 37, United States Code, on the eligibility of flag and general officers serving as full-time physicians to receive a multiyear retention bonus under that section shall not be construed as being limited, modified, or superseded by any provision of law, whether enacted before, on, or after the date of the enactment of this Act \[Dec. 5, 1991\], unless that provision of law—
+Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of section 301d of title 37,United States Code, on the eligibility of flag and general officers serving as full-time physicians to receive a multiyear retention bonus under that section shall not be construed as being limited, modified, or superseded by any provision of law, whether enacted before, on, or after the date of the enactment of this Act \[Dec. 5, 1991\], unless that provision of law—
 
 &emsp;"(1) specifically refers to that section and this subsection; and
 

@@ -60,7 +60,7 @@ If a prospective defendant—
 
 #### (1) In general
 
-&emsp;If the prospective defendant responds and proposes remedial action it will take, or offersto engage in alternative dispute resolution, then the prospective plaintiff shall allow the prospective defendant an additional 60 days from the end of the 30-day notice period to complete the proposed remedial action or alternative dispute resolution before commencing a legal action against that prospective defendant.
+&emsp;If the prospective defendant responds and proposes remedial action it will take, or offers to engage in alternative dispute resolution, then the prospective plaintiff shall allow the prospective defendant an additional 60 days from the end of the 30-day notice period to complete the proposed remedial action or alternative dispute resolution before commencing a legal action against that prospective defendant.
 
 #### (2) Extension by agreement
 

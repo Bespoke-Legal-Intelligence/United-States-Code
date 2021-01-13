@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The President shall establish and maintain a process to allow volunteers to report incidents of misconduct or mismanagement, or violations of any policy, of the Peace Corps in order to protect the confidentiality and safety of such volunteers and of the information reported, and to ensure that such information is acted on appropriately. This process shall conform to existing best practices regarding confidentiality.
+The President shall establish and maintain a process to allow volunteers to report incidents of misconduct or mismanagement, or violationsof any policy, of the Peace Corps in order to protect the confidentiality and safety of such volunteers and of the information reported, and to ensure that such information is acted on appropriately. This process shall conform to existing best practices regarding confidentiality.
 
 #### (b) Guidance
 
-The President shall provide additional training to officers and employees of the Peace Corpswho have access to information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosures of such information and ensure the safety of such volunteers.
+The President shall provide additional training to officers and employees of the Peace Corps who have access to information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosures of such information and ensure the safety of such volunteers.
 
 #### (c) Penalty
 

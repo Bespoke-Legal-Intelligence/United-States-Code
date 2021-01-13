@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Assessment of Impediments to Space Science and Engineering Workforce Development for Minority and Underrepresented Groups at NASA
 
 Pub. L. 111–358, title II, §203, Jan. 4, 2011, 124 Stat. 3994, provided that:
@@ -30,6 +32,8 @@ Report.—A report on the assessment carried out under subsection (a) shall be t
 "(c)
 
 Implementation.—To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11374. Abolition of Missile Sites Labor Commission
 
@@ -61,11 +65,11 @@ My Administration is committed to implementing a bold, new approach to human spa
 
 NASA's budget also includes $429 million next year, and $1.9 billion over the next 5 years, to modernize the Kennedy Space Center and other nearby space launch facilities in Florida. This modernization effort will help spur new commercial business and innovation and provide additional good jobs to the region. While all of the new aspects of my Administration's plan together will create thousands of new jobs in Florida, past decisions to end the Space Shuttle program will still affect families and communities along Florida's "Space Coast."
 
-Building on this significant new investment at the Kennedy Space Center and my increased budget for NASA overall, I am committed to taking additional steps to help local economies like Florida's Space Coast adapt and thrive in the years ahead. The men and women who work in Florida's aerospace industry are some of the most talented and highly trained in the Nation. It is critical that their skills are tapped as we transform and expand the country's space exploration efforts. That is why I am launching a $40 million, multi-agency initiative to help the Space Coast transform their economies and prepare their workers for the opportunities of tomorrow. This effort will build on and complement ongoing local and Federal economic and workforce-development efforts through a Task Force composed of senior-level Administration officials from relevant agencies that will construct an economic development action plan by August 15, 2010.
+Building on this significant new investment at the Kennedy Space Center and my increased budget forNASA overall, I am committed to taking additional steps to help local economies like Florida's Space Coast adapt and thrive in the years ahead. The men and women who work in Florida's aerospace industry are some of the most talented and highly trained in the Nation. It is critical that their skills are tapped as we transform and expand the country's space exploration efforts. That is why I am launching a $40 million, multi-agency initiative to help the Space Coast transform their economies and prepare their workers for the opportunities of tomorrow. This effort will build on and complement ongoing local and Federal economic and workforce-development efforts through a Task Force composed of senior-level Administration officials from relevant agencies that will construct an economic development action plan by August 15, 2010.
 
 To these ends, I hereby direct the following:
 
-Section 1. <i>Establishment of the Task Force on Space Industry Workforce and Economic Development</i>. There is established a Task Force on Space Industry Workforce and Economic Development (Task Force) to develop, in collaboration with local stakeholders, an interagencyaction plan to facilitate economic development strategies and plans along the Space Coast and to provide training and other opportunities for affected aerospace workers so they are equipped to contribute to new developments in America's space program and related industries. The Secretary of Commerce and the Administrator of NASA shall serve as Co-Chairs of the Task Force.
+Section 1. <i>Establishment of the Task Force on Space Industry Workforce and Economic Development</i>. There is established a Task Force on Space Industry Workforce and Economic Development (Task Force) to develop, in collaboration with local stakeholders, an interagency action plan to facilitate economic development strategies and plans along the Space Coast and to provide training and other opportunities for affected aerospace workers so they are equipped to contribute to new developments in America's space program and related industries. The Secretary of Commerce and the Administrator of NASA shall serve as Co-Chairs of the Task Force.
 
 (a) <i>Membership of the Task Force</i>. In addition to the Co-Chairs, the Task Force shall consist of the following members:
 

@@ -20,17 +20,19 @@
 
 (4) If a Member, officer, or employee, after exercising reasonable diligence to obtain the information necessary to comply with this rule, unknowingly accepts a gift described in paragraph (1) such Member, officer, or employee shall, upon learning of the nature of the gift and its source, return the gift or, if it is not possible to return the gift, reimburse the donor for the value of the gift.
 
-(5)(A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involvingtravel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select <sup>3</sup> Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
+(5)(A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select <sup>3</sup> Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
 
 (B) Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,<sup>4</sup> participating, the supervisors of such individuals where applicable; <sup>5</sup> and the nature and itinerary of such program.
 
-(C) No Member, officer, or employee may accept funds in connection with participation in a program permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
+(C) No Member, officer, or employee may accept funds in connection with participation in aprogram permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
 
 #### (b) Limits on domestic and foreign travel by Members and staff of Senate
 
 The term "necessary expenses", with respect to limits on domestic and foreign travel by Members and staff of the Senate, means reasonable expenses for food, lodging, or transportation which are incurred by a Member, officer, or employee of the Senate in connection with services provided to (or participation in an event sponsored by) the organization which provides reimbursement for such expenses or which provides the food, lodging, or transportation directly. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for a continuous period in excess of 3 days exclusive of travel time within the United States or 7 days exclusive of travel time outside of the United States unless such travel is approved by the Committee on Ethics as necessary for participation in a conference, seminar, meeting or similar matter. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for anyone accompanying a Member, officer, or employee of the Senate, other than the spouse or child of such Member, officer, or employee of the Senate or one Senate employee acting as an aide to a Member.
 
 (Pub. L. 101–194, title IX, §901, Nov. 30, 1989, 103 Stat. 1778; Pub. L. 101–280, §8, May 4, 1990, 104 Stat. 162; Pub. L. 102–90, title III, §314(c), Aug. 14, 1991, 105 Stat. 470.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,11 +62,13 @@ Subsec. (a)(4). Pub. L. 102–90, §314(c)(1), (2), redesignated par. (7) as (4)
 
 Subsec. (a)(5) to (8). Pub. L. 102–90, §314(c)(2), redesignated pars. (5) to (8) as (2) to (5), respectively.
 
-<b>1990</b>—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: "from an individual who is a foreign national if that individualis not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government."
+<b>1990</b>—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: "from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government."
 
 Subsec. (a)(6)(A) to (C). Pub. L. 101–280, §8(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 Subsec. (b). Pub. L. 101–280, §8(2), substituted "or child of such Member" for "of a Member" and struck out "(and 2 nights)" after "of 3 days" and "(and 6 nights)" after "or 7 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

@@ -1,10 +1,22 @@
 ### §4362. Application to Canada and Mexico
 
-Pursuant to article 1902 of the North American Free Trade Agreement and section 3438 of this title, this subchapter and the amendments made by this subchapter shall apply with respect to goods from Canada and Mexico.
+Pursuant to article 10.10 of the USMCA (as defined in section 4502 of this title) and section 4588 of this title, this subchapter and the amendments made by this title <sup>1</sup> shall apply with respect to goods from Canada and Mexico.
 
-(Pub. L. 114–125, title IV, §403, Feb. 24, 2016, 130 Stat. 156.)
+(Pub. L. 114–125, title IV, §403, Feb. 24, 2016, 130 Stat. 156; Pub. L. 116–260, div. O, title VI, §602(c), Dec. 27, 2020, 134 Stat. 2153.)
 
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.
+
+The amendments made by this title, referred to in text, mean the amendments made by title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260 substituted "article 10.10 of the USMCA (as defined in section 4502 of this title) and section 4588 of this title" for "article 1902 of the North American Free Trade Agreement and section 3438 of this title".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

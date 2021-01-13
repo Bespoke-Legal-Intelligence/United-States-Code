@@ -6,7 +6,7 @@ When used in this subchapter—
 
 (b) The term "Secretary" means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term "Secretary" means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
 
-(c) The term "lease" means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
+(c) The term "lease" means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 ofthis title and which authorizes exploration for, and development and production of, minerals;
 
 (d) The term "person" includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
 
@@ -24,7 +24,7 @@ When used in this subchapter—
 
 &emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities;
 
-(g) The term "marine environment" means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, saltmarshes, and wetlands within the coastal zone and on the outer Continental Shelf;
+(g) The term "marine environment" means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, salt marshes, and wetlands within the coastal zone and on the outer Continental Shelf;
 
 (h) The term "coastal environment" means the physical atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the terrestrial ecosystem from the shoreline inward to the boundaries of the coastal zone;
 
@@ -58,6 +58,8 @@ When used in this subchapter—
 
 (Aug. 7, 1953, ch. 345, §2, 67 Stat. 462; Pub. L. 95–372, title II, §201, Sept. 18, 1978, 92 Stat. 632.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
@@ -83,6 +85,8 @@ Subsec. (c). Pub. L. 95–372, §201(a), substituted "lease" for "mineral lease"
 Subsec. (d). Pub. L. 95–372, §201(b)(1), substituted semicolon for period at end.
 
 Subsecs. (e) to (q). Pub. L. 95–372, §201(b)(2), added subsecs. (e) to (q).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1978 Amendment
 
@@ -190,7 +194,7 @@ In general.—The term 'qualified outer Continental Shelf revenues' means—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the 181 South Area; and
 
-&emsp;&emsp;&emsp;"(ii) in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to theUnited States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—
+&emsp;&emsp;&emsp;"(ii) in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to the United States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the 181 Area;
 
@@ -262,7 +266,7 @@ In General.—Effective during the period beginning on the date of enactment of 
 
 "(b)
 
-Military Mission Line.—Notwithstanding subsection (a), the United States reserves the right to designate by and through the Secretary of Defense, with the approval of the President, national defense areas on the outer Continental Shelf pursuant to section 12(d) of the Outer Continental Shelf Lands Act (43 U.S.C. 1341(d)).
+Military Mission Line.—Notwithstanding subsection (a), the United States reserves the right to designate by and through the Secretary of Defense, with the approval of the President, national defense areas onthe outer Continental Shelf pursuant to section 12(d) of the Outer Continental Shelf Lands Act (43 U.S.C. 1341(d)).
 
 "(c)
 
@@ -450,7 +454,9 @@ Act Aug. 7, 1953, ch. 345, §13, 67 Stat. 470, revoked Ex. Ord. No. 10426, Jan. 
 
 #### Authorization of Appropriations
 
-Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriatedsuch sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
+Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 5928. Territorial Sea of United States
 
@@ -518,7 +524,7 @@ Sec. 2. <i>Policy</i>. It shall be the policy of the United States to encourage 
 
 Sec. 3. <i>Implementing an America-First Offshore Energy Strategy</i>. To carry out the policy set forth in section 2 of this order, the Secretary of the Interior shall:
 
-(a) as appropriate and consistent with applicable law, including the procedures set forth in section 1344 of title 43, United States Code, in consultation with the Secretary of Defense, give full consideration to revisingthe schedule of proposed oil and gas lease sales, as described in that section, so that it includes, but is not limited to, annual lease sales, to the maximum extent permitted by law, in each of the following Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management (BOEM) (Planning Areas): Western Gulf of Mexico, Central Gulf of Mexico, Chukchi Sea, Beaufort Sea, Cook Inlet, Mid-Atlantic, and South Atlantic;
+(a) as appropriate and consistent with applicable law, including the procedures set forth in section 1344 of title 43, United States Code, in consultation with the Secretary of Defense, give full consideration to revising the schedule of proposed oil and gas lease sales, as described in that section, so that it includes, but is not limited to, annual lease sales, to the maximum extent permitted by law, in each of the following Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management (BOEM) (Planning Areas): Western Gulf of Mexico, Central Gulf of Mexico, Chukchi Sea, Beaufort Sea, Cook Inlet, Mid-Atlantic, and South Atlantic;
 
 (b) ensure that any revisions made pursuant to subsection (a) of this section do not hinder or affect ongoing lease sales currently scheduled as part of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program, as published on November 18, 2016; and
 
@@ -540,7 +546,7 @@ Sec. 4. <i>Responsible Planning for Future Offshore Energy Potential</i>. (a) Th
 
 (c) To further streamline existing regulatory authorities, Executive Order 13754 of December 9, 2016 (Northern Bering Sea Climate Resilience), is hereby revoked.
 
-Sec. 5. <i>Modification of the Withdrawal of Areas of the Outer Continental Shelf from Leasing Disposition</i>. The body text in each of the memoranda of withdrawal from disposition by leasing of the United States Outer Continental Shelf issued on December 20, 2016, January 27, 2015, and July 14, 2008, is modified to read, in its entirety, as follows:
+Sec. 5. <i>Modification of the Withdrawal of Areas of the Outer Continental Shelf from Leasing Disposition</i>. The body text in each of the memoranda of withdrawal fromdisposition by leasing of the United States Outer Continental Shelf issued on December 20, 2016, January 27, 2015, and July 14, 2008, is modified to read, in its entirety, as follows:
 
 "Under the authority vested in me as President of the United States, including section 12(a) of the Outer Continental Shelf Lands Act, 43 U.S.C. 1341(a), I hereby withdraw from disposition by leasing, for a time period without specific expiration, those areas of the Outer Continental Shelf designated as of July 14, 2008, as Marine Sanctuaries under the Marine Protection, Research, and Sanctuaries Act of 1972, 16 U.S.C. 1431–1434, 33 U.S.C. 1401 <i>et seq</i>."
 
@@ -556,7 +562,7 @@ Sec. 9. <i>Expedited Consideration of Incidental Harassment Authorizations, Inci
 
 Sec. 10. <i>Review of National Oceanic and Atmospheric Administration (NOAA) Technical Memorandum NMFS–OPR–55</i>. The Secretary of Commerce shall review NOAA's Technical Memorandum NMFS–OPR–55 of July 2016 (Technical Guidance for Assessing the Effects of Anthropogenic Sound on Marine Mammal Hearing) for consistency with the policy set forth in section 2 of this order and, after consultation with the appropriate Federal agencies, take all steps permitted by law to rescind or revise that guidance, if appropriate.
 
-Sec. 11. <i>Review of Offshore Arctic Drilling Rule</i>. The Secretary of the Interior shall immediately take all steps necessary to review the Final Rule entitled "Oil and Gas and Sulfur Operations on the Outer Continental Shelf—Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf," 81 <i>Fed. Reg.</i> 46478 (July 15, 2016), and, if appropriate, shall, as soon aspracticable and consistent with law, publish for notice and comment a proposed rule suspending, revising, or rescinding this rule.
+Sec. 11. <i>Review of Offshore Arctic Drilling Rule</i>. The Secretary of the Interior shall immediately take all steps necessary to review the Final Rule entitled "Oil and Gas and Sulfur Operations on the Outer Continental Shelf—Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf," 81 <i>Fed. Reg.</i> 46478 (July 15, 2016), and, if appropriate, shall, as soon as practicable and consistent with law, publish for notice and comment a proposed rule suspending, revising, or rescinding this rule.
 
 Sec. 12. <i>Definition</i>. As used in this order, "Outer Continental Shelf Planning Areas, as designated by the Bureau of Ocean Energy Management" means those areas delineated in the diagrams on pages S–5 and S–8 of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Draft Proposed Program, as published by the BOEM in January 2015, with the exception of any buffer zones included in such planning documents.
 

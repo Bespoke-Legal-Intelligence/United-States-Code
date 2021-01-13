@@ -46,7 +46,7 @@ In making grants under subsection (a), the Secretary shall give preference to St
 
 For the purpose of carrying out this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009.
 
-(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114 Stat. 1343; amended Pub. L. 109–415, title II, §210, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114Stat. 1343; amended Pub. L. 109–415, title II, §210, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 

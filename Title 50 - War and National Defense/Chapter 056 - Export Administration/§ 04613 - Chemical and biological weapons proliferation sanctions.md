@@ -136,10 +136,6 @@ A prior section 11C of Pub. L. 96–72, as added Pub. L. 102–138, title V, §5
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–182, §309(b)(1), substituted "October 28, 1991" for "December 4, 1991".
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(a) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
-
 #### Department of Defense Review of Export Licenses for Certain Biological Pathogens
 
 Pub. L. 104–106, div. A, title XIII, §1323, Feb. 10, 1996, 110 Stat. 480, provided that:
@@ -156,13 +152,17 @@ Denial of License if Contrary to National Security Interest.—A license describ
 
 Identification of Countries Known or Suspected To Have a Program To Develop Offensive Biological Weapons.—(1) The Secretary of Defense shall determine, for the purposes of this section, those countries that are known or suspected to have a program to develop offensive biological weapons. Upon making such determination, the Secretary shall provide to the Secretary of Commerce a list of those countries.
 
-"(2) The Secretary of Defense shall update the list under paragraph (1) on a regular basis. Whenever acountry is added to or deleted from such list, the Secretary shall notify the Secretary of Commerce.
+"(2) The Secretary of Defense shall update the list under paragraph (1) on a regular basis. Whenever a country is added to or deleted from such list, the Secretary shall notify the Secretary of Commerce.
 
 "(3) Determination under this subsection of countries that are known or suspected to have a program to develop offensive biological weapons shall be made in consultation with the Secretary of State and the intelligence community.
 
 "(d)
 
 Definition.—For purposes of this section, the term 'class 2, class 3, or class 4 biological pathogen' means any biological pathogen that is characterized by the Centers for Disease Control as a class 2, class 3, or class 4 biological pathogen."
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(a) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

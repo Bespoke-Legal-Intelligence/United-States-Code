@@ -1,0 +1,60 @@
+### §2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
+
+(a)
+
+In General.—An officer in the grade of lieutenant (junior grade), lieutenant, lieutenant commander, or commander who is described in subsection (b) may be temporarily promoted to the grade of lieutenant, lieutenant commander, commander, or captain under regulations prescribed by the Secretary. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+
+(b)
+
+Covered Officers.—An officer described in this subsection is any officer in a grade specified in subsection (a) who—
+
+&emsp;(1) has a skill in which the Coast Guard has a critical shortage of personnel (as determined by the Secretary); and
+
+&emsp;(2) is serving in a position (as determined by the Secretary) that—
+
+&emsp;&emsp;(A) is designated to be held by a lieutenant, lieutenant commander, commander, or captain; and
+
+&emsp;&emsp;(B) requires that an officer serving in such position have the skill possessed by such officer.
+
+(c)
+
+Preservation of Position and Status of Officers Appointed.—
+
+&emsp;(1) The temporary positions authorized under this section shall not be counted among or included in the list of positions on the active duty promotion list.
+
+&emsp;(2) An appointment under this section does not change the position on the active duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+(d)
+
+Board Recommendation Required.—A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary for the purpose of recommending officers for such promotions.
+
+(e)
+
+Acceptance and Effective Date of Appointment.—Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of the temporary promotion under this section beginning on the date the appointment is made.
+
+(f)
+
+Termination of Appointment.—Unless sooner terminated, an appointment under this section terminates—
+
+&emsp;(1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant, lieutenant commander, commander, or captain;
+
+&emsp;(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of lieutenant, lieutenant commander, commander, or captain, in which case the appointment terminates on the date the officer is promoted to that grade;
+
+&emsp;(3) when the appointment officer determines that the officer who received the appointment has engaged in misconduct or has displayed substandard performance; or
+
+&emsp;(4) when otherwise determined by the Commandant to be in the best interests of the Coast Guard.
+
+(g)
+
+Limitation on Number of Eligible Positions.—An appointment under this section may only be made for service in a position designated by the Secretary for the purposes of this section. The number of positions so designated may not exceed the following percentages of the respective grades:
+
+&emsp;(1) As lieutenant, 0.5 percent.
+
+&emsp;(2) As lieutenant commander, 3.0 percent.
+
+&emsp;(3) As commander, 2.6 percent.
+
+&emsp;(4) As captain, 2.6 percent.
+
+(Added Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8203(a), Jan. 1, 2021, 134 Stat. 4643.)
+

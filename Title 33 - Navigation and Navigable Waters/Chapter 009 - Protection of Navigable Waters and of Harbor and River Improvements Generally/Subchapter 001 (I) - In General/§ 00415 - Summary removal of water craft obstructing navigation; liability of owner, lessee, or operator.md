@@ -12,7 +12,9 @@ Not later than 24 hours after the Secretary of the Department in which the Coast
 
 The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the actual cost, including administrative costs, of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
 
-(Mar. 3, 1899, ch. 425, §20, 30 Stat. 1154; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §218(b), Oct. 12, 1996, 110 Stat. 3696.)
+(Mar. 3, 1899, ch. 425, §20, 30 Stat. 1154; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat.4199; Pub. L. 104–303, title II, §218(b), Oct. 12, 1996, 110 Stat. 3696.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -30,6 +32,8 @@ Subsec. (c). Pub. L. 104–303, §218(b)(2), (3), redesignated subsec. (b) as (c
 
 <b>1986</b>—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -39,6 +43,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions Pertaining to Air Force
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(57)\], July 22, 1949.
 

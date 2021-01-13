@@ -1,5 +1,7 @@
 ### §637. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Apr. 19, 1950, ch. 92, §7, 64 Stat. 46, which related to use of Navajo tribal funds, was omitted from the Code as being of special and not general application.

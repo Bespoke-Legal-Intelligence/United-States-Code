@@ -28,7 +28,7 @@ Provisions similar to this section were contained in sections 691 and 691a of th
 
 #### Effective Date of 1992 Amendment
 
-Section 161 of title I of Pub. L. 102–421 provided that: "The amendments described in this title \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, and repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title\] are made upon October 1, 1992, and take effect upon such date."
+Section 161 of title I of Pub. L. 102–421 provided that: "The amendments described in this title \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 4303, 4331, 4332, 4351 to 4356,and 4360 of this title, and repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title\] are made upon October 1, 1992, and take effect upon such date."
 
 #### Short Title of 1998 Amendment
 

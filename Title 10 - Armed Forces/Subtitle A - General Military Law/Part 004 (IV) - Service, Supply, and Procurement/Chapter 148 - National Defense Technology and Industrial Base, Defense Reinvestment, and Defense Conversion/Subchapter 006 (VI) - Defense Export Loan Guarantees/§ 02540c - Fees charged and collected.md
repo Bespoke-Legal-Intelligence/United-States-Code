@@ -10,7 +10,7 @@ Amount of Exposure Fee.—To the extent that the cost of the loan guarantees und
 
 (c)
 
-Payment Terms.—The fee under subsection (a) for each guarantee shall become due as the guarantee is issued. In the case of a guarantee for a loan which is disbursed incrementally, and for which the guarantee is correspondingly issued incrementally as portions of the loan aredisbursed, the fee shall be paid incrementally in proportion to the amount of the guarantee that is issued.
+Payment Terms.—The fee under subsection (a) for each guarantee shall become due as the guarantee is issued. In the case of a guarantee for a loan which is disbursed incrementally, and for which the guarantee is correspondingly issued incrementally as portions of the loan are disbursed, the fee shall be paid incrementally in proportion to the amount of the guarantee that is issued.
 
 (d)
 
@@ -22,9 +22,17 @@ Administrative Fees.—(1) The Secretary of Defense shall charge a fee for each 
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 476; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1081(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–284.)
 
+#### Renumbering of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this subchapter is transferred to chapter 389 of this title, as added by section 1873(a) of Pub. L. 116–283, inserted after the table of subchapters at the beginning of the chapter, and redesignated as subchapter I, and this section is redesignated as section 4974 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–398 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -48,5 +56,5 @@ Limitation Pending Submission of Report.—The Secretary of Defense may not exer
 
 &emsp;"(3) Any legislative recommendations that the Secretary believes could improve the effectiveness of the program.
 
-&emsp;"(4) A determination made by the Secretary of Defense indicating which Defense Department agency, office, or other activity should administer, manage, and oversee the loan guarantee program to increase sales of United States defense articles, defense services, and design and construction services, such determination to be made based on the information and analysis provided in the report."
+&emsp;"(4) A determination made by the Secretary of Defense indicating which Defense Department agency, office, or other activity should administer, manage,and oversee the loan guarantee program to increase sales of United States defense articles, defense services, and design and construction services, such determination to be made based on the information and analysis provided in the report."
 

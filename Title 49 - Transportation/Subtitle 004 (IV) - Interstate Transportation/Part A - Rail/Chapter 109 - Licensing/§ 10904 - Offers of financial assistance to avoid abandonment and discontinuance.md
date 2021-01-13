@@ -24,7 +24,7 @@
 
 &emsp;(2) its most recent reports on the physical condition of that part of the railroad line involved in the proposed abandonment or discontinuance;
 
-&emsp;(3) traffic, revenue, and other data necessary to determine the amount of annual financialassistance which would be required to continue rail transportation over that part of the railroad line; and
+&emsp;(3) traffic, revenue, and other data necessary to determine the amount of annual financial assistance which would be required to continue rail transportation over that part of the railroad line; and
 
 &emsp;(4) any other information that the Board considers necessary to allow a potential offeror to calculate an adequate subsidy or purchase offer.
 

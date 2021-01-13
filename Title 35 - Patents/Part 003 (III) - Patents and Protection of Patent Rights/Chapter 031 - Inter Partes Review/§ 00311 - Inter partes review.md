@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
+In General.—Subject to the provisions of this chapter, a person who is not the owner of apatent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
 
 (b)
 
@@ -18,6 +18,8 @@ Filing Deadline.—A petition for inter partes review shall be filed after the l
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; amended Pub. L. 107–273, div. C, title III, §13202(a)(1), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 299; Pub. L. 112–274, §1(d)(2), Jan. 14, 2013, 126 Stat. 2456.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (c)(1). Pub. L. 112–274 struck out "or issuance of a reissue of a patent" after "grant of a patent".
@@ -29,6 +31,8 @@ Filing Deadline.—A petition for inter partes review shall be filed after the l
 Subsec. (a). Pub. L. 107–273, §13202(a)(1)(A), substituted "third-party requester" for "person".
 
 Subsec. (c). Pub. L. 107–273, §13202(a)(1)(B), substituted "The" for "Unless the requesting person is the owner of the patent, the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

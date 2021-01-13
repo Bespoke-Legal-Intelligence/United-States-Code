@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish an Epidemiology and Laboratory Capacity Grant Program to award grants to State health departments as well as local health departments and tribal jurisdictions that meet such criteria as the Director determines appropriate. Academic centers that assist State and eligible local and tribal health departments may also be eligible for funding under this section as the Director determines appropriate. Grants shall be awarded under this section to assistpublic health agencies in improving surveillance for, and response to, infectious diseases and other conditions of public health importance by—
+Subject to the availability of appropriations, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish an Epidemiology and Laboratory Capacity Grant Program to award grants to State health departments as well as local health departments and tribal jurisdictions that meet such criteria as the Director determines appropriate. Academic centers that assist State and eligible local and tribal health departments may also be eligible for funding under this section as the Director determines appropriate. Grants shall be awarded under this section to assist public health agencies in improving surveillance for, and response to, infectious diseases and other conditions of public health importance by—
 
 &emsp;(1) strengthening epidemiologic capacity to identify and monitor the occurrence of infectious diseases, including mosquito and other vector-borne diseases, and other conditions of public health importance;
 

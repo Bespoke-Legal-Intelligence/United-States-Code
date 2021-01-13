@@ -44,6 +44,8 @@ Based on 44 U.S. Code, 1964 ed., §§306, 391 (part) (July 26, 1935, ch. 417, §
 
 This section incorporates only the last sentence from former section 391(b). The remainder of that section will be found in sections 2102, 2301, 2501, and 2902 of the revision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–120, §2(a)(1), designated existing provisions as subsec. (a) and inserted heading.
@@ -56,6 +58,8 @@ Subsec. (b). Pub. L. 115–120, §2(a)(3), added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–497 struck out "The authority of the Administrator of General Services, under section 754 of title 40, to regroup, transfer, and distribute functions within the General Services Administration, does not extend to the Committee or its functions."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–120, div. A, §2(b), Jan. 22, 2018, 132 Stat. 29, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 2018."
@@ -66,5 +70,5 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegations of functions vested in President by section 6 of Federal Register Act \[now this section\], toAttorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under section 301 of Title 3, The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under section 2102 of this title.
+For delegations of functions vested in President by section 6 of Federal Register Act \[now this section\], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under section 301 of Title 3, The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under section 2102 of this title.
 

@@ -16,7 +16,7 @@ In determining whether, pursuant to subsection (a)(2), to terminate tenancy or a
 
 &emsp;(2) has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
 
-&emsp;(3) is participating in a supervised drug or alcohol rehabilitation program (as applicable)and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
+&emsp;(3) is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
 
 (Pub. L. 105–276, title V, §577, Oct. 21, 1998, 112 Stat. 2640.)
 

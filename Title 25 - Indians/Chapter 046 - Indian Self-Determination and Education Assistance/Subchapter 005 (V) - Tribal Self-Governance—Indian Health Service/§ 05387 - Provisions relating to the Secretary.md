@@ -4,7 +4,7 @@
 
 #### (1) Health status reports
 
-&emsp;Compacts or funding agreements negotiated between the Secretary and an Indian tribeshall include a provision that requires the Indian tribe to report on health status and service delivery—
+&emsp;Compacts or funding agreements negotiated between the Secretary and an Indian tribe shall include a provision that requires the Indian tribe to report on health status and service delivery—
 
 &emsp;&emsp;(A) to the extent such data is not otherwise available to the Secretary and specific funds for this purpose are provided by the Secretary under the funding agreement; and
 
@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Compacts or funding agreements negotiated between the Secretary and an Indian tribe shall include a provision authorizing the Secretary to reassume operation of a program, service, function, or activity (or portions thereof) and associated funding if there is a specific finding relative to that program, service, function, or activity (or portion thereof) of—
+&emsp;&emsp;Compacts or funding agreements negotiated between the Secretary and an Indiantribe shall include a provision authorizing the Secretary to reassume operation of a program, service, function, or activity (or portions thereof) and associated funding if there is a specific finding relative to that program, service, function, or activity (or portion thereof) of—
 
 &emsp;&emsp;&emsp;(i) imminent endangerment of the public health caused by an act or omission of the Indian tribe, and the imminent endangerment arises out of a failure to carry out the compact or funding agreement; or
 
@@ -74,11 +74,11 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 #### (2) Effect of exercising certain option
 
-&emsp;If an Indian tribe exercises the option specified in paragraph (1)(D), that Indian tribe shallretain the right to appeal the Secretary's rejection under this section, and subparagraphs (A), (B), and (C) of that paragraph shall only apply to that portion of the proposed final compact, funding agreement, or provision thereof that was rejected by the Secretary.
+&emsp;If an Indian tribe exercises the option specified in paragraph (1)(D), that Indian tribe shall retain the right to appeal the Secretary's rejection under this section, and subparagraphs (A), (B), and (C) of that paragraph shall only apply to that portion of the proposed final compact, funding agreement, or provision thereof that was rejected by the Secretary.
 
 #### (d) Burden of proof
 
-With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
+With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence thevalidity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
 
 #### (e) Good faith
 
@@ -101,6 +101,8 @@ A decision that constitutes final agency action and relates to an appeal within 
 &emsp;(2) by an administrative judge.
 
 (Pub. L. 93–638, title V, §507, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 719.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

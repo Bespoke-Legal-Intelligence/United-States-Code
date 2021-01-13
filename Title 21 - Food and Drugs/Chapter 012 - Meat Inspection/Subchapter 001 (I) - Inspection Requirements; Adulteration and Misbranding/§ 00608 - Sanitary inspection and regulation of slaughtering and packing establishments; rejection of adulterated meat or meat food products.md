@@ -4,6 +4,8 @@ The Secretary shall cause to be made, by experts in sanitation or by other compe
 
 (Mar. 4, 1907, ch. 2907, title I, §8, formerly 6th par., 34 Stat. 1262; renumbered §8 and amended Pub. L. 90–201, §§1, 3, 12(a), (f), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 76 of this title.
@@ -13,6 +15,8 @@ Section was formerly classified to section 76 of this title.
 <b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines".
 
 <b>1967</b>—Pub. L. 90–201, §§3, 12(a), (f), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary", included horses, mules, and other equines in the list of animals, and substituted "adulterated" for "unclean, unsound, unhealthful, unwholesome, or otherwise unfit for human food", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

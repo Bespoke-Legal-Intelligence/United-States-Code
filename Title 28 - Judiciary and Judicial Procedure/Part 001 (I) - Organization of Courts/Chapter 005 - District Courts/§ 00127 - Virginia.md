@@ -30,6 +30,8 @@ Changes in arrangement and phraseology were made.
 
 By Senate amendment, "Newport News" was inserted after "Alexandria" in second paragraph of subsection (a) of this section. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–200, §1(1), struck out reference to Culpeper, Louisa, and Orange counties.
@@ -37,6 +39,8 @@ By Senate amendment, "Newport News" was inserted after "Alexandria" in second pa
 Subsec. (b). Pub. L. 102–200, §1(2), inserted reference to Culpeper, Louisa, and Orange counties.
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–383 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of 1991 Amendments
 

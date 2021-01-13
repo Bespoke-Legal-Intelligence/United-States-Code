@@ -12,7 +12,7 @@
 
 #### (2) Requirement of Presidential action
 
-&emsp;Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
+&emsp;Whenever the President determines that the government of a foreign country has engagedin or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
 
 #### (b) Designations of countries of particular concern for religious freedom
 
@@ -118,6 +118,8 @@ A determination under this chapter, or any amendment made by this chapter, that 
 
 (Pub. L. 105–292, title IV, §402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, §2(a), Aug. 17, 1999, 113 Stat. 405; Pub. L. 114–281, title III, §302, Dec. 16, 2016, 130 Stat. 1434.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (c)(2)(A), was in the original "this title", meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
@@ -138,7 +140,7 @@ Subsec. (b)(3). Pub. L. 114–281, §302(1)(B), amended par. (3) generally. Prio
 
 Subsec. (b)(4). Pub. L. 114–281, §302(1)(C), added par. (4).
 
-Subsec. (c)(5). Pub. L. 114–281, §302(2), substituted "the President shall designate the specific sanction orsanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country." for "the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection."
+Subsec. (c)(5). Pub. L. 114–281, §302(2), substituted "the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country." for "the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection."
 
 <b>1999</b>—Subsec. (c)(1). Pub. L. 106–55, §2(a)(1), substituted "(4), and (5)" for "and (4)" in introductory provisions.
 

@@ -1,8 +1,12 @@
 ### §711. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 95–195, §2, Nov. 18, 1977, 91 Stat. 1415, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

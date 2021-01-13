@@ -38,7 +38,7 @@
 
 (4)(A) If the Secretary receives information from a Council or Federal or State agency or determines from other sources that an action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by any State or Federal agency would adversely affect any essential fish habitat identified under this chapter, the Secretary shall recommend to such agency measures that can be taken by such agency to conserve such habitat.
 
-(B) Within 30 days after receiving a recommendation under subparagraph (A), a Federalagency shall provide a detailed response in writing to any Council commenting under paragraph (3) and the Secretary regarding the matter. The response shall include a description of measures proposed by the agency for avoiding, mitigating, or offsetting the impact of the activity on such habitat. In the case of a response that is inconsistent with the recommendations of the Secretary, the Federal agency shall explain its reasons for not following the recommendations.
+(B) Within 30 days after receiving a recommendation under subparagraph (A), a Federal agency shall provide a detailed response in writing to any Council commenting under paragraph (3) and the Secretary regarding the matter. The response shall include a description of measures proposed by the agency for avoiding, mitigating, or offsetting the impact of the activity on such habitat. In the case of a response that is inconsistent with the recommendations of the Secretary, the Federal agency shall explain its reasons for not following the recommendations.
 
 #### (c) Emergency actions and interim measures
 
@@ -90,7 +90,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (B) No later than 180 days after October 11, 1996, the Secretary shall promulgate regulations establishing procedures, developed in cooperation with the Administrative Conference of the United States, for the establishment and operation of fishery negotiation panels. Such procedures shall be comparable to the procedures for negotiated rulemaking established by subchapter III of chapter 5 of title 5.
 
-(2) If a negotiation panel submits a report, such report shall specify all the areas where consensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
+(2) If a negotiation panel submits a report, such report shall specify all the areas whereconsensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
 
 (3) Nothing in this subsection shall be construed to require either a Council or the Secretary, whichever is appropriate, to use all or any portion of a report from a negotiation panel established under this subsection in the development of specific conservation and management measures for the fishery for which the panel was established.
 
@@ -242,9 +242,9 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;&emsp;(II) coordinate and facilitate activities of the entities under the program.
 
-#### (iv) Unanimity required
+#### (iv) Voting requirement
 
-&emsp;&emsp;&emsp;The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel.
+&emsp;&emsp;&emsp;The panel may act only by the affirmative vote of at least 5 of its members, except that any decision made pursuant to the last sentence of subparagraph (C) shall require the unanimous vote of all 6 members of the panel.
 
 #### (H) Decennial review and adjustment of entity allocations
 
@@ -266,7 +266,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (iii) Adjustment of allocations
 
-&emsp;&emsp;&emsp;After the evaluation required by clause (i), the State of Alaska shall make a determination, on the record and after an opportunity for a hearing, with respect to the performance of each entity participating in the program for the criteria described in clause (ii). If the State determines that the entity has maintained or improved its overall performance with respect to the criteria, the allocation tosuch entity under the program shall be extended by the State for the next 10-year period. If the State determines that the entity has not maintained or improved its overall performance with respect to the criteria—
+&emsp;&emsp;&emsp;After the evaluation required by clause (i), the State of Alaska shall make a determination, on the record and after an opportunity for a hearing, with respect to the performance of each entity participating in the program for the criteria described in clause (ii). If the State determines that the entity has maintained or improved its overall performance with respect to the criteria, the allocation to such entity under the program shall be extended by the State for the next 10-year period. If the State determines that the entity has not maintained or improved its overall performance with respect to the criteria—
 
 &emsp;&emsp;&emsp;&emsp;(I) at least 90 percent of the entity's allocation for each species under subparagraph (C) shall be extended by the State for the next 10-year period; and
 
@@ -350,7 +350,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
-(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
+(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8423, Jan. 1, 2021, 134 Stat. 4729.)
 
 #### References in Text
 
@@ -365,6 +365,8 @@ Executive Order Numbered 12866, referred to in subsec. (e), is set out as a note
 The Internal Revenue Code of 1986, referred to in subsec. (h)(3), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(1)(G)(iv). Pub. L. 116–283 amended cl. (iv) generally. Prior to amendment, text read as follows: "The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel."
 
 <b>2007</b>—Subsec. (c)(3)(B). Pub. L. 109–479, §108(a), which directed substitution of "186 days," for "180 days," the second time appearing, was executed by making the substitution the only place that phrase appeared, to reflect the probable intent of Congress.
 
@@ -400,7 +402,7 @@ Subsec. (b). Pub. L. 104–297, §110(a)(3), added subsec. (b). Former subsec. (
 
 Subsec. (c). Pub. L. 104–297, §110(b)(1), inserted "and interim measures" after "actions" in heading.
 
-Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency", was executed by making the insertion after "the emergency" to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency",was executed by making the insertion after "the emergency" to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §110(b)(2)(A), (B), substituted "or that interim measures are needed to reduce overfishing for" for "involving" and inserted "or interim measures" after "emergency regulations".
 
@@ -436,7 +438,7 @@ Subsec. (b). Pub. L. 97–453, §8(1), struck out subsec. (b) which had provided
 
 Subsec. (c). Pub. L. 97–453, §8(2), substituted provision that the Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title if such plan or amendment takes effect under section 1854(b)(1) of this title, within 75 days after a revised plan or amendment was received by him under section 1854(b) of this title if such plan or amendment takes effect under paragraph (3)(D) of such section, or within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) of this title, for provision that the Secretary promulgate regulations to implement any fishery management plan or any amendment to any such plan after consideration of all relevant matters presented to him during the 45-day period referred to in former subsection (a) of this section and produced in any hearing held under former subsection (b) of this section if he found the plan or amendment consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that to the extent practicable, such regulation be put into effect in a manner not disruptive of the regular fishing season for any fishery.
 
-Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication inthe Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
+Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
 
 Subsec. (f). Pub. L. 97–453, §8(4), struck out subsec. (f) which had directed the Secretary to report to the Congress and the President, not later than March 1 of each year, on all activities of the Councils and the Secretary with respect to fishery management plans, regulations to implement such plans, and all other activities relating to the conservation and management of fishery resources undertaken under this chapter during the preceding calendar year.
 
@@ -446,7 +448,7 @@ Subsec. (h). Pub. L. 97–453, §8(5), added subsec. (h).
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 109–479, title I, §116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: "The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) of this subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector's 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act \[16 U.S.C. 1855(i)(1)\] and of this subsection \[amending this section\], the term 'fishing cooperative' means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative."
+Pub. L. 109–479, title I, §116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: "The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) ofthis subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector's 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act \[16 U.S.C. 1855(i)(1)\] and of this subsection \[amending this section\], the term 'fishing cooperative' means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative."
 
 #### Termination of Administrative Conference of United States
 

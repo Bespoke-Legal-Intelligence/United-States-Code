@@ -22,6 +22,8 @@ Number of Extensions.—A contract may be extended under this section more than 
 
 (Added Pub. L. 114–328, div. A, title VIII, §899(b)(1)(E), Dec. 23, 2016, 130 Stat. 2334, §579; renumbered §1107 and amended Pub. L. 115–282, title I, §§108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §108(b), renumbered section 579 of this title as this section.

@@ -34,7 +34,7 @@
 
 &emsp;(i) the total amounts received by such Endowment under section 959(a)(2) of this title, including the value of property donated, bequeathed, or devised to such Endowment; and
 
-&emsp;(ii) the total amounts received by the grantees and subgrantees of such Endowment from non-Federal sources, including the value of property donated, bequeathed, or devised to such grantees and subgrantees, for use in carrying out activities under paragraph (1) through paragraph (10) of section 956(c) of this title;
+&emsp;(ii) the total amounts received by the grantees and subgrantees of such Endowment fromnon-Federal sources, including the value of property donated, bequeathed, or devised to such grantees and subgrantees, for use in carrying out activities under paragraph (1) through paragraph (10) of section 956(c) of this title;
 
 > except that the amounts so appropriated to the National Endowment for the Humanities shall not exceed $12,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993.
 
@@ -66,7 +66,7 @@
 
 #### (c) Administrative appropriations
 
-(1) There are authorized to be appropriated to the National Endowment for the Arts $21,200,000" <sup>2</sup> for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Arts is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amountwhich may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
+(1) There are authorized to be appropriated to the National Endowment for the Arts $21,200,000" <sup>2</sup> for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Arts is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
 
 (2) There are authorized to be appropriated to the National Endowment for the Humanities $17,950,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Humanities is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
 
@@ -90,7 +90,7 @@
 
 #### (e) Prohibition of grants to production workshops using admission proceeds for unauthorized purposes
 
-No grant shall be made to a workshop (other than a workshop conducted by a school, college, or university) for a production for which a direct or indirect admission charge is asked if the proceeds, after deducting reasonable costs, are used for purposes other than assisting the grantee to develop high standards of artistic excellence or encourage greater appreciation of the arts and humanities by our citizens.
+No grant shall be made to a workshop (other than a workshop conducted by a school, college, or university) for a production for which a direct or indirect admission charge is asked if the proceeds, after deducting reasonable costs, areused for purposes other than assisting the grantee to develop high standards of artistic excellence or encourage greater appreciation of the arts and humanities by our citizens.
 
 #### (f) Availability of appropriations for arts education
 
@@ -128,7 +128,7 @@ Subsec. (a)(3)(A). Pub. L. 101–512, §318 \[title I, §110(d)(3)\], in introdu
 
 Subsec. (a)(3)(A)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(i)(2)(A)(i)\], substituted "954(p)(1)" for "954(l)(1)".
 
-Subsec. (a)(3)(B). Pub. L. 101–512, §318 \[title I, §110(d)(4)\], in introductory provisions, substituted "1993" for "1990" and in closing provisions, substituted"$15,150,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993" for "$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year 1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990".
+Subsec. (a)(3)(B). Pub. L. 101–512, §318 \[title I, §110(d)(4)\], in introductory provisions, substituted "1993" for "1990" and in closing provisions, substituted "$15,150,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993" for "$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year 1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990".
 
 Subsec. (a)(3)(C). Pub. L. 101–512, §318 \[title I, §110(e)\], redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "If either Chairperson determines at the end of the ninth month of any fiscal year that funds which would otherwise be available under this paragraph to an Endowment cannot be used, the Chairperson shall transfer such funds to the other Endowment for the purposes described in section 954(p)(1) or section 956(h)(1) of this title, as may be necessary."
 
@@ -148,7 +148,7 @@ Subsec. (f). Pub. L. 101–512, §110(g), added subsec. (f).
 
 Subsec. (a)(2)(B)(ii). Pub. L. 99–362, §1(2), substituted "paragraph (9)" for "paragraph (7)".
 
-<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–194, §111(a)(1), substituted "$121,678,000 for fiscal year 1986, $123,425,120 for fiscal year 1987, $128,362,125 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990" for "$115,500,000 for fiscal year 1981, $127,000,000 for fiscal year 1982, $140,000,000 for fiscal year 1983, $128,500,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985".
+<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–194, §111(a)(1), substituted "$121,678,000 for fiscal year 1986, $123,425,120 for fiscal year 1987, $128,362,125 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990" for "$115,500,000 for fiscal year 1981,$127,000,000 for fiscal year 1982, $140,000,000 for fiscal year 1983, $128,500,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985".
 
 Subsec. (a)(1)(B). Pub. L. 99–194, §111(a)(2), substituted "$95,207,000 for fiscal year 1986, $99,015,280 for fiscal year 1987, $102,975,891 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990;" for "$114,500,000 for fiscal year 1981, $126,000,000 for fiscal year 1982, $138,500,000 for fiscal year 1983, $127,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985".
 
@@ -186,7 +186,7 @@ Subsec. (d). Pub. L. 98–306, §7(b), inserted "under this subchapter".
 
 <b>1980</b>—Subsec. (a)(1)(A). Pub. L. 96–496, §108(a), substituted "to the National Endowment for the Arts $115,500,000 for fiscal year 1981, $127,000,000 for fiscal year 1982, $140,000,000 for fiscal year 1983, $154,000,000 for fiscal year 1984, and $170,000,000 for fiscal year 1985" for "$93,500,000 for fiscal year 1977, $105,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980".
 
-Subsec. (a)(1)(B). Pub. L. 96–496, §108(b), substituted "$114,500,000 for fiscal year 1981, $126,000,000 for fiscal year 1982, $138,500,000 for fiscal year 1983, $152,000,000 for fiscal year 1984, and $167,500,000 for fiscal year 1985" for "$93,500,000 for fiscal year 1977, $105,000,000 for fiscalyear 1978, and such sums as may be necessary for fiscal years 1979 and 1980".
+Subsec. (a)(1)(B). Pub. L. 96–496, §108(b), substituted "$114,500,000 for fiscal year 1981, $126,000,000 for fiscal year 1982, $138,500,000 for fiscal year 1983, $152,000,000 for fiscal year 1984, and $167,500,000 for fiscal year 1985" for "$93,500,000 for fiscal year 1977, $105,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980".
 
 Subsec. (a)(2). Pub. L. 96–496, §108(c), substituted provisions authorizing appropriations for each fiscal year ending before Oct. 1, 1985, for the National Endowments for the Arts and for the Humanities for provisions authorizing appropriations for such endowments for each fiscal year ending prior to Oct. 1, 1980.
 
@@ -198,7 +198,7 @@ Subsec. (a)(4). Pub. L. 96–496, §108(f), substituted provisions authorizing t
 
 Subsec. (c). Pub. L. 96–496, §108(g), substituted provisions authorizing specific appropriations for administrative expenses of the National Endowments for the Arts and for the Humanities for fiscal years 1981 to 1985 for provisions authorizing appropriations for administrative expenses of such endowments of such sums as were necessary.
 
-<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–462, §106(a)(1)(A), substituted provisions authorizing appropriations of $93,500,000 for fiscal year 1977, $105,000,000 for fiscal year 1978, and such sums as are necessary for fiscal years 1979 and 1980 to carry out section 954(c) of this title and such sums so appropriated for any fiscal year, not less than 20 per centum to carry out section 954(g) of this title for provisions authorizing appropriations of $54,000,000, $90,000,000, and $113,500,000 for the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976, respectively, to the National Endowment for the Arts to carry out section 954(c) of this title and to carry out section 954(g) of this title $11,000,000 for the fiscal year ending June 30, 1974 and requiring that not less than 20 per centum of funds appropriated for section 954(c) of this title may be used only for purpose of section 954(g) of this title for fiscal years ending June 30, 1975 and June 30, 1976.
+<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–462, §106(a)(1)(A), substituted provisions authorizing appropriations of $93,500,000 for fiscal year 1977, $105,000,000 for fiscal year 1978, and such sums as are necessary for fiscal years 1979 and 1980 to carry out section 954(c) of this title and such sums so appropriated for any fiscal year, not less than 20 per centum to carry out section 954(g) of this title for provisions authorizing appropriations of $54,000,000, $90,000,000, and $113,500,000 for the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976, respectively, to the National Endowment for the Arts to carry out section 954(c) of this title and tocarry out section 954(g) of this title $11,000,000 for the fiscal year ending June 30, 1974 and requiring that not less than 20 per centum of funds appropriated for section 954(c) of this title may be used only for purpose of section 954(g) of this title for fiscal years ending June 30, 1975 and June 30, 1976.
 
 Subsec. (a)(1)(B). Pub. L. 94–462, §106(a)(1)(B), substituted provisions authorizing appropriations of $93,500,000 for fiscal year 1977, $105,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980, not less than 20 per centum of such appropriated funds shall be to carry out section 956(f) of this title for provisions authorizing appropriations of $65,000,000 for the fiscal year ending June 30, 1974, $90,000,000 for the fiscal year ending June 30, 1975, and $113,500,000 for the fiscal year ending June 30, 1976.
 

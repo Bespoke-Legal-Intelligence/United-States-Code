@@ -20,6 +20,8 @@ Aug. 26, 1950, ch. 803, §2, 64 Stat. 477.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.

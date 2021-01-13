@@ -2,7 +2,7 @@
 
 #### (a) Election of remedies
 
-If on account of a disability or death for which compensation is payable under this chapter the person entitled to such compensation determines that some person other than the employer or a person or persons in his employ is liable in damages, he need not elect whether to receive such compensation or to recover damages against such third person.
+If on account of a disability or death for which compensation is payable under this chapter the person entitled to such compensation determines that some person other than the employer or a person or persons in his employ is liable in damages, he need not elect whether to receivesuch compensation or to recover damages against such third person.
 
 #### (b) Acceptance of compensation operating as assignment
 
@@ -18,7 +18,7 @@ Such employer on account of such assignment may either institute proceedings for
 
 #### (e) Recoveries by assignee
 
-Any amount recovered by such employer on account of such assignment, whether or not asthe result of a compromise, shall be distributed as follows:
+Any amount recovered by such employer on account of such assignment, whether or not as the result of a compromise, shall be distributed as follows:
 
 &emsp;(1) The employer shall retain an amount equal to—
 
@@ -55,6 +55,8 @@ Where the employer is insured and the insurance carrier has assumed the payment 
 The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: <i>Provided</i>, That this provision shall not affect the liability of a person other than an officer or employee of the employer.
 
 (Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck o
 Subsec. (e). Act June 25, 1938, §12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
 
 Subsec. (i). Act June 25, 1938, §13, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

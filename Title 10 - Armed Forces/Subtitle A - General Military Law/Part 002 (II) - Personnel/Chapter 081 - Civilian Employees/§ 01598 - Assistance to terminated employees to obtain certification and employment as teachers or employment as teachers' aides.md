@@ -12,7 +12,7 @@ Placement Program.—The Secretary of Defense may establish a program—
 
 &emsp;(2) to facilitate the employment of such employees by local educational agencies that—
 
-&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
+&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
 
 &emsp;&emsp;(B) are also experiencing a shortage of teachers or teachers' aides.
 
@@ -72,11 +72,11 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 Placement of Participants as Teachers and Teachers' Aides.—Subsections (h) through (k) of section 1151 <sup>1</sup> of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L.104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of this title was subsequently added by Pub. L. 109–364, §561(a).
 

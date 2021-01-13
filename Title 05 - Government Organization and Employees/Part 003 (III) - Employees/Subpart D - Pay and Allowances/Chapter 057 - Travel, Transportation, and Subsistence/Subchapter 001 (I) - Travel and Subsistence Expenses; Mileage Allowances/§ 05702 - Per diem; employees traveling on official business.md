@@ -16,7 +16,7 @@
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 
-&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
+&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval ofan appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
 (2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
@@ -62,9 +62,11 @@ In subsection (a), the term "employee" is substituted for "civilian officers and
 
 In subsection (b), the words "Under regulations prescribed under section 5707 of this title" are substituted for "in accordance with regulations promulgated and approved under sections 835–842 of this title".
 
-In subsection (c), the words "Under regulations prescribed under section 5707 of this title" are substitutedfor "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title."
+In subsection (c), the words "Under regulations prescribed under section 5707 of this title" are substituted for "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title."
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -102,6 +104,8 @@ Subsecs. (d), (e). Pub. L. 94–22 transferred from subsec. (c) to (d) provision
 
 Subsec. (c). Pub. L. 91–114 in cl. (1) increased the amount authorized to be named in the travel authorization for each day in a travel status inside the continental United States from not to exceed $30 to not to exceed $40, and in cl. (2) increased the amount authorized to be named in the travel authorization for each day in a travel status outside the continental United States from not to exceed the maximum per diem allowance plus $10 to not to exceed the maximum per diem allowance plus $18.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
@@ -109,12 +113,6 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
-
-#### Delegation of Functions
-
-Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances to extent that such authority pertains to travel status of employees while enroute to, from, or between localities situated outside 48 contiguous States of United States and District of Columbia delegated to Administrator of General Services, see section 1(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
-Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances and reimbursements for actual and necessary expenses of official travel for employees of Government to extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of United States delegated to Secretary of Defense, see section 1(h) of Ex. Ord. No. 10621, set out as a note under section 301 of Title 3.
 
 #### Retention of Travel Promotional Items
 
@@ -166,7 +164,15 @@ Through 1981;
 
 Rules and Regulations
 
-Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+Pub. L. 96–346, §3, Sept. 10, 1980, 94 Stat. 1148, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances to extent that such authority pertains to travel status of employees while enroute to, from, or between localities situated outside 48 contiguous States of United States and District of Columbia delegated to Administrator of General Services, see section 1(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances and reimbursements for actual and necessary expenses of official travel for employees of Government to extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of United States delegated to Secretary of Defense, see section 1(h) of Ex. Ord. No. 10621, set out as a note under section 301 of Title 3.
 
 #### Ex. Ord. No. 12561. Delegation of Functions Relating to Travel Outside Continental United States
 

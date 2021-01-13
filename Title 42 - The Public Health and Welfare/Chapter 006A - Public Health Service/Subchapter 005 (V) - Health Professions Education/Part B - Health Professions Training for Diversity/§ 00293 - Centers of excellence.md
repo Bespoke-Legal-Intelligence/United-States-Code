@@ -32,7 +32,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 #### (A) In general
 
-&emsp;&emsp;The designated health professions schools referred to in subsection (a) are such schools that meet each of the conditions specified in subparagraphs (B) and (C), and that—
+&emsp;&emsp;The designated health professions schools referred to in subsection (a) are such schoolsthat meet each of the conditions specified in subparagraphs (B) and (C), and that—
 
 &emsp;&emsp;&emsp;(i) meet each of the conditions specified in paragraph (2)(A);
 
@@ -108,7 +108,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 &emsp;&emsp;(A) with respect to Native Americans, each of clauses (i) through (iv) of paragraph (1)(B) applies to the designated health professions school involved;
 
-&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a), that the school will, in carrying out the duties described in subsection (b), give priority to carrying out the duties with respect to Native Americans; and
+&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a), thatthe school will, in carrying out the duties described in subsection (b), give priority to carrying out the duties with respect to Native Americans; and
 
 &emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a), that—
 
@@ -242,13 +242,9 @@ In this section:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section—
+To carry out this section, there is authorized to be appropriated $23,711,000 for each of fiscal years 2021 through 2025.
 
-&emsp;(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
-
-&emsp;(2) and <sup>2</sup> such sums as are necessary for each subsequent fiscal year.
-
-(July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3525; amended Pub. L. 111–148, title V, §5401, Mar. 23, 2010, 124 Stat. 642.)
+(July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3525; amended Pub. L. 111–148, title V, §5401, Mar. 23, 2010, 124 Stat. 642; Pub. L. 116–136, div. A, title III, §3401(1), Mar. 27, 2020, 134 Stat. 385.)
 
 #### References in Text
 
@@ -258,11 +254,17 @@ Section 295g–8b of this title, referred to in subsec. (c)(2)(A)(ii), was omitt
 
 A prior section 293, act July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2022, authorized grants to schools of medicine, osteopathic medicine, and dentistry for need-based scholarships, prior to the general amendment of this part by Pub. L. 105–392.
 
-Another prior section 293, act July 1, 1944, ch. 373, title VII, §720, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 164; amended Sept. 4, 1964, Pub. L. 88–581, §3(a), 78 Stat. 919; Oct. 22, 1965, Pub. L. 89–290, §3(a), 79 Stat. 1056; Nov. 2, 1966, Pub. L. 89–709, §2(a), 80 Stat. 1103; Aug. 16, 1968, Pub. L. 90–490, title I, §101(a), (b)(1), 82 Stat. 773; Nov. 18, 1971, Pub. L. 92–157, title I, §102(a), 85 Stat. 431; Oct. 12, 1976, Pub. L. 94–484, title I, §101(c), title III, §302, 90 Stat. 2244, 2253; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2723(a), (b), 95 Stat. 915, authorized grants for construction of teaching facilities for medical, dental, and other health personnel, prior to the general revision of this subchapter by Pub. L. 102–408.
+Another prior section 293, act July 1, 1944, ch. 373, title VII, §720, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 164; amended Sept. 4, 1964, Pub. L. 88–581, §3(a), 78 Stat. 919; Oct. 22, 1965, Pub. L. 89–290, §3(a), 79Stat. 1056; Nov. 2, 1966, Pub. L. 89–709, §2(a), 80 Stat. 1103; Aug. 16, 1968, Pub. L. 90–490, title I, §101(a), (b)(1), 82 Stat. 773; Nov. 18, 1971, Pub. L. 92–157, title I, §102(a), 85 Stat. 431; Oct. 12, 1976, Pub. L. 94–484, title I, §101(c), title III, §302, 90 Stat. 2244, 2253; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2723(a), (b), 95 Stat. 915, authorized grants for construction of teaching facilities for medical, dental, and other health personnel, prior to the general revision of this subchapter by Pub. L. 102–408.
 
 A prior section 736 of act July 1, 1944, was classified to section 294i of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i). Pub. L. 116–136 added subsec. (i) and struck out former subsec. (i). Text read as follows: "There are authorized to be appropriated to carry out this section—
+
+&emsp;"(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
+
+&emsp;"(2) and such sums as are necessary for each subsequent fiscal year."
 
 <b>2010</b>—Subsecs. (h), (i). Pub. L. 111–148 added subsecs. (h) and (i) and struck out former subsec. (h) which related to authorization of appropriations for fiscal years 1998 through 2002 and allocations of amounts.
 

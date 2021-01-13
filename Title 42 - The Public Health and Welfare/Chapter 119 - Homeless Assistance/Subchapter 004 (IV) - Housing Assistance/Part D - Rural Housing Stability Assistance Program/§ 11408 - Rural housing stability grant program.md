@@ -68,7 +68,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;&emsp;(xvi) referrals to veterans services and legal services; and
 
-&emsp;&emsp;(K) costs associated with making use of Federal inventory property programs tohouse homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to section 1710(g) of title 12.
+&emsp;&emsp;(K) costs associated with making use of Federal inventory property programs to house homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to section 1710(g) of title 12.
 
 #### (2) Capacity building activities
 
@@ -96,7 +96,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (d) Application
 
-In order to be eligible to receive a grant under subsection (a), an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
+In order to be eligible to receive a grant under subsection (a), an organization shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
 
 &emsp;(1) a description of the target population and geographic area to be served;
 
@@ -146,7 +146,7 @@ The Secretary shall establish criteria for selecting recipients of grants under 
 
 &emsp;(3) the degree of collaboration with others in the community to meet the goals described in subsection (a);
 
-&emsp;(4) the performance of the organization in improving housing situations, taking accountof the severity of barriers of individuals and families served by the organization;
+&emsp;(4) the performance of the organization in improving housing situations, taking account of the severity of barriers of individuals and families served by the organization;
 
 &emsp;(5) for organizations that have previously received funding under this section, the extent of improvement in homelessness and the worst housing situations in the community since such funding began;
 
@@ -220,7 +220,7 @@ For any fiscal year, in addition to funds awarded under part B, funds under this
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22,1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 Title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (h), is title IV of div. B of Pub. L. 111–22, which amended this section.
 
@@ -248,7 +248,7 @@ Subsec. (d)(7), (8). Pub. L. 111–22, §1401(2)(F)(i), (ii)(II), (iii), added p
 
 Subsecs. (f), (g). Pub. L. 111–22, §1401(2)(G), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which related to the Federal share of the costs of providing assistance and participation of homeless individuals, respectively.
 
-Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The" in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
+Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made bytitle IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The" in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
 
 Subsec. (h)(2). Pub. L. 111–22, §1401(2)(H)(iv), substituted "Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The", struck out ", not later than 18 months after the date on which the Secretary first makes grants under the program," after "Congress", and substituted "meet the goals described in subsection (a)" for "prevent and respond to homelessness".
 

@@ -12,6 +12,8 @@ This section contains part of section 444 of title 28, U.S.C., 1940 ed. The rema
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–317 inserted at end "The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code."
@@ -19,6 +21,8 @@ Changes were made in phraseology.
 <b>1990</b>—Pub. L. 101–650 substituted "Chief Justice of the United States, after consulting with the Judicial Conference" for "Supreme Court".
 
 <b>1959</b>—Pub. L. 86–370 substituted "Deputy Director" for "Assistant Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1959 Amendment
 

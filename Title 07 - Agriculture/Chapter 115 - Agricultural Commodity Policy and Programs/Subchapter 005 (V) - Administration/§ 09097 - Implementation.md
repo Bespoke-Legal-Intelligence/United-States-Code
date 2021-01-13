@@ -120,7 +120,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 &emsp;&emsp;&emsp;(vi) Titles I through X of the Food Security Act of 1985 (Public Law 99–198; 99 Stat. 1362) and the amendments made by those titles.
 
-&emsp;&emsp;&emsp;(vii) Titles I through XI of the Agriculture and Food Act of 1981 (Public Law97–98; 95 Stat. 1218) and the amendments made by those titles.
+&emsp;&emsp;&emsp;(vii) Titles I through XI of the Agriculture and Food Act of 1981 (Public Law 97–98; 95 Stat. 1218) and the amendments made by those titles.
 
 &emsp;&emsp;&emsp;(viii) Titles I through X of the Food and Agriculture Act of 1977 (Public Law 95–113; 91 Stat. 917) and the amendments made by those titles.
 
@@ -186,7 +186,7 @@ The Food and Agriculture Act of 1977, referred to in subsec. (e)(2)(B)(viii), is
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1706(a), inserted ", and as adjusted pursuant to sections 9012 and 9013 of this title" before period at end.
 
-Subsec. (b). Pub. L. 115–334, §1706(b), added subsec. (b) and struck out former subsec. (b) which directed theSecretary to implement various efficiency and streamlining measures.
+Subsec. (b). Pub. L. 115–334, §1706(b), added subsec. (b) and struck out former subsec. (b) which directed the Secretary to implement various efficiency and streamlining measures.
 
 Subsec. (c)(4). Pub. L. 115–334, §1706(c), added par. (4).
 

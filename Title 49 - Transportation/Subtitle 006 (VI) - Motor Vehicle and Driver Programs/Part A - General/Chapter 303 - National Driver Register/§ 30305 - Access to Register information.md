@@ -4,7 +4,7 @@
 
 Referrals of Information Requests.—(1) To carry out duties related to driver licensing, driver improvement, or transportation safety, the chief driver licensing official of a participating State may request the Secretary of Transportation to refer, electronically or by United States mail, a request for information about the motor vehicle driving record of an individual to the chief driver licensing official of a State of record.
 
-(2) The Secretary of Transportation shall relay, electronically or by United States mail, information received from the chief driver licensing official of a State of record in response to a request under paragraph (1) of this subsection to the chief driver licensing official of the participating State requesting the information. However, the Secretary may refuse to relay information to the chief driver licensing official of a participating State that does not comply with section 30304 of this title.
+(2) The Secretary of Transportation shall relay, electronically or by United States mail, information received from the chief driver licensing official of a State of record in response to a request under paragraph (1) of this subsection to the chief driver licensing official of the participating State requesting the information. However, the Secretary may refuse to relay information to the chief driver licensingofficial of a participating State that does not comply with section 30304 of this title.
 
 (b)
 
@@ -24,7 +24,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (8)(A) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual, the authorized agent of the prospective employer, or the Secretary of Transportation.
 
-(B) An air carrier that is the prospective employer of an individual described in subparagraph (A), or an authorized agent of such an air carrier, may request and receive information about that individual from the National DriverRegister through an organization approved by the Secretary for purposes of requesting, receiving, and transmitting such information directly to the prospective employer of such an individual or the authorized agent of the prospective employer. This paragraph shall be carried out in accordance with paragraphs (2) and (11) of section 44703(h) and the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+(B) An air carrier that is the prospective employer of an individual described in subparagraph (A), or an authorized agent of such an air carrier, may request and receive information about that individual from the National Driver Register through an organization approved by the Secretary for purposes of requesting, receiving, and transmitting such information directly to the prospective employer of such an individual or the authorized agent of the prospective employer. This paragraph shall be carried out in accordance with paragraphs (2) and (11) of section 44703(h) and the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
 
 (C) Information may not be obtained from the National Driver Register under this paragraph if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
 

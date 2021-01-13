@@ -10,7 +10,7 @@ The Secretary shall designate an individual, within the headquarters office of t
 
 #### (b) Requirements
 
-A small unmanned aircraft system acquired, operated, or maintained for carrying out themissions specified in subsection (a) shall be operated in accordance with regulations of the Federal Aviation Administration as a civil aircraft or public aircraft, at the discretion of the Secretary, and shall be exempt from regulations of the Department of Defense, including the Department of the Army, governing such system.
+A small unmanned aircraft system acquired, operated, or maintained for carrying out the missions specified in subsection (a) shall be operated in accordance with regulations of the Federal Aviation Administration as a civil aircraft or public aircraft, at the discretion of the Secretary, and shall be exempt from regulations of the Department of Defense, including the Department of the Army, governing such system.
 
 #### (c) Limitation
 
@@ -18,9 +18,13 @@ A small unmanned aircraft system acquired, operated, or maintained by the Corps 
 
 (Pub. L. 114–322, title I, §1124, Dec. 16, 2016, 130 Stat. 1647.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (a)(1), is section 331 of Pub. L. 112–95, which was set out in a note under section 40101 of Title 49, Transportation, and was transferred and is now set out in a note under section 44802 of Title 49.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

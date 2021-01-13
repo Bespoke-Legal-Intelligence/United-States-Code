@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Whenever in his judgment such action is necessary to protect the revenue, the Secretary is authorized, by the regulations prescribed by himand permits issued thereunder if required by him—
+Whenever in his judgment such action is necessary to protect the revenue, the Secretary is authorized, by the regulations prescribed by him and permits issued thereunder if required by him—
 
 &emsp;(1) to regulate the kind, size, branding, marking, sale, resale, possession, use, and reuse of containers (of a capacity of not more than 5 wine gallons) designed or intended for use for the sale of distilled spirits (within the meaning of such term as it is used in section 5002(a)(8) for other than industrial use; and
 
@@ -52,7 +52,7 @@ A prior section 5304, act Aug. 16, 1954, ch. 736, 68A Stat. 655, related to alco
 
 A prior section 5305, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to regulations for establishing, bonding, and operations of plants and warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171, 5172, 5173(a), 5178(a)(1)(A), (5), 5201(a), (b), 5207(a), (c), (d), 5211, 5223(a), 5235, 5273(b)(1), (2), (d), 5275, and 5312(b) of this title.
 
-A prior section 5306, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to exemption of industrial alcohol plants and warehouses from certain laws, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5025(d), (e)(1), 5173(c), 5201(a), (c), 5204(c), 5234(a)(1)(A), 5306, and 5312(c) of this title.
+A prior section 5306, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to exemption of industrial alcoholplants and warehouses from certain laws, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5025(d), (e)(1), 5173(c), 5201(a), (c), 5204(c), 5234(a)(1)(A), 5306, and 5312(c) of this title.
 
 A prior section 5307, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to production, use, or sale of alcohol, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5178(a)(2)(A) and 5201(a) of this title.
 
@@ -60,7 +60,7 @@ A prior section 5308, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to tran
 
 A prior section 5309, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of fermented liquors to industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See section 5222(b) of this title.
 
-A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of alcohol free of tax, prior to the general revision of this chapter by Pub. L.85–859. See sections 5214(a), (a)(1) to (3), 5241, 5242, 5272(b), 5273(b)(1), (2), (d), and 5313 of this title.
+A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of alcohol free of tax, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5214(a), (a)(1) to (3), 5241, 5242, 5272(b), 5273(b)(1), (2), (d), and 5313 of this title.
 
 #### Amendments
 

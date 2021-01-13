@@ -18,7 +18,7 @@ Permits or leases may be issued by the Secretary concerned for a period shorter 
 
 #### (1) Renewal of expiring or transferred permit or lease
 
-&emsp;During any period in which (A) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (B) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (C) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit or lease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
+&emsp;During any period in which (A) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (B) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (C) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit orlease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
 
 #### (2) Continuation of terms under new permit or lease
 
@@ -34,7 +34,7 @@ Permits or leases may be issued by the Secretary concerned for a period shorter 
 
 #### (d) Allotment management plan requirements
 
-All permits and leases for domestic livestock grazing issued pursuant to this section may incorporate an allotment management plan developed by the Secretary concerned. However, nothing in this subsection shall be construed to supersede any requirement for completion of court ordered environmental impact statements prior to development and incorporation of allotment management plans. If the Secretary concerned elects to develop an allotment management plan for a given area, he shall do so in careful and considered consultation, cooperation and coordination with the lessees, permittees, and landowners involved, the district grazing advisory boards established pursuant to section 1753 of this title, and any State or States having lands within the area to be covered by such allotment management plan. Allotment management plans shall be tailored to the specific range condition of the area to be covered by such plan, and shall be reviewed on a periodic basis to determine whether they have been effective in improving the range condition of the lands involved or whether such lands can be better managed under the provisions of subsection (e) of this section. The Secretary concerned may revise or terminate such plans or develop newplans from time to time after such review and careful and considered consultation, cooperation and coordination with the parties involved. As used in this subsection, the terms "court ordered environmental impact statement" and "range condition" shall be defined as in the "Public Rangelands Improvement Act of 1978 \[43 U.S.C. 1901 et seq.\]".
+All permits and leases for domestic livestock grazing issued pursuant to this section may incorporate an allotment management plan developed by the Secretary concerned. However, nothing in this subsection shall be construed to supersede any requirement for completion of court ordered environmental impact statements prior to development and incorporation of allotment management plans. If the Secretary concerned elects to develop an allotment management plan for a given area, he shall do so in careful and considered consultation, cooperation and coordination with the lessees, permittees, and landowners involved, the district grazing advisory boards established pursuant to section 1753 of this title, and any State or States having lands within the area to be covered by such allotment management plan. Allotment management plans shall be tailored to the specific range condition of the area to be covered by such plan, and shall be reviewed on a periodic basis to determine whether they have been effective in improving the range condition of the lands involved or whether such lands can be better managed under the provisions of subsection (e) of this section. The Secretary concerned may revise or terminate such plans or develop new plans from time to time after such review and careful and considered consultation, cooperation and coordination with the parties involved. As used in this subsection, the terms "court ordered environmental impact statement" and "range condition" shall be defined as in the "Public Rangelands Improvement Act of 1978 \[43 U.S.C. 1901 et seq.\]".
 
 #### (e) Omission of allotment management plan requirements and incorporation of appropriate terms and conditions; reexamination of range conditions
 
@@ -90,7 +90,9 @@ The Secretary concerned, in the sole discretion of the Secretary concerned, shal
 
 Nothing in this Act shall be construed as modifying in any way law existing on October 21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
 
-(Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92Stat. 1807; Pub. L. 113–291, div. B, title XXX, §3023, Dec. 19, 2014, 128 Stat. 3762.)
+(Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92 Stat. 1807; Pub. L. 113–291, div. B, title XXX, §3023, Dec. 19, 2014, 128 Stat. 3762.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -117,6 +119,8 @@ Subsec. (b)(3). Pub. L. 95–514, §7(a), inserted provision that absence of com
 Subsec. (d). Pub. L. 95–514, §8(a), struck out ", with the exceptions authorized in subsection (e) of this section, on and after October 1, 1988," after "pursuant to this section" and inserted provisions prohibiting any requirements for completion of court ordered environmental impact statements prior to development and incorporation of allotment plans from being superseded by subsec. (d), providing for careful and considered consultation, cooperation, and coordination with certain persons, including landowners involved, district grazing advisory boards and States having lands within the covered area and for tailoring allotment management plans to the specific range condition of the covered area and periodic review thereof, authorizing the Secretary to terminate or develop the plans after review and careful and considered consultation, cooperation, and coordination with the parties involved, and defining "court ordered environmental impact statement" and "range condition".
 
 Subsec. (e). Pub. L. 95–514, §8(b), substituted introductory word "In" for "Prior to October 1, 1988, or thereafter, in".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grazing Permit Renewals
 

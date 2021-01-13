@@ -16,7 +16,7 @@
 
 #### (3) Valid existing rights
 
-&emsp;The land exchange under this section shall be subject to valid existing rights, and each party shall succeed to the rights and obligations of the other party with respect to anylease, right-of-way, or permit encumbering the exchanged land.
+&emsp;The land exchange under this section shall be subject to valid existing rights, and each party shall succeed to the rights and obligations of the other party with respect to any lease, right-of-way, or permit encumbering the exchanged land.
 
 #### (b) Description of parcels
 

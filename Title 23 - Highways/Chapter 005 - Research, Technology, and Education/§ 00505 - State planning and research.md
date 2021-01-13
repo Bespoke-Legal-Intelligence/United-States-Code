@@ -54,7 +54,9 @@ Federal Share.—The Federal share of the cost of a project carried out using fu
 
 Administration of Sums.—Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
 
-(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, §5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, §52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, §1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
+(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, titleV, §5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, §52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, §1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -75,6 +77,8 @@ Subsec. (e). Pub. L. 112–141, §52005(2), (4), redesignated subsec. (d) as (e)
 <b>2005</b>—Subsec. (a)(7). Pub. L. 109–59, §5205(1), added par. (7).
 
 Subsec. (d). Pub. L. 109–59, §5205(2), substituted "for the period described in section 118(b)(2)" for "for the same period as funds apportioned under section 104(b)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

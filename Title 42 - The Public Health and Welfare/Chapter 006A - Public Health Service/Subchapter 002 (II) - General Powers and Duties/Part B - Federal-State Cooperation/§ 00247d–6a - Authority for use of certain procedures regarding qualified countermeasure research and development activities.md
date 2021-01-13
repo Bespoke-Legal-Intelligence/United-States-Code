@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out activities under this section, the Secretary is authorized, subject to subparagraph (B), to enter into interagency agreements and other collaborative undertakings with other agencies of the United States Government.
+&emsp;&emsp;In carrying out activities under this section, the Secretary is authorized, subject tosubparagraph (B), to enter into interagency agreements and other collaborative undertakings with other agencies of the United States Government.
 
 #### (B) Limitation
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determinedby the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section 3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
+&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section 3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
 
 &emsp;&emsp;&emsp;(i) section 3305(a)(1) of title 41 and its implementing regulations; and
 
@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (a), (d), and (e) of section 1902 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
+&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (a),\(d), and (e) of section 1902 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
 
 #### (B) Internal controls to be instituted
 
@@ -160,7 +160,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
+&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent orreckless conduct or intentional or willful misconduct on the part of such entity.
 
 #### (ii) Venue
 
@@ -226,7 +226,7 @@ In subsec. (b)(1)(A)(ii), "section 3101(b)(1)(B) of title 41" substituted for "s
 
 In subsec. (b)(1)(B)(ii), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B)(iii), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B)(iii), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property andAdministrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(1)(B)(v), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -242,7 +242,7 @@ In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41
 
 <b>2013</b>—Subsec. (a)(2)(A). Pub. L. 113–5 struck out "to" before dash at end of introductory provisions, inserted "to" before "diagnose" in cls. (i) and (ii), and added cl. (iii).
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: "For purposes of this section, the term 'qualified countermeasure' means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: "For purposes of this section, the term 'qualified countermeasure' means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
 
 &emsp;"(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
@@ -274,5 +274,5 @@ Ensuring Coordination of Programs.—The Secretary of Health and Human Services,
 
 "(b)
 
-Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate, through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments."
+Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate,through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments."
 

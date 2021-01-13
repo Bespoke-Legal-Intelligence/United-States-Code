@@ -64,7 +64,7 @@ Building codes, permits, or inspection.—The Building is not subject to any law
 
 &emsp;(2)
 
-Taxes.—The Building and other improvements constructed under this chapter are notsubject to any law of the District of Columbia relating to real estate and personal property taxes, special assessments, or other taxes, including any such law enacted by Congress.
+Taxes.—The Building and other improvements constructed under this chapter are not subject to any law of the District of Columbia relating to real estate and personal property taxes, special assessments, or other taxes, including any such law enacted by Congress.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1188.)
 
@@ -122,9 +122,13 @@ In subsection (e), the text of 40:1202(c)(1) is omitted as obsolete.
 
 In subsection (f), the text of 40:1202(d) (2d sentence) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Building Height Act of 1910, referred to in subsec. (c)(2), is act June 1, 1910, ch. 263, 36 Stat. 452, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reference to the Thurgood Marshall Federal Judiciary Building
 

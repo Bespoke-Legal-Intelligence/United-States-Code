@@ -2,7 +2,7 @@
 
 #### (a) Willful failure to register
 
-Any alien required to apply for registration and to be fingerprinted in the United States who willfully fails or refuses to make such application or to be fingerprinted, and any parent or legal guardian required to apply for the registration of any alien who willfully fails or refuses to file application for the registration of such alien shall be guilty of a misdemeanor and shall, upon conviction thereof, be fined not to exceed $1,000 or be imprisoned not more than six months, or both.
+Any alien required to apply for registration and to be fingerprinted in the United States who willfully fails or refuses to make such application or to be fingerprinted, and any parent or legal guardian required to apply for the registration of any alien who willfully fails or refuses to file application for the registration of such alien shall be guilty of a misdemeanor and shall, uponconviction thereof, be fined not to exceed $1,000 or be imprisoned not more than six months, or both.
 
 #### (b) Failure to notify change of address
 
@@ -18,9 +18,13 @@ Any person who with unlawful intent photographs, prints, or in any other manner 
 
 (June 27, 1952, ch. 477, title II, ch. 7, §266, 66 Stat. 225; Pub. L. 104–208, div. C, title III, §308(e)(2)(G), (g)(9)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (b), (c). Pub. L. 104–208 substituted "removed" for "deported" and "part IV" for "Part V".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

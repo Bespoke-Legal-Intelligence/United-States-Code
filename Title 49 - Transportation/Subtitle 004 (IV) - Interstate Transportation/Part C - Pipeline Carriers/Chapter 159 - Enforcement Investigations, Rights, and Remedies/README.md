@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–225, §7(d), Aug. 12, 1998, 112 Stat. 1512, made technical amendment to directory languageof Pub. L. 104–287, §5(45)(A), effective Oct. 11, 1996. See 1996 Amendment note below.
+<b>1998</b>—Pub. L. 105–225, §7(d), Aug. 12, 1998, 112 Stat. 1512, made technical amendment to directory language of Pub. L. 104–287, §5(45)(A), effective Oct. 11, 1996. See 1996 Amendment note below.
 
 <b>1997</b>—Pub. L. 105–102, §3(d)(1)(A), Nov. 20, 1997, 111 Stat. 2215, which directed technical correction of directory language of Pub. L. 104–287, §5(45)(A), by substituting "ENFORCEMENT:" for "ENFORCEMENT,", could not be executed because "ENFORCEMENT," does not appear in section 5(45)(A).
 

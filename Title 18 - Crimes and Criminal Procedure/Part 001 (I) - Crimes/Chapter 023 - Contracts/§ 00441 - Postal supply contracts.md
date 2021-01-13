@@ -14,15 +14,19 @@ Minimum punishment provisions "less than $100 nor" and "less than three months n
 
 Changes in phraseology were also made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "fined under this title" for "fined not more than $10,000", was executed by making the substitution for "fined not more than $5,000" in second par., to reflect the probable intent of Congress.
 
 <b>1970</b>—Pub. L. 91–375 struck out "Post Office Department or the" before "Postal Service".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Serviceand published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

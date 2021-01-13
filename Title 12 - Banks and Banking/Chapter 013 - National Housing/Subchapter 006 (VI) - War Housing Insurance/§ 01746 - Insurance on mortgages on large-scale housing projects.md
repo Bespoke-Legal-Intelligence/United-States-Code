@@ -16,7 +16,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(A) not to exceed 85 per centum of the amount which the Secretary estimates will be the value of the completed property or project, exclusive of any plant of the character described in paragraph (2) of this subsection located thereon, and
 
-&emsp;&emsp;(B) not to exceed a sum computed on the individual dwellings comprising the total project as follows: $5,950 or 85 per centum of the valuation, whichever is the loweramount, with respect to each single-family dwelling: <i>Provided</i>, That if the Secretary finds that it is not feasible, within the dollar amount limitation in this clause on the principal obligation of the mortgage, to construct dwellings containing three or four bedrooms without sacrifice of sound standards of construction, design, and livability, he may increase such dollar amount limitation by not exceeding $850 for each additional bedroom (as defined by the Secretary) in excess of two contained in each such dwelling if he finds that such dwelling meets sound standards of design and livability as a three-bedroom unit or a four-bedroom unit, as the case may be, but the amount computed under this clause for each such dwelling shall not exceed, in any event, $7,650.
+&emsp;&emsp;(B) not to exceed a sum computed on the individual dwellings comprising the total project as follows: $5,950 or 85 per centum of the valuation, whichever is the lower amount, with respect to each single-family dwelling: <i>Provided</i>, That if the Secretary finds that it is not feasible, within the dollar amount limitation in this clause on the principal obligation of the mortgage, to construct dwellings containing three or four bedrooms without sacrifice of sound standards of construction, design, and livability, he may increase such dollar amount limitation by not exceeding $850 for each additional bedroom (as defined by the Secretary) in excess of two contained in each such dwelling if he finds that such dwelling meets sound standards of design and livability as a three-bedroom unit or a four-bedroom unit, as the case may be, but the amount computed under this clause for each such dwelling shall not exceed, in any event, $7,650.
 
 &emsp;With respect to the insurance of advances during construction, the Secretary is authorized to approve advances by the mortgagee to cover the cost of materials delivered upon the mortgaged property and labor performed in the fabrication or erection thereof;
 
@@ -31,6 +31,8 @@ Preference or priority of opportunity in the occupancy of the mortgaged property
 The provisions of subsections (c), (d), (e), and (f) of section 1743 of this title shall be applicable to mortgages insured under this section covering a project described in subsection (b) of this section, and the provisions of subsections (a) to (f), and (h) of section 1739 of this title shall be applicable to the individual mortgages insured pursuant to subsection (b)(4) of this section  covering  individual  dwellings  in  the project.
 
 (June 27, 1934, ch. 847, title VI, §611, as added Aug. 10, 1948, ch. 832, title I, §101(f), 62 Stat. 1271; amended Apr. 20, 1950, ch. 94, title I, §§121, 122, 64 Stat. 58, 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

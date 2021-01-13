@@ -82,7 +82,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 &emsp;&emsp;(F) when established for the purpose referred to in paragraph (2)(A)(i), establish operational and investigative priorities within the areas of responsibility of the Joint Task Force, as determined by the Secretary;
 
-&emsp;&emsp;(G) coordinate with foreign governments and other Federal, State, and local agencies,as appropriate, to carry out the mission of the Joint Task Force; and
+&emsp;&emsp;(G) coordinate with foreign governments and other Federal, State, and local agencies, as appropriate, to carry out the mission of the Joint Task Force; and
 
 &emsp;&emsp;(H) carry out other duties and powers the Secretary determines appropriate.
 
@@ -94,7 +94,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (B) Cost neutrality
 
-&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise been required by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
+&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise beenrequired by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
 
 #### (C) Location of operations
 
@@ -178,7 +178,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (ii) Joint Task Force staff
 
-&emsp;&emsp;&emsp;Each official serving on the staff of a Joint Task Force shall complete the joint duty training program within the first year of assignment to such Joint Task Force.
+&emsp;&emsp;&emsp;Each official serving on the staff of a Joint Task Force shall complete the jointduty training program within the first year of assignment to such Joint Task Force.
 
 #### (iii) Exception
 
@@ -222,9 +222,13 @@ After establishing the joint duty training program under subsection (b)(10), the
 
 (Pub. L. 107–296, title VII, §708, as added Pub. L. 114–328, div. A, title XIX, §1901(b), Dec. 23, 2016, 130 Stat. 2665.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition Provisions
 

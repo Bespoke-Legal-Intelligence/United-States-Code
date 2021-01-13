@@ -22,7 +22,7 @@ Lieutenant Commanders and Majors Who Twice Fail of Selection for Promotion.—Ex
 
 Retired Grade and Retired Pay.—Each officer retired under subsection (a) or (b)—
 
-&emsp;(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 of this title; and
+&emsp;(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 <sup>1</sup> of this title; and
 
 &emsp;(2) is entitled to retired pay computed under section 8333 of this title.
 
@@ -36,7 +36,7 @@ Officers in Pay Grades O–2
 
 and O–1
 
-Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered ashaving failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
+Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failedof selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
 
 (2) Each regular officer on the active-duty list of the Navy serving in the grade of ensign who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of second lieutenant who is an officer designated for limited duty, who is found not qualified for promotion to the grade of lieutenant (junior grade) (in the case of an officer of the Navy) or first lieutenant (in the case of an officer of the Marine Corps) shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the officer was found not qualified for promotion.
 
@@ -174,6 +174,10 @@ In subsection (f) the words "to which he would otherwise become entitled" are om
 
 The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
 
+#### References in Text
+
+Section 1370 of this title, referred to in subsec. (c)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
+
 #### Prior Provisions
 
 A prior section 8372, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1527; amended Pub. L. 86–559, §1(57), June 30, 1960, 74 Stat. 276, related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
@@ -222,7 +226,7 @@ Subsec. (i). Pub. L. 102–484, §504(d), inserted at end "During the period beg
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–510 substituted "section 1174(a)(1)" for "section 1174(a)".
 
-<b>1986</b>—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years ofservice credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+<b>1986</b>—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
 Subsec. (k). Pub. L. 99–348, §203(b)(7)(B), struck out subsec. (k) which provided that retired pay computed under subsec. (c), if not a multiple of $1, was to be rounded to the next lower multiple of $1.
 
@@ -287,4 +291,6 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For transition provisions relating to limited-duty officers of the Regular Navy or Regular Marine Corps, see section 616 of Pub. L. 96–513, set out as a note under section 611 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

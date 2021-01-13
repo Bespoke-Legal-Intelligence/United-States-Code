@@ -32,7 +32,7 @@ Rule of Construction.—Nothing in this section shall be construed to provide an
 
 (f)
 
-Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
+Collective Self-defense Notification Requirement.—Not later than 48 hours after thedate on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
 
 (Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953.)
 
@@ -114,7 +114,7 @@ Elements.—The policy required by subsection (a) shall address the following:
 
 &emsp;"(3) The procedure by which a proposal that any member or unit of the United States Armed Forces provide collective self-defense in support of designated foreign nationals, their facilities, and their property is to be submitted, processed, and endorsed through offices, officers, and officials of the Department to the applicable approval authority for final decision, and a list of any information, advice, or opinion to be included with such proposal in order to inform appropriate action on such proposal by such approval authority.
 
-&emsp;"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph (3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
+&emsp;"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph\(3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
 
 &emsp;"(5) A description of the Rules of Engagement applicable to the provision of collective self-defense to designated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such Rules of Engagement would be modified.
 

@@ -22,7 +22,7 @@ In carrying out the Congressional Award Program, the Board shall—
 
 #### (c) Presentation of awards
 
-The Board shall arrange for the presentation of the awards to the recipients and shall providefor participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress in connection with the presentation of the awards.
+The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress in connection with the presentation of the awards.
 
 #### (d) Scholarships for recipients of Congressional Award Gold, Silver, and Bronze Medals
 
@@ -45,6 +45,8 @@ The Board may award scholarships in such amounts as the Board determines to be a
 &emsp;There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
 (Pub. L. 96–114, title I, §102, formerly §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, §1(a), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §102, and amended Pub. L. 106–533, §1(b)(1), (2), (4), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(a), July 7, 2010, 124 Stat. 1368.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

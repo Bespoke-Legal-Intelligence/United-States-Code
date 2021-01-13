@@ -24,11 +24,7 @@ In general.—In addition to the sum of the revenues and collections estimated b
 
 Receipts under outer continental shelf lands act.—To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
-&emsp;(3)
-
-Availability of deposits.—Notwithstanding section 200303 of this title, money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.
-
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171; Pub. L. 114–113, div. O, title VIII, §801(a), Dec. 18, 2015, 129 Stat. 3030; Pub. L. 116–9, title III, §3001(a), Mar. 12, 2019, 133 Stat. 754.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171; Pub. L. 114–113, div. O, title VIII, §801(a), Dec. 18, 2015, 129 Stat. 3030; Pub. L. 116–9, title III, §3001(a), Mar. 12, 2019, 133 Stat. 754; Pub. L. 116–152, §3(b)(1), Aug. 4, 2020, 134 Stat. 687.)
 
 Historical and Revision Notes
 
@@ -50,11 +46,15 @@ In subsection (b), the words "section 572(a) or 574(a) to (c) of title 40" are s
 
 In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word "thereafter" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(3). Pub. L. 116–152 struck out par. (3). Text read as follows: "Notwithstanding section 200303 of this title, money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter."
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–9, §3001(a)(1), substituted "There" for "During the period ending September 30, 2018, there" in introductory provisions.
 
@@ -64,6 +64,8 @@ Subsec. (c)(1). Pub. L. 116–9, §3001(a)(2), struck out "through September 30,
 
 Subsec. (c)(1). Pub. L. 114–113, §801(a)(2), substituted "September 30, 2018" for "September 30, 2015".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of "Golden Eagle Insignia"
 
 Pub. L. 92–347, §3(a), July 11, 1972, 86 Stat. 461, provided that: "The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of 'The Golden Eagle Insignia', originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund."
@@ -71,6 +73,8 @@ Pub. L. 92–347, §3(a), July 11, 1972, 86 Stat. 461, provided that: "The Secre
 #### Termination of Rights in "Golden Eagle Insignia"
 
 Pub. L. 92–347, §3(d), July 11, 1972, 86 Stat. 462, provided that: "The rights in 'The Golden Eagle Insignia' under this Act \[see Tables for classification\], shall terminate if the use by the Secretary of the Interior of 'The Golden Eagle Insignia' is abandoned. Nonuse for a continuous period of two years shall constitute abandonment."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11200. Establishment of Recreation User Fees
 

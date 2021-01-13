@@ -14,9 +14,13 @@ Definition.—As used in this section, the term "victim" includes all persons de
 
 (Added Pub. L. 105–6, §2(a), Mar. 19, 1997, 111 Stat. 12.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 503(e)(2) of the Victims' Rights and Restitution Act of 1990, referred to in subsec. (c), is classified to section 20141(e)(2) of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

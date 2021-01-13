@@ -72,6 +72,8 @@ July 14, 1956, ch. 600, §2 (2d, last sentences), 70 Stat. 544; Pub. L. 86–583
 
 In subsection (b), in restating 46 App. U.S.C. 883a (2d, last sentences), the penalty of $200 for the owner and master of the vessel is omitted because subsection (a) provides a general civil penalty for violation of this chapter. The authority to remit or mitigate a penalty under section 2107(b) is omitted because section 2107(b) applies to subtitle II and this section is in subtitle II.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–213 designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2), a person that violates" for "A person that violates" and "$15,000" for "$10,000", and added par. (2).

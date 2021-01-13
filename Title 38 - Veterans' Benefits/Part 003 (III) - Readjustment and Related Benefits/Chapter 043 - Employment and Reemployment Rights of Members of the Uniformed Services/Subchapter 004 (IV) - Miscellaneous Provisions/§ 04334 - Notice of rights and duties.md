@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Provide Notice.—Each employer shall provide to persons entitled torights and benefits under this chapter a notice of the rights, benefits, and obligations of such persons and such employers under this chapter. The requirement for the provision of notice under this section may be met by the posting of the notice where employers customarily place notices for employees.
+Requirement To Provide Notice.—Each employer shall provide to persons entitled to rights and benefits under this chapter a notice of the rights, benefits, and obligations of such persons and such employers under this chapter. The requirement for the provision of notice under this section may be met by the posting of the notice where employers customarily place notices for employees.
 
 (b)
 
@@ -10,9 +10,13 @@ Content of Notice.—The Secretary shall provide to employers the text of the no
 
 (Added Pub. L. 108–454, title II, §203(a), Dec. 10, 2004, 118 Stat. 3606.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4334 was renumbered section 7634 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -32,23 +32,31 @@ In this part:
 
 &emsp;The term "advanced nuclear reactor" means—
 
-&emsp;&emsp;(A) a nuclear fission reactor with significant improvements over the most recent generation of nuclear fission reactors, which may include—
+&emsp;&emsp;(A) a nuclear fission reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (or successor regulations)), with significant improvements compared to reactors operating on December 27, 2020, including improvements such as—
 
-&emsp;&emsp;&emsp;(i) inherent safety features;
+&emsp;&emsp;&emsp;(i) additional inherent safety features;
 
 &emsp;&emsp;&emsp;(ii) lower waste yields;
 
-&emsp;&emsp;&emsp;(iii) greater fuel utilization;
+&emsp;&emsp;&emsp;(iii) improved fuel and material performance;
 
-&emsp;&emsp;&emsp;(iv) superior reliability;
+&emsp;&emsp;&emsp;(iv) increased tolerance to loss of fuel cooling;
 
-&emsp;&emsp;&emsp;(v) resistance to proliferation;
+&emsp;&emsp;&emsp;(v) enhanced reliability or improved resilience;
 
-&emsp;&emsp;&emsp;(vi) increased thermal efficiency; and
+&emsp;&emsp;&emsp;(vi) increased proliferation resistance;
 
-&emsp;&emsp;&emsp;(vii) the ability to integrate into electric and nonelectric applications; or
+&emsp;&emsp;&emsp;(vii) increased thermal efficiency;
 
-&emsp;&emsp;(B) a nuclear fusion reactor.
+&emsp;&emsp;&emsp;(viii) reduced consumption of cooling water and other environmental impacts;
+
+&emsp;&emsp;&emsp;(ix) the ability to integrate into electric applications and nonelectric applications;
+
+&emsp;&emsp;&emsp;(x) modular sizes to allow for deployment that corresponds with the demand for electricity or process heat; and
+
+&emsp;&emsp;&emsp;(xi) operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage; and
+
+&emsp;&emsp;(B) a fusion reactor.
 
 #### (2) Commission
 
@@ -80,9 +88,11 @@ In this part:
 
 &emsp;&emsp;(B) testing of advanced materials, nuclear fuels, and other related components for reactor systems.
 
-(Pub. L. 109–58, title IX, §951, Aug. 8, 2005, 119 Stat. 884; Pub. L. 115–248, §2(a), Sept. 28, 2018, 132 Stat. 3154.)
+(Pub. L. 109–58, title IX, §951, Aug. 8, 2005, 119 Stat. 884; Pub. L. 115–248, §2(a), Sept. 28, 2018, 132 Stat. 3154; Pub. L. 116–260, div. Z, title II, §2002, Dec. 27, 2020, 134 Stat. 2459.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–260 amended par. (1) generally. Prior to amendment, par. (1) defined the term "advanced nuclear reactor".
 
 <b>2018</b>—Pub. L. 115–248 amended section generally. Prior to amendment, section related to civilian nuclear energy research programs and authorizations of appropriations to carry out such programs.
 

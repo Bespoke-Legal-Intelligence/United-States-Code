@@ -4,7 +4,7 @@ For purposes of this subpart:
 
 #### (1) Economic loss
 
-&emsp;The term "economic loss" means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+&emsp;The term "economic loss" means any pecuniary loss resulting from harm (including theloss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
 #### (2) Harm
 
@@ -40,7 +40,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(D) an individual member of a school board (as distinct from the board).
 
-(Pub. L. 89–10, title VIII, §8553, formerly title II, §2363, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9543,renumbered title VIII, §8553, Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8553, formerly title II, §2363, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9543, renumbered title VIII, §8553, Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
 
 #### Codification
 

@@ -196,6 +196,8 @@ The Director shall make grants to institutions of higher education for the train
 
 (Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 113–128, title IV, §433, July 22, 2014, 128 Stat. 1661; Pub. L. 114–95, title IX, §9215(mmm)(1), Dec. 10, 2015, 129 Stat. 2188.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(10), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act was renumbered section 507 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -226,7 +228,7 @@ Subsec. (b)(2)(B). Pub. L. 113–128, §433(3)(A), added subpar. (B) and struck 
 
 Subsec. (b)(3). Pub. L. 113–128, §433(3)(B), substituted "on disability, independent living, and rehabilitation" for "in rehabilitation".
 
-Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independent living," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
+Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independentliving," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
 Subsec. (b)(6). Pub. L. 113–128, §433(3)(D), substituted "advances in disability, independent living, and rehabilitation" for "advances in rehabilitation" and inserted "education, health and wellness," after "employment, independent living,".
 
@@ -274,6 +276,8 @@ Subsecs. (k) to (m). Pub. L. 113–128, §433(8), added subsecs. (k) to (m) and 
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -288,7 +292,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### References to National Institute of Handicapped Research Amended or Deemed To Be References to National Institute on Disability and Rehabilitation Research
 
-Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: "The Act \[this chapter\] is amended by striking out 'National Institute of Handicapped Research' each place it appears in the Act (including the table of contents) and inserting in lieu thereof 'National Institute on Disability and Rehabilitation Research'. Any reference in any other provision of law to the 'National Institute of Handicapped Research' shall be considered to be a reference to the 'National Institute on Disability and Rehabilitation Research'."
+Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: "The Act \[this chapter\] is amended by striking out 'National Institute of Handicapped Research' each place it appears in the Act (including the table of contents) and inserting in lieu thereof 'National Institute on Disability and Rehabilitation Research'. Any reference in any other provision of law to the 'National Institute of Handicapped Research' shallbe considered to be a reference to the 'National Institute on Disability and Rehabilitation Research'."
 
 \[Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.\]
 

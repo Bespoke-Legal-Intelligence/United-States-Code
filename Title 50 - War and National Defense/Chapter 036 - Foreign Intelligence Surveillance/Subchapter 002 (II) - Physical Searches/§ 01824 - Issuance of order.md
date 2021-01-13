@@ -2,7 +2,7 @@
 
 #### (a) Necessary findings
 
-Upon an application made pursuant to section 1823 of this title, the judge shall enter an exparte order as requested or as modified approving the physical search if the judge finds that—
+Upon an application made pursuant to section 1823 of this title, the judge shall enter an ex parte order as requested or as modified approving the physical search if the judge finds that—
 
 &emsp;(1) the application has been made by a Federal officer and approved by the Attorney General;
 
@@ -64,7 +64,7 @@ An order approving a physical search under this section shall—
 
 &emsp;(B) reasonably determines that the factual basis for issuance of an order under this subchapter to approve such physical search exists;
 
-&emsp;(C) informs, either personally or through a designee, a judge of the Foreign IntelligenceSurveillance Court at the time of such authorization that the decision has been made to employ an emergency physical search; and
+&emsp;(C) informs, either personally or through a designee, a judge of the Foreign Intelligence Surveillance Court at the time of such authorization that the decision has been made to employ an emergency physical search; and
 
 &emsp;(D) makes an application in accordance with this subchapter to a judge of the Foreign Intelligence Surveillance Court as soon as practicable, but not more than 7 days after the Attorney General authorizes such physical search.
 

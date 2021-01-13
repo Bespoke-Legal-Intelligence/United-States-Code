@@ -16,7 +16,7 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (1) Capital advances
 
-&emsp;A capital advance provided under this section shall bear no interest and its repaymentshall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
+&emsp;A capital advance provided under this section shall bear no interest and its repayment shall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
 
 #### (2) Project rental assistance
 
@@ -268,7 +268,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 &emsp;&emsp;(ii) which has a governing board—
 
-&emsp;&emsp;&emsp;(I) the membership of which is selected in a manner to assure that there is significant representation of the views of thecommunity in which such housing is located; and
+&emsp;&emsp;&emsp;(I) the membership of which is selected in a manner to assure that there is significant representation of the views of the community in which such housing is located; and
 
 &emsp;&emsp;&emsp;(II) which is responsible for the operation of the housing assisted under this section, except that, in the case of a nonprofit organization that is the sponsoring organization of multiple housing projects assisted under this section, the Secretary may determine the criteria or conditions under which financial, compliance and other administrative responsibilities exercised by a single-entity private nonprofit organization that is the owner corporation responsible for the operation of an individual housing project may be shared or transferred to the governing board of such sponsoring organization; and
 
@@ -286,7 +286,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 (6) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-(7) The term "supportive housing for the elderly" means housing that is designed (A) to meet the special physical needs of elderly persons and (B) to accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons that the housing is intended to serve.
+(7) The term "supportive housing for the elderly" means housing that is designed (A) to meet the special physical needs of elderly persons and (B) to accommodate the provision of supportive services that are expected to be needed, eitherinitially or over the useful life of the housing, by the category or categories of elderly persons that the housing is intended to serve.
 
 (8) The term "very low-income" has the same meaning as given the term "very low-income families" under section 1437a(b)(2) of title 42.
 
@@ -308,17 +308,33 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 There is authorized to be appropriated for providing assistance under this section $710,000,000 for fiscal year 2000.
 
-#### (m) <sup>2</sup> Authorization of appropriations
+#### (m) <sup>1</sup> Authorization of appropriations
 
 There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title II, §223(a)(1), (b)–(e)\], Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079; Pub. L. 113–76, div. L, title II, §241, Jan. 17, 2014, 128 Stat. 636.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title II, §223(a)(1), (b)–(e)\], Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079; Pub. L. 113–76, div. L, title II, §241, Jan. 17, 2014, 128 Stat. 636; Pub. L. 116–260, div. Q, title I, §101(c), Dec. 27, 2020, 134 Stat. 2163.)
+
+#### Amendment of Subsection (j)
+
+<i>Pub. L. 116–260, div. Q, title I, §101(c), (h), Dec. 27, 2020, 134 Stat. 2163, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:</i>
+
+#### <i>"(9) Carbon monoxide alarms</i>
+
+<i>"Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—</i>
+
+&emsp;<i>"(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or</i>
+
+&emsp;<i>"(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register."</i>
+
+<i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
 
-The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -331,6 +347,8 @@ The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j)(9). Pub. L. 116–260 added par. (9).
 
 <b>2014</b>—Subsec. (f)(2)(A). Pub. L. 113–76, §241(a)(1), in introductory provisions, substituted "The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—" for "In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—".
 
@@ -394,7 +412,7 @@ Subsec. (j)(5). Pub. L. 102–550, §913(a), amended par. (5) generally. Prior t
 
 "(A)
 
-In general.—Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this subtitle shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 276a–276a–5), shall be paid to all laborers and mechanics employed in the development of affordable housing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+In general.—Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this subtitle shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 276a–276a–5), shall be paid to all laborers and mechanics employed in the development of affordablehousing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 "(B)
 
@@ -588,6 +606,12 @@ Subsec. (c)(3). Pub. L. 87–70, §201(a)(4), substituted "credited to the corpo
 
 Subsec. (e). Pub. L. 87–70, §201(d), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. Q, title I, §101(h), Dec. 27, 2020, 134 Stat. 2165, provided that: "The amendments made by subsections (b) through (e) \[amending this section and sections 1437a, 1437f, 8013, and 12905 of Title 42, The Public Health and Welfare\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Dec. 27, 2020\]."
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–569, title VIII, §803, Dec. 27, 2000, 114 Stat. 3019, provided that:
@@ -622,9 +646,9 @@ Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in
 
 Pub. L. 101–625, title VIII, §801(c), Nov. 28, 1990, 104 Stat. 4304, provided that: "The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\]."
 
-Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, orafter Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
+Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
-Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, andenacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
 
 #### Effective Date of 1988 Amendment
 
@@ -653,6 +677,10 @@ Pub. L. 87–723, §3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amendm
 #### Regulations
 
 Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: "The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553."
+
+#### Construction of 2020 Amendment
+
+Nothing in amendment made by section 101(c) of Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under section 1437a of Title 42, The Public Health and Welfare.
 
 #### Rental Assistance Contract Obligations
 
@@ -1076,5 +1104,5 @@ Pub. L. 93–383, title II, §210(g), Aug. 22, 1974, 88 Stat. 671, provided that
 
 "(2) The Secretary shall insure that with the original approval of a project authorized pursuant to section 202 of the Housing Act of 1959, and thereafter at each annual revision of the assistance contract under section 8 of the United States Housing Act of 1937 with respect to units in such project, the project will serve both low- and moderate-income families in a mix which he determines to be appropriate for the area and for viable operation of the project; except that the Secretary shall not permit maintenance of vacancies to await tenants of one income level where tenants of another income level are available."
 
-<i><sup>2</sup></i><i> So in original. Probably should be "(n)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(n)".</i>
 

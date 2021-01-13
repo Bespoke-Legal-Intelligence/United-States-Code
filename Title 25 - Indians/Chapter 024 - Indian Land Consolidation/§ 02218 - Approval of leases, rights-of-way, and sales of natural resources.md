@@ -88,13 +88,15 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (f) Rule of construction
 
-Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
+Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards forthe percentage of ownership interest that must approve a lease or agreement on a specified reservation.
 
 #### (g) Other laws
 
 Nothing in this chapter shall be construed to supersede, repeal, or modify any general or specific statute authorizing the grant or approval of any type of land use transaction involving fractional interests in trust or restricted land.
 
 (Pub. L. 97–459, title II, §219, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2004; amended Pub. L. 108–374, §6(a)(10), (11), Oct. 27, 2004, 118 Stat. 1804.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

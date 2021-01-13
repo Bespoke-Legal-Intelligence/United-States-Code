@@ -2,7 +2,7 @@
 
 #### (a) Emergency assistance; reports to Speaker of House and committees of Senate
 
-(1) Notwithstanding any other provision of law, the President is authorized to use funds made available to carry out any provision of this chapter (other than the provisions of part I of this subchapter) in order to provide, for any unanticipated contingencies, assistance authorized by subchapter I of this chapter in accordance with the provisions applicable to the furnishing of such assistance, except that the authority of this subsection may not be used to authorize the use of more than $25,000,000 during any fiscal year.
+(1) Notwithstanding any other provision of law, the President is authorized to use fundsmade available to carry out any provision of this chapter (other than the provisions of part I of this subchapter) in order to provide, for any unanticipated contingencies, assistance authorized by subchapter I of this chapter in accordance with the provisions applicable to the furnishing of such assistance, except that the authority of this subsection may not be used to authorize the use of more than $25,000,000 during any fiscal year.
 
 (2) The President shall report promptly to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate each time he exercises the authority contained in this subsection.
 
@@ -14,17 +14,11 @@ No part of this fund shall be used to pay for any gifts to any officials of any 
 
 (Pub. L. 87–195, pt. I, §451, Sept. 4, 1961, 75 Stat. 434; Pub. L. 87–565, pt. I, §109, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §110, Dec. 16, 1963, 77 Stat. 384; Pub. L. 88–633, pt. I, §108, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §108, Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–371, §2, Mar. 18, 1966, 80 Stat. 74; Pub. L. 89–583, pt. I, §109, Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §112, Nov. 14, 1967, 81 Stat. 455; Pub. L. 90–554, pt. I, §110, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §110, Dec. 30, 1969, 83 Stat. 819; Pub. L. 91–652, §6(a), Jan. 5, 1971, 84 Stat. 1942; Pub. L. 92–226, pt. I, §108, Feb. 7, 1972, 86 Stat. 24; Pub. L. 93–189, §10, Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §28(c), Dec. 30, 1974, 88 Stat. 1803; Pub. L. 94–329, title V, §503(2), June 30, 1976, 90 Stat. 763; Pub. L. 95–92, §2, Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §2, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §2(b), Oct. 29, 1979, 93 Stat. 701; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 101–513, title V, §588, Nov. 5, 1990, 104 Stat. 2056.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-
-References to part I of this subchapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Amendments
 
@@ -48,7 +42,7 @@ Subsec. (b). Pub. L. 93–559 substantially reenacted subsec. (b) provisions, su
 
 Subsec. (c). Pub. L. 93–559 added subsec. (c).
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–189 substituted provisions authorizing the appropriation of not to exceed $30,000,000 for each of the fiscal years 1974 and 1975, for provisions authorizing the appropriation of not to exceed $30,000,000 for each of the fiscal years 1972 and 1973, substituted "to provide assistance authorized by this subchapter primarily for disaster relief purposes, in accordance with the provisions applicable to the furnishing of such assistance", for "for use by the President for assistance authorized by this subchapter in accordance with the provisions applicable to the furnishing of such assistance, when he determines such use to be important to the national interest", and struck out a proviso for the use of $15,000,000, in addition to any otheravailable funds, out of the funds appropriated for fiscal year 1971 for the flood victims of the East Pakistan flood.
+<b>1973</b>—Subsec. (a). Pub. L. 93–189 substituted provisions authorizing the appropriation of not to exceed $30,000,000 for each of the fiscal years 1974 and 1975, for provisions authorizing the appropriation of not to exceed $30,000,000 for each of the fiscal years 1972 and 1973, substituted "to provide assistance authorized by this subchapter primarily for disaster relief purposes, in accordance with the provisions applicable to the furnishing of such assistance", for "for use by the President for assistance authorized by this subchapter in accordance with the provisions applicable to the furnishing of such assistance, when he determines such use to be important to the national interest", and struck out a proviso for the use of $15,000,000, in addition to any other available funds, out of the funds appropriated for fiscal year 1971 for the flood victims of the East Pakistan flood.
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–226 authorized appropriations not to exceed $30,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of not to exceed $15,000,000 for fiscal year 1970, and not to exceed $30,000,000 for fiscal year 1971.
 
@@ -78,11 +72,23 @@ Subsec. (b). Pub. L. 89–171, §108(b), substituted "the first sentence of subs
 
 Subsec. (b). Pub. L. 87–565, §109(b), substituted "provide quarterly reports to" for "keep", and "on the programing and the obligation" for "currently informed of the use".
 
-#### Delegation of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of this subchapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Appropriation for Disaster Relief of Unallocated Excess Foreign Currencies Held in Pakistan
 
 Pub. L. 91–652, §6(b), Jan. 5, 1971, 84 Stat. 1943, authorized the appropriation of excess foreign currencies held in Pakistan not allocated on Jan. 5, 1971, for a period of one year from such date to help Pakistan withstand the disaster which had occurred.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

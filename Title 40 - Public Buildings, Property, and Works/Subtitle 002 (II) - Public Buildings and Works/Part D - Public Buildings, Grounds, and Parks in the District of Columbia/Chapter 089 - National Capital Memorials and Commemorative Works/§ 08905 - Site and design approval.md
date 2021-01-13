@@ -112,6 +112,8 @@ Pub. L. 99–652, §7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §2(d),
 
 40:1007(b).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(7). Pub. L. 113–291, §3054(c)(1), struck out par. (7). Text read as follows: "Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site."
@@ -127,6 +129,8 @@ Subsec. (b). Pub. L. 108–126, §203(e)(2)(A), substituted "and the Secretary o
 Subsec. (b)(2)(B). Pub. L. 108–126, §203(e)(2)(B), substituted "open space, existing public use, and cultural and natural resources." for "open space and existing public use."
 
 Subsec. (b)(5) to (7). Pub. L. 108–126, §204, added pars. (5) to (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

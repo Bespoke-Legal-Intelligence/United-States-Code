@@ -38,9 +38,13 @@
 
 (Added Pub. L. 102–585, title V, §511(a)(1), Nov. 4, 1992, 106 Stat. 4955; amended Pub. L. 103–446, title XII, §1201(c)(5), Nov. 2, 1994, 108 Stat. 4683.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsecs. (a)(1), (3), (c)(4). Pub. L. 103–446 substituted "Under Secretary for Health" for "Chief Medical Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Selection of Facility at Which Center To Be Established
 

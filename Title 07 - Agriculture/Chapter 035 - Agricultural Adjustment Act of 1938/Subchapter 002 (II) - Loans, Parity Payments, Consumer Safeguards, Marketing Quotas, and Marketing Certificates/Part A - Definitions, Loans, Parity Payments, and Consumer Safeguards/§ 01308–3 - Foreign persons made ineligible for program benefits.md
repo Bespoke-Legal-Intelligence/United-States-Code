@@ -4,7 +4,7 @@ Notwithstanding any other provision of law:
 
 #### (a) In general
 
-Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),<sup>1</sup> or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
+Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type ofloans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),<sup>1</sup> or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
 
 #### (b) Corporations or other entities
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 113–79 applicable beginning with the 2014 crop year, see 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1990 Amendment
 

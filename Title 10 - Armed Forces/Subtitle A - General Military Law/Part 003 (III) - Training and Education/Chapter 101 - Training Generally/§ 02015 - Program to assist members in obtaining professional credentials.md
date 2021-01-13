@@ -84,6 +84,38 @@ Subsec. (c)(2). Pub. L. 114–328, §561(b)(2), added par. (2) and struck out fo
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
+#### Improvements to the Credentialing Opportunities On-Line Programs of the Armed Forces
+
+Pub. L. 116–283, div. A, title V, §578, Jan. 1, 2021, 134 Stat. 3649, provided that:
+
+"(a)
+
+Study on Performance Measures.—The Secretary of Defense shall conduct a study to determine additional performance measures to evaluate the effectiveness of the Credentialing Opportunities On-Line programs (in this section referred to as the 'COOL programs') of each Armed Force in connecting members of the Armed Forces with professional credential programs. The study shall include the following:
+
+&emsp;"(1) The percentage of members of the Armed Force concerned described in section 1142(a) of title 10, United States Code, who participate in a professional credential program through the COOL program of the Armed Force concerned.
+
+&emsp;"(2) The percentage of members of the Armed Force concerned described in paragraph (1) who have completed a professional credential program described in that paragraph.
+
+&emsp;"(3) The amount of funds obligated and expended to execute the COOL program of each Armed Force during the five fiscal years immediately preceding the date of the study.
+
+&emsp;"(4) Any other element determined by the Secretary of Defense.
+
+"(b)
+
+Information Tracking.—The Secretary of Defense shall establish a process to standardize the tracking of information regarding the COOL programs across the Armed Forces.
+
+"(c)
+
+Coordination.—To carry out this section, the Secretary of Defense may coordinate with the Secretaries of Veterans Affairs and Labor.
+
+"(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on—
+
+&emsp;"(1) the study conducted under subsection (a); and
+
+&emsp;"(2) the process established under subsection (b), including a timeline to implement such process."
+
 #### Programs To Facilitate the Award of Private Pilot's Certificates
 
 Pub. L. 116–92, div. A, title V, §560B, Dec. 20, 2019, 133 Stat. 1393, provided that:
@@ -118,7 +150,7 @@ In general.—In carrying out a program under subsection (a), the Secretary of a
 
 &emsp;"(2)
 
-Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot's certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for any portion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot's certificate, regardless of whether the participant fully completed the ground school course of instruction.
+Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot's certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for anyportion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot's certificate, regardless of whether the participant fully completed the ground school course of instruction.
 
 "(d)
 
@@ -232,7 +264,7 @@ Improvement of Access of Accredited Civilian Credentialing and Related Entities 
 
 &emsp;"(1)
 
-In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as militarycourse training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
+In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
 
 &emsp;"(2)
 

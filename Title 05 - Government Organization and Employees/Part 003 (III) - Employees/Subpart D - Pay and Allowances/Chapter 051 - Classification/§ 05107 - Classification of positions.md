@@ -22,9 +22,13 @@ The words "to which this chapter applies" are omitted as unnecessary in view of 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission", "Office" for "Commission", and "subchapter VI of chapter 53" for "section 5337".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

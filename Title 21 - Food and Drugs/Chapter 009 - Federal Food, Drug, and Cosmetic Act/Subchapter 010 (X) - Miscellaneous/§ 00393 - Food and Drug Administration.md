@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established in the Department of Health and Human Services the Food and Drug Administration (hereinafter in this section referred to as the "Administration").
+There is established in the Department of Health and Human Services the Food and DrugAdministration (hereinafter in this section referred to as the "Administration").
 
 #### (b) Mission
 
@@ -124,6 +124,8 @@ The Secretary shall make the reports required under subsection (h) available to 
 
 (June 25, 1938, ch. 675, §1003, formerly §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4, 1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377; renumbered §1003 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(m), June 22, 2009, 123 Stat. 1784, 1838; Pub. L. 111–353, title II, §201(b), Jan. 4, 2011, 124 Stat. 3925.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsecs. (h), (i). Pub. L. 111–353 added subsecs. (h) and (i).
@@ -140,6 +142,8 @@ Subsecs. (f), (g). Pub. L. 105–115, §406(b), added subsecs. (f) and (g).
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted "shall be responsible for executing this chapter and" for "shall be responsible".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
@@ -154,7 +158,7 @@ Pub. L. 100–607, title V, §503(c), Nov. 4, 1988, 102 Stat. 3121, provided tha
 
 #### Office of Minor Use and Minor Species Animal Drug Development
 
-Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health andHuman Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
+Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health and Human Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
 
 #### Regulations for Sunscreen Products
 
@@ -230,7 +234,7 @@ HHS Report.—Not later than 1 year after the date of enactment of this Act \[Ju
 
 "(b)
 
-GAO Report.—Not later than January 1, 2016, the Comptroller General of the United States shall issue a report regarding the strategic plan described in subsection (a)(1)(A) and related actions carried out by the Food and Drug Administration. Such report shall assess the progress the Food and Drug Administration has made on—
+GAO Report.—Not later than January 1, 2016, the Comptroller General of the United States shall issue a report regarding the strategic plan described in subsection (a)(1)(A) and related actions carried out by the Food and Drug Administration. Such report shallassess the progress the Food and Drug Administration has made on—
 
 &emsp;"(1) the development and implementation of a comprehensive information technology strategic plan, including the results-oriented goals, strategies, milestones, and performance measures identified in subsection (a)(1)(A);
 

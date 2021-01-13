@@ -10,7 +10,7 @@ Allowance for Family Members and Certain Others.—(1) Under uniform regulations
 
 &emsp;(B) no other family member who is eligible for travel and transportation under subsection (a) is able to serve as an attendant for the family member.
 
-(3) If no family member of an employee described in subsection (b) is able to travel to the repatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
+(3) If no family member of an employee described in subsection (b) is able to travel to therepatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
 
 (b)
 
@@ -38,11 +38,15 @@ Travel and Transportation Authorized.—(1) The transportation authorized by sub
 
 (Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
 <b>2011</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h(b)" for "411h(b)" in subsec. (c), "474(d)" for "404(d)" in subsec. (d)(2), and "481h(d)(1)" for "411h(d)(1)" in subsec. (d)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

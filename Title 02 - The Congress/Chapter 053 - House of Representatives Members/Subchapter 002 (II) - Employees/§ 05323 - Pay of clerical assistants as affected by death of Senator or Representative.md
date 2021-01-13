@@ -4,9 +4,13 @@ When a Senator <sup>1</sup> or Member of the House of Representatives or Delega
 
 (Feb. 23, 1927, ch. 168, §1, 44 Stat. 1148.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 92a of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability to Employees of Senate
 

@@ -34,7 +34,7 @@ The Administrator shall encourage waste treatment management which combines "ope
 
 #### (g) Grants to construct publicly owned treatment works
 
-(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title\(including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
+(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
 
 (2) The Administrator shall not make grants from funds authorized for any fiscal year beginning after June 30, 1974, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that—
 
@@ -70,7 +70,7 @@ The Administrator is authorized to make a grant for any treatment works utilizin
 
 #### (k) Limitation on use of grants for publicly owned treatment works
 
-No grant made after November 15, 1981, for a publicly owned treatment works, other than forfacility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater, which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
+No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater, which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
 
 #### (l) Grants for facility plans, or plans, specifications, and estimates for proposed project for construction of treatment works; limitations, allotments, advances, etc.
 
@@ -94,7 +94,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
-(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
+(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized insection 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
 #### (o) Capital financing plan
 
@@ -110,7 +110,9 @@ The Administrator shall encourage and assist applicants for grant assistance und
 
 In any case in which a dispute arises with respect to the awarding of a contract for construction of treatment works by a grantee of funds under this subchapter and a party to such dispute files an appeal with the Administrator under this subchapter for resolution of such dispute, the Administrator shall make a final decision on such appeal within 90 days of the filing of such appeal.
 
-(June 30, 1948, ch. 758, title II, §201, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 833; amended Pub. L. 95–217, §§12–16, Dec. 27, 1977, 91 Stat. 1569, 1570; Pub. L. 96–483, §§2(d), 3, Oct. 21,1980, 94 Stat. 2361; Pub. L. 97–117, §§2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, 95 Stat. 1623–1626; Pub. L. 100–4, title II, §201, title III, §316(c), Feb. 4, 1987, 101 Stat. 15, 60.)
+(June 30, 1948, ch. 758, title II, §201, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 833; amended Pub. L. 95–217, §§12–16, Dec. 27, 1977, 91 Stat. 1569, 1570; Pub. L. 96–483, §§2(d), 3, Oct. 21, 1980, 94 Stat. 2361; Pub. L. 97–117, §§2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, 95 Stat. 1623–1626; Pub. L. 100–4, title II, §201, title III, §316(c), Feb. 4, 1987, 101 Stat. 15, 60.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -143,6 +145,8 @@ Subsec. (h). Pub. L. 95–217, §14, added subsec. (h).
 Subsec. (i). Pub. L. 95–217, §15, added subsec. (i).
 
 Subsec. (j). Pub. L. 95–217, §16, added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -216,7 +220,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Grants to Indian Tribes for Pollution Prevention, Control and Abatement
 
-Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1373, provided in part that: "$745,000,000 for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities pursuant to the provisions set forth under this heading in Public Law 104–134 \[see below\], provided that eligible recipients of these funds and the funds made availablefor this purpose since fiscal year 1996 and hereafter include States, federally recognized tribes, interstate agencies, tribal consortia, and air pollution control agencies, as provided in authorizing statutes, subject to such terms and conditions as the Administrator shall establish, and for making grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] for particulate matter monitoring and data collection activities".
+Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1373, provided in part that: "$745,000,000 for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities pursuant to the provisions set forth under this heading in Public Law 104–134 \[see below\], provided that eligible recipients of these funds and the funds made available for this purpose since fiscal year 1996 and hereafter include States, federally recognized tribes, interstate agencies, tribal consortia, and air pollution control agencies, as provided in authorizing statutes, subject to such terms and conditions as the Administrator shall establish, and for making grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] for particulate matter monitoring and data collection activities".
 
 Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1374, provided in part: "That, hereafter from funds appropriated under this heading \["
 
@@ -260,7 +264,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(a) \[Short Title\] This section may be cited as the Environmental Financing Act of 1972.
 
-"(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental Financing Authority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
+"(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental FinancingAuthority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
 
 "(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
@@ -270,7 +274,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to make commitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
 
-"(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonable terms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper toprotect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
+"(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonable terms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper to protect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
 
 "(3) No purchase shall be made of obligations issued to finance projects, the permanent financing of which occurred prior to the enactment of this section \[Oct. 18, 1972\].
 
@@ -316,7 +320,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(n) \[Subsec. (n) amended section 24 of Title 12, Banks and Banking, and is not set out herein.\]
 
-"(o) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to theEnvironmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
+"(o) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 "(p) \[Subsec. (p) amended section 711 of former Title 31, Money and Finance, and is not set out herein.\]"
 

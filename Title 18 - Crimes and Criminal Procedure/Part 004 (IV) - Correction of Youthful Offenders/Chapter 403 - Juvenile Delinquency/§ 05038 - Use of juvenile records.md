@@ -24,9 +24,11 @@
 
 (e) Unless a juvenile who is taken into custody is prosecuted as an adult neither the name nor picture of any juvenile shall be made public in connection with a juvenile delinquency proceeding.
 
-(f) Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committingan act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of section 5032 of this title, the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
+(f) Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense describedin the second sentence of the fourth paragraph of section 5032 of this title, the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
 
 (Added Pub. L. 93–415, title V, §508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, §8(b), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, §140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, §601(f)(16), (o), Oct. 11, 1996, 110 Stat. 3500, 3502.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -46,11 +48,13 @@ Subsec. (f). Pub. L. 104–294 substituted "section 401 of the Controlled Substa
 
 <b>1977</b>—Subsec. (a)(6). Pub. L. 95–115 added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under section 11101 of Title 34, Crime Control and Law Enforcement.
 
 #### Repeals
 
-Section 508 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §508, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 

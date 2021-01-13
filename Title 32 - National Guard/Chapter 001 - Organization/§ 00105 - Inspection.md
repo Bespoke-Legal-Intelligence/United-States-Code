@@ -20,7 +20,7 @@
 
 (c) The Chief of the National Guard Bureau may have an inspection described in subsection (a) made by inspectors general, or by commissioned officers of the Army National Guard of the United States or the Air National Guard of the United States detailed for that purpose, on behalf of the Secretary of the Army or the Secretary of the Air Force. Any such inspection may be made only with the approval of the Secretary of the Army or the Secretary of the Air Force, as applicable.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 95–79, title VIII, §804(a), July 30, 1977, 91 Stat. 333; Pub. L. 102–484, div. A, title XI, §1122, Oct. 23, 1992, 106 Stat. 2540; Pub. L. 116–92, div. A, title V, §517, Dec. 20, 2019, 133 Stat. 1349.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 95–79, title VIII, §804(a), July 30, 1977, 91 Stat.333; Pub. L. 102–484, div. A, title XI, §1122, Oct. 23, 1992, 106 Stat. 2540; Pub. L. 116–92, div. A, title V, §517, Dec. 20, 2019, 133 Stat. 1349.)
 
 Historical and Revision Notes
 
@@ -44,9 +44,11 @@ In subsection (a), the word "commissioned" is inserted, since 32:15 historically
 
 In subsection (a)(2), the words "provided in this title" are substituted for the words "hereinbefore prescribed".
 
-In subsection (a)(4), the words "the Army National Guard and its organizations" are substituted for the words "the organization and the officers and enlistedmen thereof". The word "uniformed" is omitted as covered by the word "equipped".
+In subsection (a)(4), the words "the Army National Guard and its organizations" are substituted for the words "the organization and the officers and enlisted men thereof". The word "uniformed" is omitted as covered by the word "equipped".
 
 In subsection (b), the words "under subsection (a)" are substituted for the word "such". The words "units and members" are substituted for the word "parts". The words "within the meaning of this title" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

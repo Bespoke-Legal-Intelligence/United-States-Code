@@ -66,7 +66,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;&emsp;(vii) bullying and harassment prevention;
 
-&emsp;&emsp;(E) in accordance with sections 7101 and 7121 of this title, child sexual abuse awareness and prevention programs or activities,such as programs or activities designed to provide—
+&emsp;&emsp;(E) in accordance with sections 7101 and 7121 of this title, child sexual abuse awareness and prevention programs or activities, such as programs or activities designed to provide—
 
 &emsp;&emsp;&emsp;(i) age-appropriate and developmentally-appropriate instruction for students in child sexual abuse awareness and prevention, including how to recognize child sexual abuse and how to safely report child sexual abuse; and
 

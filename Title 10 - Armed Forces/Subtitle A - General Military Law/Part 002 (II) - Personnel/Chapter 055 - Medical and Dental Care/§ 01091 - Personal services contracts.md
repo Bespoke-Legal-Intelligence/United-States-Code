@@ -30,9 +30,15 @@ Procedures.—(1) The Secretary shall establish by regulation procedures for ent
 
 Exceptions.—The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, §713(b), Jan. 2, 2013, 126 Stat. 1803.)
+(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, §713(b), Jan. 2, 2013, 126 Stat. 1803; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2304", which was redesignated as multiple sections.
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239 added par. (3).
 
@@ -57,6 +63,10 @@ Subsec. (a)(2). Pub. L. 107–314 substituted "December 31, 2003" for "December 
 "(b) A person with whom the Secretary contracts under this section for the provision of direct health care services under this chapter may be compensated at a rate prescribed by the Secretary concerned, but at a rate not greater than the rate of basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications in pay grade O–6 with 26 or more years of service computed under section 205 of such title."
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted "basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications" for "basic pay and allowances authorized by chapters 3 and 7 of title 37 for a commissioned officer".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -142,5 +152,5 @@ Pub. L. 103–337, div. A, title VII, §704(c), Oct. 5, 1994, 108 Stat. 2799, as
 
 #### Report on Compensation by Medical Specialty
 
-Pub. L. 103–160, div. A, title VII, §712(b), Nov. 30, 1993, 107 Stat. 1689, directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by Pub. L. 103–160, specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number of specialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
+Pub. L. 103–160, div. A, title VII, §712(b), Nov. 30, 1993, 107 Stat. 1689, directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by Pub. L. 103–160, specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number ofspecialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
 

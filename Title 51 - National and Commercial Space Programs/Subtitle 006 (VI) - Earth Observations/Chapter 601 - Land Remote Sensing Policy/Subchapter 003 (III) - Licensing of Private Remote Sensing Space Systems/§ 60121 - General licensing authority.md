@@ -72,6 +72,8 @@ Pub. L. 102–555, title II, §201, Oct. 28, 1992, 106 Stat. 4171; Pub. L. 105�
 
 In subsection (b)(2), the words "within 6 months after the date of the enactment of the Commercial Space Act of 1998" are omitted as obsolete.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Prohibition on Collection and Release of Detailed Satellite Imagery Relating to Israel
 
 Pub. L. 104–201, div. A, title X, §1064, Sept. 23, 1996, 110 Stat. 2653, provided that:

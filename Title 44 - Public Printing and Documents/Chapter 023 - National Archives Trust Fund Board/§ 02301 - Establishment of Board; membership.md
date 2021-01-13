@@ -10,6 +10,8 @@ Based on 44 U.S. Code, 1964 ed., §§300bb, 391 (part) (July 9, 1941, ch. 284, �
 
 This section incorporates only the last sentence of paragraph (b) of former section 391. The balance of that section will be found in sections 1506, 2102, 2501, and 2902 of the revision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 struck out "The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Board or its functions."
@@ -17,6 +19,8 @@ This section incorporates only the last sentence of paragraph (b) of former sect
 <b>1978</b>—Pub. L. 95–379 substituted references to the Secretary of the Treasury and the Chairman of the National Endowment for the Humanities, for references to the chairman of the House Committee on Government Operations and the Senate Committee on Post Office and Civil Service.
 
 <b>1976</b>—Pub. L. 94–391 substituted reference to House Committee on Government Operations for reference to House Committee on Post Office and Civil Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -56,7 +56,7 @@ Nothing in this part shall preclude or deny to any State or political subdivisio
 
 > &emsp;The Administrator shall issue regulations to implement this subsection.
 
-(July 14, 1955, ch. 360, title II, §209, formerly §208, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 501; renumbered and amended Pub. L. 91–604, §§8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, 84 Stat. 1694, 1705, 1713; Pub. L. 95–95, title II, §§207,221, Aug. 7, 1977, 91 Stat. 755, 762; Pub. L. 101–549, title II, §222(b), Nov. 15, 1990, 104 Stat. 2502.)
+(July 14, 1955, ch. 360, title II, §209, formerly §208, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 501; renumbered and amended Pub. L. 91–604, §§8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, 84 Stat. 1694, 1705, 1713; Pub. L. 95–95, title II, §§207, 221, Aug. 7, 1977, 91 Stat. 755, 762; Pub. L. 101–549, title II, §222(b), Nov. 15, 1990, 104 Stat. 2502.)
 
 #### Codification
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 91–604, §11(a)(2)(A), substituted "part" for "subchapter
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

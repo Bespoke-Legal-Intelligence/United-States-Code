@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 (1) The term "eligible person" means the following:
 
-&emsp;(A) Any veteran entitled to compensation under chapter 11 of this title for any of the following disabilities, if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service:
+&emsp;(A) Any veteran entitled to compensation under chapter 11 of this title for any of the following disabilities, if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, air, or space service:
 
 &emsp;&emsp;(i) The loss or permanent loss of use of one or both feet.
 
@@ -14,13 +14,17 @@ For purposes of this chapter:
 
 &emsp;&emsp;(iv) A severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
 
-&emsp;(B) Any member of the Armed Forces serving on active duty who is suffering from any disability described in clause (i), (ii), (iii), or (iv) of subparagraph (A) if such disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service.
+&emsp;(B) Any member of the Armed Forces serving on active duty who is suffering from any disability described in clause (i), (ii), (iii), or (iv) of subparagraph (A) if such disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, air, or space service.
 
 (2) The term "adaptive equipment" includes, but is not limited to, power steering, power brakes, power window lifts, power seats, and special equipment necessary to assist the eligible person into and out of the automobile or other conveyance. Such term also includes (A) air-conditioning equipment when such equipment is necessary to the health and safety of the veteran and to the safety of others, regardless of whether the automobile or other conveyance is to be operated by the eligible person or is to be operated for such person by another person; and (B) any modification of the size of the interior space of the automobile or other conveyance if needed because of the physical condition of such person in order for such person to enter or operate the vehicle.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998, §1901; amended Pub. L. 93–538, §2, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 94–433, title III, §303, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 95–116, §1(a), Oct. 3, 1977, 91 Stat. 1062; renumbered §3901, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–275, title VIII, §803(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998, §1901; amended Pub. L. 93–538, §2, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 94–433, title III, §303, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 95–116, §1(a), Oct. 3, 1977, 91 Stat. 1062; renumbered §3901, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–275, title VIII, §803(a), (b), Oct. 13, 2010, 124 Stat. 2889; Pub. L. 116–283, div. A, title IX, §926(a)(50), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Par. (1). Pub. L. 116–283 substituted "air, or space service" for "or air service" in subpars. (A) and (B).
 
 <b>2010</b>—Pub. L. 111–275, §803(b)(1), substituted "chapter:" for "chapter—" in introductory provisions.
 
@@ -47,6 +51,8 @@ Par. (1)(B). Pub. L. 111–275, §803(a)(2), (b)(2)(C), substituted "Any member"
 Par. (1)(B). Pub. L. 93–538, §2(2), substituted "World War II or thereafter" for "World War II, the Korean conflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty."
 
 Par. (2). Pub. L. 93–538, §2(2), substituted definition of "adaptive equipment" for definition of "World War II".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

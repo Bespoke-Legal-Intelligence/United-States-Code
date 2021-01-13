@@ -52,6 +52,8 @@ Whenever the Secretary of State convenes a Board, the Secretary shall promptly i
 
 (Pub. L. 99–399, title III, §301, Aug. 27, 1986, 100 Stat. 859; Pub. L. 100–204, title I, §156(a), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §608\], Nov. 29, 1999, 113 Stat. 1536, 1501A–458; Pub. L. 109–140, §3, Dec. 22, 2005, 119 Stat. 2650.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "titles I through IV", meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
@@ -66,15 +68,19 @@ Subsec. (a)(3). Pub. L. 109–140, §3(2), added par. (3).
 
 <b>1987</b>—Pub. L. 100–204 inserted ", and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad," after "mission abroad" in first sentence, and inserted after first sentence "With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
 
-Pub. L. 116–94, div. G, title VII, §7034(l)(7), Dec. 20, 2019, 133 Stat. 2873, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect for facilities in Afghanistan through September 30, 2020, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations."
+Pub. L. 116–260, div. K, title VII, §7034(l)(7), Dec. 27, 2020, 134 Stat. 1750, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect for facilities in Afghanistan through September 30, 2021, except that the notification and reporting requirements contained in suchsection shall include the Committees on Appropriations."
 
 Prior continuations were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(l)(7), Dec. 20, 2019, 133 Stat. 2873.
 
 Pub. L. 116–6, div. F, title VII, §7034(m)(7), Feb. 15, 2019, 133 Stat. 327.
 

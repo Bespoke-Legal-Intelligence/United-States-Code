@@ -32,6 +32,8 @@ In subsection (a), in the last sentence, the word "Administration" is substitute
 
 In subsection (b), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–10 inserted ", while protecting national security" after "research community".

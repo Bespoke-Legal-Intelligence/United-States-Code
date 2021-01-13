@@ -22,6 +22,8 @@ The last sentence relating to venue was omitted as unnecessary in view of the ge
 
 Minor changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in last par.

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
-&emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
+&emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federalcrime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
 
 &emsp;&emsp;(iv) of any individual, entity, or organization engaged in planning or perpetrating any act of international terrorism (as defined in section 2331) against any international organization (as defined in section 209 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4309(b)) or against any foreign Government.<sup>3</sup> Where the property sought for forfeiture is located beyond the territorial boundaries of the United States, an act in furtherance of such planning or perpetration must have occurred within the jurisdiction of the United States.
 
@@ -150,7 +150,7 @@
 
 &emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) <sup>4</sup> of the Foreign Assistance Act of 1961.
 
-> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under thissubsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
+> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under this subsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
 
 (2) The provisions of this section shall not be construed as limiting or superseding any other authority of the United States to provide assistance to a foreign country in obtaining property related to a crime committed in the foreign country, including property which is sought as evidence of a crime committed in the foreign country.
 
@@ -212,7 +212,7 @@ In general.—Except as provided in clause (ii), the term "owner"—
 
 &emsp;&emsp;&emsp;(ii)
 
-Exception.—The foreign financial institution (as defined in section 984(c)(2)(A)of this title) may be considered the "owner" of the funds (and no other person shall qualify as the owner of such funds) only if—
+Exception.—The foreign financial institution (as defined in section 984(c)(2)(A) of this title) may be considered the "owner" of the funds (and no other person shall qualify as the owner of such funds) only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the basis for the forfeiture action is wrongdoing committed by the foreign financial institution (as defined in section 984(c)(2)(A) of this title); or
 
@@ -220,11 +220,13 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 (Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569; Pub. L. 112–186, §3, Oct. 5, 2012, 126 Stat. 1428; Pub. L. 114–122, title I, §105(a), Feb. 18, 2016, 130 Stat. 101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
+Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec.\(a)(1)(I), is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
@@ -264,7 +266,7 @@ Subsec. (k). Pub. L. 109–177, §406(a)(3), substituted "foreign financial inst
 
 Subsec. (d). Pub. L. 107–273 substituted "proceeds from the sale of such property under this section" for "proceeds from the sale of this section".
 
-<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out "of section 5313(a) or 5324(a) of title 31, or" after "transaction or attempted transaction in violation", substituted ", 1957 or 1960" for "or 1957", and struck out at end "However, no property shall be seized or forfeited in the case of a violation of section5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof."
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out "of section 5313(a) or 5324(a) of title 31, or" after "transaction or attempted transaction in violation", substituted ", 1957 or 1960" for "or 1957", and struck out at end "However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof."
 
 Subsec. (a)(1)(B). Pub. L. 107–56, §320, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States."
 
@@ -294,7 +296,7 @@ Subsec. (b). Pub. L. 106–185, §5(a), amended subsec. (b) generally. Prior to 
 
 &emsp;"(A) the seizure is pursuant to a lawful arrest or search; or
 
-&emsp;"(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly."
+&emsp;"(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be,has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly."
 
 Subsec. (e)(6). Pub. L. 106–185, §6, added par. (6) and struck out former par. (6) which read as follows: "in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or".
 
@@ -328,7 +330,7 @@ Subsec. (e)(7). Pub. L. 101–647, §2525(a)(2), as amended by Pub. L. 103–322
 
 Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: "In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:".
 
-Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for "Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) ofthis section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country."
+Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for "Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country."
 
 Pub. L. 101–647, §103(2), (4), (5), inserted "or the Secretary of the Treasury" after "Attorney General" in two places, realigned margin, and struck out at end "Transfers may be made under this subsection during a fiscal year to a country that is subject to paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961 (relating to restrictions on United States assistance) only if there is a certification in effect with respect to that country for that fiscal year under paragraph (2) of that section."
 
@@ -368,6 +370,8 @@ Subsec. (g). Pub. L. 100–690, §6471(c), inserted ", Federal, State or local,
 
 Subsec. (i)(1). Pub. L. 100–690, §6470(f), substituted "subsection" for "subchapter" in fourth sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
@@ -390,7 +394,7 @@ Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided tha
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H\(§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
 
 #### Severability
 

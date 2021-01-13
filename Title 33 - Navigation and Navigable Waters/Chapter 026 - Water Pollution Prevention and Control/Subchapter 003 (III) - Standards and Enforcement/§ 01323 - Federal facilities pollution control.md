@@ -8,7 +8,7 @@ Each department, agency, or instrumentality of the executive, legislative, and j
 
 (1) The Administrator shall coordinate with the head of each department, agency, or instrumentality of the Federal Government having jurisdiction over any property or facility utilizing federally owned wastewater facilities to develop a program of cooperation for utilizing wastewater control systems utilizing those innovative treatment processes and techniques for which guidelines have been promulgated under section 1314(d)(3) of this title. Such program shall include an inventory of property and facilities which could utilize such processes and techniques.
 
-(2) Construction shall not be initiated for facilities for treatment of wastewater at any Federal property or facility after September 30, 1979, if alternative methods for wastewatertreatment at such property or facility utilizing innovative treatment processes and techniques, including but not limited to methods utilizing recycle and reuse techniques and land treatment are not utilized, unless the life cycle cost of the alternative treatment works exceeds the life cycle cost of the most cost effective alternative by more than 15 per centum. The Administrator may waive the application of this paragraph in any case where the Administrator determines it to be in the public interest, or that compliance with this paragraph would interfere with the orderly compliance with conditions of a permit issued pursuant to section 1342 of this title.
+(2) Construction shall not be initiated for facilities for treatment of wastewater at any Federal property or facility after September 30, 1979, if alternative methods for wastewater treatment at such property or facility utilizing innovative treatment processes and techniques, including but not limited to methods utilizing recycle and reuse techniques and land treatment are not utilized, unless the life cycle cost of the alternative treatment works exceeds the life cycle cost of the most cost effective alternative by more than 15 per centum. The Administrator may waive the application of this paragraph in any case where the Administrator determines it to be in the public interest, or that compliance with this paragraph would interfere with the orderly compliance with conditions of a permit issued pursuant to section 1342 of this title.
 
 #### (c) Reasonable service charges
 
@@ -32,6 +32,8 @@ Each department, agency, or instrumentality of the executive, legislative, and j
 
 (June 30, 1948, ch. 758, title III, §313, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598; Pub. L. 111–378, §1, Jan. 4, 2011, 124 Stat. 4128.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (c). Pub. L. 111–378 added subsec. (c).
@@ -40,17 +42,21 @@ Each department, agency, or instrumentality of the executive, legislative, and j
 
 Subsec. (b). Pub. L. 95–217, §60, added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Marine Guidance Systems
 
-Pub. L. 105–383, title IV, §425(b), Nov. 13, 1998, 112 Stat. 3441, provided that: "The Secretary of Transportation shall, within 12 months after the date of the enactment of this Act \[Nov. 13, 1998\], evaluate and report to the Congress on the suitability of marine sector laser lighting, cold cathode lighting, and ultraviolet enhanced vision technologies for use in guiding marine vessels and traffic."
+Pub. L. 105–383, title IV, §425(b), Nov. 13, 1998, 112 Stat. 3441, provided that: "The Secretary of Transportation shall, within 12 months after the date of the enactment of this Act \[Nov. 13, 1998\], evaluate and report to the Congress on the suitability of marine sector laser lighting, cold cathode lighting, and ultravioletenhanced vision technologies for use in guiding marine vessels and traffic."
 
 #### Federal Compliance With Pollution Control Standards
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11258
 

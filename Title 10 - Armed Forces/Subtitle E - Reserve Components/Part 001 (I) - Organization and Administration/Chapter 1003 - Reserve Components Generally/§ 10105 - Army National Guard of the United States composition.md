@@ -26,7 +26,7 @@ Requirement To Establish.—The Secretary of the Army shall, not later than Sept
 
 "(b)
 
-Implementation Plan.—The Secretary of the Army shall during fiscal year 1994 submit to the Committees on Armed Services of the Senate and House of Representatives a plan to meet the requirement in subsection (a). The plan shall include a proposal for any statutory changes that the Secretary considers to be necessary for the implementation of the plan."
+Implementation Plan.—The Secretary of the Army shall during fiscal year 1994 submit to the Committees on Armed Services of the Senate and House of Representatives a plan to meet the requirement in subsection (a). The plan shall include a proposal for anystatutory changes that the Secretary considers to be necessary for the implementation of the plan."
 
 #### Test Program for Reserve Combat Maneuver Unit Integration
 

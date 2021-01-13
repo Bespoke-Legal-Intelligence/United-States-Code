@@ -34,7 +34,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (2) Pediatric mental health teams
 
-&emsp;In this subsection, the term "pediatric mental health team" means a team consisting ofat least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor. Such a team may be regionally based.
+&emsp;In this subsection, the term "pediatric mental health team" means a team consisting of at least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor. Such a team may be regionally based.
 
 #### (c) Application
 
@@ -42,7 +42,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (d) Evaluation
 
-A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such grant to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
+A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such grant to theSecretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
 
 #### (e) Access to broadband
 

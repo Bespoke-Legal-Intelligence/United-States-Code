@@ -14,7 +14,7 @@ In general.—Medical materials or supplies an executive agency holds for nation
 
 &emsp;(2)
 
-Timing.—To the greatest extent practicable, the head of the agency shall make the determination in sufficient time to allow for the transfer or other disposal and use of medical materials or supplies before their shelf life expires and they are rendered unfit for human use.
+Timing.—To the greatest extent practicable, the head of the agency shall make thedetermination in sufficient time to allow for the transfer or other disposal and use of medical materials or supplies before their shelf life expires and they are rendered unfit for human use.
 
 (b)
 

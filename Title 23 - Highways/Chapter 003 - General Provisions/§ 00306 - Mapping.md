@@ -22,6 +22,8 @@ Implementation.—The Secretary shall develop a process for the oversight and mo
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 104–59, title III, §321, Nov. 28, 1995, 109 Stat. 590; Pub. L. 112–141, div. A, title I, §1517(a), July 6, 2012, 126 Stat. 574.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §1517(a)(1), substituted "shall" for "may".
@@ -31,6 +33,8 @@ Subsec. (b). Pub. L. 112–141, §1517(a)(2), substituted "State government and"
 Subsec. (c). Pub. L. 112–141, §1517(a)(3), added subsec. (c).
 
 <b>1995</b>—Pub. L. 104–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

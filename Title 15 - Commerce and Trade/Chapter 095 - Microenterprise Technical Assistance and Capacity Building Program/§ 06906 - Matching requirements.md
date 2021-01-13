@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Financial assistance under this chapter shall be matched with funds from sources other than the Federal Government on the basis of not less than 50 percent of each dollar provided by the Administration.
+Financial assistance under this chapter shall be matched with funds from sources other than the Federal Government on the basis of not lessthan 50 percent of each dollar provided by the Administration.
 
 #### (b) Sources of matching funds
 

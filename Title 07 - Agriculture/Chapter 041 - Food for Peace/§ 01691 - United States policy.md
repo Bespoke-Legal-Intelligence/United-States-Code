@@ -38,7 +38,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided that: "The amendment made by section1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991."
+Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided that: "The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991."
 
 #### Effective Date of 1966 Amendment
 
@@ -108,7 +108,7 @@ Pub. L. 100–418, title IV, §4311, Aug. 23, 1988, 102 Stat. 1400, which declar
 
 #### Agricultural Trade and Export Policy Commission Act
 
-Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, knownas the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
 
 #### Use of Nonprice-Supported Commodities
 
@@ -124,7 +124,7 @@ Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 105
 
 #### Executive Order No. 10685
 
-Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out asa note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
 
 #### Executive Order No. 10900
 

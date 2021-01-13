@@ -36,9 +36,13 @@ In paragraph (2), the words "to assist in" are added for clarity and in recognit
 
 The last sentence is added because in various areas the authority to investigate certain criminal offenses has been specifically assigned by statute to departments and agencies other than the Federal Bureau of Investigation. For example, the enforcement of the internal revenue laws is specifically a function of the Secretary of the Treasury and he is authorized to employ such number of persons as he deems proper for the enforcement of such laws (26 U.S.C. 7801, 7803). The Secretary of the Treasury is specifically authorized to direct the collection of duties on imports and to appoint such employees for that purpose as he deems necessary (19 U.S.C. 3, 6). The U.S. Coast Guard is specifically authorized to enforce or assist in enforcing the Federal laws upon the high seas and waters subject to the jurisdiction of the United States (14 U.S.C. 2). Subject to the direction of the Secretary of the Treasury, the Secret Service is specifically authorized to detect and arrest persons committing offenses against the laws of the United States relating to coins and obligations and securities of the United States and foreign governments (18 U.S.C. 3056).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pars. (3), (4). Pub. L. 107–273 added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad
 
@@ -146,7 +150,7 @@ Pub. L. 100–459, title II, §204(b)(4), (5), Oct. 1, 1988, 102 Stat. 2200, 220
 
 Pub. L. 100–202, §101(a) \[title II, §204(b)(4), (5)\], Dec. 22, 1987, 101 Stat. 1329, 1329–16.
 
-Pub. L. 99–500, §101(b) \[title II, §204(b)(4), (5)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–52, 1783–53, and Pub. L.99–591, §101(b) \[title II, §204(b)(4), (5)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–52, 3341–53.
+Pub. L. 99–500, §101(b) \[title II, §204(b)(4), (5)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–52, 1783–53, and Pub. L. 99–591, §101(b) \[title II, §204(b)(4), (5)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–52, 3341–53.
 
 Pub. L. 99–180, title II, §204(b)(4), (5), Dec. 13, 1985, 99 Stat. 1148.
 

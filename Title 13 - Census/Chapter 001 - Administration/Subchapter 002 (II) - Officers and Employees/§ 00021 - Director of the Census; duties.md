@@ -48,9 +48,13 @@ At the end of this section, references to regulations, and to orders of the Secr
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–166 amended section generally. Prior to amendment, text read as follows: "The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

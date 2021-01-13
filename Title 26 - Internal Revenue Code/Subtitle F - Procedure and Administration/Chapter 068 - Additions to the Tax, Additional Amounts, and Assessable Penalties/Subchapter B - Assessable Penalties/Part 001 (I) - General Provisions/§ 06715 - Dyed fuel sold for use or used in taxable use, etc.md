@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (d) Joint and several liability of certain officers and employees
 
-If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
+If a penalty is imposed under this section on any business entity, each officer, employee, oragent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
 
 #### (e) No administrative appeal for third and subsequent violations
 

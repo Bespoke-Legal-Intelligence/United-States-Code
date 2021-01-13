@@ -4,9 +4,13 @@ An officer whose name appears on an approved list of officers selected for promo
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187, §294; renumbered §2155, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 294 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Retired Pay on or Prior to September 24, 1963
 

@@ -40,7 +40,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (3) Special rule involving payments for foregone income
 
-&emsp;In determining the amount and rate of payments under paragraph (2)(B), the Secretary may accord great significance to a practice that, as determined by the Secretary, promotes—
+&emsp;In determining the amount and rate of payments under paragraph (2)(B), the Secretarymay accord great significance to a practice that, as determined by the Secretary, promotes—
 
 &emsp;&emsp;(A) soil health;
 

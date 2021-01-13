@@ -1,6 +1,6 @@
 ### §1502. Resistance to extradition agent
 
-Whoever knowingly and willfully obstructs, resists, or opposes an extradition agent of theUnited States in the execution of his duties, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever knowingly and willfully obstructs, resists, or opposes an extradition agent of the United States in the execution of his duties, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 24, 1948, ch. 645, 62 Stat. 769; Pub. L. 103–322, title XXXIII, §330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -15,6 +15,8 @@ Words "an extradition agent of the United States" were substituted for "such age
 A fine of "$300" was substituted for "$1,000" as the mandatory maximum to harmonize with similar offenses in this chapter. (See section 1501 of this title.)
 
 Punishment provision was rephrased in the alternative.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

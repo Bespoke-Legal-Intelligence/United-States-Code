@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) over a period ending not later than 5 years after the date of the order for relief under section 301, 302, or 303; and
 
-&emsp;&emsp;&emsp;(iii) in a manner not less favorable than the most favored nonpriority unsecuredclaim provided for by the plan (other than cash payments made to a class of creditors under section 1122(b)); and
+&emsp;&emsp;&emsp;(iii) in a manner not less favorable than the most favored nonpriority unsecured claim provided for by the plan (other than cash payments made to a class of creditors under section 1122(b)); and
 
 &emsp;&emsp;(D) with respect to a secured claim which would otherwise meet the description of an unsecured claim of a governmental unit under section 507(a)(8), but for the secured status of that claim, the holder of that claim will receive on account of that claim, cash payments, in the same manner and over the same period, as prescribed in subparagraph (C).
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(II) that each holder of a claim of such class receive on account of such claim deferred cash payments totaling at least the allowed amount of such claim, of a value, as of the effective date of the plan, of at least the value of such holder's interest in the estate's interest in such property;
 
-&emsp;&emsp;(ii) for the sale, subject to section 363(k) of this title, of any property that is subject to the liens securing such claims, free and clear of such liens, with such liens to attach to the proceeds of such sale, and the treatment of such liens on proceeds under clause (i) or (iii) of this subparagraph; or
+&emsp;&emsp;(ii) for the sale, subject to section 363(k) of this title, of any property that is subject to the liens securing such claims, free and clear of such liens, with such liens to attach tothe proceeds of such sale, and the treatment of such liens on proceeds under clause (i) or (iii) of this subparagraph; or
 
 &emsp;&emsp;(iii) for the realization by such holders of the indubitable equivalent of such claims.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(ii) the holder of any interest that is junior to the interests of such class will not receive or retain under the plan on account of such junior interest any property.
 
-(c) Notwithstanding subsections (a) and (b) of this section and except as provided in section 1127(b) of this title, the court may confirm only one plan, unless the order of confirmation in thecase has been revoked under section 1144 of this title. If the requirements of subsections (a) and (b) of this section are met with respect to more than one plan, the court shall consider the preferences of creditors and equity security holders in determining which plan to confirm.
+(c) Notwithstanding subsections (a) and (b) of this section and except as provided in section 1127(b) of this title, the court may confirm only one plan, unless the order of confirmation in the case has been revoked under section 1144 of this title. If the requirements of subsections (a) and (b) of this section are met with respect to more than one plan, the court shall consider the preferences of creditors and equity security holders in determining which plan to confirm.
 
 (d) Notwithstanding any other provision of this section, on request of a party in interest that is a governmental unit, the court may not confirm a plan if the principal purpose of the plan is the avoidance of taxes or the avoidance of the application of section 5 of the Securities Act of 1933. In any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
 
@@ -128,7 +128,7 @@ Although many of the factors interpreting "fair and equitable" are specified in 
 
 Paragraph (2) provides guidelines for a court to determine whether a plan is fair and equitable with respect to a dissenting class. It must be emphasized that the fair and equitable requirement applies only with respect to dissenting classes. Therefore, unlike the fair and equitable rule contained in chapter X \[chapter 10 of former title 11\] and section 77 of the Bankruptcy Act \[section 205 of former title 11\] under section 1129(b)(2), senior accepting classes are permitted to give up value to junior classes as long as no dissenting intervening class receives less than the amount of its claims in full. If there is no dissenting intervening class and the only dissent is from a class junior to the class to which value have been given up, then the plan may still be fair and equitable with respect to the dissenting class, as long as no class senior to the dissenting class has received more than 100 percent of the amount of its claims.
 
-Paragraph (2) contains three subparagraphs, each of which applies to a particular kind of class of claims orinterests that is impaired and has not accepted the plan. Subparagraph (A) applies when a class of secured claims is impaired and has not accepted the plan. The provision applies whether or not section 1111(b) applies. The plan may be crammed down notwithstanding the dissent of a secured class only if the plan complies with clause (i), (ii), or (iii).
+Paragraph (2) contains three subparagraphs, each of which applies to a particular kind of class of claims or interests that is impaired and has not accepted the plan. Subparagraph (A) applies when a class of secured claims is impaired and has not accepted the plan. The provision applies whether or not section 1111(b) applies. The plan may be crammed down notwithstanding the dissent of a secured class only if the plan complies with clause (i), (ii), or (iii).
 
 Clause (i) permits cramdown if the dissenting class of secured claims will retain its lien on the property whether the property is retained by the debtor or transferred. It should be noted that the lien secures the allowed secured claim held by such holder. The meaning of "allowed secured claim" will vary depending on whether section 1111(b)(2) applies to such class.
 
@@ -234,7 +234,7 @@ Subsection (b) provides that if, in the case of a public company, the plan meets
 
 Under subsection (c) the court may confirm only one plan, unless the order of confirmation has been revoked under section 1144. If the requirements for confirmation are met with respect to more than one plan, the court shall consider the preferences of creditors and stockholders in deciding which plan to confirm.
 
-Subsection (d) provides that the bankruptcy court may not confirm a plan of reorganization if its principal purpose is the avoidance of taxes or the avoidance of section 5 of the Securities Act of 1933 (15 U.S.C. 77e).This rules modifies a similar provision of present law (section 269 of the Bankruptcy Act \[section 669 of former title 11\]).
+Subsection (d) provides that the bankruptcy court may not confirm a plan of reorganization if its principal purpose is the avoidance of taxes or the avoidance of section 5 of the Securities Act of 1933 (15 U.S.C. 77e). This rules modifies a similar provision of present law (section 269 of the Bankruptcy Act \[section 669 of former title 11\]).
 
 #### house report no. 95–595
 
@@ -264,7 +264,7 @@ Finally, the proponent must request use of this subsection. The court may not co
 
 A more detailed explanation follows:
 
-The test to be applied by the court is set forth in the various paragraphs of section 1129(b). The elements of the test are new\[,\] departing from both the absolute priority rule and the best interests of creditors tests found under the Bankruptcy Act \[former title 11\]. The court is not permitted to alter the terms of the plan. It must merely decide whether the plan complies with the requirements of section 1129(b). If so, the plan is confirmed, if not the plan is denied confirmation.
+The test to be applied by the court is set forth in the various paragraphs of section 1129(b). The elements of the test are new\[,\] departing from both the absolute priority rule and the best interests of creditors tests found under the Bankruptcy Act \[former title 11\]. The court is not permitted to alter the terms of the plan. It must merely decide whether the plan complies with therequirements of section 1129(b). If so, the plan is confirmed, if not the plan is denied confirmation.
 
 The procedure followed is simple. The court examines each class of claims or interests designated under section 1123(a)(1) to see if the requirements of section 1129(b) are met. If the class is a class of secured claims, then paragraph (1) contains two tests that must be complied with in order for confirmation to occur. First, under subparagraph (A), the court must be able to find that the consideration given under the plan on account of the secured claim does not exceed the allowed amount of the claim. This condition is not prescribed as a matter of law under section 1129(a), because if the secured claim is compensated in securities of the debtor, a valuation of the business would be necessary to determine the value of the consideration. While section 1129(a) does not contemplate a valuation of the debtor's business, such a valuation will almost always be required under section 1129(b) in order to determine the value of the consideration to be distributed under the plan. Once the valuation is performed, it becomes a simple matter to impose the criterion that no claim will be paid more than in full.
 
@@ -280,7 +280,7 @@ The condition contained in section 1129(b)(2)(B)(iv) provides another basis for 
 
 This point illustrates the lack of precision in the first criterion which demands that a class not be unfairly discriminated against with respect to equal classes. From the perspective of unsecured trade claims, there is no unfair discrimination as long as the total consideration given all other classes of equal rank does not exceed the amount that would result from an exact aliquot distribution. Thus if trade creditors, senior debt, and subordinate debt are each owed $100 and the plan proposes to pay the trade debt $15, the senior debt $30, and the junior debt $0, the plan would not unfairly discriminate against the trade debt nor would any other allocation of consideration under the plan between the senior and junior debt be unfair as to the trade debt as long as the aggregate consideration is less than $30. The senior debt could take $25 and give up $5 to the junior debt and the trade debt would have no cause to complain because as far as it is concerned the junior debt is an equal class.
 
-However, in this latter case the senior debt would have been unfairly discriminated against because the trade debt was being unfairly over-compensated; of course the plan would also fail unless the senior debt was unimpaired, received full value, or accepted the plan, because from its perspective a junior class received property under the plan. Application of the test from the perspective of senior debt is best illustrated by the plan that proposes to pay trade debt $15, senior debt $25, and junior debt $0. Here the senior debt is being unfairly discriminated against with respect to the equal trade debt even though the trade debt receives less than the senior debt. The discrimination arises from the fact that the senior debt is entitled to the rights of the junior debt which in this example entitle the senior debt to share on a 2:1 basis with the trade debt.
+However, in this latter case the senior debt would have been unfairly discriminated against because the trade debt was being unfairly over-compensated; of course the plan would also fail unless the senior debt was unimpaired, received full value, or accepted the plan, because from its perspective a junior class received property under the plan. Application of the test from the perspective of senior debt is best illustrated by the plan that proposes to pay trade debt $15, senior debt $25, and junior debt $0. Here the senior debt is being unfairly discriminated against with respect to the equal trade debt even though the trade debt receives less than the senior debt. The discriminationarises from the fact that the senior debt is entitled to the rights of the junior debt which in this example entitle the senior debt to share on a 2:1 basis with the trade debt.
 
 Finally, it is necessary to interpret the first criterion from the perspective of subordinated debt. The junior debt is subrogated to the rights of senior debt once the senior debt is paid in full. Thus, while the plan that pays trade debt $15, senior debt $25, and junior debt $0 is not unfairly discriminatory against the junior debt, a plan that proposes to pay trade debt $55, senior debt $100, and junior debt $1, would be unfairly discriminatory. In order to avoid discriminatory treatment against the junior debt, at least $10 would have to be received by such debt under those facts.
 
@@ -288,13 +288,15 @@ The criterion of unfair discrimination is not derived from the fair and equitabl
 
 If each class of secured claims satisfies the requirements of section 1129(b)(1) and each class of unsecured claims satisfies the requirements of section 1129(b)(2), then the court must still see if each class of interests satisfies section 1129(b)(3) before the plan may be confirmed. Again, two separate criteria must be met. Under subparagraph (A) if the interest entitles the holder thereof to a fixed liquidation preference or if such interest may be redeemed at a fixed price, then the holder of such interest must not receive under the plan on account of such interest property of a value as of the effective date of the plan greater than the greater of these two values of the interest. Preferred stock would be an example of an interest likely to have liquidation preference or redemption price.
 
-If an interest such as most common stock or the interest of a general partnership has neither a fixed liquidation preference nor a fixed redemption price, then the criterion in subparagraph (A) is automatically fulfilled. In addition subparagraph (B) contains five clauses that impose alternative conditions of which at least one must be satisfied in order to warrant confirmation. The first two clauses contain requirements of acceptance or unimpairment similar to the first two clauses in paragraphs (1)(B) and (2)(B). Clause (iii) issimilar to the unimpairment test contained in section 1124(3)(B), except that it will apply to cover the issuance securities of the debtor of a value as of the effective date of the plan equal to the greater of any fixed liquidation preference or redemption price. The fourth clause allows confirmation if junior interests are not compensated under the plan and the fifth clause allows confirmation if there are no junior interests. These clauses recognized that as long as senior classes receive no more than full payment, the objection of a junior class will not defeat confirmation unless a class junior to it is receiving value under the plan and the objecting class is impaired. While a determination of impairment may be made under section 1124(3)(B)(iii) without a precise valuation of the business when common stock is clearly under water, once section 1129(b) is used, a more detailed valuation is a necessary byproduct. Thus, if no property is given to a holder of an interest under the plan, the interest should be clearly worthless in order to find unimpairment under section 1124(3)(B)(iii) and section 1129(a)(8); otherwise, since a class of interests receiving no property is deemed to object under section 1126(g), the more precise valuation of section 1129(b) should be used.
+If an interest such as most common stock or the interest of a general partnership has neither a fixed liquidation preference nor a fixed redemption price, then the criterion in subparagraph (A) is automatically fulfilled. In addition subparagraph (B) contains five clauses that impose alternative conditions of which at least one must be satisfied in order to warrant confirmation. The first two clauses contain requirements of acceptance or unimpairment similar to the first two clauses in paragraphs (1)(B) and (2)(B). Clause (iii) is similar to the unimpairment test contained in section 1124(3)(B), except that it will apply to cover the issuance securities of the debtor of a value as of the effective date of the plan equal to the greater of any fixed liquidation preference or redemption price. The fourth clause allows confirmation if junior interests are not compensated under the plan and the fifth clause allows confirmation if there are no junior interests. These clauses recognized that as long as senior classes receive no more than full payment, the objection of a junior class will not defeat confirmation unless a class junior to it is receiving value under the plan and the objecting class is impaired. While a determination of impairment may be made under section 1124(3)(B)(iii) without a precise valuation of the business when common stock is clearly under water, once section 1129(b) is used, a more detailed valuation is a necessary byproduct. Thus, if no property is given to a holder of an interest under the plan, the interest should be clearly worthless in order to find unimpairment under section 1124(3)(B)(iii) and section 1129(a)(8); otherwise, since a class of interests receiving no property is deemed to object under section 1126(g), the more precise valuation of section 1129(b) should be used.
 
 If all of the requirements of section 1129(b) are complied with, then the court may confirm the plan subject to other limitations such as those found in section 1129(a) and (d).
 
 Subsection (c) of section 1129 governs confirmation when more than one plan meets the requirements of the section. The court must consider the preferences of creditors and equity security holders in determining which plan to confirm.
 
 Subsection (d) requires the court to deny confirmation if the principal purpose of the plan is the avoidance of taxes (through use of sections 346 and 1146, and applicable provisions of State law or the Internal Revenue Code \[title 26\] governing bankruptcy reorganizations) or the avoidance of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] (through use of section 1145).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -368,6 +370,8 @@ Subsec. (b)(2)(C)(i). Pub. L. 98–353, §512(b)(3), substituted "interest" for 
 
 Subsec. (d). Pub. L. 98–353, §512(c), inserted "the application of" and provisions requiring that in any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by section 1221(b) of Pub. L. 109–8 applicable to cases pending under this title on Apr. 20, 2005, or filed under this title on or after Apr. 20, 2005, with certain exceptions, see section 1221(d) of Pub. L. 109–8, set out as a note under section 363 of this title.
@@ -380,7 +384,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–334 effective June 16, 1988, but not applicable to cases commenced under this titlebefore that date, see section 4 of Pub. L. 100–334, set out as an Effective Date note under section 1114 of this title.
+Amendment by Pub. L. 100–334 effective June 16, 1988, but not applicable to cases commenced under this title before that date, see section 4 of Pub. L. 100–334, set out as an Effective Date note under section 1114 of this title.
 
 #### Effective Date of 1986 Amendment
 

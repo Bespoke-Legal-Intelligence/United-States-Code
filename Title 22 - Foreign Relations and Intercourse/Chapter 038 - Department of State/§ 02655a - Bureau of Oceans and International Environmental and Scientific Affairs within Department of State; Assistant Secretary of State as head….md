@@ -1,12 +1,16 @@
 ### §2655a. Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau
 
-There is established within the Department of State a Bureau of Oceans and International Environmental and Scientific Affairs. There shall be an Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, appointed by the President, by and with the advice and consent of the Senate, who shall be the head of the Bureau and who shall have responsibility for matters relating to oceans, environmental, scientific, fisheries, wildlife, and conservation affairs and for such other relatedduties as the Secretary may from time to time designate.
+There is established within the Department of State a Bureau of Oceans and International Environmental and Scientific Affairs. There shall be an Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, appointed by the President, by and with the advice and consent of the Senate, who shall be the head of the Bureau and who shall have responsibility for matters relating to oceans, environmental, scientific, fisheries, wildlife, and conservation affairs and for such other related duties as the Secretary may from time to time designate.
 
 (Pub. L. 93–126, §9(a), formerly §9, Oct. 18, 1973, 87 Stat. 453, renumbered Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 103–236, title I, §162(q)(1), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(f)(4)(B), Oct. 25, 1994, 108 Stat. 4300.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–236, as amended by Pub. L. 103–415, substituted "There shall" for "In addition to the positions provided under section 2652 of this title, there shall" and inserted before period at end "and for such other related duties as the Secretary may from time to time designate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

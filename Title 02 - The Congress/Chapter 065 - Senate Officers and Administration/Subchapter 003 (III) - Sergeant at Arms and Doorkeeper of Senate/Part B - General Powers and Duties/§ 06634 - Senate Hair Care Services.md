@@ -48,6 +48,8 @@ This section shall be effective on and after October 1, 1998, or 30 days after t
 
 (Pub. L. 105–275, title I, §6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §4, Sept. 29, 1999, 113 Stat. 412; Pub. L. 106–554, §1(a)(2) \[title I, §3(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–96.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 121a of this title, referred to in subsec. (g), was repealed by Pub. L. 105–275, title I, §6(h)(1), Oct. 21, 1998, 112 Stat. 2434.
@@ -69,6 +71,8 @@ In subsec. (c), in the first par. (3), "section 5104(c) of title 40" substituted
 Subsec. (c)(3). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(2)\], added par. (3) relating to agency contributions.
 
 <b>1999</b>—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -10,7 +10,7 @@
 
 #### (3) Compliance audit
 
-&emsp;The Inspector General of the Foundation shall conduct an audit every three years of the compliance by the Board with the requirements described in paragraph (2). The audit shall examine the proposed and actual content of closed meetings and determine whether the closure of the meetings was consistent with section 552b of title 5.
+&emsp;The Inspector General of the Foundation shall conduct an audit every three years of the compliance by the Board with the requirements described in paragraph (2). The auditshall examine the proposed and actual content of closed meetings and determine whether the closure of the meetings was consistent with section 552b of title 5.
 
 #### (4) Report
 

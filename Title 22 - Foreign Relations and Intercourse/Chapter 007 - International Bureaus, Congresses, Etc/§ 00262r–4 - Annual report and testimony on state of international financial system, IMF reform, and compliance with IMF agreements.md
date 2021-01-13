@@ -18,6 +18,8 @@ After submitting the report required by subsection (a) but not later than March 
 
 (Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67; Pub. L. 108–458, title VII, §7703(b), Dec. 17, 2004, 118 Stat. 3860.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001, referred to in subsec. (a)(2), is section 801(c)(1)(B) of Pub. L. 106–429, §101(a) \[title VIII\], Nov. 6, 2000, 114 Stat. 1900, 1900A–65, which is not classified to the Code.
@@ -30,9 +32,11 @@ Section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Pr
 
 Pub. L. 106–200 substituted "Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate" for "Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Definitions
 

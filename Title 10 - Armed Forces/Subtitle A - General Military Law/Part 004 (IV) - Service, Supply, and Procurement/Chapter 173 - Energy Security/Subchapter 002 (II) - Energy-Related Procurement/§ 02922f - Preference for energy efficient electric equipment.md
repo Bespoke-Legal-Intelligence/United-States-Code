@@ -24,7 +24,7 @@ Subsec. (a). Pub. L. 109–364, §2851(b)(3)(E), substituted "In" for "When cost
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title III, §384(a)(2), Oct. 23, 1992, 106 Stat. 2393, provided that: "The amendmentsmade by paragraph (1) \[enacting this section\] shall apply to procurements for which solicitations are issued on or after the date that is 120 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
+Pub. L. 102–484, div. A, title III, §384(a)(2), Oct. 23, 1992, 106 Stat. 2393, provided that: "The amendments made by paragraph (1) \[enacting this section\] shall apply to procurements for which solicitations are issued on or after the date that is 120 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Electric Lighting and Refrigeration Equipment Demonstration Programs
 

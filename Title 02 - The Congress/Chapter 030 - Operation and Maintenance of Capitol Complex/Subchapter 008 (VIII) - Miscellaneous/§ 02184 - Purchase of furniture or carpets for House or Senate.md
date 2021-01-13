@@ -4,6 +4,8 @@ No furniture or carpets for either House shall be purchased without the written 
 
 (R.S. §1816; Aug. 2, 1946, ch. 753, title I, §102, title II, §224, 60 Stat. 814, 838; Pub. L. 104–186, title II, §221(2), Aug. 20, 1996, 110 Stat. 1748.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 170 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -18,11 +20,13 @@ Provision of R.S. §1816 relating to repairs of Capitol is classified to section
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee to Audit and Control the Contingent Expenses of the Senate".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1946 Amendment
 
-Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall "take effect on the day on which the Eightieth Congress convenes". The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that section 102 of that act shall take effect onJan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall "take effect on the day on which the Eightieth Congress convenes". The Eightieth Congress convened on Jan. 3, 1947.
 

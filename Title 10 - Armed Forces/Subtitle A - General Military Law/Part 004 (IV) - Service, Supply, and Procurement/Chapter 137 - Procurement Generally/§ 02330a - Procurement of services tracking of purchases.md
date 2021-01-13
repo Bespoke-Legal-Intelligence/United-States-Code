@@ -54,7 +54,7 @@ Inventory Summary.—(1) Not later than the end of the third quarter of each fis
 
 &emsp;&emsp;(iii) the conduct and completion of the annual review required under subsection (e)(1).
 
-&emsp;(B) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
+&emsp;(B) The Under Secretary of Defense for Acquisition and Sustainment shall be responsiblefor developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
 
 (2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
 
@@ -162,6 +162,10 @@ Small business act definitions.—
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1856(g), Jan. 1, 2021, 134 Stat. 4151, 4275, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 341 of this title, inserted after section 4502, and redesignated as section 4505 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### References in Text
 
 Section 2330a(g)(5) of this title, referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
@@ -230,7 +234,7 @@ Subsecs. (i), (j). Pub. L. 114–328, §812(d)(2), redesignated subsecs. (i) and
 
 <b>2013</b>—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense forPersonnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
 
 Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted "(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)" after "pursuant to contracts for services" in introductory provisions.
 
@@ -249,6 +253,10 @@ Subsec. (f) to (h). Pub. L. 112–81, §936(c), added subsec. (f) and redesignat
 <b>2008</b>—Subsecs. (c) to (g). Pub. L. 110–181, §807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: "To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title."
 
 Subsec. (g)(3) to (5). Pub. L. 110–181, §807(a)(3), added pars. (3) to (5).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2017 Amendment
 

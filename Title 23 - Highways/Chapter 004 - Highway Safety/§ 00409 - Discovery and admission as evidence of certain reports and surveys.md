@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, reports, surveys, schedules, lists, 
 
 (Added Pub. L. 100–17, title I, §132(a), Apr. 2, 1987, 101 Stat. 170; amended Pub. L. 102–240, title I, §1035(a), Dec. 18, 1991, 105 Stat. 1978; Pub. L. 104–59, title III, §323, Nov. 28, 1995, 109 Stat. 591; Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 substituted "148" for "152".
@@ -11,6 +13,8 @@ Notwithstanding any other provision of law, reports, surveys, schedules, lists, 
 <b>1995</b>—Pub. L. 104–59 inserted "or collected" after "data compiled".
 
 <b>1991</b>—Pub. L. 102–240 substituted "Discovery and admission" for "Admission" in section catchline and "subject to discovery or admitted into evidence in a Federal or State court proceeding" for "admitted into evidence in Federal or State court" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

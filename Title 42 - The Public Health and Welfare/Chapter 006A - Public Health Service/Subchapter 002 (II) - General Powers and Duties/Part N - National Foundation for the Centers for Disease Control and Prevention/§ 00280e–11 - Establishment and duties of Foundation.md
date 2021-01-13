@@ -142,7 +142,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
-&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
+&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines isappropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
 #### (5) Financial conflicts of interest
 
@@ -216,7 +216,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### (4) Support services
 
-&emsp;The Director of the Centers for Disease Control and Prevention may provide facilities, utilities, and support services to the Foundation if it is determined by the Director to be advantageous to the programs of such Centers.
+&emsp;The Director of the Centers for Disease Control and Prevention may provide facilities,utilities, and support services to the Foundation if it is determined by the Director to be advantageous to the programs of such Centers.
 
 #### (j) Committee for establishment of Foundation
 

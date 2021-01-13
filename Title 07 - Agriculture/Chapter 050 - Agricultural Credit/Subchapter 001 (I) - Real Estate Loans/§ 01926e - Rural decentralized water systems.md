@@ -30,7 +30,7 @@ In this section, the term "eligible individual" means an individual who is a mem
 
 #### (4) Ground well water contamination
 
-&emsp;In the event of ground well water contamination, the Secretary shall allow a loan or subgrant to be made with grant funds under this section for the installation of water treatment where needed beyond the point of entry,with or without the installation of a new water well system.
+&emsp;In the event of ground well water contamination, the Secretary shall allow a loan or subgrant to be made with grant funds under this section for the installation of water treatment where needed beyond the point of entry, with or without the installation of a new water well system.
 
 #### (c) Priority in awarding grants
 

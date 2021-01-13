@@ -20,8 +20,7 @@
 | 857–17. | Interagency cooperation and assistance. |
 | 857–18. | Authorization of appropriations. |
 | 857–19. | Biennial report. |
-| 857–20. | Coordination. |
-| 857a to 872. Repealed or Omitted. |  |
+| 857–20 to 872. Repealed or Omitted. |  |
 | [873\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000873%20-%20Extra%20compensation%20for%20instrument%20observers%2C%20recorders%20and%20other%20Federal%20employees%20for%20oceanographic%2C%20seismographic%20and%20magnetic%E2%80%A6.md) | Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations. |
 | [874\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000874%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93372%2C%20title%20II%2C%20%C2%A7271%285%29%2C%20Dec.%2019%2C%202002%2C%20116%20Stat.%203094.md) | Repealed. |
 | [875\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000875%20-%20Powers%20of%20officers%20as%20notaries.md) | Powers of officers as notaries. |
@@ -104,6 +103,8 @@
 | [894b.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894b%20-%20Rights%20of%20the%20victim%20of%20a%20sexual%20assault.md) | Rights of the victim of a sexual assault. |
 | [894c.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894c%20-%20Change%20of%20station.md) | Change of station. |
 | [894d.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894d%20-%20Applicability%20of%20policies%20to%20crews%20of%20vessels%20secured%20by%20National%20Oceanic%20and%20Atmospheric%20Administration%20under%20contract.md) | Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract. |
+| 894d–1. | Investigation requirement. |
+| 894d–2. | Criminal referral. |
 | [894e.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894e%20-%20Annual%20report%20on%20sexual%20assaults%20in%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Annual report on sexual assaults in the National Oceanic and Atmospheric Administration. |
 | [894f.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894f%20-%20Sexual%20assault%20defined.md) | Sexual assault defined. |
 

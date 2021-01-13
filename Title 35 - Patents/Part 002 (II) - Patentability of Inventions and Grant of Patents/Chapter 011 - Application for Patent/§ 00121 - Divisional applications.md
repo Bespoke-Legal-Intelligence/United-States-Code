@@ -8,6 +8,8 @@ If two or more independent and distinct inventions are claimed in one applicatio
 
 This section enacts as law existing practice with respect to division, at the same time introducing a number of changes. Division is made discretionary with the Commissioner. The requirements of section 120 are made applicable and neither of the resulting patents can be held invalid over the other merely because of their being divided in several patents. In some cases a divisional application may be filed by the assignee.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "120".
@@ -19,6 +21,8 @@ Pub. L. 112–29, §4(a)(2), struck out "If a divisional application is directed
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -8,9 +8,13 @@ Any television public service announcement that is produced or funded in whole o
 
 (June 19, 1934, ch. 652, title VII, §711, as added Pub. L. 98–549, §8, Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 101–336, title IV, §402, July 26, 1990, 104 Stat. 369.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–336 amended section generally, substituting provisions relating to closed-captioning of public service announcements for provisions relating to establishment, functions, composition, etc., of Telecommunications Policy Study Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ Ex. Ord. No. 11659, Mar. 22, 1972, 37 F.R. 6047, as amended by Ex. Ord. No. 1173
 
 #### Executive Order No. 11737
 
-Ex. Ord. No. 11737, Sept. 7, 1973, 38 F.R. 24883, which provided for the enlargement of the Upper MississippiRiver Basin Commission, transferred all funds, property, etc., of the Souris-Red-Rainy River Basins Commission to the Upper Mississippi River Basin Commission, and superseded Ex. Ord. Nos. 11359 and 11635, was omitted in view of the revocation of Ex. Ord. No. 11659, which established the Upper Mississippi River Basin Commission and provided for its jurisdiction, functions, etc. See note set out above.
+Ex. Ord. No. 11737, Sept. 7, 1973, 38 F.R. 24883, which provided for the enlargement of the Upper Mississippi River Basin Commission, transferred all funds, property, etc., of the Souris-Red-Rainy River Basins Commission to the Upper Mississippi River Basin Commission, and superseded Ex. Ord. Nos. 11359 and 11635, was omitted in view of the revocation of Ex. Ord. No. 11659, which established the Upper Mississippi River Basin Commission and provided for its jurisdiction, functions, etc. See note set out above.
 
 #### Executive Order No. 11882
 

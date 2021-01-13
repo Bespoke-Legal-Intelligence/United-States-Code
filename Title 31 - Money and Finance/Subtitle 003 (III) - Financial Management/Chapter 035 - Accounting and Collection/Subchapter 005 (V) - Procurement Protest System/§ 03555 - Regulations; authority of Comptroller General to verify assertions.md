@@ -22,7 +22,7 @@ Establishment and operation of system.—The Comptroller General shall establish
 
 &emsp;&emsp;(A) a person filing a protest under this subchapter may file the protest through electronic means; and
 
-&emsp;&emsp;(B) all documents and information required with respect to the protest may bedisseminated and made available to the parties to the protest through electronic means.
+&emsp;&emsp;(B) all documents and information required with respect to the protest may be disseminated and made available to the parties to the protest through electronic means.
 
 &emsp;(2)
 
@@ -52,6 +52,8 @@ Use of amounts.—Amounts in the account maintained under this paragraph shall b
 
 (Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, §1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, §1501, Jan. 17, 2014, 128 Stat. 433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–76 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records."
@@ -61,6 +63,8 @@ Use of amounts.—Amounts in the account maintained under this paragraph shall b
 <b>1994</b>—Subsec. (a). Pub. L. 103–355, §1404(c), substituted "The Comptroller General" for "Not later than January 15, 1985, the Comptroller General".
 
 Subsecs. (b) to (d). Pub. L. 103–355, §1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

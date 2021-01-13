@@ -74,7 +74,7 @@ In this section:
 
 &emsp;&emsp;(C) has the potential—
 
-&emsp;&emsp;&emsp;(i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chain water optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
+&emsp;&emsp;&emsp;(i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chainwater optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
 
 &emsp;&emsp;&emsp;(ii) to accelerate non-Federal investment in advanced manufacturing production capacity in the United States; or
 
@@ -444,7 +444,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 #### (6) Covered entities
 
-&emsp;For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States, State, local government, Tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
+&emsp;For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States,State, local government, Tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
 
 #### (7) Collaborations with other agencies
 
@@ -468,7 +468,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(I) at the Department of Agriculture relating to outreach to rural communities;
 
-&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support theactivities of existing Manufacturing USA institutes; and <sup>2</sup>
+&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and <sup>2</sup>
 
 &emsp;&emsp;(K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.<sup>2</sup>
 
@@ -489,6 +489,10 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
+
+#### Coordination With Hollings Manufacturing Extension Partnership Centers
+
+Pub. L. 116–283, div. H, title XCIV, §9415, Jan. 1, 2021, 134 Stat. 4822, provided that: "Notwithstanding section 34(d)(2)(A)(iv) of the National Institute for \[of\] Standards and Technology Act (15 U.S.C. 278s(d)(2)(A)(iv)), each Manufacturing USA Institute (established under subsection (d) of such section) shall, as appropriate, contract with a Hollings Manufacturing Extension Partnership Center (established under section 25 of such Act \[15 U.S.C. 278k\]) in each State in which such Institute provides services, either directly or through another such Center, to provide defense industrial base-related outreach, technical assistance, workforce development, and technology transfer assistance to small and medium-sized manufacturers. No Center shall charge in excess of its standard rate for such services. Funds received by a Center through such a contract shall not constitute financial assistance under section 25(e) of such Act."
 
 #### Expansion of Manufacturing USA Network
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) employees not included in the plan who are included in a unit of employees covered by an agreement between employee representatives and 1 or more employers which the Secretary finds to be a collective bargaining agreement if the class of benefits involved was the subject of good faith bargaining between such employee representatives and such employer or employers, and
 
-&emsp;&emsp;(E) employees who are nonresident aliens and who receive no earned income (withinthe meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
+&emsp;&emsp;(E) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
 
 #### (3) Application of subsection where other nondiscrimination rules provided
 
@@ -70,7 +70,7 @@
 
 &emsp;In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
-(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97; Pub. L. 115–141, div. U, title IV, §401(b)(21)(D), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov.10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97; Pub. L. 115–141, div. U, title IV, §401(b)(21)(D), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### Amendments
 

@@ -46,7 +46,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (5) Allocation among assets
 
-&emsp;The amount determined under paragraphs (1) and (2) shall be allocated among the assetsof the target corporation under regulations prescribed by the Secretary.
+&emsp;The amount determined under paragraphs (1) and (2) shall be allocated among the assets of the target corporation under regulations prescribed by the Secretary.
 
 #### (6) Definitions of recently purchased stock and nonrecently purchased stock
 

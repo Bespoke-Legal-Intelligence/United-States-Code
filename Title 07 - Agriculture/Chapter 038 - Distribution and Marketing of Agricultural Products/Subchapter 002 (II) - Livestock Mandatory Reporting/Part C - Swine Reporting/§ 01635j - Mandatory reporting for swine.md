@@ -36,7 +36,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (B) Outdated information
 
-&emsp;&emsp;After public notice and an opportunity for comment, subject to subparagraph (C), the Secretary shall promulgate regulations that specify additional information that shall be reported under this section if the Secretary determines under the review under subparagraph (A) that—
+&emsp;&emsp;After public notice and an opportunity for comment, subject to subparagraph (C), the Secretary shall promulgate regulations thatspecify additional information that shall be reported under this section if the Secretary determines under the review under subparagraph (A) that—
 
 &emsp;&emsp;&emsp;(i) information that is currently required no longer accurately reflects the methods by which swine are valued and priced by packers; or
 
@@ -174,7 +174,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;(iii) the base price paid for all base market hogs purchased up to that time of the reporting day through negotiated purchases; and
 
-&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased up to that time of the reporting day through each type of purchase other than negotiated purchase, unless such information is unavailable due to pricing that is determined on a delayed basis.
+&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased up to that time of the reporting day through each type of purchase other than negotiated purchase, unless such information is unavailable due topricing that is determined on a delayed basis.
 
 #### (B) Publication
 
@@ -264,7 +264,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, §102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices."
+<b>2015</b>—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, §102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The informationpublished by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices."
 
 Subsec. (c)(3)(C). Pub. L. 114–54, §102(b)(2), added subpar. (C).
 

@@ -44,6 +44,8 @@ In clause (5), the words "municipality or other" are omitted for consistency.
 
 The text of 15:5804(5) is omitted as unnecessary because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (4)(A), successively renumbered section 70301 of title 49 and section 70301 of this title as this section.

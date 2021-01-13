@@ -46,7 +46,7 @@ Assistance made available under this chapter to the Palestinian Authority may no
 
 &emsp;&emsp;(A) the administrative and personal security costs of the Office of the President of the Palestinian Authority;
 
-&emsp;&emsp;(B) the activities of the President of the Palestinian Authority to fulfill his or her duties as President, including to maintain control of the management and security of border crossings, to foster the Middle East peace process, and to promote democracy and the rule of law; and
+&emsp;&emsp;(B) the activities of the President of the Palestinian Authority to fulfill his or her duties as President, including to maintain control of the management and security ofborder crossings, to foster the Middle East peace process, and to promote democracy and the rule of law; and
 
 &emsp;&emsp;(C) assistance for the judiciary branch of the Palestinian Authority and other entities.
 
@@ -68,7 +68,7 @@ Assistance made available under this chapter to the Palestinian Authority may no
 
 #### (4) Treatment of certification as notification of program change
 
-&emsp;For purposes of this subsection, the certification required under paragraph (2)(B) shall bedeemed to be a notification under section 2394–1 of this title and shall be considered in accordance with the procedures applicable to notifications submitted pursuant to that section.
+&emsp;For purposes of this subsection, the certification required under paragraph (2)(B) shall be deemed to be a notification under section 2394–1 of this title and shall be considered in accordance with the procedures applicable to notifications submitted pursuant to that section.
 
 #### (f) Definitions
 
@@ -92,9 +92,13 @@ In this section:
 
 (Pub. L. 87–195, pt. III, §620K, as added, Pub. L. 109–446, §2(b)(2), Dec. 21, 2006, 120 Stat. 3318.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -150,7 +154,7 @@ Oversight.—For each of the fiscal years 2007 and 2008, the Secretary of State 
 
 &emsp;"(2)
 
-Vetting.—Prior to any obligation of amounts for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, the Secretary of State shall take all appropriate steps to ensure that such assistance is not provided to or through any individual or entity that the Secretary knows, or has reason to believe, advocates, plans, sponsors, engages in, or has engaged in, terrorist activity. The Secretary shall, as appropriate, establish procedures specifying the steps to be taken in carrying out this paragraph and shall terminate assistance to any individual or entity that the Secretary has determined advocates, plans, sponsors, or engages in terrorist activity.
+Vetting.—Prior to any obligation of amounts for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, theSecretary of State shall take all appropriate steps to ensure that such assistance is not provided to or through any individual or entity that the Secretary knows, or has reason to believe, advocates, plans, sponsors, engages in, or has engaged in, terrorist activity. The Secretary shall, as appropriate, establish procedures specifying the steps to be taken in carrying out this paragraph and shall terminate assistance to any individual or entity that the Secretary has determined advocates, plans, sponsors, or engages in terrorist activity.
 
 &emsp;"(3)
 
@@ -170,7 +174,7 @@ Audits by inspector general of usaid.—Of the amounts available for each of the
 
 #### "SEC. 4. DESIGNATION OF TERRITORY CONTROLLED BY THE PALESTINIAN AUTHORITY AS TERRORIST SANCTUARY.
 
-"It is the sense of Congress that, during any period for which a certification described in section 620K(b) ofthe Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of \[former\] section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) \[former 50 U.S.C. 4605(j)(5)\] and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f).
+"It is the sense of Congress that, during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of \[former\] section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) \[former 50 U.S.C. 4605(j)(5)\] and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f).
 
 #### "SEC. 5. DENIAL OF VISAS FOR OFFICIALS OF THE PALESTINIAN AUTHORITY.
 
@@ -234,7 +238,7 @@ Exceptions.—The prohibition on assistance described in subsection (a) should n
 
 "(c)
 
-Definition.—In this section, the term 'international financial institution' has the meaning given the term in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2)).
+Definition.—In this section, the term 'international financial institution' has the meaning giventhe term in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2)).
 
 #### "SEC. 9. DIPLOMATIC CONTACTS WITH PALESTINIAN TERROR ORGANIZATIONS.
 
@@ -262,7 +266,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 "Not later than 90 days after the date of the enactment of this Act \[Dec. 21, 2006\], and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that—
 
-&emsp;"(1) describes the steps that have been taken by the United States Government to ensure that other countries and international organizations, includingmultilateral development banks, do not provide direct assistance to the Palestinian Authority for any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority; and
+&emsp;"(1) describes the steps that have been taken by the United States Government to ensure that other countries and international organizations, including multilateral development banks, do not provide direct assistance to the Palestinian Authority for any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority; and
 
 &emsp;"(2) identifies any countries and international organizations, including multilateral development banks, that are providing direct assistance to the Palestinian Authority during such a period, and describes the nature and amount of such assistance.
 
@@ -281,6 +285,8 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 &emsp;"(2)
 
 Palestinian authority.—The term 'Palestinian Authority' has the meaning given the term in section 620K(e)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(e)(2)\] (as added by section 2(b)(2) of this Act)."
+
+#### <b>Executive Documents</b>
 
 #### Assistance for the West Bank and Gaza
 

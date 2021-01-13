@@ -10,9 +10,13 @@
 
 (June 19, 1934, ch. 652, title VII, §712, as added Pub. L. 100–667, title II, §203, Nov. 16, 1988, 102 Stat. 3958; amended Pub. L. 103–414, title III, §304(a)(17), Oct. 25, 1994, 108 Stat. 4297.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–414 struck out ", within 120 days after January 1, 1989," after "The Federal Communications Commission shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

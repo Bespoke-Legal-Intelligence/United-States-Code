@@ -6,7 +6,7 @@ When Evaluation Should Occcur <sup>1</sup>.—Periodically, but not less than e
 
 (b)
 
-Disapproval of Program.—If, at any time, the Secretary determines that a major aspect of a State program is not consistent with this division, the Secretary shall disapprove the program and suspend in whole or in part any contracts orcooperative agreements with the State and the State Historic Preservation Officer under this division, until the program is consistent with this division, unless the Secretary determines that the program will be made consistent with this division within a reasonable period of time.
+Disapproval of Program.—If, at any time, the Secretary determines that a major aspect of a State program is not consistent with this division, the Secretary shall disapprove the program and suspend in whole or in part any contracts or cooperative agreements with the State and the State Historic Preservation Officer under this division, until the program is consistent with this division, unless the Secretary determines that the program will be made consistent with this division within a reasonable period of time.
 
 (c)
 

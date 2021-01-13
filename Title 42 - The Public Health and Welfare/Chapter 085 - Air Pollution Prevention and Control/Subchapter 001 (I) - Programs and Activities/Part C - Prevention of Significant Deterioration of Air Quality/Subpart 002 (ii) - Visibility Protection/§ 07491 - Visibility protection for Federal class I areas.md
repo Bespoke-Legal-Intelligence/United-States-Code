@@ -30,7 +30,7 @@ Regulations under subsection (a)(4) shall—
 
 &emsp;&emsp;(B) a long-term (ten to fifteen years) strategy for making reasonable progress toward meeting the national goal specified in subsection (a).
 
-> In the case of a fossil-fuel fired generating powerplant having a total generating capacityin excess of 750 megawatts, the emission limitations required under this paragraph shall be determined pursuant to guidelines, promulgated by the Administrator under paragraph (1).
+> In the case of a fossil-fuel fired generating powerplant having a total generating capacity in excess of 750 megawatts, the emission limitations required under this paragraph shall be determined pursuant to guidelines, promulgated by the Administrator under paragraph (1).
 
 #### (c) Exemptions
 

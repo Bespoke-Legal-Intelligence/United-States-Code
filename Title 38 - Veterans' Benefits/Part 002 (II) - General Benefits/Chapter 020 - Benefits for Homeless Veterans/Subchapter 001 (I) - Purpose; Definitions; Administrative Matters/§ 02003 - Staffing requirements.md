@@ -6,7 +6,7 @@ VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at 
 
 &emsp;(1) Housing programs administered by the Secretary under this title or any other provision of law.
 
-&emsp;(2) Compensation, pension, vocational rehabilitation, and education benefits programsadministered by the Secretary under this title or any other provision of law.
+&emsp;(2) Compensation, pension, vocational rehabilitation, and education benefits programs administered by the Secretary under this title or any other provision of law.
 
 &emsp;(3) The housing program for veterans supported by the Department of Housing and Urban Development.
 
@@ -20,9 +20,15 @@ VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at 
 
 (b)
 
-VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager.
+VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager. In the case of vouchers provided under the HUD–VASH program under section 8(o)(19) of such Act, for purposes of the preceding sentence, the term "veteran" shall have the meaning given such term in section 2002(b) of this title.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
+(c)
+
+Memorandum of Understanding on Assistance From Indian Health Service.—The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers ofthe Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.
+
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 116–283, div. H, title XCI, §9103(b), Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title IV, §4206, Jan. 5, 2021, 134 Stat. 5014.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -59,4 +65,36 @@ Prior section 2010 was renumbered section 4110 of this title.
 Another prior section 2010 was renumbered section 4101 of this title.
 
 Prior section 2010A was renumbered section 4110A of this title.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 inserted at end "In the case of vouchers provided under the HUD–VASH program under section 8(o)(19) of such Act, for purposes of the preceding sentence, the term 'veteran' shall have the meaning given such term in section 2002(b) of this title."
+
+Subsec. (c). Pub. L. 116–315 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Report on Staffing of Department of Housing and Urban Development-Department of Veterans Affairs Supported Housing Program
+
+Pub. L. 116–315, title IV, §4208, Jan. 5, 2021, 134 Stat. 5015, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], and every three years thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that includes the following:
+
+&emsp;"(1) An assessment of the hiring needs of the program carried out under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) (in this section referred to as the 'HUD-VASH program'), including—
+
+&emsp;&emsp;"(A) an identification of the number of case managers of the HUD-VASH program as of the date of the report including—
+
+&emsp;&emsp;&emsp;"(i) the total number of vacancies; and
+
+&emsp;&emsp;&emsp;"(ii) the vacancies at each medical center of the Department of Veterans Affairs;
+
+&emsp;&emsp;"(B) the number of case managers of the HUD-VASH program that the Secretary of Veterans Affairs and the Secretary of Housing and Urban Development jointly determine necessary to meet the needs of the Department and the program; and
+
+&emsp;&emsp;"(C) the amount of turnover among case managers of the HUD-VASH program and whether the turnover was planned or unexpected.
+
+&emsp;"(2) An assessment of how compensation, including recruitment and retention incentives, for case managers of the HUD-VASH program affects turnover, and what percentage of retention compensation is provided to such case managers at each medical center of the Department of Veterans Affairs (compared to other positions).
+
+&emsp;"(3) A comparison of compensation described in paragraph (2) with the compensation provided to State, local, and nongovernmental housing employees at comparable training and experience levels.
+
+&emsp;"(4) Examples of how the Department of Veterans Affairs and the Department of Housing and Urban Development have worked with non-Federal partners (such as local governments, nongovernmental organizations, veterans service organizations, and employee unions) to meet the staffing needs of the HUD-VASH program.
+
+&emsp;"(5) Examples of how medical centers of the Department of Veterans Affairs with high retention rates for case managers of the HUD-VASH program have been able to maintain staffing levels."
 

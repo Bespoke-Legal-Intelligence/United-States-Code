@@ -1,6 +1,6 @@
 ### §6761. Coordination with Financial Industry Regulatory Authority
 
-The Association shall coordinate with the Financial Industry Regulatory Authority in order to ease any administrative burdens that fall on members of the Association that are subject to regulation by the Financial Industry RegulatoryAuthority, consistent with the requirements of this subchapter and the Federal securities laws.
+The Association shall coordinate with the Financial Industry Regulatory Authority in order to ease any administrative burdens that fall on members of the Association that are subject to regulation by the Financial Industry Regulatory Authority, consistent with the requirements of this subchapter and the Federal securities laws.
 
 (Pub. L. 106–102, title III, §331, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 26.)
 

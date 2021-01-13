@@ -28,7 +28,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(G) requires that the contractor shall not receive an advantage for a proposal that would reduce costs for the Department of Defense by—
 
-&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment thatcould be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
+&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
 
 &emsp;&emsp;(ii) offering to such workers an employer-sponsored health benefits plan that requires the employer to contribute less towards the premium or subscription share than the amount that is paid by the Department of Defense for health benefits for civilian employees of the Department under chapter 89 of title 5; or
 
@@ -46,7 +46,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (4) A military department or Defense Agency may not be required to conduct a public-private competition under Office of Management and Budget Circular A–76 or any other provision of law at the end of the performance period specified in a letter of obligation or other agreement entered into with Department of Defense civilian employees pursuant to a public-private competition for any function of the Department of Defense performed by Department of Defense civilian employees.
 
-(5)(A) Except as provided in subparagraph (B), the duration of a public-private competition conducted pursuant to Office of Management and Budget Circular A–76 or any other provision of law for any function of the Department of Defense performed by Department of Defense civilian employees may not exceed a period of 24 months, commencing on the date on which the preliminary planning for the public-private competition begins and ending on the date on which a performance decision is rendered with respect to the function.
+(5)(A) Except as provided in subparagraph (B), the duration of a public-private competition conducted pursuant to Office of Management and Budget Circular A–76 or any other provisionof law for any function of the Department of Defense performed by Department of Defense civilian employees may not exceed a period of 24 months, commencing on the date on which the preliminary planning for the public-private competition begins and ending on the date on which a performance decision is rendered with respect to the function.
 
 (B)(i) The Secretary of Defense may specify an alternative period of time for a public-private competition, which may not exceed 33 months, if the Secretary—
 
@@ -134,7 +134,7 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 (e)
 
-Inapplicability During War or Emergency.—The provisions of this section shall notapply during war or during a period of national emergency declared by the President or Congress.
+Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
 (Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title IX, §937, Dec. 31, 2011, 125 Stat. 1546; Pub. L. 112–239, div. A, title X, §1076(f)(28), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 113–66, div. A, title X, §1091(a)(11), Dec. 26, 2013, 127 Stat. 876.)
 
@@ -148,7 +148,7 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 
 Subsec. (d)(2). Pub. L. 112–239 substituted "such section" for "that Act".
 
-<b>2011</b>—Subsec. (a)(5)(E). Pub. L. 112–81, §937(1)(A)–(E), in introductory provisions, substituted "competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort" for "competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support".
+<b>2011</b>—Subsec. (a)(5)(E). Pub. L. 112–81, §937(1)(A)–(E), in introductory provisions, substituted "competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort" for "competition, beginson the date on which the Department of Defense obligates funds for the acquisition of contract support".
 
 Subsec. (a)(5)(E)(i). Pub. L. 112–81, §937(1)(F), inserted "a public-private" before "competition".
 
@@ -224,7 +224,7 @@ Subsec. (c)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title III, §352\], ad
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, §342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
 
-Subsec. (b). Pub. L. 105–261, §342(a)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance."
+Subsec. (b). Pub. L. 105–261, §342(a)(2), added subsec. (b) and struck out heading and text of former subsec.\(b). Text read as follows: "If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance."
 
 Subsec. (c). Pub. L. 105–261, §342(a)(2), added subsec. (c). Former subsec. (c) redesignated (g).
 
@@ -278,7 +278,7 @@ Inspector General Review.—
 
 &emsp;"(1)
 
-Comprehensive review required.—The Inspector General of the Department of Defense shall conduct a comprehensive review of the compliance of the Secretary of Defense and the Secretaries of the military departments with the requirements of this section during calendar year 2008. The Inspector Generalshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following reports on the comprehensive review:
+Comprehensive review required.—The Inspector General of the Department of Defense shall conduct a comprehensive review of the compliance of the Secretary of Defense and the Secretaries of the military departments with the requirements of this section during calendar year 2008. The Inspector General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following reports on the comprehensive review:
 
 &emsp;&emsp;"(A) An interim report, to be submitted by not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
@@ -310,7 +310,7 @@ Compliance With Law Applicable to Service Contracts.—A contract entered into u
 
 &emsp;"(1) the Secretary shall not be required to certify to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the contract is the most cost-effective means of obtaining commercial fee-for-service air refueling tanker aircraft for Air Force operations; and
 
-&emsp;"(2) the Secretary shall not be required to certify to the congressional defense committees that there is no alternative for meeting urgent operational requirements other than making the contract.
+&emsp;"(2) the Secretary shall not be required to certify to the congressional defense committees that there isno alternative for meeting urgent operational requirements other than making the contract.
 
 "(d)
 

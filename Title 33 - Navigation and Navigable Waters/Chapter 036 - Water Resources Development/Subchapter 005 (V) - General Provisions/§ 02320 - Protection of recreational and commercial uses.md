@@ -20,7 +20,7 @@ Whenever the Secretary maintains, repairs, rehabilitates, or reconstructs a wate
 
 #### (3) Termination date
 
-&emsp;This subsection shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any restoration commenced under this subsection on or before such last day.
+&emsp;This subsection shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretarymay complete any restoration commenced under this subsection on or before such last day.
 
 #### (d) Applicability
 
@@ -38,9 +38,13 @@ Costs incurred by the Secretary to carry out the objectives of this section shal
 
 (Pub. L. 101–640, title III, §313, Nov. 28, 1990, 104 Stat. 4640.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

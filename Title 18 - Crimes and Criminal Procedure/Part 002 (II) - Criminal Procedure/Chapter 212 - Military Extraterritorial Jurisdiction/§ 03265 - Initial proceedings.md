@@ -16,7 +16,7 @@
 
 &emsp;(2) at the request of the person, may be carried out by telephony or such other means that enables voice communication among the participants, including any counsel representing the person.
 
-(c)(1) If any initial proceeding under this section with respect to any such person is conducted while the person is outside the United States, and the person is entitled to have counsel appointed for purposes of such proceeding, the Federal magistrate judge may appoint as such counsel for purposes of such hearing a qualified military counsel.
+(c)(1) If any initial proceeding under this section with respect to any such person is conducted while the person is outside the UnitedStates, and the person is entitled to have counsel appointed for purposes of such proceeding, the Federal magistrate judge may appoint as such counsel for purposes of such hearing a qualified military counsel.
 
 (2) For purposes of this subsection, the term "qualified military counsel" means a judge advocate made available by the Secretary of Defense for purposes of such proceedings, who—
 
@@ -25,6 +25,8 @@
 &emsp;(B) is certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
 
 (Added Pub. L. 106–523, §2(a), Nov. 22, 2000, 114 Stat. 2490.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

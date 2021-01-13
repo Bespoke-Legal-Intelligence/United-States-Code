@@ -26,7 +26,7 @@ The Administrator shall establish a management structure for the nuclear securit
 
 &emsp;(B) relating to any other matter in accordance with paragraph (1).
 
-(4) Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendation will be implemented and the reasoning for implementing or not implementing such recommendation.
+(4) Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendationwill be implemented and the reasoning for implementing or not implementing such recommendation.
 
 (Pub. L. 107–314, div. D, title XLI, §4102, formerly Pub. L. 104–201, div. C, title XXXI, §3140, Sept. 23, 1996, 110 Stat. 2833; renumbered Pub. L. 107–314, div. D, title XLI, §4102, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(3), Nov. 24, 2003, 117 Stat. 1757; Pub. L. 112–239, div. C, title XXXI, §3113(a), Jan. 2, 2013, 126 Stat. 2169; Pub. L. 113–291, div. C, title XXXI, §3142(b), Dec. 19, 2014, 128 Stat. 3900.)
 
@@ -49,6 +49,50 @@ Subsec. (b)(3)(B). Pub. L. 113–291, §3142(b)(3), inserted "relating to" befor
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to reorganization of field activities and management of national security functions.
 
 <b>2003</b>—Subsec. (d)(2). Pub. L. 108–136, §3141(d)(3)(D), substituted "January 21, 1997," for "120 days after the date of the enactment of this Act,".
+
+#### Monitoring of Industrial Base for Nuclear Weapons Components, Subsystems, and Materials
+
+Pub. L. 116–283, div. C, title XXXI, §3113, Jan. 1, 2021, 134 Stat. 4378, provided that:
+
+"(a)
+
+Designation of Official.—Not later than March 1, 2021, the Administrator for Nuclear Security shall designate a senior official within the National Nuclear Security Administration to be responsible for monitoring the industrial base that supports the nuclear weapons components, subsystems, and materials of the Administration, including—
+
+&emsp;"(1) the consistent monitoring of the current status of the industrial base;
+
+&emsp;"(2) tracking of industrial base issues over time; and
+
+&emsp;"(3) proactively identifying gaps or risks in specific areas relating to the industrial base.
+
+"(b)
+
+Provision of Resources.—The Administrator shall ensure that the official designated under subsection (a) is provided with resources sufficient to conduct the monitoring required by that subsection.
+
+"(c)
+
+Consultations.—The Administrator, acting through the official designated under subsection (a), shall, to the extent practicable and beneficial, in conducting the monitoring required by that subsection, consult with—
+
+&emsp;"(1) officials of the Department of Defense who are members of the Nuclear Weapons Council established under section 179 of title 10, United States Code;
+
+&emsp;"(2) officials of the Department of Defense responsible for the defense industrial base; and
+
+&emsp;"(3) other components of the Department of Energy that rely on similar components, subsystems, or materials.
+
+"(d)
+
+Briefings.—
+
+&emsp;"(1)
+
+Initial briefing.—Not later than April 1, 2021, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the designation of the official required by subsection (a), including on—
+
+&emsp;&emsp;"(A) the responsibilities assigned to that official; and
+
+&emsp;&emsp;"(B) the plan for providing that official with resources sufficient to conduct the monitoring required by subsection (a).
+
+&emsp;"(2)
+
+Subsequent briefings.—Not later than April 1, 2022, and annually thereafter through 2024, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on activities carried out under this section that includes an assessment of the progress made by the official designated under subsection (a) in conducting the monitoring required by that subsection."
 
 #### Common Financial Reporting System for the Nuclear Security Enterprise
 
@@ -86,7 +130,7 @@ Report.—Each report under this subsection shall include the following:
 
 &emsp;&emsp;"(B) A summary of planned activities in connection with the implementation of a common financial reporting system for the nuclear security enterprise in the year in which such report is submitted.
 
-&emsp;&emsp;"(C) A description of any anticipated modifications to the schedule for implementing a common financial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation.
+&emsp;&emsp;"(C) A description of any anticipated modifications to the schedule for implementing a commonfinancial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation.
 
 &emsp;"(3)
 
@@ -232,7 +276,7 @@ Duties.—The panel established under paragraph (1) shall—
 
 Reports.—(A) Not later than July 1, 2016, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator an initial assessment of the implementation plan developed under subsection (b)(1)(A), including with respect to the completeness of the plan, how the plan aligns with the intent and recommendations made by the covered study, and the prospects for success for the plan.
 
-&emsp;"(B) Beginning February 28, 2017, and semiannually thereafter through 2020, the panel established underparagraph (1) shall brief the appropriate congressional committees, the Secretary, and the Administrator on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A).
+&emsp;"(B) Beginning February 28, 2017, and semiannually thereafter through 2020, the panel established under paragraph (1) shall brief the appropriate congressional committees, the Secretary, and the Administrator on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A).
 
 &emsp;"(C) Not later than September 30, 2020, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator a final report on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A), including an assessment of the effectiveness of the reform efforts under such plan and whether further action is needed.
 

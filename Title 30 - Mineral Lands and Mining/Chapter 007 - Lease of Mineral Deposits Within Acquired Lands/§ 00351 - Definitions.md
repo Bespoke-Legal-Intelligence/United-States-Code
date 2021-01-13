@@ -4,13 +4,15 @@ As used in this chapter "United States" includes Alaska. "Acquired lands" or "la
 
 (Aug. 7, 1947, ch. 513, §2, 61 Stat. 913; Pub. L. 97–78, §1(9)(a), Nov. 16, 1981, 95 Stat. 1072.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 
 Act of October 20, 1914, referred to in text, is act Oct. 20, 1914, ch. 330, 38 Stat. 741, known as the Alaska Coal Lands Act, which was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The subject matter of this Act is generally covered by subchapters I to VII (§181 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code prior to repeal, see Tables.
 
-Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generallyto chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, as amended, which is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -20,15 +22,19 @@ Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 St
 
 <b>1981</b>—Pub. L. 97–78 inserted definition of "oil".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act Aug. 7, 1947, ch. 513, §1, 61 Stat. 913, provided: "That this Act \[enacting this chapter\] may be cited as the 'Mineral Leasing Act for Acquired Lands'."
 
-#### Admission of Alaska as State
-
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
 #### Outer Continental Shelf Lands; Definition
 
 Definition of "outer Continental Shelf" with respect to jurisdiction of United States, and mineral leases on submerged lands of such shelf, see section 1331 et seq. of Title 43, Public Lands.
+
+#### <b>Executive Documents</b>
+
+#### Admission of Alaska as State
+
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 

@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Section 2304 requires a master or individual in charge of a vessel to render assistance to those in danger at sea if able to do so without seriously endangering the vessel or crew.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–304 designated existing provisions as par. (1) and added par. (2).

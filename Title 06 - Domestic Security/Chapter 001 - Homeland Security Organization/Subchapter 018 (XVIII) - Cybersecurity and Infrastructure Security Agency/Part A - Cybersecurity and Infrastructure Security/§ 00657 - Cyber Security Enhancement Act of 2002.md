@@ -56,6 +56,8 @@ Not later than May 1, 2003, the United States Sentencing Commission shall submit
 
 (Pub. L. 107–296, title XXII, §2207, formerly title II, §225, Nov. 25, 2002, 116 Stat. 2156; renumbered title XXII, §2207, Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 145 of this title prior to renumbering by Pub. L. 115–278.

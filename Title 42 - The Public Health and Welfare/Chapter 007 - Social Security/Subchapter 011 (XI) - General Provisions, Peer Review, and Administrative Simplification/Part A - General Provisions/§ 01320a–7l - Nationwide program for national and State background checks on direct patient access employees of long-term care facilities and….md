@@ -34,7 +34,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;The procedures established under subsection (b)(1) of such section 307 shall—
 
-&emsp;&emsp;(A) require that the long-term care facility or provider (or the designated agent of the long-term care facility or provider) obtain State and national criminal history background checks on the prospective employee through such means as the Secretary determines appropriate, efficient, and effective that utilize a search of State-based abuse and neglect registries and databases, including the abuse and neglect registries of another State in the case where a prospective employee previously resided in that State, State criminal history records, the records of any proceedings in the State that may contain disqualifying information about prospective employees (such as proceedings conducted by State professional licensing and disciplinary boards and State Medicaid Fraud Control Units), and Federal criminal history records, including a fingerprint check using the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation;
+&emsp;&emsp;(A) require that the long-term care facility or provider (or the designated agent of the long-term care facility or provider) obtain State and national criminal history background checks on the prospective employee through such means as the Secretary determines appropriate, efficient, and effective that utilize a search of State-based abuse and neglect registries and databases, including the abuse and neglect registries of another State in the case where a prospective employee previously resided in that State, State criminal history records, the records of any proceedings in the State that may contain disqualifying information about prospective employees (such as proceedings conducted by State professional licensing anddisciplinary boards and State Medicaid Fraud Control Units), and Federal criminal history records, including a fingerprint check using the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation;
 
 &emsp;&emsp;(B) require States to describe and test methods that reduce duplicative fingerprinting, including providing for the development of "rap back" capability by the State such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department, the department will immediately inform the State and the State will immediately inform the long-term care facility or provider which employs the direct patient access employee of such conviction; and
 
@@ -82,7 +82,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to the costs to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or private entities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
+&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to thecosts to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or private entities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
 
 #### (ii) Federal match
 
@@ -266,7 +266,7 @@ In general.—Under the pilot program, a participating State may permit a long-t
 
 &emsp;&emsp;&emsp;"(ii)
 
-Special consideration for certain facilities and providers.—In determining what constitutes appropriate supervision of a provisional employee, a participating State shall take into account cost or other burdens that would be imposed on small rural long-term care facilities or providers, as well as the nature of care delivered by such facilities or providers that are home health agencies or providers of hospice care.
+Special consideration for certain facilities and providers.—In determining what constitutes appropriate supervision of a provisional employee, a participating State shall take into account cost or other burdens that would be imposed on small rural long-term care facilities or providers, as well as the nature of care deliveredby such facilities or providers that are home health agencies or providers of hospice care.
 
 &emsp;"(4)
 

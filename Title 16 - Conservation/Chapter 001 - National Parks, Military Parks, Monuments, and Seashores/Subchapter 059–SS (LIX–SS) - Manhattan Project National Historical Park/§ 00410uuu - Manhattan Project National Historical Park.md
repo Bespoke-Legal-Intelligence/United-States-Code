@@ -198,7 +198,7 @@ In this section:
 
 #### (C) Donations to Department of Energy
 
-&emsp;&emsp;For the purposes of this section, or for the purpose of preserving and providing access to historically significant Manhattan Project resources, the Secretary of Energy may accept, hold, administer, and use gifts, bequests, and devises (including labor and services).
+&emsp;&emsp;For the purposes of this section, or for the purpose of preserving and providing accessto historically significant Manhattan Project resources, the Secretary of Energy may accept, hold, administer, and use gifts, bequests, and devises (including labor and services).
 
 #### (g) Adjacent management
 
@@ -208,7 +208,7 @@ In this section:
 
 #### (2) Activities outside the boundary of the Historical Park
 
-&emsp;The fact that an activity or use on land outside the boundary of the Historical Park canbe seen or heard from within the boundary shall not preclude the activity or use outside the boundary of the Historical Park.
+&emsp;The fact that an activity or use on land outside the boundary of the Historical Park can be seen or heard from within the boundary shall not preclude the activity or use outside the boundary of the Historical Park.
 
 #### (h) No cause of action
 

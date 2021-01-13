@@ -22,11 +22,15 @@ The Secretary shall monitor the use of guarantees under this subchapter by India
 
 (Pub. L. 104–330, title VI, §605, Oct. 26, 1996, 110 Stat. 4047; Pub. L. 107–292, §2(b), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, §701(b), Oct. 14, 2008, 122 Stat. 4334.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsecs. (a), (b). Pub. L. 110–411 substituted "2009 through 2013" for "1997 through 2007".
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–292 substituted "1997 through 2007" for "1997, 1998, 1999, 2000, and 2001".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

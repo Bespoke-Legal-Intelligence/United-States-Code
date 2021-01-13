@@ -32,7 +32,7 @@
 
 Review and determination.—Within the applicable review period, subject to section 2617 of this title, the Administrator shall review such notice and determine—
 
-&emsp;(A) that the relevant chemical substance or significant new use presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, in which case the Administrator shall take the actions required under subsection (f);
+&emsp;(A) that the relevant chemical substance or significant new use presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptiblesubpopulation identified as relevant by the Administrator under the conditions of use, in which case the Administrator shall take the actions required under subsection (f);
 
 &emsp;(B) that—
 
@@ -90,7 +90,7 @@ Article consideration.—The Administrator may require notification under this s
 
 &emsp;(i) in the case of a substance with respect to which notice is required under subsection (a)(1)(A)(i), the manufacture, processing, distribution in commerce, use, and disposal of the chemical substance or any combination of such activities will not present an unreasonable risk of injury to health or the environment, or
 
-&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(A)(ii), the intended significant new use of the chemical substance will not present an unreasonable risk of injury to health or the environment.
+&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(A)(ii), the intended significant new use of the chemical substance will notpresent an unreasonable risk of injury to health or the environment.
 
 (3) Information submitted under paragraph (1) or (2) of this subsection or under subsection (e) shall be made available, subject to section 2613 of this title, for examination by interested persons.
 
@@ -144,9 +144,9 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(II) such substance is or will be produced in substantial quantities, and such substance either enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to the substance,
 
-> the Administrator shall issue an order, to take effect on the expiration of the applicable review period, to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance or to prohibit or limit any combination of such activities to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order.
+> the Administrator shall issue an order, to take effect on the expiration of the applicable review period, to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance or to prohibit or limitany combination of such activities to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order.
 
-(B) An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of theapplicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
+(B) An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the applicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 
 #### (f) Protection against unreasonable risks
 
@@ -190,11 +190,11 @@ If the Administrator finds in accordance with subsection (a)(3)(C) that a chemic
 
 &emsp;(i) the chemical substance with respect to which such application was submitted is equivalent to a chemical substance for which information has been submitted to the Administrator as required by subsection (b)(2), and
 
-&emsp;(ii) submission of information by the applicant on such substance would be duplicative of information which has been submitted to the Administrator in accordance with such subsection,
+&emsp;(ii) submission of information by the applicant on such substance would be duplicative ofinformation which has been submitted to the Administrator in accordance with such subsection,
 
 > the Administrator shall exempt the applicant from the requirement to submit such information on such substance. No exemption which is granted under this subparagraph with respect to the submission of information for a chemical substance may take effect before the beginning of the reimbursement period applicable to such information.
 
-(B) If the Administrator exempts any person, under subparagraph (A), from submitting information required under subsection (b)(2) for a chemical substance because of the existence of previously submitted information and if suchexemption is granted during the reimbursement period for such information, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(B) If the Administrator exempts any person, under subparagraph (A), from submitting information required under subsection (b)(2) for a chemical substance because of the existence of previously submitted information and if such exemption is granted during the reimbursement period for such information, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to the person who previously submitted the information on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) to submit such information, and
 

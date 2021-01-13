@@ -20,7 +20,7 @@ Incentive Pay Authorized.—(1) The Secretary concerned may pay monthly incentiv
 
 (c)
 
-Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer must perform operational flying duties for 6 of the first 10, 9 of the first 15, and 14 of the first 20 years of aviation service, to be eligible forcontinuous monthly incentive pay under this section.
+Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer must perform operational flying duties for 6 of the first 10, 9 of the first 15, and 14 of the first 20 years of aviation service, to be eligible for continuous monthly incentive pay under this section.
 
 (2) Upon completion of 10, 15, or 20 years of aviation service, an enlisted member who has not performed the minimum required operational flying duties specified in paragraph (1) during the prescribed period, although otherwise meeting the definition in subsection (a), may no longer be paid continuous monthly incentive pay except as provided in paragraph (3). Payment of continuous monthly incentive pay may be resumed if the member meets the minimum operational flying duty requirement upon completion of the next established period of aviation service.
 
@@ -30,7 +30,7 @@ Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer mu
 
 (d)
 
-Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive pay paid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
+Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive paypaid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
 
 &nbsp;
 
@@ -66,6 +66,8 @@ Definitions.—In this section:
 &emsp;(2) The term "operational flying duty" means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
 
 (Added Pub. L. 106–65, div. A, title VI, §628(a)(1), Oct. 5, 1999, 113 Stat. 657.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

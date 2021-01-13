@@ -4,9 +4,13 @@ The Secretary may appoint the members of the Service (other than the members of 
 
 (Pub. L. 96–465, title I, §303, Oct. 17, 1980, 94 Stat. 2085.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries
 
@@ -57,6 +61,8 @@ Limitation.—To the maximum extent practicable, citizens of the Soviet Union sh
 "(b)
 
 Report.—Should the President determine that the implementation of subsection (a) poses undue practical or administrative difficulties, he is requested to submit a report to the Congress describing the number and type of Soviet foreign national employees he wishes to retain at or in proximity to United States diplomatic and consular posts in the Soviet Union, the anticipated duration of their continued employment, the reasons for their continued employment, and the risks associated with the retention of these employees."
+
+#### <b>Executive Documents</b>
 
 #### Employment of Soviet Nationals at U.S. Diplomatic and Consular Missions in Soviet Union
 

@@ -58,7 +58,7 @@ The Secretary shall provide grants to tribes, tribal organizations, and consorti
 
 The early childhood development programs that are funded by grants provided under subsection (a)—
 
-&emsp;(1) shall coordinate existing programs and may provide services that meet identifiedneeds of parents and children under 6 years of age which are not being met by existing programs, including—
+&emsp;(1) shall coordinate existing programs and may provide services that meet identified needs of parents and children under 6 years of age which are not being met by existing programs, including—
 
 &emsp;&emsp;(A) prenatal care;
 
@@ -90,6 +90,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 95–561, title XI, §1139, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2058; amended Pub. L. 114–95, title IX, §9215(cc)(1), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 2 of part B of title II of the Act is classified generally to subpart 2 (§6641 et seq.) of part B of subchapter II of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
@@ -103,6 +105,8 @@ Another prior section 2019, Pub. L. 95–561, title XI, §1139, Nov. 1, 1978, 92
 #### Amendments
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–95 substituted "subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965" for "part B of title I of the Elementary and Secondary Education Act of 1965".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

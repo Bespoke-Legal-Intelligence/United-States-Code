@@ -54,6 +54,8 @@ For purposes of this section—
 
 (Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271, 275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203, §9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
@@ -76,7 +78,7 @@ Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end "The preceding provision
 
 <b>1986</b>—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out "of employer" after "liability" in section catchline.
 
-Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers" and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
+Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers"and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
 
 Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: "Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting 'lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974' for 'lien imposed by section 6321'; 'corporation' for 'Secretary or his delegate'; 'employer liability lien' for 'tax lien'; 'employer' for 'taxpayer'; 'lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974' for 'assessment of the tax'; and 'payment of the loan value is made to the corporation' for 'satisfaction of a levy pursuant to section 6332(b)'; each place such terms appear."
 
@@ -86,11 +88,13 @@ Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out ", with
 
 <b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted "a case under title 11 or in" and "title 11" for "the case of bankruptcy or" and "the Bankruptcy Act".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7881(f)(3)(B), (10)(C), (12) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 3 of Public Law 97–258."
 

@@ -20,9 +20,13 @@ Except as otherwise specifically provided, in this Act:
 
 (Pub. L. 112–158, §2, Aug. 10, 2012, 126 Stat. 1216.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -44,7 +48,7 @@ In General.—At the times specified in subsection (b), the Director of National
 
 &emsp;&emsp;"(A) to provide support for—
 
-&emsp;&emsp;&emsp;"(i) any individual or entity designated for the imposition of sanctions for activities relating to international terrorism pursuant to an executive order or by the Office of Foreign Assets Control of the Department of the Treasury as of the date of the enactment of this Act \[Dec. 18, 2015\];
+&emsp;&emsp;&emsp;"(i) any individual or entity designated for the imposition of sanctions for activities relating to international terrorism pursuant to an executiveorder or by the Office of Foreign Assets Control of the Department of the Treasury as of the date of the enactment of this Act \[Dec. 18, 2015\];
 
 &emsp;&emsp;&emsp;"(ii) any organization designated by the Secretary of State as a foreign terrorist organization under section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)) as of the date of the enactment of this Act;
 
@@ -160,7 +164,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 &emsp;"(11) In October 2011, the United States charged two men, Manssor Arbabsiar, a United States citizen holding both Iranian and United States passports, and Gholam Shakuri, an Iran-based member of Iran's IRGC Qods Force, with conspiracy to murder a foreign official using explosives in an act of terrorism. Arbabsiar traveled to Mexico with the express intent to hire 'someone in the narcotics business' to carry out the assassination of the Saudi Arabian Ambassador in the United States. While in the end, he only engaged a U.S. Drug Enforcement Agency informant posing as an associate of a drug trafficking cartel, Arbabsiar believed that he was working with a member of a Mexican drug trafficking organization and sought to send money to this individual in installments and not in a single transfer.
 
-&emsp;"(12) In February 2011, actions by the Department of the Treasury effectively shut down the LebaneseCanadian Bank. Subsequent actions by the United States Government in connection with the investigation into Lebanese Canadian Bank resulted in the indictment in December 2011 of Ayman Joumaa, an individual of Lebanese nationality, with citizenship in Lebanon and Colombia, and with ties to Hezbollah, for trafficking cocaine to the Los Zetas drug trafficking organization in Mexico City for sale in the United States and for laundering the proceeds.
+&emsp;"(12) In February 2011, actions by the Department of the Treasury effectively shut down the Lebanese Canadian Bank. Subsequent actions by the United States Government in connection with the investigation into Lebanese Canadian Bank resulted in the indictment in December 2011 of Ayman Joumaa, an individual of Lebanese nationality, with citizenship in Lebanon and Colombia, and with ties to Hezbollah, for trafficking cocaine to the Los Zetas drug trafficking organization in Mexico City for sale in the United States and for laundering the proceeds.
 
 #### "SEC. 3. STATEMENT OF POLICY.
 

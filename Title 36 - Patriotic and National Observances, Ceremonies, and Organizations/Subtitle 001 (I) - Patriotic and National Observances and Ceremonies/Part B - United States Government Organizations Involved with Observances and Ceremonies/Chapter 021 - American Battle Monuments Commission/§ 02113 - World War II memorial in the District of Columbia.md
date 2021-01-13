@@ -14,7 +14,7 @@ Creation of Memorial Fund.—(1) There is hereby created in the Treasury a fund 
 
 &emsp;(B) Obligations obtained under paragraph (3).
 
-&emsp;(C) The amount of surcharges paid to the Commission for the World War II memorial under the World War II 50th Anniversary Commemorative Coins Act (31 U.S.C. 5112 note).
+&emsp;(C) The amount of surcharges paid to the Commission for the World War II memorialunder the World War II 50th Anniversary Commemorative Coins Act (31 U.S.C. 5112 note).
 
 &emsp;(D) Amounts borrowed using the authority provided under subsection (d).
 
@@ -52,7 +52,7 @@ Treatment of Borrowing Authority.—In determining whether the Commission has su
 
 Voluntary Services.—(1) Notwithstanding section 1342 of title 31, the Commission may accept from any person voluntary services to be provided in furtherance of the fund-raising activities of the Commission relating to the World War II memorial.
 
-(2) A person providing voluntary services under this subsection shall be considered to be aFederal employee for purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and chapter 171 of title 28, relating to tort claims. A volunteer who is not otherwise employed by the United States shall not be considered to be a Federal employee for any other purpose by reason of the provision of such voluntary service, except that any volunteer given responsibility for the handling of funds or the carrying out of a Federal function is subject to the conflict of interest laws contained in chapter 11 of title 18 and the administrative standards of conduct contained in part 2635 of title 5 of the Code of Federal Regulations.
+(2) A person providing voluntary services under this subsection shall be considered to be a Federal employee for purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and chapter 171 of title 28, relating to tort claims. A volunteer who is not otherwise employed by the United States shall not be considered to be a Federal employee for any other purpose by reason of the provision of such voluntary service, except that any volunteer given responsibility for the handling of funds or the carrying out of a Federal function is subject to the conflict of interest laws contained in chapter 11 of title 18 and the administrative standards of conduct contained in part 2635 of title 5 of the Code of Federal Regulations.
 
 (3) The Commission may provide for reimbursement of incidental expenses that are incurred by a person providing voluntary services under this subsection. The Commission shall determine those expenses that are eligible for reimbursement under this paragraph.
 
@@ -64,9 +64,11 @@ Treatment of Certain Contracts.—A contract entered into by the Commission for 
 
 (h)
 
-Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) of title 40, the authority for the construction of the World War II memorial provided by Public Law 103–32 (40 U.S.C. 8903 note) expires on December 31, 2005.
+Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) of title 40, the authority for the construction of the World War II memorial provided by PublicLaw 103–32 (40 U.S.C. 8903 note) expires on December 31, 2005.
 
 (Added Pub. L. 106–117, title VI, §601(a)(1), Nov. 30, 1999, 113 Stat. 1576; amended Pub. L. 108–178, §4(h), Dec. 15, 2003, 117 Stat. 2641.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Subsec. (c)(1). Pub. L. 108–178, §4(h)(2), substituted "section 8906(b) of ti
 Subsec. (e). Pub. L. 108–178, §4(h)(3), substituted "section 8906 of title 40" for "section 8 of the Commemorative Works Act (40 U.S.C. 1008)".
 
 Subsec. (h). Pub. L. 108–178, §4(h)(4), substituted "section 8903(e) of title 40" for "section 10 of the Commemorative Works Act (40 U.S.C. 1010)" and "(40 U.S.C. 8903 note)" for "(40 U.S.C. 1003 note)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

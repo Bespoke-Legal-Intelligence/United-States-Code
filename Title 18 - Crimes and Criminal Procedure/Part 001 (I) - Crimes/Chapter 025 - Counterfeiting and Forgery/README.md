@@ -45,14 +45,18 @@
 | [509\.](%C2%A7%2000509%20-%20Possessing%20and%20making%20plates%20or%20stones%20for%20Government%20transportation%20requests.md) | Possessing and making plates or stones for Government transportation requests. |
 | [510\.](%C2%A7%2000510%20-%20Forging%20endorsements%20on%20Treasury%20checks%20or%20bonds%20or%20securities%20of%20the%20United%20States.md) | Forging endorsements on Treasury checks or bonds or securities of the United States. |
 | [511\.](%C2%A7%2000511%20-%20Altering%20or%20removing%20motor%20vehicle%20identification%20numbers.md) | Altering or removing motor vehicle identification numbers. |
-| [511A.](%C2%A7%2000511A%20-%20Unauthorized%20application%20of%20theft%20prevention%20decal%20or%20device.md) | Unauthorized application of theft prevention decal or device. |
+| \[511A. | Repealed.\] |
 | [512\.](%C2%A7%2000512%20-%20Forfeiture%20of%20certain%20motor%20vehicles%20and%20motor%20vehicle%20parts.md) | Forfeiture of certain motor vehicles and motor vehicle parts. |
 | [513\.](%C2%A7%2000513%20-%20Securities%20of%20the%20States%20and%20private%20entities.md) | Securities of the States and private entities. |
 | [514\.](%C2%A7%2000514%20-%20Fictitious%20obligations.md) | Fictitious obligations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(c), Dec. 27, 2020, 134 Stat. 2156, struck out item 511A "Unauthorized application of theft prevention decal or device".
 
 <b>2001</b>—Pub. L. 107–56, title III, §§374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted ", stones, or analog, digital, or electronic images" for "or stones" in items 474 and 481.
 
@@ -126,7 +130,7 @@ Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added secon
 - [&sect; 00509 - Possessing and making plates or stones for Government transportation requests](%C2%A7%2000509%20-%20Possessing%20and%20making%20plates%20or%20stones%20for%20Government%20transportation%20requests.md)
 - [&sect; 00510 - Forging endorsements on Treasury checks or bonds or securities of the United States](%C2%A7%2000510%20-%20Forging%20endorsements%20on%20Treasury%20checks%20or%20bonds%20or%20securities%20of%20the%20United%20States.md)
 - [&sect; 00511 - Altering or removing motor vehicle identification numbers](%C2%A7%2000511%20-%20Altering%20or%20removing%20motor%20vehicle%20identification%20numbers.md)
-- [&sect; 00511A - Unauthorized application of theft prevention decal or device](%C2%A7%2000511A%20-%20Unauthorized%20application%20of%20theft%20prevention%20decal%20or%20device.md)
+- [&sect; 00511A - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(2), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2000511A%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%282%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
 - [&sect; 00512 - Forfeiture of certain motor vehicles and motor vehicle parts](%C2%A7%2000512%20-%20Forfeiture%20of%20certain%20motor%20vehicles%20and%20motor%20vehicle%20parts.md)
 - [&sect; 00513 - Securities of the States and private entities](%C2%A7%2000513%20-%20Securities%20of%20the%20States%20and%20private%20entities.md)
 - [&sect; 00514 - Fictitious obligations](%C2%A7%2000514%20-%20Fictitious%20obligations.md)

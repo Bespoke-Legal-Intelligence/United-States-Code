@@ -254,7 +254,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 &emsp;&emsp;&emsp;(i) a deferral of the blackout period would violate the requirements of subparagraph (A) or (B) of section 1104(a)(1) of this title, and a fiduciary of the plan reasonably so determines in writing, or
 
-&emsp;&emsp;&emsp;(ii) the inability to provide the 30-day advance notice is due to events that were unforeseeable or circumstances beyond the reasonable control of the plan administrator, and a fiduciary of the plan reasonably so determines in writing,
+&emsp;&emsp;&emsp;(ii) the inability to provide the 30-day advance notice is due to events that wereunforeseeable or circumstances beyond the reasonable control of the plan administrator, and a fiduciary of the plan reasonably so determines in writing,
 
 > &emsp;&emsp;subparagraph (B) shall not apply, and the notice shall be furnished to all participants and beneficiaries under the plan to whom the blackout period applies as soon as reasonably possible under the circumstances unless such a notice in advance of the termination of the blackout period is impracticable.
 
@@ -272,7 +272,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (4) Changes in length of blackout period
 
-&emsp;If, following the furnishing of the notice pursuant to this subsection, there is a change in the beginning date or length of the blackout period (specified in such notice pursuant to paragraph (2)(A)(iii)), the administrator shall provide affected participants and beneficiaries notice of the change as soon as reasonably practicable. In relation to the extended blackout period, such notice shall meet the requirements of paragraph (2)(D) and shall specifyany material change in the matters referred to in clauses (i) through (v) of paragraph (2)(A).
+&emsp;If, following the furnishing of the notice pursuant to this subsection, there is a change in the beginning date or length of the blackout period (specified in such notice pursuant to paragraph (2)(A)(iii)), the administrator shall provide affected participants and beneficiaries notice of the change as soon as reasonably practicable. In relation to the extended blackout period, such notice shall meet the requirements of paragraph (2)(D) and shall specify any material change in the matters referred to in clauses (i) through (v) of paragraph (2)(A).
 
 #### (5) Regulatory exceptions
 
@@ -346,7 +346,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;(G) any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan's possession for at least 30 days,
 
-&emsp;&emsp;(H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or otherfiduciary which has been in the plan's possession for at least 30 days,
+&emsp;&emsp;(H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan's possession for at least 30 days,
 
 &emsp;&emsp;(I) audited financial statements of the plan for any plan year,
 
@@ -382,7 +382,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;(A) the estimated amount which would be the amount of such employer's withdrawal liability under part 1 of subtitle E of subchapter III if such employer withdrew on the last day of the plan year preceding the date of the request, and
 
-&emsp;&emsp;(B) an explanation of how such estimated liability amount was determined, including the actuarial assumptions and methods used to determine the value of the plan liabilities and assets, the data regarding employer contributions, unfunded vested benefits, annual changes in the plan's unfunded vested benefits, and the application of any relevant limitations on the estimated withdrawal liability.
+&emsp;&emsp;(B) an explanation of how such estimated liability amount was determined, including the actuarial assumptions and methods usedto determine the value of the plan liabilities and assets, the data regarding employer contributions, unfunded vested benefits, annual changes in the plan's unfunded vested benefits, and the application of any relevant limitations on the estimated withdrawal liability.
 
 > &emsp;For purposes of subparagraph (B), the term "employer contribution" means, in connection with a participant, a contribution made by an employer as an employer of such participant.
 
@@ -418,6 +418,8 @@ Not later than 30 days before the first date on which an applicable individual o
 
 (Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
@@ -432,7 +434,7 @@ The Bipartisan Budget Act of 2015, referred to in subsec. (f)(2)(D)(i)(I) and (I
 
 The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is Pub. L. 113–97, Apr. 7, 2014, 128 Stat. 1101. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 1001 of this title and Tables.
 
-The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, §111(a). See 2014 Amendment note below.
+The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the generalamendment of subsec. (k)(1) by Pub. L. 113–235, §111(a). See 2014 Amendment note below.
 
 #### Amendments
 
@@ -568,13 +570,15 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted "an employer mai
 
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–235, div. O, title I, §111(e), Dec. 16, 2014, 128 Stat. 2794, provided that: "The amendments made bythis section \[amending this section and sections 1027 and 1132 of this title\] shall apply with respect to plan years beginning after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §111(e), Dec. 16, 2014, 128 Stat. 2794, provided that: "The amendments made by this section \[amending this section and sections 1027 and 1132 of this title\] shall apply with respect to plan years beginning after December 31, 2014."
 
 Amendment by Pub. L. 113–159 applicable with respect to plan years beginning after Dec. 31, 2012, except as otherwise provided, see section 2003(e) of Pub. L. 113–159, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
@@ -628,7 +632,7 @@ Transition rule.—Any requirement under section 101(f) of the Employee Retireme
 
 &emsp;"(B) in the case of a plan year beginning in 2007, the funding target attainment percentage or funded percentage as determined using such methods of estimation as the Secretary of the Treasury may provide."
 
-Amendment by section 502(a)(1), (b)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
+Amendment by section 502(a)(1), (b)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31,2007, see section 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
 
 Pub. L. 109–280, title V, §503(f), Aug. 17, 2006, 120 Stat. 945, provided that: "The amendments made by this section \[amending this section and sections 1023 and 1024 of this title\] shall apply to plan years beginning after December 31, 2007."
 
@@ -664,7 +668,7 @@ Pub. L. 105–200, title IV, §401(h)(1)(B), July 16, 1998, 112 Stat. 668, provi
 
 Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
 
-Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning afterJune 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
+Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
@@ -714,7 +718,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Statements
 
-Pub. L. 114–74, title V, §504(b)(2)(B), Nov. 2, 2015, 129 Stat. 594, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made by this section \[amending this section, section 1083 of this title, and section 430 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 430 of Title 26\]."
+Pub. L. 114–74, title V, §504(b)(2)(B), Nov. 2, 2015, 129 Stat. 594, provided that: "The Secretary of Labor shallmodify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made by this section \[amending this section, section 1083 of this title, and section 430 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 430 of Title 26\]."
 
 Pub. L. 113–159, title II, §2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made by this section \[probably means "this subsection", which amended this section and section 1083 of this title\]."
 

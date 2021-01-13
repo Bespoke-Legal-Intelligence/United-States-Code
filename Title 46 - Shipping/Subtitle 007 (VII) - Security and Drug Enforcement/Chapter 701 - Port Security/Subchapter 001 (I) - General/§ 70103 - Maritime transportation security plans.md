@@ -74,11 +74,7 @@ Area Maritime Transportation Security Plans.—(1) The Federal Maritime Security
 
 &emsp;(I) be updated at least every 5 years by the Federal Maritime Security Coordinator.
 
-(3) The Secretary shall—
-
-&emsp;(A) review and approve Area Maritime Transportation Security Plans under this subsection; and
-
-&emsp;(B) periodically review previously approved Area Maritime Transportation Security Plans.
+(3) The Secretary shall review and approve Area Maritime Transportation Security Plans and updates under this subsection.
 
 (4) In security zones designated by the Secretary in each Area Maritime Transportation Security Plan, the Secretary shall consider—
 
@@ -130,15 +126,15 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (4) The Secretary shall—
 
-&emsp;(A) promptly review each such plan;
+&emsp;(A) promptly review each such plan or update;
 
-&emsp;(B) require amendments to any plan that does not meet the requirements of this subsection;
+&emsp;(B) require amendments to any plan or update that does not meet the requirements of this subsection;
 
-&emsp;(C) approve any plan that meets the requirements of this subsection; and
+&emsp;(C) approve any plan or update that meets the requirements of this subsection; and
 
-&emsp;(D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
+&emsp;(D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan or update.
 
-(5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescriptionof interim final regulations on vessel and facility security plans, unless—
+(5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
 
 &emsp;(A) the plan has been approved by the Secretary; and
 
@@ -146,7 +142,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (6) Notwithstanding paragraph (5), the Secretary may authorize a vessel or facility to operate without a security plan approved under this subsection, until not later than 1 year after the date of the submission to the Secretary of a plan for the vessel or facility, if the owner or operator of the vessel or facility certifies that the owner or operator has ensured by contract or other means approved by the Secretary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident.
 
-(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
+(7) The Secretary shall require each owner or operator of a vessel or facility located within oradjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
 (8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 
@@ -186,33 +182,33 @@ Enforcement of security zones.—Consistent with other provisions of Federal law
 
 &emsp;(2)
 
-Resource deficiency reporting.—
-
-&emsp;&emsp;(A)
-
-In general.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
-
-&emsp;&emsp;&emsp;(i) for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
-
-&emsp;&emsp;&emsp;(ii) for the last full fiscal year preceding the report, a statement of the number of especially hazardous cargo shipments provided a waterborne security escort, subdivided by Federal, State, local, or private security; and
-
-&emsp;&emsp;&emsp;(iii) an assessment as to any additional vessels, personnel, infrastructure, and other resources necessary to provide waterborne escorts to those especially hazardous cargo shipments for which a security zone is established.
-
-&emsp;&emsp;(B)
-
-Especially hazardous cargo defined.—In this subsection, the term "especially hazardous cargo" means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
+Especially hazardous cargo defined.—In this subsection, the term "especially hazardous cargo" means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 
 (f)
 
 Nondisclosure of Port Security Plans.—Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004; Pub. L. 115–254, div. J, §§1805(d)(2), 1806, Oct. 5, 2018, 132 Stat. 3535, 3536; Pub. L. 115–282, title IV, §§402(c), 408(d), Dec. 4, 2018, 132 Stat. 4264, 4268.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004; Pub. L. 115–254, div. J, §§1805(d)(2), 1806, Oct. 5, 2018, 132 Stat. 3535, 3536; Pub. L. 115–282, title IV, §§402(c), 408(d), Dec. 4, 2018, 132 Stat. 4264, 4268; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8240(a), title LVXXXIII \[LXXXIII\], §8344, title LVXXXV \[LXXXV\], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4666, 4710, 4754.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
-Section 1226(c) of Title 33, Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV,§§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, §302, Oct. 19, 1996, 110 Stat. 3917.
+Section 1226(c) of Title 33, Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV, §§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, §302, Oct. 19, 1996, 110 Stat. 3917.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(3). Pub. L. 116–283, §8344(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall—
+
+&emsp;"(A) review and approve Area Maritime Transportation Security Plans under this subsection; and
+
+&emsp;"(B) periodically review previously approved Area Maritime Transportation Security Plans."
+
+Subsec. (c)(4). Pub. L. 116–283, §8344(2), inserted "or update" after "plan" wherever appearing.
+
+Subsec. (e). Pub. L. 116–283, §8240(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) and (2) relating to enforcement of security zones and resource deficiency reporting, respectively.
+
+Subsec. (f). Pub. L. 116–283, §8507(d)(1), repealed amendments by Pub. L. 115–282, §408(d). See 2018 Amendment notes below.
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1805(d)(2)(A), substituted "The" for "Not later than April 1, 2005, the".
 
@@ -224,9 +220,13 @@ Subsec. (c)(3)(v), (vi). Pub. L. 115–254, §1805(d)(2)(D), added cl. (v) and r
 
 Subsec. (c)(4)(D). Pub. L. 115–254, §1806, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility."
 
-Subsec. (f). Pub. L. 115–282, §§402(c)(2), 408(d)(2), amended subsec. (f) identically, substituting "this chapter" for "this Act".
+Subsec. (f). Pub. L. 115–282, §408(d)(2), which directed substitution of "this chapter" for "this Act" identical to amendment made by section 402(c)(2) of Pub. L. 115–282, was repealed by Pub. L. 116–283, §8507(d)(1).
 
-Pub. L. 115–282, §§402(c)(1), 408(d)(1), amended section identically, redesignating and transferring subsec. (c) of section 7 of Pub. L. 92–340 as subsec. (f) of this section. See Codification note above.
+Pub. L. 115–282, §402(c)(2), substituted "this chapter" for "this Act".
+
+Pub. L. 115–282, §408(d)(1), which directed redesignation and transfer of subsec. (c) of section 7 of Pub. L. 92–340 to subsec. (f) of this section identical to amendment made by section 402(c)(1) of Pub. L. 115–282, was repealed by Pub. L. 116–283, §8507(d)(1).
+
+Pub. L. 115–282, §402(c)(1), redesignated and transferred subsec. (c) of section 7 of Pub. L. 92–340 to subsec. (f) of this section. See Codification note above.
 
 <b>2010</b>—Subsec. (b)(2)(E) to (H). Pub. L. 111–281, §826, added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
@@ -255,6 +255,12 @@ Subsec. (c)(4)(D). Pub. L. 109–347, §103, amended subpar. (D) generally. Prio
 Subsec. (c)(8). Pub. L. 109–347, §102(2), added par. (8).
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–458 substituted "Not later than April 1, 2005, the Secretary" for "The Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 8507(d)(1) of div. G of Pub. L. 116–283 effective Dec. 4, 2018, as if included in Pub. L. 115—282, see section 8507(d)(7) of Pub. L. 116—283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
 
 #### Effective Date of 2018 Amendment
 

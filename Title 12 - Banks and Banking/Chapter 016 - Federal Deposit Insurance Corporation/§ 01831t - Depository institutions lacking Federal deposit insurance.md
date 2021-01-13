@@ -44,7 +44,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 &emsp;&emsp;The following need not include a notice that the institution is not federally insured:
 
-&emsp;&emsp;&emsp;(i) Any sign, document, or other item that contains the name of the depository institution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution.
+&emsp;&emsp;&emsp;(i) Any sign, document, or other item that contains the name of the depositoryinstitution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution.
 
 &emsp;&emsp;&emsp;(ii) Small utilitarian items that do not mention deposit products or insurance if inclusion of the notice would be impractical.
 
@@ -152,7 +152,7 @@ For purposes of this section:
 
 #### (1) Limited enforcement authority
 
-&emsp;Compliance with the requirements of subsections (b), (c), and (e), and any regulationprescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
+&emsp;Compliance with the requirements of subsections (b), (c), and (e), and any regulation prescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
 
 #### (2) Broad State enforcement authority
 
@@ -169,6 +169,8 @@ For purposes of this section:
 &emsp;&emsp;If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
 
 (Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975; Pub. L. 111–203, title X, §1090(2), July 21, 2010, 124 Stat. 2094; Pub. L. 114–94, div. G, title LXXXII, §82001(b), Dec. 4, 2015, 129 Stat. 1796.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -209,6 +211,8 @@ Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f). Former subsec. 
 Subsec. (g). Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f).
 
 <b>1994</b>—Subsec. (b)(3). Pub. L. 103–325 amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: "Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

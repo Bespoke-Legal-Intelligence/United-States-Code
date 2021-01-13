@@ -36,7 +36,7 @@ Eligible Members.—This section and sections 1202 and 1203 of this title apply 
 
 &emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, §1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, \[div. A\], title VII, §727(a), Oct. 14, 2008, 122 Stat. 4510.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub.L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, §1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, \[div. A\], title VII, §727(a), Oct. 14, 2008, 122 Stat. 4510.)
 
 Historical and Revision Notes<br>1956
 
@@ -58,7 +58,7 @@ Act
 
 Oct. 12, 1949, ch. 681, §402(a) (less clause (5), and less 2d proviso), (b) (less clause (5), and less 2d and last provisos), (f) (less applicability to §402(c) and (e)), 63 Stat. 816, 817, 820.
 
-The words "any other member" are substituted for the words "a member of a Reserve component", in 37:272(a) and (b), since the words "Reserve component" are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component. The words "active duty (other than for training)" are substituted for the words "extended active duty" for clarity and to reflect the opinion of the Comptroller General in 31 Comp. Gen. 95, 99. The words "if the Secretary also determines that" are substitutedfor the words "That if condition (5) above is met by a finding that", in 37:272(a) and (b). The words "of such member", "upon retirement", and "to receive", in 37:272(a), are omitted as surplusage.
+The words "any other member" are substituted for the words "a member of a Reserve component", in 37:272(a) and (b), since the words "Reserve component" are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component. The words "active duty (other than for training)" are substituted for the words "extended active duty" for clarity and to reflect the opinion of the Comptroller General in 31 Comp. Gen. 95, 99. The words "if the Secretary also determines that" are substituted for the words "That if condition (5) above is met by a finding that", in 37:272(a) and (b). The words "of such member", "upon retirement", and "to receive", in 37:272(a), are omitted as surplusage.
 
 In clause (1), the words "based upon accepted medical principles" are inserted as a necessary implication of the rule stated in 37:272(a)(5) and (b)(5).
 
@@ -132,7 +132,7 @@ Pub. L. 95–377, §3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment
 
 #### Public Health Service
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a(b) of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a(b) of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

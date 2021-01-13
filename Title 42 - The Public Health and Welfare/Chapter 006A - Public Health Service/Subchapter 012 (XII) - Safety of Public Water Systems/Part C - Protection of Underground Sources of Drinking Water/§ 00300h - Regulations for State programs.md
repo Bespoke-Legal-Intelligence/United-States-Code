@@ -32,7 +32,7 @@
 
 (ii) For the purpose of this subparagraph, a regulation prescribed by the Administrator under this section shall be deemed to disrupt a State underground injection control program only if it would be infeasible to comply with both such regulation and the State underground injection control program.
 
-(iii) For the purpose of this subparagraph, a regulation prescribed by the Administrator under this section shall be deemed unnecessary only if, without such regulation, underground sources of drinking water will not be endangered by an underground injection.
+(iii) For the purpose of this subparagraph, a regulation prescribed by the Administrator under this section shall be deemed unnecessaryonly if, without such regulation, underground sources of drinking water will not be endangered by an underground injection.
 
 (C) Nothing in this section shall be construed to alter or affect the duty to assure that underground sources of drinking water will not be endangered by any underground injection.
 

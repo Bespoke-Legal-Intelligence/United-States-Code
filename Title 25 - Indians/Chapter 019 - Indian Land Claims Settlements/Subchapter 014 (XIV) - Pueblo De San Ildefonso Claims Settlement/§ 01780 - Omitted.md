@@ -1,8 +1,12 @@
 ### §1780. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 109–286, §2, Sept. 27, 2006, 120 Stat. 1218, which set out definitions of terms and purposes of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

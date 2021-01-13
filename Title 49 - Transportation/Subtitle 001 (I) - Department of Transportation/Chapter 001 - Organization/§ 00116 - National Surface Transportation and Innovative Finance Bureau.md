@@ -150,7 +150,7 @@ Transparency.—The Bureau shall—
 
 &emsp;&emsp;&emsp;(ii) requiring the analysis required under subparagraph (A), and other key terms of the relevant public-private partnership agreement, to be made publicly available by the project sponsor at an appropriate time;
 
-&emsp;&emsp;&emsp;(iii) not later than 3 years after the date of completion of the project, requiring the sponsor of the project to conduct a review regarding whether the private partner is meeting the terms of the relevant public-private partnership agreement; and
+&emsp;&emsp;&emsp;(iii) not later than 3 years after the date of completion of the project, requiring the sponsor of the project to conduct a reviewregarding whether the private partner is meeting the terms of the relevant public-private partnership agreement; and
 
 &emsp;&emsp;&emsp;(iv) providing a publicly available summary of the total level of Federal assistance in such project; and
 
@@ -252,7 +252,7 @@ Transfer of funds from eliminated or consolidated offices.—The Secretary may t
 
 &emsp;&emsp;&emsp;(ii)
 
-Transfer of funds allocated to administrative costs.—The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
+Transfer of funds allocated to administrative costs.—The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereoftransferred to the Bureau may be transferred back to and merged with the original account.
 
 &emsp;(4)
 

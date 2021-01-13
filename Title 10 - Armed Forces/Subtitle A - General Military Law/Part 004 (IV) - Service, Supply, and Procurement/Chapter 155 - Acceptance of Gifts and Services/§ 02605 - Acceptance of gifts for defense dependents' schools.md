@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may accept, hold, administer, and spend any gift (including any gift of an interest in real property) made on the condition that it be used in connection with the operation or administration of a defense dependents' school. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
 
-(b) There is established in the Treasury a fund to be known as the "Department of Defense Dependents' Education Gift Fund". Gifts of money, and the proceeds of the sale of property, received under subsection (a) shall be deposited in the fund. The Secretary may disburse funds deposited under this subsection for the benefit or use of defense dependents' schools, subject to the terms of the gift.
+(b) There is established in the Treasury a fund to be known as the "Department of Defense Dependents' Education Gift Fund". Gifts of money, and the proceeds of the sale of property, received under subsection (a) shall be deposited in the fund. The Secretary may disburse funds deposited under this subsection for the benefit oruse of defense dependents' schools, subject to the terms of the gift.
 
 (c) Subsection (c) of section 2601 of this title applies to property that is accepted under subsection (a) in the same manner that such subsection applies to property that is accepted under subsection (a) of that section.
 

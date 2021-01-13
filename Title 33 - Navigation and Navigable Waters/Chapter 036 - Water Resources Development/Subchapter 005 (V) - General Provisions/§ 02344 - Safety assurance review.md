@@ -2,7 +2,7 @@
 
 #### (a) Projects subject to safety assurance review
 
-The Chief of Engineers shall ensure that the design and construction activities for hurricane and storm damage reduction and flood damage reduction projects are reviewed by independent experts under this section if the Chief of Engineers determines that a review by independent experts is necessary to assure public health, safety, and welfare.
+The Chief of Engineers shall ensure that the design and construction activities for hurricaneand storm damage reduction and flood damage reduction projects are reviewed by independent experts under this section if the Chief of Engineers determines that a review by independent experts is necessary to assure public health, safety, and welfare.
 
 #### (b) Factors
 
@@ -48,6 +48,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a safety a
 
 (Pub. L. 110–114, title II, §2035, Nov. 8, 2007, 121 Stat. 1091; Pub. L. 113–121, title III, §3028, June 10, 2014, 128 Stat. 1305.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -59,6 +61,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2014</b>—Subsec. (g). Pub. L. 113–121 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

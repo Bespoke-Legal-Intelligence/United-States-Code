@@ -16,6 +16,8 @@ Security zone.—The term "security zone" means a security zone, established by 
 
 (Added Pub. L. 111–281, title VIII, §828(a), Oct. 15, 2010, 124 Stat. 3005; amended Pub. L. 111–330, §1(16), Dec. 22, 2010, 124 Stat. 3570.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1 of title II of the Act of June 15, 1917, referred to in par. (2), which was classified to section 191 of Title 50, War and National Defense, was redesignated and transferred to section 70051 of this title by Pub. L. 115–282, title IV, §407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
@@ -25,6 +27,8 @@ Section 7(b) of the Ports and Waterways Safety Act, referred to in par. (2), whi
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §828(a), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

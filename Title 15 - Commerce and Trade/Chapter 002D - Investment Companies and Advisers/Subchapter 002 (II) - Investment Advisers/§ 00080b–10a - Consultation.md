@@ -14,7 +14,7 @@
 
 > &emsp;that is registered under section 80b–3 of this title; and
 
-&emsp;(B) in the case of a bank holding company or savings and loan holding company or bank that has a subsidiary or a separately identifiable department or division registered under that section, with respect to the investmentadvisory activities of such bank or bank holding company or savings and loan holding company.
+&emsp;(B) in the case of a bank holding company or savings and loan holding company or bank that has a subsidiary or a separately identifiable department or division registered under that section, with respect to the investment advisory activities of such bank or bank holding company or savings and loan holding company.
 
 (2) The Commission shall provide to the appropriate Federal banking agency upon request the results of any examination, reports, records, or other information with respect to the investment advisory activities of any bank holding company or savings and loan holding company, bank, or separately identifiable department or division of a bank, which is registered under section 80b–3 of this title.
 

@@ -12,7 +12,7 @@ In order to enforce this subchapter, the Secretary, on behalf of the President, 
 
 &emsp;(4) conduct investigations within the United States and outside the United States consistent with applicable law;
 
-&emsp;(5) inspect, search, detain, seize, or issue temporary denial orders with respect to items, in any form, that are subject to controls under this subchapter, or conveyances on which it isbelieved that there are items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this subchapter, or any regulations, order, license, or other authorization issued thereunder;
+&emsp;(5) inspect, search, detain, seize, or issue temporary denial orders with respect to items, in any form, that are subject to controls under this subchapter, or conveyances on which it is believed that there are items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this subchapter, or any regulations, order, license, or other authorization issued thereunder;
 
 &emsp;(6) carry firearms;
 
@@ -84,7 +84,7 @@ A person shall not be excused from complying with any requirements under this se
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained under this subchapter may be withheld from disclosure only to the extent permitted by statute, except that information described in subparagraph (B) shall be withheld from public disclosure and shall not be subject to disclosureunder section 552(b)(3) of title 5, unless the release of such information is determined by the Secretary to be in the national interest.
+&emsp;&emsp;Information obtained under this subchapter may be withheld from disclosure only to the extent permitted by statute, except that information described in subparagraph (B) shall be withheld from public disclosure and shall not be subject to disclosure under section 552(b)(3) of title 5, unless the release of such information is determined by the Secretary to be in the national interest.
 
 #### (B) Information described
 
@@ -160,7 +160,7 @@ In the administration of this section, reporting requirements shall be designed 
 
 #### (2) Procedures
 
-&emsp;Any seizure or forfeiture under this subsection shall be carried out in accordance withthe procedures set forth in section 981 of title 18.
+&emsp;Any seizure or forfeiture under this subsection shall be carried out in accordance with the procedures set forth in section 981 of title 18.
 
 #### (k) Rule of construction
 
@@ -174,7 +174,7 @@ Section is comprised of section 1761 of Pub. L. 115–232. Subsec. (f) of sectio
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a), (b)(1), (2), (d), (e), and (h), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
+This subchapter, referred to in subsecs. (a), (b)(1), (2), (d), (e), and (h), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div.A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (h)(2)(B)(i), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of this title and was substantially repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For complete classification of this Act to the Code, see Tables.
 

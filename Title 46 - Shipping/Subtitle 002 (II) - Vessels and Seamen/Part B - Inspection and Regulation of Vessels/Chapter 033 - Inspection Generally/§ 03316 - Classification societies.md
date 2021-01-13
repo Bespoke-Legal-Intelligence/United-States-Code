@@ -56,7 +56,7 @@
 
 &emsp;(B)(i) the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
 
-&emsp;(ii) the Secretary has entered into an agreement with the government of the foreigncountry in which the foreign society is headquartered that—
+&emsp;(ii) the Secretary has entered into an agreement with the government of the foreign country in which the foreign society is headquartered that—
 
 &emsp;&emsp;(I) ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
 
@@ -122,6 +122,8 @@ Section 3316 prescribes the relationship between certain classification societie
 
 The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a "similar classification society" continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
@@ -170,6 +172,8 @@ Subsec. (c). Pub. L. 104–324, §607(a)(2), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 104–324, §607(a)(1), struck out subsec. (d) which read as follows: "The Secretary also may make an agreement with or use the Bureau or a similar United States classification society, or an agent of the Bureau or society, for reviewing and approving plans required for issuing a certificate of inspection."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–293, title IV, §413(b), Aug. 9, 2004, 118 Stat. 1046, provided that: "Section 3316(c)(1) of title 46, United States Code, shall apply with respect to operation as a classification society on or after January 1, 2005."
@@ -184,7 +188,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Deadline for Establishment of Recognized Organization Oversight Office
 
-Pub. L. 115–265, title II, §215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: "The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) \[amending this section\] by not later than 2 years after the date of the enactment of this Act \[Oct. 11, 2018\]."
+Pub. L. 115–265, title II, §215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: "The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) \[amending this section\] bynot later than 2 years after the date of the enactment of this Act \[Oct. 11, 2018\]."
 
 #### Review of Authorities Delegated to Recognized Organizations for Alternative Compliance Program
 

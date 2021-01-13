@@ -40,7 +40,7 @@ Adjustments to Account for Significantly Increased Costs.—
 
 &emsp;(1)
 
-In general.—If the Secretary determines that air carriers are experiencing significantly increased costs in providing air service or air transportation for which compensation isbeing paid under this subchapter, the Secretary may increase the rates of compensation payable under this subchapter without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
+In general.—If the Secretary determines that air carriers are experiencing significantly increased costs in providing air service or air transportation for which compensation is being paid under this subchapter, the Secretary may increase the rates of compensation payable under this subchapter without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
 
 &emsp;(2)
 

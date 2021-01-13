@@ -38,7 +38,7 @@
 
 #### (C) Limitation on requiring installation of accessible restrooms
 
-&emsp;&emsp;The regulations issued pursuant to this paragraph shall not require the installation of accessible restrooms in over-the-roadbuses if such installation would result in a loss of seating capacity.
+&emsp;&emsp;The regulations issued pursuant to this paragraph shall not require the installation of accessible restrooms in over-the-road buses if such installation would result in a loss of seating capacity.
 
 #### (3) Standards
 

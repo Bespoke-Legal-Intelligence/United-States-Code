@@ -10,9 +10,11 @@ An amendment permitted by section 1391(c)(5) of this title may be adopted only i
 
 #### (c) Criteria for disapproval by corporation
 
-The corporation shall disapprove an amendment referred to in subsection (a) or (b) only ifthe corporation determines that the amendment creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation.
+The corporation shall disapprove an amendment referred to in subsection (a) or (b) only if the corporation determines that the amendment creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation.
 
 (Pub. L. 93–406, title IV, §4220, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

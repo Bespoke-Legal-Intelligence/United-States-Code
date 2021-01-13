@@ -28,6 +28,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–391, title VI, §605(a), Dec. 21, 2018, 132 Stat. 5242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 501 of Title 26, Internal Revenue Code.

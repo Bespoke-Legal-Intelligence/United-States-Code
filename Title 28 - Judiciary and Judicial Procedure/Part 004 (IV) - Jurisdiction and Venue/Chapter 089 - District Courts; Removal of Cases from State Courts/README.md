@@ -26,6 +26,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–63, title I, §103(d)(1), Dec. 7, 2011, 125 Stat. 762, substituted "Removal of civil actions" for "Actions removable generally" in item 1441, inserted "of civil actions" after "removal" in item 1446, and added item 1455.

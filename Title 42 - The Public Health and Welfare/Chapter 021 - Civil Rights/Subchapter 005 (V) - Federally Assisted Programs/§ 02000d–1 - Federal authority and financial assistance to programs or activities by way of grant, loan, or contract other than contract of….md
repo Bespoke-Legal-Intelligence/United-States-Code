@@ -118,7 +118,7 @@ Each agency providing Federal financial assistance shall draft title VI guidance
 
 Sec. 4. <i>Consultations.</i>
 
-In carrying out this order, agencies shall ensure that stakeholders, such as LEP persons and their representative organizations, recipients, and other appropriate individuals or entities, have an adequate opportunity to provide input. Agencies will evaluate the particular needs of the LEP persons they and their recipients serve and the burdens of compliance on the agency and its recipients. This input from stakeholders will assist the agencies in developing an approach to ensuring meaningful access by LEP persons that is practical and effective, fiscally responsible, responsive to the particular circumstances of each agency, and can be readily implemented.
+In carrying out this order, agencies shall ensure that stakeholders, such as LEP persons and their representative organizations, recipients, and other appropriate individuals or entities, have an adequate opportunity to provide input. Agencies will evaluate the particular needs of the LEP persons they and their recipients serve and the burdens of compliance on the agency and its recipients. This input from stakeholders will assist the agencies in developing an approach to ensuring meaningful access by LEP persons that is practical andeffective, fiscally responsible, responsive to the particular circumstances of each agency, and can be readily implemented.
 
 Sec. 5. <i>Judicial Review.</i>
 

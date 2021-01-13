@@ -28,23 +28,43 @@ Representation.—Members of the Committee shall be appointed as follows:
 
 &emsp;&emsp;(B) 2 members shall represent entities engaged in offshore drilling.
 
-&emsp;&emsp;(C) 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore mineral and oil operations, including geophysical services.
+&emsp;&emsp;(C) 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore operations.
 
-&emsp;&emsp;(D) 1 member shall represent entities engaged in the construction of offshore exploration and recovery facilities.
+&emsp;&emsp;(D) 1 member shall represent entities engaged in the construction of offshore facilities.
 
-&emsp;&emsp;(E) 1 member shall represent entities engaged in diving services related to offshore construction, inspection, and maintenance.
+&emsp;&emsp;(E) 1 member shall represent entities providing diving services to the offshore industry.
 
-&emsp;&emsp;(F) 1 member shall represent entities engaged in safety and training services related to offshore exploration and construction.
+&emsp;&emsp;(F) 1 member shall represent entities providing safety and training services to the offshore industry.
 
-&emsp;&emsp;(G) 1 member shall represent entities engaged in pipelaying services related to offshore construction.
+&emsp;&emsp;(G) 1 member shall represent entities providing subsea engineering, construction, or remotely operated vehicle support to the offshore industry.
 
-&emsp;&emsp;(H) 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore mineral and energy industry.
+&emsp;&emsp;(H) 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore industry.
 
-&emsp;&emsp;(I) 1 member shall represent national environmental entities.
+&emsp;&emsp;(I) 1 member shall represent national environmental entities and entities providing environmental protection, compliance, or response services to the offshore industry.
 
-&emsp;&emsp;(J) 1 member shall represent deepwater ports.
+&emsp;&emsp;(J) 1 member shall represent entities engaged in offshore oil exploration and production on the Outer Continental Shelf adjacent to Alaska.
 
 &emsp;&emsp;(K) 1 member shall represent the general public (but not a specific environmental group).
 
-(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4284.)
+(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4284; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8331(a), Jan. 1, 2021, 134 Stat. 4702.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (c)(3)(C). Pub. L. 116–283, §8331(a)(1), substituted "operations" for "mineral and oil operations, including geophysical services".
+
+Subsec. (c)(3)(D). Pub. L. 116–283, §8331(a)(2), struck out "exploration and recovery" before "facilities."
+
+Subsec. (c)(3)(E). Pub. L. 116–283, §8331(a)(3), substituted "providing diving services to the offshore industry" for "engaged in diving services related to offshore construction, inspection, and maintenance".
+
+Subsec. (c)(3)(F). Pub. L. 116–283, §8331(a)(4), substituted "providing safety and training services to the offshore industry" for "engaged in safety and training services related to offshore exploration and construction".
+
+Subsec. (c)(3)(G). Pub. L. 116–283, §8331(a)(5), substituted "providing subsea engineering, construction, or remotely operated vehicle support to the offshore industry" for "engaged in pipelaying services related to offshore construction".
+
+Subsec. (c)(3)(H). Pub. L. 116–283, §8331(a)(6), struck out "mineral and energy" before "industry."
+
+Subsec. (c)(3)(I). Pub. L. 116–283, §8331(a)(7), inserted "and entities providing environmental protection, compliance, or response services to the offshore industry" after "national environmental entities".
+
+Subsec. (c)(3)(J). Pub. L. 116–283, §8331(a)(8), substituted "entities engaged in offshore oil exploration and production on the Outer Continental Shelf adjacent to Alaska" for "deepwater ports".
 

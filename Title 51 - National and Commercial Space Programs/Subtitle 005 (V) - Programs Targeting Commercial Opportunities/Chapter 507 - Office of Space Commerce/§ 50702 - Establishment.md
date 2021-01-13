@@ -26,7 +26,7 @@ Functions of Office.—The Office shall be the principal unit for the coordinati
 
 Duties of Director.—The primary responsibilities of the Director in carrying out the functions of the Office shall include—
 
-&emsp;(1) promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information on space markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
+&emsp;(1) promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information onspace markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
 
 &emsp;(2) assisting United States commercial providers in the efforts of those providers to conduct business with the United States Government;
 
@@ -58,11 +58,15 @@ Historical and Revision Notes
 
 Pub. L. 105–309, §8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §14, Nov. 27, 2002, 116 Stat. 2380; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2878.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–90, §301(c), substituted "Space Commerce" for "Space Commercialization".
 
 Subsec. (c). Pub. L. 114–90, §302, substituted "Commerce, including—" for "Commerce." and added pars. (1) to (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cooperation With Former Soviet Republics
 

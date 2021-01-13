@@ -8,7 +8,7 @@ For purposes of this chapter, the generation to which any person (other than the
 
 #### (1) In general
 
-&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results from comparing the number of generations betweenthe grandparent and such individual with the number of generations between the grandparent and the transferor.
+&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results from comparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
 
 #### (2) On spouse's side
 
@@ -96,7 +96,7 @@ Subsec. (e)(3). Pub. L. 100–647, §1014(g)(11), amended par. (3) generally, in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to terminations, distributions, and transfers occurring after Dec. 31, 1997, see section 511(c) of Pub. L. 105–34, set out as a note under section 2612 of this title.
+Amendment by Pub. L. 105–34 applicable to terminations, distributions, and transfers occurring afterDec. 31, 1997, see section 511(c) of Pub. L. 105–34, set out as a note under section 2612 of this title.
 
 #### Effective Date of 1988 Amendment
 

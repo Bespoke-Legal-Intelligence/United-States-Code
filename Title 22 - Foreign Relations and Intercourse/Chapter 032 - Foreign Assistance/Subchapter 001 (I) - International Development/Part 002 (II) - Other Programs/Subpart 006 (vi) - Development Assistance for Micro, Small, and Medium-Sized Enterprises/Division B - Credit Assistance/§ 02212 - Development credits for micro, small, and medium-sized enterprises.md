@@ -10,7 +10,7 @@ Congress finds and declares that—
 
 #### (b) Program
 
-To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to micro, small, and medium-sized enterprises and households lacking full access to credit and other financial services, including through—
+To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to micro, small, and medium-sized enterprises and households lacking full access tocredit and other financial services, including through—
 
 &emsp;(1) loans and guarantees to financial intermediaries for the purpose of expanding the availability of savings and credit to poor and low-income households;
 
@@ -52,9 +52,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 (Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927; Pub. L. 115–428, §4(f), Jan. 9, 2019, 132 Stat. 5514.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226 set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -112,13 +110,15 @@ Subsec. (f)(1). Pub. L. 108–31, §2(e), substituted "for each of fiscal years 
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted "each of the fiscal years 1986 and 1987, up to $18,000,000" for "fiscal year 1984, up to $20,000,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226 set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Report to Congress
 
@@ -235,4 +235,10 @@ Very poor.—The term 'very poor' means individuals—
 &emsp;&emsp;"(A) living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
 
 &emsp;&emsp;"(B) living on the equivalent of less than $1 per day."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

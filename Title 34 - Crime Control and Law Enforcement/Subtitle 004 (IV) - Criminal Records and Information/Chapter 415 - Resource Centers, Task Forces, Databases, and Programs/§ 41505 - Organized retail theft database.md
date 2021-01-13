@@ -6,7 +6,7 @@
 
 (2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
 
-(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base <sup>2</sup> project.
+(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and locallaw enforcement agencies participating in the data base <sup>2</sup> project.
 
 #### (b) Authorization of appropriations
 
@@ -23,6 +23,8 @@ For purposes of this section, "organized retail theft" means—
 &emsp;(3) the coordination, organization, or recruitment of persons to undertake the conduct described in paragraph (1) or (2).
 
 (Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092; Pub. L. 109–271, §8(a), Aug. 12, 2006, 120 Stat. 766.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

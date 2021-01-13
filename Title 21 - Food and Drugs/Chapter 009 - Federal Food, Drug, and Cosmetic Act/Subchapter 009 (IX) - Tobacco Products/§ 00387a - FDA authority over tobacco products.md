@@ -34,7 +34,7 @@ Each rulemaking under this subchapter shall be in accordance with chapter 5 of t
 
 #### (e) Center for tobacco products
 
-Not later than 90 days after June 22, 2009, the Secretary shall establish within the Food and Drug Administration the Center for Tobacco Products, which shall report to the Commissioner of Food and Drugs in the same manner as the other agency centers within the Food and Drug Administration. The Center shall be responsible for the implementation of this subchapter and related matters assigned by the Commissioner.
+Not later than 90 days after June 22, 2009, the Secretary shall establish within the Food andDrug Administration the Center for Tobacco Products, which shall report to the Commissioner of Food and Drugs in the same manner as the other agency centers within the Food and Drug Administration. The Center shall be responsible for the implementation of this subchapter and related matters assigned by the Commissioner.
 
 #### (f) Office to assist small tobacco product manufacturers
 
@@ -45,6 +45,8 @@ The Secretary shall establish within the Food and Drug Administration an identif
 Prior to promulgating rules under this subchapter, the Secretary shall endeavor to consult with other Federal agencies as appropriate.
 
 (June 25, 1938, ch. 675, §901, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1786.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

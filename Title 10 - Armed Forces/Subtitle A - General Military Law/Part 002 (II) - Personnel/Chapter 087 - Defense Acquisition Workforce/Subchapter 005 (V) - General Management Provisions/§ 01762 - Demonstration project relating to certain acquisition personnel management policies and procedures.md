@@ -70,7 +70,7 @@ Assessments.—(1) The Secretary of Defense shall designate an independent organ
 
 &emsp;(L) Whether there is a process for ensuring employee involvement in the development and improvement of the project.
 
-(3) The first assessment under this subsection shall be completed not later than September 30,2012. The second and final assessment shall be completed not later than September 30, 2016. The Secretary shall submit to the covered congressional committees a copy of each assessment within 30 days after receipt by the Secretary of the assessment.
+(3) The first assessment under this subsection shall be completed not later than September 30, 2012. The second and final assessment shall be completed not later than September 30, 2016. The Secretary shall submit to the covered congressional committees a copy of each assessment within 30 days after receipt by the Secretary of the assessment.
 
 (f)
 

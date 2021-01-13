@@ -16,6 +16,7 @@
 | [2710\.](Subchapter%20001%20%28I%29%20-%20Personnel%20Rights%20and%20Benefits/%C2%A7%2002710%20-%20Disposition%20of%20effects%20of%20decedents.md) | Disposition of effects of decedents. |
 | [2711\.](Subchapter%20001%20%28I%29%20-%20Personnel%20Rights%20and%20Benefits/%C2%A7%2002711%20-%20Deserters%3B%20payment%20of%20expenses%20incident%20to%20apprehension%20and%20delivery%3B%20penalties.md) | Deserters; payment of expenses incident to apprehension and delivery; penalties. |
 | [2712\.](Subchapter%20001%20%28I%29%20-%20Personnel%20Rights%20and%20Benefits/%C2%A7%2002712%20-%20Payment%20for%20the%20apprehension%20of%20stragglers.md) | Payment for the apprehension of stragglers. |
+| [2713\.](Subchapter%20001%20%28I%29%20-%20Personnel%20Rights%20and%20Benefits/%C2%A7%2002713%20-%20Employment%20assistance.md) | Employment assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,13 +49,13 @@
 
 |  |  |
 | :--- | ---: |
-| [2761\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002761%20-%20Persons%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md) | Persons discharged as result of court-martial; allowances to. |
+| [2761\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002761%20-%20Individuals%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md) | Individuals discharged as result of court-martial; allowances to. |
 | [2762\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002762%20-%20Shore%20patrol%20duty%3B%20payment%20of%20expenses.md) | Shore patrol duty; payment of expenses. |
 | [2763\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002763%20-%20Compensatory%20absence%20from%20duty%20for%20military%20personnel%20at%20isolated%20duty%20stations.md) | Compensatory absence from duty for military personnel at isolated duty stations. |
 | [2764\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002764%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md) | Monetary allowance for transportation of household effects. |
 | [2765\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002765%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md) | Retroactive payment of pay and allowances delayed by administrative error or oversight. |
 | [2766\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002766%20-%20Travel%20card%20management.md) | Travel card management. |
-| [2767\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002767%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md) | Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States. |
+| [2767\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002767%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20individuals%20residing%20on%20islands%20in%20the%20continental%20United%20States.md) | Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States. |
 | [2768\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002768%20-%20Annual%20audit%20of%20pay%20and%20allowances%20of%20members%20undergoing%20permanent%20change%20of%20station.md) | Annual audit of pay and allowances of members undergoing permanent change of station. |
 | [2769\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002769%20-%20Remission%20of%20indebtedness.md) | Remission of indebtedness. |
 | [2770\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002770%20-%20Special%20instruction%20at%20universities.md) | Special instruction at universities. |
@@ -64,11 +65,13 @@
 | [2774\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002774%20-%20Sales%20of%20ration%20supplies%20to%20messes.md) | Sales of ration supplies to messes. |
 | [2775\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002775%20-%20Flight%20rations.md) | Flight rations. |
 | [2776\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002776%20-%20Payments%20at%20time%20of%20discharge%20for%20good%20of%20service.md) | Payments at time of discharge for good of service. |
-| [2777\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002777%20-%20Clothing%20for%20destitute%20shipwrecked%20persons.md) | Clothing for destitute shipwrecked persons. |
+| [2777\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002777%20-%20Clothing%20for%20destitute%20shipwrecked%20individuals.md) | Clothing for destitute shipwrecked individuals. |
 | [2778\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002778%20-%20Advancement%20of%20public%20funds%20to%20personnel.md) | Advancement of public funds to personnel. |
 | [2779\.](Subchapter%20003%20%28III%29%20-%20Payments/%C2%A7%2002779%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md) | Transportation to and from certain places of employment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -77,6 +80,8 @@ A prior analysis for part III of this title "COAST GUARD AUTHORIZATIONS AND REPO
 A prior analysis for chapter 27 "AUTHORIZATIONS" consisted of items 2701 "Requirement for prior authorization of appropriations", 2702 "Authorization of appropriations", 2703 "Authorization of personnel end strengths", and 2704 "Authorized levels of military strength and training", prior to repeal by Pub. L. 115–282, title I, §116(a), Dec. 4, 2018, 132 Stat. 4225.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8206(b), title LVXXXV \[LXXXV\], §8505(a)(38)(B), (39)(B), (45)(B), Jan. 1, 2021, 134 Stat. 4649, 4750, added items 2713, 2761, 2767, and 2777, and struck out former items 2761 "Persons discharged as result of court-martial; allowances to", 2767 "Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States", and 2777 "Clothing for destitute shipwrecked persons". Item 2713 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item "at the end" of the analysis for subchapter I of this chapter.
 
 <b>2018</b>—Pub. L. 115–282, title I, §116(a), title III, §316, Dec. 4, 2018, 132 Stat. 4225, 4250, inserted chapter 27 designation and heading, added items 2701 to 2779, and struck out item 2705 "Clothing at time of discharge for good of service".
 

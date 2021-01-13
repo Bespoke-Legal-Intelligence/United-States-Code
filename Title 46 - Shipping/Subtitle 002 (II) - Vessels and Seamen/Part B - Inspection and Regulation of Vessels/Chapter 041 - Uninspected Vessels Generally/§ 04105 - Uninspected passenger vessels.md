@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 Section 4105 provides that an uninspected passenger vessel is subject to Chapter 43, as a recreational vessel even when it is carrying not more than six passengers.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §3541(b)(10)(A), substituted "section 2101(51)" for "section 2101(42)" in introductory provisions.

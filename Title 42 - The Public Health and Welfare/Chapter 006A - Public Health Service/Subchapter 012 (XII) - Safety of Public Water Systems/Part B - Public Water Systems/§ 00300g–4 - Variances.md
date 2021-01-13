@@ -12,7 +12,7 @@ Notwithstanding any other provision of this part, variances from national primar
 
 > &emsp;Before a schedule prescribed by a State pursuant to this subparagraph may take effect, the State shall provide notice and opportunity for a public hearing on the schedule. A notice given pursuant to the preceding sentence may cover the prescribing of more than one such schedule and a hearing held pursuant to such notice shall include each of the schedules covered by the notice. A schedule prescribed pursuant to this subparagraph for a public water system granted a variance shall require compliance by the system with each contaminant level requirement with respect to which the variance was granted as expeditiously as practicable (as the State may reasonably determine).
 
-&emsp;(B) A State which has primary enforcement responsibility for public water systems may grant to one or more public water systems within its jurisdiction one or more variances from any provision of a national primary drinking water regulation which requires the use of a specified treatment technique with respect to a contaminant if the public water system applying for the variance demonstrates to the satisfaction of the State that such treatment technique is not necessary to protect the health of persons because of the nature of the raw water source of such system. A variance granted under this subparagraph shall be conditioned on such monitoring and other requirements as the Administrator may prescribe.
+&emsp;(B) A State which has primary enforcement responsibility for public water systems may grant to one or more public water systems within its jurisdiction one or more variances from any provision of a national primary drinking water regulation which requires the use of a specified treatment technique with respect to a contaminant if the public water system applying for the variance demonstrates tothe satisfaction of the State that such treatment technique is not necessary to protect the health of persons because of the nature of the raw water source of such system. A variance granted under this subparagraph shall be conditioned on such monitoring and other requirements as the Administrator may prescribe.
 
 &emsp;(C) Before a variance proposed to be granted by a State under subparagraph (A) or (B) may take effect, such State shall provide notice and opportunity for public hearing on the proposed variance. A notice given pursuant to the preceding sentence may cover the granting of more than one variance and a hearing held pursuant to such notice shall include each of the variances covered by the notice. The State shall promptly notify the Administrator of all variances granted by it. Such notification shall contain the reason for the variance (and in the case of a variance under subparagraph (A), the basis for the finding required by that subparagraph before the granting of the variance) and documentation of the need for the variance.
 
@@ -88,7 +88,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 #### (4) Compliance schedules
 
-&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcementresponsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
+&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
 
 #### (5) Duration of variances
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 &emsp;A variance shall not be available under this subsection for—
 
-&emsp;&emsp;(A) any maximum contaminant level or treatment technique for a contaminant with respect to which a national primary drinking water regulation was promulgated prior to January 1, 1986; or
+&emsp;&emsp;(A) any maximum contaminant level or treatment technique for a contaminant withrespect to which a national primary drinking water regulation was promulgated prior to January 1, 1986; or
 
 &emsp;&emsp;(B) a national primary drinking water regulation for a microbial contaminant (including a bacterium, virus, or other organism) or an indicator or treatment technique for a microbial contaminant.
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 &emsp;&emsp;&emsp;(ii) If the Administrator objects to the variance, the date on which the State makes the recommended modifications or responds in writing to each objection.
 
-(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19, 1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19,1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
 
 #### Amendments
 

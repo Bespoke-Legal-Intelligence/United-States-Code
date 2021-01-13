@@ -22,6 +22,8 @@ Words "or assistant clerks" and "in any case" were added in subsection (b) to ma
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–353 struck out "district" before "court".
@@ -29,6 +31,8 @@ Minor changes were made in phraseology.
 <b>1982</b>—Pub. L. 97–164 struck out designation "(a)" before "A clerk of a district court" and struck out subsec. (b) which had provided that the clerk or assistant clerk of the Court of Customs and Patent Appeals could not be appointed a commissioner, master, or referee in any case.
 
 <b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting "or bankruptcy court" after "district court", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

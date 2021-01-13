@@ -76,12 +76,8 @@
 | [578b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578b%20-%20Disposition%20of%20projects.md) | Disposition of projects. |
 | [579\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md) | Repealed. |
 | [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Corps%20budgeting%3B%20project%20deauthorizations%3B%20comprehensive%20backlog%20report.md) | Corps budgeting; project deauthorizations; comprehensive backlog report. |
-| [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Omitted.md) | Omitted. |
-| [579c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579c%20-%20Backlog%20prevention%20projects%20from%20Public%20Law%20113%E2%80%93121.md) | Backlog prevention: projects from Public Law 113–121. |
-| 579c–1. | Backlog prevention: projects from Public Law 114–322. |
-| 579c–2. | Backlog prevention: projects from Public Law 115–270. |
-| [579d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579d%20-%20Deauthorization%20of%20inactive%20projects%20as%20of%20Public%20Law%20114%E2%80%93322.md) | Deauthorization of inactive projects as of Public Law 114–322. |
-| 579d–1. | Deauthorization of inactive projects as of Public Law 115–270. |
+| 579b to 579d–1. Omitted or Repealed. |  |
+| 579d–2. | Deauthorization of inactive projects. |
 | [579e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579e%20-%20Access%20to%20real%20estate%20data.md) | Access to real estate data. |
 | [579f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579f%20-%20Budgetary%20evaluation%20metrics%20and%20transparency%3B%20public%20participation.md) | Budgetary evaluation metrics and transparency; public participation. |
 
@@ -154,6 +150,7 @@
 | [632\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000632%20-%20Omitted.md) | Omitted. |
 | [633\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000633%20-%20Protection%2C%20alteration%2C%20reconstruction%2C%20relocation%2C%20or%20replacement%20of%20structures%20and%20facilities%3B%20contract%20standards%3B%20reasonable%20costs.md) | Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs. |
 | [634\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000634%20-%20Assistance%20relating%20to%20water%20supply.md) | Assistance relating to water supply. |
+| [635\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000635%20-%20Coast%20Guard%20anchorages.md) | Coast Guard anchorages. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

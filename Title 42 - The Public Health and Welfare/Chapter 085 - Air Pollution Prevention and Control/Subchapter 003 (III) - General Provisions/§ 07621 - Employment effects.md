@@ -20,7 +20,7 @@ Nothing in this section shall be construed to require or authorize the Administr
 
 #### Effective Date
 
-Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, setout as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Study of Potential Dislocation of Employees
 

@@ -26,7 +26,7 @@ The Secretary, or the Secretary's designee, in coordination with the Director of
 
 &emsp;(5) establish and maintain the ITACG Detail, which shall assign an appropriate number of State, local, and tribal homeland security and law enforcement officers and intelligence analysts to work in the National Counterterrorism Center who shall—
 
-&emsp;&emsp;(A) educate and advise National Counterterrorism Center intelligence analysts about the requirements of the State, local, and tribal homeland security and law enforcement officers, and other emergency responseproviders regarding information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information;
+&emsp;&emsp;(A) educate and advise National Counterterrorism Center intelligence analysts aboutthe requirements of the State, local, and tribal homeland security and law enforcement officers, and other emergency response providers regarding information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information;
 
 &emsp;&emsp;(B) assist National Counterterrorism Center intelligence analysts in integrating, analyzing, and otherwise preparing versions of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information that are unclassified or classified at the lowest possible level and suitable for dissemination to State, local, and tribal homeland security and law enforcement agencies in order to help deter and prevent terrorist attacks;
 
@@ -92,7 +92,7 @@ The Secretary, in consultation with the Director of National Intelligence, the A
 
 &emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligence official from the Department of Homeland Security detailed pursuant to subsection (d)(6),<sup>2</sup> shall ensure that—
 
-&emsp;&emsp;(A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National Counterterrorism Center and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
+&emsp;&emsp;(A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National CounterterrorismCenter and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
 
 &emsp;&emsp;(B) in consultation with the ITACG Advisory Council and consistent with sections 3024(f)(1)(B)(iii) and 3056(f)(E) <sup>1</sup> of title 50, all products described in subparagraph (A) are disseminated through existing channels of the Department and the Department of Justice and other appropriate channels to State, local, and tribal government officials and other entities;
 
@@ -111,6 +111,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG 
 There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
 (Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, §6726(b), Dec. 20, 2019, 133 Stat. 2236.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

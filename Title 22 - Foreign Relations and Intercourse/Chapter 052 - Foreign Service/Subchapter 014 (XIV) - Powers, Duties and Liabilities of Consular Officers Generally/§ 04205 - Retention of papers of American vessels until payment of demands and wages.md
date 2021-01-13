@@ -4,6 +4,8 @@ All consular officers are authorized and required to retain in their possession 
 
 (R.S. §1718.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1718 derived from act Aug. 18, 1856, ch. 127, §28, 11 Stat. 63.

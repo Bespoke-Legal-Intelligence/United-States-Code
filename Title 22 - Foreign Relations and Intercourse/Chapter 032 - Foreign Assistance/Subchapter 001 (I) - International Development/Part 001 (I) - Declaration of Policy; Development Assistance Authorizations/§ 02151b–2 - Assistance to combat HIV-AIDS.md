@@ -30,7 +30,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 &emsp;&emsp;(B) strengthen the capacity to deliver primary health care in developing countries, especially in sub-Saharan Africa;
 
-&emsp;&emsp;(C) support and help countries in their efforts to achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization; and
+&emsp;&emsp;(C) support and help countries in their efforts to achieve staffing levels of at least 2.3doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization; and
 
 &emsp;&emsp;(D) help partner countries to develop independent, sustainable HIV/AIDS programs.
 
@@ -248,7 +248,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(i) improve the effectiveness of national responses to HIV/AIDS;
 
-&emsp;&emsp;&emsp;(ii) strengthen overall health systems in high-prevalence countries, including support for workforce training, retention, and effective deployment, capacity building,laboratory development, equipment maintenance and repair, and public health and related public financial management systems and operations; and
+&emsp;&emsp;&emsp;(ii) strengthen overall health systems in high-prevalence countries, including support for workforce training, retention, and effective deployment, capacity building, laboratory development, equipment maintenance and repair, and public health and related public financial management systems and operations; and
 
 &emsp;&emsp;&emsp;(iii) encourage fair and transparent procurement practices among partner countries; and
 
@@ -566,6 +566,8 @@ In this section:
 
 (Pub. L. 87–195, pt. I, §104A, as added Pub. L. 108–25, title III, §301(a)(2), May 27, 2003, 117 Stat. 728; amended Pub. L. 110–293, title III, §301(a)–(e), July 30, 2008, 122 Stat. 2945–2953; Pub. L. 113–56, §5, Dec. 2, 2013, 127 Stat. 650.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7672(a)(3) of this title and section 7673(d) of this title, referred to in subsec. (b)(1)(A)(ii)(I), were in the original references to sections 402(a)(3) and 403(d), respectively, and were translated as meaning sections 402(a)(3) and 403(d), respectively, of Pub. L. 108–25, to reflect the probable intent of Congress.
@@ -616,13 +618,17 @@ Subsec. (f)(2)(C), (D). Pub. L. 110–293, §301(e)(2), added subpars. (C) and (
 
 Subsecs. (g), (h). Pub. L. 110–293, §301(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Submission of Annual Report
 
 Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 477, provided in part: "That the annual report required by section 104(A)(f) \[probably should be "104A(f)"\] of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151b–2(f)\] shall also be submitted hereafter to the Committees on Appropriations".
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

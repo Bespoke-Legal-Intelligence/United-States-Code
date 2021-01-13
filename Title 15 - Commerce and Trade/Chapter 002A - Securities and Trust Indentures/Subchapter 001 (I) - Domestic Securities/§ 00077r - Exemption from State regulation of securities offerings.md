@@ -56,7 +56,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(E) section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-&emsp;&emsp;(F) Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit aState from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996; or
+&emsp;&emsp;(F) Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996; or
 
 &emsp;&emsp;(G) section 77d(a)(7) of this title.
 

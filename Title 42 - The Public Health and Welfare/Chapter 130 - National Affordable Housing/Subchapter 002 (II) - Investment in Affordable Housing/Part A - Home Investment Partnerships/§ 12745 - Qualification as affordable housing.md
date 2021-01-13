@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) is not refused for leasing to a holder of a voucher or certificate of eligibility under section 1437f of this title because of the status of the prospective tenant as a holder of such voucher or certificate of eligibility;
 
-&emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of themortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
+&emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
 
 &emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of providing affordable housing appropriate for families described in subparagraph (B), the Secretary may, upon the application of the project owner, waive the applicability of subparagraph (A) of paragraph (1) with respect to a dwelling unit if—
+&emsp;&emsp;For the purpose of providing affordable housing appropriate for families described insubparagraph (B), the Secretary may, upon the application of the project owner, waive the applicability of subparagraph (A) of paragraph (1) with respect to a dwelling unit if—
 
 &emsp;&emsp;&emsp;(i) the unit is occupied by such a family, on whose behalf tenant-based assistance is provided under section 1437f of this title;
 

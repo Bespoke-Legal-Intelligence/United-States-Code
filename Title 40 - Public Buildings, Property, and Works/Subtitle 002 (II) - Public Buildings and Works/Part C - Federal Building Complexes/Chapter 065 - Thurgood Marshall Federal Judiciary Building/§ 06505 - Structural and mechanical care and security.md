@@ -18,7 +18,7 @@ Capitol police.—The United States Capitol Police—
 
 &emsp;&emsp;(A) are responsible for all exterior security of the Building and other improvements constructed under this chapter; and
 
-&emsp;&emsp;(B) may police the Building and other improvements, including the interior and exterior, and may make arrests within the interior and exterior of the Building and other improvements for any violation of federal or state law or the laws of the District of Columbia, or any regulation prescribed under any of those laws.
+&emsp;&emsp;(B) may police the Building and other improvements, including the interior and exterior, and may make arrests within the interior and exterior of the Building and otherimprovements for any violation of federal or state law or the laws of the District of Columbia, or any regulation prescribed under any of those laws.
 
 &emsp;(2)
 

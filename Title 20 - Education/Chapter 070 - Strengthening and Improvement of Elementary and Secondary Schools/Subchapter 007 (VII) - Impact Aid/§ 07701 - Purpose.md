@@ -28,7 +28,7 @@ A prior section 7001 of Pub. L. 89–10 was classified to section 3281 of this t
 
 Par. (4). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(2)\], inserted "or" at end.
 
-Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5)\], redesignated par. (6) as (5), inserted "and because of the difficulty of raising local revenuethrough bond referendums for capital projects due to the inability to tax Federal property" before period at end, and struck out former par. (5) which read as follows: "experience sudden and substantial increases or decreases in enrollments because of military realignments; or".
+Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5)\], redesignated par. (6) as (5), inserted "and because of the difficulty of raising local revenue through bond referendums for capital projects due to the inability to tax Federal property" before period at end, and struck out former par. (5) which read as follows: "experience sudden and substantial increases or decreases in enrollments because of military realignments; or".
 
 #### Effective Date of 2015 Amendment
 

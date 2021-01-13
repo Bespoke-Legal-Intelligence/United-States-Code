@@ -20,7 +20,7 @@ The term "generation-skipping transfer" does not include—
 
 &emsp;&emsp;(A) the property transferred was subject to a prior tax imposed under this chapter,
 
-&emsp;&emsp;(B) the transferee in the prior transfer was assigned to the same generation as (or alower generation than) the generation assignment of the transferee in this transfer, and
+&emsp;&emsp;(B) the transferee in the prior transfer was assigned to the same generation as (or a lower generation than) the generation assignment of the transferee in this transfer, and
 
 &emsp;&emsp;(C) such transfers do not have the effect of avoiding tax under this chapter with respect to any transfer.
 

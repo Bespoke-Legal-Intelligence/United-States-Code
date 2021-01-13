@@ -100,7 +100,7 @@ In evaluating applications under the program, the Secretary may give priority to
 
 #### (e) Compliance with certain requirements
 
-The Secretary may not provide assistance under this subchapter to an eligible entity or owner of eligible land unless the eligible entity or owner agrees, during the crop year for which the assistance is provided—
+The Secretary may not provide assistance under this subchapter to an eligible entity orowner of eligible land unless the eligible entity or owner agrees, during the crop year for which the assistance is provided—
 
 &emsp;(1) to comply with applicable conservation requirements under subchapter II; and
 

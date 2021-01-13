@@ -22,9 +22,13 @@ Pub. L. 101–611, title I, §123, Nov. 16, 1990, 104 Stat. 3204.
 
 The words "the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991 (Public Law 101–611, 104 Stat. 3190)" are substituted for "this Act" to clarify the reference.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 103(a)(1) of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991 (Public Law 101–611, 104 Stat. 3190), referred to in text, is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### International Space Station
 
@@ -48,7 +52,7 @@ Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586�
 
 "(a)
 
-Bimonthly Reporting on Russian Status.—Not later than the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], and semiannually thereafter until December 31, 2011, the Administrator \[of the National Aeronautics and Space Administration\] shall report to Congress whether or not the Russians have performed work expected of them and necessary to complete the International Space Station. Each such report shall also include a statement of the Administrator's judgment concerning Russia's ability to perform work anticipated and required to complete the International Space Station before the next report under this subsection. Each such report shall also identify each Russian entity or person to whom NASA has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22, 2005\], made a payment in cash or in-kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29,1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto. Each report shall include the specific purpose of each payment made to each entity or person identified in the report.
+Bimonthly Reporting on Russian Status.—Not later than the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], and semiannually thereafter until December 31, 2011, the Administrator \[of the National Aeronautics and Space Administration\] shall report to Congress whether or not the Russians have performed work expected of them and necessary to complete the International Space Station. Each such report shall also include a statement of the Administrator's judgment concerning Russia's ability to perform work anticipated and required to complete the International Space Station before the next report under this subsection. Each such report shall also identify each Russian entity or person to whom NASA has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22, 2005\], made a payment in cash or in-kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto. Each report shall include the specific purpose of each payment made to each entity or person identified in the report.
 
 "(b)
 
@@ -128,7 +132,7 @@ Sec. 106. (a) The Administrator \[of the National Aeronautics and Space Administ
 
 "(b) The space station shall be developed and operated in a manner that supports other science and space activities.
 
-"(c) In order to reduce the cost of operations of the space station and its ground support system, the Administrator shall undertake the development of suchadvanced technologies as may be appropriate within the level of funding authorized in this Act \[see Tables for classification\].
+"(c) In order to reduce the cost of operations of the space station and its ground support system, the Administrator shall undertake the development of such advanced technologies as may be appropriate within the level of funding authorized in this Act \[see Tables for classification\].
 
 "(d) The Administrator shall seek to have portions of the space station constructed and operated by the private sector, where appropriate.
 

@@ -22,7 +22,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;&emsp;(B) if such information as so submitted is not correct or is no longer correct, to obtain the correct information, but only for the purposes of preventing fraud by, pursuing legal remedies against, or recovering on a debt or security interest against, the individual.
 
-&emsp;(4) For use in connection with any civil, criminal, administrative, or arbitral proceeding in any Federal, State, or local court or agency or before any self-regulatory body, including the service of process, investigation in anticipation of litigation, and the execution or enforcement of judgments and orders, or pursuant to an order of a Federal, State, or local court.
+&emsp;(4) For use in connection with any civil, criminal, administrative, or arbitral proceeding in any Federal, State, or local court or agency or before any self-regulatory body,including the service of process, investigation in anticipation of litigation, and the execution or enforcement of judgments and orders, or pursuant to an order of a Federal, State, or local court.
 
 &emsp;(5) For use in research activities, and for use in producing statistical reports, so long as the personal information is not published, redisclosed, or used to contact individuals.
 
@@ -58,6 +58,8 @@ Prohibition on Conditions.—No State may condition or burden in any way the iss
 
 (Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
@@ -80,13 +82,15 @@ Subsec. (b)(12). Pub. L. 106–69, §350(d), substituted "if the State has obtai
 
 &emsp;"(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
 
-&emsp;"(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them".
+&emsp;"(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing,and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted "titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49" for "the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act".
 
 Subsec. (b)(9). Pub. L. 104–287, §1(2), substituted "chapter 313 of title 49" for "the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)".
 
 Subsec. (c). Pub. L. 104–294 substituted "covered by this chapter" for "covered by this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -98,7 +102,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Pub. L. 103–322, title XXX, §300003, Sept. 13, 1994, 108 Stat. 2102, provided that: "The amendments made bysection 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section "300002(a)"\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice."
+Pub. L. 103–322, title XXX, §300003, Sept. 13, 1994, 108 Stat. 2102, provided that: "The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section "300002(a)"\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice."
 
 #### Short Title
 

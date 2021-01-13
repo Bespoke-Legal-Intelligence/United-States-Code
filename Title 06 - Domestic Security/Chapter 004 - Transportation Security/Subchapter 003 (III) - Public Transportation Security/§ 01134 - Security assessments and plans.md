@@ -52,7 +52,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall—
 
 &emsp;&emsp;(A) a prioritized list of all items included in the public transportation agency's security assessment that have not yet been addressed;
 
-&emsp;&emsp;(B) a detailed list of any additional capital and operational improvements identified by the Department or the public transportation agency and a certification of the public transportation agency's technical capacity for operating and maintaining any security equipment that may be identified in such list;
+&emsp;&emsp;(B) a detailed list of any additional capital and operational improvements identified by the Department or the public transportation agency and a certification of the public transportation agency's technical capacity for operating and maintaining any securityequipment that may be identified in such list;
 
 &emsp;&emsp;(C) specific procedures to be implemented or used by the public transportation agency in response to a terrorist attack, including evacuation and passenger communication plans and appropriate evacuation and communication measures for the elderly and individuals with disabilities;
 
@@ -88,7 +88,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall—
 
 #### (d) Consistency with other plans
 
-The Secretary shall ensure that the security plans developed by public transportation agencies under this section are consistent with thesecurity assessments developed by the Department and the National Strategy for Public Transportation Security developed under section 1133 of this title.
+The Secretary shall ensure that the security plans developed by public transportation agencies under this section are consistent with the security assessments developed by the Department and the National Strategy for Public Transportation Security developed under section 1133 of this title.
 
 #### (e) Updates
 
@@ -126,7 +126,7 @@ The Secretary shall encourage the development and implementation of coordinated 
 
 #### (i) Determination
 
-In response to a petition by a public transportation agency or at the discretion of the Secretary, the Secretary may recognize existing procedures, protocols, and standards of a public transportation agency that the Secretary determines meet all or part of the requirements of this section regarding security assessments or security plans.
+In response to a petition by a public transportation agency or at the discretion of the Secretary, the Secretary may recognize existing procedures, protocols, and standards of a publictransportation agency that the Secretary determines meet all or part of the requirements of this section regarding security assessments or security plans.
 
 (Pub. L. 110–53, title XIV, §1405, Aug. 3, 2007, 121 Stat. 402.)
 

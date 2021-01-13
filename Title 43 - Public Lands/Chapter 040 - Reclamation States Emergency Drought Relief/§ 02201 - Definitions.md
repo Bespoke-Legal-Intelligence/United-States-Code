@@ -10,15 +10,21 @@ As used in this chapter:
 
 (Pub. L. 102–250, §2, Mar. 5, 1992, 106 Stat. 53.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: "This Act \[enacting this chapter\] may be cited as the 'Reclamation States Emergency Drought Relief Act of 1991'."
+
+#### <b>Executive Documents</b>
 
 #### Building National Capabilities for Long-Term Drought Resilience
 
@@ -28,7 +34,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
-Section 1. <i>Purpose</i>. Our Nation must sustain and expand efforts to reduce the vulnerability of communities to the impacts of drought. Every year, drought affects millions of Americans and poses a serious and growing threat to the security and economies of communities nationwide. Drought presents challenges to the viability of agricultural production and to the quantity and quality of drinking water supplies that communities and industries depend upon. Drought jeopardizes the integrity of critical infrastructure, causes extensive economic and health impacts, harms ecosystems, and increases energy costs. In responding to and recoveringfrom past droughts, we have learned that focused collaboration across all levels of government and the private sector is critical to enable productive and workable solutions to build regional resilience to drought.
+Section 1. <i>Purpose</i>. Our Nation must sustain and expand efforts to reduce the vulnerability of communities to the impacts of drought. Every year, drought affects millions of Americans and poses a serious and growing threat to the security and economies of communities nationwide. Drought presents challenges to the viability of agricultural production and to the quantity and quality of drinking water supplies that communities and industries depend upon. Drought jeopardizes the integrity of critical infrastructure, causes extensive economic and health impacts, harms ecosystems, and increases energy costs. In responding to and recovering from past droughts, we have learned that focused collaboration across all levels of government and the private sector is critical to enable productive and workable solutions to build regional resilience to drought.
 
 Among other actions, this memorandum institutionalizes the National Drought Resilience Partnership (NDRP), which builds upon the National Integrated Drought Information System, an interagency program led by the Department of Commerce. The NDRP was outlined in the President's Climate Action Plan to better coordinate Federal support for drought-related efforts, help communities reduce the impact of current drought events, and prepare for future droughts. In sustaining this focused collaboration, the NDRP will provide the Federal Government with a lasting platform that enables locally and regionally driven priorities and needs to guide coordinated Federal activities.
 
@@ -152,7 +158,7 @@ Sec. 5. <i>National Drought Resilience Partnership</i>.
 
 (xiv) such other agencies or offices as the agencies set forth above, by consensus, deem appropriate.
 
-(d) <i>NDRP Co-Chairs</i>. The NDRP shall have two Co-Chairs. The Secretary of Agriculture, or the Secretary's designated representative, shall continuously serve as the first Co-Chair of the NDRP. The Secretary of Commerce, or the Secretary's designated official, shall serve as the second Co-Chair for a period of 2 years. The NDRP members shall rotate the second Co-Chair responsibility every 2 years based on majority vote among the Departments of Defense, the Interior, Commerce, Energy, Homeland Security, and the Environmental Protection Agency. Members serving as the second Co-Chair shall not serve in that role over consecutive periods. The NDRP shall meet at minimum on a quarterly basis, with additional meetings as needed.
+(d) <i>NDRP Co-Chairs</i>. The NDRP shall have two Co-Chairs. The Secretary of Agriculture, or the Secretary's designated representative, shall continuously serve as the first Co-Chair of the NDRP. The Secretary of Commerce, or the Secretary's designated official,shall serve as the second Co-Chair for a period of 2 years. The NDRP members shall rotate the second Co-Chair responsibility every 2 years based on majority vote among the Departments of Defense, the Interior, Commerce, Energy, Homeland Security, and the Environmental Protection Agency. Members serving as the second Co-Chair shall not serve in that role over consecutive periods. The NDRP shall meet at minimum on a quarterly basis, with additional meetings as needed.
 
 (e) <i>Charter</i>. Within 90 days of the date of this memorandum, the Co-Chairs of the NDRP shall, with consensus of the members, complete a charter, which shall include any administrative policies and processes necessary to ensure the NDRP can satisfy the functions and responsibilities described in this memorandum.
 

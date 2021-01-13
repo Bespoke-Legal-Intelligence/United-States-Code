@@ -42,7 +42,7 @@
 
 #### (A) Funds reserved
 
-&emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
+&emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretaryshall reserve not more than 1 percent, which shall be used—
 
 &emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
 
@@ -78,7 +78,7 @@
 
 #### (2) Special rule for use of fiscal year 1999 amount
 
-&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, theSecretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
+&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
 
 #### (3) Increase in funds
 
@@ -200,7 +200,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measuredby the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (ii) Small State adjustment
 
@@ -534,7 +534,7 @@ The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935,
 
 A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements andallocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 
@@ -554,11 +554,13 @@ Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set 
 
 #### Effect of Reduction
 
-Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2590, provided in part: "That the Secretary \[of Education\] may, in any fiscal year in which a State's allocation under section 611 \[20 U.S.C. 1411\] is reduced in accordance with section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\], reduce the amount a State may reserve under section 611(e)(1) \[20 U.S.C. 1411(e)(1)\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[20 U.S.C. 1411(d)\] in the absence of the reduction: <i>Provided further</i>, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[20 U.S.C. 1412(a)(18)(A)\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act (20 U.S.C. 1234a)".
+Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: "That the Secretary \[of Education\] may, in any fiscal year in which a State's allocation under section 611 \[20 U.S.C. 1411\] is reduced in accordance with section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\], reduce the amount a State may reserve under section 611(e)(1) \[20 U.S.C. 1411(e)(1)\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[20 U.S.C. 1411(d)\] in the absence of the reduction: <i>Provided further</i>, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[20 U.S.C. 1412(a)(18)(A)\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act (20 U.S.C. 1234a)".
 
-Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2589, provided in part: "That the amount by which a State's allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, 20 U.S.C. 1411(d)\] is reduced under section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years".
+Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: "That the amount by which a State's allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, 20 U.S.C. 1411(d)\] is reduced under section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2589, 2590.
 
 Pub. L. 115–245, div. B, title III, Sept. 28, 2018, 132 Stat. 3100.
 

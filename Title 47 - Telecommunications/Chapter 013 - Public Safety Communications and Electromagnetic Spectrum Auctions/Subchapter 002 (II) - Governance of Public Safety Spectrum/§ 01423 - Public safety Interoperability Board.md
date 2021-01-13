@@ -84,7 +84,7 @@ There is established within the Commission an advisory board to be known as the 
 
 #### (d) Travel expenses
 
-The members of the Interoperability Board shall be allowed travel expenses, including perdiem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
+The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
 
 #### (e) Exemption from FACA
 
@@ -95,6 +95,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Intero
 The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
 
 (Pub. L. 112–96, title VI, §6203, Feb. 22, 2012, 126 Stat. 207.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Not later than 180 days after December 16, 2016, the Secretary shall issue imple
 
 #### (2) Requirements
 
-All potential mitigation bank and in-lieu fee credits that meet the criteria under paragraph\(1) shall be considered a reasonable alternative for planning purposes if—
+All potential mitigation bank and in-lieu fee credits that meet the criteria under paragraph (1) shall be considered a reasonable alternative for planning purposes if—
 
 &emsp;(A) the applicable mitigation bank—
 
@@ -26,6 +26,8 @@ Nothing in this subsection—
 
 (Pub. L. 110–114, title II, §2036(c), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 114–322, title I, §1163, Dec. 16, 2016, 130 Stat. 1669.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -33,6 +35,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–322 amended section generally. Prior to amendment, section related to use of the mitigation bank for certain water resources projects that involved wetlands mitigation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

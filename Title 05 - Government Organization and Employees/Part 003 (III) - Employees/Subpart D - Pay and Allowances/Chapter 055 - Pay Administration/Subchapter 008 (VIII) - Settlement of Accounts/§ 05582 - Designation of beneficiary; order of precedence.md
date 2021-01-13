@@ -52,6 +52,8 @@ In subsection (b), so much of the first 35 words of former section 61f as states
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted "An employee may change or revoke a designation at any time under regulations promulgated—" for "An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe." in introductory provisions and added pars. (1) to (3).

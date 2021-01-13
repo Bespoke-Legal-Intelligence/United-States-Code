@@ -40,6 +40,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3160; amended Pub. L. 104–275, title III, §311(6), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 106–419, title III, §323(b), Nov. 1, 2000, 114 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4316 was renumbered section 7616 of this title.
@@ -49,6 +51,8 @@ A prior section 4316 was renumbered section 7616 of this title.
 <b>2000</b>—Subsec. (e). Pub. L. 106–419 added subsec. (e).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–275 inserted at end "No employer may require any such person to use vacation, annual, or similar leave during such period of service."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

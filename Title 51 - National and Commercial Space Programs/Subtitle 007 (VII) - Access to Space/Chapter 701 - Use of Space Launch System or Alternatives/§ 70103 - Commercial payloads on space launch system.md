@@ -46,6 +46,8 @@ Pub. L. 101–611, title II, §206, Nov. 16, 1990, 104 Stat. 3207; Pub. L. 105�
 
 In subsection (a), the words "this section" are substituted for "this title", meaning title II of Public Law 101–611, because title II of Public Law 101–611 was previously repealed except for section 201 (a short title provision, classified to 42 U.S.C. 2451 note, in which neither defined term appears) and sections 203 (42 U.S.C. 2465c) and 206 (42 U.S.C. 2465f) of Public Law 101–611, which are restated in this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90 substituted "space launch system" for "space shuttle" in section catchline and wherever appearing in text.

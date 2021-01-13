@@ -4,11 +4,15 @@ The Congress hereby declares that the educational program established by this ch
 
 (Added Pub. L. 90–631, §2(a)(1), Oct. 23, 1968, 82 Stat. 1331, §1700; amended Pub. L. 94–502, title III, §310(1), Oct. 15, 1976, 90 Stat. 2391; renumbered §3500, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1700 of this title as this section.
 
 <b>1976</b>—Pub. L. 94–502 substituted "surviving spouses" for "widows", "spouses" for "wives", and "the veteran's" for "his" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

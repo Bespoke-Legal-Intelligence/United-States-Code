@@ -10,6 +10,8 @@ The Secretary and Comptroller General of the United States, or any of their duly
 
 (Pub. L. 92–255, title IV, §411, Mar. 21, 1972, 86 Stat. 83; Pub. L. 97–35, title IX, §971, Aug. 13, 1981, 95 Stat. 597.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out reference to section 1176 of this title.

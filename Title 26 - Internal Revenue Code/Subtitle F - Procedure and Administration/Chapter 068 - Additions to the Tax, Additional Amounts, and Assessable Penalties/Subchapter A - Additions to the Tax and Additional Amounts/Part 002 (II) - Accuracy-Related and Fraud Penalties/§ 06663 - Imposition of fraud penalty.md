@@ -6,7 +6,7 @@ If any part of any underpayment of tax required to be shown on a return is due t
 
 #### (b) Determination of portion attributable to fraud
 
-If the Secretary establishes that any portion of an underpayment is attributable to fraud, the entire underpayment shall be treated as attributable to fraud, except with respect to any portion of the underpayment which the taxpayer establishes (by a preponderance of the evidence) is not attributable to fraud.
+If the Secretary establishes that any portion of an underpayment is attributable to fraud, theentire underpayment shall be treated as attributable to fraud, except with respect to any portion of the underpayment which the taxpayer establishes (by a preponderance of the evidence) is not attributable to fraud.
 
 #### (c) Special rule for joint returns
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
+There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
 
 #### (b) Limitation with respect to medicine and drugs
 
@@ -68,7 +68,7 @@ Special rule in the case of child of divorced parents, etc.—Any child to whom 
 
 &emsp;&emsp;(C) no amount shall be treated as paid for such insurance if the amount specified in the contract (or furnished to the policyholder by the insurance company in a separate statement) as the charge for such insurance is unreasonably large in relation to the total charges under the contract.
 
-&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) ofparagraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
+&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
 
 &emsp;(8) The determination of whether an individual is married at any time during the taxable year shall be made in accordance with the provisions of section 6013(d) (relating to determination of status as husband and wife).
 
@@ -134,11 +134,7 @@ Certain payments to relatives treated as not paid for medical care.—An amount 
 
 Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
-#### (f) Temporary special rule
-
-In the case of taxable years beginning before January 1, 2021, subsection (a) shall be applied with respect to a taxpayer by substituting "7.5 percent" for "10 percent".
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 111–148, title IX, §9013(a), (b), Mar. 23, 2010, 124 Stat. 868; Pub. L. 115–97, title I, §§11002(d)(7), 11027(a), Dec. 22, 2017, 131 Stat. 2061, 2077; Pub. L. 116–94, div. Q, title I, §103(a), Dec. 20, 2019, 133 Stat. 3228.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 111–148, title IX, §9013(a), (b), Mar. 23, 2010, 124 Stat. 868; Pub. L. 115–97, title I, §§11002(d)(7), 11027(a), Dec. 22, 2017, 131 Stat. 2061, 2077; Pub. L. 116–94, div. Q, title I, §103(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §101(a), Dec. 27, 2020, 134 Stat. 3039.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -149,6 +145,10 @@ In the case of taxable years beginning before January 1, 2021, subsection (a) sh
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §101(a)(1), substituted "7.5 percent" for "10 percent".
+
+Subsec. (f). Pub. L. 116–260, §101(a)(2), struck out subsec. (f). Text read as follows: "In the case of taxable years beginning before January 1, 2021, subsection (a) shall be applied with respect to a taxpayer by substituting '7.5 percent' for '10 percent'."
 
 <b>2019</b>—Subsec. (f). Pub. L. 116–94 amended subsec. (f) generally. Prior to amendment, subsec. (f) provided that subsec. (a) was to be applied with respect to a taxpayer by substituting "7.5 percent" for "10 percent" under certain special rules for 2013 through 2018.
 
@@ -278,6 +278,10 @@ Subsec. (d)(2)(A). Pub. L. 85–866, §16, struck out "claimed or" before "allow
 
 Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §101(b), Dec. 27, 2020, 134 Stat. 3039, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2020."
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–94 applicable to taxable years ending after Dec. 31, 2018, see section 103(c) of Pub. L. 116–94, set out as a note under section 56 of this title.
@@ -338,7 +342,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 504(c)(1) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975,see section 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
+Amendment by section 504(c)(1) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
 
 #### Effective Date of 1965 Amendment
 

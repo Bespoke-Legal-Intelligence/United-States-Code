@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The table of sections for subchapter III is set out preceding section 101931 as enacted by Pub. L. 114–289, and not as part of the chapter analysis preceding section 101901.

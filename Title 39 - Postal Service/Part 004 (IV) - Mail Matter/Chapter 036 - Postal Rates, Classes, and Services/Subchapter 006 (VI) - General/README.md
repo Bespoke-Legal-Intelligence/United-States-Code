@@ -1,5 +1,7 @@
 ### SUBCHAPTER VI—GENERAL
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title II, §204(a)(2), Dec. 20, 2006, 120 Stat. 3210, redesignated subchapter V of this chapter as this subchapter.

@@ -58,7 +58,7 @@ The district judge for the Eastern District in office on November 27, 1940, shal
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §188 (Mar. 3, 1911, ch. 231, §107, 36 Stat. 1124; Aug. 20, 1912, ch. 306, 37 Stat. 314; June 22, 1916, ch. 161, 39 Stat. 232; Mar. 4, 1923, ch. 289, 42 Stat. 1520; May 17, 1926, ch. 310, 44 Stat. 561; Mar. 1, 1927, ch. 244, 44 Stat. 1262; May 13, 1932, ch. 179, 47 Stat. 153; June 16, 1933, ch. 94, 48 Stat. 253; July 30, 1937, ch. 539, 50 Stat. 546; June 12, 1940, ch. 341, 54 Stat. 348; Nov. 27, 1940, ch. 920, §1, 54 Stat. 1216; Dec. 3, 1943, ch. 332, 57 Stat. 595).
+Based on title 28, U.S.C., 1940 ed., §188 (Mar. 3, 1911, ch. 231, §107, 36 Stat. 1124; Aug. 20, 1912, ch. 306, 37 Stat. 314; June 22, 1916, ch. 161, 39 Stat. 232; Mar. 4, 1923, ch. 289, 42 Stat. 1520; May 17, 1926, ch. 310, 44 Stat. 561; Mar. 1, 1927, ch. 244, 44 Stat. 1262; May 13, 1932, ch. 179, 47Stat. 153; June 16, 1933, ch. 94, 48 Stat. 253; July 30, 1937, ch. 539, 50 Stat. 546; June 12, 1940, ch. 341, 54 Stat. 348; Nov. 27, 1940, ch. 920, §1, 54 Stat. 1216; Dec. 3, 1943, ch. 332, 57 Stat. 595).
 
 Words "The said judge shall possess the same powers, perform the same duties, and receive the same compensation as other district judges," and words, "The President is authorized to appoint, by and with the consent of the Senate, a successor or successors to said judge as vacancies may occur. Nothing herein contained shall be construed to prevent said judge or his successors from becoming the senior district judge by succession, or from exercising the powers and rights of senior district judge of said district. The judge designated herein to hold regular and special terms of court at Winchester and Chattanooga shall make all necessary orders for the disposition of business and assignment of cases for trial in said divisions," were deleted as superfluous, in view of sections 132 and 141 of this title.
 
@@ -78,6 +78,8 @@ The provision respecting court accommodations at Winchester was omitted as cover
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–406, §2(a)(1), inserted "Dyer," after "Decatur," and "and Dyersburg" after "Jackson".
@@ -89,6 +91,8 @@ Subsec. (c)(2). Pub. L. 110–406, §2(a)(2), struck out "Dyer," after "counties
 Subsec. (c)(2). Pub. L. 91–272, §12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
 <b>1961</b>—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

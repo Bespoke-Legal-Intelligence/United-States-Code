@@ -6,6 +6,8 @@
 
 (Pub. L. 91–581, §23, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, §236(1), (21), Aug. 8, 2005, 119 Stat. 671, 673.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 inserted section catchline and substituted "geothermal resources" for "geothermal steam and associated geothermal resources" in subsecs. (a) and (b).

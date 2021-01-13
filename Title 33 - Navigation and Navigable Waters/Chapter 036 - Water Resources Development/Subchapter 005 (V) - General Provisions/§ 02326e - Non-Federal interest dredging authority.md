@@ -42,9 +42,13 @@ The authority of the Secretary under this section terminates on the date that is
 
 (Pub. L. 114–322, title I, §1113, Dec. 16, 2016, 130 Stat. 1637.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

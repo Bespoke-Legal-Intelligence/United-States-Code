@@ -1,6 +1,6 @@
 ### §4565. Authority to review certain mergers, acquisitions, and takeovers
 
-#### (a) <sup>1</sup> Definitions
+#### (a) Definitions
 
 In this section:
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) maintains or collects sensitive personal data of United States citizens that may be exploited in a manner that threatens national security.
 
-&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a UnitedStates business in which the foreign person has an investment, if that change could result in—
+&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a United States business in which the foreign person has an investment, if that change could result in—
 
 &emsp;&emsp;&emsp;&emsp;(I) foreign control of the United States business; or
 
@@ -74,7 +74,7 @@ In this section:
 
 #### (ii) Definition of close proximity
 
-&emsp;&emsp;&emsp;With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure that the term "close proximity" refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
+&emsp;&emsp;&emsp;With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure thatthe term "close proximity" refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
 
 #### (D) Other investments
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (I) Treatment of certain investment fund investments
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limitedpartner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limited partner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
 
@@ -196,7 +196,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Specially designed and prepared nuclear equipment, parts and components, materials, software, and technology covered by part 810 of title 10, Code of Federal Regulations (relating to assistance to foreign atomic energy activities).
 
-&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating toexport and import of nuclear equipment and material).
+&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating to export and import of nuclear equipment and material).
 
 &emsp;&emsp;&emsp;(v) Select agents and toxins covered by part 331 of title 7, Code of Federal Regulations, part 121 of title 9 of such Code, or part 73 of title 42 of such Code.
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (7) Foreign government-controlled transaction
 
-&emsp;The term "foreign government-controlled transaction" means any covered transaction that could result in the control of any United States business by a foreign government or an entity controlled by or acting on behalf of a foreign government.
+&emsp;The term "foreign government-controlled transaction" means any covered transaction that could result in the control of any United States business by a foreign government or anentity controlled by or acting on behalf of a foreign government.
 
 #### (8) Intelligence community
 
@@ -260,7 +260,23 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+
+#### (II) Comments and acceptance
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.
+
+#### (bb) Completeness
+
+&emsp;&emsp;&emsp;&emsp;&emsp;If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.
+
+#### (cc) Stipulations required
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.
 
 #### (ii) Withdrawal of notice
 
@@ -274,7 +290,91 @@ In this section:
 
 &emsp;&emsp;&emsp;The Committee may require a written notice submitted under clause (i) to include a copy of any partnership agreements, integration agreements, or other side agreements relating to the transaction, as specified in regulations prescribed by the Committee.
 
-#### (vi) <sup>2</sup> Stipulations regarding transactions
+#### (v) Declarations for certain covered transactions
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).
+
+#### (II) Regulations
+
+&emsp;&emsp;&emsp;&emsp;The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.
+
+#### (III) Committee response to declaration
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) request that the parties to the transaction file a written notice under clause (i);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) initiate a unilateral review of the transaction under subparagraph (D); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.
+
+#### (bb) Timing
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.
+
+#### (cc) Rule of construction
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.
+
+#### (IV) Mandatory declarations
+
+#### (aa) Regulations
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.
+
+#### (bb) Certain covered transactions with foreign government interests
+
+#### &nbsp;(AA) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest.
+
+#### &nbsp;(BB) Substantial interest defined
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In this item, the term "substantial interest" has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term "other investment" as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.
+
+#### &nbsp;(CC) Waiver
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.
+
+#### (cc) Other declarations required by Committee
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).
+
+#### (dd) Exception
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the general partner, managing member, or equivalent is not a foreign person; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).
+
+#### (ee) Submission of written notice as an alternative
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).
+
+#### (ff) Timing and refiling of submission
+
+#### &nbsp;(AA) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In the regulations prescribed under item (aa), the Committee may notrequire a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
+
+#### &nbsp;(BB) Refiling of declaration
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.
+
+#### (gg) Penalties
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.
+
+#### (vi) Stipulations regarding transactions
 
 #### (I) In general
 
@@ -286,7 +386,7 @@ In this section:
 
 #### (II) Basis for stipulation
 
-&emsp;&emsp;&emsp;&emsp;A written notice submitted under clause (i) or a declaration submittedunder clause (v) that includes a stipulation under subclause (I) shall include a description of the basis for the stipulation.
+&emsp;&emsp;&emsp;&emsp;A written notice submitted under clause (i) or a declaration submitted under clause (v) that includes a stipulation under subclause (I) shall include a description of the basis for the stipulation.
 
 #### (D) Unilateral initiation of review
 
@@ -384,9 +484,9 @@ In this section:
 
 #### (3) Certifications to Congress
 
-#### (A) Certified notice at completion of review
+#### (A) Certified notice at completion of review or assessment
 
-&emsp;&emsp;Upon completion of a review under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
+&emsp;&emsp;Upon completion of a review under this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD), the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
 
 #### (B) Certified report at completion of investigation
 
@@ -398,9 +498,11 @@ In this section:
 
 &emsp;&emsp;&emsp;Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be submitted to the members of Congress specified in clause (iii), and shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a description of the actions taken by the Committee with respect to the transaction; and
+&emsp;&emsp;&emsp;&emsp;(I) a description of the actions taken by the Committee with respect to the transaction;
 
-&emsp;&emsp;&emsp;&emsp;(II) identification of the determinative factors considered under subsection (f).
+&emsp;&emsp;&emsp;&emsp;(II) a certification that all relevant national security factors have received full consideration; and
+
+&emsp;&emsp;&emsp;&emsp;(III) whether the transaction is described under clause (i), (ii), (iii), (iv), or (v) of subsection (a)(4)(B).
 
 #### (ii) Content of certification
 
@@ -426,17 +528,23 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, which signature requirement may only be delegated in accordance with subclause (II).
 
-#### (II) Limitation on delegation of certifications
+#### (II) Delegation of certifications
 
-&emsp;&emsp;&emsp;&emsp;The chairperson and the head of the lead agency may delegate the signature requirement under subclause (I)—
+#### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) only to an appropriate employee of the Department of the Treasury (in the case of the Secretary of the Treasury) or to an appropriate employee of the lead agency (in the case of the lead agency) who was appointed by the President, by and with the advice and consent of the Senate, with respect to any notice provided under paragraph (1) following the completion of a review under this section; or
+&emsp;&emsp;&emsp;&emsp;&emsp;Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) only to a Deputy Secretary of the Treasury (in the case of the Secretary of the Treasury) or a person serving in the Deputy position or the equivalent thereof at the lead agency (in the case of the lead agency), with respect to any report provided under subparagraph (B) following an investigation under this section.
+#### (bb) Limitation on delegation with respect to certain transactions
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency.
+
+#### (v) Authority to consolidate documents
+
+&emsp;&emsp;&emsp;Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).
 
 #### (4) Analysis by Director of National Intelligence
 
-#### (A) <sup>3</sup> Analysis required
+#### (A) Analysis required
 
 #### (i) In general
 
@@ -582,7 +690,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The actions of the President under paragraph (1) of subsection (d) and the findings ofthe President under paragraph (4) of subsection (d) shall not be subject to judicial review.
+&emsp;The actions of the President under paragraph (1) of subsection (d) and the findings of the President under paragraph (4) of subsection (d) shall not be subject to judicial review.
 
 #### (2) Civil actions
 
@@ -610,11 +718,11 @@ For purposes of this section, the President or the President's designee may, tak
 
 &emsp;&emsp;(A) identified by the Secretary of State—
 
-&emsp;&emsp;&emsp;(i) under section 4605(j) <sup>4</sup> of this title, as a country that supports terrorism;
+&emsp;&emsp;&emsp;(i) under section 4605(j) <sup>1</sup> of this title, as a country that supports terrorism;
 
-&emsp;&emsp;&emsp;(ii) under section 4605(l) <sup>4</sup> of this title, as a country of concern regarding missile proliferation; or
+&emsp;&emsp;&emsp;(ii) under section 4605(l) <sup>1</sup> of this title, as a country of concern regarding missile proliferation; or
 
-&emsp;&emsp;&emsp;(iii) under section 4605(m) <sup>4</sup> of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
+&emsp;&emsp;&emsp;(iii) under section 4605(m) <sup>1</sup> of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
 
 &emsp;&emsp;(B) identified by the Secretary of Defense as posing a potential regional military threat to the interests of the United States; or
 
@@ -630,7 +738,7 @@ For purposes of this section, the President or the President's designee may, tak
 
 &emsp;(9) as appropriate, and particularly with respect to transactions requiring an investigation under subsection (b)(1)(B), a review of the current assessment of—
 
-&emsp;&emsp;(A) the adherence of the subject country to nonproliferation control regimes, including treaties and multilateral supply guidelines, which shall draw on, but not be limited to, the annual report on "Adherence to and Compliance with Arms Control, Nonproliferation and Disarmament Agreements and Commitments" required by section 2593a of title 22;
+&emsp;&emsp;(A) the adherence of the subject country to nonproliferation control regimes, including treaties and multilateral supply guidelines,which shall draw on, but not be limited to, the annual report on "Adherence to and Compliance with Arms Control, Nonproliferation and Disarmament Agreements and Commitments" required by section 2593a of title 22;
 
 &emsp;&emsp;(B) the relationship of such country with the United States, specifically on its record on cooperating in counter-terrorism efforts, which shall draw on, but not be limited to, the report of the President to Congress under section 7120 of the Intelligence Reform and Terrorism Prevention Act of 2004; and
 
@@ -654,7 +762,7 @@ For purposes of this section, the President or the President's designee may, tak
 
 #### (B) Proprietary information
 
-&emsp;&emsp;Proprietary information which can be associated with a particular party to a coveredtransaction shall be furnished in accordance with subparagraph (A) only to a committee of Congress, and only when the committee provides assurances of confidentiality, unless such party otherwise consents in writing to such disclosure.
+&emsp;&emsp;Proprietary information which can be associated with a particular party to a covered transaction shall be furnished in accordance with subparagraph (A) only to a committee of Congress, and only when the committee provides assurances of confidentiality, unless such party otherwise consents in writing to such disclosure.
 
 #### (h) Regulations
 
@@ -718,7 +826,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;(I) The Director of National Intelligence (nonvoting, ex officio).
 
-&emsp;&emsp;(J) The heads of any other executive department, agency, or office, as the President determines appropriate, generally or on a case-by-case basis.
+&emsp;&emsp;(J) The heads of any other executive department, agency, or office, as the Presidentdetermines appropriate, generally or on a case-by-case basis.
 
 #### (3) Chairperson
 
@@ -886,7 +994,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;&emsp;(i) negotiate a plan of action for the party or parties to remediate the lack of compliance, with failure to abide by the plan or otherwise remediate the lack of compliance serving as the basis for the Committee to find a material breach of the agreement or condition;
 
-&emsp;&emsp;&emsp;(ii) require that the party or parties submit a written notice under clause (i) ofsubsection (b)(1)(C) or a declaration under clause (v) of that subsection with respect to a covered transaction initiated after the date of the determination of noncompliance and before the date that is 5 years after the date of the determination to the Committee to initiate a review of the transaction under subsection (b); or
+&emsp;&emsp;&emsp;(ii) require that the party or parties submit a written notice under clause (i) of subsection (b)(1)(C) or a declaration under clause (v) of that subsection with respect to a covered transaction initiated after the date of the determination of noncompliance and before the date that is 5 years after the date of the determination to the Committee to initiate a review of the transaction under subsection (b); or
 
 &emsp;&emsp;&emsp;(iii) seek injunctive relief.
 
@@ -912,7 +1020,15 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;The annual report under paragraph (1) shall contain the following information, with respect to each covered transaction, for the reporting period:
 
-&emsp;&emsp;(A) A list of all notices filed and all reviews or investigations completed during the period, with basic information on each party to the transaction, the nature of the business activities or products of all pertinent persons, along with information about any withdrawal from the process, and any decision or action by the President under this section.
+&emsp;&emsp;(A) A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—
+
+&emsp;&emsp;&emsp;(i) a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection (l)(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;
+
+&emsp;&emsp;&emsp;(ii) basic information on each party to each such transaction;
+
+&emsp;&emsp;&emsp;(iii) the nature of the business activities or products of the United States businesswith which the transaction was entered into or intended to be entered into; and
+
+&emsp;&emsp;&emsp;(iv) information about any withdrawal from the process.
 
 &emsp;&emsp;(B) Specific, cumulative, and, as appropriate, trend information on the numbers of filings, investigations, withdrawals, and decisions or actions by the President under this section.
 
@@ -924,25 +1040,37 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;(F) A detailed discussion of all perceived adverse effects of covered transactions on the national security or critical infrastructure of the United States that the Committee will take into account in its deliberations during the period before delivery of the next report, to the extent possible.
 
+&emsp;&emsp;(G) Statistics on compliance plans conducted and actions taken by the Committee under subsection (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.
+
+&emsp;&emsp;(H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.
+
+&emsp;&emsp;(I) A description of—
+
+&emsp;&emsp;&emsp;(i) the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);
+
+&emsp;&emsp;&emsp;(ii) potential methods to improve such identification and the resources required to do so; and
+
+&emsp;&emsp;&emsp;(iii) the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
+
+&emsp;&emsp;(J) A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
+
+&emsp;&emsp;(K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
+
 #### (3) Contents of report relating to critical technologies
 
+&emsp;In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
+
+&emsp;&emsp;(A) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
+
+&emsp;&emsp;(B) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies; and
+
+&emsp;&emsp;(C) a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in section 4817(a) of this title.
+
+#### (4) Form of report
+
 #### (A) In general
-
-&emsp;&emsp;In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
-
-&emsp;&emsp;&emsp;(i) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer; and
-
-&emsp;&emsp;&emsp;(ii) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies.
-
-#### (B) Release of unclassified study
 
 &emsp;&emsp;All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
-
-#### (4) <sup>5</sup> Form of report
-
-#### (A) In general
-
-&emsp;&emsp;All appropriate portions of the annual report under paragraph (1) may be classified.An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
 
 #### (B) Inclusion in classified version
 
@@ -1116,7 +1244,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (1) In general
 
-&emsp;The chairperson, in consultation with the Committee, may centralize certain functions of the Committee within the Department of the Treasury for the purpose of enhancing interagency coordination and collaboration in carrying out the functions of the Committee under this section.
+&emsp;The chairperson, in consultation with the Committee, may centralize certain functionsof the Committee within the Department of the Treasury for the purpose of enhancing interagency coordination and collaboration in carrying out the functions of the Committee under this section.
 
 #### (2) Functions
 
@@ -1126,223 +1254,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;Nothing in this section shall be construed as limiting the authority of any department or agency represented on the Committee to represent its own interests before the Committee.
 
-(Sept. 8, 1950, ch. 932, title VII, §721, as added Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425; amended Pub. L. 102–484, div. A, title VIII, §837(a)–(c), (e), Oct. 23, 1992, 106 Stat. 2463–2465; Pub. L. 102–558, title I, §163, Oct. 28, 1992, 106 Stat. 4219; Pub. L. 103–359, title VIII, §809(d), Oct. 14, 1994, 108 Stat. 3454; Pub. L. 110–49, §§2–7(b), 8–10, July 26, 2007, 121 Stat. 246, 252–257, 259; Pub. L. 115–232, div. A, title XVII, §§1703–1717(a), 1718, 1719(a), 1720, 1721(c), 1723–1725, Aug. 13, 2018, 132 Stat. 2177–2193, 2197, 2202, 2204–2206.)
-
-#### Amendment of Subsection (a)
-
-<i>For effective date and applicability of subsec. (a) of this section as amended by section 1703 of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.</i>
-
-#### Amendment of Subsection (b)(1)(C)(i)
-
-<i>Pub. L. 115–232, div. A, title XVII, §§1704, 1727(b), Aug. 13, 2018, 132 Stat. 2183, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C)(i) of this section is amended—</i>
-
-<i>(1) by striking "Any party" and inserting the following:</i>
-
-#### <i>"(I) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"Any party"; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-#### <i>(II) Comments and acceptance</i>
-
-#### <i>(aa) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.</i>
-
-#### <i>(bb) Completeness</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.</i>
-
-#### <i>(cc) Stipulations required</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.</i>
-
-<i>See 2018 Amendment note below.</i>
-
-#### Enactment of Subsection (b)(1)(C)(v)
-
-<i>Pub. L. 115–232, div. A, title XVII, §§1706, 1727(b), Aug. 13, 2018, 132 Stat. 2184, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in</i><i>place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C) is amended by adding at the end the following:</i>
-
-#### <i>(v) Declarations for certain covered transactions</i>
-
-#### <i>(I) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).</i>
-
-#### <i>(II) Regulations</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.</i>
-
-#### <i>(III) Committee response to declaration</i>
-
-#### <i>(aa) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(AA) request that the parties to the transaction file a written notice under clause (i);</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(CC) initiate a unilateral review of the transaction under subparagraph (D); or</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.</i>
-
-#### <i>(bb) Timing</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.</i>
-
-#### <i>(cc) Rule of construction</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.</i>
-
-#### <i>(IV) Mandatory declarations</i>
-
-#### <i>(aa) Regulations</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.</i>
-
-#### <i>(bb) Certain covered transactions with foreign government interests</i>
-
-#### &nbsp;<i>(AA) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest.</i>
-
-#### &nbsp;<i>(BB) Substantial interest defined</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>In this item, the term "substantial interest" has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term "other investment" as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.</i>
-
-#### &nbsp;<i>(CC) Waiver</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.</i>
-
-#### <i>(cc) Other declarations required by Committee</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).</i>
-
-#### <i>(dd) Exception</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) the general partner, managing member, or equivalent is not a foreign person; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>(CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).</i>
-
-#### <i>(ee) Submission of written notice as an alternative</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).</i>
-
-#### <i>(ff) Timing and refiling of submission</i>
-
-#### &nbsp;<i>(AA) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.</i>
-
-#### &nbsp;<i>(BB) Refiling of declaration</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.</i>
-
-#### <i>(gg) Penalties</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.</i>
-
-<i>See 2018 Amendment note below.</i>
-
-#### Amendment of Subsection (b)(3)(C)
-
-<i>Pub. L. 115–232, div. A, title XVII, §§1711, 1727(b), Aug. 13, 2018, 132 Stat. 2188, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(3)(C) of this section is amended—</i>
-
-<i>(1) in clause (i), by striking subclause (II) and inserting the following:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) a certification that all relevant national security factors have received full consideration.";</i>
-
-<i>(2) in clause (iv), by striking subclause (II) and inserting the following:</i>
-
-#### <i>"(II) Delegation of certifications</i>
-
-#### <i>"(aa) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.</i>
-
-#### <i>"(bb) Limitation on delegation with respect to certain transactions</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency."; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-#### <i>(v) Authority to consolidate documents</i>
-
-&emsp;&emsp;&emsp;<i>Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).</i>
-
-<i>See 2018 Amendment notes below.</i>
-
-#### Amendment of Subsection (b)(4)(A)
-
-<i>For effective date and applicability of subsec. (b)(4)(A) of this section as amended by section 1712(1) of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.</i>
-
-#### Amendment of Subsection (m)(2)
-
-<i>Pub. L. 115–232, div. A, title XVII, §§1719(a)(1), 1727(b), Aug. 13, 2018, 132 Stat. 2197, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(2) of this section is amended—</i>
-
-<i>(1) by amending subparagraph (A) to read as follows:</i>
-
-&emsp;&emsp;<i>"(A) A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection (l)(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) basic information on each party to each such transaction;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) information about any withdrawal from the process."; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>(G) Statistics on compliance plans conducted and actions taken by the Committee under sub</i><i>section (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.</i>
-
-&emsp;&emsp;<i>(H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.</i>
-
-&emsp;&emsp;<i>(I) A description of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) potential methods to improve such identification and the resources required to do so; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.</i>
-
-&emsp;&emsp;<i>(J) A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).</i>
-
-&emsp;&emsp;<i>(K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).</i>
-
-<i>See 2018 Amendment notes below.</i>
-
-#### Amendment of Subsection (m)(3)
-
-<i>Pub. L. 115–232, div. A, title XVII, §§1719(a)(2), 1727(b), Aug. 13, 2018, 132 Stat. 2198, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(3) of this section is amended—</i>
-
-<i>(1) by striking "critical technologies" and all that follows through "In order to assist" and inserting "critical technologies</i>
-
-&emsp;<i>"In order to assist";</i>
-
-<i>(2) by striking subparagraph (B);</i>
-
-<i>(3) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the left;</i>
-
-<i>(4) in subparagraph (A), as so redesignated, by striking "; and" and inserting a semicolon;</i>
-
-<i>(5) in subparagraph (B), as so redesignated, by striking the period and inserting "; and"; and</i>
-
-<i>(6) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>(C) a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in section 4817(a) of this title.</i>
-
-<i>See 2018 Amendment note below.</i>
-
-#### Enactment of Subsection (m)(4)
-
-<i>For effective date and applicability of subsec. (m)(4) of this section as added by section 1719(a)(3) of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.</i>
+(Sept. 8, 1950, ch. 932, title VII, §721, as added Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425; amended Pub. L. 102–484, div. A, title VIII, §837(a)–(c), (e), Oct. 23, 1992, 106 Stat. 2463–2465; Pub. L. 102–558, title I, §163, Oct. 28, 1992, 106 Stat. 4219; Pub. L. 103–359, title VIII, §809(d), Oct. 14, 1994, 108 Stat. 3454; Pub. L. 110–49, §§2–7(b), 8–10, July 26, 2007, 121 Stat. 246, 252–257, 259; Pub. L. 115–232, div. A, title XVII, §§1703–1717(a), 1718, 1719(a), 1720, 1721(c), 1723–1725, Aug. 13, 2018, 132 Stat. 2177–2193, 2197, 2202, 2204–2206; Pub. L. 116–283, div. H, title XCVII, §9721(a), Jan. 1, 2021, 134 Stat. 4839.)
 
 #### References in Text
 
@@ -1364,6 +1276,10 @@ Section was formerly classified to section 2170 of the former Appendix to this t
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(3)(A). Pub. L. 116–283, §9721(a)(1), inserted "or assessment" after "review" in heading and substituted "this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD)" for " subsection (b) that concludes action under this section" in text.
+
+Subsec. (b)(3)(C)(i)(III). Pub. L. 116–283, §9721(a)(2), added subcl. (III).
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–232, §1703, amended subsec. (a) generally. Prior to amendment, subsec. (a) defined the terms "Committee", "chairperson", "control", "covered transaction", "foreign government-controlled transaction", "critical infrastructure", "critical technologies", and "lead agency" for purposes of this section, and clarified construction of the term "national security" for purposes of this section.
 
 Subsec. (b)(1)(C)(i). Pub. L. 115–232, §1704, designated existing provisions as subcl. (I), inserted heading, and added subcl. (II).
@@ -1376,7 +1292,7 @@ Subsec. (b)(1)(D)(i). Pub. L. 115–232, §1708(2)(B), inserted "(other than a c
 
 Subsec. (b)(1)(D)(ii). Pub. L. 115–232, §1708(2)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: "any covered transaction that has previously been reviewed or investigated under this section, if any party to the transaction submitted false or misleading material information to the Committee in connection with the review or investigation or omitted material information, including material documents, from information submitted to the Committee; or".
 
-Subsec. (b)(1)(D)(iii). Pub. L. 115–232, §1708(2)(D)(i), substituted "any covered transaction described in subparagraph (E)," for "any covered transaction that haspreviously been reviewed or investigated under this section," in introductory provisions.
+Subsec. (b)(1)(D)(iii). Pub. L. 115–232, §1708(2)(D)(i), substituted "any covered transaction described in subparagraph (E)," for "any covered transaction that has previously been reviewed or investigated under this section," in introductory provisions.
 
 Subsec. (b)(1)(D)(iii)(I). Pub. L. 115–232, §1725(1)(A), substituted "subsection (l)(3)(A)" for "subsection (l)(1)(A)".
 
@@ -1462,7 +1378,7 @@ Subsec. (l)(6). Pub. L. 115–232, §1718(2), redesignated par. (3) as (6).
 
 Subsec. (l)(6)(A). Pub. L. 115–232, §1718(7)(A), substituted "paragraph (3)" for "paragraph (1)" and "The lead agency may, at its discretion, seek and receive the assistance of other departments or agencies in carrying out the purposes of this paragraph" for "Nothing in this paragraph shall prohibit other departments or agencies in assisting the lead agency in carrying out the purposes of this paragraph".
 
-Subsec. (l)(6)(B). Pub. L. 115–232, §1718(7)(B), struck out "(i) Modification reports" before "The lead agency", redesignated former subcls. (I) and (II) as cls. (i)and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "The Committee shall develop and agree upon methods for evaluating compliance with any agreement entered into or condition imposed with respect to a covered transaction that will allow the Committee to adequately assure compliance, without—
+Subsec. (l)(6)(B). Pub. L. 115–232, §1718(7)(B), struck out "(i) Modification reports" before "The lead agency", redesignated former subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "The Committee shall develop and agree upon methods for evaluating compliance with any agreement entered into or condition imposed with respect to a covered transaction that will allow the Committee to adequately assure compliance, without—
 
 &emsp;"(I) unnecessarily diverting Committee resources from assessing any new covered transaction for which a written notice has been filed pursuant to subsection (b)(1)(C), and if necessary, reaching a mitigation agreement with or imposing a condition on a party to such covered transaction or any covered transaction for which a review has been reopened for any reason; or
 
@@ -1542,7 +1458,7 @@ Subsec. (k). Pub. L. 102–558 added subsec. (k).
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title XVII, §1727(a), (b), Aug. 13, 2018, 132 Stat. 2206, 2207, provided that:
+Pub. L. 115–232, div. A, title XVII, §1727(a), (b), Aug. 13, 2018, 132 Stat. 2206, 2207, as amended by Pub. L. 116–283, div. H, title XCVII, §9721(b)(1), Jan. 1, 2021, 134 Stat. 4840, provided that:
 
 "(a)
 
@@ -1550,11 +1466,11 @@ Immediate Applicability of Certain Provisions.—The following shall take effect
 
 &emsp;"(1) Sections 1705, 1707, 1708, 1709, 1710, 1713, 1714, 1715, 1716, 1717, 1718, 1720, 1721, 1722, 1723, 1724, and 1725 \[amending this section and enacting provisions set out as a note under this section\] and any amendments made by those sections.
 
-&emsp;"(2) Section 1712 \[amending this section\] and the amendments made by that section (except for clause (iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 \[50 U.S.C. 4565(b)(4)(A)\], as added by section 1712).
+&emsp;"(2) Section 1712 \[amending this section\] and the amendments made by that section (except for clause\(iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 \[50 U.S.C. 4565(b)(4)(A)\], as added by section 1712).
 
-&emsp;"(3) Paragraphs (1), (2), (3), (4)(A)(i), (4)(B)(i), (4)(B)(iv)(I), (4)(B)(v), (4)(C)(v) \[sic\], (5), (6), (7), (8), (9), (10), (11), (12), and (13) of subsection (a) of section 721 of the Defense Production Act of 1950 \[50 U.S.C. 4565\], as amended by section 1703.
+&emsp;"(3) Paragraphs (1), (2), (3), (4)(A)(i), (4)(B)(i), (4)(B)(iv)(I), (4)(B)(v), (4)(F), (5), (6), (7), (8), (9), (10), (11), (12), and (13) of subsection (a) of section 721 of the Defense Production Act of 1950 \[50 U.S.C. 4565\], as amended by section 1703.
 
-&emsp;"(4) Section 721(m)(4) of the Defense Production Act of 1950 \[50 U.S.C. 4565(m)(4)\], as amended by section 1719 (except for clauses (ii), (iii), (iv), and (v) of subparagraph (B) of that section).
+&emsp;"(4) Section 721(m)(4) of the Defense Production Act of 1950 \[50 U.S.C. 4565(m)(4)\], as amended by section 1719 (except for clauses (ii), (iii), (iv), and (v) of subparagraph (C) of that section).
 
 "(b)
 
@@ -1576,6 +1492,8 @@ In general.—Any provision of or amendment made by this subtitle \[subtitle A (
 
 Nondelegation of determination.—The determination of the chairperson of the Committee on Foreign Investment in the United States under paragraph (1)(A) may not be delegated."
 
+\[Pub. L. 116–283, div. H, title XCVII, §9721(b)(2), Jan. 1, 2021, 134 Stat. 4840, provided that: "The amendments under paragraph (1) \[amending section 1727(a) of Pub. L. 115–232, set out above\] shall take effect on the date of enactment of the Foreign Investment Risk Review Modernization Act of 2018 \[Aug. 13, 2018\]."\]
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–49 applicable after the end of the 90-day period beginning on July 26, 2007, see section 12 of Pub. L. 110–49, set out as a note under section 5315 of Title 5, Government Organization and Employees.
@@ -1587,10 +1505,6 @@ Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see
 #### Severability
 
 Pub. L. 115–232, div. A, title XVII, §1728, Aug. 13, 2018, 132 Stat. 2207, provided that: "If any provision of this subtitle \[subtitle A (§§1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and section 4501 of this title\] or an amendment made by this subtitle, or the application of such a provision or amendment to any person or circumstance, is held to be invalid, the application of that provision or amendment to other persons or circumstances and the remainder of the provisions of this subtitle and the amendments made by this subtitle, shall not be affected thereby."
-
-#### Delegation of Functions
-
-For delegation of functions of President under subsecs. (b)(1)(A), (D), (h), and (m)(3)(A) of this section, see section 4(a), (b) of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out below.
 
 #### Findings regarding Foreign Investment Risk Review
 
@@ -1614,7 +1528,7 @@ Pub. L. 115–232, div. A, title XVII, §1702(a), Aug. 13, 2018, 132 Stat. 2174,
 
 &emsp;"(4) According to the Government Accountability Office, from 2011 to 2016, the number of transactions reviewed by the Committee on Foreign Investment in the United States (commonly referred to as 'CFIUS') grew by 55 percent, while the staff of the Committees assigned to the reviews increased by 11 percent.
 
-&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States\(GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'. The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
+&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States (GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'. The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
 
 &emsp;"(6) On March 30, 1954, Dwight David Eisenhower—five-star general, Supreme Allied Commander, and 34th President of the United States—in his 'Special Message to the Congress on Foreign Economic Policy', counseled: 'Great mutual advantages to buyer and seller, to producer and consumer, to investor and to the community where investment is made, accrue from high levels of trade and investment.'. President Eisenhower continued: 'The internal strength of the American economy has evolved from such a system of mutual advantage. In the press of other problems and in the haste to meet emergencies, this nation—and many other nations of the free world—have all too often lost sight of this central fact.'. President Eisenhower concluded: 'If we fail in our trade policy, we may fail in all. Our domestic employment, our standard of living, our security, and the solidarity of the free world—all are involved.'."
 
@@ -1692,11 +1606,15 @@ Study required.—Before the end of the 120-day period beginning on the date of 
 
 &emsp;"(A) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which comply with any boycott of Israel; or
 
-&emsp;"(B) foreign governments, entities controlled by or acting on behalf of a foreign government, or personsof foreign countries which do not ban organizations designated by the Secretary of State as foreign terrorist organizations.
+&emsp;"(B) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which do not ban organizations designated by the Secretary of State as foreign terrorist organizations.
 
 "(2)
 
 Report.—Before the end of the 30-day period beginning upon the date of completion of each study under paragraph (1), and thereafter in each annual report under section 721(m) of the Defense Production Act of 1950 \[50 U.S.C. 4565(m)\] (as added by this section), the Secretary of the Treasury shall submit a report to Congress, for transmittal to all appropriate committees of the Senate and the House of Representatives, containing the findings and conclusions of the Secretary with respect to the study described in paragraph (1), together with an analysis of the effects of such investment on the national security of the United States and on any efforts to address those effects."
+
+#### Delegation of Functions
+
+For delegation of functions of President under subsecs. (b)(1)(A), (D), (h), and (m)(3)(A) of this section, see section 4(a), (b) of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out below.
 
 #### Ex. Ord. No. 11858. Foreign Investment in the United States
 
@@ -1736,7 +1654,7 @@ Sec. 3. <i>Establishment</i>. (a) There is hereby established the Committee on F
 
 Sec. 4. <i>Duties of the Secretary of the Treasury.</i>
 
-(a) The functions of the President under subsections (b)(1)(A) (relating to review and consideration after notification), (b)(1)(D) (relating to unilateral initiation of review and consideration), and (m)(3)(A) (relating to inclusion in annual report and designation) of the Act \[50 U.S.C. 4565(b)(1)(A), (D), (m)(3)(A)\] are assigned to the Secretary of the Treasury.
+(a) The functions of the President under subsections (b)(1)(A) (relating to review and consideration after notification), (b)(1)(D) (relating to unilateral initiation of review and consideration), and (m)(3)(A) (relating to inclusion in annual report and designation) of the Act \[now 50 U.S.C. 4565(b)(1)(A), (D), (m)(3)(A), (B)\] are assigned to the Secretary of the Treasury.
 
 (b) The Secretary of the Treasury shall perform the function of issuance of regulations under section 721(h) of the Act \[50 U.S.C. 4565(h)\]. The Secretary shall consult the Committee with respect to such regulations prior to any notice and comment and prior to their issuance.
 
@@ -1786,7 +1704,7 @@ Sec. 7. <i>Risk Mitigation</i>. (a) The Committee, or any lead agency acting on 
 
 (C) negotiate, enter into, impose, or enforce contractual provisions with the parties to a transaction.
 
-(ii) A department or agency shall not condition actions or the exercise of authorities to which paragraph (i) of this subsection refers upon the exercise, or forbearance in the exercise, of its authority under the Act or this order, and no authority under the Act shall be available for the enforcement of such actions or authorities.
+(ii) A department or agency shall not condition actions or the exercise of authorities to which paragraph\(i) of this subsection refers upon the exercise, or forbearance in the exercise, of its authority under the Act or this order, and no authority under the Act shall be available for the enforcement of such actions or authorities.
 
 (f) The Committee may initiate a review of a transaction that has previously been reviewed by the Committee only in the extraordinary circumstances provided in the Act.
 
@@ -1836,13 +1754,5 @@ This interim directive shall be published in the Federal Register.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See Amendment of Subsection (a) note below.</i>
-
-<i><sup>2</sup></i><i> So in original. See Enactment of Subsection (b)(1)(C)(v) note below.</i>
-
-<i><sup>3</sup></i><i> See Amendment of Subsection (b)(4)(A) note below.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> See Amendment of Subsection (m)(4) note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

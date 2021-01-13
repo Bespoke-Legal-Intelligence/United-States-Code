@@ -6,7 +6,7 @@
 
 &emsp;(2) to promote and encourage unrestricted and undistorted competition in the provision of international postal services and other international delivery services, except where provision of such services by private companies may be prohibited by law of the United States;
 
-&emsp;(3) to promote and encourage a clear distinction between governmental and operationalresponsibilities with respect to the provision of international postal services and other international delivery services by the Government of the United States and by intergovernmental organizations of which the United States is a member; and
+&emsp;(3) to promote and encourage a clear distinction between governmental and operational responsibilities with respect to the provision of international postal services and other international delivery services by the Government of the United States and by intergovernmental organizations of which the United States is a member; and
 
 &emsp;(4) to participate in multilateral and bilateral agreements with other countries to accomplish these objectives.
 
@@ -40,11 +40,13 @@
 
 (2) With respect to shipments of international mail that are competitive products within the meaning of section 3631 that are exported or imported by the Postal Service, the Customs Service and other appropriate Federal agencies shall apply the customs laws of the United States and all other laws relating to the importation or exportation of such shipments in the same manner to both shipments by the Postal Service and similar shipments by private companies.
 
-(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary's control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. TheSecretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
+(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary's control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
 
 (4) The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, §101(h) \[title VI, §633(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523; Pub. L. 109–435, title IV, §405(a), Dec. 20, 2006, 120 Stat. 3229; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 "(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
-"(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
+"(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments tothe Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -81,6 +85,8 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 #### Transfer of Funds to State Department
 
 Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: "In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code."
+
+#### <b>Executive Documents</b>
 
 #### Modernizing the Monetary Reimbursement Model for the Delivery of Goods Through the International Postal System and Enhancing the Security and Safety of International Mail
 
@@ -124,7 +130,7 @@ It is the policy of the United States to promote and encourage the development o
 
 &emsp;(B) the current terminal dues rates undermine the goal of unrestricted and undistorted competition in cross-border delivery services because they disadvantage non-postal operators seeking to offer competing collection and outward transportation services for goods covered by terminal dues in foreign markets; and
 
-&emsp;(C) the current system of terminal dues distorts the flow of small packages around the world by incentivizing the shipping of goods from foreign countries that benefit from artificially low reimbursement rates.
+&emsp;(C) the current system of terminal dues distorts the flow of small packages around the world byincentivizing the shipping of goods from foreign countries that benefit from artificially low reimbursement rates.
 
 (ii) The UPU has not done enough to reorient international mail to achieve a clear distinction between documents and goods. Without such a distinction, it is difficult to achieve essential pricing reforms or to ensure that customs requirements, including provision of electronic customs data for goods, are met. Under the current system, foreign postal operators do not uniformly furnish advance electronic customs data that are needed to enhance targeting and risk management for national security and to facilitate importation and customs clearance. My Administration's Initiative to Stop Opioids Abuse and Reduce Drug Supply and Demand, launched in March of this year \[2018\], requires accurate advance electronic customs data for 90 percent of all international mail shipments that contain goods and consignment shipments within 3 years, so that the Department of Homeland Security can better detect and flag high-risk shipments.
 

@@ -6,7 +6,7 @@ There shall be established within the Department an Office of Minority Economic 
 
 #### (b) Advice to Secretary on effect of energy policies, regulations, and other actions of Department respecting minority participation in energy programs
 
-The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actions of the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
+The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actionsof the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
 
 #### (c) Research programs respecting effects of national energy programs, policies, and regulations of Department on minorities
 

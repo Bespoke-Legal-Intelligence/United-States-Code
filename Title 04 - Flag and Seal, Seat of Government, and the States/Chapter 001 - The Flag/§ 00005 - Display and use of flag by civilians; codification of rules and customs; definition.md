@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 June 22, 1942, ch. 435, §1, 56 Stat. 377; Dec. 22, 1942, ch. 806, §1, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (1), 90 Stat. 810.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 10834, referred to in text, is set out as a note under section 1 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Freedom To Display the American Flag
 
@@ -38,7 +42,7 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 &emsp;"(1) the term 'flag of the United States' has the meaning given the term 'flag, standard, colors, or ensign' under section 3 of title 4, United States Code;
 
-&emsp;"(2) the terms 'condominium association' and 'cooperative association' have the meanings given such terms under section 604 of Public Law 96–399 (15 U.S.C. 3603);
+&emsp;"(2) the terms 'condominium association' and 'cooperative association' have the meanings given suchterms under section 604 of Public Law 96–399 (15 U.S.C. 3603);
 
 &emsp;"(3) the term 'residential real estate management association' has the meaning given such term under section 528 of the Internal Revenue Code of 1986 (26 U.S.C. 528); and
 
@@ -46,7 +50,7 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 &emsp;&emsp;"(A) as used with respect to a condominium association, means an owner of a condominium unit (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association;
 
-&emsp;&emsp;"(B) as used with respect to a cooperative association, means a cooperative unit owner (as definedunder section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association; and
+&emsp;&emsp;"(B) as used with respect to a cooperative association, means a cooperative unit owner (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association; and
 
 &emsp;&emsp;"(C) as used with respect to a residential real estate management association, means an owner of a residential property within a subdivision, development, or similar area subject to any policy or restriction adopted by such association.
 

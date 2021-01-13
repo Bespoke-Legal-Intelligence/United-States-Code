@@ -22,7 +22,7 @@ Substantially identical provisions were contained in Pub. L. 106–554, §1(a)(4
 
 #### Termination of Responsibilities
 
-Pub. L. 106–562, title I, §105, Dec. 23, 2000, 114 Stat. 2796, as amended by Pub. L. 114–120, title V, §523, Feb. 8, 2016, 130 Stat. 71; Pub. L. 114–328, div. C, title XXXV, §3533(d), Dec. 23, 2016, 130 Stat. 2799, provided that:
+Pub. L. 106–562, title I, §105, Dec. 23, 2000, 114 Stat. 2796, as amended by Pub. L. 114–120, title V, §523, Feb. 8, 2016, 130 Stat. 71; Pub. L. 114–328, div. C, title XXXV, §3533(d), Dec. 23, 2016, 130 Stat. 2799; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(c), Jan. 1, 2021, 134 Stat. 4754, provided that:
 
 "(a)
 
@@ -44,7 +44,7 @@ Savings.—This subsection shall not affect any cause of action under section 20
 
 Rule of construction.—Nothing in this title \[see Short Title of 2000 Amendments note set out under section 1151 of this title\] shall be construed to imply that—
 
-&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) ofPublic Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
+&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
 
 &emsp;&emsp;"(B) any cause of action could or could not arise with respect to such an obligation.
 
@@ -136,7 +136,7 @@ In general.—Not later than 30 days after the Secretary makes a determination u
 
 &emsp;"(2)
 
-Election to receive.—Not later than 60 days after the date receipt of the notification of the Secretary under subsection (a), the Alaska native village corporation for St. Paul Island shall notify the Secretary in writing whether the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land.
+Election to receive.—Not later than 60 days after the date receipt of the notification of the Secretary under subsection (a), the Alaska native villagecorporation for St. Paul Island shall notify the Secretary in writing whether the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land.
 
 &emsp;"(3)
 
@@ -152,7 +152,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, theSecretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
+In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
 
 &emsp;&emsp;"(A) needed by the Secretary for the purposes of carrying out the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.);
 
@@ -162,7 +162,7 @@ In general.—Not later than 2 years after the date of the enactment of this sub
 
 &emsp;"(2)
 
-Report of determination.—When a determination is made under subsection (a), the Secretary shall report the determination to—
+Report of determination.—When a determination is made under paragraph (1), the Secretary shall report the determination to—
 
 &emsp;&emsp;"(A) the Committee on Natural Resources of the House of Representatives;
 

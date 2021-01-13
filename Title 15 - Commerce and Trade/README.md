@@ -84,6 +84,7 @@
 | [<b>56.</b>](Chapter%20056%20-%20National%20Climate%20Program/README.md) | <b>National Climate Program</b> | <b>2901</b> |
 | [<b>56A.</b>](Chapter%20056A%20-%20Global%20Change%20Research/README.md) | <b>Global Change Research</b> | <b>2921</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Interstate%20Horseracing/README.md) | <b>Interstate Horseracing</b> | <b>3001</b> |
+| [<b>57A.</b>](Chapter%20057A%20-%20Horseracing%20Integrity%20and%20Safety/README.md) | <b>Horseracing Integrity and Safety</b> | <b>3051</b> |
 | [<b>58.</b>](Chapter%20058%20-%20Full%20Employment%20and%20Balanced%20Growth/README.md) | <b>Full Employment and Balanced Growth</b> | <b>3101</b> |
 | [<b>59.</b>](Chapter%20059%20-%20Retail%20Policies%20for%20Natural%20Gas%20Utilities/README.md) | <b>Retail Policies for Natural Gas Utilities</b> | <b>3201</b> |
 | [<b>60.</b>](Chapter%20060%20-%20Natural%20Gas%20Policy/README.md) | <b>Natural Gas Policy</b> | <b>3301</b> |
@@ -99,6 +100,7 @@
 | [<b>70.</b>](Chapter%20070%20-%20Comprehensive%20Smokeless%20Tobacco%20Health%20Education/README.md) | <b>Comprehensive Smokeless Tobacco Health Education</b> | <b>4401</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Petroleum%20Overcharge%20Distribution%20and%20Restitution/README.md) | <b>Petroleum Overcharge Distribution and Restitution</b> | <b>4501</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Semiconductor%20Research/README.md) | <b>Semiconductor Research</b> | <b>4601</b> |
+| [<b>72A.</b>](Chapter%20072A%20-%20Creating%20Helpful%20Incentives%20to%20Produce%20Semiconductors%20for%20America/README.md) | <b>Creating Helpful Incentives To Produce Semiconductors for America</b> | <b>4651</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Export%20Enhancement/README.md) | <b>Export Enhancement</b> | <b>4701</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Competitiveness%20Policy%20Council/README.md) | <b>Competitiveness Policy Council</b> | <b>4801</b> |
 | [<b>75.</b>](Chapter%20075%20-%20National%20Trade%20Data%20Bank/README.md) | <b>National Trade Data Bank</b> | <b>4901</b> |
@@ -145,6 +147,10 @@
 | [<b>113.</b>](Chapter%20113%20-%20Concrete%20Masonry%20Products%20Research%2C%20Education%2C%20and%20Promotion/README.md) | <b>Concrete Masonry Products Research, Education, and Promotion</b> | <b>8701</b> |
 | [<b>114.</b>](Chapter%20114%20-%20National%20Quantum%20Initiative/README.md) | <b>National Quantum Initiative</b> | <b>8801</b> |
 | [<b>115.</b>](Chapter%20115%20-%20Perfluoroalkyl%20and%20Polyfluoroalkyl%20Substances%20and%20Emerging%20Contaminants/README.md) | <b>Perfluoroalkyl and Polyfluoroalkyl Substances and Emerging Contaminants</b> | <b>8901</b> |
+| [<b>116.</b>](Chapter%20116%20-%20Coronavirus%20Economic%20Stabilization%20%28CARES%20Act%29/README.md) | <b>Coronavirus Economic Stabilization (CARES ACT)</b> | <b>9001</b> |
+| [<b>117.</b>](Chapter%20117%20-%20Identifying%20Outputs%20of%20Generative%20Adversarial%20Networks/README.md) | <b>Identifying Outputs of Generative Adversarial Networks</b> | <b>9201</b> |
+| [<b>118.</b>](Chapter%20118%20-%20Sustainable%20Chemistry/README.md) | <b>Sustainable Chemistry</b> | <b>9301</b> |
+| [<b>119.</b>](Chapter%20119%20-%20National%20Artificial%20Intelligence%20Initiative/README.md) | <b>National Artificial Intelligence Initiative</b> | <b>9401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -234,6 +240,7 @@
 - [Chapter 056 - National Climate Program](Chapter%20056%20-%20National%20Climate%20Program/README.md)
 - [Chapter 056A - Global Change Research](Chapter%20056A%20-%20Global%20Change%20Research/README.md)
 - [Chapter 057 - Interstate Horseracing](Chapter%20057%20-%20Interstate%20Horseracing/README.md)
+- [Chapter 057A - Horseracing Integrity and Safety](Chapter%20057A%20-%20Horseracing%20Integrity%20and%20Safety/README.md)
 - [Chapter 058 - Full Employment and Balanced Growth](Chapter%20058%20-%20Full%20Employment%20and%20Balanced%20Growth/README.md)
 - [Chapter 059 - Retail Policies for Natural Gas Utilities](Chapter%20059%20-%20Retail%20Policies%20for%20Natural%20Gas%20Utilities/README.md)
 - [Chapter 060 - Natural Gas Policy](Chapter%20060%20-%20Natural%20Gas%20Policy/README.md)
@@ -249,6 +256,7 @@
 - [Chapter 070 - Comprehensive Smokeless Tobacco Health Education](Chapter%20070%20-%20Comprehensive%20Smokeless%20Tobacco%20Health%20Education/README.md)
 - [Chapter 071 - Petroleum Overcharge Distribution and Restitution](Chapter%20071%20-%20Petroleum%20Overcharge%20Distribution%20and%20Restitution/README.md)
 - [Chapter 072 - Semiconductor Research](Chapter%20072%20-%20Semiconductor%20Research/README.md)
+- [Chapter 072A - Creating Helpful Incentives to Produce Semiconductors for America](Chapter%20072A%20-%20Creating%20Helpful%20Incentives%20to%20Produce%20Semiconductors%20for%20America/README.md)
 - [Chapter 073 - Export Enhancement](Chapter%20073%20-%20Export%20Enhancement/README.md)
 - [Chapter 074 - Competitiveness Policy Council](Chapter%20074%20-%20Competitiveness%20Policy%20Council/README.md)
 - [Chapter 075 - National Trade Data Bank](Chapter%20075%20-%20National%20Trade%20Data%20Bank/README.md)
@@ -295,3 +303,7 @@
 - [Chapter 113 - Concrete Masonry Products Research, Education, and Promotion](Chapter%20113%20-%20Concrete%20Masonry%20Products%20Research%2C%20Education%2C%20and%20Promotion/README.md)
 - [Chapter 114 - National Quantum Initiative](Chapter%20114%20-%20National%20Quantum%20Initiative/README.md)
 - [Chapter 115 - Perfluoroalkyl and Polyfluoroalkyl Substances and Emerging Contaminants](Chapter%20115%20-%20Perfluoroalkyl%20and%20Polyfluoroalkyl%20Substances%20and%20Emerging%20Contaminants/README.md)
+- [Chapter 116 - Coronavirus Economic Stabilization (CARES Act)](Chapter%20116%20-%20Coronavirus%20Economic%20Stabilization%20%28CARES%20Act%29/README.md)
+- [Chapter 117 - Identifying Outputs of Generative Adversarial Networks](Chapter%20117%20-%20Identifying%20Outputs%20of%20Generative%20Adversarial%20Networks/README.md)
+- [Chapter 118 - Sustainable Chemistry](Chapter%20118%20-%20Sustainable%20Chemistry/README.md)
+- [Chapter 119 - National Artificial Intelligence Initiative](Chapter%20119%20-%20National%20Artificial%20Intelligence%20Initiative/README.md)

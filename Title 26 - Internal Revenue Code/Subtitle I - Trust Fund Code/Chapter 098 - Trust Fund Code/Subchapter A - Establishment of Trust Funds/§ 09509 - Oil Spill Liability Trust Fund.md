@@ -18,7 +18,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;(5) amounts required to be transferred by the Oil Pollution Act of 1990 from the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974,
 
-&emsp;(6) amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund establishedunder section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
+&emsp;(6) amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund established under section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
 
 &emsp;(7) amounts required to be transferred by the Oil Pollution Act of 1990 from the Trans-Alaska Pipeline Liability Fund established under section 204 of the Trans-Alaska Pipeline Authorization Act, and
 
@@ -106,11 +106,11 @@ Any reference in this section to the Oil Pollution Act of 1990 or any other Act 
 
 #### References in Text
 
-The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380,Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to section 1321 of Title 33. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, §4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to theCode, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to section 1812 of Title 43, Public Lands, prior to its repeal by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
 

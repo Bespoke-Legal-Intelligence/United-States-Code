@@ -14,7 +14,7 @@ Employment Investigation Requirement.—(1)(A) The Administrator shall require b
 
 &emsp;(ii) supervisors of the individuals described in clause (i);
 
-&emsp;(iii) individuals who regularly have escorted access to aircraft of an air carrier or foreign air carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
+&emsp;(iii) individuals who regularly have escorted access to aircraft of an air carrier or foreignair carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
 
 &emsp;(iv) such other individuals who exercise security functions associated with baggage or cargo, as the Administrator determines is necessary to ensure air transportation security.
 
@@ -216,7 +216,7 @@ Subsec. (a)(1)(B)(iv). Pub. L. 107–71, §138(a)(5), redesignated cl. (iii) as 
 
 Subsec. (a)(1)(C). Pub. L. 107–71, §138(a)(7), (8), added subpar. (C) and struck out former subpar (C) which related to criminal history record checks.
 
-Subsec. (a)(1)(D). Pub. L. 107–71, §138(a)(7), (9), (10), redesignated subpar. (F) as (D), substituted "107.31(m)(1) or (2)" for "107.31(m)" and "November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security" for "the date of enactment of this subparagraph" and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
+Subsec. (a)(1)(D). Pub. L. 107–71, §138(a)(7), (9), (10), redesignated subpar. (F) as (D), substituted "107.31(m)(1) or (2)" for "107.31(m)" and "November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threatto aviation or national security" for "the date of enactment of this subparagraph" and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
 
 Subsec. (a)(1)(E). Pub. L. 107–71, §138(a)(7), struck out subpar. (E) which related to criminal history record checks for screeners and others.
 

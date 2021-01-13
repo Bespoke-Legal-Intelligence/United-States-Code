@@ -40,13 +40,15 @@ Estoppel.—
 
 &emsp;(1)
 
-Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raisedor reasonably could have raised during that inter partes review.
 
 &emsp;(2)
 
 Civil actions and other proceedings.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 300.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -66,13 +68,15 @@ Subsec. (b). Pub. L. 107–273, §13106(a), reenacted heading without change and
 
 Subsec. (c). Pub. L. 107–273, §13202(a)(4), struck out "United States Code," after "title 28,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under section 311 of this title.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceedingcommenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
+Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
 
 #### Effective Date
 

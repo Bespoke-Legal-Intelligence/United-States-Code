@@ -44,6 +44,8 @@ In making such grants, the Council shall give preference to coalitions consistin
 
 (Pub. L. 103–322, title III, §30102, Sept. 13, 1994, 108 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (d)(1), appearing in the original, is unidentifiable because subtitle A of title III of Pub. L. 103–322 does not contain parts.

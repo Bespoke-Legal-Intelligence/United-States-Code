@@ -4,9 +4,13 @@ For the purpose of this subchapter, "agency", "Senior Executive Service position
 
 (Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 3391, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, which related to definitions forpart-time career employment opportunities, was renumbered as section 3401 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
+A prior section 3391, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, which related to definitions for part-time career employment opportunities, was renumbered as section 3401 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

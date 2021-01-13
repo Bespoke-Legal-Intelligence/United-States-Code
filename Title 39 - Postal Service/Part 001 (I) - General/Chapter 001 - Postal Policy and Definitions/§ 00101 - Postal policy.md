@@ -16,9 +16,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719; Pub. L. 110–405, §2(b)(9), Oct. 13, 2008, 122 Stat. 4289.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–405 substituted "mail." for "mail and shall make a fair and equitable distribution of mail business to carriers providing similar modes of transportation services to the Postal Service."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -58,11 +62,11 @@ Pub. L. 108–86, §1, Sept. 30, 2003, 117 Stat. 1052, provided that: "This Act 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–206, title III, §3002(a), Aug. 2, 2002, 116 Stat. 910, provided that: "This title \[amending section 5402 of this title, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under section 5402 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] may be cited as the 'Rural Service Improvement Act of 2002'."
+Pub. L. 107–206, title III, §3002(a), Aug. 2, 2002, 116 Stat. 910, provided that: "This title \[amending section5402 of this title, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under section 5402 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] may be cited as the 'Rural Service Improvement Act of 2002'."
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–67, title VI, §650(a), Nov. 12, 2001, 115 Stat. 556, provided that: "This section \[amending section 414of this title and enacting provisions set out as a note under section 414 of this title\] may be cited as the 'Breast Cancer Research Stamp Act of 2001'."
+Pub. L. 107–67, title VI, §650(a), Nov. 12, 2001, 115 Stat. 556, provided that: "This section \[amending section 414 of this title and enacting provisions set out as a note under section 414 of this title\] may be cited as the 'Breast Cancer Research Stamp Act of 2001'."
 
 #### Short Title of 2000 Amendment
 
@@ -87,4 +91,42 @@ Pub. L. 94–421, §1, Sept. 24, 1976, 90 Stat. 1303, provided: "That this Act \
 #### Short Title
 
 Pub. L. 91–375, §1, Aug. 12, 1970, 84 Stat. 719, provided: "That this Act \[revising this title, enacting sections 1735 to 1737 of Title 18, Crimes and Criminal Procedure, amending section 356 of Title 2, The Congress, section 19 of Title 3, The President, sections 101, 104, 2104, 2105, 3104, 3304a, 4301, 5102, 5303, 5304, 5312, 5314 to 5316, 5541, 6301, 6323, 7101, and 8344 of Title 5, Government Organization and Employees, sections 24 seventh par., 1701d–3, and 1701e of Title 12, Banks and Banking, section 637 of Title 15, Commerce and Trade, section 460l–1 of Title 16, Conservation, section 8 of former Title 17, Copyrights, sections 12, 440, 441, 500, 501, 612, 876, 877, 1114, 1303, 1341, 1342, 1463, 1696, 1699, 1703, 1704, 1707, 1709 to 1713, 1715, 1716, 1716A, 1717, 1718, 1721 to 1725, 1729, 1730, 1733, and 3061 of Title 18, section 611 of Title 22, Foreign Relations and Intercourse, sections 72 fifth par., 129, and 724a of former Title 31, Money and Finance, sections 356, 474, 615, 723, and 724 of former Title 40, Public Buildings, Property, and Works, and section 2942 of Title 42, The Public Health and Welfare, repealing section 3327 of Title 5 and section 1028 of former Title 31, and enacting provisions set out as notes under this section and sections 201, 601, 1001, 1003, 1201, 2002, 2004, 3010, and 3621 of this title\] may be cited as the 'Postal Reorganization Act'."
+
+#### COVID–19 Funding for the United States Postal Service
+
+Pub. L. 116–136, div. A, title VI, §6001, Mar. 27, 2020, 134 Stat. 504, as amended by Pub. L. 116–260, div. N, title VIII, §801, Dec. 27, 2020, 134 Stat. 2119, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'COVID–19 emergency' means the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19); and
+
+&emsp;"(2) the term 'Postal Service' means the United States Postal Service.
+
+"(b)
+
+Additional Borrowing Authority.—Notwithstanding section 2005 of title 39, United States Code, or any other provision of law, if the Postal Service determines that, due to the COVID–19 emergency, the Postal Service will not be able to fund operating expenses without borrowing money—
+
+&emsp;"(1) the Postal Service may borrow money from the Treasury in an amount not to exceed $10,000,000,000—
+
+&emsp;&emsp;"(A) to be used for such operating expenses; and
+
+&emsp;&emsp;"(B) which may not be used to pay any outstanding debt of the Postal Service; and
+
+&emsp;"(2) the Secretary of the Treasury may lend up to the amount described in paragraph (1) at the request of the Postal Service, upon terms and conditions mutually agreed upon by the Secretary and the Postal Service.
+
+"(c)
+
+No Repayment Required.—Notwithstanding any other provision of law, including subsection (b) of this section, or any agreement entered into between the Secretary of the Treasury and the Postal Service under that subsection, the Postal Service shall not be required to repay the amounts borrowed under that subsection.
+
+"(d)
+
+Prioritization of Delivery for Medical Purposes During COVID–19
+
+Emergency.—Notwithstanding any other provision of law, during the COVID–19 emergency, the Postal Service—
+
+&emsp;"(1) shall prioritize delivery of postal products for medical purposes; and
+
+&emsp;"(2) may establish temporary delivery points, in such form and manner as the Postal Service determines necessary, to protect employees of the Postal Service and individuals receiving deliveries from the Postal Service."
 

@@ -34,7 +34,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (4) Coverage year defined
 
-&emsp;For purposes of this section, the term "coverage year" means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) ismade not later than such period after the end of such year as the Secretary specifies.
+&emsp;For purposes of this section, the term "coverage year" means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
 
 #### (c) Adjustments relating to bids
 
@@ -54,7 +54,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) PDP sponsors to submit data regarding drug claims that can be linked at the individual level to part A and part B data and such other information as the Secretary determines necessary; and
 
-&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
+&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretaryand such other information as the Secretary determines necessary.
 
 #### (D) Publication
 
@@ -112,7 +112,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Allowable risk corridor costs
 
-&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offeredby an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
+&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
 
 #### (2) Adjustment of payment
 
@@ -160,7 +160,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) In general
 
-&emsp;&emsp;For each plan year the Secretary shall establish a risk corridor for each prescriptiondrug plan and each MA–PD plan. The risk corridor for a plan for a year shall be equal to a range as follows:
+&emsp;&emsp;For each plan year the Secretary shall establish a risk corridor for each prescription drug plan and each MA–PD plan. The risk corridor for a plan for a year shall be equal to a range as follows:
 
 #### (i) First threshold lower limit
 
@@ -250,21 +250,43 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) carrying out this section; and
 
-&emsp;&emsp;&emsp;(ii) conducting oversight, evaluation, and enforcement under this subchapter; and
+&emsp;&emsp;&emsp;(ii) conducting oversight, evaluation, and enforcement under this subchapter;
 
-&emsp;&emsp;(B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities.
+&emsp;&emsp;(B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities; and
+
+&emsp;&emsp;(C) by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children's Health Insurance Program under subchapter XXI.
+
+#### (3) Additional restrictions on disclosure of information
+
+#### (A) In general
+
+&emsp;&emsp;The Executive Directors described in paragraph (2)(C) shall not disclose any of the following information disclosed to such Executive Directors or obtained by such Executive Directors pursuant to such paragraph, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization:
+
+&emsp;&emsp;&emsp;(i) The specific amounts or the identity of the source of any rebates, discounts, price concessions, or other forms of direct or indirect remuneration under such prescription drug plan or such MA–PD plan.
+
+&emsp;&emsp;&emsp;(ii) Information submitted with the bid submitted under section 1395w–111(b) of this title by such PDP sponsor or under section 1395w–24(a) of this title by such MA organization.
+
+&emsp;&emsp;&emsp;(iii) In the case of such information from prescription drug event records, information in a form that would not be permitted under section 423.505(m) of title 42, Code of Federal Regulations, or any successor regulation, if released by the Centers for Medicare \& Medicaid Services.
+
+#### (B) Clarification
+
+&emsp;&emsp;The restrictions on disclosures described in subparagraph (A) shall also apply to disclosures to individual Commissioners of the Medicare Payment Advisory Commission or of the Medicaid and CHIP Payment and Access Commission.
 
 #### (g) Payment for fallback prescription drug plans
 
-In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined underthe contract for such plan pursuant to section 1395w–111(g)(5) of this title.
+In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined under the contract for such plan pursuant to section 1395w–111(g)(5) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756; Pub. L. 116–260, div. CC, title I, §112(a), Dec. 27, 2020, 134 Stat. 2946.)
 
 #### References in Text
 
 Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the original "section 1860D–3(c)(4)", and was translated as reading "section 1860D–11(g)(4)", meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (c), and section 1395w–111(g)(4) of this title defines "fallback prescription drug plan" for purposes of this part.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(2)(C). Pub. L. 116–260, §112(a)(1), added subpar. (C).
+
+Subsec. (f)(3). Pub. L. 116–260, §112(a)(2), added par. (3).
 
 <b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted "may be used—" for "may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section." in introductory provisions and added subpars. (A) and (B).
 

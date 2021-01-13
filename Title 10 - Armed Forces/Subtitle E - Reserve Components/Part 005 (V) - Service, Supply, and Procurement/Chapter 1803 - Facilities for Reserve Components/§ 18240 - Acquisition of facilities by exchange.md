@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirements for a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
+Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirementsfor a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
 
 (b)
 
@@ -38,7 +38,7 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 &emsp;(B) A description of the facility to be conveyed by the United States under the agreement, including the current condition and fair market value of the facility, and a description of the method by which the fair market value of the facility was determined.
 
-&emsp;(C) Information on the facility, or addition to an existing facility, to be acquired by the United States under the agreement and the intended use of the facility or addition, whichshall meet requirements for information provided to Congress for military construction projects to obtain a similar facility or addition to an existing facility.
+&emsp;(C) Information on the facility, or addition to an existing facility, to be acquired by the United States under the agreement and the intended use of the facility or addition, which shall meet requirements for information provided to Congress for military construction projects to obtain a similar facility or addition to an existing facility.
 
 &emsp;(D) A certification that the Secretary complied with the consultation requirements under subsection (e).
 

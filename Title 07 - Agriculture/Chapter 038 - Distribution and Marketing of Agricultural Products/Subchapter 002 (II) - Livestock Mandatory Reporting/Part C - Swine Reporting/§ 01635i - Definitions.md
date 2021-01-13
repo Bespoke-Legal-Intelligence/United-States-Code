@@ -56,7 +56,7 @@ In this part:
 
 #### (10) Noncarcass merit premium
 
-&emsp;The term "noncarcass merit premium" means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actualamount of the premium is known before the sale and delivery of the swine.
+&emsp;The term "noncarcass merit premium" means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
 
 #### (11) Other market formula purchase
 

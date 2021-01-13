@@ -2,7 +2,7 @@
 
 #### (a) Preferences
 
-In selecting eligible families for homeownership, the recipient shall give a first preferenceto otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
+In selecting eligible families for homeownership, the recipient shall give a first preference to otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
 
 #### (b) Cost limitations
 
@@ -26,7 +26,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (C) Promissory note required
 
-&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
+&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or otherentity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
 
 #### (2) 6 years or less
 
@@ -54,7 +54,7 @@ The requirements under this part regarding quality standards, resale, or transfe
 
 #### (f) Dollar limitation on economic development activities
 
-Not more than an aggregate of $250,000 from amounts made available under sections 12872and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
+Not more than an aggregate of $250,000 from amounts made available under sections 12872 and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
 
 #### (g) Timely homeownership
 
@@ -76,7 +76,7 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (i) Certain entities not eligible
 
-Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section must comply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
+Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section mustcomply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
 
 (Pub. L. 101–625, title IV, §425, Nov. 28, 1990, 104 Stat. 4168.)
 

@@ -48,7 +48,7 @@ Coordination of training.—To the maximum extent practicable, the Secretary of 
 
 "(c)
 
-Sharing of Certain Information.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Secretary of Defense shall jointly formulate guidance to ensure that the information relevant to civilian law enforcement matters that is collected by the Armed Forces during the normal course of military training or operations in proximity to the international borders of the United States is provided promptly to relevant officials in accordance with section 271 of title 10, United States Code.
+Sharing of Certain Information.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Secretary of Defense shall jointly formulate guidance toensure that the information relevant to civilian law enforcement matters that is collected by the Armed Forces during the normal course of military training or operations in proximity to the international borders of the United States is provided promptly to relevant officials in accordance with section 271 of title 10, United States Code.
 
 "(d)
 
@@ -144,7 +144,7 @@ Conditions.—(1) Any support provided under subsection (a) may only be provided
 
 "(2)(A) Support for counter-terrorism or counter-transnational organized crime activities provided under subsection (a) may only be provided if the Secretary of Defense determines that the objectives of using the counter-drug funds of any joint task force to provide such support relate significantly to the objectives of providing support for counter-drug activities by that joint task force or any other joint task force.
 
-"(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to the congressional defense committees notice in writing of any waiver issued under this subparagraph, together with a description of the vital national security interests associated with the support covered by such waiver.
+"(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to the congressional defense committees notice in writing of any waiver issued under this subparagraph, together with a description of the vitalnational security interests associated with the support covered by such waiver.
 
 "(e)
 
@@ -152,5 +152,5 @@ Definitions.—(1) In this section, the term 'transnational organized crime' has
 
 "(2) For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term 'illegal means', as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense."
 
-\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
+\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
 

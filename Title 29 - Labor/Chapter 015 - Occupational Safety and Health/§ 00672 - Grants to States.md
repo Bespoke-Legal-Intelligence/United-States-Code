@@ -2,7 +2,7 @@
 
 #### (a) Designation of State agency to assist State in identifying State needs and responsibilities and in developing State plans
 
-The Secretary is authorized, during the fiscal year ending June 30, 1971, and the two succeeding fiscal years, to make grants to the States which have designated a State agency under section 667 of this title to assist them—
+The Secretary is authorized, during the fiscal year ending June 30, 1971, and the two succeeding fiscal years, to make grants to theStates which have designated a State agency under section 667 of this title to assist them—
 
 &emsp;(1) in identifying their needs and responsibilities in the area of occupational safety and health,
 
@@ -14,7 +14,7 @@ The Secretary is authorized, during the fiscal year ending June 30, 1971, and th
 
 &emsp;&emsp;(B) increasing the expertise and enforcement capabilities of their personnel engaged in occupational safety and health programs; or
 
-&emsp;&emsp;(C) otherwise improving the administration and enforcement of State occupationalsafety and health laws, including standards thereunder, consistent with the objectives of this chapter.
+&emsp;&emsp;(C) otherwise improving the administration and enforcement of State occupational safety and health laws, including standards thereunder, consistent with the objectives of this chapter.
 
 #### (b) Experimental and demonstration projects
 
@@ -45,6 +45,8 @@ The Secretary is authorized to make grants to the States to assist them in admin
 Prior to June 30, 1973, the Secretary shall, after consultation with the Secretary of Health and Human Services, transmit a report to the President and to the Congress, describing the experience under the grant programs authorized by this section and making any recommendations he may deem appropriate.
 
 (Pub. L. 91–596, §23, Dec. 29, 1970, 84 Stat. 1613; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

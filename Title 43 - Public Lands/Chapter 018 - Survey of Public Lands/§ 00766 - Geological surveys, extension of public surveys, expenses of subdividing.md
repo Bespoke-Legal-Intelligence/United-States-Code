@@ -4,9 +4,13 @@ There shall be no further geological survey by the Government, unless authorized
 
 (R.S. §2406.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2406 derived from acts July 21, 1852, ch. 66, §1, 10 Stat. 15, 21; July 9, 1870, ch. 235, §16, 16 Stat. 218.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Section as Unaffected by Submerged Lands Act
 

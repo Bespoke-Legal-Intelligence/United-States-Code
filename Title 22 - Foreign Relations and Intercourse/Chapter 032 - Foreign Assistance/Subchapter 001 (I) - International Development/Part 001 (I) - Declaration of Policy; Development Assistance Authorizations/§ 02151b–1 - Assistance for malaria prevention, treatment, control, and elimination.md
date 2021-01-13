@@ -8,7 +8,7 @@
 
 #### (2) Consideration of interaction among epidemics
 
-&emsp;In providing assistance pursuant to paragraph (1), the Administrator should consider the interaction among the epidemics of HIV/AIDS, malaria, and tuberculosis.
+&emsp;In providing assistance pursuant to paragraph (1), the Administrator should considerthe interaction among the epidemics of HIV/AIDS, malaria, and tuberculosis.
 
 #### (3) Dissemination of information requirement
 
@@ -26,9 +26,13 @@
 
 (Pub. L. 106–570, title I, §103, Dec. 27, 2000, 114 Stat. 3039.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Assistance for International Malaria Control Act and also as part of the International Malaria Control Act of 2000, and notas part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Assistance for International Malaria Control Act and also as part of the International Malaria Control Act of 2000, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

@@ -42,6 +42,8 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§205, 206, 106 Stat. 3419.
 
 In subsection (b), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations" are substituted for "the Federal civil service classification laws, rules, or regulations" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, §427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words "During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000" were used instead of "During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999", (2) in subsec. (a)(1)(A), the words "other administrative services to" were used instead of "other required services for the operation of", and (3) in subsec. (a)(1)(B), the words "may require and accept reimbursements" were used instead of "may accept reimbursement".
@@ -54,9 +56,11 @@ Section 5204 of former Title 36, from which subsec. (a) of this section was deri
 
 Subsec. (a)(1)(B). Pub. L. 106–503, §113(d)(2), substituted "may" for "shall".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the FederalEmergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

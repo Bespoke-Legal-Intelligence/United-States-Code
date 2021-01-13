@@ -24,7 +24,7 @@ This section shall apply <sup>1</sup> to—
 
 (3) For purposes of this section—
 
-&emsp;(A) creditable service includes (i) service performed as an employee described in subsection (a), (ii) service performed as a member of the Capitol Police or as an employee of the United States Capitol Telephone Exchange while compensation therefor is disbursed by the Clerk of the House of Representatives, and (iii) service which is creditable for purposes of this section as in effect on September 30, 1978;
+&emsp;(A) creditable service includes (i) service performed as an employee described in subsection (a), (ii) service performed as a memberof the Capitol Police or as an employee of the United States Capitol Telephone Exchange while compensation therefor is disbursed by the Clerk of the House of Representatives, and (iii) service which is creditable for purposes of this section as in effect on September 30, 1978;
 
 &emsp;(B) in computing length of continuous creditable service, only creditable service performed subsequent to August 31, 1957, shall be taken into account, except that, in the case of service as an employee employed under authority of section 6538 of this title, only creditable service performed subsequent to January 2, 1971, shall be taken into account; and
 
@@ -34,6 +34,8 @@ This section shall apply <sup>1</sup> to—
 
 (Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 110–437, title IV, §422(a), Oct. 20, 2008, 122 Stat. 4996.
@@ -42,7 +44,7 @@ Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 Section was formerly classified to section 60j of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
-Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 106 of the Legislative Branch Appropriation Act, 1963 (Pub. L. 87–730). Subsec. (c) of this section was the second sentence of subsec. (d) of section 106, and was repealed by section 104(b) of Pub. L. 88–454.Subsec. (c) of section 106 repealed section 60i of this title, and the first sentence of subsec. (d) of section 106 repealed section 105 of the Legislative Branch Appropriation Act, 1959.
+Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 106 of the Legislative Branch Appropriation Act, 1963 (Pub. L. 87–730). Subsec. (c) of this section was the second sentence of subsec. (d) of section 106, and was repealed by section 104(b) of Pub. L. 88–454. Subsec. (c) of section 106 repealed section 60i of this title, and the first sentence of subsec. (d) of section 106 repealed section 105 of the Legislative Branch Appropriation Act, 1959.
 
 #### Amendments
 
@@ -87,6 +89,8 @@ Figure "696" deemed to refer to the figure "738", effective Feb. 1, 1971, pursua
 Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per annum" for "basic compensation" and "$120 per annum" and struck out "if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180 per annum if at such time such rate is $1,800 or more," before "for each five years of service".
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–454 repealed subsec. (c) which related to increases for members of Capitol Police.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

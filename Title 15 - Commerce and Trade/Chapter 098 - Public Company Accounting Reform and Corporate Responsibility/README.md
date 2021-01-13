@@ -15,6 +15,7 @@
 | [7212\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007212%20-%20Registration%20with%20the%20Board.md) | Registration with the Board. |
 | [7213\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007213%20-%20Auditing%2C%20quality%20control%2C%20and%20independence%20standards%20and%20rules.md) | Auditing, quality control, and independence standards and rules. |
 | [7214\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007214%20-%20Inspections%20of%20registered%20public%20accounting%20firms.md) | Inspections of registered public accounting firms. |
+| [7214a.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007214a%20-%20Additional%20disclosure.md) | Additional disclosure. |
 | [7215\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007215%20-%20Investigations%20and%20disciplinary%20proceedings.md) | Investigations and disciplinary proceedings. |
 | [7216\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007216%20-%20Foreign%20public%20accounting%20firms.md) | Foreign public accounting firms. |
 | [7217\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007217%20-%20Commission%20oversight%20of%20the%20Board.md) | Commission oversight of the Board. |

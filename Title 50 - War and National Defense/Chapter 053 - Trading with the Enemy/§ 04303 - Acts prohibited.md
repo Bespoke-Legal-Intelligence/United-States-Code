@@ -24,5 +24,5 @@ Section was formerly classified to section 3 of the former Appendix to this titl
 
 President's powers under subsec. (a) of this section delegated during World War II to Secretary of the Treasury by Memorandum of the President dated Feb. 12, 1942, 7 F.R. 1409, and to Alien Property Custodian by Ex. Ord. No. 9095, Mar. 11, 1942, 7 F.R. 1971.
 
-Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in or transferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under section 4306 of this title.
+Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in ortransferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under section 4306 of this title.
 

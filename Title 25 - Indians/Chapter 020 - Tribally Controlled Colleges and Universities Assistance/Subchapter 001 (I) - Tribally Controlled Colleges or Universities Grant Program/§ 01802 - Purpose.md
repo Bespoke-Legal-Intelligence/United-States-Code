@@ -4,11 +4,15 @@ It is the purpose of this subchapter to provide grants for the operation and imp
 
 (Pub. L. 95–471, title I, §101, Oct. 17, 1978, 92 Stat. 1325; Pub. L. 98–192, §2, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, §901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–244 substituted "colleges or universities" for "community colleges".
 
 <b>1983</b>—Pub. L. 98–192 inserted ", and to allow for the improvement and expansion of the physical resources of such institutions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

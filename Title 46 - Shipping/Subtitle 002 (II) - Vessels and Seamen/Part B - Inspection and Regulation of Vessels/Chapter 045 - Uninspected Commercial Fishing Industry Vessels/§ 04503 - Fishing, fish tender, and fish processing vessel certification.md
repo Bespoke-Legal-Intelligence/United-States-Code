@@ -80,7 +80,9 @@
 
 (2) In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph (1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557,§33(b), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; Pub. L. 111–281, title VI, §604(e)(1), Oct. 15, 2010, 124 Stat. 2966; Pub. L. 112–213, title III, §305(c), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 114–120, title III, §318(a), Feb. 8, 2016, 130 Stat. 63; Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(2), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–282, title V, §§507, 508(a), (b), Dec. 4, 2018, 132 Stat. 4272.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(b), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; Pub. L. 111–281, title VI, §604(e)(1), Oct. 15, 2010, 124 Stat. 2966; Pub. L. 112–213, title III, §305(c), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 114–120, title III, §318(a), Feb. 8, 2016, 130 Stat. 63; Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(2), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–282, title V, §§507, 508(a), (b), Dec. 4, 2018, 132 Stat. 4272.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -149,6 +151,8 @@ Subsecs. (c), (d). Pub. L. 111–281, §604(e)(1)(C), added subsecs. (c) and (d)
 <b>1988</b>—Pub. L. 100–424 amended section generally, substituting "Fish processing vessel certification" for "Equivalency" in section catchline, and provisions which require certification issued by American Bureau of Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
 
 <b>1984</b>—Pub. L. 98–557 substituted "is deemed" for "shall be deemed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

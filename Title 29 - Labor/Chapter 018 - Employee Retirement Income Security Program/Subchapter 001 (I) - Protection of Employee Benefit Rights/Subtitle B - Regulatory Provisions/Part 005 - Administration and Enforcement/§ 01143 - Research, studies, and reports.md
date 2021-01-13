@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to undertake research and surveys and in connection therewith to collect, compile, analyze and publish data, information, and statistics relating to employee benefit plans, including retirement, deferred compensation, and welfare plans, and types of plans not subject to this chapter.
 
-(2) The Secretary is authorized and directed to undertake research studies relating to pension plans, including but not limited to (A) the effects of this subchapter upon the provisions and costs of pension plans, (B) the role of private pensions in meeting the economic security needs of the Nation, and (C) the operation of private pension plans including types and levels of benefits, degree of reciprocity or portability, and financial and actuarial characteristics and practices, and methods of encouraging the growth of the private pension system.
+(2) The Secretary is authorized and directed to undertake research studies relating to pensionplans, including but not limited to (A) the effects of this subchapter upon the provisions and costs of pension plans, (B) the role of private pensions in meeting the economic security needs of the Nation, and (C) the operation of private pension plans including types and levels of benefits, degree of reciprocity or portability, and financial and actuarial characteristics and practices, and methods of encouraging the growth of the private pension system.
 
 (3) The Secretary may, as he deems appropriate or necessary, undertake other studies relating to employee benefit plans, the matters regulated by this subchapter, and the enforcement procedures provided for under this subchapter.
 
@@ -18,6 +18,8 @@ The Secretary is authorized and directed to cooperate with the Congress and its 
 
 (Pub. L. 93–406, title I, §513, Sept. 2, 1974, 88 Stat. 896.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -25,6 +27,8 @@ This chapter, referred to in subsec. (a)(1), was in the original "this Act", mea
 #### Codification
 
 Subsec. (b) of this section, which required the Secretary to submit annually a report to Congress on the administration of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 123 of House Document No. 103–7.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

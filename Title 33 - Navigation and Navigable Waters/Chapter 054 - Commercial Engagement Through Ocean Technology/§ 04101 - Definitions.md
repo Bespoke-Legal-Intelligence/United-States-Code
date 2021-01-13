@@ -60,6 +60,8 @@ In this chapter:
 
 (Pub. L. 115–394, §2, Dec. 21, 2018, 132 Stat. 5281.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 115–394, §1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: "This Act \[enacting this chapter\] may be cited as the 'Commercial Engagement Through Ocean Technology Act of 2018' or the 'CENOTE Act of 2018'."

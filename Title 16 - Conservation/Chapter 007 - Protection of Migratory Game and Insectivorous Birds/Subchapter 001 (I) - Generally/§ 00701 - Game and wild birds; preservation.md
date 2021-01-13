@@ -80,7 +80,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (12) provide training and information to appropriate employees on methods and means of avoiding or minimizing the take of migratory birds and conserving and restoring migratory bird habitat;
 
-(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Departmentof State, as appropriate or relevant to the agency's authorities;
+(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Department of State, as appropriate or relevant to the agency's authorities;
 
 (14) recognize and promote economic and recreational values of birds, as appropriate; and
 

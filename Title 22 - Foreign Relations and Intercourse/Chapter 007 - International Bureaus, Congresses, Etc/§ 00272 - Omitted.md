@@ -1,5 +1,7 @@
 ### §272. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 19, 1934, ch. 676, §2, 48 Stat. 1183, provided that the President, in accepting membership in the International Labor Organization, was to assume no obligation under the covenant of the League of Nations.

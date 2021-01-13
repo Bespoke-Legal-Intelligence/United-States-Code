@@ -50,6 +50,8 @@
 
 (Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2662; amended Pub. L. 99–554, title I, §111(a)–(c), Oct. 27, 1986, 100 Stat. 3090, 3091.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
@@ -82,6 +84,8 @@ Subsec. (b). Pub. L. 99–554, §111(b), substituted "five years" for "seven yea
 
 Subsec. (c). Pub. L. 99–554, §111(c), struck out "for cause" after "removal".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment; Transition and Administrative Provisions
 
 Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 109–8, title X, §1001(c), Apr. 20, 2005, 119 Stat. 186, provided that:
@@ -90,7 +94,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 "(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at whichthe primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 "(b)
 
@@ -412,7 +416,7 @@ Standing Trustees in Bankruptcy Cases Under Chapter 13.—It is the sense of the
 
 Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
-&emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able todesign an automated joint information system for use by the United States courts and by United States trustees, and
+&emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
 &emsp;"(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
@@ -504,7 +508,7 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
+Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of thistitle and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
 
 #### Bankruptcy Crimes
 

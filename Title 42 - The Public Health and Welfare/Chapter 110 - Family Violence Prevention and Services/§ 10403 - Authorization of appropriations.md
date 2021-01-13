@@ -12,7 +12,7 @@
 
 #### (i) Reservation of funds
 
-&emsp;&emsp;&emsp;For any fiscal year for which the amounts appropriated under paragraph (1)exceed $130,000,000, not less than 25 percent of such excess funds shall be made available to carry out section 10412 of this title.
+&emsp;&emsp;&emsp;For any fiscal year for which the amounts appropriated under paragraph (1) exceed $130,000,000, not less than 25 percent of such excess funds shall be made available to carry out section 10412 of this title.
 
 #### (ii) Formula grants
 

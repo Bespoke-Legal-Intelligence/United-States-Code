@@ -18,7 +18,9 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 &emsp;do, with respect to any such articles which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
 
-(Mar. 4, 1907, ch. 2907, title I, §10, formerly 8th par., 34 Stat. 1262; renumbered §10 and amendedPub. L. 90–201, §§1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, §3, Oct. 10, 1978, 92 Stat. 1069.)
+(Mar. 4, 1907, ch. 2907, title I, §10, formerly 8th par., 34 Stat. 1262; renumbered §10 and amended Pub. L. 90–201, §§1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, §3, Oct. 10, 1978, 92 Stat. 1069.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -35,6 +37,8 @@ Section was formerly classified to section 78 of this title.
 <b>1978</b>—Subsecs. (b) to (d). Pub. L. 95–445 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 <b>1967</b>—Pub. L. 90–201, §7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

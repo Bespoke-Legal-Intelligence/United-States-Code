@@ -30,11 +30,15 @@ Definition of "United States", was omitted as covered by section 5 of this title
 
 Minor changes were made in phraseology and translations.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1954</b>—Act Sept. 3, 1954, redefined and enlarged definitions.
 
 <b>1953</b>—Act June 30, 1953, inserted "or defense activities" after "conduct of war" in definition of "war material".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -42,5 +46,5 @@ Act Sept. 3, 1954, ch. 1261, §1, 68 Stat. 1216, provided that: "This Act \[amen
 
 #### Repeals
 
-Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
+Act June 30, 1953, ch. 175, §7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
 

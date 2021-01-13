@@ -40,6 +40,8 @@ Allocation of Royalty Payments Within Groups.—If all interested copyright part
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §12(a)(24), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 108–419, §5(i)(2), Nov. 30, 2004, 118 Stat. 2368.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–419 substituted "Copyright Royalty Judges" for "Librarian of Congress shall convene a copyright arbitration royalty panel which" in introductory provisions.
@@ -47,6 +49,8 @@ Allocation of Royalty Payments Within Groups.—If all interested copyright part
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–80 substituted "Federation of Television" for "Federation Television" before "and Radio Artists or any successor entity)".
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–198 substituted "Librarian of Congress shall convene a copyright arbitration royalty panel which" for "Copyright Royalty Tribunal" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

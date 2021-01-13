@@ -2,7 +2,7 @@
 
 #### (a) Deductions for administrative expenses; standards guiding sales
 
-The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the owner or owners with the consent of the Secretary of the Interior, and the proceeds from such sales, after deductions for administrative expenses to the extent permissible under section 413 of this title, shall be paid to the owner or owners or disposed of for their benefit under regulations to be prescribed by the Secretary of the Interior. It is the intention of Congress that a deduction for administrative expenses may be made in any case unless the deduction would violate a treaty obligation or amount to a taking of private property for public use without just compensation in violation of the fifth amendment to the Constitution. Sales of timber under this subsection shall be based upon a consideration of the needs and best interests of the Indian owner and his heirs. The Secretary shall take into consideration, among other things, (1) the state of growth of the timber and the need for maintaining the productive capacity of the land for the benefit of the owner and his heirs, (2) the highest and best use of the land, including the advisability and practicality of devoting it to other uses for the benefit of the owner and his heirs, and (3) the present and future financial needs of the owner and his heirs.
+The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the owner or owners with the consent of the Secretary of the Interior, and the proceeds from such sales, after deductions for administrative expenses to the extent permissible under section 413 of this title, shall be paid to the owner or owners or disposed of for their benefit under regulations to be prescribed by the Secretary of the Interior. It is the intention of Congress that a deduction for administrative expenses may be made in any case unless the deduction would violate a treaty obligation or amount to a taking of private property for public use without just compensation in violation of the fifth amendment to the Constitution. Sales of timber under this subsection shallbe based upon a consideration of the needs and best interests of the Indian owner and his heirs. The Secretary shall take into consideration, among other things, (1) the state of growth of the timber and the need for maintaining the productive capacity of the land for the benefit of the owner and his heirs, (2) the highest and best use of the land, including the advisability and practicality of devoting it to other uses for the benefit of the owner and his heirs, and (3) the present and future financial needs of the owner and his heirs.
 
 #### (b) Undivided interests
 
@@ -18,13 +18,15 @@ For the purposes of this Act, the Secretary of the Interior is authorized to rep
 
 #### (e) Emergency sales
 
-The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of theInterior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
+The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
 
 #### (f) Change in status without affecting contractual obligations
 
 A change from a trust or restricted status to an unrestricted status of any interest in timber that has been sold pursuant to this section shall not affect the obligations of the Secretary of the Interior under any contract of sale that is in effect at the time such change in status occurs.
 
 (June 25, 1910, ch. 431, §8, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 187.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

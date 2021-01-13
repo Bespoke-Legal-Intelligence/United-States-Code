@@ -70,7 +70,7 @@
 
 #### (D) Energy equivalent of a gallon of diesel
 
-&emsp;&emsp;For purposes of this paragraph, the term "energy equivalent of a gallon of diesel" means, with respect to a liquefied natural gas fuel, the amount of such fuel having a Btu content of 128,700 (lower heating value). For purposes of the preceding sentence, a Btu content of 128,700 (lower heating value)is equal to 6.06 pounds of liquefied natural gas.
+&emsp;&emsp;For purposes of this paragraph, the term "energy equivalent of a gallon of diesel" means, with respect to a liquefied natural gas fuel, the amount of such fuel having a Btu content of 128,700 (lower heating value). For purposes of the preceding sentence, a Btu content of 128,700 (lower heating value) is equal to 6.06 pounds of liquefied natural gas.
 
 #### (3) Compressed natural gas
 
@@ -164,7 +164,7 @@
 
 #### (2) Liquids used in aviation
 
-&emsp;In addition to the taxes imposed by subsection (c), there is hereby imposed a tax of 0.1 cent a gallon on any liquid (other than gasoline (as defined in section 4083))—
+&emsp;In addition to the taxes imposed by subsection (c), there is hereby imposed a tax of 0.1cent a gallon on any liquid (other than gasoline (as defined in section 4083))—
 
 &emsp;&emsp;(A) sold by any person to an owner, lessee, or other operator of an aircraft for use as a fuel in such aircraft, or
 
@@ -494,7 +494,7 @@ Subsec. (k)(1)(A) to (C). Pub. L. 104–188, §1609(g)(4)(A), inserted "and" at 
 
 &emsp;"(B) used by any person as a fuel in a diesel-powered highway vehicle or diesel-powered boat unless there was a taxable sale of such liquid under subparagraph (A).
 
-> The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the diesel fuel deficit reduction rate in effect under section 4091 at the time of such sale or use. No tax shall be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091."
+> The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the diesel fuel deficit reduction rate in effect under section 4091 at the time of such sale or use. No tax shall be imposed by this paragraph on the sale or use of anyliquid if there was a taxable sale of such liquid under section 4091."
 
 Pub. L. 103–66, §13163(a)(2), substituted "diesel-powered highway vehicle or diesel-powered boat" for "diesel-powered highway vehicle" in subpars. (A) and (B) and "such vehicle or boat" for "such vehicle" in subpar. (A).
 
@@ -572,7 +572,7 @@ Subsecs. (f)(3), (g). Pub. L. 101–508, §11211(d)(1), (2), substituted "1995" 
 
 Subsec. (k)(1)(A). Pub. L. 101–508, §11211(b)(6)(E)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "subsection (a)(1) shall be applied by substituting '9 cents' for '15 cents', and".
 
-Subsec. (k)(1)(B). Pub. L. 101–508, §11213(b)(2)(B)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "no tax shall be imposed by subsection (c)(1), and".
+Subsec. (k)(1)(B). Pub. L. 101–508, §11213(b)(2)(B)(i), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "no tax shall be imposed by subsection (c)(1), and".
 
 Pub. L. 101–508, §11211(b)(6)(E)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "subsection (a)(2) shall be applied by substituting '3 cents' for '9 cents', and".
 
@@ -840,7 +840,7 @@ Pub. L. 108–357, title VIII, §853(e), Oct. 22, 2004, 118 Stat. 1614, provided
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 Amendment by section 9003(b)(2)(A) of Pub. L. 105–178 effective Jan. 1, 2001, see section 9003(b)(3) of Pub. L. 105–178, set out as a note under section 40 of this title.
 
@@ -902,7 +902,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 Pub. L. 99–514, title IV, §422(a)(3), Oct. 22, 1986, 100 Stat. 2230, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1987."
 
-Pub. L. 99–514, title XVII, §1702(c), Oct. 22, 1986, 100 Stat. 2774, provided that: "The amendments made bythis section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVII, §1702(c), Oct. 22, 1986, 100 Stat. 2774, provided that: "The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 Amendment by section 1878(c)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

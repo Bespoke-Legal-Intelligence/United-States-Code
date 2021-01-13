@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 114–322, §3901(e)(2)(A), substituted "2016 through 2020"
 
 Subsec. (b)(5). Pub. L. 114–322, §3901(e)(2)(B), inserted "the Great Lakes Restoration Initiative Action Plan based on" after "in support of".
 
-Subsec. (c). Pub. L. 114–322, §3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Not later than June 30, 2007, the Director shall submit to the Committee onEnvironment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006."
+Subsec. (c). Pub. L. 114–322, §3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006."
 
 <b>2006</b>—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: "On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
 
@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 114–322, §3901(e)(3), added subsec. (c) and struck out f
 
 &emsp;"(3) progress toward the accomplishment of the goals specified in section 941d of this title."
 
-<b>1998</b>—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
+<b>1998</b>—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which hadrequired report not later than 1 year after date of enactment and annually thereafter.
 
 <b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
 

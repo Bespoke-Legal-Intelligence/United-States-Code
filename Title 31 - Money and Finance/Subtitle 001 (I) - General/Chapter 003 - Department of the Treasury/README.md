@@ -24,6 +24,7 @@
 | [313\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000313%20-%20Federal%20Insurance%20Office.md) | Federal Insurance Office. |
 | [314\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000314%20-%20Covered%20agreements.md) | Covered agreements. |
 | [315\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000315%20-%20Continuing%20in%20office.md) | Continuing in office. |
+| [316\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000316%20-%20Treasury%20Attach%C3%A9%20Program.md) | Treasury Attaché Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,7 +48,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. F, title LXI, §6106(b), Jan. 1, 2021, 134 Stat. 4557, added item 316.
 
 <b>2010</b>—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 "Continuing in office".
 

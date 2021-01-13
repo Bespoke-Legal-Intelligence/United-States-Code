@@ -34,7 +34,7 @@ A person shall be considered to have a power described in this subpart even thou
 
 #### (2) Marital status
 
-&emsp;For purposes of paragraph (1)(A), an individual legally separated from his spouse under adecree of divorce or of separate maintenance shall not be considered as married.
+&emsp;For purposes of paragraph (1)(A), an individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.
 
 #### (f) Subpart not to result in foreign ownership
 

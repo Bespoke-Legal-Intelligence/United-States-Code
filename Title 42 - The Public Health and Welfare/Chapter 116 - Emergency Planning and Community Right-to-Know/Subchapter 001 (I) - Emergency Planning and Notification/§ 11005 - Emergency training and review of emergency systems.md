@@ -18,7 +18,7 @@
 
 #### (1) Review
 
-&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for thepurposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
+&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
 
 #### (2) Report
 

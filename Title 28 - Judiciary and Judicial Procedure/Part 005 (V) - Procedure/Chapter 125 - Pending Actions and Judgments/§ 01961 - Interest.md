@@ -20,6 +20,8 @@ Based on title 28, U.S.C., 1940 ed., §811 (R.S. §966; Mar. 3, 1911, ch. 231, �
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (c)(1), is classified to section 6621 of Title 26, Internal Revenue Code.
@@ -41,6 +43,8 @@ Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal
 Subsec. (b). Pub. L. 97–258 substituted "this title and section 1304(b)(1) of title 31" for "title 28, United States Code, and section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)".
 
 Subsecs. (b), (c). Pub. L. 97–164, §302(a)(3), added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

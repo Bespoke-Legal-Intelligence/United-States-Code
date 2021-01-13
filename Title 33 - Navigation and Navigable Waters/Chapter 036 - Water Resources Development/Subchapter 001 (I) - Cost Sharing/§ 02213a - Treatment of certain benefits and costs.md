@@ -1,0 +1,28 @@
+### §2213a. Treatment of certain benefits and costs
+
+#### (a) In general
+
+In the case of a flood risk management project that incidentally generates seismic safety benefits in regions of moderate or high seismic hazard, for the purpose of a benefit-cost analysis for the project, the Secretary shall not include in that analysis any additional design and construction costs resulting from addressing seismic concerns.
+
+#### (b) Savings provision
+
+Except with respect to the benefit-cost analysis, the additional costs referred to in subsection (a) shall be—
+
+&emsp;(1) included in the total project cost; and
+
+&emsp;(2) subject to cost-share requirements otherwise applicable to the project.
+
+(Pub. L. 116–260, div. AA, title I, §152, Dec. 27, 2020, 134 Stat. 2658.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### "Secretary" Defined
+
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
+

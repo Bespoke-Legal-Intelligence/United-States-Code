@@ -22,7 +22,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) the custodial parent of such a child;
 
-&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of thistitle, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
+&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
 
 &emsp;(6) provide that—
 
@@ -62,13 +62,13 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(D) in carrying out other functions required under a plan approved under this part; and
 
-&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section 652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
+&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
 
 &emsp;(10) provide that the State will maintain a full record of collections and disbursements made under the plan and have an adequate reporting system;
 
 &emsp;(11)(A) provide that amounts collected as support shall be distributed as provided in section 657 of this title; and
 
-&emsp;(B) provide that any payment required to be made under section 656 or 657 of this title to afamily shall be made to the resident parent, legal guardian, or caretaker relative having custody of or responsibility for the child or children;
+&emsp;(B) provide that any payment required to be made under section 656 or 657 of this title to a family shall be made to the resident parent, legal guardian, or caretaker relative having custody of or responsibility for the child or children;
 
 &emsp;(12) provide for the establishment of procedures to require the State to provide individuals who are applying for or receiving services under the State plan, or who are parties to cases in which services are being provided under the State plan—
 
@@ -100,11 +100,11 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) shall enforce any such child support obligations which are owed by such an individual but are not being met—
 
-&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable to such individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
+&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable tosuch individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
 
 &emsp;&emsp;&emsp;(ii) in the absence of such an agreement, by bringing legal process (as defined in section 659(i)(5) of this title) to require the withholding of amounts from such compensation;
 
-&emsp;(20) provide, to the extent required by section 666 of this title, that the State (A) shall have in effect all of the laws to improve childsupport enforcement effectiveness which are referred to in that section, and (B) shall implement the procedures which are prescribed in or pursuant to such laws;
+&emsp;(20) provide, to the extent required by section 666 of this title, that the State (A) shall have in effect all of the laws to improve child support enforcement effectiveness which are referred to in that section, and (B) shall implement the procedures which are prescribed in or pursuant to such laws;
 
 &emsp;(21)(A) at the option of the State, impose a late payment fee on all overdue support (as defined in section 666(e) of this title) under any obligation being enforced under this part, in an amount equal to a uniform percentage determined by the State (not less than 3 percent nor more than 6 percent) of the overdue support, which shall be payable by the noncustodial parent owing the overdue support; and
 
@@ -372,7 +372,7 @@ Pub. L. 100–485, §123(a)(2), substituted "a statewide automated" for "an auto
 
 Par. (24). Pub. L. 100–485, §123(a)(1), added par. (24).
 
-<b>1987</b>—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted "an assignment under section 602(a)(26) of this title or section 1396k of this title" for "an assignment under section 602(a)(26) of this title" and ", or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect, the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and" for ", and".
+<b>1987</b>—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted "an assignment under section 602(a)(26) of this title or section 1396k of this title" for "an assignment under section 602(a)(26) of this title" and ", or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect,the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and" for ", and".
 
 Par. (4)(B). Pub. L. 100–203, §9142(a)(1)(C), inserted "or medical assistance under a State plan approved under subchapter XIX of this chapter" after "children".
 
@@ -602,9 +602,9 @@ Pub. L. 98–378, §15, Aug. 16, 1984, 98 Stat. 1320, provided that:
 
 "(b) Each State Commission appointed under subsection (a) shall be composed of members appropriately representing all aspects of the child support system, including custodial and non-custodial parents, the agency or organizational unit administering the State's plan under part D of such title IV \[42 U.S.C. 651 et seq.\], the State judiciary, the executive and legislative branches of the State government, child welfare and social services agencies, and others.
 
-"(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State's child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[42 U.S.C. 601 et seq.\] and for children who are not eligible for such aid, giving particular attention to such specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
+"(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State's child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[42 U.S.C. 601 et seq.\] and for children who are not eligible for such aid, giving particular attention tosuch specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
 
-"(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from theexamination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor's comments thereon.
+"(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from the examination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor's comments thereon.
 
 "(e) None of the costs incurred in the establishment and operation of a State Commission under this section, or incurred by such a Commission in carrying out its functions under subsections (c) and (d), shall be considered as expenditures qualifying for Federal payments under part A or D of title IV of the Social Security Act \[42 U.S.C. 601 et seq., 651 et seq.\] or be otherwise payable or reimbursable by the United States or any agency thereof.
 

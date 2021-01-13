@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
+&emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relativeto the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
 &emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
@@ -140,7 +140,7 @@ Instrument of Conveyance.—Not later than 1 year after the date of the enactmen
 
 #### Disposal of Naval Petroleum Reserves
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar.2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, §3402, Jan. 28, 2008, 122 Stat. 590, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, §3402, Jan. 28, 2008, 122 Stat. 590, provided that:
 
 #### "SEC. 3401. DEFINITIONS.
 
@@ -260,7 +260,7 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 "(5) Each withdrawal that applies to NOSR–2 and that is in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\] is revoked to the extent that the withdrawal applies to NOSR–2.
 
-"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to be part of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
+"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to bepart of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
 
 "(d)
 
@@ -402,7 +402,7 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 "(a)
 
-Sale of Reserve Required.—Subject to section 3414, not later than two years after the effective date,the Secretary of Energy shall enter into one or more contracts for the sale of all right, title, and interest of the United States in and to all lands owned or controlled by the United States inside Naval Petroleum Reserve Numbered 1. Chapter 641 \[now 869\] of title 10, United States Code, shall not apply to the sale of the reserve.
+Sale of Reserve Required.—Subject to section 3414, not later than two years after the effective date, the Secretary of Energy shall enter into one or more contracts for the sale of all right, title, and interest of the United States in and to all lands owned or controlled by the United States inside Naval Petroleum Reserve Numbered 1. Chapter 641 \[now 869\] of title 10, United States Code, shall not apply to the sale of the reserve.
 
 "(b)
 
@@ -418,7 +418,7 @@ Notice of Sale.—Not later than two months after the effective date, the Secret
 
 "(d)
 
-Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
+Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, theSecretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
 
 &emsp;"(A) all equipment and facilities to be included in the sale;
 
@@ -470,7 +470,7 @@ Noncompliance With Deadlines.—At any time during the two-year period beginning
 
 "(j)
 
-Oversight.—The Comptroller General shall monitor the actions of the Secretary relating to the sale ofthe reserve and report to the appropriate congressional committees any findings on such actions that the Comptroller General considers appropriate to report to the committees.
+Oversight.—The Comptroller General shall monitor the actions of the Secretary relating to the sale of the reserve and report to the appropriate congressional committees any findings on such actions that the Comptroller General considers appropriate to report to the committees.
 
 "(k)
 

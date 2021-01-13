@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) 5 qualified foster individuals not described in subparagraph (A).
 
-(Added Pub. L. 97–473, title I, §102(a), Jan. 14, 1983, 96 Stat. 2606; amended Pub. L. 99–514, title XVII, §1707(a), Oct. 22, 1986, 100 Stat. 2781; Pub. L. 107–147, title IV, §404(a)–(c), Mar. 9, 2002, 116 Stat. 41.)
+(Added Pub. L. 97–473, title I, §102(a), Jan. 14, 1983, 96 Stat. 2606; amended Pub. L. 99–514, titleXVII, §1707(a), Oct. 22, 1986, 100 Stat. 2781; Pub. L. 107–147, title IV, §404(a)–(c), Mar. 9, 2002, 116 Stat. 41.)
 
 #### Prior Provisions
 

@@ -24,9 +24,13 @@ The President shall maintain, under the same conditions and in the same manner a
 
 (Pub. L. 96–465, title I, §827, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 99–335, title IV, §411, June 6, 1986, 100 Stat. 614.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–335 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -42,7 +46,9 @@ This section not applicable with respect to either the amendments made by sectio
 
 #### Recommendations by Secretary of State to President
 
-For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement andDisability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems
 
@@ -110,7 +116,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be basedupon estimates of such basic pay provided to the Department under paragraph (4).
+"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 "(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -138,7 +144,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 "(3) The service of an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1956, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order.
 
-"(4) The service of an individual who first became a participant before the date of this Order shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1976, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order";
+"(4) The service of an individual who first became a participant before the date of this Order shall includecredit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1976, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order";
 
 (c) Section 816 of the Act (22 U.S.C. 4056) is deemed to be further amended by adding a new subsection (j) at the end thereof to read as follows:
 

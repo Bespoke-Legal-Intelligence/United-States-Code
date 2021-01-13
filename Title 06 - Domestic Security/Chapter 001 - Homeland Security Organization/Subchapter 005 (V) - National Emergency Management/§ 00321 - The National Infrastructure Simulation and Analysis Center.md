@@ -36,6 +36,8 @@ In this section, the term "National Infrastructure Simulation and Analysis Cente
 
 (Pub. L. 107–296, title V, §511, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 321, Pub. L. 107–296, title V, §510, as added Pub. L. 108–458, title VII, §7303(d), Dec. 17, 2004, 118 Stat. 3844, related to urban and other high risk area communications capabilities, prior to repeal by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395.

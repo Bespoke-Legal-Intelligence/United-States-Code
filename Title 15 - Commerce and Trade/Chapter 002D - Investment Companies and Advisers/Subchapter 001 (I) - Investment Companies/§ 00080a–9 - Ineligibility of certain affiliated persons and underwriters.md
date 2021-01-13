@@ -32,7 +32,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(5) within 10 years has been convicted by a foreign court of competent jurisdiction of a crime, however denominated by the laws of the relevant foreign government, that is substantially equivalent to an offense set forth in paragraph (1) of subsection (a); or
 
-&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a), or a substantially equivalent foreign capacity, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
+&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a), or a substantially equivalent foreign capacity, or from engaging in orcontinuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
 
 #### (c) Application of ineligible person for exemption
 
@@ -96,7 +96,7 @@ Any person who is ineligible, by reason of subsection (a), to serve or act in th
 
 #### (4) Evidence concerning ability to pay
 
-&emsp;In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the respondent's ability to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of such person's ability to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon such person's assets and the amount of such person's assets.
+&emsp;In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the respondent's ability to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence mayrelate to the extent of such person's ability to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon such person's assets and the amount of such person's assets.
 
 #### (e) Authority to enter order requiring accounting and disgorgement
 
@@ -136,7 +136,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 &emsp;&emsp;&emsp;(ii) 10 days after the Commission renders a decision on an application and hearing under subparagraph (A), with respect to any temporary cease-and-desist order entered without a prior Commission hearing,
 
-> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under subparagraph (A) of this paragraph.
+> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a priorCommission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under subparagraph (A) of this paragraph.
 
 #### (C) No automatic stay of temporary order
 
@@ -148,7 +148,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (5) Authority to enter order requiring accounting and disgorgement
 
-&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enteran order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
+&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
 #### (g) Corporate or other trustees performing functions of investment advisers
 
@@ -204,7 +204,7 @@ Subsecs. (b), (c). Pub. L. 91–547, §4(b), added subsec. (b) and redesignated 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1999 Amendment
 

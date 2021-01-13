@@ -12,6 +12,8 @@ This section contains only the jurisdictional provision in the last clause of se
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–284 substituted "chapter 37 of title 40" for "Contract Work Hours and Safety Standards Act" in section catchline.
@@ -26,6 +28,8 @@ Changes in phraseology were made.
 
 <b>1962</b>—Pub. L. 87–581 amended section generally, substituting "Liquidated damages withheld from contractors under Contract Work Hours Standards Act" for "Penalties imposed against contractors under eight hour law" in section catchline, and "liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours Standards Act" for "a penalty withheld from a contractor or subcontractor under section 324 of Title 40" in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
@@ -36,7 +40,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall not affect contracts existing orthereafter entered into pursuant to invitations for bids outstanding on Aug. 13, 1962, see section 204 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 360.
+Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall not affect contracts existing or thereafter entered into pursuant to invitations for bids outstanding on Aug. 13, 1962, see section 204 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 360.
 
 #### Continued Jurisdiction Upon Claims Under Section 324 of Former Title 40
 

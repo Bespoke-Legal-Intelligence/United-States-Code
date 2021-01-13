@@ -36,9 +36,11 @@ Historical and Revision Notes
 
 Oct. 26, 1992, Pub. L. 102–522, title II, §202(b), 106 Stat. 3417.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 5201(b) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, §427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the exception that in par. (1)(B), the words "plan, direct, and manage the memorial service referred to in subparagraph (A)" were used insteadof "plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities".
+Section 5201(b) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, §427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the exception that in par. (1)(B),the words "plan, direct, and manage the memorial service referred to in subparagraph (A)" were used instead of "plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities".
 
 #### Amendments
 
@@ -51,6 +53,8 @@ Par. (3). Pub. L. 106–503, §113(a)(3), substituted "Federal, State, and local
 Par. (4). Pub. L. 106–503, §113(a)(4), substituted semicolon for period at end.
 
 Pars. (5), (6). Pub. L. 106–503, §113(a)(5), added pars. (5) and (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Lowering of Flag in Honor of National Fallen Firefighters Memorial Service
 

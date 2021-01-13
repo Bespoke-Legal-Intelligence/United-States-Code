@@ -30,6 +30,8 @@ Use of Blocked Assets to Satisfy Judgments of U.S. Nationals.—For purposes of 
 
 (Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 103–429, §2(1), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 114–222, §4(a), Sept. 28, 2016, 130 Stat. 854; Pub. L. 115–253, §3(a), Oct. 3, 2018, 132 Stat. 3183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201 of the Terrorism Risk Insurance Act of 2002, referred to in subsec. (e), is section 201 of Pub. L. 107–297, of which subsecs. (a), (b), and (d) are set out as a note under section 1610 of Title 28, Judiciary and Judicial Procedure. For complete classification of section 201 to the Code, see Tables.
@@ -41,6 +43,8 @@ Section 201 of the Terrorism Risk Insurance Act of 2002, referred to in subsec. 
 <b>2016</b>—Subsec. (d). Pub. L. 114–222 added subsec. (d).
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted "section 46314, 46502, 46505, or 46506 of title 49" for "section 902(i), (k), (l), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (l), (n), or (r))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -76,7 +80,7 @@ Facilitation of the Settlement of Terrorism-related Claims of Nationals of the U
 
 &emsp;"(1)
 
-Comprehensive process to facilitate the resolution of anti-terrorism act claims.—The Secretary of State, in consultation with the Attorney General, shall, not later than 30 days after the date of enactment of this Act \[Dec. 20, 2019\], develop and initiate a comprehensive process for the Department of State to facilitate the resolution and settlement of covered claims.
+Comprehensive process to facilitate the resolution of anti-terrorism act claims.—The Secretary of State, in consultation with the Attorney General, shall, not later than 30 days after the dateof enactment of this Act \[Dec. 20, 2019\], develop and initiate a comprehensive process for the Department of State to facilitate the resolution and settlement of covered claims.
 
 &emsp;"(2)
 
@@ -164,7 +168,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(6) Persons, entities, or countries that knowingly or recklessly contribute material support or resources, directly or indirectly, to persons or organizations that pose a significant risk of committing acts of terrorism that threaten the security of nationals of the United States or the national security, foreign policy, or economy of the United States, necessarily direct their conduct at the United States, and should reasonably anticipate being brought to court in the United States to answer for such activities.
 
-&emsp;"(7) The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to the persons or organizations responsible for their injuries.
+&emsp;"(7) The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to thepersons or organizations responsible for their injuries.
 
 "(b)
 

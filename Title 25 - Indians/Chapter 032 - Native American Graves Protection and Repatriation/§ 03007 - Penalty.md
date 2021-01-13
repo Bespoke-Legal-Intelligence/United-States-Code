@@ -24,9 +24,11 @@ In hearings held pursuant to subsection (a), subpoenas may be issued for the att
 
 (Pub. L. 101–601, §9, Nov. 16, 1990, 104 Stat. 3057.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -64,7 +64,7 @@ Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 
 
 #### Regulations
 
-Pub. L. 102–550, title IX, §919, Oct. 28, 1992, 106 Stat. 3883, provided that: "The Secretary of Housing and Urban Development shall, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1992\], make rules defining what are 'significant facilities and services especially designed to meet the physical or social needs of older persons' required under section 807(b)(2) of the Fair Housing Act \[42 U.S.C. 3607(b)(2)\] to meet the definition of the term 'housing for older persons' in such section."
+Pub. L. 102–550, title IX, §919, Oct. 28, 1992, 106 Stat. 3883, provided that: "The Secretary of Housing andUrban Development shall, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1992\], make rules defining what are 'significant facilities and services especially designed to meet the physical or social needs of older persons' required under section 807(b)(2) of the Fair Housing Act \[42 U.S.C. 3607(b)(2)\] to meet the definition of the term 'housing for older persons' in such section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

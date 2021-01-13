@@ -44,6 +44,8 @@ Pub. L. 102–525, title III, §301, Oct. 26, 1992, 106 Stat. 3441.
 
 16 U.S.C. 1a–2(c) (words after comma).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

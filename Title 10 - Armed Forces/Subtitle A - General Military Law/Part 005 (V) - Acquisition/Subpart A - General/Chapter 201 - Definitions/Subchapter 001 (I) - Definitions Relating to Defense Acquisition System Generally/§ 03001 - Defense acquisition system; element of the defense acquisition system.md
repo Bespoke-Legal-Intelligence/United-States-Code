@@ -1,0 +1,50 @@
+### §3001. Defense acquisition system; element of the defense acquisition system
+
+(a)
+
+Defense Acquisition System.—In this part, the term "defense acquisition system" means—
+
+&emsp;(1) the workforce engaged in carrying out the acquisition of property and services for the Department of Defense;
+
+&emsp;(2) the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and
+
+&emsp;(3) the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
+
+(b)
+
+Element of the Defense Acquisition System.—In this part, the term "element of the defense acquisition system" means an organization that—
+
+&emsp;(1) employs members of the acquisition workforce;
+
+&emsp;(2) carries out acquisition functions; and
+
+&emsp;(3) focuses primarily on acquisition.
+
+(c)
+
+Acquisition.—In this section, the term "acquisition" has the meaning provided in section 131 of title 41.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1806(a)(1)–(4), Jan. 1, 2021, 134 Stat. 4152.)
+
+#### Codification
+
+The text of pars. (2), (3), and (1) of section 2545 of this title, which were transferred to this section, redesignated as subsecs. (a), (b), and (c), respectively, and amended by Pub. L. 116–283, §1806(a)(2)–(4), was based on Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4288; Pub. L. 113–291, div. A, title X, §1071(a)(11), Dec. 19, 2014, 128 Stat. 3505.
+
+Section 2545 of this title, which was transferred in large part to this section by Pub. L. 116–283, §1806(a)(2)–(4), was also transferred to section 3101 of this title by Pub. L. 116–283, §1808(a)(2).
+
+#### Prior Provisions
+
+A prior section 3001 was renumbered section 7001 of this title.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted "In this part, the term" for "The term", and inserted dash after "means", par. (1) designation before "the workforce", par. (2) designation before "the management", and par. (3) designation before "the statutory,".
+
+Subsec. (b). Pub. L. 116–283, §1806(a)(3), redesignated par. (3) of section 2545 of this title as subsec. (b) of this section, inserted heading and realigned margin, substituted "In this part, the term" for "The term", "workforce;" for "workforce,", and "functions;" for "functions,", and inserted dash after "organization that", par. (1) designation before "employs", par. (2) designation before "carries out", and par. (3) designation before "focuses".
+
+Subsec. (c). Pub. L. 116–283, §1806(a)(4), redesignated par. (1) of section 2545 of this title as subsec. (c) of this section, inserted heading and realigned margin, and substituted "In this section, the term" for "The term".
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding this section.
+

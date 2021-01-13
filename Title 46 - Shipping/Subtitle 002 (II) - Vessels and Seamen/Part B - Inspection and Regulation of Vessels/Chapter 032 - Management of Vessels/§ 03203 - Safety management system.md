@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
+In General.—The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies (including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5)), including—
 
 &emsp;(1) a safety and environmental protection policy;
 
@@ -26,13 +26,19 @@ Compliance With Code.—Regulations prescribed under this section shall be consi
 
 &emsp;(2) with respect to vessels that are ferries, the sizes of the ferry systems within which the vessels operate.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(b), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(b), Oct. 15, 2010, 124 Stat. 2969.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(b), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(b), Oct. 15, 2010, 124 Stat. 2969; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8441(c), Jan. 1, 2021, 134 Stat. 4744.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "(including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5))" after "vessels to which this chapter applies" in introductory provisions.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted "vessels to which this chapter applies under section 3202(a) of this title" for "vessels engaged on a foreign voyage".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Flag-State Guidance and Supplements
 

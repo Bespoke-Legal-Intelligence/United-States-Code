@@ -80,11 +80,15 @@ Other terms.—Any other term has the meaning given that term by section 3 of th
 
 (Added Pub. L. 108–187, §4(a)(1), Dec. 16, 2003, 117 Stat. 2703.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
 
 Section 3 of the CAN-SPAM Act of 2003, referred to in subsec. (d)(4), is classified to section 7702 of Title 15, Commerce and Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

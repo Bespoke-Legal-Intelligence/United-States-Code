@@ -64,7 +64,7 @@
 
 (f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute "disposable income" under section 1325.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8,title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### Historical and Revision Notes
 
@@ -87,6 +87,8 @@ Subsection (a) requires that the plan submit whatever portion of the future inco
 Subsection (b) permits a chapter 13 plan to (1) divide unsecured claims not entitled to priority under section 507 into classes in the manner authorized for chapter 11 claims; (2) modify the rights of holders of secured and unsecured claims, except claims wholly secured by real estate mortgages; (3) cure or waive any default; (4) propose payments on unsecured claims concurrently with payments on any secured claim or any other class of unsecured claims; (5) provide for curing any default on any secured or unsecured claim on which the final payment is due after the proposed final payment under the plan; (6) provide for payment of any allowed postpetition claim; (7) assume or reject any previously unrejected executory contract or unexpired lease of the debtor; (8) propose the payment of all or any part of any claim from property of the estate or of the debtor; (9) provide for the vesting of property of the estate; and (10) include any other provision not inconsistent with other provisions of title 11.
 
 Subsection (c) limits the payment period under the plan to 3 years, except that a 4–year payment period may be permitted by the court.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -120,6 +122,8 @@ Subsec. (b)(7). Pub. L. 98–353, §528(b)(3), inserted "subject to section 365 
 
 Subsec. (b)(8). Pub. L. 98–353, §528(b)(4), struck out "any" before "part of a claim".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -131,6 +135,8 @@ Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not a
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

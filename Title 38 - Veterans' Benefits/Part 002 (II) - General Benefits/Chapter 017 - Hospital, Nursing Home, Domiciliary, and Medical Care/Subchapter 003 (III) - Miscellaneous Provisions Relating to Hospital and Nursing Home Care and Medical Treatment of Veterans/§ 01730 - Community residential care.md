@@ -44,13 +44,15 @@
 
 (Added Pub. L. 98–160, title I, §104(a), Nov. 21, 1983, 97 Stat. 996, §630; amended Pub. L. 102–54, §14(b)(15), June 13, 1991, 105 Stat. 284; renumbered §1730 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 630 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 102–54 struck out "(1)" after "(a)" and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) assubpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
+Pub. L. 102–54 struck out "(1)" after "(a)" and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) as subpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing and "Secretary's" for "Administrator's" in two places.
 

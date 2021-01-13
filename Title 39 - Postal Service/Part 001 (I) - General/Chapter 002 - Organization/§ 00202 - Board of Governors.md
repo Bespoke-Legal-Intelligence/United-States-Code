@@ -1,6 +1,6 @@
 ### §202. Board of Governors
 
-(a)(1) The exercise of the power of the Postal Service shall be directed by a Board of Governors composed of 11 members appointed in accordance with this section. Nine of the members, to be known as Governors, shall be appointed by the President, by and with the advice and consent of the Senate, not more than 5 of whom may be adherents of the same political party. The Governors shall elect a Chairman from among the members of the Board. The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause. Each Governor shall receive a salary of $30,000 a year plus $300 a day for not more than 42 days of meetings each year and shall be reimbursed for travel and reasonable expenses incurred in attending meetings of the Board. Nothing in the preceding sentence shall be construed to limit the number of days of meetings each year to 42 days.
+(a)(1) The exercise of the power of the Postal Service shall be directed by a Board of Governors composed of 11 members appointed in accordance with this section. Nine of the members, to be known as Governors, shall be appointed by the President, by and with the advice and consent of the Senate, not more than 5 of whom may be adherents of the same political party. The Governors shall elect a Chairman from among the members of the Board. The Governors shall represent the public interest generally, and shall be chosen solely on the basis oftheir experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause. Each Governor shall receive a salary of $30,000 a year plus $300 a day for not more than 42 days of meetings each year and shall be reimbursed for travel and reasonable expenses incurred in attending meetings of the Board. Nothing in the preceding sentence shall be construed to limit the number of days of meetings each year to 42 days.
 
 (2) In selecting the individuals described in paragraph (1) for nomination for appointment to the position of Governor, the President should consult with the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority leader of the Senate, and the minority leader of the Senate.
 
@@ -26,6 +26,8 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, §2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, §144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§644(a), 662(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, 3009–378; Pub. L. 109–435, title V, §501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8G of the Inspector General Act of 1978, referred to in subsec. (e), is section 8G of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -47,6 +49,8 @@ Subsec. (e). Pub. L. 104–208, §101(f) \[title VI, §662(a)(1)\], added subsec
 <b>1985</b>—Subsec. (a). Pub. L. 99–190 substituted "42" for "30" in two places.
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–81 inserted provision that a Governor may continue to serve after the expiration of his term until his successor has qualified, but not to exceed one year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

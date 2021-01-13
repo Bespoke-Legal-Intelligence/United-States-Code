@@ -10,6 +10,8 @@ Based upon title 18, U.S.C., 1940 ed., §250 (Mar. 4, 1909, ch. 321, §145, 35 S
 
 Only minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

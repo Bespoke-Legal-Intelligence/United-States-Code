@@ -4,6 +4,8 @@ The President is authorized to prescribe, from time to time, the rates or tariff
 
 (R.S. §1745; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1745 derived from act Aug. 18, 1856, ch. 127, §16, 11 Stat. 57.
@@ -13,6 +15,8 @@ References to "commercial agencies" and "commercial agency" were omitted in view
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1201 of this title, and prior thereto to section 127 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10718. Delegation of Authority to Secretary of State
 

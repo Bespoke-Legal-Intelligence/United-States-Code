@@ -16,9 +16,13 @@
 
 (Pub. L. 98–623, title II, §202, Nov. 8, 1984, 98 Stat. 3394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–623, which inaddition to enacting this chapter also enacted section 1220d of Title 16, Conservation, and amended sections 1220, 1220a, 1220b, and 1220c of Title 16.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–623, which in addition to enacting this chapter also enacted section 1220d of Title 16, Conservation, and amended sections 1220, 1220a, 1220b, and 1220c of Title 16.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

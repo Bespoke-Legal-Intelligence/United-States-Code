@@ -14,6 +14,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Cybersecurity in STEM Programs of the National Aeronautics and Space Administration
+
+Pub. L. 116–283, div. H, title XCIV, §9406, Jan. 1, 2021, 134 Stat. 4812, provided that: "In carrying out any STEM education program of the National Aeronautics and Space Administration (referred to in this section as 'NASA'), including a program of the Office of STEM Engagement, the Administrator of NASA shall, to the maximum extent practicable, encourage the inclusion of cybersecurity education opportunities in such program."
+
 #### NASA Internship and Fellowship Opportunities
 
 Pub. L. 115–303, §3, Dec. 11, 2018, 132 Stat. 4399, provided that: "Not later than October 1, 2018, the Administrator of the National Aeronautics and Space Administration (in this section referred to as 'NASA') shall institute a process to encourage the recruitment of qualified candidates who are women or individuals who are underrepresented in the fields of science, technology, engineering, and mathematics (STEM) and computer science for internships and fellowships at NASA with relevance to the aerospace sector and related fields."
@@ -68,7 +74,7 @@ Pub. L. 115–7, Feb. 28, 2017, 131 Stat. 13, provided that:
 
 #### "SEC. 3. SUPPORTING WOMEN'S INVOLVEMENT IN THE FIELDS OF AEROSPACE AND SPACE EXPLORATION.
 
-"The Administrator of the National Aeronautics and Space Administration shall encourage women and girlsto study science, technology, engineering, and mathematics, pursue careers in aerospace, and further advance the Nation's space science and exploration efforts through support of the following initiatives:
+"The Administrator of the National Aeronautics and Space Administration shall encourage women and girls to study science, technology, engineering, and mathematics, pursue careers in aerospace, and further advance the Nation's space science and exploration efforts through support of the following initiatives:
 
 &emsp;"(1) NASA GIRLS and NASA BOYS.
 
@@ -128,7 +134,7 @@ National Awareness Campaign.—
 
 &emsp;"(1)
 
-In general.—The Administrator \[of the National Aeronautics and Space Administration\] shall implement, beginning not later than May 1, 2006, a national awareness campaign through various media, including print, radio, television, and the Internet, to articulate missions, publicize recent accomplishments, and facilitate efforts to encourage young Americans to enter the fields of science, mathematics, and engineering to help maintain United States leadership in those fields.
+In general.—The Administrator \[of the National Aeronautics and Space Administration\] shallimplement, beginning not later than May 1, 2006, a national awareness campaign through various media, including print, radio, television, and the Internet, to articulate missions, publicize recent accomplishments, and facilitate efforts to encourage young Americans to enter the fields of science, mathematics, and engineering to help maintain United States leadership in those fields.
 
 &emsp;"(2)
 
@@ -210,7 +216,7 @@ Contract.—The Director of the Office of Science and Technology Policy may cont
 
 #### Review of MUST Program
 
-Pub. L. 109–155, title VI, §617, Dec. 30, 2005, 119 Stat. 2934, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator \[of the National Aeronautics and Space Administration\] shall transmit a report to Congress on the legal status of the Motivating Undergraduates in Science and Technology program. If the report concludes that the program is in compliance with the laws of the United States, NASA \[National Aeronautics and Space Administration\] shall implement the program, as planned in the July 5, 2005, NASA Research Announcement."
+Pub. L. 109–155, title VI, §617, Dec. 30, 2005, 119 Stat. 2934, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator \[of the National Aeronautics and Space Administration\] shall transmit a report to Congress on the legal status of the Motivating Undergraduates in Science and Technology program. If the report concludes that the program is in compliance with the lawsof the United States, NASA \[National Aeronautics and Space Administration\] shall implement the program, as planned in the July 5, 2005, NASA Research Announcement."
 
 #### Denial of Financial Assistance to Campus Disrupters
 

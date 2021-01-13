@@ -8,7 +8,7 @@
 
 #### (2) Surplus proceeds
 
-&emsp;If property has been sold pursuant to a levy, any person (other than the person againstwhom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
+&emsp;If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
 
 #### (3) Substituted sale proceeds
 
@@ -52,7 +52,7 @@ The district court shall have jurisdiction to grant only such of the following f
 
 #### (5) Substitution of value
 
-&emsp;If the court determines that the Secretary's determination of the value of the interest of the United States in the property for purposes of section 6325(b)(4) exceeds the actual value of such interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
+&emsp;If the court determines that the Secretary's determination of the value of the interest of the United States in the property for purposes of section 6325(b)(4) exceeds the actual value ofsuch interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
 
 #### (c) Validity of assessment
 

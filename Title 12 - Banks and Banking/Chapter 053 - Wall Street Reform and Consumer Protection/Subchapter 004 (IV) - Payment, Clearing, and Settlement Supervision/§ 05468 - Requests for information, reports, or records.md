@@ -18,7 +18,7 @@
 
 #### (2) Financial institutions subject to standards for designated activities
 
-&emsp;The Board of Governors and the Council may each require 1 or more financial institutions subject to the standards prescribed under section 5464(a) of this title for a designated activity to submit, in such frequency and form as deemed necessary by the Board of Governors or the Council, reports and data to the Board of Governors and the Council solely with respect to the conduct of the designated activity and solely to assess whether—
+&emsp;The Board of Governors and the Council may each require 1 or more financial institutions subject to the standards prescribed under section 5464(a) of this title for a designated activity to submit, in such frequency and form asdeemed necessary by the Board of Governors or the Council, reports and data to the Board of Governors and the Council solely with respect to the conduct of the designated activity and solely to assess whether—
 
 &emsp;&emsp;(A) the rules, orders, or standards prescribed under section 5464(a) of this title with respect to the designated activity appropriately address the risks to the financial system presented by such activity; and
 

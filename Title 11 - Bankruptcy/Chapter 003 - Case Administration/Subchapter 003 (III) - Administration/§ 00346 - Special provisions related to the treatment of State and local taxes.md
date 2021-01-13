@@ -6,7 +6,7 @@
 
 (c) With respect to a partnership or any entity treated as a partnership under a State or local law imposing a tax on or measured by income that is a debtor in a case under this title, any gain or loss resulting from a distribution of property from such partnership, or any distributive share of any income, gain, loss, deduction, or credit of a partner or member that is distributed, or considered distributed, from such partnership, after the commencement of the case, is gain, loss, income, deduction, or credit, as the case may be, of the partner or member, and if such partner or member is a debtor in a case under this title, shall be subject to tax in accordance with subsection (a) or (b).
 
-(d) For purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor in a case under this title shall terminate only if and to the extent thatthe taxable period of such debtor terminates under the Internal Revenue Code of 1986.
+(d) For purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor in a case under this title shall terminate only if and to the extent that the taxable period of such debtor terminates under the Internal Revenue Code of 1986.
 
 (e) The estate in any case described in subsection (a) shall use the same accounting method as the debtor used immediately before the commencement of the case, if such method of accounting complies with applicable nonbankruptcy tax law.
 
@@ -14,7 +14,7 @@
 
 (g) Whenever a tax is imposed pursuant to a State or local law imposing a tax on or measured by income pursuant to subsection (a) or (b), such tax shall be imposed at rates generally applicable to the same types of entities under such State or local law.
 
-(h) The trustee shall withhold from any payment of claims for wages, salaries, commissions, dividends, interest, or other payments, or collect, any amount required to be withheld or collected under applicable State or local tax law, and shall pay such withheld or collected amount to the appropriate governmental unit at the time and in the manner required by such tax law, and with the same priority as the claim from which such amount was withheld or collected was paid.
+(h) The trustee shall withhold from any payment of claims for wages, salaries, commissions, dividends, interest, or other payments, or collect, any amount required to be withheld or collected under applicable State or local tax law,and shall pay such withheld or collected amount to the appropriate governmental unit at the time and in the manner required by such tax law, and with the same priority as the claim from which such amount was withheld or collected was paid.
 
 (i)(1) To the extent that any State or local law imposing a tax on or measured by income provides for the carryover of any tax attribute from one taxable period to a subsequent taxable period, the estate shall succeed to such tax attribute in any case in which such estate is subject to tax under subsection (a).
 
@@ -46,7 +46,7 @@ Special tax provisions: State and local rules. This section provides special tax
 
 Withholding rules: Both the House bill and Senate amendment provide that the trustee is required to comply with the normal withholding rules applicable to the payment of wages and other payments. The House amendment retains this rule for State and local taxes only. The treatment of withholding of Federal taxes will be considered in the next Congress.
 
-Section 726 of the Senate amendment provides that the rule requiring pro rata payment of all expenses within a priority category does not apply to the payment of amounts withheld by a bankruptcy trustee. The purpose of this rule was to insure that the trustee pay the full amount of the withheld taxes to the appropriate governmental tax authority. The House amendment deletes this rule as unnecessary because the existing practice conforms essentially to that rule. If the trustee fails to pay over in full amounts that he withheld, it is a violation of his trustee's duties whichwould permit the taxing authority to sue the trustee on his bond.
+Section 726 of the Senate amendment provides that the rule requiring pro rata payment of all expenses within a priority category does not apply to the payment of amounts withheld by a bankruptcy trustee. The purpose of this rule was to insure that the trustee pay the full amount of the withheld taxes to the appropriate governmental tax authority. The House amendment deletes this rule as unnecessary because the existing practice conforms essentially to that rule. If the trustee fails to pay over in full amounts that he withheld, it is a violation of his trustee's duties which would permit the taxing authority to sue the trustee on his bond.
 
 When taxes considered "incurred": The Senate amendment contained rules of general application dealing with when a tax is "incurred" for purposes of the various tax collection rules affecting the debtor and the estate. The House amendment adopts the substance of these rules and transfers them to section 507 of title 11.
 
@@ -98,7 +98,9 @@ Paragraph (5) provides a two-point test for reduction of basis. The paragraph re
 
 Paragraph (6) specifies that basis need not be reduced under paragraph (5) to the extent the debtor treats discharged indebtedness as taxable income. This permits the debtor to elect whether to recognize income, which may be advantageous if the debtor anticipates subsequent net operating losses, rather than to reduce basis.
 
-Paragraph (7) establishes two rules excluding from the category of discharged indebtedness certain indebtedness that is exchanged for an equity security issued under a plan or that is forgiven as a contribution to capital by an equity security holder. Subparagraph (A) creates the first exclusion to the extent indebtedness consisting of items not of a deductible nature is exchanged for an equity security, other than the interests of a limited partner in a limited partnership, issued by the debtor or is forgiven as a contribution to capital by an equity security holder. Subparagraph (B) excludes indebtedness consisting of items of a deductible nature, if the exchange of stock for debts has the same effect as a cash payment equal to the value of the equity security, in the amount of the fair market value of the equity security or, if less, the extent to which such exchange has such effect. The two provisions treat the debtor as if it had originally issued stock instead of debt. Subparagraph (B) rectifies the inequity under current law between a cash basis and accrual basis debtor concerning the issuance of stock in exchange for previous services rendered that were of a greater value than the stock. Subparagraph (B) also changes current law by taxing forgiveness of indebtedness to the extent that stock is exchanged for the accrued interest component of a security, because the recipient of such stock would not be regarded as having received money under the <i>Carman</i> doctrine.
+Paragraph (7) establishes two rules excluding from the category of discharged indebtedness certain indebtedness that is exchanged for an equity security issued under a plan or that is forgiven as a contribution tocapital by an equity security holder. Subparagraph (A) creates the first exclusion to the extent indebtedness consisting of items not of a deductible nature is exchanged for an equity security, other than the interests of a limited partner in a limited partnership, issued by the debtor or is forgiven as a contribution to capital by an equity security holder. Subparagraph (B) excludes indebtedness consisting of items of a deductible nature, if the exchange of stock for debts has the same effect as a cash payment equal to the value of the equity security, in the amount of the fair market value of the equity security or, if less, the extent to which such exchange has such effect. The two provisions treat the debtor as if it had originally issued stock instead of debt. Subparagraph (B) rectifies the inequity under current law between a cash basis and accrual basis debtor concerning the issuance of stock in exchange for previous services rendered that were of a greater value than the stock. Subparagraph (B) also changes current law by taxing forgiveness of indebtedness to the extent that stock is exchanged for the accrued interest component of a security, because the recipient of such stock would not be regarded as having received money under the <i>Carman</i> doctrine.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ Subsec. (i)(1). Pub. L. 99–554, §257(g)(3), inserted reference to chapter 12.
 Subsec. (j)(7). Pub. L. 99–554, §283(c), substituted "owed" for "owned".
 
 <b>1984</b>—Subsec. (c)(2). Pub. L. 98–353 substituted "corporation" for "operation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

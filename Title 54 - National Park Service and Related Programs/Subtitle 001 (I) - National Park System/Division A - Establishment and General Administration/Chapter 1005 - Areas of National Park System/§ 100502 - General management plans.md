@@ -1,6 +1,6 @@
 ### §100502. General management plans
 
-General management plans for the preservation and use of each System unit, including areas within the national capital area, shall be prepared and revised in a timely manner by the Director. On January 1 of each year, the Secretary shall submit to Congress a list indicating the current status of completion or revision of general management plans for each System unit. General management plans for each System unit shall include—
+General management plans for the preservation and use of each System unit, includingareas within the national capital area, shall be prepared and revised in a timely manner by the Director. On January 1 of each year, the Secretary shall submit to Congress a list indicating the current status of completion or revision of general management plans for each System unit. General management plans for each System unit shall include—
 
 &emsp;(1) measures for the preservation of the area's resources;
 

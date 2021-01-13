@@ -6,7 +6,7 @@ Qualifications of Copyright Royalty Judges.—
 
 &emsp;(1)
 
-In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
+In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright RoyaltyJudge only if the individual is free of any financial conflict of interest under subsection (h).
 
 &emsp;(2)
 
@@ -60,11 +60,11 @@ In making determinations.—
 
 In general.—(i) Subject to subparagraph (B) and clause (ii) of this subparagraph, the Copyright Royalty Judges shall have full independence in making determinations concerning adjustments and determinations of copyright royalty rates and terms, the distribution of copyright royalties, the acceptance or rejection of royalty claims, rate adjustment petitions, and petitions to participate, and in issuing other rulings under this title, except that the Copyright Royalty Judges may consult with the Register of Copyrights on any matter other than a question of fact.
 
-&emsp;&emsp;(ii) One or more Copyright Royalty Judges may, or by motion to the Copyright Royalty Judges, any participant in a proceeding may, request from the Register of Copyrights an interpretation of any material questions of substantive law that relate to the construction of provisions of this title and arise in the course of the proceeding.Any request for a written interpretation shall be in writing and on the record, and reasonable provision shall be made to permit participants in the proceeding to comment on the material questions of substantive law in a manner that minimizes duplication and delay. Except as provided in subparagraph (B), the Register of Copyrights shall deliver to the Copyright Royalty Judges a written response within 14 days after the receipt of all briefs and comments from the participants. The Copyright Royalty Judges shall apply the legal interpretation embodied in the response of the Register of Copyrights if it is timely delivered, and the response shall be included in the record that accompanies the final determination. The authority under this clause shall not be construed to authorize the Register of Copyrights to provide an interpretation of questions of procedure before the Copyright Royalty Judges, the ultimate adjustments and determinations of copyright royalty rates and terms, the ultimate distribution of copyright royalties, or the acceptance or rejection of royalty claims, rate adjustment petitions, or petitions to participate in a proceeding.
+&emsp;&emsp;(ii) One or more Copyright Royalty Judges may, or by motion to the Copyright Royalty Judges, any participant in a proceeding may, request from the Register of Copyrights an interpretation of any material questions of substantive law that relate to the construction of provisions of this title and arise in the course of the proceeding. Any request for a written interpretation shall be in writing and on the record, and reasonable provision shall be made to permit participants in the proceeding to comment on the material questions of substantive law in a manner that minimizes duplication and delay. Except as provided in subparagraph (B), the Register of Copyrights shall deliver to the Copyright Royalty Judges a written response within 14 days after the receipt of all briefs and comments from the participants. The Copyright Royalty Judges shall apply the legal interpretation embodied in the response of the Register of Copyrights if it is timely delivered, and the response shall be included in the record that accompanies the final determination. The authority under this clause shall not be construed to authorize the Register of Copyrights to provide an interpretation of questions of procedure before the Copyright Royalty Judges, the ultimate adjustments and determinations of copyright royalty rates and terms, the ultimate distribution of copyright royalties, or the acceptance or rejection of royalty claims, rate adjustment petitions, or petitions to participate in a proceeding.
 
 &emsp;&emsp;(B)
 
-Novel questions.—(i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, the Copyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
+Novel questions.—(i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, theCopyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
 
 &emsp;&emsp;(ii) In clause (i), a "novel question of law" is a question of law that has not been determined in prior decisions, determinations, and rulings described in section 803(a).
 
@@ -90,7 +90,7 @@ In general.—Notwithstanding any other provision of law or any regulation of th
 
 &emsp;&emsp;(B)
 
-Relating to sanction or removal.—To the extent that the Librarian of Congress adopts regulations under subsection (h) relating to the sanction or removal of a Copyright Royalty Judge and such regulations require documentation to establish the causeof such sanction or removal, the Copyright Royalty Judge may receive an appraisal related specifically to the cause of the sanction or removal.
+Relating to sanction or removal.—To the extent that the Librarian of Congress adopts regulations under subsection (h) relating to the sanction or removal of a Copyright Royalty Judge and such regulations require documentation to establish the cause of such sanction or removal, the Copyright Royalty Judge may receive an appraisal related specifically to the cause of the sanction or removal.
 
 (g)
 
@@ -106,13 +106,15 @@ Removal or Sanction.—The Librarian of Congress may sanction or remove a Copyri
 
 (Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2345; amended Pub. L. 109–303, §3(3), (4), Oct. 6, 2006, 120 Stat. 1478, 1479; Pub. L. 116–94, div. P, title XIV, §1405(a)(1), Dec. 20, 2019, 133 Stat. 3208.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (e)(2), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
-A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, §405(d), (e)(2)–(4), Oct. 28, 1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, §13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, §405(d), (e)(2)–(4), Oct. 28,1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, §13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 #### Amendments
 
@@ -131,6 +133,8 @@ Subsec. (e)(2). Pub. L. 116–94, §1405(a)(1)(B), added par. (2) and struck out
 Subsec. (f)(1)(A)(ii). Pub. L. 109–303, §3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 
 Subsec. (f)(1)(D). Pub. L. 109–303, §3(4), inserted a comma after "undertakes to consult with".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

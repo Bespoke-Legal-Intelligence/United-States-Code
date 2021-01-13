@@ -1,6 +1,6 @@
 ### §1541. Issuance without authority
 
-Whoever, acting or claiming to act in any office or capacity under the United States, or aState, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
+Whoever, acting or claiming to act in any office or capacity under the United States, or a State, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
 
 Whoever, being a consular officer authorized to grant, issue, or verify passports, knowingly and willfully grants, issues, or verifies any such passport to or for any person not owing allegiance, to the United States, whether a citizen or not—
 
@@ -18,6 +18,8 @@ The venue provision, which followed the punishment provisions, was omitted as co
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 substituted "to facilitate" for "to facility" in third par.
@@ -31,6 +33,8 @@ Pub. L. 104–208 substituted "imprisoned not more than 25 years (if the offense
 <b>1994</b>—Pub. L. 103–322, §330016(1)(G), which directed the amendment of this section by substituting "under this title" for "not more than $500", could not be executed because the words "not more than $500" did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(1). See below.
 
 Pub. L. 103–322, §130009(a)(1), substituted "under this title, imprisoned not more than 10 years" for "not more than $500 or imprisoned not more than one year" in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

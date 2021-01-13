@@ -74,7 +74,7 @@ No deduction or credit shall be allowed—
 
 &emsp;(3) with respect to any listed property (as defined in section 280F(d)(4)),
 
-> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount ofsuch expense or other item, (B) the time and place of the travel or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of the person receiving the benefit. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
+> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount of such expense or other item, (B) the time and place of the travel or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of the person receiving the benefit. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
 
 #### (e) Specific exceptions to application of subsection (a)
 
@@ -146,7 +146,7 @@ This section shall not apply to any deduction allowable to the taxpayer without 
 
 #### (g) Treatment of entertainment, etc., type facility
 
-For purposes of this chapter, if deductions are disallowed under subsection (a) with respect to any portion of a facility, such portion shall be treated as an asset which is used for personal, living, and family purposes (and not as an asset used in the trade or business).
+For purposes of this chapter, if deductions are disallowed under subsection (a) with respect to any portion of a facility, such portion shall betreated as an asset which is used for personal, living, and family purposes (and not as an asset used in the trade or business).
 
 #### (h) Attendance at conventions, etc.
 
@@ -218,13 +218,13 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 &emsp;&emsp;For purposes of this subsection, the term "North American area" includes, with respect to any convention, seminar, or similar meeting, any beneficiary country if (as of the time such meeting begins)—
 
-&emsp;&emsp;&emsp;(i) there is in effect a bilateral or multilateral agreement described in subparagraph (C) between such country and theUnited States providing for the exchange of information between the United States and such country, and
+&emsp;&emsp;&emsp;(i) there is in effect a bilateral or multilateral agreement described in subparagraph (C) between such country and the United States providing for the exchange of information between the United States and such country, and
 
 &emsp;&emsp;&emsp;(ii) there is not in effect a finding by the Secretary that the tax laws of such country discriminate against conventions held in the United States.
 
 #### (B) Beneficiary country
 
-&emsp;&emsp;For purposes of this paragraph, the term "beneficiary country" has the meaning given to such term by section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act; except that such term shall include Bermuda.
+&emsp;&emsp;For purposes of this paragraph, the term "beneficiary country" has the meaning given to such term by section 212(a)(1)(A) ofthe Caribbean Basin Economic Recovery Act; except that such term shall include Bermuda.
 
 #### (C) Authority to conclude exchange of information agreements
 
@@ -372,7 +372,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, theterm "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
+&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, the term "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
 #### (B) Exceptions
 
@@ -408,7 +408,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;(A) such expense is described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),
 
-&emsp;&emsp;(B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
+&emsp;&emsp;(B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82,
 
 &emsp;&emsp;(C) such expense is for food or beverages—
 
@@ -422,7 +422,13 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;&emsp;(iii) provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
 
-&emsp;&emsp;&emsp;(iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
+&emsp;&emsp;&emsp;(iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude, or
+
+&emsp;&emsp;(D) such expense is—
+
+&emsp;&emsp;&emsp;(i) for food or beverages provided by a restaurant, and
+
+&emsp;&emsp;&emsp;(ii) paid or incurred before January 1, 2023.
 
 > &emsp;Clauses (i) and (ii) of subparagraph (C) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (B).
 
@@ -434,11 +440,11 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–97, title I, §§13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, 131 Stat. 2124–2126, 2132.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–97, title I, §§13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, 131 Stat. 2124–2126, 2132; Pub. L. 116–260, div. EE, title II, §210(a), Dec. 27, 2020, 134 Stat. 3066.)
 
 #### Amendment of Section
 
-<i>Pub. L. 115–97, title I, §13304(d), (e)(2), Dec. 22, 2017, 131 Stat. 2126, provided that, applicable to amounts incurred or paid after Dec. 31, 2025, this section is amended by redesignating subsection (o) as (p) and adding the following new subsection (o):</i>
+<i>Pub. L. 115–97, title I, §13304(d), (e)(2), Dec. 22, 2017, 131 Stat. 2126, provided that, applicable</i><i>to amounts incurred or paid after Dec. 31, 2025, this section is amended by redesignating subsection (o) as (p) and adding the following new subsection (o):</i>
 
 #### <i>(o) Meals provided at convenience of employer</i>
 
@@ -457,6 +463,8 @@ Section 16 of the Securities Exchange Act of 1934, referred to in subsec. (e)(2)
 Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to section 2702(a)(1)(A) of Title 19, Customs Duties.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (n)(2)(D). Pub. L. 116–260 added subpar. (D).
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–97, §13304(c)(1)(A), substituted "recreation, or qualified transportation fringes" for "or recreation" in heading.
 
@@ -624,6 +632,10 @@ Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former s
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 limited subsec. (c) to individuals traveling outside the United States.
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title II, §210(b), Dec. 27, 2020, 134 Stat. 3066, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2020."
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13304(e), Dec. 22, 2017, 131 Stat. 2126, provided that:
@@ -678,7 +690,7 @@ Pub. L. 100–647, title VI, §6003(b), Nov. 10, 1988, 102 Stat. 3685, provided 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 122(c), (d) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 122(c), (d) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986,see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 142(a)–(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
@@ -760,7 +772,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Certain Recordkeeping Requirements
 

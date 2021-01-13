@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) no loan or other extension of credit may be made to any affiliate unless that affiliate is engaged only in activities described in section 1467a(c)(2)(F)(i) of this title; and
 
-&emsp;&emsp;(B) no savings association may enter into any transaction described in section 23A(b)(7)(B) of the Federal Reserve Act with any affiliate other than with respect to shares of a subsidiary.
+&emsp;&emsp;(B) no savings association may enter into any transaction described in section23A(b)(7)(B) of the Federal Reserve Act with any affiliate other than with respect to shares of a subsidiary.
 
 #### (2) Sister bank exemption made available to savings associations
 
@@ -62,6 +62,8 @@ The appropriate Federal banking agency may take enforcement action with respect 
 
 (June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 342; Pub. L. 102–242, title III, §306(i), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 103–325, title III, §316, Sept. 23, 1994, 108 Stat. 2223; Pub. L. 111–203, title III, §369(9), title VI, §608(c), July 21, 2010, 124 Stat. 1565, 1610.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Reserve Act, referred to in subsecs. (a)(1), (3) and (b)(1), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
@@ -93,6 +95,8 @@ Pub. L. 103–325, §316(a), added subpar. (C).
 <b>1989</b>—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (c) relating to affiliate transactions, extensions of credit, and administrative enforcement, for former undesignated paragraph relating to separability of provisions.
 
 <b>1934</b>—Act Apr. 27, 1934, reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

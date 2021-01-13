@@ -36,6 +36,8 @@ In subsection (a), the word "have" is substituted for "maintain" for consistency
 
 In subsection (b), the word "precedent" is omitted as unnecessary. The words "with the secretary of state or other designated official" are substituted for "in the Office of the Secretary of State, or similar officer" for consistency in the revised title. The words "post office" and "authorized" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–7, §13(1), in heading, substituted "In General" for "District of Columbia", and in text, substituted "FFA" for "corporation" wherever appearing and struck out "in the District of Columbia" before "to receive" and "Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia" before ". Notice".

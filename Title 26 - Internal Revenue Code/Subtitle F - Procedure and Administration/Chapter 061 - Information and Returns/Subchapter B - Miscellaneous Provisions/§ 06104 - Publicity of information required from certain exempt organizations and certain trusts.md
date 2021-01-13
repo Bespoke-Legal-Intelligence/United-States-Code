@@ -34,7 +34,7 @@
 
 &emsp;Section 6103(f) shall apply with respect to—
 
-&emsp;&emsp;(A) the application for exemption of any organization described in section 501(c) or (d) which is exempt from taxation under section 501(a) for any taxable year or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year, and any application referred to in subparagraph (B) of subsection (a)(1) of this section, and
+&emsp;&emsp;(A) the application for exemption of any organization described in section 501(c) or (d)which is exempt from taxation under section 501(a) for any taxable year or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year, and any application referred to in subparagraph (B) of subsection (a)(1) of this section, and
 
 &emsp;&emsp;(B) any other papers which are in the possession of the Secretary and which relate to such application,
 
@@ -80,7 +80,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 &emsp;&emsp;&emsp;(ii) the issuance of a letter of proposed deficiency of tax imposed under section 507 or chapter 41 or 42, and
 
-&emsp;&emsp;&emsp;(iii) the names, addresses, and taxpayer identification numbers of organizationswhich have applied for recognition as organizations described in section 501(c)(3).
+&emsp;&emsp;&emsp;(iii) the names, addresses, and taxpayer identification numbers of organizations which have applied for recognition as organizations described in section 501(c)(3).
 
 #### (B) Additional disclosures
 
@@ -166,7 +166,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 #### (B) Nondisclosure of certain other information
 
-&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretary withheld such information from public inspection under subsection (a)(1)(D).
+&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretarywithheld such information from public inspection under subsection (a)(1)(D).
 
 #### (4) Limitation on providing copies
 
@@ -226,7 +226,7 @@ Subsec. (d)(2). Pub. L. 107–276, §3(b)(2)(B), struck out "or section 6012(a)(
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–230, §1(b)(1)(B), inserted "or notice of status" after "exemption" in heading.
 
-Subsec. (a)(1)(A). Pub. L. 106–230, §1(b)(1)(A), in heading, inserted "or 527" after "section 501", in first sentence, inserted "or a political organization is exempt from taxation under section 527 for any taxable year" after "taxable year" and "or notice of status filed by the organization under section 527(i)" before ", together", in second sentence, inserted "or notice" after "any application", in last sentence, inserted "for exemption from taxation under section 501(a)" after "any organization", and inserted "or notice" after "such application", wherever appearing.
+Subsec. (a)(1)(A). Pub. L. 106–230, §1(b)(1)(A), in heading, inserted "or 527" after "section 501", in first sentence, inserted "or a political organization is exempt from taxation under section 527 for any taxable year" after "taxable year" and "or notice of status filed by the organization under section 527(i)" before", together", in second sentence, inserted "or notice" after "any application", in last sentence, inserted "for exemption from taxation under section 501(a)" after "any organization", and inserted "or notice" after "such application", wherever appearing.
 
 Subsec. (a)(2)(A). Pub. L. 106–230, §1(b)(3), inserted "or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year" after "taxable year".
 
@@ -394,7 +394,7 @@ Amendment by section 1307(d)(2)(B) of Pub. L. 94–455 applicable on and after O
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–406, title X, §1022(g)(4), Sept. 2, 1974, 88 Stat. 941, provided that: "The amendments made by this subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\]."
+Pub. L. 93–406, title X, §1022(g)(4), Sept. 2, 1974, 88 Stat. 941, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\]."
 
 #### Effective Date of 1969 Amendment
 

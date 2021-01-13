@@ -16,6 +16,8 @@ The Attorney General may promulgate such guidelines, regulations, and procedures
 
 (Pub. L. 90–351, title I, §2805, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2790.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3797n of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

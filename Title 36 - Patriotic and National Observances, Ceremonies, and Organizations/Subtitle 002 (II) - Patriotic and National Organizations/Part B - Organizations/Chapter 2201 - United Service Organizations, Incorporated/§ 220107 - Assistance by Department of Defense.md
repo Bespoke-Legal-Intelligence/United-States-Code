@@ -22,6 +22,8 @@ Dec. 29, 1979, Pub. L. 96–165, §8, 93 Stat. 1271.
 
 The words "Secretary of Defense" are substituted for "Department of Defense" the first time they appear because of 10:113(a). The words "in order to facilitate the accomplishment of the USO mission" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–375 inserted ", including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration," after "Department of Defense".

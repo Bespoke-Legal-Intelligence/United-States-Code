@@ -1,8 +1,10 @@
 ### §10236. District of Columbia matching fund source
 
-Funds appropriated by the Congress for the activities of any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia may be used toprovide the non-Federal share of the cost of programs or projects funded under this chapter.
+Funds appropriated by the Congress for the activities of any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia may be used to provide the non-Federal share of the cost of programs or projects funded under this chapter.
 
 (Pub. L. 90–351, title I, §817, formerly §824, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1214; renumbered §817, Pub. L. 98–473, title II, §609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

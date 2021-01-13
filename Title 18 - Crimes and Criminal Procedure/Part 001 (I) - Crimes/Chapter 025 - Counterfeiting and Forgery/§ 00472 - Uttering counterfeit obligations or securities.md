@@ -12,6 +12,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56 substituted "20 years" for "fifteen years".

@@ -10,13 +10,13 @@ There is authorized to be appropriated to the Secretary of Agriculture to carry 
 
 #### (c) Additional source of funds
 
-In addition to funds appropriated pursuant to the authorization of appropriations in subsection (b) for a fiscal year, the Secretary may use such amount of the funds appropriated for that fiscal year to carry out the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590a et seq.) as the Secretary determines necessary to cover the cost of technical assistance, management, and enforcement responsibilities for land enrolled in the healthy forests reserve program pursuant to subsections (a) and (b) of section 6574 of this title.
+In addition to funds appropriated pursuant to the authorization of appropriations in subsection (b) for a fiscal year, the Secretary may use such amount of the funds appropriated for that fiscal year to carry out the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590a et seq.) as the Secretary determines necessary to cover the cost of technical assistance, management, and enforcement responsibilities forland enrolled in the healthy forests reserve program pursuant to subsections (a) and (b) of section 6574 of this title.
 
 #### (d) Duration of availability
 
 The funds made available under subsection (a) shall remain available until expended.
 
-(Pub. L. 108–148, title V, §508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, §8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, §4(a), title VIII, §8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, §8203(b), Feb. 7,2014, 128 Stat. 915; Pub. L. 115–334, title VIII, §8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
+(Pub. L. 108–148, title V, §508, Dec. 3, 2003, 117 Stat. 1914; Pub. L. 110–234, title VIII, §8205(c), May 22, 2008, 122 Stat. 1295; Pub. L. 110–246, §4(a), title VIII, §8205(c), June 18, 2008, 122 Stat. 1664, 2057; Pub. L. 113–79, title VIII, §8203(b), Feb. 7, 2014, 128 Stat. 915; Pub. L. 115–334, title VIII, §8407(a)(8), Dec. 20, 2018, 132 Stat. 4846.)
 
 #### References in Text
 

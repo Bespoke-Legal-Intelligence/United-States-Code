@@ -22,6 +22,7 @@
 | [3315\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003315%20-%20Annual%20certification%20of%20controlled%20access%20programs.md) | Annual certification of controlled access programs. |
 | [3316\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003316%20-%20Submission%20of%20intelligence%20community%20policies.md) | Submission of intelligence community policies. |
 | [3316a.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003316a%20-%20Reports%20on%20intelligence%20community%20participation%20in%20vulnerabilities%20equities%20process%20of%20Federal%20Government.md) | Reports on intelligence community participation in vulnerabilities equities process of Federal Government. |
+| [3316b.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003316b%20-%20Continuity%20of%20operations%20plans%20for%20certain%20elements%20of%20the%20intelligence%20community%20in%20the%20case%20of%20a%20national%20emergency.md) | Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,6 +51,8 @@
 | [3334e.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334e%20-%20Enhanced%20procurement%20authority%20to%20manage%20supply%20chain%20risk.md) | Enhanced procurement authority to manage supply chain risk. |
 | [3334f.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334f%20-%20Congressional%20notification%20of%20designation%20of%20covered%20intelligence%20officer%20as%20persona%20non%20grata.md) | Congressional notification of designation of covered intelligence officer as persona non grata. |
 | [3334g.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334g%20-%20Reports%20on%20intelligence%20community%20loan%20repayment%20and%20related%20programs.md) | Reports on intelligence community loan repayment and related programs. |
+| [3334h.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334h%20-%20Data%20collection%20on%20attrition%20in%20intelligence%20community.md) | Data collection on attrition in intelligence community. |
+| [3334i.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003334i%20-%20Seedling%20investment%20in%20next-generation%20microelectronics%20in%20support%20of%20artificial%20intelligence.md) | Seedling investment in next-generation microelectronics in support of artificial intelligence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -107,7 +110,7 @@
 | [3366\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003366%20-%20Authorities%20of%20heads%20of%20other%20departments%20and%20agencies.md) | Authorities of heads of other departments and agencies. |
 | [3367\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003367%20-%20Requirement%20for%20efficient%20use%20by%20intelligence%20community%20of%20open-source%20intelligence.md) | Requirement for efficient use by intelligence community of open-source intelligence. |
 | [3368\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003368%20-%20Assistance%20for%20governmental%20entities%20and%20private%20entities%20in%20recognizing%20online%20violent%20extremist%20content.md) | Assistance for governmental entities and private entities in recognizing online violent extremist content. |
-| [3369\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369%20-%20Encouragement%20of%20cooperative%20actions%20to%20detect%20and%20counter%20foreign%20influence%20operations.md) | Encouragement of cooperative actions to detect and counter foreign influence operations. |
+| [3369\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369%20-%20Cooperative%20actions%20to%20detect%20and%20counter%20foreign%20influence%20operations.md) | Cooperative actions to detect and counter foreign influence operations. |
 | [3369a.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369a%20-%20Report%20on%20deepfake%20technology%2C%20foreign%20weaponization%20of%20deepfakes%2C%20and%20related%20notifications.md) | Report on deepfake technology, foreign weaponization of deepfakes, and related notifications. |
 | [3369b.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369b%20-%20Oversight%20of%20foreign%20influence%20in%20academia.md) | Oversight of foreign influence in academia. |
 | [3369c.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003369c%20-%20Notification%20of%20an%20active%20measures%20campaign.md) | Notification of an active measures campaign. |
@@ -119,6 +122,7 @@
 | [3371b.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371b%20-%20Information%20sharing%20with%20State%20election%20officials.md) | Information sharing with State election officials. |
 | [3371c.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371c%20-%20Notification%20of%20significant%20foreign%20cyber%20intrusions%20and%20active%20measures%20campaigns%20directed%20at%20elections%20for%20Federal%20offices.md) | Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices. |
 | [3371d.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003371d%20-%20Designation%20of%20counterintelligence%20officer%20to%20lead%20election%20security%20matters.md) | Designation of counterintelligence officer to lead election security matters. |
+| [3372\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003372%20-%20Monitoring%20mineral%20investments%20under%20Belt%20and%20Road%20Initiative%20of%20People%27s%20Republic%20of%20China.md) | Monitoring mineral investments under Belt and Road Initiative of People's Republic of China. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

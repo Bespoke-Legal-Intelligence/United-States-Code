@@ -18,7 +18,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;&emsp;(C) provide that in approving any economic adjustment program the Fund shall take into account the number of countries applying to the Fund for economic adjustment programs and the aggregate effects that such programs will have on international economic growth, world trade, exports and employment of other member countries, and the long-term solvency of banks; and
 
-&emsp;(2) except as provided in subsection (c) of this section, the United States Executive Director of the Fund shall oppose and vote against providing assistance from the Fund for any economic adjustment program for a country in which the annual external debt serviceexceeds 85 per centum of the annual export earnings of such country, unless the Secretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
+&emsp;(2) except as provided in subsection (c) of this section, the United States Executive Director of the Fund shall oppose and vote against providing assistance from the Fund for any economic adjustment program for a country in which the annual external debt service exceeds 85 per centum of the annual export earnings of such country, unless the Secretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
 
 &emsp;&emsp;(A) the economic adjustment program converts high interest rate, short-term bank debt into long-term debt at significantly narrower interest rate spreads than the average interest rate spreads prevailing on bank debt reschedulings negotiated between August 1982 and August 1983 for countries receiving assistance from the Fund for economic adjustment programs in order to minimize the burdens of adjustment on the debtor nation, provided that such interest rate spreads are consistent with that nation's need to obtain adequate external private financing;
 
@@ -37,6 +37,8 @@ The provisions of subsection (b)(2) shall not apply in any case in which the Sec
 &emsp;(3) other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2).
 
 (July 31, 1945, ch. 339, §45, as added Pub. L. 98–181, title I \[title VIII, §806\], Nov. 30, 1983, 97 Stat. 1272.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

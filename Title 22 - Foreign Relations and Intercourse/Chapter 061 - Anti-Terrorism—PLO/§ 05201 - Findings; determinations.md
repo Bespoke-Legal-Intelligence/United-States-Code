@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) Middle East terrorism accounted for 60 percent of total international terrorism in 1985;
 
-&emsp;(2) the Palestine Liberation Organization (hereafter in this chapter referred to as the"PLO") was directly responsible for the murder of an American citizen on the Achille Lauro cruise liner in 1985, and a member of the PLO's Executive Committee is under indictment in the United States for the murder of that American citizen;
+&emsp;(2) the Palestine Liberation Organization (hereafter in this chapter referred to as the "PLO") was directly responsible for the murder of an American citizen on the Achille Lauro cruise liner in 1985, and a member of the PLO's Executive Committee is under indictment in the United States for the murder of that American citizen;
 
 &emsp;(3) the head of the PLO has been implicated in the murder of a United States Ambassador overseas;
 
@@ -23,6 +23,8 @@ The Congress finds that—
 Therefore, the Congress determines that the PLO and its affiliates are a terrorist organization and a threat to the interests of the United States, its allies, and to international law and should not benefit from operating in the United States.
 
 (Pub. L. 100–204, title X, §1002, Dec. 22, 1987, 101 Stat. 1406.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date and Termination
 

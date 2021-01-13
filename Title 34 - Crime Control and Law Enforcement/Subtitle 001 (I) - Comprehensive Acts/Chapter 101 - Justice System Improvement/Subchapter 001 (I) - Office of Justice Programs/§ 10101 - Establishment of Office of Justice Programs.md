@@ -4,6 +4,8 @@ There is hereby established an Office of Justice Programs within the Department 
 
 (Pub. L. 90–351, title I, §101, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2077.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -18,6 +20,8 @@ A prior section 101 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 
 Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 91–644, title I, §2, Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §§102, 103, Oct. 15, 1976, 90 Stat. 2407, established Law Enforcement Assistance Administration and Office of Community Anti-Crime Programs, prior to the general amendment of this chapter by Pub. L. 96–157.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that:
@@ -27,6 +31,18 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 "(b)(1) The amendment made by section 609F \[amending sections 10281, 10282, 10284, and 10285 of this title\] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under section 10281 of this title\] shall take effect on October 1, 1984."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–281, §1, Dec. 31, 2020, 134 Stat. 3381, provided that: "This Act \[enacting subchapter XLI of this chapter\] may be cited as the 'Crisis Stabilization and Community Reentry Act of 2020'."
+
+Pub. L. 116–277, §1, Dec. 31, 2020, 134 Stat. 3368, provided that: "This Act \[enacting sections 40501, 40503, and 40505 of this title and section 224 of Title 6, Domestic Security, amending section 40502 of this title and section 211 of Title 6, repealing sections 40501 and 40503 of this title, and amending provisions set out as a note under section 40504 of this title\] may be cited as the 'Missing Persons and Unidentified Remains Act of 2019'."
+
+Pub. L. 116–252, §1, Dec. 22, 2020, 134 Stat. 1133, provided that: "This Act \[amending section 21711 of this title and enacting provisions set out as notes under section 21711 of this title\] may be cited as the 'Promoting Alzheimer's Awareness to Prevent Elder Abuse Act'."
+
+Pub. L. 116–153, §1, Aug. 8, 2020, 134 Stat. 688, provided that: "This Act \[enacting section 10651a of this title\] may be cited as the 'Veteran Treatment Court Coordination Act of 2019'."
+
+Pub. L. 116–143, §1, June 16, 2020, 134 Stat. 644, provided that: "This Act \[enacting chapter 507 of this title\] may be cited as the 'Law Enforcement Suicide Data Collection Act'."
 
 #### Short Title of 2019 Amendment
 
@@ -122,7 +138,7 @@ Pub. L. 113–163, §1, Aug. 8, 2014, 128 Stat. 1864, provided that: "This Act \
 
 #### Short Title of 2013 Act
 
-Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \[enacting section 11296 of this title andamending sections 11291, 11293, 11294, and 11297 of this title\] may be cited as the 'E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013'."
+Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \[enacting section 11296 of this title and amending sections 11291, 11293, 11294, and 11297 of this title\] may be cited as the 'E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013'."
 
 Pub. L. 113–4, §1, Mar. 7, 2013, 127 Stat. 54, provided that: "This Act \[see Tables for classification\] may be cited as the 'Violence Against Women Reauthorization Act of 2013'."
 
@@ -166,7 +182,7 @@ Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that
 
 Pub. L. 110–298, §1, July 31, 2008, 122 Stat. 2985, provided that: "This Act \[enacting chapter 503 of this title\] may be cited as the 'Law Enforcement Congressional Badge of Bravery Act of 2008'."
 
-Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2008'."
+Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, providedthat: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2008'."
 
 Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: "This Act \[amending sections 11291, 11293, and 11297 of this title and repealing section 5776a of Title 42, The Public Health and Welfare\] may be cited as the 'Protecting Our Children Comes First Act of 2007'."
 
@@ -196,7 +212,7 @@ Pub. L. 109–162, title X, §1001, Jan. 5, 2006, 119 Stat. 3084, provided that:
 
 #### Short Title of 2004 Act
 
-Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: "This Act \[enacting subchapter XXXIII ofthis chapter and provisions set out as notes under section 10651 of this title\] may be cited as the 'Mentally Ill Offender Treatment and Crime Reduction Act of 2004'."
+Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: "This Act \[enacting subchapter XXXIII of this chapter and provisions set out as notes under section 10651 of this title\] may be cited as the 'Mentally Ill Offender Treatment and Crime Reduction Act of 2004'."
 
 Pub. L. 108–405, §1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for All Act of 2004'."
 
@@ -264,7 +280,7 @@ Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that:
 
 Pub. L. 105–251, title II, §211, Oct. 9, 1998, 112 Stat. 1874, provided that: "This subtitle \[subtitle A (§§211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title\] may be cited as the 'National Crime Prevention and Privacy Compact Act of 1998'."
 
-Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: "This subtitle \[subtitle B (§§221,222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title\] may be cited as the 'Volunteers for Children Act'."
+Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: "This subtitle \[subtitle B (§§221, 222) of title II of Pub. L. 105–251, amending sections 40102 and 40103 of this title\] may be cited as the 'Volunteers for Children Act'."
 
 Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: "This Act \[enacting subchapter XXIV of this chapter, amending sections 10261 and 10541 of this title, and enacting provisions set out as a note under section 10531 of this title\] may be cited as the 'Bulletproof Vest Partnership Grant Act of 1998'."
 
@@ -330,7 +346,7 @@ Pub. L. 98–473, title II, §601, Oct. 12, 1984, 98 Stat. 2077, provided that: 
 
 Pub. L. 98–473, title II, §610, Oct. 12, 1984, 98 Stat. 2107, provided that: "This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Juvenile Justice, Runaway Youth, and Missing Children's Act Amendments of 1984'."
 
-Pub. L. 98–473, title II, §1401, Oct. 12, 1984, 98 Stat. 2170, provided that: "This chapter \[chapter XIV\(§§1401–1411) of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Victims of Crime Act of 1984'."
+Pub. L. 98–473, title II, §1401, Oct. 12, 1984, 98 Stat. 2170, provided that: "This chapter \[chapter XIV (§§1401–1411) of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the 'Victims of Crime Act of 1984'."
 
 #### Short Title of 1980 Act
 

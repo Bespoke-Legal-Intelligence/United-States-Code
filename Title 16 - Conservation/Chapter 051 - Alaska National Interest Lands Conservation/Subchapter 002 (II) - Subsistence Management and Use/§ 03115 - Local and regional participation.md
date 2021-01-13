@@ -16,7 +16,7 @@ Except as otherwise provided in subsection (d) of this section, the Secretary in
 
 &emsp;(B) the provision of a forum for the expression of opinions and recommendations by persons interested in any matter related to subsistence uses of fish and wildlife within the region;
 
-&emsp;(C) the encouragement of local and regional participation pursuant to the provisions of this subchapter in the decisionmaking process affecting the taking of fish and wildlife on thepublic lands within the region for subsistence uses;
+&emsp;(C) the encouragement of local and regional participation pursuant to the provisions of this subchapter in the decisionmaking process affecting the taking of fish and wildlife on the public lands within the region for subsistence uses;
 
 &emsp;(D) the preparation of an annual report to the Secretary which shall contain—
 

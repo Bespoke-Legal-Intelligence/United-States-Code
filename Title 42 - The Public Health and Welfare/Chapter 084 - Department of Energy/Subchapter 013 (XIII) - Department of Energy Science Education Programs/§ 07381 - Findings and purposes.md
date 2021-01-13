@@ -42,5 +42,5 @@ Pub. L. 101–510, div. C, title XXXI, §3161, Nov. 5, 1990, 104 Stat. 1840, pro
 
 #### University-Based Research Collaboration Program
 
-Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under this section, was renumbered section 4814 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(9)(A)–(C), Nov. 24, 2003, 117 Stat.1785, and is classified to section 2795 of Title 50, War and National Defense.
+Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under this section, was renumbered section 4814 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(9)(A)–(C), Nov. 24, 2003, 117 Stat. 1785, and is classified to section 2795 of Title 50, War and National Defense.
 

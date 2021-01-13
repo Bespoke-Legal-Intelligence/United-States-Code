@@ -16,7 +16,7 @@ For purposes of the protection set forth in section 11111(a) of this title, a pr
 
 #### (b) Adequate notice and hearing
 
-A health care entity is deemed to have met the adequate notice and hearing requirement ofsubsection (a)(3) with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
+A health care entity is deemed to have met the adequate notice and hearing requirement of subsection (a)(3) with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
 
 #### (1) Notice of proposed action
 

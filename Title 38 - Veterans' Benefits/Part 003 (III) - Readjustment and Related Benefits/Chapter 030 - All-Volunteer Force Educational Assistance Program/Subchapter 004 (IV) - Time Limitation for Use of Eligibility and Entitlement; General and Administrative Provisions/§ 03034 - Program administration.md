@@ -6,7 +6,7 @@
 
 (3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
 
-(b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
+(b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform forthe Armed Forces under the jurisdiction of the Secretary of a military department.
 
 (c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
 
@@ -27,6 +27,8 @@
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -88,6 +90,8 @@ Subsec. (b). Pub. L. 99–576, §305, amended subsec. (b) generally. Prior to am
 
 Subsecs. (c), (d). Pub. L. 99–576, §302, added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–377, title II, §203(e), Jan. 4, 2011, 124 Stat. 4126, provided that: "The amendments made by this section \[amending this section and sections 3671 to 3673, 3675, 3679, and 3689 of this title\] shall take effect on August 1, 2011."
@@ -120,7 +124,7 @@ Pub. L. 101–366, title II, §206(b), Aug. 15, 1990, 104 Stat. 442, provided th
 
 #### Continued Use of Categories of Information Used Prior to December 18, 1989
 
-Pub. L. 101–237, title IV, §413(b), Dec. 18, 1989, 103 Stat. 2085, provided that: "Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if theSecretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations."
+Pub. L. 101–237, title IV, §413(b), Dec. 18, 1989, 103 Stat. 2085, provided that: "Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if the Secretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations."
 
 #### Evaluation of Providing Assistance for Flight Training
 

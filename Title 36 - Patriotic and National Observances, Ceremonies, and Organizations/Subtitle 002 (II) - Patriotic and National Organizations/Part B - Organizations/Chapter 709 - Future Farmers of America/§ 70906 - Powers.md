@@ -2,7 +2,7 @@
 
 The FFA may—
 
-&emsp;(1) adopt and amend bylaws and regulations for the management of its property and the regulation of its affairs, including the establishment and maintenance of local chapters and State associations of chapters;
+&emsp;(1) adopt and amend bylaws and regulations for the management of its property and theregulation of its affairs, including the establishment and maintenance of local chapters and State associations of chapters;
 
 &emsp;(2) adopt and alter a seal;
 
@@ -67,6 +67,8 @@ In clause (8), the words "to carry out the purposes of the corporation" are subs
 In clause (11), the words "complain, and defend in any court of competent jurisdiction" are omitted as unnecessary.
 
 In clause (12), the words "any other act" are substituted for "any and all acts and things" for consistency in the revised title and to eliminate unnecessary words. The word "objects" is omitted as included in "purposes".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

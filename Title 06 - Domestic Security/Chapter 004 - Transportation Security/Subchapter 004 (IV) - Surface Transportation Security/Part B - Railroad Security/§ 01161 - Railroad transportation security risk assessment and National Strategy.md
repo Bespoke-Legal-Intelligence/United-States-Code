@@ -100,6 +100,8 @@ Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, 
 
 (Pub. L. 110–53, title XV, §1511, Aug. 3, 2007, 121 Stat. 426.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.

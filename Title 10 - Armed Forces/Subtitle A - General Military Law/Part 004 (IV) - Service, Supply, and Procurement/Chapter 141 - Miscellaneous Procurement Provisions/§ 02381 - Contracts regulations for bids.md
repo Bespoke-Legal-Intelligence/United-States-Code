@@ -6,7 +6,7 @@
 
 &emsp;(2) require that a bid be accompanied by a written guaranty, signed by one or more responsible persons, undertaking that the bidder, if his bid is accepted, will, within the time prescribed by the Secretary or other officer authorized to make the contract, make a contract and furnish a bond with good and sufficient sureties for the performance of the contract.
 
-(b) If a bidder, after being notified of the acceptance of his bid, fails within the time prescribed under subsection (a)(2) to enter into acontract and furnish the prescribed bond, the Secretary concerned or other authorized officer shall—
+(b) If a bidder, after being notified of the acceptance of his bid, fails within the time prescribed under subsection (a)(2) to enter into a contract and furnish the prescribed bond, the Secretary concerned or other authorized officer shall—
 
 &emsp;(1) contract with another person; and
 
@@ -15,6 +15,10 @@
 (c) Proceedings under this section are subject to regulations under section 121 of title 40, unless exempted therefrom under section 501(a)(2) of title 40.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 136; Pub. L. 98–525, title XIV, §1405(35), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 103–355, title I, §1507, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 107–217, §3(b)(6), Aug. 21, 2002, 116 Stat. 1295.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1813(e), Jan. 1, 2021, 134 Stat. 4151, 4181, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, as added by section 1813 of Pub. L. 116–283, inserted after section 3243, as transferred and redesignated by section 1813(d) of Pub. L. 116–283, and redesignated as section 3247 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -69,4 +73,8 @@ In subsection (c), the words "Proceedings under this section are" are inserted f
 &emsp;"(1) prescribe regulations for the preparation, submission, and opening of bids for contracts with that department; and".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40" and "section 201(a) of that Act (40 U.S.C. 481(a))" for "section 481(a) of this title".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

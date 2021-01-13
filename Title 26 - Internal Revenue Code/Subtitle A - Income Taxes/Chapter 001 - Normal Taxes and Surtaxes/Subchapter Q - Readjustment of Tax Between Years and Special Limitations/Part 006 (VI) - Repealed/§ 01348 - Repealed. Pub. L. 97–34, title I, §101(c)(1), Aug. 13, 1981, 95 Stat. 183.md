@@ -4,7 +4,7 @@ Section, added Pub. L. 91–172, title VIII, §804(a), Dec. 30, 1969, 83 Stat. 6
 
 #### Effective Date of Repeal
 
-Repeal effective for taxable years beginning after Dec. 31, 1981, see section 101(f)(1) of Pub. L. 97–34, setout as an Effective Date of 1981 Amendment note under section 1 of this title.
+Repeal effective for taxable years beginning after Dec. 31, 1981, see section 101(f)(1) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 1 of this title.
 
 #### Transitional Rule in Case of Taxable Year Beginning Before Nov. 1, 1978, and Ending After Oct. 31, 1978
 

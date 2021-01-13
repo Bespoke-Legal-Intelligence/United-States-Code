@@ -10,6 +10,8 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 (Added Pub. L. 107–204, title VIII, §807(a), July 30, 2002, 116 Stat. 804; amended Pub. L. 111–21, §2(e)(1), May 20, 2009, 123 Stat. 1618.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–21, §2(e)(1)(A), inserted "and commodities" before "fraud" in section catchline.

@@ -8,7 +8,7 @@ Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law
 
 Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary of Defense may use the proceeds from the adjustments or surcharges authorized by subsection (a) only—
 
-&emsp;(A) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and centralproduct processing facilities of the defense commissary system; and
+&emsp;(A) to acquire (including acquisition by lease), construct, convert, expand, improve,repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 
 &emsp;(B) to cover environmental evaluation and construction costs related to activities described in paragraph (1), including costs for surveys, administration, overhead, planning, and design.
 

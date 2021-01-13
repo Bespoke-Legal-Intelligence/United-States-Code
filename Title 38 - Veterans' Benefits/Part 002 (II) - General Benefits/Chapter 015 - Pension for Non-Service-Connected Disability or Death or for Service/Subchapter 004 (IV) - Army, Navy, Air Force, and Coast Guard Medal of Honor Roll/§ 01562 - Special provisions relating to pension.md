@@ -1,16 +1,26 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+(a)(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate of $1,388.68, as adjusted from time to time under subsection (e), beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+
+(2)(A) Except as provided in subparagraphs (B) and (C), the Secretary shall pay special pension under this section to the surviving spouse of a person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll and a copy of whose certificate has been delivered to the Secretary under section 1134a(d) of title 10.
+
+(B) No special pension shall be paid to a surviving spouse of a person under this section unless such surviving spouse was married to such person—
+
+&emsp;(i) for one year or more prior to the veteran's death; or
+
+&emsp;(ii) for any period of time if a child was born of the marriage, or was born to them before the marriage.
+
+(C) No special pension shall be paid to a surviving spouse of a person under this section if such surviving spouse is receiving benefits under section 1311 or 1318 of this title.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
 (c) Special pension shall not be subject to any attachment, execution, levy, tax lien, or detention under any process whatever.
 
-(d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
+(d) If any person has been awarded more than one medal of honor, or married to more than one person who has been awarded a medal of honor, such person shall not receive more than one special pension.
 
 (e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
 
-(f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
+(f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
 
 (2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
 
@@ -18,7 +28,9 @@
 
 (2) Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, §304(a)–(c), Dec. 6, 2002, 116 Stat.2826; Pub. L. 113–66, div. A, title V, §563(b), Dec. 26, 2013, 127 Stat. 767.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, §304(a)–(c), Dec. 6, 2002, 116 Stat. 2826; Pub. L. 113–66, div. A, title V, §563(b), Dec. 26, 2013, 127 Stat. 767; Pub. L. 116–315, title II, §2003(a)–(b)(2)(A), Jan. 5, 2021, 134 Stat. 4969, 4970.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,7 +38,7 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, §4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50.
+Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, §4(37), Oct. 12, 1982, 96 Stat.1307; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50.
 
 Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, §1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, §7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
 
@@ -110,7 +122,7 @@ Prior section 1672, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, rela
 
 Prior section 1675, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
 
-Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub.L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
+Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
 
 Prior section 1678, added Pub. L. 90–77, title III, §306(a), Aug. 31, 1967, 81 Stat. 188, related to special training for educationally disadvantaged, prior to repeal by Pub. L. 91–219, title II, §204(a)(2), Mar. 26, 1970, 84 Stat. 79. See subchapter V of chapter 34 of this title.
 
@@ -150,6 +162,14 @@ Prior section 1700, which comprised the first section of chapter 35, was renumbe
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–315, §2003(b)(1), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 116–315, §2003(a), substituted "$1,388.68" for "$1,000".
+
+Subsec. (d). Pub. L. 116–315, §2003(b)(2)(A)(i), inserted "or married to more than one person who has been awarded a medal of honor," after "more than one medal of honor,".
+
+Subsec. (f)(1). Pub. L. 116–315, §2003(b)(2)(A)(ii), substituted "paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll," for "this section".
+
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §563(b)(1), substituted "each living person" for "each person", "Honor Roll, and" for "Honor roll, and", "subsection (d) of section 1134a of title 10" for "subsection (c) of section 1561 of this title", and "date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section" for "date of application therefor under section 1560 of this title".
 
 Subsec. (g). Pub. L. 113–66, §563(b)(2), added subsec. (g).
@@ -180,6 +200,12 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted "such person" for "h
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–138 inserted ", and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title," after "Medal of Honor roll", and increased pension from $10 to $100.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 2003(b)(1), (2)(A) of Pub. L. 116–315 applicable with respect to payment of pension under this section for months beginning after Jan. 5, 2021, see section 2003(b)(3) of Pub. L. 116–315, set out as a note under section 103 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–66 applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see section 563(d) of Pub. L. 113–66, set out as an Effective Date note under section 1134a of Title 10, Armed Forces.
@@ -188,7 +214,7 @@ Amendment by Pub. L. 113–66 applicable with respect to Medals of Honor awarded
 
 Pub. L. 107–330, title III, §304(d), Dec. 6, 2002, 116 Stat. 2826, provided that:
 
-"(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending thissection\] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
+"(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
 
 "(2) The Secretary of Veterans Affairs shall not make any adjustment under subsection (e) of section 1562 of title 38, United States Code, as added by subsection (b) of this section, in 2003."
 

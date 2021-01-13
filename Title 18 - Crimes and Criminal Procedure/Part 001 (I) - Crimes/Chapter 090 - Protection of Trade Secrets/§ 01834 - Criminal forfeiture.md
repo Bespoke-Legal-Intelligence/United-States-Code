@@ -4,6 +4,8 @@ Forfeiture, destruction, and restitution relating to this chapter shall be subje
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 110–403, title II, §207, Oct. 13, 2008, 122 Stat. 4263.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–403 amended section generally. Prior to amendment, section related to forfeiture of property either derived from or used to commit a violation of this chapter.

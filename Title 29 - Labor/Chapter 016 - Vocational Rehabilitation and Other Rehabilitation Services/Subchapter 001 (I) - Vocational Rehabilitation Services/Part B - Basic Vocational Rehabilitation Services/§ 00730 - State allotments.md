@@ -14,7 +14,7 @@
 
 (B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>2</sup> of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
-&emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the squareof its allotment percentage bears to the sum of the corresponding products for all the States; and
+&emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
 
 &emsp;(ii) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
 
@@ -42,6 +42,8 @@
 
 (Pub. L. 93–112, title I, §110, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §419, July 22, 2014, 128 Stat. 1656.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 720(b)(1)(A) of this title, referred to in subsec. (a)(2)(B), means section 720(b)(1)(A) prior to the general amendment of section 720(b) by Pub. L. 102–569, title I, §121(b)(1), Oct. 29, 1992, 106 Stat. 4367, which restated subsec. (b)(1) without a subpar. (A). Section 720 was subsequently omitted, and a new section 720 added, in the general amendment of this subchapter by Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1116.
@@ -61,6 +63,8 @@ Subsec. (c)(2). Pub. L. 113–128, §419(2)(B), substituted "Secretary," for "Se
 Subsec. (d). Pub. L. 113–128, §419(3), added subsec. (d).
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

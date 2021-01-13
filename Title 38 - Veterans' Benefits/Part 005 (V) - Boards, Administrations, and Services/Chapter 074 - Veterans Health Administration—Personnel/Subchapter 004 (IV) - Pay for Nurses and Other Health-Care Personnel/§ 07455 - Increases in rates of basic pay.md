@@ -48,6 +48,8 @@
 
 (Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, §2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, §201, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, §203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, §601(l), May 5, 2010, 124 Stat. 1172.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -72,6 +74,8 @@ Pub. L. 102–405, §201, designated existing provisions as par. (1), inserted "
 
 <b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–83 substituted "902" for "218".
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12797. Review of Increases in Rates of Basic Pay for Certain Employees of Department of Veterans Affairs and Other Agencies
 
 Ex. Ord. No. 12797, Apr. 3, 1992, 57 F.R. 11671, provided:
@@ -92,7 +96,7 @@ Sec. 3. The Secretary of Veterans Affairs shall provide to the Director of the O
 
 Sec. 4. The Director of the Office of Personnel Management shall provide the Secretary of Veterans Affairs with a copy of any written statement provided to the appropriate committees of the Congress that sets forth the reasons for disapproval of any proposed increase in rates of basic pay under this order.
 
-Sec. 5. In the case of any other law authorizing another agency to use the authority provided by section 7455 of title 38, United States Code, the Director of the Office of Personnel Management shall exercise the same authority in the same manner as provided for with respect to section 7455 under sections 1 through 4of this order, and the head of such other agency shall provide information requested by the Director as provided for in section 3 of this order.
+Sec. 5. In the case of any other law authorizing another agency to use the authority provided by section 7455 of title 38, United States Code, the Director of the Office of Personnel Management shall exercise the same authority in the same manner as provided for with respect to section 7455 under sections 1 through 4 of this order, and the head of such other agency shall provide information requested by the Director as provided for in section 3 of this order.
 
 Sec. 6. Executive Order No. 12438 of August 23, 1983, is revoked.
 

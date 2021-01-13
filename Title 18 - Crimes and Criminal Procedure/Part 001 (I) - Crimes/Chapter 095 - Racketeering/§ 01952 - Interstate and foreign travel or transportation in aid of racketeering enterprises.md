@@ -14,7 +14,7 @@
 
 &emsp;(B) an act described in paragraph (2) shall be fined under this title, imprisoned for not more than 20 years, or both, and if death results shall be imprisoned for any term of years or for life.
 
-(b) As used in this section (i) "unlawful activity" means (1) any business enterprise involving gambling, liquor on which the Federal excise tax has not been paid, narcotics or controlled substances (as defined in section 102(6) of the Controlled Substances Act), or prostitution offenses in violation of the laws of the State in which they are committed or of the United States, (2) extortion, bribery, or arson in violation of the laws of the State in which committed or of the United States, or (3) any act which is indictable under subchapter II of chapter 53 of title 31, United States Code, or under section 1956 or 1957 of this title and (ii) the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(b) As used in this section (i) "unlawful activity" means (1) any business enterprise involving gambling, liquor on which the Federal excise tax has not been paid, narcotics or controlled substances (as defined in section 102(6) of the Controlled Substances Act), or prostitution offenses in violation of the laws of the State in which they are committed or of the United States, (2) extortion, bribery, or arson in violation of the laws of the State in which committed or of the United States, or (3) any act which is indictableunder subchapter II of chapter 53 of title 31, United States Code, or under section 1956 or 1957 of this title and (ii) the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (c) Investigations of violations under this section involving liquor shall be conducted under the supervision of the Attorney General.
 
@@ -31,6 +31,8 @@
 &emsp;(C) the term "savings promotion raffle" means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
 
 (Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 112–186, §4(b)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 113–251, §5(1), Dec. 18, 2014, 128 Stat. 2890.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Subsec. (b). Pub. L. 101–647, §1205(i), inserted "(i)" after "As used in this
 Subsec. (c). Pub. L. 91–513, §701(i)(2)(B), struck out reference to investigations involving narcotics.
 
 <b>1965</b>—Subsec. (b)(2). Pub. L. 89–68 made section applicable to travel in aid of arson.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

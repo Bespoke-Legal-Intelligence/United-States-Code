@@ -4,6 +4,8 @@ In fiscal year 2004 and thereafter, funds appropriated in this account shall be 
 
 (Pub. L. 108–90, title IV, Oct. 1, 2003, 117 Stat. 1151.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 "Funds appropriated in this account", and "this appropriation", referred to in text, mean funds appropriated under the headings "

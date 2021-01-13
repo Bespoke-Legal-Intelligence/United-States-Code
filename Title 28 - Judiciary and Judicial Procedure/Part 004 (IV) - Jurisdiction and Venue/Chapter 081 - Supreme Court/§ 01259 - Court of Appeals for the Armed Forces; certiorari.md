@@ -12,13 +12,17 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 (Added Pub. L. 98–209, §10(a)(1), Dec. 6, 1983, 97 Stat. 1405; amended Pub. L. 101–189, div. A, title XIII, §1304(b)(3), Nov. 29, 1989, 103 Stat. 1577; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), (2)(A), Oct. 5, 1994, 108 Stat. 2832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in section catchline and wherever appearing in text.
 
 <b>1989</b>—Pub. L. 101–189 substituted "section 867(a)(1)" for "section 867(b)(1)" in par. (1), "section 867(a)(2)" for "section 867(b)(2)" in par. (2), and "section 867(a)(3)" for "section 867(b)(3)" in par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on the first day of the eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under section 801 of Title 10, Armed Forces.
+Section effective on the first day of the eighth calendar month beginning after Dec. 6, 1983, see section12(a)(1) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under section 801 of Title 10, Armed Forces.
 

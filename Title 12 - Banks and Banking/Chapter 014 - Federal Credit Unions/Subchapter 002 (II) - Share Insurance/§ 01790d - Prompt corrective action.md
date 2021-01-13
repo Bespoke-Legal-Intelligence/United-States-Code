@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to regulations under paragraph (1), the Board shall, by regulation, prescribea system of prompt corrective action that shall apply to new credit unions in lieu of this section and the regulations prescribed under paragraph (1).
+&emsp;&emsp;In addition to regulations under paragraph (1), the Board shall, by regulation, prescribe a system of prompt corrective action that shall apply to new credit unions in lieu of this section and the regulations prescribed under paragraph (1).
 
 #### (B) Criteria for alternative system
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) have more than $10,000,000 in total assets;
 
-&emsp;&emsp;&emsp;(iv) to impose appropriate restrictions and requirements on new credit unions that do not make sufficient progress toward becoming adequately capitalized; and
+&emsp;&emsp;&emsp;(iv) to impose appropriate restrictions and requirements on new credit unionsthat do not make sufficient progress toward becoming adequately capitalized; and
 
 &emsp;&emsp;&emsp;(v) to prevent evasion of the purpose of this section.
 
@@ -138,7 +138,7 @@
 
 #### (1) In general
 
-&emsp;An insured credit union that is not well capitalized shall annually set aside as net worthan amount equal to not less than 0.4 percent of its total assets.
+&emsp;An insured credit union that is not well capitalized shall annually set aside as net worth an amount equal to not less than 0.4 percent of its total assets.
 
 #### (2) Board's authority to decrease earnings-retention requirement
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;Each insured credit union that is undercapitalized shall submit an acceptable net worth restoration plan to the Board within the time allowed under this subsection.
+&emsp;Each insured credit union that is undercapitalized shall submit an acceptable networth restoration plan to the Board within the time allowed under this subsection.
 
 #### (2) Assistance to small credit unions
 
@@ -244,7 +244,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;&emsp;(i) the Board determines that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the insured credit union has been in substantial compliance with an approved net worth restoration plan that requires consistent improvement in the net worth of the credit union since the date of the approval of the plan; and
+&emsp;&emsp;&emsp;&emsp;(I) the insured credit union has been in substantial compliance with an approved net worth restoration plan that requiresconsistent improvement in the net worth of the credit union since the date of the approval of the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the insured credit union has positive net income or has an upward trend in earnings that the Board projects as sustainable; and
 
@@ -328,7 +328,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;The Inspector General of the Board shall—
 
-&emsp;&emsp;&emsp;(i) submit each report required under subparagraph (A) expeditiously, and notlater than 90 days after the end of the 6-month period covered by the report; and
+&emsp;&emsp;&emsp;(i) submit each report required under subparagraph (A) expeditiously, and not later than 90 days after the end of the 6-month period covered by the report; and
 
 &emsp;&emsp;&emsp;(ii) provide a copy of the report required under subparagraph (A) to any Member of Congress, upon request.
 
@@ -430,6 +430,8 @@ For purposes of this section the following definitions shall apply:
 
 (June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, §988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, §3, Jan. 4, 2011, 124 Stat. 4135.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -455,6 +457,8 @@ Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A
 <b>2006</b>—Subsec. (n). Pub. L. 109–351, §726(25), inserted "any action" before "that is required".
 
 Subsec. (o)(2)(A). Pub. L. 109–351, §504, inserted "the" before "retained earnings balance" and ", together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined" before semicolon.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

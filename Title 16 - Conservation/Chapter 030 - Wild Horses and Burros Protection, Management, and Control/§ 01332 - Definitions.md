@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(a) "Secretary" means the Secretary of the Interior when used in connection with public lands administered by him through the Bureau of Land Management and the Secretary of Agriculture in connection with public lands administered by him through the Forest Service;
 
-&emsp;(b) "wild free-roaming horses and burros" means all unbranded and unclaimed horsesand burros on public lands of the United States;
+&emsp;(b) "wild free-roaming horses and burros" means all unbranded and unclaimed horses and burros on public lands of the United States;
 
 &emsp;(c) "range" means the amount of land necessary to sustain an existing herd or herds of wild free-roaming horses and burros, which does not exceed their known territorial limits, and which is devoted principally but not necessarily exclusively to their welfare in keeping with the multiple-use management concept for the public lands;
 

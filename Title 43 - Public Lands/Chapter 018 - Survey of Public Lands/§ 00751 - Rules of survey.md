@@ -1,6 +1,6 @@
 ### §751. Rules of survey
 
-The public lands shall be divided by north and south lines run according to the true meridian, and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
+The public lands shall be divided by north and south lines run according to the true meridian,and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
 
 Second. The corners of the townships must be marked with progressive numbers from the beginning; each distance of a mile between such corners must be also distinctly marked with marks different from those of the corners.
 
@@ -18,6 +18,8 @@ Eighth. These field books shall be returned to the Secretary of the Interior or 
 
 (R.S. §2395; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Apr. 29, 1950, ch. 134, §1, 64 Stat. 92.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2395 derived from acts May 18, 1796, ch. 29, §2, 1 Stat. 465; May 10, 1800, ch. 55, §3, 2 Stat. 73; Mar. 3, 1877, ch. 105, 19 Stat. 348.
@@ -26,11 +28,9 @@ R.S. §2395 derived from acts May 18, 1796, ch. 29, §2, 1 Stat. 465; May 10, 18
 
 <b>1950</b>—Par. Third. Act Apr. 29, 1950, struck out provision that sections 1 mile square in townships be established by running survey lines 2 miles apart.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
-
-In par. "Eighth", reference to "United States Supervisor of Surveys," changed to "Secretary of the Interior or such officer as he may designate,"; "office of the Field Surveying Service" changed to "office of the Secretary of the Interior or of such agency as he may designate,"; and "General Land Office" changed to "Bureau of Land Management", on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+#### Abolition of Office of Surveyor General and Transfer of Functions
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
@@ -77,4 +77,12 @@ Topics.—In the report required by subsection (c), the Secretary of the Interio
 "(e)
 
 Recommendations.—The report required by subsection (c) may also include such recommendations for legislation as the Secretary of the Interior considers necessary or desirable."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+In par. "Eighth", reference to "United States Supervisor of Surveys," changed to "Secretary of the Interior or such officer as he may designate,"; "office of the Field Surveying Service" changed to "office of the Secretary of the Interior or of such agency as he may designate,"; and "General Land Office" changed to "Bureau of Land Management", on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 

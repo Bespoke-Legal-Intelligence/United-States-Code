@@ -54,7 +54,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (A) Report required
 
-&emsp;&emsp;Not later than 90 days after the submittal to Congress under paragraph (1) of the assessment required by subsection (b), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the assessment. The report shall set forth an evaluation of the assessment by the Comptroller General, including an evaluation of the accuracy and level of confidence in the findings of the assessment.
+&emsp;&emsp;Not later than 90 days after the submittal to Congress under paragraph (1) of the assessment required by subsection (b), the Comptroller General of the United Statesshall submit to the appropriate committees of Congress a report on the assessment. The report shall set forth an evaluation of the assessment by the Comptroller General, including an evaluation of the accuracy and level of confidence in the findings of the assessment.
 
 #### (B) Cooperation with GAO
 
@@ -62,7 +62,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (d) Utilization of research facilities and capabilities
 
-Utilization of research facilities and capabilities aboard the ISS (other than exploration-related research and technology development facilities and capabilities, and associated ground support and logistics), shall be planned, managed, and supported as provided in section 18354 of this title. Exploration-related research andtechnology development facilities, capabilities, and associated ground support and logistics shall be planned, managed, and supported by the appropriate NASA organizations and officials in a manner that does not interfere with other activities under section 18354 of this title.
+Utilization of research facilities and capabilities aboard the ISS (other than exploration-related research and technology development facilities and capabilities, and associated ground support and logistics), shall be planned, managed, and supported as provided in section 18354 of this title. Exploration-related research and technology development facilities, capabilities, and associated ground support and logistics shall be planned, managed, and supported by the appropriate NASA organizations and officials in a manner that does not interfere with other activities under section 18354 of this title.
 
 #### (e) Space Shuttle mission to ISS
 

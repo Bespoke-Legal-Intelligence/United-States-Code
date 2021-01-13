@@ -80,7 +80,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 &emsp;"(2) To provide continuing scientific and technical assistance to State and local agencies to enable them to identify and abate asbestos health hazards.
 
-&emsp;"(3) To provide financial assistance to State and local agencies for training of persons involved with inspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
+&emsp;"(3) To provide financial assistance to State and local agencies for training of persons involved withinspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
 
 &emsp;"(4) To assure that no employee of a local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools."
 

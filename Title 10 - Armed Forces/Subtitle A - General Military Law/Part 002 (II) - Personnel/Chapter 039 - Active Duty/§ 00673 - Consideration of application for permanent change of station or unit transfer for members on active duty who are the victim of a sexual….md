@@ -6,9 +6,9 @@ Timely Consideration and Action.—The Secretary concerned shall provide for tim
 
 (b)
 
-Regulations.—The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member's commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
+Regulations.—The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member's commanding officer within five calendar days of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within five calendar days of submission of the request for review.
 
-(Added Pub. L. 112–81, div. A, title V, §582(a), Dec. 31, 2011, 125 Stat. 1432; amended Pub. L. 113–66, div. A, title X, §1091(a)(8), title XVII, §1712, Dec. 26, 2013, 127 Stat. 876, 963; Pub. L. 115–91, div. A, title X, §1081(c)(2)(A), Dec. 12, 2017, 131 Stat. 1599.)
+(Added Pub. L. 112–81, div. A, title V, §582(a), Dec. 31, 2011, 125 Stat. 1432; amended Pub. L. 113–66, div. A, title X, §1091(a)(8), title XVII, §1712, Dec. 26, 2013, 127 Stat. 876, 963; Pub. L. 115–91, div. A, title X, §1081(c)(2)(A), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–283, div. A, title V, §531(a), Jan. 1, 2021, 134 Stat. 3601.)
 
 #### Prior Provisions
 
@@ -16,11 +16,17 @@ A prior section 673 was renumbered section 12302 of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "five calendar days" for "72 hours" in two places.
+
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "920c, or 930" for "920a, or 920c" and "120c, or 130" for "120a, or 120c".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §1091(a)(8), inserted "of the Uniform Code of Military Justice" after "120c".
 
 Subsec. (b). Pub. L. 113–66, §1712, substituted "The Secretary concerned" for "The Secretaries of the military departments".
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title V, §531(b), Jan. 1, 2021, 134 Stat. 3601, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 1, 2021\], and shall apply to decisions on applications for permanent change of station or unit transfer made under section 673 of title 10, United States Code, on or after that date."
 
 #### Effective Date of 2017 Amendment
 

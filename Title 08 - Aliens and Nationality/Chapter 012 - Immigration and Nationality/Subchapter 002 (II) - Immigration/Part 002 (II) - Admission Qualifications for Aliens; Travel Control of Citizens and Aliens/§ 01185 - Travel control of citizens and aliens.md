@@ -40,6 +40,8 @@ Passports, visas, reentry permits, and other documents required for entry under 
 
 (June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat. 4311.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (c), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
@@ -62,13 +64,15 @@ Subsec. (e). Pub. L. 95–426, §707(c), (d), redesignated subsec. (f) as (e) an
 
 Subsecs. (f), (g). Pub. L. 95–426, §707(d), redesignated subsec. (g) as (f). Former (f) redesignated (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–416, title II, §204(b), Oct. 25, 1994, 108 Stat. 4311, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\]."
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 
@@ -134,7 +138,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;"(vii) a single implementation date for sea and land borders has been established; and
 
-&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not lessthan one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
 &emsp;&emsp;"(C)
 
@@ -173,6 +177,8 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 Transit Without Visa Program.—The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States."
 
 \[Amendment by Pub. L. 110–161, §545, to section 7209 of Pub. L. 108–458, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States
 

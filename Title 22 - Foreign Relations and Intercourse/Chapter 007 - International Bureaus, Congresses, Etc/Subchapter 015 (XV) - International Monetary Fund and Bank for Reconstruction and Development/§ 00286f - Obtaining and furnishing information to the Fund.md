@@ -18,6 +18,8 @@ The term "person" as used in this section means an individual, partnership, corp
 
 (July 31, 1945, ch. 339, §8, 59 Stat. 515.)
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10033. Regulations Governing the Providing of Statistical Information to Intergovernmental Organizations
 
 Ex. Ord. No. 10033, Feb. 8, 1949, 14 F.R. 561, as amended by Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813; Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
@@ -62,7 +64,7 @@ United States Tariff Commission \[now the United States International Trade Comm
 
 (e) As used in this order, the word "person" means an individual, partnership, corporation, or association.
 
-Sec. 3. The Director's determination of any matter under section 1 or section 2(b) of this order shall bemade after consulting appropriate Federal executive agencies and giving due consideration to any responsibility now exercised by any of them in relation to an intergovernmental organization.
+Sec. 3. The Director's determination of any matter under section 1 or section 2(b) of this order shall be made after consulting appropriate Federal executive agencies and giving due consideration to any responsibility now exercised by any of them in relation to an intergovernmental organization.
 
 Sec. 4. This order shall not be construed to authorize the Director or the National Advisory Council to provide, or to require any Federal executive agency to provide, to an intergovernmental organization (a) information during any period of time when the agency having primary responsibility for security of the specified information declares that it must be withheld from the intergovernmental organization in the interest of military security, or (b) information which any Federal executive agency is required by law to maintain on a confidential basis.
 

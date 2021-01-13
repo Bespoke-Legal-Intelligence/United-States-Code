@@ -92,7 +92,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (3) Property in short supply
 
-&emsp;If the President determines that the supply of any property described in paragraph (1) isinsufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President's determination that the property is no longer in short supply.
+&emsp;If the President determines that the supply of any property described in paragraph (1) is insufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President's determination that the property is no longer in short supply.
 
 #### (d) Producer's loans
 
@@ -234,7 +234,7 @@ Subsecs. (d)(4)(A), (e)(3)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "o
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to sales, exchanges, or other dispositions after Aug. 10, 1993, see section 13239(e) of Pub. L. 103–66, set out as a note under section 865 of this title.
+Amendment by Pub. L. 103–66 applicable to sales, exchanges, or other dispositions after Aug. 10, 1993, seesection 13239(e) of Pub. L. 103–66, set out as a note under section 865 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -18,7 +18,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 > Prior to taking the action specified in subparagraphs (A) through (D) of this paragraph, the Secretary shall consult with the Secretary of the Interior. The exclusive-use easement granted pursuant to subparagraph (D) of this paragraph and all rights afforded by such easement shall be exercised only for railroad purposes, and for such other transportation, transmission, or communication purposes for which lands subject to such easement were utilized as of January 14, 1983.
 
-(2) The Secretary shall deliver to the State an interim conveyance of rail properties of theAlaska Railroad described in paragraph (1)(C) of this subsection that become available for conveyance to the State after the date of transfer as a result of settlement, relinquishment, or final administrative adjudication pursuant to section 1205 of this title. Where the rail properties to be conveyed pursuant to this paragraph are surveyed at the time they become available for conveyance to the State, the Secretary shall deliver a patent therefor in lieu of an interim conveyance.
+(2) The Secretary shall deliver to the State an interim conveyance of rail properties of the Alaska Railroad described in paragraph (1)(C) of this subsection that become available for conveyance to the State after the date of transfer as a result of settlement, relinquishment, or final administrative adjudication pursuant to section 1205 of this title. Where the rail properties to be conveyed pursuant to this paragraph are surveyed at the time they become available for conveyance to the State, the Secretary shall deliver a patent therefor in lieu of an interim conveyance.
 
 (3) The force and effect of an interim conveyance made pursuant to paragraphs (1)(B) or (2) of this subsection shall be to convey to and vest in the State exactly the same right, title, and interest in and to the rail properties identified therein as the State would have received had it been issued a patent by the United States. The Secretary of the Interior shall survey the land conveyed by an interim conveyance to the State pursuant to paragraphs (1)(B) or (2) of this subsection and, upon completion of the survey, the Secretary shall issue a patent therefor.
 
@@ -52,7 +52,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 &emsp;(i) which ensure that the State-owned railroad will adopt collective bargaining agreements in accordance with the provisions of subparagraph (B) of this paragraph;
 
-&emsp;(ii) for the retention of all employees, other than officers of the Alaska Railroad, who elect to transfer to the State-owned railroad intheir same positions for the two-year period commencing on the date of transfer, except in cases of reassignment, separation for cause, resignation, retirement, or lack of work;
+&emsp;(ii) for the retention of all employees, other than officers of the Alaska Railroad, who elect to transfer to the State-owned railroad in their same positions for the two-year period commencing on the date of transfer, except in cases of reassignment, separation for cause, resignation, retirement, or lack of work;
 
 &emsp;(iii) for the payment of compensation to transferred employees (other than employees provided for in subparagraph (E) of this paragraph), except in cases of separation for cause, resignation, retirement, or lack of work, for two years commencing on the date of transfer at or above the base salary levels in effect for such employees on the date of transfer, unless the parties otherwise agree during that two-year period;
 
@@ -78,11 +78,13 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (Pub. L. 97–468, title VI, §604, Jan. 14, 1983, 96 Stat. 2559; Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418; Pub. L. 108–447, div. H, title I, §152(3), Dec. 8, 2004, 118 Stat. 3222.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 12, 1914, and such Act, referred to in subsec. (c)(1), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, popularly known as the Alaska Railroad Act, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title 43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to this section.
 
-Section 615 of this title, referred to in subsec. (c)(1), means section 615 of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2577. Title VI of Pub. L. 97–468 is known as the Alaska Railroad Transfer Act of 1982 and is classified principally to this chapter. Under section 615, the repeal is effective on the date of transfer to the State of Alaska (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), whichever first occurs.
+Section 615 of this title, referred to in subsec. (c)(1), means section 615 of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2577. Title VI of Pub. L. 97–468 is known as the Alaska Railroad Transfer Act of 1982 and is classified principally to this chapter. Under section 615, the repeal is effective on the date of transfer to the Stateof Alaska (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), whichever first occurs.
 
 42 U.S.C. 9601 et seq., referred to in subsec. (d)(2)(D), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
@@ -91,6 +93,8 @@ Section 615 of this title, referred to in subsec. (c)(1), means section 615 of t
 <b>2004</b>—Subsec. (d)(2)(D). Pub. L. 108–447 added subpar. (D).
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–7 struck out at end: "In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Alaska Railroad to State of Alaska
 

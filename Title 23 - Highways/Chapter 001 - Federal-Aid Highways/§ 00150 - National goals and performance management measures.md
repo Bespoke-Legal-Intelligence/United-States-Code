@@ -78,7 +78,7 @@ In general.—Subject to subparagraph (B), for the purpose of carrying out secti
 
 &emsp;&emsp;&emsp;(iii) minimum levels for the condition of pavement on the Interstate System, only for the purposes of carrying out section 119(f)(1); and
 
-&emsp;&emsp;&emsp;(iv) the data elements that are necessary to collect and maintain standardized data to carry out a performance-based approach.
+&emsp;&emsp;&emsp;(iv) the data elements that are necessary to collect and maintain standardized datato carry out a performance-based approach.
 
 &emsp;&emsp;(B)
 
@@ -130,6 +130,8 @@ Reporting on Performance Targets.—Not later than 4 years after the date of ena
 
 (Added Pub. L. 112–141, div. A, title I, §1203(a), July 6, 2012, 126 Stat. 524, amended Pub. L. 114–94, div. A, title I, §1446(a)(4)–(6), (d)(2)(A), Dec. 4, 2015, 129 Stat. 1437, 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the MAP–21, referred to in subsecs. (c)(1) and (e), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
@@ -149,6 +151,8 @@ A prior section 150, added Pub. L. 93–87, title I, §157(a), Aug. 13, 1973, 87
 Subsec. (c)(3)(B). Pub. L. 114–94, §1446(a)(5), substituted period for semicolon at end.
 
 Subsec. (e)(4). Pub. L. 114–94, §1446(a)(6), substituted "national freight strategic plan" for "National Freight Strategic Plan".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -188,5 +192,5 @@ Inclusions.—The data analysis activities authorized under subsection (a) may i
 
 "(c)
 
-Funding.—From amounts authorized to carry out the Highway Research and Development Program, the Administrator of the Federal Highway Administration may use up to $10,000,000 for each of fiscal years 2016 through 2020 to carry out this section."
+Funding.—From amounts authorized to carry out the Highway Research and Development Program,the Administrator of the Federal Highway Administration may use up to $10,000,000 for each of fiscal years 2016 through 2020 to carry out this section."
 

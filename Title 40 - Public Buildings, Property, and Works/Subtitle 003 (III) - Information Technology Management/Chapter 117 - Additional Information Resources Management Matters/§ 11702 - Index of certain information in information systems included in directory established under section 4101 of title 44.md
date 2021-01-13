@@ -22,6 +22,8 @@ Pub. L. 104–106, div. E, title LIV, §5403, Feb. 10, 1996, 110 Stat. 698.
 
 The words "Notwithstanding any other provision of this chapter" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 11702 was renumbered section 11701 of this title.

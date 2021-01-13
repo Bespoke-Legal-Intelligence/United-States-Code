@@ -20,6 +20,8 @@ Provisions of section 228 of title 31, U.S.C., 1940 ed., for payment of district
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted "chapter 71 of title 41" for "the Contract Disputes Act of 1978".
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after "shall be
 <b>1978</b>—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
 
 Subsec. (b). Pub. L. 95–563, §14(f), inserted provision relating to discharge of partial judgments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

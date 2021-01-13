@@ -4,6 +4,8 @@ The Congress recognizes that shelter, including essential urban development serv
 
 (Pub. L. 87–195, pt. I, §221, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807; amended Pub. L. 92–226, pt. I, §103(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §5(1), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §7(1), Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §311(3), Dec. 20, 1975, 89 Stat. 861; Pub. L. 95–88, title I, §117(a)(1), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(a), Oct. 6, 1978, 92 Stat. 950; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Amendment by Pub. L. 98–473 is based on section 311(a) of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
@@ -18,7 +20,7 @@ A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as 
 
 <b>1978</b>—Pub. L. 95–424 generally revised the statement of policy to clarify that in developing countries, financing, materials and labor for most housing must be obtained from local sources, while United States capital and technical expertise can increase the availability of housing and related services for low-income people by demonstrating financial viability of credit systems for low-cost housing.
 
-<b>1977</b>—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
+<b>1977</b>—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000 and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
 
 <b>1975</b>—Pub. L. 94–161 substituted "$430,000,000" for "$355,000,000".
 
@@ -27,6 +29,8 @@ A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as 
 <b>1973</b>—Pub. L. 93–189 substituted "$305,000,000" for "$205,000,000".
 
 <b>1972</b>—Pub. L. 92–226 substituted "$205,000,000" for "$130,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

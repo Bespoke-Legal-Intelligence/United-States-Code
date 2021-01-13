@@ -12,7 +12,7 @@ The peace treaty between Egypt and Israel having been ratified, the Congress fin
 
 &emsp;(2) by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articles and defense services for their respective security requirements; and
 
-&emsp;(3) by authorizing additional funds for economic assistance for Egypt in order to promote the economic stability and development of that country and to support the peace process in the Middle East.
+&emsp;(3) by authorizing additional funds for economic assistance for Egypt in order to promote the economic stability and developmentof that country and to support the peace process in the Middle East.
 
 #### (c) Other agreements, understandings, or commitments
 
@@ -20,9 +20,13 @@ The authorities contained in this subchapter to implement certain arrangements i
 
 (Pub. L. 96–35, §2, July 20, 1979, 93 Stat. 89.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 96–35, July 20, 1979, 93 Stat. 89, as amended, known as the Special International Security Assistance Act of 1979, which enacted this subchapter and sections 2349, 2349a, and 2349b of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

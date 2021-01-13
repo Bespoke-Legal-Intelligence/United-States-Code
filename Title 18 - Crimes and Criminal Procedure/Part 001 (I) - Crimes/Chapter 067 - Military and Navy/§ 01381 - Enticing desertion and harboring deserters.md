@@ -18,6 +18,8 @@ Words "armed forces" were substituted for repeated references to military servic
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000" in last par.

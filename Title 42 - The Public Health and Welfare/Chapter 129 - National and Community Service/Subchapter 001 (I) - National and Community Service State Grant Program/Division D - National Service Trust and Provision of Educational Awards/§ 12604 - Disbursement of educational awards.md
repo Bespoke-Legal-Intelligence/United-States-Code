@@ -74,7 +74,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individual
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the individual's national service educational award, an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the payment of current full-time or part-time educational expenses shall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
+&emsp;An eligible individual under section 12602 of this title who desires to apply the individual's national service educational award, an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the payment of current full-time or part-time educational expensesshall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
 
 #### (2) Submission of requests for payment by institutions
 
@@ -100,7 +100,7 @@ Amounts in the Trust shall be available—
 
 #### (4) Multiple disbursements required
 
-&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds ½ of suchtotal amount. The interval between the first and second such installment shall not be less than ½ of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds ½ of such total amount. The interval between the first and second such installment shall not be less than ½ of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (5) Refund rules
 

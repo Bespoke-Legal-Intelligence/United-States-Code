@@ -1,14 +1,54 @@
 ### §2326a. Dredged material disposal facility partnerships
 
-#### (a) Additional capacity
+#### (a) Additional capacity or replacement capacity
 
 #### (1) Provided by Secretary
 
-&emsp;At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), at the request of a non-Federal interest with respect to a project, the Secretary may—
+
+&emsp;&emsp;&emsp;(i) provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes; or
+
+&emsp;&emsp;&emsp;(ii) permit the use of dredged material disposal facility capacity required for project purposes by the non-Federal interest if the Secretary determines that replacement capacity can be constructed at the facility or another facility or site before such capacity is needed for project purposes.
+
+#### (B) Agreement
+
+&emsp;&emsp;Before the Secretary takes an action under subparagraph (A), the non-Federal interest shall agree to pay—
+
+&emsp;&emsp;&emsp;(i) all costs associated with the construction of the additional capacity or replacement capacity in advance of construction of such capacity; and
+
+&emsp;&emsp;&emsp;(ii) in the case of use by a non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), any increase in the cost of operation and maintenance of the project that the Secretary determines results from the use of the project capacity by the non-Federal interest in advance of each cycle of dredging.
+
+#### (C) Credit
+
+&emsp;&emsp;In the event the Secretary determines that the cost to operate or maintain the project decreases as a result of use by the non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), the Secretary, at the request of the non-Federal interest, shall credit the amount of the decrease toward any cash contribution of the non-Federal interest required thereafter for construction, operation, or maintenance of the project, or of another navigation project.
 
 #### (2) Cost recovery authority
 
-&emsp;The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+&emsp;The non-Federal interest may recover the costs assigned to the additional capacity under paragraph (1)(A)(i) through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest forthe use of the facility. The amount of such fees may be determined by the non-Federal interest.
+
+#### (3) Special rule for designation of replacement capacity facility or site
+
+#### (A) In general
+
+&emsp;&emsp;Subject to such terms and conditions as the Secretary determines to be necessary or advisable, an agreement under paragraph (1)(B) for use permitted under paragraph (1)(A)(ii) shall reserve to the non-Federal interest—
+
+&emsp;&emsp;&emsp;(i) the right to submit to the Secretary for approval at a later date an alternative to the facility or site designated in the agreement for construction of replacement capacity; and
+
+&emsp;&emsp;&emsp;(ii) the right to construct the replacement capacity at the alternative facility or site at the expense of the non-Federal interest.
+
+#### (B) Requirement
+
+&emsp;&emsp;The Secretary shall not reject a site for the construction of replacement capacity under paragraph (1)(A)(ii) that is submitted by the non-Federal interest for approval by the Secretary before the date of execution of the agreement under paragraph (1)(B), or thereafter, unless the Secretary—
+
+&emsp;&emsp;&emsp;(i) determines that the site is environmentally unacceptable, geographically unacceptable, or technically unsound; and
+
+&emsp;&emsp;&emsp;(ii) provides a written basis for the determination under clause (i) to the non-Federal interest.
+
+#### (4) Public comment
+
+&emsp;The Secretary shall afford the public an opportunity to comment on the determinations required under this subsection for a use permitted under paragraph (1)(A)(ii).
 
 #### (b) Non-Federal use of disposal facilities
 
@@ -56,7 +96,7 @@
 
 #### (ii) Payments
 
-&emsp;&emsp;&emsp;A partnership agreement under this subsection may allow the non-Federal interest to receive reimbursable payments fromthe Federal Government for commitments made by the non-Federal interest for disposal or placement capacity at dredged material processing, treatment, contaminant reduction, or disposal facilities.
+&emsp;&emsp;&emsp;A partnership agreement under this subsection may allow the non-Federal interest to receive reimbursable payments from the Federal Government for commitments made by the non-Federal interest for disposal or placement capacity at dredged material processing, treatment, contaminant reduction, or disposal facilities.
 
 #### (C) Credit
 
@@ -108,7 +148,9 @@
 
 &emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071.)
+(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, §145, Dec. 27, 2020, 134 Stat. 2654.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,6 +162,14 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §145(1), inserted "or replacement capacity" after "Additional capacity" in heading.
+
+Subsec. (a)(1). Pub. L. 116–260, §145(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity."
+
+Subsec. (a)(2). Pub. L. 116–260, §145(3), inserted "under paragraph (1)(A)(i)" after "additional capacity".
+
+Subsec. (a)(3), (4). Pub. L. 116–260, §145(4), added pars. (3) and (4).
+
 <b>2007</b>—Subsec. (c). Pub. L. 110–114, §2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–114, §2005(1), redesignated subsec. (c) as (d).
@@ -127,6 +177,8 @@ Subsec. (d). Pub. L. 110–114, §2005(1), redesignated subsec. (c) as (d).
 Subsec. (d)(1). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "operation" and "processing, treatment, contaminant reduction, or" after "dredged material".
 
 Subsec. (d)(2)(A). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "operation" and "processing, treatment, contaminant reduction, or" after "of a dredged material".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

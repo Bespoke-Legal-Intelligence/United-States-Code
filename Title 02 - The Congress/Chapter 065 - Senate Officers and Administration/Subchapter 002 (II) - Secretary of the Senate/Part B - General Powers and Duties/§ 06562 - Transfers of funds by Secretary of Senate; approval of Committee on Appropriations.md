@@ -4,11 +4,15 @@ During any fiscal year (commencing with the fiscal year beginning October 1, 198
 
 (Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 64–2 of this title prior to editorial reclassification and renumbering as this section.
 
 Section is based on section 104 of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Funds by Secretary of Senate
 

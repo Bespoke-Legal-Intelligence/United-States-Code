@@ -16,7 +16,7 @@ Prompt Replacement Required.—When a request for the replacement of a military 
 
 Military Decoration Defined.—In this section, the term "decoration" means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
 
-(Added Pub. L. 110–417, \[div. A\], title V, §571(a), Oct. 14, 2008, 122 Stat. 4471; amended Pub. L. 113–66, div. A, title V, §564, Dec. 26, 2013, 127 Stat. 768; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 110–417, \[div. A\], title V, §571(a), Oct. 14, 2008, 122 Stat. 4471; amended Pub. L. 113–66, div. A, title V, §564, Dec. 26, 2013, 127 Stat.768; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### Amendments
 

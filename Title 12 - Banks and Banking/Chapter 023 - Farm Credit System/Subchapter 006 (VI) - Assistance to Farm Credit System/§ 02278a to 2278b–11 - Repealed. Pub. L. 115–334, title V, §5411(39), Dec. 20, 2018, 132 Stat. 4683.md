@@ -28,7 +28,7 @@ Section 2278a–11, Pub. L. 92–181, title VI, §6.11, as added Pub. L. 100–2
 
 Section 2278a–12, Pub. L. 92–181, title VI, §6.12, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, §201(m), Aug. 17, 1988, 102 Stat. 991, stated that the Assistance Board and its authority would terminate on Dec. 31, 1992.
 
-Section 2278a–13, Pub. L. 92–181, title VI, §6.13, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, §201(n), Aug. 17, 1988, 102 Stat. 991, set out transitional provisions from the Farm Credit Administration Board to the Assistance Board.
+Section 2278a–13, Pub. L. 92–181, title VI, §6.13, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101Stat. 1594; amended Pub. L. 100–399, title II, §201(n), Aug. 17, 1988, 102 Stat. 991, set out transitional provisions from the Farm Credit Administration Board to the Assistance Board.
 
 Sections 2278b to 2278b–11 comprised part B of this subchapter "Financial Assistance Corporation".
 

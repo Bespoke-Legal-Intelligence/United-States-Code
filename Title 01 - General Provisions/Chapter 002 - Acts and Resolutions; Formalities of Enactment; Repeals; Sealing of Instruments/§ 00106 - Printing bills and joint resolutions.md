@@ -1,8 +1,10 @@
 ### §106. Printing bills and joint resolutions
 
-Every bill or joint resolution in each House of Congress shall, when such bill or resolution passes either House, be printed, and such printed copy shall be called the engrossed bill or resolution as the case may be. Said engrossed bill or resolution shall be signed by the Clerk of the House or the Secretary of the Senate, and shall be sent to the other House, and in that form shall be dealt with by that House and its officers, and, if passed, returned signed by said Clerk or Secretary. When such bill, or joint resolution shall have passed both Houses, it shall be printed and shall then be called the enrolled bill, or joint resolution, as the case may be, and shall be signed by the presiding officers of both Houses and sent to the President of the United States. During the last six days of a session such engrossing and enrolling of bills and joint resolutions may be done otherwise than as above prescribed, upon the order of Congress by concurrent resolution.
+Every bill or joint resolution in each House of Congress shall, when such bill or resolution passes either House, be printed, and such printed copy shall be called the engrossed bill or resolution as the case may be. Said engrossed bill or resolution shall be signed by the Clerk of the House or the Secretary of the Senate, and shall be sent to the other House, and in that form shall be dealt with by that House and its officers, and, if passed, returned signed by saidClerk or Secretary. When such bill, or joint resolution shall have passed both Houses, it shall be printed and shall then be called the enrolled bill, or joint resolution, as the case may be, and shall be signed by the presiding officers of both Houses and sent to the President of the United States. During the last six days of a session such engrossing and enrolling of bills and joint resolutions may be done otherwise than as above prescribed, upon the order of Congress by concurrent resolution.
 
 (July 30, 1947, ch. 388, 61 Stat. 634.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reference to OBRA; Effective Date; Ratification of Enrollment Corrections and Printed Enrollment
 
@@ -22,7 +24,7 @@ Ratification of enrollment corrections and printed enrollment.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enactedas part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 &emsp;"(B)
 
@@ -64,7 +66,7 @@ Certification of Enrollment by Committee on House Oversight.—The enrollment of
 
 "For purposes of this joint resolution, the term 'appropriation measure' means a bill or joint resolution that includes provisions making general or continuing appropriations for the fiscal year ending September 30, 1997."
 
-Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment."
+Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred FourthCongress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment."
 
 Pub. L. 104–56, title II, §§201, 202, Nov. 20, 1995, 109 Stat. 553, provided that:
 
@@ -102,7 +104,7 @@ Reconciliation bill.—The term 'reconciliation bill' means a bill that is a rec
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term 'appropriation bill' meansa bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993."
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term 'appropriation bill' means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993."
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -180,7 +182,7 @@ Preparation.—
 
 &emsp;"(1)
 
-In general.—If a reconciliation bill, appropriation bill, or continuing resolution is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill or joint resolution the Clerk of the House of Representatives shall prepare a printed enrollment of the bill or joint resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply.
+In general.—If a reconciliation bill, appropriation bill, or continuing resolution is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill or joint resolution the Clerk of theHouse of Representatives shall prepare a printed enrollment of the bill or joint resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;"(2)
 
@@ -282,7 +284,7 @@ Archives.—A printed enrollment certified by the President under subsection (c)
 
 "(e)
 
-Hand Enrollment Defined.—As used in this section, the term 'hand enrollment' means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
+Hand Enrollment Defined.—As used in this section, the term 'hand enrollment' means enrollment ina form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
 
 Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
@@ -296,7 +298,9 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 "(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 
-"(6) As used in this section, the term 'hand enrollment' means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of thefull-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
+"(6) As used in this section, the term 'hand enrollment' means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled 'Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988', approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\]."
+
+#### <b>Executive Documents</b>
 
 #### Certification of Printed Enrollments of Certain Public Laws
 

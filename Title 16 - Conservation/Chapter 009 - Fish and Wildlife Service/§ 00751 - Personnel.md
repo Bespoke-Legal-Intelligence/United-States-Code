@@ -6,7 +6,7 @@ In connection with the establishment of such fish-rescue station there is author
 
 #### Codification
 
-Provisions relating to the compensation of such personnel have been omitted as such pay is fixed pursuant to chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+Provisions relating to the compensation of such personnel have been omitted as such pay is fixed pursuantto chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

@@ -140,7 +140,7 @@ Subsec. (h)(3)(C). Pub. L. 106–36, §3001(c)(1)(B), added subpar. (C).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §612(b)(2)(B), substituted "1 year" for "6 months" wherever appearing in pars. (1) and (2).
 
-Pub. L. 99–514, §612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) as pars. (1) to (3) and striking out former par. (2) which read as follows: "The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant."
+Pub. L. 99–514, §612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) aspars. (1) to (3) and striking out former par. (2) which read as follows: "The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant."
 
 <b>1984</b>—Subsec. (c)(1)(A), (B). Pub. L. 98–369 substituted "6 months" for "1 year", wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -226,7 +226,7 @@ Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided
 
 Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
+Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, setout as an Effective Date of 1976 Amendment note under section 2 of this title.
 
 Pub. L. 94–414, §2, Sept. 17, 1976, 90 Stat. 1273, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years beginning after December 31, 1975."
 

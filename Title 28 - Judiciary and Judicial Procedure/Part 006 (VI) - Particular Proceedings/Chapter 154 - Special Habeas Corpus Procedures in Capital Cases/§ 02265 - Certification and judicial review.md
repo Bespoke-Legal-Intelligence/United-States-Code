@@ -44,9 +44,13 @@ Standard of review.—The determination by the Attorney General regarding whethe
 
 (Added Pub. L. 109–177, title V, §507(c)(1), Mar. 9, 2006, 120 Stat. 250.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2265, added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1223, related to the application of sections 2262, 2263, 2264, and 2266 of this title to State unitary review procedures, prior to repeal by Pub. L. 109–177, title V, §507(c)(1), Mar. 9, 2006, 120 Stat. 250.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

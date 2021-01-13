@@ -52,7 +52,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (E) Consumer and provider education information
 
-&emsp;&emsp;The plan shall include a certification that the State will collect and disseminate (which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children, the general public, and, where applicable, providers—
+&emsp;&emsp;The plan shall include a certification that the State will collect and disseminate\(which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children, the general public, and, where applicable, providers—
 
 &emsp;&emsp;&emsp;(i) information about the availability of the full diversity of child care services that will promote informed child care choices and that concerns—
 
@@ -90,7 +90,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan shall describe the training and professional development requirements that are in effect within the State designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and to improve the knowledge and skills of the child care workforce. Such requirements shall be applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter.
+&emsp;&emsp;&emsp;The plan shall describe the training and professional development requirements that are in effect within the State designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and to improve the knowledge and skills of thechild care workforce. Such requirements shall be applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter.
 
 #### (ii) Requirements
 
@@ -144,7 +144,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;(i) shall relate to matters including health and safety topics consisting of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the prevention and control of infectious diseases (including immunization)and the establishment of a grace period that allows homeless children and children in foster care to receive services under this subchapter while their families (including foster families) are taking any necessary action to comply with immunization and other health and safety requirements;
+&emsp;&emsp;&emsp;&emsp;(I) the prevention and control of infectious diseases (including immunization) and the establishment of a grace period that allows homeless children and children in foster care to receive services under this subchapter while their families (including foster families) are taking any necessary action to comply with immunization and other health and safety requirements;
 
 &emsp;&emsp;&emsp;&emsp;(II) prevention of sudden infant death syndrome and use of safe sleeping practices;
 
@@ -216,7 +216,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (I) 12-month period
 
-&emsp;&emsp;&emsp;&emsp;The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirements for such assistance and will receive such assistance, for not less than 12 months before the State or designated local entity redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
+&emsp;&emsp;&emsp;&emsp;The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirementsfor such assistance and will receive such assistance, for not less than 12 months before the State or designated local entity redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
 
 #### (II) Fluctuations in earnings
 
@@ -330,7 +330,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;The components of the disaster plan, for such an emergency or disaster, shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) evacuation, relocation, shelter-in-place, and lock-down procedures, and procedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions;
+&emsp;&emsp;&emsp;&emsp;(I) evacuation, relocation, shelter-in-place, and lock-down procedures, andprocedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions;
 
 &emsp;&emsp;&emsp;&emsp;(II) guidelines for the continuation of child care services in the period following the emergency or disaster, which may include the provision of emergency and temporary child care services, and temporary operating standards for child care providers during that period; and
 
@@ -382,7 +382,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;&emsp;The local or regional child care resource and referral organizations supported as described in subclause (I) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) provide parents in the State with consumer education information referred to in paragraph (2)(E) (except as otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) provide parents in the State with consumer education information referred to in paragraph (2)(E) (exceptas otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) to the extent practicable, work directly with families who receive assistance under this subchapter to offer the families support and assistance, using information described in item (aa), to make an informed decision about which child care providers they will use, in an effort to ensure that the families are enrolling their children in the most appropriate child care setting to suit their needs and one that is of high quality (as determined by the State);
 
@@ -420,7 +420,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;The State plan shall—
 
-&emsp;&emsp;&emsp;(i) demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and otherappropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child) or an alternative methodology, such as a cost estimation model, that has been developed by the State lead agency;
+&emsp;&emsp;&emsp;(i) demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and other appropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child) or an alternative methodology, such as a cost estimation model, that has been developed by the State lead agency;
 
 &emsp;&emsp;&emsp;(ii) demonstrate that the State prepared a detailed report containing the results of the State market rates survey or alternative methodology conducted pursuant to clause (i), and made the results of the survey or alternative methodology widely available (not later than 30 days after the completion of such survey or alternative methodology) through periodic means, including posting the results on the Internet;
 
@@ -544,7 +544,7 @@ Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text
 
 Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
 
-Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted "State plan shall certify" for "State plan shallprovide assurances", inserted "and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access" after "Federal or State programs", and struck out at end "Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs."
+Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted "State plan shall certify" for "State plan shall provide assurances", inserted "and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access" after "Federal or State programs", and struck out at end "Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs."
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

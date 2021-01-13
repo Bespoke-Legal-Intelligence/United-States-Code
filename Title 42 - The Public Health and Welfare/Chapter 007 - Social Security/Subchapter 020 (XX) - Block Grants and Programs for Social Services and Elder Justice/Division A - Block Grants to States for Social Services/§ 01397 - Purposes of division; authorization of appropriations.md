@@ -18,7 +18,7 @@ For the purposes of consolidating Federal assistance to States for social servic
 
 #### Prior Provisions
 
-A prior section 1397, act Aug. 14, 1935, ch. 531, title XX, §2001, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2337; amended June 17, 1980, Pub. L. 96–272, title II, §207(b), 94 Stat. 526, authorized appropriations to carry out former provisions of this subchapter, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+A prior section 1397, act Aug. 14, 1935, ch. 531, title XX, §2001, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88Stat. 2337; amended June 17, 1980, Pub. L. 96–272, title II, §207(b), 94 Stat. 526, authorized appropriations to carry out former provisions of this subchapter, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
 

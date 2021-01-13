@@ -14,7 +14,7 @@
 
 &emsp;(3) may validate, by appropriate means, the method by which an agency prepares the report.
 
-(c) The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection\(a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
+(c) The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
 
 (Added Pub. L. 97–452, §1(23)(A), Jan. 12, 1983, 96 Stat. 2477; amended Pub. L. 98–169, §1(2), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, §2(b)(1), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 104–186, title II, §219(b)(2), Aug. 20, 1996, 110 Stat. 1748.)
 
@@ -38,6 +38,8 @@ In subsection (b)(1), the words "the head of another executive agency" are subst
 
 In subsection (b)(2), the words "the head of" are added for consistency in the revised title and with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1), is section 9 of Pub. L. 95–220, Dec. 28, 1977, 91 Stat. 1617, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
@@ -49,6 +51,8 @@ Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1),
 <b>1986</b>—Subsec. (c). Pub. L. 99–547 added subsec. (c).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–169 substituted "Director" for "Director of the Office of Management and Budget".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

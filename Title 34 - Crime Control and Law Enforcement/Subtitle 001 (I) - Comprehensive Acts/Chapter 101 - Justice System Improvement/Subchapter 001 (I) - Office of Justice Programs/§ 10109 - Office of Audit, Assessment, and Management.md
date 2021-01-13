@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the Office an Office of Audit, Assessment, and Management,headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
+&emsp;There is established within the Office an Office of Audit, Assessment, and Management, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
 
 #### (2) Purpose
 
@@ -56,6 +56,8 @@ Not to exceed 3 percent of all funding made available for a fiscal year for the 
 
 (Pub. L. 90–351, title I, §109, formerly §105, as added Pub. L. 109–162, title XI, §1158(a), Jan. 5, 2006, 119 Stat. 3114; renumbered §109, Pub. L. 109–271, §8(e), Aug. 12, 2006, 120 Stat. 766.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 January 5, 2006, referred to in subsec. (a)(3), was in the original "the date of the enactment of this Act" and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
@@ -65,6 +67,8 @@ January 5, 2006, referred to in subsec. (a)(3), was in the original "the date of
 Section was formerly classified to section 3712h of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Section was also formerly classified to section 3712d of Title 42 prior to renumbering by Pub. L. 109–271 and transfer to section 3712h of Title 42.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

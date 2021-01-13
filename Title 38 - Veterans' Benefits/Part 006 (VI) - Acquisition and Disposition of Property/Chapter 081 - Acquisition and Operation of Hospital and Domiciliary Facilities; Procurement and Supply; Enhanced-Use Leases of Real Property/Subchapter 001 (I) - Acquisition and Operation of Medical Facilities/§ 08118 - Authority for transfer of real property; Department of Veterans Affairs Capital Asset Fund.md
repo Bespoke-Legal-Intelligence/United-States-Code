@@ -1,6 +1,6 @@
 ### §8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
 
-(a)(1) The Secretary may transfer real property under the jurisdiction or control of the Secretary (including structures and equipment associated therewith) to another department or agency of the United States, to a State (or a political subdivision of a State), or to any public or private entity, including an Indian tribe. Such a transfer may be made only if the Secretary receives compensation of not less than the fair market value of the property, except that no compensation is required, or compensation at less than fair market value may be accepted, in the case of a transfer to a grant and per diem provider (as defined in section 2002 of this title). When a transfer is made to a grant and per diem provider for less than fair market value, the Secretary shall require in the terms of the conveyance that if the property transferred is used for any purpose other than a purpose under chapter 20 of this title, all right, title, and interest to the property shall revert to the United States.
+(a)(1) The Secretary may transfer real property under the jurisdiction or control of the Secretary (including structures and equipment associated therewith) to another department or agency of the United States, to a State (or a political subdivision of a State), or to any public or private entity, including an Indian tribe. Such a transfer may be made only if the Secretary receives compensation of not less than the fair market value of the property, except that no compensation is required, or compensation at less than fair market value may be accepted, in the case of a transfer to a grant andper diem provider (as defined in section 2002 of this title). When a transfer is made to a grant and per diem provider for less than fair market value, the Secretary shall require in the terms of the conveyance that if the property transferred is used for any purpose other than a purpose under chapter 20 of this title, all right, title, and interest to the property shall revert to the United States.
 
 (2) The Secretary may exercise the authority provided by this section notwithstanding sections 521, 522, and 541 through 545 of title 40. Any such transfer shall be in accordance with this section and section 8122 of this title.
 
@@ -8,7 +8,7 @@
 
 (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-(5) The authority of the Secretary under paragraph (1) expires on September 30, 2020.
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2022.
 
 (b)(1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the "Fund"). Amounts in the Fund shall remain available until expended.
 
@@ -32,13 +32,19 @@
 
 &emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
-(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168.)
+(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5103, Oct. 1, 2020, 134 Stat. 748.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(5). Pub. L. 116–159 substituted "September 30, 2022" for "September 30, 2020".
 
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–251 substituted "September 30, 2020" for "December 31, 2018".
 
 <b>2011</b>—Subsec. (a)(5). Pub. L. 112–37 substituted "December 31, 2018" for "the date that is seven years after the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Unobligated Balances to Capital Asset Fund
 

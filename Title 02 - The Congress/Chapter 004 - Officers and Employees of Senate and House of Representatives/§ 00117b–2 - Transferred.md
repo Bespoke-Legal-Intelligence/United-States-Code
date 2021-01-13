@@ -1,5 +1,7 @@
 ### §117b–2. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 117b–2 was editorially reclassified as section 6631 of this title.

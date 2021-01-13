@@ -30,7 +30,7 @@ An individual described under subsection (a) shall be deemed an employee under s
 
 #### (f) Government contributions
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be madeby the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
 
 #### (g) Certification of creditable service
 
@@ -60,6 +60,8 @@ The Office of Personnel Management may prescribe regulations to carry out the pr
 
 (Pub. L. 102–392, title III, §320, Oct. 6, 1992, 106 Stat. 1725; Pub. L. 103–50, ch. XII, §1203(a)(1), (b)(1), July 2, 1993, 107 Stat. 268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Senate Resolution 269, referred to in subsec. (a)(1)(A), see References in Text note set out under section 2061 of this title.
@@ -74,9 +76,11 @@ Section was classified to section 214d of former Title 40, prior to the enactmen
 
 Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\]."
+Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\]."
 
 Pub. L. 103–50, ch. XII, §1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\]."
 

@@ -10,11 +10,15 @@ Recruitment and Appointment.—Notwithstanding sections 3304 and 3309 through 33
 
 (Added Pub. L. 113–146, title III, §301(a)(1), Aug. 7, 2014, 128 Stat. 1784; amended Pub. L. 114–315, title VIII, §802(4), Dec. 16, 2016, 130 Stat. 1592; Pub. L. 115–46, title II, §201, Aug. 12, 2017, 131 Stat. 959.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–46 substituted "at a minimum, the five clinical occupations and the five nonclinical occupations" for "the five occupations" and "with respect to each medical center of the Department," for "throughout the Department".
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–315 substituted "under subsection (a)" for "under paragraph (1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for First Determination
 

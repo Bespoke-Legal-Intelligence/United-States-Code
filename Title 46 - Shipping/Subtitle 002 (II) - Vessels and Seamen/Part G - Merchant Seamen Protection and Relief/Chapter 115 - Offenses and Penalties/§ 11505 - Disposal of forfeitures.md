@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 Section 11505 provides for the disposal of wages forfeited by deserting seamen.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–206, §421(1), substituted "The balance shall be transferred to the appropriate district court of the United States when the voyage is completed." for "The balance shall be transferred to the Secretary when the voyage is completed, as prescribed by the Secretary."

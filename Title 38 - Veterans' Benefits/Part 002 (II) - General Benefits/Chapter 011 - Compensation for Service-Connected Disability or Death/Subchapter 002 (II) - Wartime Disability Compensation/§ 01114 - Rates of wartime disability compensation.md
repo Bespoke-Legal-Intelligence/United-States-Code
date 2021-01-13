@@ -22,7 +22,7 @@ For the purposes of section 1110 of this title—
 
 &emsp;(j) if and while the disability is rated as total the monthly compensation shall be $2,673;
 
-&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiationtreatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (l) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
+&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy orpartial mastectomy) or has received radiation treatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (l) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
 
 &emsp;(l) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both feet, or of one hand and one foot, or is blind in both eyes, with 5/200 visual acuity or less, or is permanently bedridden or with such significant disabilities as to be in need of regular aid and attendance, the monthly compensation shall be $3,327;
 
@@ -42,13 +42,15 @@ For the purposes of section 1110 of this title—
 
 &emsp;&emsp;(2) if the veteran, in addition to such need for regular aid and attendance, is in need of a higher level of care, such veteran shall be paid a monthly aid and attendance allowance at the rate of $2,983, in lieu of the allowance authorized in clause (1) of this subsection, if the Secretary finds that the veteran, in the absence of the provision of such care, would require hospitalization, nursing home care, or other residential institutional care.
 
-> &emsp;For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran's home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of the need for such care shall be determined by a physician employed by the Department or, inareas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title, such allowance shall be considered as additional compensation payable for disability.
+> &emsp;For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran's home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of theneed for such care shall be determined by a physician employed by the Department or, in areas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title, such allowance shall be considered as additional compensation payable for disability.
 
 &emsp;(s) If the veteran has a service-connected disability rated as total, and (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, or, (2) by reason of such veteran's service-connected disability or disabilities, is permanently housebound, then the monthly compensation shall be $2,993. For the purpose of this subsection, the requirement of "permanently housebound" will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a service-connected disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
 &emsp;(t) Subject to section 5503(c) of this title, if any veteran, as the result of service-connected disability, is in need of regular aid and attendance for the residuals of traumatic brain injury, is not eligible for compensation under subsection (r)(2), and in the absence of such regular aid and attendance would require hospitalization, nursing home care, or other residential institutional care, the veteran shall be paid, in addition to any other compensation under this section, a monthly aid and attendance allowance equal to the rate described in subsection (r)(2), which for purposes of section 1134 of this title shall be considered as additional compensation payable for disability. An allowance authorized under this subsection shall be paid in lieu of any allowance authorized by subsection (r)(1).
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §314; Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936; Pub. L. 86–663, §1, July 14, 1960, 74 Stat. 528; Pub. L. 87–645, §§1(a), 2(a), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–20, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–22, §1, May 15, 1963, 77 Stat. 18; Pub. L. 89–311, §§1(a), 3(d), (e), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 90–77, title IV, §401, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–493, §§1(a), 4(a), Aug. 19, 1968, 82 Stat. 808, 809; Pub. L. 91–376, §1(a), Aug. 12, 1970, 84 Stat. 787; Pub. L. 92–328, title I, §101(a), June 30, 1972, 86 Stat. 393; Pub. L. 93–295, title I, §101(a), May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §101(a), Aug. 5, 1975, 89 Stat. 395; Pub. L. 94–433, title I, §101(a), title IV, §§401(4), (5), 404(6)–(8), Sept. 30, 1976, 90 Stat. 1374, 1377, 1378; Pub. L. 95–117, title I, §101(a), Oct. 3, 1977, 91 Stat. 1063; Pub. L. 95–479, title I, §101(a)–(d), Oct. 18, 1978, 92 Stat. 1560, 1561; Pub. L. 96–128, title I, §§101(a), 104, 105, Nov. 28, 1979, 93 Stat. 982, 984; Pub. L. 96–385, title I, §101(a), Oct. 7, 1980, 94 Stat. 1528; Pub. L. 97–66, title I, §§101(a), 104, Oct. 17, 1981, 95 Stat. 1026, 1027; Pub. L. 97–253, title IV, §§404(a), 405(b), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§101(a), 107, 111(a), (b), Oct. 14, 1982, 96 Stat. 1429, 1431, 1432; Pub. L. 98–223, title I, §§101(a), 112, Mar. 2, 1984, 98 Stat. 37, 40; Pub. L. 98–543, title I, §101(a), Oct. 24, 1984, 98 Stat. 2735; Pub. L. 99–238, title I, §101(a), Jan. 13, 1986, 99 Stat. 1765; Pub. L. 99–576, title I, §§101(a), 109(b), Oct. 28, 1986, 100 Stat. 3250, 3253; Pub. L. 100–227, title I, §101(a), Dec. 31, 1987, 101 Stat. 1552; Pub. L. 100–687, div. B, title XI, §1101(a), Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §101(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–3, §2(a), Feb. 6, 1991, 105 Stat. 7; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1114 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–152, §2(a), Nov. 12, 1991, 105 Stat. 985; Pub. L. 103–78, §1, Aug. 13, 1993, 107 Stat. 767; Pub. L. 103–140, §2, Nov. 11, 1993, 107 Stat. 1485; Pub. L. 105–98, §2(a), Nov. 19, 1997, 111 Stat. 2155; Pub. L. 106–118, §2(a), Nov. 30, 1999, 113 Stat. 1601; Pub. L. 106–419, title III, §302, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 107–94, §2(a), Dec. 21, 2001, 115 Stat. 900; Pub. L. 107–103, title II, §204(b)(1), Dec. 27, 2001, 115 Stat. 990; Pub. L. 107–330, title I, §102, title III, §309(a), Dec. 6, 2002, 116 Stat. 2821, 2829; Pub. L. 108–454, title III, §307(a), Dec. 10, 2004, 118 Stat. 3612; Pub. L. 109–111, §2(a), Nov. 22, 2005, 119 Stat. 2362; Pub. L. 109–233, title V, §502(1), (2), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(a), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(a), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–157, title I, §101, Dec. 26, 2007, 121 Stat. 1831; Pub. L. 110–324, §3(a), Sept. 24, 2008, 122 Stat. 3550; Pub. L. 111–37, §3(a), June 30, 2009, 123 Stat. 1928; Pub. L. 111–275, title VI, §601(a), (b)(1), title X, §1001(b), Oct. 13, 2010, 124 Stat. 2884, 2896.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -1000,7 +1002,7 @@ Subsec. (r). Pub. L. 94–433, §§101(a)(16), 401(5), 404(8), increased compens
 
 Subsec. (s). Pub. L. 94–433, §§101(a)(17), 404(8), increased compensation from $732 to $791 and substituted "such veteran's" for "his" after "by reason of" and before "house", respectively.
 
-<b>1975</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139 respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
+<b>1975</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139, respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
 
 <b>1974</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (l) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (o) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
 
@@ -1040,6 +1042,8 @@ Subsec. (s). Pub. L. 87–645, §1(a)(16), increased monthly compensation from $
 
 <b>1958</b>—Subsec. (r). Pub. L. 85–782 added subsec. (r).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–275, title VI, §601(c), Oct. 13, 2010, 124 Stat. 2884, provided that: "The amendments made by this section \[amending this section and section 5503 of this title\] shall take effect on October 1, 2011."
@@ -1062,7 +1066,7 @@ Pub. L. 107–94, §7, Dec. 21, 2001, 115 Stat. 902, provided that: "The amendme
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–118, §7, Nov. 30, 1999, 113 Stat. 1603, provided that: "The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1999."
+Pub. L. 106–118, §7, Nov. 30, 1999, 113 Stat. 1603, provided that: "The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313,and 1314 of this title\] shall take effect on December 1, 1999."
 
 #### Effective Date of 1997 Amendment
 
@@ -1142,7 +1146,7 @@ Pub. L. 96–385, title VI, §601, Oct. 7, 1980, 94 Stat. 1538, provided that:
 
 "(c) The amendments made by section 502 \[amending section 906 \[now 2306\] of this title\] shall apply only with respect to individuals who die after September 30, 1980.
 
-"(d) The amendments made by sections 401, 504, 505 \[enacting sections 1810, 1819, 3113, and 3305 \[now 3710, 3712, 5313, and 5705\] of this title and amending sections 1803 and 1811 \[now 3703 and 3711\] of this title\] and 507 \[not classified to the Code\] shall take effect on the date of the enactment of this Act \[Oct. 7, 1980\].
+"(d) The amendments made by sections 401, 504, 505 \[enacting sections 1810, 1819, 3113, and 3305 \[now 3710, 3712, 5313, and 5705\] of this title and amending sections1803 and 1811 \[now 3703 and 3711\] of this title\] and 507 \[not classified to the Code\] shall take effect on the date of the enactment of this Act \[Oct. 7, 1980\].
 
 "(e) The amendments made by section 508 \[amending former sections 4107 and 4109 of this title\] shall take effect as of August 26, 1980."
 
@@ -1224,17 +1228,17 @@ Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment 
 
 #### Repeal of Temporary Changes in Fiscal Year 1983 Compensation
 
-Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to beeffective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
+Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this titleand enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
-Pub. L. 116–58, §§2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092, provided that:
+Pub. L. 116–178, §§2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854, provided that:
 
 #### "SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
 "(a)
 
-Rate Adjustment.—Effective on December 1, 2019, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2019, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+Rate Adjustment.—Effective on December 1, 2020, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2020, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
 "(b)
 
@@ -1262,13 +1266,15 @@ Dependency and indemnity compensation to children.—Each of the dollar amounts 
 
 "(c)
 
-Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2019, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2020, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 #### "SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2020."
+"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b) \[set out as a note above\], as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2021."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–58, §§2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
 
 Pub. L. 115–258, §§2(a)–(c), (3), Oct. 9, 2018, 132 Stat. 3662, 3663.
 
@@ -1314,9 +1320,11 @@ Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
 
-Pub. L. 116–58, §2(d), Sept. 26, 2019, 133 Stat. 1091, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
+Pub. L. 116–178, §2(d), Oct. 20, 2020, 134 Stat. 853, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–58, §2(d), Sept. 26, 2019, 133 Stat. 1091.
 
 Pub. L. 115–258, §2(d), Oct. 9, 2018, 132 Stat. 3662.
 

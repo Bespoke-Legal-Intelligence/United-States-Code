@@ -84,7 +84,7 @@ Pub. L. 111–148, title X, §10203(b), Mar. 23, 2010, 124 Stat. 927, provided t
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 

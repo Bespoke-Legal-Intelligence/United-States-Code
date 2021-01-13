@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) an explanation, written in a manner calculated to be understood by the average plan participant, of the importance, for the long-term retirement security of participants and beneficiaries, of a well-balanced and diversified investment portfolio, including a statement of the risk that holding more than 20 percent of a portfolio in the security of one entity (such as employer securities) may not be adequately diversified, and
 
-&emsp;&emsp;&emsp;&emsp;(III) a notice directing the participant or beneficiary to the Internet website ofthe Department of Labor for sources of information on individual investing and diversification, and
+&emsp;&emsp;&emsp;&emsp;(III) a notice directing the participant or beneficiary to the Internet website of the Department of Labor for sources of information on individual investing and diversification, and
 
 &emsp;&emsp;&emsp;(iii) the lifetime income disclosure described in subparagraph (D)(i).
 
@@ -124,7 +124,7 @@
 
 #### (A) Alternative notice
 
-&emsp;&emsp;In the case of a defined benefit plan, the requirements of paragraph (1)(B)(i) shall be treated as met with respect to a participant if at least once each year the administrator provides to the participant notice of theavailability of the pension benefit statement and the ways in which the participant may obtain such statement. Such notice may be delivered in written, electronic, or other appropriate form to the extent such form is reasonably accessible to the participant.
+&emsp;&emsp;In the case of a defined benefit plan, the requirements of paragraph (1)(B)(i) shall be treated as met with respect to a participant if at least once each year the administrator provides to the participant notice of the availability of the pension benefit statement and the ways in which the participant may obtain such statement. Such notice may be delivered in written, electronic, or other appropriate form to the extent such form is reasonably accessible to the participant.
 
 #### (B) Years in which no benefits accrue
 
@@ -139,6 +139,8 @@ In no case shall a participant or beneficiary of a plan be entitled to more than
 Each administrator required to register under section 6057 of title 26 shall, before the expiration of the time prescribed for such registration, furnish to each participant described in subsection (a)(2)(C) of such section, an individual statement setting forth the information with respect to such participant required to be contained in the registration statement required by section 6057(a)(2) of title 26. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
 (Pub. L. 93–406, title I, §105, Sept. 2, 1974, 88 Stat. 849; Pub. L. 98–397, title I, §106, Aug. 23, 1984, 98 Stat. 1436; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(b)(5), Dec. 19, 1989, 103 Stat. 2445, 2448; Pub. L. 109–280, title V, §508(a)(1)–(2)(B), Aug. 17, 2006, 120 Stat. 949, 951; Pub. L. 116–94, div. O, title II, §203, Dec. 20, 2019, 133 Stat. 3163.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -161,6 +163,8 @@ Subsec. (d). Pub. L. 109–280, §508(a)(2)(A), struck out heading and text of s
 Subsec. (c). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–397 inserted at end "Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

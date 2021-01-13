@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as providedin paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -26,7 +26,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (1) In general
 
-&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employment network with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection (h)(1). With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
+&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employment network with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection\(h)(1). With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
 
 #### (2) Effect of participation by State agency
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, whileproviding for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -300,7 +300,7 @@ In this section:
 
 #### (4) Title XVI disability beneficiary
 
-&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplementalsecurity income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
+&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
 
 #### (5) Supplemental security income benefit
 
@@ -314,7 +314,7 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 etseq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 

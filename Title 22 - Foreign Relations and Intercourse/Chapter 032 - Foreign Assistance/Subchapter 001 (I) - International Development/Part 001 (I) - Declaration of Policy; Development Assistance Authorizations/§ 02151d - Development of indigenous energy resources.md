@@ -44,25 +44,29 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 #### (e) Authorization of appropriations
 
-(1) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $207,000,000 for fiscal year 1986 and $207,000,000 for fiscal year 1987.
+There is authorized to be appropriated $2,000,000 for fiscal years 2021 through 2023 to finance cooperative projects among the United States, Israel, and developing countries that identify and support local solutions to address sustainability challenges relating to water resources, agriculture, and energy storage, including—
 
-(2) Amounts appropriated under this section are authorized to remain available until expended.
+&emsp;(1) establishing public-private partnerships;
 
-#### (f) Financing cooperative projects among United States, Israel, and developing countries
+&emsp;(2) supporting the identification, research, development testing, and scaling of innovations that focus on populations that are vulnerable to environmental and resource-scarcity crises, such as subsistence farming communities;
 
-Of the amounts authorized to be appropriated to carry out this part, $5,000,000 for fiscal year 1986 and $5,000,000 for fiscal year 1987 shall be used to finance cooperative projects among the United States, Israel, and developing countries.
+&emsp;(3) seed or transition-to-scale funding;
 
-(Pub. L. 87–195, pt. I, §106, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 858; amended Pub. L. 95–88, title I, §105, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §106, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362; Pub. L. 96–533, title III, §304(b)–(f), Dec. 16, 1980, 94 Stat. 3146; Pub. L. 97–113, title III, §304, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 99–83, title III, §307, title XII, §1211(a)(2), Aug. 8, 1985, 99 Stat. 215, 279.)
+&emsp;(4) clear and appropriate branding and marking of United States funded assistance, in accordance with section 2401 of this title; and
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+&emsp;(5) accelerating demonstrations or applications of local solutions to sustainability challenges, or the further refinement, testing, or implementation of innovations that have previously effectively addressed sustainability challenges.
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+(Pub. L. 87–195, pt. I, §106, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 858; amended Pub. L. 95–88, title I, §105, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §106, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362; Pub. L. 96–533, title III, §304(b)–(f), Dec. 16, 1980, 94 Stat. 3146; Pub. L. 97–113, title III, §304, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 99–83, title III, §307, title XII, §1211(a)(2), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 116–283, div. A, title XII, §1278, Jan. 1, 2021, 134 Stat. 3981.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 2151d, Pub. L. 87–195, pt. I, §106, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715, authorized additional appropriations of $53,000,000 for fiscal years 1974, and 1975, for assistance to solve selected development problems in such fields as transportation, power, industry, urban development, and export development, prior to repeal by section 306(1) of Pub. L. 94–161.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (e), (f). Pub. L. 116–283 added subsec. (e) and struck out former subsecs. (e) and (f) which related to authorization of appropriations and financing cooperative projects among United States, Israel, and developing countries, respectively.
 
 <b>1985</b>—Subsec. (b)(1). Pub. L. 99–83, §1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
 
@@ -90,6 +94,12 @@ Subsec. (d). Pub. L. 96–53, §§104(b)(2), 105, redesignated former subsec. (b
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–88 struck out provisions authorizing an appropriation of $99,550,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $105,000,000 for fiscal year 1978.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -101,6 +111,8 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

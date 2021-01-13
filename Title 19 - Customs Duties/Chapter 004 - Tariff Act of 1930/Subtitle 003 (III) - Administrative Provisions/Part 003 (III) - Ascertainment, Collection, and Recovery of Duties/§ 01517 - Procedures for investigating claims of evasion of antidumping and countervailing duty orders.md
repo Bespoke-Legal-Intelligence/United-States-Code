@@ -34,7 +34,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "evasion" does not include entering covered merchandise into the customs territory of the United States by means of—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "evasion" does not include enteringcovered merchandise into the customs territory of the United States by means of—
 
 &emsp;&emsp;&emsp;&emsp;(I) a document or electronically transmitted data or information, written or oral statement, or act that is false as a result of a clerical error; or
 
@@ -178,7 +178,7 @@ In this section:
 
 &emsp;&emsp;(A) issuing a questionnaire with respect to such covered merchandise to—
 
-&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of thatsubsection with respect to such covered merchandise;
+&emsp;&emsp;&emsp;(i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise;
 
 &emsp;&emsp;&emsp;(ii) a person alleged to have entered such covered merchandise into the customs territory of the United States through evasion;
 
@@ -192,7 +192,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Commissioner finds that a party or person described in clause (i), (ii), or (iii) of paragraph (2)(A) has failed to cooperate by not acting to the best of the party or person's ability to comply with a request for information, the Commissioner may, in making a determination under paragraph (1), use an inference that is adverse to the interests of that party or person in selecting from among the facts otherwise available to make the determination.
+&emsp;&emsp;If the Commissioner finds that a party or person described in clause (i), (ii), or (iii) of paragraph (2)(A) has failed to cooperate by not acting to the best of the party or person's ability to comply with a request for information, the Commissioner may, in making a determination under paragraph (1), usean inference that is adverse to the interests of that party or person in selecting from among the facts otherwise available to make the determination.
 
 #### (B) Application
 
@@ -300,7 +300,7 @@ Not later than 90 calendar days after initiating an investigation under subsecti
 
 #### (h) Rule of construction with respect to other civil and criminal proceedings and investigations
 
-No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of anyindividual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
+No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of any individual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
 
 (June 17, 1930, ch. 497, title IV, §517, as added Pub. L. 114–125, title IV, §421(a), Feb. 24, 2016, 130 Stat. 161.)
 
@@ -314,7 +314,7 @@ A prior section 1517, act June 17, 1930, ch. 497, title IV, §517, 46 Stat. 737,
 
 #### Effective Date
 
-Pub. L. 114–125, title IV, §421(c), Feb. 24, 2016, 130 Stat. 168, provided that: "The amendments made by this section \[enacting this section and amending section 1581 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Feb. 24, 2016\]."
+Pub. L. 114–125, title IV, §421(c), Feb. 24, 2016, 130 Stat. 168, provided that: "The amendments made by this section \[enacting this section and amending section 1581 of Title 28, Judiciary and Judicial Procedure\] shall takeeffect on the date that is 180 days after the date of the enactment of this Act \[Feb. 24, 2016\]."
 
 #### Regulations
 

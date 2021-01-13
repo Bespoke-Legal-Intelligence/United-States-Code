@@ -78,7 +78,7 @@ In this section:
 
 #### (3) Application
 
-&emsp;To receive a grant from the Secretary under paragraph (1), an eligible applicant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a written assurance that—
+&emsp;To receive a grant from the Secretary under paragraph (1), an eligible applicant shall submit to the Secretary an application at suchtime, in such manner, and containing such information as the Secretary may require, including a written assurance that—
 
 &emsp;&emsp;(A) all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a grant under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and
 

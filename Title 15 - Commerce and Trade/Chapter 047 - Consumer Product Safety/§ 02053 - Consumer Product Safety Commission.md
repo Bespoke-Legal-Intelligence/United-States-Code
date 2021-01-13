@@ -28,7 +28,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (2) In carrying out any of his functions under the provisions of this subsection the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 
-(3) Requests or estimates for regular, supplemental, or deficiency appropriations on behalf ofthe Commission may not be submitted by the Chairman without the prior approval of the Commission.
+(3) Requests or estimates for regular, supplemental, or deficiency appropriations on behalf of the Commission may not be submitted by the Chairman without the prior approval of the Commission.
 
 #### (g) Executive Director; officers and employees
 
@@ -84,7 +84,7 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
 
-Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for thetransaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
+Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the dateof the vacancy which caused the number of Commission members to decline to two".
 
 Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule."
 

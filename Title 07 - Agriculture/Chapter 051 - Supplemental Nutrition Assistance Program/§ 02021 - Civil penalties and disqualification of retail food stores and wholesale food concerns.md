@@ -36,7 +36,7 @@ Subject to subsection (c), a disqualification under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(II) the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
 
-&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conductor approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
 
 &emsp;(4) for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 
@@ -74,7 +74,7 @@ Subject to subsection (c), a disqualification under subsection (a) shall be—
 
 #### (e) Transfer of ownership; penalty in lieu of disqualification period; fines for acceptance of loose coupons; judicial action to recover penalty or fine
 
-(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations toreflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
+(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations to reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
 
 (2) At any time after a civil penalty imposed under paragraph (1) has become final under the provisions of section 2023(a) of this title, the Secretary may request the Attorney General to institute a civil action against the person or persons subject to the penalty in a district court of the United States for any district in which such person or persons are found, reside, or transact business to collect the penalty and such court shall have jurisdiction to hear and decide such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
@@ -88,7 +88,7 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations providing criteria for the disqualification under this chapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
+&emsp;The Secretary shall issue regulations providing criteria for the disqualification under thischapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
 
 #### (2) Terms
 
@@ -134,7 +134,7 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 &emsp;&emsp;&emsp;(i) the supplemental nutrition assistance program is separately administered in the area; and
 
-&emsp;&emsp;&emsp;(ii) if the administration of the supplemental nutrition assistance program inthe area complies with the other applicable requirements of the program.
+&emsp;&emsp;&emsp;(ii) if the administration of the supplemental nutrition assistance program in the area complies with the other applicable requirements of the program.
 
 #### (2) Selection criteria
 

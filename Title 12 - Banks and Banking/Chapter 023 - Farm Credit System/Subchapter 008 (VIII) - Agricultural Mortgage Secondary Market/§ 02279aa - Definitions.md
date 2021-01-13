@@ -70,6 +70,8 @@ For purposes of this subchapter:
 
 (Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, §5411(42), Dec. 20, 2018, 132 Stat. 4683.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
@@ -124,6 +126,8 @@ Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to ame
 
 <b>1988</b>—Par. (9)(B)(ii). Pub. L. 100–399 substituted "holding" for "hold" and struck out "and" before "are".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -152,5 +156,5 @@ Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that
 
 #### GAO Studies
 
-Pub. L. 100–233, title VII, §704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of thistitle and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
+Pub. L. 100–233, title VII, §704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
 

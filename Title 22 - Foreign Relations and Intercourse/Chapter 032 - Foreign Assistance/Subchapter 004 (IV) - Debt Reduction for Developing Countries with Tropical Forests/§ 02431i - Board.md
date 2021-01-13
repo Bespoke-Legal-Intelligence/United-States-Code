@@ -42,15 +42,21 @@ The duties described in this subsection are as follows:
 
 (Pub. L. 87–195, pt. V, §811, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 892; amended Pub. L. 107–26, §3, Aug. 17, 2001, 115 Stat. 206; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsecs. (a), (b)(2). Pub. L. 110–246 made technical amendments to references in original act which appear in text as references to section 1738i(a) of title 7 in subsec. (a) and section 1781i(b)(2) of title 7 in subsec. (b)(2).
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–26 substituted "and shall be the representative from the Department of State appointed under section 1738i(b)(1)(A) of title 7" for "from among the representatives appointed under section 1738i(b)(1)(A) of title 7 or paragraph (1)(A) of this subsection".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

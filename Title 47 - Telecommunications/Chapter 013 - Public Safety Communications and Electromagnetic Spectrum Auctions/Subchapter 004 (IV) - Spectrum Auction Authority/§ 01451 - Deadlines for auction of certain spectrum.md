@@ -58,6 +58,8 @@
 
 (Pub. L. 112–96, title VI, §6401, Feb. 22, 2012, 126 Stat. 222.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section 6401 of Pub. L. 112–96 amended section 309 of this title.

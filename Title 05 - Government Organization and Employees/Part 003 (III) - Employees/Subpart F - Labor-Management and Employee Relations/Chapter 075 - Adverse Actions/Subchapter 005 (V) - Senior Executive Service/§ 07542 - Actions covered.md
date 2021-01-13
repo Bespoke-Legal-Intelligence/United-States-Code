@@ -4,11 +4,15 @@ This subchapter applies to a removal from the civil service or suspension for mo
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, §1704(d)(1), Aug. 13, 1981, 95 Stat. 758; Pub. L. 101–12, §9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–12 substituted "1215" for "1206".
 
 <b>1981</b>—Pub. L. 97–35 inserted reference to section 3595 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

@@ -48,6 +48,8 @@ Definition.—As used in this section, the term "variola virus" means a virus th
 
 (Added Pub. L. 108–458, title VI, §6906, Dec. 17, 2004, 118 Stat. 3773.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings and Purpose
 
 Pub. L. 108–458, title VI, §6902, Dec. 17, 2004, 118 Stat. 3769, provided that:

@@ -62,6 +62,8 @@ Applicability of Federal Advisory Committee Act.—(1) Except as provided in par
 
 (Added Pub. L. 110–389, title II, §214(a), Oct. 10, 2008, 122 Stat. 4152.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

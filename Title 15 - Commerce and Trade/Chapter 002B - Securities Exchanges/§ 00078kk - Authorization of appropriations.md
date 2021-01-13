@@ -42,7 +42,7 @@ Pub. L. 94–29, which directed amendment of the Securities Exchange Act of 1934
 
 <b>1978</b>—Pub. L. 95–425 inserted provision authorizing appropriations of not to exceed $69,000,000, and $79,000,000 for fiscal years ending Sept. 30, 1979 and 1980, respectively, and substituted "fiscal year 1980" for "fiscal year 1978".
 
-<b>1977</b>—Pub. L. 95–211 authorized appropriations of not to exceed $63,750,000 for fiscal year ending Sept. 30, 1978, and substituted "For the fiscal years succeeding fiscal year 1978" for "For fiscal years succeeding the 1977 fiscal year" in provisions relating to appropriations for succeeding fiscal years.
+<b>1977</b>—Pub. L. 95–211 authorized appropriations of not to exceed $63,750,000 for fiscal year ending Sept. 30, 1978,and substituted "For the fiscal years succeeding fiscal year 1978" for "For fiscal years succeeding the 1977 fiscal year" in provisions relating to appropriations for succeeding fiscal years.
 
 Pub. L. 95–20 substituted "$56,500,000" for "$55,000,000".
 

@@ -6,6 +6,8 @@
 
 (Pub. L. 88–454, §105(b), Aug. 20, 1964, 78 Stat. 551; Pub. L. 94–303, title I, §118(c), June 1, 1976, 90 Stat. 616.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 162b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -13,6 +15,8 @@ Section was classified to section 162b of former Title 40, prior to the enactmen
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

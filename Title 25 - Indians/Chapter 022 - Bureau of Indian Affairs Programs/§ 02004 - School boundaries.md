@@ -20,7 +20,7 @@ In any case where there is more than one Bureau-funded school located on an Indi
 
 #### (2) Revision process
 
-&emsp;Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs.The Secretary shall cause such revisions to be published in the Federal Register.
+&emsp;Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs. The Secretary shall cause such revisions to be published in the Federal Register.
 
 #### (3) Tribal resolution determination
 
@@ -30,7 +30,7 @@ In any case where there is more than one Bureau-funded school located on an Indi
 
 #### (1) In general
 
-&emsp;The Secretary shall not deny funding to a Bureau-funded school for any eligible Indian student attending the school solely because that student's home or domicile is outside of the geographical attendance area established for that school under this section.
+&emsp;The Secretary shall not deny funding to a Bureau-funded school for any eligible Indianstudent attending the school solely because that student's home or domicile is outside of the geographical attendance area established for that school under this section.
 
 #### (2) Transportation
 
@@ -56,11 +56,15 @@ When there is only one Bureau-funded program located on an Indian reservation—
 
 (Pub. L. 95–561, title XI, §1124, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2019.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2004, Pub. L. 95–561, title XI, §1124, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2004, Pub. L. 95–561, title XI, §1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, §503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, §3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, §5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

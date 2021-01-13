@@ -132,6 +132,8 @@ Required updates.—For each Level 1 or Level 2 acquisition project or program t
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2942, §572; amended Pub. L. 114–120, title II, §204(a), Feb. 8, 2016, 130 Stat. 34; renumbered §1132, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 572 of this title as this section.

@@ -48,6 +48,8 @@ Aug. 5, 1955, ch. 568, §101 (4th par. under "Administrative Provisions"), 69 St
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives." for "Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House."
@@ -57,6 +59,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

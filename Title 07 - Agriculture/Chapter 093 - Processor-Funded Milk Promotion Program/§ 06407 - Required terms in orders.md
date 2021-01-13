@@ -62,7 +62,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (1) Budgets
 
-&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may benecessary after the beginning of the fiscal year, to develop budgets of the anticipated expenses and disbursements of the Board in the implementation of the order, including projected costs of research and advertising. The budget shall be submitted to the Secretary and be effective on the approval of the Secretary.
+&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of the fiscal year, to develop budgets of the anticipated expenses and disbursements of the Board in the implementation of the order, including projected costs of research and advertising. The budget shall be submitted to the Secretary and be effective on the approval of the Secretary.
 
 #### (2) Incurring expenses
 
@@ -128,7 +128,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (2) Audits
 
-&emsp;The Board shall cause the books and records of the Board to be audited by an independent auditor at the end of each fiscal year. A report of each such audit shall be submitted to the Secretary.
+&emsp;The Board shall cause the books and records of the Board to be audited by an independentauditor at the end of each fiscal year. A report of each such audit shall be submitted to the Secretary.
 
 #### (i) Books and records of processors
 
@@ -144,7 +144,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, orto which the Secretary or any officer of the United States is a party, and involving the order.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
 
 #### (B) Availability of information
 

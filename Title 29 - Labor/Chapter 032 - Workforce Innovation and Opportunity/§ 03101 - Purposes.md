@@ -16,9 +16,13 @@ The purposes of this Act are the following:
 
 (Pub. L. 113–128, §2, July 22, 2014, 128 Stat. 1428.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -64,7 +68,7 @@ Implementation.—Sections 112 and 118 of the Workforce Investment Act of 1998 (
 
 Special provisions.—For purposes of the application described in paragraph (1)—
 
-&emsp;&emsp;"(A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act (29 U.S.C. 2801 et seq.), other than to a provision in or to either such section or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act;
+&emsp;&emsp;"(A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act (29 U.S.C. 2801 et seq.), other than to a provision in or to either suchsection or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act;
 
 &emsp;&emsp;"(B) the terms 'local area', 'local board', 'one-stop partner', and 'State board' have the meanings given the terms in section 3 of this Act;
 
@@ -102,9 +106,11 @@ Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided th
 
 &emsp;"(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13845. Establishing the President's National Council for the American Worker
 
-Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, §5, Dec. 12, 2018, 83 F.R. 65073, provided:
+Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, §5, Dec. 12, 2018, 83 F.R. 65073; Ex. Ord. No. 13931, §1, June 26, 2020, 85 F.R. 39455, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing a national strategy to ensure that America's students and workers have access to affordable, relevant, and innovative education and job training that will equip them to compete and win in the global economy, and for monitoring the implementation of that strategy, it is hereby ordered as follows:
 
@@ -194,13 +200,13 @@ Sec. 8. <i>Establishment of the American Workforce Policy Advisory Board</i>. (a
 
 Sec. 9. <i>Administrative Provisions</i>. (a) The Department of Commerce shall provide the Council and the Board with funding and administrative support as may be necessary for the performance of their functions.
 
-(b) The Secretary of Commerce, in consultation with the Co-Chairs of the Council, shall designate an official to serve as Executive Director, to coordinate the day-to-day functions of the Council.
+(b) The Secretary of Commerce, in consultation with the Co-Chairs of the Council, shall designate an officialto serve as Executive Director, to coordinate the day-to-day functions of the Council.
 
 (c) To the extent permitted by law, including the Economy Act (31 U.S.C. 1535), and subject to the availability of appropriations, other agencies may detail staff to the Council, or otherwise provide administrative support, in order to advance the Council's functions.
 
 (d) Agencies shall cooperate with the Council and provide such information regarding its current and planned activities related to policies that affect the American workforce as the Co-Chairs shall reasonably request, to the extent permitted by law.
 
-Sec. 10. <i>Termination of Council</i>. The Council shall terminate 2 years after the date of this order, unless extended by the President.
+Sec. 10. <i>Termination of Council</i>. The Council shall terminate on September 30, 2021, unless extended by the President.
 
 Sec. 11. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -213,4 +219,6 @@ Sec. 11. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13931, §2, June 26, 2020, 85 F.R. 39455, provided that: "The American Workforce Policy Advisory Board established by Executive Order 13845 \[set out above\], as amended, is continued until September 30, 2021."\]
 

@@ -88,7 +88,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 &emsp;The administering authority may not reduce the antidumping duty applicable to a class or kind of merchandise from a nonmarket economy country under this subsection by more than the portion of the countervailing duty rate attributable to a countervailable subsidy that is provided with respect to the class or kind of merchandise and that meets the conditions described in subparagraphs (A), (B), and (C) of paragraph (1).
 
-(June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889,4916; Pub. L. 112–99, §2(a), Mar. 13, 2012, 126 Stat. 265.)
+(June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889, 4916; Pub. L. 112–99, §2(a), Mar. 13, 2012, 126 Stat. 265.)
 
 #### Amendments
 

@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and except as provided in subsection (b), this part and part C insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+&emsp;Subject to paragraph (2) and except as provided in subsection (b), this part, part D, and part C insofar as it relates to this part or part D shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part or part D.
 
 #### (2) Continued preemption with respect to group health plans
 
-&emsp;Nothing in this part shall be construed to affect or modify the provisions of section 1144 of title 29 with respect to group health plans.
+&emsp;Nothing in this part or part D shall be construed to affect or modify the provisions of section 1144 of title 29 with respect to group health plans.
 
 #### (b) Special rules in case of portability requirements
 
@@ -36,7 +36,7 @@
 
 #### (c) Rules of construction
 
-Nothing in this part (other than section 2704) <sup>1</sup> shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
+Nothing in this part (other than section 2704) <sup>1</sup> or part D shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
 
 #### (d) Definitions
 
@@ -50,11 +50,15 @@ For purposes of this section—
 
 &emsp;The term "State" includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
-(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a),Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(D), Dec. 27, 2020, 134 Stat. 2772.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 102(a)(3)(D) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
 #### References in Text
 
-Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1,1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 Section 701, referred to in subsec. (b)(1), probably means "section 2701" of act July 1, 1944. See note above.
 
@@ -62,9 +66,19 @@ Section 2704, referred to in subsec. (c), is a reference to section 2704 of act 
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §102(a)(3)(D)(i), substituted "this part, part D, and part C insofar as it relates to this part or part D" for "this part and part C insofar as it relates to this part" and inserted "or part D" before period at end.
+
+Subsec. (a)(2). Pub. L. 116–260, §102(a)(3)(D)(ii), inserted "or part D" after "this part".
+
+Subsec. (c). Pub. L. 116–260, §102(a)(3)(D)(iii), inserted "or part D" after "this part (other than section 2704)".
+
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–204 inserted "(other than section 2704)" after "part".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 

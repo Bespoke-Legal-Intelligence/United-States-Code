@@ -26,5 +26,5 @@ Pub. L. 96–164, title II, §210, Dec. 29, 1979, 93 Stat. 1264.
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of Title 42, The Public Health and Welfare.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of Title 42, The Public Health and Welfare.
 

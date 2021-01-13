@@ -108,7 +108,7 @@ As used in this chapter—
 
 #### (h) Insured bank
 
-&emsp;The term "insured bank" means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter;and the term "noninsured bank" means any bank the deposits of which are not so insured.
+&emsp;The term "insured bank" means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter; and the term "noninsured bank" means any bank the deposits of which are not so insured.
 
 #### (i) New depository institution and bridge depository institution defined
 
@@ -132,7 +132,7 @@ As used in this chapter—
 
 &emsp;The term "deposit" means—
 
-&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
+&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thriftcertificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
 
 &emsp;&emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
 
@@ -268,7 +268,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 &emsp;The term "institution-affiliated party" means—
 
-&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company or savings and loan holding company) of, or agent for, an insured depository institution;
+&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bankholding company or savings and loan holding company) of, or agent for, an insured depository institution;
 
 &emsp;&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
 
@@ -364,6 +364,8 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 (Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Reserve Act, referred to in subsec. (q)(3)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
@@ -396,7 +398,7 @@ Subsec. (z). Pub. L. 111–203, §363(1)(C), struck out "the Director of the Off
 
 "(1)
 
-New bank.—The term 'new bank' means a new national bank, other than a bridge bank, organized bythe Corporation in accordance with section 1821(m) of this title.
+New bank.—The term 'new bank' means a new national bank, other than a bridge bank, organized by the Corporation in accordance with section 1821(m) of this title.
 
 "(2)
 
@@ -574,7 +576,7 @@ Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit accountand certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted "Guam," after "Puerto Rico," and substituted a comma for the period and inserted "and the word 'State' means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands".
 
@@ -587,6 +589,8 @@ Subsec. (m). Act Aug. 1, 1956, §3(d), inserted "of Guam," after "of Puerto Rico
 Subsec. (o). Act Aug. 1, 1956, §3(b), inserted "Guam," after "Puerto Rico,".
 
 <b>1952</b>—Subsec. (l). Act July 14, 1952, made it compulsory for banks having branches in Puerto Rico to insure their deposits.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

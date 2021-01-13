@@ -38,6 +38,8 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 (Pub. L. 94–200, title III, §305, Dec. 31, 1975, 89 Stat. 1126; Pub. L. 101–73, title VII, §744(p)(1), title XII, §1211(g), Aug. 9, 1989, 103 Stat. 440, 526; Pub. L. 102–242, title II, §212(a)(2), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 111–203, title X, §1094(1), (4), July 21, 2010, 124 Stat. 2097, 2099.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -46,7 +48,7 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)
 
 This subtitle, referred to in subsec. (b)(1)(B), probably refers to subtitle E of the Consumer Financial Protection Act of 2010. See above. Title III of Pub. L. 94–200, which enacted this chapter, does not contain subtitles.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(C), is act June 26, 1934, ch. 750, 48 Stat. 1216, whichis classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(C), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 #### Amendments
 
@@ -69,6 +71,8 @@ Subsec. (b)(1). Pub. L. 102–242, §212(a)(2)(A), added par. (1) and struck out
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–73, §744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 1464(d) of this title, section 1730 of this title, and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and".
 
 Subsec. (b)(4). Pub. L. 101–73, §1211(g), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

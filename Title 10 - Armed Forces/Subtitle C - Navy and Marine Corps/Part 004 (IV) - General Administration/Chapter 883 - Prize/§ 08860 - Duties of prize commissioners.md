@@ -28,7 +28,7 @@ One or more of the prize commissioners shall—
 
 &emsp;&emsp;(D) their inventory of the prize property; and
 
-&emsp;(10) report to the Secretary of the Navy, if, in their judgment, any of the prize property is useful to the United States in the prosecution of war.
+&emsp;(10) report to the Secretary of the Navy, if, in their judgment, any of the prize property isuseful to the United States in the prosecution of war.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 477, §7660; renumbered §8860 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(9), 809(a), Aug. 13, 2018, 132 Stat. 1837, 1840.)
 

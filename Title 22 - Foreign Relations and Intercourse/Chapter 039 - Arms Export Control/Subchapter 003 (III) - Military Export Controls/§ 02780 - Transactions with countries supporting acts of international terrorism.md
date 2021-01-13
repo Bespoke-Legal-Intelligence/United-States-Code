@@ -14,7 +14,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;(3) Consenting under section 2753(a) of this title, under section 505(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2314(a)\], under the regulations issued to carry out section 2778 of this title, or under any other law (except as provided in subsection (h)), to any transfer of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been transferred to such country.
 
-&emsp;(4) Providing any license or other approval under section 2778 of this title for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
+&emsp;(4) Providing any license or other approval under section 2778 of this title for any exportor other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
 
 &emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d). This paragraph applies with respect to activities undertaken—
 
@@ -162,6 +162,8 @@ As used in this section—
 
 (Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original "this Act", and this chapter, referred to in subsec. (i)(2), was in the original "the Arms Export Control Act", both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
@@ -200,7 +202,9 @@ Prohibition.—Except as provided in subsection (b) of this section, items on th
 
 "(b)
 
-Waiver.—The President may waive the prohibition contained in subsection (a) of this section in the case of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver."
+Waiver.—The President may waive the prohibition contained in subsection (a) of this section in thecase of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

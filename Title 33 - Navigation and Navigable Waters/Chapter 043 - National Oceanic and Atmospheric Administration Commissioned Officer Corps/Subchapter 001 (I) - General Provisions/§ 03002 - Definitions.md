@@ -20,19 +20,25 @@ In this chapter:
 
 &emsp;The term "officer" means an officer of the commissioned corps.
 
-#### (4) Flag officer
+#### (4) Officer candidate
+
+&emsp;The term "officer candidate" means an individual who is enrolled in the basic officer training program of the Administration and is under consideration for appointment as an officer under section 3021(a)(2)(A) of this title.
+
+#### (5) Flag officer
 
 &emsp;The term "flag officer" means an officer serving in, or having the grade of, vice admiral, rear admiral, or rear admiral (lower half).
 
-#### (5) Secretary
+#### (6) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Commerce.
 
-#### (6) Administration
+#### (7) Administration
 
 &emsp;The term "Administration" means the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 107–372, title II, §212, Dec. 19, 2002, 116 Stat. 3082.)
+(Pub. L. 107–372, title II, §212, Dec. 19, 2002, 116 Stat. 3082; Pub. L. 116–259, title III, §305(c), Dec. 23, 2020, 134 Stat. 1173.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,4 +47,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 857–1 of this title prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(4) to (7). Pub. L. 116–259 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 

@@ -66,7 +66,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 &emsp;All other amounts recovered shall be used, in order of priority—
 
-&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including for costs of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
+&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including forcosts of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
 
 &emsp;&emsp;(B) to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, giving priority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
 

@@ -178,6 +178,8 @@ In subsection (h)(2), the words "committee of Congress" are substituted for "com
 
 In subsection (i), before clause (1), the words "committee of Congress" are substituted for "committee of the House or Senate, or of any joint committee of the two Houses" for consistency and to eliminate unnecessary words. The words "making the request" are omitted as surplus. The words "Comptroller General" are substituted for "General Accounting Office" for consistency. In clause (1), the word "evaluate" is substituted for "review" for consistency in the revised title. In clause (2), the words "including requests for appropriations" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g), respectively, by Pub. L. 104–316, title I, §115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
@@ -190,13 +192,15 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 <b>1997</b>—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
-<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struckout former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
 
 &emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
 
 &emsp;"(2) the scope and subject matter of audits under section 713 of this title; and
 
 &emsp;"(3) findings, conclusions, or recommendations the Comptroller General develops as a result of an audit under section 713 of this title, including significant evidence of inefficiency or mismanagement."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -232,7 +236,7 @@ Annual Reports.—The Comptroller General shall include—
 
 &emsp;&emsp;"(C) an assessment of the role of sections 2, 3, 4, 6, 7, 9, and 10 of this Act in contributing to the General Accounting Office's \[now Government Accountability Office\] ability to carry out its mission, meet its performance goals, and fulfill its strategic plan; and
 
-&emsp;"(2) in each report submitted to Congress under such section 719(a) after the effective date of section 3 of this Act \[see Effective Date of 2004 Amendment note under section 731 of this title\] and before the close of the 5-year period referred to in paragraph (1)—
+&emsp;"(2) in each report submitted to Congress under such section 719(a) after the effective date of section 3 of this Act \[see Effective Date of 2004 Amendment note under section 731 of this title\] and before theclose of the 5-year period referred to in paragraph (1)—
 
 &emsp;&emsp;"(A) a detailed description of the methodologies applied under section 3 of this Act and the manner in which such methodologies were applied to determine the appropriate annual pay adjustments for officers and employees of the Office;
 

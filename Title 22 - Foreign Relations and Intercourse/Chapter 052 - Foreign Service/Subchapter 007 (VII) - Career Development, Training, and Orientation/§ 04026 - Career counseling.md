@@ -18,9 +18,13 @@ In order to facilitate their transition from the Service, the Secretary may prov
 
 (Pub. L. 96–465, title I, §706, Oct. 17, 1980, 94 Stat. 2101; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2314(a), Oct. 21, 1998, 112 Stat. 2681–827.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted at end "Career counseling and related services provided pursuant to this chapter shall not be construed to permit an assignment that consists primarily of paid time to conduct a job search and without other substantive duties for more than one month."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -28,5 +32,5 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2314(b), Oct. 21, 1998, 112
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

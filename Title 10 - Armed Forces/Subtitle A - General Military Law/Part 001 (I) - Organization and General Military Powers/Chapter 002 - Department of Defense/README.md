@@ -13,8 +13,19 @@
 | \[115b. | Repealed.\] |
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system.md) | Readiness reporting system. |
-| [118\.](%C2%A7%2000118%20-%20Annual%20report%20on%20major%20weapons%20systems%20sustainment.md) | Annual report on major weapons systems sustainment. |
-| [118a.](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md) | Quadrennial quality of life review. |
+| [118\.](%C2%A7%2000118%20-%20Materiel%20readiness%20metrics%20and%20objectives%20for%20major%20weapon%20systems.md) | Materiel readiness metrics and objectives for major defense acquisition programs.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 118a.<sup>2</sup> | National Defense Sustainment and Logistics Review. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 118a.<sup>2</sup> | Quadrennial quality of life review. |
 | \[118b. | Repealed.\] |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 | [119a.](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md) | Programs managed under alternative compensatory control measures: congressional oversight. |
@@ -23,6 +34,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title III, §§341(b), 347(b), Jan. 1, 2021, 134 Stat. 3537, 3541, substituted "Materiel readiness metrics and objectives for major defense acquisition programs" for "Annual report on major weapons systems sustainment" in item 118 and added item 118a "National Defense Sustainment and Logistics Review".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, amended directory language of Pub. L. 115–232, §331(g)(2), and provided that the amendment is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted. See 2018 Amendment note below.
 
@@ -46,7 +59,7 @@ Pub. L. 113–291, div. A, title X, §1072(a)(2), Dec. 19, 2014, 128 Stat. 3516,
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(1), Oct. 14, 2008, 122 Stat. 4612, added item 118b.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title V, §581(a)(2), title X, §1061(b), Dec. 2, 2002, 116 Stat. 2561, 2649, added items 113a and 118a.
+<b>2002</b>—Pub. L. 107–314, div. A, title V, §581(a)(2), title X, §1061(b), Dec. 2, 2002, 116 Stat. 2561, 2649, added item 113a and item 118a "Quadrennial quality of life review".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title IX, §901(a)(2), Oct. 5, 1999, 113 Stat. 717, added item 118.
 
@@ -66,6 +79,10 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 
 <b>1986</b>—Pub. L. 99–433, title I, §101(a)(1), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 2, consisting of items 111 to 118.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> So in original. Two items 118a have been enacted.</i>
+
 
 ---
 
@@ -82,8 +99,9 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 - [&sect; 00115b - Repealed. Pub. L. 114&#8211;328, div. A, title XI, &sect;1102(a), Dec. 23, 2016, 130 Stat. 2444](%C2%A7%2000115b%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A71102%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202444.md)
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
 - [&sect; 00117 - Readiness reporting system](%C2%A7%2000117%20-%20Readiness%20reporting%20system.md)
-- [&sect; 00118 - Annual report on major weapons systems sustainment](%C2%A7%2000118%20-%20Annual%20report%20on%20major%20weapons%20systems%20sustainment.md)
-- [&sect; 00118a - Quadrennial quality of life review](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md)
+- [&sect; 00118 - Materiel readiness metrics and objectives for major weapon systems](%C2%A7%2000118%20-%20Materiel%20readiness%20metrics%20and%20objectives%20for%20major%20weapon%20systems.md)
+- [&sect; 00118a - 1 National Defense Sustainment and Logistics Review](%C2%A7%2000118a%20-%201%20National%20Defense%20Sustainment%20and%20Logistics%20Review.md)
+- [&sect; 00118a - 1 Quadrennial quality of life review](%C2%A7%2000118a%20-%201%20Quadrennial%20quality%20of%20life%20review.md)
 - [&sect; 00118b - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1072(b)(1), Dec. 19, 2014, 128 Stat. 3516](%C2%A7%2000118b%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203516.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)
 - [&sect; 00119a - Programs managed under alternative compensatory control measures congressional oversight](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md)

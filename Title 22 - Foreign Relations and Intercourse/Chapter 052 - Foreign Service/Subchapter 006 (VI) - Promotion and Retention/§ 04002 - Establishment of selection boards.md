@@ -24,11 +24,15 @@ No public members appointed pursuant to this section may be, at the time of thei
 
 (Pub. L. 96–465, title I, §602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, §142, Feb. 16, 1990, 104 Stat. 36; Pub. L. 104–65, §12(c), Dec. 19, 1995, 109 Stat. 701.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–65 inserted "or a lobbyist for a foreign entity (as defined in section 1602(6) of title 2)" before "or receive income".
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–246 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

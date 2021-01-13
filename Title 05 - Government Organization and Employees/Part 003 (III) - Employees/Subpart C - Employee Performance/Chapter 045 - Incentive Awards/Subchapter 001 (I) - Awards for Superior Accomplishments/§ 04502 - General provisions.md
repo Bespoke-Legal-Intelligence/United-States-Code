@@ -34,6 +34,8 @@ In subsection (c), the word "Government" is substituted for "Government of the U
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
@@ -47,6 +49,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Subsec. (a). Pub. L. 95–454, §503(b), substituted "$10,000" for "$5,000".
 
 Subsec. (b). Pub. L. 95–454, §503(c), substituted "Office of Personnel Management" for "Civil Service Commission", "$10,000" for "$5,000", and "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -63,6 +67,8 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–454, title V, §504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -64,6 +64,8 @@
 
 (Added Pub. L. 101–630, title IV, §404(a)(1), Nov. 28, 1990, 104 Stat. 4547; amended Pub. L. 103–322, title XXXIII, §§330011(d), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 amended directory language of Pub. L. 103–322, §330011(d). See 1994 Amendment note below.
@@ -71,6 +73,8 @@
 <b>1994</b>—Pub. L. 103–322, §330011(d), as amended by Pub. L. 104–294, amended directory language of Pub. L. 101–630, §404(a)(1), which enacted this section.
 
 Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted "fined under this title" for "fined not more than $5,000" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

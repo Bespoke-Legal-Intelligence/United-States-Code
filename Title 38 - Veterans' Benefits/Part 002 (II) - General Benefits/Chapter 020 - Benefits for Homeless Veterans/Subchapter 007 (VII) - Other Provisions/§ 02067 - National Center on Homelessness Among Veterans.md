@@ -6,7 +6,7 @@ In General.—(1) The Secretary shall establish and operate a center to carry ou
 
 (2) The center established under paragraph (1) shall be known as the "National Center on Homelessness Among Veterans".
 
-(3) To the degree practicable, the Secretary shall operate the center established under paragraph (1) independently of the other programs ofthe Department that address homelessness among veterans.
+(3) To the degree practicable, the Secretary shall operate the center established under paragraph (1) independently of the other programs of the Department that address homelessness among veterans.
 
 (b)
 

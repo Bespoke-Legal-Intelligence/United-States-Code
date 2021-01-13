@@ -64,7 +64,7 @@
 
 It shall be the function of the Access Board to—
 
-&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled "An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
+&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled "An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (includingthe application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
 &emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
@@ -104,7 +104,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance orrolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
-(1)(A) In carrying out the technical assistance responsibilities of the Access Board under thissection, the Board may enter into an interagency agreement with another Federal department or agency.
+(1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
@@ -152,6 +152,8 @@ There are authorized to be appropriated for the purpose of carrying out the duti
 
 (Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, §456(b), July 22, 2014, 128 Stat. 1675.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive level IV, referred to in subsec. (a)(1)(B), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -162,7 +164,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 
 #### Codification
 
-Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that reportto the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
+Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
 
@@ -232,7 +234,7 @@ Subsec. (g). Pub. L. 102–569, §504(f), designated existing provisions as par.
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" wherever appearing.
 
-Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The AccessBoard may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
+Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" before "with full access".
 
@@ -294,7 +296,7 @@ Subsec. (h)(3). Pub. L. 96–374, §1321(b), added par. (3).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans' Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards arebased on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
 Subsec. (b)(2). Pub. L. 95–602, §118(b)(2), inserted "communication," before "and attitudinal" and "telecommunication devices," before "public buildings".
 
@@ -334,6 +336,8 @@ Subsec. (h). Pub. L. 93–516, §110, authorized appropriation of $1,500,000 for
 
 Pub. L. 93–651, §110, amended subsec. (h) in exactly the same manner as it was amended by Pub. L. 93–516.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under section 1001 of Title 20, Education.
@@ -372,7 +376,7 @@ In general.—The working group shall develop, not later than 1 year after the d
 
 &emsp;&emsp;"(B)
 
-Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner thatprovides access to interested individuals, including individuals with disabilities.
+Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities.
 
 &emsp;&emsp;"(C)
 

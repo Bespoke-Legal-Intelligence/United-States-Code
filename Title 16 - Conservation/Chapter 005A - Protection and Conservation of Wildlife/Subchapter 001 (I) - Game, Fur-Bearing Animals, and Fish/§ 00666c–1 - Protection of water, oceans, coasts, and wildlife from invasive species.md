@@ -96,7 +96,7 @@ In this section:
 
 #### (b) Control and management
 
-Each Secretary concerned shall plan and carry out activities on land directly managed by theSecretary concerned to protect water and wildlife by controlling and managing invasive species—
+Each Secretary concerned shall plan and carry out activities on land directly managed by the Secretary concerned to protect water and wildlife by controlling and managing invasive species—
 
 &emsp;(1) to inhibit or reduce the populations of invasive species; and
 
@@ -114,13 +114,17 @@ Each Secretary concerned shall plan and carry out activities on land directly ma
 
 &emsp;&emsp;(A) in coordination with affected—
 
-&emsp;&emsp;&emsp;(i) eligible States; and
+&emsp;&emsp;&emsp;(i) relevant Federal agencies;
 
-&emsp;&emsp;&emsp;(ii) political subdivisions of eligible States;
+&emsp;&emsp;&emsp;(ii) eligible States; and
 
-&emsp;&emsp;(B) in consultation with federally recognized Indian tribes; and
+&emsp;&emsp;&emsp;(iii) political subdivisions of eligible States;
 
-&emsp;&emsp;(C) in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
+&emsp;&emsp;(B) in consultation with stakeholders, including nongovernmental organizations and industry;
+
+&emsp;&emsp;(C) in consultation with federally recognized Indian tribes; and
+
+&emsp;&emsp;(D) in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
 
 #### (3) Factors for consideration
 
@@ -264,11 +268,27 @@ The purpose of any invasive species-related investigation carried out under a co
 
 Each project and activity carried out pursuant to this section shall be coordinated with affected local governments in a manner that is consistent with section 1712(c)(9) of title 43.
 
-(Mar. 10, 1934, ch. 55, §10, as added Pub. L. 116–9, title VII, §7001(b)(2)(B), Mar. 12, 2019, 133 Stat. 779.)
+#### (p) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section for each of fiscal years 2021 through 2025—
+
+&emsp;(1) $2,500,000 to the Secretary of the Army, acting through the Chief of Engineers; and
+
+&emsp;(2) $2,500,000 to the Secretary of the Interior.
+
+(Mar. 10, 1934, ch. 55, §10, as added Pub. L. 116–9, title VII, §7001(b)(2)(B), Mar. 12, 2019, 133 Stat. 779; amended Pub. L. 116–188, title I, §105, Oct. 30, 2020, 134 Stat. 916.)
 
 #### References in Text
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(2)(A). Pub. L. 116–188, §105(1)(A), added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+
+Subsec. (c)(2)(B) to (D). Pub. L. 116–188, §105(1)(B), (C), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+Subsec. (p). Pub. L. 116–188, §105(2), added subsec. (p).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

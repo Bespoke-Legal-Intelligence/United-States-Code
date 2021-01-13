@@ -2,7 +2,7 @@
 
 #### (a) Transitional allowances; procedures applicable
 
-Any hospital may file an application with the Secretary (in such form and including such dataand information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
+Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
 
 #### (b) Allowable costs as transitional allowances; findings and determinations
 
@@ -14,7 +14,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 &emsp;&emsp;(B) is expected to benefit the program under this subchapter by (i) eliminating excess bed capacity, (ii) discontinuing an underutilized service for which there are adequate alternative sources, or (iii) substituting for the underutilized service some other service which is needed in the area, and
 
-&emsp;&emsp;(C) is consistent with the findings of an appropriate health planning agency and with any applicable State program for reduction in the number of hospital beds in the State, and
+&emsp;&emsp;(C) is consistent with the findings of an appropriate health planning agency and withany applicable State program for reduction in the number of hospital beds in the State, and
 
 &emsp;(2) in the case of a complete closure of a hospital—
 
@@ -62,7 +62,7 @@ Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided tha
 
 #### Payments To Promote Closure and Conversion of Underutilized Hospital Facilities
 
-Pub. L. 98–369, div. B, title III, §2353, July 18, 1984, 98 Stat. 1099, directed Secretary of Health and Human Services to carry out a study and report to Congress prior to Mar. 31, 1985, on modifications required in this section in order to conform the closure and conversion program authorized in that section to the prospective payment system under section 1395ww(d) of this title, so as to provide assistance to hospitals which may have particular problems in converting facilities (or partsthereof) from acute care to less intensive care or in closing facilities (or parts thereof), such report to include recommendations as to how, and whether, implementation of this section as modified may result in reductions in total hospital inpatient costs and total expenditures under this subchapter, and prohibited from implementing this section prior to Mar. 31, 1985.
+Pub. L. 98–369, div. B, title III, §2353, July 18, 1984, 98 Stat. 1099, directed Secretary of Health and Human Services to carry out a study and report to Congress prior to Mar. 31, 1985, on modifications required in this section in order to conform the closure and conversion program authorized in that section to the prospective payment system under section 1395ww(d) of this title, so as to provide assistance to hospitals which may have particular problems in converting facilities (or parts thereof) from acute care to less intensive care or in closing facilities (or parts thereof), such report to include recommendations as to how, and whether, implementation of this section as modified may result in reductions in total hospital inpatient costs and total expenditures under this subchapter, and prohibited from implementing this section prior to Mar. 31, 1985.
 
 #### Establishment and Evaluation of Transitional Allowances; Report and Recommendations to Congress
 

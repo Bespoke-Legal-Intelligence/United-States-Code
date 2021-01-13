@@ -74,6 +74,8 @@ The Secretary shall ensure that, subject to meeting the highest security needs o
 
 (Pub. L. 110–53, title XV, §1514, Aug. 3, 2007, 121 Stat. 435; Pub. L. 115–254, div. K, title I, §1973(b), Oct. 5, 2018, 132 Stat. 3614.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 114(w) of title 49, referred to in subsec. (d)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
@@ -83,6 +85,8 @@ Section 114(w) of title 49, referred to in subsec. (d)(1), was redesignated sect
 <b>2018</b>—Subsec. (a)(3)(D). Pub. L. 115–254, §1973(b)(1), inserted ", or to connect to the National Terrorism Screening Center watchlist" after "Secretary".
 
 Subsec. (a)(3)(I) to (K). Pub. L. 115–254, §1973(b)(2)–(4), added subpars. (I) to (K).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Passenger Rail Vetting
 
@@ -110,7 +114,7 @@ Strategic Plan.—If the Administrator decides to grant the request by Amtrak un
 
 "(d)
 
-Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a)and the details of the strategic plan under subsection (c).
+Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a) and the details of the strategic plan under subsection (c).
 
 "(e)
 

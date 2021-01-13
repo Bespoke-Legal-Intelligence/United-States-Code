@@ -6,7 +6,7 @@ Collection of Information on Foreign-Controlled Contractors.—The Secretary of 
 
 (b)
 
-Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
+Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is acting as a designee of the President under section 721(a) <sup>1</sup> of the Defense Production Act of 1950 (50 U.S.C. 4565(a)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
 
 (2) The entities referred to in paragraph (1) are the following:
 
@@ -20,6 +20,14 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 (Added Pub. L. 102–484, div. A, title VIII, §838(a), Oct. 23, 1992, 106 Stat. 2465; amended Pub. L. 103–35, title II, §201(d)(5), (h)(2), May 31, 1993, 107 Stat. 99, 100; Pub. L. 107–314, div. A, title X, §1041(a)(16), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 114–328, div. A, title X, §1081(b)(4)(B), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, §1051(a)(19), Dec. 12, 2017, 131 Stat. 1561.)
 
+#### Renumbering of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(f)(2), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter V, and redesignated as section 4891 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### References in Text
+
+Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b), is section 721(a) of act Sept. 8, 1950, ch. 932, as added by Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425, which is classified to section 4565(a) of Title 50, War and National Defense. Section 721(a) of the Act was struck out, and a new section 721(a) was added, by Pub. L. 110–49, §2, July 26, 2007, 121 Stat. 246. As so added, section 721(a) does not refer to investigations by the President or the President's designee.
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (b), (c). Pub. L. 115–91 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required annual reports to Congress regarding the information collected under subsec. (a).
@@ -31,4 +39,10 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 <b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted "respectively, that" for "respectively, which".
 
 Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as follows: "In this section, the term 'defense critical technology' has the meaning provided that term by section 2491(8) of this title."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

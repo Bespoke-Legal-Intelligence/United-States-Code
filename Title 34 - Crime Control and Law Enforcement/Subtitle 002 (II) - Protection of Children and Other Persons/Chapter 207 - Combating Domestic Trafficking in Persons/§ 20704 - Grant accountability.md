@@ -94,6 +94,8 @@ All covered grants shall be subject to the following accountability provisions:
 
 (Pub. L. 114–22, title I, §117, May 29, 2015, 129 Stat. 245.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22. For classification of section 103 to the Code, see Tables.
@@ -103,6 +105,8 @@ This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114�
 #### Codification
 
 Section was formerly classified to section 14044b–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grant Accountability
 
@@ -184,7 +188,7 @@ Report.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Department of justice.—The Deputy Attorney General shall submit an annual report to the appropriate committees of Congress on all conference expenditures approved under this paragraph.
+Department of justice.—The Deputy Attorney General shall submit an annual report tothe appropriate committees of Congress on all conference expenditures approved under this paragraph.
 
 &emsp;&emsp;&emsp;"(ii)
 

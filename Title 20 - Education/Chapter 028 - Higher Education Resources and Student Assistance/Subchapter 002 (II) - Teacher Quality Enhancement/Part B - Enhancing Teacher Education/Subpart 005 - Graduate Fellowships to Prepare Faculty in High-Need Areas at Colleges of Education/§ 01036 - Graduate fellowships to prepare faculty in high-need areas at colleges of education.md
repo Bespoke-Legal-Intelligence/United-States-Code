@@ -38,7 +38,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 &emsp;&emsp;(B) may not provide a graduate fellowship to an otherwise eligible individual—
 
-&emsp;&emsp;&emsp;(i) during periods in which such individual is enrolled at an institution of higher education unless such individual is maintaining satisfactory academic progress in, and devoting full-time study or researchto, the pursuit of the degree for which the fellowship support was provided; or
+&emsp;&emsp;&emsp;(i) during periods in which such individual is enrolled at an institution of higher education unless such individual is maintaining satisfactory academic progress in, and devoting full-time study or research to, the pursuit of the degree for which the fellowship support was provided; or
 
 &emsp;&emsp;&emsp;(ii) if the individual is engaged in gainful employment, other than part-time employment related to teaching, research, or a similar activity determined by the institution to be consistent with and supportive of the individuals's <sup>1</sup> progress toward the degree for which the fellowship support was provided.
 

@@ -8,7 +8,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (1) In general
 
-&emsp;If any individual (whether or not eligible for benefits under this subchapter) comes to a hospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either—
+&emsp;If any individual (whether or not eligible for benefits under this subchapter) comes to ahospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either—
 
 &emsp;&emsp;(A) within the staff and facilities available at the hospital, for such further medical examination and such treatment as may be required to stabilize the medical condition, or
 
@@ -122,7 +122,7 @@ In this section:
 
 &emsp;(4) The term "transfer" means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
 
-&emsp;(5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
+&emsp;(5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title) and a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title).
 
 #### (f) Preemption
 
@@ -140,13 +140,19 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423; Pub. L. 116–260, div. CC, title I, §125(b)(2)(B), Dec. 27, 2020, 134 Stat. 2966.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 125(b)(2)(B) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(5). Pub. L. 116–260 inserted "and a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title)" before period at end.
 
 <b>2011</b>—Subsec. (d)(3). Pub. L. 112–40 substituted "quality improvement" for "peer review" in heading and for "utilization and quality control peer review" in text.
 
@@ -266,6 +272,10 @@ Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360
 
 Subsec. (e)(3). Pub. L. 99–514 struck out "and has, under the agreement, obligated itself to comply with the requirements of this section" after "section 1395cc of this title".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023, see section 125(g) of Pub. L. 116–260, set out as a note under section 1395l of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
@@ -302,7 +312,7 @@ Pub. L. 100–203, title IV, §4009(a)(2), formerly §4009(a)(3), Dec. 22, 1987,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514,set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 
@@ -531,6 +541,44 @@ State.—The term 'State' means the 50 States and the District of Columbia."
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
 Pub. L. 101–508, title IV, §4008(c), Nov. 5, 1990, 104 Stat. 1388–44, directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+
+#### Ex. Ord. No. 13952. Protecting Vulnerable Newborn and Infant Children
+
+Ex. Ord. No. 13952, Sept. 25, 2020, 85 F.R. 62187, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Every infant born alive, no matter the circumstances of his or her birth, has the same dignity and the same rights as every other individual and is entitled to the same protections under Federal law. Such laws include the Emergency Medical Treatment and Labor Act (EMTALA), 42 U.S.C. 1395dd, which guarantees, in hospitals that have an emergency department, each individual's right to an appropriate medical screening examination and to either stabilizing treatment or an appropriate transfer. They also include section 504 of the Rehabilitation Act \[of 1973\] (Rehab Act), 29 U.S.C. 794, which prohibits discrimination against individuals with disabilities by programs and activities receiving Federal funding. In addition, the Born-Alive Infants Protection Act \[of 2002\], 1 U.S.C. 8, makes clear that all infants born alive are individuals for purposes of these and other Federal laws and are therefore afforded the same legal protections as any other person. Together, these laws help protect infants born alive from discrimination in the provision of medical treatment, including infants who require emergency medical treatment, who are premature, or who are born with disabilities. Such infants are entitled to meaningful and non-discriminatory access to medicalexamination and services, with the consent of a parent or guardian, when they present at hospitals receiving Federal funds.
+
+Despite these laws, some hospitals refuse the required medical screening examination and stabilizing treatment or otherwise do not provide potentially lifesaving medical treatment to extremely premature or disabled infants, even when parents plead for such treatment. Hospitals might refuse to provide treatment to extremely premature infants—born alive before 24 weeks of gestation—because they believe these infants may not survive, may have to live with long-term disabilities, or may have a quality-of-life deemed to be inadequate. Active treatment of extremely premature infants has, however, been shown to improve their survival rates. And the denial of such treatment, or discouragement of parents from seeking such treatment for their children, devalues the lives of these children and may violate Federal law.
+
+Sec. 2. <i>Policy</i>. It is the policy of the United States to recognize the human dignity and inherent worth of every newborn or other infant child, regardless of prematurity or disability, and to ensure for each child due protection under the law.
+
+Sec. 3. (a) The Secretary of Health and Human Services (Secretary) shall ensure that individuals responsible for all programs and activities under his jurisdiction that receive Federal funding are aware of their obligations toward infants, including premature infants or infants with disabilities, who have an emergency medical condition in need of stabilizing treatment, under EMTALA and section 504 of the Rehab Act, as interpreted consistent with the Born-Alive Infants Protection Act. In particular, the Secretary shall ensure that individuals responsible for such programs and activities are aware that they are not excused from complying with these obligations, including the obligation to provide an appropriate medical screening examination and stabilizing treatment or transfer, when extremely premature infants are born alive or infants are born with disabilities. The Secretary shall also ensure that individuals responsible for such programs and activities are aware that they may not unlawfully discourage parents from seeking medical treatment for their infant child solely because of their infant child's disability. The Secretary shall further ensure that individuals responsible for such programs and activities are aware of their obligations to provide stabilizing treatment that will allow the infant patients to be transferred to a more suitable facility if appropriate treatment is not possible at the initial location.
+
+(b) The Secretary shall, as appropriate and consistent with applicable law, ensure that Federal funding disbursed by the Department of Health and Human Services is expended in full compliance with EMTALA and section 504 of the Rehab Act, as interpreted consistent with the Born-Alive Infants Protection Act, as reflected in the policy set forth in section 2 of this order.
+
+(i) The Secretary shall, as appropriate and to the fullest extent permitted by law, investigate complaints of violations of applicable Federal laws with respect to infants born alive, including infants who have an emergency medical condition in need of stabilizing treatment or infants with disabilities whose parents seek medical treatment for their infants. The Secretary shall also clarify, in an easily understandable format, the process by which parents and hospital staff may submit such complaints for investigation under applicable Federal laws.
+
+(ii) The Secretary shall take all appropriate enforcement action against individuals and organizations found through investigation to have violated applicable Federal laws, up to and including terminating Federal funding for non-compliant programs and activities.
+
+(c) The Secretary shall, as appropriate and consistent with applicable law, prioritize the allocation of Department of Health and Human Services discretionary grant funding and National Institutes of Health research dollars for programs and activities conducting research to develop treatments that may improve survival—especially survival without impairment—of infants born alive, including premature infants or infants with disabilities, who have an emergency medical condition in need of stabilizing treatment.
+
+(d) The Secretary shall, as appropriate and consistent with applicable law, prioritize the allocation of Department of Health and Human Services discretionary grant funding to programs and activities, including hospitals, that provide training to medical personnel regarding the provision of life-saving medical treatment to all infants born alive, including premature infants or infants with disabilities, who have an emergency medical condition in need of stabilizing treatment.
+
+(e) The Secretary shall, as necessary and consistent with applicable law, issue such regulations or guidance as may be necessary to implement this order.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

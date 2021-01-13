@@ -6,7 +6,7 @@ In accordance with chapter 5 of title 5, the Secretary may prescribe rules and r
 
 #### (b) Acquisition of certain property and services
 
-The Secretary is authorized, in carrying out this subchapter, to accept, purchase, or lease in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this subchapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
+The Secretary is authorized, in carrying out this subchapter, to accept, purchase, or lease inthe name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this subchapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
 
 #### (c) Authority to enter into certain agreements and to make certain expenditures
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of this subchapter, the Secretary shall have
 
 #### (A) Program year
 
-&emsp;&emsp;Except as provided in subparagraph (B), appropriations for any fiscal year for programs and activities funded under this subchapter shall be available for obligation only on the basis of a program year. The programyear shall begin on July 1 in the fiscal year for which the appropriation is made.
+&emsp;&emsp;Except as provided in subparagraph (B), appropriations for any fiscal year for programs and activities funded under this subchapter shall be available for obligation only on the basis of a program year. The program year shall begin on July 1 in the fiscal year for which the appropriation is made.
 
 #### (B) Youth workforce investment activities
 
@@ -119,6 +119,8 @@ The Secretary shall ensure that each individual participating in any program or 
 &emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 (Pub. L. 113–128, title I, §189, July 22, 2014, 128 Stat. 1599.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

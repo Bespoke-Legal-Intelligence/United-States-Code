@@ -36,7 +36,7 @@
 
 (g)(1) Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Administrator by regulation, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after the date of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (h)(2). The repayment period may be extended by the Administrator when determined to be necessary, as established by regulation.
 
-(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B), shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
+(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail tocomply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B), shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
 
 &emsp;(A) the total amount of scholarships received by such individual under this section; plus
 
@@ -59,6 +59,8 @@
 (2) Amounts appropriated under this section shall remain available for 2 fiscal years.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 468; amended Pub. L. 109–155, title VII, §703(a), Dec. 30, 2005, 119 Stat. 2936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

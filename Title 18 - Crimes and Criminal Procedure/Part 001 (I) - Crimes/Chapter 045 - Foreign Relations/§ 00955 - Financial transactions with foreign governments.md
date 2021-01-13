@@ -1,6 +1,6 @@
 ### §955. Financial transactions with foreign governments
 
-Whoever, within the United States, purchases or sells the bonds, securities, or other obligations of any foreign government or political subdivision thereof or any organization or association acting for or on behalf of a foreign government or political subdivision thereof, issued after April 13, 1934, or makes any loan to suchforeign government, political subdivision, organization or association, except a renewal or adjustment of existing indebtedness, while such government, political subdivision, organization or association, is in default in the payment of its obligations, or any part thereof, to the United States, shall be fined under this title or imprisoned for not more than five years, or both.
+Whoever, within the United States, purchases or sells the bonds, securities, or other obligations of any foreign government or political subdivision thereof or any organization or association acting for or on behalf of a foreign government or political subdivision thereof, issued after April 13, 1934, or makes any loan to such foreign government, political subdivision, organization or association, except a renewal or adjustment of existing indebtedness, while such government, political subdivision, organization or association, is in default in the payment of its obligations, or any part thereof, to the United States, shall be fined under this title or imprisoned for not more than five years, or both.
 
 This section is applicable to individuals, partnerships, corporations, or associations other than public corporations created by or pursuant to special authorizations of Congress, or corporations in which the United States has or exercises a controlling interest through stock ownership or otherwise. While any foreign government is a member both of the International Monetary Fund and of the International Bank for Reconstruction and Development, this section shall not apply to the sale or purchase of bonds, securities, or other obligations of such government or any political subdivision thereof or of any organization or association acting for or on behalf of such government or political subdivision, or to making of any loan to such government, political subdivision, organization, or association.
 
@@ -20,9 +20,13 @@ Minor changes were made in phraseology.
 
 An additional paragraph was added to the text of this section by Senate amendment, which was taken from section 804b of Title 31, U.S.C., Money and Finance. Therefore, as finally enacted, such section 804b and the Acts from which it was derived (Act Apr. 13, 1934, ch. 112, §3, as added July 31, 1945, ch. 339, §9, 59 Stat. 516), were an additional source of this section. See Senate Report No. 1620, amendment No. 9, 80th Cong.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Section
 

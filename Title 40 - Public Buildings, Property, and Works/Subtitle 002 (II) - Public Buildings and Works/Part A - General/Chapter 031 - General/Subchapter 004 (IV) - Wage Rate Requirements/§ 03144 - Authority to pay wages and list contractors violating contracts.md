@@ -52,6 +52,8 @@ Mar. 3, 1931, ch. 411, §3, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012
 
 In subsection (b), the words "or firms" are omitted as being included in "persons".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–50, §2(a)(1), struck out "of Comptroller General" after "Authority" in section catchline.

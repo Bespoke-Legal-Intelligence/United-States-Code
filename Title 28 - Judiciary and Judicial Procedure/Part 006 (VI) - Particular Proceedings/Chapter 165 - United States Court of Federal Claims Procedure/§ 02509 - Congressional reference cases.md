@@ -26,6 +26,8 @@ A provision as to the court's power to render judgment on a referred claim and i
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted "United States Court of Federal Claims" for "United States Claims Court".
@@ -42,11 +44,13 @@ Subsec. (d). Pub. L. 97–164, §139(h)(2)(A), (D), substituted "hearing officer
 
 Subsec. (e). Pub. L. 97–164, §139(h)(2)(B), substituted "chief judge" for "chief commissioner".
 
-Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted "Claims Court" for "Court of Claims", and"hearing officer" for "trial commissioner" wherever appearing.
+Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted "Claims Court" for "Court of Claims", and "hearing officer" for "trial commissioner" wherever appearing.
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted "Claims Court" for "Court of Claims" and "judges serving as hearing officers" for "commissioners serving as trial commissioners".
 
 <b>1966</b>—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

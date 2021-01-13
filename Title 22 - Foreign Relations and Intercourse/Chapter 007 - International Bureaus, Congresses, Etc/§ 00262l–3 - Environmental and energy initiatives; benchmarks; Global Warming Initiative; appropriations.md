@@ -42,7 +42,7 @@ The Secretary of the Treasury shall, not later than March 1, 1993, submit a repo
 
 &emsp;(D) In the area of procedures for environmental impact assessment (EIA)—
 
-&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries and that the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects, and opportunities to comment on draft and final EIA reports;
+&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries andthat the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects, and opportunities to comment on draft and final EIA reports;
 
 &emsp;&emsp;(ii) each MDB should apply EIA requirements to all sector loans and develop and apply the methodology for environmental assessment of structural adjustment loans;
 
@@ -66,7 +66,7 @@ Of the funds appropriated by this Act under the headings in title II of this Act
 
 &emsp;(4) Not less than $25,000,000 of the funds appropriated for the Development Assistance Fund shall be made available for the Office of Energy of the Agency for International Development; and
 
-&emsp;(5) Up to $50,000,000 of the funds appropriated to carry out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[22U.S.C. 2346 et seq.\] may be made available to carry out the "Forests for the Future Initiative" and to achieve a Global Forest Agreement.
+&emsp;(5) Up to $50,000,000 of the funds appropriated to carry out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] may be made available to carry out the "Forests for the Future Initiative" and to achieve a Global Forest Agreement.
 
 #### (f) International development and economic support
 
@@ -87,6 +87,8 @@ Funds appropriated by this Act or any subsequent Act for the Development Assista
 Of the funds appropriated by this Act to carry out the provisions of section 2763 of this title, not less than $15,000,000 shall be made available to countries in Africa for programs which support conservation and biological diversity.
 
 (Pub. L. 102–391, title V, §532, Oct. 6, 1992, 106 Stat. 1666.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

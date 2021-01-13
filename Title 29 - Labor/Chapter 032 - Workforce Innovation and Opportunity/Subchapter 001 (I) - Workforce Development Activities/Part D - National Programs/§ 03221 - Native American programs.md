@@ -44,7 +44,7 @@ Every 4 years, the Secretary shall, on a competitive basis, make grants to, or e
 
 &emsp;&emsp;(A) are consistent with this section; and
 
-&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiians preparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
+&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiianspreparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
 
 #### (2) Workforce development activities and supplemental services
 
@@ -126,7 +126,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an entity described in subsection (c), the Secretary, notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this subchapter that are inconsistent with the specific needs of the entity described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participationand protection of workers and participants, grievance procedures, and judicial review.
+&emsp;&emsp;With respect to an entity described in subsection (c), the Secretary, notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this subchapter that are inconsistent with the specific needs of the entity described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participation and protection of workers and participants, grievance procedures, and judicial review.
 
 #### (B) Request and approval
 
@@ -208,11 +208,13 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 (Pub. L. 113–128, title I, §166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, §9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Section 4 of the Act was classified to section 450b of Title 25 prior to editorial reclassification as section 5304 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I,§199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
 The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, §2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
@@ -223,6 +225,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i)(4)(
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

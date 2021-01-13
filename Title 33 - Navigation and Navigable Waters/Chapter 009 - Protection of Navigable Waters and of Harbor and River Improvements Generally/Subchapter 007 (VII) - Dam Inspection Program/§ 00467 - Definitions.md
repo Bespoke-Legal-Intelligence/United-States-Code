@@ -48,25 +48,27 @@ In this subchapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) is classified as "high hazard potential" by the State dam safety agency in the State in which the dam is located;
 
-&emsp;&emsp;&emsp;(iii) has an emergency action plan approved by the relevant State dam safety agency; and
+&emsp;&emsp;&emsp;(iii) has an emergency action plan that—
 
-&emsp;&emsp;&emsp;(iv) the State in which the dam is located determines—
+&emsp;&emsp;&emsp;&emsp;(I) is approved by the relevant State dam safety agency; or
 
-&emsp;&emsp;&emsp;&emsp;(I) fails to meet minimum dam safety standards of the State; and
+&emsp;&emsp;&emsp;&emsp;(II) is in conformance with State law and pending approval by the relevant State dam safety agency;
 
-&emsp;&emsp;&emsp;&emsp;(II) poses an unacceptable risk to the public.
+&emsp;&emsp;&emsp;(iv) fails to meet minimum dam safety standards of the State in which the dam is located, as determined by the State; and
+
+&emsp;&emsp;&emsp;(v) poses an unacceptable risk to the public, as determined by the Administrator, in consultation with the Board.
 
 #### (B) Exclusion
 
 &emsp;&emsp;The term "eligible high hazard potential dam" does not include—
 
-&emsp;&emsp;&emsp;(i) a licensed hydroelectric dam; or
+&emsp;&emsp;&emsp;(i) a licensed hydroelectric dam under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts; or
 
 &emsp;&emsp;&emsp;(ii) a dam built under the authority of the Secretary of Agriculture.
 
 #### (5) Federal agency
 
-&emsp;The term "Federal agency" means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates theconstruction, operation, or maintenance of a dam.
+&emsp;The term "Federal agency" means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
 
 #### (6) Federal Guidelines for Dam Safety
 
@@ -84,9 +86,9 @@ In this subchapter, the following definitions apply:
 
 &emsp;The term "ICODS" means the Interagency Committee on Dam Safety established by section 467e of this title.
 
-#### (10) Non-Federal sponsor
+#### (10) Eligible subrecipient
 
-&emsp;The term "non-Federal sponsor", in the case of a project receiving assistance under section 467f–2 of this title, includes—
+&emsp;The term "eligible subrecipient", in the case of a project receiving assistance under section 467f–2 of this title, includes—
 
 &emsp;&emsp;(A) a governmental organization; and
 
@@ -98,7 +100,7 @@ In this subchapter, the following definitions apply:
 
 #### (12) Rehabilitation
 
-&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of a dam that is carried out to meet applicable State dam safety and security standards.
+&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of adam that is carried out to meet applicable State dam safety and security standards.
 
 #### (13) State
 
@@ -116,7 +118,9 @@ In this subchapter, the following definitions apply:
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, §3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, §5006(a), Dec. 16, 2016, 130 Stat. 1892.)
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, §3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, §5006(a), Dec. 16, 2016, 130 Stat. 1892; Pub. L. 116–260, div. AA, title I, §132(a), Dec. 27, 2020, 134 Stat. 2645.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -125,6 +129,18 @@ A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 
 #### Amendments
+
+<b>2020</b>—Par. (4)(A)(iii). Pub. L. 116–260, §132(a)(1)(A)(i), added cl. (iii) and struck out former cl. (iii) which read as follows: "has an emergency action plan approved by the relevant State dam safety agency; and".
+
+Par. (4)(A)(iv), (v). Pub. L. 116–260, §132(a)(1)(A)(ii), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "the State in which the dam is located determines—
+
+&emsp;"(I) fails to meet minimum dam safety standards of the State; and
+
+&emsp;"(II) poses an unacceptable risk to the public."
+
+Par. (4)(B)(i). Pub. L. 116–260, §132(a)(1)(B), inserted "under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts" after "dam".
+
+Par. (10). Pub. L. 116–260, §132(a)(2), substituted "Eligible subrecipient" for "Non-Federal sponsor" in heading and "The term 'eligible subrecipient' " for "The term 'non-Federal sponsor' " in introductory provisions.
 
 <b>2016</b>—Par. (4). Pub. L. 114–322, §5006(a)(2), added par. (4). Former par. (4) redesignated (5).
 
@@ -149,6 +165,8 @@ Par. (3). Pub. L. 113–121, §3001(a)(2)(A), (B), redesignated par. (2) as (3) 
 <b>2002</b>—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted "section 467f(f)" for "section 467f(h)".
 
 Par. (12). Pub. L. 107–310, §3(e)(2)(B), substituted "section 467f(e)" for "section 467f(f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 

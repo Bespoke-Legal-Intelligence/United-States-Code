@@ -18,7 +18,7 @@ A State's allotment under section 3024 of this title for a fiscal year shall be 
 
 #### Prior Provisions
 
-A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–351, §3, July 12, 1974, 88 Stat. 357, related to transportation projects, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3026 of this title.
+A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–351, §3, July 12, 1974, 88 Stat. 357, related to transportation projects, prior to the generalamendment of this subchapter by Pub. L. 95–478. See section 3026 of this title.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, which was classified to section 3027 of this title prior to repeal by Pub. L. 95–478.
 

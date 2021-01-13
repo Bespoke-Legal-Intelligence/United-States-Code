@@ -46,6 +46,8 @@ Cash-out Refinances.—(1) Subsections (a) through (c) shall not apply in a case
 
 (Added Pub. L. 115–174, title III, §309(a)(1), May 24, 2018, 132 Stat. 1348; amended Pub. L. 116–33, §2(b), July 25, 2019, 133 Stat. 1038.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 115–174, which was approved May 24, 2018.
@@ -57,6 +59,8 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 "(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
 
 "(2) the date on which the sixth monthly payment is made on the loan."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

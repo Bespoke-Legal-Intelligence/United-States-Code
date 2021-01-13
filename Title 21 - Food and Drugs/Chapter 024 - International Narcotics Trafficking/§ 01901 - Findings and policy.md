@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(2) Executive Order No. 12978 of October 21, 1995, provides for the use of the authorities in the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.) to target and apply sanctions to four international narcotics traffickers and their organizations that operate from Colombia.
 
-&emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia andbased on that successful case study, Congress believes similar authorities should be applied worldwide.
+&emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
 
 &emsp;(4) There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
 
@@ -18,11 +18,15 @@ It shall be the policy of the United States to apply economic and other financia
 
 (Pub. L. 106–120, title VIII, §802, Dec. 3, 1999, 113 Stat. 1626.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,6 +4,8 @@ Appointments in and promotions to all permanent grades shall be made by the Pres
 
 (Pub. L. 107–372, title II, §226, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 112–166, §2(gg)(1), Aug. 10, 2012, 126 Stat. 1290.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853i(a) of this title prior to repeal by Pub. L. 107–372.
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in section 853i(a) of
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

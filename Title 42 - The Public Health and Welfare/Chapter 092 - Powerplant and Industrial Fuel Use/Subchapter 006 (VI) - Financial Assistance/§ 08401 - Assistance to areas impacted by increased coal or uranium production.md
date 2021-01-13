@@ -64,7 +64,7 @@
 
 (4)(A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b).
 
-(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1)and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
+(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1) and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
 
 (C) Grants for real property acquisition or site development or both under this paragraph may not exceed 75 percent of the costs thereof, as determined by the Secretary of Agriculture.
 
@@ -76,7 +76,7 @@
 
 #### (d) General requirements regarding assistance
 
-(1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
+(1) Assistance under this section shall be provided only upon application, which applicationshall contain such information as the Secretary of Agriculture shall prescribe.
 
 (2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a), or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 

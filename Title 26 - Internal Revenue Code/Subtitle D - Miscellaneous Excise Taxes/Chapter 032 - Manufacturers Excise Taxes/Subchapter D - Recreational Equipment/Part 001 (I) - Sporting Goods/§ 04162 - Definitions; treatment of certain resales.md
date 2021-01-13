@@ -122,7 +122,7 @@ Pub. L. 108–357, title III, §334(c), Oct. 22, 2004, 118 Stat. 1478, provided 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
+Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 applicable to property placed in service afterDec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 

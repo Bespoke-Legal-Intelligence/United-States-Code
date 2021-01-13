@@ -8,7 +8,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
-&emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
+&emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that themodification is necessary to protect the United States from the risk of unreasonable loss;
 
 &emsp;(4) subject to the specific limitations in this part, consent to modification, with respect to rate of interest, time of payment of any installment of principal and interest or any portion thereof, or any other provision of any note or other instrument evidencing a loan which has been insured by the Secretary under this part;
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph\(1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) "Record" defined
 
@@ -192,7 +192,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (i) Authority to sell defaulted loans
 
-In the event that all other collection efforts have failed, the Secretary is authorized to sell defaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
+In the event that all other collection efforts have failed, the Secretary is authorized to selldefaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
 
 #### (j) Authority of Secretary to take emergency actions against lenders
 
@@ -274,7 +274,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (4) Additional recommendations
 
-&emsp;The Secretary shall review regulations prescribed pursuant to paragraph (1) and seek additional recommendations from guaranty agencies, lenders, institutions of higher education, students, secondary markets, third party servicers and other organizations involved in providing loans under this part, not less frequently than annually, for additional methods of simplifying and standardizing the administration of the programs authorized by this part.
+&emsp;The Secretary shall review regulations prescribed pursuant to paragraph (1) and seek additional recommendations from guarantyagencies, lenders, institutions of higher education, students, secondary markets, third party servicers and other organizations involved in providing loans under this part, not less frequently than annually, for additional methods of simplifying and standardizing the administration of the programs authorized by this part.
 
 #### (m) Common forms and formats
 
@@ -388,7 +388,7 @@ Subsec. (m)(1)(B). Pub. L. 111–39, §402(f)(9)(B), in cl. (i), inserted "and" 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end "The Secretary may not enter into any settlement of any claim under this subchapter that exceeds $1,000,000 unless—" and pars. (1) and (2).
 
-Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted "either of the authorizing committees" for "the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate".
+Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted "either of the authorizing committees" for"the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate".
 
 Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end "Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D."
 

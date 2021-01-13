@@ -44,6 +44,8 @@ Rule of Construction.—Nothing in this section exceeds, modifies, or supplants 
 
 (Added Pub. L. 114–318, §3(a), Dec. 16, 2016, 130 Stat. 1609.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.

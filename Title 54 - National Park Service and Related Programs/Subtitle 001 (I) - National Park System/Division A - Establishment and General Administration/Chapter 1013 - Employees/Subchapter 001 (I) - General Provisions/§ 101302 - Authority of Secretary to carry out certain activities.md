@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary may consider advisable, may carry out the activities described in this section.
+In General.—To facilitate the administration of the System, the Secretary, under suchterms and conditions as the Secretary may consider advisable, may carry out the activities described in this section.
 
 (b)
 

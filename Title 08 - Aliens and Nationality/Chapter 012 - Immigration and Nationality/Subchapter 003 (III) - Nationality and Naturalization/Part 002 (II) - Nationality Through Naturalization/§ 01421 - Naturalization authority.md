@@ -82,6 +82,8 @@ A person may only be naturalized as a citizen of the United States in the manner
 
 (June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(5)(A). Pub. L. 103–416 substituted "district court" for "District Court".

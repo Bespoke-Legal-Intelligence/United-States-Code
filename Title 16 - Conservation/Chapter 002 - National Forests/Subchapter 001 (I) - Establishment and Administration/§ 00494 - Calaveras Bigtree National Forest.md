@@ -56,7 +56,7 @@ Conditions of Conveyance.—Conveyance of the lands and interests described in s
 
 &emsp;"(5) The Secretary, acting through the Forest Service, shall be afforded by appropriate officials of the State of California reasonable opportunities to collect seeds from trees located on such lands for scientific or silvicultural purposes.
 
-&emsp;"(6) The Secretary, upon prior notification to the State of California, shall be entitled at any time to enter upon such lands for the purpose of monitoring the management of such lands and the compliance of the State of California with the provisions of this subsection.
+&emsp;"(6) The Secretary, upon prior notification to the State of California, shall be entitled at any time to enter upon such lands for the purpose of monitoring the management of such lands and the compliance ofthe State of California with the provisions of this subsection.
 
 &emsp;"(7) The conveyance shall be subject to the following reservations or exceptions:
 

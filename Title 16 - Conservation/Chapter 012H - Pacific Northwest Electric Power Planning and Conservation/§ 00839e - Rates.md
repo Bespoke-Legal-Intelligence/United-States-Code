@@ -2,7 +2,7 @@
 
 #### (a) Establishment; periodic review and revision; confirmation and approval by Federal Energy Regulatory Commission
 
-(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
+(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the FederalColumbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
 
 (2) Rates established under this section shall become effective only, except in the case of interim rules as provided in subsection (i)(6), upon confirmation and approval by the Federal Energy Regulatory Commission upon a finding by the Commission, that such rates—
 
@@ -44,7 +44,7 @@
 
 > &emsp;were not achieved.
 
-(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs orbenefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
+(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
 
 &emsp;(A) a difference between actual power deliveries and power deliveries projected for the purpose of establishing rates to direct service industrial customers under subsection (c)(1) of this subsection, and
 
@@ -104,7 +104,7 @@ In establishing rates under this section, the Administrator shall use the follow
 
 &emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete record and to receive public comment in the form of written and oral presentation of views, data, questions, and argument related to such proposed rates. In any such hearing—
 
-&emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer to offer refutation or rebuttal of any material submitted by any other person or the Administrator, and
+&emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer tooffer refutation or rebuttal of any material submitted by any other person or the Administrator, and
 
 &emsp;&emsp;(B) the hearing officer, in his discretion, shall allow a reasonable opportunity for cross examination, which, as determined by the hearing officer, is not dilatory, in order to develop information and material relevant to any such proposed rate.
 
@@ -134,7 +134,7 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 #### (m) Impact aid payments; formula
 
-(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions ofthis section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
+(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
 
 &emsp;(A) which are located within the jurisdictional boundaries of such governments,
 

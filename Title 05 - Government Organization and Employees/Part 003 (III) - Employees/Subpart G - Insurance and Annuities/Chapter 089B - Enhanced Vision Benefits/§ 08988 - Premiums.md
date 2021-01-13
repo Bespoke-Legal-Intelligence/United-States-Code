@@ -30,9 +30,13 @@
 
 (Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4009; amended Pub. L. 114–328, div. A, title VII, §715(b)(2), Dec. 23, 2016, 130 Stat. 2222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(3), (4). Pub. L. 114–328 added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

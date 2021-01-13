@@ -26,9 +26,11 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 
 #### (c) Exception for Congressional Special Services Office
 
-This section does not apply with respect to any employees, contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service that aretransferred to the Office of Congressional Accessibility Services under part B.
+This section does not apply with respect to any employees, contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service that are transferred to the Office of Congressional Accessibility Services under part B.
 
 (Pub. L. 110–437, title IV, §401, Oct. 20, 2008, 122 Stat. 4990.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

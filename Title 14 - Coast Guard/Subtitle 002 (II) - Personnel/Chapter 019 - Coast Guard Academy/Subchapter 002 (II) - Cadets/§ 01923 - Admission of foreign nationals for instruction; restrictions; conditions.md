@@ -14,6 +14,8 @@
 
 (Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304, §195; amended Pub. L. 94–468, Oct. 11, 1976, 90 Stat. 2002; Pub. L. 112–213, title II, §204, Dec. 20, 2012, 126 Stat. 1543; renumbered §1923 and amended Pub. L. 115–282, title I, §§110(b), 123(c)(1), Dec. 4, 2018, 132 Stat. 4212, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §110(b), renumbered section 195 of this title as this section.
@@ -28,7 +30,7 @@ Subsec. (d). Pub. L. 112–213, §204(1), substituted "foreign national" for "pe
 
 Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
 
-Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more thanthirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
+Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more than thirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
 
 Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provision which required that foreign nationals be subject to the same rules and regulations as cadets.
 

@@ -34,7 +34,7 @@
 
 #### (1) Petition requirements
 
-&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at suchtime, and upon such conditions, as the administering authority and the Commission may permit.
+&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at such time, and upon such conditions, as the administering authority and the Commission may permit.
 
 #### (2) Simultaneous filing with Commission
 
@@ -110,7 +110,7 @@
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry byapplying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -194,7 +194,7 @@ Subsec. (e). Pub. L. 100–418, §1324(b)(1), added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapterafter such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

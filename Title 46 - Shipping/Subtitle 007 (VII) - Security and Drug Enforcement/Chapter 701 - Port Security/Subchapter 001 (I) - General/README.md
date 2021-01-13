@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 111–330, §1(17)(A), Dec. 22, 2010, 124 Stat. 3570, amended Pub. L. 111–281, title VIII, §828(c)(1), Oct. 15, 2010, 124 Stat. 3007, which added subchapter I heading.
@@ -11,7 +13,7 @@ Pub. L. 111–330, §1(17)(A), Dec. 22, 2010, 124 Stat. 3570, amended Pub. L. 11
 
 - [&sect; 70101 - Definitions](%C2%A7%2070101%20-%20Definitions.md)
 - [&sect; 70102 - United States facility and vessel vulnerability assessments](%C2%A7%2070102%20-%20United%20States%20facility%20and%20vessel%20vulnerability%20assessments.md)
-- [&sect; 70102a - Port, harbor, and coastal facility security](%C2%A7%2070102a%20-%20Port%2C%20harbor%2C%20and%20coastal%20facility%20security.md)
+- [&sect; 70102a - Repealed. Pub. L. 116&#8211;283, div. G, title LVXXXV \[LXXXV\], &sect;8507(d)(1), Jan. 1, 2021, 134 Stat. 4754](%C2%A7%2070102a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20G%2C%20title%20LVXXXV%20%5BLXXXV%5D%2C%20%C2%A78507%28d%29%281%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204754.md)
 - [&sect; 70103 - Maritime transportation security plans](%C2%A7%2070103%20-%20Maritime%20transportation%20security%20plans.md)
 - [&sect; 70104 - Transportation security incident response](%C2%A7%2070104%20-%20Transportation%20security%20incident%20response.md)
 - [&sect; 70105 - Transportation security cards](%C2%A7%2070105%20-%20Transportation%20security%20cards.md)

@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) the other agency may not, during the pendency of that action, institute a civil action under such provision of law against any defendant named in the complaint in such pending action for any violation alleged in the complaint; and
 
-&emsp;&emsp;&emsp;(ii) the Bureau or the Federal Trade Commission may intervene as a party inany such action brought by the other agency, and, upon intervening—
+&emsp;&emsp;&emsp;(ii) the Bureau or the Federal Trade Commission may intervene as a party in any such action brought by the other agency, and, upon intervening—
 
 &emsp;&emsp;&emsp;&emsp;(I) be heard on all matters arising in such enforcement action; and
 
@@ -144,6 +144,8 @@ No provision of this title <sup>1</sup> may be construed as modifying, limiting
 
 (Pub. L. 111–203, title X, §1024, July 21, 2010, 124 Stat. 1987; Pub. L. 113–173, §2, Sept. 26, 2014, 128 Stat. 1899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -151,6 +153,8 @@ This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is titl
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

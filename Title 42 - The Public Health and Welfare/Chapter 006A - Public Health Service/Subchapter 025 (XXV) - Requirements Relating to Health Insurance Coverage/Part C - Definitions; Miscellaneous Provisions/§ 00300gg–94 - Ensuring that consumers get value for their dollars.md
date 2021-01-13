@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Out of all funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $250,000,000, to be available for expenditure for grants under paragraph (1) and subparagraph (B).
+&emsp;&emsp;Out of all funds in the Treasury not otherwise appropriated, there are appropriated tothe Secretary $250,000,000, to be available for expenditure for grants under paragraph (1) and subparagraph (B).
 
 #### (B) Further availability for insurance reform and consumer protection
 

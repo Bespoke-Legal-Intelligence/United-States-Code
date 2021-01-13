@@ -40,7 +40,7 @@
 
 #### (2) Divisions C and D
 
-&emsp;There are authorized to be appropriated, for each of fiscal years 2010 through 2014, such sums as may be necessary to provide financialassistance under division C of subchapter I and to provide national service educational awards under division D of subchapter I for the number of participants described in section 12571(f)(1) of this title for each such fiscal year.
+&emsp;There are authorized to be appropriated, for each of fiscal years 2010 through 2014, such sums as may be necessary to provide financial assistance under division C of subchapter I and to provide national service educational awards under division D of subchapter I for the number of participants described in section 12571(f)(1) of this title for each such fiscal year.
 
 #### (3) Division E
 

@@ -8,7 +8,7 @@ Any of the district courts of the United States within the jurisdiction of which
 
 Upon the application of the Attorney General of the United States, at the request of the Commission, the district courts of the United States shall have jurisdiction to issue writs of mandamus commanding any person, partnership, or corporation to comply with the provisions of this subchapter or any order of the Commission made in pursuance thereof.
 
-The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
+The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to producedocumentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
 
 Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
@@ -22,7 +22,7 @@ Third par. Pub. L. 93–637, §203(b)(2), substituted "person, partnership, or c
 
 Fourth par. Pub. L. 93–637, §203(b)(3), substituted "person, partnership, or corporation" for "person or corporation".
 
-<b>1970</b>—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution forany natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
+<b>1970</b>—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
 #### Effective Date of 1970 Amendment
 

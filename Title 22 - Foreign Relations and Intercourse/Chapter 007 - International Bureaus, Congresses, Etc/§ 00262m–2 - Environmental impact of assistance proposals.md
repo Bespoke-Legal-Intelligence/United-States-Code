@@ -2,7 +2,7 @@
 
 #### (a) Analysis by agencies, United States embassies and overseas missions of Agency for International Development; factors considered; affirmative investigation of adverse impacts; availability of information to public
 
-(1) In the course of reviewing assistance proposals of the multilateral development banks, the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall ensure that other agencies and appropriate United States embassies and overseas missions of the Agency for International Development are instructed to analyze, where feasible, the environmental impacts of multilateral development loans well in advance of such loans' approval by the relevant institutions to determine whether the proposals will contribute to the sustainable development of the borrowing country.
+(1) In the course of reviewing assistance proposals of the multilateral development banks, the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall ensure that other agencies and appropriate United States embassies and overseas missions of the Agency for International Development are instructed to analyze, where feasible, the environmental impacts of multilateral development loans well in advance of such loans' approval by the relevant institutions to determine whether the proposals will contribute tothe sustainable development of the borrowing country.
 
 (2) To the extent possible, such reviews shall address the economic viability of the project, adverse impacts on the environment, natural resources, public health, and indigenous peoples, and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts.
 
@@ -30,6 +30,8 @@ The Secretary of the Treasury shall forward reports concerning information recei
 
 (Pub. L. 95–118, title XIII, §1303, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; amended Pub. L. 108–447, div. D, title V, §593(b), Dec. 8, 2004, 118 Stat. 3037.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1303 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
@@ -39,6 +41,8 @@ Section 1303 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 37
 <b>2004</b>—Subsec. (b). Pub. L. 108–447, §593(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (b)(1). Pub. L. 108–447, §593(b)(1), which directed amendment of par. (1) by substituting "multilateral development banks as defined in section 262m–7(g) of this title" for "International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank", was executed by making substitution for "International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank", to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

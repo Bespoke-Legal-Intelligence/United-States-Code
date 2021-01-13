@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 2198 "Seduction of female passenger".

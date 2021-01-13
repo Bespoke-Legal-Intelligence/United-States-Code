@@ -38,6 +38,8 @@ Annual Submission.—Not later than December 1, 2018, and each year thereafter, 
 
 (Added Pub. L. 114–2, §2(a)(1), Feb. 12, 2015, 129 Stat. 30; amended Pub. L. 114–188, §2, June 30, 2016, 130 Stat. 611.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (a)(4), is the date of enactment of Pub. L. 114–2, which was approved Feb. 12, 2015.

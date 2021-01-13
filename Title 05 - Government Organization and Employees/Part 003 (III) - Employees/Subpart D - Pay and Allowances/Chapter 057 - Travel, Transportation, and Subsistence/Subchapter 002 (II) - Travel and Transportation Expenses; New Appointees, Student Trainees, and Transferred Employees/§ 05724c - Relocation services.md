@@ -4,11 +4,15 @@ Under regulations prescribed under section 5738 of this title, each agency may e
 
 (Added Pub. L. 98–151, §118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, §120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, §1713(b), Sept. 23, 1996, 110 Stat. 2754.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: "Under such regulations as the President may prescribe, each agency is authorized to enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out the provisions of this subchapter. Such services include but need not be limited to arranging for the purchase of a transferred employee's residence."
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, adding authority of the President to prescribe regulations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -20,5 +24,5 @@ Enactment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 

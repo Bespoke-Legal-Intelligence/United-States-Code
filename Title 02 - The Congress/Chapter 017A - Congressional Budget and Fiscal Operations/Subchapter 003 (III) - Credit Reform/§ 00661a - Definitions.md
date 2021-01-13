@@ -38,19 +38,21 @@ For purposes of this subchapter—
 
 &emsp;(6) The term "credit program account" means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
-&emsp;(7) The term "financing account" means the non-budget account or accounts associatedwith each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
+&emsp;(7) The term "financing account" means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
 
 &emsp;(8) The term "liquidating account" means the budget account that includes all cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made prior to October 1, 1991.
 
 > &emsp;These accounts shall be shown in the budget on a cash basis.
 
-&emsp;(9) The term "modification" means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+&emsp;(9) The term "modification" means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse,and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
 &emsp;(10) The term "current" has the same meaning as in section 900(c)(9) of this title.
 
 &emsp;(11) The term "Director" means the Director of the Office of Management and Budget.
 
 (Pub. L. 93–344, title V, §502, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, §10117(a), Aug. 5, 1997, 111 Stat. 692.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

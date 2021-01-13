@@ -60,7 +60,7 @@ Pub. L. 98–369, div. A, title IV, §421(d), July 18, 1984, 98 Stat. 795, provi
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 47, 72, 101, 453, 453B, 1001, 1015, and 1239 of this title\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 47, 72, 101,453, 453B, 1001, 1015, and 1239 of this title\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
 "(2)
 

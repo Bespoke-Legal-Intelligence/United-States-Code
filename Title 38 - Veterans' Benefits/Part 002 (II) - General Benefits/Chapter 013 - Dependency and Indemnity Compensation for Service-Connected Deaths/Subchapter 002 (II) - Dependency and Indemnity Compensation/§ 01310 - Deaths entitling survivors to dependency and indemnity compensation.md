@@ -2,17 +2,21 @@
 
 (a) When any veteran dies after December 31, 1956, from a service-connected or compensable disability, the Secretary shall pay dependency and indemnity compensation to such veteran's surviving spouse, children, and parents. The standards and criteria for determining whether or not a disability is service-connected shall be those applicable under chapter 11 of this title.
 
-(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, or air service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
+(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, air, or space service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, air, or space service.
 
 (c) A person who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of dependency and indemnity compensation to which that person is otherwise entitled, but there shall be deducted from payment of such dependency and indemnity compensation the amount of the payment under that Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §410; Pub. L. 94–433, title IV, §405(7), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 95–479, title II, §204, Oct. 18, 1978, 92 Stat. 1564; Pub. L. 97–306, title I, §112(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 100–687, div. B, title XIV, §1403(b), Nov. 18, 1988, 102 Stat. 4131; renumbered §1310 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §302(b), Dec. 10, 2004, 118 Stat. 3610.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §410; Pub. L. 94–433, title IV, §405(7), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 95–479, title II, §204, Oct. 18, 1978, 92 Stat. 1564; Pub. L. 97–306, title I, §112(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 100–687, div. B, title XIV, §1403(b), Nov. 18, 1988, 102 Stat. 4131; renumbered §1310 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §302(b), Dec. 10, 2004, 118 Stat. 3610; Pub. L. 116–283, div. A, title IX, §926(a)(18), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "air, or space service" for "or air service" in two places.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–454 added subsec. (c).
 
@@ -36,6 +40,8 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 Subsec. (b). Pub. L. 94–433 substituted "surviving spouse", "such veteran", and "such veteran's" for "widow", "he", and "his", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Subsec. (c) of this section effective with respect to dependency and indemnity compensation payments for months beginning after Mar. 26, 2002, see section 302(c) of Pub. L. 108–454, set out as a note under section 1112 of this title.
@@ -48,7 +54,7 @@ Pub. L. 97–306, title I, §112(b), Oct. 14, 1982, 96 Stat. 1432, provided that
 
 "(2)(A) As soon as practicable after September 30, 1982, the Administrator of Veterans' Affairs shall pay an amount determined under subparagraph (B) to each person who would have been entitled to a payment under chapter 13 of title 38, United States Code, for any part of the period beginning on October 1, 1978, and ending on September 30, 1982, if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978.
 
-"(B) The amount of any payment to a person under subparagraph (A) is the amount equal to the total of all payments under chapter 13 of title 38, United States Code, that would have been made to that person for the period described in such subparagraph if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978."
+"(B) The amount of any payment to a person under subparagraph (A) is the amount equal to the total of allpayments under chapter 13 of title 38, United States Code, that would have been made to that person for the period described in such subparagraph if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978."
 
 #### Effective Date of 1978 Amendment
 

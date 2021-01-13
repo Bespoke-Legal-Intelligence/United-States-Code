@@ -52,7 +52,7 @@ Incentive for prisoners' successful completion of treatment program.—
 
 &emsp;&emsp;(A)
 
-Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
+Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisonerfor substance abuse and discontinue such conditions on determining that substance abuse has recurred.
 
 &emsp;&emsp;(B)
 
@@ -216,9 +216,11 @@ Definition.—In this subsection, the term "community confinement" has the meani
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, §102(a), title V, §504(f)(1), title VI, §601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactmentof Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
+The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactment of Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
 
 The date of enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
@@ -274,6 +276,8 @@ Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–391, title V, §504(f)(2), Dec. 21, 2018, 132 Stat. 5234, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Dec. 21, 2018\]."
@@ -289,6 +293,64 @@ Pub. L. 115–391, title I, §105, Dec. 21, 2018, 132 Stat. 5214, provided that:
 #### Construction of 2008 Amendment
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
+
+#### Bureau of Prisons
+
+Pub. L. 116–136, div. B, title II, §12003, Mar. 27, 2020, 134 Stat. 515, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Bureau' means the Bureau of Prisons;
+
+&emsp;"(2) the term 'covered emergency period' means the period beginning on the date on which the President declared a national emergency under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) \[declaration issued Mar. 13, 2020, beginning Mar. 1, 2020, see 85 F.R. 15337\] and ending on the date that is 30 days after the date on which the national emergency declaration terminates; and
+
+&emsp;"(3) the term 'Secretary' means the Secretary of Health and Human Services.
+
+"(b)
+
+Supply of Personal Protective Equipment and Test Kits to Bureau of Prisons; Home Confinement Authority.—
+
+&emsp;"(1)
+
+Personal protective equipment and test kits.—
+
+&emsp;&emsp;"(A)
+
+Findings.—Congress finds the following:
+
+&emsp;&emsp;&emsp;"(i) There is an urgent need for personal protective equipment and test kits to the Bureau based on the density of the inmate population, the high traffic, the high volume of inmates, the high rate of turnover of inmates and personnel, and the number of high-security areas, within the facilities of the Bureau.
+
+&emsp;&emsp;&emsp;"(ii) The inability of the Bureau to secure the purchase of infectious disease personal protective equipment and related supplies now and in the future is a vulnerability.
+
+&emsp;&emsp;&emsp;"(iii) The Bureau is currently competing in and engaging the same landscape of vendors as all other Federal agencies and private entities.
+
+&emsp;&emsp;&emsp;"(iv) The ability of the Bureau to purchase needed equipment and supplies is currently subject to an individual manufacturer's specific recognition of the Bureau as a priority and subsequent allocation of the inventory of the manufacturer to the Bureau.
+
+&emsp;&emsp;"(B)
+
+Consideration.—The Secretary shall appropriately consider, relative to other priorities of the Department of Health and Human Services for high-risk and high-need populations, the distribution of infectious disease personal protective equipment and COVID–19 test kits to the Bureau for use by inmates and personnel of the Bureau.
+
+&emsp;"(2)
+
+Home confinement authority.—During the covered emergency period, if the Attorney General finds that emergency conditions will materially affect the functioning of the Bureau, the Director of the Bureau may lengthen the maximum amount of time for which the Director is authorized to place a prisoner in home confinement under the first sentence of section 3624(c)(2) of title 18, United States Code, as the Director determines appropriate.
+
+"(c)
+
+Video Visitation.—
+
+&emsp;"(1)
+
+In general.—During the covered emergency period, if the Attorney General finds that emergency conditions will materially affect the functioning of the Bureau, the Director of the Bureau shall promulgate rules regarding the ability of inmates to conduct visitation through video teleconferencing and telephonically, free of charge to inmates, during the covered emergency period.
+
+&emsp;"(2)
+
+Exemption from notice-and-comment rulemaking requirements.—Section 553 of title 5, United States Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection.
+
+"(d)
+
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### GAO Report
 

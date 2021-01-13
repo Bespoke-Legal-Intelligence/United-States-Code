@@ -36,7 +36,7 @@ Section was formerly classified to section 2078 of the former Appendix to this t
 
 #### Effective Date
 
-Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under section 4502 of this title.
+Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an EffectiveDate of 1992 Amendment note under section 4502 of this title.
 
 #### Delegation of Functions
 

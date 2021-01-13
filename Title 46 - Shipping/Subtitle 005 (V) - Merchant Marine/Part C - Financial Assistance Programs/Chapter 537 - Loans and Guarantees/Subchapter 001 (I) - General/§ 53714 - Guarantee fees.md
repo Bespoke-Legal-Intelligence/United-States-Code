@@ -56,7 +56,7 @@ Financing the Fee.—A fee paid under this section is eligible to be financed un
 
 Not Refundable.—A fee paid under this section is not refundable. However, an obligor shall receive credit for the amount paid for the remaining term of the obligation if the obligation is refinanced and guaranteed under this chapter after the refinancing.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1613; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1613; Pub. L. 109–163, div. C, title XXXV,§3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -89,6 +89,8 @@ June 29, 1936, ch. 858, title XI, §1104A(e) \[§1104A formerly §1104\], as add
 53714(e)
 
 46 App.:1274(e)(4).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

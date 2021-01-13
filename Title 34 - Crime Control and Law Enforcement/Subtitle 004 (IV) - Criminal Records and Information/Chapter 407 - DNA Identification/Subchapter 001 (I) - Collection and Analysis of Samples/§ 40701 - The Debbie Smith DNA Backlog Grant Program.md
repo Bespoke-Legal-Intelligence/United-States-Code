@@ -356,6 +356,8 @@ In the event that a laboratory operated by a State or unit of local government w
 
 <i>For termination of amendment by section 1006 of Pub. L. 113–4, see Termination Date of 2013 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter III of this chapter, referred to in subsec. (a)(6), was in the original "the Katie Sepich Enhanced DNA Collection Act of 2012", meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, which is classified principally to subchapter III (§40741 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under section 10101 of this title and Tables.
@@ -493,6 +495,8 @@ Subsec. (j)(1) to (5). Pub. L. 108–405, §202(b)(5), substituted pars. (1) to 
 &emsp;"(D) $25,000,000 for fiscal year 2004."
 
 Subsec. (k) to (m). Pub. L. 108–405, §202(b)(6), added subsecs. (k) to (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2013 Amendment
 

@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;(6) The term "farm labor contracting activity" means recruiting, soliciting, hiring, employing, furnishing, or transporting any migrant or seasonal agricultural worker.
 
-&emsp;(7) The term "farm labor contractor" means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or othervaluable consideration paid or promised to be paid, performs any farm labor contracting activity.
+&emsp;(7) The term "farm labor contractor" means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or other valuable consideration paid or promised to be paid, performs any farm labor contracting activity.
 
 &emsp;(8)(A) Except as provided in subparagraph (B), the term "migrant agricultural worker" means an individual who is employed in agricultural employment of a seasonal or other temporary nature, and who is required to be absent overnight from his permanent place of residence.
 
@@ -46,6 +46,8 @@ As used in this chapter—
 
 (Pub. L. 97–470, §3, Jan. 14, 1983, 96 Stat. 2584; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §101(b)(1)(A), Nov. 6, 1986, 100 Stat. 3372.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, known as the Fair Labor Standards Act of 1938, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
@@ -55,6 +57,8 @@ That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060,
 <b>1986</b>—Par. (3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Pars. (8)(B)(ii), (10)(B)(iii). Pub. L. 99–603 substituted "1101(a)(15)(H)(ii)(a)" for "1101(a)(15)(H)(ii)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

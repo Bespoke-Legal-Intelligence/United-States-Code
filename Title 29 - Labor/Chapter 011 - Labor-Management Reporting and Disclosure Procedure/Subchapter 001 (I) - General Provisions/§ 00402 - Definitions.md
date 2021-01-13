@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 (n) "Officer" means any constitutional officer, any person authorized to perform the functions of president, vice president, secretary, treasurer, or other executive functions of a labor organization, and any member of its executive board or similar governing body.
 
-(o) "Member" or "member in good standing", when used in reference to a labor organization, includes any person who has fulfilled the requirements for membership in such organization, and who neither has voluntarily withdrawnfrom membership nor has been expelled or suspended from membership after appropriate proceedings consistent with lawful provisions of the constitution and bylaws of such organization.
+(o) "Member" or "member in good standing", when used in reference to a labor organization, includes any person who has fulfilled the requirements for membership in such organization, and who neither has voluntarily withdrawn from membership nor has been expelled or suspended from membership after appropriate proceedings consistent with lawful provisions of the constitution and bylaws of such organization.
 
 (p) "Secretary" means the Secretary of Labor.
 
@@ -49,6 +49,8 @@ For the purposes of this chapter—
 (r) "District court of the United States" means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
 
 (Pub. L. 86–257, §3, Sept. 14, 1959, 73 Stat. 520; Pub. L. 95–598, title III, §320, Nov. 6, 1978, 92 Stat. 2678.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7
 
 The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions setout as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
@@ -69,6 +71,8 @@ The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 
 #### Amendments
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–598 substituted "cases under title 11" for "bankruptcy".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

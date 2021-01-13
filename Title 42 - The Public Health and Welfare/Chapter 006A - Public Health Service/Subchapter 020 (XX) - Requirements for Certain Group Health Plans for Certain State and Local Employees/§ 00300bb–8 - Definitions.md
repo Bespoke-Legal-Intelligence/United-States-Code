@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employerhealth reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(3), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 

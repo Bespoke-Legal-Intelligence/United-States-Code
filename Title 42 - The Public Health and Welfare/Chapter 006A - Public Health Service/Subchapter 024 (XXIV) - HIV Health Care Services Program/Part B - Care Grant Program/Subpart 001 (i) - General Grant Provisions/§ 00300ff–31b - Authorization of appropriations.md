@@ -14,7 +14,7 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### (A) In general
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) for a fiscal year in excess of the 2006 adjusted amount, the Secretary shall reserve 1/3 for grants under section 300ff–29a of this title, except that the availability of the reserved funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year, and except that any amount appropriated exclusively for carrying out section 300ff–26 of this title (and, accordingly, distributed under section 300ff–28(a)(2)(F) of this title) is not subject to this subparagraph.
+&emsp;&emsp;Of the amount appropriated under subsection (a) for a fiscal year in excess of the 2006 adjusted amount, the Secretary shall reserve 1/3 for grants under section 300ff–29a of this title, except that the availability of the reserved funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year, and except that anyamount appropriated exclusively for carrying out section 300ff–26 of this title (and, accordingly, distributed under section 300ff–28(a)(2)(F) of this title) is not subject to this subparagraph.
 
 #### (B) 2006 adjusted amount
 

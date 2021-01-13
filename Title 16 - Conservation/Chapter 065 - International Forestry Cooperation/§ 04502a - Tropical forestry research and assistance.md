@@ -48,5 +48,5 @@ Section was enacted as part of the Hawaii Tropical Forest Recovery Act, and not 
 
 #### Authorization of Appropriations
 
-Pub. L. 102–574, §5, Oct. 29, 1992, 106 Stat. 4599, provided that: "There are authorized to be appropriated such sums as are necessary to carry out sections 3 and 4 \[enacting this section and provisions set out as a note under 4503a of this title\]."
+Pub. L. 102–574, §5, Oct. 29, 1992, 106 Stat. 4599, provided that: "There are authorized to be appropriatedsuch sums as are necessary to carry out sections 3 and 4 \[enacting this section and provisions set out as a note under 4503a of this title\]."
 

@@ -6,7 +6,7 @@ Adjusting Mileage.—A person may service, repair, or replace an odometer of a m
 
 &emsp;(1) the person shall adjust the odometer to read zero; and
 
-&emsp;(2) the owner of the vehicle or agent of the owner shall attach a written notice to the leftdoor frame of the vehicle specifying the mileage before the service, repair, or replacement and the date of the service, repair, or replacement.
+&emsp;(2) the owner of the vehicle or agent of the owner shall attach a written notice to the left door frame of the vehicle specifying the mileage before the service, repair, or replacement and the date of the service, repair, or replacement.
 
 (b)
 

@@ -1,6 +1,6 @@
 ### §15504. Program development criteria
 
-In considering programs and projects to be provided assistance by a Commission under thissubtitle, and in establishing a priority ranking of the requests for assistance provided to the Commission, the Commission shall follow procedures that ensure, to the maximum extent practicable, consideration of—
+In considering programs and projects to be provided assistance by a Commission under this subtitle, and in establishing a priority ranking of the requests for assistance provided to the Commission, the Commission shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
 &emsp;(1) the relationship of the project or class of projects to overall regional development;
 
@@ -16,9 +16,13 @@ In considering programs and projects to be provided assistance by a Commission u
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

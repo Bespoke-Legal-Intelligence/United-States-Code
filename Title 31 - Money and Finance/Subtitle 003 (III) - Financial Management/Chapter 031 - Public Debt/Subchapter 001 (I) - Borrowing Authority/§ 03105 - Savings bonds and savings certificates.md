@@ -1,6 +1,6 @@
 ### §3105. Savings bonds and savings certificates
 
-(a) With the approval of the President, the Secretary of the Treasury may issue savings bonds and savings certificates of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. Proceeds from the bonds and certificates shall be used for expenditures authorized by law. Savings bonds and certificates may be issued on an interest-bearing basis, on a discount basis, or on an interest-bearing and discount basis. Savings bonds shall mature not more than 20 years from the date of issue. Savings certificates shall mature not more than 10 years from the date of issue. The difference between the price paid and the amount received on redeeming a savings bond or certificate is interest under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+(a) With the approval of the President, the Secretary of the Treasury may issue savingsbonds and savings certificates of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. Proceeds from the bonds and certificates shall be used for expenditures authorized by law. Savings bonds and certificates may be issued on an interest-bearing basis, on a discount basis, or on an interest-bearing and discount basis. Savings bonds shall mature not more than 20 years from the date of issue. Savings certificates shall mature not more than 10 years from the date of issue. The difference between the price paid and the amount received on redeeming a savings bond or certificate is interest under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
 (b)(1) The Secretary may—
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) is qualified under regulations prescribed by the Secretary in carrying out this subsection.
 
-(e)(1) The Secretary may prescribe a way in which a check issued to an individual (except a trust or estate) as a refund for taxes imposedunder subtitle A of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) may become a series E savings bond. However, a check may become a bond only if the claim for a refund is filed by the last day prescribed by law for filing the return (determined without any extensions) for the taxable year for which the refund is made. The Secretary may prescribe the time and way in which the check becomes a bond.
+(e)(1) The Secretary may prescribe a way in which a check issued to an individual (except a trust or estate) as a refund for taxes imposed under subtitle A of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) may become a series E savings bond. However, a check may become a bond only if the claim for a refund is filed by the last day prescribed by law for filing the return (determined without any extensions) for the taxable year for which the refund is made. The Secretary may prescribe the time and way in which the check becomes a bond.
 
 (2) A bond issued under this subsection is deemed to be a series E bond issued under this section, except that the bond shall bear an issue date of the first day of the first month beginning after the close of the taxable year for which the bond is issued. The Secretary also may provide that a bond issued to joint payees may be redeemed by either payee alone.
 
@@ -138,6 +138,8 @@ Sept. 3, 1982, Pub. L. 97–248, §289(a)(1)(C), 96 Stat. 571.
 
 In subsection (b)(1), before clause (A), the words "and except as provided in paragraph (2) of this subsection" are added for clarity. In clause (B), the word "change'' is substituted for "provide for increases and decreases in" to eliminate unnecessary words. The word "investment" is omitted the 2d time it appears as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–465 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
@@ -162,9 +164,17 @@ In subsection (b)(1), before clause (A), the words "and except as provided in pa
 
 Subsec. (c)(5). Pub. L. 97–452, §1(7), struck out "(expressed in terms of the maturity value)" after "denominations".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–465, title VII, §745(b), Dec. 8, 1994, 108 Stat. 5011, provided that: "The amendment made by this section \[amending this section\] shall apply to bonds issued after October 31, 1994."
+
+#### Transitional Rule
+
+Pub. L. 97–248, title II, §289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11981. Interagency Committee for the Purchase of United States Bonds
 
@@ -174,7 +184,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. (a) There is hereby established the Interagency Committee for the Purchase of United States Savings Bonds (hereinafter referred to as the Committee). The Committee shall consist of a Chairman, who is to be appointed by the President for a term of two years, and the heads of Federal agencies. Each member of the Committee is responsible for the success of the Payroll Savings Program in his agency.
 
-(b) Members of the Committee may designate an alternate, who shall serve as a member of the Committee whenever the regular member is unable to attend any meeting of the Committee. The alternate member may be authorized to act for the regular member in all appropriate matters relating to the Committee. In the case of an executive or military department, a Deputy Secretary or an Under Secretary may be designated as an alternate member. In the case of any other Federal agency, the alternate member shall be designated from among the officials thereof of appropriate rank.
+(b) Members of the Committee may designate an alternate, who shall serve as a member of the Committeewhenever the regular member is unable to attend any meeting of the Committee. The alternate member may be authorized to act for the regular member in all appropriate matters relating to the Committee. In the case of an executive or military department, a Deputy Secretary or an Under Secretary may be designated as an alternate member. In the case of any other Federal agency, the alternate member shall be designated from among the officials thereof of appropriate rank.
 
 (c) The Chairman will designate the Federal Payroll Savings Officer of the Savings Bonds Division, Department of the Treasury, to act as his liaison officer with members of the Committee.
 
@@ -198,7 +208,37 @@ Sec. 5. This Order supersedes Executive Order No. 11532 of June 2, 1970.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Transitional Rule
+#### Ex. Ord. No. 13968. Promoting Redemption of Savings Bonds
 
-Pub. L. 97–248, title II, §289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
+Ex. Ord. No. 13968, Dec. 18, 2020, 85 F.R. 83745, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Since 1935, the Department of the Treasury (Department) has issued savings bonds to the American public. Backed by the full faith and credit of the United States Government, these bonds are extremely safe investments that were designed to be accessible even to inexperienced investors. Indeed, over the years, savings bonds have proved to be a popular birthday or graduation gift, helping introduce younger Americans to the rewards of investing in our country's future. Among other things, savings bonds provided the United States with a critical source of financing during World War II.
+
+By law, savings bonds never expire, and there is no deadline for owners to redeem them. It is currently estimated that more than 75 million matured savings bonds, issued as far back as 1935, remain unredeemed. The total value of these unredeemed savings bonds is approximately $27 billion.
+
+Above and beyond any legal requirements applicable to savings bonds, the Department should take all appropriate action to make sure that those Americans who invested in the future success of their country have the opportunity to receive the remuneration to which they are lawfully entitled. Under my Administration, the Department has already undertaken significant measures to reunite matured savings bonds with their rightful owners. For example, the Department in 2019 released an online tool known as "Treasury Hunt" to help individuals determine if they are the owners of matured unredeemed savings bonds. This order is the next step in ensuring that owners of matured savings bonds have a full opportunity to redeem their bonds.
+
+Sec. 2. <i>Updating Records</i>. The Department shall work to digitize and make electronically searchable sufficient information to identify the registered owner of any matured unredeemed savings bond, including the name and registered address of such owner and of any registered beneficiaries. In particular, the Department shall complete its ongoing pilot project to assess the feasibility and cost of digitizing and making these records searchable and accessible, which is being carried out in conjunction with multiple vendors, before the end of calendar year 2020. If the pilot project is successful, a vendor shall be selected to begin digitizing savings bond records. When digitizing records, the Department shall, to the extent feasible, focus first on the bond-issuance years that represent the highest percentage of matured unredeemed debt.
+
+Sec. 3. <i>Information Accessibility</i>. Within 30 days of beginning to receive data from the digitization of records described in section 2 of this order, the Department shall incorporate into the data accessible through Treasury Hunt information collected from the digitized records, in a secure manner and consistent with applicable law, including the Privacy Act \[5 U.S.C. 552a\]. The Department shall work to ensure that this information can be used through Treasury Hunt to help individuals determine if they are the owners of matured unredeemed savings bonds.
+
+Sec. 4. <i>Customer Research</i>. The Department shall conduct customer research to determine why individuals do not redeem savings bonds upon maturity, any barriers individuals encounter when they do attempt to redeem their bonds, and the feasibility of modifying redemption methods or developing alternative redemption methods in order to mitigate, overcome, or avoid any such barriers.
+
+Sec. 5. <i>Collaboration with States</i>. The Department shall engage with States and State associations to obtain additional data and information to help the Department identify owners of unredeemed bonds, to learn best practices employed by the States regarding the redemption of mature bonds, and to encourage the States to add direct links to Treasury Hunt to States' unclaimed property websites or other appropriate State publications or information portals.
+
+Sec. 6. <i>Public Reporting</i>. Within 6 months of the date of this order \[Dec. 18, 2020\], the Secretary of the Treasury shall publish a report on actions and initiatives undertaken by the Department to implement this order.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

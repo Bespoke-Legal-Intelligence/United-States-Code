@@ -10,11 +10,13 @@ The head of each Federal agency shall establish and maintain an active, continui
 
 &emsp;(4) compliance with sections 2101–2117, 2501–2507, 2901–2909, and 3101–3107, of this title and the regulations issued under them.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 94–575, §3(a)(1), (2), Oct. 21, 1976, 90 Stat. 2726; Pub. L. 98–497, title I, §107(b)(19), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §9(f), formerly §9(g), Nov. 26, 2014, 128 Stat. 2014, renumbered §9(f),Pub. L. 115–85, §2(a)(5), Nov. 21, 2017, 131 Stat. 1275; Pub. L. 114–185, §4, June 30, 2016, 130 Stat. 544.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 94–575, §3(a)(1), (2), Oct. 21, 1976, 90 Stat. 2726; Pub. L. 98–497, title I, §107(b)(19), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §9(f), formerly §9(g), Nov. 26, 2014, 128 Stat. 2014, renumbered §9(f), Pub. L. 115–85, §2(a)(5), Nov. 21, 2017, 131 Stat. 1275; Pub. L. 114–185, §4, June 30, 2016, 130 Stat. 544.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §396(b) (June 30, 1949, ch. 288, title V, §506(b), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Based on 44 U.S. Code, 1964 ed., §396(b) (June 30, 1949, ch. 288, title V, §50
 <b>1984</b>—Pars. (2), (3). Pub. L. 98–497 inserted "and the Archivist" after "Administrator of General Services" in par. (2), and substituted "sections 2101–2117" for "sections 2101–2113" and struck out "2701," before "2901" in par. (3).
 
 <b>1976</b>—Pub. L. 94–575, §3(a)(1), (2), substituted in par. (1) "the creation and over the maintenance" for "the creation, maintenance," and in par. (3) reference to sections "2901–2909" for "2901, 2903–2909" of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

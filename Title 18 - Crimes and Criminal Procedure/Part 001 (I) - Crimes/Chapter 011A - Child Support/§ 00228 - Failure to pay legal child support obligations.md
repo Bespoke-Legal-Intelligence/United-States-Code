@@ -50,6 +50,8 @@ Definitions.—As used in this section—
 
 (Added Pub. L. 102–521, §2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, §607(l), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, §2, June 24, 1998, 112 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec. (f)(1), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
@@ -59,6 +61,8 @@ Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C.
 <b>1998</b>—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.
 
 <b>1996</b>—Subsec. (d)(2). Pub. L. 104–294 inserted "commonwealth," before "possession or territory of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1998 Amendment
 

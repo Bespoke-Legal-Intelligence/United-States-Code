@@ -6,9 +6,13 @@
 
 (Pub. L. 90–537, title I, §102, Sept. 30, 1968, 82 Stat. 886.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal on Failure of Enforceability Date
 
@@ -40,7 +44,7 @@ Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that
 
 Pub. L. 108–451, §1(a), Dec. 10, 2004, 118 Stat. 3478, provided that: "This Act \[amending sections 1524 and 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Arizona Water Settlements Act'."
 
-Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: "This title \[amending section 1543of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Central Arizona Project Settlement Act of 2004'."
+Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: "This title \[amending section 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Central Arizona Project Settlement Act of 2004'."
 
 Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: "This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the 'Gila River Indian Community Water Rights Settlement Act of 2004'."
 

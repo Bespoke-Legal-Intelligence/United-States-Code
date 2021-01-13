@@ -6,11 +6,13 @@
 
 (Added Pub. L. 100–690, title VII, §7521(a), Nov. 18, 1988, 102 Stat. 4489; amended Pub. L. 101–647, title XXXV, §3548, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, §506(b), July 27, 2006, 120 Stat. 630.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–248, §506(b)(1), inserted "producing with intent to distribute or sell, or" before "selling or transferring obscene matter,".
 
-Subsec. (b). Pub. L. 109–248, §506(b)(3), which directed amendment of subsec. (b) by inserting "production," before "selling or transferring or offering to sell or transfer such material.", was executed by making theinsertion before "selling or transferring or offering to sell or transfer such material be", to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–248, §506(b)(3), which directed amendment of subsec. (b) by inserting "production," before "selling or transferring or offering to sell or transfer such material.", was executed by making the insertion before "selling or transferring or offering to sell or transfer such material be", to reflect the probable intent of Congress.
 
 Pub. L. 109–248, §506(b)(2), inserted "produces" before "sells or transfers or offers to sell or transfer obscene matter".
 

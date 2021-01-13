@@ -78,7 +78,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Basis for entry of judgment
 
-&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) or if a biomaterials supplier moves for summary judgment, the biomaterials suppliershall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (B) Issues of material fact
 
@@ -86,7 +86,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 
-&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion forsummary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (3) Discovery with respect to a biomaterials supplier
 
@@ -101,6 +101,8 @@ An order granting a motion to dismiss or for summary judgment pursuant to this s
 The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
 (Pub. L. 105–230, §6, Aug. 13, 1998, 112 Stat. 1526.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

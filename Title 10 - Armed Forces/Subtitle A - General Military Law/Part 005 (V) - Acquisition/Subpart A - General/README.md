@@ -12,5 +12,5 @@
 - [Chapter 201 - Definitions](Chapter%20201%20-%20Definitions/README.md)
 - [Chapter 203 - General Matters](Chapter%20203%20-%20General%20Matters/README.md)
 - [Chapter 205 - Defense Acquisition System](Chapter%20205%20-%20Defense%20Acquisition%20System/README.md)
-- [Chapter 207 - Budgeting and Appropriations Matters](Chapter%20207%20-%20Budgeting%20and%20Appropriations%20Matters/README.md)
+- [Chapter 207 - Budgeting and Appropriations](Chapter%20207%20-%20Budgeting%20and%20Appropriations/README.md)
 - [Chapter 209 - Operational Contract Support](Chapter%20209%20-%20Operational%20Contract%20Support/README.md)

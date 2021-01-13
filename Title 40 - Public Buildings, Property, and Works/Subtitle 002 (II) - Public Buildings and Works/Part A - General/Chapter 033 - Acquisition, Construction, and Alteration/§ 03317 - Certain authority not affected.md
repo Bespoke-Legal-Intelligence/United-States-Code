@@ -22,11 +22,15 @@ Pub. L. 86–249, §16, Sept. 9, 1959, 73 Stat. 483; Pub. L. 91–375, §6(m)(3)
 
 The text of 40:615(1) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–235 renumbered section 3316 of this title as this section.
 
 <b>2007</b>—Pub. L. 110–140 renumbered section 3315 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

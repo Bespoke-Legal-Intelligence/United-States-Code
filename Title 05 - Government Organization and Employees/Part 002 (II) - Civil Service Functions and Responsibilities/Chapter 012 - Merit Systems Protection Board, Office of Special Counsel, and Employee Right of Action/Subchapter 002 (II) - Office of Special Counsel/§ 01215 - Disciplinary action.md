@@ -30,7 +30,7 @@
 
 &emsp;(iii) any combination of disciplinary actions described under clause (i) and an assessment described under clause (ii).
 
-(B) In any case brought under paragraph (1) in which the Board finds that an employee has committed a prohibited personnel practice under section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D), the Board may impose disciplinary action if the Board finds that the activity protected under section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D) was a significant motivating factor, even if other factors also motivated the decision, for the employee's decision to take, failto take, or threaten to take or fail to take a personnel action, unless that employee demonstrates, by a preponderance of the evidence, that the employee would have taken, failed to take, or threatened to take or fail to take the same personnel action, in the absence of such protected activity.
+(B) In any case brought under paragraph (1) in which the Board finds that an employee has committed a prohibited personnel practice under section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D), the Board may impose disciplinary action if the Board finds that the activity protected under section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D) was a significant motivating factor, even if other factors also motivated the decision, for the employee's decision to take, fail to take, or threaten to take or fail to take a personnel action, unless that employee demonstrates, by a preponderance of the evidence, that the employee would have taken, failed to take, or threatened to take or fail to take the same personnel action, in the absence of such protected activity.
 
 (4) There may be no administrative appeal from an order of the Board. An employee subject to a final order imposing disciplinary action under this subsection may obtain judicial review of the order by filing a petition therefor with such court, and within such time, as provided for under section 7703(b).
 
@@ -44,9 +44,13 @@
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 27; amended Pub. L. 112–199, title I, §106, Nov. 27, 2012, 126 Stat. 1468.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–199 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

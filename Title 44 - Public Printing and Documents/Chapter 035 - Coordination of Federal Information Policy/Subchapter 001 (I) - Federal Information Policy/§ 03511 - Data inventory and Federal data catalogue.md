@@ -114,7 +114,9 @@ Access to other data assets.—The Director shall ensure the Federal data catalo
 
 Delegation.—The Director shall delegate to the Administrator of the Office of Information and Regulatory Affairs and the Administrator of the Office of Electronic Government the authority to jointly issue guidance required under this section.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 180; amended Pub. L. 113–235, div. H, title I,§1301(c)(1), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–435, title II, §202(d)(1), Jan. 14, 2019, 132 Stat. 5538.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 180; amended Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–435, title II, §202(d)(1), Jan. 14, 2019, 132 Stat. 5538.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -127,6 +129,8 @@ Another prior section 3511, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, prov
 <b>2019</b>—Pub. L. 115–435 amended section generally. Prior to amendment, section related to establishment and operation of Government Information Locator Service.
 
 <b>2014</b>—Subsec. (a)(3). Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

@@ -11,6 +11,7 @@
 | [1957\.](%C2%A7%2001957%20-%20Additional%20criminal%20penalty%20in%20certain%20cases.md) | Additional criminal penalty in certain cases. |
 | [1958\.](%C2%A7%2001958%20-%20Compliance.md) | Compliance. |
 | [1959\.](%C2%A7%2001959%20-%20Administrative%20procedure.md) | Administrative procedure. |
+| [1960\.](%C2%A7%2001960%20-%20Safe%20harbor%20with%20respect%20to%20keep%20open%20directives.md) | Safe harbor with respect to keep open directives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,3 +29,4 @@
 - [&sect; 01957 - Additional criminal penalty in certain cases](%C2%A7%2001957%20-%20Additional%20criminal%20penalty%20in%20certain%20cases.md)
 - [&sect; 01958 - Compliance](%C2%A7%2001958%20-%20Compliance.md)
 - [&sect; 01959 - Administrative procedure](%C2%A7%2001959%20-%20Administrative%20procedure.md)
+- [&sect; 01960 - Safe harbor with respect to keep open directives](%C2%A7%2001960%20-%20Safe%20harbor%20with%20respect%20to%20keep%20open%20directives.md)

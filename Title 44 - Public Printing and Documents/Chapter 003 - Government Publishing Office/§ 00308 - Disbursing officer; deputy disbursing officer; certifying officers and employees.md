@@ -20,6 +20,8 @@ The last paragraph of this section is from former section 73; the remainder of t
 
 Paragraph (a) deleted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing.
@@ -50,7 +52,9 @@ Subsec. (c). Pub. L. 93–459 added subsec. (c). Former subsec. (c), relating to
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–310 struck out provisions which related to sureties on official bonds.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a), (b)(2), and (c)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a), (b)(2),and (c)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 

@@ -30,6 +30,8 @@ Nothing in this section may be construed to require the Secretary or the Broadca
 
 (Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49; Pub. L. 112–239, div. A, title X, §1078(a), Jan. 2, 2013, 126 Stat. 1957.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
@@ -46,9 +48,11 @@ For the effective date of section 1078 of the National Defense Authorization Act
 
 <b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted "Subject to subsection (b) of this section, any such information" for "Any such information" in second sentence, and added subsec. (b).
 
-<b>1979</b>—Pub. L. 96–60 substituted " 'Problems of Communism' and the 'English Teaching Forum' which maybe sold" for " 'Problems of Communism' which may continue to be sold" in parenthetical clause.
+<b>1979</b>—Pub. L. 96–60 substituted " 'Problems of Communism' and the 'English Teaching Forum' which may be sold" for " 'Problems of Communism' which may continue to be sold" in parenthetical clause.
 
 <b>1972</b>—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than "Problems of Communism" which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -96,6 +100,8 @@ Pub. L. 97–241, title III, §303, Aug. 24, 1982, 96 Stat. 291, provided that:
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
+#### <b>Executive Documents</b>
+
 #### <b>REORGANIZATION PLAN NO. 8 OF 1953</b>
 
 #### Eff. Aug. 1, 1953, 18 F.R. 4542, 67 Stat. 642, as amended act June 28, 1955, ch. 189, §12(c)(21), 69 Stat. 183; Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639
@@ -110,7 +116,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Transfer of Functions
 
-(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
+(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functionsvested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
 
 (b) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Subsection related to the transfer to the Director of functions vested in the Director for Mutual Security by the Mutual Security Act of 1951, as amended, act Oct. 10, 1951, ch. 479, 65 Stat. 373, which related to foreign information programs, as formerly provided for in section 1652 of this title.\]
 
@@ -180,7 +186,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 6. Negotiations
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Sectionauthorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.\]
 
 #### Sec. 7. Transfer of Functions
 
@@ -236,7 +242,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
-(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission forUNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
+(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
 \[Section 6553 of this title provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.\]
 
@@ -302,7 +308,7 @@ The new agency will have two distinct but related goals:
 
 &emsp;To tell ourselves about the world, so as to enrich our own culture as well as to give us the understanding to deal effectively with problems among nations.
 
-As the world becomes more and more interdependent, such mutual understanding becomes increasingly vital.The aim of this reorganization, therefore, is a more effective dialogue among peoples of the earth. Americans—mostly immigrants or the descendants of immigrants—are particularly well suited to enter into such an undertaking. We have already learned much from those who have brought differing values, perspectives and experiences to our shores. And we must continue to learn.
+As the world becomes more and more interdependent, such mutual understanding becomes increasingly vital. The aim of this reorganization, therefore, is a more effective dialogue among peoples of the earth. Americans—mostly immigrants or the descendants of immigrants—are particularly well suited to enter into such an undertaking. We have already learned much from those who have brought differing values, perspectives and experiences to our shores. And we must continue to learn.
 
 Thus the new agency will lay heavy emphasis on listening to others, so as to learn something of their motivations and aspirations, their histories and cultures.
 

@@ -8,7 +8,7 @@ A person may not—
 
 &emsp;(2) prepare a management plan for such a school, or
 
-&emsp;(3) design or conduct response actions, other than the type of action described in sections 2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such a school or in a public or commercial building,
+&emsp;(3) design or conduct response actions, other than the type of action described in sections2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such a school or in a public or commercial building,
 
 > unless such person is accredited by a State under subsection (b) or is accredited pursuant to an Administrator-approved course under subsection (c).
 
@@ -138,11 +138,11 @@ Pub. L. 101–637, §15(c), Nov. 28, 1990, 104 Stat. 4597, provided that: "This 
 
 #### Revision of Model Contractor Accreditation Program
 
-Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
+Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additionalhours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 
-Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under theToxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
+Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)".</i>
 

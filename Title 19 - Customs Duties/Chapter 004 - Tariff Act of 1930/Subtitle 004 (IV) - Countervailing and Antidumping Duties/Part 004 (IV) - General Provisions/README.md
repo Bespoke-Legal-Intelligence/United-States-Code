@@ -27,6 +27,6 @@ Part IV" was in the original "Subtitle D" and was editorially changed in order t
 - [&sect; 01677i - Downstream product monitoring](%C2%A7%2001677i%20-%20Downstream%20product%20monitoring.md)
 - [&sect; 01677j - Prevention of circumvention of antidumping and countervailing duty orders](%C2%A7%2001677j%20-%20Prevention%20of%20circumvention%20of%20antidumping%20and%20countervailing%20duty%20orders.md)
 - [&sect; 01677k - Third-country dumping](%C2%A7%2001677k%20-%20Third-country%20dumping.md)
-- [&sect; 01677l - Antidumping and countervailing duty collections](%C2%A7%2001677l%20-%20Antidumping%20and%20countervailing%20duty%20collections.md)
+- [&sect; 01677l - Repealed. Pub. L. 116&#8211;113, title VI, &sect;601, Jan. 29, 2020, 134 Stat. 78](%C2%A7%2001677l%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93113%2C%20title%20VI%2C%20%C2%A7601%2C%20Jan.%2029%2C%202020%2C%20134%20Stat.%2078.md)
 - [&sect; 01677m - Conduct of investigations and administrative reviews](%C2%A7%2001677m%20-%20Conduct%20of%20investigations%20and%20administrative%20reviews.md)
 - [&sect; 01677n - Antidumping petitions by third countries](%C2%A7%2001677n%20-%20Antidumping%20petitions%20by%20third%20countries.md)

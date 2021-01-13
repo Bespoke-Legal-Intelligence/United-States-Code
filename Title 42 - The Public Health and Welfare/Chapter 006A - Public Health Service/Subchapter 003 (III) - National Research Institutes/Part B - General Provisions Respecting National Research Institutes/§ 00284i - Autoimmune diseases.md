@@ -78,7 +78,7 @@
 
 &emsp;"(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases."
 
-Subsec. (e). Pub. L. 109–482, §103(b)(11), struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases."
+Subsec. (e). Pub. L. 109–482, §103(b)(11), struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Healthresearch and other activities with respect to autoimmune diseases."
 
 #### Effective Date of 2007 Amendment
 

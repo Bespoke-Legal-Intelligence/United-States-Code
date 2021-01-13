@@ -6,7 +6,7 @@ The Secretary of the Interior may permit tribal governments and organizations an
 
 #### (b) Scope of authority
 
-The authority provided by this section is in addition to, and not in derogation of, any otherauthority available to the Secretary of the Interior.
+The authority provided by this section is in addition to, and not in derogation of, any other authority available to the Secretary of the Interior.
 
 #### (c) Limitation of liability
 
@@ -14,11 +14,15 @@ The payment of any fee, or agreement to pay costs, to the Secretary shall not in
 
 (Pub. L. 100–297, title V, §5405, Apr. 28, 1988, 102 Stat. 417; Pub. L. 100–427, §25, Sept. 9, 1988, 102 Stat. 1613.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–427, §25(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Interior may permit tribal, student, and other non-Federal organizations to use facilities, lands, and equipment administered by the Bureau of Indian Affairs if such use does not interfere with the purpose for which the facilities, land, and equipment are administered by the Bureau. The Secretary of the Interior may charge the user for the actual or estimated additional cost of utilities or other expenses incurred because of the use and the amounts collected shall be credited to the appropriation or fund from which the expenses are paid."
 
 Subsec. (c). Pub. L. 100–427, §25(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

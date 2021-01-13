@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 112–141, §100214, added subsec. (c).
 
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

@@ -14,9 +14,13 @@ Congress finds the following:
 
 (Pub. L. 106–560, §2, Dec. 21, 2000, 114 Stat. 2784.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13726 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
 

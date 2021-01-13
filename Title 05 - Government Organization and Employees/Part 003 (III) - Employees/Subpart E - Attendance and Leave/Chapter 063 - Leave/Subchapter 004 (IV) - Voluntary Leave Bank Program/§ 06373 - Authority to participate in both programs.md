@@ -6,9 +6,13 @@
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 103–103, §5(a)(1), Oct. 8, 1993, 107 Stat. 1023.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–103 substituted "Authority to participate in both programs" for "Limitation on employee participation" in section catchline and amended text generally. Prior to amendment, text read as follows: "An employee in a unit of an agency that establishes a leave bank program under the provisions of this subchapter may not participate in a leave transfer program under the provisions of subchapter III."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

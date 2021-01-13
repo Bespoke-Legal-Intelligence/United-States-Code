@@ -6,15 +6,15 @@
 
 &emsp;(B) to any veteran who has a service-connected disability rated at 50 percent or more.
 
-(2) The Secretary (subject to paragraph (4)) shall furnish hospital care and medical services,and may furnish nursing home care, which the Secretary determines to be needed to any veteran—
+(2) The Secretary (subject to paragraph (4)) shall furnish hospital care and medical services, and may furnish nursing home care, which the Secretary determines to be needed to any veteran—
 
 &emsp;(A) who has a compensable service-connected disability rated less than 50 percent or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent;
 
-&emsp;(B) whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
+&emsp;(B) whose discharge or release from active military, naval, air, or space service was for a disability that was incurred or aggravated in the line of duty;
 
 &emsp;(C) who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran's continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
 
-&emsp;(D) who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14, or who was awarded the Purple Heart;
+&emsp;(D) who is a former prisoner of war, who was awarded the medal of honor under section 7271,8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14, or who was awarded the Purple Heart;
 
 &emsp;(E) who is a veteran of the Mexican border period or of World War I;
 
@@ -52,7 +52,7 @@
 
 (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
-(E) Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as "Project Shipboard Hazard and Defense (SHAD)" and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
+(E) Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as "Project Shipboard Hazard and Defense (SHAD)" and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding thatthere is insufficient medical evidence to conclude that such illness is attributable to such testing.
 
 (F) Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953, and ending on December 31, 1987, is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
 
@@ -96,11 +96,11 @@
 
 (3) In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
 
-&emsp;(A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
+&emsp;(A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
 
-&emsp;(B) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
+&emsp;(B) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
 
-&emsp;(C) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.
+&emsp;(C) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.
 
 (4) For purposes of this subsection—
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(ii) the amount determined under paragraph (3) of this subsection; and
 
-&emsp;(B) before September 30, 2020, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+&emsp;(B) before September 30, 2022, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
 
@@ -174,7 +174,9 @@
 
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, §2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, §107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, §243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, §7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, §101, title VI, §601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, §915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, §101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, §603(b), title VIII, §802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, §101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, §101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, §2(f), June 25, 2019, 133 Stat. 969.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, §2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, §107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, §243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, §7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, §101, title VI, §601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, §915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, §101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, §603(b), title VIII, §802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, §101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, §101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, §2(f), June 25, 2019, 133 Stat. 969; Pub. L. 116–159, div. E, title I, §5101, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–283, div. A, title IX, §926(a)(21), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -194,7 +196,13 @@ A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (e)(4). Pub. L. 116–23 inserted "(including offshore of such Republic as described in section1116A(d) of this title)" after "served on active duty in the Republic of Vietnam".
+<b>2021</b>—Subsec. (a)(2)(B). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (e)(3). Pub. L. 116–283 substituted "air, or space service" for "or air service" in subpars. (A) to (C).
+
+<b>2020</b>—Subsec. (f)(2)(B). Pub. L. 116–159 substituted "September 30, 2022" for "September 30, 2020".
+
+<b>2019</b>—Subsec. (e)(4). Pub. L. 116–23 inserted "(including offshore of such Republic as described in section 1116A(d) of this title)" after "served on active duty in the Republic of Vietnam".
 
 <b>2018</b>—Subsec. (a)(2)(D). Pub. L. 115–232 substituted "section 7271, 8291, or 9271 of title 10" for "section 3741, 6241, or 8741 of title 10".
 
@@ -484,7 +492,7 @@ Subsec. (f)(3)(F). Pub. L. 99–576, §237(b)(1), added subpar. (F).
 
 Subsec. (g). Pub. L. 99–272, §19011(a)(2), added subsec. (g).
 
-<b>1985</b>—Subsec. (e)(3). Pub. L. 99–166 substituted "after September 30, 1989" for "after the end of the one-yearperiod beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)".
+<b>1985</b>—Subsec. (e)(3). Pub. L. 99–166 substituted "after September 30, 1989" for "after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)".
 
 <b>1983</b>—Subsec. (a)(3). Pub. L. 98–160 inserted "(A)" after "a person" and, after "disability compensation", inserted "or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section".
 
@@ -521,6 +529,8 @@ Subsec. (d). Pub. L. 93–82, §102(4), added subsec. (d).
 Subsec. (c). Pub. L. 89–785 added subsec. (c).
 
 <b>1962</b>—Subsec. (a)(1). Pub. L. 87–583 provided for hospital care to any veteran for a service-connected disability instead of to a veteran of any war for a service-connected disability incurred or aggravated during a period of war in subpar. (A) and incorporated existing provisions in subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -574,11 +584,11 @@ Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be pai
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–210, §1(c)(1), Dec. 20, 1993, 107 Stat. 2497, provided that: "The amendments made by subsections\(a) and (b) \[amending this section and section 1712 of this title\] shall take effect as of August 2, 1990."
+Pub. L. 103–210, §1(c)(1), Dec. 20, 1993, 107 Stat. 2497, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1712 of this title\] shall take effect as of August 2, 1990."
 
 #### Effective Date of 1990 Amendments
 
-Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: "Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\]."
+Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: "Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 ofPub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\]."
 
 Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: "Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\]."
 
@@ -632,9 +642,109 @@ Pub. L. 104–262, title I, §102(b), Oct. 9, 1996, 110 Stat. 3182, provided tha
 
 Pub. L. 100–322, title I, §102(c), May 20, 1988, 102 Stat. 493, provided that: "The amendment made by subsection (a) \[amending this section\] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans' Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988."
 
+#### Contact of Certain Veterans To Encourage Receipt of Comprehensive Medical Examinations
+
+Pub. L. 116–214, title II, §204, Dec. 5, 2020, 134 Stat. 1037, provided that:
+
+"(a)
+
+Notice.—Not later than 90 days after the date of the enactment of this Act \[Dec. 5, 2020\], the Under Secretary of Health of the Department of Veterans Affairs shall seek to contact each covered veteran by mail, telephone, or email to encourage each covered veteran to receive medical examinations including the following:
+
+&emsp;"(1) A comprehensive physical examination.
+
+&emsp;"(2) A comprehensive mental health examination.
+
+&emsp;"(3) A comprehensive eye examination if the covered veteran has not received such an examination in the year immediately preceding the date of such examination.
+
+&emsp;"(4) A comprehensive audiological examination if the covered veteran has not received such an examination in the year immediately preceding the date of such examination.
+
+"(b)
+
+Examinations.—
+
+&emsp;"(1)
+
+Va health care facilities.—If a covered veteran elects to receive more than one examination described in subsection (a) at a health care facility of the Department of Veterans Affairs, the Under Secretary of Health shall seek to furnish all such scheduled examinations on the same day.
+
+&emsp;"(2)
+
+Community care.—Pursuant to subsection (d) or (e) of section 1703 of title 38, United States Code, a covered veteran may receive an examination described in subsection (a) from a health care provider described in subsection (c) of that section.
+
+"(c)
+
+Transportation.—
+
+&emsp;"(1)
+
+Beneficiary travel program.—Pursuant to section 111 of title 38, United States Code, the Secretary of Veterans Affairs may pay for a rural covered veteran to travel to a health care facility to receive an examination described in subsection (a).
+
+&emsp;"(2)
+
+Shuttle service.—The Under Secretary of Health shall seek to enter into agreements with non-profit organizations to provide shuttle service to rural covered veterans for examinations described in subsection (a).
+
+"(d)
+
+Report Required.—Not later than 18 months after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report regarding how many covered veterans scheduled examinations described in subsection (a) after receiving a letter, telephone call, or email under that subsection.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered veteran' means a veteran who—
+
+&emsp;&emsp;"(A) is enrolled in the patient enrollment system of the Department of Veterans Affairs under section 1705 of title 38, United States Code; and
+
+&emsp;&emsp;"(B) has not received health care furnished or paid for by the Secretary of Veterans Affairs during the two years immediately preceding the date in subsection (a)(1).
+
+&emsp;"(2) The term 'rural covered veteran' means a covered veteran—
+
+&emsp;&emsp;"(A) who lives in an area served by the Office of Rural Health of the Department of Veterans Affairs; and
+
+&emsp;&emsp;"(B) whom \[sic\] the Under Secretary of Health determines requires assistance to travel to a health care facility to receive an examination described in subsection (a).
+
+&emsp;"(3) The term 'veteran' has the meaning given that term in section 101 of title 38, United States Code."
+
+#### Report on Locations Where Women Veterans Are Using Health Care From Department of Veterans Affairs
+
+Pub. L. 116–214, title III, §302, Dec. 5, 2020, 134 Stat. 1039, provided that:
+
+"(a)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 5, 2020\], and annually thereafter, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the use by women veterans of health care from the Department of Veterans Affairs.
+
+"(b)
+
+Elements.—Each report required by subsection (a) shall include the following information:
+
+&emsp;"(1) The number of women veterans who reside in each State.
+
+&emsp;"(2) The number of women veterans in each State who are enrolled in the patient enrollment system of the Department under section 1705(a) of title 38, United States Code.
+
+&emsp;"(3) Of the women veterans who are so enrolled, the number who have received health care under the laws administered by the Secretary at least one time during the one-year period preceding the submission of the report.
+
+&emsp;"(4) The number of women veterans who have been seen at each medical facility of the Department during such year, disaggregated by facility.
+
+&emsp;"(5) The number of appointments that women veterans have had at a medical facility of the Department during such year, disaggregated by—
+
+&emsp;&emsp;"(A) facility; and
+
+&emsp;&emsp;"(B) appointments for—
+
+&emsp;&emsp;&emsp;"(i) primary care;
+
+&emsp;&emsp;&emsp;"(ii) specialty care; and
+
+&emsp;&emsp;&emsp;"(iii) mental health care.
+
+&emsp;"(6) For each appointment type specified in paragraph (5)(B), the number of appointments completed in-person and the number of appointments completed through the use of telehealth.
+
+&emsp;"(7) If known, an identification of the medical facility of the Department in each Veterans Integrated Service Network with the largest rate of increase in patient population of women veterans as measured by the increase in unique women veteran patient use.
+
+&emsp;"(8) If known, an identification of the medical facility of the Department in each Veterans Integrated Service Network with the largest rate of decrease in patient population of women veterans as measured by the decrease in unique women veterans patient use."
+
 #### Pilot Program on Assistance for Child Care for Certain Veterans Receiving Health Care
 
-Pub. L. 111–163, title II, §205, May 5, 2010, 124 Stat. 1144, as amended by Pub. L. 113–37, §2(i), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title I, §103, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, §105, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §105, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §105, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §106, Sept. 29, 2018, 132 Stat. 3168, provided that:
+Pub. L. 111–163, title II, §205, May 5, 2010, 124 Stat. 1144, as amended by Pub. L. 113–37, §2(i), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title I, §103, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, §105, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §105, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §105, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §106, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5104, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–315, title V, §5107(a)(2), Jan. 5, 2021, 134 Stat. 5031, provided that:
 
 "(a)
 
@@ -670,7 +780,7 @@ Locations.—The Secretary shall carry out the pilot program in no fewer than th
 
 "(e)
 
-Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2020.
+Termination.—The authority to carry out a pilot program under this section shall terminate on the date of the enactment of the Deborah Sampson Act of 2020 \[Jan. 5, 2021\].
 
 "(f)
 
@@ -700,11 +810,13 @@ Report.—Not later than 6 months after the completion of the pilot program, the
 
 "(h)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010, 2015, 2016, 2017, 2018, 2019, and 2020."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010, 2015, 2016, 2017, 2018, 2019, 2020, 2021, and 2022."
+
+\[Pub. L. 116–315, §5107(a)(2), which directed amendment of section 205(e) of Pub. L. 111–163, set out above, by substituting "the date of the enactment of the Deborah Sampson Act of 2020" for "September 30, 2020", was executed by making the substitution for "September 30, 2022" to reflect the probable intent of Congress and the amendment by Pub. L. 116–159, which had substituted "September 30, 2022" for "September 30, 2020". For establishment of child care assistance program by Pub. L. 116–315, see section 1709C of this title.\]
 
 #### Grants for Veterans Service Organizations for Transportation of Highly Rural Veterans
 
-Pub. L. 111–163, title III, §307, May 5, 2010, 124 Stat. 1154, as amended by Pub. L. 113–175, title I, §104, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, §106, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §106, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §106, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §107, Sept. 29, 2018, 132 Stat. 3168, provided that:
+Pub. L. 111–163, title III, §307, May 5, 2010, 124 Stat. 1154, as amended by Pub. L. 113–175, title I, §104, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, §106, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, §106, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §106, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, §107, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5105, Oct. 1, 2020, 134 Stat. 748, provided that:
 
 "(a)
 
@@ -760,7 +872,7 @@ Veterans service organization.—The term 'veterans service organization' means 
 
 "(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2020 to carry out this section."
+Authorization of Appropriations.—There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2022 to carry out this section."
 
 #### Continuation of Authority
 
@@ -988,7 +1100,7 @@ Pub. L. 102–585, title I, §107, Nov. 4, 1992, 106 Stat. 4947, as amended by P
 
 "(a)
 
-In general.—Not later than January 1 of 1993 and each year thereafter through 1998, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the provision of health care servicesand the conduct of research carried out by, or under the jurisdiction of, the Secretary relating to women veterans.
+In general.—Not later than January 1 of 1993 and each year thereafter through 1998, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the provision of health care services and the conduct of research carried out by, or under the jurisdiction of, the Secretary relating to women veterans.
 
 "(b)
 
@@ -1006,7 +1118,7 @@ Contents.—The report under subsection (a) shall include the following informat
 
 #### Coordination of Women's Services
 
-Pub. L. 102–585, title I, §108, Nov. 4, 1992, 106 Stat. 4948, provided that: "The Secretary of Veterans Affairs shall ensure that an official in each regional office of the Veterans Health Administration shall serve as a coordinator of women's services. The responsibilities of such official shall include the following:
+Pub. L. 102–585, title I, §108, Nov. 4, 1992, 106 Stat. 4948, provided that: "The Secretary of Veterans Affairsshall ensure that an official in each regional office of the Veterans Health Administration shall serve as a coordinator of women's services. The responsibilities of such official shall include the following:
 
 &emsp;"(1) Conducting periodic assessments of the needs for services of women veterans within such region.
 

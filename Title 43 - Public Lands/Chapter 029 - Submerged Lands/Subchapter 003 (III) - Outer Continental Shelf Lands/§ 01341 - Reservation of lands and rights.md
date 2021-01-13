@@ -18,7 +18,7 @@ The United States reserves and retains the right to designate by and through the
 
 #### (e) Source materials essential to production of fissionable materials
 
-All uranium, thorium, and all other materials determined pursuant to paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, to be peculiarly essential to the production of fissionable material, contained, in whatever concentration, in deposits in the subsoil or seabed of the outer Continental Shelf are reserved for the use of the United States.
+All uranium, thorium, and all other materials determined pursuant to paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, to be peculiarly essential tothe production of fissionable material, contained, in whatever concentration, in deposits in the subsoil or seabed of the outer Continental Shelf are reserved for the use of the United States.
 
 #### (f) Helium ownership; rules and regulations governing extraction
 
@@ -26,9 +26,13 @@ The United States reserves and retains the ownership of and the right to extract
 
 (Aug. 7, 1953, ch. 345, §12, 67 Stat. 469.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919. See section 2014(z) of Title 42.
+
+#### <b>Executive Documents</b>
 
 #### Key Largo Coral Reef Preserve
 

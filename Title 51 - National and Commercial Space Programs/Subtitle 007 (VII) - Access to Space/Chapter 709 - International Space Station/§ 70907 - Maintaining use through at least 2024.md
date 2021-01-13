@@ -32,6 +32,8 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title VI, §601(a), Oct. 15, 2008, 122 Stat. 4793.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining the International Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.

@@ -128,6 +128,8 @@ The words "full biweekly pay period" are substituted for "complete biweekly pay 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
@@ -192,6 +194,8 @@ Subsec. (f). Pub. L. 95–454, §410(2), added subsec. (f).
 
 Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–282 effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as a note under section 5102 of this title.
@@ -223,6 +227,36 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+
+#### Temporary Increase in Limitation on Accumulation of Annual Leave for Executive Branch Employees
+
+Pub. L. 116–283, div. A, title XI, §1111, Jan. 1, 2021, 134 Stat. 3893, provided that:
+
+"(a)
+
+In General.—At the discretion of the Director of the Office of Personnel Management, annual leave provided to an Executive branch employee may accumulate for use in leave year 2021 in an amount equal to 125% of the maximum amount of annual leave permitted, but for this subsection, to accumulate for use in that leave year under the leave system covering such employee.
+
+"(b)
+
+Exclusion From Lump-sum Payment.—Any annual leave accumulated pursuant to subsection (a) in excess of the maximum amount of annual leave permitted, but for this section, to accumulate for use in succeeding years shall not be included in any lump-sum payment for leave to an individual, including any lump-sum payment under section 5551 or 5552 of title 5, United States Code.
+
+"(c)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'agency' means each agency, office, or other establishment in the executive branch of the Federal Government; and
+
+&emsp;"(2) the term 'Executive branch employee'—
+
+&emsp;&emsp;"(A) means—
+
+&emsp;&emsp;&emsp;"(i) an employee of an agency;
+
+&emsp;&emsp;&emsp;"(ii) an employee appointed under chapter 74 of title 38, United States Code, notwithstanding section 7421(a), section 7425(b), or any other provision of chapter 74 of such title; and
+
+&emsp;&emsp;&emsp;"(iii) any other individual occupying a position in the civil service (as that term is defined in section 2101(1) of title 5, United States Code) in the executive branch of the Federal Government; and
+
+&emsp;&emsp;"(B) does not include any individual occupying a position that is classified at or above the level of a Senior Executive Service position or the equivalent thereof."
 
 #### Restoration of Annual Leave for Certain Department of Defense Employees
 

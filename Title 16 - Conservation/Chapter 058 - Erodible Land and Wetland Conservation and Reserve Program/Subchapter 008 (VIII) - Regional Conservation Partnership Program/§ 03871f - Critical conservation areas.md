@@ -28,7 +28,7 @@ In this section:
 
 #### (b) Applications
 
-In administering funds under section 3871d(d)(2) of this title, the Secretary shall select applications for partnership agreements and program contracts within critical conservationareas designated under this section that address 1 or more priority resource concerns for which the critical conservation area is designated.
+In administering funds under section 3871d(d)(2) of this title, the Secretary shall select applications for partnership agreements and program contracts within critical conservation areas designated under this section that address 1 or more priority resource concerns for which the critical conservation area is designated.
 
 #### (c) Critical conservation area designations
 

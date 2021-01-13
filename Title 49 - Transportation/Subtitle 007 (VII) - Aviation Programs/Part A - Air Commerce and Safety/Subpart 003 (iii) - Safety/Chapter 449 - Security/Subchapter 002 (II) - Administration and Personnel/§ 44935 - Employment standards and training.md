@@ -114,7 +114,7 @@ Screener requirements.—Notwithstanding any other provision of law, an individu
 
 &emsp;(2)
 
-Veterans preference.—The Administrator shall provide a preference for the hiring of an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
+Veterans preference.—The Administrator shall provide a preference for the hiringof an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
 
 &emsp;(3)
 
@@ -220,7 +220,7 @@ In general.—Not later than 180 days after the date of enactment of the TSA Mod
 
 Contents.—The training under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) internal controls for monitoring and documenting compliance of transportation security officers with such training requirements; and
+&emsp;&emsp;&emsp;(i) internal controls for monitoring and documenting compliance of transportationsecurity officers with such training requirements; and
 
 &emsp;&emsp;&emsp;(ii) such other matters as identified by the Administrator with regard to such training.
 
@@ -262,7 +262,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words "Not later than 270 days after November 16, 1990" are omitted as obsolete. The words "contracting for" are substituted for "contracting of" for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words "individuals employed" are substituted for "personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose servicesmay be utilized" for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words "individuals employed" are substituted for "personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized" for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words "individuals eligible" are substituted for "personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible" for clarity and consistency in the revised title and with other titles of the Code.
 

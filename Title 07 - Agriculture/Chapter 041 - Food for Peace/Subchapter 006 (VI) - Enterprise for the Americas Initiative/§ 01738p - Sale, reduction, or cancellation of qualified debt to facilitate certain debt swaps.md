@@ -26,7 +26,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (1) Consultation
 
-&emsp;Before selling, reducing, or canceling any qualified debt of an eligible country pursuantto this section, the President should consult with that country concerning, among other things, the amount of debt to be sold, reduced, or canceled and the uses of such debt for eligible debt swaps.
+&emsp;Before selling, reducing, or canceling any qualified debt of an eligible country pursuant to this section, the President should consult with that country concerning, among other things, the amount of debt to be sold, reduced, or canceled and the uses of such debt for eligible debt swaps.
 
 #### (2) Right of first refusal
 
@@ -38,7 +38,7 @@ In the aggregate, not more than 40 percent of the qualified debt of an eligible 
 
 #### (f) Administration
 
-The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c), and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
+The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c), and shall direct the corporation to carry out the sale, reduction, or cancellationof a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
 
 #### (g) Appropriations requirement
 

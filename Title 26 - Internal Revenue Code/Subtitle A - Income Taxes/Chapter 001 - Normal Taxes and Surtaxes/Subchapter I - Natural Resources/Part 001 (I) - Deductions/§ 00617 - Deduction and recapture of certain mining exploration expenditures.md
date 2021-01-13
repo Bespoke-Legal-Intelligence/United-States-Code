@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
+&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction forpercentage depletion is not allowable under section 613.
 
 #### (2) Elections
 
@@ -38,7 +38,7 @@
 
 #### (B) Time and scope
 
-&emsp;&emsp;The election provided by paragraph (1) for any taxable year may be made or changednot later than the time prescribed by law for filing the return (including extensions thereof) for such taxable year.
+&emsp;&emsp;The election provided by paragraph (1) for any taxable year may be made or changed not later than the time prescribed by law for filing the return (including extensions thereof) for such taxable year.
 
 #### (c) Recapture in case of bonus or royalty
 
@@ -118,7 +118,7 @@ For purposes of this section
 
 #### (1) Property distributed to partner
 
-&emsp;In the case of any property or mine received by the taxpayer in a distribution with respectto part or all of his interest in a partnership, the adjusted exploration expenditures with respect to such property or mine include the adjusted exploration expenditures (not otherwise included under subsection (f)(1)) with respect to such property or mine immediately prior to such distribution, but the adjusted exploration expenditures with respect to any such property or mine shall be reduced by the amount of gain to which section 751(b) applied realized by the partnership (as constituted after the distribution) on the distribution of such property or mine.
+&emsp;In the case of any property or mine received by the taxpayer in a distribution with respect to part or all of his interest in a partnership, the adjusted exploration expenditures with respect to such property or mine include the adjusted exploration expenditures (not otherwise included under subsection (f)(1)) with respect to such property or mine immediately prior to such distribution, but the adjusted exploration expenditures with respect to any such property or mine shall be reduced by the amount of gain to which section 751(b) applied realized by the partnership (as constituted after the distribution) on the distribution of such property or mine.
 
 #### (2) Property retained by partnership
 

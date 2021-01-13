@@ -48,7 +48,7 @@ Nothing in this section shall be construed to—
 
 #### (1) In general
 
-&emsp;The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
+&emsp;The Board shall determine and may from time-to-time modify the adjoining areas foreach facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
 
 #### (2) Notice
 

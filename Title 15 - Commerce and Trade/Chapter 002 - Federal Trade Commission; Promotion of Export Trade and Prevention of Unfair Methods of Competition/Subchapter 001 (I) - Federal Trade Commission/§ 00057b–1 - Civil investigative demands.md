@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;(6) The term "person" means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law.
 
-&emsp;(7) The term "violation" means any act or omission constituting an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 45(a)(1) of this title) or any antitrust violation.
+&emsp;(7) The term "violation" means any act or omission constituting an unfair or deceptive act or practice in or affecting commerce\(within the meaning of section 45(a)(1) of this title) or any antitrust violation.
 
 &emsp;(8) The term "antitrust violation" means—
 
@@ -78,7 +78,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 &emsp;(A) delivering a duly executed copy of such demand or petition to any partner, executive officer, managing agent, or general agent of such partnership, corporation, association, or other legal entity, or to any agent of such partnership, corporation, association, or other legal entity authorized by appointment or by law to receive service of process on behalf of such partnership, corporation, association, or other legal entity;
 
-&emsp;(B) delivering a duly executed copy of such demand or petition to the principal office or place of business of the partnership, corporation, association, or other legal entity to be served; or
+&emsp;(B) delivering a duly executed copy of such demand or petition to the principal office orplace of business of the partnership, corporation, association, or other legal entity to be served; or
 
 &emsp;(C) depositing a duly executed copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such partnership, corporation, association, or other legal entity at its principal office or place of business.
 
@@ -130,7 +130,7 @@ Whenever any person fails to comply with any civil investigative demand duly ser
 
 (1) Not later than 20 days after the service of any civil investigative demand upon any person under subsection (c), or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding 20 days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any Commission investigator named in the demand, such person may file with the Commission a petition for an order by the Commission modifying or setting aside the demand.
 
-(2) The time permitted for compliance with the demand in whole or in part, as deemed proper and ordered by the Commission, shall not run during the pendency of such petition at the Commission, except that such person shall comply with any portions of the demand not sought to be modified or set aside. Such petition shallspecify each ground upon which the petitioner relies in seeking such relief, and may be based upon any failure of the demand to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of such person.
+(2) The time permitted for compliance with the demand in whole or in part, as deemed proper and ordered by the Commission, shall not run during the pendency of such petition at the Commission, except that such person shall comply with any portions of the demand not sought to be modified or set aside. Such petition shall specify each ground upon which the petitioner relies in seeking such relief, and may be based upon any failure of the demand to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of such person.
 
 #### (g) Custodial control of documentary material, tangible things, reports, etc.
 
@@ -156,7 +156,7 @@ The provisions of this section shall not—
 
 #### References in Text
 
-The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, whichis classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 

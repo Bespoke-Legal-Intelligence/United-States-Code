@@ -2,7 +2,7 @@
 
 #### (a) Determination and certification by Secretary of Labor
 
-(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount inthe extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b), shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b), shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
 
 (2) Each State's share of the funds to be transferred under this subsection as of any October 1—
 
@@ -156,7 +156,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(B) An individual shall not be disqualified from regular unemployment compensation for separating from employment if that separation is for any compelling family reason. For purposes of this subparagraph, the term "compelling family reason" means the following:
 
-&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
+&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making suchselection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
 
 &emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
 
@@ -194,7 +194,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (ii) No certification of compliance with the requirements of paragraph (3) may be made with respect to any State whose State law is not in compliance with the requirements of paragraph (2).
 
-(iii) No application under subparagraph (A) may be considered if submitted before February 17, 2009, or after the latest date necessary (as specified by the Secretary of Labor) to ensure that all incentive payments under this subsection are made before October 1, 2011.
+(iii) No application under subparagraph (A) may be considered if submitted before February 17, 2009, or after the latest date necessary (as specified by the Secretary of Labor) to ensurethat all incentive payments under this subsection are made before October 1, 2011.
 
 (5)(A) Except as provided in subparagraph (B), any amount transferred to the account of a State under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents' allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
 
@@ -220,11 +220,63 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(D) staff-assisted reemployment services for unemployment compensation claimants.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093; Pub. L. 111–5, div. B, title II, §2003(a), Feb. 17, 2009, 123 Stat. 439; Pub. L. 111–92, §7(a), Nov. 6, 2009, 123 Stat. 2987.)
+#### (h) Emergency transfers in fiscal year 2020 for administration
+
+(1)(A) In addition to any other amounts, the Secretary of Labor shall provide for the making of emergency administration grants in fiscal year 2020 to the accounts of the States in the Unemployment Trust Fund, in accordance with succeeding provisions of this subsection.
+
+(B) The amount of an emergency administration grant with respect to a State shall, as determined by the Secretary of Labor, be equal to the amount obtained by multiplying $1,000,000,000 by the same ratio as would apply under subsection (a)(2)(B) for purposes of determining such State's share of any excess amount (as described in subsection (a)(1)) that would have been subject to transfer to State accounts, as of October 1, 2019, under the provisions of subsection (a).
+
+(C) Of the emergency administration grant determined under subparagraph (B) with respect to a State—
+
+&emsp;(i) not later than 60 days after March 18, 2020, 50 percent shall be transferred to the account of such State upon a certification by the Secretary of Labor to the Secretary of the Treasury that the State meets the requirements of paragraph (2); and
+
+&emsp;(ii) only with respect to a State in which the number of unemployment compensation claims has increased by at least 10 percent over the same quarter in the previous calendar year, the remainder shall be transferred to the account of such State upon a certification by the Secretary of Labor to the Secretary of the Treasury that the State meets the requirements of paragraph (3).
+
+(2) The requirements of this paragraph with respect to a State are the following:
+
+&emsp;(A) The State requires employers to provide notification of the availability of unemployment compensation to employees at the time of separation from employment. Such notification may be based on model notification language issued by the Secretary of Labor.
+
+&emsp;(B) The State ensures that applications for unemployment compensation, and assistance with the application process, are accessible, to the extent practicable in at least two of the following: in person, by phone, or online.
+
+&emsp;(C) The State notifies applicants when an application is received and is being processed, and in any case in which an application is unable to be processed, provides information about steps the applicant can take to ensure the successful processing of the application.
+
+(3) The requirements of this paragraph with respect to a State are the following:
+
+&emsp;(A) The State has expressed its commitment to maintain and strengthen access to the unemployment compensation system, including through initial and continued claims.
+
+&emsp;(B) The State has demonstrated steps it has taken or will take to ease eligibility requirements and access to unemployment compensation for claimants, including waiving work search requirements and the waiting week, and non-charging employers directly impacted by COVID–19 due to an illness in the workplace or direction from a public health official to isolate or quarantine workers.
+
+(4) Any amount transferred to the account of a State under this subsection may be used by such State only for the administration of its unemployment compensation law, including by taking such steps as may be necessary to ensure adequate resources in periods of high demand.
+
+(5) Not later than 1 year after March 18, 2020, each State receiving emergency administration grant funding under paragraph (1)(C)(i) shall submit to the Secretary of Labor, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, a report that includes—
+
+&emsp;(A) an analysis of the recipiency rate for unemployment compensation in the State as such rate has changed over time;
+
+&emsp;(B) a description of steps the State intends to take to increase such recipiency rate.
+
+(6)(A) Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account (as established by section 1101 of this title) such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1)(C).
+
+(B) There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+
+#### (i) Transfers for Federal reimbursement of State unemployment funds
+
+(1)(A) In addition to any other amounts, the Secretary of Labor shall provide for the transfer of funds with respect to the applicable period to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with the succeeding provisions of this subsection.
+
+(B) The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a) of such Code applies and to service provided by employees of an entity created by Public Law 85–874 (20 U.S.C. 76h et seq.) that were paid by the State for weeks of unemployment beginning and ending during such period. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
+
+(C) Notwithstanding any other provision of law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reduce the amounts required to be paid in lieu of contributions into the State unemployment fund pursuant to such section by governmental entities and other organizations described in section 3309(a) of such Code or an entity created by Public Law 85–874 (20 U.S.C. 76h et seq.).
+
+(D) For purposes of this paragraph, the term "applicable period" means the period beginning on March 13, 2020, and ending on March 14, 2021.
+
+(2)(A) Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the Federal unemployment account such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1).
+
+(B) There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in subparagraph (A) and such sums shall not be required to be repaid.
+
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093; Pub. L. 111–5, div. B, title II, §2003(a), Feb. 17, 2009, 123 Stat. 439; Pub. L. 111–92, §7(a), Nov. 6, 2009, 123 Stat. 2987; Pub. L. 116–127, div. D, §4102(a), Mar. 18, 2020, 134 Stat. 192; Pub. L. 116–136, div. A, title II, §2103(b), title III, §3603, Mar. 27, 2020, 134 Stat. 317, 410; Pub. L. 116–151, §2(a), Aug. 3, 2020, 134 Stat. 680; Pub. L. 116–260, div. N, title II, §§202, 264(a), Dec. 27, 2020, 134 Stat. 1952, 1964.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(i), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (a)(2)(B)(i) and (i)(1)(B), (C), is classified generally to Title 26, Internal Revenue Code.
 
 The Temporary Extended Unemployment Compensation Act of 2002, referred to in subsec. (d)(2)(A)(i)(I), (3)(B)(i)(II), is title II of Pub. L. 107–147, Mar. 9, 2002, 116 Stat. 26, which is set out as a note under section 3304 of Title 26, Internal Revenue Code. Section 209(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Tables.
 
@@ -234,11 +286,31 @@ The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pu
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
+Public Law 85–874, referred to in subsec. (i)(1)(B), (C), is Pub. L. 85–874, Sept. 2, 1958, 72 Stat. 1698, known as the John F. Kennedy Center Act, which is classified generally to subchapter V (§76h et seq.) of chapter 3 of Title 20, Education. For complete classification of this Act to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640, related to approval and certification of State laws. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (h). Pub. L. 116–127 added subsec. (h).
+
+Subsec. (h)(2)(B). Pub. L. 116–136, §3603, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The State ensures that applications for unemployment compensation, and assistance with the application process, are accessible in at least two of the following: in-person, by phone, or online."
+
+Subsec. (i). Pub. L. 116–136, §2103(b), added subsec. (i).
+
+Subsec. (i)(1)(A). Pub. L. 116–151, §2(a)(1), substituted "with respect to" for "during".
+
+Subsec. (i)(1)(B). Pub. L. 116–260, §264(a)(1), inserted "and to service provided by employees of an entity created by Public Law 85–874 (20 U.S.C. 76h et seq.)" before "that were paid by the State".
+
+Pub. L. 116–151, §2(a)(2), substituted "3309(a)" for "3309(a)(1)".
+
+Subsec. (i)(1)(C). Pub. L. 116–260, §264(a)(2), inserted "or an entity created by Public Law 85–874 (20 U.S.C. 76h et seq.)" before period at end.
+
+Pub. L. 116–151, §2(a)(3), added subpar. (C) and struck out former subpar. (C) which read as follows: "Notwithstanding any other law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reimburse governmental entities and other organizations described in section 3309(a)(2) of such Code for amounts paid (in lieu of contributions) into the State unemployment fund pursuant to such section."
+
+Subsec. (i)(1)(D). Pub. L. 116–260, §202, substituted "March 14, 2021" for "December 31, 2020".
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–5 added subsec. (f).
 
@@ -296,11 +368,29 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted "twenty-four preceding fiscal
 
 <b>1963</b>—Subsec. (c)(2). Pub. L. 88–31 substituted "nine preceding fiscal years" for "four preceding fiscal years", "ten fiscal years" for "five fiscal years" in cl. (D), and "ninth preceding fiscal year" for "fourth preceding fiscal year" in last sentence.
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read "So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund" and designated existing provisions of second sentence as part (2), substituting "transferred" for "credited", and striking out "on or" before "before" in subpar. (A).
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read "So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund" and designated existing provisions of second sentence as part (2), substituting "transferred" for "credited", and striking out "on or" before "before" in subpar. (A).
 
 Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted "section 3304 of title 26" for "section 1603 of title 26", in two places, and "transfer to such States' account", "transferred", and "transfer" for "crediting to such States' account", "credited" and "credit", respectively, except where already reading "shall transfer", and added par. (2).
 
 Subsec. (c). Pub. L. 86–778 substituted "transferred" for "credited", wherever appearing, "obligation" for "expenditure" in par. (2)(B), "obligated" for "so used" in par. (2)(D), and "obligated for administration" for "used" in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out "any of" before "such five fiscal years" in par. (2)(D).
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §264(b), Dec. 27, 2020, 134 Stat. 1964, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 2103 of the CARES Act (Public Law 116–136) \[enacting section 9022 of Title 15, Commerce and Trade, and amending this section\]."
+
+Pub. L. 116–151, §2(b), Aug. 3, 2020, 134 Stat. 680, provided that:
+
+"(1)
+
+In general.—Subject to paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 2103 of the Relief for Workers Affected by Coronavirus Act (contained in subtitle A of title II of division A of the CARES Act (Public Law 116–136)).
+
+"(2)
+
+Application to weeks prior to enactment.—For weeks of unemployment that occurred after March 12, 2020, and prior to the date of enactment of this section \[Aug. 3, 2020\], States may—
+
+&emsp;"(A) issue reimbursements in accordance with section 903(i)(1)(C) of the Social Security Act \[42 U.S.C. 1103(i)(1)(C)\], as in effect prior to the date of enactment of this section; or
+
+&emsp;"(B) reduce the amounts required to be paid in accordance with such section 903(i)(1)(C), as amended by subsection (a)."
 
 #### Effective Date of 2009 Amendment
 
@@ -316,9 +406,15 @@ Pub. L. 100–203, title IX, §9155(d), Dec. 22, 1987, 101 Stat. 1330–327, pro
 
 #### Regulations
 
+Pub. L. 116–127, div. D, §4102(c), Mar. 18, 2020, 134 Stat. 194, provided that: "The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\]."
+
 Pub. L. 111–5, div. B, title II, §2003(b), Feb. 17, 2009, 123 Stat. 443, provided that: "The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\]."
 
 Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: "The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title."
+
+#### Emergency Flexibility for Response to COVID–19
+
+Temporary modifications to State unemployment compensation law and policies with respect to work search, waiting week, good cause, or employer experience rating to be disregarded for the purposes of applying section 503 of this title and section 3304 of Title 26, Internal Revenue Code, to such State law, see section 4102(b) of Pub. L. 116–127, set out as a note under section 3304 of Title 26.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

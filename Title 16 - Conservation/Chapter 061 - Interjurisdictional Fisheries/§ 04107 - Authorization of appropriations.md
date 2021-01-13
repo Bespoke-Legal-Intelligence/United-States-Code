@@ -114,7 +114,7 @@ Subsec. (d)(1). Pub. L. 104–134, §101\[(a)\] \[title II, §211(2)\], substitu
 
 Subsec. (d)(3). Pub. L. 104–134, §101\[(a)\] \[title II, §211(3), (4)\], substituted "direct assistance to a person" for "a grant" and "net revenues annually from commercial fishing," for "gross revenues annually,".
 
-Subsec. (d)(4). Pub. L. 104–134, §101\[(a)\] \[title II, §211(5)\], added par. (4) and struck former par. (4) whichread as follows: "A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster."
+Subsec. (d)(4). Pub. L. 104–134, §101\[(a)\] \[title II, §211(5)\], added par. (4) and struck former par. (4) which read as follows: "A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster."
 
 Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted "for receiving assistance under this subsection" for "for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership."
 

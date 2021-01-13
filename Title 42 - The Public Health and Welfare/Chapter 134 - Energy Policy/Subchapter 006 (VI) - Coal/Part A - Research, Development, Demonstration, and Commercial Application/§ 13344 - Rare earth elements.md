@@ -1,0 +1,40 @@
+### §13344. Rare earth elements
+
+#### (a) Research program
+
+#### (1) In general
+
+&emsp;The Secretary of Energy, acting through the Assistant Secretary for Fossil Energy (referred to in this section as the "Secretary"), shall conduct a program of research and development—
+
+&emsp;&emsp;(A) to develop and assess advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts; and
+
+&emsp;&emsp;(B) to determine if there are, and mitigate, any potential environmental or public health impacts that could arise from the recovery of rare earth elements from coal-based resources.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to the Secretary to carry out the program described in paragraph (1)—
+
+&emsp;&emsp;(A) $23,000,000 for each of fiscal years 2021 and 2022;
+
+&emsp;&emsp;(B) $24,200,000 for fiscal year 2023;
+
+&emsp;&emsp;(C) $25,400,000 for fiscal year 2024;
+
+&emsp;&emsp;(D) $26,600,000 for fiscal year 2025; and
+
+&emsp;&emsp;(E) $27,800,000 for fiscal year 2026.
+
+#### (b) Report
+
+Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report evaluating the development of advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts, including acid mine drainage from coal mines.
+
+#### (c) Critical material
+
+In this section, the term "critical material" has the meaning given the term in section 1606 of title 30.
+
+(Pub. L. 116–260, div. Z, title VII, §7001, Dec. 27, 2020, 134 Stat. 2561.)
+
+#### Codification
+
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 1992 which comprises this chapter.
+

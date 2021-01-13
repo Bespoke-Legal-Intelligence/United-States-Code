@@ -34,7 +34,7 @@ Subsection (b) applies to the following transactions:
 
 #### (d) Applicability of disposal authority
 
-Nothing in this section shall be construed to limit the application of subchapter II of chapter 5 and section 549 of title 40 to the disposal ofequipment and other personal property covered by this section.
+Nothing in this section shall be construed to limit the application of subchapter II of chapter5 and section 549 of title 40 to the disposal of equipment and other personal property covered by this section.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4833, formerly Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039; renumbered Pub. L. 107–314, div. D, title XLVIII, §4833, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(13), Nov. 24, 2003, 117 Stat. 1786; Pub. L. 112–239, div. C, title XXXI, §3131(aa), Jan. 2, 2013, 126 Stat. 2185.)
 

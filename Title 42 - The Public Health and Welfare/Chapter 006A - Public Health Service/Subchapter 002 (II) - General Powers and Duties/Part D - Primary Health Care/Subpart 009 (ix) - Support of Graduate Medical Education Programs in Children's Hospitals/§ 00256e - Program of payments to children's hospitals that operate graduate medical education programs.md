@@ -218,7 +218,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitalsqualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+&emsp;The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
 
 #### (2) Qualified hospitals
 
@@ -240,7 +240,7 @@ In this section:
 
 #### (3) Payments
 
-&emsp;Payments to hospitals made under this subsection shall be made in the same manner as payments are made to children's hospitals, as described in subsections (b) through (e).
+&emsp;Payments to hospitals made under this subsection shall be made in the same manner aspayments are made to children's hospitals, as described in subsections (b) through (e).
 
 #### (4) Payment amounts
 
@@ -318,7 +318,7 @@ Subsec. (e)(1). Pub. L. 106–310, §2001(c), inserted at end "Such interim paym
 
 Subsec. (e)(2). Pub. L. 106–310, §2001(d), inserted "and indirect" after "interim installment for direct" and inserted at end "The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis."
 
-Subsec. (e)(3). Pub. L. 106–310, §2001(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "At the end of each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under section 1395ww(d) of this title is subject to review under such section."
+Subsec. (e)(3). Pub. L. 106–310, §2001(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "At the endof each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under section 1395ww(d) of this title is subject to review under such section."
 
 Subsec. (f)(1)(A)(iii). Pub. L. 106–310, §2001(f)(1), added cl. (iii).
 

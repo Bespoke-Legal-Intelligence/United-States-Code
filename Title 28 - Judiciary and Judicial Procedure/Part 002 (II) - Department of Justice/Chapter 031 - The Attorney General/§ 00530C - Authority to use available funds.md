@@ -88,7 +88,7 @@ Aircraft and boats.—Funds available to the Attorney General for United States 
 
 &emsp;&emsp;(B)
 
-Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the DrugEnforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
+Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
 
 &emsp;&emsp;&emsp;(i) the purchase of ammunition and firearms; and
 
@@ -168,6 +168,8 @@ Warranty Work.—In instances where the Attorney General determines that law enf
 
 (Added Pub. L. 107–273, div. A, title II, §201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53; Pub. L. 112–265, §2(a), Jan. 14, 2013, 126 Stat. 2435.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, as amended, which is set out as a note under section 533 of this title.
@@ -183,6 +185,8 @@ Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24,
 Subsec. (b)(1)(M). Pub. L. 112–265, §2(a)(2), added subpar. (M).
 
 <b>2004</b>—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted "for the Bureau of Alcohol, Tobacco, Firearms and Explosives," after "Marshals Service,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

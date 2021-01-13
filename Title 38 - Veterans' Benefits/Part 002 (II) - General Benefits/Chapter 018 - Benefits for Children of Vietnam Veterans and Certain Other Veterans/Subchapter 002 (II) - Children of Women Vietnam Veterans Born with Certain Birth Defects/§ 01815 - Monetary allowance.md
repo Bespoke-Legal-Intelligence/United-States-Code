@@ -20,7 +20,7 @@ Amount of Monthly Allowance.—The amount of the monthly allowance paid under th
 
 &emsp;&emsp;(A) $214; or
 
-&emsp;&emsp;(B) the monthly amount payable under section 1805(b)(3) of this title for the lowest level of disability prescribed for purposes of that section.
+&emsp;&emsp;(B) the monthly amount payable under section 1805(b)(3) of this title for the lowestlevel of disability prescribed for purposes of that section.
 
 &emsp;(3) In the case of a child suffering from the higher intermediate level of disability prescribed in the schedule for rating disabilities under subsection (b), the greater of—
 
@@ -39,6 +39,8 @@ Amount of Monthly Allowance.—The amount of the monthly allowance paid under th
 Indexing to Social Security Benefit Increases.—Amounts under paragraphs (1), (2)(A), (3)(A), and (4)(A) of subsection (c) shall be subject to adjustment from time to time under section 5312 of this title.
 
 (Added Pub. L. 106–419, title IV, §401(a), Nov. 1, 2000, 114 Stat. 1858.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

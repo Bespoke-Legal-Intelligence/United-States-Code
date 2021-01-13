@@ -4,7 +4,7 @@
 
 (b) Except as provided in section 1437c(g) of this title, obligations, including interest thereon, issued by public housing agencies in connection with low-income housing projects shall be exempt from all taxation now or hereafter imposed by the United States whether paid by such agencies or by the Secretary. The income derived by such agencies from such projects shall be exempt from all taxation now or hereafter imposed by the United States.
 
-(Sept. 1, 1937, ch. 896, title I, §11, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat.667; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236.)
+(Sept. 1, 1937, ch. 896, title I, §11, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 667; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236.)
 
 #### Prior Provisions
 

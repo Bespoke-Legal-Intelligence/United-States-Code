@@ -1,6 +1,6 @@
 ### §40311. Continuing emphasis
 
-The Administration shall continue its emphasis on the importance of education to expand opportunities for Americans to understand andparticipate in the Administration's aeronautics and space projects by supporting and enhancing science and engineering education, research, and public outreach efforts.
+The Administration shall continue its emphasis on the importance of education to expand opportunities for Americans to understand and participate in the Administration's aeronautics and space projects by supporting and enhancing science and engineering education, research, and public outreach efforts.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3388.)
 

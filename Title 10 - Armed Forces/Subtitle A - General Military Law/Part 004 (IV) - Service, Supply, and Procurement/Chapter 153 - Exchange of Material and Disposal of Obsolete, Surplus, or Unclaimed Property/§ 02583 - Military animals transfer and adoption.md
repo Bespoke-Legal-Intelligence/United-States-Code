@@ -56,7 +56,7 @@ Transportation of Retiring Military Working Dogs.—Upon completion of veterinar
 
 &emsp;(2) for any other dog, transport the dog—
 
-&emsp;&emsp;(A) to the 341st Training Squadron; <sup>1</sup>
+&emsp;&emsp;(A) to the 341st Training Squadron; or
 
 &emsp;&emsp;(B) to another location within the United States for transfer or adoption under this section.
 
@@ -64,7 +64,7 @@ Transportation of Retiring Military Working Dogs.—Upon completion of veterinar
 
 Preference in Adoption of Retired Military Working Dogs for Former Handlers.—(1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
 
-(2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dog and such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
+(2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dogand such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
 
 (3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the transfer of military working dogs to law enforcement agencies before the end of the dogs' useful working lives.
 
@@ -76,9 +76,19 @@ Military Animal Defined.—In this section, the term "military animal" means the
 
 &emsp;(2) An equid (horse, mule, or donkey) owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, §352, Aug. 13, 2018, 132 Stat. 1731; Pub. L. 116–92, div. A, title III, §372(a)–(e), Dec. 20, 2019, 133 Stat. 1330, 1331.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, §352, Aug. 13, 2018, 132 Stat. 1731; Pub. L. 116–92, div. A, title III, §372(a)–(e), Dec. 20, 2019, 133 Stat. 1330, 1331; Pub. L. 116–283, div. A, title X, §1081(a)(42), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3873, 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(1)(B). Pub. L. 116–283, §1883(b)(2), substituted "section 2387" for "section 2410r".
+
+Subsec. (g)(2)(A). Pub. L. 116–283, §1081(a)(42), inserted "or" after semicolon at end.
+
+Subsec. (i)(1). Pub. L. 116–283, §1883(b)(2), substituted "section 2387" for "section 2410r".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §372(a)(1), inserted "Transfer or" before "Adoption" in heading and substituted "transfer or adoption" for "adoption" wherever appearing.
 
@@ -164,9 +174,11 @@ Subsec. (g). Pub. L. 109–364, §352(a)(6), added subsec. (g).
 
 <b>2001</b>—Pub. L. 107–107 renumbered section 2582 of this title as this section.
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

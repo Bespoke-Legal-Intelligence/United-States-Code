@@ -72,6 +72,8 @@ Default.—A fine or payment of restitution is in default if a payment is delinq
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–185, §7, Dec. 11, 1987, 101 Stat. 1280; Pub. L. 101–647, title XXXV, §3587, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20403(a), Sept. 13, 1994, 108 Stat. 1825; Pub. L. 104–132, title II, §207(b), Apr. 24, 1996, 110 Stat. 1236.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
@@ -99,6 +101,8 @@ Subsec. (i). Pub. L. 104–132, §207(b)(5), inserted "or payment of restitution
 <b>1990</b>—Subsec. (c)(2). Pub. L. 101–647 inserted "of the Federal Rules of Criminal Procedure" after "rule 35".
 
 <b>1987</b>—Pub. L. 100–185 inserted "and related matters" in section catchline and amended text generally, revising and restating as subsecs. (a) to (i) provisions formerly contained in subsecs. (a) to (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

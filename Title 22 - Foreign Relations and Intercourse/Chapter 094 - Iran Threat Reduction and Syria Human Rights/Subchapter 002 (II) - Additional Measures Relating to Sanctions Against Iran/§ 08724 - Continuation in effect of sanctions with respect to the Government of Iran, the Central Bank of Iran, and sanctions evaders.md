@@ -2,7 +2,7 @@
 
 #### (a) Sanctions relating to blocking of property of the Government of Iran and Iranian financial institutions
 
-United States sanctions with respect to Iran provided for in Executive Order No. 13599 (77 Fed. Reg. 6659), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 90 days after the date on which thePresident submits to the appropriate congressional committees the certification described in subsection (d).
+United States sanctions with respect to Iran provided for in Executive Order No. 13599 (77 Fed. Reg. 6659), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 90 days after the date on which the President submits to the appropriate congressional committees the certification described in subsection (d).
 
 #### (b) Sanctions relating to foreign sanctions evaders
 
@@ -51,6 +51,8 @@ In addition to the sanctions referred to in subsection (a), the President shall 
 Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.).
 
 (Pub. L. 112–158, title II, §217, Aug. 10, 2012, 126 Stat. 1233.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,11 +6,15 @@
 
 (Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–497 substituted "Archivist" for "Administrator".
 
 Subsec. (b). Pub. L. 98–497 substituted "National Archives and Records Administration" for "General Services Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

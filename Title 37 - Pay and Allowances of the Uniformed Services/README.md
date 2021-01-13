@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(2). See 2011 Amendment note below.
@@ -770,6 +772,8 @@ T. 10 §1075
 
 T. 10 §1083
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
 Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451, provided in part: "That the laws relating to pay and allowances of the uniformed services of the United States are revised, codified, and enacted as title 37 of the United States Code, entitled 'Pay and Allowances of the Uniformed Services'."
@@ -802,7 +806,7 @@ Pub. L. 87–649, §13, Sept. 7, 1962, 76 Stat. 498, provided that: "If on the e
 
 #### Repeals
 
-Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[Nov. 1, 1962\] and except as provided in section 12."
+Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or parts of sections of the Revised Statutesor Statutes at Large covering provisions codified in this title, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[Nov. 1, 1962\] and except as provided in section 12."
 
 
 ---

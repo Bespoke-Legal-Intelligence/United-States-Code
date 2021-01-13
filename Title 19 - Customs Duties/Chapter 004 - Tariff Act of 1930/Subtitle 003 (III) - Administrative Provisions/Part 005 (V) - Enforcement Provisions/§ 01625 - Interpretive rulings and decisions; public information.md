@@ -24,7 +24,7 @@ A decision that proposes to limit the application of a court decision shall be p
 
 #### (e) Public information
 
-The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advicenecessary for importers and exporters to comply with the Customs <sup>1</sup> laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5.
+The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs <sup>1</sup> laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5.
 
 (June 17, 1930, ch. 497, title IV, §625, as added Pub. L. 95–410, title I, §112, Oct. 3, 1978, 92 Stat. 898; amended Pub. L. 103–182, title VI, §623, Dec. 8, 1993, 107 Stat. 2186; Pub. L. 104–295, §21(e)(14), Oct. 11, 1996, 110 Stat. 3531.)
 

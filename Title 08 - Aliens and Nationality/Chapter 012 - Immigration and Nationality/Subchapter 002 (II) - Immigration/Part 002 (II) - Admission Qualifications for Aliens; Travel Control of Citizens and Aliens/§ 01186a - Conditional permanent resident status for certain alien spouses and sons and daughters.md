@@ -156,7 +156,7 @@ For purposes of subchapter III, in the case of an alien who is in the United Sta
 
 #### (f) Treatment of certain waivers
 
-In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, thealien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
+In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
 
 #### (g) Service in Armed Forces
 
@@ -190,6 +190,8 @@ In this section:
 
 (June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -202,7 +204,7 @@ Another section 216 of act June 27, 1952, was renumbered section 218 and is clas
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(4). Pub. L. 113–4, §806(b)(2), which, in concluding provisions, directed the substitution of "Secretary of Homeland Security" for "Attorney General" in the first sentence and "Secretary" for "Attorney General" in the second to fourth sentences, could not be executed because of the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
+<b>2013</b>—Subsec. (c)(4). Pub. L. 113–4, §806(b)(2), which, in concluding provisions, directed the substitution of"Secretary of Homeland Security" for "Attorney General" in the first sentence and "Secretary" for "Attorney General" in the second to fourth sentences, could not be executed because of the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
 
 Pub. L. 113–4, §806(b)(1), which directed the substitution of "The Secretary of Homeland Security, in the Secretary's" for "The Attorney General, in the Attorney General's" in introductory provisions, was executed by making the substitution for "The Secretary of Homeland Security, in the Attorney General's", to reflect the probable intent of Congress and the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
 
@@ -245,6 +247,8 @@ Subsec. (f). Pub. L. 104–208, §308(d)(4)(E), substituted "inadmissibility" fo
 <b>1988</b>—Pub. L. 100–525, §7(a)(1), made technical amendment to directory language of Pub. L. 99–639, §2(a), which enacted this section.
 
 Subsec. (c)(3)(A). Pub. L. 100–525, §7(a)(2), substituted "90 days" for "90-days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

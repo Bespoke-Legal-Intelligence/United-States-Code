@@ -2,7 +2,7 @@
 
 #### (a) Definition of renewable fuel blend
 
-For purposes of this section, the term "renewable fuel blend" means a gasoline blend that contains not less than 11 percent, and not more than 85 percent, renewable fuel or diesel fuel that contains at least 10 percent renewable fuel.
+For purposes of this section, the term "renewable fuel blend" means a gasoline blend thatcontains not less than 11 percent, and not more than 85 percent, renewable fuel or diesel fuel that contains at least 10 percent renewable fuel.
 
 #### (b) Infrastructure development grants
 
@@ -170,7 +170,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (iii) Initial selection
 
-&emsp;&emsp;&emsp;Not later than 90 days after the date by which applications for grants are due under clause (ii), the Secretary shall select by competitive, peer-reviewed proposal up to 5 applications for projects to be awarded a grant under the pilot program.
+&emsp;&emsp;&emsp;Not later than 90 days after the date by which applications for grants are dueunder clause (ii), the Secretary shall select by competitive, peer-reviewed proposal up to 5 applications for projects to be awarded a grant under the pilot program.
 
 #### (B) Additional grants
 

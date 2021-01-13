@@ -14,7 +14,7 @@ Application Required.—In order to participate in the program established under
 
 (c)
 
-Criteria for Participation.—In selecting communities, or consortia of communities, for participation in the program established under subsection (a), the Secretary shall apply the following criteria:
+Criteria for Participation.—In selecting communities, or consortia of communities, forparticipation in the program established under subsection (a), the Secretary shall apply the following criteria:
 
 &emsp;(1)
 
@@ -112,7 +112,7 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 (h)
 
-Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
+Air Service Development Zone.—The Secretary shall designate an airport in the programas an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
 (Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–190, title I, §1102(e), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §104(b), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §104(b), Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title IV, §455, Oct. 5, 2018, 132 Stat. 3349.)
 

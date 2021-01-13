@@ -16,6 +16,8 @@ Clearing bank.—The term "clearing bank" means an uninsured State member bank, 
 
 (Added Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Federal Deposit Insurance Act, referred to in par. (2), is classified to section 1813 of Title 12, Banks and Banking.

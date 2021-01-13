@@ -20,7 +20,7 @@ Grants provided by the Secretary under this subpart shall be used to ensure that
 
 &emsp;(2) Providing sustained and high-quality preservice clinical experience, including the mentoring of prospective teachers by exemplary teachers, substantially increasing interaction between faculty at institutions of higher education and new and experienced teachers, principals, and other administrators at elementary schools or secondary schools, and providing support, including preparation time, for such interaction.
 
-&emsp;(3) Developing and implementing initiatives to promote retention of teachers who meet theapplicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, and highly qualified principals, including minority teachers and principals, including programs that provide—
+&emsp;(3) Developing and implementing initiatives to promote retention of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, and highly qualified principals, including minority teachers and principals, including programs that provide—
 
 &emsp;&emsp;(A) teacher or principal mentoring from exemplary teachers or principals, respectively; or
 

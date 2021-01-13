@@ -42,7 +42,7 @@ Any funds appropriated under the authority of this section shall not be used to 
 
 #### (1) In general
 
-&emsp;Funds appropriated under the authority of this section shall be allocated to Serviceunits, Indian tribes, or tribal organizations. The funds allocated to each Indian tribe, tribal organization, or Service unit under this paragraph shall be used by the Indian tribe, tribal organization, or Service unit under this paragraph to improve the health status and reduce the resource deficiency of each Indian tribe served by such Service unit, Indian tribe, or tribal organization.
+&emsp;Funds appropriated under the authority of this section shall be allocated to Service units, Indian tribes, or tribal organizations. The funds allocated to each Indian tribe, tribal organization, or Service unit under this paragraph shall be used by the Indian tribe, tribal organization, or Service unit under this paragraph to improve the health status and reduce the resource deficiency of each Indian tribe served by such Service unit, Indian tribe, or tribal organization.
 
 #### (2) Apportionment of allocated funds
 
@@ -104,6 +104,8 @@ Any funds appropriated under the authority of this section shall be designated a
 
 (Pub. L. 94–437, title II, §201, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 96–537, §4, Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title II, §201(a), Nov. 23, 1988, 102 Stat. 4800; Pub. L. 102–573, title II, §201(a), (c), 207(b), 217(b)(1), Oct. 29, 1992, 106 Stat. 4544, 4546, 4551, 4559; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -112,7 +114,7 @@ This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original "th
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
@@ -188,9 +190,11 @@ Subsec. (c)(4)(E). Pub. L. 96–537, §4(b)(5), inserted provisions authorizing 
 
 Subsec. (c)(5). Pub. L. 96–537, §4(c)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
-Subsec. (c)(6). Pub. L. 96–537, §4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(6). Pub. L. 96–537, §4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30,1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
 Subsec. (c)(7). Pub. L. 96–537, §4(c)(3), struck out par. (7) which authorized appropriation for the items referred to in subsecs. (c)(1) to (c)(6) of such sums as may be specifically authorized by an act enacted after Sept. 30, 1976, for fiscal years 1981, 1982, 1983, and 1984, and which further authorized positions for items referred to in subsecs. (c)(1) to (c)(6) other than subsecs. (c)(4)(E) and (c)(5), as may be specified in an act enacted after Sept. 30, 1976.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendments
 

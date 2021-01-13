@@ -16,6 +16,8 @@ Availability for Transfer to Corporation.—Any surplus firearms, ammunition, re
 
 (Added Pub. L. 109–364, div. A, title III, §354(a), Oct. 17, 2006, 120 Stat. 2162; amended Pub. L. 114–92, div. A, title X, §1087(a)(2)(A), Nov. 25, 2015, 129 Stat. 1013.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92, §1087(a)(2)(A)(i), substituted "surplus firearms" for "rifles" wherever appearing.

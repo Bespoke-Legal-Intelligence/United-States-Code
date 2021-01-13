@@ -18,6 +18,8 @@ Remedies.—The court may award—
 
 (Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2101.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under section 2721 of this title.

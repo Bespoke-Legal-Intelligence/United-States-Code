@@ -78,6 +78,8 @@ In subsection (d), the words "under any Federal law" are omitted since only Fede
 
 In subsection (e), the words "defense force" are substituted for the words "organized militia" for accuracy and to conform to subsection (c). The words "reserve component of the armed forces" are substituted for the words "Reserve Forces as defined in section 901 of Title 50", since that term is not defined in the Armed Forces Reserve Act of 1952.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsecs. (a) to (c). Pub. L. 111–383 amended directory language of Pub. L. 109–163, §1057(b)(3). See 2006 Amendment note below.
@@ -89,6 +91,8 @@ In subsection (e), the words "defense force" are substituted for the words "orga
 <b>1958</b>—Subsecs. (a), (b). Pub. L. 85–861, §2(2)(A), substituted "defense forces authorized by subsection (c)" for "State defense forces".
 
 Subsecs. (c) to (e). Pub. L. 85–861, §2(2)(B), added subsecs. (c) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

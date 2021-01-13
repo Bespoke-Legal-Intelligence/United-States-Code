@@ -2,7 +2,7 @@
 
 #### (a) Referral to Congressional committee; single report
 
-Any concurrent resolution introduced pursuant to section 1544(c) of this title shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be, and one such concurrent resolution shall be reported out by such committee together with its recommendations within fifteen calendar days, unless such House shall otherwise determine by the yeas and nays.
+Any concurrent resolution introduced pursuant to section 1544(c) of this title shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committeeon Foreign Relations of the Senate, as the case may be, and one such concurrent resolution shall be reported out by such committee together with its recommendations within fifteen calendar days, unless such House shall otherwise determine by the yeas and nays.
 
 #### (b) Pending business; vote
 
@@ -10,7 +10,7 @@ Any concurrent resolution so reported shall become the pending business of the H
 
 #### (c) Referral to other House committee
 
-Such a concurrent resolution passed by one House shall be referred to the committee of theother House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by yeas and nays.
+Such a concurrent resolution passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by yeas and nays.
 
 #### (d) Disagreement between Houses
 

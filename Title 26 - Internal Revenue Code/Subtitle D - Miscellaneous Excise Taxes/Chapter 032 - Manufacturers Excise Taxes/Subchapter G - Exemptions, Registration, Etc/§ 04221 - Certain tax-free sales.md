@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (C) School bus
 
-&emsp;&emsp;The term "school bus" means any automobile bus substantially all the use of which is in transporting students and employees ofschools. For purposes of the preceding sentence, the term "school" means an educational organization which normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are carried on.
+&emsp;&emsp;The term "school bus" means any automobile bus substantially all the use of which is in transporting students and employees of schools. For purposes of the preceding sentence, the term "school" means an educational organization which normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are carried on.
 
 #### (e) Special rules
 
@@ -216,7 +216,7 @@ Subsec. (c). Pub. L. 95–600 substituted "4063(b), 4063(e)," for "4063(b),".
 
 Subsec. (d)(7). Pub. L. 95–618, §233(c)(2), added par. (7).
 
-Subsec. (e)(5). Pub. L. 95–618, §233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to theapplicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated by State or local governments or by nonprofit educational organizations.
+Subsec. (e)(5). Pub. L. 95–618, §233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to the applicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated by State or local governments or by nonprofit educational organizations.
 
 Subsec. (e)(6). Pub. L. 95–618, §232(a), added par. (6).
 
@@ -230,7 +230,7 @@ Subsec. (e)(6). Pub. L. 95–618, §232(a), added par. (6).
 
 Subsec. (d)(6). Pub. L. 89–44, §801(c), inserted sentence providing that for purpose of subpar. (B), the rebuilding of a part or accessory which is exempt from tax under section 4063(c) shall not constitute the manufacture or production of such part or accessory.
 
-Subsec. (e)(2). Pub. L. 89–44, §208(d)(2)–(5), struck out reference to automobile receiving sets from catchline and wherever appearing in subpars. (A) to (C), and reference to tax imposed under section 4141 of this title from subpars. (A) and (C).
+Subsec. (e)(2). Pub. L. 89–44, §208(d)(2)–(5), struck out reference to automobile receiving sets from catchlineand wherever appearing in subpars. (A) to (C), and reference to tax imposed under section 4141 of this title from subpars. (A) and (C).
 
 Subsec. (e)(3). Pub. L. 89–44, §208(d)(6), struck out par. (3) which related to musical instruments sold for religious use.
 
@@ -312,7 +312,7 @@ Amendment by section 10502(d)(4) of Pub. L. 100–203 applicable to sales after 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title asamended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 
@@ -326,7 +326,7 @@ Amendment by section 515(b)(1) of Pub. L. 97–424 applicable to articles sold a
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective as if included in the provision of the Energy Tax Act of 1978, Pub. L. 95–618, to which such amendment relates, see section 108(c)(7) of Pub. L. 96–222, set out as a note under section 48 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provision of the Energy Tax Act of 1978, Pub. L.95–618, to which such amendment relates, see section 108(c)(7) of Pub. L. 96–222, set out as a note under section 48 of this title.
 
 #### Effective Date of 1978 Amendments
 

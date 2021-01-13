@@ -46,7 +46,7 @@ Except as provided in subsection (i), the Commission may, after notice and an op
 
 &emsp;(4) the proposed construction or modification will significantly reduce transmission congestion in interstate commerce and protects or benefits consumers;
 
-&emsp;(5) the proposed construction or modification is consistent with sound national energypolicy and will enhance energy independence; and
+&emsp;(5) the proposed construction or modification is consistent with sound national energy policy and will enhance energy independence; and
 
 &emsp;(6) the proposed modification will maximize, to the extent reasonable and economical, the transmission capabilities of existing towers or structures.
 
@@ -64,7 +64,7 @@ Except as provided in subsection (i), the Commission may, after notice and an op
 
 #### (d) Comments
 
-In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
+In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to theneed for and impact of a facility covered by the permit.
 
 #### (e) Rights-of-way
 
@@ -112,7 +112,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 &emsp;(ii) key issues of concern to the agencies and public.
 
-(5)(A) As lead agency head, the Secretary, in consultation with the affected agencies, shallprepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
+(5)(A) As lead agency head, the Secretary, in consultation with the affected agencies, shall prepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
 
 (B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act <sup>1</sup> (43 U.S.C. 1763) by fully taking into account prior analyses and decisions relating to the corridors.
 
@@ -196,7 +196,7 @@ The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i),
 
 The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to theCode, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

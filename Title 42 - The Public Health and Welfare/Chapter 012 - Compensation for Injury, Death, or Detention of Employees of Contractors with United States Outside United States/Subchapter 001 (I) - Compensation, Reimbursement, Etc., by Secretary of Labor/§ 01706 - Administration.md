@@ -10,7 +10,7 @@ In administering the provisions of this subchapter the Secretary may enter into 
 
 #### (c) Waiver of notice of injury and filing of claims
 
-The Secretary, in his discretion, may waive the limitation provisions of subchapter I of chapter 81 of title 5 with respect to notice of injury and filing of claims under this subchapter,whenever the Secretary shall find that, because of circumstances beyond the control of an injured person or his beneficiary, compliance with such provisions could not have been accomplished within the time therein specified.
+The Secretary, in his discretion, may waive the limitation provisions of subchapter I of chapter 81 of title 5 with respect to notice of injury and filing of claims under this subchapter, whenever the Secretary shall find that, because of circumstances beyond the control of an injured person or his beneficiary, compliance with such provisions could not have been accomplished within the time therein specified.
 
 (Dec. 2, 1942, ch. 668, title I, §106, 56 Stat. 1033.)
 

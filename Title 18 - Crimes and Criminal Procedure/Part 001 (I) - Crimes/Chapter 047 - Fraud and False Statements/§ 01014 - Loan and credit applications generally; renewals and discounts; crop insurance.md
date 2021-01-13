@@ -1,6 +1,6 @@
 ### §1014. Loan and credit applications generally; renewals and discounts; crop insurance
 
-Whoever knowingly makes any false statement or report, or willfully overvalues any land, property or security, for the purpose of influencing in any way the action of the Federal Housing Administration, the Farm Credit Administration, Federal Crop Insurance Corporation or a company the Corporation reinsures, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof, or of any regional agricultural credit corporation established pursuant to law, or a Federal land bank, a Federal land bank association, a Federal Reserve bank, a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act, a Federal credit union, an insured State-chartered credit union, any institution the accounts of which are insured by the Federal Deposit Insurance Corporation,,<sup>1</sup> any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) <sup>2</sup> of the Federal Reserve Act, or a mortgage lendingbusiness, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term "State-chartered credit union" includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+Whoever knowingly makes any false statement or report, or willfully overvalues any land, property or security, for the purpose of influencing in any way the action of the Federal Housing Administration, the Farm Credit Administration, Federal Crop Insurance Corporation or a company the Corporation reinsures, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof, or of any regional agricultural credit corporation established pursuant to law, or a Federal land bank, a Federal land bank association, a Federal Reserve bank, a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act, a Federal credit union, an insured State-chartered credit union, any institution the accounts of which are insured by the Federal Deposit Insurance Corporation,,<sup>1</sup> any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) <sup>2</sup> of the Federal Reserve Act, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term "State-chartered credit union" includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, §21, 63 Stat. 92; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 85–699, title VII, §705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, §3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, §5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, §7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, §915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, §4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, §119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, §4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, §1216(c), div. B, title I, §2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, §2(c), May 20, 2009, 123 Stat. 1617; Pub. L. 111–203, title III, §377(6), July 21, 2010, 124 Stat. 1569.)
 
@@ -27,6 +27,8 @@ Section 1138d(f) of Title 12, U.S.C., 1940 ed., Banks and Banking, relating to c
 #### 1949 Act
 
 \[Section 21\] conforms section 1014 of Title 18 U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision note under section 657 of this title\]).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -102,6 +104,8 @@ Pub. L. 91–468 substituted "a Federal credit union, or an insured State-charte
 
 <b>1949</b>—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers' Home Administration.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
@@ -114,7 +118,7 @@ Pub. L. 104–294, title VI, §605(b), Oct. 11, 1996, 110 Stat. 3509, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of Title 7, Agriculture.
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L.103–354, set out as a note under section 1502 of Title 7, Agriculture.
 
 #### Effective Date of 1959 Amendment
 
@@ -122,15 +126,17 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 26, 1956, effective Jan. 1, 1957, see section 202(a) of that act, set out as an EffectiveDate note under section 1027 of Title 12, Banks and Banking.
-
-#### Farm Credit Administration
-
-Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
+Amendment by act July 26, 1956, effective Jan. 1, 1957, see section 202(a) of that act, set out as an Effective Date note under section 1027 of Title 12, Banks and Banking.
 
 #### National Credit Union Administration
 
 Establishment as independent agency, membership, etc., see section 1752 et seq. of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
+#### Farm Credit Administration
+
+Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

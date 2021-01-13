@@ -28,9 +28,13 @@ Mar. 8, 1946, ch. 80, §8, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat
 
 In subsection (a), the words "Comptroller General" are substituted for "General Accounting Office" because of 31:702.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)" for "commercial items (as defined in section 103 of this title)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

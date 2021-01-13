@@ -44,6 +44,8 @@ Subsection (d) provides for special treatment of claims that arise during chapte
 
 Subsection (e) provides that conversion of a case terminates the service of any trustee serving in the case prior to conversion.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–327, §2(a)(11)(A), struck out "728(a), 728(b)," after "727(b)," and "1146(a), 1146(b)," after "1141(d)(4),".
@@ -65,6 +67,8 @@ Subsec. (f). Pub. L. 103–394, §311, added subsec. (f).
 <b>1986</b>—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
 
 Subsecs. (c) to (e). Pub. L. 99–554, §257(i)(2), (3), inserted reference to section 1208 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

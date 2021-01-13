@@ -16,7 +16,7 @@
 
 (d) This section does not apply to a fishing or whaling vessel or a yacht.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 571; Pub. L. 99–640, §10(b)(4), Nov. 10, 1986, 100 Stat. 3550; Pub.L. 103–206, title IV, §414, Dec. 20, 1993, 107 Stat. 2437.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 571; Pub. L. 99–640, §10(b)(4), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 103–206, title IV, §414, Dec. 20, 1993, 107 Stat. 2437.)
 
 Historical and Revision Notes
 
@@ -31,6 +31,8 @@ Historical and Revision Notes
 46:599
 
 Section 10505 prohibits any person from paying a seaman on a coastwise voyage advance wages, or to pay to another person any form of a seaman's wages prior to the commencement of the seaman's employment. It also prohibits a person from seeking or receiving remuneration for providing a seaman with employment. This section also requires that a vessel comply with this section before clearing port. It provides penalties for offenses of its provisions. The section does not apply to fishing vessels, whaling vessels, or yachts, but does apply to vessels taking oysters.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

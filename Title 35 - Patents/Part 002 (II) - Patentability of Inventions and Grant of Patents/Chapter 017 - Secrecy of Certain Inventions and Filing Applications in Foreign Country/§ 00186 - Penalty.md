@@ -10,11 +10,15 @@ Based on Title 35, U.S.C., 1946 ed., §156 (Feb. 1, 1952, ch. 4, §6, 66 Stat. 5
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 struck out "of this title" after "181" and after "184".
 
 <b>1988</b>—Pub. L. 100–418, which directed the insertion of "willfully" after second reference to "whoever", was executed by making the insertion after "or whoever", as the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -22,5 +26,5 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all United States patents, and to all licenses under section 184 of this title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
+Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all UnitedStates patents, and to all licenses under section 184 of this title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
 

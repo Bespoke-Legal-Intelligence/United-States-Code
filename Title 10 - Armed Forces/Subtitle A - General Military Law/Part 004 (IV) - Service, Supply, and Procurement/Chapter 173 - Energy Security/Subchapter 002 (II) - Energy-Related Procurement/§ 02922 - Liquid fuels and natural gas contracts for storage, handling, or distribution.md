@@ -86,13 +86,55 @@ Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, p
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
+#### Bulk Fuel Management in United States Indo-Pacific Command Area of Responsibility
+
+Pub. L. 116–283, div. B, title XXVIII, §2854, Jan. 1, 2021, 134 Stat. 4355, provided that:
+
+"(a)
+
+Designation of Responsible Organizational Element.—
+
+&emsp;"(1)
+
+Designation required.—The Secretary of Defense shall designate a single organizational element of the Department of Defense to be responsible for bulk fuel management and delivery throughout the United States Indo-Pacific Command Area of Responsibility.
+
+&emsp;"(2)
+
+Deadline for designation; notice.—Not later than 30 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall make the designation required by paragraph (1) and notify the Committees on Armed Services of the Senate and the House of Representatives of the organizational element so designated.
+
+"(b)
+
+Bulk Fuel Management Strategy.—
+
+&emsp;"(1)
+
+Strategy required.—The organizational element designated pursuant to subsection (a) shall prepare a bulk fuel management strategy for the United States Indo-Pacific Command Area of Responsibility designed to develop the required bulk fuel management infrastructure and programs to optimally support bulk fuel management in the United States Indo-Pacific Command Area of Responsibility.
+
+&emsp;"(2)
+
+Additional elements.—The strategy shall include the following additional elements:
+
+&emsp;&emsp;"(A) A description of current organizational responsibility of bulk fuel management in the United States Indo-Pacific Command Area of Responsibility from ordering, storage, strategic transportation, and tactical transportation to the last tactical mile.
+
+&emsp;&emsp;"(B) A description of legacy bulk fuel management assets that can be used to support the United States Indo-Pacific Command.
+
+&emsp;&emsp;"(C) A description of current programs for platforms and weapon systems and research and development aimed at managing fuel constraints through decreasing demand.
+
+"(c)
+
+Coordination.—The bulk fuel management strategy required by subsection (b) shall be prepared in coordination with subject-matter experts of the United States Indo-Pacific Command, the United States Transportation Command, the Defense Logistics Agency, and the military departments.
+
+"(d)
+
+Prohibition on Certain Construction Pending Notice.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2021 for the Navy for construction related to additional bulk fuel storage in the United States Indo-Pacific Command Area of Responsibility, not more than 50 percent may be obligated or expended before the date on which the notice required by subsection (a)(2) is submitted."
+
 #### Notice of Purchase of Drop-In Fuel
 
 Pub. L. 113–291, div. A, title III, §316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that:
 
 "(c)
 
-Notice of Purchase Required.—If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 30 days before the date on which such purchase is intended to be made.
+Notice of Purchase Required.—If the Secretary of Defense intends to purchase a drop-in fuel intendedfor operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 30 days before the date on which such purchase is intended to be made.
 
 "(d)
 

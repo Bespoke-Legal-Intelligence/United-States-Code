@@ -44,11 +44,11 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (g) Transfers from other Funds
 
-There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Federal Old-Age and Survivors Insurance Trust Fund and from the Federal Disability Insurance Trust Fund amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments (other than amounts so certified to the Railroad Retirement Board) pursuant to section 1395gg(b) of this title. There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Railroad Retirement Account amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments to the Railroad Retirement Board pursuant to section 1395gg(b) of this title.
+There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Federal Old-Age and Survivors Insurance Trust Fund and from the Federal Disability Insurance Trust Fund amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments (other than amounts so certified to the Railroad Retirement Board) pursuant to section 1395gg(b) of this title. There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Railroad Retirement Account amounts equivalent to the amounts not previously so transferred which theSecretary of Health and Human Services shall have certified as overpayments to the Railroad Retirement Board pursuant to section 1395gg(b) of this title.
 
 #### (h) Payments from Trust Fund amounts certified by Secretary
 
-The Managing Trustee shall also pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the paymentsprovided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title.
+The Managing Trustee shall also pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the payments provided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title.
 
 #### (i) Payment of travel expenses for travel within United States; reconsideration interviews and proceedings before administrative law judges
 
@@ -78,7 +78,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 (C)(i) The full amount of all loans made under paragraph (1) (whether made before or after January 1, 1983) shall be repaid at the earliest feasible date and in any event no later than December 31, 1989.
 
-(ii) For the period after December 31, 1987 and before January 1, 1990, the Managing Trustee shall transfer each month from the Federal Hospital Insurance Trust Fund to any Trust Fund that is owed any amount by the Federal Hospital Insurance Trust Fund on a loan made under paragraph (1), an amount not less than an amount equal to (I) the amount owed to such Trust Fund by the Federal Hospital Insurance Trust Fund at the beginning of such month (plus the interest accrued on the outstanding balance of such loan during such month), divided by (II) the number of months elapsing after the preceding month and before January 1990. The Managing Trustee may, during this period, transfer larger amounts than prescribed by the preceding sentence.
+(ii) For the period after December 31, 1987 and before January 1, 1990, the Managing Trustee shall transfer each month from the Federal Hospital Insurance Trust Fund to any Trust Fund that is owed any amount by the Federal Hospital Insurance Trust Fund on a loan made under paragraph (1), an amount not less than an amount equal to (I) the amount owed to such Trust Fund by the Federal Hospital InsuranceTrust Fund at the beginning of such month (plus the interest accrued on the outstanding balance of such loan during such month), divided by (II) the number of months elapsing after the preceding month and before January 1990. The Managing Trustee may, during this period, transfer larger amounts than prescribed by the preceding sentence.
 
 (4) The Board of Trustees shall make a timely report to the Congress of any amounts transferred (including interest payments) under this subsection.
 
@@ -316,7 +316,7 @@ Subsec. (k)(3)(A)(ii)(VIII). Pub. L. 111–148, §6402(i)(2)(B)(i), inserted "an
 
 Subsec. (k)(3)(A)(ii)(IX). Pub. L. 111–148, §6402(i)(2)(B)(ii), substituted "for each fiscal year after fiscal year 2007" for "for each of fiscal years 2008, 2009, and 2010" and a period for "; and".
 
-Subsec. (k)(3)(A)(ii)(X). Pub. L. 111–148, §6402(i)(2)(B)(iii), struck out subcl. (X) which read asfollows: "for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010."
+Subsec. (k)(3)(A)(ii)(X). Pub. L. 111–148, §6402(i)(2)(B)(iii), struck out subcl. (X) which read as follows: "for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010."
 
 Subsec. (k)(3)(B)(vii). Pub. L. 111–148, §6402(i)(2)(C)(i), inserted "and" at the end.
 
@@ -604,7 +604,7 @@ Hospital insurance tax.—Amounts appropriated to the Hospital Insurance Trust F
 
 &emsp;&emsp;"(B)
 
-Taxation of certain oasdi benefits.—Amounts appropriated to the Hospital InsuranceTrust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as a note under section 401 of this title\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66).
+Taxation of certain oasdi benefits.—Amounts appropriated to the Hospital Insurance Trust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as a note under section 401 of this title\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66).
 
 &emsp;&emsp;"(C)
 
@@ -700,7 +700,7 @@ Costs of asset forfeiture.—For purposes of paragraph (1), the term 'payment of
 
 "(3)
 
-Restoration payment.—Notwithstanding any other provision of law, if the Federal health care offense referred to in paragraph (1) resulted in a loss to an employee welfare benefit plan within the meaning of section 3(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(1)\], the Secretary of the Treasury shall transfer to such employee welfare benefit plan, from the amount realized from the forfeiture of property referred to in paragraph (1), an amount equal to such loss. For purposes of paragraph (1), the term 'restoration payment' means the amount transferred to an employee welfare benefit plan pursuant to this paragraph."
+Restoration payment.—Notwithstanding any other provision of law, if the Federal health care offense referred to in paragraph (1) resulted in a loss toan employee welfare benefit plan within the meaning of section 3(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(1)\], the Secretary of the Treasury shall transfer to such employee welfare benefit plan, from the amount realized from the forfeiture of property referred to in paragraph (1), an amount equal to such loss. For purposes of paragraph (1), the term 'restoration payment' means the amount transferred to an employee welfare benefit plan pursuant to this paragraph."
 
 #### Due Date for 1983 Report on Operation and Status of Trust Fund
 

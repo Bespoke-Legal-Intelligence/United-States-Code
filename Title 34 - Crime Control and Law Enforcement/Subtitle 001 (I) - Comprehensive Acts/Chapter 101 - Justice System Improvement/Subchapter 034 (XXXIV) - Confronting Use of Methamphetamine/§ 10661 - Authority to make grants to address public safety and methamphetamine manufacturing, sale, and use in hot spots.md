@@ -12,7 +12,7 @@
 
 #### (2) Grant authorization
 
-&emsp;The Attorney General, through the Bureau of Justice Assistance in the Office of JusticePrograms may make grants to States, territories, and Indian tribes to address the manufacture, sale, and use of methamphetamine to enhance public safety.
+&emsp;The Attorney General, through the Bureau of Justice Assistance in the Office of Justice Programs may make grants to States, territories, and Indian tribes to address the manufacture, sale, and use of methamphetamine to enhance public safety.
 
 #### (3) Grant projects to address methamphetamine manufacture sale and use
 
@@ -27,6 +27,8 @@
 &emsp;&emsp;(D) procure equipment, technology, or support systems, or pay for resources, if the applicant for such a grant demonstrates to the satisfaction of the Attorney General that expenditures for such purposes would result in the reduction in the use, sale, and manufacture of methamphetamine.
 
 (Pub. L. 90–351, title I, §2996, as added Pub. L. 109–177, title VII, §754, Mar. 9, 2006, 120 Stat. 274; amended Pub. L. 110–161, div. B, title II, §220(a), Dec. 26, 2007, 121 Stat. 1916.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

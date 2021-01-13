@@ -12,7 +12,7 @@
 
 #### (2) Assistance for conservation centers
 
-&emsp;The Secretary may provide to a conservation center established under paragraph (1) any services, facilities, equipment, and supplies that the Secretary determines to be necessary for the conservation center.
+&emsp;The Secretary may provide to a conservation center established under paragraph (1)any services, facilities, equipment, and supplies that the Secretary determines to be necessary for the conservation center.
 
 #### (3) Standards for conservation centers
 

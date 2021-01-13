@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(A) A list specifying each country for which a certification referred to in subsection (a)(2) was in effect for purposes of that subsection during any portion of such calendar year, including the nature of the illicit drug trafficking threat to each such country.
 
-&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) in effect for each country listed under subparagraph (A),including any training and other mechanisms in place to ensure adherence to such procedures.
+&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) in effect for each country listed under subparagraph (A), including any training and other mechanisms in place to ensure adherence to such procedures.
 
 &emsp;(C) A complete description of any assistance provided under subsection (b).
 
@@ -44,6 +44,8 @@ For purposes of this section:
 
 (Pub. L. 103–337, div. A, title X, §1012, Oct. 5, 1994, 108 Stat. 2837; Pub. L. 107–108, title V, §503, Dec. 28, 2001, 115 Stat. 1405; Pub. L. 107–306, title VIII, §811(b)(6), Nov. 27, 2002, 116 Stat. 2425.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
@@ -57,6 +59,8 @@ Subsec. (c)(2), (3). Pub. L. 107–306, §811(b)(6)(B), (C), added par. (2) and 
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted "has, during the 12-month period ending on the date of the interdiction, certified to Congress" for ", before the interdiction occurs, has determined" in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -88,7 +92,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2019–14, July 19, 2019, 84 F.R. 38109.
+Colombia.—Determination No. 2020–09, July 17, 2020, 85 F.R. 45751.
+
+Determination No. 2019–14, July 19, 2019, 84 F.R. 38109.
 
 Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
 

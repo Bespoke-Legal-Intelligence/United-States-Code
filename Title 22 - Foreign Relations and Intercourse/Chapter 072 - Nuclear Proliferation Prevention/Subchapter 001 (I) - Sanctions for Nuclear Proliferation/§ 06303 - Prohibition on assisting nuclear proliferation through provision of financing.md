@@ -16,7 +16,7 @@ To the extent that the United States has jurisdiction to prohibit such activity 
 
 #### (c) Presidential determination and order with respect to United States and foreign persons
 
-If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, byorder, impose the sanctions described in subsection (d) on such person.
+If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, by order, impose the sanctions described in subsection (d) on such person.
 
 #### (d) Sanctions
 
@@ -62,7 +62,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (3) Report to Congress
 
-&emsp;Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c), the President shall submit to the Congress a report on—
+&emsp;Before the end of the 90-day period beginning on the date on which an order is issued undersubsection (c), the President shall submit to the Congress a report on—
 
 &emsp;&emsp;(A) the status of consultations under this subsection with the government referred to in paragraph (1); and
 
@@ -104,13 +104,15 @@ The Attorney General may bring an action in an appropriate district court of the
 
 #### (2) Knowledge of the existence of a particular circumstance
 
-&emsp;If knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is awareof a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
+&emsp;If knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
 #### (j) Scope of application
 
 This section shall apply with respect to prohibited activities which occur on or after the date this subchapter takes effect.
 
 (Pub. L. 103–236, title VIII, §824, Apr. 30, 1994, 108 Stat. 512; Pub. L. 104–164, title I, §157(b), July 21, 1996, 110 Stat. 1440.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ For the date this subchapter takes effect, referred to in subsec. (j), as 60 day
 Subsec. (e). Pub. L. 104–164, §157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5."
 
 Subsecs. (f) to (k). Pub. L. 104–164, §157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

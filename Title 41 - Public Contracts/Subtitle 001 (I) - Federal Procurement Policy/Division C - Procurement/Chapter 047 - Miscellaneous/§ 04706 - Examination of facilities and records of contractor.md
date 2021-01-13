@@ -34,7 +34,7 @@ Subpoena Power.—
 
 &emsp;(1)
 
-Authority to require the production of records.—The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which isprovided for that executive agency by subsection (b).
+Authority to require the production of records.—The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (b).
 
 &emsp;(2)
 
@@ -58,7 +58,7 @@ In general.—Except as provided in paragraph (2), each contract awarded after u
 
 &emsp;(2)
 
-Exception for foreign contractor or subcontractor.—Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or the designee of the Comptroller General, that applying paragraph (1) to the contract or subcontract would not be in the public interest. The concurrence of the Comptroller General or the designee is not required when—
+Exception for foreign contractor or subcontractor.—Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with theconcurrence of the Comptroller General or the designee of the Comptroller General, that applying paragraph (1) to the contract or subcontract would not be in the public interest. The concurrence of the Comptroller General or the designee is not required when—
 
 &emsp;&emsp;(A) the contractor or subcontractor is—
 
@@ -172,9 +172,13 @@ June 30, 1949, ch. 288, title III, §304C(f), as added and amended Pub. L. 103�
 
 In subsection (c)(4), the words "Committee on Oversight and Government Reform" are substituted for "Committee on Government Operations" on authority of section 1(a)(6) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(h) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007). The words "Committee on Homeland Security and Governmental Affairs" are substituted for "Committee on Governmental Affairs" on authority of Senate Resolution No. 445 (108th Congress, October 9, 2004).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

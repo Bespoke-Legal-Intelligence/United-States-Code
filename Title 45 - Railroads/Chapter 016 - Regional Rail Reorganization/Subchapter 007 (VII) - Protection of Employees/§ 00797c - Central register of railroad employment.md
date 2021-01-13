@@ -2,7 +2,7 @@
 
 #### (a) Register
 
-(1) The Railroad Retirement Board (hereafter in this section referred to as the "Board") shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroadwho have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
+(1) The Railroad Retirement Board (hereafter in this section referred to as the "Board") shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroad who have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
 
 (2) Each entry in the register shall include, or provide access to, basic information concerning the individual's experience and qualifications.
 
@@ -22,7 +22,7 @@ As soon as is practicable after August 13, 1981, the Corporation shall provide t
 
 #### (d) Placement
 
-The Board shall, through distribution of copies of the central register (or portions thereof) to railroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
+The Board shall, through distribution of copies of the central register (or portions thereof) torailroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
 
 #### (e) Employment applications
 
@@ -44,6 +44,8 @@ Any dispute, grievance, or claim arising under this section, section 797b of thi
 
 (Pub. L. 93–236, title VII, §704, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 663; amended Pub. L. 97–468, title II, §235, Jan. 14, 1983, 96 Stat. 2547; Pub. L. 99–272, title IV, §4011(a), (b), Apr. 7, 1986, 100 Stat. 108, 109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272, §4011(a), designated existing provisions as par. (1) and added par. (2).
@@ -53,6 +55,8 @@ Subsec. (f). Pub. L. 99–272, §4011(b), substituted "6-year" for "4-year".
 <b>1983</b>—Subsec. (f). Pub. L. 97–468, §235(a), substituted "4-year" for "3-year".
 
 Subsec. (g). Pub. L. 97–468, §235(b), substituted "this section, section 797b of this title, section 907 of this title, or section 1004 of this title" for "this section or section 797b of this title" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

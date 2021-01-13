@@ -38,7 +38,7 @@ The Secretary shall—
 
 &emsp;(B) Within ten working days from receipt of a complaint, the Secretary shall—
 
-&emsp;&emsp;(i) designate a time and place for a hearing into the matters relating to the complaintat a location in close proximity to the local educational agency involved, or if the Secretary determines there is good cause, at some other location convenient to both the tribe, or its designee, and the local educational agency;
+&emsp;&emsp;(i) designate a time and place for a hearing into the matters relating to the complaint at a location in close proximity to the local educational agency involved, or if the Secretary determines there is good cause, at some other location convenient to both the tribe, or its designee, and the local educational agency;
 
 &emsp;&emsp;(ii) designate a hearing examiner to conduct the hearing; and
 
@@ -58,7 +58,7 @@ The Secretary shall—
 
 #### (5) Written determination
 
-&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record, make a written determination of the appropriate remedial action, if any, to be taken by the local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
+&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record,make a written determination of the appropriate remedial action, if any, to be taken by the local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
 
 #### (6) Copies provided
 

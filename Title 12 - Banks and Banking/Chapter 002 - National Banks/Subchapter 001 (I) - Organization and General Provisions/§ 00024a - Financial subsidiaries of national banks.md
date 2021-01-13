@@ -94,7 +94,7 @@
 
 #### (II) Time period for secretarial action
 
-&emsp;&emsp;&emsp;&emsp;Not later than 30 days after the date of receipt of a written recommendation from the Board under subclause (I) (or such longer period as the Secretary of the Treasury and the Board determine to be appropriate under the circumstances), the Secretary shall determine whether to initiate a public rulemaking proposing that the subject recommended activity be found to be financial in nature or incidental to a financial activity under this section, and shall notify the Board in writing of the determination of the Secretary and, in the event that the Secretary determines not to seek public comment on the proposal, the reasons for that determination.
+&emsp;&emsp;&emsp;&emsp;Not later than 30 days after the date of receipt of a written recommendation from the Board under subclause (I) (or such longer period as the Secretary of the Treasury and the Board determine to be appropriate under the circumstances),the Secretary shall determine whether to initiate a public rulemaking proposing that the subject recommended activity be found to be financial in nature or incidental to a financial activity under this section, and shall notify the Board in writing of the determination of the Secretary and, in the event that the Secretary determines not to seek public comment on the proposal, the reasons for that determination.
 
 #### (2) Factors to be considered
 
@@ -230,6 +230,8 @@ For purposes of this section, the following definitions shall apply:
 
 (R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
@@ -257,6 +259,8 @@ Subsec. (a)(3)(A). Pub. L. 111–203, §939(d)(3), amended subpar. (A) generally
 Subsec. (f). Pub. L. 111–203, §939(d)(4), substituted "meet standards of credit-worthiness" for "maintain public rating or" in heading.
 
 Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted "standards of credit-worthiness established by the Comptroller of the Currency" for "any applicable rating".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

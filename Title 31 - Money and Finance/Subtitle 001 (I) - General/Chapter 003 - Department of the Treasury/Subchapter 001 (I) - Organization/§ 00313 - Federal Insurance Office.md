@@ -92,7 +92,7 @@ Confidentiality.—
 
 &emsp;&emsp;(A)
 
-Retention of privilege.—The submission of any nonpublicly available data and information to the Office under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+Retention of privilege.—The submission of any nonpublicly available data andinformation to the Office under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
 
 &emsp;&emsp;(B)
 
@@ -172,7 +172,7 @@ Limitation.—No State may enforce a State insurance measure to the extent that 
 
 (g)
 
-Applicability of Administrative Procedures Act.—Determinations of inconsistency made pursuant to subsection (f)(2) shall be subject to the applicable provisions of subchapter II of chapter 5 of title 5, United States Code (relating to administrative procedure), and chapter 7 of such title (relating to judicial review), except that in any action for judicial review of a determination of inconsistency, the court shall determine the matter de novo.
+Applicability of Administrative Procedures Act.—Determinations of inconsistency made pursuant to subsection (f)(2) shall be subject to the applicable provisions of subchapter II of chapter 5 of title 5, United States Code (relating to administrative procedure), and chapter 7of such title (relating to judicial review), except that in any action for judicial review of a determination of inconsistency, the court shall determine the matter de novo.
 
 (h)
 
@@ -210,7 +210,7 @@ Retention of Authority of Federal Financial Regulatory Agencies.—Nothing in th
 
 (m)
 
-Retention of Authority of United States Trade Representative.—Nothing in this section or section 314 shall be construed to affect the authority of the Office of the United States Trade Representative pursuant to section 141 of the Trade Act of 1974 (19 U.S.C. 2171) orany other provision of law, including authority over the development and coordination of United States international trade policy and the administration of the United States trade agreements program.
+Retention of Authority of United States Trade Representative.—Nothing in this section or section 314 shall be construed to affect the authority of the Office of the United States Trade Representative pursuant to section 141 of the Trade Act of 1974 (19 U.S.C. 2171) or any other provision of law, including authority over the development and coordination of United States international trade policy and the administration of the United States trade agreements program.
 
 (n)
 
@@ -354,11 +354,13 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 (Added Pub. L. 111–203, title V, §502(a)(3), July 21, 2010, 124 Stat. 1580.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1)(B), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of Title 12, Banks and Banking.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For completeclassification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6701 of Title 15 and Tables.
 
@@ -376,6 +378,8 @@ The date of enactment of this section, referred to subsec. (p)(1), is the date o
 
 A prior section 313 was renumbered section 312 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
@@ -390,7 +394,7 @@ Findings.—Congress finds that—
 
 &emsp;"(1) the Secretary of the Treasury, Board of Governors of the Federal Reserve System, and Director of the Federal Insurance Office shall support increasing transparency at any global insurance or international standard-setting regulatory or supervisory forum in which they participate, including supporting and advocating for greater public observer access to working groups and committee meetings of the International Association of Insurance Supervisors; and
 
-&emsp;"(2) to the extent that the Secretary of the Treasury, the Board of Governors of the Federal ReserveSystem, and the Director of the Federal Insurance Office take a position or reasonably intend to take a position with respect to an insurance proposal by a global insurance regulatory or supervisory forum, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall achieve consensus positions with State insurance regulators through the National Association of Insurance Commissioners, when they are United States participants in negotiations on insurance issues before the International Association of Insurance Supervisors, Financial Stability Board, or any other international forum of financial regulators or supervisors that considers such issues.
+&emsp;"(2) to the extent that the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office take a position or reasonably intend to take a position with respect to an insurance proposal by a global insurance regulatory or supervisory forum, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall achieve consensus positions with State insurance regulators through the National Association of Insurance Commissioners, when they are United States participants in negotiations on insurance issues before the International Association of Insurance Supervisors, Financial Stability Board, or any other international forum of financial regulators or supervisors that considers such issues.
 
 "(b)
 
@@ -438,7 +442,7 @@ Joint report by the chairman of the federal reserve and the director of the fede
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall, in consultation with the National Association of Insurance Commissioners, complete a study on, and submit to Congress a report on the results of the study, the impact on consumers and markets in the United States before supporting or consenting to the adoption of any final international insurance capital standard.
+In general.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall, in consultation with the National Association of Insurance Commissioners,complete a study on, and submit to Congress a report on the results of the study, the impact on consumers and markets in the United States before supporting or consenting to the adoption of any final international insurance capital standard.
 
 &emsp;&emsp;"(B)
 

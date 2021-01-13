@@ -138,17 +138,15 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(B) younger than 18 years of age, if no such law exists.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII,§2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186; Pub. L. 113–4, title XII, §1207(b)(1), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–254, div. F, title VI, §1470(j)(1), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186; Pub. L. 113–4, title XII, §1207(b)(1), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–254, div. F, title VI, §1470(j)(1), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Subchapter II of chapter 103 of this title, referred to in subsec. (a), subsec. (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, subsec. (b) relating to protection of children from exploitation, and subsec. (c), was in the original title II of the Better Utilization of Investments Leading to Development Act of 2018, meaning title II of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3492, which enacted subchapter II of chapter 103 of this title. For complete classification of title II to the Code, see Tables.
+Subchapter II of chapter 103 of this title, referred to in subsec. (a), subsec. (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, subsec. (b) relating to protection of childrenfrom exploitation, and subsec. (c), was in the original title II of the Better Utilization of Investments Leading to Development Act of 2018, meaning title II of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3492, which enacted subchapter II of chapter 103 of this title. For complete classification of title II to the Code, see Tables.
 
 Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§1091 et seq.) of Title 18, Crimes and Criminal Procedure.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -236,11 +234,17 @@ Subsec. (e). Pub. L. 96–53, §106, substituted "1980" for "1979".
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–105 substituted "Assistant Secretary" for "Coordinator".
 
-Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
+Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs underthis subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
 Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
 Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -265,10 +269,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Annual Report on Advancing Freedom and Democracy
 
@@ -302,7 +302,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: "Congress makes the following findings:
 
-&emsp;"(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or there is not sufficient cultural and social understanding of international norms of religious freedom.
+&emsp;"(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or thereis not sufficient cultural and social understanding of international norms of religious freedom.
 
 &emsp;"(2) Accordingly, in the provision of foreign assistance, the United States should make a priority of promoting and developing legal protections and cultural respect for religious freedom."
 
@@ -313,6 +313,12 @@ Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, as amended b
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 
 Pub. L. 96–53, title V, §504(b), Aug. 14, 1979, 93 Stat. 378, which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by Pub. L. 97–113, title VII, §734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 

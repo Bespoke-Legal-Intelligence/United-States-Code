@@ -18,7 +18,7 @@ Criteria.—A performance-based contract for the procurement of services entered
 
 (b)
 
-Regulations.—Regulations implementing this section shall require agencies to collect and maintain reliable data sufficient to identify the contracts or task orders treated as contracts for commercial items using the authority of this section. The data may be collected using the Federal Procurement Data System or other reporting mechanism.
+Regulations.—Regulations implementing this section shall require agencies to collect and maintain reliable data sufficient to identify the contracts or task orders treated as contracts for commercial items using the authority of thissection. The data may be collected using the Federal Procurement Data System or other reporting mechanism.
 
 (c)
 

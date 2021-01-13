@@ -22,9 +22,13 @@ The Secretary shall notify the applicable non-Federal interest when construction
 
 (Pub. L. 113–121, title I, §1010, June 10, 2014, 128 Stat. 1217.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

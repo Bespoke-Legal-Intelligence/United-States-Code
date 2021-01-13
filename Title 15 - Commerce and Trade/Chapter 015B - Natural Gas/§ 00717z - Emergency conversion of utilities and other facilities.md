@@ -22,7 +22,7 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 During a natural gas emergency declared under this section, the President may, by order, prohibit the burning of natural gas by any electric powerplant or major fuel-burning installation if the President determines that—
 
-&emsp;(1) such powerplant or installation had on September 1, 1977 (or at any time thereafter) the capability to burn petroleum products without damage to its facilities or equipment and without interference with operational requirements;
+&emsp;(1) such powerplant or installation had on September 1, 1977 (or at any time thereafter) the capability to burn petroleum products without damage to its facilities or equipmentand without interference with operational requirements;
 
 &emsp;(2) significant quantities of natural gas which would otherwise be burned by such powerplant or installation could be made available before the termination of such emergency to any person served by an interstate pipeline for use by such person in a high-priority use; and
 

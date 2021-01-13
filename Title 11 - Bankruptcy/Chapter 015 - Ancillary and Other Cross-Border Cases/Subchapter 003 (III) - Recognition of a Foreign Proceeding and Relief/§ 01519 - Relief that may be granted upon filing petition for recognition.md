@@ -20,9 +20,13 @@
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 140; amended Pub. L. 111–327, §2(a)(46), Dec. 22, 2010, 124 Stat. 3562.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–327 substituted "362(o)" for "362(n)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

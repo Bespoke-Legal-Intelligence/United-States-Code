@@ -10,9 +10,11 @@ To carry out the purpose of subsection (a), the President is authorized to provi
 
 #### (c) Activities supported
 
-Activities that may be supported by assistance under subsection (b) include assisting thosecountries of the South Caucasus and Central Asia in developing capabilities to maintain national border guards, coast guard, and customs controls.
+Activities that may be supported by assistance under subsection (b) include assisting those countries of the South Caucasus and Central Asia in developing capabilities to maintain national border guards, coast guard, and customs controls.
 
 (Pub. L. 87–195, pt. I, §499C, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–124.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -6,7 +6,7 @@
 
 &emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (D)(iv), the higher of 75 percent or the sum of the enhanced FMAP plus 5 percentage points) of expenditures in the quarter—
 
-&emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
+&emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in theform of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
 
 &emsp;&emsp;(B) \[reserved\]
 
@@ -184,7 +184,7 @@
 
 #### (D) Use of joint application for Medicaid and CHIP
 
-&emsp;&emsp;The application form and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children for medical assistance under subchapter XIX and child health assistance under this subchapter.
+&emsp;&emsp;The application form and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for childrenfor medical assistance under subchapter XIX and child health assistance under this subchapter.
 
 #### (E) Automatic renewal (use of administrative renewal)
 
@@ -252,7 +252,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (iv) Payment error rate measurement (PERM) expenditures
 
-&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
+&emsp;&emsp;&emsp;Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>4</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
 
 #### (3) Waiver for purchase of family coverage
 
@@ -282,7 +282,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (B) Other Federal governmental programs
 
-&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) or any other provision of law, no payment shall be made to aState under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
+&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
 
 #### (7) Limitation on payment for abortions
 
@@ -330,7 +330,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 &emsp;&emsp;&emsp;Subject to clause (ii), in this paragraph, the term "qualified employer-sponsored coverage" means a group health plan or health insurance coverage offered through an employer—
 
-&emsp;&emsp;&emsp;&emsp;(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup>4</sup>
+&emsp;&emsp;&emsp;&emsp;(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup>5</sup>
 
 &emsp;&emsp;&emsp;&emsp;(II) for which the employer contribution toward any premium for such coverage is at least 40 percent; and
 
@@ -342,7 +342,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 &emsp;&emsp;&emsp;&emsp;(I) benefits provided under a health flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or
 
-&emsp;&emsp;&emsp;&emsp;(II) a high deductible health plan (as defined in section 223(c)(2) of such Code), without regard to whether the plan ispurchased in conjunction with a health savings account (as defined under section 223(d) of such Code).
+&emsp;&emsp;&emsp;&emsp;(II) a high deductible health plan (as defined in section 223(c)(2) of such Code), without regard to whether the plan is purchased in conjunction with a health savings account (as defined under section 223(d) of such Code).
 
 #### (C) Premium assistance subsidy
 
@@ -400,11 +400,11 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistanceunder the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1 targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
+&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistance under the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1 targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
 
 #### (ii) Access to choice of coverage
 
-&emsp;&emsp;&emsp;A State that elects the option under clause (i) shall identify and offer access to not less than 2 private health plans that are health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section 1397cc(b) of this title or benchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title for employees described in clause (i).
+&emsp;&emsp;&emsp;A State that elects the option under clause (i) shall identify and offer access to not less than 2 private health plans that are health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section1397cc(b) of this title or benchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title for employees described in clause (i).
 
 #### (iii) Clarification of payment for administrative expenditures
 
@@ -434,7 +434,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (11) Enhanced payments
 
-&emsp;Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
+&emsp;Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup>4</sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
 #### (d) Maintenance of effort
 
@@ -466,7 +466,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (A) In general
 
-&emsp;&emsp;During the period that begins on March 23, 2010, and ends on September 30, 2027, as a condition of receiving payments under section 1396b(a) of this title, a State shall not have in effect eligibility standards, methodologies, or procedures under its State child health plan (including any waiver under such plan) for children (including children provided medical assistance for which payment is made under section 1397ee(a)(1)(A) of this title) that are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on March 23, 2010. During the period that begins on October 1, 2019, and ends on September 30, 2027, the preceding sentence shall only apply with respect to children in families whose income does not exceed 300 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved. The preceding sentences shall not be construed as preventing a State during any such periods from—
+&emsp;&emsp;During the period that begins on March 23, 2010, and ends on September 30, 2027, as a condition of receiving payments under section 1396b(a) of this title, a State shall not have in effect eligibility standards, methodologies, or procedures under its Statechild health plan (including any waiver under such plan) for children (including children provided medical assistance for which payment is made under section 1397ee(a)(1)(A) of this title) that are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on March 23, 2010. During the period that begins on October 1, 2019, and ends on September 30, 2027, the preceding sentence shall only apply with respect to children in families whose income does not exceed 300 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved. The preceding sentences shall not be construed as preventing a State during any such periods from—
 
 &emsp;&emsp;&emsp;(i) applying eligibility standards, methodologies, or procedures for children under the State child health plan or under any waiver of the plan that are less restrictive than the eligibility standards, methodologies, or procedures, respectively, for children under the plan or waiver that are in effect on March 23, 2010;
 
@@ -506,7 +506,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (ii) Expenditures described
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the expenditures described in this clause are expenditures, made after August 15, 2003, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for medical assistance under subchapter XIX to individuals who have not attained age 19 and whose family income exceeds 150 percent of the poverty line.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the expenditures described in this clause areexpenditures, made after August 15, 2003, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for medical assistance under subchapter XIX to individuals who have not attained age 19 and whose family income exceeds 150 percent of the poverty line.
 
 #### (iii) No impact on determination of budget neutrality for waivers
 
@@ -530,19 +530,19 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 &emsp;&emsp;For purposes of subparagraph (A), the expenditures described in this subparagraph are expenditures made after February 4, 2009, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for the provision of medical assistance to individuals residing in the State who are eligible for medical assistance under the State plan under subchapter XIX or under a waiver of such plan and who have not attained age 19 (or, if a State has so elected under the State plan under subchapter XIX, age 20 or 21), and whose family income equals or exceeds 133 percent of the poverty line but does not exceed the Medicaid applicable income level.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104, 107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930; Pub. L. 114–10, title III, §301(c), Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §§3002(d)(1), (f)(1), 3005, Jan. 22, 2018, 132 Stat. 34, 37; Pub. L. 115–123, div. E, title I, §50101(d), (f)(1), Feb. 9, 2018, 132 Stat. 174.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104, 107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930; Pub. L. 114–10, title III, §301(c), Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §§3002(d)(1), (f)(1), 3005, Jan. 22, 2018, 132 Stat. 34, 37; Pub. L. 115–123, div. E, title I, §50101(d), (f)(1), Feb. 9, 2018, 132 Stat. 174; Pub. L. 116–117, §3(b)(3), Mar. 2, 2020, 134 Stat. 134.)
 
 #### References in Text
 
-Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred toin subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
-
-The Improper Payments Information Act of 2002, referred to in subsec. (c)(2)(C)(iv), (11), is Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
+Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
 
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)(i)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (ii) and (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(2)(C)(iv), (11). Pub. L. 116–117 substituted "subchapter IV of chapter 33 of title 31" for "Improper Payments Information Act of 2002".
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–120, §3005, inserted "and during the period that begins on October 1, 2019, and ends on September 30, 2020, the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 11.5 percentage points" after "23 percentage points,".
 
@@ -620,7 +620,7 @@ Subsec. (c)(2)(C)(iii). Pub. L. 111–3, §302(b), added cl. (iii).
 
 Subsec. (c)(2)(C)(iv). Pub. L. 111–3, §601(a)(2), added cl. (iv).
 
-Subsec. (c)(3)(A). Pub. L. 111–3, §301(a)(2)(A), substituted "relative to" for "relative to the amounts that the State would have paid to obtain comparable coverage only of the targeted low-income children involved," and added cls. (i) and (ii).
+Subsec. (c)(3)(A). Pub. L. 111–3, §301(a)(2)(A), substituted "relative to" for "relative to the amounts thatthe State would have paid to obtain comparable coverage only of the targeted low-income children involved," and added cls. (i) and (ii).
 
 Subsec. (c)(8). Pub. L. 111–3, §114(a), added par. (8).
 
@@ -684,7 +684,7 @@ Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 200
 
 Amendment by section 211(c) of Pub. L. 111–3 effective Jan. 1, 2010, see section 211(d)(1)(A) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 
-Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C.1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
+Pub. L. 111–3, title III, §301(a)(2)(B), Feb. 4, 2009, 123 Stat. 61, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to coverage the purchase of which has been approved by the Secretary \[of Health and Human Services\] under section 2105(c)(3) of the Social Security Act \[42 U.S.C. 1397ee(c)(3)\] prior to the date of enactment of this Act \[Feb. 4, 2009\]."
 
 #### Termination Date of 2007 Amendment
 
@@ -764,7 +764,7 @@ State option to apply meqc data.—For purposes of satisfying the requirements o
 
 "(f)
 
-Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specificsample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
+Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specific sample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
 
 &emsp;"(1) minimize the administrative cost burden on States under Medicaid and CHIP; and
 
@@ -782,5 +782,7 @@ Time for Promulgation of Final Rule.—The final rule implementing the PERM requ
 
 <i><sup>3</sup></i><i> So in original. Probably means subpar. (B) of par. (10).</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. The word "the" probably should not appear.</i>
+
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

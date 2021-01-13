@@ -54,6 +54,8 @@
 
 (Added Pub. L. 103–172, §2(a), Dec. 2, 1993, 107 Stat. 1995; amended Pub. L. 107–296, title XIII, §1314(a), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 132(f)(5) of Title 26, Internal Revenue Code.
@@ -61,6 +63,8 @@ Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted ", a member of a uniformed service, and a student who provides voluntary services under section 3111" for "and a member of a uniformed service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -72,7 +76,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Pub. L. 103–172, §3, Dec. 2, 1993, 107 Stat. 1997, provided that: "This Act \[enacting this section and provisionsset out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994."
+Pub. L. 103–172, §3, Dec. 2, 1993, 107 Stat. 1997, provided that: "This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994."
 
 #### Transit Subsidy for Department of Labor Employees of National Capital Region
 
@@ -131,6 +135,8 @@ Pub. L. 105–78, title II, §210, Nov. 13, 1997, 111 Stat. 1489.
 #### Purpose of Pub. L. 103–172
 
 Pub. L. 103–172, §1(b), Dec. 2, 1993, 107 Stat. 1995, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13150. Federal Workforce Transportation
 

@@ -50,7 +50,15 @@ In this section:
 
 (Pub. L. 116–92, div. F, title LXXI, §7132, Dec. 20, 2019, 133 Stat. 2252.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the North Korea Sanctions and Policy Enhancement Act of 2016 which comprises this chapter.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities of President under this section delegated to Secretary of the Treasury and Secretary of Commerce by section 1(c) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 

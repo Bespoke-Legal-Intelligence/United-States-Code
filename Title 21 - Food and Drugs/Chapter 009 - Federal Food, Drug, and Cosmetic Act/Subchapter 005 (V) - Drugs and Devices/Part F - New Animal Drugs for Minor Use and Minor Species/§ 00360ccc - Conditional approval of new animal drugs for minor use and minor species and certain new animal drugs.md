@@ -30,7 +30,7 @@
 
 &emsp;(E) information regarding the quantity of drug expected to be distributed on an annual basis to meet the expected need; and
 
-&emsp;(F) a commitment that the applicant will conduct additional investigations to meet therequirements for the full demonstration of effectiveness under section 360b(d)(1)(E) of this title within 5 years.
+&emsp;(F) a commitment that the applicant will conduct additional investigations to meet the requirements for the full demonstration of effectiveness under section 360b(d)(1)(E) of this title within 5 years.
 
 (3)(A) A person may not file an application under paragraph (1) if—
 
@@ -84,7 +84,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;&emsp;(C) any of the provisions of section 360b(e)(1)(A) through (B) or (D) through (F) of this title are applicable.
 
-&emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approvalshould not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
+&emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approval should not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
 
 &emsp;(4)(A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], conditional approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
@@ -152,6 +152,8 @@ In this section and section 360ccc–1 of this title, the term "transgenic anima
 
 (June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892; amended Pub. L. 114–89, §2(a)(3)(B), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §§301(b), 304(a), Aug. 14, 2018, 132 Stat. 2436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -173,6 +175,8 @@ Subsec. (f)(2). Pub. L. 115–234, §304(a)(3)(B), substituted "The Secretary sh
 Subsec. (k). Pub. L. 115–234, §304(a)(4), added subsec. (k).
 
 <b>2015</b>—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

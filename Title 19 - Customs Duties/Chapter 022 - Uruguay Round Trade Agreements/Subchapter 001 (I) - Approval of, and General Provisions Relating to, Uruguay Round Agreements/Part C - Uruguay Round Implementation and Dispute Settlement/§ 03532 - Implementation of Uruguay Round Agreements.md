@@ -42,7 +42,7 @@ In furtherance of the objective set forth in subsection (a), the Trade Represent
 
 #### (A) Grant of waiver
 
-&emsp;&emsp;In the case of a decision to grant a waiver described in subsection (b)(3), the reportunder paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
+&emsp;&emsp;In the case of a decision to grant a waiver described in subsection (b)(3), the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
 
 #### (B) Accession
 

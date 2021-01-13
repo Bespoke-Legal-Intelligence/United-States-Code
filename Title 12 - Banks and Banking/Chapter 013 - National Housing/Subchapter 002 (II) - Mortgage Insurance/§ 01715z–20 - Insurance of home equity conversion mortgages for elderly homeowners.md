@@ -58,7 +58,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;&emsp;(iii) the sale of annuities, investments, long-term care insurance, or any other type of financial or insurance product;
 
-&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
+&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage andwhich are not required to obtain the mortgage; and
 
 &emsp;&emsp;(D) meets any additional requirements prescribed by the Secretary;
 
@@ -92,7 +92,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(F) on any other basis that the Secretary considers appropriate;
 
-&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) toany other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
+&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) to any other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
 
 &emsp;(11) have been made with such restrictions as the Secretary determines to be appropriate to ensure that the mortgagor does not fund any unnecessary or excessive costs for obtaining the mortgage, including any costs of estate planning, financial advice, or other related services.
 
@@ -150,7 +150,7 @@ The Secretary may—
 
 &emsp;(B) to obtain repayment of disbursements provided under subparagraph (A) from any source; and
 
-&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitationsin subsection (g) to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
+&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
 
 (2) Actions under paragraph (1) may include—
 
@@ -214,7 +214,7 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as aprimary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
+&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
 
 #### (2) Limitation on principal obligation
 
@@ -268,6 +268,8 @@ The Secretary shall establish limits on the origination fee that may be charged 
 
 (June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838; Pub. L. 111–22, div. A, title II, §206, May 20, 2009, 123 Stat. 1654; Pub. L. 113–29, §2, Aug. 9, 2013, 127 Stat. 509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (h)(3). Pub. L. 113–29 added par. (3).
@@ -282,7 +284,7 @@ Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted "a first or subordinat
 
 Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;".
 
-Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
+Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
 
 Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted "Counseling services and information for mortgagors" for "Information services for mortgagors" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—".
 
@@ -357,6 +359,8 @@ Subsec. (g). Pub. L. 101–508, §2106, substituted "September 30, 1995" for "Se
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–628, §1066(a), made technical amendment to reference to section 3802(2) of this title to correct reference to corresponding provision of original act.
 
 Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out "and that has a value not to exceed the maximum dollar amount established by the Secretary under section 1709(b)(2) of this title for a 1-family residence" after "by the mortgagor".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

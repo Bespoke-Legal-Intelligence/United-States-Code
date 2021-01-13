@@ -6,7 +6,7 @@ The Secretary shall prescribe the form and contents required of applications for
 
 #### (b) Full faith and credit
 
-All guarantees entered into by the Secretary under section 822 of this title shall constitute general obligations of the United States ofAmerica backed by the full faith and credit of the United States of America.
+All guarantees entered into by the Secretary under section 822 of this title shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
 
 #### (c) Assignment of loan guarantees
 
@@ -118,6 +118,8 @@ Except as provided in this subchapter, the Secretary may not assess any fees, in
 
 (Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477; Pub. L. 109–59, title IX, §9003(h), (i), Aug. 10, 2005, 119 Stat. 1923; Pub. L. 114–94, div. A, title XI, §11605(b), Dec. 4, 2015, 129 Stat. 1695; Pub. L. 115–56, div. D, §164(b), as added Pub. L. 115–123, div. B, §20101(2), Feb. 9, 2018, 132 Stat. 121.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of section 831(c) of this title, which was transferred to subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary, by Pub. L. 105–178, title VII, §7203(a)(4), June 9, 1998, 112 Stat. 477, was based on Pub. L. 94–210, title V, §511, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §215(a), Oct. 19, 1976, 90 Stat. 2625; Pub. L. 105–178, title VII, §7203(a)(2), (3), June 9, 1998, 112 Stat. 477.
@@ -142,7 +144,7 @@ Subsec. (d)(3). Pub. L. 114–94, §11605(b)(4), added par. (3).
 
 Subsecs. (e) to (k). Pub. L. 114–94, §11605(b)(2), redesignated subsecs. (d) to (j) as (e) to (k), respectively. Former subsec. (k) redesignated (l).
 
-Subsec. (l). Pub. L. 114–94, §11605(b)(5), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: "The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection."
+Subsec. (l). Pub. L. 114–94, §11605(b)(5), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: "The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remainavailable until expended to pay for the evaluation costs described in this subsection."
 
 Pub. L. 114–94, §11605(b)(2), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
@@ -154,7 +156,9 @@ Subsec. (l). Pub. L. 109–59, §9003(i), added subsec. (l).
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–178, §7203(a)(4), redesignated subsec. (c) of section 831 of this title as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 

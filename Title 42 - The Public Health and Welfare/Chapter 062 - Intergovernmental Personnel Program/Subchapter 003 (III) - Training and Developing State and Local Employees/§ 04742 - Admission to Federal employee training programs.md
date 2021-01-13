@@ -2,7 +2,7 @@
 
 #### (a) State and local government officers and employees
 
-In accordance with such conditions as may be prescribed by the head of the Federal agencyconcerned, a Federal agency may admit State and local government employees and officials to agency training programs established for Federal professional, administrative, or technical personnel.
+In accordance with such conditions as may be prescribed by the head of the Federal agency concerned, a Federal agency may admit State and local government employees and officials to agency training programs established for Federal professional, administrative, or technical personnel.
 
 #### (b) Waiver of payments for training costs
 

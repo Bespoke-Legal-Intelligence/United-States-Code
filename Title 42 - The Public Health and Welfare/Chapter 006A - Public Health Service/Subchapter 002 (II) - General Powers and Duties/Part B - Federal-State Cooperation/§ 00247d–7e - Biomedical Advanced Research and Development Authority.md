@@ -266,7 +266,17 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
-#### (iii) Guidelines
+#### (iii) Authority during a public health emergency
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (ii), the Secretary, shall, to the maximum extent practicable, use competitive procedures when entering into transactions to carry out projects under this subsection for purposes of a public health emergency declared by the Secretary under section 247d of this title. Any such transactions entered into during such public health emergency shall not be terminated solely due to the expiration of such public health emergency, if such public health emergency ends before the completion of the terms of such agreement.
+
+#### (II) Report
+
+&emsp;&emsp;&emsp;&emsp;After the expiration of the public health emergency declared by the Secretary under section 247d of this title, the Secretary shall provide a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the use of any funds pursuant to the authority under subclause (I), including any outcomes, benefits, and risks associated with the use of such funds, and a description of the reasons for the use of such authority for the project or projects.
+
+#### (iv) Guidelines
 
 &emsp;&emsp;&emsp;The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
 
@@ -286,7 +296,7 @@ In this section:
 
 #### (iv) Availability of data
 
-&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D)of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
+&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
 
 #### (C) Advance payments; advertising
 
@@ -412,7 +422,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383.)
 
 #### References in Text
 
@@ -429,6 +439,8 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(5)(A)(iii), (iv). Pub. L. 116–136 added cl. (iii) and redesignated former cl. (iii) as (iv).
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–22, §602(1), struck out ", such as the Secretary of Defense may enter into under section 2371 of title 10" before period at end.
 
@@ -568,7 +580,7 @@ Sec. 4. <i>Agency Implementation</i>. The heads of executive departments and age
 
 (iv) through the Director of the CDC:
 
-&emsp;(A) expand vaccine effectiveness studies to more rapidly evaluate the effectiveness of cell-based andrecombinant influenza vaccines relative to egg-based vaccines;
+&emsp;(A) expand vaccine effectiveness studies to more rapidly evaluate the effectiveness of cell-based and recombinant influenza vaccines relative to egg-based vaccines;
 
 &emsp;(B) explore options to expand the production capacity of cell-based vaccine candidates used by industry;
 

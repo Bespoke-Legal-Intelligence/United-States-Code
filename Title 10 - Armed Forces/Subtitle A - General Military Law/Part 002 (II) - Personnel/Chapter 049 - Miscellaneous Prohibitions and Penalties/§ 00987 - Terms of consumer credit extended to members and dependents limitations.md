@@ -38,7 +38,7 @@ Preemption.—
 
 &emsp;(1)
 
-Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this sectionshall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
+Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Different treatment under state law of members and dependents prohibited.—Stat
 
 &emsp;&emsp;(A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
 
-&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member's or dependent's domicile or permanent home of record.
+&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of themember's or dependent's domicile or permanent home of record.
 
 (e)
 
@@ -128,7 +128,7 @@ Administrative enforcement.—The provisions of this section (other than paragra
 
 (g)
 
-Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affectthe applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
+Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
 
 (h)
 
@@ -140,7 +140,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(B) The method for calculating the applicable annual percentage rate of interest on such obligations, in accordance with the limit established under this section.
 
-&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
+&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount andas a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
 
 &emsp;(D) Definitions of "creditor" under paragraph (5) and "consumer credit" under paragraph (6) of subsection (i), consistent with the provisions of this section.
 

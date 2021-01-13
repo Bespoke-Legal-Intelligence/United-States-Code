@@ -238,7 +238,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for morethan 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
 #### (C) Right of refusal
 
@@ -307,6 +307,8 @@ The Corporation shall—
 #### (h) to (j) Omitted
 
 (Pub. L. 111–145, §9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, §5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220; Pub. L. 116–94, div. I, title VIII, §§802–804, Dec. 20, 2019, 133 Stat. 3028, 3029.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

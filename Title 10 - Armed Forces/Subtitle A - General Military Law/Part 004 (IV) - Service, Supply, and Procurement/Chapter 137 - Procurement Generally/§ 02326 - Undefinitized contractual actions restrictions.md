@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect onrequirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
+In General.—The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect on requirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
 
 (b)
 
@@ -14,7 +14,7 @@ Limitations on Obligation of Funds.—(1) A contracting officer of the Departmen
 
 (2) Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
-(3) If a contractor submits a qualifying proposal (as defined in subsection (h)) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+(3) If a contractor submits a qualifying proposal (as defined in subsection (h)) <sup>1</sup> to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
 (4) The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if that head of an agency determines that the waiver is necessary in order to support any of the following operations:
 
@@ -78,7 +78,7 @@ Applicability.—This section does not apply to the Coast Guard or the National 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "undefinitized contractual action" means a new procurement action entered into by the head of an agency for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action. Such term does not include contractual actions with respect to the following:
+&emsp;(1) The term "undefinitized contractual action" means a new procurement action entered into by the head of an agency for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action. Such term does notinclude contractual actions with respect to the following:
 
 &emsp;&emsp;(A) Purchases in an amount not in excess of the amount of the simplified acquisition threshold.
 
@@ -88,7 +88,35 @@ Definitions.—In this section:
 
 &emsp;(2) The term "qualifying proposal" means a proposal that contains sufficient information to enable the Department of Defense to conduct a meaningful audit of the information contained in the proposal.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, title VIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462; Pub. L. 116–92, div. A, title IX, §902(50), Dec. 20, 2019, 133 Stat. 1548.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, title VIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462; Pub. L. 116–92, div. A, title IX, §902(50), Dec. 20, 2019, 133 Stat. 1548; Pub. L. 116–283, div. A, title XVIII, §1819(b), (c)(1), (d), (e)(1), (f), (g), Jan. 1, 2021, 134 Stat. 4189–4191.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1819(b), (c)(1), (d), (e)(1), (f), (g), Jan. 1, 2021, 134 Stat. 4151, 4189–4191, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3371 of this title;</i>
+
+<i>(2) by transferring subsections (b) and (c) to section 3372(a) and (b), respectively, of this title;</i>
+
+<i>(3) by transferring subsections (d) and (e) to section 3373(a) and (b), respectively, of this title;</i>
+
+<i>(4) by transferring subsection (f) to section 3374 of this title;</i>
+
+<i>(5) by transferring subsection (g) to section 3375 of this title;</i>
+
+<i>(6) by transferring subsection (h) to section 3372(c) of this title; and</i>
+
+<i>(7) by transferring subsections (i) and (j) to section 3377(a) and (b), respectively, of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
+
+#### References in Text
+
+Subsection (h), referred to in subsec. (b)(3), probably should be a reference to subsec. (j) of this section. When enacted, such reference was to subsec. (g) of this section, which was first redesignated as subsec. (i) by Pub. L. 114–328, §811(2), and then as subsec. (j) by Pub. L. 115–91, §815(a)(1).
 
 #### Codification
 
@@ -101,6 +129,20 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 A prior section 2326 was renumbered section 2346 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1819(b), redesignated subsec. (a) as section 3371 of this title.
+
+Subsecs. (b), (c). Pub. L. 116–283, §1819(c)(1), redesignated subsecs. (b) and (c) as section 3372(a) and (b), respectively, of this title.
+
+Subsecs. (d), (e). Pub. L. 116–283, §1819(d), redesignated subsecs. (d) and (e) as section 3373(a) and (b), respectively, of this title.
+
+Subsec. (f). Pub. L. 116–283, §1819(e)(1), redesignated subsec. (f) as section 3374 of this title.
+
+Subsec. (g). Pub. L. 116–283, §1819(f), redesignated subsec. (g) as section 3375 of this title.
+
+Subsec. (h). Pub. L. 116–283, §1819(c)(1), redesignated subsec. (h) as section 3372(c) of this title.
+
+Subsecs. (i), (j). Pub. L. 116–283, §1819(g), redesignated subsecs. (i) and (j) as section 3377(a) and (b), respectively, of this title.
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -134,6 +176,14 @@ Subsec. (g)(1)(B). Pub. L. 103–355, §1505(c), substituted "simplified acquisi
 
 <b>1989</b>—Subsec. (g)(1)(D). Pub. L. 101–189 substituted "Congressionally mandated" for "Congressionally-mandated".
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
@@ -149,6 +199,20 @@ Pub. L. 115–91, div. A, title VIII, §815(c), Dec. 12, 2017, 131 Stat. 1462, p
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Relaxation of Undefinitized Contract Action Limitations and Restrictions Related to National Emergency for Coronavirus Disease 2019
+
+Pub. L. 116–136, div. B, title III, §13004, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) Section 2326(b)(3) of title 10, United States Code, shall not apply to any undefinitized contract action of the Department of Defense related to the national emergency for the Coronavirus Disease 2019 (COVID–19).
+
+"(b) In this section, the term 'undefinitized contract action' has the meaning given that term in section 2326(j)(6) of title 10, United States Code \[probably means section 2326(j)(1) of title 10, United States Code, which defines "undefinitized contractual action"\]."
+
+Pub. L. 116–136, div. B, title III, §13005, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) The head of an agency may waive the provisions of section 2326(b) of title 10, United States Code, with respect to a contract of such agency if the head of the agency determines that the waiver is necessary due to the national emergency for the Coronavirus Disease 2019 (COVID–19).
+
+"(b) In this section, the term 'head of an agency' has the meaning given that term in section 2302(2) \[probably means section 2302(1)\] of title 10, United States Code."
 
 #### Revision of Defense Supplement Relating to Payment of Costs Prior to Definitization
 
@@ -213,4 +277,6 @@ report.—Not later than two years after the date of the enactment of this Act, 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
 Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, which related to limitations on funding for undefinitized contractual actions, Inspector General audits and oversight, and waiver authority, were repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(21), Aug. 13, 2018, 132 Stat. 1848.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

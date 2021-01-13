@@ -16,25 +16,33 @@ The Attorney General may make grants to Indian tribal governments or authorized 
 
 &emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children;
 
-&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
+&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexualassault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
 
 &emsp;(8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, sex trafficking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims;
 
-&emsp;(9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child; and
+&emsp;(9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child;
 
-&emsp;(10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+&emsp;(10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking;
+
+&emsp;(11) develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in section 5704 of title 25; and
+
+&emsp;(12) compile and annually report data to the Attorney General related to missing or murdered Indians, as described in section 5705 of title 25.
 
 #### (b) Collaboration
 
 All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
-(Pub. L. 90–351, title I, §2015, formerly §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered §2015 and amended Pub. L. 109–271, §7(a)(1)(A), (C), (3), Aug. 12,2006, 120 Stat. 763; Pub. L. 113–4, title IX, §901, Mar. 7, 2013, 127 Stat. 118.)
+(Pub. L. 90–351, title I, §2015, formerly §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered §2015 and amended Pub. L. 109–271, §7(a)(1)(A), (C), (3), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title IX, §901, Mar. 7, 2013, 127 Stat. 118; Pub. L. 116–165, §7(b), Oct. 10, 2020, 134 Stat. 765.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 3796gg–10 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(11), (12). Pub. L. 116–165, which directed addition of pars. (11) and (12) to this section, was executed by making the addition to subsec. (a) of this section to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–4, §901(1), inserted "sex trafficking," after "sexual assault,".
 
@@ -51,6 +59,8 @@ Subsec. (a)(9), (10). Pub. L. 113–4, §901(4)(B), (5)(B), (6), added pars. (9)
 <b>2006</b>—Subsec. (a). Pub. L. 109–271, §7(a)(3)(A), substituted "or authorized designees of Indian tribal governments" for "and tribal organizations" in introductory provisions and added par. (8).
 
 Subsec. (c). Pub. L. 109–271, §7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: "The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

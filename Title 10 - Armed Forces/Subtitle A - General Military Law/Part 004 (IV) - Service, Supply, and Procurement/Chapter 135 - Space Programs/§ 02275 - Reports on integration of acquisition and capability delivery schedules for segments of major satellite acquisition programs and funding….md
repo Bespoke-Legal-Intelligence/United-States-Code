@@ -66,7 +66,7 @@ Termination of requirement.—The requirement to submit an annual report update 
 
 &emsp;(3)
 
-GAO review of certain non-integrated programs.—If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program, the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees.
+GAO review of certain non-integrated programs.—If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program,the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees.
 
 (g)
 
@@ -88,7 +88,17 @@ Milestone b approval.—The term "Milestone B approval" has the meaning given th
 
 Non-integrated program.—The term "non-integrated program" means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 
-(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(29), Dec. 20, 2019, 133 Stat. 1546.)
+(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252.)
+
+#### Amendment of Subsection (g)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4151, 4247, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (g) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2), by striking "section 2430" and inserting "section 4201"; and</i>
+
+<i>(2) in paragraph (3), by striking "section 2366(e)(7)" and inserting "sections 4172(e)(7)".</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 #### References in Text
 
@@ -100,11 +110,19 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 #### Amendments
 
+<b>2021</b>—Subsec. (g)(2). Pub. L. 116–283, §1846(i)(5), substituted "section 4201" for "section 2430".
+
+Subsec. (g)(3). Pub. L. 116–283, §1845(c)(3), substituted "sections 4172(e)(7)" for "section 2366(e)(7)".
+
 <b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–291, §1071(e)(3)(A), substituted "before January 2, 2013" for "before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
 
 Subsec. (d)(2). Pub. L. 113–291, §1071(e)(3)(B), substituted "on or after January 2, 2013" for "on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 

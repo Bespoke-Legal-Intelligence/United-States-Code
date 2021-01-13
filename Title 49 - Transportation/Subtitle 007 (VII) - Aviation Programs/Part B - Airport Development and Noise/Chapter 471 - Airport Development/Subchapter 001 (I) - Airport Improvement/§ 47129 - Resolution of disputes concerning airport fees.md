@@ -66,7 +66,7 @@ Referral or credit.—Any amounts paid under this subsection by a complainant ai
 
 &emsp;&emsp;(C)
 
-Assurance of timely repayment.—In order to assure the timely repayment, with interest, of amounts in dispute determined not to be reasonable by the Secretary, theairport shall obtain a letter of credit, or surety bond, or other suitable credit facility, equal to the amount in dispute that is due during the 120-day period established by this section, plus interest, unless the airport and the complainant air carrier or foreign air carrier agree otherwise.
+Assurance of timely repayment.—In order to assure the timely repayment, with interest, of amounts in dispute determined not to be reasonable by the Secretary, the airport shall obtain a letter of credit, or surety bond, or other suitable credit facility, equal to the amount in dispute that is due during the 120-day period established by this section, plus interest, unless the airport and the complainant air carrier or foreign air carrier agree otherwise.
 
 &emsp;&emsp;(D)
 

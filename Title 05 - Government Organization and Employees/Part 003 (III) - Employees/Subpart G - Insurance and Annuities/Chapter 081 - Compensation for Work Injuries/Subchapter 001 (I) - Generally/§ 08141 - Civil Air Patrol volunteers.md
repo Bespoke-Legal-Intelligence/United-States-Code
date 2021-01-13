@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) 45 percent for section 8133(a)(2) of this title, if the member dies fully or currently insured under subchapter II of chapter 7 of title 42, with no additional payments for a child or children while the widow or widower remains eligible for payments under section 8133(a)(2) of this title;
 
-&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member diedfully or currently insured under subchapter II of chapter 7 of title 42; and
+&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member died fully or currently insured under subchapter II of chapter 7 of title 42; and
 
 &emsp;&emsp;(C) 25 percent for section 8133(a)(4) of this title, if one parent was wholly dependent on the deceased member at the time of his death and the other was not dependent to any extent; 16 percent to each, if both were wholly dependent; and if one was or both were partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
 
@@ -42,6 +42,8 @@ Subsection (d) of former section 803, providing for retroactive applicability, i
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter II of chapter 7 of title 42, referred to in text, is section 401 et seq. of Title 42, The Public Health and Welfare.
@@ -53,6 +55,8 @@ Subchapter II of chapter 7 of title 42, referred to in text, is section 401 et s
 <b>1983</b>—Subsec. (a). Pub. L. 98–94, §1258(a)(1), inserted "under 18 years of age" after "Civil Air Patrol Cadet".
 
 Subsec. (b)(1). Pub. L. 98–94, §1258(a)(2), substituted "the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under section 5332 of this title" for "$300".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

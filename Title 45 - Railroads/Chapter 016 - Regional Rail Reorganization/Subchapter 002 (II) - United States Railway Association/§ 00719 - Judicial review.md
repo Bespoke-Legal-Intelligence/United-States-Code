@@ -62,7 +62,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 > shall be within the original and exclusive jurisdiction of the special court. The special court shall not hear or determine any such action prior to the date of conveyance, pursuant to section 743(b)(1) of this title, except as the Constitution may require. Relief shall not be granted in any action referred to in subparagraph (A), (C), or (E) unless the person seeking such relief establishes that the Association acted in reckless or deliberate disregard of applicable law.
 
-(2) The original and exclusive jurisdiction of the special court shall include any action, whether filed by any interested person or initiated by the special court itself, to interpret, alter, amend, modify, or implement any of the orders entered by such court pursuant to section 743(b) of this title in order to effect the purposes of this chapter or the goals of the final system plan. During the pendency of any proceeding described in this paragraph, the special court may enter such orders as it determines to be appropriate, including orders enjoining, restraining, conditioning, or limiting any conveyance, transfer, or use of any asset or right which is subject to such an order or which is at issue in such a proceeding, or which involves the enforcement of any liens or encumbrances upon such assets or rights. Any orders pursuant to this paragraph which interpret, alter, amend, modify, or implement orders entered by the special court shallbe final and shall not be restrained or enjoined by any court.
+(2) The original and exclusive jurisdiction of the special court shall include any action, whether filed by any interested person or initiated by the special court itself, to interpret, alter, amend, modify, or implement any of the orders entered by such court pursuant to section 743(b) of this title in order to effect the purposes of this chapter or the goals of the final system plan. During the pendency of any proceeding described in this paragraph, the special court may enter such orders as it determines to be appropriate, including orders enjoining, restraining, conditioning, or limiting any conveyance, transfer, or use of any asset or right which is subject to such an order or which is at issue in such a proceeding, or which involves the enforcement of any liens or encumbrances upon such assets or rights. Any orders pursuant to this paragraph which interpret, alter, amend, modify, or implement orders entered by the special court shall be final and shall not be restrained or enjoined by any court.
 
 (3) An order or judgment of the United States District Court for the District of Columbia in any action referred to in this section shall be reviewable in accordance with sections 1291, 1292, and 1294 of title 28.
 
@@ -75,6 +75,8 @@ Whenever the compensation which is deposited with the special court under sectio
 The special court may stay or enjoin any action or proceeding in any State court or in any court of the United States other than the Supreme Court or Court of Appeals for the District of Columbia Circuit if such action or proceeding is contrary to any provision of this chapter, impairs the effective implementation of this chapter, or interferes with the execution of any order of the special court pursuant to this chapter.
 
 (Pub. L. 93–236, title II, §209, Jan. 2, 1974, 87 Stat. 999; Pub. L. 94–210, title VI, §§602(a), (b), 607(i), (l), (r), (s), Feb. 5, 1976, 90 Stat. 86, 97, 98; Pub. L. 94–216, §2, Feb. 17, 1976, 90 Stat. 191; Pub. L. 95–199, §3, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 100–352, §6(d), June 27, 1988, 102 Stat. 663; Pub. L. 104–317, title VI, §605(a), (b)(1), (c)(1), Oct. 19, 1996, 110 Stat. 3858, 3859.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -96,7 +98,7 @@ Subsec. (g). Pub. L. 104–317, §605(c)(1)(A), inserted "or Court of Appeals fo
 
 Subsec. (h). Pub. L. 104–317, §605(c)(1)(B), struck out subsec. (h) relating to special masters.
 
-<b>1988</b>—Subsec. (e)(3). Pub. L. 100–352 struck out ", except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or in part, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28" before the period at end of first sentence and substituted "such petition shall be filed in the Supreme Court" for "petition or appeal shall be filed" in second sentence.
+<b>1988</b>—Subsec. (e)(3). Pub. L. 100–352 struck out ", except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or in part, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28" before the period at end of first sentence and substituted "such petition shall be filed in the SupremeCourt" for "petition or appeal shall be filed" in second sentence.
 
 <b>1977</b>—Subsec. (h). Pub. L. 95–199 added subsec. (h).
 
@@ -108,13 +110,15 @@ Subsec. (d)(1). Pub. L. 94–210, §607(i), inserted "or any subsidiary thereof"
 
 Subsecs. (e) to (g). Pub. L. 94–210, §602(b), added subsecs. (e) to (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–317, title VI, §605(e), Oct. 19, 1996, 110 Stat. 3859, provided that: "The amendments made by subsections (b) and (c) of this section \[amending this section and sections 743, 745, 1104, and 1105 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\] and, except as provided in subsection (d) \[enacting provisions set out as a note below\], shall apply with respect to proceedings that arise or continue after such effective date."
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not toapply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -131,6 +135,8 @@ Pub. L. 104–317, title VI, §605(d), Oct. 19, 1996, 110 Stat. 3859, provided t
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Rules of the Special Court, Regional Rail Reorganization Act of 1973
 

@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 The term "fully insured individual" means any individual who had not less than—
 
-&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after 1950 (or, if later, the year in which he attained age 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
+&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after1950 (or, if later, the year in which he attained age 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
 
 &emsp;(2) 40 quarters of coverage; or
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 108–203, §211(a)(3), added subsec. (c). See Codification
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–840 included within definition of "currently insured individual" an individual entitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
 
-<b>1956</b>—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of thequarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
+<b>1956</b>—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
 
 <b>1954</b>—Subsec. (a)(2)(B). Act Sept. 1, 1954, §106(b)(1), excluded from the elapsed period under subsec. (a)(2)(A) any quarter any part of which was included in a period of disability, unless such quarter was a quarter of coverage.
 

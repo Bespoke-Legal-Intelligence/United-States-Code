@@ -26,9 +26,13 @@
 
 (Added Pub. L. 101–335, §2(a)(1), July 17, 1990, 104 Stat. 319; amended Pub. L. 104–186, title II, §215(17), Aug. 20, 1996, 110 Stat. 1746.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts" for "Clerk of the House of Representatives, the Clerk may pay from the contingent fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (15) Inclusion
 
-&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
+&emsp;The term "inclusion", used with respect to individuals with developmental disabilities,means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
 
 &emsp;&emsp;(A) have friendships and relationships with individuals and families of their own choice;
 

@@ -4,9 +4,13 @@ After the completion of any interstate toll bridge constructed by an individual,
 
 (Aug. 2, 1946, ch. 753, title V, §504, 60 Stat. 848; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–449 substituted "Secretary of Transportation" for "Secretary of War". See Transfer of Functions note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

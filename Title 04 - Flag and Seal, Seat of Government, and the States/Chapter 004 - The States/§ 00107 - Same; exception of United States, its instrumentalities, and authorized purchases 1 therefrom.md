@@ -6,6 +6,8 @@
 
 (July 30, 1947, ch. 389, 61 Stat. 645; Sept. 3, 1954, ch. 1263, §4, 68 Stat. 1227.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1954</b>—Subsec. (b). Act Sept. 3, 1954, substituted "personnel of any branch of the Armed Forces of the United States" for "Army or Navy personnel".

@@ -6,7 +6,7 @@ Except as authorized by a specific appropriation, by express terms in a general 
 
 &emsp;(2) expenses of attendance of an individual at meetings or conventions of members of a society or association.
 
-> This section does not prevent the use of appropriations for the Department of Agriculture for expenses incident to the delivery of lectures, thegiving of instructions, or the acquiring of information at meetings by its employees on subjects relating to the authorized work of the Department.
+> This section does not prevent the use of appropriations for the Department of Agriculture for expenses incident to the delivery of lectures, the giving of instructions, or the acquiring of information at meetings by its employees on subjects relating to the authorized work of the Department.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514.)
 

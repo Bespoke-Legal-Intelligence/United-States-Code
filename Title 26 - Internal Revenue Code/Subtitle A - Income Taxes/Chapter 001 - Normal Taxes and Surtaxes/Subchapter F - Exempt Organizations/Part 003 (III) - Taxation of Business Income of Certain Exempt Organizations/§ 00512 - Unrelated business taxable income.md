@@ -56,7 +56,7 @@ For purposes of this title—
 
 #### (iii) Treatment of tax exempt organizations
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of the contributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of thecontributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
 
 #### (4) Special rule applicable to organizations described in section 501(c)(19)
 
@@ -86,7 +86,7 @@ For purposes of this title—
 
 &emsp;In the case of any organization with more than 1 unrelated trade or business—
 
-&emsp;&emsp;(A) unrelated business taxable income, including for purposes of determining any netoperating loss deduction, shall be computed separately with respect to each such trade or business and without regard to subsection (b)(12),
+&emsp;&emsp;(A) unrelated business taxable income, including for purposes of determining any net operating loss deduction, shall be computed separately with respect to each such trade or business and without regard to subsection (b)(12),
 
 &emsp;&emsp;(B) the unrelated business taxable income of such organization shall be the sum of the unrelated business taxable income so computed with respect to each such trade or business, less a specific deduction under subsection (b)(12), and
 
@@ -320,7 +320,7 @@ In general.—The term "eligible taxpayer" means, with respect to a property, an
 
 &emsp;&emsp;&emsp;&emsp;(I) acquires from an unrelated person a qualifying brownfield property, and
 
-&emsp;&emsp;&emsp;&emsp;(II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at thetime such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
+&emsp;&emsp;&emsp;&emsp;(II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at the time such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -462,7 +462,7 @@ Election.—An election under clause (i) shall be made with the eligible taxpaye
 
 &emsp;&emsp;&emsp;(iii)
 
-Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+Revocation.—An eligible taxpayer or qualifying partnership may revoke anelection under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
 &emsp;&emsp;(I)
 
@@ -484,7 +484,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (1) In general
 
-&emsp;If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or businessand its share of the partnership deductions directly connected with such gross income.
+&emsp;If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or business and its share of the partnership deductions directly connected with such gross income.
 
 #### (2) Special rule where partnership year is different from organization's year
 
@@ -532,7 +532,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (2) Basis reduction
 
-&emsp;Except as provided in regulations, for purposes of paragraph (1), the basis of any stock acquired by purchase (as defined in section 1361(e)(1)(C)) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
+&emsp;Except as provided in regulations, for purposes of paragraph (1), the basis of any stockacquired by purchase (as defined in section 1361(e)(1)(C)) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
 
 #### (3) Exception for ESOPs
 
@@ -608,7 +608,7 @@ Subsec. (b)(13)(B)(i)(I). Pub. L. 105–206, §6010(j)(2), struck out "(as defin
 
 Subsec. (b)(17)(B)(ii)(II). Pub. L. 105–206, §6023(8), substituted "rule" for "Rule" in subcl. heading.
 
-<b>1997</b>—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted "(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)" after "1034".
+<b>1997</b>—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted "(as in effect on the day before the date of theenactment of the Taxpayer Relief Act of 1997)" after "1034".
 
 Subsec. (b)(13). Pub. L. 105–34, §1041(a), amended par. (13) generally. Prior to amendment, par. (13) related to inclusion in gross income of controlling organization of amounts of interest, annuities, royalties, and rents derived from a controlled organization.
 
@@ -728,7 +728,7 @@ Pub. L. 114–113, div. Q, title I, §114(b), Dec. 18, 2015, 129 Stat. 3049, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §131(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendment made bythis section \[amending this section\] shall apply to payments received or accrued after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §131(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendment made by this section \[amending this section\] shall apply to payments received or accrued after December 31, 2013."
 
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 

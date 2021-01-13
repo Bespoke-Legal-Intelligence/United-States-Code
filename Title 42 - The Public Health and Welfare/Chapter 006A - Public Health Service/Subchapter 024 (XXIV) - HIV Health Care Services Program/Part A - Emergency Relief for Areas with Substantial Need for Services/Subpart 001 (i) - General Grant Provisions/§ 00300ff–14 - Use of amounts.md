@@ -84,7 +84,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Medical outcomes
 
-&emsp;In this subsection, the term "medical outcomes" means those outcomes affecting the HIV-related clinical status of an individual with HIV/AIDS.
+&emsp;In this subsection, the term "medical outcomes" means those outcomes affecting theHIV-related clinical status of an individual with HIV/AIDS.
 
 #### (e) Early intervention services
 
@@ -182,7 +182,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 A chief elected official may not use amounts received under a grant awarded under this subpart to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub.L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Subsec. (b)(1)(D). Pub. L. 106–345, §121(a)(5), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 106–345, §121(b)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome."
+Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected officialof an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome."
 
 Subsecs. (c) to (g). Pub. L. 106–345, §121(d), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 

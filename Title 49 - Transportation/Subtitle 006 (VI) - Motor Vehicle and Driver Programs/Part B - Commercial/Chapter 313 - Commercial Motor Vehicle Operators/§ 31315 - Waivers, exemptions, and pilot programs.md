@@ -18,7 +18,7 @@ Exemptions.—
 
 &emsp;(1)
 
-In general.—Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
+In general.—Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or classof persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ In general.—The Secretary may conduct pilot programs to evaluate alternatives 
 
 &emsp;(2)
 
-Program elements.—In proposing a pilot program and before granting exemptions for purposes of a pilot program, the Secretary shall require, as a condition of approval of the project, that the safety measures in the project are designed to achieve a level of safety that is equivalent to, or greater than, the level of safety that would otherwise be achieved through compliance with the regulations prescribed under this chapter or section 31136. The Secretary shall include, at a minimum, the following elements in each pilot program plan:
+Program elements.—In proposing a pilot program and before granting exemptions for purposes of a pilot program, the Secretary shall require, as a condition of approval of the project, that the safety measures in the project are designed to achieve a level of safety that is equivalent to, or greater than, the level of safety that would otherwise beachieved through compliance with the regulations prescribed under this chapter or section 31136. The Secretary shall include, at a minimum, the following elements in each pilot program plan:
 
 &emsp;&emsp;(A) A scheduled life of each pilot program of not more than 3 years.
 
@@ -130,7 +130,7 @@ Web Site.—The Secretary shall ensure that the Federal Motor Carrier Safety Adm
 
 Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) The Secretary may not—
 
-&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirelyin a municipality or commercial zone of a municipality; or
+&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
 
 &emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
 

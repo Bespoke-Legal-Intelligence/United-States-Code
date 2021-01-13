@@ -48,6 +48,8 @@ Any employee who transfers to the State-owned railroad under this chapter shall 
 
 (Pub. L. 97–468, title VI, §607, Jan. 14, 1983, 96 Stat. 2571; Pub. L. 100–238, title I, §136(a), Jan. 8, 1988, 101 Stat. 1766; Pub. L. 103–226, §10, Mar. 30, 1994, 108 Stat. 122.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(4)(A), is Pub. L. 103–226, Mar. 30, 1994, 108 Stat. 111. Section 3 of the Act is set out as a note under section 5597 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2101 of Title 5 and Tables.
@@ -60,7 +62,9 @@ Subsec. (e). Pub. L. 103–226, §10(b), added subsec. (e) and struck out former
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–238 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Administrative Provision
 
-Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that: "Within 180 days after the date of enactment of this section \[Jan. 8, 1988\], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act \[45 U.S.C. 1206(e)(2)(A)\], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska Railroad Transfer Act of 1982 \[45 U.S.C. 1206(e)(1)\] (as amended by subsection (a) of this section)."
+Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that within 180 days after Jan. 8, 1988, the Director of the Office of Personnel Management was tonotify any person described under the provisions of subsec. (e)(2)(A) of this section for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of subsec. (e)(1) of this section.
 

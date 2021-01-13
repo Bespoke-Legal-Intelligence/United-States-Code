@@ -129,6 +129,7 @@
 | [7255\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007255%20-%20Subpoena.md) | Subpoena. |
 | [7256\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007256%20-%20Contracts%2C%20leases%2C%20etc.%2C%20with%20public%20agencies%20and%20private%20organizations%20and%20persons.md) | Contracts, leases, etc., with public agencies and private organizations and persons. |
 | 7256a, 7256b. Transferred. |  |
+| [7256c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007256c%20-%20Milestone-based%20demonstration%20projects.md) | Milestone-based demonstration projects. |
 | [7257\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257%20-%20Acquisition%2C%20construction%2C%20etc.%2C%20of%20laboratories%2C%20research%20and%20testing%20sites%2C%20etc.md) | Acquisition, construction, etc., of laboratories, research and testing sites, etc. |
 | 7257a to 7257c. Transferred. |  |
 | [7257d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257d%20-%20Expanded%20research%20by%20Secretary%20of%20Energy.md) | Expanded research by Secretary of Energy. |

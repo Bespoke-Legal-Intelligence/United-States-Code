@@ -44,7 +44,7 @@ Reports.—
 
 &emsp;(1)
 
-Reports to congress.—The Secretary shall submit to the congressional defense committees each year a report on the programunder subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
+Reports to congress.—The Secretary shall submit to the congressional defense committees each year a report on the program under subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
 
 &emsp;&emsp;(A) A description of the activities under the program.
 
@@ -60,7 +60,7 @@ Information for the public on evaluations.—The Secretary shall make available 
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(2), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The GPRA Modernization Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–352, Jan. 4, 2011, 124 Stat. 3866, which enacted sections 1115, 1116, and 1120 to 1125 of Title 31, Money and Finance, and section 306 of Title 5, Government Organization and Employees, amended section 1105 of Title 31, repealed sections 1115 and 1116 of Title 31 and section 306 of Title 5, and enacted provisions set out as notes under section 1115 of Title 31 and section 5105 of Title 5. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1101 of Title 31 and Tables.
+The GPRA Modernization Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–352, Jan. 4, 2011, 124 Stat. 3866, which enacted sections 1115, 1116, and 1120 to 1125 of Title 31, Money and Finance, and section 306 of Title5, Government Organization and Employees, amended section 1105 of Title 31, repealed sections 1115 and 1116 of Title 31 and section 306 of Title 5, and enacted provisions set out as notes under section 1115 of Title 31 and section 5105 of Title 5. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Prior Provisions
 

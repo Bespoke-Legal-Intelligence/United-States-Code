@@ -22,7 +22,7 @@ As used in this chapter—
 
 (e) "Defense information" includes any document, writing, sketch, photograph, plan, model, specification, design, prototype, or other recorded or oral information relating to any defense article or defense service, but shall not include Restricted Data as defined by the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and data removed from the Restricted Data category under section 142d of that Act \[42 U.S.C. 2162(d)\].
 
-(f) "Defense service" includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
+(f) "Defense service" includes any service, test, inspection, repair, publication, or technicalor other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
 (g) "Excess defense articles" means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
@@ -57,6 +57,8 @@ As used in this chapter—
 (q) "Major non-NATO ally" means a country which is designated in accordance with section 2321k of this title as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
 (Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -119,6 +121,8 @@ Subsec. (m). Pub. L. 89–171, §303(b)(2), (3), in par. (2) substituted "Such s
 <b>1963</b>—Subsec. (f). Pub. L. 88–205 inserted "including orientation".
 
 <b>1962</b>—Subsec. (m)(2), (3). Pub. L. 87–565 struck out "as grant assistance" after "international organizations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

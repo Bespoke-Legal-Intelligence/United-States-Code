@@ -76,7 +76,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D),and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnership agreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
+&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnership agreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
 
 #### (ii) Priority
 
@@ -142,7 +142,7 @@ Not later than 120 days after November 8, 2007, the Chief of Engineers shall—
 
 This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
 
-(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17,1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653; Pub. L. 115–270, title I, §1155(b), Oct. 23, 2018, 132 Stat. 3793.)
+(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653; Pub. L. 115–270, title I, §1155(b), Oct. 23, 2018, 132 Stat. 3793.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Subsec. (b)(1). Pub. L. 114–322 inserted "and, as defined in section 1602 of t
 
 <b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–121, §1018(a)(1), inserted "or a project under an environmental infrastructure assistance program" after "law" in introductory provisions.
 
-Subsec. (a)(4)(C). Pub. L. 113–121, §1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: "In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit."
+Subsec. (a)(4)(C). Pub. L. 113–121, §1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: "In any case in whichthe non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit."
 
 Subsec. (a)(4)(D)(iii). Pub. L. 113–121, §1018(a)(3), substituted "sections 2211(a)(2) and 2213(a)(1)(A) of title 33" for "sections 2211 and 2213 of title 33".
 
@@ -194,7 +194,7 @@ Pub. L. 113–121, title I, §1018(c), June 10, 2014, 128 Stat. 1226, provided t
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–114, title II, §2003(e), Nov. 8, 2007, 121 Stat. 1070, as amended by Pub. L. 113–121, title I, §1018(b), June 10, 2014, 128 Stat. 1225, provided that: "The amendments made by subsections (a), (b), and (d) \[amending this section and provisions set out as a note under this section\] only apply to partnership agreements enteredinto after the date of enactment of this Act \[Nov. 8, 2007\]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project, or construction of design deficiency corrections on the project, has not been initiated, or under which construction of the project has not been completed and the work to be performed by the non-Federal interests has not been carried out and is creditable only toward any remaining non-Federal cost share, as of such date of enactment for the purpose of incorporating such amendments."
+Pub. L. 110–114, title II, §2003(e), Nov. 8, 2007, 121 Stat. 1070, as amended by Pub. L. 113–121, title I, §1018(b), June 10, 2014, 128 Stat. 1225, provided that: "The amendments made by subsections (a), (b), and (d) \[amending this section and provisions set out as a note under this section\] only apply to partnership agreements entered into after the date of enactment of this Act \[Nov. 8, 2007\]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project, or construction of design deficiency corrections on the project, has not been initiated, or under which construction of the project has not been completed and the work to be performed by the non-Federal interests has not been carried out and is creditable only toward any remaining non-Federal cost share, as of such date of enactment for the purpose of incorporating such amendments."
 
 #### Local Government Water Management Plans
 

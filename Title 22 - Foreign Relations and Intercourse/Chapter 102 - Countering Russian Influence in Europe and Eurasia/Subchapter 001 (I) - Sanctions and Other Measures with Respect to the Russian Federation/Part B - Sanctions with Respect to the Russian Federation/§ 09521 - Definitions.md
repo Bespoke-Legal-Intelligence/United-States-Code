@@ -36,6 +36,8 @@ In this part:
 
 (Pub. L. 115–44, title II, §221, Aug. 2, 2017, 131 Stat. 906.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in text, is part 2 (§§221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, and 8924 of this title. For complete classification of part 2 to the Code, see Tables.
@@ -43,6 +45,8 @@ This part, referred to in text, is part 2 (§§221–238) of subtitle A of title
 Section 4618 of title 50, referred to in par. (2), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13849. Authorizing the Implementation of Certain Sanctions Set Forth in the Countering America's Adversaries Through Sanctions Act
 
@@ -58,7 +62,7 @@ Section 1. (a) When the President, or the Secretary of State or the Secretary of
 
 (ii) prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest;
 
-(iii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to anyfinancial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
+(iii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
 
 (iv) block all property and interests in property of the sanctioned person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, and provide that such property and interests in property may not be transferred, paid, exported, withdrawn, or otherwise dealt in;
 
@@ -74,7 +78,7 @@ Section 1. (a) When the President, or the Secretary of State or the Secretary of
 
 (c) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order \[Sept. 20, 2018\].
 
-Sec. 2. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA and has selected from section 235 of CAATSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+Sec. 2. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA and has selected from section 235 of CAATSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretaryof the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
 
 (i) The Export-Import Bank shall deny approval of the issuance of any guarantee, insurance, extension of credit, or participation in an extension of credit in connection with the export of any goods or services to the sanctioned person;
 

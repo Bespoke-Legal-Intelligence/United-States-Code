@@ -20,6 +20,8 @@ R.S. §3548; restated Mar. 4, 1911, ch. 268, §1, 36 Stat. 1354.
 
 The words "National Bureau of Standards of the Department of Commerce" are substituted for "Bureau of Standards of the United States" because of 15:1511. The words "troy pound of the mint of the United States, conformably to which the coinage thereof shall be regulated" are omitted as unnecessary because of the restatement. The word "ensure" is substituted for "securing" as being more precise. The words "specifications in section 5112 of this title" are substituted for "the provisions of the laws relating to coinage" because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".

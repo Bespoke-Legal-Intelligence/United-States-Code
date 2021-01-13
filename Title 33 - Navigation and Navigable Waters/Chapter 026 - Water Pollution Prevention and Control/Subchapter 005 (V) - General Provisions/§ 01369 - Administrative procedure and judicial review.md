@@ -2,7 +2,7 @@
 
 #### (a) Subpenas
 
-(1) For purposes of obtaining information under section 1315 of this title, or carrying out section 1367(e) of this title, the Administrator may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Except for effluent data, upon a showing satisfactory to the Administrator that such papers, books, documents, or information or particular part thereof, if made public, would divulge trade secrets or secret processes, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such paper, book, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter, or when relevant in any proceeding under this chapter. Witnesses summoned shall be paid the same feesand mileage that are paid witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+(1) For purposes of obtaining information under section 1315 of this title, or carrying outsection 1367(e) of this title, the Administrator may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Except for effluent data, upon a showing satisfactory to the Administrator that such papers, books, documents, or information or particular part thereof, if made public, would divulge trade secrets or secret processes, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such paper, book, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter, or when relevant in any proceeding under this chapter. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (2) The district courts of the United States are authorized, upon application by the Administrator, to issue subpenas for attendance and testimony of witnesses and the production of relevant papers, books, and documents, for purposes of obtaining information under sections 1314(b) and (c) of this title. Any papers, books, documents, or other information or part thereof, obtained by reason of such a subpena shall be subject to the same requirements as are provided in paragraph (1) of this subsection.
 
@@ -34,17 +34,21 @@ In any judicial proceeding brought under subsection (b) of this section in which
 
 (June 30, 1948, ch. 758, title V, §509, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 93–207, §1(6), Dec. 28, 1973, 87 Stat. 906; Pub. L. 100–4, title III, §308(b), title IV, §406(d)(3), title V, §505(a), (b), Feb. 4, 1987, 101 Stat. 39, 73, 75; Pub. L. 100–236, §2, Jan. 8, 1988, 101 Stat. 1732; Pub. L. 115–282, title IX, §903(c)(4), Dec. 4, 2018, 132 Stat. 4356.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(4). Pub. L. 115–282 added par. (4).
 
-<b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–236 redesignated par. (4) as (3) and struck out former par. (3) relating to venue, which provided for selection procedure in subpar. (A), administrative provisions in subpar. (B), and transfers in subpar. (C).
+<b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–236 redesignated par. (4) as (3) and struck out former par. (3) relating tovenue, which provided for selection procedure in subpar. (A), administrative provisions in subpar. (B), and transfers in subpar. (C).
 
 <b>1987</b>—Subsec. (b)(1). Pub. L. 100–4, §§308(b), 406(d)(3), 505(a), substituted "transacts business which is directly affected by such action" for "transacts such business", "120" for "ninety", and "120th" for "ninetieth", substituted "1316, or 1345 of this title" for "or 1316 of this title" in cl. (E), and added cl. (G).
 
 Subsec. (b)(3), (4). Pub. L. 100–4, §505(b), added pars. (3) and (4).
 
 <b>1973</b>—Subsec. (b)(1)(C). Pub. L. 93–207 substituted "pretreatment" for "treatment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

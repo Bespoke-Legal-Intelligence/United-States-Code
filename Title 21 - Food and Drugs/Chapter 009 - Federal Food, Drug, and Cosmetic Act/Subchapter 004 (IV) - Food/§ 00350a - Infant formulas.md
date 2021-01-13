@@ -20,7 +20,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) before the distribution of such batch,
 
-&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas toensure that such formulas are in compliance with this section,
+&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
 
 &emsp;(iii) in-process controls including, where necessary, testing required by good manufacturing practices designed to prevent adulteration of each batch of infant formula, and
 
@@ -58,7 +58,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(v) the retention of all records of the results of regularly scheduled audits conducted pursuant to the requirements prescribed by the Secretary under paragraph (2)(B)(iv), and
 
-&emsp;(vi) the retention of all complaints and the maintenance of files with respect to, and the review of, complaints concerning infant formulas which may reveal the possible existence of a hazard to health.
+&emsp;(vi) the retention of all complaints and the maintenance of files with respect to, and thereview of, complaints concerning infant formulas which may reveal the possible existence of a hazard to health.
 
 (B)(i) Records required under subparagraph (A) with respect to an infant formula shall be retained for at least one year after the expiration of the shelf life of such infant formula. Except as provided in clause (ii), such records shall be made available to the Secretary for review and duplication upon request of the Secretary.
 
@@ -200,6 +200,8 @@ NUTRIENTS
 
 (June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B)" for "(c)(1)(B)," in concluding provisions.
@@ -219,6 +221,8 @@ Pub. L. 99–570, §4014(a)(5), which directed that "(d)(1)(B)" be substituted f
 Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted "(a), (b), and (c)" for "(a) and (b)".
 
 Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted "paragraph (2)" for "subsection (a)(2) of this section", substituted a period for the colon after "as so revised", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

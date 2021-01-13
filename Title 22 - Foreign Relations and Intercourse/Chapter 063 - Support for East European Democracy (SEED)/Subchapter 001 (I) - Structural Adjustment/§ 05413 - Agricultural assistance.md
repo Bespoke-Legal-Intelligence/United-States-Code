@@ -40,15 +40,19 @@ Subsection (c) should not be construed to authorize or require any budgetary obl
 
 (Pub. L. 101–179, title I, §103, Nov. 28, 1989, 103 Stat. 1303; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May18, 1989, 103 Stat. 2450, which is not classified to the Code.
+House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May 18, 1989, 103 Stat. 2450, which is not classified to the Code.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

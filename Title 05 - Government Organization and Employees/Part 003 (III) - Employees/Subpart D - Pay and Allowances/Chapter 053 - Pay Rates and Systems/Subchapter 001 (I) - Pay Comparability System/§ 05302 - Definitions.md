@@ -28,6 +28,8 @@ For the purpose of this subchapter—
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, §2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, §3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981; Pub. L. 108–411, title III, §301(a)(1), Oct. 30, 2004, 118 Stat. 2313.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 403 of the Foreign Service Act of 1980, referred to in par. (1)(B), is classified to section 3963 of Title 22, Foreign Relations and Intercourse.
@@ -52,9 +54,11 @@ Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted "applies" for "applies
 
 Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on orafter the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 1993 Amendment
 

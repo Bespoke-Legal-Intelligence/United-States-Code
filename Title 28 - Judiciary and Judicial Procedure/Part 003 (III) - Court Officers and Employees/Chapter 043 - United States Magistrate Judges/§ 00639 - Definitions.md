@@ -24,9 +24,13 @@ Provisions of section 528a of title 28, U.S.C., 1940 ed., for furnishing seal is
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–578 substituted definition provisions for prior requirements obligating the Director to furnish docket books and forms to United States commissioners and, with approval of the chief judge of the district court, a copy of the United States Code, declaring such property to remain United States property, and calling for transmission of such property to successors in office or for its disposal as directed by the Director, now incorporated in section 638(a) and (b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -34,5 +38,5 @@ Words "magistrate judge" and "magistrate judges" substituted for "magistrate" an
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub.L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 

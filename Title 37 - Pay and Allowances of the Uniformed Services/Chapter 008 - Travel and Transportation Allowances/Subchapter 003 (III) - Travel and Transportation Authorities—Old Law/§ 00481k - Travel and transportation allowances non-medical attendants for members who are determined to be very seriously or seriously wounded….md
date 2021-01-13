@@ -46,6 +46,8 @@ Termination.—No transportation, allowance, reimbursement, or per diem may be p
 
 (Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362, §411k; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372; renumbered §481k and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(24), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -58,9 +60,11 @@ Subsec. (d)(1). Pub. L. 111–383 substituted "allowances under section" for "al
 
 Subsec. (e). Pub. L. 112–81, §631(e)(24), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 

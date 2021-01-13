@@ -2,7 +2,7 @@
 
 Section 361, act June 20, 1874, ch. 344, §10, 18 Stat. 128; 1946 Reorg. Plan. No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required filing of reports to Coast Guard on accidents involving United States vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46, Shipping.
 
-Section 362, act June 20, 1874, ch. 344, §11, 18 Stat. 128; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required reporting of probable loss of vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46.
+Section 362, act June 20, 1874, ch. 344, §11, 18 Stat. 128; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required reporting of probableloss of vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46.
 
 Section 363, acts June 20, 1874, ch. 344, §12, 18 Stat. 128; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to transmission of reports by Coast Guard officials to Commandant of Coast Guard.
 

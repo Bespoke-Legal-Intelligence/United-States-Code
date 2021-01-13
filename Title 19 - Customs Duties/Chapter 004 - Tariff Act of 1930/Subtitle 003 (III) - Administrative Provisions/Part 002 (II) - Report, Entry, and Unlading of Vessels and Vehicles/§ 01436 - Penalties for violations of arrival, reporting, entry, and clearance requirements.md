@@ -94,7 +94,7 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–271, title VIII, §8009(a), Oct. 24, 2018, 132 Stat. 4081, provided that: "This subtitle \[subtitle A (§§8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under section 1 of this title\] and the amendments made by this subtitle (other than the amendments made by section 8002 \[amending section 58c of this title\]) shall take effect on the date of the enactment of this Act \[Oct. 24, 2018\]."
+Pub. L. 115–271, title VIII, §8009(a), Oct. 24, 2018, 132 Stat. 4081, provided that: "This subtitle \[subtitle A\(§§8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under section 1 of this title\] and the amendments made by this subtitle (other than the amendments made by section 8002 \[amending section 58c of this title\]) shall take effect on the date of the enactment of this Act \[Oct. 24, 2018\]."
 
 #### Transfer of Functions
 

@@ -48,7 +48,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;(i) copies of form CFS–101 (including all parts and any successor forms) that report on planned child and family services expenditures by the agency for the immediately succeeding fiscal year; and
 
-&emsp;&emsp;(ii) copies of form CFS–101 (including all parts and any successor forms) that provide,with respect to the programs authorized under this subpart and subpart 1 and, at State option, other programs included on such forms, for the most recent preceding fiscal year for which reporting of actual expenditures is complete—
+&emsp;&emsp;(ii) copies of form CFS–101 (including all parts and any successor forms) that provide, with respect to the programs authorized under this subpart and subpart 1 and, at State option, other programs included on such forms, for the most recent preceding fiscal year for which reporting of actual expenditures is complete—
 
 &emsp;&emsp;&emsp;(I) the numbers of families and of children served by the State agency;
 

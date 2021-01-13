@@ -33,6 +33,8 @@
 | [2127\.](Subchapter%20001%20%28I%29%20-%20Appointment%20and%20Promotion/%C2%A7%2002127%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md) | Recall to active duty during war or national emergency. |
 | [2128\.](Subchapter%20001%20%28I%29%20-%20Appointment%20and%20Promotion/%C2%A7%2002128%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20officer.md) | Recall to active duty with consent of officer. |
 | [2129\.](Subchapter%20001%20%28I%29%20-%20Appointment%20and%20Promotion/%C2%A7%2002129%20-%20Aviation%20cadets%3B%20appointment%20as%20Reserve%20officers.md) | Aviation cadets; appointment as Reserve officers. |
+| [2130\.](Subchapter%20001%20%28I%29%20-%20Appointment%20and%20Promotion/%C2%A7%2002130%20-%20Promotion%20to%20certain%20grades%20for%20officers%20with%20critical%20skills%20captain%2C%20commander%2C%20lieutenant%20commander%2C%20lieutenant.md) | Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant. |
+| [2131\.](Subchapter%20001%20%28I%29%20-%20Appointment%20and%20Promotion/%C2%A7%2002131%20-%20College%20student%20pre-commissioning%20initiative.md) | College student pre-commissioning initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,11 +79,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior analysis for chapter 21 "COAST GUARD RESERVE" consisted of items 701 "Organization", 702 "Authorized strength", 703 "Coast Guard Reserve Boards", 704 "Grades and ratings; military authority", 705 "Benefits", 706 "Temporary members of the Reserve; eligibility and compensation", 707 "Temporary members of the Reserve; disability or death benefits", 708 "Temporary members of the Reserve; certificate of honorable service", 709 "Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade", 709a "Reserve student pre-commissioning assistance program", 710 "Appointment or wartime promotion; retention of grade upon release from active duty", 711 "Exclusiveness of service", 712 "Active duty for emergency augmentation of regular forces", 713 "Enlistment of members engaged in schooling", 720 "Definitions", 721 "Applicability of this subchapter", 722 "Suspension of this subchapter in time of war or national emergency", 723 "Effect of this subchapter on retirement and retired pay", 724 "Authorized number of officers", 725 "Precedence", 726 "Running mates", 727 "Constructive credit upon initial appointment", 728 "Promotion of Reserve officers on active duty", 729 "Promotion; recommendations of selection boards", 730 "Selection boards; appointment", 731 "Establishment of promotion zones under running mate system", 732 "Eligibility for promotion", 733 "Recommendation for promotion of an officer previously removed from an active status", 734 "Qualifications for promotion", 735 "Promotion; acceptance; oath of office", 736 "Date of rank upon promotion; entitlement to pay", 737 "Type of promotion; temporary", 738 "Effect of removal by the President or failure of consent of the Senate", 739 "Failure of selection for promotion", 740 "Failure of selection and removal from an active status", 741 "Retention boards; removal from an active status to provide a flow of promotion", 742 "Maximum ages for retention in an active status", 743 "Rear admiral and rear admiral (lower half); maximum service in grade", 744 "Appointment of a former Navy or Coast Guard officer", 745 "Grade on entry upon active duty", and 746 "Recall of a retired officer; grade upon release", prior to repeal by Pub. L. 115–282, title I, §112(a), Dec. 4, 2018, 132 Stat. 4215.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §§8203(b), 8276(b), Jan. 1, 2021, 134 Stat. 4645, 4687, added items 2130 and 2131. Item 2130 was added at the end of the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item "at the end" of the analysis for subchapter I of this chapter, and item 2131 was added after item 2130 at that location.
 
 <b>2018</b>—Pub. L. 115–282, title I, §112(a), Dec. 4, 2018, 132 Stat. 4215, inserted chapter 21 designation and heading and added items 2101 to 2182.
 

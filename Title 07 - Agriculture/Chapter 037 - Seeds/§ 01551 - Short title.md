@@ -10,5 +10,5 @@ See section 1610 of this title.
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 97–439, §1, Jan. 8, 1983, 96 Stat. 2287, provided that: "This Act \[amending sections 1561, 1571, 1581, 1582, 1585, and 1586 of this title and repealing sections 1583and 1584 of this title\] may be cited as the 'Federal Seed Act Amendments of 1982'."
+Pub. L. 97–439, §1, Jan. 8, 1983, 96 Stat. 2287, provided that: "This Act \[amending sections 1561, 1571, 1581, 1582, 1585, and 1586 of this title and repealing sections 1583 and 1584 of this title\] may be cited as the 'Federal Seed Act Amendments of 1982'."
 

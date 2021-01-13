@@ -10,7 +10,7 @@ Within one year of October 21, 1976, and from time to time thereafter, the Admin
 
 &emsp;(3) provide minimum criteria to be used by the States to define those solid waste management practices which constitute the open dumping of solid waste or hazardous waste and are to be prohibited under subchapter IV of this chapter.
 
-> Where appropriate, such suggested guidelines also shall include minimum information for use in deciding the adequate location, design, and construction of facilities associated with solid waste management practices, including the consideration of regional, geographic, demographic, and climatic factors.
+> Where appropriate, such suggested guidelines also shall include minimum information for usein deciding the adequate location, design, and construction of facilities associated with solid waste management practices, including the consideration of regional, geographic, demographic, and climatic factors.
 
 #### (b) Notice
 

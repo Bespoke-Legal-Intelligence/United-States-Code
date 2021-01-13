@@ -14,9 +14,13 @@ The phrase "justice or judge of the United States" was substituted for "justices
 
 The Attorney General has ruled that the expression "any judge of any court of the United States" applied to the Chief Justice and all judges of the Court of Claims. (21 Op. Atty. Gen. 449.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–650 substituted "under the Constitution" for "according to the best of my abilities and understanding, agreeably to the Constitution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

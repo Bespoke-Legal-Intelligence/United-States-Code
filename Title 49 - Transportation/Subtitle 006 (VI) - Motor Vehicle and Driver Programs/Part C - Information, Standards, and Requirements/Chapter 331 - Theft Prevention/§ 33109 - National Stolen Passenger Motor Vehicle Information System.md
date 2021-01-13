@@ -20,7 +20,7 @@ General Requirements.—(1) Not later than July 25, 1993, the Attorney General s
 
 &emsp;(B) the National Crime Information Center Policy Advisory Board to ensure the security of the information in the System and that the System will not compromise the security of stolen passenger motor vehicle and passenger motor vehicle parts information in the System.
 
-(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make an agreement for the operation of the System separate from the Center.
+(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make anagreement for the operation of the System separate from the Center.
 
 (4) The Attorney General shall prescribe by regulation the effective date of the System.
 

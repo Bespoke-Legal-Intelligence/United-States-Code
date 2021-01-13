@@ -1,6 +1,6 @@
 ### §154a. Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria
 
-In order to meet an emergency condition, limited market or local situation, or other special circumstance (including production solely for intrastate use under a State-operated program), the Secretary may issue a special license under an expedited procedure on such conditions as are necessary to assure purity, safety, and a reasonable expectation of efficacy. The Secretary shall exempt by regulation from the requirement of preparation pursuant to an unsuspended and unrevoked license any virus, serum, toxin, or analogous product prepared by any person, firm, or corporation—
+In order to meet an emergency condition, limited market or local situation, or other special circumstance (including production solely forintrastate use under a State-operated program), the Secretary may issue a special license under an expedited procedure on such conditions as are necessary to assure purity, safety, and a reasonable expectation of efficacy. The Secretary shall exempt by regulation from the requirement of preparation pursuant to an unsuspended and unrevoked license any virus, serum, toxin, or analogous product prepared by any person, firm, or corporation—
 
 &emsp;(1) solely for administration to animals of such person, firm, or corporation;
 
@@ -20,11 +20,15 @@ In order to meet an emergency condition, limited market or local situation, or o
 
 (Mar. 4, 1913, ch. 145, §1 \[part\], as added Pub. L. 99–198, title XVII, §1768(c), Dec. 23, 1985, 99 Stat. 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 See note set out under section 151 of this title.
 
 Another section 1768 of Pub. L. 99–198, cited as a credit to this section, amended section 136y of Title 7, Agriculture.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -38,7 +38,7 @@ The notice provided under subsection (a) shall include—
 
 &emsp;(3) a suggestion for the beneficiary to talk to a physician regarding opioid use and pain management.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394; Pub. L. 115–271, title VI, §6021(a), Oct. 24, 2018, 132 Stat. 3977.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394; Pub. L. 115–271, title VI, §6021(a), Oct. 24, 2018, 132 Stat. 3977.)
 
 #### Amendments
 

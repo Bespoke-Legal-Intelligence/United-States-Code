@@ -30,6 +30,8 @@
 
 (Added Pub. L. 100–702, title X, §1019(a), Nov. 19, 1988, 102 Stat. 4670, §15; renumbered §16, Pub. L. 101–650, title III, §325(a)(1), Dec. 1, 1990, 104 Stat. 5120.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–650 renumbered the second section 15 of this title as this section.

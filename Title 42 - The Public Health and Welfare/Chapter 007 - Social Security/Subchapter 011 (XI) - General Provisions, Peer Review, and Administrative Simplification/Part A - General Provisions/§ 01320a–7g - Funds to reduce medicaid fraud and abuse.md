@@ -4,7 +4,7 @@
 
 For purposes of reducing fraud and abuse in the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]—
 
-&emsp;(A) there is appropriated to the Office of the Inspector General of the Department of Healthand Human Services, out of any money in the Treasury not otherwise appropriated, $25,000,000, for fiscal year 2009; and
+&emsp;(A) there is appropriated to the Office of the Inspector General of the Department of Health and Human Services, out of any money in the Treasury not otherwise appropriated, $25,000,000, for fiscal year 2009; and
 
 &emsp;(B) there is authorized to be appropriated to such Office $25,000,000 for fiscal year 2010 and each subsequent fiscal year.
 

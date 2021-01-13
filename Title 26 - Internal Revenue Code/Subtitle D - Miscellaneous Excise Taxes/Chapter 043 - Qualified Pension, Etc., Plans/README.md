@@ -55,7 +55,7 @@ Pub. L. 104–188, title I, §1602(b)(5)(B), Aug. 20, 1996, 110 Stat. 1834, stru
 
 <b>1987</b>—Pub. L. 100–203, title X, §10413(b)(2), Dec. 22, 1987, 101 Stat. 1330–438, added item 4978A.
 
-<b>1986</b>—Pub. L. 99–514, title XI, §§1117(b)(2), 1121(a)(2), 1131(c)(2), 1132(b), 1133(b), title XVIII, §§1854(a)(9)(C),1899A(75), Oct. 22, 1986, 100 Stat. 2462, 2465, 2478, 2480, 2483, 2877, 2963, added item 4972, inserted "section" in item 4973, substituted "Excise tax on certain accumulations in qualified retirement plans" for "Tax on certain accumulations in individual retirement accounts" in item 4974, struck out "and allocations" after "certain dispositions" in item 4978, and added items 4979, 4979A, 4980, and 4981A.
+<b>1986</b>—Pub. L. 99–514, title XI, §§1117(b)(2), 1121(a)(2), 1131(c)(2), 1132(b), 1133(b), title XVIII, §§1854(a)(9)(C), 1899A(75), Oct. 22, 1986, 100 Stat. 2462, 2465, 2478, 2480, 2483, 2877, 2963, added item 4972, inserted "section" in item 4973, substituted "Excise tax on certain accumulations in qualified retirement plans" for "Tax on certain accumulations in individual retirement accounts" in item 4974, struck out "and allocations" after "certain dispositions" in item 4978, and added items 4979, 4979A, 4980, and 4981A.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §491(d)(56), title V, §§511(c)(2), 531(e)(2), 545(b), July 18, 1984, 98 Stat. 852, 862, 886, 896, substituted "and certain individual retirement annuities" for "certain individual retirement annuities, and certain retirement bonds" in item 4973 and added items 4976 to 4978.
 

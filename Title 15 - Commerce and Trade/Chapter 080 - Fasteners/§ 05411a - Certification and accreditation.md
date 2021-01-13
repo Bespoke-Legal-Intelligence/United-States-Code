@@ -6,7 +6,7 @@ A person publishing a document setting forth guidance or requirements for the ce
 
 #### (b) Accreditation
 
-A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) may petition the Director to approve such document for use as described in section 5402(7)(B)(iii)(I) of this title. The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greaterrigor and reliability as compared to ISO/IEC Guide 61.
+A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) may petition the Director to approve such document for use as described in section 5402(7)(B)(iii)(I) of this title. The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 61.
 
 #### (c) Laboratory accreditation
 
@@ -22,7 +22,7 @@ A person publishing a document setting forth guidance or requirements for the ap
 
 (2) An accreditation body accrediting laboratories as described in section 5402(1)(B) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d)), including revisions from time-to-time.
 
-(3) An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
+(3) An affirmation required under paragraph (1) or (2) shall take the form of a self-declarationthat the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
 
 (Pub. L. 101–592, §10, as added Pub. L. 106–34, §10, June 8, 1999, 113 Stat. 123.)
 

@@ -10,7 +10,7 @@ In General.—A person shall be entitled to a rehabilitation program under the t
 
 &emsp;&emsp;&emsp;(i) a veteran who has a service-connected disability rated at 20 percent or more which was incurred or aggravated in service on or after September 16, 1940; or
 
-&emsp;&emsp;&emsp;(ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that—
+&emsp;&emsp;&emsp;(ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
 
@@ -50,17 +50,21 @@ Additional Rehabilitation Programs for Persons Who Have Exhausted Rights to Unem
 
 (4) No person shall be entitled to an additional rehabilitation program under paragraph (1) from whom the Secretary receives an application therefor after March 31, 2014.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L.101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 112–56, title II, §233(a)(1), Nov. 21, 2011, 125 Stat. 719.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 112–56, title II, §233(a)(1), Nov. 21, 2011, 125 Stat. 719; Pub. L. 116–283, div. A, title IX, §926(a)(41), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (b)(3), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec.\(b)(3), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 Prior section 3102 was renumbered section 5302 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(A)(ii). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2011</b>—Pub. L. 112–56 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -79,6 +83,8 @@ Par. (1)(B). Pub. L. 102–16 substituted "or receiving outpatient medical care,
 <b>1990</b>—Par. (1). Pub. L. 101–508 substituted "compensable at a rate of 20 percent or more" for "compensable" in cls. (A) and (B).
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary determines" for "Administrator determines" in par. (1)(B) and "Secretary" for "Administrator" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

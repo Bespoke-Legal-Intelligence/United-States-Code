@@ -41,6 +41,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act June 2, 1924, ch. 234, §1101, 43 Stat. 353, classified to sections 271 to 277 of this title, changed legislative drafting service to office of the legislative counsel, and draftsman to legislative counsel.

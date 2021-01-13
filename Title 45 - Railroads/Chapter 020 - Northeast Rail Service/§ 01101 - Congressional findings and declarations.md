@@ -14,9 +14,13 @@ The Congress finds and declares that—
 
 (Pub. L. 97–35, title XI, §1132, Aug. 13, 1981, 95 Stat. 644.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Regional Rail Reorganization Act of 1973, referred to in pars. (1) and (4), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -24,5 +28,5 @@ Pub. L. 97–35, title XI, §1169, Aug. 13, 1981, 95 Stat. 687, provided that: "
 
 #### Short Title
 
-Pub. L. 97–35, title XI, §1131, Aug. 13, 1981, 95 Stat. 643, provided that: "This subtitle \[subtitle E (§§1131–1169) oftitle XI of Pub. L. 97–35, enacting this chapter, and sections 159a, 581 to 590, 727 to 729, 744a, 748, 761 to 769c, and 797 to 797m of this title, amending sections 601, 702, 711 to 713, 724, 741, 743, 745, 821, 825, and 829 of this title, repealing sections 771 to 780, 910, and 1006 of this title, and enacting provisions set out as notes under sections 744a, 771, and 1101 of this title\] may be cited as the 'Northeast Rail Service Act of 1981'."
+Pub. L. 97–35, title XI, §1131, Aug. 13, 1981, 95 Stat. 643, provided that: "This subtitle \[subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, enacting this chapter, and sections 159a, 581 to 590, 727 to 729, 744a, 748, 761 to 769c, and 797 to 797m of this title, amending sections 601, 702, 711 to 713, 724, 741, 743, 745, 821, 825, and 829 of this title, repealing sections 771 to 780, 910, and 1006 of this title, and enacting provisions set out as notes under sections 744a, 771, and 1101 of this title\] may be cited as the 'Northeast Rail Service Act of 1981'."
 

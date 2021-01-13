@@ -6,7 +6,7 @@ First Fiscal Year.—The Secretary of Transportation shall withhold up to 5 perc
 
 (b)
 
-Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantiallywith a requirement of section 31311(a) of this title.
 
 (c)
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 105–178, §4011(g)(2), struck out par. (2) designation an
 
 &emsp;"(B) If the amounts would have been apportioned under section 104(b)(1), (2), or (6) of title 23 but for this section, the amounts remain available until the end of the 3d fiscal year following the fiscal year for which the amounts are authorized to be appropriated."
 
-Subsec. (d). Pub. L. 105–178, §4011(h)(2), as added by Pub. L. 105–206, struck out heading and text of subsec.\(d). Text read as follows: "If, at the end of the period for which amounts withheld under this section from apportionment are available for apportionment to a State under subsection (c)(1) of this section, the State has not substantially complied with all of the requirements of section 31311(a) of this title for a 365-day period, the amounts lapse or, for amounts withheld from apportionment under section 104(b)(5) of title 23, the amounts lapse and are available for projects under section 118(b) of title 23."
+Subsec. (d). Pub. L. 105–178, §4011(h)(2), as added by Pub. L. 105–206, struck out heading and text of subsec. (d). Text read as follows: "If, at the end of the period for which amounts withheld under this section from apportionment are available for apportionment to a State under subsection (c)(1) of this section, the State has not substantially complied with all of the requirements of section 31311(a) of this title for a 365-day period, the amounts lapse or, for amounts withheld from apportionment under section 104(b)(5) of title 23, the amounts lapse and are available for projects under section 118(b) of title 23."
 
 Pub. L. 105–178, §4011(g)(3), (4), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
 

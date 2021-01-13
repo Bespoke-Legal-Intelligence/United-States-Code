@@ -24,6 +24,8 @@ Congress finds the following:
 
 (Pub. L. 100–690, title I, §1021, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 224.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Reauthorization of the Drug-Free Communities Program and Revival of Anti-Drug Abuse Act of 1988
 
 Pub. L. 115–271, title VIII, §8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74, §2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that:
@@ -116,7 +118,7 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: "Congress
 
 &emsp;&emsp;"(F) $1,500,000,000 in public safety (26 percent of public safety spending) and $400,000,000 for the state workforce.
 
-&emsp;"(8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate thereduction of substance abuse among youth in communities across the United States.
+&emsp;"(8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities across the United States.
 
 &emsp;"(9) Substance abuse is perceived as a much greater problem nationally than at the community level. According to a 2001 study sponsored by The Pew Charitable Trusts, between 1994 and 2000—
 
@@ -136,7 +138,7 @@ In General.—Beginning in fiscal year 2020, the Director shall make a competiti
 
 "(b)
 
-Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter \[sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.)\].
+Eligible Organizations.—An organization eligible for the grant under subsection (a) is any nationalnonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter \[sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.)\].
 
 "(c)
 

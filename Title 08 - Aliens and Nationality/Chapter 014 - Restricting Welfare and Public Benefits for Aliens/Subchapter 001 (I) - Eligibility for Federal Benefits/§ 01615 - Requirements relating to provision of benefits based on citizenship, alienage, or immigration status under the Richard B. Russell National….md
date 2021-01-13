@@ -24,6 +24,8 @@ Notwithstanding any other provision of this Act, an individual who is eligible t
 
 (Pub. L. 104–193, title VII, §742, Aug. 22, 1996, 110 Stat. 2307; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended, known as the "Personal Responsibility and Work Opportunity Reconciliation Act of 1996". For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.

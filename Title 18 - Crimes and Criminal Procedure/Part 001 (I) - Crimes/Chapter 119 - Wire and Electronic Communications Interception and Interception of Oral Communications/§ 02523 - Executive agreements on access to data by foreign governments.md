@@ -62,7 +62,7 @@ Executive Agreement Requirements.—For purposes of this chapter, chapter 121, a
 
 &emsp;&emsp;&emsp;(iv) shall be based on requirements for a reasonable justification based on articulable and credible facts, particularity, legality, and severity regarding the conduct under investigation;
 
-&emsp;&emsp;&emsp;(v) shall be subject to review or oversight by a court, judge, magistrate, or other independent authority prior to, or in proceedings regarding, enforcement of the order; and
+&emsp;&emsp;&emsp;(v) shall be subject to review or oversight by a court, judge, magistrate, or other independent authority prior to, or inproceedings regarding, enforcement of the order; and
 
 &emsp;&emsp;&emsp;(vi) in the case of an order for the interception of wire or electronic communications, and any extensions thereof, shall require that the interception order—
 
@@ -255,6 +255,8 @@ Publication.—Any determination or certification under subsection (b) regarding
 Minimization Procedures.—A United States authority that receives the content of a communication described in subsection (b)(4)(H) from a foreign government in accordance with an executive agreement under this section shall use procedures that, to the maximum extent possible, meet the definition of minimization procedures in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801) to appropriately protect nonpublicly available information concerning United States persons.
 
 (Added Pub. L. 115–141, div. V, §105(a), Mar. 23, 2018, 132 Stat. 1217.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

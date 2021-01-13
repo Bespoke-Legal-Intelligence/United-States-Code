@@ -18,7 +18,7 @@ Release on Personal Recognizance or Unsecured Appearance Bond.—The judicial of
 
 (c)
 
-Release on Conditions.—(1) If the judicial officer determines that the release described insubsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
+Release on Conditions.—(1) If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
 
 &emsp;(A) subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a); <sup>1</sup> and
 
@@ -76,7 +76,7 @@ Temporary Detention To Permit Revocation of Conditional Release, Deportation, or
 
 &emsp;(2) such person may flee or pose a danger to any other person or the community;
 
-> such judicial officer shall order the detention of such person, for a period of not more than ten days, excluding Saturdays, Sundays, and holidays, and direct the attorney for the Government to notify the appropriate court, probation or parole official, or State or local law enforcement official, or the appropriate official of the Immigration and Naturalization Service. If the official fails or declines to take such person into custody during that period, such person shall be treated in accordance with the other provisions of this section, notwithstanding the applicability of other provisions of law governing release pending trial or deportation or exclusion proceedings. If temporary detention is sought under paragraph (1)(B) of this subsection, such personhas the burden of proving to the court such person's United States citizenship or lawful admission for permanent residence.
+> such judicial officer shall order the detention of such person, for a period of not more than ten days, excluding Saturdays, Sundays, and holidays, and direct the attorney for the Government to notify the appropriate court, probation or parole official, or State or local law enforcement official, or the appropriate official of the Immigration and Naturalization Service. If the official fails or declines to take such person into custody during that period, such person shall be treated in accordance with the other provisions of this section, notwithstanding the applicability of other provisions of law governing release pending trial or deportation or exclusion proceedings. If temporary detention is sought under paragraph (1)(B) of this subsection, such person has the burden of proving to the court such person's United States citizenship or lawful admission for permanent residence.
 
 (e)
 
@@ -88,7 +88,7 @@ Detention.—(1) If, after a hearing pursuant to the provisions of subsection (f
 
 &emsp;(B) the offense described in subparagraph (A) was committed while the person was on release pending trial for a Federal, State, or local offense; and
 
-&emsp;(C) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in subparagraph (A), whichever is later.
+&emsp;(C) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for theoffense described in subparagraph (A), whichever is later.
 
 (3) Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed—
 
@@ -124,7 +124,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(B) a serious risk that such person will obstruct or attempt to obstruct justice, or threaten, injure, or intimidate, or attempt to threaten, injure, or intimidate, a prospective witness or juror.
 
-> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported byclear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
+> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
 
 (g)
 
@@ -136,7 +136,7 @@ Factors To Be Considered.—The judicial officer shall, in determining whether t
 
 &emsp;(3) the history and characteristics of the person, including—
 
-&emsp;&emsp;(A) the person's character, physical and mental condition, family ties, employment, financial resources, length of residence in the community, community ties, past conduct, history relating to drug or alcohol abuse, criminal history, and record concerning appearance at court proceedings; and
+&emsp;&emsp;(A) the person's character, physical and mental condition, family ties, employment, financial resources, length of residence inthe community, community ties, past conduct, history relating to drug or alcohol abuse, criminal history, and record concerning appearance at court proceedings; and
 
 &emsp;&emsp;(B) whether, at the time of the current offense or arrest, the person was on probation, on parole, or on other release pending trial, sentencing, appeal, or completion of sentence for an offense under Federal, State, or local law; and
 
@@ -175,6 +175,8 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 Presumption of Innocence.—Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, §203, Apr. 30, 2003, 117 Stat. 660; Pub. L. 108–458, title VI, §6952, Dec. 17, 2004, 118 Stat. 3775; Pub. L. 109–162, title X, §1004(b), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title II, §216, July 27, 2006, 120 Stat. 617; Pub. L. 109–304, §17(d)(7), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–457, title II, §§222(a), 224(a), Dec. 23, 2008, 122 Stat. 5067, 5072.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -238,7 +240,7 @@ Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted "suc
 
 Subsec. (e). Pub. L. 99–646, §55(c)(5), in introductory provisions inserted "of this section" after "subsection (f)" and substituted "such judicial officer" for "he", "before" for "prior to", "described in subsection (f)(1) of this section" for "described in (f)(1)", and "if such judicial officer" for "if the judge", in par. (1) inserted "of this section" after "subsection (f)(1)" in two places, and in pars. (2) and (3) inserted "of this section" after "paragraph (1)".
 
-Subsec. (f). Pub. L. 99–646, §72, in par. (1)(D) substituted "any felony if the person has been convicted of two or more offenses" for "any felony committed after the person had been convicted of two or more prior offenses" and inserted ", or a combination of such offenses", in par. (2)(A) inserted "or" after "flee;", and in concluding provisions, inserted provision permitting the hearing to be reopened at any time before trial if the judicial officer finds that information exists that was unknown to the movant at the time of the hearing and that has a material bearing on whether there are conditions of release that will reasonably assure theappearance of the person as required and the safety of any other person and the community.
+Subsec. (f). Pub. L. 99–646, §72, in par. (1)(D) substituted "any felony if the person has been convicted of two or more offenses" for "any felony committed after the person had been convicted of two or more prior offenses" and inserted ", or a combination of such offenses", in par. (2)(A) inserted "or" after "flee;", and in concluding provisions, inserted provision permitting the hearing to be reopened at any time before trial if the judicial officer finds that information exists that was unknown to the movant at the time of the hearing and that has a material bearing on whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community.
 
 Pub. L. 99–646, §55(c)(6), substituted "such person" for "the person" wherever appearing, in introductory provision inserted "of this section" after "subsection (c)" and struck out "in a case" after "community", in par. (1) inserted "in a case" and in subpar. (D) of par. (1) inserted "of this paragraph" in two places, in par. (2) substituted "upon" for "Upon" and inserted "in a case", and in concluding provisions, substituted "sua sponte" for "on his own motion", "whether such person is an addict" for "whether he is an addict", and "financially" for "he is financially", and struck out "for him" after "appointed" and "on his own behalf" after "witnesses".
 
@@ -248,9 +250,11 @@ Subsec. (h). Pub. L. 99–646, §55(a), (c)(8), in introductory provision substi
 
 Subsec. (i). Pub. L. 99–646, §55(a), (c)(9), in introductory provision substituted "under" for "pursuant to the provisions of" and inserted "of this section" and in par. (3) struck out "his" after "consultation with".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
+Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 ofPub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment
 

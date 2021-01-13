@@ -80,6 +80,8 @@ In clause (1), the words "with respect to a member of a uniformed service" are i
 
 The definitions in clauses (2) and (3), which do not appear in, but are based on, the source law are created for legislative convenience.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Par. (3)(D). Pub. L. 105–85 substituted "housing" for "quarters".
@@ -87,6 +89,8 @@ The definitions in clauses (2) and (3), which do not appear in, but are based on
 <b>1987</b>—Pub. L. 100–26 substituted "In this chapter:" for "In this chapter—", inserted "The term" at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for "; and" at end of par. (2).
 
 <b>1985</b>—Par. (1)(A). Pub. L. 99–145 substituted "spouse" for "wife".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -1,8 +1,10 @@
 ### §3076. Eligibility for witness security program
 
-Any individual (and the immediate family of such individual) who furnishes information which would justify a reward by the Attorney General under this chapter or by the Secretary of State under section 36 of the State Department Basic Authorities Act of 1956 may, in the discretion of the Attorney General, participate in the Attorney General's witness security program authorized under chapter 224 of this title.
+Any individual (and the immediate family of such individual) who furnishes informationwhich would justify a reward by the Attorney General under this chapter or by the Secretary of State under section 36 of the State Department Basic Authorities Act of 1956 may, in the discretion of the Attorney General, participate in the Attorney General's witness security program authorized under chapter 224 of this title.
 
 (Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 99–646, §45, Nov. 10, 1986, 100 Stat. 3601.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

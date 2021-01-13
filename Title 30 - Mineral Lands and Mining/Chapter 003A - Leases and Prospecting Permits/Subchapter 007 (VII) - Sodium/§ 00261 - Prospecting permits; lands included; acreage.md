@@ -4,6 +4,8 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 
 (Feb. 25, 1920, ch. 85, §23, 41 Stat. 447; Dec. 11, 1928, ch. 19, 45 Stat. 1019.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1928</b>—Act Dec. 11, 1928, struck out "and directed" after "authorized", "dissolved in and soluble in water, and accumulated by concentration, in lands belonging to the United States for a period not exceeding two years," after "nitrates of sodium", and last proviso which read "<i>Provided further</i>, That the provisions of this section shall not apply to lands in San Bernardino County, California."

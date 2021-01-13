@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the Civil Liberties Public Education Fund Board of Directors, which shall be responsible for making disbursements from the Fund in the manner provided in this section.
+There is established the Civil Liberties Public Education Fund Board of Directors, which shallbe responsible for making disbursements from the Fund in the manner provided in this section.
 
 #### (b) Uses of the Fund
 

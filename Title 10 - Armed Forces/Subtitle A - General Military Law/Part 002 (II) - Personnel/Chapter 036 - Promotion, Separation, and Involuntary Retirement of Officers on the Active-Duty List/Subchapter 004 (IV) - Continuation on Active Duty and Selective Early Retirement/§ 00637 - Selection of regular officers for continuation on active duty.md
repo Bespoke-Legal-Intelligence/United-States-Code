@@ -2,7 +2,7 @@
 
 (a)(1) An officer subject to discharge or retirement in accordance with section 632 of this title may, subject to the needs of the service, be continued on active duty if he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.
 
-(2) An officer who holds the regular grade of captain in the Army, Air Force, or Marine Corps, or the regular grade of lieutenant in theNavy, and who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 20 years of active commissioned service unless he is promoted to the regular grade of major or lieutenant commander, respectively.
+(2) An officer who holds the regular grade of captain in the Army, Air Force, Marine Corps, or Space Force, or the regular grade of lieutenant in the Navy, and who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 20 years of active commissioned service unless he is promoted to the regular grade of major or lieutenant commander, respectively.
 
 (3) An officer who holds the regular grade of major or lieutenant commander who is subject to discharge or retirement in accordance with section 632 of this title may not be continued on active duty under this subsection for a period which extends beyond the last day of the month in which he completes 24 years of active commissioned service unless he is promoted to the regular grade of lieutenant colonel or commander, respectively.
 
@@ -26,13 +26,15 @@
 
 (c) Continuation of an officer on active duty under this section pursuant to the action of a selection board convened under section 611(b) of this title is subject to the approval of the Secretary of the military department concerned. The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.
 
-(d) For purposes of this section, a period of continuation on active duty under this section expires or is completed on the earlier of (1) the date originally established for the termination of such period, or (2) the date established for the termination of such period by any shortening of such period under section 638a of this title.
+(d) For purposes of this section, a period of continuation on active duty under this section expires or is completed on the earlier of (1) the date originally established for the termination of such period, or (2) the date established for thetermination of such period by any shortening of such period under section 638a of this title.
 
 (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 110–181, div. A, title V, §504, Jan. 28, 2008, 122 Stat. 95; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 110–181, div. A, title V, §504, Jan. 28, 2008, 122 Stat. 95; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(K), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–232 substituted "section 7311, 8323, or 9311" for "section 3911, 6323, or 8911" in concluding provisions.
 
@@ -56,7 +58,7 @@ Pub. L. 97–22, §4(e)(2), inserted provision that an officer subject to retire
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1981 Amendment
 

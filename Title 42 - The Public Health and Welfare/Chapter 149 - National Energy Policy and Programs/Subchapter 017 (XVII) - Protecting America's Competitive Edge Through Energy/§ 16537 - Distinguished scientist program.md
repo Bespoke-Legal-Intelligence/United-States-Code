@@ -24,7 +24,7 @@ A distinguished scientist appointed under this section shall be selected through
 
 #### (2) National Laboratory
 
-&emsp;An appointment by a National Laboratory under this section shall be at the rank of thehighest grade of distinguished scientist or technical staff of the National Laboratory.
+&emsp;An appointment by a National Laboratory under this section shall be at the rank of the highest grade of distinguished scientist or technical staff of the National Laboratory.
 
 #### (f) Duration
 

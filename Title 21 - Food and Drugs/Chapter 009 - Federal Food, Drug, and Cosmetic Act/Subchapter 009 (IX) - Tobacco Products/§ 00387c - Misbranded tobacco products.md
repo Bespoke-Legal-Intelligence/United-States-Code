@@ -24,7 +24,7 @@ A tobacco product shall be deemed to be misbranded—
 
 &emsp;(5) if the Secretary has issued regulations requiring that its labeling bear adequate directions for use, or adequate warnings against use by children, that are necessary for the protection of users unless its labeling conforms in all respects to such regulations;
 
-&emsp;(6) if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title, if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title, or if it does not bear such symbols from the uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
+&emsp;(6) if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title, if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title, or if it does not bear such symbols fromthe uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
 
 &emsp;(7) if, in the case of any tobacco product distributed or offered for sale in any State—
 
@@ -56,9 +56,11 @@ The Secretary may, by regulation, require prior approval of statements made on t
 
 (June 25, 1938, ch. 675, §903, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1788; amended Pub. L. 116–94, div. N, title I, §603(d)(3), Dec. 20, 2019, 133 Stat. 3124.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L.111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
+The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -69,6 +71,8 @@ Another prior section 903 of act June 25, 1938, was renumbered section 1004 and 
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(7)(B). Pub. L. 116–94 inserted "section 387f(d)(5) of this title or of" after "violation of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

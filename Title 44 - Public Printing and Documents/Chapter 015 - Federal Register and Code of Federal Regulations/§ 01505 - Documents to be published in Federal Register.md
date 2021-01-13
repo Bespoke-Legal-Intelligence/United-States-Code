@@ -32,13 +32,15 @@ The suspensions shall remain in effect until revoked by the President, or by con
 
 Based on 44 U.S. Code, 1964, ed., §305 (July 26, 1935, ch. 417, §5, 49 Stat. 501; June 25, 1956, ch. 444, 70 Stat. 337).
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 For delegation of functions vested in President by section 5(a) of Federal Register Act \[now subsec. (a) of this section\], to Attorney General and Archivist of United States, see section 6(a) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under section 301 of Title 3, The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
 #### Ex. Ord. No. 11030. Preparation, Presentation, Filing, and Publication of Executive Orders and Proclamations
 
-Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. No. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, §1, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13683, §1, Dec. 11, 2014, 79 F.R. 75041, provided:
+Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. No. 11354, May 23, 1967, 32 F.R.7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, §1, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13683, §1, Dec. 11, 2014, 79 F.R. 75041, provided:
 
 By virtue of the authority vested in me by the Federal Register Act (49 Stat. 500, as amended; 44 U.S.C. 301 <i>et seq</i>.) \[now this chapter\], and as President of the United States, I hereby prescribe the following regulations governing the preparation, presentation, filing, and publication of Executive orders and proclamations:
 

@@ -24,7 +24,7 @@
 
 (2)(A) The requirements of subsection (b) shall not be treated as met in the case of the recovery of an OASDI overpayment from any individual under this section unless the notification under subsection (b)(1) describes the conditions under which the Commissioner of Social Security is required to waive recovery of an overpayment, as provided under section 204(b) of the Social Security Act.
 
-(B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection\(b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
+(B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection (b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of theTreasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
 
 (g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
 
@@ -53,6 +53,8 @@
 (i) An agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), may implement this section at its discretion.
 
 (Added Pub. L. 98–369, div. B, title VI, §2653(a)(1), July 18, 1984, 98 Stat. 1153; amended Pub. L. 101–508, title V, §5129(b), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 102–589, §3, Nov. 10, 1992, 106 Stat. 5133; Pub. L. 103–296, title I, §108(j)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–134, title III, §31001(u)(1), (v)(1), (w), Apr. 26, 1996, 110 Stat. 1321–375.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -92,6 +94,8 @@ Subsec. (h). Pub. L. 102–589, §3(3), (4), redesignated subsec. (g) as (h) and
 
 Subsecs. (f), (g). Pub. L. 101–508, §5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
@@ -102,7 +106,7 @@ Amendment by Pub. L. 102–589 effective as if enacted on Sept. 30, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refunds to which amendments bysection 2653 of the Deficit Reduction Act of 1984, Pub. L. 98–369, do not apply, see section 5129(d) of Pub. L. 101–508, set out as a note under section 6402 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refunds to which amendments by section 2653 of the Deficit Reduction Act of 1984, Pub. L. 98–369, do not apply, see section 5129(d) of Pub. L. 101–508, set out as a note under section 6402 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

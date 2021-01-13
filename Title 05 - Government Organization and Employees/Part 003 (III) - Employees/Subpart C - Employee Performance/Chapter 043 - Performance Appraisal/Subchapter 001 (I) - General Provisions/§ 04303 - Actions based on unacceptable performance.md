@@ -74,6 +74,8 @@ The words "required by this chapter" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (f)(4). Pub. L. 115–41 added par. (4).
@@ -81,6 +83,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1990</b>—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under section 7701 of this title."
 
 <b>1978</b>—Pub. L. 95–454 substituted "Actions based on unacceptable performance" for "Performance-rating plans; requirements for" in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

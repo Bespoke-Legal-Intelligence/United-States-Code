@@ -2,7 +2,7 @@
 
 #### (a) Direct payments to mortgagee
 
-In the case of any mortgagee which would otherwise be eligible to participate in the program authorized under section 2704 of this title but does not qualify for an advance or advances as authorized by section 2712 <sup>1</sup> of this title or under section 1430, 1430b, or 1431 of this title or otherwise elects not to participate in the program authorized under section 2704 of this title,the Secretary is authorized to make repayable emergency mortgage relief payments directly to such mortgagee on behalf of homeowners whose mortgages are held by such financial institution and who are delinquent in their mortgage payments.
+In the case of any mortgagee which would otherwise be eligible to participate in the program authorized under section 2704 of this title but does not qualify for an advance or advances as authorized by section 2712 <sup>1</sup> of this title or under section 1430, 1430b, or 1431 of this title or otherwise elects not to participate in the program authorized under section 2704 of this title, the Secretary is authorized to make repayable emergency mortgage relief payments directly to such mortgagee on behalf of homeowners whose mortgages are held by such financial institution and who are delinquent in their mortgage payments.
 
 #### (b) Mortgages eligible; terms and conditions
 
@@ -13,6 +13,8 @@ Emergency mortgage relief payments shall be made under this section only with re
 The Secretary may make such delegations and accept such certifications with respect to the processing of mortgage relief payments provided under this section as he deems appropriate to facilitate the prompt and efficient implementation of the assistance authorized under this section.
 
 (Pub. L. 94–50, title I, §106, July 2, 1975, 89 Stat. 251.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

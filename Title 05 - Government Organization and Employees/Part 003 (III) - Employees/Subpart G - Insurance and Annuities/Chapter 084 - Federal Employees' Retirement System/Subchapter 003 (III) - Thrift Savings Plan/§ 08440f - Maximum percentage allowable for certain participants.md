@@ -17,6 +17,8 @@
 
 (Added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(7)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; amended Pub. L. 107–304, §1(b)(2), Nov. 27, 2002, 116 Stat. 2363.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b), is classified to section 414(v) of Title 26, Internal Revenue Code.
@@ -24,6 +26,8 @@ Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b),
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–304 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

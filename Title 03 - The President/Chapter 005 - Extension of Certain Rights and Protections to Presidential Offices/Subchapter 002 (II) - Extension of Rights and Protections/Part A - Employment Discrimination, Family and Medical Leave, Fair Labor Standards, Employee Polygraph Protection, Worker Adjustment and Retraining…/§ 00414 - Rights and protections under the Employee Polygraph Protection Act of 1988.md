@@ -30,9 +30,13 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4058.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3 and 6 of the Employee Polygraph Protection Act of 1988, referred to in subsecs. (a) and (b), are classified to sections 2002 and 2005, respectively, of Title 29, Labor.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

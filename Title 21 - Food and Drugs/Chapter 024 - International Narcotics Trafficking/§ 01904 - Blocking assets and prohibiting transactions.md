@@ -2,7 +2,7 @@
 
 #### (a) Applicability of sanctions
 
-A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuant to subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
+A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuantto subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
 
 #### (b) Blocking of assets
 
@@ -20,7 +20,7 @@ Except to the extent provided in regulations, orders, instructions, licenses, or
 
 Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 of this title, the following transactions are prohibited:
 
-&emsp;(1) Any transaction or dealing by a United States person, or within the United States, in property or interests in property of any significant foreign narcotics trafficker so identified in the report required pursuant to subsection (b) or (h)(1) of section 1903 of this title,and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section.
+&emsp;(1) Any transaction or dealing by a United States person, or within the United States, in property or interests in property of any significant foreign narcotics trafficker so identified in the report required pursuant to subsection (b) or (h)(1) of section 1903 of this title, and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section.
 
 &emsp;(2) Any transaction or dealing by a United States person, or within the United States, that evades or avoids, or has the effect of evading or avoiding, and any endeavor, attempt, or conspiracy to violate, any of the prohibitions contained in this chapter.
 
@@ -44,9 +44,13 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 (Pub. L. 106–120, title VIII, §805, Dec. 3, 1999, 113 Stat. 1629; Pub. L. 107–108, title III, §307, Dec. 28, 2001, 115 Stat. 1399.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (f). Pub. L. 107–108 struck out heading and text of subsec. (f). Text read as follows: "The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

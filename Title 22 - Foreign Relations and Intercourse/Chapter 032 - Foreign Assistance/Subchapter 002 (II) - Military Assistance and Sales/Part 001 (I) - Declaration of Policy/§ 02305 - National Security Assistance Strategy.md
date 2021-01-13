@@ -38,15 +38,19 @@ The National Security Assistance Strategy should cover assistance provided under
 
 (Pub. L. 106–280, title V, §501, Oct. 6, 2000, 114 Stat. 854.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (b)(9), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(9), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (b)(9) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Security Assistance Act of 2000, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

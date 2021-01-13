@@ -4,13 +4,17 @@ The Comptroller of the Currency may designate a national bank examiner to act as
 
 (Jan. 3, 1923, ch. 22, 42 Stat. 1096.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on Treasury Department Appropriation Act, 1924, act Jan. 3, 1923.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 #### Similar Provisions
 

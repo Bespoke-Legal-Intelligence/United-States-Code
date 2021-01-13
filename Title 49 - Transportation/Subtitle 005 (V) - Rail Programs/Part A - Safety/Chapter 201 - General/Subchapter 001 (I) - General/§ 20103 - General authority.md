@@ -22,7 +22,7 @@ Hearings.—The Secretary shall conduct a hearing as provided by section 553 of 
 
 (f)
 
-Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
+Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress notlater than September 30, 1995, on actions taken under this subsection.
 
 (g)
 
@@ -196,7 +196,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[De
 
 &emsp;"(4) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (3), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission.
 
-&emsp;"(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld,the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
+&emsp;"(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
 
 &emsp;"(6) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and
 

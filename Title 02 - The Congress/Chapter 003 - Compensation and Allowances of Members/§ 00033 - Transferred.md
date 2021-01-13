@@ -1,5 +1,7 @@
 ### §33. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 33 was editorially reclassified as section 6301 of this title.

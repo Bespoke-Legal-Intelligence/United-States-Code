@@ -4,9 +4,13 @@ The Chief Judge of the Court of Appeals for Veterans Claims may summon the judge
 
 (Added Pub. L. 102–82, §2(a), Aug. 6, 1991, 105 Stat. 375; amended Pub. L. 105–368, title V, §512(a)(1), (2)(A), Nov. 11, 1998, 112 Stat. 3341.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–368 struck out "of Veterans Appeals" after "Court" in section catchline and substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

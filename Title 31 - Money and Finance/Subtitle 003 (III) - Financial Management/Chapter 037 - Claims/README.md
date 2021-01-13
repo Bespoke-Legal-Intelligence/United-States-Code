@@ -51,9 +51,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted "Authority to settle claims"for "Authority of the Comptroller General to settle claims" in item 3702.
+<b>1996</b>—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted "Authority to settle claims" for "Authority of the Comptroller General to settle claims" in item 3702.
 
 Pub. L. 104–134, title III, §31001(j)(2), (o)(2), (r)(2), (t)(2), Apr. 26, 1996, 110 Stat. 1321–365, 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
 

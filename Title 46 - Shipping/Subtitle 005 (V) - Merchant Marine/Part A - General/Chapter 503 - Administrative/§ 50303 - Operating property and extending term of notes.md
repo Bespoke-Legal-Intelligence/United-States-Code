@@ -42,6 +42,8 @@ In subsection (a), the words "Notwithstanding any other provision of law" are om
 
 Subsection (b) is substituted for "in accordance with good business methods and on such terms and conditions as he determines to effectuate the policy of this chapter" and "upon such terms and conditions as he may prescribe in accordance with sound business practice" for consistency and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–181 inserted "vessels," after "piers," and substituted "control, except that the prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense;" for "control;".

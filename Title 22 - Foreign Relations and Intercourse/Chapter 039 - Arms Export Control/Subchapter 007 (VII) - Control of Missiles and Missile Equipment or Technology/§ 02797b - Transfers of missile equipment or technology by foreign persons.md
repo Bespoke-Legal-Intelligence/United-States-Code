@@ -44,7 +44,7 @@
 
 #### (c) Effect of enforcement actions by MTCR adherents
 
-Sanctions set forth in subsection (a) may not be imposed under this section on a person with respect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against thatperson with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+Sanctions set forth in subsection (a) may not be imposed under this section on a person with respect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against that person with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
 
 &emsp;(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
 
@@ -100,13 +100,15 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, §208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L.103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, §208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Subsections (f) and (g), referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, §734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
-This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original "this Act", meaning Pub.L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -134,6 +136,8 @@ Subsecs. (f) to (h). Pub. L. 103–236, §734(b), added subsec. (f) and redesign
 
 <b>1991</b>—Subsec. (a)(1)(A). Pub. L. 102–138 inserted "acquisition," before "design,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -141,10 +145,6 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
-
-#### Delegation of Functions
-
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
 #### Space Cooperation With Russian Persons
 
@@ -209,6 +209,12 @@ Person.—The term 'person' has the meaning given the term in section 74(8) of t
 &emsp;"(4)
 
 United states person.—The term 'United States person' has the meaning given the term in section 74(6) of the Arms Export Control Act (22 U.S.C. 2797c(6))."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

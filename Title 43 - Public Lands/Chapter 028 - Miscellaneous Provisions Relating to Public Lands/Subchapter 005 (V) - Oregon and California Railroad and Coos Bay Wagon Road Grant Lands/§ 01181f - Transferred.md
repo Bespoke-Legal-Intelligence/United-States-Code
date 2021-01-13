@@ -1,8 +1,12 @@
 ### §1181f. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1181f was editorially reclassified as section 2605 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sharing of Bureau of Land Management Timber Sale Receipts
 

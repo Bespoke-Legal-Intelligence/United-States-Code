@@ -30,7 +30,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "accredited" when applied to any program of nurse education means a program accredited by a recognized body orbodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "accredited" when applied to any program of nurse education means a program accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency,approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
 
 #### (B) New programs
 
@@ -80,7 +80,11 @@ As used in this subchapter:
 
 &emsp;The term "bridge or degree completion program" means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor's of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
 
-(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562; amended Pub. L. 107–205, title I, §101, Aug. 1, 2002, 116 Stat. 811; Pub. L. 111–148, title V, §5002(c), Mar. 23, 2010, 124 Stat. 591.)
+#### (18) Nurse managed health clinic
+
+&emsp;The term "nurse managed health clinic" means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
+
+(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562; amended Pub. L. 107–205, title I, §101, Aug. 1, 2002, 116 Stat. 811; Pub. L. 111–148, title V, §5002(c), Mar. 23, 2010, 124 Stat. 591; Pub. L. 116–136, div. A, title III, §3404(a)(1), Mar. 27, 2020, 134 Stat. 391.)
 
 #### References in Text
 
@@ -91,6 +95,8 @@ The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531,
 A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 908; amended Nov. 3, 1966, Pub. L. 89–751, §8(a), 80 Stat. 1236; Aug. 16, 1968, Pub. L. 90–490, title II, §201(a), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §2(a), 85 Stat. 465; July 29, 1975, Pub. L. 94–63, title IX, §§902(a), 910(a)(1), 89 Stat. 354, 355; Sept. 29, 1979, Pub. L. 96–76, title I, §102, 93 Stat. 579, authorized appropriations for construction grants, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
 #### Amendments
+
+<b>2020</b>—Par. (18). Pub. L. 116–136 added par. (18).
 
 <b>2010</b>—Par. (2). Pub. L. 111–148, §5002(c)(1), substituted "means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—" for "means a collegiate, associate degree, or diploma school of nursing in a State." and added subpars. (A) and (B).
 
@@ -162,5 +168,5 @@ Pub. L. 94–63, title IX, §951, July 29, 1975, 89 Stat. 367, as amended by Pub
 
 &emsp;"(3) recommendations for such legislation as the Secretary determines, based on such determinations and data, will achieve (A) an equitable distribution of nurses within the United States and within each State, and (B) adequate supplies of nurses within the United States and within each State.
 
-"(c) The Office of Management and Budget may review the Secretary's report under subsection (b) before its submission to the Congress, but the Office may not revise the report or delay its submission, and it may submit to the Congress its comments (and those of other departments or agencies of the Government) respecting such report."
+"(c) The Office of Management and Budget may review the Secretary's report under subsection (b) beforeits submission to the Congress, but the Office may not revise the report or delay its submission, and it may submit to the Congress its comments (and those of other departments or agencies of the Government) respecting such report."
 

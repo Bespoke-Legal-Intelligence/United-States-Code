@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of Administrator; transfer of powers, duties, and assets pertaining to agricultural credit
 
-In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the powers and duties of the Secretary under any other Act authorizing agricultural credit, the Secretary mayassign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
+In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the powers and duties of the Secretary under any other Act authorizing agricultural credit, the Secretary may assign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
 
 #### (b) Powers of Secretary of Agriculture
 
@@ -14,7 +14,7 @@ The Secretary may—
 
 &emsp;(3) within the limits of appropriations made therefor, make necessary expenditures for purchase or hire of passenger vehicles, and such other facilities and services as he may from time to time find necessary for the proper administration of this chapter;
 
-&emsp;(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,<sup>1</sup> Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
+&emsp;(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust,modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,<sup>1</sup> Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
 
 &emsp;(5) except for activities conducted under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\], collect all claims and obligations administered by the Farmers Home Administration, or under any mortgage, lease, contract, or agreement entered into or administered by the Farmers Home Administration and, if in his judgment necessary and advisable, pursue the same to final collection in any court having jurisdiction;
 
@@ -34,7 +34,7 @@ The Secretary may use for the prosecution or defense of any claim or obligation 
 
 #### (1) In general
 
-&emsp;The Secretary shall develop a coordinated strategy across the relevant programs within the Rural Development mission areas to serve the specific, local needs of rural communitieswhen making investments in rural community colleges and technical colleges through other authorities in effect on February 7, 2014.
+&emsp;The Secretary shall develop a coordinated strategy across the relevant programs within the Rural Development mission areas to serve the specific, local needs of rural communities when making investments in rural community colleges and technical colleges through other authorities in effect on February 7, 2014.
 
 #### (2) Consultation
 
@@ -56,7 +56,7 @@ The Secretary may use for the prosecution or defense of any claim or obligation 
 
 &emsp;(B) to construct other broadband infrastructure.
 
-(2) Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 \[7 U.S.C. 950bb(e)\].
+(2) Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimumbroadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 \[7 U.S.C. 950bb(e)\].
 
 (3) The Secretary shall not provide funding under paragraph (1) if the funding would result in competitive harm to any grant, loan, or loan guarantee provided under the Rural Electrification Act of 1936.
 
@@ -204,7 +204,7 @@ Pub. L. 101–624, §1805(c)(1), (4), which made amendments identical to those b
 
 Subsec. (b)(9). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (i) \[par. (j) prior to redesignation by Pub. L. 101–624, §1805(b), as amended\] as (9) of subsec. (b).
 
-Pars. (c) to (g). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), (B), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated former pars. (c) to (g) as (3) to (7), respectively, of subsec. (b). See above.
+Pars. (c) to (g). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), (B), as redesignated and amended by Pub.L. 102–237, §501(c)(2)(B)(iii), (v), redesignated former pars. (c) to (g) as (3) to (7), respectively, of subsec. (b). See above.
 
 Par. (h). Pub. L. 101–624, §2388(d)(1)(A)(iv), which directed substitution of "not" for "Not" before "require", was repealed by Pub. L. 102–237, §501(c)(2)(B)(iii).
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Continuation of Small Farmer Training and Technical Assistance Program
 
-Pub. L. 99–198, title XIII, §1328, Dec. 23, 1985, 99 Stat. 1541, provided that: "The Secretary of Agricultureshall, during the period beginning on the date of enactment of this Act \[Dec. 23, 1985\] and ending on September 30, 1988, maintain at substantially current levels the small farmer training and technical assistance program in the office of the Administrator of the Farmers Home Administration."
+Pub. L. 99–198, title XIII, §1328, Dec. 23, 1985, 99 Stat. 1541, provided that: "The Secretary of Agriculture shall, during the period beginning on the date of enactment of this Act \[Dec. 23, 1985\] and ending on September 30, 1988, maintain at substantially current levels the small farmer training and technical assistance program in the office of the Administrator of the Farmers Home Administration."
 
 #### Reamortization of Distressed Farmers Home Administration Loans From Revenues From Softwood Timber Crop Plantings on Marginal Land
 
@@ -266,7 +266,7 @@ Pub. L. 98–258, title VI, §608, Apr. 10, 1984, 98 Stat. 140, as amended by Pu
 
 "(4) Repayment of such reamortized loan shall be made not later than 50 years after the date of reamortization.
 
-"(b) The interest rate on such reamortized loans shall be determined by the Secretary, but not in excess of the current average yield on outstanding marketable obligations of the United States with periods to maturity comparable to the average maturities of such loans, plus not to exceed 1 percent, as determined by the Secretary and adjusted to the nearest one-eighth of 1 percent.
+"(b) The interest rate on such reamortized loans shall be determined by the Secretary, but not in excess of the current average yield on outstanding marketable obligations of the United States with periods to maturity comparable to the average maturities of such loans, plus not to exceed 1 percent, as determined bythe Secretary and adjusted to the nearest one-eighth of 1 percent.
 
 "(c) To be eligible for such program—
 

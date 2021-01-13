@@ -26,7 +26,7 @@
 
 #### (2) Use of forms and clauses deemed in compliance
 
-&emsp;Nothing in this chapter may be construed to require a depository institution to use anysuch model form or clause prescribed by the Bureau under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
+&emsp;Nothing in this chapter may be construed to require a depository institution to use any such model form or clause prescribed by the Bureau under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
 
 &emsp;&emsp;(A) uses any appropriate model form or clause as published by the Bureau; or
 
@@ -44,6 +44,8 @@
 
 (Pub. L. 102–242, title II, §269, Dec. 19, 1991, 105 Stat. 2338; Pub. L. 102–550, title IX, §957(b), title XVI, §1604(e)(2)(D)–(H), Oct. 28, 1992, 106 Stat. 3897, 4084; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4311(b) of this title, referred to in subsec. (a)(4), was in the original "section 12(b)", probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress. There is no section 12 of Pub. L. 102–242, and section 272(b) of Pub. L. 102–242 relates to regulations prescribed by the National Credit Union Administration Board.
@@ -55,6 +57,8 @@ Section 4311(b) of this title, referred to in subsec. (a)(4), was in the origina
 <b>1992</b>—Pub. L. 102–550, §1604(e)(2)(D)–(H), made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
 
 Subsec. (a)(2). Pub. L. 102–550, §957(b), substituted "9 months" for "6 months".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

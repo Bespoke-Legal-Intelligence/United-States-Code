@@ -20,15 +20,19 @@ Before the export of any item authorized for transfer under subsection (a), the 
 
 It is the sense of Congress that—
 
-&emsp;(1) all United States law enforcement personnel serving in Mexico should be accredited the same status under the Vienna Convention on Diplomatic Immunity as other diplomaticpersonnel serving at United States posts in Mexico; and
+&emsp;(1) all United States law enforcement personnel serving in Mexico should be accredited the same status under the Vienna Convention on Diplomatic Immunity as other diplomatic personnel serving at United States posts in Mexico; and
 
 &emsp;(2) all Mexican narcotics law enforcement personnel serving in the United States should be accorded the same diplomatic status as Drug Enforcement Administration personnel serving in Mexico.
 
 (Pub. L. 105–277, div. C, title VIII, §843, Oct. 21, 1998, 112 Stat. 2681–704.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Western Hemisphere Drug Elimination Act, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Western Hemisphere Drug Elimination Act, and also as part of theOmnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

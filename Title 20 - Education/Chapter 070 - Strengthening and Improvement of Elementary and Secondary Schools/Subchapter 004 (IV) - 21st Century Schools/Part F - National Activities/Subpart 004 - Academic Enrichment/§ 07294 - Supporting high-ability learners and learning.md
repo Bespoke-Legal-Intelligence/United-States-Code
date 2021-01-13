@@ -96,7 +96,7 @@ A prior section 7301, Pub. L. 89–10, title VI, §6001, as added Pub. L. 103–
 
 Section 7301a, Pub. L. 89–10, title V, §6112, formerly title VI, §6112, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1874; renumbered title V, §6112, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, related to grants for enhanced assessment instruments.
 
-Section 7301b, Pub. L. 89–10, title V, §6113, formerly title VI, §6113, as added Pub. L. 107–110, title VI, §601,Jan. 8, 2002, 115 Stat. 1875; renumbered title V, §6113, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, related to funding.
+Section 7301b, Pub. L. 89–10, title V, §6113, formerly title VI, §6113, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1875; renumbered title V, §6113, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, related to funding.
 
 Prior sections 7302 and 7303 were omitted in the general amendment of former subchapter VI of this chapter by Pub. L. 107–110.
 

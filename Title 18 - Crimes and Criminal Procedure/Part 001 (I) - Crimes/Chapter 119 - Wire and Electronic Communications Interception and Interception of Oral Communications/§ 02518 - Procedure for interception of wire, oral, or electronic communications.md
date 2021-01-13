@@ -8,7 +8,7 @@
 
 &emsp;(c) a full and complete statement as to whether or not other investigative procedures have been tried and failed or why they reasonably appear to be unlikely to succeed if tried or to be too dangerous;
 
-&emsp;(d) a statement of the period of time for which the interception is required to be maintained. If the nature of the investigation issuch that the authorization for interception should not automatically terminate when the described type of communication has been first obtained, a particular description of facts establishing probable cause to believe that additional communications of the same type will occur thereafter;
+&emsp;(d) a statement of the period of time for which the interception is required to be maintained. If the nature of the investigation is such that the authorization for interception should not automatically terminate when the described type of communication has been first obtained, a particular description of facts establishing probable cause to believe that additional communications of the same type will occur thereafter;
 
 &emsp;(e) a full and complete statement of the facts concerning all previous applications known to the individual authorizing and making the application, made to any judge for authorization to intercept, or for approval of interceptions of, wire, oral, or electronic communications involving any of the same persons, facilities or places specified in the application, and the action taken by the judge on each such application; and
 
@@ -20,7 +20,7 @@
 
 &emsp;(a) there is probable cause for belief that an individual is committing, has committed, or is about to commit a particular offense enumerated in section 2516 of this chapter;
 
-&emsp;(b) there is probable cause for belief that particular communications concerning that offense will be obtained through such interception;
+&emsp;(b) there is probable cause for belief that particular communications concerning thatoffense will be obtained through such interception;
 
 &emsp;(c) normal investigative procedures have been tried and have failed or reasonably appear to be unlikely to succeed if tried or to be too dangerous;
 
@@ -58,7 +58,7 @@
 
 &emsp;(b) there are grounds upon which an order could be entered under this chapter to authorize such interception,
 
-> may intercept such wire, oral, or electronic communication if an application for an order approving the interception is made in accordance with this section within forty-eight hours after the interception has occurred, or begins to occur. In the absence of an order, such interception shall immediately terminate when the communication sought is obtained or when the application for the order is denied, whichever is earlier. In the event such application for approval is denied, or in any other case where the interception is terminated without an order having been issued, the contents of any wire, oral, or electronic communication intercepted shall be treated as having been obtained in violation of this chapter, and an inventory shall be served as provided for in subsection (d) of this section on the person named in the application.
+> may intercept such wire, oral, or electronic communication if an application for an order approving the interception is made in accordance with this section within forty-eight hours after the interception has occurred, or begins to occur. In the absence of an order, such interception shall immediately terminate when the communication sought is obtained or when the application for the order is denied, whichever is earlier. In the event such application for approval is denied, or in any other case where the interception is terminated without an order having been issued, the contents of any wire,oral, or electronic communication intercepted shall be treated as having been obtained in violation of this chapter, and an inventory shall be served as provided for in subsection (d) of this section on the person named in the application.
 
 (8)(a) The contents of any wire, oral, or electronic communication intercepted by any means authorized by this chapter shall, if possible, be recorded on tape or wire or other comparable device. The recording of the contents of any wire, oral, or electronic communication under this subsection shall be done in such a way as will protect the recording from editing or other alterations. Immediately upon the expiration of the period of the order, or extensions thereof, such recordings shall be made available to the judge issuing such order and sealed under his directions. Custody of the recordings shall be wherever the judge orders. They shall not be destroyed except upon an order of the issuing or denying judge and in any event shall be kept for ten years. Duplicate recordings may be made for use or disclosure pursuant to the provisions of subsections (1) and (2) of section 2517 of this chapter for investigations. The presence of the seal provided for by this subsection, or a satisfactory explanation for the absence thereof, shall be a prerequisite for the use or disclosure of the contents of any wire, oral, or electronic communication or evidence derived therefrom under subsection (3) of section 2517.
 
@@ -116,6 +116,8 @@
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 218; amended Pub. L. 91–358, title II, §211(b), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(d)–(g), Oct. 25, 1978, 92 Stat. 1797, 1798; Pub. L. 98–473, title II, §1203(a), (b), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, 100 Stat. 1851–1853, 1856, 1857; Pub. L. 103–414, title II, §201(b)(1), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 105–272, title VI, §604, Oct. 20, 1998, 112 Stat. 2413.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Communications Assistance for Law Enforcement Act, referred to in par. (4), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
@@ -167,6 +169,8 @@ Par. (9). Pub. L. 95–511, §201(e), substituted "any wire or oral communicatio
 Par. (10). Pub. L. 95–511, §201(g), substituted "any wire or oral communication intercepted pursuant to this chapter," for "any intercepted wire or oral communication,".
 
 <b>1970</b>—Par. (4). Pub. L. 91–358 inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

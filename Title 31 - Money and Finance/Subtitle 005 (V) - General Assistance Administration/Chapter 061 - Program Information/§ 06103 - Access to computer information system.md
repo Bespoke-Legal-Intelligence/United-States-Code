@@ -32,11 +32,13 @@ Historical and Revision Notes
 
 Dec. 28, 1977, Pub. L. 95–220, §5(a)–(c), 91 Stat. 1616.
 
-In subsection (a), the words "establish and" are omitted as surplus. The word "information" is substituted for "data base" for consistency. The words "described in section 6102 of this title" are added for clarity.
+In subsection (a), the words "establish and" are omitted as surplus. The word "information" is substitutedfor "data base" for consistency. The words "described in section 6102 of this title" are added for clarity.
 
 In subsection (b), the words "contained in the data base" are omitted as unnecessary.
 
 In subsection (c), the words "notwithstanding another provision of law to the contrary" and "but not limited to" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

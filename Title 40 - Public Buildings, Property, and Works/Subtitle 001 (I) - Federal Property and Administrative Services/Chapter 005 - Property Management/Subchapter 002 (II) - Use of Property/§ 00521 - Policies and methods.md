@@ -30,6 +30,8 @@ June 30, 1949, ch. 288, title II, §202(a)(1) (1st sentence), 63 Stat. 384; July
 
 The words "the provisions of" are omitted as unnecessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Public Inventory of Guam Land Parcels for Transfer to Government of Guam
 
 Pub. L. 115–232, div. B, title XXVIII, §2847, Aug. 13, 2018, 132 Stat. 2277, provided that:
@@ -98,7 +100,7 @@ Consideration by secretary.—Not later than 180 days of receipt of a request fr
 
 "(d)
 
-Exclusion of Parcels.—The Secretary shall not include in the inventory maintained under this section any parcel transferred to the government of Guam prior to the date of the enactment of this Act \[Aug. 13, 2018\], without regard to whether or not the parcel is included in the inventory under subsection (b).
+Exclusion of Parcels.—The Secretary shall not include in the inventory maintained under this section any parcel transferred to the government of Guamprior to the date of the enactment of this Act \[Aug. 13, 2018\], without regard to whether or not the parcel is included in the inventory under subsection (b).
 
 "(e)
 

@@ -1,8 +1,10 @@
 ### §20106. Relationship to Voting Rights Act of 1965
 
-This chapter shall not be construed to impair any right guaranteed by the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.) \[now 52 U.S.C. 10301 et seq.\].
+This chapter shall not be construed to impair any right guaranteed by the Voting Rights Actof 1965 (42 U.S.C. 1973 et seq.) \[now 52 U.S.C. 10301 et seq.\].
 
 (Pub. L. 98–435, §7, Sept. 28, 1984, 98 Stat. 1679.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ The Voting Rights Act of 1965, referred to in text, is Pub. L. 89–110, Aug. 6,
 #### Codification
 
 Section was formerly classified to section 1973ee–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

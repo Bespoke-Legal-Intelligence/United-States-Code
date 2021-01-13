@@ -164,7 +164,7 @@ In General.—The Secretary of Transportation shall carry out a pilot program at
 
 "(b)
 
-Selection Criteria.—In selecting from among airports at which to conduct the pilot program, theSecretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
+Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
 
 "(c)
 
@@ -294,7 +294,7 @@ Project sponsor.—The term 'project sponsor' means a public-use airport or a jo
 
 "(g)
 
-Transfers of Equipment.—Notwithstanding any other provision of law, project sponsors may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
+Transfers of Equipment.—Notwithstanding any other provision of law, project sponsors may transfer,without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
 
 "(h)
 

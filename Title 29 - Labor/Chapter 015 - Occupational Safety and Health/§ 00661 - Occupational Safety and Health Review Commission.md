@@ -16,7 +16,7 @@ The principal office of the Commission shall be in the District of Columbia. Whe
 
 #### (e) Functions and duties of Chairman; appointment and compensation of administrative law judges and other employees
 
-The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission and shall appoint such administrative law judges and other employeesas he deems necessary to assist in the performance of the Commission's functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
+The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission and shall appoint such administrative law judges and other employees as he deems necessary to assist in the performance of the Commission's functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
 
 #### (f) Quorum; official action
 
@@ -44,6 +44,8 @@ Except as otherwise provided in this chapter, the administrative law judges shal
 
 (Pub. L. 91–596, §12, Dec. 29, 1970, 84 Stat. 1603; Pub. L. 95–251, §2(a)(7), Mar. 27, 1978, 92 Stat. 183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (e), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -59,6 +61,8 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 #### Amendments
 
 <b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted "administrative law judge" and "administrative law judges" for "hearing examiner" and "hearing examiners", respectively, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

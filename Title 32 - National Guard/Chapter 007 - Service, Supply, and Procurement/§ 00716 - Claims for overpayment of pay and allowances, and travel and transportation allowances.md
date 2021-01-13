@@ -18,13 +18,15 @@
 
 (c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that department for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
 
-(d) In the audit and settlement of accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
+(d) In the audit and settlement of accounts of any accountable officer or official, full creditshall be given for any amounts with respect to which collection by the United States is waived under this section.
 
 (e) An erroneous payment, the collection of which is waived under this section, is considered a valid payment for all purposes.
 
 (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
 (Added Pub. L. 92–453, §2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, §515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, §3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, §657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §116, Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, §671(b), Oct. 17, 2006, 120 Stat. 2270.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ Subsec. (a). Pub. L. 99–224, §3(a)(2), substituted "made before, on, or after
 Subsec. (b)(2). Pub. L. 99–224, §3(a)(3), struck out "of pay or allowances, other than travel and transportation allowances," before "was discovered".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "October 2, 1972" for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

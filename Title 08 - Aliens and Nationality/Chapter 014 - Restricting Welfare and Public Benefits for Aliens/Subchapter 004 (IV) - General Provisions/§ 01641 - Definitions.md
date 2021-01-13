@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) ofthe Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
+Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
 
 #### (b) Qualified alien
 
@@ -18,9 +18,11 @@ For purposes of this chapter, the term "qualified alien" means an alien who, at 
 
 &emsp;(5) an alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208),
 
-&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
+&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980,
 
-&emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
+&emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or
+
+&emsp;(8) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program).
 
 #### (c) Treatment of certain battered aliens as qualified aliens
 
@@ -28,7 +30,7 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 &emsp;(1) an alien who—
 
-&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouseor parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
 &emsp;&emsp;(B) has been approved or has a petition pending which sets forth a prima facie case for—
 
@@ -36,9 +38,9 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 &emsp;&emsp;&emsp;(ii) classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act \[8 U.S.C. 1154(a)(1)(B)(ii), (iii)\],
 
-&emsp;&emsp;&emsp;(iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).<sup>2</sup>
+&emsp;&emsp;&emsp;(iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).<sup>1</sup>
 
-&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>3</sup>
+&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>2</sup>
 
 &emsp;&emsp;&emsp;(v) cancellation of removal pursuant to section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\];
 
@@ -60,7 +62,9 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms "battery" and "extreme cruelty", and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, §211(a), Dec. 23, 2008, 122 Stat. 5063.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, §211(a), Dec. 23, 2008, 122 Stat. 5063; Pub. L. 116–260, div. CC, title II, §208(c), Dec. 27, 2020, 134 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,11 +76,13 @@ Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act Ju
 
 Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 
-Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e)of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(8). Pub. L. 116–260 added par. (8).
 
 <b>2008</b>—Subsec. (c)(4). Pub. L. 110–457 added par. (4).
 
@@ -104,6 +110,12 @@ Subsec. (c)(3). Pub. L. 105–33, §5571(c), added par. (3).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §308(g)(8)(E), substituted "cancellation of removal under section 240A of such Act" for "suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by section 208(c) of Pub. L. 116–260 applicable to benefits for items and services furnished on or after Dec. 27, 2020, see section 208(e) of Pub. L. 116–260, set out as a note under section 1612 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–457, title II, §211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act \[Dec. 23, 2008\] without regard to whether regulations have been implemented to carry out such amendments."
@@ -120,9 +132,7 @@ Amendment by section 308(g)(8)(E) of Pub. L. 104–208 effective, with certain t
 
 Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see section 591 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
-
-<i><sup>3</sup></i><i> So in original. The semicolon probably should be ", or".</i>
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be ", or".</i>
 

@@ -54,7 +54,7 @@
 
 For purposes of this section, subsections (c), (d) (other than paragraph (3)(B) thereof), (e), and (g) of section 6330 shall apply.
 
-(Added Pub. L. 105–206, title III, §3401(a), July 22, 1998, 112 Stat. 746; amended Pub. L. 109–432, div. A, title IV, §407(c), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 114–94, div. C, title XXXII, §32101(b)(1), Dec. 4, 2015, 129 Stat. 1731; Pub. L. 114–113, div. Q, title IV, §424(c), Dec. 18, 2015, 129 Stat. 3125; Pub. L. 116–25, title I, §1001(b)(1)(B), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 105–206, title III, §3401(a), July 22, 1998, 112 Stat. 746; amended Pub. L. 109–432, div. A, title IV, §407(c), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 114–94, div. C, title XXXII, §32101(b)(1), Dec. 4, 2015, 129 Stat. 1731; Pub. L. 114–113, div. Q, title IV, §424(c), Dec. 18, 2015, 129 Stat. 3125; Pub.L. 116–25, title I, §1001(b)(1)(B), July 1, 2019, 133 Stat. 985.)
 
 #### References in Text
 

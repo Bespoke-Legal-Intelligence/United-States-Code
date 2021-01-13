@@ -14,7 +14,7 @@ If a request is submitted under subsection (a) by a Foreign Service officer or, 
 
 #### (d) Availability for worldwide assignment
 
-If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or a recommendation for appointment under subsection (c) shall be made only if—
+If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or arecommendation for appointment under subsection (c) shall be made only if—
 
 &emsp;(1) the Secretary certifies that there is a need for the services of such officer in the Senior Foreign Service; and
 
@@ -35,6 +35,8 @@ Any officer of the Foreign Service who is eligible to submit a request under sub
 > may not remain in the Foreign Service for more than 3 years after February 15, 1981. During such period, the officer shall be subject to the provisions of subchapters I to XI of this chapter applicable to members of the Senior Foreign Service, except that such officer shall not be eligible to compete for performance pay under section 3965 of this title, and shall not be eligible for a limited career extension as described in section 4007(b) of this title. Upon separation from the Service, any such officer who is a participant in the Foreign Service Retirement and Disability System shall be entitled to retirement benefits on the same basis as a member retired from the Senior Foreign Service under section 4007(c)(1) of this title, and section 4009(a)(2)(B) of this title shall be deemed to apply to such officer.
 
 (Pub. L. 96–465, title II, §2103, Oct. 17, 1980, 94 Stat. 2149; Pub. L. 98–164, title I, §128, Nov. 22, 1983, 97 Stat. 1027.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

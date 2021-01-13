@@ -64,9 +64,13 @@ In this section, the term "frontline employee" includes—
 
 (Pub. L. 115–254, div. K, title I, §1976, Oct. 5, 2018, 132 Stat. 3616.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

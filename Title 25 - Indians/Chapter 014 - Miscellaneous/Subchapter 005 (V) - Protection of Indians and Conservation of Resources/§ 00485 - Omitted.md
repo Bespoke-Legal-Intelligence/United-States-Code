@@ -1,5 +1,7 @@
 ### §485. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 14, 1954, ch. 472, §2, 68 Stat. 468, which authorized Cheyenne River Sioux Tribe and Standing Rock Sioux Tribe to pay assignment holders moneys collected for use of subsurface rights, was omitted from the Code as being of special and not general application.

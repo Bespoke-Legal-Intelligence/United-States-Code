@@ -6,7 +6,7 @@ In accordance with section 5842 of this title, the Nuclear Regulatory Commission
 
 #### (b) Licensing strategy
 
-Not later than 3 years after August 8, 2005, the Secretary and the Chairman of the Nuclear Regulatory Commission shall jointly submit to theappropriate committees of the Senate and the House of Representatives a licensing strategy for the prototype nuclear reactor, including—
+Not later than 3 years after August 8, 2005, the Secretary and the Chairman of the Nuclear Regulatory Commission shall jointly submit to the appropriate committees of the Senate and the House of Representatives a licensing strategy for the prototype nuclear reactor, including—
 
 &emsp;(1) a description of ways in which current licensing requirements relating to light-water reactors need to be adapted for the types of prototype nuclear reactor being considered by the Project;
 

@@ -46,7 +46,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (G) Board allocation
 
-&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basis of 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
+&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basisof 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
 
 #### (3) Alternates
 

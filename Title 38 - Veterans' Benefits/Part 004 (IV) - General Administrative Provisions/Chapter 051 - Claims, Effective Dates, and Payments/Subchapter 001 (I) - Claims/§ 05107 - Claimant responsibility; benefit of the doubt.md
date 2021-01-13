@@ -10,6 +10,8 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 (Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4106, §3007; renumbered §5107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828; Pub. L. 106–475, §4, Nov. 9, 2000, 114 Stat. 2098.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–475 substituted "Claimant responsibility; benefit of the doubt" for "Burden of proof; benefit of the doubt" in section catchline and amended text generally. Prior to amendment, text read as follows:
@@ -18,7 +20,7 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 "(b) When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a) of this section."
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], directed the general amendment of the section catchline and text. Pub. L. 106–419, §104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], wasdeemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], ceased to be in effect.
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], directed the general amendment of the section catchline and text. Pub. L. 106–419, §104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], was deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], ceased to be in effect.
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3007 of this title as this section.
 
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration".
 
 Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered by the Veterans' Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

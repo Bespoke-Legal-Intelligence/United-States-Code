@@ -34,7 +34,7 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 &emsp;(6) shall establish minimum scores for passing the tests;
 
-&emsp;(7) shall ensure that an individual taking the tests is qualified to operate a commercial motor vehicle under regulations prescribed by the Secretary and contained in title 49, Code of Federal Regulations, to the extent the regulations apply to the individual; and
+&emsp;(7) shall ensure that an individual taking the tests is qualified to operate a commercialmotor vehicle under regulations prescribed by the Secretary and contained in title 49, Code of Federal Regulations, to the extent the regulations apply to the individual; and
 
 &emsp;(8) may require—
 
@@ -196,7 +196,7 @@ Pub. L. 114–94, div. A, title V, §5506, Dec. 4, 2015, 129 Stat. 1553, provide
 
 &emsp;&emsp;"(D) the number of testing sites available through the State department of motor vehicles and whether this number has increased or decreased from the previous year; and
 
-&emsp;"(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times ofmore than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest."
+&emsp;"(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times of more than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest."
 
 #### Hazardous Materials Endorsement Exemption
 
@@ -240,7 +240,7 @@ No Period of Commercial Driving While Using Insulin Required for Qualification.�
 
 "(c)
 
-Minimum Period of Insulin Use.—Subject to subsection (b), the Secretary shall require individuals with insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in 'A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century'. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
+Minimum Period of Insulin Use.—Subject to subsection (b), the Secretary shall require individualswith insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in 'A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century'. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
 
 "(d)
 

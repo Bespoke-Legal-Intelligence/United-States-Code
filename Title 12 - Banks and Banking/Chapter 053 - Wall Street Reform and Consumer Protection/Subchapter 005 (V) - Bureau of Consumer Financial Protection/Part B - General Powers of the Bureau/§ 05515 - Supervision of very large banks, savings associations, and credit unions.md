@@ -34,7 +34,7 @@ This section shall apply to any covered person that is—
 
 #### (4) Preservation of authority
 
-&emsp;Nothing in this title <sup>1</sup> may be construed as limiting the authority of the Director to require reports from a person described in subsection (a), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether suchinformation is maintained, stored, or processed by another person.
+&emsp;Nothing in this title <sup>1</sup> may be construed as limiting the authority of the Director to require reports from a person described in subsection (a), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
 
 #### (5) Reports of tax law noncompliance
 
@@ -126,7 +126,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### (E) Prohibition against retaliation
 
-&emsp;&emsp;The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection (a) instituting an appeal under this paragraph, as well as their officers and employees.
+&emsp;&emsp;The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection\(a) instituting an appeal under this paragraph, as well as their officers and employees.
 
 #### (F) Limitation
 
@@ -138,9 +138,13 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 (Pub. L. 111–203, title X, §1025, July 21, 2010, 124 Stat. 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsec. (b)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

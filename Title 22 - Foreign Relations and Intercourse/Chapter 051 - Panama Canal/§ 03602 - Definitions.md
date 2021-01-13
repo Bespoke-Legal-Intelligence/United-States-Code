@@ -36,13 +36,11 @@ For purposes of this chapter:
 
 (Pub. L. 96–70, §3, Sept. 27, 1979, 93 Stat. 455; Pub. L. 104–201, div. C, title XXXV, §§3522, 3548(c)(1), Sept. 23, 1996, 110 Stat. 2860, 2869; Pub. L. 105–85, div. C, title XXXV, §§3512, 3550(d)(1), (2)(A), Nov. 18, 1997, 111 Stat. 2063, 2074.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
-
-#### References to Canal Zone Code Deemed References to Panama Canal Code
-
-Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: "Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the 'Panama Canal Code'. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act \[subsec. (b) of this section\] shall, subject to the provisions of such section, be deemed to refer to the \[former\] Panama Canal Code."
 
 #### Amendments
 
@@ -62,11 +60,17 @@ Subsec. (b)(4) to (7). Pub. L. 104–201, §3522(1), inserted "and" at end of pa
 
 "(7) in chapter 57 of title 5 of the Canal Zone Code, in section 4784 of title 6 of such Code, and in section 2 of title 7 of such Code, 'health director' shall be deemed to refer to the senior official in charge of the hospitals operated by the United States in the Republic of Panama."
 
-Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as follows: "The President shall, within two years after October 1, 1979, submit to the Congress a request for legislation which would—
+Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as follows: "The President shall,within two years after October 1, 1979, submit to the Congress a request for legislation which would—
 
 &emsp;"(1) amend or repeal provisions of law which in their present form are applicable only during the transition period prescribed in Article XI of that Treaty,
 
 &emsp;"(2) repeal the Canal Zone Code, and
 
 &emsp;"(3) contain provisions considered necessary and appropriate in light of the experience as of that time under that Treaty."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Canal Zone Code Deemed References to Panama Canal Code
+
+Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: "Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the 'Panama Canal Code'. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act \[subsec. (b) of this section\] shall, subject to the provisions of such section, be deemed to refer to the \[former\] Panama Canal Code."
 

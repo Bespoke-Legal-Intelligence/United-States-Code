@@ -1,12 +1,14 @@
 ### §1322. Certifications with respect to social security entitlement
 
-(a) Determinations required by section 1312(a) of this title (other than a determination required by section 1312(a)(2) of this title) as to whether any survivor described in section 1312(a)(3) of this title of a deceased individual would be entitled to benefits under section 202 of the Social Security Act (42 U.S.C. 402) for any month and as to the amount of the benefits which would be paid for such month, if the deceased veteran had been a fully and currently insured individual at the time of such veteran's death, shall be made by the Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.
+(a) Determinations required by section 1312(a) of this title (other than a determination required by section 1312(a)(2) of this title) as to whether any survivor described in section 1312(a)(3) of this title of a deceased individual would be entitled to benefits under section 202 of the Social Security Act (42 U.S.C. 402) for any month and as to the amount of the benefits which would be paid for such month, if the deceased veteran had been a fully and currentlyinsured individual at the time of such veteran's death, shall be made by the Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.
 
 (b) The Secretary shall pay to the Commissioner of Social Security an amount equal to the costs which will be incurred in making determinations and certifications under subsection (a). Such payments shall be made with respect to the costs incurred during such period (but not shorter than a calendar quarter) as the Secretary and the Commissioner may prescribe, with the amount of such payments to be made on the basis of estimates made by the Commissioner after consultation with the Secretary. The amount payable for any period shall be increased or reduced to compensate for any underpayment or overpayment, as the case may be, of the costs incurred in any preceding period.
 
 (c) Except with respect to determinations made under subsection (a) of this section, the Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and section 1312(a) of this title.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1132, §422; Pub. L. 87–268, §1(b), (c), Sept. 21, 1961, 75 Stat. 566; Pub. L. 94–433, title IV, §405(18), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 97–295, §4(12), (95)(A), Oct. 12, 1982, 96 Stat. 1305, 1313; renumbered §1322 and amended Pub. L. 102–83, §§4(b)(1), (2)(A), (E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title VII, §708(c)(1), Dec. 16, 2003, 117 Stat. 2673.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 97–295, §4(95)(A), substituted "Health and Human Service
 <b>1961</b>—Subsec. (a). Pub. L. 87–268 §1(c), substituted "section 412(a)" for "section 412", "section 412(a)(2)" for "section 412(2)", and "section 412(a)(3)" for "section 412(3)".
 
 Subsec. (c). Pub. L. 87–268, §1(b), substituted "section 412(a)" for "section 412".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Services Available.—(1) Female members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
+Services Available.—(1) Female members and former members of the uniformed services entitled to medical care under section 1074 or1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
 
 (2) Male members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to preventive health care screening for colon or prostate cancer at such intervals and using such screening methods as the administering Secretaries consider appropriate.
 
@@ -12,7 +12,7 @@ Definition.—In this section, the term "primary and preventive health care serv
 
 &emsp;(1) Cervical cancer screening.
 
-&emsp;(2) Breast cancer screening.
+&emsp;(2) Breast cancer screening, including through the use of digital breast tomosynthesis.
 
 &emsp;(3) Comprehensive obstetrical and gynecological care, including care related to pregnancy and the prevention of pregnancy.
 
@@ -26,9 +26,11 @@ Definition.—In this section, the term "primary and preventive health care serv
 
 &emsp;(8) Colon cancer screening, at the intervals and using the screening methods prescribed under subsection (a)(2).
 
-(Added Pub. L. 103–160, div. A, title VII, §701(a)(1), Nov. 30, 1993, 107 Stat. 1685; amended Pub. L. 104–201, div. A, title VII, §701(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 109–364, div. A, title VII, §703(a), Oct. 17, 2006, 120 Stat. 2279.)
+(Added Pub. L. 103–160, div. A, title VII, §701(a)(1), Nov. 30, 1993, 107 Stat. 1685; amended Pub. L. 104–201, div. A, title VII, §701(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 109–364, div. A, title VII, §703(a), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 116–283, div. A, title VII, §701, Jan. 1, 2021, 134 Stat. 3686.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283 inserted ", including through the use of digital breast tomosynthesis" before period at end.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §703(a)(1), inserted at end "The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe."
 

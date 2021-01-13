@@ -74,7 +74,7 @@ Pub. L. 112–141, div. B, §20019, July 6, 2012, 126 Stat. 707, which directed 
 
 #### Prior Provisions
 
-A prior section 5326, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(11), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3023(a), (b),June 9, 1998, 112 Stat. 364, related to turnkey system projects, acquisition of rolling stock, and procurement of associated capital maintenance items, prior to repeal by Pub. L. 109–59, title III, §3025(b), Aug. 10, 2005, 119 Stat. 1622.
+A prior section 5326, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(11), Oct. 31, 1994,108 Stat. 4379; Pub. L. 105–178, title III, §3023(a), (b), June 9, 1998, 112 Stat. 364, related to turnkey system projects, acquisition of rolling stock, and procurement of associated capital maintenance items, prior to repeal by Pub. L. 109–59, title III, §3025(b), Aug. 10, 2005, 119 Stat. 1622.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (b) Procedure applicable for authorization of appropriations
 
-Consistent with section 1110 of title 31, beginning May 15, 1977, and not later than May 15 of each second even numbered year thereafter, the Secretary shall submit to the Speaker of the House of Representatives and the President of the Senate a request for the authorization of appropriations for all programs, functions, and activities of the Bureau to be carried out during the four-fiscal-year period beginning on October 1 of the calendar year following the calendar year in which such request is submitted. The Secretary shall include in his request, in addition to the information contained in his budget request and justification statement to the Office of Management and Budget, the funding levels which he determines can be efficiently and effectively utilized in the execution of his responsibilities for each such program, function, or activity, notwithstanding any budget guidelines or limitations imposed by any official or agency of the executive branch.
+Consistent with section 1110 of title 31, beginning May 15, 1977, and not later than May 15 of each second even numbered year thereafter, the Secretary shall submit to the Speaker of the House of Representatives and the President of the Senate a request for the authorization of appropriations for all programs, functions, and activities of the Bureau to be carried out during the four-fiscal-year period beginning on October 1 of the calendar year following the calendar year in which such request is submitted. The Secretary shall include in his request, in addition to the information contained in his budget request and justification statement to the Office of Management and Budget, the funding levels which he determines can be efficiently and effectively utilized in the execution of his responsibilities for each such program, function, or activity, notwithstanding any budget guidelines orlimitations imposed by any official or agency of the executive branch.
 
 #### (c) Distribution of receipts from Bureau from disposal of lands, etc.
 
@@ -17,6 +17,8 @@ Nothing in this section shall apply to the distribution of receipts of the Burea
 In exercising the authority to acquire by purchase granted by section 1715(a) of this title, the Secretary may use the Land and Water Conservation Fund to purchase lands which are necessary for proper management of public lands which are primarily of value for outdoor recreation purposes.
 
 (Pub. L. 94–579, title III, §318, Oct. 21, 1976, 90 Stat. 2771; Pub. L. 104–333, div. I, title III, §310, Nov. 12, 1996, 110 Stat. 4139.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

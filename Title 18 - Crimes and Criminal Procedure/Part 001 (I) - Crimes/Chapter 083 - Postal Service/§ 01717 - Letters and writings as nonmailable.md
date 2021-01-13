@@ -22,6 +22,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Minor changes were made in arrangement, translation, and phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
@@ -30,9 +32,15 @@ Minor changes were made in arrangement, translation, and phraseology.
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–375 struck out "of the United States" after "Postal Service".
 
-<b>1960</b>—Subsec. (c). Pub. L. 86–682 repealed subsec. (c) which related to the opening of letters, effective Sept. 1, 1960.
+<b>1960</b>—Subsec. (c). Pub. L. 86–682 struck out subsec. (c) which related to the opening of letters.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Effective Date of 1960 Amendment
+
+Amendment by Pub. L. 86–682 effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 

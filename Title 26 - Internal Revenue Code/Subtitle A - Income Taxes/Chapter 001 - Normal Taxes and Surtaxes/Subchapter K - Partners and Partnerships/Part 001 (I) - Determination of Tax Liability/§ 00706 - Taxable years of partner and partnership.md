@@ -94,7 +94,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Allocable cash basis item
 
-&emsp;&emsp;For purposes of this paragraph, the term "allocable cash basis item" means any of the following items with respect to which the partnership uses the cash receipts and disbursements method of accounting:
+&emsp;&emsp;For purposes of this paragraph, the term "allocable cash basis item" means any ofthe following items with respect to which the partnership uses the cash receipts and disbursements method of accounting:
 
 &emsp;&emsp;&emsp;(i) Interest.
 
@@ -134,7 +134,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 &emsp;For purposes of this subsection, the taxable year of a partnership shall be determined without regard to subsection (c)(2)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, §213(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, §72(a), (b), July 18,1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, §806(a), title XVIII, §1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, §1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, §507(b)(2), title XII, §1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030; Pub. L. 115–141, div. U, title IV, §401(a)(139), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, §213(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, §72(a), (b), July 18, 1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, §806(a), title XVIII, §1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, §1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, §507(b)(2), title XII, §1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030; Pub. L. 115–141, div. U, title IV, §401(a)(139), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Subsec. (b)(5). Pub. L. 100–647, §1008(e)(3), added par. (5).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–514, §806(a)(3), struck out "Adoption of" before "taxable year" in heading.
 
-Subsec. (b)(1). Pub. L. 99–514, §806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor."
+Subsec. (b)(1). Pub. L. 99–514, §806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unlessit establishes, to the satisfaction of the Secretary, a business purpose therefor."
 
 Subsec. (b)(4). Pub. L. 99–514, §806(a)(2), added par. (4).
 

@@ -38,7 +38,7 @@ In this section and section 657e of this title, the following definitions apply:
 
 #### (9) State
 
-&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (10) STTR program
 
@@ -214,7 +214,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (2) Report
 
-&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administrationshall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives on the review conducted under paragraph (1).
+&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administration shall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives on the review conducted under paragraph (1).
 
 #### (h) Program levels
 
@@ -230,7 +230,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 The authority to carry out the FAST program under this section shall terminate on September 30, 2005.
 
-(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691.)
+(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691; Pub. L. 116–283, div. A, title VIII, §867(2), Jan. 1, 2021, 134 Stat. 3787.)
 
 #### References in Text
 
@@ -241,6 +241,8 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(9). Pub. L. 116–283 substituted "American Samoa, and the Commonwealth of the Northern Mariana Islands" for "and American Samoa".
 
 <b>2015</b>—Subsec. (a)(3) to (10). Pub. L. 114–88, §2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 

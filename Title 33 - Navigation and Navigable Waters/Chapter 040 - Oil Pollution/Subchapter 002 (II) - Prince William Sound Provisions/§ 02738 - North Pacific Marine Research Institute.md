@@ -30,6 +30,8 @@ The Institute shall publish and make available to any person on request the resu
 
 (Pub. L. 101–380, title V, §5008, as added Pub. L. 106–246, div. B, title II, §2204(1), July 13, 2000, 114 Stat. 546; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A), (B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, 2763A–239.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -38,7 +40,7 @@ Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: "The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute."
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: "TheComptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute."
 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(B)\], inserted at end "The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board."
 

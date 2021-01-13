@@ -1,6 +1,6 @@
 ### §1932.<sup>1</sup> Revocation of earned release credit
 
-In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit undersection 3624(b) of title 18, United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
+In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under section 3624(b) of title 18, United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
 
 &emsp;(1) the claim was filed for a malicious purpose;
 

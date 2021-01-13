@@ -20,7 +20,9 @@ For the purpose of this chapter:
 
 &emsp;(7) The term "transportation security incident" means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term "economic disruption" does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L.115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L. 115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148), referred to in 
 <b>2018</b>—Pars. (2) to (7). Pub. L. 115–254 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
 
 <b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 
@@ -120,7 +124,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;"(B) a review and analysis of appropriate roles and responsibilities of maritime stakeholders, including Federal, State, and local law enforcement and industry security personnel, responsible for waterside security of vessels carrying, and waterfront facilities handling, especially hazardous cargo, including—
 
-&emsp;&emsp;&emsp;"(i) the number of ports in which State and local law enforcement entities are providing any services to enforce Coast Guard-imposed securityzones around vessels transiting to, through, or from United States ports or to conduct security patrols in United States ports;
+&emsp;&emsp;&emsp;"(i) the number of ports in which State and local law enforcement entities are providing any services to enforce Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or to conduct security patrols in United States ports;
 
 &emsp;&emsp;&emsp;"(ii) the number of formal agreements entered into between the Coast Guard and State and local law enforcement entities to engage State and local law enforcement entities in the enforcement of Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or the conduct of port security patrols in United States ports, the duration of those agreements, and the aid that State and local entities are engaged to provide through such agreements;
 
@@ -168,7 +172,7 @@ Especially hazardous cargo.—The term 'especially hazardous cargo' means anhydr
 
 &emsp;"(2)
 
-Area maritime security committee.—The term 'Area Maritime Security Committee' means each of those committees responsible for producing Area Maritime Transportation Security Plans under chapter 701 of title 46, United States Code.
+Area maritime security committee.—The term 'Area Maritime Security Committee' meanseach of those committees responsible for producing Area Maritime Transportation Security Plans under chapter 701 of title 46, United States Code.
 
 &emsp;"(3)
 
@@ -204,7 +208,7 @@ Watch Lists.—
 
 &emsp;"(1)
 
-In general.—As soon as practicable but not later than 180 days after the date of the enactment ofthis Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall—
+In general.—As soon as practicable but not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall—
 
 &emsp;&emsp;"(A) implement a procedure under which the Department of Homeland Security compares information about passengers and crew who are to be carried aboard a cruise ship with a comprehensive, consolidated database containing information about known or suspected terrorists and their associates;
 
@@ -236,19 +240,7 @@ Cruise Ship Defined.—In this section, the term 'cruise ship' means a vessel on
 
 #### Vessel and Intermodal Security Reports
 
-Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, renumbered and amended by Pub. L. 113–284, §2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, provided that:
-
-"(g)
-
-Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-\[(h) Repealed. Pub. L. 113–284, §2(a)(1), Dec. 18, 2014, 128 Stat. 3089.\]
-
-"(i)
-
-Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary."
-
-\[(k) Redesignated (i).\]
+Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, renumbered and amended by Pub. L. 113–284, §2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, which required an annual report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of this title, was repealed by Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8240(b), Jan. 1, 2021, 134 Stat. 4666.
 
 #### Findings
 
@@ -296,7 +288,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;&emsp;"(D) to provide financial assistance to help the States and the private sector to increase physical security of United States ports;
 
-&emsp;&emsp;"(E) to invest in long-term technology to facilitate the private sector development of technologythat will assist in the nonintrusive timely detection of crime or potential crime at United States ports;
+&emsp;&emsp;"(E) to invest in long-term technology to facilitate the private sector development of technology that will assist in the nonintrusive timely detection of crime or potential crime at United States ports;
 
 &emsp;&emsp;"(F) to increase intelligence collection on cargo and intermodal movements to address areas of potential threat to safety and security; and
 
@@ -380,7 +372,7 @@ Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that:
 
 #### Report on Foreign-flag Vessels
 
-Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department inwhich the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
+Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

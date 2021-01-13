@@ -24,7 +24,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (ii) 2012 and subsequent years
 
-&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2012 or a subsequent plan year, the manufacturer shall enter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
+&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this sectionwith respect to plan year 2012 or a subsequent plan year, the manufacturer shall enter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
 
 #### (2) Provision of appropriate data
 
@@ -76,7 +76,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (iii), the establishment of procedures under which discounted prices are provided to applicable beneficiaries at pharmacies or by mail order service at the point-of-sale of an applicable drug;
 
-&emsp;&emsp;&emsp;(iii) in the case where, during the period beginning on January 1, 2011, and endingon December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
+&emsp;&emsp;&emsp;(iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
 
 &emsp;&emsp;&emsp;(iv) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
 
@@ -232,7 +232,7 @@ In this section:
 
 #### (6) Negotiated price
 
-&emsp;The term "negotiated price" has the meaning given such term in section 423.100 of title42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
+&emsp;The term "negotiated price" has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
 
 #### (7) Qualified retiree prescription drug plan
 
@@ -260,7 +260,7 @@ Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted "January 1, 2
 
 Subsec. (g)(1). Pub. L. 111–152, §1101(b)(2)(E)(i), substituted "a covered part D drug" for "an applicable drug" in introductory provisions.
 
-Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted "and" at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and".
+Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted "and" at end of subpar.\(C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and".
 
 <i><sup>1</sup></i><i> So in original. Second "not later than" probably should not appear.</i>
 

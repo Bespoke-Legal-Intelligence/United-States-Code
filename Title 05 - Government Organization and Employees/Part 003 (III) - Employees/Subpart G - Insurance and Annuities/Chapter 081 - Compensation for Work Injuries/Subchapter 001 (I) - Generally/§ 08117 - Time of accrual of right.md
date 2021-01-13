@@ -32,11 +32,15 @@ Oct. 14, 1949, ch. 691, §101(a), 63 Stat. 854.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435 designated existing provisions as subsec. (a), substituted "An employee other than a Postal Service employee" for "An employee", and added subsec. (b).
 
 <b>1974</b>—Pub. L. 93–416 substituted "14 days" for "21 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

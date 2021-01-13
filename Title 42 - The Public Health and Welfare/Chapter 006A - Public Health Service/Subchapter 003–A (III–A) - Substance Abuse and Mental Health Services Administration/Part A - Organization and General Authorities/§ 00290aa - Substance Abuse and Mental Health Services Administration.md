@@ -98,7 +98,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;(E) the extent to which the grantee is proposing to use evidence-based practices; and
 
-&emsp;(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) ofthe Helping Families in Mental Health Crisis Reform Act of 2016.
+&emsp;(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (3) Report
 
-&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
+&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through theAssociate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
 
 &emsp;(B) Each report under subparagraph (A) shall include a description of any revisions in the plan under paragraph (2) made during the preceding 2 years.
 
@@ -152,7 +152,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mentalhealth services to meet the needs of women;
+&emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
 
 &emsp;&emsp;(D) improve the collection of data on women's health by—
 
@@ -350,7 +350,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (p) Limitation on the use of certain information
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (q) Authorization of appropriations
 
@@ -626,7 +626,7 @@ Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], 
 
 "(f)
 
-Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the SubstanceAbuse and Mental Health Services Administration or the Directors.
+Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
 
 #### "SEC. 146. TRANSITION.
 
@@ -646,7 +646,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### "SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.
 
-"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C. 285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
+"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C.285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
 
 #### "SEC. 150. SEPARABILITY.
 
@@ -760,7 +760,7 @@ Annual Report.—Not later than 1 year after the date of the enactment of this A
 
 "(g)
 
-Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
+Working Groups.—The Committee may establish working groups for purposes of carrying out theduties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
 
 "(h)
 
@@ -868,7 +868,7 @@ Funding.—
 
 &emsp;"(1)
 
-Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
+Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
 
 &emsp;"(2)
 
@@ -908,11 +908,65 @@ Pub. L. 98–24, §1(b), Apr. 26, 1983, 97 Stat. 175, provided that: "It is the 
 
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
-Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health and Human Services to submit toCongress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
 #### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
 
 Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: "That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the 'Working capital fund, narcotic hospitals,' in excess of $150,000 shall be transferred to the surplus fund of the Treasury."
 
 \[Section 201 of act July 8, 1947, set out above, was formerly classified to section 258a of this title.\]
+
+#### Ex. Ord. No. 13954. Saving Lives Through Increased Support for Mental- and Behavioral-Health Needs
+
+Ex. Ord. No. 13954, Oct. 3, 2020, 85 F.R. 63977, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. My Administration is committed to preventing the tragedy of suicide, ending the opioid crisis, and improving mental and behavioral health. Before the COVID–19 pandemic, these urgent issues were prioritized through significant initiatives, including the President's Roadmap to Empower Veterans and End a National Tragedy of Suicide (PREVENTS), expanded access to medication-assisted treatment and life-saving naloxone, and budget requests for significant investments in the funding of evidence-based treatment for mental- and behavioral-health needs.
+
+During the COVID–19 pandemic, the Federal Government has dedicated billions of dollars and thousands of hours in resources to help Americans, including approximately $425 million in emergency funds to address mental and substance use disorders through the Substance Abuse and Mental Health Services Administration. The pandemic has also exacerbated mental- and behavioral-health conditions as a result of stress from prolonged lockdown orders, lost employment, and social isolation. Survey data from the Centers for Disease Control and Prevention show that during the last week of June, 40.9 percent of Americans struggled with mental-health or substance-abuse issues and 10.7 percent reported seriously considering suicide. We must enhance the ability of the Federal Government, as well as itsState, local, and Tribal partners, to appropriately address these ongoing mental- and behavioral-health concerns.
+
+Sec. 2. <i>Policy</i>. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and local COVID–19 shutdown orders. I am therefore issuing a national call to action to:
+
+(a) Engage the resources of the Federal Government to address the mental- and behavioral-health needs of vulnerable Americans, including by:
+
+&emsp;(i) providing crisis-intervention services to treat those in immediate life-threatening situations; and
+
+&emsp;(ii) increasing the availability of and access to quality continuing care following initial crisis resolution to improve behavioral-health outcomes;
+
+(b) Permit and encourage safe in-person mentorship programs; support-group participation; and attendance at communal facilities, including schools, civic centers, and houses of worship;
+
+(c) Increase the availability of telehealth and online mental-health and substance-use tools and services; and
+
+(d) Marshal public and private resources to address deteriorating mental health, such as factors that contribute to prolonged unemployment and social isolation.
+
+Sec. 3. <i>Establishment of a Coronavirus Mental Health Working Group</i>. The Coronavirus Mental Health Working Group (Working Group) is hereby established to facilitate an "all-of-government" response to the mental-health conditions induced or exacerbated by the pandemic, including issues related to suicide prevention. The Working Group will be co-chaired by the Secretary of Health and Human Services, or his designee, and the Assistant to the President for Domestic Policy, or her designee. The Working Group shall be composed of representatives from the Department of Defense, the Department of Justice, the Department of Agriculture, the Department of Labor, the Department of Housing and Urban Development, the Department of Education, the Department of Veterans Affairs, the Small Business Administration, the Office of National Drug Control Policy, the Office of Management and Budget (OMB), and such representatives of other executive departments, agencies, and offices as the Co-Chairs may, from time to time, designate with the concurrence of the head of the department, agency, or office concerned. All members of the Working Group shall be full-time, or permanent part-time, officers or employees of the Federal Government.
+
+Sec. 4. <i>Responsibilities of the Coronavirus Mental Health Working Group</i>. (a) As part of the Working Group's efforts, it shall consider the mental- and behavioral-health conditions of those vulnerable populations affected by the pandemic, including: minorities, seniors, veterans, small business owners, children, and individuals potentially affected by domestic violence or physical abuse; those living with disabilities; and those with a substance use disorder. The Working Group shall examine existing protocols and evidence-based programs that may serve as models to better support these at-risk groups, including implementation and broader application of the PREVENTS, and the Department of Labor's Employer Assistance and Resource Network on Disability Inclusion's Mental Health Toolkit and Centralized Accommodation Programs.
+
+(b) Within 45 days of the date of this order \[Oct. 3, 2020\], the Working Group shall develop and submit to the President a report that outlines a plan for improved service coordination between all relevant public and private stakeholders and executive departments and agencies (agencies) to assist individuals in crisis so that they receive effective treatment and recovery services.
+
+Sec. 5. <i>Grant Funding for States and Organizations that Permit In-Person Treatment and Recovery Support Activities for Mental and Behavioral Health</i>. The heads of agencies, in consultation with the Director of OMB, shall:
+
+(a) Examine their existing grant programs that fund mental-health, medical, or related services and, consistent with applicable law, take steps to encourage grantees to consider adopting policies, where appropriate, that have been shown to improve mental health and reduce suicide risk, including the following:
+
+(i) Safe in-person and telehealth participation in support groups for people in recovery from substance use disorders, mental-health issues, or other ailments that benefit from communal support; and peer-to-peer services that support underserved communities;
+
+(ii) Safe face-to-face therapeutic services, including group therapy, to remediate poor behavioral health; and
+
+(iii) Safe participation in communal support—both faith-based and secular—including educational programs, civic activities, and in-person religious services.
+
+(b) Maximize use of existing agency authorities to award contracts or grants to community organizations or other local entities to enhance mental-health and suicide-prevention services, such as outreach, education, and case management, to vulnerable Americans.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

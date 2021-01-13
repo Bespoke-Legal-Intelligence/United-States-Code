@@ -132,7 +132,9 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 &emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat. 1643, 1658; Pub. L. 111–203, title XIII, §1302, July 21, 2010, 124 Stat. 2133.)
+(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat.1643, 1658; Pub. L. 111–203, title XIII, §1302, July 21, 2010, 124 Stat. 2133.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -151,6 +153,8 @@ Subsec. (a)(4), (5). Pub. L. 111–203, §1302(2), added pars. (4) and (5).
 <b>2009</b>—Subsec. (a)(3). Pub. L. 111–22, §402(f), inserted ", as such amount is reduced by $1,259,000,000," after "$700,000,000,000".
 
 Pub. L. 111–22, §202(b), inserted of ", as such amount is reduced by $1,244,000,000," after "$700,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

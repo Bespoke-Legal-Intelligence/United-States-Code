@@ -2,7 +2,7 @@
 
 (a) The Secretary shall carry out an ongoing program of activities for the purpose of advancing the knowledge, methods, techniques, and resources available for use in rehabilitation programs for veterans. For this purpose, the Secretary shall conduct and provide support for the development or conduct, or both the development and conduct, of—
 
-&emsp;(1) studies and research concerning the psychological, educational, employment, social, vocational, industrial, and economic aspects of the rehabilitation of disabled veterans, including new methods of rehabilitation; and
+&emsp;(1) studies and research concerning the psychological, educational, employment, social,vocational, industrial, and economic aspects of the rehabilitation of disabled veterans, including new methods of rehabilitation; and
 
 &emsp;(2) projects which are designed to increase the resources and potential for accomplishing the rehabilitation of disabled veterans.
 
@@ -12,11 +12,15 @@
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2184, §1519; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3119, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1519 of this title as this section.
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

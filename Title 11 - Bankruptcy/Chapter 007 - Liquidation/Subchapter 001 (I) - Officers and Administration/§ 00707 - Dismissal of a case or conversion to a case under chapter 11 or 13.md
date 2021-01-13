@@ -16,7 +16,7 @@
 
 &emsp;(II) $10,000.<sup>1</sup>
 
-(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the InternalRevenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food andclothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
 (II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(II) performing, and during the 540-day period beginning immediately after the debtor is no longer performing, a homeland defense activity (as defined in section 901(1) of title 32) performed for a period of not less than 90 days;
 
-> &emsp;if after September 11, 2001, the debtor while a member of a reserve component of the Armed Forces or a member of the National Guard, was called to such active duty or performed such homeland defense activity.
+> &emsp;if after September 11, 2001, the debtor while a member of a reserve component of the ArmedForces or a member of the National Guard, was called to such active duty or performed such homeland defense activity.
 
 (3) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter in a case in which the presumption in paragraph (2)(A)(i) does not arise or is rebutted, the court shall consider—
 
@@ -144,7 +144,7 @@
 
 &emsp;(ii) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;(iii) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
+&emsp;(iii) in the case of a debtor in a household exceeding 4 individuals, the highest medianfamily income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
 
 (B) In a case that is not a joint case, current monthly income of the debtor's spouse shall not be considered for purposes of subparagraph (A) if—
 
@@ -184,6 +184,8 @@ Section 707 of the House amendment indicates that the court may dismiss a case o
 
 This section authorizes the court to dismiss a liquidation case only for cause, such as unreasonable delay by the debtor that is prejudicial to creditors or nonpayment of any fees and charges required under chapter 123 \[§1911 et seq.\] of title 28. These causes are not exhaustive, but merely illustrative. The section does not contemplate, however, that the ability of the debtor to repay his debts in whole or in part constitutes adequate cause for dismissal. To permit dismissal on that ground would be to enact a non-uniform mandatory chapter 13, in lieu of the remedy of bankruptcy.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 302 of the Family Violence Prevention and Services Act, referred to in subsec. (b)(2)(A)(ii)(I), is classified to section 10402 of Title 42, The Public Health and Welfare.
@@ -219,6 +221,8 @@ Subsec. (c). Pub. L. 109–8, §102(f), added subsec. (c).
 Subsec. (b). Pub. L. 99–554, §219(b), substituted "motion or on a motion by the United States trustee, but" for "motion and".
 
 <b>1984</b>—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted "or" for "and", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -256,6 +260,12 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: "For purposes of section 707(b) of title 11, United States Code, as amended by this Act, the Director of the Executive Office for United States Trustees shall, not later than 180 days after the date of enactment of this Act \[Apr. 20, 2005\], issue schedules of reasonable and necessary administrative expenses of administering a chapter 13 plan for each judicial district of the United States."
 
+#### Rules Promulgated by Supreme Court
+
+United States Supreme Court to prescribe general rules implementing the practice and procedure to be followed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
+
+#### <b>Court Rules and Judicial Documents</b>
+
 #### Adjustment of Dollar Amounts
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
@@ -269,10 +279,6 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount "6,575" was adjusted to "7,025"; in subsec. (b)(2)(A)(i)(II), dollar amount "10,950" was adjusted to "11,725"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,650" was adjusted to "1,775"; in subsec. (b)(2)(B)(iv)(I), dollar amount "6,575" was adjusted to "7,025"; in subsec. (b)(2)(B)(iv)(II), dollar amount "10,950" was adjusted to "11,725"; in subsec. (b)(5)(B), dollar amount "1,100" was adjusted to "1,175"; in subsec. (b)(6)(C), dollar amount "575" was adjusted to "625"; and, in subsec. (b)(7)(A)(iii), dollar amount "575" was adjusted to "625".
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, as amended by notice dated Mar. 26, 2007, 72 F.R. 15162, in subsec. (b)(2)(A)(i)(I), dollar amount "6,000" was adjusted to "6,575"; in subsec. (b)(2)(A)(i)(II), dollar amount "10,000" was adjusted to "10,950"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,500" was adjusted to "1,650"; in subsec. (b)(2)(B)(iv)(I), dollar amount "6,000" was adjusted to "6,575"; in subsec. (b)(2)(B)(iv)(II), dollar amount "10,000" was adjusted to "10,950"; in subsec. (b)(5)(B), dollar amount "1,000" was adjusted to "1,100"; in subsec. (b)(6)(C), dollar amount "525" was adjusted to "575"; and, in subsec. (b)(7)(A)(iii), dollar amount "525" was adjusted to "575".
-
-#### Rules Promulgated by Supreme Court
-
-United States Supreme Court to prescribe general rules implementing the practice and procedure to be followed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
 
 <i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

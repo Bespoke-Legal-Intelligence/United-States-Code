@@ -1,5 +1,7 @@
 ### §186. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act May 20, 1926, ch. 347, §206, as added Apr. 10, 1936, ch. 166, 49 Stat. 1191, transferred certain pending cases before National Labor Relations Board to Mediation Board.

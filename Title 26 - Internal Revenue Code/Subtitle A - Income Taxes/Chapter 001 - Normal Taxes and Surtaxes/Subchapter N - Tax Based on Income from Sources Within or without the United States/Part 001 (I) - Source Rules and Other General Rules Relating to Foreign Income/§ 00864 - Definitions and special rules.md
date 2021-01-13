@@ -46,7 +46,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (C) Limitation
 
-&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year,the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
+&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
 
 #### (c) Effectively connected income, etc.
 
@@ -66,7 +66,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;&emsp;(B) the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
 
-> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of such trade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
+> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of suchtrade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
 
 #### (3) Other income from sources within United States
 
@@ -158,7 +158,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (E) Secretarial authority
 
-&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application ofthis paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application of this paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
 
 #### (d) Treatment of related person factoring income
 
@@ -274,7 +274,7 @@ For purposes of this subchapter—
 
 #### (D) Coordination with subpart F, etc.
 
-&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings and profits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
+&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings andprofits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
 
 #### (5) Affiliated group
 
@@ -322,7 +322,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) for the resourcing of income of any member of an affiliated group or modifications to the consolidated return regulations to the extent such resourcing or modification is necessary to carry out the purposes of this section,
 
-&emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction andin other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
+&emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
 
 &emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among the members of the affiliated group and various categories of income described in section 904(d)(1),
 
@@ -422,7 +422,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;&emsp;(II) 25 percent of its average annual earnings and profits for such 5-taxable-year period, or
 
-&emsp;&emsp;&emsp;(ii) deals with any person in any manner not clearly reflecting the income of the corporation (as determined under principles similar to the principles of section 482),
+&emsp;&emsp;&emsp;(ii) deals with any person in any manner not clearly reflecting the income of thecorporation (as determined under principles similar to the principles of section 482),
 
 > &emsp;&emsp;an amount of indebtedness of the electing financial institution group equal to the excess distribution or the understatement or overstatement of income, as the case may be, shall be recharacterized (for the taxable year and subsequent taxable years) for purposes of this paragraph as indebtedness of the worldwide affiliated group (excluding the electing financial institution group). If a corporation has not been in existence for 5 taxable years, this subparagraph shall be applied with respect to the period it was in existence.
 
@@ -474,7 +474,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (2) Qualified research and experimental expenditures
 
-&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) <sup>2</sup> of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) <sup>2</sup> of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaningof section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) <sup>2</sup> of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) <sup>2</sup> of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
 
 #### (3) Special rules for expenditures attributable to activities conducted in space, etc.
 
@@ -516,7 +516,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whetherany expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
 
 #### (6) Applicability
 
@@ -668,7 +668,7 @@ Subsec. (c)(4)(B)(iii). Pub. L. 99–514, §1211(b)(2), struck out cl. (iii), wh
 
 Subsec. (c)(6), (7). Pub. L. 99–514, §1242(a), added pars. (6) and (7).
 
-Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read asfollows: "Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)."
+Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)."
 
 Pub. L. 99–514, §1810(c)(3), inserted "and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)".
 
@@ -803,7 +803,7 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 | &nbsp; | <b>The applicable</b> |
 | <b>"In the case of the:</b> | <b>percentage is:</b> |
 | 1st taxable year | 75&nbsp; |
-| 2nd taxable year | 50&nbsp; |
+| 2nd taxable year | 50  |
 | 3rd taxable year | 25\. |
 
 &emsp;&emsp;"(iii)
@@ -934,7 +934,7 @@ Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this cl
 
 &emsp;"(E)
 
-Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
+Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, asadded by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
 &emsp;"(F)
 
@@ -1010,7 +1010,7 @@ In general.—The amendment made by this section \[amending section 1215(c) of P
 
 \["(2)
 
-Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to suchamendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366."\]
+Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to such amendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366."\]
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 

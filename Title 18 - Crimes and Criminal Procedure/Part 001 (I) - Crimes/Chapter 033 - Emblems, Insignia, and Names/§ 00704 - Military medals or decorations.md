@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
+In General.—Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything ofvalue any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
 
 (b)
 
@@ -54,6 +54,8 @@ Minor changes were made in phraseology.
 
 This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 491, 501, and 504 of title 14, referred to in subsec. (c)(2), were redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -66,7 +68,7 @@ Subsec. (c)(2)(B). Pub. L. 115–232, §809(e)(1)(A)(ii), substituted "section 7
 
 Subsec. (c)(2)(C). Pub. L. 115–232, §809(e)(1)(A)(iii), substituted "section 7277, 8303, or 9277 of title 10" for "section 3747, 6253, or 8747 of title 10".
 
-Subsec. (d)(1). Pub. L. 115–232, §809(e)(1)(B), substituted "section 7272 of title 10" for "section 3742 of title 10", "section 8292 of title 10" for "section 6242 of title 10", "section 9272 of title 10" for "section 8742 ofsection 10", and "section 7276, 8294, or 9276 of title 10" for "section 3746, 6244, or 8746 of title 10".
+Subsec. (d)(1). Pub. L. 115–232, §809(e)(1)(B), substituted "section 7272 of title 10" for "section 3742 of title 10", "section 8292 of title 10" for "section 6242 of title 10", "section 9272 of title 10" for "section 8742 of section 10", and "section 7276, 8294, or 9276 of title 10" for "section 3746, 6244, or 8746 of title 10".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–12, §2(a)(1), struck out "wears," after "Whoever knowingly".
 
@@ -103,6 +105,8 @@ Subsec. (b). Pub. L. 103–322, §320109(3), added subsec. (b).
 Subsec. (b)(2)(B). Pub. L. 103–442 inserted ", 6241, or 8741" after "3741".
 
 <b>1949</b>—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
 

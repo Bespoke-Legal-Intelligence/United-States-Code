@@ -16,7 +16,7 @@
 
 #### (b) Trade distribution network
 
-The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the Board of Directors of the United States International Development Finance Corporation, the Director of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
+The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the Board of Directors ofthe United States International Development Finance Corporation, the Director of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
 
 &emsp;(1) maintain a distribution network, using regional and district offices of the Administration, the small business development center network, networks of women's business centers, the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, and Export Assistance Centers, for programs relating to—
 
@@ -140,7 +140,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;&emsp;(iv) promote greater participation by private financial institutions, particularly those institutions already participating in loan programs under this chapter, in export finance; and
 
-&emsp;&emsp;&emsp;(v) provide for the participation of appropriate Administration personnel in training programs conducted by the Export-Import Bank.
+&emsp;&emsp;&emsp;(v) provide for the participation of appropriate Administration personnel intraining programs conducted by the Export-Import Bank.
 
 #### (e) Trade remedies
 
@@ -494,11 +494,11 @@ In this section—
 
 &emsp;(4) the term "Office" means the Office of International Trade established under subsection (a)(1).
 
-(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174; Pub. L. 115–254, div. F, title VI, §1470(c), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a),\(c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174; Pub. L. 115–254, div. F, title VI, §1470(c), Oct. 5, 2018, 132 Stat. 3516.)
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (l)(1)(A)(iii)(II), is Pub. L. 85–699, Aug. 21,1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (l)(1)(A)(iii)(II), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 Section 1207 of the Small Business Jobs Act of 2010, referred to in subsec. (l)(8)(B)(i), is section 1207 of Pub. L. 111–240, which is set out as a note under section 649b of this title.
 
@@ -596,7 +596,7 @@ Subsec. (c)(9)(F), (G). Pub. L. 111–240, §1204(a)(2)(K)(v), added subpars. (F
 
 Subsec. (c)(10) to (13). Pub. L. 111–240, §1204(a)(2)(L), added pars. (10) to (13).
 
-Subsec. (d). Pub. L. 111–240, §1204(a)(3), inserted subsec. (d) heading, designated first sentence of existingprovisions as par. (1), inserted par. (1) heading, substituted "The Associate Administrator" for "The Office" in par. (1), designated second sentence of existing provisions as par. (2), inserted par. (2) heading, substituted "To accomplish the goal established under paragraph (1), the Associate Administrator shall—" for "To accomplish this goal, the Office shall work" in par. (2), added subpar. (A) and inserted "(B) work" before "in cooperation", redesignated former pars. (1) to (5) as cls. (i) to (v), respectively, of subpar. (B) of par. (2), and realigned margins.
+Subsec. (d). Pub. L. 111–240, §1204(a)(3), inserted subsec. (d) heading, designated first sentence of existing provisions as par. (1), inserted par. (1) heading, substituted "The Associate Administrator" for "The Office" in par. (1), designated second sentence of existing provisions as par. (2), inserted par. (2) heading, substituted "To accomplish the goal established under paragraph (1), the Associate Administrator shall—" for "To accomplish this goal, the Office shall work" in par. (2), added subpar. (A) and inserted "(B) work" before "in cooperation", redesignated former pars. (1) to (5) as cls. (i) to (v), respectively, of subpar. (B) of par. (2), and realigned margins.
 
 Subsec. (e). Pub. L. 111–240, §1204(a)(4), inserted heading and substituted "The Associate Administrator" for "The Office" in introductory provisions.
 

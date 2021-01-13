@@ -190,7 +190,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need described in subsection (b) that a borrower completes on or after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
+&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need described in subsection (b) that a borrower completes onor after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
 
 #### (2) Maximum amount
 
@@ -292,7 +292,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) an academic health center that provides nurse training.
 
-&emsp;&emsp;(B) The nurse holds a valid and unrestricted license to practice nursing in the State in which the nurse practices in a clinical setting.
+&emsp;&emsp;(B) The nurse holds a valid and unrestricted license to practice nursing in theState in which the nurse practices in a clinical setting.
 
 &emsp;&emsp;(C) The nurse holds one or more of the following:
 
@@ -372,7 +372,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 #### Allied Health Workforce Recruitment and Retention Programs
 
-Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
+Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State,local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
 
 \[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
 

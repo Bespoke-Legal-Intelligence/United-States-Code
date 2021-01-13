@@ -1,8 +1,12 @@
 ### §564. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1954, ch. 732, §1, 68 Stat. 718, which set out the purpose of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeals; Recoupment of Funds Expended for Klamath County School Board
 

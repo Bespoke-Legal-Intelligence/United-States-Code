@@ -20,6 +20,8 @@ The official status of the Chief Justice of the Court of Claims holding office o
 
 Minor changes were made in arrangement and phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" in subsec. (a) and "Court of Federal Claims" for "Claims Court" in subsec. (b).
@@ -31,6 +33,8 @@ Minor changes were made in arrangement and phraseology.
 <b>1954</b>—Act Sept. 3, 1954, inserted "; character or court" in section catchline.
 
 <b>1953</b>—Act July 28, 1953, inserted second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -58,9 +62,9 @@ Pub. L. 97–164, title I, §169, Apr. 2, 1982, 96 Stat. 51, provided that: "Not
 
 #### Transition Provisions: Transfer of Pending Cases
 
-Pub. L. 97–164, title IV, §403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending onOct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
+Pub. L. 97–164, title IV, §403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
 
 #### Congressional Statement Regarding Appointment of Judges
 
-For Congressional suggestion that the President select nominees for judgeships on the Claims Court \[now Court of Federal Claims\] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
+For Congressional suggestion that the President select nominees for judgeships on the Claims Court \[nowCourt of Federal Claims\] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
 

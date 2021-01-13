@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 Pub. L. 104–52, title V, §503, Nov. 19, 1995, 109 Stat. 491.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–350 substituted "chapter 85 of title 41" for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)".

@@ -38,7 +38,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;(B) the service provider described in paragraph (1) complies with rules concerning the refreshing, reloading, or other updating of the material when specified by the person making the material available online in accordance with a generally accepted industry standard data communications protocol for the system or network through which that person makes the material available, except that this subparagraph applies only if those rules are not used by the person described in paragraph (1)(A) to prevent or unreasonably impair the intermediate storage to which this subsection applies;
 
-&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associatedwith the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
+&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associated with the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
 
 &emsp;&emsp;&emsp;(i) does not significantly interfere with the performance of the provider's system or network or with the intermediate storage of the material;
 
@@ -96,7 +96,7 @@ Elements of notification.—
 
 &emsp;&emsp;&emsp;(iv) Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
 
-&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use ofthe material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
 &emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -114,7 +114,7 @@ Information Location Tools.—A service provider shall not be liable for monetar
 
 &emsp;(C) upon obtaining such knowledge or awareness, acts expeditiously to remove, or disable access to, the material;
 
-&emsp;(2) does not receive a financial benefit directly attributable to the infringing activity, in a case in which the service provider has the right and ability to control such activity; and
+&emsp;(2) does not receive a financial benefit directly attributable to the infringing activity,in a case in which the service provider has the right and ability to control such activity; and
 
 &emsp;(3) upon notification of claimed infringement as described in subsection (c)(3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity, except that, for purposes of this paragraph, the information described in subsection (c)(3)(A)(iii) shall be identification of the reference or link, to material or activity claimed to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link.
 
@@ -298,6 +298,8 @@ Construction.—Subsections (a), (b), (c), and (d) describe separate and distinc
 
 (Added Pub. L. 105–304, title II, §202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, §1(d), Aug. 5, 1999, 113 Stat. 222; Pub. L. 111–295, §3(a), Dec. 9, 2010, 124 Stat. 3180.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (h)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -315,6 +317,8 @@ Another section 512 was renumbered section 513 of this title.
 Subsec. (e)(2). Pub. L. 106–44, §1(d)(1)(B), struck out par. heading "Injunctions".
 
 Subsec. (j)(3). Pub. L. 106–44, §1(d)(2), substituted "Notice and ex parte orders" for "Notice and Ex Parte Orders" in heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

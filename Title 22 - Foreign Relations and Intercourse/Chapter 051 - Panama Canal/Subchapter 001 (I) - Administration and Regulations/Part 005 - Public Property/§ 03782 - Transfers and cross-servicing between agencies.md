@@ -6,7 +6,7 @@ In the interest of economy and maximum efficiency in the utilization of property
 
 #### (b) Cross-servicing agreements
 
-The Commission may enter into cross-servicing agreements with any other department oragency of the United States for the use of facilities, furnishing of services, or performance of functions.
+The Commission may enter into cross-servicing agreements with any other department or agency of the United States for the use of facilities, furnishing of services, or performance of functions.
 
 #### (c) Transfer of records to Government of Republic of Panama
 
@@ -17,6 +17,8 @@ The Commission, any department or agency of the United States, or any United Sta
 The provisions of this section shall apply to the Smithsonian Institution.
 
 (Pub. L. 96–70, title I, §1502, Sept. 27, 1979, 93 Stat. 488.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

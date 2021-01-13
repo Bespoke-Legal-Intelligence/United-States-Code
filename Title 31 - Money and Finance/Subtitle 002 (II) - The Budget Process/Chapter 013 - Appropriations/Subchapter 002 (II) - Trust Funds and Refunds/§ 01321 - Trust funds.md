@@ -222,6 +222,8 @@ In subsection (a), the words "appearing on the books of the Government" and "on 
 
 In subsection (b), the words "effective July 1, 1935" and the 2d proviso are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Longshore and Harbor Workers' Compensation Act, referred to in subsec. (a)(12), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
@@ -268,13 +270,15 @@ Subsec. (b). Pub. L. 101–510, §1533(c)(1)(B), substituted "Armed Forces Retir
 
 <b>1984</b>—Subsec. (a)(12). Pub. L. 98–426 substituted "Longshore" for "Longshoremen's".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: "The amendments made by this subsection \[amending this section and repealing section 2221 of Title 10, Armed Forces\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title III, §341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers' and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990."
+Pub. L. 101–189, div. A, title III, §341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of theUnited States Soldiers' and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990."
 
 #### Effective Date of 1984 Amendment
 
@@ -282,7 +286,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Investment of National Park Service Trust Funds
 
-Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the UnitedStates to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
 
 #### Trust Funds for Individual Indians
 

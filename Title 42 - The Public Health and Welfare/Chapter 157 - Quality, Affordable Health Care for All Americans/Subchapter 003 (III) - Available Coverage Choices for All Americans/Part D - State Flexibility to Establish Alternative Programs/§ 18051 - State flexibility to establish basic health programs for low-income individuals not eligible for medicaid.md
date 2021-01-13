@@ -100,7 +100,7 @@ In this section, the term "standard heath <sup>1</sup> plan" means a health ben
 
 #### (ii) Specific requirements
 
-&emsp;&emsp;&emsp;The Secretary shall make the determination under clause (i) on a per enrollee basis and shall take into account all relevant factors necessary to determine the value of the premium tax credits and cost-sharing reductions that would have been provided to eligible individuals described in clause (i), including the age and income of the enrollee, whether the enrollment is for self-only or family coverage, geographic differences in average spending for health care across rating areas, the health status of the enrollee for purposes of determining risk adjustment payments and reinsurance payments that would have been made if the enrollee had enrolled in a qualified health plan through an Exchange, and whether any reconciliation of the credit or cost-sharing reductions would have occurred if the enrollee had been so enrolled. This determination shall take into consideration the experience of other States with respect to participation in an Exchange and such credits and reductions provided to residents of the other States, with a special focus on enrollees with income below 200 percent of poverty.
+&emsp;&emsp;&emsp;The Secretary shall make the determination under clause (i) on a per enrollee basis and shall take into account all relevant factors necessary to determine the value of the premium tax credits and cost-sharing reductions that would have been provided to eligible individuals described in clause (i), including the age and income of the enrollee, whether the enrollment isfor self-only or family coverage, geographic differences in average spending for health care across rating areas, the health status of the enrollee for purposes of determining risk adjustment payments and reinsurance payments that would have been made if the enrollee had enrolled in a qualified health plan through an Exchange, and whether any reconciliation of the credit or cost-sharing reductions would have occurred if the enrollee had been so enrolled. This determination shall take into consideration the experience of other States with respect to participation in an Exchange and such credits and reductions provided to residents of the other States, with a special focus on enrollees with income below 200 percent of poverty.
 
 #### (iii) Certification
 
@@ -108,7 +108,7 @@ In this section, the term "standard heath <sup>1</sup> plan" means a health ben
 
 #### (B) Corrections
 
-&emsp;&emsp;The Secretary shall adjust the payment for any fiscal year to reflect any error in thedeterminations under subparagraph (A) for any preceding fiscal year.
+&emsp;&emsp;The Secretary shall adjust the payment for any fiscal year to reflect any error in the determinations under subparagraph (A) for any preceding fiscal year.
 
 #### (4) Application of special rules
 

@@ -12,9 +12,13 @@ The Director of the Bureau of Prisons shall order that a prisoner who has been c
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For a prior section 3623, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

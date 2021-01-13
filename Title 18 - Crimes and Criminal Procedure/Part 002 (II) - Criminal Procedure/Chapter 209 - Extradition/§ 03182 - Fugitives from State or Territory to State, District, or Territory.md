@@ -16,6 +16,8 @@ Word "District" was inserted twice to make section equally applicable to fugitiv
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 inserted comma after "District" in section catchline and in two places in text.

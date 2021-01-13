@@ -12,15 +12,27 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(A) Federal assets to fulfill national and international observation missions and priorities;
 
-&emsp;&emsp;(B) non-Federal assets, including a network of regional information coordination entities identified under subsection (c)(4), to fulfill regional observation missions and priorities;
+&emsp;&emsp;(B) non-Federal assets, including a network of regional coastal observing systems identified under subsection (c)(4), to fulfill regional and national observation missions and priorities;
 
-&emsp;&emsp;(C) data management, communication, and modeling systems for the timely integration and dissemination of data and information products from the System;
+&emsp;&emsp;(C) observing, modeling, data management, and communication systems for the timely integration and dissemination of data and information products from the System, including reviews of data collection procedures across regions and programs to make recommendations for data collection standards across the System to meet national ocean, coastal, and Great Lakes observation, applied research, and weather forecasting needs;
 
-&emsp;&emsp;(D) a research and development program conducted under the guidance of the Council, consisting of—
+&emsp;&emsp;(D) a product development system to transform observations into products in a format that may be readily used and understood; and
 
-&emsp;&emsp;&emsp;(i) basic and applied research and technology development to improve understanding of coastal and ocean systems and their relationships to human activities and to ensure improvement of operational assets and products, including related infrastructure, observing technologies, and information and data processing and management technologies; and
+&emsp;&emsp;(E) a research and development program conducted under the guidance of the Council, consisting of—
 
-&emsp;&emsp;&emsp;(ii) large scale computing resources and research to advance modeling of coastal and ocean processes.
+&emsp;&emsp;&emsp;(i) basic and applied research and technology development—
+
+&emsp;&emsp;&emsp;&emsp;(I) to improve understanding of coastal and ocean systems and their relationships to human activities; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to ensure improvement of operational assets and products, including related infrastructure, observing technologies such as unmanned maritime systems, and information and data processing and management technologies;
+
+&emsp;&emsp;&emsp;(ii) an advanced observing technology development program to fill gaps in technology;
+
+&emsp;&emsp;&emsp;(iii) large scale computing resources and research to advance modeling of ocean, coastal, and Great Lakes processes;
+
+&emsp;&emsp;&emsp;(iv) models to improve regional weather forecasting capabilities and regional weather forecasting products; and
+
+&emsp;&emsp;&emsp;(v) reviews of data collection procedures across regions and programs to make recommendations for data collection standards across the System to meet national ocean, coastal, and Great Lakes observation, applied research, and weather forecasting needs.
 
 #### (2) Enhancing administration and management
 
@@ -28,11 +40,11 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (3) Availability of data
 
-&emsp;The head of each Federal agency that has administrative jurisdiction over a Federal asset shall make available data that are produced by that asset and that are not otherwise restricted for integration, management, and dissemination by the System.
+&emsp;The head of each Federal agency that has administrative jurisdiction over a Federal asset shall make available data that are produced by that asset and that are not otherwise restricted for integration, management, and dissemination by the System for research and for use in the development of products to address societal needs.
 
 #### (4) Non-Federal assets
 
-&emsp;Non-Federal assets shall be coordinated, as appropriate, by the Interagency Ocean Observing Committee or by regional information coordination entities.
+&emsp;Non-Federal assets shall be coordinated, as appropriate, by the Interagency Ocean Observing Committee or by regional coastal observing systems.
 
 #### (c) Policy oversight, administration, and regional coordination
 
@@ -40,7 +52,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;The Council shall serve as the policy and coordination oversight body for all aspects of the System. In carrying out its responsibilities under this chapter, the Council shall—
 
-&emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained by the Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
+&emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained bythe Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
 
 &emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, and provide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
 
@@ -48,99 +60,183 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (2) Interagency Ocean Observation Committee
 
-&emsp;The Council shall establish or designate an Interagency Ocean Observation Committee which shall—
+#### (A) Establishment
 
-&emsp;&emsp;(A) prepare annual and long-term plans for consideration and approval by the Council for the integrated design, operation, maintenance, enhancement and expansion of the System to meet the objectives of this chapter and the System Plan;
+&emsp;&emsp;The Council shall establish or designate a committee, which shall be known as the "Interagency Ocean Observation Committee".
 
-&emsp;&emsp;(B) develop and transmit to Congress at the time of submission of the President's annual budget request an annual coordinated, comprehensive budget to operate all elements of the System identified in subsection (b), and to ensure continuity of data streams from Federal and non-Federal assets;
+#### (B) Duties
 
-&emsp;&emsp;(C) establish required observation data variables to be gathered by both Federal and non-Federal assets and identify, in consultation with regional information coordination entities, priorities for System observations;
+&emsp;&emsp;The Interagency Ocean Observation Committee shall—
 
-&emsp;&emsp;(D) establish protocols and standards for System data processing, management, and communication;
+&emsp;&emsp;&emsp;(i) prepare annual and long-term plans for consideration and approval by the Council for the integrated design, operation, maintenance, enhancement, and expansion of the System to meet the objectives of this chapter and the System Plan;
 
-&emsp;&emsp;(E) develop contract certification standards and compliance procedures for all non-Federal assets, including regional information coordination entities, to establish eligibility for integration into the System and to ensure compliance with all applicable standards and protocols established by the Council, and ensure that regional observations are integrated into the System on a sustained basis;
+&emsp;&emsp;&emsp;(ii) develop and transmit to Congress, along with the budget submitted by the President to Congress pursuant to section 1105(a) of title 31, an annual coordinated, comprehensive budget—
 
-&emsp;&emsp;(F) identify gaps in observation coverage or needs for capital improvements of both Federal assets and non-Federal assets;
+&emsp;&emsp;&emsp;&emsp;(I) to operate all elements of the System identified in subsection (b); and
 
-&emsp;&emsp;(G) subject to the availability of appropriations, establish through one or more participating Federal agencies, in consultation with the System advisory committee established under subsection (d), a competitive matching grant or other programs—
+&emsp;&emsp;&emsp;&emsp;(II) to ensure continuity of data streams from Federal and non-Federal assets;
 
-&emsp;&emsp;&emsp;(i) to promote intramural and extramural research and development of new, innovative, and emerging observation technologies including testing and field trials; and
+&emsp;&emsp;&emsp;(iii) establish requirements for observation data variables to be gathered by both Federal and non-Federal assets and identify, in consultation with regional coastal observing systems, priorities for System observations;
 
-&emsp;&emsp;&emsp;(ii) to facilitate the migration of new, innovative, and emerging scientific andtechnological advances from research and development to operational deployment;
+&emsp;&emsp;&emsp;(iv) establish and define protocols and standards for System data processing, management, collection, configuration standards, formats, and communication for new and existing assets throughout the System network;
 
-&emsp;&emsp;(H) periodically review and recommend to the Council, in consultation with the Administrator, revisions to the System Plan;
+&emsp;&emsp;&emsp;(v) develop contract requirements for each regional coastal observing system—
 
-&emsp;&emsp;(I) ensure collaboration among Federal agencies participating in the activities of the Committee; and
+&emsp;&emsp;&emsp;&emsp;(I) to establish eligibility for integration into the System;
 
-&emsp;&emsp;(J) perform such additional duties as the Council may delegate.
+&emsp;&emsp;&emsp;&emsp;(II) to ensure compliance with all applicable standards and protocols established by the Council; and
+
+&emsp;&emsp;&emsp;&emsp;(III) to ensure that regional observations are integrated into the System on a sustained basis;
+
+&emsp;&emsp;&emsp;(vi) identify gaps in observation coverage or needs for capital improvements of both Federal assets and non-Federal assets;
+
+&emsp;&emsp;&emsp;(vii) subject to the availability of appropriations, establish through 1 or more Federal agencies participating in the Interagency Ocean Observation Committee, in consultation with the System advisory committee established under subsection (d), a competitive matching grant or other programs—
+
+&emsp;&emsp;&emsp;&emsp;(I) to promote intramural and extramural research and development of new, innovative, and emerging observation technologies including testing and field trials; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to facilitate the migration of new, innovative, and emerging scientific and technological advances from research and development to operational deployment;
+
+&emsp;&emsp;&emsp;(viii) periodically—
+
+&emsp;&emsp;&emsp;&emsp;(I) review the System Plan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) submit to the Council such recommendations as the Interagency Ocean Observation Committee may have for improvements to the System Plan;
+
+&emsp;&emsp;&emsp;(ix) ensure collaboration among Federal agencies participating in the Interagency Ocean Observation Committee; and
+
+&emsp;&emsp;&emsp;(x) perform such additional duties as the Council may delegate.
 
 #### (3) Lead Federal agency
 
-&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System, in consultation with the Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional information coordination entities, and shall—
+#### (A) In general
 
-&emsp;&emsp;(A) establish an Integrated Ocean Observing Program Office within the National Oceanic and Atmospheric Administration utilizing to the extent necessary, personnel from member agencies participating on the Interagency Ocean Observation Committee, to oversee daily operations and coordination of the System;
+&emsp;&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System.
 
-&emsp;&emsp;(B) implement policies, protocols, and standards approved by the Council and delegated by the Interagency Ocean Observing Committee;
+#### (B) Consultation required
 
-&emsp;&emsp;(C) promulgate program guidelines to certify and integrate non-Federal assets, including regional information coordination entities, into the System to provide regional coastal and ocean observation data that meet the needs of user groups from the respective regions;
+&emsp;&emsp;In carrying out this paragraph, the Administrator shall consult with the Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional coastal observing systems.
 
-&emsp;&emsp;(D) have the authority to enter into and oversee contracts, leases, grants or cooperative agreements with non-Federal assets, including regional information coordination entities, to support the purposes of this chapter on such terms as the Administrator deems appropriate;
+#### (C) Requirements
 
-&emsp;&emsp;(E) implement a merit-based, competitive funding process to support non-Federal assets, including the development and maintenance of a network of regional information coordination entities, and develop and implement a process for the periodic review and evaluation of all non-Federal assets, including regional information coordination entities;
+&emsp;&emsp;In carrying out this paragraph, the Administrator shall—
 
-&emsp;&emsp;(F) provide opportunities for competitive contracts and grants for demonstration projects to design, develop, integrate, deploy, and support components of the System;
+&emsp;&emsp;&emsp;(i) establish and operate an Integrated Ocean Observing System Program Office within the National Oceanic and Atmospheric Administration that—
 
-&emsp;&emsp;(G) establish efficient and effective administrative procedures for allocation of funds among contractors, grantees, and non-Federal assets, including regional information coordination entities in a timely manner, and contingent on appropriations according to the budget adopted by the Council;
+&emsp;&emsp;&emsp;&emsp;(I) utilizes, to the extent necessary, personnel from Federal agencies participating in the Interagency Ocean Observation Committee; and
 
-&emsp;&emsp;(H) develop and implement a process for the periodic review and evaluation of regional information coordination entities;
+&emsp;&emsp;&emsp;&emsp;(II) oversees daily operations and coordination of the System;
 
-&emsp;&emsp;(I) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are identified by the regional information coordination entities, the Administrator, or other members of the System and transmitted to the Interagency Ocean Observing Committee;
+&emsp;&emsp;&emsp;(ii) implement policies, protocols, and standards approved by the Council and delegated by the Interagency Ocean Observation Committee;
 
-&emsp;&emsp;(J) develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Council, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;
+&emsp;&emsp;&emsp;(iii) promulgate program guidelines—
 
-&emsp;&emsp;(K) implement a program of public education and outreach to improve public awareness of global climate change and effects on the ocean, coastal, and Great Lakes environment;
+&emsp;&emsp;&emsp;&emsp;(I) to certify and integrate regional associations into the System; and
 
-&emsp;&emsp;(L) report annually to the Interagency Ocean Observing Committee on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans developed pursuant to subsection (c)(2)(A)(i); <sup>1</sup> and
+&emsp;&emsp;&emsp;&emsp;(II) to provide regional coastal and ocean observation data that meet the needs of user groups from the respective regions;
 
-&emsp;&emsp;(M) develop a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this chapter and the System Plan.
+&emsp;&emsp;&emsp;(iv) have the authority to enter into and oversee contracts, leases, grants, or cooperative agreements with non-Federal assets, including regional coastal observing systems, to support the purposes of this chapter on such terms as the Administrator deems appropriate;
 
-#### (4) Regional information coordination entities
+&emsp;&emsp;&emsp;(v) implement and maintain a merit-based, competitive funding process to support non-Federal assets, including the development and maintenance of a national network of regional coastal observing systems, and develop and implement a process for the periodic review and evaluation of the regional associations;
+
+&emsp;&emsp;&emsp;(vi) provide opportunities for competitive contracts and grants for demonstration projects to design, develop, integrate, deploy, maintain, and support components of the System;
+
+&emsp;&emsp;&emsp;(vii) establish and maintain efficient and effective administrative procedures for the timely allocation of funds among contractors, grantees, and non-Federal assets, including regional coastal observing systems;
+
+&emsp;&emsp;&emsp;(viii) develop and implement a process for the periodic review and evaluation of the regional coastal observing systems;
+
+&emsp;&emsp;&emsp;(ix) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are—
+
+&emsp;&emsp;&emsp;&emsp;(I) identified by the regional associations described in the System Plan, the Administrator, or other members of the System; and
+
+&emsp;&emsp;&emsp;&emsp;(II) submitted to the Interagency Ocean Observation Committee;
+
+&emsp;&emsp;&emsp;(x) develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Interagency Ocean Observation Committee, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;
+
+&emsp;&emsp;&emsp;(xi) not less frequently than once each year, submit to the Interagency Ocean Observation Committee a report on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans prepared pursuant to paragraph (2)(B)(i);
+
+&emsp;&emsp;&emsp;(xii) develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
+
+&emsp;&emsp;&emsp;(xiii) work with users and regional associations to develop products to enable real-time data sharing for decision makers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting.
+
+#### (4) Regional coastal observing systems
 
 #### (A) In general
 
-&emsp;&emsp;To be certified or established under this chapter, a regional information coordination entity shall be certified or established by contract or agreement by the Administrator, and shall agree to meet the certification standards and compliance procedure guidelines issued by the Administrator and information needs of user groups in the region while adhering to national standards and shall—
+&emsp;&emsp;A regional coastal observing system described in the System Plan as a regional association may not be certified or established under this chapter unless it—
 
-&emsp;&emsp;&emsp;(i) demonstrate an organizational structure capable of gathering required System observation data, supporting and integrating all aspects of coastal and ocean observing and information programs within a region and that reflects the needs of State and local governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this chapter and the System Plan;
+&emsp;&emsp;&emsp;(i) has been or shall be certified or established by contract or agreement by the Administrator;
 
-&emsp;&emsp;&emsp;(ii) identify gaps in observation coverage needs for capital improvements of Federal assets and non-Federal assets of the System, or other recommendations to assist in the development of the annual and long-term plans created pursuant to subsection (c)(2)(A)(i) <sup>1</sup> and transmit such information to the Interagency Ocean Observing Committee via the Program Office;
+&emsp;&emsp;&emsp;(ii) meets—
 
-&emsp;&emsp;&emsp;(iii) develop and operate under a strategic operational plan that will ensure the efficient and effective administration ofprograms and assets to support daily data observations for integration into the System, pursuant to the standards approved by the Council;
+&emsp;&emsp;&emsp;&emsp;(I) the certification standards and compliance procedure guidelines issued by the Administrator; and
 
-&emsp;&emsp;&emsp;(iv) work cooperatively with governmental and non-governmental entities at all levels to identify and provide information products of the System for multiple users within the service area of the regional information coordination entities; and
+&emsp;&emsp;&emsp;&emsp;(II) the information needs of user groups in the region while adhering to national standards;
 
-&emsp;&emsp;&emsp;(v) comply with all financial oversight requirements established by the Administrator, including requirements relating to audits.
+&emsp;&emsp;&emsp;(iii) demonstrates an organizational structure, that under funding limitations is capable of—
+
+&emsp;&emsp;&emsp;&emsp;(I) gathering required System observation data;
+
+&emsp;&emsp;&emsp;&emsp;(II) supporting and integrating all aspects of coastal and ocean observing and information programs within a region; and
+
+&emsp;&emsp;&emsp;&emsp;(III) reflecting the needs of State, local, and tribal governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this chapter and the System Plan;
+
+&emsp;&emsp;&emsp;(iv) identifies—
+
+&emsp;&emsp;&emsp;&emsp;(I) gaps in observation coverage needs for capital improvements of Federal assets and non-Federal assets of the System; and
+
+&emsp;&emsp;&emsp;&emsp;(II) other recommendations to assist in the development of the annual and long-term plans prepared pursuant to paragraph (2)(B)(i) and transmits such information to the Interagency Ocean Observation Committee through the Program Office established under paragraph (3)(C)(i);
+
+&emsp;&emsp;&emsp;(v) develops and operates under a strategic plan that will ensure the efficient and effective administration of programs and assets to support daily data observations for integration into the System, pursuant to the standards approved by the Council;
+
+&emsp;&emsp;&emsp;(vi) works cooperatively with governmental and nongovernmental entities at all levels to identify and provide information products of the System for multiple users within the service area of the regional coastal observing system; and
+
+&emsp;&emsp;&emsp;(vii) complies with all financial oversight requirements established by the Administrator, including requirements relating to audits.
 
 #### (B) Participation
 
-&emsp;&emsp;For the purposes of this chapter, employees of Federal agencies may participate in the functions of the regional information coordination entities.
+&emsp;&emsp;For the purposes of this chapter, employees of Federal agencies are permitted to be members of the governing body for the regional coastal observing systems and may participate in the functions of the regional coastal observing systems.
 
 #### (d) System advisory committee
 
 #### (1) In general
 
-&emsp;The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Interagency Ocean Observing Committee.
+&emsp;The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter <sup>1</sup>
 
 #### (2) Purpose
 
 &emsp;The purpose of the System advisory committee is to advise the Administrator and the Interagency Ocean Observing Committee on—
 
-&emsp;&emsp;(A) administration, operation, management, and maintenance of the System, including integration of Federal and non-Federal assets and data management and communication aspects of the System, and fulfillment of the purposes set forth in section 3601 of this title;
+&emsp;&emsp;(A) administration, operation, management, and maintenance of the System, including integration of Federal and non-Federal assets and data management, data sharing, and communication aspects of the System, and fulfillment of the purposes set forth in section 3601 of this title;
 
 &emsp;&emsp;(B) expansion and periodic modernization and upgrade of technology components of the System;
 
-&emsp;&emsp;(C) identification of end-user communities, their needs for information provided by the System, and the System's effectiveness in disseminating information to end-user communities and the general public; and
+&emsp;&emsp;(C) identification of end-user communities, their needs for information provided by the System, and the System's effectiveness in disseminating information to end-user communities and the general public;
 
-&emsp;&emsp;(D) any other purpose identified by the Administrator or the Interagency Ocean Observing Committee.
+&emsp;&emsp;(D) additional priorities, including—
+
+&emsp;&emsp;&emsp;(i) a national surface current mapping network designed to improve fine scale sea surface mapping using high frequency radar technology and other emerging technologies to address national priorities, including Coast Guard search and rescue operation planning and harmful algal bloom forecasting and detection that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is comprised of existing high frequency radar and other sea surface current mapping infrastructure operated by national programs and regional coastal observing systems;
+
+&emsp;&emsp;&emsp;&emsp;(II) incorporates new high frequency radar assets or other fine scale sea surface mapping technology assets, and other assets needed to fill gaps in coverage on United States coastlines; and
+
+&emsp;&emsp;&emsp;&emsp;(III) follows a deployment plan that prioritizes closing gaps in high frequency radar infrastructure in the United States, starting with areas demonstrating significant sea surface current data needs, especially in areas where additional data will improve Coast Guard search and rescue models;
+
+&emsp;&emsp;&emsp;(ii) fleet acquisition for unmanned maritime systems for deployment and data integration to fulfill the purposes of this chapter;
+
+&emsp;&emsp;&emsp;(iii) an integrative survey program for application of unmanned maritime systems to the real-time or near real-time collection and transmission of sea floor, water column, and sea surface data on biology, chemistry, geology, physics, and hydrography;
+
+&emsp;&emsp;&emsp;(iv) remote sensing and data assimilation to develop new analytical methodologies to assimilate data from the System into hydrodynamic models;
+
+&emsp;&emsp;&emsp;(v) integrated, multi-State monitoring to assess sources, movement, and fate of sediments in coastal regions;
+
+&emsp;&emsp;&emsp;(vi) a multi-region marine sound monitoring system to be—
+
+&emsp;&emsp;&emsp;&emsp;(I) planned in consultation with the Interagency Ocean Observation Committee, the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and
+
+&emsp;&emsp;&emsp;&emsp;(II) developed, installed, and operated in coordination with the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and
+
+&emsp;&emsp;(E) any other purpose identified by the Administrator or the Council.
 
 #### (3) Members
 
@@ -150,7 +246,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (B) Terms of service
 
-&emsp;&emsp;Members shall be appointed for 3-year terms, renewable once. A vacancy appointment shall be for the remainder of the unexpired term of the vacancy, and an individual so appointed may subsequently be appointed for 2 full 3-year terms if the remainder of the unexpired term is less than 1 year.
+&emsp;&emsp;The Administrator may stagger the terms of the System advisory committee members. Members shall be appointed for 3-year terms, renewable once. A vacancy appointment shall be for the remainder of the unexpired term of the vacancy, and an individual so appointed may subsequently be appointed for 2 full 3-year terms if the remainder of the unexpired term is less than 1 year.
 
 #### (C) Chairperson
 
@@ -164,7 +260,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (A) Reporting
 
-&emsp;&emsp;The System advisory committee shall report to the Administrator and the Interagency Ocean Observing Committee, as appropriate.
+&emsp;&emsp;The System advisory committee shall report to the Administrator, as appropriate.
 
 #### (B) Administrative support
 
@@ -172,11 +268,11 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (C) Meetings
 
-&emsp;&emsp;The System advisory committee shall meet at least once each year, and at other times at the call of the Administrator, the Interagency Ocean Observing Committee, or the chairperson.
+&emsp;&emsp;The System advisory committee shall meet at least once each year, and at other times at the call of the Administrator, the Interagency Ocean Observation Committee, or the chairperson.
 
 #### (D) Compensation and expenses
 
-&emsp;&emsp;Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
+&emsp;&emsp;Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowedtravel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
 #### (E) Expiration
 
@@ -184,17 +280,45 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (e) Civil liability
 
-For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional information coordination entity incorporated into the System by contract, lease, grant, or cooperative agreement under subsection (c)(3)(D) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional information coordination entity, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
+For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional coastal observing system incorporated into the System by a memorandum of agreement of certification under subsection (c)(3)(C)(iii) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional coastal observing system, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
 
 #### (f) Limitation
 
-Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional information coordination entities and other elements of the System.
+Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.
 
-(Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429.)
+(Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429; Pub. L. 116–271, title I, §103, Dec. 31, 2020, 134 Stat. 3333.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Subsec. (c)(2)(A) does not contain a cl. (i).</i>
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–271, §103(a)(1), added par. (1) and struck out former par. (1) which related to the general elements of the System.
+
+Subsec. (b)(3). Pub. L. 116–271, §103(a)(2), inserted "for research and for use in the development of products to address societal needs" before period at end.
+
+Subsec. (b)(4). Pub. L. 116–271, §103(e), substituted "regional coastal observing systems" for "regional information coordination entities".
+
+Subsec. (c)(2) to (4). Pub. L. 116–271, §103(b), added pars. (2) to (4) and struck out former pars. (2) to (4) which related, respectively, to the Interagency Ocean Observation Committee, the National Oceanic and Atmospheric Administration as the lead agency, and regional information coordination entities.
+
+Subsec. (d)(1). Pub. L. 116–271, §103(c)(1), substituted "or the Council under this chapter" for "or the Interagency Ocean Observing Committee."
+
+Subsec. (d)(2)(A). Pub. L. 116–271, §103(c)(2)(A), inserted ", data sharing," after "data management".
+
+Subsec. (d)(2)(D), (E). Pub. L. 116–271, §103(c)(2)(B), (C), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "any other purpose identified by the Administrator or the Interagency Ocean Observing Committee."
+
+Subsec. (d)(3)(B). Pub. L. 116–271, §103(c)(2)(D), inserted "The Administrator may stagger the terms of the System advisory committee members." before "Members".
+
+Subsec. (d)(4)(A). Pub. L. 116–271, §103(c)(2)(E)(i), struck out "and the Interagency Ocean Observing Committee" after "Administrator".
+
+Subsec. (d)(4)(C). Pub. L. 116–271, §103(c)(2)(E)(ii), substituted "Observation" for "Observing".
+
+Subsec. (e). Pub. L. 116–271, §103(d), substituted "coastal observing system" for "information coordination entity" in two places and "a memorandum of agreement of certification under subsection (c)(3)(C)(iii)" for "contract, lease, grant, or cooperative agreement under subsection (c)(3)(D)".
+
+Subsec. (f). Pub. L. 116–271, §103(e), substituted "regional coastal observing systems" for "regional information coordination entities".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

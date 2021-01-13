@@ -325,9 +325,240 @@ For periods of enrollment other than 9 months, the parents' contribution from ad
 
 For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g)) is determined, for purposes other than subpart 2 of part A, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(d), Dec. 27, 2020, 134 Stat. 3141.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1087oo. Student aid index for dependent students
+
+#### <i>(a) Computation of student aid index</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Except as provided in paragraph (2), for each dependent student, the student aid index is equal to the sum of—</i>
+
+&emsp;&emsp;<i>(A) the assessment of the parents' adjusted available income (determined in accordance with subsection (b));</i>
+
+&emsp;&emsp;<i>(B) the assessment of the student's available income (determined in accordance with subsection (g)); and</i>
+
+&emsp;&emsp;<i>(C) the student's available assets (determined in accordance with subsection (h)).</i>
+
+#### <i>(2) Exception</i>
+
+&emsp;<i>If the sum determined under paragraph (1) with respect to a dependent student is less than − $1,500, the student aid index for the dependent student shall be − $1,500.</i>
+
+#### <i>(b) Assessment of parents' adjusted available income</i>
+
+<i>The assessment of parents' adjusted available income is equal to the amount determined by—</i>
+
+&emsp;<i>(1) computing adjusted available income by adding—</i>
+
+&emsp;&emsp;<i>(A) the parents' available income (determined in accordance with subsection (c)); and</i>
+
+&emsp;&emsp;<i>(B) the parents' available assets (determined in accordance with subsection (d));</i>
+
+&emsp;<i>(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and</i>
+
+&emsp;<i>(3) considering such assessment resulting under paragraph (2) as the amount determined under this subsection.</i>
+
+#### <i>(c) Parents' available income</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The parents' available income is determined by subtracting from total income (as defined in section 1087vv of this title)—</i>
+
+&emsp;&emsp;<i>(A) Federal income taxes;</i>
+
+&emsp;&emsp;<i>(B) an allowance for payroll taxes, determined in accordance with paragraph (2);</i>
+
+&emsp;&emsp;<i>(C) an income protection allowance, determined in accordance with paragraph (3); and</i>
+
+&emsp;&emsp;<i>(D) an employment expense allowance, determined in accordance with paragraph (4).</i>
+
+#### <i>(2) Allowance for payroll taxes</i>
+
+&emsp;<i>The allowance for payroll taxes is equal to the sum of—</i>
+
+&emsp;&emsp;<i>(A) the total amount earned by the parents, multiplied by the rate of tax under section 3101(b) of title 26; and</i>
+
+&emsp;&emsp;<i>(B) the amount earned by the parents that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.</i>
+
+#### <i>(3) Income protection allowance</i>
+
+&emsp;<i>The income protection allowance shall equal the amount determined in the following table, as adjusted by the Secretary pursuant to section 1087rr(b) of this title:</i>
+
+Income Protection Allowance (to be adjusted for 2023–2024 and succeeding years)
+
+| Family Size (including student) | Amount |
+| :--- | ---: |
+| 2 | $23,330 |
+| 3 | $29,040 |
+| 4 | $35,870 |
+| 5 | $42,320 |
+| 6 | $49,500 |
+| For each additional add | $5,590. |
+
+#### <i>(4) Employment expense allowance</i>
+
+&emsp;<i>The employment expense allowance is equal to the lesser of $4,000 or 35 percent of the single parent's earned income or married parents' combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).</i>
+
+#### <i>(d) Parents' available assets</i>
+
+#### <i>(1) In general</i>
+
+#### <i>(A) Determination</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraph (B), the parents' available assets are equal to—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the difference between the parents' assets and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by</i>
+
+&emsp;&emsp;&emsp;<i>(ii) 12 percent.</i>
+
+#### <i>(B) Not less than zero</i>
+
+&emsp;&emsp;<i>The parents' available assets under this subsection shall not be less than zero.</i>
+
+#### <i>(2) Asset protection allowance</i>
+
+&emsp;<i>The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 10877rr(d) of this title):</i>
+
+Asset Protection Allowances for Parents of Dependent Students
+
+| If the age of the oldest parent is— | And there are |  |
+| :--- | :---: | ---: |
+| two parents | one parent |  |
+| &nbsp; |  |  |
+| (1)then the allowance is— |  |  |
+|  |  |  |
+| 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
+| 26 | &nbsp;$400 | &nbsp;$100 |
+| 27 | &nbsp;$700 | &nbsp;$300 |
+| 28 | &nbsp;$1,100 | &nbsp;$400 |
+| 29 | &nbsp;$1,500 | &nbsp;$600 |
+| 30 | &nbsp;$1,800 | &nbsp;$700 |
+| 31 | &nbsp;$2,200 | &nbsp;$800 |
+| 32 | &nbsp;$2,600 | &nbsp;$1,000 |
+| 33 | &nbsp;$2,900 | &nbsp;$1,100 |
+| 34 | &nbsp;$3,300 | &nbsp;$1,300 |
+| 35 | &nbsp;$3,700 | &nbsp;$1,400 |
+| 36 | &nbsp;$4,000 | &nbsp;$1,500 |
+| 37 | &nbsp;$4,400 | &nbsp;$1,700 |
+| 38 | &nbsp;$4,800 | &nbsp;$1,800 |
+| 39 | &nbsp;$5,100 | &nbsp;$2,000 |
+| 40 | &nbsp;$5,500 | &nbsp;$2,100 |
+| 41 | &nbsp;$5,600 | &nbsp;$2,200 |
+| 42 | &nbsp;$5,700 | &nbsp;$2,200 |
+| 43 | &nbsp;$5,900 | &nbsp;$2,300 |
+| 44 | &nbsp;$6,000 | &nbsp;$2,300 |
+| 45 | &nbsp;$6,200 | &nbsp;$2,400 |
+| 46 | &nbsp;$6,300 | &nbsp;$2,400 |
+| 47 | &nbsp;$6,500 | &nbsp;$2,500 |
+| 48 | &nbsp;$6,600 | &nbsp;$2,500 |
+| 49 | &nbsp;$6,800 | &nbsp;$2,600 |
+| 50 | &nbsp;$7,000 | &nbsp;$2,700 |
+| 51 | &nbsp;$7,100 | &nbsp;$2,700 |
+| 52 | &nbsp;$7,300 | &nbsp;$2,800 |
+| 53 | &nbsp;$7,500 | &nbsp;$2,900 |
+| 54 | &nbsp;$7,700 | &nbsp;$2,900 |
+| 55 | &nbsp;$7,900 | &nbsp;$3,000 |
+| 56 | &nbsp;$8,100 | &nbsp;$3,100 |
+| 57 | &nbsp;$8,400 | &nbsp;$3,100 |
+| 58 | &nbsp;$8,600 | &nbsp;$3,200 |
+| 59 | &nbsp;$8,800 | &nbsp;$3,300 |
+| 60 | &nbsp;$9,100 | &nbsp;$3,400 |
+| 61 | &nbsp;$9,300 | &nbsp;$3,500 |
+| 62 | &nbsp;$9,600 | &nbsp;$3,600 |
+| 63 | &nbsp;$9,900 | &nbsp;$3,700 |
+| 64 | $10,200 | &nbsp;$3,800 |
+| 65 or more | $10,500 | &nbsp;$3,900. |
+
+#### <i>(e) Assessment schedule</i>
+
+<i>The assessment of the parents' adjusted available income (as determined under subsection (b)(1) and hereafter in this subsection referred to as "AAI") is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(e) of this title):</i>
+
+Parents' Contribution From AAI
+
+| If the parents' AAI is— | Then the parents' contribution from AAI is— |
+| :--- | ---: |
+| Less than − $6,820 | − $1,500 |
+| − $6,820 to $17,400 | 22% of AAI |
+| $17,401 to $21,800 | $3,828 + 25% of AAI over $17,400 |
+| $21,801 to $26,200 | $4,928 + 29% of AAI over $21,800 |
+| $26,201 to $30,700 | $6,204 + 34% of AAI over $26,200 |
+| $30,701 to $35,100 | $7,734 + 40% of AAI over $30,700 |
+| $35,101 or more | $9,494 + 47% of AAI over $35,100. |
+
+#### <i>(f) Consideration of parental income</i>
+
+#### <i>(1) Parents who live together</i>
+
+&emsp;<i>Parental income and assets in the case of student whose parents are married and not separated, or who are unmarried but live together, shall include the income and assets of both parents.</i>
+
+#### <i>(2) Divorced or separated parents</i>
+
+&emsp;<i>Parental income and assets for a student whose parents are divorced or separated, but not remarried, is determined by including only the income and assets of the parent who provides the greater portion of the student's financial support.</i>
+
+#### <i>(3) Death of a parent</i>
+
+&emsp;<i>Parental income and assets in the case of the death of any parent is determined as follows:</i>
+
+&emsp;&emsp;<i>(A) If either of the parents has died, the surviving parent shall be considered a single parent, until that parent has remarried.</i>
+
+&emsp;&emsp;<i>(B) If both parents have died, the student shall not report any parental income or assets.</i>
+
+#### <i>(4) Remarried parents</i>
+
+&emsp;<i>If a parent whose income and assets are taken into account under paragraph (2), or if a parent who is a widow or widower and whose income is taken into account under paragraph (3), has remarried, the income of that parent's spouse shall be included in determining the parent's assessment of adjusted available income if the student's parent and the stepparent are married as of the date of application for the award year concerned.</i>
+
+#### <i>(5) Single parent who is not divorced or separated</i>
+
+&emsp;<i>Parental income and assets in the case of a student whose parent is not described in paragraph (1) and is a single parent who is not divorced, separated, or remarried, shall include the income and assets of such single parent.</i>
+
+#### <i>(g) Student's available income</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The student's available income is equal to—</i>
+
+&emsp;&emsp;<i>(A) the difference between the student's total income (determined in accordance with section 1087vv of this title) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by</i>
+
+&emsp;&emsp;<i>(B) 50 percent.</i>
+
+#### <i>(2) Adjustment to student income</i>
+
+&emsp;<i>The adjustment to student income is equal to the sum of—</i>
+
+&emsp;&emsp;<i>(A) Federal income taxes;</i>
+
+&emsp;&emsp;<i>(B) an allowance for payroll taxes determined in accordance with paragraph (3);</i>
+
+&emsp;&emsp;<i>(C) an income protection allowance that is equal to $9,410, as adjusted pursuant to section 1087rr(b) of this title; and</i>
+
+&emsp;&emsp;<i>(D) an allowance for parents' negative available income, determined in accordance with paragraph (4).</i>
+
+#### <i>(3) Allowance for payroll taxes</i>
+
+&emsp;<i>The allowance for payroll taxes is equal to the sum of—</i>
+
+&emsp;&emsp;<i>(A) the total amount earned by the student, multiplied by the rate of tax under section 3101(b) of title 26; and</i>
+
+&emsp;&emsp;<i>(B) the amount earned by the student that does not exceed such contribution and benefit base for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.</i>
+
+#### <i>(4) Allowance for parents' negative available income</i>
+
+&emsp;<i>The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' available assets (as determined in accordance with subsection (d)).</i>
+
+#### <i>(h) Student's assets</i>
+
+<i>The student's assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for dependent students.
 
 <b>2009</b>—Subsec. (c)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
@@ -400,6 +631,10 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 &emsp;"(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title)."
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

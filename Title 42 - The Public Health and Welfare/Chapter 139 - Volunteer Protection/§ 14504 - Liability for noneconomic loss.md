@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In any civil action against a volunteer, based on an action of a volunteer acting within the scope of the volunteer's responsibilities to a nonprofit organization or governmental entity, the liability of the volunteer for noneconomic loss shall be determined in accordance with subsection (b).
+In any civil action against a volunteer, based on an action of a volunteer acting within thescope of the volunteer's responsibilities to a nonprofit organization or governmental entity, the liability of the volunteer for noneconomic loss shall be determined in accordance with subsection (b).
 
 #### (b) Amount of liability
 
@@ -12,7 +12,7 @@ In any civil action against a volunteer, based on an action of a volunteer actin
 
 #### (2) Percentage of responsibility
 
-&emsp;For purposes of determining the amount of noneconomic loss allocated to a defendant who is a volunteer under this section, the trier offact shall determine the percentage of responsibility of that defendant for the claimant's harm.
+&emsp;For purposes of determining the amount of noneconomic loss allocated to a defendant who is a volunteer under this section, the trier of fact shall determine the percentage of responsibility of that defendant for the claimant's harm.
 
 (Pub. L. 105–19, §5, June 18, 1997, 111 Stat. 221.)
 

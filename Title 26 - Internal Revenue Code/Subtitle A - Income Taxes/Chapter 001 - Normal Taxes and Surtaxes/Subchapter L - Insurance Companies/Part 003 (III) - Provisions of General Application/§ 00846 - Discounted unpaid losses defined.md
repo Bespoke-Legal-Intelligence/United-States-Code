@@ -4,7 +4,7 @@
 
 #### (1) Separately computed for each accident year
 
-&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of suchtime) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
+&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of such time) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
 
 #### (2) Method of discounting
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (2) Determination of annual rate
 
-&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate determined on the basis of the corporate bond yield curve (as defined in section 430(h)(2)(D)(i), determined by substituting "60-month period" for "24-month period" therein).
+&emsp;The annual rate determined by the Secretary under this paragraph for any calendaryear shall be a rate determined on the basis of the corporate bond yield curve (as defined in section 430(h)(2)(D)(i), determined by substituting "60-month period" for "24-month period" therein).
 
 #### (d) Loss payment pattern
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (II) Computation of extension
 
-&emsp;&emsp;&emsp;&emsp;The amount of losses which would have been treated as paid in the 10th yearafter the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account). To the extent such unpaid losses have not been treated as paid before the 24th year after the accident year, they shall be treated as paid in such 24th year.
+&emsp;&emsp;&emsp;&emsp;The amount of losses which would have been treated as paid in the 10th year after the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account). To the extent such unpaid losses have not been treated as paid before the 24th year after the accident year, they shall be treated as paid in such 24th year.
 
 #### (4) Determination year
 

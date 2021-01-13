@@ -2,7 +2,7 @@
 
 (a)
 
-Failure to Complete Program of Training.—(1) A member of the program who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in training, or for other reasons, shall berequired, at the discretion of the Secretary concerned—
+Failure to Complete Program of Training.—(1) A member of the program who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in training, or for other reasons, shall be required, at the discretion of the Secretary concerned—
 
 &emsp;(A) to perform one year of active duty for each year (or part thereof) for which such person was provided financial assistance under this section; or
 

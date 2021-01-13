@@ -52,7 +52,7 @@
 
 #### (C) Calculation for negative amortization
 
-&emsp;&emsp;In making any determination under this subsection, a creditor shall also take intoconsideration any balance increase that may accrue from any negative amortization provision.
+&emsp;&emsp;In making any determination under this subsection, a creditor shall also take into consideration any balance increase that may accrue from any negative amortization provision.
 
 #### (D) Calculation process
 
@@ -76,7 +76,7 @@
 
 #### (7) Fully-indexed rate defined
 
-&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at thetime the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
 
 #### (8) Reverse mortgages and bridge loans
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
 
-&emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses afterpayment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
+&emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses after payment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
 
 &emsp;&emsp;&emsp;(vii) for which the total points and fees (as defined in subparagraph (C)) payable in connection with the loan do not exceed 3 percent of the total loan amount;
 
@@ -142,7 +142,7 @@
 
 #### (iii) Bona fide discount points defined
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fidereduction of, the interest rate or time-price differential applicable to the mortgage.
 
 #### (iv) Interest rate reduction
 
@@ -384,7 +384,7 @@ This section and any regulations promulgated under this section do not apply to 
 
 #### References in Text
 
-Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 

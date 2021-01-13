@@ -11,7 +11,7 @@
 | [107\.](%C2%A7%2000107%20-%20Federal%20Transit%20Administration.md) | Federal Transit Administration. |
 | [108\.](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md) | Pipeline and Hazardous Materials Safety Administration. |
 | [109\.](%C2%A7%2000109%20-%20Maritime%20Administration.md) | Maritime Administration. |
-| [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
+| [110\.](%C2%A7%2000110%20-%20Great%20Lakes%20St.%20Lawrence%20Seaway%20Development%20Corporation.md) | Great Lakes St. Lawrence Seaway Development Corporation. |
 | \[111, 112. Repealed.\] |  |
 | [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 | [114\.](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
@@ -22,6 +22,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. AA, title V, §512(c)(7)(B), Dec. 27, 2020, 134 Stat. 2757, substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation" in item 110.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VI, §6012(b), title IX, §§9001(b), 9002(b), Dec. 4, 2015, 129 Stat. 1570, 1618, 1619, added items 116 and 117 and struck out item 112 which had read "Research and Innovative Technology Administration" and was subsequently changed to "Office of the Assistant Secretary for Research and Technology of the Department of Transportation" on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former section 112 of this title.
 
@@ -53,7 +55,7 @@
 - [&sect; 00107 - Federal Transit Administration](%C2%A7%2000107%20-%20Federal%20Transit%20Administration.md)
 - [&sect; 00108 - Pipeline and Hazardous Materials Safety Administration](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md)
 - [&sect; 00109 - Maritime Administration](%C2%A7%2000109%20-%20Maritime%20Administration.md)
-- [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
+- [&sect; 00110 - Great Lakes St. Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Great%20Lakes%20St.%20Lawrence%20Seaway%20Development%20Corporation.md)
 - [&sect; 00111 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52011(c)(1), July 6, 2012, 126 Stat. 895](%C2%A7%2000111%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752011%28c%29%281%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20895.md)
 - [&sect; 00112 - Repealed. Pub. L. 114&#8211;94, div. A, title VI, &sect;6012(a), Dec. 4, 2015, 129 Stat. 1570](%C2%A7%2000112%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A76012%28a%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201570.md)
 - [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)

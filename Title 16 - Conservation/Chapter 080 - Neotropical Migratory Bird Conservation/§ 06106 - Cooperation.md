@@ -14,7 +14,7 @@ In carrying out this chapter, the Secretary shall—
 
 &emsp;&emsp;(D) conducting such other activities as the Secretary considers to be appropriate; and
 
-&emsp;(2) coordinate activities and projects under this chapter with existing efforts in order to enhance conservation of neotropical migratory bird species.
+&emsp;(2) coordinate activities and projects under this chapter with existing efforts in order toenhance conservation of neotropical migratory bird species.
 
 #### (b) Advisory group
 

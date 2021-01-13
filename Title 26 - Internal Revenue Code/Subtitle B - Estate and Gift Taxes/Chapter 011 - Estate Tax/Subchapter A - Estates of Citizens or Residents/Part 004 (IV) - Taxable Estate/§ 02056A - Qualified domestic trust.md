@@ -80,7 +80,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (A) Tax on distributions
 
-&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day ofthe 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
+&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
 
 #### (B) Tax at death of spouse
 
@@ -150,7 +150,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (15) No tax on certain distributions
 
-&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust towhich such surviving spouse is not entitled under the terms of the trust.
+&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust to which such surviving spouse is not entitled under the terms of the trust.
 
 #### (c) Definitions
 
@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 101–239, §7815(d)(13), added subsec. (e).
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -238,7 +238,7 @@ Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided 
 
 Amendment by section 11702(g)(2), (4) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
-Pub. L. 101–508, title XI, §11702(g)(3)(B), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "The amendment made by subparagraph (A) \[amending this section\] shallnot apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title XI, §11702(g)(3)(B), Nov. 5, 1990, 104 Stat. 1388–516, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1989 Amendment
 

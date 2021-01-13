@@ -40,7 +40,7 @@
 
 #### (5) Eligible entity
 
-&emsp;In this subsection, the term "eligible entity" includes the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Federated States of Micronesia, the Republic of Marshall <sup>1</sup> Islands, the Republic of Palau, Indian tribes, a State or local health department, an institution of higher education, or a nonprofit entity with appropriate experience to conduct the activities under this subsection.
+&emsp;In this subsection, the term "eligible entity" includes the 50 States, the District of Columbia, the Commonwealth of Puerto Rico,the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Federated States of Micronesia, the Republic of Marshall <sup>1</sup> Islands, the Republic of Palau, Indian tribes, a State or local health department, an institution of higher education, or a nonprofit entity with appropriate experience to conduct the activities under this subsection.
 
 #### (b) Demonstration program for the development and establishment of systemic mechanisms for the prevention and treatment of sickle cell disease
 

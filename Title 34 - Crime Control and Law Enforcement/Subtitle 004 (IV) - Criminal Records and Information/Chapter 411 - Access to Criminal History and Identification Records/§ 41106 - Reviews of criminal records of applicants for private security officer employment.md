@@ -156,6 +156,8 @@ In this section:
 
 (Pub. L. 108–458, title VI, §6402, Dec. 17, 2004, 118 Stat. 3755.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 101–515, referred to in subsec. (d)(4)(B)(i), is Pub. L. 101–515, Nov. 5, 1990, 104 Stat. 2101. For complete classification of this Act to the Code, see Tables.

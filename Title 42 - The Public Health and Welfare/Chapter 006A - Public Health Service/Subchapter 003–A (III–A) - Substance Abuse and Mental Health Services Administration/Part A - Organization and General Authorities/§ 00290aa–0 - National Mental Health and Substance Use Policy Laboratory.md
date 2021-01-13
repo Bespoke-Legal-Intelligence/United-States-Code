@@ -16,7 +16,7 @@ The Laboratory shall—
 
 &emsp;(4) provide leadership in identifying and coordinating policies and programs, including evidence-based programs, related to mental and substance use disorders;
 
-&emsp;(5) periodically review programs and activities operated by the Administration relating to the diagnosis or prevention of, treatment for, and recovery from, mental and substance use disorders to—
+&emsp;(5) periodically review programs and activities operated by the Administration relating to the diagnosis or prevention of, treatmentfor, and recovery from, mental and substance use disorders to—
 
 &emsp;&emsp;(A) identify any such programs or activities that are duplicative;
 

@@ -8,6 +8,8 @@
 
 (June 19, 1934, ch. 652, title IV, §405, 48 Stat. 1095; July 16, 1952, ch. 879, §15, 66 Stat. 720; Pub. L. 86–752, §4(c), Sept. 13, 1960, 74 Stat. 892; Pub. L. 87–192, §3, Aug. 31, 1961, 75 Stat. 421; Pub. L. 97–259, title I, §§122, 127(c), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 100–594, §8(d), Nov. 3, 1988, 102 Stat. 3023.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Reconsiderations" substituted in text for "Rehearings" as the probable intent of Congress, in view of amendment by section 127(c)(1) of Pub. L. 97–259, which substituted "reconsideration" for "rehearing" wherever appearing in this section.
@@ -18,11 +20,13 @@
 
 <b>1982</b>—Pub. L. 97–259 substituted "reconsideration" for "rehearing" wherever appearing and "the Commission gives public notice of the order, decision, report, or action complained of" for "public notice is given of orders disposing of all petitions for rehearing filed with the Commission in such proceeding or case, but any order, decision, report, or action made or taken after such rehearing reversing, changing, or modifying the original order shall be subject to the same provisions with respect to rehearing as an original order".
 
-<b>1961</b>—Pub. L. 87–192 provided for petition for rehearing to the authority making or taking the order, decision, report, or action, substituted references to report and action for requirement, wherever else appearing, and inserted references to proceeding by any designated authority within the Commission, wherever appearing.
+<b>1961</b>—Pub. L. 87–192 provided for petition for rehearing to the authority making or taking the order, decision, report, or action, substituted references to report and action for requirement, wherever else appearing,and inserted references to proceeding by any designated authority within the Commission, wherever appearing.
 
 <b>1960</b>—Pub. L. 86–752 substituted "any party" for "and party" in first sentence, and inserted sentence dealing with disposition of petitions for rehearing.
 
 <b>1952</b>—Act July 16, 1952, provided for taking of newly discovered evidence and evidence which should have been taken in original hearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

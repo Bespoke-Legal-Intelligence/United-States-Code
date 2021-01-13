@@ -16,7 +16,7 @@
 
 &emsp;(C) has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for the procurement of kidneys,
 
-&emsp;(D) notwithstanding any other provision of law, has met the other requirements of this section and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—
+&emsp;(D) notwithstanding any other provision of law, has met the other requirements of thissection and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—
 
 &emsp;&emsp;(i) granted certification or recertification within such 4-year period with such certification or recertification in effect as of January 1, 2000, and remaining in effect through the earlier of—
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(iii) has no authority over any other activity of the organization.
 
-(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether anentity meets the requirement established in paragraph (1)(E).<sup>1</sup>
+(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
 (B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
 
@@ -196,27 +196,7 @@ Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. 
 
 #### Study Regarding Immunosuppressive Drugs
 
-Pub. L. 106–310, div. A, title XXI, §2101(b), Oct. 17, 2000, 114 Stat. 1156, provided that:
-
-"(1)
-
-In general.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall provide for a study to determine the costs of immunosuppressive drugs that are provided tochildren pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity).
-
-"(2)
-
-Recommendations regarding certain issues.—The Secretary shall ensure that, in addition to making determinations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:
-
-&emsp;"(A) The costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans, health insurance and government programs cover such costs.
-
-&emsp;"(B) The extent of denial of organs to be released for transplant by coroners and medical examiners.
-
-&emsp;"(C) The special growth and developmental issues that children have pre- and post-organ transplantation.
-
-&emsp;"(D) Other issues that are particular to the special health and transplantation needs of children.
-
-"(3)
-
-Report.—The Secretary shall ensure that, not later than December 31, 2001, the study under paragraph (1) is completed and a report describing the findings of the study is submitted to the Congress."
+Pub. L. 106–310, div. A, title XXI, §2101(b), Oct. 17, 2000, 114 Stat. 1156, required the Secretary of Health and Human Services to provide for a study to determine the costs of immunosuppressive drugs provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance covered such costs, and related issues, and to submit the report to Congress by Dec. 31, 2001.
 
 #### Study on Hospital Agreements With Organ Procurement Agencies
 

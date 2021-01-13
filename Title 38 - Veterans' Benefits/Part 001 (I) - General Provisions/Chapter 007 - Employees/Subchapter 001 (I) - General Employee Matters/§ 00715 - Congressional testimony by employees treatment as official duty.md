@@ -10,6 +10,8 @@ Travel Expenses.—The Secretary shall provide travel expenses, including per di
 
 (Added Pub. L. 114–223, div. A, title II, §247(b)(1), Sept. 29, 2016, 130 Stat. 890.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 715 and 716 were renumbered sections 1915 and 1916 of this title, respectively.

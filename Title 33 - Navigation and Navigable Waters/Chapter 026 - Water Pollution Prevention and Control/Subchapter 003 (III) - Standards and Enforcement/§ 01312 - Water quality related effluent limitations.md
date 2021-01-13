@@ -18,13 +18,15 @@ Whenever, in the judgment of the Administrator or as identified under section 13
 
 #### (B) Reasonable progress
 
-&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for toxic pollutants for a single period not to exceed 5 years if the applicant demonstrates to the satisfaction of the Administrator that such modified requirements (i) will represent the maximum degree of control within the economic capability of the owner and operator of the source, and (ii) will result in reasonable further progress beyond the requirements of section 1311(b)(2) of this title toward the requirements of subsection (a) of this section.
+&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for toxic pollutants for a single period not to exceed 5years if the applicant demonstrates to the satisfaction of the Administrator that such modified requirements (i) will represent the maximum degree of control within the economic capability of the owner and operator of the source, and (ii) will result in reasonable further progress beyond the requirements of section 1311(b)(2) of this title toward the requirements of subsection (a) of this section.
 
 #### (c) Delay in application of other limitations
 
 The establishment of effluent limitations under this section shall not operate to delay the application of any effluent limitation established under section 1311 of this title.
 
 (June 30, 1948, ch. 758, title III, §302, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, §308(e), Feb. 4, 1987, 101 Stat. 39.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

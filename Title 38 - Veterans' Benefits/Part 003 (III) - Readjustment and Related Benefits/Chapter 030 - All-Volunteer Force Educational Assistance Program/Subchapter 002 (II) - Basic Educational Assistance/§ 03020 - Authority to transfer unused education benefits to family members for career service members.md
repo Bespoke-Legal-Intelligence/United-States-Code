@@ -40,7 +40,7 @@ Designation of Transferee.—An individual transferring an entitlement to basic 
 
 (f)
 
-Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 3031 of this title, an individual approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at any time after the approval of the individual's request to transfer such entitlement only while the individual is a member of the Armed Forces when the transfer is executed.
+Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 3031 of this title, an individual approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at anytime after the approval of the individual's request to transfer such entitlement only while the individual is a member of the Armed Forces when the transfer is executed.
 
 (2)(A) An individual transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred as long as the individual is serving on active duty or as a member of the Selected Reserve.
 
@@ -118,17 +118,21 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(2) the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
 
-&emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
+&emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force or the Space Force; and
 
 &emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 110–252, title V, §5006(a), June 30, 2008, 122 Stat. 2380; Pub. L. 112–81, div. A, title X, §1063(b), Dec. 31, 2011, 125 Stat. 1586.)
+(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 110–252, title V, §5006(a), June 30, 2008, 122 Stat. 2380; Pub. L. 112–81, div. A, title X, §1063(b), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 116–283, div. A, title IX, §926(f), Jan. 1, 2021, 134 Stat. 3831.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 3020 was renumbered section 5120 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (l)(3). Pub. L. 116–283 inserted "or the Space Force" before semicolon.
 
 <b>2011</b>—Subsecs. (l), (m). Pub. L. 112–81 redesignated subsec. (m) as (l) and struck out former subsec. (l) which required the Secretary of Defense to submit an annual report on approved transfers of entitlement to basic educational assistance.
 
@@ -153,6 +157,8 @@ Subsec. (k). Pub. L. 110–252, §5006(a)(7), added subsec. (k) and struck out f
 Subsec. (h)(3) to (7). Pub. L. 107–314, §643(a)(2), (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
 Subsec. (m)(4). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendments
 

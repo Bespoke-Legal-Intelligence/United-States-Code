@@ -64,11 +64,13 @@ For purposes of subsection (a)(1), a drug made with a manufacturing change (whet
 
 &emsp;&emsp;&emsp;(i) The holder involved may commence distribution of the drug involved 30 days after the Secretary receives the supplemental application under such paragraph, unless the Secretary notifies the holder within such 30-day period that prior approval of the application is required before distribution may be commenced.
 
-&emsp;&emsp;&emsp;(ii) The Secretary may designate a category of such changes for the purpose of providing that, in the case of a change that is in such category, the holder involved may commence distribution of the drug involved upon the receipt by the Secretary of a supplemental application for the change.
+&emsp;&emsp;&emsp;(ii) The Secretary may designate a category of such changes for the purpose ofproviding that, in the case of a change that is in such category, the holder involved may commence distribution of the drug involved upon the receipt by the Secretary of a supplemental application for the change.
 
 &emsp;&emsp;&emsp;(iii) If the Secretary disapproves the supplemental application, the Secretary may order the manufacturer to cease the distribution of the drugs that have been made with the manufacturing change.
 
 (June 25, 1938, ch. 675, §506A, as added Pub. L. 105–115, title I, §116(a), Nov. 21, 1997, 111 Stat. 2313.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

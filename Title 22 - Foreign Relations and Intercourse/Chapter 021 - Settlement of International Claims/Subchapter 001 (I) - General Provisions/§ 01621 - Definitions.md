@@ -12,19 +12,23 @@ For the purposes of this subchapter—
 
 (Mar. 10, 1950, ch. 54, title I, §2, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of this title.
-
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Amendments
 
 <b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 
 Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter" in opening phrase.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Short Title of 1999 Amendment
 
@@ -38,17 +42,13 @@ Act Mar. 10, 1950, ch. 54, §1, 64 Stat. 12, provided that: "This Act \[enacting
 
 Act Aug. 9, 1955, ch. 645, §§1, 3, 69 Stat. 562, designated sections 1621 to 1627 of this title as "Title I" of act Mar. 10, 1950, which is classified to subchapter I of this chapter and added "Title II—Vesting and Liquidation of Bulgarian, Hungarian, and Rumanian Property" and "Title III—Claims Against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union", which are classified to subchapters II and III, respectively, of this chapter. Pub. L. 85–604 added Title IV, Claims Against Czechoslovakia, which is classified to subchapter IV of this chapter. Pub. L. 88–666 added Title V, Claims Against Cuba and China, which is classified to subchapter V of this chapter. Pub. L. 94–542 added Title VI, Claims Against German Democratic Republic, which is classified to subchapter VI of this chapter. Pub. L. 96–606 added Title VII, Claims Against Vietnam, which is classified to subchapter VII of this chapter.
 
-#### Abolition of International Claims Commission and Transfer of Functions
-
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
-
 #### Appropriations
 
 Act Mar. 10, 1950, ch. 54, §9, 64 Stat. 18, provided that: "There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\]."
 
 #### Guam World War II Loyalty Recognition
 
-Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, provided that:
+Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended by Pub. L. 116–132, §1, Mar. 26, 2020, 134 Stat. 273, provided that:
 
 #### "SEC. 1701. SHORT TITLE.
 
@@ -106,13 +106,13 @@ Amounts.—For each fiscal year in which funds are deposited into the Claims Fun
 
 "(e)
 
-Deductions From Fund for Administrative Expenses.—The Secretary of the Treasury shall deduct from any amounts deposited into the Claims Fund an amount equal to 5 percent of such amounts as reimbursement to the Federal Government for expenses incurred by the Foreign Claims Settlement Commission and by the Department of the Treasury in the administration of this title. The amounts so deducted shall be covered into the Treasury as miscellaneous receipts.
+Deductions From Fund for Administrative Expenses.—The Secretary of the Treasury shall deduct from any amounts deposited into the Claims Fund an amount not to exceed 5 percent of such amounts as reimbursement to the Federal Government for expenses incurred by the Foreign Claims Settlement Commission and by the Department of the Treasury in the administration of this title. The amounts so deducted shall be used to reimburse the applicable appropriations.
 
 #### "SEC. 1704. PAYMENTS FOR GUAM WORLD WAR II CLAIMS.
 
 "(a)
 
-Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment.—After theSecretary of the Treasury receives the certification from the Chairman of the Foreign Claims Settlement Commission as required under section 1705(b)(8), the Secretary of the Treasury shall make payments, subject to the availably of appropriations, to compensable Guam victims and survivors of a compensable Guam decedents as follows:
+Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment.—After the Secretary of the Treasury receives the certification from the Chairman of the Foreign Claims Settlement Commission as required under section 1705(b)(8), the Secretary of the Treasury shall make payments from the Claims Fund to compensable Guam victims and survivors of a compensable Guam decedents as follows:
 
 &emsp;"(1)
 
@@ -232,7 +232,7 @@ Limited compensation for provision of representational services.—
 
 &emsp;&emsp;"(A)
 
-Limit on compensation.—Any agreement under which an individual who provided representational services to an individual who filed a claim for a payment under this title that provides for compensation to the individual who provided suchservices in an amount that is more than one percent of the total amount of such payment shall be unlawful and void.
+Limit on compensation.—Any agreement under which an individual who provided representational services to an individual who filed a claim for a payment under this title that provides for compensation to the individual who provided such services in an amount that is more than one percent of the total amount of such payment shall be unlawful and void.
 
 &emsp;&emsp;"(B)
 
@@ -270,13 +270,13 @@ Eligibility.—The Secretary of the Interior may not award a grant under subsect
 
 #### "SEC. 1707. AUTHORIZATION OF APPROPRIATIONS.
 
-"(a)
-
-Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment of this Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
+\["(a) Repealed. Pub. L. 116–132, §1(3), Mar. 26, 2020, 134 Stat. 273.\]
 
 "(b)
 
 Guam World War II Grants Program.—For purposes of carrying out section 1706, there are authorized to be appropriated $5,000,000 for each fiscal year beginning after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
+\[Pub. L. 116–132, §1(2), which directed amendment of section 1704(a) of Pub. L. 114–328, set out above, by substituting "from the Claims Fund" for ", subject to the availability of appropriations,", was executed by making the substitution for ", subject to the availably of appropriations," to reflect the probable intent of Congress.\]
 
 #### Holocaust Expropriated Art Recovery
 
@@ -300,7 +300,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, provided that:
 
 &emsp;"(5) In 2009, the United States participated in a Holocaust Era Assets Conference in Prague, Czech Republic, with 45 other nations. At the conclusion of this conference, the participating nations issued the Terezin Declaration, which reaffirmed the 1998 Washington Conference Principles on Nazi-Confiscated Art and urged all participants 'to ensure that their legal systems or alternative processes, while taking into account the different legal traditions, facilitate just and fair solutions with regard to Nazi-confiscated and looted art, and to make certain that claims to recover such art are resolved expeditiously and based on the facts and merits of the claims and all the relevant documents submitted by all parties.'. The Declaration also urged participants to 'consider all relevant issues when applying various legal provisions that may impede the restitution of art and cultural property, in order to achieve just and fair solutions, as well as alternative dispute resolution, where appropriate under law.'.
 
-&emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to State statutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means that the claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
+&emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to Statestatutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means that the claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
 
 &emsp;"(7) Federal legislation is needed because the only court that has considered the question held that the Constitution prohibits States from making exceptions to their statutes of limitations to accommodate claims involving the recovery of Nazi-confiscated art. In Von Saher v. Norton Simon Museum of Art, 592 F.3d 954 (9th Cir. 2009), the United States Court of Appeals for the Ninth Circuit invalidated a California law that extended the State statute of limitations for claims seeking recovery of Holocaust-era artwork. The Court held that the law was an unconstitutional infringement of the Federal Government's exclusive authority over foreign affairs, which includes the resolution of war-related disputes. In light of this precedent, the enactment of a Federal law is necessary to ensure that claims to Nazi-confiscated art are adjudicated in accordance with United States policy as expressed in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
 
@@ -400,7 +400,7 @@ Rule of Construction.—Nothing in this Act shall be construed to create a civil
 
 "(g)
 
-Sunset.—This Act shall cease to have effect on January 1, 2027, except that this Act shall continue to apply to any civil claim or cause of action described in subsection (a) that is pending on January 1, 2027. Any civil claim or cause of action commenced on or after that date to recover artwork or other property described in this Act shall be subject to any applicable Federal or State statute of limitations or any other Federal or State defense at law relating to the passage of time."
+Sunset.—This Act shall cease to have effect on January 1, 2027, except that this Act shall continue to apply to any civil claim or cause of action described in subsection (a) that is pending on January 1, 2027. Any civil claim or cause of action commenced on or after that date to recover artwork or other property described in this Act shall be subject to any applicable Federal or State statute of limitations or any otherFederal or State defense at law relating to the passage of time."
 
 #### United States Holocaust Assets Commission
 
@@ -414,7 +414,7 @@ Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155
 
 "(a)
 
-Establishment.—There is established a Presidential Commission, to be known as the 'Presidential Advisory Commission on Holocaust Assets in theUnited States' (hereafter in this Act referred to as the 'Commission').
+Establishment.—There is established a Presidential Commission, to be known as the 'Presidential Advisory Commission on Holocaust Assets in the United States' (hereafter in this Act referred to as the 'Commission').
 
 "(b)
 
@@ -670,7 +670,7 @@ Detail of Government Employees.—Any Federal Government employee may be detaile
 
 "(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent ofthe annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 "(f)
 
@@ -686,7 +686,7 @@ In general.—The Commission may offer employment on a conditional basis to a pr
 
 &emsp;"(2)
 
-Termination.—If a person hired on a conditional basis as described in paragraph (1) is denied or otherwise does not qualify for all security clearancesnecessary for the fulfillment of the responsibilities of that person as an employee of the Commission, the Commission shall immediately terminate the employment of that person with the Commission.
+Termination.—If a person hired on a conditional basis as described in paragraph (1) is denied or otherwise does not qualify for all security clearances necessary for the fulfillment of the responsibilities of that person as an employee of the Commission, the Commission shall immediately terminate the employment of that person with the Commission.
 
 "(h)
 
@@ -713,4 +713,10 @@ Public Attendance.—To the maximum extent practicable, each meeting of the Comm
 #### "SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
 
 "There are authorized to be appropriated not more than $6,000,000, in total, for the interagency funding of activities of the Commission under this Act for fiscal years 1998, 1999, 2000, and 2001, of which, notwithstanding section 1346 of title 31, United States Code, and section 611 of the Treasury and General Government Appropriations Act, 1998 \[Pub. L. 105–61, 111 Stat. 1310\], $537,000 shall be made available in equal amounts from funds made available for fiscal year 1998 to the Departments of Justice, State, and the Army that are otherwise unobligated. Funds made available to the Commission pursuant to this section shall remain available for obligation until December 31, 1999."
+
+#### <b>Executive Documents</b>
+
+#### Abolition of International Claims Commission and Transfer of Functions
+
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 

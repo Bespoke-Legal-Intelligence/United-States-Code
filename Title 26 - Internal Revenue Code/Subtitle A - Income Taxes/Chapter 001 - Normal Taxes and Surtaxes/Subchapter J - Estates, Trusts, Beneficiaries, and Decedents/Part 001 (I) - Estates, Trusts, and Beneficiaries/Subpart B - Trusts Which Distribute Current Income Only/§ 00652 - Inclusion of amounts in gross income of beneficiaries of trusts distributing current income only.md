@@ -10,7 +10,7 @@ The amounts specified in subsection (a) shall have the same character in the han
 
 #### (c) Different taxable years
 
-If the taxable year of a beneficiary is different from that of the trust, the amount which the beneficiary is required to include in gross income in accordance with the provisions of this section shall be based upon the amount of income of the trust for any taxable year or years of the trust ending within or with his taxable year.
+If the taxable year of a beneficiary is different from that of the trust, the amount which the beneficiary is required to include in gross income in accordance with the provisions of thissection shall be based upon the amount of income of the trust for any taxable year or years of the trust ending within or with his taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 219; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

@@ -42,6 +42,8 @@
 
 (Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsecs. (a)(1) and (g)(2), is set out in section 5315 of this title.
@@ -72,6 +74,8 @@ Subsecs. (i), (j). Pub. L. 108–411, §301(a)(2)(H), added subsecs. (i) and (j)
 
 Subsec. (c)(1). Pub. L. 94–82, §202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provision relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
@@ -79,10 +83,6 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
-
-#### Delegation of Functions
-
-Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 
 #### Staffing Differentials
 
@@ -160,7 +160,7 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 | "GS–9 | Step 2&nbsp;&nbsp; |
 | "GS–10 | Step 2&nbsp;&nbsp; |
 
-"(c) The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
+"(c) The higher minimum rates and corresponding higher rates for each step rate of each designated gradeshall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
 
 "(d) Any interim entry-level adjustment under section 209 of this Act \[section 529 \[title II, §209\] of Pub. L. 101–509, set out as a note above\] which a law enforcement officer is receiving shall be eliminated on the day before the effective date of the higher minimum rates under subsection (b)(1).
 
@@ -220,4 +220,10 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 #### Reporting Requirement
 
 Pub. L. 101–509, title V, §529 \[title IV, §412\], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that not later than Jan. 1, 1993, the Office of Personnel Management should submit to Congress a written plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 

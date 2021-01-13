@@ -46,7 +46,7 @@ South Carolina constitutes one judicial district comprising eleven divisions.
 
 &emsp;&emsp;Court for the Beaufort Division shall be held at Beaufort.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2,Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2, Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
 
 #### Historical and Revision Notes
 
@@ -59,6 +59,8 @@ A provision relating to the places of the clerks' offices was omitted as covered
 The provision respecting court accommodations at Orangeburg was omitted as covered by section 142 of this title.
 
 Changes in arrangement and phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -73,6 +75,8 @@ Par. (1). Pub. L. 99–657, §2(2), struck out "Beaufort," after "counties of" a
 Par. (11). Pub. L. 99–657, §2(3), added par. (11).
 
 <b>1965</b>—Pub. L. 89–242 consolidated into a single district the 10 divisions of the state which had formerly been divided into an Eastern and a Western District.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -98,5 +102,5 @@ Pub. L. 89–242, §6, Oct. 7, 1965, 79 Stat. 953, provided that: "The provision
 
 #### Consolidation of South Carolina Into a Single Judicial District
 
-Sections 2 to 5 of Pub. L. 89–242 provided for the consolidation, in compliance with section 132 of this title, of the Eastern and Western Districts of South Carolina into a single district with continuing jurisdiction over civil cases and criminal acts pending or committed prior to Nov. 1, 1965, and appropriate provisions for the appointment or transfer of United States attorneys, marshals, and other court personnel, then serving, from the two districts to the consolidated district.
+Pub. L. 89–242, §§2–5, Oct. 7, 1965, 79 Stat. 952, 953, provided for the consolidation, in compliance with section 132 of this title, of the Eastern and Western Districts of South Carolina into a single district with continuing jurisdiction over civil cases and criminal acts pending or committed prior to Nov. 1, 1965, and appropriate provisions for the appointment or transfer of United States attorneys, marshals, and other court personnel, then serving, from the two districts to the consolidated district.
 

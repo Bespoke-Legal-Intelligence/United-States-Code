@@ -28,7 +28,7 @@ The Secretary of the Treasury is authorized and directed out of the sums covered
 
 #### (d) Payment of balance to Yugoslav Government; certification of adjudication costs; finality of certification
 
-The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balanceof any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
+The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balance of any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
 
 #### (e) Payments; priorities
 
@@ -60,6 +60,8 @@ The Secretary of the Treasury is authorized and directed to invest the amounts h
 
 (Mar. 10, 1950, ch. 54, title I, §8, 64 Stat. 17; Aug. 9, 1955, ch. 645, §1, 69 Stat. 562; Pub. L. 90–421, §1(4), (5), July 24, 1968, 82 Stat. 420; Pub. L. 96–445, Oct. 13, 1980, 94 Stat. 1891; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–204, title I, §142(a), Dec. 22, 1987, 101 Stat. 1350.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
@@ -74,11 +76,7 @@ Chapter 2D of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A
 
 Chapter 2E of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
-Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, as amended, which comprises Subtitle A (§1 et seq.) of Title 26, Internal Revenue Code.
-
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16,1954, ch. 736, 68A Stat. 4, as amended, which comprises Subtitle A (§1 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -95,6 +93,14 @@ Subsec. (f). Pub. L. 96–445, §1(2), added subsec. (f).
 Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 
 <b>1955</b>—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as "title I".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

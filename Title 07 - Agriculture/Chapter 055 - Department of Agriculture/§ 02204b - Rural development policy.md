@@ -8,7 +8,7 @@ The Secretary of Agriculture shall provide leadership within the executive branc
 
 (1) The Secretary shall conduct a systematic review of Federal programs affecting rural areas to (A) determine whether such areas are benefiting from such programs in an equitable proportion to the benefits received by urban areas and (B) identify any factors that may restrict accessibility to such programs in rural areas or limit participation in such programs.
 
-(2) Subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], the Secretary may secure directly from any Federal department or agency information necessary to carry out the Secretary's duties under this section. Upon request of the Secretary under this paragraph, the head of any such Federal department or agency shall furnish such information to the Secretary.
+(2) Subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], the Secretary may secure directly fromany Federal department or agency information necessary to carry out the Secretary's duties under this section. Upon request of the Secretary under this paragraph, the head of any such Federal department or agency shall furnish such information to the Secretary.
 
 (3) The Secretary shall develop a process through which multistate, State, substate, and local rural development needs, goals, objectives, plans, and recommendations can be received and assessed on a continuing basis. Such process may include the use of those rural development experts, advisors, and consultants that the Secretary deems appropriate, as well as the establishment of temporary advisory committees under the terms of the Federal Advisory Committee Act.
 
@@ -94,7 +94,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this
 
 #### Transfer of Functions
 
-Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to RuralDevelopment Administration by section 2302(b) of Pub. L. 101–624.
+Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
 #### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
 

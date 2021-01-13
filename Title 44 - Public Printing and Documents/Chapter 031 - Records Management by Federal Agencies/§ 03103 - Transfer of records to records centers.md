@@ -4,6 +4,8 @@ When the head of a Federal agency determines that such action may affect substan
 
 (Added Pub. L. 94–575, §3(a)(3), Oct. 21, 1976, 90 Stat. 2726; amended Pub. L. 98–497, title I, §107(b)(20), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §8(9), Nov. 26, 2014, 128 Stat. 2012.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3103, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298, contained provisions similar to those comprising this section, prior to repeal by Pub. L. 94–575, §3(a)(3).
@@ -13,6 +15,8 @@ A prior section 3103, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298, contained 
 <b>2014</b>—Pub. L. 113–187 substituted "the head of such agency" for "he".
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

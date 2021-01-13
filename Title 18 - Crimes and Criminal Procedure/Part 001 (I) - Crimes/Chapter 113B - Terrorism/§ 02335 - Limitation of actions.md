@@ -10,11 +10,15 @@ Calculation of Period.—The time of the absence of the defendant from the Unite
 
 (Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4523; amended Pub. L. 112–239, div. A, title XII, §1251(a), Jan. 2, 2013, 126 Stat. 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1251(a)(1), substituted "10 years" for "4 years".
 
 Subsec. (b). Pub. L. 112–239, §1251(a)(2), substituted "10-year period" for "4-year period".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

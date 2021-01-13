@@ -26,9 +26,13 @@ July 15, 1952, ch. 758, §1415, 66 Stat. 662.
 
 The words "are not available for expenditure by agencies except as provided annually in general appropriation laws" are substituted for "will not be available for expenditure by agencies of the United States after June 30, 1953, except as may be provided for annually in appropriation Acts" because of section 101 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Foreign credits owed to or owned by the Treasury are not available for expenditure by agencies except as provided annually in general appropriation laws."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

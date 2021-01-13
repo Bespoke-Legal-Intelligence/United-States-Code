@@ -26,7 +26,7 @@ Sections 341 and 371 of title 28, U.S.C., 1940 ed., did not confer expressly exc
 
 So, also, in actions by the United States to condemn lands of a State or to enforce penalties for violation of a Federal statute against a State-owned utility, the United States district courts have jurisdiction. See <i>United States v. State of Utah</i>, 1931, 51 S.Ct. 438, 283 U.S. 64, 75 L.Ed. 844; <i>United States v. 4,450.72 Acres of Land, Clearwater County, State of Minnesota</i>, D.C.Minn. 1939, 27 F.Supp. 167, affirmed 125 F.2d 636; <i>United States v. State of California</i>, 1936, 56 S.Ct. 421, 297 U.S. 175, 80 L.Ed. 567.
 
-The intent of section 371(7), (8) of title 28, U.S.C., 1940 ed., that the jurisdiction of the courts of the United States should be exclusive of the courts of the States in controversies to which a State is a party, and suits against ambassadors, public ministers, consuls and vice consuls, is preserved and clarified by this section and section 1351 of this title.
+The intent of section 371(7), (8) of title 28, U.S.C., 1940 ed., that the jurisdiction of the courts of the UnitedStates should be exclusive of the courts of the States in controversies to which a State is a party, and suits against ambassadors, public ministers, consuls and vice consuls, is preserved and clarified by this section and section 1351 of this title.
 
 The revised section preserves existing law with reference to foreign ambassadors, other public ministers and consuls. Under subsection (a)(2) the Supreme Court has exclusive jurisdiction of actions or proceedings against the ambassadors or public ministers of other nations.
 
@@ -38,11 +38,15 @@ This section and said section 1351 of this title have no application to ambassad
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out "(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations".
 
 Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted "to which ambassadors, other public ministers, consuls, or" for "brought by ambassadors or other public ministers of foreign states or to which consuls or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

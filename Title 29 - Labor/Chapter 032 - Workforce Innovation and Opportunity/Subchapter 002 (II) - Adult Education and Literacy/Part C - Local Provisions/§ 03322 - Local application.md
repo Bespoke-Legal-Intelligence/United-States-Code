@@ -6,7 +6,7 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
 
 &emsp;(2) a description of any cooperative arrangements the eligible provider has with other agencies, institutions, or organizations for the delivery of adult education and literacy activities;
 
-&emsp;(3) a description of how the eligible provider will provide services in alignment with thelocal plan under section 3123 of this title, including how such provider will promote concurrent enrollment in programs and activities under subchapter I, as appropriate;
+&emsp;(3) a description of how the eligible provider will provide services in alignment with the local plan under section 3123 of this title, including how such provider will promote concurrent enrollment in programs and activities under subchapter I, as appropriate;
 
 &emsp;(4) a description of how the eligible provider will meet the State adjusted levels of performance described in section 3141(b)(3) of this title, including how such provider will collect data to report on such performance indicators;
 
@@ -17,6 +17,8 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
 &emsp;(7) information that addresses the considerations described under section 3321(e) of this title, as applicable.
 
 (Pub. L. 113–128, title II, §232, July 22, 2014, 128 Stat. 1620.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

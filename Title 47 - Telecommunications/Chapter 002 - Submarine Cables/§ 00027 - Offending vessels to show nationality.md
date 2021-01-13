@@ -4,9 +4,13 @@ Any person having the custody of the papers necessary for the preparation of the
 
 (Feb. 29, 1888, ch. 17, §7, 25 Stat. 42.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The original enactment of this section did not contain the words, "with respect to reports of infractions, by officers commanding vessels of war or vessels especially commissioned," which have been inserted in view of article 10 of the Convention, referred to in text, and set out as a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Provision of International Convention
 

@@ -58,9 +58,13 @@ In subsection (c), the text of 31:701(d)(last sentence) is omitted as executed.
 
 In subsection (d), before clause (1), the word "heading" is substituted for "heads" for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

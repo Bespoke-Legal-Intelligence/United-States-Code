@@ -152,13 +152,15 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 #### (D) Distribution of payments received
 
-&emsp;&emsp;Not later than 60 days after receipt of a payment made under subparagraph (A)(i), each insured System bank, in consultation with affiliated associations of the insured System bank, and taking into account the direct or indirect payment of insurance premiums by the associations, shall develop and implement an equitable plan to distribute payments received under subparagraph (A)(i) among the bank and associations of the bank.
+&emsp;&emsp;Not later than 60 days after receipt of a payment made under subparagraph (A)(i), each insured System bank, in consultation with affiliated associations of the insured System bank, and taking into account thedirect or indirect payment of insurance premiums by the associations, shall develop and implement an equitable plan to distribute payments received under subparagraph (A)(i) among the bank and associations of the bank.
 
 #### (E) Exception for previously reimbursed associations
 
 &emsp;&emsp;For purposes of subparagraph (A)(ii), in any Farm Credit district in which the funding bank has reimbursed 1 or more affiliated associations of the bank for the previously unreimbursed portion of the Financial Assistance Corporation stock held by the associations, the funding bank shall be deemed to be the holder of the shares of Financial Assistance Corporation stock for which the funding bank has provided the reimbursement.
 
 (Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, §5403(a)(1), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, §5404, May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5404, June 18, 2008, 122 Stat. 1664, 1916.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -239,6 +241,8 @@ Subsec. (d). Pub. L. 101–220, §6(a)(4), in introductory provisions, substitut
 Subsec. (d)(2). Pub. L. 100–399, §302(d), (e), substituted "section 2015(b)(1)(B) of this title" for "section 2074(a)(2) of this title" and "Farm Credit Bank" for "Federal intermediate credit bank".
 
 Subsec. (d)(3). Pub. L. 100–399, §302(e), substituted "Farm Credit Bank" for "Federal intermediate credit bank".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

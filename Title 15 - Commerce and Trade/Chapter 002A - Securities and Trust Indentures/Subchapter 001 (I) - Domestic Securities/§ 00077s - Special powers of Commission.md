@@ -130,7 +130,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of "in paragraph (1) or (3)" for "in paragraph (1) of (3)", could not be executed because the phrase "in paragraph (1) of (3)" did not appear.
+<b>2010</b>—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of "in paragraph (1) or (3)"for "in paragraph (1) of (3)", could not be executed because the phrase "in paragraph (1) of (3)" did not appear.
 
 Subsecs. (e), (f). Pub. L. 111–203, §912, added subsecs. (e) and (f).
 

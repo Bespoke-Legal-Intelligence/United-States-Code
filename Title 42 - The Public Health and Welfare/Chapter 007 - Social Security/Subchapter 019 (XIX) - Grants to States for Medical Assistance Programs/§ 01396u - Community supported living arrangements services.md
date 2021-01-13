@@ -48,7 +48,7 @@ A State selected by the Secretary to provide services under this section shall i
 
 &emsp;(6) the State will provide the services defined in subsection (a) in accordance with an individual support plan (as defined by the Secretary in regulations); and
 
-&emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established undersection 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
+&emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
 
 > The Secretary shall not approve a quality assurance plan under this subsection and allow a State to continue to receive Federal financial participation under this section unless the State provides for public hearings on the plan prior to adoption and implementation of its plan under this subsection.
 
@@ -86,7 +86,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 &emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services are protected from neglect, physical and sexual abuse, and financial exploitation;
 
-&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
+&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the providerhave histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
 
 &emsp;&emsp;&emsp;(iii) individuals or entities delivering such services are not unjustly enriched as a result of abusive financial arrangements (such as owner lease-backs); and
 

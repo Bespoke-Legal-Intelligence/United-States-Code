@@ -6,13 +6,15 @@ The Congress finds the following:
 
 &emsp;(2) Pledges of confidentiality by agencies provide assurances to the public that information about individuals or organizations or provided by individuals or organizations for exclusively statistical purposes will be held in confidence and will not be used against such individuals or organizations in any agency action.
 
-&emsp;(3) Protecting the confidentiality interests of individuals or organizations who provide information under a pledge of confidentiality for Federal statistical programs serves both the interests of the public and the needs of society.
+&emsp;(3) Protecting the confidentiality interests of individuals or organizations who provide information under a pledge of confidentiality forFederal statistical programs serves both the interests of the public and the needs of society.
 
 &emsp;(4) Declining trust of the public in the protection of information provided under a pledge of confidentiality to the agencies adversely affects both the accuracy and completeness of statistical analyses.
 
 &emsp;(5) Ensuring that information provided under a pledge of confidentiality for statistical purposes receives protection is essential in continuing public cooperation in statistical programs.
 
 (Added Pub. L. 115–435, title III, §302(a), Jan. 14, 2019, 132 Stat. 5548.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

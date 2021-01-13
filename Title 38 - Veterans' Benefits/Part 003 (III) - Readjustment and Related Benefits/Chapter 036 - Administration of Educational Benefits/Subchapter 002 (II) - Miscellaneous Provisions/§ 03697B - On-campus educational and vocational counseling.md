@@ -24,6 +24,8 @@ Annual Report.—Not later than 180 days after the date of the enactment of this
 
 (Added Pub. L. 115–48, title III, §307(a), Aug. 16, 2017, 131 Stat. 993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 115–48, which was approved Aug. 16, 2017.

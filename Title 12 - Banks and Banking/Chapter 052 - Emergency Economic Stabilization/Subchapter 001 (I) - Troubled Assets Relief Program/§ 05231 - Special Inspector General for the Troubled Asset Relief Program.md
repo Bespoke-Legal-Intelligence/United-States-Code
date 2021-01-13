@@ -20,7 +20,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 #### (c) Duties
 
-(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established bythe Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
+(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established by the Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
 
 &emsp;(A) A description of the categories of troubled assets purchased or otherwise procured by the Secretary.
 
@@ -112,7 +112,7 @@ The Special Inspector General shall be a member of the Council of the Inspectors
 
 #### (i) Reports
 
-(1) Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter. Each report shall include, for the period covered by such report, a detailed statement of all purchases, obligations, expenditures, and revenues associated with any program established by the Secretary of the Treasury under sections 5211 and 5212 of this title, as well as the information collected under subsection (c)(1).
+(1) Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter. Each report shall include, for the period covered by such report, a detailed statement of all purchases, obligations, expenditures, andrevenues associated with any program established by the Secretary of the Treasury under sections 5211 and 5212 of this title, as well as the information collected under subsection (c)(1).
 
 (2) Not later than September 1, 2009, the Special Inspector General shall submit a report to Congress assessing use of any funds, to the extent practical, received by a financial institution under the TARP and make the report available to the public, including posting the report on the home page of the website of the Special Inspector General within 24 hours after the submission of the report.
 
@@ -143,6 +143,8 @@ The Office of the Special Inspector General shall terminate on the later of—
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 
 (Pub. L. 110–343, div. A, title I, §121, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 111–15, §§2–6, Apr. 24, 2009, 123 Stat. 1603–1605.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,6 +6,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3005; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(16), Nov. 21, 1983, 97 Stat. 1010; renumbered §5105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(9), Aug. 6, 1991, 105 Stat. 405; Pub. L. 103–296, title I, §108(k), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 112–154, title V, §503, Aug. 6, 2012, 126 Stat. 1191.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -22,7 +24,7 @@ Subsec. (b). Pub. L. 112–154, §503(2), substituted "on any document indicatin
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(k)(1), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
-Subsec. (b). Pub. L. 103–296, §108(k), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: "A copy of each such application filed with either Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary."
+Subsec. (b). Pub. L. 103–296, §108(k), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: "A copy of each such application filed with either Secretary, together with any additional information and supporting documents (orcertifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary."
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3005 of this title as this section.
 
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 102–83, §4(b)(9)(D)–(J), substituted "(b) When an appl
 <b>1983</b>—Pub. L. 98–160 substituted "title II of the Social Security Act (42 U.S.C. 401 et seq.)" for "subchapter II of chapter 7 of title 42" wherever appearing.
 
 <b>1982</b>—Pub. L. 97–295 substituted "Health and Human Services" for "Health, Education, and Welfare" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

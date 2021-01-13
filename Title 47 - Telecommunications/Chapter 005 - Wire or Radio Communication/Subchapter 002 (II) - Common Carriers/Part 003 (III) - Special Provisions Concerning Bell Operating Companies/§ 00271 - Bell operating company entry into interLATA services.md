@@ -30,7 +30,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Presence of a facilities-based competitor
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) <sup>1</sup> of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) <sup>1</sup> of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by suchcompeting providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
 
 #### (B) Failure to request access
 
@@ -40,7 +40,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Agreement required
 
-&emsp;&emsp;A Bell operating company meets the requirements of this paragraph if, within theState for which the authorization is sought—
+&emsp;&emsp;A Bell operating company meets the requirements of this paragraph if, within the State for which the authorization is sought—
 
 &emsp;&emsp;&emsp;(i)(I) such company is providing access and interconnection pursuant to one or more agreements described in paragraph (1)(A), or
 
@@ -160,7 +160,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (f) Exception for previously authorized activities
 
-Neither subsection (a) nor section 273 of this title shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT\&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
+Neither subsection (a) nor section 273 of this title shall prohibit a Bell operating company oraffiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT\&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
 
 #### (g) "Incidental interLATA services" defined
 
@@ -215,6 +215,8 @@ For purposes of this section, a Bell operating company application to provide 80
 > shall be considered an in-region service subject to the requirements of subsection (b)(1).
 
 (June 19, 1934, ch. 652, title II, §271, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 86.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

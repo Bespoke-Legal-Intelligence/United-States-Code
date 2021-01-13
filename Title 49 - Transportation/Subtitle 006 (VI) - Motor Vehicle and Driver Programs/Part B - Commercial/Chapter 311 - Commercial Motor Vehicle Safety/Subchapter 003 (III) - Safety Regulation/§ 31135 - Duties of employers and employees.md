@@ -26,7 +26,7 @@ Officers.—If the Secretary finds, after notice and an opportunity for proceedi
 
 (c)
 
-Regulations.—Not later than 1 year after the date of enactment of this subsection, theSecretary shall by regulation establish standards to implement subsection (b).
+Regulations.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall by regulation establish standards to implement subsection (b).
 
 (d)
 

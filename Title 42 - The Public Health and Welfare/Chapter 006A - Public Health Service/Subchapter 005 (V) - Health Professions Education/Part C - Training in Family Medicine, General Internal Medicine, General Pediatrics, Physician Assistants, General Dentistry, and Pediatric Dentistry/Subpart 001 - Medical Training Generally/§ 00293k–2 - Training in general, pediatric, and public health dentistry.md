@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts with, a school of dentistry, public or nonprofit private hospital, or a public orprivate nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
+&emsp;The Secretary may make grants to, or enter into contracts with, a school of dentistry, public or nonprofit private hospital, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
 &emsp;&emsp;(A) to plan, develop, and operate, or participate in, an approved professional training program in the field of general dentistry, pediatric dentistry, or public health dentistry for dental students, residents, practicing dentists, dental hygienists, or other approved primary care dental trainees, that emphasizes training for general, pediatric, or public health dentistry;
 
@@ -52,7 +52,7 @@ With respect to training provided for under this section, the Secretary shall gi
 
 &emsp;(4) Qualified applicants that establish formal relationships with Federally qualified health centers, rural health centers, or accredited teaching facilities and that conduct training of students, residents, fellows, or faculty at the center or facility.
 
-&emsp;(5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
+&emsp;(5) Qualified applicants that conduct teaching programs targeting vulnerable populationssuch as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
 
 &emsp;(6) Qualified applicants that include educational activities in cultural competency and health literacy.
 
@@ -70,13 +70,13 @@ The period during which payments are made to an entity from an award of a grant 
 
 #### (f) Authorizations of appropriations
 
-For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015.
+For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $28,531,000 for each of fiscal years 2021 through 2025.
 
 #### (g) Carryover funds
 
 An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
 
-(July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 111–148, title V, §5303(2), Mar. 23, 2010, 124 Stat. 618.)
+(July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 111–148, title V, §5303(2), Mar. 23, 2010, 124 Stat. 618; amended Pub. L. 116–136, div. A, title III, §3401(4), Mar. 27, 2020, 134 Stat. 386.)
 
 #### Prior Provisions
 
@@ -85,4 +85,10 @@ A prior section 748 of act July 1, 1944, was renumbered section 749 and is class
 Another prior section 748 of act July 1, 1944, was classified to section 293l of this title prior to repeal by Pub. L. 105–392.
 
 Another prior section 748 of act July 1, 1944, was classified to section 294r of this title prior to renumbering by Pub. L. 97–35.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(5). Pub. L. 116–136, §3401(4)(A), substituted "substance use disorders" for "substance-related disorders".
+
+Subsec. (f). Pub. L. 116–136, §3401(4)(B), substituted "$28,531,000 for each of fiscal years 2021 through 2025" for "$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015".
 

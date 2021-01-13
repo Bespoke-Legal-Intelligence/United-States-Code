@@ -26,7 +26,7 @@
 
 (2) An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a),1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, §563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, §1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, §523, Oct. 28, 2004, 118 Stat. 1888.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, §563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, §1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, §523, Oct. 28, 2004, 118 Stat. 1888.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,8 @@ Oct. 4, 1961, Pub. L. 87–378, §7(a), 75 Stat. 809.
 In subsection (a), the words "without regard to classification or terminology peculiar to the Civil Service system" are omitted as unnecessary. The word "performance" is added on authority of the Performance Rating Act of 1950, which is carried into chapter 43 of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -110,6 +112,8 @@ Subsec. (c). Pub. L. 90–588 added subsec. (c), set out first.
 
 Subsec. (d). Pub. L. 90–588 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title XI, §1113(b), Nov. 24, 2003, 117 Stat. 1635, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to military service performed on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
@@ -118,7 +122,7 @@ Pub. L. 108–136, div. A, title XI, §1113(b), Nov. 24, 2003, 117 Stat. 1635, p
 
 Pub. L. 106–65, div. A, title XI, §1105(b), Oct. 5, 1999, 113 Stat. 777, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\] and shall apply with respect to days of leave under section 6323(d)(1) of title 5, United States Code, on or after that date."
 
-Pub. L. 106–65, div. A, title XI, §1106(b), Oct. 5, 1999, 113 Stat. 777, provided that: "The amendment made by subsection (a) \[amending this section\] shall not applywith respect to any inactive-duty training (as defined in such amendment) occurring before the date of the enactment of this Act \[Oct. 5, 1999\]."
+Pub. L. 106–65, div. A, title XI, §1106(b), Oct. 5, 1999, 113 Stat. 777, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any inactive-duty training (as defined in such amendment) occurring before the date of the enactment of this Act \[Oct. 5, 1999\]."
 
 #### Effective Date of 1994 Amendment
 

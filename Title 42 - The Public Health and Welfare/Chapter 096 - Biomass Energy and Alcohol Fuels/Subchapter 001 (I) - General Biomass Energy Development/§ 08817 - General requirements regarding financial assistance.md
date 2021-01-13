@@ -2,7 +2,7 @@
 
 #### (a) Priorities, terms, availability, etc.
 
-(1) Priority for financial assistance under this subchapter, and the most favorable financial terms available, shall be provided to a person for any biomass energy project that—
+(1) Priority for financial assistance under this subchapter, and the most favorable financialterms available, shall be provided to a person for any biomass energy project that—
 
 &emsp;(A) uses a primary fuel other than petroleum or natural gas in the production of biomass fuel, such as geothermal energy resources, solar energy resources, or waste heat; or
 

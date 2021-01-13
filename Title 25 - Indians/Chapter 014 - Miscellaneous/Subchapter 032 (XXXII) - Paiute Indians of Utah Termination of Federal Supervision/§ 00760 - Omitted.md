@@ -1,5 +1,7 @@
 ### §760. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §23, 68 Stat. 1104, which related to education and training program prior to the issuance of the proclamation, was omitted from the Code as being of special and not general application.

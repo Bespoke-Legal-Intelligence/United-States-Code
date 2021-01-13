@@ -30,7 +30,7 @@ In this subchapter—
 
 &emsp;&emsp;(I) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H), together with all supplements to such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this paragraph, except that the master agreement shall be considered to be a commodity contract under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H); or
 
-&emsp;&emsp;(J) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this paragraph, including any guarantee or reimbursement obligation by or to a commodity broker or financial participant in connection with any agreement or transaction referred to in this paragraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562;
+&emsp;&emsp;(J) any security agreement or arrangement or other credit enhancement related toany agreement or transaction referred to in this paragraph, including any guarantee or reimbursement obligation by or to a commodity broker or financial participant in connection with any agreement or transaction referred to in this paragraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562;
 
 &emsp;(5) "commodity option" means agreement or transaction subject to regulation under section 4c(b) of the Act;
 
@@ -90,7 +90,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such commodity options dealer for the purpose of making, exercising, or margining such a commodity contract;
 
-&emsp;(10) "customer property" means cash, a security, or other property, or proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the account of a customer—
+&emsp;(10) "customer property" means cash, a security, or other property, or proceeds of suchcash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the account of a customer—
 
 &emsp;&emsp;(A) including—
 
@@ -148,7 +148,7 @@ In this subchapter—
 
 #### legislative statements
 
-Subchapter IV of chapter 7 represents a compromise between similar chapters in the House bill and Senate amendment. Section 761(2) of the House amendment defines "clearing organization" to cover an organization that clears commodity contracts on a contract market or a board of trade; the expansion of the definition is intended to include clearing organizations that clear commodity options. Section 761(4) of the House amendment adopts the term "commodity contract" as used in section 761(5) of the Senate amendment but with the more precise substantive definitions contained in section 761(8) of the House bill. The definition is modified to insert "board of trade" to cover commodity options. Section 761(5) of the House amendment adopts the definition contained in section 761(6) of the Senate amendment in preference to the definition contained in section 761(4) of the House bill which erroneously included onions. Section 761(9) of the House amendment represents a compromise between similar provisions contained in section 761(10) of the Senate amendment and section 761(9) of the House bill. The compromise adopts the substance contained in the House bill and adopts the terminology of "commodity contract" in lieu of "contractual commitment" as suggested in the Senate amendment. Section 761(10) of the House amendment represents a compromise between similar sections in the House bill and Senate amendment regarding the definition of "customer property." The definition of "distribution share" contained in section 761(12) of the Senate amendment is deleted as unnecessary. Section 761(12) of the House amendment adopts a definition of "foreign futures commission merchant" similar to the definition contained in section 761(14) of the Senate amendment. The definition is modified to cover either an entity engaged in soliciting orders or the purchase or sale of a foreign future, or an entity that accepts cash, a security, or other property for credit in connection with such a solicitation or acceptance. Section 761(13) of the House amendment adopts a definition of "leverage transaction" identical to the definition contained in section 761(15) of the Senate amendment. Section 761(15) of the House amendment adopts the definition of "margin payment" contained in section 761(17) of the Senate amendment. Section 761(17) of the House amendment adopts a definition of "net equity" derived from section 761(15) of the House bill.
+Subchapter IV of chapter 7 represents a compromise between similar chapters in the House bill and Senate amendment. Section 761(2) of the House amendment defines "clearing organization" to cover an organization that clears commodity contracts on a contract market or a board of trade; the expansion of the definition is intended to include clearing organizations that clear commodity options. Section 761(4) of the House amendment adopts the term "commodity contract" as used in section 761(5) of the Senate amendment but with the more precise substantive definitions contained in section 761(8) of the House bill. The definition is modified to insert "board of trade" to cover commodity options. Section 761(5) of the House amendment adopts the definition contained in section 761(6) of the Senate amendment in preference to the definition contained in section 761(4) of the House bill which erroneously included onions. Section 761(9) of the House amendment represents a compromise between similar provisions contained in section 761(10) of the Senate amendment and section 761(9) of the House bill. The compromise adoptsthe substance contained in the House bill and adopts the terminology of "commodity contract" in lieu of "contractual commitment" as suggested in the Senate amendment. Section 761(10) of the House amendment represents a compromise between similar sections in the House bill and Senate amendment regarding the definition of "customer property." The definition of "distribution share" contained in section 761(12) of the Senate amendment is deleted as unnecessary. Section 761(12) of the House amendment adopts a definition of "foreign futures commission merchant" similar to the definition contained in section 761(14) of the Senate amendment. The definition is modified to cover either an entity engaged in soliciting orders or the purchase or sale of a foreign future, or an entity that accepts cash, a security, or other property for credit in connection with such a solicitation or acceptance. Section 761(13) of the House amendment adopts a definition of "leverage transaction" identical to the definition contained in section 761(15) of the Senate amendment. Section 761(15) of the House amendment adopts the definition of "margin payment" contained in section 761(17) of the Senate amendment. Section 761(17) of the House amendment adopts a definition of "net equity" derived from section 761(15) of the House bill.
 
 #### senate report no. 95–989
 
@@ -190,6 +190,8 @@ Paragraph (10) defines "customer property" to include all property in customer a
 
 Paragraph (15) \[enacted as (17)\] defines "net equity" to include the value of all contractual commitments at the time of liquidation or transfer less any obligations owed by the customer to the debtor, such as brokerage fees. In addition, the term includes the value of any specifically identifiable property as of the date of return to the customer and the value of any customer property transferred to another commodity broker as of the date of transfer. This definition places the risk of market fluctuations on the customer until commitments leave the estate.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -206,7 +208,7 @@ Par. (9)(A)(i). Pub. L. 111–203, §724(b)(2), substituted "a commodity contrac
 
 Par. (7). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(B)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'contract market' means board of trade designated as a contract market by the Commission under the Act;".
 
-Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par.\(8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
+Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par. (8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
 
 <b>1994</b>—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out "(7 U.S.C. 1 et seq.)" after "Act".
 
@@ -235,6 +237,8 @@ Par. (15). Pub. L. 97–222, §16(8), substituted "mark-to-market payments, sett
 Par. (16). Pub. L. 97–222, §16(9), struck out "at any time" after "customer property".
 
 Par. (17). Pub. L. 97–222, §16(10), in provisions preceding subpar. (A) substituted "has" for "holds", in subpar. (A) inserted "the" after "(A)" in provisions preceding cl. (i), and "in such capacity" after "customer" in cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

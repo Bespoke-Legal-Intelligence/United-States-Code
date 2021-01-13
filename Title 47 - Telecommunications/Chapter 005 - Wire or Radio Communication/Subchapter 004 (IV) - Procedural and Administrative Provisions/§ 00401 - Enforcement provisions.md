@@ -10,9 +10,11 @@ If any person fails or neglects to obey any order of the Commission other than f
 
 #### (c) Duty to prosecute
 
-Upon the request of the Commission it shall be the duty of any United States attorney to whom the Commission may apply to institute in the proper court and to prosecute under the direction of the Attorney General of the United States all necessary proceedings for the enforcement of the provisions of this chapter and for the punishment of all violations thereof, and the costs and expenses of such prosecutions shall be paid out of the appropriations for the expenses of the courts of the United States.
+Upon the request of the Commission it shall be the duty of any United States attorney to whom the Commission may apply to institute in the proper court and to prosecute under the direction of the Attorney General of the United States all necessary proceedings for the enforcement of the provisions of this chapter and forthe punishment of all violations thereof, and the costs and expenses of such prosecutions shall be paid out of the appropriations for the expenses of the courts of the United States.
 
 (June 19, 1934, ch. 652, title IV, §401, 48 Stat. 1092; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 93–528, §6(a), Dec. 21, 1974, 88 Stat. 1709.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this Act
 #### Amendments
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–528 repealed subsec. (d) which provided that the provisions of sections 28 and 29 of title 15, section 345(1) of title 28, and sections 44 and 45 of title 49, shall be held to apply to any suit in equity arising under sections 201 to 222 of this title, wherein the United States is complainant.
+
+#### <b>Satutory Notes and related Subsidiaries</b>
 
 #### Change of Name
 

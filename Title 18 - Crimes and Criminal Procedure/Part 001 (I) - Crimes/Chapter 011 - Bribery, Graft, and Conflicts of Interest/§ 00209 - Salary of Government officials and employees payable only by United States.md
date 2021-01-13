@@ -1,6 +1,6 @@
 ### §209. Salary of Government officials and employees payable only by United States
 
-(a) Whoever receives any salary, or any contribution to or supplementation of salary, ascompensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
+(a) Whoever receives any salary, or any contribution to or supplementation of salary, as compensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
 
 Whoever, whether an individual, partnership, association, corporation, or other organization pays, makes any contribution to, or in any way supplements, the salary of any such officer or employee under circumstances which would make its receipt a violation of this subsection—
 
@@ -23,6 +23,8 @@ Shall be subject to the penalties set forth in section 216 of this title.
 (h) This section does not prohibit a member of the reserve components of the armed forces on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member's employment had not been interrupted by such call or order to active duty.
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, §663, Oct. 28, 2004, 118 Stat. 1974.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,6 +58,8 @@ Subsec. (f). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "I
 
 <b>1979</b>—Subsec. (e). Pub. L. 96–174 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
@@ -67,6 +71,8 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 #### Exemptions
 
 Exemptions from former section 1914 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Promulgation of Regulations
 

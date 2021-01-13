@@ -1,6 +1,6 @@
 ### §1541. Administrative Law Judges
 
-Notwithstanding section 559 of title 5, with respect to any marine resource conservation law or regulation administered by the Secretary of Commerce acting through the National Oceanic and Atmospheric Administration, all adjudicatory functions which are required by chapter 5 of title 5 to be performed by an Administrative Law Judge may be performed by another Federal agency on a reimbursable basis. Should another Federal agency require the detail of an Administrative Law Judge to perform any of these functions, it may request such temporaryor occasional assistance from the Office of Personnel Management pursuant to section 3344 of title 5.
+Notwithstanding section 559 of title 5, with respect to any marine resource conservation law or regulation administered by the Secretary of Commerce acting through the National Oceanic and Atmospheric Administration, all adjudicatory functions which are required by chapter 5 of title 5 to be performed by an Administrative Law Judge may be performed by another Federal agency on a reimbursable basis. Should another Federal agency require the detail of an Administrative Law Judge to perform any of these functions, it may request such temporary or occasional assistance from the Office of Personnel Management pursuant to section 3344 of title 5.
 
 (Pub. L. 105–160, §10, Mar. 6, 1998, 112 Stat. 27; Pub. L. 114–327, title I, §122, Dec. 16, 2016, 130 Stat. 1985.)
 

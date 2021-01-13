@@ -2,7 +2,7 @@
 
 #### (a) Civil actions; concurrent jurisdiction; relief
 
-The United States district courts shall have original jurisdiction over any civil action or claim against the appropriate Secretary arising under this chapter and, subject to the provisions of subsection (d) of this section and concurrent with the United States Court of Claims, over any civil action or claim against the Secretary for money damages arising under contracts authorized by this chapter. In an action brought under this paragraph, the district courts may order appropriate relief including money damages, injunctive relief against any action by an officer of the United States or any agency thereof contrary to this chapter or regulations promulgated thereunder, or mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this chapter or regulations promulgated hereunder (including immediate injunctive relief to reverse a declination finding under section 5321(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract).
+The United States district courts shall have original jurisdiction over any civil action or claim against the appropriate Secretary arising under this chapter and, subject to the provisionsof subsection (d) of this section and concurrent with the United States Court of Claims, over any civil action or claim against the Secretary for money damages arising under contracts authorized by this chapter. In an action brought under this paragraph, the district courts may order appropriate relief including money damages, injunctive relief against any action by an officer of the United States or any agency thereof contrary to this chapter or regulations promulgated thereunder, or mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this chapter or regulations promulgated hereunder (including immediate injunctive relief to reverse a declination finding under section 5321(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract).
 
 #### (b) Revision of contracts
 
@@ -21,6 +21,8 @@ Chapter 71 of title 41 shall apply to self-determination contracts, except that 
 Subsection (d) of this section shall apply to any case pending or commenced on or after March 17, 1986, before the Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services <sup>2</sup> except that in any such cases finally disposed of before October 5, 1988, the thirty-day period referred to in section 504(a)(2) of title 5 shall be deemed to commence on October 5, 1988.
 
 (Pub. L. 93–638, title I, §110, as added Pub. L. 100–472, title II, §206(a), Oct. 5, 1988, 102 Stat. 2294; amended Pub. L. 100–581, title II, §212, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, §§1(a)(2), 2(b), May 24, 1990, 104 Stat. 206, 207; Pub. L. 103–413, title I, §104(2), (3), Oct. 25, 1994, 108 Stat. 4268.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -100,7 +100,7 @@ Consultations and Information To Be Considered in Finding Jurisdictions, Institu
 
 &emsp;(1)
 
-In general.—In making a finding that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern so as to authorize the Secretary of the Treasury to take 1 or more of the special measures described in subsection (b), the Secretary shall consult with the Secretary of State and the Attorney General.
+In general.—In making a finding that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes oftransactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern so as to authorize the Secretary of the Treasury to take 1 or more of the special measures described in subsection (b), the Secretary shall consult with the Secretary of State and the Attorney General.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Institutional factors.—In the case of a decision to apply 1 or more of the spe
 
 (d)
 
-Notification of Special Measures Invoked by the Secretary.—Not later than 10days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
 (e)
 
@@ -168,7 +168,7 @@ Definitions applicable to institutions other than banks.—With respect to any f
 
 &emsp;(3)
 
-Regulatory definition of beneficial ownership.—The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual's authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual's material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j) of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
+Regulatory definition of beneficial ownership.—The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual's authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual's material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j)of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
 
 &emsp;(4)
 
@@ -179,6 +179,8 @@ Other terms.—The Secretary may, by regulation, further define the terms in par
 Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
 (Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, §6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, §501, Sept. 30, 2006, 120 Stat. 1350.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -208,9 +210,23 @@ Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted "or subsection (i) or 
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–177 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, setout as a note under section 1828 of Title 12, Banks and Banking.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+
+#### Determination With Respect to Primary Money Laundering Concern of Russian Illicit Finance
+
+Pub. L. 116–283, div. H, title XCVII, §9714(a), Jan. 1, 2021, 134 Stat. 4838, provided that:
+
+"(a)
+
+Determination.—If the Secretary of the Treasury determines that reasonable grounds exist for concluding that one or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts within, or involving, a jurisdiction outside of the United States is of primary money laundering concern in connection with Russian illicit finance, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—
+
+&emsp;"(1) require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in section 5318A(b) of title 31, United States Code; or
+
+&emsp;"(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of account."
 
 #### "Federal Functional Regulator" Includes Commodity Futures Trading Commission
 

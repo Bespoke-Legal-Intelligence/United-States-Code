@@ -62,7 +62,7 @@ Funds awarded to eligible entities under subsection (a) shall be used to design 
 
 &emsp;(3) may use funds for the administrative expenses related to the continuing operation, upkeep, maintenance, and use of housing described in paragraph (2); and
 
-&emsp;(4) may provide to the community information about housing and housing programs, and the process to locate and obtain long-term housing.
+&emsp;(4) may provide to the community information about housing and housing programs, andthe process to locate and obtain long-term housing.
 
 #### (e) Limitation
 
@@ -109,6 +109,8 @@ For purposes of this section—
 There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
 
 (Pub. L. 103–322, title IV, §41404, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3033; amended Pub. L. 109–271, §5(a), Aug. 12, 2006, 120 Stat. 759; Pub. L. 113–4, title VI, §603(1), Mar. 7, 2013, 127 Stat. 110.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

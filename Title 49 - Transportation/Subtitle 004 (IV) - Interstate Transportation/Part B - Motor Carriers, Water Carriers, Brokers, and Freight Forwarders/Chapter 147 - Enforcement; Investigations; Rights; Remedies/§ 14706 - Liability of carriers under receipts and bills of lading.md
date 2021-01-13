@@ -6,7 +6,7 @@ General Liability.—
 
 &emsp;(1)
 
-Motor carriers and freight forwarders.—A carrier providing transportationor service subject to jurisdiction under subchapter I or III of chapter 135 shall issue a receipt or bill of lading for property it receives for transportation under this part. That carrier and any other carrier that delivers the property and is providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or chapter 105 are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this paragraph is for the actual loss or injury to the property caused by (A) the receiving carrier, (B) the delivering carrier, or (C) another carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading and, except in the case of a freight forwarder, applies to property reconsigned or diverted under a tariff under section 13702. Failure to issue a receipt or bill of lading does not affect the liability of a carrier. A delivering carrier is deemed to be the carrier performing the line-haul transportation nearest the destination but does not include a carrier providing only a switching service at the destination.
+Motor carriers and freight forwarders.—A carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 shall issue a receipt or bill of lading for property it receives for transportation under this part. That carrier and any other carrier that delivers the property and is providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or chapter 105 are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this paragraph is for the actual loss or injury to the property caused by (A) the receiving carrier, (B) the delivering carrier, or (C) another carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading and, except in the case of a freight forwarder, applies to property reconsigned or diverted under a tariff under section 13702. Failure to issue a receipt or bill of lading does not affect the liability of a carrier. A delivering carrier is deemed to be the carrier performing the line-haul transportation nearest the destination but does not include a carrier providing only a switching service at the destination.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Motor carriers.—
 
 &emsp;&emsp;(A)
 
-Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
+Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between thecarrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
 
 &emsp;&emsp;(B)
 
@@ -76,7 +76,7 @@ In general.—A carrier may not provide by rule, contract, or otherwise, a perio
 
 Special rules.—For the purposes of this subsection—
 
-&emsp;&emsp;(A) an offer of compromise shall not constitute a disallowance of any part of the claim unless the carrier, in writing, informsthe claimant that such part of the claim is disallowed and provides reasons for such disallowance; and
+&emsp;&emsp;(A) an offer of compromise shall not constitute a disallowance of any part of the claim unless the carrier, in writing, informs the claimant that such part of the claim is disallowed and provides reasons for such disallowance; and
 
 &emsp;&emsp;(B) communications received from a carrier's insurer shall not constitute a disallowance of any part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reason for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
 

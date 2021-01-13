@@ -6,7 +6,7 @@
 
 &emsp;(2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
 
-&emsp;(3) Chapter 69, Retired Grade, except sections 1370, 1374,<sup>1</sup> 1375 and 1376(a).<sup>1</sup>
+&emsp;(3) Chapter 69, Retired Grade, except sections 1370,<sup>1</sup> 1374,<sup>1</sup> 1375 and 1376(a).<sup>1</sup>
 
 &emsp;(4) Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.<sup>1</sup>
 
@@ -38,11 +38,23 @@
 
 &emsp;(18) Section 1034, Protected Communications; Prohibition of Retaliatory Personnel Actions.
 
-(b) The authority vested by title 10 in the "military departments", "the Secretary concerned", or "the Secretary of Defense" with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term "Inspector General" in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+&emsp;(19) Chapter 1223, Retired Pay for Non-Regular Service.
 
-(July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804; Pub. L. 107–107, div. A, title VI, §653(a), Dec. 28, 2001, 115 Stat. 1153; Pub. L. 112–144, title XI, §1129, July 9, 2012, 126 Stat. 1118.)
+&emsp;(20) Section 12601, Compensation: Reserve on active duty accepting from any person.
+
+&emsp;(21) Section 12684, Reserves: separation for absence without authority or sentence to imprisonment.
+
+(b)(1) The authority vested by title 10 in the "military departments", "the Secretary concerned", or "the Secretary of Defense" with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or the designee of such Secretary.
+
+(2) For purposes of paragraph (18) of subsection (a), the term "Inspector General" in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+
+(3) For purposes of paragraph (19) of subsection (a), the terms "Military department", "Secretary concerned", and "Armed forces" in such title 10 shall be deemed to include, respectively, the Department of Health and Human Services, the Secretary of Health and Human Services, and the Commissioned Corps.
+
+(July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804; Pub. L. 107–107, div. A, title VI, §653(a), Dec. 28, 2001, 115 Stat. 1153; Pub. L. 112–144, title XI, §1129, July 9, 2012, 126 Stat. 1118; Pub. L. 116–136, div. A, title III, §3214(d), Mar. 27, 2020, 134 Stat. 373.)
 
 #### References in Text
+
+Section 1370 of title 10, referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of Title 10 in such determination with respect to such officers is deemed to be a reference to section 1370a of Title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of Title 10.
 
 Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, §1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces.
 
@@ -53,6 +65,12 @@ Formula No. 3 of section 1401 of title 10, referred to in subsec. (a)(4), was st
 Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(19) to (21). Pub. L. 116–136, §3214(d)(1), added pars. (19) to (21).
+
+Subsec. (b). Pub. L. 116–136, §3214(d)(2)(B)–(D), designated first and second sentences as pars. (1) and (2), respectively, and added par. (3).
+
+Pub. L. 116–136, §3214(d)(2)(A), substituted "Secretary of Health and Human Services or the designee of such Secretary" for "Secretary of Health, Education, and Welfare or his designee".
 
 <b>2012</b>—Subsec. (a)(18). Pub. L. 112–144, §1129(a), added par. (18).
 
@@ -76,7 +94,7 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end "For purposes of para
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense.
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amendedby "adding the following new clause at the end thereof", the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the "new" clause was numbered "(9)" and subsec. (a) contained cls. (1) to (8).
+<b>1962</b>—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by "adding the following new clause at the end thereof", the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the "new" clause was numbered "(9)" and subsec. (a) contained cls. (1) to (8).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
 

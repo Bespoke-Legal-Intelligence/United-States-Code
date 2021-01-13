@@ -27,9 +27,15 @@
 | 278g–2. | Post-doctoral fellowship program. |
 | 278g–2a. | Teacher science and technology enhancement Institute program. |
 | 278g–3. | Computer standards program. |
+| 278g–3a. | Definitions. |
+| 278g–3b. | Security standards and guidelines for agencies on use and management of Internet of Things devices. |
+| 278g–3c. | Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices. |
+| 278g–3d. | Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices. |
+| 278g–3e. | Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices. |
 | 278g–4. | Information Security and Privacy Advisory Board. |
 | 278g–5. | Enterprise integration initiative. |
 | [278h.](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md) | Research program on security of computer systems. |
+| 278h–1. | Standards for artificial intelligence. |
 | [278i.](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
 | [278k.](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md) | Hollings Manufacturing Extension Partnership. |
@@ -82,9 +88,15 @@
 - [&sect; 00278g&#8211;2 - Post-doctoral fellowship program](%C2%A7%2000278g%E2%80%932%20-%20Post-doctoral%20fellowship%20program.md)
 - [&sect; 00278g&#8211;2a - Teacher science and technology enhancement Institute program](%C2%A7%2000278g%E2%80%932a%20-%20Teacher%20science%20and%20technology%20enhancement%20Institute%20program.md)
 - [&sect; 00278g&#8211;3 - Computer standards program](%C2%A7%2000278g%E2%80%933%20-%20Computer%20standards%20program.md)
+- [&sect; 00278g&#8211;3a - Definitions](%C2%A7%2000278g%E2%80%933a%20-%20Definitions.md)
+- [&sect; 00278g&#8211;3b - Security standards and guidelines for agencies on use and management of Internet of Things devices](%C2%A7%2000278g%E2%80%933b%20-%20Security%20standards%20and%20guidelines%20for%20agencies%20on%20use%20and%20management%20of%20Internet%20of%20Things%20devices.md)
+- [&sect; 00278g&#8211;3c - Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things&#8230;](%C2%A7%2000278g%E2%80%933c%20-%20Guidelines%20on%20the%20disclosure%20process%20for%20security%20vulnerabilities%20relating%20to%20information%20systems%2C%20including%20Internet%20of%20Things%E2%80%A6.md)
+- [&sect; 00278g&#8211;3d - Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of&#8230;](%C2%A7%2000278g%E2%80%933d%20-%20Implementation%20of%20coordinated%20disclosure%20of%20security%20vulnerabilities%20relating%20to%20agency%20information%20systems%2C%20including%20Internet%20of%E2%80%A6.md)
+- [&sect; 00278g&#8211;3e - Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices](%C2%A7%2000278g%E2%80%933e%20-%20Contractor%20compliance%20with%20coordinated%20disclosure%20of%20security%20vulnerabilities%20relating%20to%20agency%20Internet%20of%20Things%20devices.md)
 - [&sect; 00278g&#8211;4 - Information Security and Privacy Advisory Board](%C2%A7%2000278g%E2%80%934%20-%20Information%20Security%20and%20Privacy%20Advisory%20Board.md)
 - [&sect; 00278g&#8211;5 - Enterprise integration initiative](%C2%A7%2000278g%E2%80%935%20-%20Enterprise%20integration%20initiative.md)
 - [&sect; 00278h - Research program on security of computer systems](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md)
+- [&sect; 00278h&#8211;1 - Standards for artificial intelligence](%C2%A7%2000278h%E2%80%931%20-%20Standards%20for%20artificial%20intelligence.md)
 - [&sect; 00278i - Reports to Congress](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md)
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
 - [&sect; 00278k - Hollings Manufacturing Extension Partnership](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md)

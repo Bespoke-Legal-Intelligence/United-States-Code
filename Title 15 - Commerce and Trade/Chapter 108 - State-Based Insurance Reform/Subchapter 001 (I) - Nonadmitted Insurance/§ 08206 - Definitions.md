@@ -110,7 +110,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(DD) a designation as a RIMS Fellow (RF) issued by the Global Risk Management Institute; or
 
-&emsp;&emsp;&emsp;&emsp;(EE) any other designation, certification, or license determined by a Stateinsurance commissioner or other State insurance regulatory official or entity to demonstrate minimum competency in risk management;
+&emsp;&emsp;&emsp;&emsp;(EE) any other designation, certification, or license determined by a State insurance commissioner or other State insurance regulatory official or entity to demonstrate minimum competency in risk management;
 
 &emsp;&emsp;&emsp;(ii)(I) has at least 7 years of experience in risk financing, claims administration, loss prevention, risk and insurance coverage analysis, or purchasing commercial lines of insurance; and
 

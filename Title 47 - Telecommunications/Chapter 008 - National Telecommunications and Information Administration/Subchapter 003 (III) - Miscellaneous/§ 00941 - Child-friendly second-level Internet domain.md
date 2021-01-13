@@ -12,7 +12,7 @@ The NTIA shall require the registry selected to operate and maintain the United 
 
 #### (2) Successor registries
 
-&emsp;The NTIA shall not enter into any contract for operating and maintaining the UnitedStates country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
+&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
 
 #### (c) Requirements of new domain
 
@@ -28,7 +28,7 @@ The registry and new domain shall be subject to the following requirements:
 
 &emsp;(5) A process for removing from the new domain any content that is not in accordance with the standards and requirements of the registry.
 
-&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt, expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
+&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt,expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
 
 &emsp;(7) Continuous and uninterrupted service for the new domain during any transition to a new registry selected to operate and maintain new domain or the United States country code domain.
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
-&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulatedsexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
 &emsp;&emsp;(C) taken as a whole, the material lacks serious, literary, artistic, political, or scientific value for minors.
 
@@ -124,11 +124,15 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 102–538, title I, §157, as added Pub. L. 107–317, §4, Dec. 4, 2002, 116 Stat. 2767.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d), is Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended, known as the Telecommunications Authorization Act of 1992. Title I of the Act, known as the National Telecommunications and Information Administration Organization Act, is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Communications Act of 1934, referred to in subsec. (e)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Title II of the Act is classified generally to subchapter II (§201 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings and Purposes
 
@@ -158,7 +162,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(10) the creation of a 'green-light' area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
 
-&emsp;"(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors byshielding them from material that is harmful to them is a compelling governmental interest.
+&emsp;"(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
 
 "(b)
 

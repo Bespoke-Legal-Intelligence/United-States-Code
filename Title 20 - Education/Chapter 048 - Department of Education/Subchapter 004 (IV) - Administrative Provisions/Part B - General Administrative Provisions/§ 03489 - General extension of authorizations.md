@@ -62,7 +62,7 @@ The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189,
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapterIX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
 
 #### Codification
 

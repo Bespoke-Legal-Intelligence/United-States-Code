@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) Developing, not later than 6 months after October 25, 2004, and updating periodically—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a strategic plan that establishes goals and priorities for the Programactivities described under subsection (a)(2); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) a detailed management plan to implement such strategic plan.
 
@@ -104,7 +104,7 @@
 
 #### (B) Support for preparation of report
 
-&emsp;&emsp;Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
+&emsp;&emsp;Each head of a Program agency shall submit to the Director of the National Instituteof Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
 
 #### (5) Advisory Committee
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;(ii) shall support the implementation of a comprehensive earthquake education, outreach, and public awareness program, including development of materials and their wide dissemination to all appropriate audiences and support public access to locality-specific information that may assist the public in preparing for, mitigating against, responding to and recovering from earthquakes and related disasters;
 
-&emsp;&emsp;&emsp;(iii) shall, in conjunction with the Director of the National Institute of Standards and Technology, other Federal agencies, and private sector groups, use research results to support the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifeline infrastructure, aid in the development of performance-based design guidelines and methodologies, and support model codes that are cost effective and affordable in order to promote better practices within the design and construction industry and reduce losses from earthquakes;
+&emsp;&emsp;&emsp;(iii) shall, in conjunction with the Director of the National Institute of Standards and Technology, other Federal agencies, and private sector groups, use research results to support the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifeline infrastructure, aid in the development of performance-based design guidelines and methodologies, and support model codes that are cost effective and affordable in orderto promote better practices within the design and construction industry and reduce losses from earthquakes;
 
 &emsp;&emsp;&emsp;(iv) shall enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or to prepare educational materials for national distribution; and
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;(ii) in addition to supporting individual investigators, support university research consortia, State agencies, State geological surveys, and centers for research in geosciences and in earthquake engineering;
 
-&emsp;&emsp;&emsp;(iii) work closely with the United States Geological Survey to support applied science in the production of a systematic series of earthquake-related geologic hazard maps, and to identify geographic regions of national concern that should be the focus of targeted solicitations for earthquake-related research proposals;
+&emsp;&emsp;&emsp;(iii) work closely with the United States Geological Survey to support appliedscience in the production of a systematic series of earthquake-related geologic hazard maps, and to identify geographic regions of national concern that should be the focus of targeted solicitations for earthquake-related research proposals;
 
 &emsp;&emsp;&emsp;(iv) support research that improves the safety and performance of buildings, structures, and lifeline systems using experimental and computational facilities;
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;(vii) include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations;
 
-&emsp;&emsp;&emsp;(viii) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time ofthe development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner; and
+&emsp;&emsp;&emsp;(viii) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner; and
 
 &emsp;&emsp;&emsp;(ix) support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.
 
@@ -344,7 +344,7 @@ Subsec. (b)(5). Pub. L. 115–307, §3(c)(2), inserted "community resilience thr
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "There is established a National Earthquake Hazards Reduction Program."
 
-Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted "National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute" for "Federal Emergency Management Agency (hereafter in this chapter referred to as the 'Agency') shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency" and struck out concluding provisions which read as follows: "The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director."
+Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted "National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute" for "Federal Emergency Management Agency (hereafter in this chapter referred to as the 'Agency') shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency" and struck out concluding provisions which read as follows:"The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director."
 
 Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: "prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;".
 
@@ -426,7 +426,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: "The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring."
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "The United States Government shall, to themaximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring."
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
@@ -572,7 +572,7 @@ Contents of assessment.—The assessment conducted under this subsection shall i
 
 &emsp;&emsp;"(A) a review of the disaster training programs offered by the Federal Emergency Management Agency at the time of the assessment;
 
-&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending onJuly 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
+&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
 
 &emsp;&emsp;"(C) a recommendation on the need to provide additional Federal disaster-response training centers.
 
@@ -608,7 +608,7 @@ Sec. 2. <i>Requirements for Earthquake Safety of New Federal Buildings, Improvem
 
 (c) <i>Federal Assistance Programs</i>. Each agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of a newly constructed building shall consider updating its procedures for providing the assistance to be consistent with section 3(a) of this order, to assure appropriate consideration of earthquake safety.
 
-(d) <i>Federally Regulated Buildings</i>. Each agency with responsibility for regulating the structural safety of a new building shall consider using earthquake-resistant design and construction standards for the new building consistent with section 3(a) of this order.
+(d) <i>Federally Regulated Buildings</i>. Each agency with responsibility for regulating the structural safety of a new building shall consider using earthquake-resistantdesign and construction standards for the new building consistent with section 3(a) of this order.
 
 Sec. 3. <i>Codes, Standards, and Concurrent Requirements</i>. (a) Commencing within 90 days after the date of this order, each agency shall ensure that every new building for which the agency has not started programming is in compliance with the earthquake-resistant design provisions of the 2015 editions of the International Building Code (IBC) or the International Residential Code (IRC), nationally recognized building codes promulgated by the International Code Council (ICC), or equivalent codes, consistent with the provisions of and to the extent required by 40 U.S.C. 3312. When the ICC releases a new version of the IRC or IBC, each agency that constructs buildings shall determine whether the new version is a nationally recognized code for the purposes of 40 U.S.C. 3312(b), as expeditiously as practicable, but not later than 2 years after the release of the new version. If an agency determines that a new version is a nationally recognized code, it shall ensure that any building, for which the agency has not started programming, shall be in compliance with that new version or an equivalent code.
 
@@ -662,7 +662,7 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to agencies' statutory authorities, and sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (the "Stafford Act") (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to section 408 of the Stafford Act (42 U.S.C. 5174). This order shall, however, apply to other provisions of the Stafford Act after a Presidentially declared major disaster or emergency when assistance actions involve new construction or alterations to an existing building.
+(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives andprotect property and public health and safety, performed pursuant to agencies' statutory authorities, and sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (the "Stafford Act") (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to section 408 of the Stafford Act (42 U.S.C. 5174). This order shall, however, apply to other provisions of the Stafford Act after a Presidentially declared major disaster or emergency when assistance actions involve new construction or alterations to an existing building.
 
 (e) This order applies only to buildings within the United States and its territories and possessions.
 

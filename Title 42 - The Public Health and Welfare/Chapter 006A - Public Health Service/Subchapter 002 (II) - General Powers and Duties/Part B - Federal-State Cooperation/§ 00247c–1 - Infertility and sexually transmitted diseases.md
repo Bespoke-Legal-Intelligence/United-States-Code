@@ -98,7 +98,7 @@ With respect to activities for which a grant under subsection (a) is authorized 
 
 #### (B) Participation of certain entities
 
-&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant provides assurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
+&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant providesassurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
 
 &emsp;&emsp;&emsp;(i) representatives of entities in the geographic area involved that provide services for the prevention and control of sexually transmitted diseases, including programs to provide to the public information and education regarding such diseases; and
 

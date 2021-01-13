@@ -26,7 +26,7 @@ The purposes of the technology transfer program under this section are to—
 
 #### (c) Identification
 
-Pursuant to the agreements required by subsection (a), the Secretary, through the Agency for International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries that substantially reduce environmental pollutants, including greenhouse gases, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
+Pursuant to the agreements required by subsection (a), the Secretary, through the Agency for International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms toidentify potential energy projects in host countries that substantially reduce environmental pollutants, including greenhouse gases, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
 
 #### (d) Financial mechanisms
 
@@ -90,13 +90,13 @@ Not later than 6 months after October 24, 1992, the Secretary shall prepare a li
 
 &emsp;(B) the degree to which the equipment to be included in the project is designed and manufactured in the United States;
 
-&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
+&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using suchtechnology in the host country and in other foreign countries;
 
 &emsp;(D) the extent of technical and financial involvement of the host country in the project;
 
 &emsp;(E) the extent to which the proposed project meets the purposes of this section;
 
-&emsp;(F) the extent of technical, financial, management, and marketing capabilities of theparticipants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology or service for future application; and
+&emsp;(F) the extent of technical, financial, management, and marketing capabilities of the participants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology or service for future application; and
 
 &emsp;(G) such other criteria as may be appropriate.
 

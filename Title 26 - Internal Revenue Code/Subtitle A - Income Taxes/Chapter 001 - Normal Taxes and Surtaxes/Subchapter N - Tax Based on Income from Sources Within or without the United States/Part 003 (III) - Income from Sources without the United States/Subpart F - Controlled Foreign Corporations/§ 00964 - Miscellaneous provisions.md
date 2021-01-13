@@ -2,7 +2,7 @@
 
 #### (a) Earnings and profits
 
-Except as provided in section 312(k)(4), for purposes of this subpart, the earnings and profits of any foreign corporation, and the deficit in earnings and profits of any foreign corporation, for any taxable year shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary. In determining such earnings and profits, or the deficit in such earnings and profits, the amount of any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) shall not be taken into account to decrease such earnings and profits or to increase such deficit. The payments referred to in the preceding sentence are paymentswhich would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
+Except as provided in section 312(k)(4), for purposes of this subpart, the earnings and profits of any foreign corporation, and the deficit in earnings and profits of any foreign corporation, for any taxable year shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary. In determining such earnings and profits, or the deficit in such earnings and profits, the amount of any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) shall not be taken into account to decrease such earnings and profits or to increase such deficit. The payments referred to in the preceding sentence are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
 
 #### (b) Blocked foreign income
 
@@ -16,7 +16,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 #### (2) Two or more persons required to maintain or furnish the same records and accounts with respect to the same foreign corporation
 
-&emsp;Where, but for this paragraph, two or more United States persons would be required to maintain or furnish the same records and accounts as may by regulations be required under paragraph (1) with respect to the same controlled foreign corporation for the same period, the Secretary may by regulations provide that the maintenance or furnishing of such records and accounts by only one such person shall satisfy the requirements of paragraph (1) for such other persons.
+&emsp;Where, but for this paragraph, two or more United States persons would be required tomaintain or furnish the same records and accounts as may by regulations be required under paragraph (1) with respect to the same controlled foreign corporation for the same period, the Secretary may by regulations provide that the maintenance or furnishing of such records and accounts by only one such person shall satisfy the requirements of paragraph (1) for such other persons.
 
 #### (d) Treatment of certain branches
 
@@ -68,7 +68,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;&emsp;(i) the foreign-source portion of such dividend shall be treated for purposes of section 951(a)(1)(A) as subpart F income of the selling controlled foreign corporation for such taxable year,
 
-&emsp;&emsp;&emsp;(ii) a United States shareholder with respect to the selling controlled foreign corporation shall include in gross income for the taxable year of the shareholder with or within which such taxable year of the controlled foreign corporation ends an amount equal to the shareholder's pro rata share (determined in the same manner asunder section 951(a)(2)) of the amount treated as subpart F income under clause (i), and
+&emsp;&emsp;&emsp;(ii) a United States shareholder with respect to the selling controlled foreign corporation shall include in gross income for the taxable year of the shareholder with or within which such taxable year of the controlled foreign corporation ends an amount equal to the shareholder's pro rata share (determined in the same manner as under section 951(a)(2)) of the amount treated as subpart F income under clause (i), and
 
 &emsp;&emsp;&emsp;(iii) the deduction under section 245A(a) shall be allowable to the United States shareholder with respect to the subpart F income included in gross income under clause (ii) in the same manner as if such subpart F income were a dividend received by the shareholder from the selling controlled foreign corporation.
 
@@ -80,7 +80,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;For purposes of this paragraph, the foreign-source portion of any amount treated as a dividend under paragraph (1) shall be determined in the same manner as under section 245A(c).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II, §206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub. L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716; Pub. L. 105–34, title XI, §1111(a), Aug. 5, 1997, 111 Stat. 968; Pub. L. 115–97, title I, §§14102(c)(1), 14212(b)(4), Dec. 22, 2017, 131 Stat. 2193, 2217.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II,§206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub. L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716; Pub. L. 105–34, title XI, §1111(a), Aug. 5, 1997, 111 Stat. 968; Pub. L. 115–97, title I, §§14102(c)(1), 14212(b)(4), Dec. 22, 2017, 131 Stat. 2193, 2217.)
 
 #### References in Text
 

@@ -20,6 +20,8 @@ The words "without permission of the master" were deleted to remove an inconsist
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $200" in first par.

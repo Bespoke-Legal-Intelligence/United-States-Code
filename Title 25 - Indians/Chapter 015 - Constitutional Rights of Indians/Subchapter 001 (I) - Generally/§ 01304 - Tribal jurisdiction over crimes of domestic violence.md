@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Domestic violence
 
-&emsp;The term "domestic violence" means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indiantribe that has jurisdiction over the Indian country where the violence occurs.
+&emsp;The term "domestic violence" means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indian tribe that has jurisdiction over the Indian country where the violence occurs.
 
 #### (3) Indian country
 
@@ -176,9 +176,13 @@ There are authorized to be appropriated $5,000,000 for each of fiscal years 2014
 
 (Pub. L. 90–284, title II, §204, as added Pub. L. 113–4, title IX, §904, Mar. 7, 2013, 127 Stat. 120.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d)(1), probably means title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, popularly known as the Indian Civil Rights Act of 1968, which is classified generally to this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Dates; Pilot Project
 

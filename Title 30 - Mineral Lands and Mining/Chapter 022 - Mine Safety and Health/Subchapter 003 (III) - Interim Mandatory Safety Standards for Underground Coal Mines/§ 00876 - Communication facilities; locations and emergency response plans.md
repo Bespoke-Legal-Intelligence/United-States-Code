@@ -46,7 +46,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) Post-accident communications
 
-&emsp;&emsp;&emsp;The plan shall provide for a redundant means of communication with the surface for persons underground, such as secondary telephone or equivalent two-way communication.
+&emsp;&emsp;&emsp;The plan shall provide for a redundant means of communication with the surfacefor persons underground, such as secondary telephone or equivalent two-way communication.
 
 #### (ii) Post-accident tracking
 
@@ -80,7 +80,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subjectto the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
+&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
 
 #### (ii) Post accident communications
 
@@ -106,6 +106,8 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 (Pub. L. 91–173, title III, §316, Dec. 30, 1969, 83 Stat. 787; Pub. L. 109–236, §2, June 15, 2006, 120 Stat. 493.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -113,6 +115,8 @@ This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "th
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–236 inserted "and emergency response plans" after "locations" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

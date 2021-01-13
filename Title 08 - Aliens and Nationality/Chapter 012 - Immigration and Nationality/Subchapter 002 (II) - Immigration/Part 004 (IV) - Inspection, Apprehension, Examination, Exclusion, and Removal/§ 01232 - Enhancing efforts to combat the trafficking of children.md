@@ -10,7 +10,7 @@
 
 #### (A) Determinations
 
-&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a countrythat is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
+&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a country that is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
 
 &emsp;&emsp;&emsp;(i) such child has not been a victim of a severe form of trafficking in persons, and there is no credible evidence that such child is at risk of being trafficked upon return to the child's country of nationality or of last habitual residence;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) any information gathered in assessments of country and local conditions pursuant to paragraph (2); and
 
-&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children asprovided for in section 279(b)(1)(J) of title 6.
+&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children as provided for in section 279(b)(1)(J) of title 6.
 
 #### (D) Placement in removal proceedings
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian'sidentity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
@@ -176,11 +176,11 @@
 
 #### (iii) Contribution of funds
 
-&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
+&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kindcontributions may not exceed 40 percent of the matching requirement under this clause.
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary ofHealth and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 
@@ -252,7 +252,7 @@
 
 #### (6) Transition rule
 
-&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant statusunder such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
+&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) ofthe Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
 
 #### (7) Omitted
 
@@ -283,6 +283,8 @@ This section—
 The Secretary of Health and Human Services may award grants to, and enter into contracts with, voluntary agencies to carry out this section and section 279 of title 6.
 
 (Pub. L. 110–457, title II, §235, Dec. 23, 2008, 122 Stat. 5074; Pub. L. 113–4, title XII, §§1261–1263, Mar. 7, 2013, 127 Stat. 156–159; Pub. L. 115–393, title III, §301(d), Dec. 21, 2018, 132 Stat. 5272.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

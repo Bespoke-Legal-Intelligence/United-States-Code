@@ -36,6 +36,8 @@ Pub. L. 86–249, §11, Sept. 9, 1959, 73 Stat. 481; Pub. L. 96–470, title II,
 
 In subsection (b), the words "United States Postal Service" are substituted for "Postmaster General" in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3316 was renumbered section 3317 of this title.
@@ -45,6 +47,8 @@ A prior section 3316 was renumbered section 3317 of this title.
 <b>2016</b>—Pub. L. 114–235 renumbered section 3315 of this title as this section.
 
 <b>2007</b>—Pub. L. 110–140 renumbered section 3314 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

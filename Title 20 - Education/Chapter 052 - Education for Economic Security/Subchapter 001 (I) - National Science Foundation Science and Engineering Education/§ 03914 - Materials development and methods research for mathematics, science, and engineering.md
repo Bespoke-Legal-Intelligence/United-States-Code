@@ -6,7 +6,7 @@ The Foundation is authorized, in accordance with the provisions of this subchapt
 
 &emsp;(1) for instructional curriculum improvement and faculty development in mathematics, science, and engineering;
 
-&emsp;(2) for programs designed to enhance public understanding of mathematics, science, andengineering, including the use of public broadcasting entities; and
+&emsp;(2) for programs designed to enhance public understanding of mathematics, science, and engineering, including the use of public broadcasting entities; and
 
 &emsp;(3) for research on methods of instruction and educational programs in mathematics, science, engineering, and critical foreign languages.
 

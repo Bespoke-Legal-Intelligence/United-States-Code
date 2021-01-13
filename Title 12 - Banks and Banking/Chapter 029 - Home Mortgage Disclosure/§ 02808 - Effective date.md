@@ -20,9 +20,11 @@ This chapter shall take effect on the one hundred and eightieth day beginning af
 
 #### (3) Rounding
 
-&emsp;The dollar amount applicable under paragraph (1) for any calendar year shall be the amount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
+&emsp;The dollar amount applicable under paragraph (1) for any calendar year shall be theamount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
 
 (Pub. L. 94–200, title III, §309, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 102–242, title II, §224(a), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 102–550, title XVI, §1604(a)(15), Oct. 28, 1992, 106 Stat. 4083; Pub. L. 104–208, div. A, title II, §2225(a), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 111–203, title X, §1094(1), July 21, 2010, 124 Stat. 2097.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redes
 <b>1992</b>—Pub. L. 102–550, §1604(a)(15), amended directory language of Pub. L. 102–242, §224(a). See 1991 Amendment note below.
 
 <b>1991</b>—Pub. L. 102–242, §224(a), as amended by Pub. L. 102–550, §1604(a)(15), struck out "depository" before "institution", inserted "specified in section 2802(2)(A) of this title" after "institution", and inserted at end: "The Board, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

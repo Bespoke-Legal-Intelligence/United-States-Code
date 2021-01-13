@@ -311,6 +311,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—AMERICAN INNOVATION AND MANUFACTURING
+
+|  |  |
+| :--- | ---: |
+| [7675\.](Subchapter%20007%20%28VII%29%20-%20American%20Innovation%20and%20Manufacturing/%C2%A7%2007675%20-%20American%20innovation%20and%20manufacturing.md) | American innovation and manufacturing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Codification
 
 Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act, which was formerly classified to chapter 15B (§1857 et seq.) of this title, was completely revised by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685, and was reclassified to this chapter.
@@ -327,3 +335,4 @@ Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act
 - [Subchapter 004&#8211;A (IV&#8211;A) - Acid Deposition Control](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Acid%20Deposition%20Control/README.md)
 - [Subchapter 005 (V) - Permits](Subchapter%20005%20%28V%29%20-%20Permits/README.md)
 - [Subchapter 006 (VI) - Stratospheric Ozone Protection](Subchapter%20006%20%28VI%29%20-%20Stratospheric%20Ozone%20Protection/README.md)
+- [Subchapter 007 (VII) - American Innovation and Manufacturing](Subchapter%20007%20%28VII%29%20-%20American%20Innovation%20and%20Manufacturing/README.md)

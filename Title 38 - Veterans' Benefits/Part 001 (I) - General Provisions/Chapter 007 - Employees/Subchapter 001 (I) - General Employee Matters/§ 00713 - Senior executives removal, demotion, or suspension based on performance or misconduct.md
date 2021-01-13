@@ -60,6 +60,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 113–146, title VII, §707(a)(1), Aug. 7, 2014, 128 Stat. 1798; amended Pub. L. 115–41, title II, §201(a), June 23, 2017, 131 Stat. 868.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 713 was renumbered section 1913 of this title.
@@ -67,6 +69,8 @@ A prior section 713 was renumbered section 1913 of this title.
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–41 amended section generally. Prior to amendment, section related to removal of senior executives based on performance or misconduct.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

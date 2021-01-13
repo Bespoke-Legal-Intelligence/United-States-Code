@@ -10,15 +10,27 @@ Roles, Responsibilities, and Authorities.—The plan under subsection (a) shall 
 
 &emsp;(1) the Secretary of Defense shall—
 
-&emsp;&emsp;(A) assign the responsibility for the direction, coordination,<sup>1</sup> integration of the Program within the Department of Defense to an Assistant Secretary of Defense; and
+&emsp;&emsp;(A) assign the responsibility for the direction, coordination, and integration of the Program within the Department of Defense to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict; and
 
-&emsp;&emsp;(B) designate the Secretary of the Navy, or a designee of the Secretary's choice, as the executive agent for the Department of Defense responsible for providing oversight of the training and technology program that coordinates and integrates joint requirements for explosive ordnance disposal, provides common individual training, and carries out joint research, development, test, and evaluation activities for common tools on behalf of the military departments with respect to explosive ordnance disposal;
+&emsp;&emsp;(B) designate the Secretary of the Navy, or a designee of the Secretary's choice, as the executive agent for the Department of Defense responsible for providing oversight of the training and technology program that coordinates and integrates joint requirements for explosive ordnance disposal, provides common individual training, and carries out joint research, development, test,and evaluation activities for common tools on behalf of the military departments with respect to explosive ordnance disposal;
 
-&emsp;(2) the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1)(A) shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
+&emsp;(2) the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
 
-&emsp;(3) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurementactivities to address military department unique needs; and
+&emsp;(3) the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall coordinate with—
 
-&emsp;(4) the Secretary of the Army shall designate an Army explosive ordnance disposal-qualified general officer to serve as the co-chair of the Department of Defense explosive ordnance disposal defense program.
+&emsp;&emsp;(A) the Under Secretary of Defense for Intelligence on explosive ordnance technical intelligence;
+
+&emsp;&emsp;(B) the Under Secretary of Defense for Acquisition and Sustainment on explosive ordnance disposal research, development, acquisition, and sustainment;
+
+&emsp;&emsp;(C) the Under Secretary of Defense for Research and Engineering on explosive ordnance disposal research, development, test, and evaluation;
+
+&emsp;&emsp;(D) the Assistant Secretary of Defense for Homeland Security and Global Security on explosive ordnance disposal on defense support of civil authorities; and
+
+&emsp;&emsp;(E) the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense programs on explosive ordnance disposal for combating weapons of mass destruction;
+
+&emsp;(4) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurement activities to address military department unique needs; and
+
+&emsp;(5) the Secretary of the Army shall designate an Army explosive ordnance disposal-qualified general officer to serve as the co-chair of the Department of Defense explosive ordnance disposal defense program.
 
 (c)
 
@@ -52,9 +64,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term "explosive ordnance disposal" means the detection, identification, on-site evaluation, rendering safe, exploitation, recovery, and final disposal of explosive ordnance.
 
-(Added Pub. L. 115–232, div. A, title III, §311(a), Aug. 13, 2018, 132 Stat. 1708; amended Pub. L. 116–92, div. A, title X, §1052, title XVII, §1731(a)(36), Dec. 20, 2019, 133 Stat. 1590, 1814.)
+(Added Pub. L. 115–232, div. A, title III, §311(a), Aug. 13, 2018, 132 Stat. 1708; amended Pub. L. 116–92, div. A, title X, §1052, title XVII, §1731(a)(36), Dec. 20, 2019, 133 Stat. 1590, 1814; Pub. L. 116–283, div. A, title III, §352(a), Jan. 1, 2021, 134 Stat. 3544.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1)(A). Pub. L. 116–283, §352(a)(1), inserted "and" before "integration" and substituted "the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict" for "an Assistant Secretary of Defense".
+
+Subsec. (b)(2). Pub. L. 116–283, §352(a)(2), substituted "for Special Operations and Low Intensity Conflict" for "to whom responsibility is assigned under paragraph (1)(A)".
+
+Subsec. (b)(3) to (5). Pub. L. 116–283, §352(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 <b>2019</b>—Pub. L. 116–92, §1731(a)(36), substituted section symbol for "SEC." before section designation.
 
@@ -89,6 +107,4 @@ Pub. L. 116–92, §1052(a)(1), redesignated par. (2) as (3).
 Subsec. (b)(4). Pub. L. 116–92, §1052(a)(5), added par. (4).
 
 Subsec. (d). Pub. L. 116–92, §1052(b), added subsec. (d).
-
-<i><sup>1</sup></i><i> So in original. The word "and" probably should appear.</i>
 

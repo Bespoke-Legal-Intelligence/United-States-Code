@@ -18,6 +18,8 @@ Based on title 14, U.S.C., 1946 ed., §§26, 27 (Apr. 16, 1908, ch. 145, §12, 3
 
 Said sections are rewritten, the provisions concerning oaths being broadened to conform more closely to law applicable to officers of the Navy (see title 34, U.S.C., 1946 ed., §217a). 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 636 of this title as this section.

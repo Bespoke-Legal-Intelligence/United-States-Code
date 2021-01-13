@@ -16,9 +16,13 @@
 
 (Pub. L. 98–306, §14, May 31, 1984, 98 Stat. 226; Pub. L. 99–498, title XV, §1514(c), Oct. 17, 1986, 100 Stat. 1608.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsecs. (a)(1), (b)(1). Pub. L. 99–498 substituted "Institute of American Indian and Alaska Native Culture and Arts Development" for "Institute of American Indian Arts" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

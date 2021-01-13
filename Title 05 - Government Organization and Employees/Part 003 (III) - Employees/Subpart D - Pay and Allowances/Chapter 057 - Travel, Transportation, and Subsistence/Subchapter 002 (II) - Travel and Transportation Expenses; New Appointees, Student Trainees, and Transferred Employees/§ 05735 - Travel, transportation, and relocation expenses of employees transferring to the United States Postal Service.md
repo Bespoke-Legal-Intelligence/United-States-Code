@@ -16,6 +16,8 @@ Covered Employees.—Subsection (a) applies to any employee of the Department of
 
 (Added Pub. L. 103–337, div. A, title III, §345(a)(1), Oct. 5, 1994, 108 Stat. 2723.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–337, div. A, title III, §345(b), Oct. 5, 1994, 108 Stat. 2724, provided that: "The amendments made by subsection (a) \[enacting this section\] shall apply to persons separated from employment with the Department of Defense on or after the date of the enactment of this Act \[Oct. 5, 1994\]."

@@ -34,6 +34,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–221, §2(b), July 23, 1982, 96 Stat. 233, inserted "SUBCHAPTER I—GENERAL PROVISIONS" before item 6101 and inserted "SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES" and items 6120 to 6133 after item 6106.

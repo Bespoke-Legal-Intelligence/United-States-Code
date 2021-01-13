@@ -52,7 +52,7 @@ The Secretary shall establish a procedure to issue licenses to hemp producers in
 
 &emsp;&emsp;(A) collect the information described in paragraph (2); and
 
-&emsp;&emsp;(B) make the information collected under subparagraph (A) accessible in real time to Federal, State, territorial, and local law enforcement.
+&emsp;&emsp;(B) make the information collected under subparagraph (A) accessible in real time toFederal, State, territorial, and local law enforcement.
 
 #### (2) Content
 

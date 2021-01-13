@@ -10,7 +10,7 @@ Timing.—Beginning with the first fiscal year following December 30, 2005, the 
 
 (c)
 
-Reports.—Not later than March 1 of each year, beginning with the first fiscal year afterDecember 30, 2005, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+Reports.—Not later than March 1 of each year, beginning with the first fiscal year after December 30, 2005, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
 &emsp;(1) setting forth in detail the results of any external review under subsection (a);
 
@@ -39,6 +39,8 @@ Pub. L. 109–155, title III, §301, Dec. 30, 2005, 119 Stat. 2916.
 In subsections (b) and (c), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 
 In subsection (c), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

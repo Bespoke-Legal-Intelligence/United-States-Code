@@ -10,13 +10,15 @@ The chief and his deputy of each special mission or staff carrying out the purpo
 
 #### (c) Appointment of Chairman of Development Assistance Committee; compensation
 
-The President may appoint any United States citizen who is not an employee of the United States Government or may assign any United States citizen who is a United States Government employee to serve as Chairman of the Development Assistance Committee or any successor committee thereto of the Organization for Economic Cooperation and Development uponelection thereto by members of said Committee, and, in his discretion, may terminate such appointment or assignment, notwithstanding any other provision of law. Such person may receive such compensation and allowances as are authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], not to exceed those authorized for a chief of mission (as defined in section 102(a)(3) <sup>1</sup> of that Act \[22 U.S.C. 3902(a)(3)\]), as the President shall determine to be appropriate. Such person (if not a United States Government employee who is assigned to serve as Chairman) shall be deemed to be an employee of the United States Government for purposes of chapters 81, 83, 87, and 89 of title 5. Such person may also, in the President's discretion, receive any other benefits and perquisites available under this chapter to chiefs of special missions or staffs outside the United States established under this section.
+The President may appoint any United States citizen who is not an employee of the United States Government or may assign any United States citizen who is a United States Government employee to serve as Chairman of the Development Assistance Committee or any successor committee thereto of the Organization for Economic Cooperation and Development upon election thereto by members of said Committee, and, in his discretion, may terminate such appointment or assignment, notwithstanding any other provision of law. Such person may receive such compensation and allowances as are authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], not to exceed those authorized for a chief of mission (as defined in section 102(a)(3) <sup>1</sup> of that Act \[22 U.S.C. 3902(a)(3)\]), as the President shall determine to be appropriate. Such person (if not a United States Government employee who is assigned to serve as Chairman) shall be deemed to be an employee of the United States Government for purposes of chapters 81, 83, 87, and 89 of title 5. Such person may also, in the President's discretion, receive any other benefits and perquisites available under this chapter to chiefs of special missions or staffs outside the United States established under this section.
 
 #### (d) Administration of assistance
 
 Wherever practicable, especially in the case of the smaller programs, assistance under subchapter I of this chapter shall be administered under the direction of the Chief of the United States Diplomatic Mission by the principal economic officer of the mission.
 
 (Pub. L. 87–195, pt. III, §631, Sept. 4, 1961, 75 Stat. 453; Pub. L. 88–205, pt. III, §302(d), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(f), Sept. 6, 1965, 79 Stat. 660; Pub. L. 95–92, §7(c), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–465, title II, §2203(c), (d), Oct. 17, 1980, 94 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,10 +27,6 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this Act
 The Foreign Service Act of 1980, referred to in subsecs. (b) and (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 Section 102(a)(3) of that Act, referred to in subsecs. (b) and (c), was redesignated section 102(3) pursuant to Pub. L. 98–164, which struck out designation "(a)" and struck out subsec. (b) of section 102.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -42,17 +40,25 @@ Subsec. (c). Pub. L. 96–465, §2203(d), among other changes, substituted refer
 
 <b>1963</b>—Subsec. (c). Pub. L. 88–205 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Flag and General Officers
 
 Pub. L. 94–11, title I, §100, Mar. 26, 1975, 89 Stat. 20, provided in part that: "The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign Military Sales Program shall not exceed twenty after May 1, 1975."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Approval of Secretary of State
 

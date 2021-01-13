@@ -48,7 +48,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 > &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
-&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of thework contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
+&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
 &emsp;(ii) The requirement of clause (i) shall not apply to any employer who—
 
@@ -66,7 +66,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;(vi) An employer shall not be liable for payments under section 655.202(b)(6) of title 20, Code of Federal Regulations (or any successor regulation) with respect to an H–2A worker who is displaced due to compliance with the requirement of this subparagraph, if the Secretary of Labor certifies that the H–2A worker was displaced because of the employer's compliance with clause (i) of this subparagraph.
 
-&emsp;(vii)(I) No person or entity shall willfully and knowingly withhold domestic workers prior to the arrival of H–2A workers in order to force the hiring of domestic workers under clause (i).
+&emsp;(vii)(I) No person or entity shall willfully and knowingly withhold domestic workersprior to the arrival of H–2A workers in order to force the hiring of domestic workers under clause (i).
 
 &emsp;(II) Upon the receipt of a complaint by an employer that a violation of subclause (I) has occurred the Secretary shall immediately investigate. He shall within 36 hours of the receipt of the complaint issue findings concerning the alleged violation. Where the Secretary finds that a violation has occurred, he shall immediately suspend the application of clause (i) of this subparagraph with respect to that certification for that date of need.
 
@@ -82,7 +82,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (2) Treatment of associations acting as employers
 
-&emsp;If an association is a joint or sole employer of temporary agricultural workers, the certifications granted under this section to the association may be used for the certified job opportunities of any of its producer membersand such workers may be transferred among its producer members to perform agricultural services of a temporary or seasonal nature for which the certifications were granted.
+&emsp;If an association is a joint or sole employer of temporary agricultural workers, the certifications granted under this section to the association may be used for the certified job opportunities of any of its producer members and such workers may be transferred among its producer members to perform agricultural services of a temporary or seasonal nature for which the certifications were granted.
 
 #### (3) Treatment of violations
 
@@ -134,7 +134,9 @@ For purposes of this section:
 
 &emsp;(2) The term "H–2A worker" means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(l)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, titleIII, §§307(l)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
+(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(l)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(l)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -161,6 +163,8 @@ Subsec. (i)(1). Pub. L. 102–232, §309(b)(8), as amended by Pub. L. 103–416,
 <b>1988</b>—Pub. L. 100–525, §2(l)(2)(A), made technical amendment to directory language of Pub. L. 99–603, §301(c), which enacted this section.
 
 Subsec. (c)(4). Pub. L. 100–525, §2(l)(3), substituted "accommodations" for "accomodations" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

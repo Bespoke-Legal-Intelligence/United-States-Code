@@ -32,9 +32,9 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
-&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanentresident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
+&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
-&emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
+&emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry,but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
 &emsp;&emsp;&emsp;(ii) the alien has been physically present in the United States for a continuous period of not less than 3 years immediately preceding the date of such application, and the issuance of a charging document for removal proceedings shall not toll the 3-year period of continuous physical presence in the United States;
 
@@ -148,7 +148,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 #### (2) Treatment of certain breaks in presence
 
-&emsp;An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under subsections (b)(1) and (b)(2) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
@@ -177,6 +177,8 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 &emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
 (June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063; Pub. L. 109–271, §6(e), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §205(b), Dec. 23, 2008, 122 Stat. 5062.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -229,6 +231,8 @@ Subsec. (d)(1). Pub. L. 106–386, §1506(b)(1), substituted "(A) except in the 
 Subsec. (b)(3). Pub. L. 105–100, §204(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien's lawful admission for permanent residence as of the date the Attorney General's cancellation of removal under paragraph (1) or (2) or determination under this paragraph."
 
 Subsec. (e). Pub. L. 105–100, §204(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

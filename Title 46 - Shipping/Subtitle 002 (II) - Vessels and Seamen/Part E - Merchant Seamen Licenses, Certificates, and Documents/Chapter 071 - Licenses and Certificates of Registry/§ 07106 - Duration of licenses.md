@@ -32,6 +32,8 @@ Historical and Revision Notes
 
 Section 7106 sets a 5 year time limit on the validity of a license. It also requires a licensed radio officer to be in continuous possession of an FCC license.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–282 substituted "license, whichever" for "merchant mariner's document, whichever".
@@ -39,6 +41,8 @@ Section 7106 sets a 5 year time limit on the validity of a license. It also requ
 <b>2010</b>—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: "A license issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission."
 
 <b>1990</b>—Pub. L. 101–380 inserted "and may be renewed for additional 5-year periods" after "for 5 years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

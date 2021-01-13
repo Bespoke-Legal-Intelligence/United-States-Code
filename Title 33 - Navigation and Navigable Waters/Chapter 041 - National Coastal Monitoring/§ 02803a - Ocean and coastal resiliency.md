@@ -16,7 +16,7 @@ In carrying out the study under subsection (a), the Secretary shall—
 
 &emsp;(4) to the maximum extent practicable, use any existing Corps of Engineers plans and data; and
 
-&emsp;(5) not later than 365 days after initial appropriations for this section, and every five years thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
+&emsp;(5) not later than 365 days after initial appropriations for this section, and every fiveyears thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
 
 #### (c) Disposition
 
@@ -46,6 +46,8 @@ In this section, the terms "coastal zone" and "coastal state" have the meanings 
 
 (Pub. L. 113–121, title IV, §4014, June 10, 2014, 128 Stat. 1321; Pub. L. 114–322, title I, §1183(a), Dec. 16, 2016, 130 Stat. 1678.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of title V of Pub. L. 92–532, popularly known as the National Coastal Monitoring Act, which comprises this chapter.
@@ -55,6 +57,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–322, §1183(a)(1), inserted "Indian tribes," after "nonprofit organizations,".
 
 Subsec. (b)(3) to (5). Pub. L. 114–322, §1183(a)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

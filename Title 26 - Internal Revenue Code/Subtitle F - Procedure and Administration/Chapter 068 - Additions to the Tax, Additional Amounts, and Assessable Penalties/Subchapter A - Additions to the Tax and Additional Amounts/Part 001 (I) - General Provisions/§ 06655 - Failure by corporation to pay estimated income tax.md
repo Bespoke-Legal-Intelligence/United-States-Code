@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) subclause (IV) of subparagraph (A)(i) shall be applied by substituting "11 months" for "9 months".
 
-&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for which made and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
+&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for whichmade and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
 
 #### (3) Determination of adjusted seasonal installment
 
@@ -334,7 +334,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 #### (1) Fiscal years
 
-&emsp;In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
+&emsp;In applying this section to a taxable year beginning on any date other than January 1,there shall be substituted, for the months specified in this section, the months which correspond thereto.
 
 #### (2) Short taxable year
 
@@ -666,7 +666,7 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by P
 
 &emsp;&emsp;"(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 100 percent of such amount,
 
-&emsp;&emsp;"(C) the amount of any required installment of corporate estimated tax which is otherwise due inJuly, August, or September of 2013 shall be 100.75 percent of such amount, and
+&emsp;&emsp;"(C) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2013 shall be 100.75 percent of such amount, and
 
 &emsp;&emsp;"(D) the amount of the next required installment after an installment referred to in subparagraph (A), (B), or (C) shall be appropriately reduced to reflect the amount of the increase by reason of such subparagraph,
 
@@ -730,7 +730,7 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 \[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: "Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] is amended by striking the percentage contained therein and inserting '100 percent'. No other provision of law which would change such percentage shall have any force and effect."\]
 
-\[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax IncreasePrevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points."\]
+\[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points."\]
 
 \[Pub. L. 110–287, §3, July 29, 2008, 122 Stat. 2649, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 29, 2008\] is increased by 0.25 percentage points."\]
 
@@ -786,7 +786,7 @@ Pub. L. 100–203, title X, §10303(b)(2), Dec. 22, 1987, 101 Stat. 1330–430, 
 
 "(A)
 
-In general.—In the case of a large corporation, no addition to tax shall be imposed by section 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an estimated tax installment to which this subsection applies if no addition would be imposed with respect to such underpayment by reason of section 6655(d)(1) of such Code if such corporation were not a large corporation. The preceding sentence shall apply only to the extent the underpayment is paid on or before the last date prescribed for payment of the most recent installment of estimated tax due on or before September 15, 1987.
+In general.—In the case of a large corporation, no addition to tax shall be imposed by section 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an estimated tax installment towhich this subsection applies if no addition would be imposed with respect to such underpayment by reason of section 6655(d)(1) of such Code if such corporation were not a large corporation. The preceding sentence shall apply only to the extent the underpayment is paid on or before the last date prescribed for payment of the most recent installment of estimated tax due on or before September 15, 1987.
 
 "(B)
 

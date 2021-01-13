@@ -2,7 +2,7 @@
 
 As used in this chapter, unless the context otherwise requires, the term—
 
-&emsp;(1) "adjacent coastal State" means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be locatedwithin 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with section 1508(a)(2) of this title;
+&emsp;(1) "adjacent coastal State" means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with section 1508(a)(2) of this title;
 
 &emsp;(2) "affiliate" means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section 1504(c)(2)(A) or (B) of this title;
 
@@ -48,7 +48,9 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(19) "vessel" means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
-(Pub. L. 93–627, §3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, §2(a), Sept. 25, 1984, 98 Stat. 1607; Pub.L. 104–324, title V, §503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(b), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–58, title III, §321(b), Aug. 8, 2005, 119 Stat. 694; Pub. L. 112–213, title III, §312, Dec. 20, 2012, 126 Stat. 1569.)
+(Pub. L. 93–627, §3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, §2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(b), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–58, title III, §321(b), Aug. 8, 2005, 119 Stat. 694; Pub. L. 112–213, title III, §312, Dec. 20, 2012, 126 Stat. 1569.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Par. (9). Pub. L. 104–324, §503(a)(2), (b), redesignated par. (10) as (9) and
 Pars. (10) to (19). Pub. L. 104–324, §503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
 <b>1984</b>—Par. (4). Pub. L. 98–419 substituted "means an application" for "means any application", struck out designation "(A)" before "for a license", and struck out cls. (B) and (C) which provided that "application" meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea and Contiguous Zone of United States
 

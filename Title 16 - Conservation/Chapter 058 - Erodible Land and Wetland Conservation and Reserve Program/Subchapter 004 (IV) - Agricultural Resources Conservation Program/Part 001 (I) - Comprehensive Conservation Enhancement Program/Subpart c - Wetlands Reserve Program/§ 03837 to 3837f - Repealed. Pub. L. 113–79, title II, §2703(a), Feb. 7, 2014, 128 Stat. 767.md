@@ -40,7 +40,7 @@ Use of prior year funds.—Notwithstanding the repeal of subchapter C of chapter
 
 &emsp;&emsp;"(B)
 
-Other.—The Secretary \[of Agriculture\] may use funds made available to carry out the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[16 U.S.C. 3865 et seq.\], as added by section 2301, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to suchcontracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
+Other.—The Secretary \[of Agriculture\] may use funds made available to carry out the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[16 U.S.C. 3865 et seq.\], as added by section 2301, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
 
 #### Effect of 1996 Amendments on Existing Agreements
 

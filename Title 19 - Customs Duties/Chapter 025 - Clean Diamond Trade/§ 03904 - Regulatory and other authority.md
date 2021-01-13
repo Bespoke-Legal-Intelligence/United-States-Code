@@ -10,7 +10,7 @@ Any United States person seeking to export from or import into the United States
 
 #### (c) Oversight
 
-The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, and procedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
+The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, andprocedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
 
 (Pub. L. 108–19, §5, Apr. 25, 2003, 117 Stat. 634.)
 

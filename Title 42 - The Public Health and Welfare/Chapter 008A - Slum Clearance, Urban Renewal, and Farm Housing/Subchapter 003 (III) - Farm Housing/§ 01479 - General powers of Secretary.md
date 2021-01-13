@@ -40,7 +40,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(B) 13 percent or more of its population residing in substandard housing.
 
-> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretaryshall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
+> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretary shall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
 
 #### (3) Outreach program and review
 
@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 
@@ -164,5 +164,5 @@ Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided 
 
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers' Home Administration
 
-Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loanunder section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located."
+Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located."
 

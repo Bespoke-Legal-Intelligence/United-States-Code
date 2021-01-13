@@ -26,6 +26,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–315, title V, §502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.

@@ -38,5 +38,5 @@ Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of es
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub.L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
+Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
 

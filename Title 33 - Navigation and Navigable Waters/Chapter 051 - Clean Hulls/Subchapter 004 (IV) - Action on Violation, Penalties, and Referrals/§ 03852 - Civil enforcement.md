@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) violated the Convention, this chapter, or any regulation prescribed under this chapter, is liable to the United States Government for a civil penalty of not more than $37,500 for each violation; or
 
-&emsp;&emsp;(B) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under theConvention, this chapter, or any regulations prescribed under this chapter, is liable to the United States for a civil penalty of not more than $50,000 for each such statement or representation.
+&emsp;&emsp;(B) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under the Convention, this chapter, or any regulations prescribed under this chapter, is liable to the United States for a civil penalty of not more than $50,000 for each such statement or representation.
 
 #### (2) Relationship to other law
 
@@ -43,6 +43,8 @@ Before referring any civil penalty that is subject to assessment or has been ass
 Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person's penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
 
 (Pub. L. 111–281, title X, §1042, Oct. 15, 2010, 124 Stat. 3030.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

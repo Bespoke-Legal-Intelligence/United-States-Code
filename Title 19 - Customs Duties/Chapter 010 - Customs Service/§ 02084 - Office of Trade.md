@@ -52,7 +52,7 @@ The Office of Trade shall—
 
 #### (D) Office of International Trade defined
 
-&emsp;&emsp;In this paragraph, the term "Office of International Trade" means the Office of International Trade established by section 2072 of this title and as in effect on the day before February 24, 2016.
+&emsp;&emsp;In this paragraph, the term "Office of International Trade" means the Office ofInternational Trade established by section 2072 of this title and as in effect on the day before February 24, 2016.
 
 #### (2) Other transfers
 

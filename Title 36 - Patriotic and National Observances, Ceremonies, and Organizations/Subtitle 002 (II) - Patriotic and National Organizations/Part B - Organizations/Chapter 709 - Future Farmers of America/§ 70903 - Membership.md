@@ -28,6 +28,8 @@ Aug. 30, 1950, ch. 823, §6, 64 Stat. 565.
 
 In subsection (b), the words "In matters of" are substituted for "In the conduct of" for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–7 substituted "FFA" for "corporation" and "as provided in the constitution or bylaws of the FFA" for "as provided in the bylaws" before period at end.

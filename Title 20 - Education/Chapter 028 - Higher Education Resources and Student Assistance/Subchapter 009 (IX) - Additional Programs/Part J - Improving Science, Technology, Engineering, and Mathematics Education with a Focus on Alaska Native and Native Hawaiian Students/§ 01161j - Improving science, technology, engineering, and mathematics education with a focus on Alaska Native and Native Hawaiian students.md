@@ -74,7 +74,7 @@ A grant under this section shall be awarded for a period of five years.
 
 #### (h) Evaluation and report
 
-Each eligible partnership that receives a grant under this section shall conduct an evaluation to determine the effectiveness of the programs funded under the grant and shall provide a report regarding the evaluation to the Secretary not later than six months after the end of the grant period.
+Each eligible partnership that receives a grant under this section shall conduct an evaluationto determine the effectiveness of the programs funded under the grant and shall provide a report regarding the evaluation to the Secretary not later than six months after the end of the grant period.
 
 #### (i) Authorization of appropriations
 

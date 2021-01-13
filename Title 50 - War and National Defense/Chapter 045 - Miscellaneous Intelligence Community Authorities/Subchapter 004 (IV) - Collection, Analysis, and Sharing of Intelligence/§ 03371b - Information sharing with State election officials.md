@@ -22,7 +22,7 @@ In this section, the term "State" means any State of the United States, the Dist
 
 #### (2) Coordination
 
-&emsp;The Under Secretary of Homeland Security for Intelligence and Analysis shall coordinate with the Director of National Intelligence and the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6) to facilitate the sharingof information to the affected Secretaries of State or States.
+&emsp;The Under Secretary of Homeland Security for Intelligence and Analysis shall coordinate with the Director of National Intelligence and the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6) to facilitate the sharing of information to the affected Secretaries of State or States.
 
 (Pub. L. 116–92, div. E, title LXV, §6506, Dec. 20, 2019, 133 Stat. 2206.)
 

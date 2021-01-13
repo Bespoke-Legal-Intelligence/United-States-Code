@@ -10,11 +10,13 @@ Section 1363, Pub. L. 86–649, title I, §102, July 14, 1960, 74 Stat. 506, aut
 
 Section 1364, Pub. L. 86–649, title I, §103, July 14, 1960, 74 Stat. 506, authorized acceptance of contributions by Secretary of the Interior with respect to improvements, etc., of public lands and resources.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 

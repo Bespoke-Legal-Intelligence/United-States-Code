@@ -124,7 +124,7 @@ Subsec. (e)(2). Pub. L. 105–34, §1530(c)(14), inserted before period at end "
 
 <b>1988</b>—Subsec. (d)(4). Pub. L. 100–647 added par. (4).
 
-<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "(determined as if such securities were disposed of in theorder described in section 4978A(e))" for "(determined as if such securities were disposed of before any other securities)".
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "(determined as if such securities were disposed of in the order described in section 4978A(e))" for "(determined as if such securities were disposed of before any other securities)".
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1854(e)(1), substituted "than" for "then".
 
@@ -142,7 +142,7 @@ Subsec. (e)(3). Pub. L. 99–514, §1854(e)(6), substituted "section 1042(c)(2)"
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) ofPub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendment
 

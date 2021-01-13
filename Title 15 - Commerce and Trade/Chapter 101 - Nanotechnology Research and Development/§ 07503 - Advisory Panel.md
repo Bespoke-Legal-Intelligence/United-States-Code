@@ -46,7 +46,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is
 
 #### Amendments
 
-<b>2017</b>—Subsec. (d). Pub. L. 114–329 amended subsec. (d) generally. Prior to amendment, text read as follows: "The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress."
+<b>2017</b>—Subsec. (d). Pub. L. 114–329 amended subsec. (d) generally. Prior to amendment, text read as follows:"The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress."
 
 #### Transfer of Functions
 

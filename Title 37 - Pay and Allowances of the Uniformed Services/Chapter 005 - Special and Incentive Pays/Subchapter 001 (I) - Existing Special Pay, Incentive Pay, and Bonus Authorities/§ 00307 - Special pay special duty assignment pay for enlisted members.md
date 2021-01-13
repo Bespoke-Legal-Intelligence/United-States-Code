@@ -16,7 +16,7 @@
 
 (3) This subsection does not apply to a member of the National Guard or a reserve component who is entitled to basic pay under section 204 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–525, title VI, §623(b)(1), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr.6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §619(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§631, 632(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–525, title VI, §623(b)(1), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §619(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§631, 632(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -52,6 +52,8 @@ In subsections (a)(1) and (b), the word "allowances" is omitted, since, under se
 
 In subsection (b), the words "computed under section 205 of this title" are substituted for the words "cumulative . . . for pay purposes".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -76,6 +78,8 @@ Subsecs. (c), (d). Pub. L. 98–525 redesignated subsec. (d) as (c) and substitu
 
 <b>1968</b>—Subsec. (d). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
@@ -98,5 +102,5 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Members Entitled to Special Pay as of September 30, 1984
 
-Pub. L. 98–525, title VI, §623(b)(3), Oct. 19, 1984, 98 Stat. 2542, provided that: "A member of the uniformed services who, on September 30, 1984, was entitled to special pay under section 307 of title 37, United States Code \[this section\], as in effect on such date, may continue to be paid the special pay authorized by such section as though the amendments made by this subsection \[amending this section\] had not been made. However, a member may not be paid the special pay authorized by such section as in effect on September 30,1984, and the special pay authorized by such section as amended by this section."
+Pub. L. 98–525, title VI, §623(b)(3), Oct. 19, 1984, 98 Stat. 2542, provided that: "A member of the uniformed services who, on September 30, 1984, was entitled to special pay under section 307 of title 37, United States Code \[this section\], as in effect on such date, may continue to be paid the special pay authorized by such section as though the amendments made by this subsection \[amending this section\] had not been made. However, a member may not be paid the special pay authorized by such section as in effect on September 30, 1984, and the special pay authorized by such section as amended by this section."
 

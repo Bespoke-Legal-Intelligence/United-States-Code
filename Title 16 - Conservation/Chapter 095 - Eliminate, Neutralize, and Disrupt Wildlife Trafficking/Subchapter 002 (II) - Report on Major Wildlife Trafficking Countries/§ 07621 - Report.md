@@ -6,7 +6,7 @@ Not later than one year after October 7, 2016, and annually thereafter, the Secr
 
 #### (b) Special designation
 
-In each report required under subsection (a), the Secretary of State, in consultation with theSecretary of the Interior and the Secretary of Commerce, shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+In each report required under subsection (a), the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
 
 #### (c) Sunset
 

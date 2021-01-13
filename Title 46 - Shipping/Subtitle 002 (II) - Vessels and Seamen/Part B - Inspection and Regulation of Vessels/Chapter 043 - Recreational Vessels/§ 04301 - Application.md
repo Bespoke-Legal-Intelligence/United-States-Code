@@ -4,7 +4,7 @@
 
 (b) Except when expressly otherwise provided, this chapter does not apply to a foreign vessel temporarily operating on waters subject to the jurisdiction of the United States.
 
-(c) Until there is a final judicial decision that they are navigable waters of the United States, the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
+(c) Until there is a final judicial decision that they are navigable waters of the United States,the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529; Pub. L. 105–383, title III, §301(b)(4), Nov. 13, 1998, 112 Stat. 3417.)
 
@@ -24,6 +24,8 @@ It also provides that a foreign recreational vessel that temporarily uses our wa
 
 Section 4301(c) recognizes the ongoing controversy over the navigability of certain waters of New Hampshire. While a recreational vessel operating on these waters need not meet the requirements of this chapter, it would be prohibited from operating on any other waters subject to the jurisdiction of the United States if it does not comply with these requirements.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Presidential Proclamation No. 5928, referred to in subsec. (a), is set out under section 1331 of Title 43, Public Lands.
@@ -31,6 +33,8 @@ Presidential Proclamation No. 5928, referred to in subsec. (a), is set out under
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–383 inserted "(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)" after "of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

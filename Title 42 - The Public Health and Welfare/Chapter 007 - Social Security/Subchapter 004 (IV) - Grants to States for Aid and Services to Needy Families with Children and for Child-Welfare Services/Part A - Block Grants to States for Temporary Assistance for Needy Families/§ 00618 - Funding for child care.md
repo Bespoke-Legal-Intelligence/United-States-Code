@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII,§7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800.)
 
 #### References in Text
 

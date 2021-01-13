@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administration may carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research, technology development, and prototype demonstration that have the potential for application to the performance of the space and aeronautical activities of the Administration. The Administration may carry out a program to award prizes only in conformity with this section.
+In General.—The Administration may carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research, technology development, and prototype demonstration that have the potential for application to the performance of thespace and aeronautical activities of the Administration. The Administration may carry out a program to award prizes only in conformity with this section.
 
 (b)
 
@@ -90,7 +90,7 @@ Increase.—The Administrator may increase the amount of a prize after an initia
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize; and
 
-&emsp;&emsp;&emsp;(ii) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private source.
+&emsp;&emsp;&emsp;(ii) the funds needed to pay out the announced amount of the increase have beenappropriated or committed in writing by a private source.
 
 &emsp;(4)
 
@@ -132,7 +132,9 @@ Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, 
 
 In subsection (i)(2), subparagraph (A) is added, and the words "provisions known as the Anti-Deficiency Act" are substituted for "the Anti-Deficiency Act (31 U.S.C. 1341)", for clarity.
 
-In subsection (i)(4), the words "Committee on Science and Technology" are substituted for "Committee onScience" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (i)(4), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -140,9 +142,11 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Availability of Funds
 
-Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2419, provided in part that: "Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn."
+Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270, provided in part that: "Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2419.
 
 Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123.
 

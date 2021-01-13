@@ -8,7 +8,7 @@
 
 > the Secretary of Labor, on review under section 8128 of this title after the time the wage-earning capacity of the individual would probably have increased but for the injury, shall recompute prospectively the monetary compensation payable for disability on the basis of an assumed monthly pay corresponding to the probable increased wage-earning capacity.
 
-(b) If an individual without good cause fails to apply for and undergo vocational rehabilitation when so directed under section 8104 of this title, the Secretary, on review under section 8128 of this title and after finding that in the absence of the failure the wage-earning capacity of the individual would probably have substantially increased, may reduce prospectively the monetary compensation of the individual in accordance with what would probably have been his wage-earning capacity in the absence of the failure, until the individual in good faith complies with the direction of the Secretary.
+(b) If an individual without good cause fails to apply for and undergo vocational rehabilitation when so directed under section 8104 of this title, the Secretary, on review under section 8128 ofthis title and after finding that in the absence of the failure the wage-earning capacity of the individual would probably have substantially increased, may reduce prospectively the monetary compensation of the individual in accordance with what would probably have been his wage-earning capacity in the absence of the failure, until the individual in good faith complies with the direction of the Secretary.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 540; Pub. L. 90–83, §1(100), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–416, §8(a), Sept. 7, 1974, 88 Stat. 1145.)
 
@@ -36,9 +36,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends section 8113(b) of title 5, United States Code, to conform to the source statute (sec. 6(d)(1) of the Federal Employees' Compensation Act, as amended (63 Stat. 859)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsecs. (b), (c). Pub. L. 93–416 struck out subsec. (b) which authorized the Secretary to prospectively recompute compensation because of decreased wage earning power after age 70, aside from injury, and redesignated subsec. (c) as (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

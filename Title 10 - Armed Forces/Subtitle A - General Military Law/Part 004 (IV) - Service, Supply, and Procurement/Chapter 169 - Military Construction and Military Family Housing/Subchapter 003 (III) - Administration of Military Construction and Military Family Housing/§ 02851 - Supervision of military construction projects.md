@@ -38,7 +38,7 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 &emsp;(G) For accounts such as planning and design, unspecified minor construction, and family housing operation and maintenance, detailed information regarding expenditures and anticipated expenditures under these accounts and the purposes for which the expenditures are made.
 
-(3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for theproject. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
+(3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
 (d)
 

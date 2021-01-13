@@ -84,7 +84,7 @@ In determining whether holders of the requisite principal amount of Outstanding 
 
 #### (c) Certification of disenfranchised Bonds
 
-Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shalldeliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed not to be Outstanding for the purpose of subsection (b) above.
+Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shall deliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed notto be Outstanding for the purpose of subsection (b) above.
 
 #### (d) Determination of Pools for voting
 
@@ -140,7 +140,7 @@ A Modification is a Qualifying Modification if one of the following processes ha
 
 &emsp;(A) the Issuer proposing the Modification has consulted with holders of Bonds in each Pool of such Issuer prior to soliciting a vote on such Modification;
 
-&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amountof principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
+&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amountof past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
 
 &emsp;(C) the Modification is certified by the Administrative Supervisor as being consistent with the requirements set forth in section 2124(i)(1) of this title and is in the best interests of the creditors and is feasible.
 
@@ -192,7 +192,7 @@ For the purpose of administering a vote of holders of Bonds, including the holde
 
 &emsp;&emsp;(iii) except for such conditions that have been identified in the Qualifying Modification as being non-waivable, any conditions on the effectiveness of the Qualifying Modification have been satisfied or, in the Administrative Supervisor's sole discretion, satisfaction of such conditions has been waived;
 
-&emsp;(C) with respect to a Bond Claim that is secured by a lien on property and with respect to which the holder of such Bond Claim has rejected or not consented to the Qualifying Modification, the holder of such Bond—
+&emsp;(C) with respect to a Bond Claim that is secured by a lien on property and with respect towhich the holder of such Bond Claim has rejected or not consented to the Qualifying Modification, the holder of such Bond—
 
 &emsp;&emsp;(i) retains the lien securing such Bond Claims; or
 

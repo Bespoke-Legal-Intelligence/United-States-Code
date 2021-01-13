@@ -2,7 +2,7 @@
 
 #### (a) Allocation of funds
 
-In providing assistance under this part, the President shall ensure that, beginning in fiscal year 2007, not less than one-quarter of the total of such assistance is obligated for the purpose of enhancing the capabilities of friendly countries to detect and interdict proliferation-related shipments of cargo to non-State actors and States of proliferation concern.
+In providing assistance under this part, the President shall ensure that, beginning in fiscalyear 2007, not less than one-quarter of the total of such assistance is obligated for the purpose of enhancing the capabilities of friendly countries to detect and interdict proliferation-related shipments of cargo to non-State actors and States of proliferation concern.
 
 #### (b) Priority to certain countries
 
@@ -18,15 +18,21 @@ The Secretary of State shall notify the Committee on International Relations of 
 
 (Pub. L. 87–195, pt. II, §583, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852; amended Pub. L. 109–472, §10(c), Jan. 11, 2007, 120 Stat. 3557.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 109–472, §10(c)(1), substituted "shall ensure that, beginning in fiscal year 2007," for "should ensure that", "obligated" for "expended", and "to non-State actors and States of proliferation concern" for "that originate from, and are destined for, other countries".
 
 Subsecs. (c), (d). Pub. L. 109–472, §10(c)(2), added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XIII, §1303(i), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2002; Pub. L. 97–31, §12(144)(C), Aug. 6, 1981, 95 Stat. 166.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

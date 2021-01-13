@@ -1,6 +1,6 @@
 ### §116. Annual operations and maintenance report
 
-(a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, and Marine Corps for the next fiscal year. The Secretary shall include in each such report recommendations for—
+(a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, Marine Corps, and Space Force for the next fiscal year. The Secretary shall include in each such report recommendations for—
 
 &emsp;(A) the number of aircraft flying hours for the Army, Navy, Air Force, and Marine Corps for the next fiscal year, the number of ship steaming hours for the Navy for the next fiscal year, and the number of field training days for the combat arms battalions of the Army and Marine Corps for the next fiscal year;
 
@@ -16,11 +16,13 @@
 
 &emsp;(1) The term "combat arms battalions" means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger, artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
 
-&emsp;(2) The term "major repair work" means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
+&emsp;(2) The term "major repair work" means, in the case of any ship to which subsection (a) isapplicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 
-(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 112–81, div. A, title X, §1064(2), Dec. 31, 2011, 125 Stat. 1586.)
+(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 112–81, div. A, title X, §1064(2), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 116–283, div. A, title IX, §924(b)(1)(A), Jan. 1, 2021, 134 Stat. 3820.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps" in introductory provisions.
 
 <b>2011</b>—Subsecs. (b), (c). Pub. L. 112–81 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -38,5 +40,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Termination of Reporting Requirements
 
-For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 113 of this title.
+For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 111 of this title.
 

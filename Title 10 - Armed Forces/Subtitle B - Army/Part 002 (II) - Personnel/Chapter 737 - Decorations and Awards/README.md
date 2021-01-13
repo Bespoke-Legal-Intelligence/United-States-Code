@@ -23,7 +23,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter357 of this title as this chapter and items 3741 to 3756 as 7271 to 7286, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 357 of this title as this chapter and items 3741 to 3756 as 7271 to 7286, respectively.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title X, §1084(d)(28), Oct. 28, 2004, 118 Stat. 2063, renumbered item 3755 "Korea Defense Service Medal" as 3756.
 

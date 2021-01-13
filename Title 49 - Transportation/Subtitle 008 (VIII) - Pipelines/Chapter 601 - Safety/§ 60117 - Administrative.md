@@ -6,6 +6,102 @@ General Authority.—To carry out this chapter, the Secretary of Transportation 
 
 (b)
 
+Enforcement Procedures.—
+
+&emsp;(1)
+
+Process.—In implementing enforcement procedures under this chapter and part 190 of title 49, Code of Federal Regulations (or successor regulations), the Secretary shall—
+
+&emsp;&emsp;(A) allow the respondent to request the use of a consent agreement and consent order to resolve any matter of fact or law asserted;
+
+&emsp;&emsp;(B) allow the respondent and the agency to convene 1 or more meetings—
+
+&emsp;&emsp;&emsp;(i) for settlement or simplification of the issues; or
+
+&emsp;&emsp;&emsp;(ii) to aid in the disposition of issues;
+
+&emsp;&emsp;(C) require that the case file in an enforcement proceeding include all agency records pertinent to the matters of fact and law asserted;
+
+&emsp;&emsp;(D) allow the respondent to reply to each post-hearing submission of the agency;
+
+&emsp;&emsp;(E) allow the respondent to request that a hearing be held, and an order be issued, on an expedited basis;
+
+&emsp;&emsp;(F) require that the agency have the burden of proof, presentation, and persuasion in any enforcement matter;
+
+&emsp;&emsp;(G) require that any order contain findings of relevant fact and conclusions of law;
+
+&emsp;&emsp;(H) require the Office of Pipeline Safety to file a post-hearing recommendation not later than 30 days after the deadline for any post-hearing submission of a respondent;
+
+&emsp;&emsp;(I) require an order on a petition for reconsideration to be issued not later than 120 days after the date on which the petition is filed; and
+
+&emsp;&emsp;(J) allow an operator to request that an issue of controversy or uncertainty be addressed through a declaratory order in accordance with section 554(e) of title 5.
+
+&emsp;(2)
+
+Open to the public.—A hearing under this section shall be—
+
+&emsp;&emsp;(A) noticed to the public on the website of the Pipeline and Hazardous Materials Safety Administration; and
+
+&emsp;&emsp;(B) in the case of a formal hearing (as defined in section 190.3 of title 49, Code of Federal Regulations (or a successor regulation)), open to the public.
+
+&emsp;(3)
+
+Transparency.—
+
+&emsp;&emsp;(A)
+
+Agreements, orders, and judgments open to the public.—With respect to each enforcement proceeding under this chapter, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall make publicly available on the website of the Administration—
+
+&emsp;&emsp;&emsp;(i) the charging documents;
+
+&emsp;&emsp;&emsp;(ii) the written response of the respondent, if filed; and
+
+&emsp;&emsp;&emsp;(iii) any consent agreement, consent order, order, or judgment resulting from a hearing under this chapter.
+
+&emsp;&emsp;(B)
+
+Gao report on pipeline safety program collection and transparency of enforcement proceedings.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Not later than 2 years after the date of enactment of the PIPES Act of 2020, the Comptroller General of the United States shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) review information on pipeline enforcement actions that the Pipeline and Hazardous Materials Safety Administration makes publicly available on the internet; and
+
+&emsp;&emsp;&emsp;&emsp;(II) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a report on that review, including any recommendations under clause (iii).
+
+&emsp;&emsp;&emsp;(ii)
+
+Contents.—The report under clause (i)(II) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a description of the process that the Pipeline and Hazardous Materials Safety Administration uses to collect and record enforcement information;
+
+&emsp;&emsp;&emsp;&emsp;(II) an assessment of whether and, if so, how the Pipeline and Hazardous Materials Safety Administration ensures that enforcement information is made available to the public in an accessible manner; and
+
+&emsp;&emsp;&emsp;&emsp;(III) an assessment of the information described in clause (i)(I).
+
+&emsp;&emsp;&emsp;(iii)
+
+Recommendations.—The report under clause (i)(II) may include recommendations regarding—
+
+&emsp;&emsp;&emsp;&emsp;(I) any improvements that could be made to the accessibility of the information described in clause (i)(I);
+
+&emsp;&emsp;&emsp;&emsp;(II) whether and, if so, how the information described in clause (i)(I) could be made more transparent; and
+
+&emsp;&emsp;&emsp;&emsp;(III) any other recommendations that the Comptroller General of the United States considers appropriate.
+
+&emsp;(4)
+
+Savings clause.—Nothing in this subsection alters the procedures applicable to—
+
+&emsp;&emsp;(A) an emergency order under subsection (p);
+
+&emsp;&emsp;(B) a safety order under subsection (m); or
+
+&emsp;&emsp;(C) a corrective action order under section 60112.
+
+(c)
+
 Records, Reports, and Information.—To enable the Secretary to decide whether a person owning or operating a pipeline facility is complying with this chapter and standards prescribed or orders issued under this chapter, the person shall—
 
 &emsp;(1) maintain records, make reports, and provide information the Secretary requires; and
@@ -14,21 +110,21 @@ Records, Reports, and Information.—To enable the Secretary to decide whether a
 
 > The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines.
 
-(c)
+(d)
 
 Entry and Inspection.—An officer, employee, or agent of the Department of Transportation designated by the Secretary, on display of proper credentials to the individual in charge, may enter premises to inspect the records and property of a person at a reasonable time and in a reasonable way to decide whether a person is complying with this chapter and standards prescribed or orders issued under this chapter.
 
-(d)
+(e)
 
 Confidentiality of Information.—Information related to a confidential matter referred to in section 1905 of title 18 that is obtained by the Secretary or an officer, employee, or agent in carrying out this section may be disclosed only to another officer or employee concerned with carrying out this chapter or in a proceeding under this chapter.
 
-(e)
+(f)
 
 Use of Accident Reports.—(1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. The officer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
 
 (2) Each report related to research and demonstration projects and related activities is public information.
 
-(f)
+(g)
 
 Testing Facilities Involved in Accidents.—The Secretary may require testing of a part of a pipeline facility subject to this chapter that has been involved in or affected by an accident only after—
 
@@ -36,11 +132,11 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 &emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
-(g)
+(h)
 
 Providing Safety Information.—On request, the Secretary shall provide the Federal Energy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
 
-(h)
+(i)
 
 Cooperation.—The Secretary may—
 
@@ -50,21 +146,21 @@ Cooperation.—The Secretary may—
 
 &emsp;(3) participate in a proceeding involving safety requirements related to a liquefied natural gas facility before the Commission or a State authority.
 
-(i)
+(j)
 
 Promoting Coordination.—(1) After consulting with appropriate State officials, the Secretary shall establish procedures to promote more effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
 
 (2) In consultation with the Occupational Safety and Health Administration, the Secretary shall establish procedures to notify the Administration of any pipeline accident in which an excavator that has caused damage to a pipeline may have violated a regulation of the Administration.
 
-(j)
+(k)
 
 Withholding Information From Congress.—This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-(k)
+(l)
 
 Authority for Cooperative Agreements.—To carry out this chapter, the Secretary may enter into grants, cooperative agreements, and other transactions with any person, agency, or instrumentality of the United States, any unit of State or local government, any educational institution, or any other entity to further the objectives of this chapter. The objectives of this chapter include the development, improvement, and promotion of one-call damage prevention programs, research, risk assessment, and mapping.
 
-(l)
+(m)
 
 Safety Orders.—
 
@@ -84,7 +180,7 @@ Considerations.—In making a determination under paragraph (1), the Secretary, 
 
 &emsp;&emsp;(D) the likelihood that the condition is present or could develop on other areas of the pipeline.
 
-(m)
+(n)
 
 Restoration of Operations.—
 
@@ -96,7 +192,7 @@ In general.—The Secretary may advise, assist, and cooperate with the heads of 
 
 Savings clause.—Nothing in this section alters or amends the authorities and responsibilities of any department, agency, or instrumentality of the United States Government, other than the Department of Transportation.
 
-(n)
+(o)
 
 Cost Recovery for Design Reviews.—
 
@@ -122,7 +218,7 @@ Projects to which applicable.—Subparagraph (A) applies to any project that—
 
 &emsp;(2)
 
-Notification.—For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and related materials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
+Notification.—For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and relatedmaterials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
 
 &emsp;(3)
 
@@ -144,7 +240,7 @@ Use.—Amounts in the Fund shall be available to the Secretary, in amounts speci
 
 No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
-(o)
+(p)
 
 Emergency Order Authority.—
 
@@ -182,7 +278,7 @@ Written order.—An emergency order issued by the Secretary pursuant to paragrap
 
 &emsp;&emsp;(D) the standards and procedures for obtaining relief from the order;
 
-&emsp;&emsp;(E) how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and 60117(l) are insufficient to do so; and
+&emsp;&emsp;(E) how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and subsection (m) are insufficient to do so; and
 
 &emsp;&emsp;(F) how the considerations were taken into account pursuant to paragraph (2).
 
@@ -192,7 +288,7 @@ Opportunity for review.—Upon receipt of a petition for review from an entity s
 
 &emsp;(5)
 
-Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective onsuch day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
 
 &emsp;(6)
 
@@ -230,7 +326,7 @@ Limitation and savings clause.—An emergency order issued under this subsection
 
 &emsp;&emsp;(B) provide the authority to amend the Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913; Pub. L. 114–183, §16, June 22, 2016, 130 Stat. 525.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913; Pub. L. 114–183, §16, June 22, 2016, 130 Stat. 525; Pub. L. 116–260, div. R, title I, §108(a), (b)(2), Dec. 27, 2020, 134 Stat. 2221, 2223.)
 
 Historical and Revision Notes
 
@@ -420,9 +516,15 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 #### References in Text
 
-The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (o)(7), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
+The date of enactment of the PIPES Act of 2020, referred to in subsec. (b)(3)(B)(i), is the date of enactment of div. R of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
+The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (p)(7), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
 
 #### Amendments
+
+<b>2020</b>—Subsecs. (b) to (p). Pub. L. 116–260, §108(a), added subsec. (b) and redesignated former subsecs. (b) to (o) as (c) to (p), respectively.
+
+Subsec. (p)(3)(E). Pub. L. 116–260, §108(b)(2), substituted "subsection (m)" for "60117(l)".
 
 <b>2016</b>—Subsec. (o). Pub. L. 114–183 added subsec. (o).
 
@@ -514,7 +616,7 @@ Pub. L. 112–90, §9, Jan. 3, 2012, 125 Stat. 1912, provided that:
 
 "(a)
 
-Revision of Regulations.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidents and incidents involving pipeline facilities to the Secretary and the National Response Center.
+Revision of Regulations.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidentsand incidents involving pipeline facilities to the Secretary and the National Response Center.
 
 "(b)
 
@@ -534,7 +636,7 @@ Updating of Reports.—After receiving revisions described in subsection (b)(3),
 
 #### Guidance
 
-Pub. L. 112–90, §13(b), Jan. 3, 2012, 125 Stat. 1914, provided that: "Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue guidance to clarify the meaning of the term 'new or novel technologies or design' as used in section 60117(n)(1)(B)(ii) of title 49, United States Code, as amended by subsection (a) of this section."
+Pub. L. 112–90, §13(b), Jan. 3, 2012, 125 Stat. 1914, provided that: "Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue guidance to clarify the meaning of the term 'new or novel technologies or design' as used in section 60117(n)(1)(B)(ii) \[now 49 U.S.C. 60117(o)(1)(B)(ii)\] of title 49, United States Code, as amended by subsection (a) of this section."
 
 #### Pipeline Safety Training for State and Local Government Personnel
 

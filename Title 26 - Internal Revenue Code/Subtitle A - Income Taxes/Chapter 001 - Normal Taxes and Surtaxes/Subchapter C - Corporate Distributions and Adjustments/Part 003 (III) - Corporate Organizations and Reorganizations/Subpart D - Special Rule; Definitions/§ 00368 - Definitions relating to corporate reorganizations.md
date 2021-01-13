@@ -80,7 +80,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives,as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
+&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock,securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
 
 #### (ii) Exception
 

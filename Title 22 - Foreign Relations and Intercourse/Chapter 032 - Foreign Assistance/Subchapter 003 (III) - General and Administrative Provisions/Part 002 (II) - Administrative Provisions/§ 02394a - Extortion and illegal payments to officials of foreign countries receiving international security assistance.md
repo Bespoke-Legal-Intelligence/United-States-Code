@@ -4,9 +4,13 @@ Within 60 days after receiving information which substantiates that officials of
 
 (Pub. L. 94–329, title VI, §607, June 30, 1976, 90 Stat. 768.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961, which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

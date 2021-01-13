@@ -32,7 +32,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title 28, if the requirements of subparagraph (E) have been met.
 
-&emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge courtand materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
+&emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge court and materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
 
 &emsp;(D) If the requirements under subparagraph (A) have been met, a Federal judge before whom a civil action with respect to prison conditions is pending who believes that a prison release order should be considered may sua sponte request the convening of a three-judge court to determine whether a prisoner release order should be entered.
 
@@ -62,7 +62,7 @@ Termination of prospective relief.—(A) In any civil action with respect to pri
 
 &emsp;(2)
 
-Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
+Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate terminationof any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
 
 &emsp;(3)
 
@@ -182,6 +182,8 @@ Definitions.—As used in this section—
 
 (Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(1)(A)(iii), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101\[(a)\] \[title VIII\] of Pub. L. 104–134, which was approved Apr. 26, 1996.
@@ -206,6 +208,8 @@ Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
 
 <b>1996</b>—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–119, title I, §123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: "The amendments made by this Act \[probably should be "section", amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases."
@@ -224,7 +228,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 1
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: "None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that:"None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 

@@ -36,7 +36,7 @@ Expenses.—(1) Expenses incurred as a direct result of providing humanitarian d
 
 (d)
 
-Annual Report.—The Secretary of Defense shall include in the annual report under section 401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
+Annual Report.—The Secretary of Defense shall include in the annual report under section401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
 
 &emsp;(1) a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
 
@@ -52,7 +52,7 @@ Annual Report.—The Secretary of Defense shall include in the annual report und
 
 Definitions.—In this section:
 
-&emsp;(1) The term "humanitarian demining assistance", as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education,training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
+&emsp;(1) The term "humanitarian demining assistance", as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
 
 &emsp;(2) The term "stockpiled conventional munitions assistance", as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted "or stockpiled conventi
 
 Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted ", and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance" after "paragraph (1)".
 
-Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "In this section, the term 'humanitarian demining assistance', as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war."
+Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "In this section, the term 'humanitarian demining assistance', as it relates totraining and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war."
 
 #### Termination of Reporting Requirements
 

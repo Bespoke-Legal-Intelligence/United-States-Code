@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term "invention" means an invention or discovery that is patented or for which a patent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act\(7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
+&emsp;(1) the term "invention" means an invention or discovery that is patented or for which a patent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
 
 &emsp;(2) the term "non-Federal person" means an entity located in the United States, the controlling interest (as defined by the Secretary) of which is held by persons of the United States, including—
 
@@ -34,7 +34,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in introductory provisions and pars. (1) and (4), was in the original "this Act", meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
+This chapter, referred to in introductory provisions and pars. (1) and (4), was in the original "this Act",meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
 
 The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 

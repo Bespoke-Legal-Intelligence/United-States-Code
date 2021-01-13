@@ -20,7 +20,7 @@ The Secretary, through the United States Geological Survey, is authorized to con
 
 #### (c) Exploratory drilling by party not under contract to United States; confidentiality of information prior to award of lease
 
-Nothing in this section shall limit any person from conducting exploratory geophysical surveys including seismic, geophysical, chemicalsurveys to the extent permitted by section 201(b) of this title. The information obtained from the exploratory drilling carried out by a person not under contract with the United States Government for such drilling prior to award of a lease shall be provided the confidentiality pursuant to subsection (d).
+Nothing in this section shall limit any person from conducting exploratory geophysical surveys including seismic, geophysical, chemical surveys to the extent permitted by section 201(b) of this title. The information obtained from the exploratory drilling carried out by a person not under contract with the United States Government for such drilling prior to award of a lease shall be provided the confidentiality pursuant to subsection (d).
 
 #### (d) Availability to public of all data, information, maps, surveys; confidentiality of information purchased from commercial sources not under contract to United States prior to award of lease
 
@@ -43,6 +43,8 @@ Within six months after the date of enactment of this Act, the Secretary shall d
 The stratigraphic drilling authorized in subsection (b) shall be carried out in such a manner as to obtain information pertaining to all recoverable reserves. For the purpose of complying with subsection (a), the Secretary shall require all those authorized to conduct stratigraphic drilling pursuant to subsection (b) to supply a statement of the results of test boring of core sampling including logs of the drill holes; the thickness of the coal seams found; an analysis of the chemical properties of such coal; and an analysis of the strata layers lying above all the seams of coal. All drilling activities shall be conducted using the best current technology and practices.
 
 (Feb. 25, 1920, ch. 85, §8A, as added Pub. L. 94–377, §7, Aug. 4, 1976, 90 Stat. 1087.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

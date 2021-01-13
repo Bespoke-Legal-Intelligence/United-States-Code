@@ -4,13 +4,15 @@ There is established with the Treasurer of the United States a special deposit a
 
 (Pub. L. 87–82, §4, July 6, 1961, 75 Stat. 199; Pub. L. 92–51, July 9, 1971, 85 Stat. 129; Pub. L. 92–342, §101, July 10, 1972, 86 Stat. 435.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 174j–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–342 substituted provision that amounts appropriated for 1973 and thereafter which shall be part of "Contingent Expenses of the Senate" be paid to the Architect of the Capitol, for provision that amounts appropriated for 1972 and thereafter specifically for Senate Restaurants as "Contingent Expenses of the Senate" be paid to Architect of the Capitol.
+<b>1972</b>—Pub. L. 92–342 substituted provision that amounts appropriated for 1973 and thereafter which shall be part of "Contingent Expenses of the Senate" bepaid to the Architect of the Capitol, for provision that amounts appropriated for 1972 and thereafter specifically for Senate Restaurants as "Contingent Expenses of the Senate" be paid to Architect of the Capitol.
 
 <b>1971</b>—Pub. L. 92–51 substituted "amounts appropriated for fiscal year 1972 and thereafter" for Senate Restaurants for "amounts hereafter appropriated" for such Restaurants, provision that amounts appropriated specifically for such Restaurants as a Contingent Expense of the Senate item for fiscal year involved shall be paid to Architect of the Capitol, for prior provision declaring amounts appropriated for such Restaurants shall be a part of such Restaurants as a Contingent Expense of Senate for fiscal year involved and for payment of such part to Architect of the Capitol, and provision for approval of payments by Senate Committee on Rules and Administration, including times for payments, for prior provision for payments as appropriations shall specify.
 

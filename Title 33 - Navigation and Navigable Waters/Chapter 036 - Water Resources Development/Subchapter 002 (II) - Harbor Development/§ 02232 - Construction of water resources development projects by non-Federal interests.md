@@ -60,7 +60,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (1) In general
 
-&emsp;When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
+&emsp;When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
 
 #### (2) No waiver
 
@@ -78,7 +78,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (1) General rule
 
-&emsp;Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shall be eligible for credit or reimbursement for the Federal share of work carried out on a project or separable element of a project if—
+&emsp;Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shallbe eligible for credit or reimbursement for the Federal share of work carried out on a project or separable element of a project if—
 
 &emsp;&emsp;(A) before initiation of construction of the project or separable element—
 
@@ -166,25 +166,37 @@ If a non-Federal interest notifies the Secretary that the non-Federal interest i
 
 #### (f) Operation and maintenance
 
-Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with section 2211(b) of this title if—
+#### (1) Assumption of maintenance
 
-&emsp;(1) before construction of the improvements—
+&emsp;Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with section 2211(b) of this title if—
 
-&emsp;&emsp;(A) the Secretary determines that the improvements are feasible and consistent with the purposes of this subchapter; and
+&emsp;&emsp;(A) before construction of the improvements—
 
-&emsp;&emsp;(B) the Secretary and the non-Federal interest execute a written agreement relating to operation and maintenance of the improvements;
+&emsp;&emsp;&emsp;(i) the Secretary determines that the improvements are feasible and consistent with the purposes of this subchapter; and
 
-&emsp;(2) the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
+&emsp;&emsp;&emsp;(ii) the Secretary and the non-Federal interest execute a written agreement relating to operation and maintenance of the improvements;
 
-&emsp;(3) the Secretary does not find that the project or separable element is no longer feasible.
+&emsp;&emsp;(B) the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
 
-(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1153, Oct. 23, 2018, 132 Stat. 3789.)
+&emsp;&emsp;(C) the Secretary does not find that the project or separable element is no longer feasible.
+
+#### (2) Federal financial participation in the costs of a locally preferred plan.
+
+&emsp;In the case of improvements determined by the Secretary pursuant to paragraph (1)(A)(i) to deviate from the national economic development plan, the Secretary shall be responsible for all operation and maintenance costs of such improvements, as described in section 2211(b) of this title, including costs in excess of the costs of the national economic development plan, if the Secretary determines that the improvements satisfy the requirements of paragraph (1).
+
+(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1153, Oct. 23, 2018, 132 Stat. 3789; Pub. L. 116–260, div. AA, title I, §105(a), (b), Dec. 27, 2020, 134 Stat. 2622.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282(g) of this title by Pub. L. 115–270, title I, §1332(a)(3), Oct. 23, 2018, 132 Stat. 3834.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §105(a), substituted "under this section" for "under subsection (b)".
+
+Subsec. (f). Pub. L. 116–260, §105(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to operation and maintenance.
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–270, §1153(1)(A), inserted "federally authorized" before "water resources development project" in introductory provisions.
 
@@ -216,6 +228,8 @@ Subsec. (f). Pub. L. 101–640, §303(b)(1), redesignated subsec. (e), relating 
 
 Subsec. (g). Pub. L. 101–640, §303(b)(1), redesignated subsec. (f) as (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 Pub. L. 113–121, title I, §1014(d), June 10, 2014, 128 Stat. 1222, provided that: "Nothing in this section \[amending this section and section 2231 of this title, repealing sections 426i–1 and 701b–13 of this title, and repealing provisions set out as a note under this section\] may be construed to affect an agreement in effect on the date of enactment of this Act \[June 10, 2014\], or an agreement that is finalized between the Corps of Engineers and a non-Federal interest on or before December 31, 2014, under any of the following sections (as such sections were in effect on the day before such date of enactment):
@@ -225,6 +239,22 @@ Pub. L. 113–121, title I, §1014(d), June 10, 2014, 128 Stat. 1222, provided t
 &emsp;"(2) Section 206 of the Water Resources Development Act of 1992 (33 U.S.C. 426i–1).
 
 &emsp;"(3) Section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)."
+
+#### Report on Improvements by Non–Federal Interest
+
+Pub. L. 116–260, div. AA, title I, §105(c), Dec. 27, 2020, 134 Stat. 2623, provided that: "A non-Federal interest may submit to the Secretary \[of the Army\] a report on improvements to a federally authorized harbor or inland harbor to be carried out by the non-Federal interest, containing any information necessary for the Secretary determine whether the improvements satisfy the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2232\[(f)(1)\]), including—
+
+&emsp;"(1) the economic justification for the improvements;
+
+&emsp;"(2) details of the project improvement plan and design;
+
+&emsp;"(3) proposed arrangements for the work to be performed; and
+
+&emsp;"(4) documents relating to any applicable permits required for the project improvements."
+
+#### Project Studies Subject to Independent Peer Review
+
+Pub. L. 116–260, div. AA, title I, §105(d), Dec. 27, 2020, 134 Stat. 2623, provided that: "The Secretary \[of the Army\] shall not be required to subject a project study for a project with a cost of less than $200,000,000, which the Secretary determines satisfies the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2232\[(f)(1)\]), to independent peer review under section 2034(a)(3)(A)(i) of the Water Resources Development Act of 2007 (33 U.S.C. 2343(a)(3)(A)(i))."
 
 #### Preconstruction Engineering Design Demonstration Program
 

@@ -4,9 +4,13 @@ Any person, including the owner, agent, consignee, master, or commanding officer
 
 (June 27, 1952, ch. 477, title II, ch. 6, §257, 66 Stat. 223; Pub. L. 101–649, title V, §543(a)(7), Nov. 29, 1990, 104 Stat. 5058.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–649 substituted "$10,000" for "$5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

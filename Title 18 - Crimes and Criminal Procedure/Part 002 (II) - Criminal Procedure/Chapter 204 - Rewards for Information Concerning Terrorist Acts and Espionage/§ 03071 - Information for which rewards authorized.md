@@ -18,9 +18,13 @@
 
 (Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2706; amended Pub. L. 103–359, title VIII, §803(a), Oct. 14, 1994, 108 Stat. 3438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–359 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

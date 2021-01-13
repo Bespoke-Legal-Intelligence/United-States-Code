@@ -32,7 +32,7 @@ The Secretary—
 
 &emsp;&emsp;&emsp;(ii) demonstrate the greatest need, for the purpose of aiding schools in meeting costs associated with initiating or expanding a school breakfast program under section 1773 of this title, including outreach and informational activities; and
 
-&emsp;(2) from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish andmaintain a food service management institute.
+&emsp;(2) from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
 
 #### (b) Minimum requirements
 

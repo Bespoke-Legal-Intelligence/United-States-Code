@@ -86,7 +86,7 @@ The Director shall ensure that not more than a total of 5 percent of Federal fun
 
 #### (1) Assistance authorized
 
-&emsp;The Director may authorize use of resources available for the Program to assist Federal, State, local, and tribal law enforcement agencies in investigations and activities related to terrorism and prevention of terrorism, especially but not exclusively with respect to suchinvestigations and activities that are also related to drug trafficking.
+&emsp;The Director may authorize use of resources available for the Program to assist Federal, State, local, and tribal law enforcement agencies in investigations and activities related to terrorism and prevention of terrorism, especially but not exclusively with respect to such investigations and activities that are also related to drug trafficking.
 
 #### (2) Limitation
 
@@ -264,6 +264,8 @@ The Director is authorized to use not more than $10,000,000 of the amounts other
 
 (Pub. L. 105–277, div. C, title VII, §§707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§301, §302(c), title VI, §602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114; Pub. L. 116–74, §2(a)(7), Nov. 27, 2019, 133 Stat. 1157.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
@@ -299,6 +301,8 @@ Pub. L. 109–469, §301, amended section generally. Prior to amendment, section
 Subsec. (q). Pub. L. 109–469, §302(c), added subsec. (q).
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

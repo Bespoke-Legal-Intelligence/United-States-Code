@@ -74,6 +74,8 @@ There are authorized to be appropriated—
 
 (Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, §302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1252(2), Mar. 7, 2013, 127 Stat. 156; Pub. L. 115–393, title III, §301(b), Dec. 21, 2018, 132 Stat. 5272.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 109–164. Subsec. (b) of section 201 of Pub. L. 109–164 amended section 7104 of Title 22, Foreign Relations and Intercourse.
@@ -89,6 +91,8 @@ Section was formerly classified to section 14044 of Title 42, The Public Health 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–457, §302(2)(A), substituted "$1,500,000 for each of the fiscal years 2008 through 2011" for "$2,500,000 for each of the fiscal years 2006 and 2007" in two places.
 
 Subsec. (c)(2). Pub. L. 110–457, §302(2)(B), which directed substitution of "2008 through 2011" for "2006 and 2007", was executed by making the substitution for "2006 through 2007", to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Best Practices in Delivering Justice for Victims of Trafficking
 
@@ -111,4 +115,54 @@ Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Feder
 #### Recommendations To Prevent Sex Trafficking of Indian Women
 
 Pub. L. 111–211, title II, §264, July 29, 2010, 124 Stat. 2300, provided that: "Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women."
+
+#### <b>Executive Documents</b>
+
+#### Ex. Ord. No. 13903. Combating Human Trafficking and Online Child Exploitation in the United States
+
+Ex Ord. No. 13903, Jan. 31, 2020, 85 F.R. 6721, provided:
+
+Section 1. <i>Policy</i>. Human trafficking is a form of modern slavery. Throughout the United States and around the world, human trafficking tears apart communities, fuels criminal activity, and threatens the national security of the United States. It is estimated that millions of individuals are trafficked around the world each year—including into and within the United States. As the United States continues to lead the global fight against human trafficking, we must remain relentless in resolving to eradicate it in our cities, suburbs, rural communities, tribal lands, and on our transportation networks. Human trafficking in the United States takes many forms and can involve exploitation of both adults and children for labor and sex.
+
+Twenty-first century technology and the proliferation of the internet and mobile devices have helped facilitate the crime of child sex trafficking and other forms of child exploitation. Consequently, the number of reports to the National Center for Missing and Exploited Children of online photos and videos of children being sexually abused is at record levels.
+
+The Federal Government is committed to preventing human trafficking and the online sexual exploitation of children. Effectively combating these crimes requires a comprehensive and coordinated response to prosecute human traffickers and individuals who sexually exploit children online, to protect and support victims of human trafficking and child exploitation, and to provide prevention education to raise awareness and helplower the incidence of human trafficking and child exploitation into, from, and within the United States.
+
+To this end, it shall be the policy of the executive branch to prioritize its resources to vigorously prosecute offenders, to assist victims, and to provide prevention education to combat human trafficking and online sexual exploitation of children.
+
+Sec. 2. <i>Strengthening Federal Responsiveness to Human Trafficking</i>. (a) The Domestic Policy Council shall commit one employee position to work on issues related to combating human trafficking occurring into, from, and within the United States and to coordinate with personnel in other components of the Executive Office of the President, including the Office of Economic Initiatives and the National Security Council, on such efforts. This position shall be filled by an employee of the executive branch detailed from the Department of Justice, the Department of Labor, the Department of Health and Human Services, the Department of Transportation, or the Department of Homeland Security.
+
+(b) The Secretary of State, on behalf of the President's Interagency Task Force to Monitor and Combat Trafficking in Persons, shall make available, online, a list of the Federal Government's resources to combat human trafficking, including resources to identify and report instances of human trafficking, to protect and support the victims of trafficking, and to provide public outreach and training.
+
+(c) The Secretary of State, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of Homeland Security shall, in coordination and consistent with applicable law:
+
+(i) improve methodologies of estimating the prevalence of human trafficking, including in specific sectors or regions, and monitoring the impact of anti-trafficking efforts and publish such methodologies as appropriate; and
+
+(ii) establish estimates of the prevalence of human trafficking in the United States.
+
+Sec. 3. <i>Prosecuting Human Traffickers and Individuals Who Exploit Children Online</i>. (a) The Attorney General, through the Federal Enforcement Working Group, in collaboration with the Secretary of Labor and the Secretary of Homeland Security, shall:
+
+(i) improve interagency coordination with respect to targeting traffickers, determining threat assessments, and sharing law enforcement intelligence to build on the Administration's commitment to the continued success of ongoing anti-trafficking enforcement initiatives, such as the Anti-Trafficking Coordination Team and the U.S.-Mexico Bilateral Human Trafficking Enforcement Initiatives; and
+
+(ii) coordinate activities, as appropriate, with the Task Force on Missing and Murdered American Indians and Alaska Natives as established by Executive Order 13898 of November 26, 2019 (Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives) \[25 U.S.C. 2801 note\].
+
+(b) The Attorney General and the Secretary of Homeland Security, and other heads of executive departments and agencies as appropriate, shall, within 180 days of the date of this order \[Jan. 31, 2020\], propose to the President, through the Director of the Domestic Policy Council, legislative and executive actions that would overcome information-sharing challenges and improve law enforcement's capabilities to detect in real-time the sharing of child sexual abuse material on the internet, including material referred to in Federal law as "child pornography." Overcoming these challenges would allow law enforcement officials to more efficiently identify, protect, and rescue victims of online child sexual exploitation; investigate and prosecute alleged offenders; and eliminate the child sexual abuse material online.
+
+Sec. 4. <i>Protecting Victims of Human Trafficking and Child Exploitation</i>. (a) The Attorney General, the Secretary of Health and Human Services, and the Secretary of Homeland Security, and other heads of executive departments and agencies as appropriate, shall work together to enhance capabilities to locate children who are missing, including those who have run away from foster care and those previously in Federal custody, and are vulnerable to human trafficking and child exploitation. In doing so, such heads of executive departments and agencies, \[sic\] shall, as appropriate, engage social media companies; the technology industry; State, local, tribal and territorial child welfare agencies; the National Center for Missing and Exploited Children; and law enforcement at all levels.
+
+(b) The Secretary of Health and Human Services, in consultation with the Secretary of Housing and Urban Development, shall establish an internal working group to develop and incorporate practical strategies for State, local, and tribal governments, child welfare agencies, and faith-based and other community organizations to expand housing options for victims of human trafficking.
+
+Sec. 5. <i>Preventing Human Trafficking and Child Exploitation Through Education Partnerships</i>. The Attorney General and the Secretary of Homeland Security, in coordination with the Secretary of Education, shall partner with State, local, and tribal law enforcement entities to fund human trafficking and child exploitation prevention programs for our Nation's youth in schools, consistent with applicable law and available appropriations.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

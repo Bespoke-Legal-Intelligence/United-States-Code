@@ -14,11 +14,11 @@ Annual emissions limitations for sulfur dioxide shall be equal to the product of
 
 #### (d) Process sources
 
-Not later than 18 months after November 15, 1990, the Administrator shall establish a program under which the owner or operator of a process source that emits sulfur dioxide may elect to designate that source as an affected unit for the purpose of receiving allowances under this subchapter. The Administrator shall, by regulation, define the sources that may be designated; specify the emissions limitation; specify the operating, emission baseline, and other data requirements; prescribe CEMS or other monitoring requirements; and promulgate permit, reporting, and any other requirements necessary to implement such a program.
+Not later than 18 months after November 15, 1990, the Administrator shall establish a program under which the owner or operator of a process source that emits sulfur dioxide mayelect to designate that source as an affected unit for the purpose of receiving allowances under this subchapter. The Administrator shall, by regulation, define the sources that may be designated; specify the emissions limitation; specify the operating, emission baseline, and other data requirements; prescribe CEMS or other monitoring requirements; and promulgate permit, reporting, and any other requirements necessary to implement such a program.
 
 #### (e) Allowances and permits
 
-The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d), in accordance withsection 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
+The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d), in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
 
 #### (f) Limitation
 

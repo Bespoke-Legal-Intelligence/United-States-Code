@@ -32,7 +32,7 @@
 
 (2) For the purpose of this subsection, employment on a part-time basis shall not be considered to include employment on a temporary or intermittent basis.
 
-(h)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
+(h)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date ofthe annuity precedes the sixty-second anniversary of the birth of the employee or Member.
 
 (2)(A) Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(2), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
 
@@ -48,7 +48,7 @@
 
 > but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, air traffic controller, or customs and border protection officer <sup>1</sup>
 
-(j) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of theMember imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
+(j) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
 (k)(1) For purposes of this subsection, the term "physicians comparability allowance" refers to an amount described in section 8331(3)(H).
 
@@ -92,7 +92,9 @@
 
 (n) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(3), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §1901(a), Oct. 28, 2009, 123 Stat. 2615; Pub. L. 112–96, title V, §5001(c)(1), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(d), Dec. 26, 2013, 127 Stat. 1185; Pub.L. 114–190, title II, §2304(a), July 15, 2016, 130 Stat. 640.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(3), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §1901(a), Oct. 28, 2009, 123 Stat. 2615; Pub. L. 112–96, title V, §5001(c)(1), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(d), Dec. 26, 2013, 127 Stat. 1185; Pub. L. 114–190, title II, §2304(a), July 15, 2016, 130 Stat. 640.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -146,6 +148,8 @@ Subsec. (i). Pub. L. 106–571 added subsec. (i).
 
 <b>1986</b>—Subsec. (f)(2). Pub. L. 99–556 inserted "8412(g) or" in subpars. (A) and (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–190, title II, §2304(b), July 15, 2016, 130 Stat. 640, provided that: "The amendment made by subsection (a) \[amending this section\] shall be deemed to be effective on December 12, 2003."
@@ -160,7 +164,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 #### Effective Date of 2003 Amendments
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to anyannuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 Pub. L. 108–92, §2, Oct. 3, 2003, 117 Stat. 1160, provided that: "The amendments made by this Act \[amending this section and section 8422 of this title\] shall apply with respect to any annuity entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 3, 2003\]."
 

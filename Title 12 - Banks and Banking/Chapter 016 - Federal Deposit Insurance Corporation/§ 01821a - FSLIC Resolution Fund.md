@@ -8,7 +8,7 @@
 
 #### (2) Transfer of FSLIC assets and liabilities
 
-&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
+&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the FederalSavings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
 
 #### (3) Separate holding
 
@@ -66,6 +66,8 @@ The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and 
 
 (Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(15)–(17), Feb. 15, 2006, 119 Stat. 3612, 3613.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1441a of this title, referred to in subsecs. (a)(2) and (e), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
@@ -90,7 +92,7 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(L). See 1996 Amendme
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–208, §2704(d)(14)(J)(i), (ii), which directed striking out subpar. (A) heading and subpar. (B) and redesignating subpar. (A) as par. (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (a)(3). Pub. L. 104–208, §2704(d)(14)(J)(iii), which directed substitution of "the Deposit InsuranceFund" for "the Bank Insurance Fund, the Savings Association Insurance Fund,", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (a)(3). Pub. L. 104–208, §2704(d)(14)(J)(iii), which directed substitution of "the Deposit Insurance Fund" for "the Bank Insurance Fund, the Savings Association Insurance Fund,", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b)(4). Pub. L. 104–208, §2704(d)(14)(K), which directed striking out par. (4), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -101,6 +103,8 @@ Subsec. (f). Pub. L. 104–208, §2704(d)(14)(L), which directed substitution of
 Subsec. (a)(4), (5). Pub. L. 102–242 added pars. (4) and (5).
 
 Subsec. (b)(4). Pub. L. 102–233, §202(d), substituted "1992" for "1991".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

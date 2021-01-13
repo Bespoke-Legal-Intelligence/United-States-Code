@@ -2,7 +2,7 @@
 
 #### (a) Program plan; guidelines; compliance
 
-(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitledunder section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
+(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
@@ -70,7 +70,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out fo
 
 <b>1991</b>—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec.\(b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–253, §185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 

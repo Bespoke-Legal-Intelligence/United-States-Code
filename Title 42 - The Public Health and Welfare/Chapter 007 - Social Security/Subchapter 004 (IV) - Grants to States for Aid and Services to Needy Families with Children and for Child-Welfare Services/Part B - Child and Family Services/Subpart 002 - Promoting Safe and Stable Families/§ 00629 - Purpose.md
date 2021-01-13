@@ -40,7 +40,7 @@ Amendment by Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rul
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2002 Amendment
 

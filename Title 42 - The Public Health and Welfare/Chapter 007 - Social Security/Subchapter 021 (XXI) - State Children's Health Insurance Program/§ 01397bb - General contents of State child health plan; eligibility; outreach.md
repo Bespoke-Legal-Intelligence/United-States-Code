@@ -18,7 +18,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;(7) methods (including monitoring) used—
 
-&emsp;&emsp;(A) to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
+&emsp;&emsp;(A) to assure the quality and appropriateness of care, particularly with respect towell-baby care, well-child care, and immunizations provided under the plan;
 
 &emsp;&emsp;(B) to assure access to covered services, including emergency services and services described in paragraphs (5) and (6) of section 1397cc(c) of this title; and
 
@@ -84,7 +84,7 @@ A State child health plan shall include a description of the procedures to be us
 
 #### (1) Outreach
 
-&emsp;Outreach (through community health workers and others) to families of children likely to be eligible for child health assistance under the plan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
+&emsp;Outreach (through community health workers and others) to families of children likely to be eligible for child health assistance underthe plan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
 
 #### (2) Coordination with other health insurance programs
 

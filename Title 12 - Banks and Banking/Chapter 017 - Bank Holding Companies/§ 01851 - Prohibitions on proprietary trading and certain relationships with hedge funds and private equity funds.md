@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the studyunder paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
+&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the study under paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
 
 #### (B) Coordinated rulemaking
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the Commodity Futures Trading Commission, with respect to any entity for which the Commodity Futures Trading Commission is the primary financial regulatory agency, as defined in section 5301 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the Securities and Exchange Commission, with respect to any entity for which the Securities and Exchange Commission is the primary financial regulatory agency, as defined in section 5301 of this title.
+&emsp;&emsp;&emsp;&emsp;(IV) the Securities and Exchange Commission, with respect to any entity forwhich the Securities and Exchange Commission is the primary financial regulatory agency, as defined in section 5301 of this title.
 
 #### (ii) Coordination, consistency, and comparability
 
@@ -106,7 +106,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2)and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
+&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2) and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
 
 &emsp;&emsp;(A) The purchase, sale, acquisition, or disposition of obligations of the United States or any agency thereof, obligations, participations, or other instruments of or issued by the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, a Federal Home Loan Bank, the Federal Agricultural Mortgage Corporation, or a Farm Credit System institution chartered under and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), and obligations of any State or of any political subdivision thereof.
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;(viii) the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
 
-&emsp;&emsp;(H) Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title, provided that the trading occurs solely outside of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
+&emsp;&emsp;(H) Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title, provided that the trading occurs solely outside of the United States and that the banking entity isnot directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
 
 &emsp;&emsp;(I) The acquisition or retention of any equity, partnership, or other ownership interest in, or the sponsorship of, a hedge fund or a private equity fund by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title solely outside of the United States, provided that no ownership interest in such hedge fund or private equity fund is offered for sale or sold to a resident of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
 
@@ -332,9 +332,11 @@ In this section, the following definitions shall apply:
 
 (May 9, 1956, ch. 240, §13, as added Pub. L. 111–203, title VI, §619, July 21, 2010, 124 Stat. 1620; amended Pub. L. 115–174, title II, §§203, 204, May 24, 2018, 132 Stat. 1309.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
+Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 ofPub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
 
 The Farm Credit Act of 1971, referred to in subsec. (d)(1)(A), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
@@ -357,6 +359,8 @@ The Investment Company Act of 1940, referred to in subsec. (h)(2), is title I of
 Subsec. (h)(1). Pub. L. 115–174, §203, substituted "institution—" for "institution that functions solely in a trust or fiduciary capacity, if—" in introductory provisions, inserted "(A) that functions solely in a trust or fiduciary capacity, if—" after introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) and (ii) of former subpar. (D) as subcls. (I) and (II), respectively, of cl. (iv) of subpar. (A) and realigned margins, and added subpar. (B).
 
 Subsec. (h)(5)(C). Pub. L. 115–174, §204(2), inserted ", except as permitted under subsection (d)(1)(G)(vi)" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -36,6 +36,8 @@ Historical and Revision Notes
 
 Pub. L. 105–203, §4, as added Pub. L. 106–291, title I, §150(h), Oct. 11, 2000, 114 Stat. 959; Pub. L. 110–229, title III, subtitle G, §361(a)(2), May 8, 2008, 122 Stat. 801.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### National Underground Railroad Freedom Center
 
 Pub. L. 106–291, title I, §150(b), Oct. 11, 2000, 114 Stat. 956, provided that:

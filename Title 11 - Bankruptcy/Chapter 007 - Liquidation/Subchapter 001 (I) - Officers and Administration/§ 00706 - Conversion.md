@@ -1,6 +1,6 @@
 ### §706. Conversion
 
-(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 ofthis title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
+(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 of this title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
 
 (b) On request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 of this title at any time.
 
@@ -28,6 +28,8 @@ Subsection (c) is part of the prohibition against involuntary chapter 13 cases, 
 
 Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unless the debtor is eligible to be a debtor under that chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted "or consents to" after "requests".
@@ -37,6 +39,8 @@ Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unl
 <b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(q)(1), inserted references to chapter 12 and section 1208 of this title.
 
 Subsec. (c). Pub. L. 99–554, §257(q)(2), inserted reference to chapter 12.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

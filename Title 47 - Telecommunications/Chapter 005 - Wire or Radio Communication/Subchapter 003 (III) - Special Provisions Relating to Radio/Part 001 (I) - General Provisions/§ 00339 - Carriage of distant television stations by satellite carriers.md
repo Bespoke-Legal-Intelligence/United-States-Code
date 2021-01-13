@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) only until such time as the subscriber elects to receive such local signal.
 
-&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17, unless such carrier, within 60 days after December 8, 2004, submits tothat television network the list and statement required by subparagraph (F)(i).
+&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17, unless such carrier, within 60 days after December 8, 2004, submits to that television network the list and statement required by subparagraph (F)(i).
 
 #### (ii) For those not receiving distant signals
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;A satellite carrier may not provide a distant signal (within the meaning of subparagraph (A) or (B)) to a person who—
 
-&emsp;&emsp;&emsp;(i) is not a subscriber lawfully receiving such secondary transmission as of the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to section 338 of this title (and the retransmission of such signal by such carrier can reach such subscriber); or
+&emsp;&emsp;&emsp;(i) is not a subscriber lawfully receiving such secondary transmission as of the dateof the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to section 338 of this title (and the retransmission of such signal by such carrier can reach such subscriber); or
 
 &emsp;&emsp;&emsp;(ii) lawfully subscribes to and receives a distant signal on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, and, subsequent to such subscription, the satellite carrier makes available to that subscriber the signal of a local network station affiliated with the same network as the distant signal (and the retransmission of such signal by such carrier can reach such subscriber), unless such person subscribes to the signal of the local network station within 60 days after such signal is made available.
 
@@ -216,11 +216,13 @@ For the purposes of this section:
 
 (June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1001, formerly §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140, renumbered §1001, Pub. L. 115–334, title VI, §6603(3), Dec. 20, 2018, 132 Stat. 4777; Pub. L. 108–447, div. J, title IX \[title II, §§204, 209\], Dec. 8, 2004, 118 Stat. 3416, 3429; Pub. L. 111–175, title II, §204(b), May 27, 2010, 124 Stat. 1246; Pub. L. 115–141, div. P, title IV, §402(i)(7), Mar. 23, 2018, 132 Stat. 1090.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 119(e) of title 17, referred to in subsec. (a)(2)(A), was repealed and section 119(f) was redesignated section 119(e) by Pub. L. 116–94, div. P, title XI, §1102(a)(4), (6), Dec. 20, 2019, 133 Stat. 3203.
 
-The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2)(B)(ii), (C), (D)(ii), and (c)(3), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
+The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs.\(a)(2)(B)(ii), (C), (D)(ii), and (c)(3), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
 
 Section 119(d)(10) of title 17, referred to in subsecs. (a)(2)(D)(i)(III) and (c)(2), (4)(A), was amended by Pub. L. 116–94, div. P, title XI, §1102(a)(3)(A), Dec. 20, 2019, 133 Stat. 3202, such that subpars. (A) and (B) were repealed, former subpar. (D) was redesignated (A), and a new subpar. (B) was enacted.
 
@@ -244,7 +246,7 @@ Subsec. (a)(2)(C). Pub. L. 111–175, §204(b)(1)(B)(iv)(I), which directed stri
 
 Subsec. (a)(2)(C)(i). Pub. L. 111–175, §204(b)(1)(B)(iv)(II), substituted "the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to section 338 of this title (and the retransmission of such signal by such carrier can reach such subscriber); or" for "December 8, 2004; and".
 
-Subsec. (a)(2)(C)(ii). Pub. L. 111–175, §204(b)(1)(B)(iv)(III), amended cl. (ii) generally. Prior to amendment, text read as follows: "at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the analog signal of a local network station affiliated with thesame television network pursuant to section 338 of this title, and the retransmission of such signal by such carrier can reach such subscriber."
+Subsec. (a)(2)(C)(ii). Pub. L. 111–175, §204(b)(1)(B)(iv)(III), amended cl. (ii) generally. Prior to amendment, text read as follows: "at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the analog signal of a local network station affiliated with the same television network pursuant to section 338 of this title, and the retransmission of such signal by such carrier can reach such subscriber."
 
 Subsec. (a)(2)(D). Pub. L. 111–175, §204(b)(1)(B)(v)(I), struck out "digital" before "signals" in heading.
 
@@ -274,7 +276,7 @@ Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. P
 
 Subsec. (c)(4)(A). Pub. L. 111–175, §204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal that meets the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the subscriber shall not be denied the retransmission of a signal of a network station under section 119 of title 17."
 
-Subsec. (c)(4)(B). Pub. L. 111–175, §204(b)(2)(C), substituted "such requisite signal intensity standard" for "the signal intensity standard in effect under section 119(d)(10)(A) of title 17".
+Subsec. (c)(4)(B). Pub. L. 111–175, §204(b)(2)(C), substituted "such requisite signal intensity standard" for"the signal intensity standard in effect under section 119(d)(10)(A) of title 17".
 
 Subsec. (c)(4)(E). Pub. L. 111–175, §204(b)(2)(D), struck out "Grade B intensity" before "signal."
 
@@ -295,6 +297,8 @@ Subsec. (c)(1). Pub. L. 108–447, §204(b), added par. (1) and struck out headi
 Subsec. (c)(4)(D), (E). Pub. L. 108–447, §209, added subpars. (D) and (E).
 
 <b>2000</b>—Subsec. (c)(5). Pub. L. 106–553 added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

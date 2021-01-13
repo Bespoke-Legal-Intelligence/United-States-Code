@@ -18,13 +18,17 @@ Not later than 3 years after November 8, 2007, the Secretary shall prepare and t
 
 (Pub. L. 110–114, title II, §2044, Nov. 8, 2007, 121 Stat. 1102.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Local Government Reservoir Permit Review
 
-Pub. L. 115–270, title I, §1119, Oct. 23, 2018, 132 Stat. 3777, provided that:
+Pub. L. 115–270, title I, §1119, Oct. 23, 2018, 132 Stat. 3777, as amended by Pub. L. 116–260, div. AA, title III, §343, Dec. 27, 2020, 134 Stat. 2715, provided that:
 
 "(a)
 
@@ -36,7 +40,7 @@ In General.—During the 10-year period after the date of enactment of this sect
 
 "(b)
 
-Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir owned or operated by the Secretary, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
+Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
 
 "(c)
 

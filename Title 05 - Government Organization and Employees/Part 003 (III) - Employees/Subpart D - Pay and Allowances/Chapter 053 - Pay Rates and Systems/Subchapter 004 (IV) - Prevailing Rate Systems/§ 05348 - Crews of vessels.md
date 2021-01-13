@@ -6,6 +6,8 @@
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, §5348, formerly §5342; renumbered and amended Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 572; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(C), Sept. 23, 1996, 110 Stat. 2868.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §3548(a)(3)(C)(iii), substituted "subsection (b)" for "subsections (b) and (c)".
@@ -18,13 +20,15 @@ Subsecs. (b), (c). Pub. L. 104–201, §3548(a)(3)(C)(i), (ii), redesignated sub
 
 Subsec. (c). Pub. L. 92–392 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L.92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Limitation on Pay Adjustments
 

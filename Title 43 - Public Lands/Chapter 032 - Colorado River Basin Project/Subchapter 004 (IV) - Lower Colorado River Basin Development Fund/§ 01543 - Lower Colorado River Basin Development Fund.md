@@ -52,7 +52,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;&emsp;(i) to make deposits totaling $66,000,000, adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit, into the New Mexico Unit Fund as provided by section 212(i) of the Arizona Water Settlements Act in 10 equal annual payments beginning in 2012;
 
-&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that may be expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
+&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that may be expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000 and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
 
 &emsp;&emsp;&emsp;(iii) to pay the costs associated with the construction of distribution systems required to implement the provisions of—
 
@@ -62,7 +62,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;&emsp;&emsp;(III) section 304 of the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project asprovided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
 
 &emsp;&emsp;&emsp;(v) to pay other costs specifically identified under—
 
@@ -170,6 +170,8 @@ Business-type budgets shall be submitted to the Congress annually for all operat
 
 (Pub. L. 90–537, title IV, §403, Sept. 30, 1968, 82 Stat. 894; Pub. L. 93–320, title II, §205(b)(2), June 24, 1974, 88 Stat. 273; Pub. L. 98–381, title I, §102, Aug. 17, 1984, 98 Stat. 1333; Pub. L. 98–569, §4(f)(2), Oct. 30, 1984, 98 Stat. 2939; Pub. L. 108–451, title I, §107(a), (c), Dec. 10, 2004, 118 Stat. 3493, 3498.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 2, 106, 203, 208, 213, and 214 of the Arizona Water Settlements Act, referred to in subsec. (f)(2), (3), are sections 2 and 106 of title I, and sections 203, 208, 213, and 214 of title II, of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3479, 3492, 3499, 3521, 3531, 3534, which are not classified to the Code.
@@ -209,6 +211,8 @@ Subsec. (c)(2). Pub. L. 98–381, §102(c), inserted two provisos, the first rel
 Subsec. (g). Pub. L. 98–569 inserted "the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures" before "payable from".
 
 <b>1974</b>—Subsec. (g). Pub. L. 93–320 added cl. (2). Existing cl. (2), authorizing the use of revenues to assist in the repayment of reimbursable costs incurred in connection with units constructed after Sept. 30, 1968, to provide for the augmentation of water supplies of the Colorado River for use below Lee Ferry, redesignated (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

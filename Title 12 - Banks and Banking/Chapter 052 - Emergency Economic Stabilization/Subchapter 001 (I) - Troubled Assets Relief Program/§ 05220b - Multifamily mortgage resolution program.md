@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development shall develop a program under thi
 
 #### (b) Coordination
 
-The Secretary of Housing and Urban Development may, in carrying out the program developed under this section, coordinate with the Secretary of the Treasury, the Federal DepositInsurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, and any other Federal Government agency that the Secretary considers appropriate.
+The Secretary of Housing and Urban Development may, in carrying out the program developed under this section, coordinate with the Secretary of the Treasury, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, and any other Federal Government agency that the Secretary considers appropriate.
 
 #### (c) Definition
 
@@ -46,6 +46,8 @@ For purposes of this section, the term "multifamily properties" means a resident
 
 (Pub. L. 111–203, title XIV, §1481, July 21, 2010, 124 Stat. 2202.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (d)(1), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
@@ -54,9 +56,11 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (d)(1),
 
 Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transferdate if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
 #### Definitions
 

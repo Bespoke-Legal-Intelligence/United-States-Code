@@ -1,14 +1,18 @@
 ### §626. Purchase of tags, labels, stamps, and certificates
 
-The Secretary of Agriculture is authorized to expend appropriations for meat inspection forthe purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
+The Secretary of Agriculture is authorized to expend appropriations for meat inspection for the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
 
 (Sept. 21, 1944, ch. 412, title I, §101(f), 58 Stat. 734.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 431 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
 Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriation
 

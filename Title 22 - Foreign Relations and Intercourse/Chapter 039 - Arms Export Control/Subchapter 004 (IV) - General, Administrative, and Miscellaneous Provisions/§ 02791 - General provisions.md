@@ -6,7 +6,7 @@ In carrying out this chapter, special emphasis shall be placed on procurement in
 
 #### (b) Information to Congress on credit sales and guaranties
 
-No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any case involving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposedtransaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a license or coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
+No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any case involving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposed transaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a license or coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
 
 #### (c) Availability of funds for procurement outside United States
 
@@ -44,6 +44,8 @@ The President shall, to the maximum extent possible and consistent with the purp
 
 (Pub. L. 90–629, ch. 4, §42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, §401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, §150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, §213, title VI, §605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, §105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, §2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, §115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 103–236, title VII, §714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
@@ -74,6 +76,8 @@ Subsec. (f). Pub. L. 94–329, §605(b), added subsec. (f).
 
 Subsecs. (b) to (d). Pub. L. 92–226, §401(f)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -86,7 +90,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note undersection 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

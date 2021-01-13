@@ -68,11 +68,15 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 (Pub. L. 115–44, title I, §104, Aug. 2, 2017, 131 Stat. 890.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 13382, referred to in subsec. (a), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Certain Functions and Authorities Under the Countering America's Adversaries Through Sanctions Act of 2017
 

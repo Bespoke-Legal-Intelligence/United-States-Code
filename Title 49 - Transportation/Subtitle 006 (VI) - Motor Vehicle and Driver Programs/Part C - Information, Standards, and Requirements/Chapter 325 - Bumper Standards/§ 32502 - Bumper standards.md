@@ -108,7 +108,7 @@ Oct. 20, 1972, Pub. L. 92–513, §2(6) (words after semicolon), 86 Stat. 948; D
 
 In subsection (a), before clause (1), the words "Subject to subsections (b) through (e) of this section" are omitted as surplus. The words "shall prescribe by regulation" are substituted for "by rule . . . shall promulgate" for clarity. The words "may prescribe by regulation" are substituted for "by rule . . . may promulgate" for consistency.
 
-In subsection (c), before clause (1), the words "In promulgating any bumper standard under this subchapter"are omitted as surplus. The words "from any part of a standard" are substituted for "partially or completely" for clarity and consistency.
+In subsection (c), before clause (1), the words "In promulgating any bumper standard under this subchapter" are omitted as surplus. The words "from any part of a standard" are substituted for "partially or completely" for clarity and consistency.
 
 In subsection (d), before clause (1), the words "to the public" are substituted for "to the public and to the consumer" because they are inclusive. In clause (2), the word "prospective" is omitted as surplus.
 

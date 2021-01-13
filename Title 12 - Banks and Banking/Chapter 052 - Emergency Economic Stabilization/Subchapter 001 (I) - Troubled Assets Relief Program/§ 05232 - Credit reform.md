@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), the costs of purchases of troubled assets made under section 5211(a) of this title and guarantees of troubled assets under section 5212 of this title, and any cash flows associated with the activities authorized in section 5212 of this title and subsections (a), (b), and (c) of section 5216 of this title shall be determined as provided under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et.<sup>1</sup> seq.).
+Subject to subsection (b), the costs of purchases of troubled assets made under section5211(a) of this title and guarantees of troubled assets under section 5212 of this title, and any cash flows associated with the activities authorized in section 5212 of this title and subsections (a), (b), and (c) of section 5216 of this title shall be determined as provided under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et.<sup>1</sup> seq.).
 
 #### (b) Costs
 
@@ -13,6 +13,8 @@ For the purposes of section 502(5) of the Federal Credit Reform Act of 1990 (2 U
 &emsp;(2) the cost of a modification of a troubled asset or guarantee of a troubled asset shall be the difference between the current estimate consistent with paragraph (1) under the terms of the troubled asset or guarantee of the troubled asset and the current estimate consistent with paragraph (1) under the terms of the troubled asset or guarantee of the troubled asset, as modified.
 
 (Pub. L. 110–343, div. A, title I, §123, Oct. 3, 2008, 122 Stat. 3790.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

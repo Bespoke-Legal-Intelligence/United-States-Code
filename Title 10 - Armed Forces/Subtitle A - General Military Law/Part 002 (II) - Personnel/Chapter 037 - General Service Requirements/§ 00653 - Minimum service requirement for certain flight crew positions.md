@@ -6,7 +6,7 @@ Pilots.—The minimum service obligation of any member who successfully complete
 
 (b)
 
-Navigators and Naval Flight Officers.—The minimum service obligation of any member who successfully completes training in thearmed forces as a navigator or naval flight officer shall be 6 years.
+Navigators and Naval Flight Officers.—The minimum service obligation of any member who successfully completes training in the armed forces as a navigator or naval flight officer shall be 6 years.
 
 (c)
 
@@ -40,7 +40,7 @@ Pub. L. 101–189, div. A, title VI, §634(b), Nov. 29, 1989, 103 Stat. 1454, pr
 
 "(1) Except as provided in paragraphs (2) and (3), section 653 of title 10, United States Code, as added by subsection (a)(1), shall apply to persons who begin undergraduate pilot training, undergraduate navigator training, or undergraduate naval flight officer training, as the case may be, after September 30, 1990.
 
-"(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily complete the academic and military requirements of the Senior Reserve Officers' Training Corps program (provided for in chapter 103 of title 10, United States Code) after December 31, 1991.
+"(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily completethe academic and military requirements of the Senior Reserve Officers' Training Corps program (provided for in chapter 103 of title 10, United States Code) after December 31, 1991.
 
 "(3) The minimum service requirements provided for such section shall not apply in the case of any person who entered into an agreement with the Secretary concerned before October 1, 1990, and who is obligated under the terms of such agreement to serve on active duty for a period less than the applicable period specified in section 653 of such title.
 

@@ -10,7 +10,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 &emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 50501, 50502, 56101–56104, or 57109 of title 46 or pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter 313, or chapter 315 of title 49; and
 
-&emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to section 305, 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
+&emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to section 305,<sup>1</sup> 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
 
 &emsp;(4) all final orders of the Atomic Energy Commission made reviewable by section 2239 of title 42;
 
@@ -46,7 +46,11 @@ In paragraph (1), the word "by" is substituted for "in accordance with".
 
 In paragraph (3), the word "now" is omitted as unnecessary. The word "under" is substituted for "pursuant to the provisions of". Reference to "Federal Maritime Commission" is substituted for "Federal Maritime Board" on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840. Reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, §306, eff. May 24, 1951, 64 Stat. 1277, and any existing rights are preserved by technical sections 7 and 8.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
+
+Section 305 of title 46, referred to in par. (3)(B), was redesignated section 46105 of Title 46, Shipping, by Pub. L. 116–283, div. G, title LVXXXVI, §8605(a)(3), Jan. 1, 2021, 134 Stat. 4765.
 
 Section 812 of the Fair Housing Act, referred to in par. (6), is classified to section 3612 of Title 42, The Public Health and Welfare.
 
@@ -78,7 +82,7 @@ Par. (3)(B). Pub. L. 104–88, §305(d)(7), redesignated cls. (ii), (iv), and (v
 
 "(iii) section 2, 3, 4, or 5 of the Intercoastal Shipping Act, 1933 (46 U.S.C. App. 844, 845, 845a, or 845b);".
 
-Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: "all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;".
+Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: "all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;".
 
 <b>1994</b>—Par. (7). Pub. L. 103–272 substituted "section 20114(c) of title 49" for "section 202(f) of the Federal Railroad Safety Act of 1970".
 
@@ -97,6 +101,8 @@ Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former pa
 <b>1978</b>—Par. (6). Pub. L. 95–454 added par. (6).
 
 <b>1975</b>—Par. (5). Pub. L. 93–584 added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -129,4 +135,6 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Employment Skills Verification.—(1) The Secretary of Defense and the Secretary
 
 (2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
 
-&emsp;(A) establish a database to record all training performed by members of the Army, Navy, Air Force, and Marine Corps that may have application to employment in the civilian sector; and
+&emsp;(A) establish a database to record all training performed by members of the Army, Navy, Air Force, Marine Corps, and Space Force that may have application to employment in the civilian sector; and
 
 &emsp;(B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
 
@@ -24,17 +24,17 @@ Information to Civilian Entities.—(1) For the purpose of assisting members cov
 
 &emsp;(i) use a certification or verification of job skills and experience provided to a member of the armed forces under subsection (a); and
 
-&emsp;(ii) in the case of members of the Army, Navy, Air Force, and Marine Corps, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
+&emsp;(ii) in the case of members of the Army, Navy, Air Force, Marine Corps, and Space Force, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
 
 (B) A response confirming or denying the information shall be provided within five business days.
 
 (d)
 
-Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, Marine Corps, or Space Force who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
 (e)
 
-Employment Skills Training.—(1) The Secretary of a military department may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
+Employment Skills Training.—(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
 
 (2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
 
@@ -42,13 +42,23 @@ Employment Skills Training.—(1) The Secretary of a military department may car
 
 &emsp;(B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
 
-(3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary of the military department concerned considers appropriate.
+(3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
 
-(4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+(4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821.)
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a)(2)(A), (c)(2)(A)(ii). Pub. L. 116–283, §924(b)(1)(J), substituted "Marine Corps, and Space Force" for "and Marine Corps".
+
+Subsec. (d). Pub. L. 116–283, §924(b)(3)(R), substituted "Marine Corps, or Space Force" for "or Marine Corps".
+
+Subsec. (e)(1). Pub. L. 116–283, §572(1), substituted "concerned" for "of a military department".
+
+Subsec. (e)(3). Pub. L. 116–283, §572(2), struck out "of the military department" after "Secretary".
+
+Subsec. (e)(4). Pub. L. 116–283, §572(3), substituted "Secretary concerned" for "Secretary of Defense".
 
 <b>2019</b>—Subsec. (e)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 
@@ -100,7 +110,7 @@ Pub. L. 113–291, div. A, title V, §555, Dec. 19, 2014, 128 Stat. 3379, provid
 
 "(a)
 
-Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense toprovide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
+Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
 
 &emsp;"(1) assisting such members in obtaining post-service employment; and
 
@@ -192,7 +202,7 @@ Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, au
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
-Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: "The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of theArmed Forces who are discharged or released from active duty:
+Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: "The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
 &emsp;"(1) Title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\].
 
@@ -468,7 +478,7 @@ Payment Period.—(1) Except as provided in paragraphs (2) and (3), the implemen
 
 "(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulations prescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
 
-"(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of the four month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
+"(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of thefour month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
 
 "(c)
 
@@ -530,7 +540,7 @@ Failure To Meet Requirements.—If the implementing official finds at any time t
 
 "(b)
 
-Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons' successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
+Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons' successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies,such official shall take into account appropriate data, including—
 
 &emsp;"(A) the quarterly data provided by the Secretary of Labor with respect to the number of eligible persons who receive counseling in connection with training under this subtitle, are referred to employers under this subtitle, participate in job training under this subtitle, and complete such training or do not complete such training, and the reasons for noncompletion; and
 
@@ -594,7 +604,7 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;"(B) the eligible person has an in-person interview with the case manager not later than 60 days after entering into a program of training under this subtitle; and
 
-&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligibleperson's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
+&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligible person's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
 
 "(2) No case manager shall be assigned pursuant to paragraph (1)(A)—
 
@@ -658,7 +668,7 @@ In General.—(1) Of the amounts authorized to be appropriated in section 301 \[
 
 "(b)
 
-Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of suchfunds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of such funds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### "SEC. 4496. TIME PERIODS FOR APPLICATION AND INITIATION OF TRAINING.
 
@@ -678,7 +688,7 @@ Contingent Amendment.—If a transfer is made in accordance with section 4501(c)
 
 Publication in the Federal Register.—If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred."
 
-\[Pub. L. 103–446, title VI, §610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: "The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\]."\]
+\[Pub. L. 103–446, title VI, §610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: "The amendment made bysubparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\]."\]
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

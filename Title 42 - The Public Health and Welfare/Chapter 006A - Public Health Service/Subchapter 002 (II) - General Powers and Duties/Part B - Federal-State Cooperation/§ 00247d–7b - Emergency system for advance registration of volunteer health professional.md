@@ -60,7 +60,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Subsec. (a). Pub. L. 116–22, §207(a)(2), inserted at end "Such health care professionals may include members of the National Disaster Medical System, members of the Medical Reserve Corps, and individual health care professionals."
 
-Subsec. (i). Pub. L. 116–22, §207(a)(3), inserted at end "In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a public health emergency. Such information shall be made publicly available in a manner that does not compromise national security."
+Subsec. (i). Pub. L. 116–22, §207(a)(3), inserted at end "In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a publichealth emergency. Such information shall be made publicly available in a manner that does not compromise national security."
 
 Subsec. (k). Pub. L. 116–22, §207(a)(4), substituted "2019 through 2023" for "2014 through 2018".
 

@@ -30,7 +30,9 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (i) Any amount of insurance in force on an insurable dependent of a member under this subchapter on the date of the dependent's death shall be paid, upon the establishment of a valid claim therefor, to the member or, in the event of the member's death before payment to the member can be made, then to the person or persons entitled to receive payment of the proceeds of insurance on the member's life under this subchapter.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 883, §770; amended Pub. L. 91–291, §5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, §7, May 24,1974, 88 Stat. 169; Pub. L. 97–295, §4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, §401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, §701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(17), June 13, 1991, 105 Stat. 284; renumbered §1970 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, §405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, §302(b), Nov. 11, 1998, 112 Stat. 3333; Pub. L. 107–14, §4(e), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, §1012(g), May 11, 2005, 119 Stat. 246; Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 883, §770; amended Pub. L. 91–291, §5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, §7, May 24, 1974, 88 Stat. 169; Pub. L. 97–295, §4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, §401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, §701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(17), June 13, 1991, 105 Stat. 284; renumbered §1970 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, §405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, §302(b), Nov. 11, 1998, 112 Stat. 3333; Pub. L. 107–14, §4(e), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, §1012(g), May 11,2005, 119 Stat. 246; Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Subsec. (e). Pub. L. 93–289, §7(2), substituted "the Veterans' Insurance Act 
 Subsecs. (f), (g). Pub. L. 93–289, §7(3), included payment of benefits under Veterans' Group Life Insurance.
 
 <b>1970</b>—Subsecs. (e) to (g). Pub. L. 91–291 added subsecs. (e) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2005 Amendments
 

@@ -20,7 +20,7 @@ Funds in the account shall be used by the Architect of the Capitol for all neces
 
 &emsp;(B) the Committee on Appropriations of the Senate, in the case of a transfer from an office of the Senate; or
 
-&emsp;(C) the Committees on Appropriations of the House of Representatives and the Senate, inthe case of a transfer from any other office of the Government.
+&emsp;(C) the Committees on Appropriations of the House of Representatives and the Senate, in the case of a transfer from any other office of the Government.
 
 (2) Amounts transferred under this subsection shall be merged with the account and made available under this section.
 
@@ -31,6 +31,8 @@ Funds in the account shall be used by the Architect of the Capitol for all neces
 This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year. Any amounts provided to the Architect of the Capitol prior to August 2, 2002, for the maintenance, care, and operation of buildings of the United States Capitol Police during fiscal year 2002 shall be transferred to the account.
 
 (Pub. L. 107–206, title I, §906, Aug. 2, 2002, 116 Stat. 877; Pub. L. 115–244, div. B, title I, §132, Sept. 21, 2018, 132 Stat. 2936.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -27,3 +27,4 @@
 - [&sect; 01867 - Cooperative research and management program](%C2%A7%2001867%20-%20Cooperative%20research%20and%20management%20program.md)
 - [&sect; 01868 - Herring study](%C2%A7%2001868%20-%20Herring%20study.md)
 - [&sect; 01869 - Restoration study](%C2%A7%2001869%20-%20Restoration%20study.md)
+- [&sect; 01870 - Required possession of descending devices](%C2%A7%2001870%20-%20Required%20possession%20of%20descending%20devices.md)

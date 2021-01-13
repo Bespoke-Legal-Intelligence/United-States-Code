@@ -160,7 +160,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (iii) Amortization of reduction in unfunded accrued liability
 
-&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the planshall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
 
 #### (C) Solvency test
 
@@ -322,7 +322,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period endingon the last day before the beginning of the plan year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 #### (II) Secretarial authority
 
@@ -424,6 +424,8 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 (Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302; Pub. L. 113–235, div. O, title I, §§101(b)(1), 108(a)(3)(B), Dec. 16, 2014, 128 Stat. 2774, 2787; Pub. L. 113–295, div. A, title I, §171(b), Dec. 19, 2014, 128 Stat. 4023.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1423(a) of this title, referred to in subsec. (b)(7)(B), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
@@ -447,6 +449,8 @@ Subsec. (d)(1)(C). Pub. L. 113–295, which directed substitution of "December 3
 Pub. L. 113–235, §101(b)(1), struck out subpar. (C). Text read as follows: "The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014."
 
 <b>2010</b>—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

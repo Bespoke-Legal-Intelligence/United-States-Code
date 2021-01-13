@@ -94,7 +94,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 &emsp;&emsp;(A) the legal rights of employment-based nonimmigrants under Federal immigration, labor, and employment laws;
 
-&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion,blackmail, and worker exploitation in the United States; and
+&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States; and
 
 &emsp;&emsp;(C) the legal rights of immigrant victims of trafficking in persons, worker exploitation, and other related crimes, including—
 
@@ -133,6 +133,8 @@ In this section:
 &emsp;The term "abusing and exploiting" means any conduct which would constitute a violation of section 1466A, 1589, 1591, 1592, 2251, or 2251A of title 18.
 
 (Pub. L. 110–457, title II, §202, Dec. 23, 2008, 122 Stat. 5055; Pub. L. 113–4, title XII, §1206, Mar. 7, 2013, 127 Stat. 140.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

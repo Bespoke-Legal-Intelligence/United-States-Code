@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Special rule where State has more than 1 agency
 
-&emsp;If more than 1 agency of the State is authorized to issue tax-exempt private activitybonds, all such agencies shall be treated as a single agency.
+&emsp;If more than 1 agency of the State is authorized to issue tax-exempt private activity bonds, all such agencies shall be treated as a single agency.
 
 #### (c) Volume cap for other issuers
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Overlapping jurisdictions
 
-&emsp;For purposes of paragraph (1)(A), if an area is within the jurisdiction of 2 or more governmental units, such area shall be treated as only within the jurisdiction of the unit having jurisdiction over the smallest geographical area unless such unit agrees to surrender all or part of such jurisdiction for such calendar year to the unit with overlapping jurisdiction which has the next smallest geographical area.
+&emsp;For purposes of paragraph (1)(A), if an area is within the jurisdiction of 2 or more governmental units, such area shall be treated as only within the jurisdiction of the unit havingjurisdiction over the smallest geographical area unless such unit agrees to surrender all or part of such jurisdiction for such calendar year to the unit with overlapping jurisdiction which has the next smallest geographical area.
 
 #### (d) State ceiling
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) an issue described in section 142(a)(7) (relating to qualified residential rental projects), or
 
-&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage issue (determined by substituting "12-month period"for "42-month period" each place it appears in section 143(a)(2)(D)(i)).
+&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage issue (determined by substituting "12-month period" for "42-month period" each place it appears in section 143(a)(2)(D)(i)).
 
 #### (e) State may provide for different allocation
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in paragraph (3), the Governor of any State may proclaim a different formula for allocating the State ceiling among the governmental units (or other authorities) in such State having authority to issue private activity bonds.
+&emsp;&emsp;Except as otherwise provided in paragraph (3), the Governor of any State may proclaim a different formula for allocating the Stateceiling among the governmental units (or other authorities) in such State having authority to issue private activity bonds.
 
 #### (B) Termination of authority
 
@@ -214,7 +214,7 @@ Only for purposes of this section, the term "private activity bond" shall not in
 
 #### (2) Safe harbor for determination of government ownership
 
-&emsp;In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply,except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.
+&emsp;In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply, except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.
 
 #### (i) Treatment of refunding issues
 
@@ -310,7 +310,7 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892; Pub. L. 115–97, title I, §11002(d)(1)(O), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), titleVI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892; Pub. L. 115–97, title I, §11002(d)(1)(O), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -330,7 +330,7 @@ Subsec. (i)(6). Pub. L. 110–289, §3007(a), added par. (6).
 
 <b>2004</b>—Subsec. (g)(3). Pub. L. 108–357 substituted "(13), or (14)" for "or (13)" and "qualified public educational facilities, and qualified green building and sustainable design projects" for "and qualified public educational facilities".
 
-<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16 substituted "(12), or (13)" for "or (12)" and "environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities" for "and environmental enhancements of hydroelectric generating facilities"
+<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16 substituted "(12), or (13)" for "or (12)" and "environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities" for "and environmental enhancements of hydroelectric generating facilities".
 
 <b>2000</b>—Subsec. (d)(1), (2). Pub. L. 106–554 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) provided for State ceilings based on the per capita limits and aggregate limits set out in an included table.
 

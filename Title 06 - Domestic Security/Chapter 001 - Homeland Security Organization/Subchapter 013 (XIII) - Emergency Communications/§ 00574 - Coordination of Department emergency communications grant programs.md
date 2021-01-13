@@ -22,6 +22,8 @@ The Secretary, acting through the Assistant Director for Emergency Communication
 
 (Pub. L. 107–296, title XVIII, §1804, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1438; amended Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1804 of Pub. L. 107–296 was renumbered section 1904 and is classified to section 594 of this title.
@@ -29,4 +31,10 @@ Another section 1804 of Pub. L. 107–296 was renumbered section 1904 and is cla
 #### Amendments
 
 <b>2018</b>—Subsecs. (a), (b)(1). Pub. L. 115–278 substituted "Assistant Director for Emergency Communications" for "Director for Emergency Communications".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

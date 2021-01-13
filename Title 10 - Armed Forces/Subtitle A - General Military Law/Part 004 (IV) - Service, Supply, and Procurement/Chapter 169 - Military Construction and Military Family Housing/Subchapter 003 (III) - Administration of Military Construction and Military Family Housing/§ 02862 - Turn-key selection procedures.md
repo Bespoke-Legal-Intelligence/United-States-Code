@@ -42,7 +42,7 @@ Authority to Use.—The Secretary concerned may use one-step turn-key selection 
 
 Definition.—In this section, the term 'one-step turn-key selection procedures' means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned."
 
-<b>1991</b>—Pub. L. 102–190 redesignated par. (1) of subsec. (a) as entire subsec. (a) and inserted heading, redesignated par. (2) of subsec. (a) as (b), inserted heading, and struck out former subsecs. (b) and (c) which read as follows:
+<b>1991</b>—Pub. L. 102–190 redesignated par. (1) of subsec. (a) as entire subsec. (a) and inserted heading, redesignated par. (2) of subsec. (a) as (b), inserted heading, andstruck out former subsecs. (b) and (c) which read as follows:
 
 "(b) The Secretary of Defense, with respect to any Defense Agency, or the Secretary of a military department may not, during any fiscal year, enter into more than three contracts for military construction projects using procedures authorized by this section.
 

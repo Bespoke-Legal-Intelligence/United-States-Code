@@ -12,7 +12,7 @@ To receive payments under the program, a producer shall agree—
 
 &emsp;&emsp;&emsp;(i) to forfeit all rights to receive payments under the contract; and
 
-&emsp;&emsp;&emsp;(ii) to refund to the Secretary all or a portion of the payments received by the owner or operator under the contract, including any interest on the payments, as determined by the Secretary; or
+&emsp;&emsp;&emsp;(ii) to refund to the Secretary all or a portion of the payments received by theowner or operator under the contract, including any interest on the payments, as determined by the Secretary; or
 
 &emsp;&emsp;(B) if the Secretary determines that the violation does not warrant termination of the contract, to refund to the Secretary, or accept adjustments to, the payments provided to the owner or operator, as the Secretary determines to be appropriate;
 

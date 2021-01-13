@@ -38,7 +38,7 @@ No permit for the commercial or industrial use of property located within the se
 
 #### (h) Exemption from other provisions of law
 
-(1) Any member of the Advisory Commission appointed under sections 459b to 459b–8 of this title shall be exempted, with respect to such appointment, from the operation of sections 281, 283, 284, and 1914 of title 18 and section 190 of the Revised Statutes (5 U.S.C. 99) <sup>1</sup> except as otherwise specified in paragraph (2) of this subsection.
+(1) Any member of the Advisory Commission appointed under sections 459b to 459b–8 of this title shall be exempted, with respect to such appointment, from the operation of sections 281,283, 284, and 1914 of title 18 and section 190 of the Revised Statutes (5 U.S.C. 99) <sup>1</sup> except as otherwise specified in paragraph (2) of this subsection.
 
 (2) The exemption granted by paragraph (1) of this subsection shall not extend—
 

@@ -34,13 +34,15 @@ A basic permit shall continue in effect until suspended, revoked, or annulled as
 
 #### (h) Appeal; procedure
 
-An appeal may be taken by the permittee or applicant for a permit from any order of the Secretary of the Treasury denying an application for, or suspending, revoking, or annulling, a basic permit. Such appeal shall be taken by filing, in the court of appeals of the United States within any circuit wherein such person resides or has his principal place of business, or in theUnited States Court of Appeals for the District of Columbia, within sixty days after the entry of such order, a written petition praying that the order of the Secretary be modified or set aside in whole or in part. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have exclusive jurisdiction to affirm, modify, or set aside such order, in whole or in part. No objection to the order of the Secretary shall be considered by the court unless such objection shall have been urged before the Secretary or unless there were reasonable grounds for failure so to do. The finding of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts by reason of the additional evidence so taken, and he shall file with the court such modified or new findings, which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court affirming, modifying, or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this subsection shall, unless specifically ordered by the court to the contrary, operate as a stay of the Secretary's order.
+An appeal may be taken by the permittee or applicant for a permit from any order of the Secretary of the Treasury denying an application for, or suspending, revoking, or annulling, a basic permit. Such appeal shall be taken by filing, in the court of appeals of the United States within any circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia, within sixty days after the entry of such order, a written petition praying that the order of the Secretary be modified or set aside in whole or in part. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have exclusive jurisdiction to affirm, modify, or set aside such order, in whole or in part. No objection to the order of the Secretary shall be considered by the court unless such objection shall have been urged before the Secretary or unless there were reasonable grounds for failure so to do. The finding of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts by reason of the additional evidence so taken, and he shall file with the court such modified or new findings, which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court affirming, modifying, or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this subsection shall, unless specifically ordered by the court to the contrary, operate as a stay of the Secretary's order.
 
 #### (i) Limitation
 
 No proceeding for the suspension or revocation of a basic permit for violation of any condition thereof relating to compliance with Federal law shall be instituted by the Secretary more than eighteen months after conviction of the violation of Federal law, or, if no conviction has been had, more than three years after the violation occurred; and no basic permit shall be suspended or revoked for a violation of any such condition thereof if the alleged violation of Federal law has been compromised by any officer of the Government authorized to compromise such violation.
 
 (Aug. 29, 1935, ch. 814, title I, §104, formerly §4, 49 Stat. 978; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §14, Aug. 28, 1958, 72 Stat. 946; renumbered title I, §104, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), (3), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -54,15 +56,19 @@ Subsec. (d). Pub. L. 100–690, §8001(b)(3), made technical amendment to refere
 
 <b>1958</b>—Subsec. (h). Pub. L. 85–791, in third sentence, substituted "transmitted by the clerk of the court to the Secretary, or" for "served upon, the Secretary, or upon any", substituted "file in the court" for "certify and file in the court a transcript of", and inserted "as provided in section 2112 of title 28", and in fourth sentence, substituted "petition" for "transcript".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Court of appeals" was substituted for "circuit court of appeals" pursuant to act June 25, 1948, as amended by act May 24, 1949.
 
+#### Applicability of Administrative Procedure Act
+
+Pub. L. 85–791, §35, Aug. 28, 1958, 72 Stat. 951, provided that: "This Act shall not be construed to repeal ormodify any provision of the Administrative Procedure Act \[see Short Title note preceding section 551 of Title 5, Government Organization and Employees\]."
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 "Secretary of the Treasury" and "Secretary" were substituted in subsecs. (a) to (c) and (e) to (i) for "Administrator", meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
-
-#### Applicability of Administrative Procedure Act
-
-Pub. L. 85–791, §35, Aug. 28, 1958, 72 Stat. 951, provided that: "This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[see Short Title note preceding section 551 of Title 5, Government Organization and Employees\]."
 

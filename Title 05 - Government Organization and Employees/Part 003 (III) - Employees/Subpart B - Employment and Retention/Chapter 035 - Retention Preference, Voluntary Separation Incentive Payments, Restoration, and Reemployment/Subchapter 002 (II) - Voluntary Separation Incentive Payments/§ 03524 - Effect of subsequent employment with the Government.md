@@ -6,7 +6,7 @@
 
 &emsp;(2) in subsection (c) does not include employment under such a contract.
 
-(b) An individual who has received a voluntary separation incentive payment under this subchapter and accepts any employment for compensation with the Government of the United States with <sup>1</sup> 5 years after the date of the separation on which the payment is based shall be required to pay, before the individual's first day of employment, the entire amount of the incentive payment to the agency that paid the incentive payment.
+(b) An individual who has received a voluntary separation incentive payment under this subchapter and accepts any employment for compensation with the Government of the United States with <sup>1</sup> 5 years after the date of the separation on which the payment is based shall be required to pay, before the individual's first day of employment, the entire amount of the incentivepayment to the agency that paid the incentive payment.
 
 (c)(1) If the employment under this section is with an agency, other than the Government Accountability Office, the United States Postal Service, or the Postal Regulatory Commission, the Director of the Office of Personnel Management may, at the request of the head of the agency, may <sup>2</sup> waive the repayment if—
 
@@ -24,11 +24,15 @@
 
 (Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2293; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(1). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission" in introductory provisions.
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 #### (1) In general
 
-&emsp;If the Secretary finds that there is a reasonable probability that a tobacco product contains a manufacturing or other defect not ordinarily contained in tobacco products on the market that would cause serious, adverse health consequences or death, the Secretary shall issue an order requiring the appropriate person (including the manufacturers, importers, distributors, or retailers of the tobacco product) to immediately cease distribution of such tobacco product. The order shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of the issuance of the order, on the actions required by the order and on whether the order should be amended to require a recall of such tobacco product. If, after providing an opportunity for such a hearing, the Secretary determines thatinadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
+&emsp;If the Secretary finds that there is a reasonable probability that a tobacco product contains a manufacturing or other defect not ordinarily contained in tobacco products on the market that would cause serious, adverse health consequences or death, the Secretary shall issue an order requiring the appropriate person (including the manufacturers, importers, distributors, or retailers of the tobacco product) to immediately cease distribution of such tobacco product. The order shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of the issuance of the order, on the actions required by the order and on whether the order should be amended to require a recall of such tobacco product. If, after providing an opportunity for such a hearing, the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
 
 #### (2) Amendment of order to require recall
 
@@ -41,6 +41,8 @@ Compliance with an order issued under this section shall not relieve any person 
 &emsp;The remedy provided by this subsection shall be in addition to remedies provided by subsection (a).
 
 (June 25, 1938, ch. 675, §908, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1804.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

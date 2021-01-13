@@ -6,7 +6,7 @@ The Secretary, in consultation with other appropriate agencies, shall establish 
 
 #### (b) Rural and agricultural institutions
 
-The Secretary shall give special consideration to rural or agricultural based institutions inareas that have regional sources of coal and that offer interdisciplinary programs in the area of environmental science to study carbon capture and sequestration.
+The Secretary shall give special consideration to rural or agricultural based institutions in areas that have regional sources of coal and that offer interdisciplinary programs in the area of environmental science to study carbon capture and sequestration.
 
 #### (c) Authorization of appropriations
 

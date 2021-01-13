@@ -42,6 +42,8 @@ In paragraph (3), the word "that" is substituted for ", to" for clarity.
 
 In paragraph (4), the words "in order to" are substituted for "to", and the words "through such consortia" are added, for clarity.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Congressional Statement of Findings
 
 Pub. L. 100–147, title II, §202, Oct. 30, 1987, 101 Stat. 869, provided that: "The Congress finds that—

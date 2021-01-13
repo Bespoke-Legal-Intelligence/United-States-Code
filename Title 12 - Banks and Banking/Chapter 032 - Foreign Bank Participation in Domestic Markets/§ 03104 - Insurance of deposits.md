@@ -10,7 +10,7 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 
 #### (c) Deposits required to be insured under State law
 
-(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount, or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount, or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring depositinsurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 (2) Notwithstanding the previous paragraph, a branch of a foreign bank in operation on September 17, 1978, which has applied for Federal deposit insurance pursuant to section 5 of the Federal Deposit Insurance Act \[12 U.S.C. 1815\] by September 17, 1979, and has not had such application denied, may continue to accept domestic retail deposits until January 31, 1980.
 
@@ -37,6 +37,8 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 For purposes of this section, the term "standard maximum deposit insurance amount" means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(a)(1)\].
 
 (Pub. L. 95–369, §6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, §214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, §1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, §107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360; Pub. L. 109–173, §2(c)(4), Feb. 15, 2006, 119 Stat. 3602.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted "Domestic retail dep
 Subsec. (c). Pub. L. 102–242, §214(a)(3), added subsec. (c).
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–64 inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

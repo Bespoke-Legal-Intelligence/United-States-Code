@@ -94,7 +94,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 &emsp;As used in this subsection, the term "mortgage loan" means any consumer credit transaction that is secured by the principal dwelling of a consumer.
 
-(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30,1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 #### References in Text
 

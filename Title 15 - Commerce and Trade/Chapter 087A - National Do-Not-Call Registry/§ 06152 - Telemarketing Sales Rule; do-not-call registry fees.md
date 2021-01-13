@@ -20,7 +20,7 @@ The Federal Trade Commission shall assess and collect an annual fee pursuant to 
 
 &emsp;&emsp;(A) for accessing the first 5 area codes of data; or
 
-&emsp;&emsp;(B) for accessing area codes of data in the registry if the person is permitted to access, but is not required to access, the "do-not-call" registry under section <sup>1</sup> 310 of title 16, Code of Federal Regulations, section 64.1200of title 47, Code of Federal Regulations, or any other Federal regulation or law.
+&emsp;&emsp;(B) for accessing area codes of data in the registry if the person is permitted to access, but is not required to access, the "do-not-call" registry under section <sup>1</sup> 310 of title 16, Code of Federal Regulations, section 64.1200 of title 47, Code of Federal Regulations, or any other Federal regulation or law.
 
 #### (3) Duration of access
 
@@ -108,7 +108,7 @@ No person may enter into or participate in an arrangement (as such term is used 
 
 #### Rulemaking
 
-Pub. L. 110–188, §4, Feb. 15, 2008, 122 Stat. 637, provided that: "The Federal Trade Commission may issue rules, in accordance with section 553 of title 5, United States Code, as necessary and appropriate to carry out the amendments to the Do-Not-Call Implementation Act (15 U.S.C. 6101 note) \[now this chapter\] made by thisAct \[amending this section and section 6154 of this title\]."
+Pub. L. 110–188, §4, Feb. 15, 2008, 122 Stat. 637, provided that: "The Federal Trade Commission may issue rules, in accordance with section 553 of title 5, United States Code, as necessary and appropriate to carry out the amendments to the Do-Not-Call Implementation Act (15 U.S.C. 6101 note) \[now this chapter\] made by this Act \[amending this section and section 6154 of this title\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "part".</i>
 

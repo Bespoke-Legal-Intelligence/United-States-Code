@@ -4,7 +4,7 @@
 
 &emsp;(1) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday;
 
-&emsp;(2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe; or
+&emsp;(2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe;
 
 &emsp;(3) for a regular period of instruction that the member is scheduled to perform but is unable to perform because of physical disability resulting from an injury, illness, or disease incurred or aggravated—
 
@@ -16,7 +16,9 @@
 
 &emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
-&emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
+&emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
+
+&emsp;(4) for each of six days for each period during which the member is on maternity leave.
 
 (b) The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
 
@@ -42,7 +44,7 @@
 
 (f) A member of the Individual Ready Reserve is not entitled to compensation under this section for participation in screening for which the member is paid a stipend under section 433a of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §513(e), title VI, §603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, §604, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 109–364, div. A, title VI, §607, Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §633(b), Jan. 28, 2008, 122 Stat. 155.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §513(e), title VI, §603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, §604, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 109–364, div. A, title VI, §607, Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §633(b), Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–283, div. A, title VI, §602(a), Jan. 1, 2021, 134 Stat. 3670.)
 
 Historical and Revision Notes
 
@@ -78,6 +80,8 @@ In subsection (a), the words "National Guard" are substituted for the words "Nat
 
 In subsection (b), the words "National Guard or reserve components" are substituted for the listing of organizations for the reasons set forth above. Reference to "classes of organization," so far as they relate to the National Guard, are omitted, since there are no classes of organization of the National Guard.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (e) of this section were contained in the following appropriation acts:
@@ -97,6 +101,8 @@ Pub. L. 96–154, title VII, §726, Dec. 21, 1979, 93 Stat. 1157.
 Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
@@ -119,6 +125,12 @@ Subsec. (d). Pub. L. 107–107, §603(a), designated existing provisions as par.
 <b>1986</b>—Subsec. (a). Pub. L. 99–661, substituted "entitled to basic pay—" and pars. (1) to (3) for "entitled to basic pay, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe."
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–525 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective, and applicable with respect to periods of maternity leave that commence on or after, Jan. 1, 2021, see section 602(c) of Pub. L. 116–283, set out as a note under section 12732 of Title 10, Armed Forces.
 
 #### Effective Date of 1988 Amendment
 

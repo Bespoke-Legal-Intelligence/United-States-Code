@@ -4,6 +4,8 @@ There are authorized to be appropriated to carry out this chapter except activit
 
 (Pub. L. 105–277, div. C, title VII, §§714, 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, §§601, 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, §8202, Oct. 24, 2018, 132 Stat. 4110.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
@@ -12,7 +14,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 <b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
-Pub. L. 115–271, §8202(b)(1), substituted "$18,400,000 for each of fiscal years 2018 through 2023" for "such sumsas may be necessary for each of fiscal years 2006 through 2010".
+Pub. L. 115–271, §8202(b)(1), substituted "$18,400,000 for each of fiscal years 2018 through 2023" for "such sums as may be necessary for each of fiscal years 2006 through 2010".
 
 Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
@@ -21,6 +23,8 @@ Pub. L. 115–271, §8202(a), revived and restored this section as in effect on 
 Pub. L. 109–469, §601, substituted "chapter except activities otherwise specified," for "chapter," and "2006 through 2010" for "1999 through 2003".
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appropriations
 

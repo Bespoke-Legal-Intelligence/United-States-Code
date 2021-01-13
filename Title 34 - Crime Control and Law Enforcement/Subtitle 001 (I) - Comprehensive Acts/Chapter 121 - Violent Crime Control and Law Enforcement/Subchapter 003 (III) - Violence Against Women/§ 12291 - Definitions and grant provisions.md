@@ -42,7 +42,7 @@ In this subchapter:
 
 #### (8) Domestic violence
 
-&emsp;The term "domestic violence" includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.
+&emsp;The term "domestic violence" includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, bya person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.
 
 #### (9) Dating partner
 
@@ -134,7 +134,7 @@ In this subchapter:
 
 #### (22) Population specific services
 
-&emsp;The term "population specific services" means victim-centered services that address the safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
+&emsp;The term "population specific services" means victim-centered services that addressthe safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
 
 #### (23) Prosecution
 
@@ -210,7 +210,7 @@ In this subchapter:
 
 &emsp;The term "tribal coalition" means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
 
-&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, includingshelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
 
 &emsp;&emsp;(B) is comprised of board and general members that are representative of—
 
@@ -296,7 +296,7 @@ In this subchapter:
 
 &emsp;&emsp;Subject to subparagraphs (C) and (D), grantees and subgrantees shall not—
 
-&emsp;&emsp;&emsp;(i) disclose, reveal, or release any personally identifying information or individualinformation collected in connection with services requested, utilized, or denied through grantees' and subgrantees' programs, regardless of whether the information has been encoded, encrypted, hashed, or otherwise protected; or
+&emsp;&emsp;&emsp;(i) disclose, reveal, or release any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees' and subgrantees' programs, regardless of whether the information has been encoded, encrypted, hashed, or otherwise protected; or
 
 &emsp;&emsp;&emsp;(ii) disclose, reveal, or release individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of legal incapacity, a court-appointed guardian) about whom information is sought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, incapacitated person, or the abuser of the other parent of the minor.
 
@@ -498,7 +498,7 @@ In this subchapter:
 
 &emsp;&emsp;Beginning in the first fiscal year beginning after the date of the enactment of this Act,<sup>2</sup> the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
 
-&emsp;&emsp;&emsp;(i) all audits issued by the Office of the Inspector General under paragraph (1) havebeen completed and reviewed by the appropriate Assistant Attorney General or Director;
+&emsp;&emsp;&emsp;(i) all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
 
 &emsp;&emsp;&emsp;(ii) all mandatory exclusions required under subparagraph (A)(iii) have been issued;
 
@@ -507,6 +507,8 @@ In this subchapter:
 &emsp;&emsp;&emsp;(iv) includes a list of any grant recipients excluded under subparagraph (A) from the previous year.
 
 (Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752; Pub. L. 111–320, title II, §202(d), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, §3, Mar. 7, 2013, 127 Stat. 56.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -661,6 +663,8 @@ Subsec. (a)(31) to (37). Pub. L. 109–271, §1(e)(2), (3), added par. (31) and 
 Subsec. (b)(1). Pub. L. 109–271, §1(f), added par. (1) and struck out former par. (1) which read as follows: "No matching funds shall be required for a grant or subgrant made under this subchapter for any tribe, territory, victim service provider, or any entity that the Attorney General determines has adequately demonstrated financial need."
 
 Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

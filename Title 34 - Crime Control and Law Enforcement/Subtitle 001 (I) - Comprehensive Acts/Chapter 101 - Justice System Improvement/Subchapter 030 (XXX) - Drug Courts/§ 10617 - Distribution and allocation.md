@@ -8,7 +8,9 @@ The Attorney General shall ensure that, to the extent practicable, an equitable 
 
 Unless one or more applications submitted by any State or unit of local government within such State (other than an Indian tribe) for a grant under this subchapter has been funded in any fiscal year, such State, together with eligible applicants within such State, shall be provided targeted technical assistance and training by the Bureau of Justice Assistance to assist such State and such eligible applicants to successfully compete for future funding under this subchapter, and to strengthen existing State drug court systems. In providing such technical assistance and training, the Bureau of Justice Assistance shall consider and respond to the unique needs of rural States, rural areas and rural communities.
 
-(Pub. L. 90–351, title I, §2957, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 109–162, title XI,§1142(a), Jan. 5, 2006, 119 Stat. 3110; Pub. L. 109–271, §8(l), Aug. 12, 2006, 120 Stat. 767.)
+(Pub. L. 90–351, title I, §2957, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 109–162, title XI, §1142(a), Jan. 5, 2006, 119 Stat. 3110; Pub. L. 109–271, §8(l), Aug. 12, 2006, 120 Stat. 767.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

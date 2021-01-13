@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(3)(B). See 2011 Amendment note below.

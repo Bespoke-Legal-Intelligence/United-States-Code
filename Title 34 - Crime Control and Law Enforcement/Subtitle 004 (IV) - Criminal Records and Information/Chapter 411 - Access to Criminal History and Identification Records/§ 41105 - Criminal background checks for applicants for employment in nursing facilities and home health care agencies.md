@@ -16,7 +16,7 @@
 
 (g) A nursing facility or home health care agency that, in denying employment for an applicant, reasonably relies upon information provided by the Attorney General pursuant to this section shall not be liable in any action brought by the applicant based on the employment determination resulting from the incompleteness or inaccuracy of the information.
 
-(h) The Attorney General may promulgate such regulations as are necessary to carry out this section, including regulations regarding the security, confidentiality, accuracy, use, destruction, and dissemination of information, audits and recordkeeping, the imposition of fees, and any necessary modifications to the definitions contained in subsection (i).
+(h) The Attorney General may promulgate such regulations as are necessary to carry outthis section, including regulations regarding the security, confidentiality, accuracy, use, destruction, and dissemination of information, audits and recordkeeping, the imposition of fees, and any necessary modifications to the definitions contained in subsection (i).
 
 (i) In this section:
 
@@ -27,6 +27,8 @@
 (j) This section shall apply without fiscal year limitation.
 
 (Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

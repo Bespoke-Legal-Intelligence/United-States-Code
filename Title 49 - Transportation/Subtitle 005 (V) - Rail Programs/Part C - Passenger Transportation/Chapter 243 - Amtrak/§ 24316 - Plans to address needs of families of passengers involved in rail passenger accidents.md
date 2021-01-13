@@ -10,7 +10,7 @@ Contents of Plans.—A plan to be submitted by a rail passenger carrier under su
 
 &emsp;(1) A process by which a rail passenger carrier will maintain and provide to the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the train (whether or not such names have been verified), and will periodically update the list. The plan shall include a procedure, with respect to unreserved trains and passengers not holding reservations on other trains, for the rail passenger carrier to use reasonable efforts to ascertain the names of passengers aboard a train involved in an accident.
 
-&emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1139(a)(2) of this title or the services of other suitably trained individuals.
+&emsp;(2) A process for notifying the families of the passengers, before providing any public noticeof the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1139(a)(2) of this title or the services of other suitably trained individuals.
 
 &emsp;(3) A plan for creating and publicizing a reliable, toll-free telephone number within 4 hours after such an accident occurs, and for providing staff, to handle calls from the families of the passengers.
 
@@ -36,7 +36,7 @@ Contents of Plans.—A plan to be submitted by a rail passenger carrier under su
 
 (c)
 
-Use of Information.—Neither the National Transportation Safety Board, the Secretary of Transportation, the Secretary of Homeland Security, nor a rail passenger carrier may release to the public any personal information on a list obtained under subsection (b)(1), but may provide information on the list about a passenger to the passenger's family members to the extentthat the Board or a rail passenger carrier considers appropriate.
+Use of Information.—Neither the National Transportation Safety Board, the Secretary of Transportation, the Secretary of Homeland Security, nor a rail passenger carrier may release to the public any personal information on a list obtained under subsection (b)(1), but may provide information on the list about a passenger to the passenger's family members to the extent that the Board or a rail passenger carrier considers appropriate.
 
 (d)
 

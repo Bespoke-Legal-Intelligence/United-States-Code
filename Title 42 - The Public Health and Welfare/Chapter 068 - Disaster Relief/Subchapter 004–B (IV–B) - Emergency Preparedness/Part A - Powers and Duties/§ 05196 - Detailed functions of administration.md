@@ -48,7 +48,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 #### (h) Emergency preparedness compacts
 
-(1) The Administrator shall establish a program supporting the development of emergency preparedness compacts for acts of terrorism, disasters, and emergencies throughout the Nation, by—
+(1) The Administrator shall establish a program supporting the development of emergencypreparedness compacts for acts of terrorism, disasters, and emergencies throughout the Nation, by—
 
 &emsp;(A) identifying and cataloging existing emergency preparedness compacts for acts of terrorism, disasters, and emergencies at the State and local levels of government;
 
@@ -278,7 +278,7 @@ Licenses and Permits.—If any person holds a license, certificate, or other per
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 
-Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congresson the establishment of the pilot program no later than Apr. 1, 1981.
+Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

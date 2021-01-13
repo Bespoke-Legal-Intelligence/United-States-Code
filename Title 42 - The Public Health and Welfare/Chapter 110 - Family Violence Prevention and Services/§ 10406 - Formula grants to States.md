@@ -58,7 +58,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (D) Enforcement authority of Attorney General
 
-&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civilaction in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 #### (3) Income eligibility standards
 

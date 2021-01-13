@@ -20,13 +20,13 @@
 
 #### (B) Non-funded child care slots
 
-&emsp;&emsp;Nothing in this section shall prohibit a child care provider from selecting childrenfor child care slots that are not funded directly with assistance provided under this subchapter because such children or their family members participate on a regular basis in other activities of the organization that owns or operates such provider.
+&emsp;&emsp;Nothing in this section shall prohibit a child care provider from selecting children for child care slots that are not funded directly with assistance provided under this subchapter because such children or their family members participate on a regular basis in other activities of the organization that owns or operates such provider.
 
 #### (3) Employment in general
 
 #### (A) Prohibition
 
-&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
+&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if suchemployee's primary responsibility is or will be working directly with children in the provision of child care services.
 
 #### (B) Qualified applicants
 

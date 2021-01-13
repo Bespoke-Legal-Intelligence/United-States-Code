@@ -38,7 +38,7 @@
 | [474\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000474%20-%20Travel%20and%20transportation%20allowances%20general.md) | Travel and transportation allowances: general. |
 | [474a.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000474a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md) | Travel and transportation allowances: temporary lodging expenses. |
 | [474b.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000474b%20-%20Travel%20and%20transportation%20allowances%20payment%20of%20lodging%20expenses%20at%20temporary%20duty%20location%20during%20authorized%20absence%20of%20member.md) | Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member. |
-| [475\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000475%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md) | Travel and transportation allowances: per diem while on duty outside the continental United States. |
+| \[475. | Transferred.\] |
 | [475a.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000475a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md) | Travel and transportation allowances: departure allowances. |
 | [476\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000476%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md) | Travel and transportation allowances: dependents; baggage and household effects. |
 | [476a.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000476a%20-%20Travel%20and%20transportation%20allowances%20authorized%20for%20travel%20performed%20under%20orders%20that%20are%20canceled%2C%20revoked%2C%20or%20modified.md) | Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified. |
@@ -68,11 +68,15 @@
 | [491\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000491%20-%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md) | Benefits for certain members assigned to the Defense Intelligence Agency. |
 | [492\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000492%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md) | Travel and transportation: members escorting certain dependents. |
 | [494\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000494%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
-| [495\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000495%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
+| \[495. | Transferred.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IV, §604(c)(2), Jan. 1, 2021, 134 Stat. 3672, struck out item 475 "Travel and transportation allowances: per diem while on duty outside the continental United States" and item 495 "Funeral honors duty: allowance".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VI, §606(b), Dec. 20, 2019, 133 Stat. 1425, added item 456.
 

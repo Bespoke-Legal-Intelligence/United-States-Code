@@ -4,7 +4,7 @@
 
 The Secretary of Education shall—
 
-&emsp;(1) Insure that the Rehabilitation Services Administration is the principal agency for carrying out this chapter; and the Commissioner shall, within one hundred and eighty days after enactment of the Randolph-Sheppard Act Amendments of 1974, establish requirementsfor the uniform application of this chapter by each State agency designated under paragraph (5) of this subsection, including appropriate accounting procedures, policies on the selection and establishment of new vending facilities, distribution of income to blind vendors, and the use and control of set-aside funds under section 107b(3) of this title;
+&emsp;(1) Insure that the Rehabilitation Services Administration is the principal agency for carrying out this chapter; and the Commissioner shall, within one hundred and eighty days after enactment of the Randolph-Sheppard Act Amendments of 1974, establish requirements for the uniform application of this chapter by each State agency designated under paragraph (5) of this subsection, including appropriate accounting procedures, policies on the selection and establishment of new vending facilities, distribution of income to blind vendors, and the use and control of set-aside funds under section 107b(3) of this title;
 
 &emsp;(2) Through the Commissioner, make annual surveys of concession vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, the Department of Defense, and the United States Postal Service;
 
@@ -100,7 +100,7 @@ Memorandum of President of the United States, Jan. 20, 2012, 77 F.R. 3917, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Thousands of Americans who are blind have embraced the entrepreneurial spirit that helps define our Nation as a land of opportunity. Through the Federal Randolph-Sheppard Vending Facility Program administered by the Department of Education, talented and creative individuals who are blind have acquired the management training and business skills necessary to realize the American dream—a lifetime of economic opportunity, independence, and self-sufficiency for themselves and their families.
+Thousands of Americans who are blind have embraced the entrepreneurial spirit that helps define our Nation as a land of opportunity. Through the Federal Randolph-Sheppard Vending Facility Program administered by the Department of Education, talented and creative individuals who are blind have acquired the management training and business skills necessary torealize the American dream—a lifetime of economic opportunity, independence, and self-sufficiency for themselves and their families.
 
 For 75 years, blind business managers have successfully operated food services and commercial ventures at Federal, State, and private buildings and locations nationwide. We honor and celebrate this program's historic achievements. We also trust that the Randolph-Sheppard Program will continue to be a leading model for providing high-quality entrepreneurial opportunities for blind individuals. From a simple snack shop, to tourist services at the Hoover Dam, to full food-services operations at military installations, blind entrepreneurs have provided exceptional customer service to Federal and State employees, the Armed Forces, and the general public. With proven ability, they have challenged preconceived notions about disability.
 

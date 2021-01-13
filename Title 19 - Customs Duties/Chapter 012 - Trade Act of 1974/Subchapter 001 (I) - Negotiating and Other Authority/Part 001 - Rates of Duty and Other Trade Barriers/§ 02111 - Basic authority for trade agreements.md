@@ -16,7 +16,7 @@ Whenever the President determines that any existing duties or other import restr
 
 #### (c) Limitation on authority to increase duty
 
-No proclamation shall be made pursuant to subsection (a)(2) increasing any rate of duty to,or imposing a rate above, the higher of the following:
+No proclamation shall be made pursuant to subsection (a)(2) increasing any rate of duty to, or imposing a rate above, the higher of the following:
 
 &emsp;(1) the rate which is 50 percent above the rate set forth in rate column numbered 2 of the Tariff Schedules of the United States as in effect on January 1, 1975, or
 
@@ -46,7 +46,7 @@ Pub. L. 96–39, title XI, §1110, July 26, 1979, 93 Stat. 314, directed the Pre
 
 Proc. No. 4707, Dec. 11, 1979, 44 F.R. 72348, as amended by Ex. Ord. No. 12204, Mar. 27, 1980, 45 F.R. 20740; Proc. No. 4792, Sept. 15, 1980, 45 F.R. 61589; Proc. No. 4889, Dec. 29, 1981, 47 F.R. 1; Proc. No. 4904, Feb. 27, 1982, 47 F.R. 8753; Ex. Ord. No. 12354, Mar. 30, 1982, 47 F.R. 13477; Ex. Ord. No. 12371, July 12, 1982, 47 F.R. 30449; Ex. Ord. No. 12389, Oct. 25, 1982, 47 F.R. 47529; Ex. Ord. No. 12413, Mar. 30, 1983, 48 F.R. 13921; Proc. No. 5050, Apr. 15, 1983, 48 F.R. 16639; Ex. Ord. No. 12459, Jan. 16, 1984, 49 F.R. 2089; Ex. Ord. No. 12471, Mar. 30, 1984, 49 F.R. 13101; Ex. Ord. No. 12519, June 13, 1985, 50 F.R. 25037; Proc. No. 5365, Aug. 30, 1985, 50 F.R. 36220; Proc. No. 5452, Mar. 31, 1986, 51 F.R. 11539, provided:
 
-1\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)), I determined that certain existing duties and other import restrictions of the United States and of foreign countries were unduly burdening and restricting the foreign trade of the United States and that one or more of the purposes stated in Section 2 of the Trade Act of 1974 (19 U.S.C. 2102) would be promoted by entering into the trade agreements identified in the third and fourth recitals of this proclamation.
+1\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)), I determined that certain existingduties and other import restrictions of the United States and of foreign countries were unduly burdening and restricting the foreign trade of the United States and that one or more of the purposes stated in Section 2 of the Trade Act of 1974 (19 U.S.C. 2102) would be promoted by entering into the trade agreements identified in the third and fourth recitals of this proclamation.
 
 2\. Sections 131, 132, 133, 134, 135, and 161(b) of the Trade Act of 1974 (19 U.S.C. 2151, 2152, 2153, 2154, 2155, and 2211(b)) and Section 4(c) of Executive Order No. 11846 of March 27, 1975, (3 CFR 1971–1975 Comp. 974) \[set out below\], have been complied with.
 
@@ -90,7 +90,7 @@ Proc. No. 4707, Dec. 11, 1979, 44 F.R. 72348, as amended by Ex. Ord. No. 12204, 
 
 NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acting under the authority vested in me by the Constitution and the statutes, including but not limited to Title I and Section 604 of the Trade Act of 1974 \[this subchapter and 19 U.S.C. 2483\], Section 2 \[19 U.S.C. 2503\], and Titles V, VI, and VIII of the Trade Agreements Act of 1979 \[Pub. L. 96–39, July 26, 1979\] Section 255 of the Trade Expansion Act of 1962 \[19 U.S.C. 1885\], and Section 301 of Title 3 of the United States Code, do proclaim that:
 
-(1) At the close of December 31, 1979, the suspension of tariff concessions contained in Proclamation 3564 (except those applicable to automobile trucks valued at$1,000 or more (provided for in TSUS item 692.02) \[see Publication of Tariff Schedules note under section 1202 of this title\]) shall terminate.
+(1) At the close of December 31, 1979, the suspension of tariff concessions contained in Proclamation 3564 (except those applicable to automobile trucks valued at $1,000 or more (provided for in TSUS item 692.02) \[see Publication of Tariff Schedules note under section 1202 of this title\]) shall terminate.
 
 (2) The amendment to Section 466 of the Tariff Act of 1930 (19 U.S.C. 1466) provided for in Section 601(a)(3) of the Trade Agreements Act of 1979 (93 Stat. 268) shall be effective with respect to entries made under Section 466 on and after the date designated by the President under paragraph 5(b) of this proclamation.
 
@@ -110,7 +110,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acti
 
 (e) Section A of Annex IV \[see note below\] shall become effective on January 1, 1980.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this eleventh day of December, in the year of our Lord nineteen hundred and seventy-nine, and of the Independence of the United States of America the two hundred and fourth.
+IN WITNESS WHEREOF, I have hereunto set my hand this eleventh day of December, in the year of ourLord nineteen hundred and seventy-nine, and of the Independence of the United States of America the two hundred and fourth.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -172,7 +172,7 @@ Proc. No. 4768, June 28, 1980, 45 F.R. 45135, as amended by Proc. No. 4792, Sept
 
 (d) Pursuant to Section 503(a)(2)(A) of the Trade Agreements Act of 1979 (93 Stat. 251), I determine, after providing interested parties an opportunity to comment, that each article identified in Annex IV to this proclamation is not import sensitive.
 
-6\. Each modification of existing duty proclaimed herein which provides with respect to an article for a decrease in duty below the limitation specified in Sections 101(b)(1) or 109(a) of the Trade Act of 1974 (19 U.S.C. 2111(b)(1) or 2119(a)), and each modification of any other import restriction or tariff provision so proclaimed is authorized by one or more of the following provisions or statutes:
+6\. Each modification of existing duty proclaimed herein which provides with respect to an article for a decrease in duty below the limitation specified in Sections 101(b)(1) or 109(a) of the Trade Act of 1974 (19U.S.C. 2111(b)(1) or 2119(a)), and each modification of any other import restriction or tariff provision so proclaimed is authorized by one or more of the following provisions or statutes:
 
 &emsp;(a) Section 101(b)(2) of the Trade Act of 1974 (19 U.S.C. 2111(b)(2)), by virtue of the fact that the rate of duty existing on January 1, 1975, applicable to the article was not more than 5 percent ad valorem (or ad valorem equivalent);
 
@@ -192,7 +192,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acti
 
 &emsp;(i) the modification or continuance of existing duties or other import restrictions, and
 
-&emsp;(ii) the continuance of existing duty-free or excise treatment provided for in these agreements and intrade agreements legislation, shall become effective on or after July 1, 1980, as provided for herein.
+&emsp;(ii) the continuance of existing duty-free or excise treatment provided for in these agreements and in trade agreements legislation, shall become effective on or after July 1, 1980, as provided for herein.
 
 (2) To this end—
 

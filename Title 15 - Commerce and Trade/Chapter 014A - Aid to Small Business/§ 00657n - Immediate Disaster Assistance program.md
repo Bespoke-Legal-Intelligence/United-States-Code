@@ -20,7 +20,7 @@ A person who receives a loan under subsection (b) or (c) of section 636 of this 
 
 #### (2) Repayment
 
-&emsp;A person who receives a loan guaranteed under subsection (a) and who is disapproved for a loan under subsection (b) or (c) of section 636 of this title, as the case may be, shall repay the loan guaranteed under subsection\(a) not later than the date established by the Administrator, which may not be earlier than 10 years after the date on which the loan guaranteed under subsection <sup>1</sup> is disbursed.
+&emsp;A person who receives a loan guaranteed under subsection (a) and who is disapproved for a loan under subsection (b) or (c) of section 636 of this title, as the case may be, shall repay the loan guaranteed under subsection (a) not later than the date established by the Administrator, which may not be earlier than 10 years after the date on which the loan guaranteed under subsection <sup>1</sup> is disbursed.
 
 #### (e) Approval or disapproval
 

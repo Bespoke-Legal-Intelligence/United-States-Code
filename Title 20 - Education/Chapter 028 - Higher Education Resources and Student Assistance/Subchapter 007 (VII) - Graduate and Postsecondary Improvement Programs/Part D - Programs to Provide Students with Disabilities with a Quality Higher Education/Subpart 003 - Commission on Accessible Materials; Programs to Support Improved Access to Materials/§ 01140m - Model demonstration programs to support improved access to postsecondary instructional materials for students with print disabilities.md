@@ -78,13 +78,13 @@ Not later than three years after the date of the first grant or contract awarded
 
 &emsp;(2) a summary of the purposes for which the grants and contracts were provided and an evaluation of the progress made under such grants and contracts;
 
-&emsp;(3) a summary of the activities implemented under subsection (f) and, as applicable, subsection (g), including data on the number of postsecondary students with print disabilities served and the number of instructional material requests executed and delivered in specialized formats; and
+&emsp;(3) a summary of the activities implemented under subsection (f) and, as applicable, subsection (g), including data on the number ofpostsecondary students with print disabilities served and the number of instructional material requests executed and delivered in specialized formats; and
 
 &emsp;(4) an evaluation of the effectiveness of programs funded under this section.
 
 #### (i) Model expansion
 
-The Secretary may, on the basis of the reports under subsection (h) and section 1140l(b)(2) of this title and any evaluations of the projectsfunded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
+The Secretary may, on the basis of the reports under subsection (h) and section 1140l(b)(2) of this title and any evaluations of the projects funded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
 
 &emsp;(1) are effective in improving the timely delivery and quality of materials in specialized formats; and
 

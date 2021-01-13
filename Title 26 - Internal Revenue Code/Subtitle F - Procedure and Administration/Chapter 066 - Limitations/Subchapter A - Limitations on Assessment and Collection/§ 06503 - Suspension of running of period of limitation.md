@@ -84,7 +84,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;(i) the issuance of such summons is preceded by a review and written approval of such issuance by the Commissioner of the relevant operating division of the Internal Revenue Service and the Chief Counsel which—
 
-&emsp;&emsp;&emsp;&emsp;(I) states facts clearly establishing that the Secretary has made reasonablerequests for the information that is the subject of the summons, and
+&emsp;&emsp;&emsp;&emsp;(I) states facts clearly establishing that the Secretary has made reasonable requests for the information that is the subject of the summons, and
 
 &emsp;&emsp;&emsp;&emsp;(II) is attached to such summons,
 
@@ -94,7 +94,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 #### (B) Limitation
 
-&emsp;&emsp;A summons which relates to any return shall not be treated as a designated summons if a prior summons which relates to such return was treated as a designated summons for purposes of this subsection.
+&emsp;&emsp;A summons which relates to any return shall not be treated as a designated summons if a prior summons which relates tosuch return was treated as a designated summons for purposes of this subsection.
 
 #### (3) Judicial enforcement period
 
@@ -158,7 +158,7 @@ Subsec. (j)(4). Pub. L. 116–25, §1207(c), added par. (4).
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
-Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of "to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service" for "with respect to any return of tax by a corporation" in subsec. (k)(1), was executed by making the substitution in subsec. (j)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
+Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of "to a corporation (or to any other person to whom the corporation has transferred records)with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service" for "with respect to any return of tax by a corporation" in subsec. (k)(1), was executed by making the substitution in subsec. (j)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
 
 Subsec. (j)(2)(A). Pub. L. 104–168, §1002(a), which directed addition of cl. (i) and redesignation of former cls. (i) and (ii) as (ii) and (iii), respectively, in subsec. (k)(2)(A), was executed by making the amendment in subsec. (j)(2)(A) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
 

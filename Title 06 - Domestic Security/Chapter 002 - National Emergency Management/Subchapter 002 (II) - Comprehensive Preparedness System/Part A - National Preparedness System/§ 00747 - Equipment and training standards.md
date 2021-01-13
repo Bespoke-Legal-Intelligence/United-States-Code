@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator, in coordination with the heads of appropriate Federal agencies and theNational Advisory Council, shall support the development, promulgation, and updating, as necessary, of national voluntary consensus standards for the performance, use, and validation of equipment used by Federal, State, local, and tribal governments and nongovernmental emergency response providers.
+&emsp;The Administrator, in coordination with the heads of appropriate Federal agencies and the National Advisory Council, shall support the development, promulgation, and updating, as necessary, of national voluntary consensus standards for the performance, use, and validation of equipment used by Federal, State, local, and tribal governments and nongovernmental emergency response providers.
 
 #### (2) Requirements
 

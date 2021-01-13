@@ -12,7 +12,7 @@ In addition to the authority provided under section 726 of this title, the Assoc
 
 #### (c) States and localities
 
-The Corporation shall be exempt from liability for any State tax, except for any tax imposed by any political subdivision of a State applicable to any taxable period commencing before January 1, 1987.
+The Corporation shall be exempt from liability for any State tax, except for any tax imposed byany political subdivision of a State applicable to any taxable period commencing before January 1, 1987.
 
 #### (d) Debentures
 
@@ -40,6 +40,8 @@ The Corporation shall retain the right to collect any accounts receivable attrib
 
 (Pub. L. 93–236, title II, §217, as added Pub. L. 97–35, title XI, §1140(a), Aug. 13, 1981, 95 Stat. 653; amended Pub. L. 97–468, title V, §504(c), Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, §4033(b)(2), (3), Oct. 21, 1986, 100 Stat. 1908.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1111 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 105–134, title IV, §408, Dec. 2, 1997, 111 Stat. 2586.
@@ -57,6 +59,8 @@ Subsec. (e). Pub. L. 99–509, §4033(b)(3), struck out "and shall collect" afte
 <b>1983</b>—Subsec. (a). Pub. L. 97–468, §504(c)(1), substituted "$137,000,000" for "$262,000,000".
 
 Subsec. (f). Pub. L. 97–468, §504(c)(2), designated existing provisions as pars. (1)(A) and (2), in (1)(A) as so designated, substituted $137,000,000 for $262,000,000 as limit of appropriations for purchase of securities and accounts receivable, and added pars. (1)(B) to (D) and (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

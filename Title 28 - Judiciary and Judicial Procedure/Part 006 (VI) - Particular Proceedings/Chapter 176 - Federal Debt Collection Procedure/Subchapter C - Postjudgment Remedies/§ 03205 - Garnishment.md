@@ -24,7 +24,7 @@ Proper garnishee for particular property.—
 
 &emsp;&emsp;(A) If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, the corporation, or the president or treasurer of the association shall be the garnishee.
 
-&emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner other than the debtor shall be the garnishee on behalf of the partnership.
+&emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner otherthan the debtor shall be the garnishee on behalf of the partnership.
 
 &emsp;&emsp;(C) If the property or a debt is evidenced by a negotiable instrument for the payment of money, a negotiable document of title or a certificate of stock of an association or corporation, the instrument, document, or certificate shall be treated as property capable of delivery and the person holding it shall be the garnishee, except that—
 
@@ -111,6 +111,8 @@ Termination of garnishment.—A garnishment under this chapter is terminated onl
 &emsp;&emsp;(C) satisfaction of the debt with respect to which the writ is issued.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4956.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

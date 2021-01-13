@@ -12,7 +12,7 @@ Except as provided in subsection (b), no teacher in a school shall be liable for
 
 &emsp;(4) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the teacher; and
 
-&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
+&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires theoperator or the owner of the vehicle, craft, or vessel to—
 
 &emsp;&emsp;(A) possess an operator's license; or
 
@@ -44,7 +44,7 @@ If the laws of a State limit teacher liability subject to one or more of the fol
 
 &emsp;The limitations on the liability of a teacher under this subpart shall not apply to any misconduct that—
 
-&emsp;&emsp;(A) constitutes a crime of violence (as that term is defined in section 16 of title 18) or act of international terrorism (as that termis defined in section 2331 of title 18) for which the defendant has been convicted in any court;
+&emsp;&emsp;(A) constitutes a crime of violence (as that term is defined in section 16 of title 18) or act of international terrorism (as that term is defined in section 2331 of title 18) for which the defendant has been convicted in any court;
 
 &emsp;&emsp;(B) involves a sexual offense, as defined by applicable State law, for which the defendant has been convicted in any court;
 

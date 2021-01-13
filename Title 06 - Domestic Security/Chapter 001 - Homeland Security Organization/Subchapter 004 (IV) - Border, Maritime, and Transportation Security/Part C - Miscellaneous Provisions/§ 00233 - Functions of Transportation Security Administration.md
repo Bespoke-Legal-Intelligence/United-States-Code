@@ -6,7 +6,7 @@ The Secretary and other officials in the Department shall consult with the Admin
 
 #### (b) Report to Congress
 
-Not later than 60 days after November 25, 2002, the Secretary of Transportation shall transmit to Congress a report containing a plan for complying with the requirements of section 44901(d) of title 49.
+Not later than 60 days after November 25, 2002, the Secretary of Transportation shall transmitto Congress a report containing a plan for complying with the requirements of section 44901(d) of title 49.
 
 #### (c) Limitations on statutory construction
 
@@ -20,9 +20,13 @@ Not later than 60 days after November 25, 2002, the Secretary of Transportation 
 
 (Pub. L. 107–296, title IV, §423, Nov. 25, 2002, 116 Stat. 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

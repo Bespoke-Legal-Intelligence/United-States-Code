@@ -36,7 +36,7 @@ The Secretary shall identify and publish a recommended core set of adult health 
 
 #### (B) Revising, strengthening, and improving initial core measures
 
-&emsp;&emsp;Beginning not later than 24 months after the establishment of the Medicaid Quality Measurement Program, and annually thereafter, the Secretary shall publish recommended changes to the initial core set of adult health quality measures that shall reflect the results of the testing, validation, and consensus process for the development of adult health quality measures.
+&emsp;&emsp;Beginning not later than 24 months after the establishment of the Medicaid Quality Measurement Program, and annually thereafter, the Secretary shall publish recommended changes to the initial core set of adult health quality measures that shall reflect the results of the testing, validation,and consensus process for the development of adult health quality measures.
 
 #### (C) Behavioral health measures
 

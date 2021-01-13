@@ -1,6 +1,6 @@
 ### §2737. Silver star medal
 
-The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department ofthe Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
+The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to an individual who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 
@@ -8,9 +8,13 @@ The President may award a silver star medal of appropriate design, with ribbons 
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Added Pub. L. 111–281, title II, §224(b)(2), Oct. 15, 2010, 124 Stat. 2922, §492a; renumbered §2737, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Added Pub. L. 111–281, title II, §224(b)(2), Oct. 15, 2010, 124 Stat. 2922, §492a; renumbered §2737, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(30), Jan. 1, 2021, 134 Stat. 4749.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "an individual" for "a person" in introductory provisions.
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 492a of this title as this section.
 

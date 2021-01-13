@@ -12,9 +12,11 @@
 
 (2) The Secretary shall pay to an eligible veteran described in subsection (a)(1) of this section who is pursuing a course or courses or program under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate) an educational assistance allowance (A) at the rate of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same course, courses, or program, or (B) at the institutional full-time rate provided in section 3482(a) of this title, whichever is the lesser.
 
-(c) The provisions of section 3473(d)(1) <sup>1</sup> of this title, relating to the disapproval of enrollment in certain courses, shall be applicable to the enrollment of an eligible veteran who, while serving on active duty, enrolls in one or more courses under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate).
+(c) The provisions of section 3473(d)(1) <sup>1</sup> of this title, relating to the disapproval of enrollmentin certain courses, shall be applicable to the enrollment of an eligible veteran who, while serving on active duty, enrolls in one or more courses under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate).
 
-(Added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 79, §1691; amended Pub. L. 92–540, title III, §305, Oct. 24, 1972, 86 Stat. 1081; Pub. L. 94–502, title II, §211(12), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 96–466, title III, §311, Oct. 17, 1980, 94 Stat. 2194; Pub. L. 97–295, §4(43), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §203(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 101–237, title IV,§423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3491 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 79, §1691; amended Pub. L. 92–540, title III, §305, Oct. 24, 1972, 86 Stat. 1081; Pub. L. 94–502, title II, §211(12), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 96–466, title III, §311, Oct. 17, 1980, 94 Stat. 2194; Pub. L. 97–295, §4(43), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §203(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3491 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 96–466, §311(3), added subsec. (c).
 <b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted "the veteran's" for "his" and "the veteran" for "he" wherever appearing.
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–540 struck out provision relating to the approval in excess of half-time training as defined pursuant to section 1684 of this title of enrollment in adult evening secondary school courses.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

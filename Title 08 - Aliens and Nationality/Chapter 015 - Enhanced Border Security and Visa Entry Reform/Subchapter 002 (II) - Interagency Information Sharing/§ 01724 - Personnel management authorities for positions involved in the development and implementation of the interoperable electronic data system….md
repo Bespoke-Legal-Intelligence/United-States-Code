@@ -14,7 +14,7 @@ Total payments to employees under any system established under this section shal
 
 #### (d) Operating plan
 
-Not later than 90 days after May 14, 2002, the Attorney General shall submit to the Committee on Appropriations, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Appropriations, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives an operating plan—
+Not later than 90 days after May 14, 2002, the Attorney General shall submit to the Committee on Appropriations, the Committee on theJudiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Appropriations, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives an operating plan—
 
 &emsp;(1) describing the Attorney General's intended use of the authority under this section; and
 
@@ -25,6 +25,8 @@ Not later than 90 days after May 14, 2002, the Attorney General shall submit to 
 The authority of this section shall terminate upon the implementation of the Chimera system.
 
 (Pub. L. 107–173, title II, §204, May 14, 2002, 116 Stat. 551.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

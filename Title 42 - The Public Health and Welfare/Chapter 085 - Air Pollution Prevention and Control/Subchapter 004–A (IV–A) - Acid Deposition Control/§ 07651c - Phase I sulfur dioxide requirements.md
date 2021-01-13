@@ -1628,7 +1628,7 @@ S. Oak Creek
 
 &emsp;&emsp;&emsp;&emsp;(III) demonstrates that the requirements of subparagraph (B) have been met.
 
-&emsp;&emsp;&nbsp;Such application for allowances by a State-regulated electric utility shall require approval by the State regulatory authority with jurisdiction over such electric utility. The authority shall review the application for accuracy and compliance with this subsection and the rules under this subsection. Electric utilities whose retail rates are not subject to the jurisdiction of a State regulatory authority shall apply directly to the Administrator for such approval.
+&emsp;&emsp;&nbsp;Such application for allowances by a State-regulated electric utility shall require approval by the State regulatory authority with jurisdiction over such electric utility. The authority shall review the application for accuracy and compliance with this subsection and the rules under this subsection. Electric utilities whose retail rates are not subject to the jurisdiction of a State regulatory authority shallapply directly to the Administrator for such approval.
 
 #### (E) Avoided emissions from qualified energy conservation measures
 

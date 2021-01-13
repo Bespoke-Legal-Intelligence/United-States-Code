@@ -8,9 +8,13 @@ Documents required or authorized to be published by section 1505 of this title s
 
 Based on 44 U.S. Code, 1964, ed., §303 (July 26, 1935, ch. 417, §3, 49 Stat. 500).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

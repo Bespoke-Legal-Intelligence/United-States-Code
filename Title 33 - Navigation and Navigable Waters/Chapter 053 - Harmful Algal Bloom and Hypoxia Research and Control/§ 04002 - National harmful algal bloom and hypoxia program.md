@@ -56,7 +56,7 @@ In administering the Program, the Under Secretary shall—
 
 &emsp;(5) coordinate with the Secretary of State to support international efforts on marine and freshwater harmful algal bloom and hypoxia information sharing, research, prediction, mitigation, control, and response activities;
 
-&emsp;(6) identify additional research, development, and demonstration needs and priorities relating to monitoring, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia, including methods and technologies to protect the ecosystems affected by marine and freshwater harmful algal blooms and hypoxia;
+&emsp;(6) identify additional research, development, and demonstration needs and prioritiesrelating to monitoring, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia, including methods and technologies to protect the ecosystems affected by marine and freshwater harmful algal blooms and hypoxia;
 
 &emsp;(7) integrate, coordinate, and augment existing education and extension programs to improve public understanding and awareness of the causes, impacts, intervention, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
 
@@ -123,6 +123,8 @@ With respect to the freshwater aspects of the Program, the Administrator, throug
 The collection of monitoring and observation data under this chapter shall comply with all data standards and protocols developed pursuant to the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.). Such data shall be made available through the system established under that Act.
 
 (Pub. L. 105–383, title VI, §603A, as added Pub. L. 113–124, §4, June 30, 2014, 128 Stat. 1379; amended Pub. L. 115–423, §9(e), Jan. 7, 2019, 132 Stat. 5462.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

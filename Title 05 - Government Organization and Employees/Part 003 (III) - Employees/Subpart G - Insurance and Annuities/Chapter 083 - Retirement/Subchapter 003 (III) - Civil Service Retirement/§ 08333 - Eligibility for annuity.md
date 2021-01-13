@@ -36,11 +36,15 @@ In subsection (c), the words "eligible for" are substituted for "entitled to".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Subsec. (c). Pub. L. 94–183 substituted "of this title" for "of title 5" and "of this title" for "of this chapter".
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–93 provided for eligibility for a survivor annuity under section 8341(d) or (e)(1) of this title only if the requisite amounts are deducted or deposited with respect to total service period.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1969 Amendment
 

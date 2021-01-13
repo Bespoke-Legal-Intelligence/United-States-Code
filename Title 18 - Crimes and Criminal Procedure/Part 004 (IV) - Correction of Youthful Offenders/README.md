@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473, title II, §218(g), Oct. 12, 1984, 98 Stat. 2027, in item for chapter 402 substituted "Repealed" for "Federal Youth Corrections Act".

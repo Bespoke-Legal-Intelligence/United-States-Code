@@ -16,7 +16,7 @@
 
 #### (3) Determination for statutory procedure States
 
-&emsp;For each State that employs a statutory procedure described in section 60301(e)(1)(C) ofthis title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
+&emsp;For each State that employs a statutory procedure described in section 60301(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
 
 #### (4) Comments from public
 
@@ -59,6 +59,8 @@ Not less than 2.5 percent of the funds appropriated to carry out this chapter fo
 &emsp;The requirements of this subsection apply in addition to, and not instead of, the other requirements of this section.
 
 (Pub. L. 108–405, title IV, §425, Oct. 30, 2004, 118 Stat. 2291.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -14,6 +14,8 @@
 | [7308\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md) | Office of Rural Health. |
 | [7309\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007309%20-%20Readjustment%20Counseling%20Service.md) | Readjustment Counseling Service. |
 | [7309A.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007309A%20-%20Office%20of%20Patient%20Advocacy.md) | Office of Patient Advocacy. |
+| [7310\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007310%20-%20Office%20of%20Women%27s%20Health.md) | Office of Women's Health. |
+| [7310A.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007310A%20-%20Annual%20reports%20on%20Women%27s%20Health.md) | Annual reports on women's health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,7 +77,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title V, §5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
 
 <b>2018</b>—Pub. L. 115–182, title I, §106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
 

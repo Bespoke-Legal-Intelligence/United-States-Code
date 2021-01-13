@@ -74,7 +74,7 @@ In this chapter:
 
 #### (10) Environmental laws
 
-&emsp;The term "environmental laws", with respect to the laws of the United States, means environmental statutes and regulations enforceable by action of the Federal Government.
+&emsp;The term "environmental laws", with respect to the laws of the United States, meansenvironmental statutes and regulations enforceable by action of the Federal Government.
 
 #### (11) GATT 1994
 

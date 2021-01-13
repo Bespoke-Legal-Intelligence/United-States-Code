@@ -10,9 +10,13 @@ For any position for which the Secretary of the Senate disburses the pay for the
 
 (Pub. L. 116–94, div. E, title II, §212(a)(1)(B), Dec. 20, 2019, 133 Stat. 2774.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of the amendments made by this section, referred to in text, is the effective date of section 212 of Pub. L. 116–94, which is set out in a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -158,13 +158,15 @@ Applicability of part.— <sup>3</sup> The requirements of this section shall 
 
 (Pub. L. 103–322, title IV, §40299, as added Pub. L. 108–21, title VI, §611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, §3(b)(4), title VI, §602(a), title IX, §906(e), formerly §906(f), title XI, §1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered §906(e), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, §602(2), Mar. 7, 2013, 127 Stat. 109.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13975 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–4, §602(2)(A), substituted "victims of domestic violence, dating violence, sexual assault, or stalking" for "child victims of domestic violence, stalking, or sexual assault" in section catchline.
+<b>2013</b>—Pub. L. 113–4, §602(2)(A), substituted "victims of domestic violence, dating violence, sexual assault, orstalking" for "child victims of domestic violence, stalking, or sexual assault" in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–4, §602(2)(B), struck out "fleeing" before "a situation".
 
@@ -211,6 +213,8 @@ Subsec. (g)(3)(C)(i). Pub. L. 109–271, §7(c)(1)(A), added cl. (i) and struck 
 Subsec. (g)(4). Pub. L. 109–271, §7(c)(1)(B), struck out par. (4) which read as follows: "Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program."
 
 Pub. L. 109–162, §906(e), formerly §906(f), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

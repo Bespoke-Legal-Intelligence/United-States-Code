@@ -4,6 +4,8 @@ The Secretary shall cause an examination and inspection of all amenable species,
 
 (Mar. 4, 1907, ch. 2907, title I, §9, formerly 7th par., 34 Stat. 1262; renumbered §9 and amended Pub. L. 90–201, §§1, 3, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 77 of this title.
@@ -15,6 +17,8 @@ Section was formerly classified to section 77 of this title.
 <b>1986</b>—Pub. L. 99–641 temporarily inserted ", except as provided in section 606 of this title," after first reference to "other equines, and". See Effective and Termination Dates of 1986 Amendment note below.
 
 <b>1967</b>—Pub. L. 90–201, §§3, 12(a), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary" and included horses, mules, and other equines in the list of animals, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -40,7 +44,7 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Savings Provision
 
-Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: "The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act."
+Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: "The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this sectionand sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act."
 
 #### Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program
 

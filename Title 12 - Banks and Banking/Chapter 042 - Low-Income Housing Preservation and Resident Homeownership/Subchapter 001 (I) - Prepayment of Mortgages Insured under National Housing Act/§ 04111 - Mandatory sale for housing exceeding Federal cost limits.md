@@ -38,6 +38,8 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 (Pub. L. 100–242, title II, §221, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4259; amended Pub. L. 102–550, title III, §317(a)(3), Oct. 28, 1992, 106 Stat. 3772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–550 substituted "than" for "that" before "the preservation".

@@ -1,5 +1,7 @@
 ### §1777a. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 106–425, §3, Nov. 1, 2000, 114 Stat. 1891, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.

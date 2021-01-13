@@ -10,7 +10,7 @@ Withdrawal.—A participating State may end its status as a participating State 
 
 (c)
 
-Form and Way of Notification.—Notification by a State under this section shall be made in the form and way the Secretary prescribes by regulation.
+Form and Way of Notification.—Notification by a State under this section shall be madein the form and way the Secretary prescribes by regulation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 974.)
 

@@ -36,7 +36,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### (2) Board report
 
-&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the Congressional Record and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
+&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the CongressionalRecord and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
 
 #### (3) Reports of congressional committees
 
@@ -65,6 +65,8 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 &emsp;&emsp;A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.
 
 (Pub. L. 104–1, title I, §102, Jan. 23, 1995, 109 Stat. 5; Pub. L. 115–397, title III, §301, Dec. 21, 2018, 132 Stat. 5320; Pub. L. 116–92, div. A, title XI, §1122(d)(1)(A), Dec. 20, 2019, 133 Stat. 1608.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (c
 <b>2019</b>—Subsec. (a)(12). Pub. L. 116–92 added par. (12).
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–397 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

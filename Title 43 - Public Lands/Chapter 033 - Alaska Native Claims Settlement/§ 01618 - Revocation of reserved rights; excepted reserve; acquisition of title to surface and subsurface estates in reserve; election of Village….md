@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, and except where inconsistent with t
 
 #### (b) Acquisition of title to surface and subsurface estates in reserve; election of Village Corporations
 
-Notwithstanding any other provision of law or of this chapter, any Village Corporation or Corporations may elect within two years to acquire title to the surface and subsurface estates in any reserve set aside for the use or benefit of its stockholders or members prior to December 18, 1971. If two or more villages are located on such reserve, the election must be made by all of the members or stockholders of the Village Corporations concerned. In such event, the Secretary shall convey the land to the Village Corporation or Corporations, subject to valid existing rights as provided in section 1613(g) of this title, and the Village Corporation shall not be eligible for any other land selections under this chapter or to any distribution of Regional Corporationsfunds pursuant to section 1606 of this title, and the enrolled residents of the Village Corporation shall not be eligible to receive Regional Corporation stock.
+Notwithstanding any other provision of law or of this chapter, any Village Corporation or Corporations may elect within two years to acquire title to the surface and subsurface estates in any reserve set aside for the use or benefit of its stockholders or members prior to December 18, 1971. If two or more villages are located on such reserve, the election must be made by all of the members or stockholders of the Village Corporations concerned. In such event, the Secretary shall convey the land to the Village Corporation or Corporations, subject to valid existing rights as provided in section 1613(g) of this title, and the Village Corporation shall not be eligible for any other land selections under this chapter or to any distribution of Regional Corporations funds pursuant to section 1606 of this title, and the enrolled residents of the Village Corporation shall not be eligible to receive Regional Corporation stock.
 
 #### (c) Restoration of land to Elim Native Corporation
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
+&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, onfile with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
 
 #### (3) Authority to select and convey
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as "hot springs") subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
-&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of theTubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
+&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
 
 #### (5) Rights retained by the United States
 
@@ -104,6 +104,8 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 (Pub. L. 92–203, §19, Dec. 18, 1971, 85 Stat. 710; Pub. L. 106–194, §1, May 2, 2000, 114 Stat. 239.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of May 31, 1938 (52 Stat. 593), referred to in subsec. (a), is act May 31, 1938, ch. 304, 52 Stat. 593, which was classified to section 497 of Title 25, Indians, prior to repeal by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
@@ -119,6 +121,8 @@ The time of passage of this chapter, referred to in subsec. (c)(1)(E), probably 
 #### Grants to Native Group Corporations for Planning, Development, and Other Purposes
 
 Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: "The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\]."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grants to Village Corporations for Planning, Development and Other Purposes
 

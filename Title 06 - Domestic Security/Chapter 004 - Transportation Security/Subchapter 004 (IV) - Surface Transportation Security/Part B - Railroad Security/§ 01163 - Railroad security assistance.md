@@ -120,6 +120,8 @@ A recipient of a grant under this section and sections 1164 and 1165 of this tit
 
 (Pub. L. 110–53, title XV, §1513, Aug. 3, 2007, 121 Stat. 433; Pub. L. 115–254, div. K, title I, §1973(a), Oct. 5, 2018, 132 Stat. 3614.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 114(w) of title 49, referred to in subsec. (i)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.

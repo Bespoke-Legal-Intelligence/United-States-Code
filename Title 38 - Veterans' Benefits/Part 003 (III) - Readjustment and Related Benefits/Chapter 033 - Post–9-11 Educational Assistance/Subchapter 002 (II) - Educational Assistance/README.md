@@ -11,6 +11,7 @@
 - [&sect; 03314 - Tutorial assistance](%C2%A7%2003314%20-%20Tutorial%20assistance.md)
 - [&sect; 03315 - Licensure and certification tests](%C2%A7%2003315%20-%20Licensure%20and%20certification%20tests.md)
 - [&sect; 03315A - National tests](%C2%A7%2003315A%20-%20National%20tests.md)
+- [&sect; 03315B - Preparatory courses for licensure, certification, or national tests](%C2%A7%2003315B%20-%20Preparatory%20courses%20for%20licensure%2C%20certification%2C%20or%20national%20tests.md)
 - [&sect; 03316 - Supplemental educational assistance members with critical skills or specialty; members serving additional service](%C2%A7%2003316%20-%20Supplemental%20educational%20assistance%20members%20with%20critical%20skills%20or%20specialty%3B%20members%20serving%20additional%20service.md)
 - [&sect; 03317 - Public-private contributions for additional educational assistance](%C2%A7%2003317%20-%20Public-private%20contributions%20for%20additional%20educational%20assistance.md)
 - [&sect; 03318 - Additional assistance relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program&#8230;](%C2%A7%2003318%20-%20Additional%20assistance%20relocation%20or%20travel%20assistance%20for%20individual%20relocating%20or%20traveling%20significant%20distance%20for%20pursuit%20of%20a%20program%E2%80%A6.md)

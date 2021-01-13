@@ -134,7 +134,7 @@ The Secretary shall establish procedures under which a State may allow agents or
 
 #### (ii) Large employers eligible
 
-&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term "qualified employer" shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plansoffered in the large group market through the Exchange.
+&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term "qualified employer" shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
 
 #### (3) Access limited to lawful residents
 

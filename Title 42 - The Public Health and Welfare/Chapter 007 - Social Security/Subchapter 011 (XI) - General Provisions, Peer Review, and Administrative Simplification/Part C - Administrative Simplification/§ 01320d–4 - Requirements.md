@@ -34,11 +34,11 @@
 
 #### (B) Special rule for small health plans
 
-&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting "36months" for "24 months". For purposes of this subsection, the Secretary shall determine the plans that qualify as small health plans.
+&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting "36 months" for "24 months". For purposes of this subsection, the Secretary shall determine the plans that qualify as small health plans.
 
 #### (2) Compliance with modified standards
 
-&emsp;If the Secretary adopts a modification to a standard or implementation specification under this part, each person to whom the standard or implementation specification applies shall comply with the modified standard or implementation specification at such time as the Secretary determines appropriate, taking into account the time needed to comply due to the nature and extent of the modification. The time determined appropriate under the preceding sentence may not be earlier than the last day of the 180-day period beginning on the date such modification is adopted. The Secretary may extend the time for compliance for small health plans, if the Secretary determines that such extension is appropriate.
+&emsp;If the Secretary adopts a modification to a standard or implementation specification under this part, each person to whom the standard or implementation specification applies shall comply with the modified standard or implementation specification at such time as the Secretary determines appropriate, taking into account the time needed to complydue to the nature and extent of the modification. The time determined appropriate under the preceding sentence may not be earlier than the last day of the 180-day period beginning on the date such modification is adopted. The Secretary may extend the time for compliance for small health plans, if the Secretary determines that such extension is appropriate.
 
 #### (3) Construction
 
@@ -164,7 +164,7 @@ Rules of construction.—Nothing in this section shall be construed—
 
 &emsp;&emsp;"(B) as modifying—
 
-&emsp;&emsp;&emsp;"(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small health plan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
+&emsp;&emsp;&emsp;"(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small healthplan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
 
 &emsp;&emsp;&emsp;"(ii) the April 14, 2004, deadline for a small health plan to comply with the requirements of such subpart.
 

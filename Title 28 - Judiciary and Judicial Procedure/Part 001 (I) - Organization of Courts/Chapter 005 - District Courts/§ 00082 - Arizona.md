@@ -18,6 +18,8 @@ A provision requiring the clerk to keep his office at the State capital was omit
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–40 substituted "Flagstaff, Globe, Phoenix, Prescott, Tucson, and Yuma" for "Globe, Phoenix, Prescott, and Tucson".

@@ -44,7 +44,7 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(A) that will make the airport as self-sustaining as possible under the circumstances existing at the airport, including volume of traffic and economy of collection; and
 
-&emsp;&emsp;(B) without including in the rate base used for the charges the Government's share of costs for any project for which a grant is made under this subchapter or was madeunder the Federal Airport Act or the Airport and Airway Development Act of 1970;
+&emsp;&emsp;(B) without including in the rate base used for the charges the Government's share of costs for any project for which a grant is made under this subchapter or was made under the Federal Airport Act or the Airport and Airway Development Act of 1970;
 
 &emsp;(14) the project accounts and records will be kept using a standard system of accounting that the Secretary, after consulting with appropriate public agencies, prescribes;
 
@@ -78,7 +78,7 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property;
 
-&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
+&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable,intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
 
 &emsp;(21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner's expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose.
 
@@ -188,7 +188,7 @@ Availability of Amounts.—An amount deposited in the Airport and Airway Trust F
 
 &emsp;&emsp;(B) for use under section 47114(d)(2) of this title at another airport in the State in which the land was disposed of under subsection (c)(2)(B)(ii) of this section; and
 
-&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available to the Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
+&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available tothe Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
 
 (g)
 
@@ -224,7 +224,7 @@ Relief From Obligation To Provide Free Space.—When a sponsor provides a proper
 
 Use of Revenue in Hawaii.—(1) In this subsection—
 
-&emsp;(A) "duty-free merchandise" and "duty-free sales enterprise" have the same meaningsgiven those terms in section 555(b)(8) of the Tariff Act of 1930 (19 U.S.C. 1555(b)(8)).
+&emsp;(A) "duty-free merchandise" and "duty-free sales enterprise" have the same meanings given those terms in section 555(b)(8) of the Tariff Act of 1930 (19 U.S.C. 1555(b)(8)).
 
 &emsp;(B) "highway" and "Federal-aid system" have the same meanings given those terms in section 101(a) of title 23.
 
@@ -276,7 +276,7 @@ Administrative safeguards.—Policies and procedures to be established pursuant 
 
 Statute of limitations.—In addition to the statute of limitations specified in subsection (m)(7), with respect to project grants made under this chapter—
 
-&emsp;&emsp;(A) any request by a sponsor or any other governmental entity to any airport for additional payments for services conducted off ofthe airport or for reimbursement for capital contributions or operating expenses shall be filed not later than 6 years after the date on which the expense is incurred; and
+&emsp;&emsp;(A) any request by a sponsor or any other governmental entity to any airport for additional payments for services conducted off of the airport or for reimbursement for capital contributions or operating expenses shall be filed not later than 6 years after the date on which the expense is incurred; and
 
 &emsp;&emsp;(B) any amount of airport funds that are used to make a payment or reimbursement as described in subparagraph (A) after the date specified in that subparagraph shall be considered to be an illegal diversion of airport revenues that is subject to subsection (m).
 
@@ -526,11 +526,11 @@ Mothers' Rooms.—
 
 &emsp;(1)
 
-In general.—In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+In general.—The Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
 
 &emsp;&emsp;(A) a lactation area in the sterile area of each passenger terminal building of the airport; and
 
-&emsp;&emsp;(B) a baby changing table in one men's and one women's restroom in each passenger terminal building of the airport.
+&emsp;&emsp;(B) a baby changing table in at least one men's and at least one women's restroom in each passenger terminal building of the airport.
 
 &emsp;(2)
 
@@ -538,15 +538,31 @@ Applicability.—
 
 &emsp;&emsp;(A)
 
-Airport size.—The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
+Airport size.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The requirements in paragraph (1) shall only apply to applications submitted by the airport sponsor of—
+
+&emsp;&emsp;&emsp;&emsp;(I) a medium or large hub airport in fiscal year 2021 and each fiscal year thereafter; and
+
+&emsp;&emsp;&emsp;&emsp;(II) an applicable small hub airport in fiscal year 2023 and each fiscal year thereafter.
+
+&emsp;&emsp;&emsp;(ii)
+
+Applicable small hub airport defined.—In clause (i)(II), the term "applicable small hub airport" means an airport designated as a small hub airport during—
+
+&emsp;&emsp;&emsp;&emsp;(I) the 3-year period consisting of 2020, 2021, and 2022; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any consecutive 3-year period beginning after 2020.
 
 &emsp;&emsp;(B)
 
-Preexisting facilities.—On application by an airport sponsor, the Secretary may determine that a lactation area in existence on the date of enactment of this Act complies with the requirement in paragraph (1), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term "lactation area" in this subsection.
+Preexisting facilities.—On application by an airport sponsor, the Secretary may determine that a lactation area in existence on October 5, 2018, complies with the requirement in paragraph (1)(A), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term "lactation area" in this subsection.
 
 &emsp;&emsp;(C)
 
-Special rule.—The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+Special rule.—The requirement in paragraph (1)(A) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
 
 &emsp;(3)
 
@@ -566,7 +582,7 @@ Definition.—In this section, the term—
 
 &emsp;&emsp;(B) "sterile area" has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–141, div. M, title I, §102(a), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§131, 132(a), 163(d), 185, Oct. 5, 2018, 132 Stat. 3203–3205, 3224, 3234.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–141, div. M, title I, §102(a), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§131, 132(a), 163(d), 185, Oct. 5, 2018, 132 Stat. 3203–3205, 3224, 3234; Pub. L. 116–190, §2, Oct. 30, 2020, 134 Stat. 974.)
 
 Historical and Revision Notes
 
@@ -776,7 +792,7 @@ Subsection (c)(3) is added for clarity.
 
 In subsection (d), the words "may approve an application under this subchapter for an airport development project grant . . . only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2204(b)(2)) and "No obligation shall be incurred by the Secretary for airport development . . . unless" in 49 App.:2204(b) for clarity and to eliminate unnecessary words.
 
-In subsection (e)(1), the words "may approve a project grant application under this subchapter for an airport development project only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(17)) and "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall" for clarity andto eliminate unnecessary words. The words "food, beverages, printed materials, or other" and "ground transportation, baggage carts, automobile rentals, or other" are omitted as surplus.
+In subsection (e)(1), the words "may approve a project grant application under this subchapter for an airport development project only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(17)) and "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall" for clarity and to eliminate unnecessary words. The words "food, beverages, printed materials, or other" and "ground transportation, baggage carts, automobile rentals, or other" are omitted as surplus.
 
 In subsection (e)(2)–(5), the words "disadvantaged business enterprise" are substituted for "DBE" for clarity.
 
@@ -808,7 +824,7 @@ In subsection (j)(5), the words "from fee increases" and "for approval" are omit
 
 The Federal Airport Act, referred to in subsecs. (a)(13)(B) and (i), is act May 13, 1946, ch. 251, 60 Stat. 170, which was classified to chapter 14 (§1101 et seq.) of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
 
-The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. Fordisposition of sections of former Title 49, see table at the beginning of Title 49.
 
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (c)(4)(E), is classified to section 9502 of Title 26, Internal Revenue Code.
 
@@ -824,9 +840,17 @@ The date of enactment of this paragraph, referred to in subsec. (s)(3), is the d
 
 The date of enactment of this subsection, referred to in subsec. (t)(2)(A), is the date of enactment of Pub. L. 114–238, which was approved Oct. 7, 2016.
 
-The date of enactment of this Act, referred to in subsec. (w)(2)(B), probably means the date of enactment of Pub. L. 115–254, which enacted subsec. (w) and was approved Oct. 5, 2018.
-
 #### Amendments
+
+<b>2020</b>—Subsec. (w)(1). Pub. L. 116–190, §2(1), substituted "The Secretary of Transportation" for "In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation".
+
+Subsec. (w)(1)(B). Pub. L. 116–190, §2(2), substituted "at least one men's and at least one women's" for "one men's and one women's".
+
+Subsec. (w)(2)(A). Pub. L. 116–190, §2(3), added subpar. (A) and struck out former subpar. (A) which read as follows: "The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport."
+
+Subsec. (w)(2)(B). Pub. L. 116–190, §2(4), substituted "October 5, 2018, complies with the requirement in paragraph (1)(A)" for "the date of enactment of this Act complies with the requirement in paragraph (1)".
+
+Subsec. (w)(2)(C). Pub. L. 116–190, §2(5), substituted "paragraph (1)(A)" for "paragraph (1)".
 
 <b>2018</b>—Subsec. (a)(16)(B). Pub. L. 115–254, §163(d)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "the Secretary will approve the plan and any revision or modification before the plan, revision, or modification takes effect;".
 

@@ -1,8 +1,10 @@
 ### §942–7. Military park, Indian or other reservation
 
-Sections 687a, 687a–2 to 687a–5,<sup>1</sup> and 942–1 to 942–9 of this title and sections 607a and 615a of title 16 shall not apply to any lands within thelimits of any military park, Indian, or other reservation unless such right of way shall be provided for by Act of Congress.
+Sections 687a, 687a–2 to 687a–5,<sup>1</sup> and 942–1 to 942–9 of this title and sections 607a and 615a of title 16 shall not apply to any lands within the limits of any military park, Indian, or other reservation unless such right of way shall be provided for by Act of Congress.
 
 (May 14, 1898, ch. 299, §7, 30 Stat. 412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were 
 #### Codification
 
 Section was formerly classified to section 417 of Title 48, Territories and Insular Possessions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal; Savings Provision
 

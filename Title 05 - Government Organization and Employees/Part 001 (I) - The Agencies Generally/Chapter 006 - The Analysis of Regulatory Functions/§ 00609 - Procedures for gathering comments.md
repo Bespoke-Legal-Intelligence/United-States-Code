@@ -16,7 +16,7 @@
 
 &emsp;(1) a covered agency shall notify the Chief Counsel for Advocacy of the Small Business Administration and provide the Chief Counsel with information on the potential impacts of the proposed rule on small entities and the type of small entities that might be affected;
 
-&emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities for the purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
+&emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities forthe purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
 
 &emsp;(3) the agency shall convene a review panel for such rule consisting wholly of full time Federal employees of the office within the agency responsible for carrying out the proposed rule, the Office of Information and Regulatory Affairs within the Office of Management and Budget, and the Chief Counsel;
 
@@ -46,6 +46,8 @@
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, §244(a), Mar. 29, 1996, 110 Stat. 867; Pub. L. 111–203, title X, §1100G(a), July 21, 2010, 124 Stat. 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted "means—" for "means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor." and added pars. (1) to (3).
@@ -55,6 +57,8 @@
 Pub. L. 104–121, §244(a)(1), which directed insertion of "the reasonable use of" before "techniques," in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word "techniques" to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 104–121, §244(a)(4), added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

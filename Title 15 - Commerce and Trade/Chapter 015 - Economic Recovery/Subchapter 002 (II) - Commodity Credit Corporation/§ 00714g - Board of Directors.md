@@ -22,7 +22,7 @@ In subsec. (a), "chapter 51 and subchapter III of chapter 53 of title 5" substit
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
-Act June 7, 1949, amended section generally by bringing the Board under the direct control of the Secretary who will serve as Chairman of the Board, and by addingsubsec. (b) to provide for the appointment and duties of an advisory board.
+Act June 7, 1949, amended section generally by bringing the Board under the direct control of the Secretary who will serve as Chairman of the Board, and by adding subsec. (b) to provide for the appointment and duties of an advisory board.
 
 #### Effective Date of 2012 Amendment
 

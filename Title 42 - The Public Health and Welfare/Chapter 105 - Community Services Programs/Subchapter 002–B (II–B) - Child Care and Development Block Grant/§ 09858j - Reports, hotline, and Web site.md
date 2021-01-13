@@ -50,7 +50,7 @@ Not later than July 31, 2016, and biennially thereafter, the Secretary shall pre
 
 #### (F) High-quality consumer education and referral
 
-&emsp;&emsp;The Web site and hotline shall ensure that families have access to easy-to-understand child care consumer education and referral services.
+&emsp;&emsp;The Web site and hotline shall ensure that families have access to easy-to-understandchild care consumer education and referral services.
 
 #### (3) Prohibition
 

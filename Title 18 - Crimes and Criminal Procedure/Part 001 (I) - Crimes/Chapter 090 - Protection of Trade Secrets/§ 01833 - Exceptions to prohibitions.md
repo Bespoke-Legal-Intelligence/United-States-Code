@@ -62,6 +62,8 @@ Rule of construction.—Except as expressly provided for under this subsection, 
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 114–153, §§2(c), 7(a), May 11, 2016, 130 Stat. 381, 384.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (b)(3)(D), is the date of enactment of Pub. L. 114–153, which was approved May 11, 2016.
@@ -73,6 +75,8 @@ The date of enactment of this subsection, referred to in subsec. (b)(3)(D), is t
 Pub. L. 114–153, §2(c), inserted "or create a private right of action for" after "prohibit" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 114–153, §7(a)(2), substituted "the disclosure of a trade secret in accordance with subsection (b)" for "the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

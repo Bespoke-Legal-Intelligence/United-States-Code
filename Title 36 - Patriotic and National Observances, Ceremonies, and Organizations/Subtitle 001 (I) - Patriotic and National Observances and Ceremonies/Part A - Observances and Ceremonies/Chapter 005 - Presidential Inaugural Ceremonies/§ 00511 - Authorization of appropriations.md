@@ -60,9 +60,13 @@ Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 S
 
 In subsection (a)(1)(A), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5" are substituted for "the civil-service and classification laws" for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–155 renumbered section 510 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

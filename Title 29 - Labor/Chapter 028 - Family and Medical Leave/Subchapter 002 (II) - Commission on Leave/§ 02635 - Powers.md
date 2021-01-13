@@ -2,7 +2,7 @@
 
 #### (a) Meetings
 
-The Commission shall first meet not later than 30 days after the date on which all members are appointed, and the Commission shallmeet thereafter on the call of the chairperson or a majority of the members.
+The Commission shall first meet not later than 30 days after the date on which all members are appointed, and the Commission shall meet thereafter on the call of the chairperson or a majority of the members.
 
 #### (b) Hearings and sessions
 

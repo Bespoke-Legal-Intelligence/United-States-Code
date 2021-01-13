@@ -52,6 +52,148 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiy
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
 
+#### Treatment in Future Budgets of the President of Systems Added by Congress
+
+Pub. L. 116–283, div. A, title I, §126, Jan. 1, 2021, 134 Stat. 3428, provided that: "In the event the procurement quantity for a system authorized by Congress in a National Defense Authorization Act for a fiscal year, and for which funds for such procurement quantity are appropriated by Congress in the Shipbuilding and Conversion, Navy account for such fiscal year, exceeds the procurement quantity specified in the budget of the President, as submitted to Congress under section 1105 of title 31, United States Code, for such fiscal year, such excess procurement quantity shall not be specified as a new procurement quantity in any budget of the President, as so submitted, for any fiscal year after such fiscal year."
+
+#### Budgeting of Department of Defense Relating to Operational Energy Improvement
+
+Pub. L. 116–283, div. A, title III, §322, Jan. 1, 2021, 134 Stat. 3522, provided that: "The Secretary of Defense shall include in the annual budget submission of the President under section 1105(a) of title 31, United States Code, a dedicated budget line item for fielding operational energy improvements, including such improvements for which funds from the Operational Energy Capability Improvement Fund have been expended to create the operational and business case for broader employment."
+
+#### Report and Budget Details Regarding Operation Inherent Resolve
+
+Pub. L. 116–283, div. A, title XII, §1221(d), Jan. 1, 2021, 134 Stat. 3928, provided that:
+
+"(1)
+
+Report required.—At the same time as the submission of the budget of the President (as submitted to Congress pursuant to section 1105 of title 31, United States Code) for fiscal year 2022 and each fiscal year thereafter, the Secretary of Defense shall submit a report with accompanying budgetary details regarding Operation Inherent Resolve.
+
+"(2)
+
+Elements of report.—At a minimum, the report required by paragraph (1) shall include—
+
+&emsp;"(A)(i) for the first report, a history of the operation and its objectives; and
+
+&emsp;"(ii) for each subsequent report, a description of the operation and its objectives during the prior fiscal year;
+
+&emsp;"(B) a detailed description of the weapons and equipment purchased using the Counter-ISIS Train and Equip Fund in the prior fiscal year;
+
+&emsp;"(C) a list and description of activities and exercises carried out under the operation during the prior fiscal year;
+
+&emsp;"(D) a description of the purpose and goals of such activities and exercises and an assessment of the degree to which stated goals were achieved during the prior fiscal year;
+
+&emsp;"(E) a description of criteria used to judge the effectiveness of joint exercises and other efforts to build partner capacity under the operation during the prior fiscal year;
+
+&emsp;"(F) a description of the forces deployed under the operation, their deployment locations, and activities undertaken;
+
+&emsp;"(G) the information required under paragraph (3); and
+
+&emsp;"(H) any other matters the Secretary determines appropriate.
+
+"(3)
+
+Elements of budgetary details.—At a minimum, the budgetary details accompanying the report required by paragraph (1)—
+
+&emsp;"(A) shall include—
+
+&emsp;&emsp;"(i) a description of expenditures related to the operation for the fiscal year preceding the fiscal year of the budget covered by the report;
+
+&emsp;&emsp;"(ii) with respect to the amount requested for the operation in the budget covered by the report—
+
+&emsp;&emsp;&emsp;"(I) any significant change in methodology used to determine the budgetary details included in the report and the categories used to organize such details; and
+
+&emsp;&emsp;&emsp;"(II) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amount expended for the fiscal year preceding the fiscal year of the budget covered by the report; and
+
+&emsp;&emsp;"(iii) with respect to the estimated direct and indirect expenditures for the operation in the budget covered by the report—
+
+&emsp;&emsp;&emsp;"(I) detailed information on the estimated direct expenditures and indirect expenditures broken down by category (including with respect to operations, force protection, in-theater support, equipment reset and readiness, military construction, mobilization, incremental and total deployment costs, and exercises) and any additional accounts and categories the Secretary determines to be relevant; and
+
+&emsp;&emsp;&emsp;"(II) a description of the methodology and metrics used by the Secretary to define the contribution of indirect costs to the operation or an explanation of pro-rated amounts based on the level of support provided to the operation; and
+
+&emsp;"(B) may include a breakdown of expenditures and the amount requested for the operation in the budget covered by the report by line item, including with respect to procurement accounts, military personnel accounts, operation and maintenance accounts, research, development, test, and evaluation accounts, and military construction accounts.
+
+"(4)
+
+Form.—The report and accompanying budget details required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(5)
+
+Sunset.—The requirements of this subsection shall terminate on the date on which Operation Inherent Resolve (or a successor operation) concludes.
+
+"(6)
+
+Definitions.—In this subsection:
+
+&emsp;"(A) The term 'direct expenditures' means, with respect to amounts expended or estimated to be expended for Operation Inherent Resolve, amounts used directly for supporting counter-ISIS activities and missions.
+
+&emsp;"(B) The term 'indirect expenditures' means, with respect to amounts expended or estimated to be expended for Operation Inherent Resolve, amounts used for programs or activities that the Secretary of Defense determines enable the Armed Forces to carry out the operation."
+
+#### Report and Budget Details Regarding Operation Spartan Shield
+
+Pub. L. 116–283, div. A, title XII, §1225, Jan. 1, 2021, 134 Stat. 3931, provided that:
+
+"(a)
+
+Report Required.—At the same time as the submission of the budget of the President (as submitted to Congress pursuant to section 1105 of title 31, United States Code) for fiscal year 2022 and each fiscal year thereafter, the Secretary of Defense shall submit a report with accompanying budgetary details regarding Operation Spartan Shield.
+
+"(b)
+
+Elements of Report.—At a minimum, the report required by subsection (a) shall include—
+
+&emsp;"(1)(A) for the first report, a history of the operation and its objectives; and
+
+&emsp;"(B) for each subsequent report, a description of the operation and its objectives during the prior fiscal year;
+
+&emsp;"(2) a list and description of activities and exercises carried out under the operation during the prior fiscal year;
+
+&emsp;"(3) a description of the purpose and goals of such activities and exercises and an assessment of the degree to which stated goals were achieved during the prior fiscal year;
+
+&emsp;"(4) a description of criteria used to judge the effectiveness of joint exercises and other efforts to build partner capacity under the operation during the prior fiscal year;
+
+&emsp;"(5) a description of the forces deployed under the operation, their deployment locations, and activities undertaken;
+
+&emsp;"(6) the information required under subsection (c); and
+
+&emsp;"(7) any other matters the Secretary determines appropriate.
+
+"(c)
+
+Elements of Budgetary Details.—At a minimum, the budgetary details accompanying the report required by subsection (a)—
+
+&emsp;"(1) shall include—
+
+&emsp;&emsp;"(A) a description of expenditures related to the operation for the fiscal year preceding the fiscal year of the budget covered by the report;
+
+&emsp;&emsp;"(B) with respect to the amount requested for the operation in the budget covered by the report—
+
+&emsp;&emsp;&emsp;"(i) any significant change in methodology used to determine the budgetary details included in the report and the categories used to organize such details; and
+
+&emsp;&emsp;&emsp;"(ii) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amount expended for the fiscal year preceding the fiscal year of the budget covered by the report; and
+
+&emsp;&emsp;"(C) with respect to the estimated direct and indirect expenditures for the operation in the budget covered by the report—
+
+&emsp;&emsp;&emsp;"(i) detailed information on the estimated direct expenditures and indirect expenditures broken down by category (including with respect to operations, force protection, in-theater support, equipment reset and readiness, military construction, mobilization, incremental and total deployment costs, and exercises) and any additional accounts and categories the Secretary determines to be relevant; and
+
+&emsp;&emsp;&emsp;"(ii) a description of the methodology and metrics used by the Secretary to define the contribution of indirect costs to the operation or an explanation of pro-rated amounts based on the level of support provided to the operation; and
+
+&emsp;"(2) may include a breakdown of expenditures and the amount requested for the operation in the budget covered by the report by line item, including with respect to procurement accounts, military personnel accounts, operation and maintenance accounts, research, development, test, and evaluation accounts, and military construction accounts.
+
+"(d)
+
+Form.—The report and accompanying budget details required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+"(e)
+
+Sunset.—The requirements of this section shall terminate on the date on which Operation Spartan Shield (or a successor operation) concludes.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'direct expenditures' means, with respect to amounts expended or estimated to be expended for Operation Spartan Shield, amounts used directly for supporting deterrence activities and missions.
+
+&emsp;"(2) The term 'indirect expenditures' means, with respect to amounts expended or estimated to be expended for Operation Spartan Shield, amounts used for programs or activities that the Secretary of Defense determines enable the Armed Forces to carry out the operation."
+
 #### Budgeting of Department of Defense Relating to Extreme Weather
 
 Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, provided that:
@@ -458,11 +600,11 @@ Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provid
 
 #### Guidance on Budget Justification Materials Describing Funding Requested for Operation, Sustainment, Modernization, and Personnel of Major Ranges and Test Facilities
 
-Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, provided that:
+Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, as amended by Pub. L. 116–283, div. A, title XVIII, §1845(c)(6), Jan. 1, 2021, 134 Stat. 4247, provided that:
 
 "(a)
 
-Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test ResourceManagement Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
+Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
 
 &emsp;"(1) Operation.
 
@@ -481,6 +623,8 @@ Applicability.—The guidance issued under subsection (a) shall apply with respe
 "(c)
 
 Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in section 196(h) \[now 196(i)\] of title 10, United States Code."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(6), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 220(c) of Pub. L. 111–84, set out above, is amended by striking "section 196(h)" and inserting "sections 4173(i)".\]</i>
 
 #### Military Munitions Response Program and Installation Restoration Program
 
@@ -556,7 +700,7 @@ Pub. L. 110–181, div. A, title IX, §901(b), (c), Jan. 28, 2008, 122 Stat. 272
 
 #### Major Force Program Category for Space
 
-Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defenseshall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
+Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defense shall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -648,9 +792,11 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces' Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: "The budget of the President forfiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces' participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003."
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: "The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces' participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. C, title VIII, §8076, Dec. 27, 2020, 134 Stat. 1323.
 
 Pub. L. 116–93, div. A, title VIII, §8076, Dec. 20, 2019, 133 Stat. 2355.
 
@@ -724,7 +870,7 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested inthe budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies."
+Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies."
 
 Similar provisions were contained in the following prior appropriation acts:
 

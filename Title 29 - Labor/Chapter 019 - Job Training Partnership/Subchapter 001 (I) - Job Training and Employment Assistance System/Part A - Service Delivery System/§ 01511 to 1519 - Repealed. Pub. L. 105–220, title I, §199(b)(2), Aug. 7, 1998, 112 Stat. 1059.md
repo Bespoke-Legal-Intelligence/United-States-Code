@@ -16,7 +16,9 @@ Section 1517, Pub. L. 97–300, title I, §107, Oct. 13, 1982, 96 Stat. 1335; Pu
 
 Section 1518, Pub. L. 97–300, title I, §108, Oct. 13, 1982, 96 Stat. 1336; Pub. L. 97–404, §1(c), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(c), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 102–367, title I, §117, Sept. 7, 1992, 106 Stat. 1035, related to limitation on certain costs.
 
-Section 1519, Pub. L. 97–300, title I, §109, as added Pub. L. 102–367, title I, §118, Sept. 7, 1992, 106 Stat. 1036,related to recapture and reallotment of unobligated funds.
+Section 1519, Pub. L. 97–300, title I, §109, as added Pub. L. 102–367, title I, §118, Sept. 7, 1992, 106 Stat. 1036, related to recapture and reallotment of unobligated funds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

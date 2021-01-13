@@ -10,7 +10,7 @@ The benefits provided to an individual by the insurance program under this part 
 
 &emsp;(3) in the case of individuals not enrolled in part B, home health services, and in the case of individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness;
 
-&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during upto two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1); and
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1); and
 
 &emsp;(5) for individuals who are terminally ill, have not made an election under subsection (d)(1), and have not previously received services under this paragraph, services that are furnished by a physician (as defined in section 1395x(r)(1) of this title) who is either the medical director or an employee of a hospice program and that—
 
@@ -26,7 +26,7 @@ The benefits provided to an individual by the insurance program under this part 
 
 Payment under this part for services furnished an individual during a spell of illness may not (subject to subsection (c)) be made for—
 
-&emsp;(1) inpatient hospital services furnished to him during such spell after such services have been furnished to him for 150 days during such spell minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services furnished to him during such spell after such services have been furnished to him for 150 days during such spell minus 1 day for each day of inpatienthospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2) post-hospital extended care services furnished to him during such spell after such services have been furnished to him for 100 days during such spell; or
 
@@ -66,7 +66,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 #### (e) Services taken into account
 
-For purposes of subsections (b) and (c), inpatient hospital services, inpatient psychiatrichospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
+For purposes of subsections (b) and (c), inpatient hospital services, inpatient psychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
@@ -76,7 +76,7 @@ For purposes of subsections (b) and (c), inpatient hospital services, inpatient 
 
 &emsp;(A) for such limitations on the scope and extent of services described in subsection (a)(2)(B) and on the categories of individuals who may be eligible to receive such services, and
 
-&emsp;(B) notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictions and alternatives on the amounts and methods of payment for services described in such subsection,
+&emsp;(B) notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictionsand alternatives on the amounts and methods of payment for services described in such subsection,
 
 > as may be necessary to carry out paragraph (1).
 
@@ -160,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 97–248, §123(b), added subsec. (f) and redesignate
 
 Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
 
-Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
+Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during theone year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
 
 Subsec. (e). Pub. L. 96–499, §930(d), substituted "subsections (b) and (c)" for "subsections (b), (c), and (d)" and "and post-hospital extended care services" for "post-hospital extended care services, and post-hospital home health services".
 
@@ -210,7 +210,7 @@ Pub. L. 100–360, title I, §104(a), July 1, 1988, 102 Stat. 687, as amended by
 
 "(1)
 
-In general.—Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360,amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
+In general.—Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360, amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
 
 &emsp;"(A) to the inpatient hospital deductible for 1989 and succeeding years,
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983,see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -300,7 +300,7 @@ Pub. L. 108–173, title IV, §409, Dec. 8, 2003, 117 Stat. 2271, provided that:
 
 "(a)
 
-In General.—The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer bedswhich offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
+In General.—The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer beds which offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
 "(b)
 
@@ -330,15 +330,7 @@ Pub. L. 108–173, title IX, §953(d), Dec. 8, 2003, 117 Stat. 2428, provided th
 
 #### MedPAC Report on Access to, and Use of, Hospice Benefit
 
-Pub. L. 106–554, §1(a)(6) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–501, provided that:
-
-"(a)
-
-In General.—The Medicare Payment Advisory Commission shall conduct a study to examine the factors affecting the use of hospice benefits under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], including a delay in the time (relative to death) of entry into a hospice program, and differences in such use between urban and rural hospice programs and based upon the presenting condition of the patient.
-
-"(b)
-
-Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission deems appropriate."
+Pub. L. 106–554, §1(a)(6) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–501, required a study on the factors affecting the use of hospice benefits under the medicare program and a report on the study no later than 18 months after Dec. 21, 2000.
 
 #### Transition
 

@@ -64,6 +64,8 @@ June 29, 1936, ch. 858, title XI, §1103(e) (last sentence), as added Pub. L. 98
 
 46 App.:1275(a) (1st sentence parenthetical).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.

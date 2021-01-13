@@ -8,9 +8,11 @@
 
 &emsp;(2) participate in appropriate job training and educational programs (including literacy programs) and drug, alcohol, and other counseling programs.
 
-(c) An inmate who in the judgment of the Director of the Bureau of Prisons has successfully completed the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
+(c) An inmate who in the judgment of the Director of the Bureau of Prisons has successfullycompleted the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
 
 (Added Pub. L. 101–647, title XXX, §3001(a), Nov. 29, 1990, 104 Stat. 4915.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriations
 

@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting "50101" for "53101" in item V, adding item VI, substituting "SECURITY AND DRUG ENFORCEMENT" for "MISCELLANEOUS" in item VII, and adding item VIII.
@@ -1377,6 +1379,8 @@ Disposition Table<br>(Showing Disposition of Former Sections of Title 46 or Titl
 | 12106 note (Pub. L. 105–383, §§502–504) | 12121 |
 | 12119 note (Pub. L. 107–295, §403) | 12138 |
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clauses
 
 Pub. L. 100–710, title I, §102(a), Nov. 23, 1988, 102 Stat. 4738, provided that: "Certain general and permanent laws of the United States, related to definitions and maritime commercial instruments and liens, are revised, consolidated, and enacted by paragraph (3) of this subsection \[probably means subsection (c) of this section\] as subtitle III of title 46, United States Code, 'Shipping'."
@@ -1389,7 +1393,7 @@ Pub. L. 109–304, §2, Oct. 6, 2006, 120 Stat. 1485, provided that:
 
 "(a)
 
-Purpose.—The purpose of this Act \[see Tables for classification\] is to complete the codification of title 46, United States Code, "Shipping", as positive law, by reorganizing and restating the laws currently in the appendix to title 46.
+Purpose.—The purpose of this Act \[see Tables for classification\] is to complete the codification oftitle 46, United States Code, "Shipping", as positive law, by reorganizing and restating the laws currently in the appendix to title 46.
 
 "(b)
 
@@ -1483,7 +1487,7 @@ Title 46 provision.—The term 'title 46 provision' means a provision of title 4
 
 "(b)
 
-Cutoff Date.—The title 46 provisions replace certain provisions of law enacted before the date of the enactment of this Act \[Dec. 4, 2018\]. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 46 provision. If a law enacted after that date is otherwise inconsistent with a title 46 provision or a provision of this title, that law supersedes the title 46 provision or provision of this title to the extent of the inconsistency.
+Cutoff Date.—The title 46 provisions replace certain provisions of law enacted before the date of the enactment of this Act \[Dec. 4, 2018\]. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case maybe, the corresponding title 46 provision. If a law enacted after that date is otherwise inconsistent with a title 46 provision or a provision of this title, that law supersedes the title 46 provision or provision of this title to the extent of the inconsistency.
 
 "(c)
 

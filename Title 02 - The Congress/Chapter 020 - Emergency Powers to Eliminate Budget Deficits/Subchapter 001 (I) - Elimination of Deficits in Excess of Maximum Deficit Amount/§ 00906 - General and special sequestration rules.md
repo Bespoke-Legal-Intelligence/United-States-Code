@@ -36,7 +36,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (4) Timing of subsequent sequestration order
 
-&emsp;A sequestration order required by section 902 or 903 of this title with respect to programsunder such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+&emsp;A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
 
 #### (5) No increase in beneficiary charges in assignment-related cases
 
@@ -112,7 +112,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;&emsp;&emsp;(i) the elements of compensation of members of the uniformed services specified in section 1009 of title 37,
 
-&emsp;&emsp;&emsp;(ii) allowances provided members of the uniformed services under sections 403a and 475 of such title, and
+&emsp;&emsp;&emsp;(ii) allowances provided members of the uniformed services under sections 403a and 475 <sup>1</sup> of such title, and
 
 &emsp;&emsp;&emsp;(iii) cadet pay and midshipman pay under section 203(c) of such title.
 
@@ -146,9 +146,11 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;(A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act \[42 U.S.C. 1104(a)\]),
 
-&emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\], and
+&emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\],
 
-&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
+
+&emsp;(D) any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act \[45 U.S.C. 360\]) for the purpose of carrying out the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], and funds appropriated or transferred to or otherwise deposited in such Account,
 
 > shall not be subject to reduction.
 
@@ -170,7 +172,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may providefor reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -178,7 +180,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (5) Dairy program
 
-&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
+&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the dayany sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
 
 #### (6) Certain authority not to be limited
 
@@ -200,7 +202,13 @@ The effects of sequestration shall be as follows:
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
-(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, §235(a), (c), Dec. 27, 2020, 134 Stat. 1959.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 235(c) of Pub. L. 116–260, see Termination Date of 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -210,15 +218,21 @@ The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
+Section 475 of title 37, referred to in subsec. (g)(2)(B)(ii), was transferred to section 405 of title 37 by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
+
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
+The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
-This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
+This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(a), temporarily added subpar. (D). See Termination Date of 2020 Amendment note below.
 
 <b>2013</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
@@ -278,7 +292,7 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out "other than a trust 
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage."
 
-<b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
+<b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration ofjob opportunities and basic skills training program, and setting forth new allotment formula.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
@@ -349,6 +363,22 @@ Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted "Notwithstanding any ch
 Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an "existing contract" exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
 <b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective and Termination Dates of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §235(b), Dec. 27, 2020, 134 Stat. 1959, provided that: "The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) \[amending this section\]—
+
+&emsp;"(1) shall take effect 7 days after the date of the enactment of this Act \[Dec. 27, 2020\]; and
+
+&emsp;"(2) shall apply only to obligations incurred during the period beginning on the effective date described in paragraph (1) and ending on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates."
+
+\[For definition of "coronavirus" as used in section 235(b) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
+
+Pub. L. 116–260, div. N, title II, §235(c), Dec. 27, 2020, 134 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall be repealed on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared bythe President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates."
+
+\[For definition of "coronavirus" as used in section 235(c) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
 
 #### Effective Date of 2013 Amendment
 

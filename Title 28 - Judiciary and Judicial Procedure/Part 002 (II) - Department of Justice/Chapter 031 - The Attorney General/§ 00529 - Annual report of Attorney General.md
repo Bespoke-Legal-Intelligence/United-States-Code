@@ -24,15 +24,19 @@
 
 &emsp;&emsp;(C) all documentation necessary for conducting a full and proper audit under generally accepted accounting principles, and any (additional) documentation that may have been required under the grant, cooperative agreement, or contract, have been kept in orderly fashion and will be preserved for not less than 3 years from the date of such close out, termination, or end;
 
-> &emsp;except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federalparty shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
+> &emsp;except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federal party shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
 
 (Added Pub. L. 95–521, title VI, §603(a), Oct. 26, 1978, 92 Stat. 1874; amended Pub. L. 107–273, div. A, title II, §205(a), div. B, title IV, §4003(b)(3), Nov. 2, 2002, 116 Stat. 1777, 1811.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273, §205(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (b)(2). Pub. L. 107–273, §4003(b)(3), struck out "over $5,000,000" after "services contract" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

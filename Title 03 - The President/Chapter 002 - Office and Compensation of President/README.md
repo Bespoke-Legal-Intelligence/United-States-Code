@@ -20,11 +20,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–339, §4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
 
 <b>1978</b>—Pub. L. 95–570, §§1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 "Assistance and services for the President" for "Compensation of secretaries and executive, administrative, and staff assistants to President"; in item 106 "Assistance and services for the Vice President" for "Administrative assistants"; in item 107 "Domestic Policy Staff and Office of Administration; personnel" for "Detail of employees of executive departments to office of President"; in item 108 "Assistance to the President for unanticipated needs" for "Accommodations for vehicles"; and in item 109 "the Executive Residence at the White House" for "Executive Mansion"; inserted in item 110 "the Executive Residence at the" before "White House"; and added items 112, 113 and 114.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Executive Office Personnel Background Investigations; Leaves of Absence
 
@@ -43,6 +47,8 @@ In General.—Hereafter, the employment of any individual within the Executive O
 Exemption.—Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee."
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1977</b>
 
@@ -230,7 +236,7 @@ Much of the work done by the Office of Telecommunications Policy (OTP) can be mo
 
 I propose that the Economic Opportunity Council be discontinued; it is dormant and its only active function (preparation of the Catalogue of Federal Domestic Assistance) is being performed by OMB. Three other units are also inactive and should be discontinued: Council on International Economic Policy, the Federal Property Council, and the Energy Resources Council.
 
-The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinatesthe making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
+The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinates the making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
 
 The ten EOP units which will continue with some modification are:
 
@@ -370,7 +376,7 @@ Sec. 3. (a) The Office of Administration shall provide common administrative sup
 
 (6) any other administrative support or service which will achieve financial savings and increase efficiency through centralization of the supporting service.
 
-(c) Administrative support and services shall be provided to all units within the Executive Office of the President in a manner consistent with available funds and other resources, or in accord with Section 7 of the Act of May 21, 1920 (41 Stat. 613), as amended (31 U.S.C. 686, referred to as the Economy Act) \[31 U.S.C. 1535, 1536\].
+(c) Administrative support and services shall be provided to all units within the Executive Office of the President in a manner consistent with available funds and other resources, or in accord with Section 7 of theAct of May 21, 1920 (41 Stat. 613), as amended (31 U.S.C. 686, referred to as the Economy Act) \[31 U.S.C. 1535, 1536\].
 
 Sec. 4. (a) Subject to such direction or approval as the President may provide or require, the Director shall organize the Office of Administration, contract for supplies and services, and do all other things that the President, as head of the Office of Administration, might do.
 
@@ -386,7 +392,7 @@ Sec. 6. The records, property, personnel, and unexpended balances of appropriati
 
 Sec. 7. (a) The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
-(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director ofthe Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
+(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director of the Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -544,7 +550,7 @@ Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
+Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas andto coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
 
 Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Office of Urban Affairs (the "Office").
 
@@ -584,7 +590,7 @@ Sec. 4. <i>Coordination</i>. In performing its functions, the Office shall work 
 
 Sec. 5. <i>Administration</i>. (a) The Office may work with established or ad hoc committees, task forces, and interagency groups.
 
-(b) The Office shall have a staff headed by the Deputy Assistant to the President and Director of Urban Affairs (Director). The Director shall report jointly to the Assistant to the President for Intergovernmental Affairs and Public Liaison and to the Assistant to the President for Domestic Policy. The Office shall havesuch staff and other assistance as may be necessary to carry out the provisions of this order.
+(b) The Office shall have a staff headed by the Deputy Assistant to the President and Director of Urban Affairs (Director). The Director shall report jointly to the Assistant to the President for Intergovernmental Affairs and Public Liaison and to the Assistant to the President for Domestic Policy. The Office shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
 
 (c) All executive departments and agencies shall cooperate with the Office and provide such information, support, and assistance to the Office as the Director may request, to the extent permitted by law.
 

@@ -70,7 +70,7 @@ For purposes of this section, the term "total tax" means—
 
 &emsp;&emsp;The term "total gas guzzler tax" means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, §3, 69 Stat. 614; Pub. L. 85–859, title I, §117(a), Sept. 2, 1958, 72 Stat. 1280; Pub. L. 94–455, title XIX, §1904 (a)(3), Oct. 4, 1976, 90 Stat. 1811;Pub. L. 95–618, title II, §201(d), Nov. 9, 1978, 92 Stat. 3184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, §3, 69 Stat. 614; Pub. L. 85–859, title I, §117(a), Sept. 2, 1958, 72 Stat. 1280; Pub. L. 94–455, title XIX, §1904 (a)(3), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 95–618, title II, §201(d), Nov. 9, 1978, 92 Stat. 3184.)
 
 #### Amendments
 

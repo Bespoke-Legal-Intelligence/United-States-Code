@@ -6,7 +6,7 @@ The Secretary is authorized to acquire, and it is the intent of Congress that he
 
 #### (b) Establishment; notice in Federal Register
 
-When the Secretary determines that lands and waters or interests therein have been acquired by the United States in sufficient quantity to provide an administrative unit, he shall declarethe establishment of the Fire Island National Seashore by publication of notice in the Federal Register.
+When the Secretary determines that lands and waters or interests therein have been acquired by the United States in sufficient quantity to provide an administrative unit, he shall declare the establishment of the Fire Island National Seashore by publication of notice in the Federal Register.
 
 #### (c) Fair market value
 
@@ -50,7 +50,7 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 
 &emsp;(i) property within the Dune district referred to in subsection (g) of this section;
 
-&emsp;(ii) beach or waters and adjoining land within the exempt communities referred to in thefirst sentence of subsection (e) of this section; and <sup>1</sup>
+&emsp;(ii) beach or waters and adjoining land within the exempt communities referred to in the first sentence of subsection (e) of this section; and <sup>1</sup>
 
 &emsp;(iii) property within the eight-mile area described in the second sentence of subsection (e) of this section; and
 

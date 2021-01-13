@@ -96,7 +96,7 @@ Special Due Diligence Rule.—In carrying out the provisions of subsection (a)(5
 
 Subsecs. (d), (e). Pub. L. 102–325, §463(c)(2), added subsecs. (d) and (e).
 
-<b>1987</b>—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows:"a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;".
+<b>1987</b>—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows: "a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;".
 
 Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted "the Department of Defense educational loan repayment program (10 U.S.C. 2172)" for "section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note)".
 

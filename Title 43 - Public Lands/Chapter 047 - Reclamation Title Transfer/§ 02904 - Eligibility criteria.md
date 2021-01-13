@@ -14,7 +14,7 @@ The Secretary shall establish criteria for determining whether a facility is eli
 
 &emsp;&emsp;(B) to use the eligible facility for substantially the same purposes for which the eligible facility is being used at the time the Secretary evaluates the potential transfer; and
 
-&emsp;&emsp;(C) to provide, as consideration for the assets to be conveyed, compensation to the reclamation fund established by section 391 of this title, in an amount that is the equivalent of the net present value of any repayment obligation to the United States or other income stream that the United Statesderives from the eligible facility to be transferred, as of the date of the transfer.
+&emsp;&emsp;(C) to provide, as consideration for the assets to be conveyed, compensation to the reclamation fund established by section 391 of this title, in an amount that is the equivalent of the net present value of any repayment obligation to the United States or other income stream that the United States derives from the eligible facility to be transferred, as of the date of the transfer.
 
 #### (2) Determinations of Secretary
 
@@ -63,6 +63,8 @@ The Secretary shall establish criteria for determining whether a facility is eli
 No conveyance under this chapter shall adversely impact applicable Federal power rates, repayment obligations, or other project power uses.
 
 (Pub. L. 116–9, title VIII, §8004, Mar. 12, 2019, 133 Stat. 806.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

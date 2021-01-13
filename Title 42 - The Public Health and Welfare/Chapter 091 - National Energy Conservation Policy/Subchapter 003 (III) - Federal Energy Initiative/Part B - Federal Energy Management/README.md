@@ -7,7 +7,7 @@ Part B—Federal Energy Management
 
 - [&sect; 08251 - Findings](%C2%A7%2008251%20-%20Findings.md)
 - [&sect; 08252 - Purpose](%C2%A7%2008252%20-%20Purpose.md)
-- [&sect; 08253 - Energy management requirements](%C2%A7%2008253%20-%20Energy%20management%20requirements.md)
+- [&sect; 08253 - Energy and water management requirements](%C2%A7%2008253%20-%20Energy%20and%20water%20management%20requirements.md)
 - [&sect; 08254 - Establishment and use of life cycle cost methods and procedures](%C2%A7%2008254%20-%20Establishment%20and%20use%20of%20life%20cycle%20cost%20methods%20and%20procedures.md)
 - [&sect; 08255 - Budget treatment for energy conservation measures](%C2%A7%2008255%20-%20Budget%20treatment%20for%20energy%20conservation%20measures.md)
 - [&sect; 08256 - Incentives for agencies](%C2%A7%2008256%20-%20Incentives%20for%20agencies.md)

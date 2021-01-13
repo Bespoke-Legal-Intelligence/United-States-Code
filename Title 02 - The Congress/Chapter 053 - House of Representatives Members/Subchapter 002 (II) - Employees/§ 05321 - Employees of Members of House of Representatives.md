@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;(2) the term "intern" means, with respect to a Member of the House of Representatives, an individual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
 
-&emsp;(3) the term "part-time employee" means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assigned work schedule is not more than the equivalent of 15 full working days per month;
+&emsp;(3) the term "part-time employee" means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assignedwork schedule is not more than the equivalent of 15 full working days per month;
 
 &emsp;(4) the term "temporary employee" means, with respect to a Member of the House of Representatives, an individual who is employed for a specific purpose or task and who is employed for not more than 90 days in a 12-month period, except that the term of such employment may be extended with the written approval of the Committee on House Oversight; and
 
@@ -43,6 +43,8 @@ As used in this section—
 The Committee on House Oversight shall have authority to prescribe regulations to carry out this section.
 
 (Pub. L. 104–186, title I, §104, Aug. 20, 1996, 110 Stat. 1720; Pub. L. 105–55, title I, §104(a), Oct. 7, 1997, 111 Stat. 1183; Pub. L. 106–57, title I, §103(b), Sept. 29, 1999, 113 Stat. 416.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -57,6 +59,8 @@ Section is comprised of section 104 of Pub. L. 104–186. Subsec. (e)(1) of sect
 Subsec. (a). Pub. L. 106–57, §103(b)(1), struck out "clerk hire" before "employees" in two places in introductory provisions.
 
 <b>1997</b>—Subsec. (c)(2). Pub. L. 105–55 struck out "in the District of Columbia" after "office of the Member".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

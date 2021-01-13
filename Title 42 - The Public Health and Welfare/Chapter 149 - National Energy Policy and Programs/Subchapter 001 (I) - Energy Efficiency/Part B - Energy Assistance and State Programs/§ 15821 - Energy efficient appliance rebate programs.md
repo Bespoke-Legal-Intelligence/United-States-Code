@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Residential Energy Star product
 
-&emsp;The term "residential Energy Star product" means a product for a residence that is ratedfor energy efficiency under the Energy Star program.
+&emsp;The term "residential Energy Star product" means a product for a residence that is rated for energy efficiency under the Energy Star program.
 
 #### (4) State energy office
 

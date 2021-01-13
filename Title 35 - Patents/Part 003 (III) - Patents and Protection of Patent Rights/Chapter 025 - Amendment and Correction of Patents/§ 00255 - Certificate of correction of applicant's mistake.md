@@ -1,12 +1,14 @@
 ### §255. Certificate of correction of applicant's mistake
 
-Whenever a mistake of a clerical or typographical nature, or of minor character, which was not the fault of the Patent and Trademark Office, appears in a patent and a showing has been made that such mistake occurred in good faith, the Director may, upon payment of the required fee, issue a certificate of correction, if the correction does not involve such changes in the patent as would constitute new matter or would require re-examination. Such patent, together with the certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form.
+Whenever a mistake of a clerical or typographical nature, or of minor character, whichwas not the fault of the Patent and Trademark Office, appears in a patent and a showing has been made that such mistake occurred in good faith, the Director may, upon payment of the required fee, issue a certificate of correction, if the correction does not involve such changes in the patent as would constitute new matter or would require re-examination. Such patent, together with the certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form.
 
 (July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
 This section providing for the correction of minor clerical errors made by the applicant, is new and follows a similar provision in the trade-mark law, 15 U.S.C., 1946 ed., §1057(g).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -15,6 +17,8 @@ This section providing for the correction of minor clerical errors made by the a
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

@@ -24,7 +24,7 @@ There are authorized to be appropriated to the Department of the Interior during
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–653, §603(3), inserted "and for the payment of travel expenses under sections 460ss–2(j) and 460ss–3(i) of this title" before period at end of first sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–653, §603(3), inserted "and for the payment of travel expenses under sections460ss–2(j) and 460ss–3(i) of this title" before period at end of first sentence.
 
 Subsec. (b)(3). Pub. L. 100–653, §603(4), struck out "in carrying out surveys, censuses, and other scientific studies" after "volunteers".
 

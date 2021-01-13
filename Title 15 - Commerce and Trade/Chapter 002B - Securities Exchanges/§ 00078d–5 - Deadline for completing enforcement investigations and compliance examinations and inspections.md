@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the date on which Commission staff provide <sup>1</sup> a written Wells notification to any person, the Commission staff shall either file an action against such person or provide notice to the Director of the Division of Enforcement of its intent to not file an action.
+&emsp;Not later than 180 days after the date on which Commission staff provide <sup>1</sup> a written Wells notification to any person, the Commission staff shall either file an action againstsuch person or provide notice to the Director of the Division of Enforcement of its intent to not file an action.
 
 #### (2) Exceptions for certain complex actions
 

@@ -1,8 +1,12 @@
 ### §715. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 101–42, §2, June 28, 1989, 103 Stat. 91, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

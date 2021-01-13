@@ -10,6 +10,8 @@ Based on the following language contained in the Coast Guard appropriation act f
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2702 was renumbered section 4902 of this title.

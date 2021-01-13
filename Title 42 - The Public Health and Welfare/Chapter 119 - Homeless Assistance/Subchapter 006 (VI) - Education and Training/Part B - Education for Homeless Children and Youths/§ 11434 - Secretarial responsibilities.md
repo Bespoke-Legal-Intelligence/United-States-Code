@@ -24,7 +24,7 @@ The Secretary shall conduct evaluation, dissemination, and technical assistance 
 
 #### (e) Submission and distribution
 
-The Secretary shall require applications for grants under this part to be submitted to the Secretary not later than the expiration of the 120-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 180-day period beginning on such date.
+The Secretary shall require applications for grants under this part to be submitted to theSecretary not later than the expiration of the 120-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 180-day period beginning on such date.
 
 #### (f) Determination by Secretary
 
@@ -98,7 +98,7 @@ Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "J
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

@@ -24,7 +24,7 @@ Pillaging.—Any person subject to this chapter who intentionally and in the abs
 
 &emsp;(6)
 
-Denying quarter.—Any person subject to this chapter who, with effective command or control over subordinate groups, declares, orders, or otherwise indicates to those groups that there shall be no survivors or surrender accepted, with the intent to threaten an adversary or to conduct hostilities such thatthere would be no survivors or surrender accepted, shall be punished as a military commission under this chapter may direct.
+Denying quarter.—Any person subject to this chapter who, with effective command or control over subordinate groups, declares, orders, or otherwise indicates to those groups that there shall be no survivors or surrender accepted, with the intent to threaten an adversary or to conduct hostilities such that there would be no survivors or surrender accepted, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(7)
 
@@ -88,7 +88,7 @@ Murder in violation of the law of war.—Any person subject to this chapter who 
 
 &emsp;(16)
 
-Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violationof the law of war shall be punished as a military commission under this chapter may direct.
+Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall be punished as a military commission under this chapter may direct.
 
 &emsp;(17)
 
@@ -96,7 +96,7 @@ Using treachery or perfidy.—Any person subject to this chapter who, after invi
 
 &emsp;(18)
 
-Improperly using a flag of truce.—Any person subject to this chapter who uses a flag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
+Improperly using a flag of truce.—Any person subject to this chapter who uses aflag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
 
 &emsp;(19)
 
@@ -160,11 +160,11 @@ Effect of consummation.—Any person subject to this chapter may be convicted of
 
 &emsp;(29)
 
-Conspiracy.—Any person subject to this chapter who conspires to commit one or moresubstantive offenses triable by military commission under this subchapter, and who knowingly does any overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Conspiracy.—Any person subject to this chapter who conspires to commit one or more substantive offenses triable by military commission under this subchapter, and who knowingly does any overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(30)
 
-Solicitation.—Any person subject to this chapter who solicits or advises another or others to commit one or more substantive offenses triable by military commission under this chapter shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offense solicited or advised is not committed or attempted, shall be punished as a military commission under this chapter may direct.
+Solicitation.—Any person subject to this chapter who solicits or advises another or others to commit one or more substantive offenses triable by military commission under this chapter shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offensesolicited or advised is not committed or attempted, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(31)
 

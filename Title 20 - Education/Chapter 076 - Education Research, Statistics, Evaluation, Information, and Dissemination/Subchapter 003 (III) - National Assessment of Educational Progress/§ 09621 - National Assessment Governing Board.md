@@ -36,7 +36,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(M) Two parents who are not employed by a local, State or Federal educational agency.
 
-&emsp;&emsp;(N) Two additional members who are representatives of the general public, and who may be parents, but who are not employedby a local, State, or Federal educational agency.
+&emsp;&emsp;(N) Two additional members who are representatives of the general public, and who may be parents, but who are not employed by a local, State, or Federal educational agency.
 
 #### (2) Director of the Institute of Education Sciences
 
@@ -126,7 +126,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (5) Technical
 
-&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seek technical advice, as appropriate, from theCommissioner for Education Statistics and other experts.
+&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seek technical advice, as appropriate, from the Commissioner for Education Statistics and other experts.
 
 #### (6) Report
 

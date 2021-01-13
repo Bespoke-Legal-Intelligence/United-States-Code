@@ -20,11 +20,15 @@ Subsection (b) of the revised section was supplied to conform to sections 411 an
 
 This section corrects a grammatical error in subsection (a) of section 676 of title 28, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Subsec. (b). Act Oct. 31, 1951, inserted "of this title" in two places.
 
 <b>1949</b>—Subsec. (a). Act May 24, 1949, inserted "whom" between "printers" and "the Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

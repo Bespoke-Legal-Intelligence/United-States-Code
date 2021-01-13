@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690, title VII, §7101(c), Nov. 18, 1988, 102 Stat. 4415, added item 4106A.

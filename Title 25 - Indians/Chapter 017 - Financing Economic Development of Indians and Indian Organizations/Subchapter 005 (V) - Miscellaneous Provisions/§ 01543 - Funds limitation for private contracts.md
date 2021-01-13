@@ -1,8 +1,10 @@
 ### §1543. Funds limitation for private contracts
 
-For the purpose of entering into contracts pursuant to section 1542 of this title in fiscal year 1985, the Secretary is authorized to use not to exceed 6 percent of any funds appropriated forany fiscal year pursuant to section 1512 of this title. For fiscal year 1986 and for each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
+For the purpose of entering into contracts pursuant to section 1542 of this title in fiscal year 1985, the Secretary is authorized to use not to exceed 6 percent of any funds appropriated for any fiscal year pursuant to section 1512 of this title. For fiscal year 1986 and for each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
 
 (Pub. L. 93–262, title V, §503, Apr. 12, 1974, 88 Stat. 83; Pub. L. 98–449, §13, Oct. 4, 1984, 98 Stat. 1726.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -52,6 +52,8 @@ The Director may take, with respect to an undercapitalized regulated entity, any
 
 (Pub. L. 102–550, title XIII, §1365, Oct. 28, 1992, 106 Stat. 3978; Pub. L. 110–289, div. A, title I, §1143, July 30, 2008, 122 Stat. 2732.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1143(4)(B), added par. (1). Former par. (1) redesignated (2).
@@ -76,5 +78,5 @@ Subsec. (b)(2). Pub. L. 110–289, §1143(5)(C), struck out "make, in good faith
 
 Pub. L. 110–289, §1143(1), substituted "the regulated entity" for "the enterprise".
 
-Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
+Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning onthe date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
 

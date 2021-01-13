@@ -12,6 +12,8 @@ Section 10231 of this title shall apply with respect to—
 
 (Pub. L. 98–473, title II, §609Q, Oct. 12, 1984, 98 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 10505 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

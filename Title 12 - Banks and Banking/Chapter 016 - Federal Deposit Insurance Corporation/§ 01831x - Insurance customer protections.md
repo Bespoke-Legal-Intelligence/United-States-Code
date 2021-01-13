@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) apply to retail sales practices, solicitations, advertising, or offers of any insurance product by any depository institution or any person that is engaged in such activities at an office of the institution or on behalf of the institution; and
 
-&emsp;&emsp;(B) are consistent with the requirements of this chapter and provide such additionalprotections for customers to whom such sales, solicitations, advertising, or offers are directed.
+&emsp;&emsp;(B) are consistent with the requirements of this chapter and provide such additional protections for customers to whom such sales, solicitations, advertising, or offers are directed.
 
 #### (2) Applicability to subsidiaries
 
@@ -70,7 +70,7 @@ The regulations prescribed pursuant to subsection (a) shall include the followin
 
 #### (D) Meaningful disclosures
 
-&emsp;&emsp;Disclosures shall not be considered to be meaningfully provided under this paragraph if the institution or its representative states that disclosures required by this subsection were available to the customer in printed material available for distribution, where such printed material is not provided and such information is not orally disclosed to the customer.
+&emsp;&emsp;Disclosures shall not be considered to be meaningfully provided under this paragraphif the institution or its representative states that disclosures required by this subsection were available to the customer in printed material available for distribution, where such printed material is not provided and such information is not orally disclosed to the customer.
 
 #### (E) Adjustments for alternative methods of purchase
 
@@ -140,7 +140,7 @@ The regulations prescribed pursuant to subsection (a) shall include the followin
 
 #### (f) Consumer grievance process
 
-The Federal banking agencies shall jointly establish a consumer complaint mechanism, for receiving and expeditiously addressing consumer complaints alleging a violation of regulations issued under the section, which shall—
+The Federal banking agencies shall jointly establish a consumer complaint mechanism, forreceiving and expeditiously addressing consumer complaints alleging a violation of regulations issued under the section, which shall—
 
 &emsp;(1) establish a group within each regulatory agency to receive such complaints;
 
@@ -164,7 +164,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), insurance customer protection regulations prescribed by a Federal banking agency under this section shall not apply to retail sales, solicitations, advertising, or offers of any insurance product by any depository institution or to any person who is engaged insuch activities at an office of such institution or on behalf of the institution, in a State where the State has in effect statutes, regulations, orders, or interpretations, that are inconsistent with or contrary to the regulations prescribed by the Federal banking agencies.
+&emsp;&emsp;Except as provided in subparagraph (B), insurance customer protection regulations prescribed by a Federal banking agency under this section shall not apply to retail sales, solicitations, advertising, or offers of any insurance product by any depository institution or to any person who is engaged in such activities at an office of such institution or on behalf of the institution, in a State where the State has in effect statutes, regulations, orders, or interpretations, that are inconsistent with or contrary to the regulations prescribed by the Federal banking agencies.
 
 #### (B) Preemption
 

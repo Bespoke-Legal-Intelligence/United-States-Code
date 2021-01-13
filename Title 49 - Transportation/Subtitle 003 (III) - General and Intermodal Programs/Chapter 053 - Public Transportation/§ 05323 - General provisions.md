@@ -290,7 +290,7 @@ Grant Requirements.—The grant requirements under sections 5307, 5309, and 5337
 
 (p)
 
-Alternative Fueling Facilities.—A recipient of assistance under this chapter may allowthe incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
+Alternative Fueling Facilities.—A recipient of assistance under this chapter mayallow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
 
 &emsp;(1) the incidental use does not interfere with the recipient's public transportation operations;
 
@@ -376,7 +376,7 @@ Parties to executed contracts.—This subsection, including the certification re
 
 &emsp;&emsp;(B)
 
-Rolling stock.—Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection.
+Rolling stock.—Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturerfor the 2-year period beginning on or after the date of enactment of this subsection.
 
 &emsp;&emsp;(C)
 
@@ -600,7 +600,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is P
 
 The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of2012 Amendment notes under section 101 of Title 23, Highways.
 
 The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
@@ -674,7 +674,7 @@ Subsec. (p). Pub. L. 109–59, §3023(m), added subsec. (p).
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–178, §3020(a), substituted "Condition on Charter Bus Transportation Service" for "Buying and Operating Buses" in heading.
 
-Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment."
+Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that isattributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment."
 
 Subsec. (j)(7). Pub. L. 105–178, §3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: "Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted."
 

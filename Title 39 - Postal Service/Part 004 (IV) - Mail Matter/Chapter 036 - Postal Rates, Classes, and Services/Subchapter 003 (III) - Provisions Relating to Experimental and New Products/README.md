@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3207, substituted "PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS" for "TEMPORARY RATES AND CLASSES" in subchapter heading.

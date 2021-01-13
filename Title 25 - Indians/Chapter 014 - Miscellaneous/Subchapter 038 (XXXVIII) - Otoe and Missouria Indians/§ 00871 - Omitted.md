@@ -1,5 +1,7 @@
 ### §871. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 85–395, §1, May 9, 1958, 72 Stat. 105, which related to membership roll, was omitted from the Code as being of special and not general application.

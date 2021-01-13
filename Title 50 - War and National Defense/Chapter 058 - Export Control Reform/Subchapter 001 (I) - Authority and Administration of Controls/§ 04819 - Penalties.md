@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) No person may conspire or act in concert with one or more other persons in any manner or for any purpose to bring about or to do any act that constitutes a violation of this subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder.
 
-&emsp;&emsp;(E) No person may order, buy, remove, conceal, store, use, sell, loan, dispose of, transfer, transport, finance, forward, or otherwise service, in whole or in part, or conduct negotiations to facilitate such activities for, any item exported or to be exported from the United States, or that is otherwise subject to the Export Administration Regulations, with knowledge that a violation of this subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder, has occurred, is about to occur, or is intended to occur in connection with the item unless valid authorization is obtained therefor.
+&emsp;&emsp;(E) No person may order, buy, remove, conceal, store, use, sell, loan, dispose of, transfer, transport, finance, forward, or otherwise service, in whole or in part, or conduct negotiations to facilitate such activities for, any item exported or to be exported from the United States, or that is otherwise subject to the Export Administration Regulations, with knowledge that a violation ofthis subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder, has occurred, is about to occur, or is intended to occur in connection with the item unless valid authorization is obtained therefor.
 
 &emsp;&emsp;(F) No person may make any false or misleading representation, statement, or certification, or falsify or conceal any material fact, either directly to the Department of Commerce, or an official of any other United States agency, including the Department of Homeland Security and the Department of Justice, or indirectly through any other person—
 
@@ -82,7 +82,7 @@ A person who willfully commits, willfully attempts to commit, or willfully consp
 
 #### (2) Procedures
 
-&emsp;The procedures in any forfeiture under this subsection shall be governed by the procedures established under section 853 of title 21, other than subsection (d) of such section.
+&emsp;The procedures in any forfeiture under this subsection shall be governed by the proceduresestablished under section 853 of title 21, other than subsection (d) of such section.
 
 #### (e) Prior convictions
 

@@ -4,11 +4,15 @@ It shall be the duty of the Secretary of the Army to prescribe such rules and re
 
 (Aug. 11, 1888, ch. 860, §1, 25 Stat. 419; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from act Aug. 11, 1888, the River and Harbor Appropriation Act of 1888.
 
 In the original text the words "said reservoirs" appeared instead of "reservoirs at the headwaters of the Mississippi river." The provision from which this section is derived, however, followed an appropriation "for continuing operations upon the reservoirs at the headwaters of the Mississippi river."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

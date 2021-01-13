@@ -24,7 +24,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or thedate the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
 &emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
@@ -64,7 +64,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) Establishment and inspection
 
-&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition inwhich any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
+&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
 
 #### (2) Sanctions
 
@@ -78,7 +78,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (B) Continued compliance
 
-&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any action under subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
+&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any actionunder subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
 
 #### (C) Removal of assistance
 
@@ -116,6 +116,8 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 (Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 114–94, div. G, title LXXVII, §77001, Dec. 4, 2015, 129 Stat. 1790.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -130,7 +132,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–94 added subsec. (e).
 
-<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: "monthly rentcontributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
+<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: "monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
 
 &emsp;"(i) 30 percent of the adjusted income of the tenant; or
 
@@ -167,6 +169,8 @@ Subsec. (d)(2)(C)(ii). Pub. L. 102–550, §317(a)(4)(D), substituted "in defaul
 Subsec. (e). Pub. L. 102–550, §308(a), struck out subsec. (e) which read as follows: "(e)
 
 Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1994 Amendment
 

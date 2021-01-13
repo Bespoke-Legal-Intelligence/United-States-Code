@@ -18,7 +18,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 (1) Promotions into the Senior Foreign Service shall be recommended by selection boards only from among career members of the Service assigned to class 1 in the Foreign Service Schedule who request that they be considered for promotion into the Senior Foreign Service. The Secretary shall prescribe the length of the period after such a request is made (within any applicable time in class limitation established under section 4007(a) of this title) during which such members may be considered by selection boards for entry into the Senior Foreign Service. A request by a member for consideration for promotion into the Senior Foreign Service under this subsection may be withdrawn by the member, but if it is withdrawn, that member may not thereafter request consideration for promotion into the Senior Foreign Service.
 
-(2) Decisions by the Secretary on the numbers of individuals to be promoted into and retained in the Senior Foreign Service shall be based upon a systematic long-term projection of personnel flows and needs designed to provide—
+(2) Decisions by the Secretary on the numbers of individuals to be promoted into and retainedin the Senior Foreign Service shall be based upon a systematic long-term projection of personnel flows and needs designed to provide—
 
 &emsp;(A) a regular, predictable flow of recruitment in the Service;
 
@@ -62,9 +62,11 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 (Pub. L. 96–465, title I, §601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, §185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, §180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §326\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 114–291, §6, Dec. 16, 2016, 130 Stat. 1498; Pub. L. 114–323, title IV, §403, title VII, §715(b)(5), Dec. 16, 2016, 130 Stat. 1927, 1946.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2016</b>—Subsec. (c)(4). Pub. L. 114–323, §715(b)(5), struck out par. (4) which read as follows: "Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functionalexpertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements."
+<b>2016</b>—Subsec. (c)(4). Pub. L. 114–323, §715(b)(5), struck out par. (4) which read as follows: "Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements."
 
 Pub. L. 114–291 substituted "include a workforce plan" for "include the following:
 
@@ -86,6 +88,8 @@ Subsec. (c)(6). Pub. L. 114–323, §403, added par. (6).
 
 <b>1987</b>—Subsec. (c)(4). Pub. L. 100–204 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Reports Eliminated
 
 Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, which provided that reports required under section 4001(c)(4) of this title would not cover activities of the United States Information Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(5), Oct. 21, 1998, 112 Stat. 2681–790.
@@ -96,7 +100,7 @@ Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by P
 
 #### Foreign Service Promotion Panels
 
-Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: "It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
+Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, §1(b), Jan. 16, 2002, 115Stat. 2412, provided that: "It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
 &emsp;"(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the George P. Shultz National Foreign Affairs Training Center;
 

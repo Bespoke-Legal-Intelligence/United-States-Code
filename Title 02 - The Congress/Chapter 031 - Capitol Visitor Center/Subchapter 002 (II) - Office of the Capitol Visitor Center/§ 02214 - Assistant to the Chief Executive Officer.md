@@ -18,6 +18,8 @@ The Architect of the Capitol shall—
 
 (Pub. L. 110–437, title II, §204, Oct. 20, 2008, 122 Stat. 4988.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1807 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 110–437, title II, §204(b)(2), Oct. 20, 2008, 122 Stat. 4988.

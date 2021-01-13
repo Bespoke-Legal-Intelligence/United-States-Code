@@ -46,13 +46,13 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (3) Technical assistance manuals
 
-&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
+&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistancemanuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
 
 #### (d) Grants and contracts
 
 #### (1) In general
 
-&emsp;Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profitand no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
+&emsp;Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
 
 #### (2) Dissemination of information
 

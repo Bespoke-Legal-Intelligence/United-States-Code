@@ -32,13 +32,17 @@ Historical and Revision Notes
 
 Pub. L. 86–249, §20, as added Pub. L. 100–678, §5, Nov. 17, 1988, 102 Stat. 4050.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Par. (2). Pub. L. 111–350 substituted "sections 3105, 3301, and 3303 to 3305 of title 41" for "section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253)".
 
 <b>2007</b>—Pars. (3) to (6). Pub. L. 110–140 added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

@@ -2,11 +2,15 @@
 
 The purposes of this part are—
 
-&emsp;(1) to reduce hunger and food insecurity;
+&emsp;(1) to reduce hunger, food insecurity, and malnutrition;
 
 &emsp;(2) to promote socialization of older individuals; and
 
 &emsp;(3) to promote the health and well-being of older individuals by assisting such individuals to gain access to nutrition and other disease prevention and health promotion services to delay the onset of adverse health conditions resulting from poor nutritional health or sedentary behavior.
 
-(Pub. L. 89–73, title III, §330, as added Pub. L. 109–365, title III, §312, Oct. 17, 2006, 120 Stat. 2547.)
+(Pub. L. 89–73, title III, §330, as added Pub. L. 109–365, title III, §312, Oct. 17, 2006, 120 Stat. 2547; amended Pub. L. 116–131, title I, §106(2), Mar. 25, 2020, 134 Stat. 244.)
+
+#### Amendments
+
+<b>2020</b>—Par. (1). Pub. L. 116–131 substituted ", food insecurity, and malnutrition" for "and food insecurity".
 

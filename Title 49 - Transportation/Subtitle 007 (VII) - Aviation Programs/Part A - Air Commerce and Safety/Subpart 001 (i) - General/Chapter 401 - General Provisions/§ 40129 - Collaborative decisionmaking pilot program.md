@@ -56,7 +56,7 @@ Antitrust laws defined.—In this section, the term "antitrust laws" has the mea
 
 (i)
 
-Consultation With Attorney General.—The Secretary shall consult with the Attorney General regarding the design and implementation of the pilot program, including determining whether a limit should be set on the number of occasions collaborative decisionmaking could beemployed during the initial 2-year period of the pilot program.
+Consultation With Attorney General.—The Secretary shall consult with the Attorney General regarding the design and implementation of the pilot program, including determining whether a limit should be set on the number of occasions collaborative decisionmaking could be employed during the initial 2-year period of the pilot program.
 
 (j)
 

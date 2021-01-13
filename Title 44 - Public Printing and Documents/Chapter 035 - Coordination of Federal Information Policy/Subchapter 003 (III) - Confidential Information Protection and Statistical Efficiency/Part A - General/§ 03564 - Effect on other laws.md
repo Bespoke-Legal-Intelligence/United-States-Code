@@ -54,13 +54,17 @@ Authority of Congress.—Nothing in this subchapter shall be construed to affect
 
 (Added Pub. L. 115–435, title III, §302(a), Jan. 14, 2019, 132 Stat. 5547.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201 of the Congressional Budget Act of 1974, referred to in subsec. (e), is classified to section 601 of Title 2, The Congress.
 
 Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (h), is classified to section 6103 of Title 26, Internal Revenue Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Dateof 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.
 

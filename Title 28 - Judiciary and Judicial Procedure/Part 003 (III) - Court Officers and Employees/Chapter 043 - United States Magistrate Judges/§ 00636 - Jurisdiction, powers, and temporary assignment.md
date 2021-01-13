@@ -16,7 +16,7 @@
 
 &emsp;(A) a judge may designate a magistrate judge to hear and determine any pretrial matter pending before the court, except a motion for injunctive relief, for judgment on the pleadings, for summary judgment, to dismiss or quash an indictment or information made by the defendant, to suppress evidence in a criminal case, to dismiss or to permit maintenance of a class action, to dismiss for failure to state a claim upon which relief can be granted, and to involuntarily dismiss an action. A judge of the court may reconsider any pretrial matter under this subparagraph (A) where it has been shown that the magistrate judge's order is clearly erroneous or contrary to law.
 
-&emsp;(B) a judge may also designate a magistrate judge to conduct hearings, including evidentiary hearings, and to submit to a judge of the court proposed findings of fact and recommendations for the disposition, by a judge of the court, of any motion excepted in subparagraph (A), of applications for posttrial <sup>1</sup> relief made by individuals convicted of criminal offenses and of prisoner petitions challenging conditions of confinement.
+&emsp;(B) a judge may also designate a magistrate judge to conduct hearings, including evidentiary hearings, and to submit to a judge of the court proposed findings of fact and recommendations for the disposition, by a judge of the court, of any motion excepted in subparagraph (A), of applications for posttrial <sup>1</sup>relief made by individuals convicted of criminal offenses and of prisoner petitions challenging conditions of confinement.
 
 &emsp;(C) the magistrate judge shall file his proposed findings and recommendations under subparagraph (B) with the court and a copy shall forthwith be mailed to all parties.
 
@@ -90,9 +90,9 @@ Appeals of magistrate judge contempt orders.—The appeal of an order of contemp
 
 (g) A United States magistrate judge may perform the verification function required by section 4107 of title 18, United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109 of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
 
-(h) A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistratejudge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
+(h) A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate judge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
 
-(June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1113; Pub. L. 92–239, §§1, 2, Mar. 1, 1972, 86 Stat. 47; Pub. L. 94–577, §1, Oct. 21, 1976, 90 Stat. 2729; Pub. L. 95–144, §2, Oct. 28, 1977, 91 Stat. 1220; Pub. L. 96–82, §2, Oct. 10, 1979, 93 Stat. 643; Pub. L. 98–473, title II, §208, Oct. 12, 1984, 98 Stat. 1986; Pub. L. 98–620, title IV, §402(29)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–651, title II, §201(a)(2), Nov. 14, 1986, 100 Stat. 3647; Pub. L. 100–659, §4(c), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–690, title VII, §7322, Nov. 18, 1988, 102 Stat. 4467; Pub. L. 100–702, title IV, §404(b)(1), title X, §1014, Nov. 19, 1988, 102 Stat. 4651, 4669; Pub. L. 101–650, title III, §§308(a), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 104–317, title II, §§201, 202(b), 207, Oct. 19, 1996, 110 Stat. 3848–3850; Pub. L. 106–518, title II, §§202, 203(b), Nov. 13, 2000, 114 Stat. 2412, 2414; Pub. L. 107–273, div. B, title III, §3002(b), Nov. 2, 2002, 116 Stat. 1805; Pub. L. 109–63, §2(d), Sept. 9, 2005, 119 Stat. 1995; Pub. L. 111–16, §6(1), May 7, 2009, 123 Stat. 1608.)
+(June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1113; Pub. L. 92–239, §§1, 2, Mar. 1, 1972, 86 Stat. 47; Pub. L. 94–577, §1, Oct. 21, 1976, 90 Stat. 2729; Pub. L. 95–144, §2, Oct. 28, 1977, 91 Stat. 1220; Pub. L. 96–82, §2, Oct. 10, 1979, 93 Stat. 643; Pub. L. 98–473, title II, §208, Oct. 12, 1984, 98 Stat. 1986; Pub. L. 98–620, title IV, §402(29)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–651, title II, §201(a)(2), Nov. 14, 1986, 100 Stat. 3647; Pub. L. 100–659, §4(c), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–690, title VII, §7322, Nov. 18, 1988, 102 Stat. 4467; Pub. L. 100–702, title IV, §404(b)(1), title X, §1014, Nov. 19, 1988, 102 Stat. 4651, 4669; Pub. L. 101–650, title III, §§308(a), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub.L. 104–317, title II, §§201, 202(b), 207, Oct. 19, 1996, 110 Stat. 3848–3850; Pub. L. 106–518, title II, §§202, 203(b), Nov. 13, 2000, 114 Stat. 2412, 2414; Pub. L. 107–273, div. B, title III, §3002(b), Nov. 2, 2002, 116 Stat. 1805; Pub. L. 109–63, §2(d), Sept. 9, 2005, 119 Stat. 1995; Pub. L. 111–16, §6(1), May 7, 2009, 123 Stat. 1608.)
 
 #### Historical and Revision Notes
 
@@ -122,6 +122,8 @@ The authority to take depositions was included to conform to Federal Rules of Ci
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Rules of Criminal Procedure for the United States District Courts, referred to in subsecs. (a)(1) and (e)(2)–(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -142,7 +144,7 @@ Subsec. (e)(3). Pub. L. 107–273, §3002(b)(2), inserted "or both," after "fine
 
 "(4) the power to enter a sentence for a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction; and
 
-"(5) the power to enter a sentence for a class A misdemeanor, or a class B or C misdemeanor not coveredby paragraph (4), in a case in which the parties have consented."
+"(5) the power to enter a sentence for a class A misdemeanor, or a class B or C misdemeanor not covered by paragraph (4), in a case in which the parties have consented."
 
 Subsec. (e). Pub. L. 106–518, §202, amended subsec. (e) generally. Prior to amendment, subsec. (e) specified conduct before a magistrate judge which constituted contempt of court and prescribed procedure for adjudicating and punishing contempts.
 
@@ -154,7 +156,7 @@ Subsec. (c)(3). Pub. L. 104–317, §207(1)(A), substituted "The consent of the 
 
 Subsec. (c)(4) to (7). Pub. L. 104–317, §207(1)(B), (C), redesignated pars. (6) and (7) as (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
-"(4) Notwithstanding the provisions of paragraph (3) of this subsection, at the time of reference to a magistrate, the parties may further consent to appeal on the record to a judge of the district court in the same manner as on an appeal from a judgment of the district court to a court of appeals. Wherever possible the local rules of the district court and the rules promulgated by the conference shall endeavor to make such appeal inexpensive. The district court may affirm, reverse, modify, or remand the magistrate's judgment.
+"(4) Notwithstanding the provisions of paragraph (3) of this subsection, at the time of reference to a magistrate, the parties may further consent to appeal on the record to a judge of the district court in the same manner as on an appeal from a judgment of the districtcourt to a court of appeals. Wherever possible the local rules of the district court and the rules promulgated by the conference shall endeavor to make such appeal inexpensive. The district court may affirm, reverse, modify, or remand the magistrate's judgment.
 
 "(5) Cases in the district courts under paragraph (4) of this subsection may be reviewed by the appropriate United States court of appeals upon petition for leave to appeal by a party stating specific objections to the judgment. Nothing in this paragraph shall be construed to be a limitation on any party's right to seek review by the Supreme Court of the United States."
 
@@ -191,6 +193,8 @@ Subsecs. (d) to (g). Pub. L. 96–82, §2(1), redesignated former subsecs. (c) t
 Subsec. (e). Pub. L. 92–239, §1, added subsec. (e).
 
 <b>1968</b>—Pub. L. 90–578 substituted provisions declaratory of jurisdiction and powers of United States magistrates for prior provisions respecting rendition of accounts by United States commissioners.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

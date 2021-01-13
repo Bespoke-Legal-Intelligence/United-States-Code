@@ -60,7 +60,7 @@ Joint capability development.—In matters relating to joint capability developm
 
 &emsp;&emsp;(F) assessing joint military capabilities and identifying, approving, and prioritizing gaps in such capabilities to meet national defense strategies, pursuant to section 181 of this title; and
 
-&emsp;&emsp;(G) recommending to the Secretary appropriate trade-offs among life-cycle cost,schedule, performance, and procurement quantity objectives in the acquisition of materiel and equipment to support the strategic and contingency plans required by this paragraph in the most effective and efficient manner.
+&emsp;&emsp;(G) recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, performance, and procurement quantity objectives in the acquisition of materiel and equipment to support the strategic and contingency plans required by this paragraph in the most effective and efficient manner.
 
 &emsp;(6)
 
@@ -134,7 +134,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(ii) Identify and define the military strategic risks to United States interests and military risks in executing the National Military Strategy (or update).
 
-&emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes"significant" risk in the judgment of the Chairman.
+&emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes "significant" risk in the judgment of the Chairman.
 
 &emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
 
@@ -328,7 +328,7 @@ Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, prov
 
 #### Report of Chairman of Joint Chiefs of Staff on Roles and Missions of Armed Forces
 
-Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
+Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, anddirected the Chairman to include in the report comments and recommendations.
 
 #### Transition Provisions
 

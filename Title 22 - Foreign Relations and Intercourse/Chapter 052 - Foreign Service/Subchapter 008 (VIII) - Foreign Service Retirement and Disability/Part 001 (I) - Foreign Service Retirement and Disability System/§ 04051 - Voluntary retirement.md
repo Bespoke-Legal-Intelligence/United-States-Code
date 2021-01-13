@@ -4,9 +4,13 @@ Any participant who is at least 50 years of age and has 20 years of creditable s
 
 (Pub. L. 96–465, title I, §811, Oct. 17, 1980, 94 Stat. 2112; Pub. L. 100–238, title II, §216, Jan. 8, 1988, 101 Stat. 1774.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–238 inserted last two sentences relating to withholding consent to retirement and to certain participants who voluntarily separate from the Service before completing 5 years in the System.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

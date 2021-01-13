@@ -28,9 +28,11 @@ Historical and Revision Notes
 
 R.S. §1784.
 
-The application of the section is confined to employees, since the President and Members of Congress,though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
+The application of the section is confined to employees, since the President and Members of Congress, though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (c). Pub. L. 101–280, §4(a)(2), substituted "Each supervising ethics office (as defined in section 7353(d)(1))" for "The Office of Government Ethics" and "circumstances in which gifts are traditionally given or exchanged" for "similar circumstances".
 
 <b>1989</b>—Pub. L. 101–194 designated existing provisions as subsec. (a), struck out "An employee who violates this section shall be removed from the service." at end, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability to Transfers of Unused Accrued Annual Leave by Federal Employees; Exception
 

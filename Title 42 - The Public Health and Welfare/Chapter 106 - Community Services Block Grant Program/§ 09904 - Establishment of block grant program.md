@@ -1,6 +1,6 @@
 ### §9904. Establishment of block grant program
 
-The Secretary is authorized to establish a community services block grant program and make grants through the program to States to ameliorate the causes of poverty in communities within the States.
+The Secretary is authorized to establish a community services block grant program andmake grants through the program to States to ameliorate the causes of poverty in communities within the States.
 
 (Pub. L. 97–35, title VI, §675, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2730.)
 

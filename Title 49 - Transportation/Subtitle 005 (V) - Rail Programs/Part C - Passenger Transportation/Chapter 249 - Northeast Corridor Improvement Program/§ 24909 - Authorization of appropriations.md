@@ -8,7 +8,7 @@ General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary
 
 &emsp;(B) $30,000,000—
 
-&emsp;&emsp;(i) to improve the main line track between the Northeast Corridor main line and Atlantic City, New Jersey, to ensure that thetrack, consistent with a plan New Jersey developed in consultation with Amtrak to provide rail passenger transportation between the Northeast Corridor main line and Atlantic City, New Jersey, would be of sufficient quality to allow safe rail passenger transportation at a minimum of 79 miles an hour not later than September 30, 1985; and
+&emsp;&emsp;(i) to improve the main line track between the Northeast Corridor main line and Atlantic City, New Jersey, to ensure that the track, consistent with a plan New Jersey developed in consultation with Amtrak to provide rail passenger transportation between the Northeast Corridor main line and Atlantic City, New Jersey, would be of sufficient quality to allow safe rail passenger transportation at a minimum of 79 miles an hour not later than September 30, 1985; and
 
 &emsp;&emsp;(ii) to promote rail passenger use of the track.
 

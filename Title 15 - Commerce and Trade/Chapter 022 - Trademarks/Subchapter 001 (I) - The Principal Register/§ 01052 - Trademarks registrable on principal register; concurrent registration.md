@@ -2,9 +2,9 @@
 
 No trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration on the principal register on account of its nature unless it—
 
-(a) Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute; or a geographical indication which, when used on or in connection with wines or spirits, identifies a place other than the originof the goods and is first used on or in connection with wines or spirits by the applicant on or after one year after the date on which the WTO Agreement (as defined in section 3501(9) of title 19) enters into force with respect to the United States.
+(a) Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute; or a geographical indication which, when used on or in connection with wines or spirits, identifies a place other than the origin of the goods and is first used on or in connection with wines or spirits by the applicant on or after one year after the date on which the WTO Agreement (as defined in section 3501(9) of title 19) enters into force with respect to the United States.
 
-(b) Consists of or comprises the flag or coat of arms or other insignia of the United States, or of any State or municipality, or of any foreign nation, or any simulation thereof.
+(b) Consists of or comprises the flag or coat of arms or other insignia of the United States, orof any State or municipality, or of any foreign nation, or any simulation thereof.
 
 (c) Consists of or comprises a name, portrait, or signature identifying a particular living individual except by his written consent, or the name, signature, or portrait of a deceased President of the United States during the life of his widow, if any, except by the written consent of the widow.
 
@@ -32,7 +32,7 @@ Acts Feb. 20, 1905, ch. 592, §5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, §1, 34 
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–312, which directed substitution of "A mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be refused registration only pursuant to a proceeding brought under section 1063 ofthis title. A registration for a mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title." for last two sentences in subsec. (f) of this section, was executed by making the substitution for "A mark which when used would cause dilution under section 1125(c) of this title may be refused registration only pursuant to a proceeding brought under section 1063 of this title. A registration for a mark which when used would cause dilution under section 1125(c) of this title may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title." in concluding provisions of section to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–312, which directed substitution of "A mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be refused registration only pursuant to a proceeding brought under section 1063 of this title. A registration for a mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title." for last two sentences in subsec. (f) of this section, was executed by making the substitution for "A mark which when used would cause dilution under section 1125(c) of this title may be refused registration onlypursuant to a proceeding brought under section 1063 of this title. A registration for a mark which when used would cause dilution under section 1125(c) of this title may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title." in concluding provisions of section to reflect the probable intent of Congress.
 
 <b>1999</b>—Pub. L. 106–43 inserted concluding provisions.
 
@@ -76,19 +76,7 @@ Pub. L. 103–465, title V, §523, Dec. 8, 1994, 108 Stat. 4982, provided that: 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–182, title III, §335, Dec. 8, 1993, 107 Stat. 2116, provided that:
-
-"(a)
-
-In General.—Subject to subsections (b) and (c), the amendments made by this subtitle \[subtitle C (§§331–335) of title III of Pub. L. 103–182, enacting section 104A of Title 17, Copyrights, amending this section, section 1091 of this title, and section 104 of Title 35, Patents, and amending provisions set out as a note under section 109 of Title 17\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
-
-"(b)
-
-Section 331.—The amendments made by section 331 \[amending section 104 of Title 35\] shall apply to all patent applications that are filed on or after the date of the enactment of this Act \[Dec. 8, 1993\]: <i>Provided</i>, That an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a NAFTA country, except as provided in sections 119 and 365 of title 35, United States Code, that is earlier than the date of the enactment of this Act.
-
-"(c)
-
-Section 333.—The amendments made by section 333 \[amending this section and section 1091 of this title\] shall apply only to trademark applications filed on or after the date of the enactment of this Act."
+Pub. L. 103–182, title III, §335, Dec. 8, 1993, 107 Stat. 2116, which provided that the amendments made: (1) by sections 332, 334, and 335 of Pub. L. 103–182 took effect on the date NAFTA entered into force with respect to the United States (Jan. 1, 1994); (2) by section 331 of Pub. L. 103–182 applied to patent applications filed on or after Dec. 8, 1993; and (3) by section 333 of Pub. L. 103–182 applied only to trademark applications filed on or after Dec. 8, 1993, was repealed by Pub. L. 116–113,title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date of 1988 Amendment
 

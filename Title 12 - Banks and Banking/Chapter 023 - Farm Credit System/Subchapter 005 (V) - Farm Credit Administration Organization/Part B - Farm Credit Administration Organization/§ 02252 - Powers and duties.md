@@ -4,7 +4,7 @@
 
 The Farm Credit Administration shall have the following powers, functions, and responsibilities in connection with the institutions of the Farm Credit System and the administration of this chapter:
 
-&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm creditneeds of the country, as approved by the Board, with the concurrence of the district banks involved.
+&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm credit needs of the country, as approved by the Board, with the concurrence of the district banks involved.
 
 &emsp;(2) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
@@ -84,7 +84,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 #### (d) Legislative veto of regulations; procedures applicable
 
-(1) If there are any unresolved differences between the Farm Credit Administration and the Board of Governors of the Federal Reserve System as to whether any regulation implementing section 2128(b) of this title or the other provisions of subchapter III relating to the authority under section 2128(b) of this title conforms to national banking policies, objectives and limitations, simultaneously with promulgation of any such regulation under this chapter, and simultaneously with promulgation of any regulation implementing section 2015(b) of this title, the Farm Credit Administration shall transmit a copy thereof to the Secretary of the Senate and the Clerk of the House of Representatives. Except as provided in paragraph (2), the regulation shall not become effective if, within ninety calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: "That Congress disapproves the regulations promulgated by the Farm Credit Administration dealing with the matter of             , which regulation was transmitted to Congress on             ", the blank spaces therein being appropriately filled.
+(1) If there are any unresolved differences between the Farm Credit Administration and the Board of Governors of the Federal Reserve System as to whether any regulation implementing section 2128(b) of this title or the other provisions of subchapter III relating to the authorityunder section 2128(b) of this title conforms to national banking policies, objectives and limitations, simultaneously with promulgation of any such regulation under this chapter, and simultaneously with promulgation of any regulation implementing section 2015(b) of this title, the Farm Credit Administration shall transmit a copy thereof to the Secretary of the Senate and the Clerk of the House of Representatives. Except as provided in paragraph (2), the regulation shall not become effective if, within ninety calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: "That Congress disapproves the regulations promulgated by the Farm Credit Administration dealing with the matter of             , which regulation was transmitted to Congress on             ", the blank spaces therein being appropriately filled.
 
 (2) If at the end of sixty calendar days of continuous session of Congress after the date of promulgation of a regulation, no committee of either House of Congress has reported or been discharged from further consideration of a concurrent resolution disapproving the regulation, and neither House has adopted such a resolution, the regulation may go into effect immediately. If, within such sixty calendar days, such a committee has reported or been discharged from further consideration of such a resolution, or either House has adopted such a resolution, the regulation may go into effect not sooner than ninety calendar days of continuous session of Congress after its promulgation unless disapproved as provided in paragraph (1).
 
@@ -92,11 +92,13 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 &emsp;(i) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excludedin the computation of sixty and ninety calendar days of continuous session of Congress.
+&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of sixty and ninety calendar days of continuous session of Congress.
 
 (4) Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
 (Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174; Pub. L. 110–234, title V, §5407(b), (c)(1), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(b), (c)(1), June 18, 2008, 122 Stat. 1664, 1921, 1922; Pub. L. 115–334, title V, §5411(29), Dec. 20, 2018, 132 Stat. 4682.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -124,7 +126,7 @@ Subsec. (a)(13), (14). Pub. L. 102–552, §511, added pars. (13) and (14).
 
 <b>1991</b>—Subsec. (a)(8)(B)(ii). Pub. L. 102–237 struck out second period at end.
 
-<b>1990</b>—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: "Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph."
+<b>1990</b>—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: "Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>,That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph."
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §901(m)(1), substituted "district banks" for "district boards".
 
@@ -178,6 +180,8 @@ Pub. L. 100–399, §901(n), substituted "section 2015(b) of this title" for "se
 
 <b>1980</b>—Pub. L. 96–592 designated existing provisions as subsec. (a), in par. (3) inserted provisions relating to summary and analysis of reports, and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -188,7 +192,7 @@ Pub. L. 110–234, title V, §5407(d), May 22, 2008, 122 Stat. 1161, and Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which theamendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendments
 

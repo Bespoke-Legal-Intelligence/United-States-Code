@@ -4,7 +4,11 @@
 
 (1) The administrator of any employee benefit plan subject to this part shall file with the Secretary the annual report for a plan year within 210 days after the close of such year (or within such time as may be required by regulations promulgated by the Secretary in order to reduce duplicative filing). The Secretary shall make copies of such annual reports available for inspection in the public document room of the Department of Labor.
 
-(2)(A) With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.
+(2)(A) With respect to annual reports required to be filed with the Secretary under this part, the Secretary may by regulation prescribe simplified annual reports for any pension plan that—
+
+&emsp;(i) covers fewer than 100 participants; or
+
+&emsp;(ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.
 
 (B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
@@ -42,7 +46,7 @@ Publication of the summary plan descriptions and annual reports shall be made to
 
 > The administrator shall furnish to each participant, and each beneficiary receiving benefits under the plan, every fifth year after the plan becomes subject to this part an updated summary plan description described in section 1022 of this title which integrates all plan amendments made within such five-year period, except that in a case where no amendments have been made to a plan during such five-year period this sentence shall not apply. Notwithstanding the foregoing, the administrator shall furnish to each participant, and to each beneficiary receiving benefits under the plan, the summary plan description described in section 1022 of this title every tenth year after the plan becomes subject to this part. If there is a modification or change described in section 1022(a) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title)), a summary description of such modification or change shall be furnished not later than 210 days after the end of the plan year in which the change is adopted to each participant, and to each beneficiary who is receiving benefits under the plan. If there is a modification or change described in section 1022(a) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits.
 
-(2) The administrator shall make copies of the latest updated summary plan description andthe latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in such other places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribe by regulations).
+(2) The administrator shall make copies of the latest updated summary plan description and the latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in such other places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribe by regulations).
 
 (3) Within 210 days after the close of the fiscal year of the plan, the administrator (other than an administrator of a defined benefit plan to which the requirements of section 1021(f) of this title applies) <sup>1</sup> shall furnish to each participant, and to each beneficiary receiving benefits under the plan, a copy of the statements and schedules, for such fiscal year, described in subparagraphs (A) and (B) of section 1023(b)(3) of this title and such other material (including the percentage determined under section 1023(d)(11) of this title) as is necessary to fairly summarize the latest annual report.
 
@@ -66,7 +70,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;(C) a list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year;
 
-&emsp;&emsp;(D) the number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years;
+&emsp;&emsp;(D) the number of participants under the plan on whose behalf no contributions weremade by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years;
 
 &emsp;&emsp;(E) whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so, include—
 
@@ -100,17 +104,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 (Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 109–280, title V, §§503(c)(1), (d), 504(a), Aug. 17, 2006, 120 Stat. 943–945; Pub. L. 110–458, title I, §105(c)(1), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 116–94, div. O, title I, §101(d)(2), Dec. 20, 2019, 133 Stat. 3145.)
 
-#### Amendment of Subsection (a)(2)(A)
-
-<i>Pub. L. 116–94, div. O, title I, §101(d)(2), (e), Dec. 20, 2019, 133 Stat. 3145, provided that, applicable to plan years beginning after Dec. 31, 2020, subsection (a) of this section is amended by striking paragraph (2)(A) and inserting the following:</i>
-
-<i>(2)(A) With respect to annual reports required to be filed with the Secretary under this part, the Secretary may by regulation prescribe simplified annual reports for any pension plan that—</i>
-
-&emsp;<i>(i) covers fewer than 100 participants; or</i>
-
-&emsp;<i>(ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.</i>
-
-<i>See 2019 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -151,6 +145,8 @@ Subsec. (b)(1). Pub. L. 101–239, §7894(b)(4), struck out comma after "summary
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–203 inserted "(including the percentage determined under section 1023(d)(11) of this title)" after "material".
 
 <b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of section 1023(d)(6) of this title if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under section 1023(d)(6) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

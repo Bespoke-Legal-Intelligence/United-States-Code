@@ -30,9 +30,13 @@
 
 (Added Pub. L. 102–405, title I, §105(b)(1), Oct. 9, 1992, 106 Stat. 1975.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 543 was renumbered section 1543 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

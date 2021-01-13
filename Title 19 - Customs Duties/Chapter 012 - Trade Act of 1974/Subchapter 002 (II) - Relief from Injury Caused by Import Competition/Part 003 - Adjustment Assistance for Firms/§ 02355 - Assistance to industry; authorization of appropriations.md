@@ -8,7 +8,7 @@ The Secretary may provide technical assistance, on such terms and conditions as 
 
 Expenditures for technical assistance under this section may be up to $10,000,000 annually per industry and shall be made under such terms and conditions as the Secretary deems appropriate.
 
-(Pub. L. 93–618, title II, §262, formerly §265, as added Pub. L. 97–35, title XXV, §2527, Aug. 13, 1981, 95 Stat. 893; amended Pub. L. 98–369, div. B, title VI, §2673, July 18, 1984, 98 Stat. 1172; renumbered §262, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125Stat. 403, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §262, formerly §265, as added Pub. L. 97–35, title XXV, §2527, Aug. 13, 1981, 95 Stat. 893; amended Pub. L. 98–369, div. B, title VI, §2673, July 18, 1984, 98 Stat. 1172; renumbered §262, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Renumbering of Section
 

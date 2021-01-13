@@ -28,6 +28,8 @@ Historical and Revision Notes
 
 46:12110(d).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "command" for "commmand".

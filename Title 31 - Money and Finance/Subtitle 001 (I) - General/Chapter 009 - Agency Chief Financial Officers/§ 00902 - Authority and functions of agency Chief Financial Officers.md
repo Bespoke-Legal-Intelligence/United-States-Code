@@ -62,7 +62,7 @@
 
 &emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
 
-&emsp;(B) may request such information or assistance as may be necessary for carrying out theduties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
+&emsp;(B) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
 
 &emsp;(C) to the extent and in such amounts as may be provided in advance by appropriations Acts, may—
 
@@ -73,6 +73,8 @@
 (2) Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under the Inspector General Act of 1978 (5 U.S.C. App.).
 
 (Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2843.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

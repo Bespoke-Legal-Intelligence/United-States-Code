@@ -1,5 +1,7 @@
 Part A—Information and Analysis; Access to Information
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 115–278, §2(g)(2)(B), Nov. 16, 2018, 132 Stat. 4177, struck out "and Infrastructure Protection" after "Information and Analysis" in part heading.
@@ -29,6 +31,7 @@ Pub. L. 110–53, title V, §531(b)(3), Aug. 3, 2007, 121 Stat. 334, substituted
 - [&sect; 00124k - Interagency Threat Assessment and Coordination Group](%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md)
 - [&sect; 00124l - Transferred](%C2%A7%2000124l%20-%20Transferred.md)
 - [&sect; 00124m - Classified Information Advisory Officer](%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md)
+- [&sect; 00124m&#8211;1 - Departmental coordination on counter threats](%C2%A7%2000124m%E2%80%931%20-%20Departmental%20coordination%20on%20counter%20threats.md)
 - [&sect; 00124n - Protection of certain facilities and assets from unmanned aircraft](%C2%A7%2000124n%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md)
 - [&sect; 00125 - Annual report on intelligence activities of the Department of Homeland Security](%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md)
 - [&sect; 00126 - Department of Homeland Security data framework](%C2%A7%2000126%20-%20Department%20of%20Homeland%20Security%20data%20framework.md)

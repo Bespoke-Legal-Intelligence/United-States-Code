@@ -20,7 +20,7 @@ In this subtitle—
 
 &emsp;(5) "consideration" means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
 
-&emsp;(6) "crude oil" means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil fromwhich certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
+&emsp;(6) "crude oil" means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil from which certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
 
 &emsp;(7) "crude oil tanker" means a tanker engaged in the trade of carrying crude oil.
 
@@ -146,7 +146,7 @@ In this subtitle—
 
 &emsp;&emsp;&emsp;(iv) a sailing school instructor or sailing school student.
 
-&emsp;(30) "passenger for hire" means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
+&emsp;(30) "passenger for hire" means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner,charterer, operator, agent, or any other person having an interest in the vessel.
 
 &emsp;(31) "passenger vessel" means a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -425,7 +425,9 @@ Section 2101(44) defines "United States" to establish geographical boundaries fo
 
 Section 2101(45) makes it clear that "vessel" as used in this subtitle has the same meaning as is provided in section 3 of title 1, of the U.S.C.
 
-Section 2101(46) defines "vessel of the United States" as a vessel that is documented or numbered under the laws of the United States. A documented vessel andthose vessels that are numbered by a State or Federal authority are afforded the protection of the laws of the United States.
+Section 2101(46) defines "vessel of the United States" as a vessel that is documented or numbered under the laws of the United States. A documented vessel and those vessels that are numbered by a State or Federal authority are afforded the protection of the laws of the United States.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -579,6 +581,8 @@ Par. (21)(E). Pub. L. 98–364, §402(1)(C), added subpar. (E).
 
 Par. (27). Pub. L. 98–557, §34(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(9) is effective with the enactment of Pub. L. 111–281.
@@ -605,6 +609,108 @@ Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions a
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Towing Vessels Operating Outside Boundary Line
+
+Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8402, Jan. 1, 2021, 134 Stat. 4720, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Boundary Line' has the meaning given the term in section 103 of title 46, United States Code;
+
+&emsp;"(2) the term 'Officer in Charge, Marine Inspection' has the meaning given the term in section 3305(d)(4) of title 46, United States Code; and
+
+&emsp;"(3) the term 'Secretary' means the Secretary of the Department in which the Coast Guard is operating.
+
+"(b)
+
+Interim Exemption.—A towing vessel described in subsection (c) and a response vessel included on a vessel response plan are exempt from any additional requirements of subtitle II of title 46, United States Code, and chapter I of title 33 and chapter I of title 46, Code of Federal Regulations (as in effect on the date of the enactment of this Act \[Jan. 1, 2021\]), that would result solely from such vessel operating outside the Boundary Line, if—
+
+&emsp;"(1) the vessel is—
+
+&emsp;&emsp;"(A) operating outside the Boundary Line solely to perform regular harbor assist operations; or
+
+&emsp;&emsp;"(B) listed as a response vessel on a vessel response plan and is operating outside the Boundary Line solely to perform duties of a response vessel;
+
+&emsp;"(2) the vessel is approved for operations outside the Boundary Line by the Officer in Charge, Marine Inspection and the Coast Guard Marine Safety Center; and
+
+&emsp;"(3) the vessel has sufficient manning and lifesaving equipment for all persons on board, in accordance with part 15 and section 141.225 of title 46, Code of Federal Regulations (or any successor regulation).
+
+"(c)
+
+Applicability.—This section applies to a towing vessel—
+
+&emsp;"(1) that is subject to inspection under chapter 33 of title 46, United States Code, and subchapter M of chapter I of title 46, Code of Federal Regulations (or any successor regulation);
+
+&emsp;"(2) with only 'Lakes, Bays, and Sounds' or 'Rivers' routes recorded on such vessel's certificate of inspection pursuant to section 136.230 of title 46, Code of Federal Regulations (or any successor regulation);
+
+&emsp;"(3) that, with respect to a vessel described in subsection (b)(1)(A), is operating as a harbor assist vessel and regularly engaged in harbor assist operations, including the docking, undocking, mooring, unmooring, and escorting of vessels with limited maneuverability; and
+
+&emsp;"(4) that, with respect to a vessel that is described in subsection (b)(1)(B), is listed—
+
+&emsp;&emsp;"(A) on a vessel response plan under part 155 of title 33, Code of Federal Regulations, on the date of approval of the vessel response plan; or
+
+&emsp;&emsp;"(B) by name or reference in the vessel response plan's geographic-specific appendix on the date of approval of the vessel response plan.
+
+"(d)
+
+Limitations.—A vessel exempted under subsection (b) is subject to the following operating limitations:
+
+&emsp;"(1) The voyage of a vessel described in subsection (b)(1)(A) shall—
+
+&emsp;&emsp;"(A) be less than 12 hours in total duration;
+
+&emsp;&emsp;"(B) originate and end in the inspection zone of a single Officer in Charge, Marine Inspection; and
+
+&emsp;&emsp;"(C) occur no further than 10 nautical miles from the Boundary Line.
+
+&emsp;"(2) The voyage of a vessel described in subsection (b)(1)(B) shall—
+
+&emsp;&emsp;"(A) originate and end in the inspection zone of a single Officer in Charge, Marine Inspection; and
+
+&emsp;&emsp;"(B) either—
+
+&emsp;&emsp;&emsp;"(i) in the case of a voyage in the territorial waters of Alaska, Guam, Hawaii, American Samoa, and the Northern Mariana Islands, have sufficient manning as determined by the Secretary; or
+
+&emsp;&emsp;&emsp;"(ii) be less than 12 hours.
+
+"(e)
+
+Safety.—
+
+&emsp;"(1)
+
+Safety restrictions.—The Officer in Charge, Marine Inspection for an inspection zone may restrict operations under the interim exemption provided under subsection (b) for safety purposes.
+
+&emsp;"(2)
+
+Comprehensive lists.—The Officer in Charge, Marine Inspection for an inspection zone shall maintain and periodically update a comprehensive list of all towing vessels described in subsection (c) that operate in the inspection zone.
+
+&emsp;"(3)
+
+Notification.—Not later than 24 hours prior to intended operations outside of the Boundary Line, a towing vessel exempted under subsection (b) shall notify the Office in Charge, Marine Inspection for the inspection zone of such operations. Such notification shall include—
+
+&emsp;&emsp;"(A) the date, time, and length of voyage;
+
+&emsp;&emsp;"(B) a crew list, with each crew member's credentials and work hours; and
+
+&emsp;&emsp;"(C) an attestation from the master of the towing vessel that the vessel has sufficient manning and lifesaving equipment for all persons on board.
+
+"(f)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act, the Commandant of theCoast Guard shall brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives regarding the following:
+
+&emsp;"(1) The impacts of the interim exemption provided under this section.
+
+&emsp;"(2) Any safety concerns regarding the expiration of such interim exemption.
+
+&emsp;"(3) Whether such interim exemption should be extended.
+
+"(g)
+
+Termination.—The interim exemption provided under subsection (b) shall terminate on the date that is 2 years after the date of the enactment of this Act."
+
 #### Fishing and Fish Tender Vessels
 
 Pub. L. 103–206, title III, §321, Dec. 20, 1993, 107 Stat. 2427, provided that:
@@ -623,7 +729,7 @@ Pub. L. 103–206, title V, §513, Dec. 20, 1993, 107 Stat. 2443, provided that:
 
 "(a)
 
-Applicability Date for Certain Chartered Vessels.—Revised regulations governing small passenger vessels and passenger vessels (as the definitions of those terms in section 2101 of title 46, United States Code, are amended by this Act) shall not, before thedate that is 6 months after the date of enactment of this Act \[Dec. 20, 1993\], apply to such vessels when chartered with no crew provided.
+Applicability Date for Certain Chartered Vessels.—Revised regulations governing small passenger vessels and passenger vessels (as the definitions of those terms in section 2101 of title 46, United States Code, are amended by this Act) shall not, before the date that is 6 months after the date of enactment of this Act \[Dec. 20, 1993\], apply to such vessels when chartered with no crew provided.
 
 "(b)
 

@@ -4,9 +4,13 @@ The Secretary of the Treasury shall instruct the United States executive directo
 
 (July 31, 1945, ch. 339, §29, as added Pub. L. 95–435, §3, Oct. 10, 1978, 92 Stat. 1052; amended Pub. L. 96–389, §5, Oct. 7, 1980, 94 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–389 struck out "on the use of the facility" after "Monetary Fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

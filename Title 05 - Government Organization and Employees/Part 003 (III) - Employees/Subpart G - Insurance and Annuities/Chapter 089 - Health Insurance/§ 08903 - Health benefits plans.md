@@ -24,7 +24,7 @@ Group-practice prepayment plans.—Group-practice prepayment plans which offer h
 
 &emsp;&emsp;(B)
 
-Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients' homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
+Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients' homes, out-of-hospital diagnostic procedures, and preventive care, and whichplans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
 &emsp;&emsp;(C)
 
@@ -52,6 +52,8 @@ July 8, 1963, Pub. L. 88–59, §1(b), 77 Stat. 77.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (1). Pub. L. 105–266 substituted "plan, which may be underwritten by participating affiliates licensed in any number of States," for "plan,".
@@ -67,6 +69,8 @@ Par. (4)(C). Pub. L. 99–251, §111, added subpar. (C).
 <b>1984</b>—Par. (1). Pub. L. 98–615, §3(3), substituted "employees, annuitants, members of their families, or former spouses" for "employees or annuitants, or members of their families" and "employee, annuitant, family member, or former spouse" for "employee or annuitant or member of his family".
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -16,11 +16,15 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1984</b>—Pub. L. 98–216 substituted "one-cent and 5-cent coins minted" for "minor coins coined".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

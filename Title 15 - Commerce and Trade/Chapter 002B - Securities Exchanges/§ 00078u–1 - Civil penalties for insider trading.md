@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
-&emsp;&emsp;(B) may, subject to subsection (b)(1), bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
+&emsp;&emsp;(B) may, subject to subsection (b)(1), bring an action in a United States district court toseek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
 
 #### (2) Amount of penalty for person who committed violation
 
@@ -92,7 +92,7 @@ The authority of the Commission under this section with respect to security-base
 
 #### (1) In general
 
-&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Governmentand the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
+&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Government and the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
 
 #### (2) Definitions
 
@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(l)\], added subsec.
 
 Amendment by section 923(b)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Amendment by section 762(d)(7) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, notless than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by section 762(d)(7) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -50,7 +50,7 @@ If no proceeding under section 6234 is begun with respect to any notice of a fin
 
 &emsp;&emsp;(A) section 6621(a)(2)(B) shall be applied by substituting "5 percentage points" for "3 percentage points" with respect to such amount, and
 
-&emsp;&emsp;(B) the Secretary may assess upon each partner of the partnership (determined as of the close of the adjustment year or, if thepartnership has ceased to exist as of such time, the former partners of the partnership as determined for purposes of section 6241(7)) a tax equal to such partner's proportionate share of such amount (including any such interest or penalties, determined after application of subparagraph (A)).
+&emsp;&emsp;(B) the Secretary may assess upon each partner of the partnership (determined as of the close of the adjustment year or, if the partnership has ceased to exist as of such time, the former partners of the partnership as determined for purposes of section 6241(7)) a tax equal to such partner's proportionate share of such amount (including any such interest or penalties, determined after application of subparagraph (A)).
 
 #### (2) Specified similar amount
 

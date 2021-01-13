@@ -152,7 +152,7 @@ In general.—A State may designate a public road within the borders of the Stat
 
 &emsp;(2)
 
-Limitation.—A State may designate as critical rural freight corridors a maximum of150 miles of highway or 20 percent of the primary highway freight system mileage in the State, whichever is greater.
+Limitation.—A State may designate as critical rural freight corridors a maximum of 150 miles of highway or 20 percent of the primary highway freight system mileage in the State, whichever is greater.
 
 (f)
 
@@ -184,7 +184,7 @@ Requirements for designation.—A designation may be made under paragraph (1) or
 
 &emsp;&emsp;(iii) serves a major freight generator, logistic center, or manufacturing and warehouse industrial land; or
 
-&emsp;&emsp;(iv) is important to the movement of freight within the region, as determined by the metropolitan planning organization or the State.
+&emsp;&emsp;(iv) is important to the movement of freight within the region, as determined bythe metropolitan planning organization or the State.
 
 &emsp;(4)
 
@@ -368,7 +368,9 @@ Operating standards.—The Administrator shall determine whether there is a need
 
 Treatment of Freight Projects.—Notwithstanding any other provision of law, a freight project carried out under this section shall be treated as if the project were on a Federal-aid highway.
 
-(Added Pub. L. 112–141, div. A, title I, §1115(a), July 6, 2012, 126 Stat. 468; amended Pub. L.114–94, div. A, title I, §1116(a), Dec. 4, 2015, 129 Stat. 1349.)
+(Added Pub. L. 112–141, div. A, title I, §1115(a), July 6, 2012, 126 Stat. 468; amended Pub. L. 114–94, div. A, title I, §1116(a), Dec. 4, 2015, 129 Stat. 1349.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -377,6 +379,8 @@ The date of enactment of the FAST Act, referred to in subsecs. (d)(1), (2)(A), (
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to national freight policy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

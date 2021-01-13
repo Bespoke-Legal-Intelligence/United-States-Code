@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall review the education programs of the Foundation that are in operationas of December 19, 2002, to determine whether any of such programs duplicate the programs authorized under this Act.
+The Director shall review the education programs of the Foundation that are in operation as of December 19, 2002, to determine whether any of such programs duplicate the programs authorized under this Act.
 
 #### (b) Implementation
 
@@ -26,7 +26,7 @@ As programs authorized under this Act are implemented, the Director shall—
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 107–368, Dec. 19, 2002, 116 Stat. 3034, known as the National Science Foundation Authorization Act of 2002. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 1861 of this title and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 107–368, Dec. 19, 2002, 116 Stat. 3034, known as the National Science Foundation Authorization Act of 2002.For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 1861 of this title and Tables.
 
 #### Codification
 

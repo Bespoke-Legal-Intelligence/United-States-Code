@@ -102,7 +102,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) in the case of other coverage, twice the amount in effect under clause (i).
 
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
+> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 #### (2) Repealed. Pub. L. 113–93, title II, §213(a)(1), Apr. 1, 2014, 128 Stat. 1047
 

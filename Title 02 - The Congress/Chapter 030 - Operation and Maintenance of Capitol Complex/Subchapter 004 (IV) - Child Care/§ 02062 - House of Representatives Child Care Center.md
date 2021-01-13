@@ -2,11 +2,11 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the "House of Representatives Child Care Center") to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the "House of Representatives Child Care Center") to furnish pre-school child care and (subject tothe approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
-&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whosepay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch; and
+&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch; and
 
 &emsp;(C) if places are available after admission of all children who are eligible under subparagraph (A) or (B), for children of employees of other offices, departments, and agencies of the Federal Government.
 
@@ -46,9 +46,11 @@ In carrying out subsection (a), the Chief Administrative Officer is authorized�
 
 (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
-&emsp;(A) The payment of the salary of the director of the center.
+&emsp;(A) The payment of the salary of the director of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
 
 &emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+
+&emsp;(C) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
 
 (4) In the case of a child of an employee of the center who is furnished care at the center, the Chief Administrative Officer shall reduce the amount of tuition otherwise charged with respect to such child during a month by the greater of—
 
@@ -66,11 +68,13 @@ As used in this section—
 
 &emsp;(1) the term "Member of the House of Representatives" means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;(2) the term "agency of the legislative branch" means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+&emsp;(2) the term "agency of the legislative branch" means the Office of the Architect ofthe Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
 &emsp;(3) the term "support personnel" means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar.11, 2009, 123 Stat. 818; Pub. L. 111–248, §2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. E, title I, §117(a), (b), Dec. 20, 2019, 133 Stat. 2761.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar. 11, 2009, 123 Stat. 818; Pub. L. 111–248, §2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. E, title I, §117(a), (b), Dec. 20, 2019, 133 Stat. 2761; Pub. L. 116–136, div. B, title IX, §19002(a), Mar. 27, 2020, 134 Stat. 577.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -79,6 +83,10 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(3)(A). Pub. L. 116–136, §19002(a)(1), substituted ", and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center." for period at end.
+
+Subsec. (d)(3)(C). Pub. L. 116–136, §19002(a)(2), which directed that subpar. (C) be added "at the end" of subsec. (d)(3)(A), was executed by adding subpar. (C) at the end of subsec. (d)(3), to reflect the probable intent of Congress.
 
 <b>2019</b>—Subsec. (d)(2). Pub. L. 116–94, §117(b), inserted "(including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4))" after "similar benefits and programs".
 
@@ -114,11 +122,17 @@ Subsec. (d)(2). Pub. L. 104–186, §221(5)(C), substituted "With respect" for "
 
 Salaries and Expenses', not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. B, title IX, §19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2020 and each succeeding fiscal year."
 
 #### Effective Date of 2019 Amendment
 
@@ -134,7 +148,7 @@ Pub. L. 108–7, div. H, title I, §108(b), Feb. 20, 2003, 117 Stat. 355, provid
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to children admitted to the House of Representatives Child Care Center on or after the date of the enactment of this Act \[Nov. 12, 1999\]."
+Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to children admitted to the House of RepresentativesChild Care Center on or after the date of the enactment of this Act \[Nov. 12, 1999\]."
 
 #### Effective Date of 1992 Amendment
 

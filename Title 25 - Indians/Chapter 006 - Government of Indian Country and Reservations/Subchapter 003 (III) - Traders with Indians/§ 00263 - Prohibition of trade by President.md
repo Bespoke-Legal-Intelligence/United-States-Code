@@ -4,6 +4,8 @@ The President is authorized, whenever in his opinion the public interest may req
 
 (R.S. §2132.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2132 derived from act June 30, 1834, ch. 161, §3, 4 Stat. 729.

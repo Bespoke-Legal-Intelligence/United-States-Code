@@ -4,6 +4,8 @@ The President may, at the request of any Indian tribe, to which an annuity is pa
 
 (R.S. §2082.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 91 of this title, referred to in text, was omitted from the Code.

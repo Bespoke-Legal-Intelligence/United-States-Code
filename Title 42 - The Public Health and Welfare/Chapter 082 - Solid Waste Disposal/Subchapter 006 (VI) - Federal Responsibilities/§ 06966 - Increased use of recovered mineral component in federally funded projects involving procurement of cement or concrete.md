@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Cement or concrete project
 
-&emsp;The term "cement or concrete project" means a project for the construction or maintenance of a highway or other transportation facility or a Federal, State, or local government building or other public facility that—
+&emsp;The term "cement or concrete project" means a project for the construction or maintenance of a highway or other transportationfacility or a Federal, State, or local government building or other public facility that—
 
 &emsp;&emsp;(A) involves the procurement of cement or concrete; and
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (2) Priority
 
-&emsp;In carrying out paragraph (1), an agency head shall give priority to achieving greateruse of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
+&emsp;In carrying out paragraph (1), an agency head shall give priority to achieving greater use of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
 
 #### (3) Federal procurement requirements
 

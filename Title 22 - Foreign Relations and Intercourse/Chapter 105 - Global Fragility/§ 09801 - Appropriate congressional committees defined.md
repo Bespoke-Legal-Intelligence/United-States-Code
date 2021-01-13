@@ -16,6 +16,8 @@ In this chapter:
 
 (Pub. L. 116–94, div. J, title V, §502, Dec. 20, 2019, 133 Stat. 3060.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 116–94, div. J, title V, §501, Dec. 20, 2019, 133 Stat. 3060, provided that: "This title \[enacting this chapter\] may be cited as the 'Global Fragility Act of 2019'."

@@ -190,7 +190,7 @@
 
 &emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2); and
 
-&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State inwhich the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
+&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
 
 #### (3) Schedule for payment
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> whichdescribe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> which describe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
@@ -414,11 +414,13 @@ For purposes of this section—
 
 (Pub. L. 92–532, title I, §104B, as added Pub. L. 100–688, title I, §1002, Nov. 18, 1988, 102 Stat. 4139.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C),\(3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
@@ -429,6 +431,8 @@ Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, r
 Subsec. (j)(4)(A) of this section directed the Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, to submit to Congress a report describing the program designed pursuant to subsec. (j)(1) of this section not later than one year after Nov. 18, 1988.
 
 Subsec. (j)(4)(B) of this section, which required the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere to report annually to Congress on monitoring activities conducted under the program designed pursuant to subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

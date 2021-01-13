@@ -8,7 +8,7 @@ Each appropriate Federal banking agency shall review the exposure to risk of Uni
 
 In determining the exposure of an institution to risk for purposes of subsection (a), the appropriate Federal banking agency—
 
-&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other TransferRisk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
+&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other Transfer Risk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
 
 &emsp;(2) may exempt, in full or in part, from reserve requirements established pursuant to subsection (a), any loan—
 
@@ -40,9 +40,13 @@ As used in this section, the term "highly indebted country" means any country de
 
 (Pub. L. 98–181, title I \[title IX, §905A\], as added Pub. L. 101–240, title IV, §402(b), Dec. 19, 1989, 103 Stat. 2501.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3912(d) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 104–208, div. A, title II, §2224(c), Sept. 30, 1996, 110 Stat. 3009–415.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

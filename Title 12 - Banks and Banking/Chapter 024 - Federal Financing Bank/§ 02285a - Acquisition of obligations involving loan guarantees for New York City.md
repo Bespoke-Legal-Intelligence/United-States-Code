@@ -1,8 +1,10 @@
 ### §2285a. Acquisition of obligations involving loan guarantees for New York City
 
-Nothing in any provision of law shall be construed to authorize the Federal Financing Bankto acquire any obligation the payment of interest or principal of which has at any time been guaranteed in whole or in part under title I of the New York City Loan Guarantee Act of 1978.
+Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire any obligation the payment of interest or principal of which has at any time been guaranteed in whole or in part under title I of the New York City Loan Guarantee Act of 1978.
 
 (Pub. L. 95–339, title II, §201(b), Aug. 8, 1978, 92 Stat. 467.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

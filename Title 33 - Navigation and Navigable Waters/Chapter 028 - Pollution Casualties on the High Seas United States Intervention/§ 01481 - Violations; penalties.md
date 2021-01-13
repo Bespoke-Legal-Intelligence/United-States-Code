@@ -12,9 +12,13 @@
 
 (Pub. L. 93–248, §12, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title IV, §4302(l), Aug. 18, 1990, 104 Stat. 539.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–380 substituted "A person commits a class A misdemeanor if that person" for "Any person who" in introductory provisions and struck out ", shall be fined not more than $10,000 or imprisoned not more than one year, or both" after "under this chapter" in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

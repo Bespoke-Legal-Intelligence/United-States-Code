@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) render such facilities subject to licensing under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) or the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.); or
 
-&emsp;&emsp;(ii) except as provided in subsection (c) require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), such <sup>1</sup> facility is already being used, or has previously been used, for such storage or for any similar purpose.<sup>2</sup>
+&emsp;&emsp;(ii) except as provided in subsection (c) require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), such <sup>1</sup> facility is already being used, or has previously beenused, for such storage or for any similar purpose.<sup>2</sup>
 
 &emsp;(B) acquisition of any modular or mobile spent nuclear fuel storage equipment, including spent nuclear fuel storage casks, and provision of such equipment, to any person generating or holding title to spent nuclear fuel, at the site of any civilian nuclear power reactor operated by such person or at any site owned by the Federal Government on January 7, 1983;
 
@@ -64,7 +64,7 @@
 
 &emsp;(vii) an assessment of the regional and local impacts of providing such storage capacity at such site, including the impacts on transportation.
 
-(B) The issuance of any environmental assessment under this paragraph shall be considered to be a final agency action subject to judicial review in accordance with the provisions of chapter 7 of title 5. Such judicial review shall be limited to the sufficiency of such assessment with respect to the items described in clauses (i) through (vii) of subparagraph (A).
+(B) The issuance of any environmental assessment under this paragraph shall be consideredto be a final agency action subject to judicial review in accordance with the provisions of chapter 7 of title 5. Such judicial review shall be limited to the sufficiency of such assessment with respect to the items described in clauses (i) through (vii) of subparagraph (A).
 
 (3) Judicial review of any environmental impact statement or environmental assessment prepared pursuant to this subsection shall be conducted in accordance with the provisions of section 10139 of this title.
 
@@ -82,7 +82,7 @@
 
 (6)(A) Upon deciding to provide an aggregate of 300 or more metric tons of storage capacity under subsection (a)(1) at any one site, the Secretary shall notify the Governor and legislature of the State where such site is located, or the governing body of the Indian tribe in whose reservation such site is located, as the case may be, of such decision. During the 60-day period following receipt of notification by the Secretary of his decision to provide an aggregate of 300 or more metric tons of storage capacity at any one site, the Governor or legislature of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be, may disapprove the provision of 300 or more metric tons of storage capacity at the site involved and submit to the Congress a notice of such disapproval. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why the provision of such storage capacity at such site was disapproved by such Governor or legislature or the governing body of such Indian tribe.
 
-(B) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under subparagraph (A). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
+(B) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under subparagraph (A). In any case in which State law provides for submissionof any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
 (C) The authority of the Governor and legislature of each State under this paragraph shall not be applicable with respect to any site located on a reservation.
 
@@ -116,7 +116,7 @@ To the extent available, and consistent with the provisions of this section, the
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A)(i), is act Aug. 1, 1946, ch. 724, as added by actAug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

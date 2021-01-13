@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 2 years after May 30, 2012, and periodically (but not less frequently than every 4 years) thereafter, the Comptroller General of the United States shall conduct an audit of the loan and guarantee transactions of the Export-Import Bank of the United States to determine the compliance of the Bank with the underwriting guidelines, lending policies, due diligence procedures, and content guidelines of the Bank.
+Within 2 years after May 30, 2012, and periodically (but not less frequently than every 4 years)thereafter, the Comptroller General of the United States shall conduct an audit of the loan and guarantee transactions of the Export-Import Bank of the United States to determine the compliance of the Bank with the underwriting guidelines, lending policies, due diligence procedures, and content guidelines of the Bank.
 
 #### (b) Review of fraud controls
 
@@ -17,6 +17,8 @@ Not later than 4 years after December 4, 2015, and every 4 years thereafter, the
 &emsp;&emsp;(B) the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 112–122, §17, May 30, 2012, 126 Stat. 359; Pub. L. 114–94, div. E, title LI, §51003, Dec. 4, 2015, 129 Stat. 1763.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -10,7 +10,7 @@ Works Made for Hire.—In the case of a work made for hire, the employer or othe
 
 (c)
 
-Contributions to Collective Works.—Copyright in each separate contribution to a collective work is distinct from copyright in the collective work as a whole, and vests initially in the author of the contribution. In the absence of an express transfer of the copyright or of any rights under it, the owner of copyright in the collective work is presumed to have acquired only the privilege of reproducing and distributing the contribution as part of that particular collective work, any revision of that collective work, and any later collective work in the same series.
+Contributions to Collective Works.—Copyright in each separate contribution to a collective work is distinct from copyright in the collective work as a whole, and vests initially in the author of the contribution. In the absence of an express transfer of the copyright or of any rights under it, the owner of copyright in the collective work is presumed to have acquired only the privilege of reproducing and distributing the contribution as part of that particularcollective work, any revision of that collective work, and any later collective work in the same series.
 
 (d)
 
@@ -42,7 +42,7 @@ The work-made-for-hire provisions of this bill represent a carefully balanced co
 
 The status of works prepared on special order or commission was a major issue in the development of the definition of "works made for hire" in section 101, which has undergone extensive revision during the legislative process. The basic problem is how to draw a statutory line between those works written on special order or commission that should be considered as "works made for hire," and those that should not. The definition now provided by the bill represents a compromise which, in effect, spells out those specific categories of commissioned works that can be considered "works made for hire" under certain circumstances.
 
-Of these, one of the most important categories is that of "instructional texts." This term is given its own definition in the bill: "a literary, pictorial, or graphic work prepared for publication with the purpose of use in systematic instructional activities." The concept isintended to include what might be loosely called "textbook material," whether or not in book form or prepared in the form of text matter. The basic characteristic of "instructional texts" is the purpose of their preparation for "use in systematic instructional activities," and they are to be distinguished from works prepared for use by a general readership.
+Of these, one of the most important categories is that of "instructional texts." This term is given its own definition in the bill: "a literary, pictorial, or graphic work prepared for publication with the purpose of use in systematic instructional activities." The concept is intended to include what might be loosely called "textbook material," whether or not in book form or prepared in the form of text matter. The basic characteristic of "instructional texts" is the purpose of their preparation for "use in systematic instructional activities," and they are to be distinguished from works prepared for use by a general readership.
 
 <b>Contributions to Collective Works.</b> Subsection (c) of section 201 deals with the troublesome problem of ownership of copyright in contributions to collective works, and the relationship between copyright ownership in a contribution and in the collective work in which it appears. The first sentence establishes the basic principle that copyright in the individual contribution and copyright in the collective work as a whole are separate and distinct, and that the author of the contribution is, as in every other case, the first owner of copyright in it. Under the definitions in section 101, a "collective work" is a species of "compilation" and, by its nature, must involve the selection, assembly, and arrangement of "a number of contributions." Examples of "collective works" would ordinarily include periodical issues, anthologies, symposia, and collections of the discrete writings of the same authors, but not cases, such as a composition consisting of words and music, a work published with illustrations or front matter, or three one-act plays, where relatively few separate elements have been brought together. Unlike the contents of other types of "compilations," each of the contributions incorporated in a "collective work" must itself constitute a "separate and independent" work, therefore ruling out compilations of information or other uncopyrightable material and works published with editorial revisions or annotations. Moreover, as noted above, there is a basic distinction between a "joint work," where the separate elements merge into a unified whole, and a "collective work," where they remain unintegrated and disparate.
 
@@ -64,9 +64,13 @@ It may sometimes be difficult to ascertain whether a transfer of copyright is vo
 
 Traditional legal actions that may involve transfer of ownership, such as bankruptcy proceedings and mortgage foreclosures, are not within the scope of this subsection; the authors in such cases have voluntarily consented to these legal processes by their overt actions—for example, by filing in bankruptcy or by hypothecating a copyright.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–598 inserted ", except as provided under title 11".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -6,7 +6,7 @@ There is hereby created in the Treasury of the United States a fund to be known 
 
 #### (b) Expenditures from Stabilization Fund
 
-Money in the Stabilization Fund shall be available upon requisition by the Board, withoutfiscal year limitation, for making payments for the purposes described in section 1783(a) of this title, subject to the following additional limitations:
+Money in the Stabilization Fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments for the purposes described in section 1783(a) of this title, subject to the following additional limitations:
 
 &emsp;(1) All payments other than administrative payments shall be connected to the conservatorship, liquidation, or threatened conservatorship or liquidation, of a corporate credit union.
 
@@ -64,9 +64,11 @@ The Board shall submit an annual report to Congress on the financial condition a
 
 #### (h) Closing of Stabilization Fund
 
-Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board's discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
+Within 90 days following the seventh anniversary of the initial Stabilization Fund advance,or earlier at the Board's discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
 
 (June 26, 1934, ch. 750, title II, §217, as added Pub. L. 111–22, div. A, title II, §204(f)(1), May 20, 2009, 123 Stat. 1651; amended Pub. L. 111–382, §1, Jan. 4, 2011, 124 Stat. 4134.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

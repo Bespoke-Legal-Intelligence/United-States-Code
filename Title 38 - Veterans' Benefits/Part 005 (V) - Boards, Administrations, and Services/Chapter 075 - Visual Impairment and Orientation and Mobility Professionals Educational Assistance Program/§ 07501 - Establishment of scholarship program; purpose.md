@@ -18,6 +18,8 @@ Outreach.—The Secretary shall publicize the scholarship program to educational
 
 (Added Pub. L. 111–163, title III, §302(a), May 5, 2010, 124 Stat. 1146.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation
 
 Pub. L. 111–163, title III, §302(c), May 5, 2010, 124 Stat. 1149, provided that: "The Secretary of Veterans Affairs shall implement chapter 75 of title 38, United States Code, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[May 5, 2010\]."

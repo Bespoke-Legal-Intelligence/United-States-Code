@@ -54,6 +54,8 @@ In subsection (a)(3), the words "notwithstanding any other provision of law" are
 
 In subsection (b), the words "January 3, 1985" are substituted for "the commencement of the Ninety-ninth Congress" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 501 of Title 26, Internal Revenue Code.
@@ -86,7 +88,9 @@ Person.—The term 'person' means—
 
 The district of columbia and its environs.—The term 'the District of Columbia and its environs' means land and property located in Areas I and II as depicted on the map numbered 869/86581, and dated May 1, 1986, that the National Park Service and the Administrator of General Services administer."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
-Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
+Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved inaccordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 

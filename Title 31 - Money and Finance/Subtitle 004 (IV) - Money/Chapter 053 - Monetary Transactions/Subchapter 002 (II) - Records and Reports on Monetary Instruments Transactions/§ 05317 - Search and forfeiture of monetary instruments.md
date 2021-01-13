@@ -52,7 +52,7 @@ Extension of notice under certain circumstances.—The Internal Revenue Service 
 
 &emsp;&emsp;&emsp;(iv)
 
-Post-seizure hearing.—If a person with an ownership interest in property seized pursuant to subparagraph (A) by the Internal Revenue Service requests a hearing by a court of competent jurisdiction within 30 days after the date on which notice is provided under subclause (ii), such property shall be returned unless the court holds an adversarial hearing and finds within 30 days of such request (or such longer period as the court may provide, but only on request of an interested party) that there is probable cause to believe that there is a violation of section 5324 involving such property and probable cause to believe that the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
+Post-seizure hearing.—If a person with an ownership interest in property seized pursuant to subparagraph (A) by the Internal Revenue Service requests a hearing by a court of competent jurisdiction within 30 days after the date on which notice is provided under subclause (ii), such property shall be returned unless the court holds an adversarial hearing and findswithin 30 days of such request (or such longer period as the court may provide, but only on request of an interested party) that there is probable cause to believe that there is a violation of section 5324 involving such property and probable cause to believe that the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, §901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, §1525(c)(2), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 107–56, title III, §§365(b)(2)(B), 372(a), Oct. 26, 2001, 115 Stat. 335, 338; Pub. L. 116–25, title I, §1201, July 1, 2019, 133 Stat. 986.)
 
@@ -78,6 +78,8 @@ In subsection (a), the words "The Secretary shall include a statement of informa
 
 In subsection (b), the words "either" and "the possession of" are omitted as surplus. The words "United States Postal Service" are substituted for "postal service" for consistency with title 39. The words "or retained in" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(1)(B), is classified to section 853 of Title 21, Food and Drugs.
@@ -97,6 +99,8 @@ Pub. L. 107–56, §365(b)(2)(B), substituted "section 5324(c)" for "section 532
 Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement."
 
 <b>1984</b>—Subsecs. (b), (c). Pub. L. 98–473, §901, added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -10,6 +10,8 @@ Prior Sex Offense Conviction Defined.—In this section, the term "prior sex off
 
 (Added Pub. L. 103–322, title IV, §40111(a), Sept. 13, 1994, 108 Stat. 1903; amended Pub. L. 105–314, title III, §303, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 108–21, title I, §106(b), Apr. 30, 2003, 117 Stat. 655.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–21 inserted ", unless section 3559(e) applies" before period at end.

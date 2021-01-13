@@ -4,7 +4,7 @@ It is recognized that the wastage of soil and moisture resources on farm, grazin
 
 (1) To conduct surveys, investigations, and research relating to the character of soil erosion and the preventive measures needed, to publish the results of any such surveys, investigations, or research, to disseminate information concerning such methods, and to conduct demonstrational projects in areas subject to erosion by wind or water;
 
-(2) To carry out preventive measures, including, but not limited to, engineering operations,methods of cultivation, the growing of vegetation, and changes in use of land;
+(2) To carry out preventive measures, including, but not limited to, engineering operations, methods of cultivation, the growing of vegetation, and changes in use of land;
 
 (3) To cooperate or enter into agreements with, or to furnish financial or other aid to, any agency, governmental or otherwise, or any person, subject to such conditions as he may deem necessary, for the purposes of this chapter; and
 

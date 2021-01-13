@@ -16,7 +16,7 @@
 
 (c) Unless otherwise entitled to higher pay, each member transferred to the retired list or the Retired Reserve under this section is entitled to retired pay at the same rate as the retainer pay to which he was entitled at the time of his transfer to the retired list or the Retired Reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6331; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480; Pub. L. 109–163, div. A, title V, §515(b)(1)(K), Jan. 6, 2006, 119 Stat. 3233; renumbered §8331 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6331; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480; Pub.L. 109–163, div. A, title V, §515(b)(1)(K), Jan. 6, 2006, 119 Stat. 3233; renumbered §8331 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 Historical and Revision Notes
 

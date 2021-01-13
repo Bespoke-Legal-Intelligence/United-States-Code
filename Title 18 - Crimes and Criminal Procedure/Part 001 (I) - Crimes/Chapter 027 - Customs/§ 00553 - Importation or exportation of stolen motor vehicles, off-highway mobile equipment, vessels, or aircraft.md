@@ -34,6 +34,8 @@
 
 (Added Pub. L. 98–547, title III, §301(a), Oct. 25, 1984, 98 Stat. 2771; amended Pub. L. 100–690, title VII, §7021, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 102–519, title I, §102, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 103–272, §5(e)(5), July 5, 1994, 108 Stat. 1374.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §5(e)(5)(A), substituted "section 32101 of title 49" for "section 2 of the Motor Vehicle Information and Cost Savings Act".

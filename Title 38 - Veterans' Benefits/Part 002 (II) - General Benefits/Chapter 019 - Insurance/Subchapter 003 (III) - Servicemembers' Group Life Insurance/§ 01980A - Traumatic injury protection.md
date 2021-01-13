@@ -82,7 +82,7 @@
 
 (g)(1) Payment for a loss resulting from traumatic injury may not be made under the insurance coverage under this section if the member dies before the end of a period prescribed by the Secretary, by regulation, for such purpose that begins on the date on which the member sustains the injury.
 
-(2) If a member eligible for a payment under this section dies before payment to the member can be made, the payment shall be made to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.
+(2) If a member eligible for a payment under this section dies before payment to the membercan be made, the payment shall be made to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.
 
 (h) Coverage for loss resulting from traumatic injury provided under this section shall cease at midnight on the date of the termination of the member's duty status in the uniformed services that established eligibility for Servicemembers' Group Life Insurance. The termination of coverage under this section is effective in accordance with the preceding sentence, notwithstanding any continuation after the date specified in that sentence of Servicemembers' Group Life Insurance coverage pursuant to section 1968(a) of this title for a period specified in that section.
 
@@ -92,7 +92,7 @@
 
 (k)
 
-Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. Thefiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
+Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
 
 (2) The process under paragraph (1) may require each member of the uniformed services who is insured under this section to—
 
@@ -100,9 +100,21 @@ Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultat
 
 &emsp;(B) elect that a court of proper jurisdiction designate an individual as the member's fiduciary or trustee for purposes of subsection (a) in the event that the member becomes medically incapacitated or experiences an extended loss of consciousness.
 
-(Added Pub. L. 109–13, div. A, title I, §1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, §501(a), June 15, 2006, 120 Stat. 411; Pub. L. 110–181, div. A, title XVII, §1711, Jan. 28, 2008, 122 Stat. 495; Pub. L. 111–275, title IV, §406(a)(1), title X, §1001(d)(2), Oct. 13, 2010, 124 Stat. 2880, 2896.)
+(l)(1) If a claim for benefits under this section is denied, the Secretary concerned shall provide to the member at the same time as the member is informed of such denial a description of the following:
+
+&emsp;(A) Each reason for that denial, including a description of all the information upon which the denial is based and a description of the applicable laws, regulations, or policies, with appropriate citations, and an explanation of how such laws, regulations, or policies affected the denial.
+
+&emsp;(B) Each finding that is favorable to the member.
+
+(2) Any finding favorable to the member as described in paragraph (1)(B) shall be binding on all subsequent reviews or appeals of the denial of the claim, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
+
+(Added Pub. L. 109–13, div. A, title I, §1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, §501(a), June 15, 2006, 120 Stat. 411; Pub. L. 110–181, div. A, title XVII, §1711, Jan. 28, 2008, 122 Stat. 495; Pub. L. 111–275, title IV, §406(a)(1), title X, §1001(d)(2), Oct. 13, 2010, 124 Stat. 2880, 2896; Pub. L. 116–315, title II, §2005, Jan. 5, 2021, 134 Stat. 4974.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (l). Pub. L. 116–315 added subsec. (l).
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–275, §406(a)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -128,7 +140,7 @@ Subsec. (c). Pub. L. 109–233, §501(a)(3), amended subsec. (c) generally. Prio
 
 &emsp;"(3) the member suffers the loss before the end of the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date on which the member sustains the traumatic injury, except, if the loss is quadriplegia, paraplegia, or hemiplegia, the member suffers the loss not later than 365 days after sustaining the traumatic injury."
 
-Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
+Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with aschedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
 
 &emsp;"(1) made in accordance with a schedule prescribed by the Secretary, in collaboration with the Secretary of Defense;
 
@@ -146,11 +158,13 @@ Subsec. (e). Pub. L. 109–233, §501(a)(5), substituted "Secretary concerned" f
 
 Subsec. (f). Pub. L. 109–233, §501(a)(6), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible."
 
-Subsec. (g). Pub. L. 109–233, §501(a)(7), designated first sentence as par. (1), substituted "may not be made under the insurance coverage under this section" for "will not be made" and "a period prescribed by the Secretary, by regulation, for such purpose that begins on the date" for "the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date", designated second sentence as par. (2), and substituted "If a member eligible for a payment under this section" for "If the member", "shall be" for "will be", and "to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) ofthis title." for "according to the member's most current beneficiary designation under Servicemembers' Group Life Insurance, or a by law designation, if applicable."
+Subsec. (g). Pub. L. 109–233, §501(a)(7), designated first sentence as par. (1), substituted "may not be made under the insurance coverage under this section" for "will not be made" and "a period prescribed by the Secretary, by regulation, for such purpose that begins on the date" for "the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date", designated second sentence as par. (2), and substituted "If a member eligible for a payment under this section" for "If the member", "shall be" for "will be", and "to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title." for "according to the member's most current beneficiary designation under Servicemembers' Group Life Insurance, or a by law designation, if applicable."
 
 Subsec. (h). Pub. L. 109–233, §501(a)(8), substituted "termination of the member's duty status in the uniformed services that established eligibility for Servicemembers' Group Life Insurance" for "member's separation from the uniformed service" in first sentence, added second sentence, and struck out former second sentence which read as follows: "Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services."
 
 Subsec. (j). Pub. L. 109–233, §501(a)(9), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

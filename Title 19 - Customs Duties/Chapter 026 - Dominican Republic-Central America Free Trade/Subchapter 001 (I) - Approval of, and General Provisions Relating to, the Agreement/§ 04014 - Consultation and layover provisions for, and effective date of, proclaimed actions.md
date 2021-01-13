@@ -1,6 +1,6 @@
 ### §4014. Consultation and layover provisions for, and effective date of, proclaimed actions
 
-If a provision of this chapter provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
+If a provision of this chapter provides that the implementation of an action by the President byproclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
 
 &emsp;(1) the President has obtained advice regarding the proposed action from—
 

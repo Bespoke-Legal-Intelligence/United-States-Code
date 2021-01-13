@@ -6,7 +6,7 @@ Authority.—
 
 &emsp;(1)
 
-Contracts and cooperative agreements.—The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
+Contracts and cooperative agreements.—The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Associationfor the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
 
 &emsp;(2)
 
@@ -64,7 +64,11 @@ Conditions.—The authority provided in this section with respect to the Associa
 
 Association Defined.—In this section, the term "Association" means the Naval Academy Athletic Association.
 
-(Added Pub. L. 112–239, div. A, title V, §542(a), Jan. 2, 2013, 126 Stat. 1735, §6981; renumbered §8481 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 112–239, div. A, title V, §542(a), Jan. 2, 2013, 126 Stat. 1735, §6981; renumbered §8481 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -80,7 +84,7 @@ Section 8495, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that members 
 
 Section 8496, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, authorized President to order commissioned officers of Air National Guard of United States to active duty in National Guard Bureau. See section 12402(a), (b)(2) of this title.
 
-Section 8497, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, provided that members of Air National Guard of United States ordered to active duty were to be ordered to duty as Reserves of Air Force. See section 12403 of this title.
+Section 8497, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, provided that members of Air National Guard of UnitedStates ordered to active duty were to be ordered to duty as Reserves of Air Force. See section 12403 of this title.
 
 Section 8498, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to organization during initial mobilization of units of Air National Guard of United States ordered into active Federal service. See section 12404 of this title.
 
@@ -104,9 +108,15 @@ A prior section 8540, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to det
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "section 3201(e)" for "section 2304(k)" and "section 3204(a)(5)" for "section 2304(c)(5)".
+
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 6981 of this title as this section.
 
 Subsec. (e)(1). Pub. L. 115–232, §809(a), substituted "and 8022(b)(3)" for "and 5022(b)(3)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

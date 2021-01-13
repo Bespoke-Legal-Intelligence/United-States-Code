@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—LIFE SAVING AND LAW ENFORCEMENT AUTHORITIES
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §105(c)(2), Dec. 4, 2018, 132 Stat. 4202, inserted subchapter II designation and heading.

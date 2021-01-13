@@ -15,6 +15,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, "Temporary extension of section 794", as 798A.

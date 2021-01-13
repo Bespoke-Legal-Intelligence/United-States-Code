@@ -58,7 +58,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) such other in-kind contributions as the Secretary may approve.
 
-> &emsp;Contributions for administrative expenses shall be recognized only up to an amount equal to 7 percent of the total amount of grants made available under this section.
+> &emsp;Contributions for administrative expenses shall be recognized only up to an amountequal to 7 percent of the total amount of grants made available under this section.
 
 #### (3) Reduction of requirement
 
@@ -132,7 +132,7 @@ The Secretary may approve applications for grants under this subchapter only for
 
 The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 \[42 U.S.C. 1437f\] assistance for replacement housing and for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
 
-(Sept. 1, 1937, ch. 896, title III, §303, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4150; amended Pub. L. 102–550, title I,§181(b), (c), (g)(1), title X, §1012(h)(2), Oct. 28, 1992, 106 Stat. 3735, 3736, 3906; Pub. L. 105–276, title V, §519(c)(1), Oct. 21, 1998, 112 Stat. 2561.)
+(Sept. 1, 1937, ch. 896, title III, §303, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4150; amended Pub. L. 102–550, title I, §181(b), (c), (g)(1), title X, §1012(h)(2), Oct. 28, 1992, 106 Stat. 3735, 3736, 3906; Pub. L. 105–276, title V, §519(c)(1), Oct. 21, 1998, 112 Stat. 2561.)
 
 #### References in Text
 

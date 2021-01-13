@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, the Secretary of Homeland Security, 
 
 (Pub. L. 108–136, div. A, title XVII, §1701(d), Nov. 24, 2003, 117 Stat. 1692; Pub. L. 110–181, div. A, title VI, §674(c), Jan. 28, 2008, 122 Stat. 186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Title III of the Act is classified principally to subchapter III (§1401 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -16,9 +18,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 <b>2008</b>—Pub. L. 110–181 inserted "and their spouses and children" after "Armed Forces" in section catchline and ", and persons made eligible for naturalization by section 319(e) or 322(d) of such Act," after "Armed Forces" in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective Jan. 28, 2008, and applicable to any application for naturalization orissuance of a certificate of citizenship pending on or after such date, see section 674(d) of Pub. L. 110–181, set out as a note under section 1430 of this title.
+Amendment by Pub. L. 110–181 effective Jan. 28, 2008, and applicable to any application for naturalization or issuance of a certificate of citizenship pending on or after such date, see section 674(d) of Pub. L. 110–181, set out as a note under section 1430 of this title.
 
 #### Effective Date
 

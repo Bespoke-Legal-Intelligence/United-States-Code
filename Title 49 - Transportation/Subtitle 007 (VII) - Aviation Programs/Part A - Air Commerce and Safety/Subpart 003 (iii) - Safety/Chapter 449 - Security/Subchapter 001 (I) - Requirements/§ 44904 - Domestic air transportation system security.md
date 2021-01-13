@@ -32,7 +32,7 @@ Operational Criteria.—The Administrator of the Transportation Security Adminis
 
 (e)
 
-Improving Security.—The Administrator of the Transportation Security Administrationshall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
+Improving Security.—The Administrator of the Transportation Security Administration shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, §101(f)(1), (7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 108–458, title IV, §4001(b), Dec. 17, 2004, 118 Stat. 3712; Pub. L. 115–254, div. K, title I, §1991(d)(4), Oct. 5, 2018, 132 Stat. 3632.)
 

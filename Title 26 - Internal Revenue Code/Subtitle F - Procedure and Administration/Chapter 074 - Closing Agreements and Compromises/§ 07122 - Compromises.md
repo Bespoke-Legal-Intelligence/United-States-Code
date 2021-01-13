@@ -78,7 +78,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 &emsp;The guidelines under paragraph (1) shall provide that—
 
-&emsp;&emsp;(A) an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayersolely on the basis of the amount of the offer,
+&emsp;&emsp;(A) an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayer solely on the basis of the amount of the offer,
 
 &emsp;&emsp;(B) in the case of an offer-in-compromise which relates only to issues of liability of the taxpayer—
 

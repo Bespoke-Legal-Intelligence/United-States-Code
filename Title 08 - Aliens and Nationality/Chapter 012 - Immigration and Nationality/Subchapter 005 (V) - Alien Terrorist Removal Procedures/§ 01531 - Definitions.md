@@ -18,6 +18,8 @@ As used in this subchapter—
 
 (June 27, 1952, ch. 477, title V, §501, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1258; amended Pub. L. 104–208, div. C, title III, §§308(g)(1), 354(a)(5), Sept. 30, 1996, 110 Stat. 3009–622, 3009–643.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1 of the Classified Information Procedures Act, referred to in pars. (2) and (3), is section 1 of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -27,6 +29,8 @@ Section 1 of the Classified Information Procedures Act, referred to in pars. (2)
 <b>1996</b>—Par. (1). Pub. L. 104–208, §308(g)(1), substituted "section 1227(a)(4)(B)" for "section 1251(a)(4)(B)".
 
 Par. (7). Pub. L. 104–208, §354(a)(5), added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

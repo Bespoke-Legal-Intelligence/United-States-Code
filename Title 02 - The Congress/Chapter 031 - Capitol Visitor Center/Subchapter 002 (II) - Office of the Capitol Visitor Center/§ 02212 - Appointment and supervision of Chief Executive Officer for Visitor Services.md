@@ -6,7 +6,7 @@ The Chief Executive Officer shall be appointed by the Architect of the Capitol.
 
 #### (b) Supervision and oversight
 
-The Chief Executive Officer shall report directly to the Architect of the Capitol and shallbe subject to oversight by the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives.
+The Chief Executive Officer shall report directly to the Architect of the Capitol and shall be subject to oversight by the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives.
 
 #### (c) Removal
 
@@ -25,6 +25,8 @@ The Chief Executive Officer shall be paid at an annual rate of pay equal to the 
 #### (2) Omitted
 
 (Pub. L. 110–437, title II, §202, Oct. 20, 2008, 122 Stat. 4986.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

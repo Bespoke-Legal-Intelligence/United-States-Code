@@ -28,6 +28,8 @@ The words "attempts or conspires so to do" were substituted for sections 3 and 4
 
 Words "shall, upon conviction thereof," were omitted as surplusage, since punishment cannot be imposed until a conviction is secured.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 101–115 of Title 29, referred to in subsec. (c), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 29, Labor, and Tables.
@@ -43,6 +45,8 @@ Section 186 of Title 45, included within the reference in subsec. (c) to section
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

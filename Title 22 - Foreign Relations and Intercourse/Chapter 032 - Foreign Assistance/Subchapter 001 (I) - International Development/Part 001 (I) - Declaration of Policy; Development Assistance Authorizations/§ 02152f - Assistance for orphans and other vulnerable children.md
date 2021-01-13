@@ -96,9 +96,9 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;The duties of the Special Advisor for Assistance to Orphans and Vulnerable Children shall include the following:
 
-&emsp;&emsp;(A) Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.
+&emsp;&emsp;(A) Coordinate assistance to orphans and other vulnerable children among the relevant Federal agencies and officials.
 
-&emsp;&emsp;(B) Advise the various offices, bureaus, and field missions within the United States Agency for International Development to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
+&emsp;&emsp;(B) Advise the relevant Federal branch agencies and officials to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
 &emsp;&emsp;(C) Advise the various offices, bureaus, and field missions within the United States Agency for International Development in developing any component of their annual plan, as it relates to assistance for orphans or other vulnerable children in developing countries, to ensure that each program, project, or activity relating to such assistance is consistent with best practices, meets the requirements of this chapter, and conforms to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
@@ -122,7 +122,9 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;Amounts made available under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. I, §135, as added Pub. L. 109–95, §3, Nov. 8, 2005, 119 Stat. 2113.)
+(Pub. L. 87–195, pt. I, §135, as added Pub. L. 109–95, §3, Nov. 8, 2005, 119 Stat. 2113; amended Pub. L. 116–283, div. A, title XII, §1284, Jan. 1, 2021, 134 Stat. 3989.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -133,6 +135,18 @@ Section 4 of the Assistance for Orphans and Other Vulnerable Children in Develop
 This chapter, referred to in subsec. (e)(2)(B), (C), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (e)(2)(D), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, as amended, which is classified principally to chapter 83 (§7601 et seq.) of this title. Section 102 of the Act enacted section 7612 of this title and amended section 2651a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (e)(2)(A). Pub. L. 116–283, §1284(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development."
+
+Subsec. (e)(2)(B). Pub. L. 116–283, §1284(2), substituted "the relevant Federal branch agencies and officials" for "the various offices, bureaus, and field missions within the United States Agency for International Development".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction
+
+Pub. L. 116–283, div. A, title XII, §1285, Jan. 1, 2021, 134 Stat. 3989, provided that: "Nothing in the amendments made by this subtitle \[enacting section 2152k of this title and amending this section\] may be construed to restrict or abrogate any other authorization for United States Agency for International Development activities or programs."
 
 #### Findings
 
@@ -166,7 +180,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;"(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
-&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the UnitedStates Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
+&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
 
 &emsp;"(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries.
 
@@ -176,7 +190,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;&emsp;"(A) ensures that Federal agencies and the private sector coordinate efforts to prevent and eliminate duplication of efforts and waste in the provision of such assistance; and
 
-&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans and other vulnerable children to remain connected to the traditions and rituals of their families and communities."
+&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans andother vulnerable children to remain connected to the traditions and rituals of their families and communities."
 
 #### Strategy of the United States
 

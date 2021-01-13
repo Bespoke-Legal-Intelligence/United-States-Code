@@ -62,7 +62,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(A) A procedure through which a person who is required to submit information pursuant to such process makes (in addition to the submission to the Attorney General) a submission, at the option of the person, to either the agency administering the section 351A program or the agency administering the section 212 program, but not both, which submission satisfies the requirement of submission for both of such programs.
 
-&emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received from the Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
+&emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received fromthe Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
 
 &emsp;&emsp;(C) A procedure through which the agencies administering such programs concur in determinations that access to overlap agents and toxins will be granted.
 

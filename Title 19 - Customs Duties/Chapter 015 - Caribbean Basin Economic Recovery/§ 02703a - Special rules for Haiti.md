@@ -162,7 +162,7 @@ In this section:
 
 #### (II) Noncompliance
 
-&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant toclause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost or value of materials under subclause (I) of clause (i), plus
 
@@ -192,7 +192,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
@@ -245,7 +245,7 @@ In this section:
 
 #### (iii) Other preferential treatment not affected by quantitative limitation
 
-&emsp;&emsp;&emsp;Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (B) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (ii).
+&emsp;&emsp;&emsp;Any apparel article that qualifies for preferential treatment under paragraph\(1), (3), (4), or (5) or subparagraph (B) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (ii).
 
 #### (B) Special rule for certain articles of chapter 61 of the HTS
 
@@ -405,7 +405,7 @@ In this section:
 
 &emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
 
-&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes ofthis clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
+&emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes of this clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
 
 &emsp;&emsp;&emsp;(ii)(I) Subject to subclause (II), any apparel article that is of a type listed in chapter rule 3(a), 4(a), or 5(a) for chapter 62 of the HTS, as such chapter rules are contained in paragraph 9 of section A of the Annex to Proclamation 8213 of the President of December 20, 2007.
 
@@ -417,7 +417,7 @@ In this section:
 
 #### (D) Headgear
 
-&emsp;&emsp;Any article classifiable under heading 6501, 6502, or 6504 of the HTS, or under subheading 6505.90 of the HTS, that is wholly assembled, knit-to-shape, or formed in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
+&emsp;&emsp;Any article classifiable under heading 6501, 6502, or 6504 of the HTS, or under subheading6505.90 of the HTS, that is wholly assembled, knit-to-shape, or formed in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
 
 #### (E) Certain sleepwear
 
@@ -735,7 +735,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Secretary of Commerce may require that a producer or entity controlling production submit documentation to verify purchases of qualifying woven fabric or qualifying knit fabric.
 
-&emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entityidentified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
+&emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entity identified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
 
 &emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
 
@@ -783,9 +783,9 @@ In this section:
 
 &emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
-&emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
+&emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
-&emsp;&emsp;&emsp;(ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as notbeing available in commercial quantities for purposes of—
+&emsp;&emsp;&emsp;(ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
 
 &emsp;&emsp;&emsp;&emsp;(I) section 2703(b)(2)(A)(v) of this title;
 
@@ -877,7 +877,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) Haiti has implemented the requirements set forth in paragraphs (2) and (3); and
 
-&emsp;&emsp;&emsp;(ii) Haiti has agreed to require producers of articles for which duty-free treatment may be requested under subsection (b) to participate in the TAICNAR Program described in paragraph (3) and has developed a system to ensure participation in such program by such producers, including by developing and maintaining the registry described in paragraph (2)(B)(i).
+&emsp;&emsp;&emsp;(ii) Haiti has agreed to require producers of articles for which duty-free treatmentmay be requested under subsection (b) to participate in the TAICNAR Program described in paragraph (3) and has developed a system to ensure participation in such program by such producers, including by developing and maintaining the registry described in paragraph (2)(B)(i).
 
 #### (B) Extension
 
@@ -1071,7 +1071,7 @@ In this section:
 
 #### (2) Definition of transshipment
 
-&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this section has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under this section.
+&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this section has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure ofthe true information would mean or would have meant that the article is or was ineligible for preferential treatment under this section.
 
 #### (3) Limitation on goods shipped from the Dominican Republic
 
@@ -1091,7 +1091,7 @@ The President shall issue regulations to carry out this section not later than 1
 
 Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.
 
-(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, §2(f), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 114–27, title III, §301, June 29, 2015, 129 Stat. 373.)
+(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, §2(f), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 114–27, title III, §301, June 29, 2015, 129 Stat. 373; Pub. L. 116–260, div. O, title VI, §602(b)(3), Dec. 27, 2020, 134 Stat. 2153.)
 
 #### References in Text
 
@@ -1107,6 +1107,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2020</b>—Subsec. (b)(1)(B)(vii)(I)(aa), (5)(A)(i). Pub. L. 116–260 substituted "Annex 4–B of the USMCA" for "Annex 401 of the NAFTA".
+
 <b>2015</b>—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, §301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: "60 percent or more during the 1-year period beginning on December 20, 2017."
 
 Subsec. (b)(1)(C). Pub. L. 114–27, §301(1)(A)(ii), substituted "16 succeeding 1-year periods" for "succeeding 11 1-year periods" in table and "December 19, 2025" for "December 19, 2018" in concluding provisions.
@@ -1119,7 +1121,7 @@ Subsec. (h). Pub. L. 114–27, §301(2), substituted "September 30, 2025" for "S
 
 <b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period","second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period", "second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
 
 Subsec. (b)(1)(A). Pub. L. 111–171, §7(2)(A), substituted "the initial applicable 1-year period and any 1-year period thereafter" for "an applicable 1-year period".
 
@@ -1209,6 +1211,10 @@ Pub. L. 110–246, §15402(g), added subsec. (g).
 
 Subsec. (h). Pub. L. 110–246, §15403(2), redesignated subsec. (g) as (h).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -1285,7 +1291,7 @@ Rapid response team.—The Commissioner responsible for United States Customs an
 
 &emsp;&emsp;&emsp;"(iii) preventing unlawful transshipment of goods through Haiti to the United States; and
 
-&emsp;&emsp;&emsp;"(iv) otherwise strengthening cooperation between the customs authorities of the UnitedStates, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
+&emsp;&emsp;&emsp;"(iv) otherwise strengthening cooperation between the customs authorities of the United States, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
 
 &emsp;"(2)
 

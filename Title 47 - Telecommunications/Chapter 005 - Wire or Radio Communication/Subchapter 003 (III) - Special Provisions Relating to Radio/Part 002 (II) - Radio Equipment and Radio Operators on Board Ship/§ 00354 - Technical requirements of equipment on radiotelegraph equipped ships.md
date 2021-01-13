@@ -18,9 +18,11 @@ The radiotelegraph station and the radio direction finding apparatus required by
 
 &emsp;(h) There shall be provided between the bridge of the ship and the radiotelegraph operating room, and between the bridge and the location of the radio direction finding apparatus, when such apparatus is not located on the bridge, an efficient two-way system for calling and voice communication which shall be independent of any other communication system in the ship.
 
-&emsp;(i) The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radiotelegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for thepurposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965, such other frequencies as the Commission may for safety purposes designate.
+&emsp;(i) The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radiotelegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for the purposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965, such other frequencies as the Commission may for safety purposes designate.
 
-(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
+(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -48,6 +50,8 @@ Subsec. (i). Pub. L. 89–121 redesignated former subsec. (h) as (i), and substi
 
 Subsec. (a). Act Aug. 13, 1954, §2(c), provided for a "reserve radiotelegraph installation" instead of merely a "reserve installation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective May 20, 1937, unless deferred by the Commission, see section 16 of act May 20, 1937, set out as a note under section 351 of this title.
@@ -58,7 +62,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
+#### <b>Executive Documents</b>
 
 "Commandant of the Coast Guard" substituted in subsec. (b) for "Bureau of Marine Inspection and Navigation, Department of Commerce" on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
+
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
 

@@ -12,7 +12,7 @@ The articles of any small business investment company shall specify in general t
 
 #### (1) Submission of application
 
-&emsp;Each applicant for a license to operate as a small business investment company under this chapter shall submit to the Administrator anapplication, in a form and including such documentation as may be prescribed by the Administrator.
+&emsp;Each applicant for a license to operate as a small business investment company under this chapter shall submit to the Administrator an application, in a form and including such documentation as may be prescribed by the Administrator.
 
 #### (2) Procedures
 
@@ -24,7 +24,7 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;Within a reasonable time after receiving a completed application submitted in accordance with this subsection and in accordance with such requirements as the Administrator may prescribe by regulation, the Administrator shall—
 
-&emsp;&emsp;&emsp;(i) approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or
+&emsp;&emsp;&emsp;(i) approve the application and issue a license for such operation to the applicant ifthe requirements of this section are satisfied; or
 
 &emsp;&emsp;&emsp;(ii) disapprove the application and notify the applicant in writing of the disapproval.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 105–135, §214, added subsec. (e).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §208(b)(1), substituted "body, a limited liability company, or" for "body or" in first sentence.
 
-Subsec. (c). Pub. L. 104–208, §208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company's articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company's articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation."
+Subsec. (c). Pub. L. 104–208, §208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company's articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general businessreputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company's articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation."
 
 Subsec. (d). Pub. L. 104–208, §208(b)(3)(A), struck out subsec. (d) which read as follows: "Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter."
 

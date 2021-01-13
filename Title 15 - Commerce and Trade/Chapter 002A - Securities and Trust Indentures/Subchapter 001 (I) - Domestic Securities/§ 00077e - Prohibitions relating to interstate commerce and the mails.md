@@ -22,7 +22,7 @@ It shall be unlawful for any person, directly or indirectly, to make use of any 
 
 #### (d) Limitation
 
-Notwithstanding any other provision of this section, an emerging growth company or any person authorized to act on behalf of an emerging growth company may engage in oral or written communications with potential investors that are qualified institutional buyers or institutions that are accredited investors, as such terms are respectively defined in section 230.144A and section 230.501(a) of title 17, Code of Federal Regulations, or any successor thereto, to determine whether such investors might have an interest in a contemplated securities offering, either prior to or following the date of filingof a registration statement with respect to such securities with the Commission, subject to the requirement of subsection (b)(2).
+Notwithstanding any other provision of this section, an emerging growth company or any person authorized to act on behalf of an emerging growth company may engage in oral or written communications with potential investors that are qualified institutional buyers or institutions that are accredited investors, as such terms are respectively defined in section 230.144A and section 230.501(a) of title 17, Code of Federal Regulations, or any successor thereto, to determine whether such investors might have an interest in a contemplated securities offering, either prior to or following the date of filing of a registration statement with respect to such securities with the Commission, subject to the requirement of subsection (b)(2).
 
 #### (e) Security-based swaps
 
@@ -54,7 +54,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Encouraging Employee Ownership
 
-Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
+Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
 
 #### Fair Access to Investment Research
 

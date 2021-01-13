@@ -6,7 +6,7 @@ This section may be cited as the "Uniform Federal Crime Reporting Act of 1988".
 
 #### (b) Definitions
 
-For purposes of this section, the term "Uniform Crime Reports" means the reports authorized under section 534 of title 28 and administered by the Federal Bureau of Investigation which compiles nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.
+For purposes of this section, the term "Uniform Crime Reports" means the reports authorized under section 534 of title 28 and administered by the Federal Bureau of Investigationwhich compiles nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.
 
 #### (c) Establishment of system
 
@@ -53,6 +53,8 @@ There are authorized to be appropriated $350,000 for fiscal year 1989 and such s
 The provisions of this section shall be effective on January 1, 1989.
 
 (Pub. L. 100–690, title VII, §7332, Nov. 18, 1988, 102 Stat. 4468; Pub. L. 115–393, title IV, §402, Dec. 21, 2018, 132 Stat. 5274.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

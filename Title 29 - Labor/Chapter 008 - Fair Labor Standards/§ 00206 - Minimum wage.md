@@ -20,13 +20,13 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) <sup>1</sup> applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not lessthan the minimum wage rate in effect under subsection (a)(1).
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) <sup>1</sup> applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1).
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
 #### (d) Prohibition of sex discrimination
 
-(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>, That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
+(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>, That an employer who is paying a wage rate differential in violation of this subsection shallnot, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
 
 (2) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
 
@@ -66,7 +66,9 @@ Any employee—
 
 (5) This subsection shall only apply to an employee who has not attained the age of 20 years, except in the case of the wage applicable in Puerto Rico, 25 years, until such time as the Board described in paragraph (2) terminates in accordance with section 2149 of title 48.
 
-(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929; Pub. L. 110–28, title VIII, §§8102(a), 8103(c)(1)(B), May 25, 2007, 121 Stat. 188, 189; Pub. L. 114–187, title IV, §403, June 30, 2016, 130 Stat. 586.)
+(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80 Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929; Pub. L. 110–28, title VIII, §§8102(a), 8103(c)(1)(B), May 25, 2007, 121 Stat. 188, 189; Pub. L. 114–187, title IV, §403, June 30, 2016, 130 Stat. 586.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -74,7 +76,7 @@ Subsection (a)(5), referred to in subsec. (b), was redesignated subsec. (a)(4) o
 
 The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235.Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Fair Labor Standards Amendments of 1974, referred to in subsec. (b), is Pub. L. 93–259, Apr. 8, 1974, 88 Stat. 55. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
 
@@ -122,7 +124,7 @@ Subsec. (b). Pub. L. 95–151, §2(c), substituted provisions for a minimum wage
 
 Subsec. (c)(1). Pub. L. 95–151, §2(d)(2)(A), inserted "(A)" before "heretofore" and cl. (B), and substituted "subsection (a)(1)" for "subsections (a) and (b)".
 
-Subsec. (c)(2). Pub. L. 95–151, §2(d)(1), added par. (2). Former par. (2), relating to applicability, etc., of wagerate orders effective on the effective date of the Fair Labor Standards Amendments of 1974, and effective on the first day of the second and each subsequent year after such date, was struck out.
+Subsec. (c)(2). Pub. L. 95–151, §2(d)(1), added par. (2). Former par. (2), relating to applicability, etc., of wage rate orders effective on the effective date of the Fair Labor Standards Amendments of 1974, and effective on the first day of the second and each subsequent year after such date, was struck out.
 
 Subsec. (c)(3). Pub. L. 95–151, §2(d)(1), (2)(B), (C), redesignated par. (5) as (3) and substituted references to subsec. (a)(1) of this section, for references to subsec. (a) or (b) of this section. Former par. (3), relating to appointment of a special industry committee for recommendations with respect to highest minimum wage rates for employees employed in Puerto Rico or the Virgin Islands subject to the amendments to this chapter by the Fair Labor Standards Amendments of 1974, was struck out.
 
@@ -130,7 +132,7 @@ Subsec. (c)(4). Pub. L. 95–151, §2(d)(1), (2)(B), (D), redesignated par. (6) 
 
 Subsec. (c)(5), (6). Pub. L. 95–151, §2(d)(2)(B), redesignated pars. (5) and (6) as (3) and (4), respectively.
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–259, §2, substituted "not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975" for "not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter".
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–259, §2, substituted "not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during theyear beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975" for "not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter".
 
 Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
 
@@ -150,7 +152,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 "(3) In the case of any such employee to whom subsection (a)(5) or subsection (b) would otherwise apply, the Secretary shall within sixty days after the effective date of the Fair Labor Standards Amendments of 1966 appoint a special industry committee in accordance with section 205 of this title to recommend the highest minimum wage rate or rates in accordance with the standards prescribed by section 208 of this title, but not in excess of the applicable rate provided by subsection (a)(5) or subsection (b), to be applicable to such employee in lieu of the rate or rates prescribed by subsection (a)(5) or subsection (b), as the case may be. The rate or rates recommended by the special industry committee shall be effective with respect to such employee upon the effective date of the wage order issued pursuant to such recommendation but not before sixty days after the effective date of the Fair Labor Standards Amendments of 1966.
 
-"(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant tothe provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b)) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee."
+"(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b)) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee."
 
 Subsec. (f). Pub. L. 93–259, §7(b)(1), added subsec. (f).
 
@@ -189,6 +191,8 @@ Subsec. (c). Pub. L. 87–30, §5(c), added subsec. (c). Former subsec. (c) had 
 Subsec. (c). Act Oct. 26, 1949, §6(c), continued existing minimum wage rates in Puerto Rico and the Virgin Islands until superseded by special industry committee wage orders.
 
 <b>1940</b>—Subsec. (a)(5). Act June 26, 1940, added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -230,12 +234,6 @@ Act Aug. 12, 1955, ch. 867, §3, 69 Stat. 711, provided that the amendment made 
 
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under section 202 of this title.
 
-#### Transfer of Functions
-
-Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
 
 Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, §520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, §2(a), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, §4(a), July 26, 2012, 126 Stat. 1145; Pub. L. 113–34, §2, Sept. 18, 2013, 127 Stat. 518; Pub. L. 114–61, §1(a), Oct. 7, 2015, 129 Stat. 545, provided that:
@@ -248,7 +246,7 @@ In General.—Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) 
 
 Transition.—Notwithstanding subsection (a)—
 
-&emsp;"(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
+&emsp;"(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
 
 &emsp;&emsp;"(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act \[May 25, 2007\]; and
 
@@ -346,7 +344,7 @@ Notice.—Each employer shall provide to any eligible employee who is to be paid
 
 "(f)
 
-Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)). Sections 16 and 17 of such Act (29 U.S.C. 216 and 217) shall apply with respect to the violation.
+Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 (29U.S.C. 215(a)(3)). Sections 16 and 17 of such Act (29 U.S.C. 216 and 217) shall apply with respect to the violation.
 
 "(g)
 
@@ -430,7 +428,7 @@ Certain public agencies not to be liable for violations of this section occurrin
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Inapplicability to Northern Mariana Islands
 
@@ -456,11 +454,19 @@ Pub. L. 88–38, §2, June 10, 1963, 77 Stat. 56, provided that:
 
 &emsp;"(5) constitutes an unfair method of competition.
 
-"(b) It is hereby declared to be the policy of this Act \[amending this section, and enacting provisions set out as notes under this section\], through exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct the conditions above referred to in such industries."
+"(b) It is hereby declared to be the policy of this Act \[amending this section, and enacting provisions set outas notes under this section\], through exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct the conditions above referred to in such industries."
 
 #### Definition of "Administrator"
 
 The term "Administrator" as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

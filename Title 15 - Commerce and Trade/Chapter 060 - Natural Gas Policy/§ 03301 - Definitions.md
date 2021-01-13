@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 #### (B) New wells
 
-&emsp;&emsp;The term "marker well" does not include any new well under paragraph (3)(A) but includes any new well under paragraph (3)(B) ifsuch well qualifies as a marker well under subparagraph (A) of this paragraph.
+&emsp;&emsp;The term "marker well" does not include any new well under paragraph (3)(A) but includes any new well under paragraph (3)(B) if such well qualifies as a marker well under subparagraph (A) of this paragraph.
 
 #### (6) Reservoir
 

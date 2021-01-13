@@ -8,7 +8,7 @@ For purposes of this part—
 
 #### (2) Clean alternative fuel
 
-&emsp;The term "clean alternative fuel" means any fuel (including methanol, ethanol, or other alcohols (including any mixture thereof containing 85 percent or more by volume of such alcohol with gasoline or other fuels), reformulated gasoline, diesel, natural gas, liquefied petroleum gas, and hydrogen) or power source (including electricity) used in a clean-fuel vehicle that complies with the standards and requirements applicable to such vehicle under this subchapter when using such fuel or power source. In the case of any flexible fuel vehicle or dual fuel vehicle, the term "clean alternative fuel" means only a fuel with respect to which such vehicle was certified as a clean-fuel vehicle meeting the standards applicable to clean-fuel vehicles under section 7583(d)(2) of this title when operating on clean alternative fuel (or any CARB standards which replaces such standards pursuant to section 7583(e) of this title).
+&emsp;The term "clean alternative fuel" means any fuel (including methanol, ethanol, orother alcohols (including any mixture thereof containing 85 percent or more by volume of such alcohol with gasoline or other fuels), reformulated gasoline, diesel, natural gas, liquefied petroleum gas, and hydrogen) or power source (including electricity) used in a clean-fuel vehicle that complies with the standards and requirements applicable to such vehicle under this subchapter when using such fuel or power source. In the case of any flexible fuel vehicle or dual fuel vehicle, the term "clean alternative fuel" means only a fuel with respect to which such vehicle was certified as a clean-fuel vehicle meeting the standards applicable to clean-fuel vehicles under section 7583(d)(2) of this title when operating on clean alternative fuel (or any CARB standards which replaces such standards pursuant to section 7583(e) of this title).
 
 #### (3) NMOG
 
@@ -59,7 +59,7 @@ For purposes of this part—
 
 #### (7) Clean-fuel vehicle
 
-&emsp;The term "clean-fuel vehicle" means a vehicle in a class or category of vehicles which hasbeen certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
+&emsp;The term "clean-fuel vehicle" means a vehicle in a class or category of vehicles which has been certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
 
 (July 14, 1955, ch. 360, title II, §241, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2511.)
 

@@ -32,7 +32,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(2) outline and prioritize the full range of the critical homeland security mission areas of the Nation;
 
-&emsp;(3) describe the interagency cooperation, preparedness of Federal response assets, infrastructure, budget plan, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the national homeland security strategydescribed in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
+&emsp;(3) describe the interagency cooperation, preparedness of Federal response assets, infrastructure, budget plan, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
 
 &emsp;(4) identify the budget plan required to provide sufficient resources to successfully execute the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
 
@@ -44,7 +44,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 #### (1) In general
 
-&emsp;Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
+&emsp;Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit toCongress a report regarding that quadrennial homeland security review.
 
 #### (2) Contents of report
 
@@ -78,6 +78,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 107–296, title VII, §707, as added Pub. L. 110–53, title XXIV, §2401(a), Aug. 3, 2007, 121 Stat. 543; amended Pub. L. 114–328, div. A, title XIX, §1902(b), Dec. 23, 2016, 130 Stat. 2672; Pub. L. 116–92, div. A, title XVII, §1740(b), Dec. 20, 2019, 133 Stat. 1824.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(3)(A). Pub. L. 116–92, §1740(b)(1), inserted "the Secretary of Energy," after "the Secretary of Agriculture".
@@ -85,6 +87,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 Subsec. (c)(2)(B). Pub. L. 116–92, §1740(b)(2), which directed insertion of "or for purposes of the quadrennial EMP and GMD risk assessment under section 195f(d)(1)(E) of this title" after review, was executed by making the insertion after "review" as if quotation marks had appeared around the word in the directory language, to reflect the probable intent of Congress.
 
 <b>2016</b>—Subsec. (a)(3)(B). Pub. L. 114–328 inserted ", including the Under Secretary for Strategy, Policy, and Plans" after "Department".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Preparation for First Quadrennial Homeland Security Review
 

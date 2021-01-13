@@ -20,6 +20,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177 substituted "motor vehicle, vessel, or aircraft" for "motor vehicle or aircraft".

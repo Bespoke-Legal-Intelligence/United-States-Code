@@ -2,7 +2,7 @@
 
 (a)(1) From amounts made available under section 9835(a)(2)(B)(vi) of this title, the Secretary shall award the collaboration grants described in paragraphs (2), (3), and (4).
 
-(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programs and migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) and entities that carry out activities designed to benefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
+(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programs and migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) and entities that carry out activities designed tobenefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
 
 (B) Grants described in subparagraph (A) shall be used to—
 
@@ -52,7 +52,7 @@
 
 &emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact on child development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
 
-&emsp;(F) promote partnerships between Head Start agencies and other organizations in order to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
+&emsp;(F) promote partnerships between Head Start agencies and other organizations inorder to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
 
 &emsp;(G) identify other resources and organizations (both public and private) for the provision of in-kind services to Head Start agencies in the State; and
 
@@ -104,7 +104,7 @@
 
 &emsp;(VII) make recommendations for improvements in State early learning standards and undertake efforts to develop high-quality comprehensive early learning standards, as appropriate.
 
-(ii) The State Advisory Council shall hold public hearings and provide an opportunity for public comment on the activities described inclause (i). The State Advisory Council shall submit a statewide strategic report addressing the activities described in clause (i) to the State Director of Head Start Collaboration and the Governor of the State.
+(ii) The State Advisory Council shall hold public hearings and provide an opportunity for public comment on the activities described in clause (i). The State Advisory Council shall submit a statewide strategic report addressing the activities described in clause (i) to the State Director of Head Start Collaboration and the Governor of the State.
 
 (iii) After submission of a statewide strategic report under clause (ii), the State Advisory Council shall meet periodically to review any implementation of the recommendations in such report and any changes in State and local needs.
 

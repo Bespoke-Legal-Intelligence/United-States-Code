@@ -22,7 +22,7 @@
 
 &emsp;(6) "system of records" has the same meaning given that term in section 552a(a)(5) of title 5.
 
-&emsp;(7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+&emsp;(7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force,Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
 &emsp;(8) "nontax" means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
@@ -62,7 +62,7 @@
 
 (f) In section 3711 of this title, "private collection contractor" means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361,1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 116–283, div. A, title IX, §927(d)(1), Jan. 1, 2021, 134 Stat. 3831.)
 
 Historical and Revision Notes<br>1982
 
@@ -156,7 +156,7 @@ Oct. 25, 1982, Pub. L. 97–365, §8(e)(related to §§3, 10(2)–12, 13(b)), 96
 
 In subsections (a)(1), (b), and (c), the word "Government" is added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(3)(B), before clause (i), the word "money" is substituted for "monetary fees, dues" to eliminate unnecessary words. The words "engages in whole or in part in the practice of" are omitted as surplus. In clause (i), the words "credit or other" and "(as defined in clause (i) of this subparagraph)" are omitted as surplus.
+In subsection (a)(3)(B), before clause (i), the word "money" is substituted for "monetary fees, dues" to eliminate unnecessary words. The words "engages in whole or in part in the practice of" are omitted as surplus. In clause (i), the words "credit or other" and "(asdefined in clause (i) of this subparagraph)" are omitted as surplus.
 
 In subsection (a)(6), 31 App.:952(d)(4)(C) is omitted as unnecessary.
 
@@ -165,6 +165,8 @@ In subsection (b), the words "all . . . from fees, duties, leases, rents, roya
 In subsection (c), the words "unit of general" are added for consistency in the revised title.
 
 In subsection (d), the word "arising" is omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -175,6 +177,8 @@ The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7). Pub. L. 116–283 inserted "Space Force," after "Marine Corps,".
 
 <b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–107 inserted ", including actual and administrative costs related to shoplifting, theft detection, and theft prevention" before comma at end.
 
@@ -202,6 +206,8 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 
 <b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted "Government" for "United States Government", redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out "the" before "Commissioned Corps" in two places, and added subsecs. (b) to (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–169, title II, §203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: "The amendments made by this section \[amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare\] shall apply to debt outstanding on or after the date of the enactment of this Act \[Dec. 14, 1999\]."
@@ -226,7 +232,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 104–134, title III, §31001(b), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
 
-&emsp;"(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action to enforce recovery of debts and the use of all appropriate collection tools.
+&emsp;"(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action toenforce recovery of debts and the use of all appropriate collection tools.
 
 &emsp;"(2) To minimize the costs of debt collection by consolidating related functions and activities and utilizing interagency teams.
 

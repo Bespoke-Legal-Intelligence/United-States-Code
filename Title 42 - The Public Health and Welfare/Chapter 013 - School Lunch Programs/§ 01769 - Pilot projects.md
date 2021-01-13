@@ -88,7 +88,7 @@
 
 #### (6) Evaluation
 
-&emsp;As a condition of receiving a grant under this subsection, each grant recipient shall agree to cooperate in an evaluation by the Secretary of the program carried out using grant funds.
+&emsp;As a condition of receiving a grant under this subsection, each grant recipient shallagree to cooperate in an evaluation by the Secretary of the program carried out using grant funds.
 
 #### (7) Technical assistance
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(iii) in the case of a service institution that provides meal service at a nonschool site to children who are not in school for a period during the school year due to a natural disaster, building repair, court order, or similar case, at anytime during such a period; and
 
-&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, and school holidays during the regular school calendar.
+&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, andschool holidays during the regular school calendar.
 
 #### (2) Payments
 
@@ -342,7 +342,7 @@ Subsec. (k). Pub. L. 111–296, §243(1), redesignated subsec. (j) as (k).
 
 <b>2009</b>—Subsec. (h)(5). Pub. L. 111–80 substituted "2010" for "2009".
 
-<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
+<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively,and struck out former subsec. (f) which related to fresh fruit and vegetable program.
 
 Subsec. (h). Pub. L. 110–246, §4304(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that: "This title \[amending this sectionand section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992."
+Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that: "This title \[amending this section and section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992."
 
 #### Effective Date of 1978 Amendment
 

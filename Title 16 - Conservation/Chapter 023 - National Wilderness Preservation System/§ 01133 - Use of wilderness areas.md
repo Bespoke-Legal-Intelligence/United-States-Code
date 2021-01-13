@@ -24,7 +24,7 @@ The following special provisions are hereby made:
 
 #### (1) Aircraft or motorboats; fire, insects, and diseases
 
-Within wilderness areas designated by this chapter the use of aircraft or motorboats, where these uses have already become established, may be permitted to continue subject to such restrictions as the Secretary of Agriculture deems desirable. In addition, such measures may be taken as may be necessary in the control of fire, insects, and diseases, subject to such conditions as the Secretary deems desirable.
+Within wilderness areas designated by this chapter the use of aircraft or motorboats, wherethese uses have already become established, may be permitted to continue subject to such restrictions as the Secretary of Agriculture deems desirable. In addition, such measures may be taken as may be necessary in the control of fire, insects, and diseases, subject to such conditions as the Secretary deems desirable.
 
 #### (2) Mineral activities, surveys for mineral value
 
@@ -50,13 +50,13 @@ Nothing in this chapter shall constitute an express or implied claim or denial o
 
 Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the several States with respect to wildlife and fish in the national forests.
 
-(Pub. L. 88–577, §4, Sept. 3, 1964, 78 Stat. 893; Pub. L. 95–495, §4(b), Oct. 21, 1978, 92 Stat. 1650; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 113–287, §5(d)(21), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 88–577, §4, Sept. 3, 1964, 78 Stat. 893; Pub. L. 95–495, §4(b), Oct. 21, 1978, 92 Stat. 1650; Pub.L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 113–287, §5(d)(21), Dec. 19, 2014, 128 Stat. 3266.)
 
 #### References in Text
 
 Act of June 4, 1897, referred to in subsec. (a)(1), is act June 4, 1897, ch. 2, 30 Stat. 11, the Sundry Civil Appropriation Act for Fiscal Year 1898. For classification of that part of this Act classified to the Code, see Tables.
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (a)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (a)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 The Shipstead-Nolan Act, referred to in subsec. (a)(2), is act July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to sections 577 to 577b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 577 of this title and Tables.
 

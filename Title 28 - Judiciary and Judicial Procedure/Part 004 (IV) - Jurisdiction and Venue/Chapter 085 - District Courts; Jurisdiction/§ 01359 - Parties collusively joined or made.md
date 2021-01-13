@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed. §§41(1) and 80 (Mar. 3, 1911, ch. 231, §�
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1332, 1341, 1342, 1345, and 1354 of this title.
 
-Provisions of section 80 of title 28, U.S.C., 1940 ed., for payment of costs upon dismissal of an action for lack of jurisdiction are incorporated in section 1919 of this title. Other provisions of said section 80 appear in section 1447 of this title.
+Provisions of section 80 of title 28, U.S.C., 1940 ed., for payment of costs upon dismissal of an action for lack of jurisdiction are incorporated in section 1919 of thistitle. Other provisions of said section 80 appear in section 1447 of this title.
 
 Provisions of section 80 of title 28, U.S.C., 1940 ed., for dismissal of an action not really and substantially involving a dispute or controversy within the jurisdiction of a district court, were omitted as unnecessary. Any court will dismiss a case not within its jurisdiction when its attention is drawn to the fact, or even on its own motion.
 

@@ -8,7 +8,9 @@ Photographs, microphotographs of records, or digitized records made in complianc
 
 Based on 44 U.S. Code, 1964 ed., §378 (July 7, 1943, ch. 192, §13, 57 Stat. 382).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–187 substituted "Photographs, microphotographs of records, or digitized records" for "Photographs or microphotographs of records" and substituted "photographs, microphotographs, or digitized records" for "photographs or microphotographs" in two places.
+<b>2014</b>—Pub. L. 113–187 substituted "Photographs, microphotographs of records, or digitized records" for"Photographs or microphotographs of records" and substituted "photographs, microphotographs, or digitized records" for "photographs or microphotographs" in two places.
 

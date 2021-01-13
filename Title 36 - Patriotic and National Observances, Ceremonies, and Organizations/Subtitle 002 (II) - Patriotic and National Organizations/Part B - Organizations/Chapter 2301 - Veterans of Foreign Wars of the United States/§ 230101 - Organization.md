@@ -42,6 +42,8 @@ Subsection (a) is substituted for the source provisions for consistency in the r
 
 In subsection (b), the words "perpetual existence" are substituted for "perpetual succession" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–199 substituted "veterans" for "men".

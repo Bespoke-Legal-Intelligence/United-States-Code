@@ -8,7 +8,7 @@ The Secretary, acting through the Director, shall carry out a Native American ex
 
 In carrying out the program, the Secretary, acting through the Director, and in cooperation with the heads of appropriate Federal agencies, shall ensure the coordination of Federal programs and services designed to—
 
-&emsp;(1) develop the economies of Indian tribes; and
+&emsp;(1) develop the economies of Indian Tribes; and
 
 &emsp;(2) stimulate the demand for Indian goods and services that are available from eligible entities.
 
@@ -48,5 +48,11 @@ In carrying out the duties and activities described in subsections (b) and (c), 
 
 &emsp;(2) foster long-term stable international markets for Indian goods and services.
 
-(Pub. L. 106–464, §5, Nov. 7, 2000, 114 Stat. 2016.)
+(Pub. L. 106–464, §5, Nov. 7, 2000, 114 Stat. 2016; Pub. L. 116–261, §3(e)(2), Dec. 30, 2020, 134 Stat. 3311.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–261 substituted "Tribes" for "tribes".
 

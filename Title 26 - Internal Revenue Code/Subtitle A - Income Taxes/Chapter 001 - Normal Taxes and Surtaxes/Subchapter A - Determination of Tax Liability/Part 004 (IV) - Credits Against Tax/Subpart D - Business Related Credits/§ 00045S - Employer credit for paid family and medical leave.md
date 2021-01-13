@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (i) Added employee
 
-&emsp;&emsp;&emsp;The term "added employee" means a qualifying employee who is not covered by title I of the Family and Medical Leave Act of 1993, as amended.
+&emsp;&emsp;&emsp;The term "added employee" means a qualifying employee who is not covered bytitle I of the Family and Medical Leave Act of 1993, as amended.
 
 #### (ii) Added employer
 
@@ -120,9 +120,9 @@ For purposes of this section, the term "wages" has the meaning given such term b
 
 #### (i) Termination
 
-This section shall not apply to wages paid in taxable years beginning after December 31, 2020.
+This section shall not apply to wages paid in taxable years beginning after December 31, 2025.
 
-(Added Pub. L. 115–97, title I, §13403(a)(1), Dec. 22, 2017, 131 Stat. 2135; amended Pub. L. 116–94, div. Q, title I, §142(a), Dec. 20, 2019, 133 Stat. 3234.)
+(Added Pub. L. 115–97, title I, §13403(a)(1), Dec. 22, 2017, 131 Stat. 2135; amended Pub. L. 116–94, div. Q, title I, §142(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §119(a), Dec. 27, 2020, 134 Stat. 3051.)
 
 #### References in Text
 
@@ -132,7 +132,13 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Amendments
 
+<b>2020</b>—Subsec. (i). Pub. L. 116–260 substituted "December 31, 2025" for "December 31, 2020".
+
 <b>2019</b>—Subsec. (i). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made by this section \[amending this section\] shall apply to wages paid in taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

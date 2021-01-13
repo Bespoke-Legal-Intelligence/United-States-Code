@@ -74,7 +74,7 @@ Section 1123(a)(5) of the House amendment is derived from a similar provision in
 
 Subsection (a) specifies what a plan of reorganization must contain. The plan must designate classes of claims and interests, and specify, by class, the claims or interests that are unimpaired under the plan. Priority claims are not required to be classified because they may not have arisen when the plan is filed. The plan must provide the same treatment for each claim or interest of a particular class, unless the holder of a particular claim or interest agrees to a different, but not better, treatment of his claim or interest.
 
-Paragraph (3) applies to claims, not creditors. Thus, if a creditor is undersecured, and thus has a securedclaim and an unsecured claim, this paragraph will be applied independently to each of his claims.
+Paragraph (3) applies to claims, not creditors. Thus, if a creditor is undersecured, and thus has a secured claim and an unsecured claim, this paragraph will be applied independently to each of his claims.
 
 Paragraph (4) of subsection (a) is derived from section 216 of chapter X \[section 616 of former title 11\] with some modifications. It requires the plan to provide adequate means for the plans execution. These means may include retention by the debtor of all or any part of the property of the estate, transfer of all or any part of the property of the estate to one or more entities, whether organized pre- or postconfirmation, merger or consolidation of the debtor with one or more persons, sale and distribution of all or any part of the property of the estate, satisfaction or modification of any lien, cancellation or modification of any indenture or similar instrument, curing or waiving of any default, extension of maturity dates or change in interest rates of securities, amendment of the debtor's charter, and issuance of securities.
 
@@ -87,6 +87,8 @@ Subsection (b) specifies the matters that the plan may propose. The plan may imp
 The plan may also propose the sale of all or substantially all of the property of the estate, and the distribution of the proceeds of the sale among creditors and equity security holders. This would be a liquidating plan. The subsection permits the plan to include any other appropriate provision not inconsistent with the applicable provisions of the bankruptcy code.
 
 Subsection (c) protects an individual debtor's exempt property by prohibiting its use, sale, or lease under a plan proposed by someone other than the debtor, unless the debtor consents.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -111,6 +113,8 @@ Subsec. (a)(5). Pub. L. 98–353, §507(a)(4), substituted "implementation" for 
 Subsec. (a)(5)(G). Pub. L. 98–353, §507(a)(5), inserted "of" after "waiving".
 
 Subsec. (b)(2). Pub. L. 98–353, §507(b), substituted "rejection, or assignment" for "or rejection", and "under such section" for "under section 365 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

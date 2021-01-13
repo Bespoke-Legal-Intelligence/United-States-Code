@@ -38,7 +38,7 @@ Maximum Federal Share.—The maximum Federal share for carrying out a project un
 
 (c)
 
-Use of Funds.—Grants provided under this section shall be used to implement track capital projects as soon as possible. In no event shall grant funds be contractually obligated for a project later than the end of the third Federalfiscal year following the year in which the grant was awarded. Any funds not so obligated by the end of such fiscal year shall be returned to the Secretary for reallocation.
+Use of Funds.—Grants provided under this section shall be used to implement track capital projects as soon as possible. In no event shall grant funds be contractually obligated for a project later than the end of the third Federal fiscal year following the year in which the grant was awarded. Any funds not so obligated by the end of such fiscal year shall be returned to the Secretary for reallocation.
 
 (d)
 
@@ -74,7 +74,7 @@ The Railway Labor Act, referred to in subsec. (e)(2), is act May 20, 1926, ch. 3
 
 #### Prior Provisions
 
-A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
+A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants forlight density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
 
 #### Amendments
 

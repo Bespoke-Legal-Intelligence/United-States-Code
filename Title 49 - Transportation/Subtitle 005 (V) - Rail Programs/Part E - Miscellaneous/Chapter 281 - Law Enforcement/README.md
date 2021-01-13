@@ -130,7 +130,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Agreement should provide for the Commission to study and assess, on the basisof all available relevant information, the feasibility and advisability of linking the rail system in Alaska to the North American continental rail system through the continuation of the rail system in Alaska from its northeastern terminus to a connection with the continental rail system in Canada.
+In general.—The Agreement should provide for the Commission to study and assess, on the basis of all available relevant information, the feasibility and advisability of linking the rail system in Alaska to the North American continental rail system through the continuation of the rail system in Alaska from its northeastern terminus to a connection with the continental rail system in Canada.
 
 &emsp;"(2)
 

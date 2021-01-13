@@ -8,11 +8,11 @@ Whoever, being an officer, agent or employee of or connected in any capacity wit
 
 #### 1948 Act
 
-Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c) and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(u), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, fourth par., 39 Stat. 383; July 17, 1916, ch. 245, §211(a), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459; Mar. 4, 1923, ch. 252, title II, §216(a), 42Stat. 1471; Jan. 22, 1932, ch. 8, §16(c), 47 Stat. 11; July 22, 1932, ch. 522, §21(c), 47 Stat. 738; Ex. Ord. No. 6084, Mar. 27, 1933; June 13, 1933, ch. 64, §8(c), 48 Stat. 135; June 16, 1933, ch. 98, §64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 27, 1934, ch. 847, §512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, §101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, §52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
+Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c) and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(u), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, fourth par., 39 Stat. 383; July 17, 1916, ch. 245, §211(a), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459; Mar. 4, 1923, ch. 252, title II, §216(a), 42 Stat. 1471; Jan. 22, 1932, ch. 8, §16(c), 47 Stat. 11; July 22, 1932, ch. 522, §21(c), 47 Stat. 738; Ex. Ord. No. 6084, Mar. 27, 1933; June 13, 1933, ch. 64, §8(c), 48 Stat. 135; June 16, 1933, ch. 98, §64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 27, 1934, ch. 847, §512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, §101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, §52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
 
 Each of the eleven sections from which this section was derived contained similar provisions relating to embezzlement, false entries, and fraudulent issuance or assignment of obligations with respect to one or more named agencies or corporations.
 
-These were divided and the false entry and fraudulent issuance or assignment of obligation provisions of all, form the basis of this section. The remaining provisions of each section, relating to embezzlement and misapplication, form the basis for section 657 of this title. That portion of said section 616(c) of title 15, relating to disclosure of information, forms the basis for section 1904 of this title.
+These were divided and the false entry and fraudulent issuance or assignment of obligation provisions of all, form the basis of this section. The remaining provisionsof each section, relating to embezzlement and misapplication, form the basis for section 657 of this title. That portion of said section 616(c) of title 15, relating to disclosure of information, forms the basis for section 1904 of this title.
 
 Each revised section condenses and simplifies the constituent provisions without change of substance except as herein indicated.
 
@@ -35,6 +35,8 @@ The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Ban
 #### 1949 Act
 
 \[Section 20\] conforms section 1006 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision Notes under section 657 of this title\]).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -72,17 +74,21 @@ Pub. L. 101–73, §961(e), substituted "$1,000,000" for "$10,000" and "20 years
 
 <b>1949</b>—Act May 24, 1949, inserted reference Secretary of Agriculture acting through the Farmers' Home Administration.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-#### Exceptions From Transfer of Functions
-
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### National Credit Union Administration
 
 Establishment as independent agency, membership etc., see section 1752 et seq. of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
+#### Exceptions From Transfer of Functions
+
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Farm Credit Administration
 

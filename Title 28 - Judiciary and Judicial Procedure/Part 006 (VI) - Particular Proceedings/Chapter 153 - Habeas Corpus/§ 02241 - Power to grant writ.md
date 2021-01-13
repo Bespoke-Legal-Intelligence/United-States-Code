@@ -22,7 +22,7 @@
 
 (2) Except as provided in paragraphs (2) and (3) of section 1005(e) of the Detainee Treatment Act of 2005 (10 U.S.C. 801 note), no court, justice, or judge shall have jurisdiction to hear or consider any other action against the United States or its agents relating to any aspect of the detention, transfer, treatment, trial, or conditions of confinement of an alien who is or was detained by the United States and has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.
 
-(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §112, 63 Stat. 105; Pub. L. 89–590, Sept. 19, 1966, 80 Stat. 811; Pub. L. 109–148, div. A, title X, §1005(e)(1), Dec. 30, 2005, 119 Stat. 2741; Pub. L. 109–163, div. A, title XIV, §1405(e)(1), Jan. 6, 2006, 119 Stat. 3477; Pub. L. 109–366, §7(a), Oct. 17, 2006, 120 Stat. 2635; Pub. L. 110–181, div. A, title X, §1063(f), Jan. 28, 2008, 122 Stat. 323.)
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §112, 63 Stat. 105; Pub. L. 89–590, Sept. 19, 1966, 80 Stat. 811; Pub. L. 109–148, div. A, title X, §1005(e)(1), Dec. 30, 2005, 119 Stat. 2741; Pub. L.109–163, div. A, title XIV, §1405(e)(1), Jan. 6, 2006, 119 Stat. 3477; Pub. L. 109–366, §7(a), Oct. 17, 2006, 120 Stat. 2635; Pub. L. 110–181, div. A, title X, §1063(f), Jan. 28, 2008, 122 Stat. 323.)
 
 #### Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Subsection (b) was added to give statutory sanction to orderly and appropriate p
 #### 1949 Act
 
 This section inserts commas in certain parts of the text of subsection (b) of section 2241 of title 28, U.S.C., for the purpose of proper punctuation.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Subsec. (e). Pub. L. 109–163 added subsec. (e), relating to section 1405 of th
 <b>1966</b>—Subsec. (d). Pub. L. 89–590 added subsec. (d).
 
 <b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after "Supreme Court" and "any justice thereof".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

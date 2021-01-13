@@ -26,6 +26,8 @@ Changes were made in phraseology.
 
 This section corrects a typographical error in subsection (a) of section 2001 of title 28, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1949</b>—Subsec. (a). Act May 24, 1949, corrected spelling of "ancillary" in second par.

@@ -50,7 +50,7 @@ The regulations under subsection (b) shall—
 
 #### (1) In general
 
-&emsp;The Secretary may waive any requirement under this section, with respect to any class ofpersons, vehicles, food, or nonfood products, if the Secretary determines that the waiver—
+&emsp;The Secretary may waive any requirement under this section, with respect to any class of persons, vehicles, food, or nonfood products, if the Secretary determines that the waiver—
 
 &emsp;&emsp;(A) will not result in the transportation of food under conditions that would be unsafe for human or animal health; and
 
@@ -79,6 +79,8 @@ The regulations under subsection (b) shall—
 The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.
 
 (June 25, 1938, ch. 675, §416, as added Pub. L. 109–59, title VII, §7202(b), Aug. 10, 2005, 119 Stat. 1911.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

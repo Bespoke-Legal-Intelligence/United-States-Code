@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d), an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term "qualified alien".
+Notwithstanding any other provision of law and except as provided in subsections (b), (c),and (d), an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term "qualified alien".
 
 #### (b) Exceptions
 
@@ -29,6 +29,10 @@ The limitation under subsection (a) shall not apply to the following aliens:
 &emsp;&emsp;(B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
 &emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>2</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
+
+#### (3) Exception for citizens of freely associated states
+
+&emsp;An individual described in section 1612(b)(2)(G) of this title, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title.
 
 #### (c) Application of term Federal means-tested public benefit
 
@@ -68,7 +72,9 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716; Pub. L. 116–260, div. CC, title II, §208(b), Dec. 27, 2020, 134 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -82,7 +88,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Titles IV, V, IX, and X of the Act are classified generally to subchapters IV (§1070 et seq.), V (§1101 et seq.), IX (§1134 et seq.), and X (§1135 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -97,6 +103,8 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), 
 The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(3). Pub. L. 116–260 added par. (3).
 
 <b>2014</b>—Subsec. (c)(2)(K). Pub. L. 113–128 substituted "Benefits under title I of the Workforce Innovation and Opportunity Act" for "Benefits under the title I of the Workforce Investment Act of 1998".
 
@@ -125,6 +133,12 @@ Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end "o
 Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
 
 Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: "The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by section 208(b) of Pub. L. 116–260 applicable to benefits for items and services furnished on or after Dec. 27, 2020, see section 208(e) of Pub. L. 116–260, set out as a note under section 1612 of this title.
 
 #### Effective Date of 2014 Amendment
 

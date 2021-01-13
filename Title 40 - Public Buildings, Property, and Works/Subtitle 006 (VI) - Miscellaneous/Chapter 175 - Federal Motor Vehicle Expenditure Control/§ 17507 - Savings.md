@@ -2,7 +2,7 @@
 
 (a)
 
-Actions by President Required.—The President shall establish, for each executive agency, goals to reduce outlays for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles in order to reduce, by fiscal year 1988, the total amount of outlays by all executive agencies for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles to an amount which is $150,000,000 less than the amount for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles requested by the President in the budget submitted under section 1105 of title 31 for fiscal year 1986.
+Actions by President Required.—The President shall establish, for each executiveagency, goals to reduce outlays for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles in order to reduce, by fiscal year 1988, the total amount of outlays by all executive agencies for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles to an amount which is $150,000,000 less than the amount for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles requested by the President in the budget submitted under section 1105 of title 31 for fiscal year 1986.
 
 (b)
 
@@ -25,6 +25,8 @@ Historical and Revision Notes
 40:908.
 
 Pub. L. 99–272, title XV, §15308, Apr. 7, 1986, 100 Stat. 337.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Vehicle Repair Cost Savings
 

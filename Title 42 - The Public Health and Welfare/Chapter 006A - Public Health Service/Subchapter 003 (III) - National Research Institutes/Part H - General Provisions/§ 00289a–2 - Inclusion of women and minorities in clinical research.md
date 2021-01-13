@@ -112,7 +112,7 @@ For purposes of this section:
 
 &emsp;(1) The term "project of clinical research" includes a clinical trial.
 
-&emsp;(2) The term "minority group" includes subpopulations of minority groups. The Director of NIH shall, through the guidelines established under subsection (d), define the terms"minority group" and "subpopulation" for purposes of the preceding sentence.
+&emsp;(2) The term "minority group" includes subpopulations of minority groups. The Director of NIH shall, through the guidelines established under subsection (d), define the terms "minority group" and "subpopulation" for purposes of the preceding sentence.
 
 (July 1, 1944, ch. 373, title IV, §492B, as added Pub. L. 103–43, title I, §131, June 10, 1993, 107 Stat. 133; amended Pub. L. 114–255, div. A, title II, §§2031(c), 2038(b), 2053, Dec. 13, 2016, 130 Stat. 1056, 1065, 1076.)
 

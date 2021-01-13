@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (9), and (10) of section 3311(b).
+Establishment of Program.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
 
 (b)
 
@@ -14,7 +14,7 @@ Agreements.—The Secretary shall enter into an agreement with each college or u
 
 &emsp;(1) The manner (whether by direct grant, scholarship, or otherwise) of the contributions to be made by the college or university concerned.
 
-&emsp;(2) The maximum amount of the contribution to be made by the college or university concerned with respect to any particular individual in any given academic year.
+&emsp;(2) The maximum amount of the contribution to be made by the college or universityconcerned with respect to any particular individual in any given academic year.
 
 &emsp;(3) The maximum number of individuals for whom the college or university concerned will make contributions in any given academic year.
 
@@ -36,23 +36,31 @@ Use of appropriated funds.—Amounts available to the Secretary under section 33
 
 Outreach.—The Secretary shall make available on the Internet website of the Department available to the public a current list of the colleges and universities participating in the program under this section. The list shall specify, for each college or university so listed, appropriate information on the agreement between the Secretary and such college or university under subsection (c).
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2368; amended Pub. L. 115–48, title I, §§103(a), 104(a), 105(c)(4), Aug. 16, 2017, 131 Stat. 975, 976.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2368; amended Pub. L. 115–48, title I, §§103(a), 104(a), 105(c)(4), Aug. 16, 2017, 131 Stat. 975, 976; Pub. L. 116–315, title I, §§1002(b)(3), 1008, Jan. 5, 2021, 134 Stat. 4938, 4940.)
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 115–48, title I, §104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking "section 3313(c)(1)(A)" and inserting "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title".</i>
+<i>Pub. L. 115–48, title I, §104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking "section 3313(c)(1)(A)" and inserting "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title". See 2017 Amendment note below.</i>
 
-<i>Pub. L. 115–48, title I, §105(c)(4), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (a) of this section is amended, in the second sentence, by striking "paragraphs (1), (2), (9), and (10)" and inserting "paragraphs (1), (2), (8), and (9)".</i>
-
-<i>See 2017 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–315, §1008, substituted "the full cost of tuition and fees for a program of education" for "the full cost of established charges (as specified in section 3313)" and "such tuition and fees" for "those established charges".
+
+Pub. L. 116–315, §1002(b)(3), substituted "paragraphs (1), (2), (8), (9), (10), and (11)" for "paragraphs (1), (2), (8), and (9)".
+
 <b>2017</b>—Subsec. (a). Pub. L. 115–48, §105(c)(4), substituted "paragraphs (1), (2), (8), and (9)" for "paragraphs (1), (2), (9), and (10)".
 
-Pub. L. 115–48, §104(a), which directed substitution of "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of thistitle" for "section 3313(c)(1)(A)" in the first sentence, was executed in both places where "section 3313(c)(1)(A)" appeared, to reflect the probable intent of Congress.
+Pub. L. 115–48, §104(a), which directed substitution of "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title" for "section 3313(c)(1)(A)" in the first sentence, was executed in both places where "section 3313(c)(1)(A)" appeared, to reflect the probable intent of Congress.
 
 Pub. L. 115–48, §103(a), substituted "paragraphs (1), (2), (9), and (10)" for "paragraphs (1) and (2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1002(b)(3) of Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2017 Amendment
 

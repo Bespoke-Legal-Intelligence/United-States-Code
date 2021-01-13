@@ -6,6 +6,8 @@
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 687; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -13,6 +15,8 @@
 <b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–622 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -24,5 +28,5 @@ Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub.
 
 #### Effective Date
 
-Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on andafter that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 

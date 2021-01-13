@@ -12,7 +12,7 @@ Qualification Requirements.—(1) The Secretary of Defense shall establish educa
 
 Career Path Requirements.—For each career path, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish requirements for the completion of course work and related on-the-job training and demonstration of qualifications in duties and tasks of the career path. The Secretary of Defense, acting through the Under Secretary, shall also—
 
-&emsp;(1) direct individuals in the acquisition workforce to maintain the currency of theiracquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
+&emsp;(1) direct individuals in the acquisition workforce to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
 
 &emsp;(2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in such end user's environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
 
@@ -74,5 +74,5 @@ Pub. L. 105–85, div. A, title VIII, §853, Nov. 18, 1997, 111 Stat. 1851, whic
 
 #### Fulfillment Standards for Mandatory Training
 
-Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
+Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, titleX, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
 

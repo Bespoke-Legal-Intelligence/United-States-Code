@@ -52,6 +52,8 @@ Region.—The term "region" means the area covered by a Commission as described 
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this chapter, referred to in par. (2)(A)(i)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -63,6 +65,8 @@ Section 501 of the Internal Revenue Code of 1986, referred to in par. (5), is cl
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Repeal of Section
 
-<i>Pub. L. 116–92, div. E, title LIII, §5324(g), Dec. 20, 2019, 133 Stat. 2137, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this section is repealed.</i>
+<i>Pub. L. 116–92, div. E, title LIII, §5324(e), formerly §5324(g), Dec. 20, 2019, 133 Stat. 2137, renumbered §5324(e), Pub. L. 116–260, div. W, title III, §305(c)(3), Dec. 27, 2020, 134 Stat. 2367, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this section is repealed.</i>
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Effective Date of Repeal
 
-Repeal effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, see section 3334a(g)(2) of Title 50.
+Repeal effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, see section 3334a(e)(2) of Title 50.
 
 #### Effective Date of 2008 Amendment
 

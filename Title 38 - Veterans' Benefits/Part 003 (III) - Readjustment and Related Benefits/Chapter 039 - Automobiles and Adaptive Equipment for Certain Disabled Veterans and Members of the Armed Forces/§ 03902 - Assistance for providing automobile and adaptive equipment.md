@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary, under regulations which the Secretary shall prescribe, shall provide each eligible person the adaptive equipment deemed necessary to insure that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's own safety and the safety of others and so as to satisfy the applicable standards of licensure established by the State of such person's residency or other proper licensing authority.
 
-(2) In the case of any veteran (other that a person eligible for assistance under paragraph (1) of this subsection) who is entitled to compensation for ankylosis of one or both knees, or one or both hips, the Secretary, under the terms and conditions set forth in subsections (a), (c), and (d) of section 3903 of this title and under regulations which the Secretary shall prescribe, shall provide such adaptive equipment to overcome the disability resulting from such ankylosis as (A) is necessary to meet the applicable standards of licensure established by the State of such veteran's residency or other proper licensing authority for the operation of such veteran's automobile or other conveyance by such veteran, and (B) is determined to be necessary by the Under Secretary for Health for the safe operation of such automobile or other conveyance by such veteran.
+(2) In the case of any veteran (other that a person eligible for assistance under paragraph (1) of this subsection) who is entitled to compensation for ankylosis of one or both knees, or one or both hips, the Secretary, under the terms and conditions set forth in subsections (a), (c), and (d) of section 3903 of this title and under regulations which the Secretary shall prescribe, shall provide such adaptive equipment to overcome the disability resulting from such ankylosis as (A) is necessary to meet the applicable standards of licensure established by the State ofsuch veteran's residency or other proper licensing authority for the operation of such veteran's automobile or other conveyance by such veteran, and (B) is determined to be necessary by the Under Secretary for Health for the safe operation of such automobile or other conveyance by such veteran.
 
 (c) In accordance with regulations which the Secretary shall prescribe, the Secretary shall (1) repair, replace, or reinstall adaptive equipment deemed necessary for the operation of an automobile or other conveyance acquired in accordance with the provisions of this chapter, and (2) provide, repair, replace, or reinstall such adaptive equipment for any automobile or other conveyance which an eligible person may previously or subsequently have acquired.
 
@@ -12,7 +12,9 @@
 
 (e) Effective on October 1 of each year (beginning in 2011), the Secretary shall increase the dollar amount in effect under subsection (a) by a percentage equal to the percentage by which the Consumer Price Index for all urban consumers (U.S. city average) increased during the 12-month period ending with the last month for which Consumer Price Index data is available. In the event that such Consumer Price Index does not increase during such period, the Secretary shall maintain the dollar amount in effect under subsection (a) during the previous fiscal year.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998,112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 111–275, title VIII, §804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 111–275, title VIII, §804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -54,6 +56,8 @@ Subsec. (c). Pub. L. 97–66, §303, substituted "which the Administrator shall 
 
 Subsec. (c). Pub. L. 93–538, §3(3), substituted "person may previously or subsequently have acquired" for "person may subsequently have acquired".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–275, title VIII, §804(c), Oct. 13, 2010, 124 Stat. 2890, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2011."
@@ -84,7 +88,7 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec.22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
 
 #### Comprehensive Policy for the Automobile Adaptive Equipment Program
 
@@ -128,7 +132,7 @@ Certification of third party, nonprofit organizations.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary may approve two or more private, nonprofit organizations asthird party, nonprofit certifying organizations for purposes of subsection (b)(5).
+In general.—The Secretary may approve two or more private, nonprofit organizations as third party, nonprofit certifying organizations for purposes of subsection (b)(5).
 
 &emsp;&emsp;"(B)
 

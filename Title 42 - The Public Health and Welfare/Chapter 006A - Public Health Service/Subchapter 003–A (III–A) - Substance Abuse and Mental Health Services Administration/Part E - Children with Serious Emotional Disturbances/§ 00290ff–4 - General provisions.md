@@ -72,7 +72,7 @@ Subsec. (b)(1)(B). Pub. L. 114–255, §10001(d)(1)(B), substituted "described i
 
 Subsec. (d)(1). Pub. L. 114–255, §10001(d)(2), substituted "through the age of 21 years" for "not more than 21 years of age".
 
-Subsec. (f)(1). Pub. L. 114–255, §10001(d)(3), substituted "$119,026,000 for each of fiscal years 2018 through 2022" for "$100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003".
+Subsec. (f)(1). Pub. L. 114–255, §10001(d)(3), substituted "$119,026,000 for each of fiscal years 2018 through 2022"for "$100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003".
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–310, §3105(c), substituted "6 fiscal years" for "5 fiscal years".
 

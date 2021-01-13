@@ -6,7 +6,7 @@ The purpose of this subchapter is to encourage the development of special progra
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–186, §1, Nov. 19, 2014, 128 Stat. 1971, provided that: "This Act \[enacting sections 9858f and 9858r of this title and amending sections 9858, 9858b to 9858e, 9858g, 9858i, 9858j, and 9858m to 9858o of this title and provisions set out as notes under this section and section 9858 of this title\] may be cited as the 'Child Care and Development Block Grant Act of 2014'."
+Pub. L. 113–186, §1, Nov. 19, 2014, 128 Stat. 1971, provided that: "This Act \[enacting sections 9858f and 9858r of this title and amending sections 9858, 9858b to 9858e, 9858g, 9858i, 9858j, and 9858m to 9858o of this title andprovisions set out as notes under this section and section 9858 of this title\] may be cited as the 'Child Care and Development Block Grant Act of 2014'."
 
 #### Short Title of 2007 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: "That this Act \[enacting sections 8628a, 9812a,9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the 'Human Services Reauthorization Act of 1986'."
+Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: "That this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the 'Human Services Reauthorization Act of 1986'."
 
 #### Short Title of 1984 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 97–35, title VI, §635, Aug. 13, 1981, 95 Stat. 499, provided that: "T
 
 Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. C, §658A(a), as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §602(2), Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §2, Nov. 19, 2014, 128 Stat. 1971, which provided that subchapter II–B of this chapter could be cited as the "Child Care and Development Block Grant Act of 1990" and was formerly set out as a note under this section, was transferred to section 9857(a) of this title.
 
-Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. D, §661, formerly subch. C, §661, Aug. 13, 1981, 95 Stat. 508, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the "Follow Through Act", prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
+Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. D, §661, formerly subch. C, §661, Aug. 13, 1981, 95 Stat. 508, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401,§3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the "Follow Through Act", prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
 
 Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. E, §670H, formerly subch. D, §670H, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: "This subchapter \[subchapter E (§§670A–670H), formerly subchapter D, of chapter 8 of subtitle A of title VI of Pub. L. 97–35, enacting subchapter IV of this chapter\] may be cited as the 'State Dependent Care Development Grants Act'."
 

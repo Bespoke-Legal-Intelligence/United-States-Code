@@ -118,11 +118,15 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 <i>For termination of section, see section 8551(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101 of the Iran Freedom Support Act, referred to in subsec. (a), is section 101 of Pub. L. 109–293, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(3)(A), (D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

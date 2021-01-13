@@ -26,6 +26,8 @@ For purposes of this subsection,<sup>1</sup> the Secretary shall, in evaluating 
 
 (Pub. L. 94–437, title VII, §711, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 711 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.

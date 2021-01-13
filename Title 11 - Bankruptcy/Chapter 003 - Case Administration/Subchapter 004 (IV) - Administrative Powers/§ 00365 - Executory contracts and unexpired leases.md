@@ -22,7 +22,7 @@
 
 (3) For the purposes of paragraph (1) of this subsection and paragraph (2)(B) of subsection (f), adequate assurance of future performance of a lease of real property in a shopping center includes adequate assurance—
 
-&emsp;(A) of the source of rent and other consideration due under such lease, and in the case of an assignment, that the financial condition and operating performance of the proposed assignee and its guarantors, if any, shall be similar to the financial condition and operating performance of the debtor and its guarantors, if any, as of the time the debtor became the lessee under the lease;
+&emsp;(A) of the source of rent and other consideration due under such lease, and in the case ofan assignment, that the financial condition and operating performance of the proposed assignee and its guarantors, if any, shall be similar to the financial condition and operating performance of the debtor and its guarantors, if any, as of the time the debtor became the lessee under the lease;
 
 &emsp;(B) that any percentage rent due under such lease will not decline substantially;
 
@@ -46,15 +46,23 @@
 
 (2) In a case under chapter 9, 11, 12, or 13 of this title, the trustee may assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor at any time before the confirmation of a plan but the court, on the request of any party to such contract or lease, may order the trustee to determine within a specified period of time whether to assume or reject such contract or lease.
 
-(3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
+(3)(A) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
+
+(B) In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—
+
+&emsp;(i) the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or
+
+&emsp;(ii) the date on which the lease is assumed or rejected under this section.
+
+(C) An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).
 
 (4)(A) Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-&emsp;(i) the date that is 120 days after the date of the order for relief; or
+&emsp;(i) the date that is 210 days after the date of the order for relief; or
 
 &emsp;(ii) the date of the entry of an order confirming a plan.
 
-(B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
+(B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.
 
 (ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
@@ -118,7 +126,7 @@
 
 &emsp;(ii) if the term of such timeshare interest has commenced, then the timeshare interest purchaser may retain its rights in such timeshare interest for the balance of such term and for any term of renewal or extension of such timeshare interest to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
-(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection,of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
+(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
 (i)(1) If the trustee rejects an executory contract of the debtor for the sale of real property or for the sale of a timeshare interest under a timeshare plan, under which the purchaser is in possession, such purchaser may treat such contract as terminated, or, in the alternative, may remain in possession of such real property or timeshare interest.
 
@@ -186,7 +194,23 @@
 
 (3) In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect to personal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377; Pub. L. 109–8, title III, §§309(b), 328(a), title IV, §404, Apr. 20, 2005, 119 Stat. 82, 100, 104.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377; Pub. L. 109–8, title III, §§309(b), 328(a), title IV, §404, Apr. 20, 2005, 119 Stat. 82, 100, 104; Pub. L. 116–260, div. FF, title X, §1001(f)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 2 years after Dec. 27, 2020, subsection (d) of this section is amended:</i>
+
+<i>(1) in paragraph (3)—</i>
+
+<i>(A) by striking "(A)" after "(3)";</i>
+
+<i>(B) by striking ", except as provided in subparagraph (B)" after "such 60-day period"; and</i>
+
+<i>(C) by striking subparagraphs (B) and (C); and</i>
+
+<i>(2) in paragraph (4), by striking "210" each place it appears and inserting "120".</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -200,7 +224,7 @@ Section 365(c)(2) and (3) likewise represent a compromise between H.R. 8200 as p
 
 Section 365(e) is a refinement of comparable provisions contained in the House bill and Senate amendment. Sections 365(e)(1) and (2)(A) restate section 365(e) of H.R. 8200 as passed by the House. Sections 365(e)(2)(B) expands the section to permit termination of an executory contract or unexpired lease of the debtor if such contract is a contract to make a loan, or extend other debt financing or financial accommodations, to or for the benefit of the debtor, or for the issuance of a security of the debtor.
 
-Characterization of contracts to make a loan, or extend other debt financing or financial accommodations, is limited to the extension of cash or a line of credit and is not intended to embrace ordinary leases or contracts to provide goods or services with payments to be made over time.
+Characterization of contracts to make a loan, or extend other debt financing or financial accommodations,is limited to the extension of cash or a line of credit and is not intended to embrace ordinary leases or contracts to provide goods or services with payments to be made over time.
 
 Section 365(f) is derived from H.R. 8200 as passed by the House. Deletion of language in section 365(f)(3) of the Senate amendment is done as a matter of style. Restrictions with respect to assignment of an executory contract or unexpired lease are superfluous since the debtor may assign an executory contract or unexpired lease of the debtor only if such contract is first assumed under section 364(f)(2)(A) of the House amendment.
 
@@ -236,7 +260,7 @@ Subsection (g) defines the time as of which a rejection of an executory contract
 
 Subsection (h) protects real property lessees of the debtor if the trustee rejects an unexpired lease under which the debtor is the lessor (or sublessor). The subsection permits the lessee to remain in possession of the leased property or to treat the lease as terminated by the rejection. The balance of the term of the lease referred to in paragraph (1) will include any renewal terms that are enforceable by the tenant, but not renewal terms if the landlord had an option to terminate. Thus, the tenant will not be deprived of his estate for the term for which he bargained. If the lessee remains in possession, he may offset the rent reserved under the lease against damages caused by the rejection, but does not have any affirmative rights against the estate for any damages after the rejection that result from the rejection.
 
-Subsection (i) gives a purchaser of real property under a land installment sales contract similar protection. The purchaser, if the contract is rejected, may remain in possession or may treat the contract as terminated. If the purchaser remains in possession, he is required to continue to make the payments due, but may offset damages that occur after rejection. The trustee is required to deliver title, but is relieved of all other obligations to perform.
+Subsection (i) gives a purchaser of real property under a land installment sales contract similar protection. The purchaser, if the contract is rejected, may remain in possession or may treat the contract as terminated. If the purchaser remains in possession, he is required to continue to make the payments due, but mayoffset damages that occur after rejection. The trustee is required to deliver title, but is relieved of all other obligations to perform.
 
 A purchaser that treats the contract as terminated is granted a lien on the property to the extent of the purchase price paid. A party with a contract to purchase land from the debtor has a lien on the property to secure the price already paid, if the contract is rejected and the purchaser is not yet in possession.
 
@@ -252,11 +276,21 @@ Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, prot
 
 The unenforceability of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courts will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain. An example of the complexity that may arise in these situations and the need for a determination of all aspects of a particular executory contract or unexpired lease is the shopping center lease under which the debtor is a tenant in a shopping center.
 
-A shopping center is often a carefully planned enterprise, and though it consists of numerous individual tenants, the center is planned as a single unit, often subject to a master lease or financing agreement. Under these agreements, the tenant mix in a shopping center may be as important to the lessor as the actual promised rental payments, because certain mixes willattract higher patronage of the stores in the center, and thus a higher rental for the landlord from those stores that are subject to a percentage of gross receipts rental agreement. Thus, in order to assure a landlord of his bargained for exchange, the court would have to consider such factors as the nature of the business to be conducted by the trustee or his assignee, whether that business complies with the requirements of any master agreement, whether the kind of business proposed will generate gross sales in an amount such that the percentage rent specified in the lease is substantially the same as what would have been provided by the debtor, and whether the business proposed to be conducted would result in a breach of other clauses in master agreements relating, for example, to tenant mix and location.
+A shopping center is often a carefully planned enterprise, and though it consists of numerous individual tenants, the center is planned as a single unit, often subject to a master lease or financing agreement. Under these agreements, the tenant mix in a shopping center may be as important to the lessor as the actual promised rental payments, because certain mixes will attract higher patronage of the stores in the center, and thus a higher rental for the landlord from those stores that are subject to a percentage of gross receipts rental agreement. Thus, in order to assure a landlord of his bargained for exchange, the court would have to consider such factors as the nature of the business to be conducted by the trustee or his assignee, whether that business complies with the requirements of any master agreement, whether the kind of business proposed will generate gross sales in an amount such that the percentage rent specified in the lease is substantially the same as what would have been provided by the debtor, and whether the business proposed to be conducted would result in a breach of other clauses in master agreements relating, for example, to tenant mix and location.
 
 This subsection does not limit the application of an ipso facto or bankruptcy clause to a new insolvency or receivership after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purpose of disposition of the executory contract or unexpired lease.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(3). Pub. L. 116–260, §1001(f)(2)(A)(i), struck out subpar. (A) designation before "The trustee", ", except as provided in subparagraph (B)" after "such 60-day period" and subpars. (B) and (C). Prior to amendment, subpars. (B) and (C) related to extension of time for performance in case under subchapter V of chapter 11 where there was financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic and treatment of obligation as certain administrative expense, respectively.
+
+Pub. L. 116–260, §1001(f)(1)(A), designated existing provisions as subpar. (A), inserted ", except as provided in subparagraph (B)" after "such 60-day period" and added subpars. (B) and (C).
+
+Subsec. (d)(4). Pub. L. 116–260, §1001(f)(2)(A)(ii), substituted "120" for "210" in two places.
+
+Pub. L. 116–260, §1001(f)(1)(B), substituted "210" for "120" in two places.
 
 <b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §328(a)(1)(A), inserted before semicolon at end "other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from any failure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at and after the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph".
 
@@ -336,11 +370,19 @@ Subsec. (d). Pub. L. 98–353, §362(a), amended subsec. (d) generally, insertin
 
 Subsec. (h)(1). Pub. L. 98–353, §402, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "If the trustee rejects an unexpired lease of real property of the debtor under which the debtor is the lessor, the lessee under such lease may treat the lease as terminated by such rejection, or, in the alternative, may remain in possession for the balance of the term of such lease and any renewal or extension of such term that is enforceable by such lessee under applicable nonbankruptcy law."
 
-Subsec. (h)(2). Pub. L. 98–353, §403, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If such lessee remains in possession, such lessee may offset against the rent reserved under such lease for the balance of the term after the date of the rejection of such lease, and any such renewal or extension, any damages occurring after such date caused by the nonperformance of any obligation of the debtor after such date, but such lessee does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset."
+Subsec. (h)(2). Pub. L. 98–353, §403, amended par. (2) generally. Prior to amendment, par. (2) read as follows:"If such lessee remains in possession, such lessee may offset against the rent reserved under such lease for the balance of the term after the date of the rejection of such lease, and any such renewal or extension, any damages occurring after such date caused by the nonperformance of any obligation of the debtor after such date, but such lessee does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset."
 
 Subsec. (i)(1). Pub. L. 98–353, §404, amended par. (1) generally, inserting provisions relating to timeshare interests under timeshare plans.
 
 Subsecs. (l), (m). Pub. L. 98–353, §362(b), added subsecs. (l) and (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title X, §1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that the amendment made by section 1001(f)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
+
+Pub. L. 116–260, div. FF, title X, §1001(f)(2)(B), Dec. 27, 2020, 134 Stat. 3219, provided that: "Notwithstanding the amendments made by subparagraph (A) \[amending this section\], the amendments made by paragraph (1) \[amending this section\] shall apply in any case commenced under subchapter V of chapter 11 of title 11, United States Code, before the date that is 2 years after the date of enactment of this Act \[Dec. 27. 2020\]."
 
 #### Effective Date of 2005 Amendment
 

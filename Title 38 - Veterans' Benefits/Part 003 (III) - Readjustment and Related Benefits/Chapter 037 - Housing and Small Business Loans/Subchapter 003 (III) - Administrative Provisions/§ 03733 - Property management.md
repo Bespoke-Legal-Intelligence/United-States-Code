@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by theSecretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -28,6 +28,14 @@
 
 &emsp;(C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2020,".
 
+(8) During the period that begins on October 1, 2020, and ends on September 30, 2025, the Secretary shall carry out the provisions of this subsection as if—
+
+&emsp;(A) the references in the first sentence of paragraph (1) to "65 percent" and "may be financed by a loan" were references to "85 percent" and "shall be of property marketed with financing to be", respectively;
+
+&emsp;(B) the second sentence of paragraph (1) were repealed; and
+
+&emsp;(C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2025,".
+
 (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
 (c)(1) The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.
@@ -38,9 +46,13 @@
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, §503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, §1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, §13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, §303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, §203, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, §203, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, §202, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §125, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–61, §2, Sept. 30, 2019, 133 Stat. 1116.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, §503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, §1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, §13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, §303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, §203, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, §203, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, §202, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §125, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–61, §2, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title IV, §5405, Oct. 1, 2020, 134 Stat. 752.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(8). Pub. L. 116–159 added par. (8).
 
 <b>2019</b>—Subsec. (a)(7). Pub. L. 116–61 substituted "September 30, 2020" for "September 30, 2019" in introductory provisions and in subpar. (C).
 
@@ -134,7 +146,7 @@ Subsec. (d). Pub. L. 100–322, §415(b)(5)(B), (C), as amended by Pub. L. 102�
 
 <b>1987</b>—Subsec. (a)(1) \[formerly §1816(d)(1)\]. Pub. L. 100–198, §6(a)(1), and Pub. L. 100–203, §7003(a), amended par. (1) identically, substituting "not more than 65 percent, nor less than 50 percent" for "not more than 75 percent, nor less than 60 percent". See 1988 Amendment note above.
 
-Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any notesecuring", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
+Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any note securing", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
 
 Pub. L. 100–136 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Notes securing such loans may be sold with recourse only to the extent that the Administrator determines that selling such notes with recourse is necessary in order to maintain the effective functioning of the loan guaranty program under this chapter." See 1988 Amendment note above.
 
@@ -149,6 +161,8 @@ Subsec. (c) \[formerly §1816(f)\]. Pub. L. 99–576, §403, added subsec. (f). 
 Subsec. (d) \[formerly §1832\]. Pub. L. 99–576, §408(a), enacted section. See 1988 Amendment note above.
 
 <b>1984</b>—Subsec. (a) \[formerly §1816(d)\]. Pub. L. 98–369, §2512(a)(2), added subsec. (d). See 1988 Amendment note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

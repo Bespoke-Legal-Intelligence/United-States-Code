@@ -32,6 +32,8 @@ The Secretary may provide technical support to a non-Federal interest for a proj
 
 (Pub. L. 99–662, title IV, §402, Nov. 17, 1986, 100 Stat. 4133; Pub. L. 100–676, §14, Nov. 17, 1988, 102 Stat. 4026; Pub. L. 104–303, title II, §202(c)(1), Oct. 12, 1996, 110 Stat. 3674; Pub. L. 106–541, title II, §209(a), (c), Dec. 11, 2000, 114 Stat. 2591; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–541, §209(c), substituted "Floodplain" for "Flood plain" in heading and "floodplain" for "flood plain" in first sentence.
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 106–541, §209(a), in first sentence substituted "The" fo
 <b>1996</b>—Pub. L. 104–303 substituted "Floodplain management requirements" for "Compliance with flood plain management and insurance programs" in section catchline and amended text generally. Prior to amendment, text read as follows: "Before construction of any project for local flood protection or any project for hurricane or storm damage reduction, the non-Federal interests shall agree to participate in and comply with applicable Federal flood plain management and flood insurance programs."
 
 <b>1988</b>—Pub. L. 100–676 inserted "or any project for hurricane or storm damage reduction" after "local flood protection".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

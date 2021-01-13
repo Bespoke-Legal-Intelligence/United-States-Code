@@ -2,7 +2,7 @@
 
 #### (a) Information on financial condition
 
-In order to enable each Federal Home Loan Bank to evaluate the financial condition of oneor more of the other Federal Home Loan Banks individually and the Federal Home Loan Bank System (including any risks associated with the issuance or repayment of consolidated Federal Home Loan Bank bonds and debentures or other borrowings and the joint and several liabilities of the Banks incurred due to such borrowings), as well as to comply with any of its obligations under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Director shall make available to the Banks such reports, records, or other information as may be available, relating to the condition of any Federal Home Loan Bank.
+In order to enable each Federal Home Loan Bank to evaluate the financial condition of one or more of the other Federal Home Loan Banks individually and the Federal Home Loan Bank System (including any risks associated with the issuance or repayment of consolidated Federal Home Loan Bank bonds and debentures or other borrowings and the joint and several liabilities of the Banks incurred due to such borrowings), as well as to comply with any of its obligations under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Director shall make available to the Banks such reports, records, or other information as may be available, relating to the condition of any Federal Home Loan Bank.
 
 #### (b) Sharing of information
 
@@ -23,6 +23,8 @@ Nothing in this section shall affect the obligations of any Federal Home Loan Ba
 The Director shall not be deemed to have waived any privilege applicable to any information concerning a Federal Home Loan Bank by transferring, or permitting the transfer of, that information to any other Federal Home Loan Bank for the purposes set out in subsection (a).
 
 (July 22, 1932, ch. 522, §20A, as added Pub. L. 110–289, div. A, title II, §1207, July 30, 2008, 122 Stat. 2787.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

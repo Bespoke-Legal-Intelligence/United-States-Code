@@ -6,13 +6,15 @@ During fiscal year 1997 and fiscal years thereafter, amounts appropriated to the
 
 house office buildings";
 
-&emsp;(2) the Committee on Appropriations of the Senate, in the case of amounts transferredfrom the appropriation for Capitol buildings and grounds under the heading "
+&emsp;(2) the Committee on Appropriations of the Senate, in the case of amounts transferred from the appropriation for Capitol buildings and grounds under the heading "
 
 senate office buildings"; and
 
 &emsp;(3) the Committees on Appropriations of the Senate and the House of Representatives, in the case of amounts transferred from any other appropriation.
 
 (Pub. L. 104–197, title III, §306, Sept. 16, 1996, 110 Stat. 2413.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

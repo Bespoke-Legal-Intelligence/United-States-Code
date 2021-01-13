@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) An identification of the best management practices and measures which will be undertaken to reduce pollutant loadings resulting from each category, subcategory, or particular nonpoint source designated under paragraph (1)(B), taking into account the impact of the practice on ground water quality.
 
-&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
+&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education,training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(D) the practices and measures proposed in such program or portion are not adequate to reduce the level of pollution in navigable waters in the State resulting from nonpoint sources and to improve the quality of navigable waters in the State;
 
-> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shall thereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
+> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shallthereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
 
 #### (3) Failure of State to submit report
 
@@ -136,7 +136,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (7) Limitation on use of funds
 
-&emsp;States may use funds from grants made pursuant to this section for financial assistanceto persons only to the extent that such assistance is related to the costs of demonstration projects.
+&emsp;States may use funds from grants made pursuant to this section for financial assistance to persons only to the extent that such assistance is related to the costs of demonstration projects.
 
 #### (8) Satisfactory progress
 
@@ -218,6 +218,8 @@ Not less than 5 percent of the funds appropriated pursuant to subsection (j) for
 
 (June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12372, referred to in subsecs. (b)(2)(F) and (k), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
@@ -231,6 +233,8 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 <b>1998</b>—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

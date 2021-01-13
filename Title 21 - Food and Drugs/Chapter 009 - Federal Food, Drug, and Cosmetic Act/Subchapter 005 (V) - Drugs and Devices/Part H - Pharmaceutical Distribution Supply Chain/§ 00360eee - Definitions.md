@@ -72,7 +72,7 @@ In this part:
 
 &emsp;The term "manufacturer" means, with respect to a product—
 
-&emsp;&emsp;(A) a person that holds an application approved under section 355 of this title or a license issued under section 262 of title 42 for such product, or if such product is not thesubject of an approved application or license, the person who manufactured the product;
+&emsp;&emsp;(A) a person that holds an application approved under section 355 of this title or a license issued under section 262 of title 42 for such product, or if such product is not the subject of an approved application or license, the person who manufactured the product;
 
 &emsp;&emsp;(B) a co-licensed partner of the person described in subparagraph (A) that obtains the product directly from a person described in this subparagraph or subparagraph (A) or (C); or
 
@@ -220,7 +220,7 @@ In this part:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) a sympathomimetic;
 
-&emsp;&emsp;&emsp;(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids andelectrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+&emsp;&emsp;&emsp;(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
 
 &emsp;&emsp;&emsp;(xv) the distribution of an intravenous product used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
 
@@ -285,6 +285,8 @@ In this part:
 &emsp;The term "wholesale distributor" means a person (other than a manufacturer, a manufacturer's co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in section 353(e)(4) of this title).
 
 (June 25, 1938, ch. 675, §581, as added Pub. L. 113–54, title II, §202, Nov. 27, 2013, 127 Stat. 599.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

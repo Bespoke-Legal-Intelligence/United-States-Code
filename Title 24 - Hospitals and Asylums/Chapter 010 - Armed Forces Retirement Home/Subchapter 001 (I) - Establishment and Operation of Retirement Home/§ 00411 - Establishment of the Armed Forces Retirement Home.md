@@ -74,7 +74,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 &emsp;(D) Facilities operation support for the Retirement Home.
 
-&emsp;(E) Provision of such other services relating to activities that will occur on the leased property as the Chief Operating Officer considers appropriate.
+&emsp;(E) Provision of such other services relating to activities that will occur on the leasedproperty as the Chief Operating Officer considers appropriate.
 
 (4) In-kind consideration under paragraph (3) may be accepted at any property or facilities of the Retirement Home that are selected for that purpose by the Chief Operating Officer.
 
@@ -97,6 +97,8 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 (8) The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
 (Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, §2813(b), Jan. 7, 2011, 124 Stat. 4463; Pub. L. 112–81, div. A, title V, §§561, 564(b)(1), Dec. 31, 2011, 125 Stat. 1420, 1424; Pub. L. 112–239, div. A, title X, §1076(j), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 115–91, div. B, title XXVIII, §2873, Dec. 12, 2017, 131 Stat. 1870.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -137,6 +139,8 @@ Subsec. (h). Pub. L. 110–181, §1422(a)(2), inserted at end "The annual report
 <b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
 
 <b>1993</b>—Subsecs. (e), (f). Pub. L. 103–160 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

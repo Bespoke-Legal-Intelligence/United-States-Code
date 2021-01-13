@@ -11,6 +11,7 @@
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
 | [2358a.](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md) | Authorities for certain positions at science and technology reinvention laboratories. |
 | [2358b.](%C2%A7%2002358b%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md) | Joint reserve detachment of the Defense Innovation Unit. |
+| [2358c.](%C2%A7%2002358c%20-%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md) | Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories. |
 | [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
 | [2359a.](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md) | Defense Research and Development Rapid Innovation Program. |
 | [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
@@ -36,11 +37,17 @@
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
 | [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
-| \[2374b. | Repealed.\] |
+| [2374b.](%C2%A7%2002374b%20-%20Disclosure%20requirements%20for%20recipients%20of%20research%20and%20development%20funds.md) | Disclosure requirements for recipients of research and development funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Chapter
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed. See Effective Date of Repeal note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title II, §212(a)(2), title XI, §1115(b), Jan. 1, 2021, 134 Stat. 3456, 3896, added items 2358c and 2374b.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title II, §213(a)(2), title VIII, §835(a)(2), Dec. 20, 2019, 133 Stat. 1257, 1496, added items 2361a and 2358b.
 
@@ -90,7 +97,7 @@ Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c
 
 Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted period at end of item 2366.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat. 1517, 1604, 1673, struck out items 2357 "Contracts: reports to Congress" and 2359 "Salaries of officers of Federal contract research centers: reports to Congress" and added items 2370 and 2372.
+<b>1990</b>—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat.1517, 1604, 1673, struck out items 2357 "Contracts: reports to Congress" and 2359 "Salaries of officers of Federal contract research centers: reports to Congress" and added items 2370 and 2372.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted "testing and lethality testing required before full-scale production" for "and lethality testing; operational testing" in item 2366, substituted "research" for "plan" in item 2368, and added item 2371.
 
@@ -106,7 +113,7 @@ Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, made technical amendm
 
 <b>1986</b>—Pub. L. 99–661, div. A, title II, §234(c)(2), Nov. 14, 1986, 100 Stat. 3849, as amended by Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, added item 2364.
 
-Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
+Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
 
 <b>1985</b>—Pub. L. 99–145, title I, §123(a)(2), title XIV, §1457(b), Nov. 8, 1985, 99 Stat. 601, 763, added items 2362 and 2363.
 
@@ -119,6 +126,10 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 <b>1962</b>—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
 <b>1958</b>—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
 
 ---
@@ -135,6 +146,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
 - [&sect; 02358a - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
 - [&sect; 02358b - Joint reserve detachment of the Defense Innovation Unit](%C2%A7%2002358b%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md)
+- [&sect; 02358c - Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories](%C2%A7%2002358c%20-%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md)
 - [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
 - [&sect; 02359a - Defense Research and Development Rapid Innovation Program](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md)
 - [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
@@ -162,4 +174,4 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
 - [&sect; 02374a - Prizes for advanced technology achievements](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md)
-- [&sect; 02374b - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1076(g)(4), Jan. 2, 2013, 126 Stat. 1955](%C2%A7%2002374b%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71076%28g%29%284%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201955.md)
+- [&sect; 02374b - Disclosure requirements for recipients of research and development funds](%C2%A7%2002374b%20-%20Disclosure%20requirements%20for%20recipients%20of%20research%20and%20development%20funds.md)

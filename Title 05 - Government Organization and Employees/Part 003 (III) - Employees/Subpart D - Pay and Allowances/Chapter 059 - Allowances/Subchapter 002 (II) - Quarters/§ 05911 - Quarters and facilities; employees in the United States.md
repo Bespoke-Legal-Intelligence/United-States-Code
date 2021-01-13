@@ -18,7 +18,7 @@
 
 (c) Rental rates for quarters provided for an employee under subsection (b) of this section or occupied on a rental basis by an employee or member of a uniformed service under any other provision of statute, and charges for facilities made available in connection with the occupancy of the quarters, shall be based on the reasonable value of the quarters and facilities to the employee or member concerned, in the circumstances under which the quarters and facilities are provided, occupied, or made available. The amounts of the rates and charges shall be paid by, or deducted from the pay of, the employee or member of a uniformed service, or otherwise charged against him in accordance with law. The amounts of payroll deductions for the rates and charges shall remain in the applicable appropriation or fund. When payment of the rates and charges is made by other than payroll deductions, the amounts of payment shall be credited to the Government as provided by law.
 
-(d) When, as an incidental service in support of a program of the Government, quarters and facilities are provided by appropriate authority of the Government to an individual other than an employee or member of a uniformed service, the rates and charges therefor shall be determined in accordance with this section. The amounts of payment of the rates and charges shall be credited to the Government as provided by law.
+(d) When, as an incidental service in support of a program of the Government, quarters and facilities are provided by appropriate authority of the Government to an individual other than an employee or member of a uniformed service, therates and charges therefor shall be determined in accordance with this section. The amounts of payment of the rates and charges shall be credited to the Government as provided by law.
 
 (e) The head of an agency may not require an employee or member of a uniformed service to occupy quarters on a rental basis, unless the agency head determines that necessary service cannot be rendered, or that property of the Government cannot adequately be protected, otherwise.
 
@@ -94,29 +94,37 @@ Subsection (a)(7) of former section 3121 is omitted as unnecessary in view of th
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (h). Pub. L. 99–145 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
-#### Delegation of Functions
+#### Government Lodging Program
 
-Authority of President under subsec. (f) of this section to issue regulations provided for therein (relating to provision, occupancy, and availability of quarters and facilities, determination of rates and charges therefor, and other related matters, as are necessary and appropriate to carry out provisions of this section) delegated to Director of Office of Management and Budget, see section 9(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
-#### Pilot Program To Establish Government Lodging Program
-
-Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, §642, Dec. 20, 2019, 133 Stat. 1431, provided that:
+Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, §642, Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, §642, Jan. 1, 2021, 134 Stat. 3684, provided that:
 
 "(a)
 
-Authority.—Notwithstanding the provisions of section 5911 of title 5, United States Code, the Secretary of Defense may, for the period of time described in subsection (b), establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary's jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
+Authority.—Notwithstanding the provisions of section 5911 of title 5, United States Code, the Secretary of Defense may establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary's jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
 
 "(b)
 
-Program Duration.—The authority to establish and execute a Government lodging program under this section expires on December 31, 2020.
+Temporary Exclusion of Certain Shipyard Employees.—
+
+&emsp;"(1)
+
+In general.—In carrying out a Government lodging program under subsection (a), the Secretary shall exclude from the requirements of the program employees who are traveling for the performance of mission functions of a public shipyard of the Department if the Secretary determines such requirements would adversely affect the purpose or mission of such travel.
+
+&emsp;"(2)
+
+Termination.—This subsection shall terminate on September 30, 2023.
 
 "(c)
 
@@ -125,4 +133,10 @@ Limitation.—A Government lodging program developed under the authority in subs
 #### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
 
 Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: "Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[former 25 U.S.C. 450f et seq., now 25 U.S.C. 5321 et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Authority of President under subsec. (f) of this section to issue regulations provided for therein (relatingto provision, occupancy, and availability of quarters and facilities, determination of rates and charges therefor, and other related matters, as are necessary and appropriate to carry out provisions of this section) delegated to Director of Office of Management and Budget, see section 9(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

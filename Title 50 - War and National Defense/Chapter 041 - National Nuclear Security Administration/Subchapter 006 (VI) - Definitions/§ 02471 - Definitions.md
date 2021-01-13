@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 &emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
 
-(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI, §3145(i), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 116–92, div. C, title XXXI, §3139(a), Dec. 20, 2019, 133 Stat. 1962.)
+(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI,§3145(i), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 116–92, div. C, title XXXI, §3139(a), Dec. 20, 2019, 133 Stat. 1962.)
 
 #### References in Text
 

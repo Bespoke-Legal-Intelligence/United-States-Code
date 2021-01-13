@@ -12,9 +12,13 @@ The Director of the Office of Foreign Buildings Operations shall—
 
 (Pub. L. 102–138, title I, §125, Oct. 28, 1991, 105 Stat. 659.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary of State
 

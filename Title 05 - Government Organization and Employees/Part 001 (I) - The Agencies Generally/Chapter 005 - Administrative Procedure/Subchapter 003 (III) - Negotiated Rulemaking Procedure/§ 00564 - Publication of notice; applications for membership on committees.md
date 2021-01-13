@@ -38,6 +38,8 @@ Period for Submission of Comments and Applications.—The agency shall provide f
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4971, §584; renumbered §564, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 584 of this title as this section.

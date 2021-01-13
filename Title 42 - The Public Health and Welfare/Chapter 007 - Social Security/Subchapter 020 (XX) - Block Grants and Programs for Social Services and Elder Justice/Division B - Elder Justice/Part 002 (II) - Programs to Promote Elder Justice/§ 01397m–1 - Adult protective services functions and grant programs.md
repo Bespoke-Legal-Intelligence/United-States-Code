@@ -76,7 +76,7 @@
 
 #### (2) Demonstration programs
 
-&emsp;Funds made available pursuant to this subsection may be used by States and local units of government (and the highest courts of States, in the case of demonstration programs described in subparagraph (E)) to conduct demonstration programs that test—
+&emsp;Funds made available pursuant to this subsection may be used by States and local units of government (and the highest courts ofStates, in the case of demonstration programs described in subparagraph (E)) to conduct demonstration programs that test—
 
 &emsp;&emsp;(A) training modules developed for the purpose of detecting or preventing elder abuse;
 

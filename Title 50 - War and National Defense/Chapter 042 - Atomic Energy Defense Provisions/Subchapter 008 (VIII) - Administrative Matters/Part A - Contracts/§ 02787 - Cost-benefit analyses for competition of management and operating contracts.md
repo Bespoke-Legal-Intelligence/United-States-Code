@@ -12,7 +12,7 @@ If the Administrator awards a new contract to manage and operate a facility of t
 
 The matters described in this subsection, with respect to a contract, are the following:
 
-&emsp;(1) A clear and complete description of the cost savings the Administrator expects to result from the competition for the contract over the life of the contract, including associated analyses, assumptions, and information sources used to determine such expected cost savings.
+&emsp;(1) A clear and complete description of the cost savings the Administrator expects to result from the competition for the contractover the life of the contract, including associated analyses, assumptions, and information sources used to determine such expected cost savings.
 
 &emsp;(2) A description of any key limitations or uncertainties that could affect such costs savings, including costs savings that are anticipated but not fully known.
 

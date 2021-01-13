@@ -40,9 +40,13 @@ June 30, 1949, ch. 288, title III, §304(a), 63 Stat. 395; Pub. L. 98–369, div
 
 In subsection (b)(2), the words "in its discretion" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(3). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

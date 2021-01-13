@@ -26,7 +26,7 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 #### (3) Insurance subsidiary
 
-&emsp;In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage in any activity involving the underwriting of title insurance.
+&emsp;In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage inany activity involving the underwriting of title insurance.
 
 #### (d) "Affiliate" and "subsidiary" defined
 

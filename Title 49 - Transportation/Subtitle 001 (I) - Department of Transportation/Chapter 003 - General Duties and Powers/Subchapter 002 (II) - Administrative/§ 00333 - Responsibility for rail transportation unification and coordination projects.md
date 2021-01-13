@@ -36,7 +36,7 @@
 
 &emsp;(E) representatives of the Federal Trade Commission and the Attorney General.
 
-(2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
+(2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion atthe conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
 
 (e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Surface Transportation Board under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Board, the Secretary may appear in any proceeding related to the application.
 

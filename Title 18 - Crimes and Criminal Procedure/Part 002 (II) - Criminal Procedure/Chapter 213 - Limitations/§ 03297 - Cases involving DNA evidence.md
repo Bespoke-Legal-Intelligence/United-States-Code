@@ -4,9 +4,13 @@ In a case in which DNA testing implicates an identified person in the commission
 
 (Added Pub. L. 108–405, title II, §204(a), Oct. 30, 2004, 118 Stat. 2271; amended Pub. L. 109–162, title X, §1005, Jan. 5, 2006, 119 Stat. 3086.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–162 struck out "except for a felony offense under chapter 109A," before "no statute of limitations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

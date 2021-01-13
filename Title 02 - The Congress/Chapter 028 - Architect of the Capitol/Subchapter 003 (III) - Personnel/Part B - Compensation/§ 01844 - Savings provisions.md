@@ -10,9 +10,13 @@ The provisions of sections 1841 to 1846 of this title shall not be construed to�
 
 (Pub. L. 91–510, title IV, §484, Oct. 26, 1970, 84 Stat. 1197.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 166b–1d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

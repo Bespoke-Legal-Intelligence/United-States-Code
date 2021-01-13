@@ -26,11 +26,11 @@ Exceptions and Report.—
 
 &emsp;(1)
 
-Continuance of program, etc.—Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
+Continuance of program, etc.—Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) ifthe Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
 
 &emsp;(2)
 
-Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) ofthis title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
 
 &emsp;(3)
 

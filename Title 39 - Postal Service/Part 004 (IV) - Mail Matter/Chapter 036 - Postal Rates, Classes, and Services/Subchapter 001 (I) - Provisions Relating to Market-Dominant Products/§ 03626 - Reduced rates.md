@@ -4,7 +4,7 @@
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
-(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
+(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for themost closely corresponding regular-rate category mailing.
 
 (4)(A) Except as specified in subparagraph (B), rates of postage for a class of mail or kind of mailer under former section 4358 (d) or (e) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate category mailing.
 
@@ -50,7 +50,7 @@
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routesoriginating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -94,7 +94,7 @@
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
-(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement or otherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
+(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement orotherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
 
 (2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
 
@@ -113,6 +113,8 @@
 (n) In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, §1003, Dec. 20, 2006, 120 Stat. 3255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -202,6 +204,8 @@ Subsec. (i). Pub. L. 99–509 added subsec. (i).
 
 <b>1974</b>—Pub. L. 93–328 substituted "sixteenth" for "tenth" year in subpar. (1), substituted "under former sections" for "under sections", "eighth" for "fifth" year, and "subparagraph" for "subsection" and struck out reference to section "4452(a)" after "4422," in subpar. (2), and added subpar. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
@@ -214,7 +218,7 @@ Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub.L. 101–509, set out as a note under section 2401 of this title.
+Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub. L. 101–509, set out as a note under section 2401 of this title.
 
 #### Effective Date of 1986 Amendments
 

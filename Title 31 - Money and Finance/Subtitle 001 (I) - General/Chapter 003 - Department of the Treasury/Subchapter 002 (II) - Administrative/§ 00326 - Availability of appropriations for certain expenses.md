@@ -30,9 +30,13 @@ In subsection (a), the words "On and after June 1, 1955," are omitted as execute
 
 In subsection (b), the words "On and after September 29, 1969," are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–234 substituted "rates and amounts" for "rates".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -1,5 +1,7 @@
 ### §685. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 27, 1954, ch. 1011, §2, 68 Stat. 879, which provided that moneys paid under former sections 684 to 686 of this title would not be subject to liens or claims, was omitted from the Code as being of special and not general application.

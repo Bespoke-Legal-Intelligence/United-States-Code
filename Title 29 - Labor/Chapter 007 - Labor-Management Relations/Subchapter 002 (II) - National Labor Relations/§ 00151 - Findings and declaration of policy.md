@@ -12,9 +12,13 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 (July 5, 1935, ch. 372, §1, 49 Stat. 449; June 23, 1947, ch. 120, title I, §101, 61 Stat. 136.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1947</b>—Act June 23, 1947, amended section generally to restate the declaration of policy and to make the finding and policy of this subchapter "two-sided".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1947 Amendment
 

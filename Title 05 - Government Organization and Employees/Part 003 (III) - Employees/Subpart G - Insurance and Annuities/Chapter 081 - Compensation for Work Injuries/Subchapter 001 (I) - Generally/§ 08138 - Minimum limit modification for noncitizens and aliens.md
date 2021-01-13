@@ -42,6 +42,8 @@ Administration of this subchapter was transferred to the Secretary of Labor by s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone Government and Panama Canal Company, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.

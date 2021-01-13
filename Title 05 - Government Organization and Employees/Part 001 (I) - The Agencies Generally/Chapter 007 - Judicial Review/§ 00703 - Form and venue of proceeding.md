@@ -20,6 +20,8 @@ June 11, 1946, ch. 324, §10(b), 60 Stat. 243.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.

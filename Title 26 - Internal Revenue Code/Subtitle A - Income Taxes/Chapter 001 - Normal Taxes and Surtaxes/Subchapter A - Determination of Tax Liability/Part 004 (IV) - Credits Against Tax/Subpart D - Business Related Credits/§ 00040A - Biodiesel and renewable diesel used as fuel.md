@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (ii) Patrons
 
-&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shallbe included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
 
 #### (iii) Special rules for decrease in credits for taxable year
 

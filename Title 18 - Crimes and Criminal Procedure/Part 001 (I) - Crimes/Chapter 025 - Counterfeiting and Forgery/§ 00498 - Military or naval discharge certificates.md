@@ -14,6 +14,8 @@ At the end of this section words "in the discretion of the court" were omitted a
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "fined under this title" for "fined not more than $5,000", was executed by making the substitution for "fined not more than $1,000", to reflect the probable intent of Congress.

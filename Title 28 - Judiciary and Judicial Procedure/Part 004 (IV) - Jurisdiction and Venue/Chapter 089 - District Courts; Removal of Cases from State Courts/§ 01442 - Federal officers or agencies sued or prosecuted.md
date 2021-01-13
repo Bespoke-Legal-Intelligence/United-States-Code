@@ -22,7 +22,7 @@
 
 (d) In this section, the following definitions apply:
 
-&emsp;(1) The terms "civil action" and "criminal prosecution" include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
+&emsp;(1) The terms "civil action" and "criminal prosecution" include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony ordocuments, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
 
 &emsp;(2) The term "crime of violence" has the meaning given that term in section 16 of title 18.
 
@@ -47,6 +47,8 @@ The revised subsection (a)(1) is extended to apply to all officers and employees
 The procedural provisions of section 76 of title 28, U.S.C., 1940 ed., are incorporated in sections 1446 and 1447 of this title. (See reviser's notes under those sections.)
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

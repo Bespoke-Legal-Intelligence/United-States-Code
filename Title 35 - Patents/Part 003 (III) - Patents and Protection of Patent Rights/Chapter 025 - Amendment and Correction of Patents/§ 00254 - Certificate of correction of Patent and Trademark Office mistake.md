@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §88 (Mar. 4, 1925, ch. 535, §1, 43 Stat. 
 
 The last sentence of the present section is omitted as obsolete. A sentence is added similar to a provision in the corresponding section in the trade-mark law, 15 U.S.C., 1946 ed., §1057(f), and provides that the Commissioner may issue a corrected patent instead of a certificate of correction.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -17,6 +19,8 @@ The last sentence of the present section is omitted as obsolete. A sentence is a
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

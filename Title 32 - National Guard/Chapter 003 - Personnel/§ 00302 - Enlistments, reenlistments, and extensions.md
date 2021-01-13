@@ -32,9 +32,13 @@ June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under "Nat
 
 32:124 (1st proviso) is omitted as executed. The word "reenlistments" is substituted for the words "subsequent enlistments".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–378 permitted original enlistments for any specified term, not less than three years, for persons who have not served in an armed force, authorized reenlistments for any specified period, or if the person last served in one of the highest five enlisted grades, for an unspecified period, extensions of enlistments or reenlistments at the request of the member for any period not less than six months after termination of the emergency.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1961 Amendment
 

@@ -130,7 +130,7 @@ The Secretary may enter into a written agreement with the State of Connecticut S
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of the receipt of funds under this subsection, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
+&emsp;&emsp;As a condition of the receipt of funds under this subsection, the Secretary shallrequire that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
 
 #### (B) Form
 

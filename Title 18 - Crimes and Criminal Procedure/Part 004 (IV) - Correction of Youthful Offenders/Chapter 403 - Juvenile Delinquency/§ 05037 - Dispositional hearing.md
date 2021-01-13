@@ -46,7 +46,7 @@
 
 > Section 3624 is applicable to an order placing a juvenile under detention.
 
-(d)(1) The court, in ordering a term of official detention, may include the requirement that the juvenile be placed on a term of juvenile delinquent supervision after official detention.
+(d)(1) The court, in ordering a term of official detention, may include the requirement that thejuvenile be placed on a term of juvenile delinquent supervision after official detention.
 
 (2) The term of juvenile delinquent supervision that may be ordered for a juvenile found to be a juvenile delinquent may not extend—
 
@@ -73,6 +73,8 @@ Based on title 18, U.S.C., 1940 ed., §927 (June 16, 1938, ch. 486, §7, 52 Stat
 Reference to section establishing the Board of Parole was omitted as unnecessary.
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -108,6 +110,8 @@ Subsec. (c). Pub. L. 99–646, §21(a)(2)–(4), struck out "by section 3581(b)"
 
 <b>1974</b>—Pub. L. 93–415 amended section generally, substituting "Dispositional hearing" for "Parole" in section catchline and striking out provisions relating to parole.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
@@ -122,7 +126,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Repeals
 
-Section 507 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §507, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title 28,".</i>
 

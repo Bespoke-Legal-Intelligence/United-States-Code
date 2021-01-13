@@ -6,9 +6,11 @@
 
 &emsp;The lessee on a lease described in subsection (b) may, at the lessee's option, terminate the lease at any time after—
 
-&emsp;&emsp;(A) the lessee's entry into military service; or
+&emsp;&emsp;(A) the lessee's entry into military service;
 
-&emsp;&emsp;(B) the date of the lessee's military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be.
+&emsp;&emsp;(B) the date of the lessee's military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be; or
+
+&emsp;&emsp;(C) the date of the lessee's stop movement order described in paragraph (1)(C) or (2)(C) of subsection (b), as the case may be.
 
 #### (2) Joint leases
 
@@ -16,11 +18,25 @@
 
 #### (3) Death of lessee
 
-&emsp;The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10).
+&emsp;The spouse or dependent of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10).
 
 #### (4) Catastrophic injury or illness of lessee
 
-&emsp;The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in section 439(g) of title 37, if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10).
+#### (A) Termination
+
+&emsp;&emsp;If the lessee on a lease described in subsection (b) incurs a catastrophic injury or illness during a period of military service or while performing covered service, during the one-year period beginning on the date on which the lessee incurs such injury or illness—
+
+&emsp;&emsp;&emsp;(i) the lessee may terminate the lease; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a lessee who lacks the mental capacity to contract or to manage his or her own affairs (including disbursement of funds without limitation) due to such injury or illness, the spouse or dependent of the lessee may terminate the lease.
+
+#### (B) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+&emsp;&emsp;&emsp;(i) The term "catastrophic injury or illness" has the meaning given that term in section 439(g) of title 37.
+
+&emsp;&emsp;&emsp;(ii) The term "covered service" means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10.
 
 #### (b) Covered leases
 
@@ -30,15 +46,21 @@ This section applies to the following leases:
 
 &emsp;A lease of premises occupied, or intended to be occupied, by a servicemember or a servicemember's dependents for a residential, professional, business, agricultural, or similar purpose if—
 
-&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service; or
+&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service;
 
-&emsp;&emsp;(B) the servicemember, while in military service, executes the lease and thereafter receives military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days.
+&emsp;&emsp;(B) the servicemember, while in military service, executes the lease and thereafter receives military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days; or
+
+&emsp;&emsp;(C) the servicemember, while in military service—
+
+&emsp;&emsp;&emsp;(i) executes a lease upon receipt of military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days; and
+
+&emsp;&emsp;&emsp;(ii) thereafter receives a stop movement order issued by the Secretary concerned in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, which prevents the servicemember or servicemember's dependents from occupying the lease for a residential, professional, business, agricultural, or similar purpose.
 
 #### (2) Leases of motor vehicles
 
 &emsp;A lease of a motor vehicle used, or intended to be used, by a servicemember or a servicemember's dependents for personal or business transportation if—
 
-&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under acall or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of 180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days); or
+&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under a call or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of 180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days);
 
 &emsp;&emsp;(B) the servicemember, while in military service, executes the lease and thereafter receives military orders—
 
@@ -48,7 +70,13 @@ This section applies to the following leases:
 
 &emsp;&emsp;&emsp;&emsp;(II) from a location in a State outside the continental United States to any location outside that State; or
 
-&emsp;&emsp;&emsp;(ii) to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 180 days.
+&emsp;&emsp;&emsp;(ii) to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 180 days; or
+
+&emsp;&emsp;(C) the servicemember, while in military service—
+
+&emsp;&emsp;&emsp;(i) executes a lease upon receipt of military orders described in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) thereafter receives a stop movement order issued by the Secretary concerned in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, which prevents the servicemember, or the servicemember's dependents, from using the vehicle for personal or business transportation.
 
 #### (c) Manner of termination
 
@@ -66,15 +94,29 @@ This section applies to the following leases:
 
 &emsp;&emsp;(A) by hand delivery;
 
-&emsp;&emsp;(B) by private business carrier; or
+&emsp;&emsp;(B) by private business carrier;
 
-&emsp;&emsp;(C) by placing the written notice in an envelope with sufficient postage and with return receipt requested, and addressed as designated by the lessor (or the lessor's grantee) or to the lessor's agent (or the agent's grantee), and depositing the written notice in the United States mails.
+&emsp;&emsp;(C) by placing the written notice in an envelope with sufficient postage and with return receipt requested, and addressed as designated by the lessor (or the lessor's grantee) or to the lessor's agent (or the agent's grantee), and depositing the written notice in the United States mails; or
+
+&emsp;&emsp;(D) by electronic means, including—
+
+&emsp;&emsp;&emsp;(i) the direct delivery of material to an electronic address designated by the lessor (or the lessor's grantee) or the lessor's agent (or the agent's grantee);
+
+&emsp;&emsp;&emsp;(ii) the posting of material to a website or other internet or electronic-based information repository to which access has been granted to the lessee, the lessor (or the lessor's grantee), or the lessor's agent (or the agent's grantee); and
+
+&emsp;&emsp;&emsp;(iii) other electronic means reasonably calculated to ensure actual receipt of the material by the lessor (or the lessor's grantee) or the lessor's agent (or the agent's grantee).
 
 #### (d) Effective date of lease termination
 
 #### (1) Lease of premises
 
-&emsp;In the case of a lease described in subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subsection (b)(1), termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered.
+#### (A) Entrance to military service, permanent change of station, or deployment
+
+&emsp;&emsp;In the case of a lease described in subparagraph (A) or (B) of subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subparagraphs (A) and (B) of subsection (b)(1) termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered.
+
+#### (B) Stop movement orders
+
+&emsp;&emsp;In the case of a lease described in subsection (b)(1)(C), termination of the lease under subsection (a) is effective on the date on which the requirements of subsection (c) are met for such termination.
 
 #### (2) Lease of motor vehicles
 
@@ -104,9 +146,11 @@ Any person who knowingly seizes, holds, or detains the personal effects, securit
 
 #### (i) Definitions
 
+In this section:
+
 #### (1) Military orders
 
-&emsp;The term "military orders", with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, or verification from the servicemember's commanding officer, with respect to the servicemember's current or future military duty status.
+&emsp;The term "military orders", with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, orverification from the servicemember's commanding officer, with respect to the servicemember's current or future military duty status.
 
 #### (2) ConUS
 
@@ -116,7 +160,7 @@ Any person who knowingly seizes, holds, or detains the personal effects, securit
 
 &emsp;The term "permanent change of station" includes separation or retirement from military service.
 
-(Oct. 17, 1940, ch. 888, title III, §305, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2848; amended Pub. L. 108–454, title VII, §704, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 111–275, title III, §§301, 303(b)(5), Oct. 13, 2010, 124 Stat. 2875, 2878; Pub. L. 115–407, title III, §301, Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–92, div. A, title V, §§545, 546, Dec. 20, 2019, 133 Stat. 1377.)
+(Oct. 17, 1940, ch. 888, title III, §305, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2848; amended Pub. L. 108–454, title VII, §704, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 111–275, title III, §§301, 303(b)(5), Oct. 13, 2010, 124 Stat. 2875, 2878; Pub. L. 115–407, title III, §301, Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–92, div. A, title V, §§545, 546, Dec. 20, 2019, 133 Stat. 1377; Pub. L. 116–158, §1(a)–(d), Aug. 14, 2020, 134 Stat. 706, 707; Pub. L. 116–283, div. A, title V, §549, Jan. 1, 2021, 134 Stat. 3620; Pub. L. 116–315, title VII, §§7201(a), 7202(a), Jan. 5, 2021, 134 Stat. 5063.)
 
 #### Codification
 
@@ -127,6 +171,24 @@ Section was formerly classified to section 535 of the former Appendix to this ti
 A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, §12, 56 Stat. 773; amended Pub. L. 102–12, §9(9), Mar. 18, 1991, 105 Stat. 40, related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by Pub. L. 108–189. See sections 3957 and 3958 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3). Pub. L. 116–283, §549(b), substituted "The spouse or dependent of the lessee" for "The spouse of the lessee".
+
+Subsec. (a)(4). Pub. L. 116–283, §549(a), amended par. (4) generally. Prior to amendment, text read as follows: "The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in section 439(g) of title 37, if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10)."
+
+Subsec. (b)(1)(C)(ii), (2)(C)(ii). Pub. L. 116–315, §7202(a), substituted "Secretary concerned" for "Secretary of Defense".
+
+Subsec. (c)(2)(D). Pub. L. 116–315, §7201(a), added subpar. (D).
+
+<b>2020</b>—Subsec. (a)(1)(C). Pub. L. 116–158, §1(a), added subpar. (C).
+
+Subsec. (b)(1)(C). Pub. L. 116–158, §1(b)(1), added subpar. (C).
+
+Subsec. (b)(2)(C). Pub. L. 116–158, §1(b)(2), added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 116–158, §1(c), amended par. (1) generally. Prior to amendment, text read as follows: "In the case of a lease described in subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subsection (b)(1), termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered."
+
+Subsec. (i). Pub. L. 116–158, §1(d), which directed amendment of subsec. (i) by inserting "In this section:" before par. (1) without specifying the section being amended, was executed to subsec. (i) of this section, to reflect the probable intent of Congress.
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–92, §545(b), substituted "in subsection (b)" for "in subsection (b)(1)".
 
@@ -155,6 +217,16 @@ Subsec. (b)(2)(B). Pub. L. 108–454, §704(b)(1), substituted "military orders�
 Subsec. (b)(2)(B)(ii). Pub. L. 108–454, §704(c), inserted ", or as an individual in support of a military operation," after "deploy with a military unit".
 
 Subsec. (i). Pub. L. 108–454, §704(b)(2), added subsec. (i).
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–315, title VII, §7201(b), Jan. 5, 2021, 134 Stat. 5063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to delivery of notice of lease terminations on or after the date the enactment of this Act \[Jan. 5, 2021\]."
+
+Pub. L. 116–315, title VII, §7202(b), Jan. 5, 2021, 134 Stat. 5064, provided that: "The amendments made by this section \[amending this section\] shall apply to stop movement orders issued on or after March 1, 2020."
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–158, §1(e), Aug. 14, 2020, 134 Stat. 708, provided that: "The amendments made by this section \[amending this section\] shall apply to stop movement orders issued on or after March 1, 2020."
 
 #### Effective Date
 

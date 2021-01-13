@@ -40,7 +40,7 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 &emsp;(2) thirty days after the effective date of this subchapter.
 
-(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730;amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
 #### References in Text
 

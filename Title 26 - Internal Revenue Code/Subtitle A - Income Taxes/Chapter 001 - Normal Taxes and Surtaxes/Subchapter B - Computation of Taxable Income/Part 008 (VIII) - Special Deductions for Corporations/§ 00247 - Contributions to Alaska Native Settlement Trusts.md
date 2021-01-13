@@ -52,7 +52,7 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 #### (3) Income
 
-&emsp;Subject to subsection (g), a Settlement Trust shall include in income the amount ofany deduction allowed under this section in the taxable year in which the Settlement Trust actually receives such contribution.
+&emsp;Subject to subsection (g), a Settlement Trust shall include in income the amount of any deduction allowed under this section in the taxable year in which the Settlement Trust actually receives such contribution.
 
 #### (4) Period
 
@@ -68,7 +68,7 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 #### (6) Prohibition
 
-&emsp;No deduction shall be allowed under this section with respect to any contributions made to a Settlement Trust which are in violation of subsection (a)(2) or (c)(2) of section 39 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629e).
+&emsp;No deduction shall be allowed under this section with respect to any contributions made toa Settlement Trust which are in violation of subsection (a)(2) or (c)(2) of section 39 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629e).
 
 #### (g) Election by Settlement Trust to defer income recognition
 

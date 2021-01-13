@@ -54,9 +54,13 @@ Uniformity.—Any regulations prescribed by the Secretary of Defense for purpose
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2374; amended Pub. L. 111–377, title I, §112(c), Jan. 4, 2011, 124 Stat. 4122.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–377 substituted "sections 3034(a)(1) and 3680(c)" for "section 3034(a)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

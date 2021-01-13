@@ -6,7 +6,7 @@ The award of a board of arbitration, having been acknowledged as herein provided
 
 #### Second. Conclusiveness of award; judgment
 
-An award acknowledged and filed as herein provided shall be conclusive on the parties as to the merits and facts of the controversy submitted to arbitration, and unless, within ten days after the filing of the award, a petition to impeach the award, on the grounds hereinafter set forth, shall be filed in the clerk's office of the court in which the award has been filed, the court shall enter judgment on the award, which judgment shall be final and conclusive on the parties.
+An award acknowledged and filed as herein provided shall be conclusive on the parties as to the merits and facts of the controversy submitted to arbitration, and unless, within ten days after the filing of the award, a petition to impeach the award, on the grounds hereinafter set forth, shall be filed in the clerk's office ofthe court in which the award has been filed, the court shall enter judgment on the award, which judgment shall be final and conclusive on the parties.
 
 #### Third. Impeachment of award; grounds
 
@@ -28,7 +28,7 @@ At the expiration of 10 days from the decision of the district court upon the pe
 
 #### Sixth. Finality of decision of court of appeals
 
-The determination of said court of appeals upon said questions shall be final, and, beingcertified by the clerk thereof to said district court, judgment pursuant thereto shall thereupon be entered by said district court.
+The determination of said court of appeals upon said questions shall be final, and, being certified by the clerk thereof to said district court, judgment pursuant thereto shall thereupon be entered by said district court.
 
 #### Seventh. Judgment where petitioner's contentions are sustained
 
@@ -39,6 +39,8 @@ If the petitioner's contentions are finally sustained, judgment shall be entered
 Nothing in this chapter shall be construed to require an individual employee to render labor or service without his consent, nor shall anything in this chapter be construed to make the quitting of his labor or service by an individual employee an illegal act; nor shall any court issue any process to compel the performance by an individual employee of such labor or service, without his consent.
 
 (May 20, 1926, ch. 347, §9, 44 Stat. 585; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

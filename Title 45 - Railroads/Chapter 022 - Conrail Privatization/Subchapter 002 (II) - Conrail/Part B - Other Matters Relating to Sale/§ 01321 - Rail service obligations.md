@@ -10,7 +10,7 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 &emsp;(3) The Corporation shall continue its affirmative action program and its minority vendor program, substantially as such programs were being conducted by the Corporation as of February 8, 1985, subject to any provisions of applicable law.
 
-&emsp;(4) The Corporation shall not permit to occur any transaction or series of transactions (other than in the ordinary course of business of the Corporation and its subsidiaries) whereby all or any substantial part of the railroad assets and business of the Corporation and its subsidiaries taken as a whole are sold, leased, transferred, or otherwise disposed of to any corporation or entity other than to a wholly owned subsidiary of the Corporation.
+&emsp;(4) The Corporation shall not permit to occur any transaction or series of transactions\(other than in the ordinary course of business of the Corporation and its subsidiaries) whereby all or any substantial part of the railroad assets and business of the Corporation and its subsidiaries taken as a whole are sold, leased, transferred, or otherwise disposed of to any corporation or entity other than to a wholly owned subsidiary of the Corporation.
 
 &emsp;(5) The Corporation shall offer any line for which an abandonment certificate is issued by the Commission to a purchaser who agrees to provide interconnecting rail service. Such offer shall last for the 120-day period following the date of issuance of the abandonment certificate and the price for such abandoned line shall be equal to 75 percent of net liquidation value as determined by the Commission, pursuant to regulations that had been issued under section 748 of this title.
 
@@ -30,9 +30,13 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 (Pub. L. 99–509, title IV, §4021, Oct. 21, 1986, 100 Stat. 1898; Pub. L. 101–213, §2(b)(3), Dec. 11, 1989, 103 Stat. 1843.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–213 struck out par. (2) which set forth circumstances under which Corporation could declare or pay a common or preferred stock dividend and defined terms "common stock dividend" and "preferred stock dividend".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

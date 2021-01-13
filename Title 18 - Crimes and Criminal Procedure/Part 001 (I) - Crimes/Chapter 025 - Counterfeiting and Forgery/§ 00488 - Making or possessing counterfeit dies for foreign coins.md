@@ -18,6 +18,8 @@ Provision for $2,000 fine was increased to $5,000 to conform with section 481 of
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

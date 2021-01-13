@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Air Carrier and Airport Plans.—Not later than 90 days after the date of enactment of this section, each of the followingair carriers and airport operators shall submit to the Secretary of Transportation for review and approval an emergency contingency plan in accordance with the requirements of this section:
+Submission of Air Carrier and Airport Plans.—Not later than 90 days after the date of enactment of this section, each of the following air carriers and airport operators shall submit to the Secretary of Transportation for review and approval an emergency contingency plan in accordance with the requirements of this section:
 
 &emsp;(1) An air carrier providing covered air transportation at a commercial airport.
 

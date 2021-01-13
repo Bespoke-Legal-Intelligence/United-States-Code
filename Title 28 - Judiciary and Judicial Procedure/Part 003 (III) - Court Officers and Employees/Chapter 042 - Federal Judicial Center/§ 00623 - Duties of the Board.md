@@ -20,9 +20,13 @@
 
 (Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 665; amended Pub. L. 100–702, title III, §302, Nov. 19, 1988, 102 Stat. 4648.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a)(7). Pub. L. 100–702 added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

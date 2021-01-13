@@ -50,7 +50,7 @@ Eligible investigational drugs provided to eligible patients in compliance with 
 
 #### (2) Limitation
 
-&emsp;If the Secretary makes a determination under paragraph (1)(A), the Secretary shall provide written notice of such determination to the sponsor, including a public health justification for such determination, and such notice shall be made part of the administrative record. Such determination shall not be delegated below the director of the agency center that is charged with the premarket review of the eligible investigational drug.
+&emsp;If the Secretary makes a determination under paragraph (1)(A), the Secretary shall provide written notice of such determination to the sponsor, including a public health justification for such determination, and such notice shall be made part of the administrative record. Such determination shall not be delegated below the director of the agency centerthat is charged with the premarket review of the eligible investigational drug.
 
 #### (d) Reporting
 
@@ -70,9 +70,13 @@ Eligible investigational drugs provided to eligible patients in compliance with 
 
 (June 25, 1938, ch. 675, §561B, as added Pub. L. 115–176, §2(a), May 30, 2018, 132 Stat. 1372.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (c)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Limitation of Liability
 

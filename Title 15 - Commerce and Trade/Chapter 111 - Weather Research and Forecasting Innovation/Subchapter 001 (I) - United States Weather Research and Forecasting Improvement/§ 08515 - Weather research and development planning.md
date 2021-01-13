@@ -2,7 +2,7 @@
 
 Not later than 1 year after April 18, 2017, and not less frequently than once each year thereafter, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service and the Assistant Administrator for Satellite and Information Services, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—
 
-&emsp;(1) describes the forecasting skill and technology goals, objectives, and progress of theNational Oceanic and Atmospheric Administration in carrying out the program conducted under section 8512 of this title;
+&emsp;(1) describes the forecasting skill and technology goals, objectives, and progress of the National Oceanic and Atmospheric Administration in carrying out the program conducted under section 8512 of this title;
 
 &emsp;(2) identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather mission of the National Weather Service to achieve a weather-ready Nation;
 

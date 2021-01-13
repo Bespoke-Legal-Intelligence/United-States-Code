@@ -4,7 +4,7 @@
 
 #### (1) Retention of authority
 
-&emsp;Notwithstanding section 203(a)(1) <sup>1</sup> of this title, authority related to Customs revenue functions that was vested in the Secretary of the Treasury by law before the effective date of this chapter under those provisions of law set forth in paragraph (2) shall not be transferred to the Secretary by reason of this chapter, and on and after the effective date of this chapter, the Secretary of the Treasury may delegate any such authority to the Secretaryat the discretion of the Secretary of the Treasury. The Secretary of the Treasury shall consult with the Secretary regarding the exercise of any such authority not delegated to the Secretary.
+&emsp;Notwithstanding section 203(a)(1) <sup>1</sup> of this title, authority related to Customs revenue functions that was vested in the Secretary of the Treasury by law before the effective date of this chapter under those provisions of law set forth in paragraph (2) shall not be transferred to the Secretary by reason of this chapter, and on and after the effective date of this chapter, the Secretary of the Treasury may delegate any such authority to the Secretary at the discretion of the Secretary of the Treasury. The Secretary of the Treasury shall consult with the Secretary regarding the exercise of any such authority not delegated to the Secretary.
 
 #### (2) Statutes
 
@@ -26,6 +26,8 @@ The Secretary of the Treasury is authorized to appoint up to 20 new personnel to
 
 (Pub. L. 107–296, title IV, §412, Nov. 25, 2002, 116 Stat. 2179; Pub. L. 114–125, title VIII, §802(g)(1)(B)(iii)(II), Feb. 24, 2016, 130 Stat. 211.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (a)(1) and (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
@@ -40,7 +42,7 @@ The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 
 
 The Trade Agreements Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably means the North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 19, Customs Duties, and Tables.
+The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably means the North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note under section 3301 of Title 19, Customs Duties, and Tables.
 
 The Uruguay Round Agreements Act, referred to in subsec. (a)(2), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 19, Customs Duties, and Tables.
 

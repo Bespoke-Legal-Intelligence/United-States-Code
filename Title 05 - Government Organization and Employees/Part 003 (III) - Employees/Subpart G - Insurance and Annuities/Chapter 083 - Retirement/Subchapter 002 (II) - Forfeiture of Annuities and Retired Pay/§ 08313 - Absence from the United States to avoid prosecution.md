@@ -36,9 +36,13 @@ Sept. 26, 1961, Pub. L. 87–299, §1, "Sec. 3", 75 Stat. 643.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Code of Military Justice, referred to in text, is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Suspension of Payment of Retired Pay of Members Who Are Absent From United States To Avoid Prosecution
 

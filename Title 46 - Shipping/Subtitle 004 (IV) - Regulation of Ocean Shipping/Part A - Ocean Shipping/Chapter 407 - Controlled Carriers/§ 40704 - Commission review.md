@@ -22,7 +22,7 @@ Not yet effective.—Pending a determination of the lawfulness of a rate, charge
 
 &emsp;(2)
 
-Already effective.—If a rate, charge, classification, rule, or regulation has already become effective, the Commission, on issuance of an order to show cause, may suspend the rate, charge, classification, rule, or regulationon at least 30 days' notice to the controlled carrier.
+Already effective.—If a rate, charge, classification, rule, or regulation has already become effective, the Commission, on issuance of an order to show cause, may suspend the rate, charge, classification, rule, or regulation on at least 30 days' notice to the controlled carrier.
 
 &emsp;(3)
 
@@ -30,7 +30,7 @@ Maximum suspension.—A period of suspension under this subsection may not excee
 
 (e)
 
-Replacement During Suspension.—Whenever the Commission has suspended a rate, charge, classification, rule, or regulation under this section, the controlled carrier may publish a new rate, charge, classification, rule, or regulation to take effect immediately during the suspension in lieu of the suspended rate, charge, classification, rule, or regulation. However, the Commission may reject the new rate, charge, classification, rule, or regulation if the Commission believes it is unjust and unreasonable.
+Replacement During Suspension.—Whenever the Commission has suspended a rate,charge, classification, rule, or regulation under this section, the controlled carrier may publish a new rate, charge, classification, rule, or regulation to take effect immediately during the suspension in lieu of the suspended rate, charge, classification, rule, or regulation. However, the Commission may reject the new rate, charge, classification, rule, or regulation if the Commission believes it is unjust and unreasonable.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1536.)
 

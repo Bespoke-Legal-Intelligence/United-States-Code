@@ -8,7 +8,7 @@ Whoever, except as expressly authorized by Federal law, uses the words "Federal 
 
 Whoever, other than a bona fide organization or association of Federal or State credit unions or except as permitted by the laws of the United States, uses as a firm or business name or transacts business using the words "National Credit Union", "National Credit Union Administration", "National Credit Union Board", "National Credit Union Share Insurance Fund", "Share Insurance", or "Central Liquidity Facility", or the letters "NCUA", "NCUSIF", or "CLF", or any other combination or variation of those words or letters alone or with other words or letters, or any device or symbol or other means, reasonably calculated to convey the false impression that such name or business has some connection with, or authorization from, the National Credit Union Administration, the Government of the United States, or any agency thereof, which does not in fact exist, or falsely advertises or otherwise represents by any device whatsoever that his or its business, product, or service has been in any way endorsed, authorized, or approved by the National Credit Union Administration, the Government of the United States, or any agency thereof, or falsely advertises or otherwise represents by any device whatsoever that his or its deposit liabilities, obligations, certificates, shares, or accounts are insured under the Federal Credit Union Act or by the United States or any instrumentality thereof, or being an insured credit union as defined in that Act falsely advertises or otherwise represents by any device whatsoever the extent to which or the manner in which share holdings in such credit union are insured under such Act; or
 
-Whoever, not being organized under chapter 7 of Title 12, advertises or represents that it makes Federal Farm loans or advertises or offers for sale as Federal Farm loan bonds any bond not issued under chapter 7 of Title 12, oruses the word "Federal" or the words "United States" or any other words implying Government ownership, obligation or supervision in advertising or offering for sale any bond, note, mortgage or other security not issued by the Government of the United States under the provisions of said chapter 7 or some other Act of Congress; or
+Whoever, not being organized under chapter 7 of Title 12, advertises or represents that it makes Federal Farm loans or advertises or offers for sale as Federal Farm loan bonds any bond not issued under chapter 7 of Title 12, or uses the word "Federal" or the words "United States" or any other words implying Government ownership, obligation or supervision in advertising or offering for sale any bond, note, mortgage or other security not issued by the Government of the United States under the provisions of said chapter 7 or some other Act of Congress; or
 
 Whoever uses the words "Federal Home Loan Bank" or any combination or variation of these words alone or with other words as a business name or part of a business name, or falsely publishes, advertises or represents by any device or symbol or other means reasonably calculated to convey the impression that he or it is a Federal Home Loan Bank or member of or subscriber for the stock of a Federal Home Loan Bank; or
 
@@ -55,6 +55,8 @@ This consolidated section reconciles the disparities and inconsistencies of 12 s
 The punishment provision was drawn from section 587 of title 12, U.S.C., 1940 ed., Banks and Banking, but is in substance and effect the same as in sections 264v(1), 1441(d) and 1731(d) of said title 12, but the civil penalty of $50 per day which was in sections 583, 1128, and 1318 of said title 12, was omitted as inconsistent with later acts dealing with similar offenses. Too often actions to recover civil penalties result in judgments which cannot be collected, and yet as long as they remain uncollected they clog the administration of justice.
 
 It was necessary to substitute a fine in place of a $50 per diem penalty for business entities embraced in sections 583, 1128, and 1318 of said title 12, and fine and imprisonment for individuals responsible for such violations. Similarly the penalty of $1,000 fine in section 1426 of title 42, The Public Health and Welfare, was changed to permit alternative fine or imprisonment for individuals responsible for violation.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -114,6 +116,8 @@ Act Aug. 2, 1954, in ninth par., inserted references to the Housing and Home Fin
 
 <b>1950</b>—Act Sept. 21, 1950, in third par., made subject to provisions of this section whoever advertises that his or its deposit liabilities, obligations, certificates, or shares are federally insured.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
@@ -140,7 +144,7 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 
 #### Effective Date of 1950 Amendment
 
-Act Sept. 21, 1950, ch. 967, §3(b), 64 Stat. 894, provided that: "The amendment made by subsection (a) of thissection \[amending this section\] shall become effective on January 1, 1951."
+Act Sept. 21, 1950, ch. 967, §3(b), 64 Stat. 894, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall become effective on January 1, 1951."
 
 #### Transfer of Functions
 
@@ -148,9 +152,13 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Functions, powers, and duties of Housing and Home Finance Agency, Federal Housing Administration, and Public Housing Authority transferred to Secretary of Housing and Urban Development who was authorized to delegate such functions, powers, and duties to such officers and employees of Department of Housing and Urban Development as the Secretary may designate, see sections 3534 and 3535 of Title 42, The Public Health and Welfare.
 
-United States Housing Authority consolidated with other agencies into Housing and Home Finance Agency and name of Authority changed to Public Housing Administration by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Government National Mortgage Association
 
 For creation, succession, and principal office, see section 1717 of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+United States Housing Authority consolidated with other agencies into Housing and Home Finance Agency and name of Authority changed to Public Housing Administration by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees.
 

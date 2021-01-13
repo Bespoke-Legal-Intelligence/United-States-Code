@@ -40,6 +40,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5012; amended Pub. L. 89–785, title II, §202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, §302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, §210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered §5022 and amended Pub. L. 96–22, title III, §301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, §401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, §421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, §1505, Nov. 18, 1988, 102 Stat. 4135; renumbered §8122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, §10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, §411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390; Pub. L. 111–350, §5(j)(6), Jan. 4, 2011, 124 Stat. 3850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
@@ -117,6 +119,8 @@ Subsec. (c). Pub. L. 94–581, §210(e)(7)(C), substituted "the Administrator" f
 <b>1973</b>—Subsec. (a). Pub. L. 93–82 inserted provisions that leases under this subsection may be made without regard to section 5 of title 41, that notwithstanding section 303b of title 40 or any other provision of law, such leases may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease and that prior to the execution of the leases, the Administrator shall give notice of his intention in the local newspaper.
 
 <b>1966</b>—Pub. L. 89–785 inserted "and to negotiate for common services" in section catchline and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -266,7 +270,7 @@ Pay of personnel.—Subject to paragraphs (2) and (3), the Director, with the ap
 
 &emsp;"(2)
 
-Exemption from certain requirements.—The Director may make such appointments without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and any personnel so appointed may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess ofthe annual rate of basic pay payable for GS–15 of the General Schedule.
+Exemption from certain requirements.—The Director may make such appointments without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and any personnel so appointed may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the annual rate of basic pay payable for GS–15 of the General Schedule.
 
 &emsp;"(3)
 
@@ -358,7 +362,7 @@ Factors for consideration.—In making recommendations under this subsection, th
 
 &emsp;&emsp;"(D) The need of the Veterans Health Administration to acquire infrastructure or facilities that will be used for the provision of health care and services to veterans.
 
-&emsp;&emsp;"(E) The extent to which the operating and maintenance costs are reduced through consolidating, colocating, and reconfiguring space, and through realizing other operational efficiencies.
+&emsp;&emsp;"(E) The extent to which the operating and maintenance costs are reduced through consolidating,colocating, and reconfiguring space, and through realizing other operational efficiencies.
 
 &emsp;&emsp;"(F) The extent and timing of potential costs and savings, including the number of years such costs or savings will be incurred, beginning with the date of completion of the proposed recommendation.
 
@@ -484,7 +488,7 @@ In general.—The Commission shall, not later than January 31, 2023, transmit to
 
 &emsp;&emsp;"(B)
 
-Authority to make changes to recommendations.—Subject to subparagraph (C), in making its recommendations, the Commission may change any recommendation made by the Secretary if the Commission—
+Authority to make changes to recommendations.—Subject to subparagraph (C), inmaking its recommendations, the Commission may change any recommendation made by the Secretary if the Commission—
 
 &emsp;&emsp;&emsp;"(i) determines that the Secretary deviated substantially from the final criteria referred to in subsection (a)(2) in making such recommendation;
 
@@ -516,7 +520,7 @@ Presidential approval.—If the President approves all the recommendations of th
 
 &emsp;"(3)
 
-Presidential disapproval.—If the President disapproves the recommendations of the Commission,in whole or in part, the President shall transmit to the Commission and the Congress, not later than March 1, 2023, the reasons for that disapproval. The Commission, after consideration of the President's reasons for disapproval, shall then transmit to the President, not later than March 15, 2023, a report containing—
+Presidential disapproval.—If the President disapproves the recommendations of the Commission, in whole or in part, the President shall transmit to the Commission and the Congress, not later than March 1, 2023, the reasons for that disapproval. The Commission, after consideration of the President's reasons for disapproval, shall then transmit to the President, not later than March 15, 2023, a report containing—
 
 &emsp;&emsp;"(A) the Commission's findings and conclusions based on a review and analysis of those reasons for disapproval provided by the President; and
 
@@ -592,7 +596,7 @@ Management and Disposal of Property.—
 
 &emsp;"(1)
 
-Existing disposal authorities.—To transfer or dispose of surplus real property or infrastructure located at any facility of the Veterans Health Administration that is modernized or realigned under this title \[see Tables for classification\], the Secretary may exercise the authorities of the Secretary under subchapters I and II of chapter 81 of title 38, United States Code, or the authorities delegated to the Secretary by the Administrator of General Services under subchapter III of chapter 5 of title 40, United States Code.
+Existing disposal authorities.—To transfer or dispose of surplus real property or infrastructure located at any facility of the Veterans Health Administration that is modernized or realigned under this title \[see Tables for classification\], the Secretarymay exercise the authorities of the Secretary under subchapters I and II of chapter 81 of title 38, United States Code, or the authorities delegated to the Secretary by the Administrator of General Services under subchapter III of chapter 5 of title 40, United States Code.
 
 &emsp;"(2)
 
@@ -706,7 +710,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Transfer by deed.—Subject to paragraph (2) of this subsection and section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), the Secretary may enter into an agreement to transfer by deed a facility of the Veterans Health Administration with any person who agrees to perform all environmental restoration, waste management, and environmental compliance activities that are required for the property or facilities under Federal and State laws, administrative decisions, agreements (including schedules and milestones), and concurrences.
+Transfer by deed.—Subject to paragraph (2) of this subsection and section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), the Secretary may enter into an agreement to transfer by deed a facility of the Veterans Health Administration with any person who agrees to perform all environmental restoration, waste management, and environmental compliance activities that are required for the property or facilitiesunder Federal and State laws, administrative decisions, agreements (including schedules and milestones), and concurrences.
 
 &emsp;&emsp;"(B)
 
@@ -836,7 +840,7 @@ Referral.—A joint resolution introduced in the Senate shall be referred to the
 
 &emsp;"(2)
 
-Reporting and discharge.—Any committee of the Senate to which a joint resolution is referred shall report it to the Senate without amendment not later than 15 session days after the date of introduction of a joint resolution described in subsection (a). If a committee fails to report the joint resolution within that period, the committee shall be dischargedfrom further consideration of the joint resolution and the joint resolution shall be placed on the calendar.
+Reporting and discharge.—Any committee of the Senate to which a joint resolution is referred shall report it to the Senate without amendment not later than 15 session days after the date of introduction of a joint resolution described in subsection (a). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the calendar.
 
 &emsp;"(3)
 
@@ -926,7 +930,7 @@ Continuation of Existing Construction Projects and Planning.—During activities
 
 "(c)
 
-Recommendations for Future Asset Reviews.—The Secretary of Veterans Affairs may, after consulting with veterans service organizations, include in budget submissions the Secretary submits after the termination of the Commission recommendations for future such commissions or other capital asset realignment and management processes.
+Recommendations for Future Asset Reviews.—The Secretary of Veterans Affairs may, after consulting with veterans service organizations, include in budget submissions the Secretary submits after thetermination of the Commission recommendations for future such commissions or other capital asset realignment and management processes.
 
 #### "SEC. 209. DEFINITIONS.
 

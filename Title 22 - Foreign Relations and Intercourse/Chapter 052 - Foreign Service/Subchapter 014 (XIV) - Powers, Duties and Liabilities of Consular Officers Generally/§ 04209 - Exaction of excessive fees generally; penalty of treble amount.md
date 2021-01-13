@@ -4,6 +4,8 @@ Whenever any consular officer collects, or knowingly allows to be collected for 
 
 (R.S. §1723.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1723 derived from act Aug. 18, 1856, ch. 127, §17, 11 Stat. 58.

@@ -24,9 +24,11 @@ The Congress notes that section 902(c) of the Food Security Act of 1985 (Public 
 
 #### (d) Assurances regarding sugar products
 
-Protection of essential security interests of the United States requires assurances that sugarproducts that are entered, or withdrawn from warehouse for consumption, into the customs territory of the United States are not products of Cuba.
+Protection of essential security interests of the United States requires assurances that sugar products that are entered, or withdrawn from warehouse for consumption, into the customs territory of the United States are not products of Cuba.
 
 (Pub. L. 104–114, title I, §110, Mar. 12, 1996, 110 Stat. 800.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

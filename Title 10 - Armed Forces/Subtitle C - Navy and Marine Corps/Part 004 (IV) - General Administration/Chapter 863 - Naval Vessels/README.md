@@ -27,20 +27,34 @@
 | [8682\.](%C2%A7%2008682%20-%20Service%20craft%20stricken%20from%20Naval%20Vessel%20Register%3B%20obsolete%20boats%20use%20of%20proceeds%20from%20exchange%20or%20sale.md) | Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale. |
 | [8683\.](%C2%A7%2008683%20-%20Ship%20overhaul%20work%20availability%20of%20appropriations%20for%20unusual%20cost%20overruns%20and%20for%20changes%20in%20scope%20of%20work.md) | Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work. |
 | [8684\.](%C2%A7%2008684%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md) | Overhaul of naval vessels: competition between public and private shipyards. |
+| [8684a.](%C2%A7%2008684a%20-%20Repair%2C%20maintenance%2C%20or%20overhaul%20of%20naval%20vessels%20rate%20for%20progress%20payments.md) | Repair, maintenance, or overhaul of naval vessels: rate for progress payments. |
 | [8685\.](%C2%A7%2008685%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md) | Preservation of Navy shipbuilding capability. |
 | [8686\.](%C2%A7%2008686%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md) | Support for transfers of decommissioned vessels and shipboard equipment. |
 | [8687\.](%C2%A7%2008687%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md) | Status of Government rights in the designs of vessels, boats, and craft, and components thereof. |
 | [8688\.](%C2%A7%2008688%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md) | Warranty requirements for shipbuilding contracts. |
+| [8688a.](%C2%A7%2008688a%20-%20Construction%20and%20conversion%20of%20naval%20vessels%20liens.md) | Construction and conversion of naval vessels: liens. |
 | [8689\.](%C2%A7%2008689%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md) | Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium. |
 | [8690\.](%C2%A7%2008690%20-%20Limitation%20on%20length%20of%20overseas%20forward%20deployment%20of%20naval%20vessels.md) | Limitation on length of overseas forward deployment of naval vessels. |
 | [8691\.](%C2%A7%2008691%20-%20Nuclear-powered%20aircraft%20carriers%20dismantlement%20and%20disposal.md) | Nuclear-powered aircraft carriers: dismantlement and disposal. |
-| [8692\.](%C2%A7%2008692%20-%20Ford-class%20aircraft%20carriers%20cost%20limitation%20baselines.md) | Ford-class aircraft carriers: cost limitation baselines. |
+| 8692\.<sup>1</sup> |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Ford-class aircraft carriers: cost limitation baselines.
+
+|  |  |
+| :--- | ---: |
+| 8692\.<sup>1</sup> | Biennial report on shipbuilder training and the defense industrial base. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added items 8669b and 8692.
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §1876(d), Jan. 1, 2021, 134 Stat. 4291, added items 8684a and 8688a.
+
+Pub. L. 116–283, div. A, title X, §1026(b), Jan. 1, 2021, 134 Stat. 3844, added item 8692 "Biennial report on shipbuilder training and the defense industrial base".
+
+<b>2019</b>—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added item 8669b and item 8692 "Ford-class aircraft carriers: cost limitation baselines".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 
@@ -98,6 +112,8 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 
 <b>1981</b>—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
 
+<i><sup>1</sup></i><i> So in original. Two items 8692 have been enacted.</i>
+
 
 ---
 
@@ -128,11 +144,14 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08682 - Service craft stricken from Naval Vessel Register; obsolete boats use of proceeds from exchange or sale](%C2%A7%2008682%20-%20Service%20craft%20stricken%20from%20Naval%20Vessel%20Register%3B%20obsolete%20boats%20use%20of%20proceeds%20from%20exchange%20or%20sale.md)
 - [&sect; 08683 - Ship overhaul work availability of appropriations for unusual cost overruns and for changes in scope of work](%C2%A7%2008683%20-%20Ship%20overhaul%20work%20availability%20of%20appropriations%20for%20unusual%20cost%20overruns%20and%20for%20changes%20in%20scope%20of%20work.md)
 - [&sect; 08684 - Overhaul of naval vessels competition between public and private shipyards](%C2%A7%2008684%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md)
+- [&sect; 08684a - Repair, maintenance, or overhaul of naval vessels rate for progress payments](%C2%A7%2008684a%20-%20Repair%2C%20maintenance%2C%20or%20overhaul%20of%20naval%20vessels%20rate%20for%20progress%20payments.md)
 - [&sect; 08685 - Preservation of Navy shipbuilding capability](%C2%A7%2008685%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md)
 - [&sect; 08686 - Support for transfers of decommissioned vessels and shipboard equipment](%C2%A7%2008686%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md)
 - [&sect; 08687 - Status of Government rights in the designs of vessels, boats, and craft, and components thereof](%C2%A7%2008687%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md)
 - [&sect; 08688 - Warranty requirements for shipbuilding contracts](%C2%A7%2008688%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md)
+- [&sect; 08688a - Construction and conversion of naval vessels liens](%C2%A7%2008688a%20-%20Construction%20and%20conversion%20of%20naval%20vessels%20liens.md)
 - [&sect; 08689 - Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium](%C2%A7%2008689%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md)
 - [&sect; 08690 - Limitation on length of overseas forward deployment of naval vessels](%C2%A7%2008690%20-%20Limitation%20on%20length%20of%20overseas%20forward%20deployment%20of%20naval%20vessels.md)
 - [&sect; 08691 - Nuclear-powered aircraft carriers dismantlement and disposal](%C2%A7%2008691%20-%20Nuclear-powered%20aircraft%20carriers%20dismantlement%20and%20disposal.md)
-- [&sect; 08692 - Ford-class aircraft carriers cost limitation baselines](%C2%A7%2008692%20-%20Ford-class%20aircraft%20carriers%20cost%20limitation%20baselines.md)
+- [&sect; 08692 - 1 Ford-class aircraft carriers cost limitation baselines](%C2%A7%2008692%20-%201%20Ford-class%20aircraft%20carriers%20cost%20limitation%20baselines.md)
+- [&sect; 08692 - 1 Biennial report on shipbuilder training and the defense industrial base](%C2%A7%2008692%20-%201%20Biennial%20report%20on%20shipbuilder%20training%20and%20the%20defense%20industrial%20base.md)

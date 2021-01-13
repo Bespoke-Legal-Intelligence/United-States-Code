@@ -12,11 +12,11 @@ The Corporation shall deposit in the Insurance Fund all premium payments receive
 
 #### (1) Mandatory use
 
-&emsp;Beginning January 1, 1993, the Corporation shall expend amounts in the Insurance Fund to the extent necessary to insure the timelypayment of interest and principal on insured obligations.
+&emsp;Beginning January 1, 1993, the Corporation shall expend amounts in the Insurance Fund to the extent necessary to insure the timely payment of interest and principal on insured obligations.
 
 #### (2) Other mandatory uses
 
-&emsp;Beginning January 1, 1993, the Corporation shall use amounts in the Insurance Fund to ensure the retirement of eligible borrower stock at par value under section 2162 of this title.
+&emsp;Beginning January 1, 1993, the Corporation shall use amounts in the Insurance Fund toensure the retirement of eligible borrower stock at par value under section 2162 of this title.
 
 #### (3) Permissive uses
 
@@ -27,6 +27,8 @@ The Corporation shall deposit in the Insurance Fund all premium payments receive
 &emsp;The Corporation shall make all payments and refunds required to be made by the Corporation under this part from amounts in the Insurance Fund.
 
 (Pub. L. 92–181, title V, §5.60, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 100–399, title III, §302(j)–(l), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1836(a), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 115–334, title V, §5411(38), Dec. 20, 2018, 132 Stat. 4683.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -45,6 +47,8 @@ Subsec. (c)(2). Pub. L. 115–334, §5411(38)(B), substituted "Insurance Fund to
 Subsec. (b)(2). Pub. L. 100–399, §302(k), substituted "The" for "Beginning 5 years after January 6, 1988, the".
 
 Subsec. (c)(2)(B). Pub. L. 100–399, §302(l), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "ensure the retirement of borrower stock at par value and participation certificates or other similar equities at face value as provided for under section 2162(c)(2) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

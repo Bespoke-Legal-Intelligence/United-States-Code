@@ -1,6 +1,6 @@
 ### §5562. Pay and allowances; continuance while in a missing status; limitations
 
-(a) An employee in a missing status is entitled to receive or have credited to his account, forthe period he is in that status, the same pay and allowances to which he was entitled at the beginning of that period or may become entitled thereafter. Notwithstanding any other provision of law, an employee in a missing status on or after January 1, 1965, is entitled—
+(a) An employee in a missing status is entitled to receive or have credited to his account, for the period he is in that status, the same pay and allowances to which he was entitled at the beginning of that period or may become entitled thereafter. Notwithstanding any other provision of law, an employee in a missing status on or after January 1, 1965, is entitled—
 
 &emsp;(1) to payment for annual leave which accrued to his account on or after January 1, 1965, but which was forfeited under section 6304 of this title because he was unable to use that leave by virtue of his missing status; or
 
@@ -90,15 +90,19 @@ In subsection (b), the words "under subsection (a) of this section" are inserted
 
 In subsection (c), the words "United States" are substituted for "Government" to conform to the style of this title. The words "under subsection (a) of this section" are inserted for clarity.
 
-In subsection (d), the words "an employee in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conform to the definitions in section 5561(2) and (5).
+In subsection (d), the words "an employee in a missing status" are substituted for "a person missing underthe conditions specified in section 2 of this Act" to conform to the definitions in section 5561(2) and (5).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted "December 14, 1973," for "the date of enactment of this sentence".
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–181 inserted provisions relating to employees in missing status on or after January 1, 1965.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

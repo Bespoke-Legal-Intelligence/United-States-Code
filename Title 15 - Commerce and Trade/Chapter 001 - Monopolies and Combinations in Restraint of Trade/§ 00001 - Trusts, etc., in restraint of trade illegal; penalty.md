@@ -12,7 +12,7 @@ Every contract, combination in the form of trust or otherwise, or conspiracy, in
 
 <b>1975</b>—Pub. L. 94–145 struck out from first sentence two provisos granting anti-trust exemption to State fair trade laws.
 
-<b>1974</b>—Pub. L. 93–528 substituted "a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years" for "a misdemeanor, and on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year".
+<b>1974</b>—Pub. L. 93–528 substituted "a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years" for "a misdemeanor, and on conviction thereof, shall be punishedby fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year".
 
 <b>1955</b>—Act July 7, 1955, substituted "fifty thousand dollars" for "five thousand dollars".
 
@@ -24,7 +24,13 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act \[
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of thistitle\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
+Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–257, §1, Dec. 23, 2020, 134 Stat. 1147, provided that: "This Act \[enacting section 7a–3 of this title\] may be cited as the 'Criminal Antitrust Anti-Retaliation Act of 2019'."
+
+Pub. L. 116–159, div. D, title III, §4301, Oct. 1, 2020, 134 Stat. 742, provided that: "This title \[enacting provisions set out as notes under section 7a of this title and amending and repealing provisions set out as notes under this section\] may be cited as the 'Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act'."
 
 #### Short Title of 2015 Amendment
 
@@ -102,103 +108,13 @@ Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added imme
 
 #### Antitrust Enforcement Enhancements and Cooperation Incentives
 
-Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, as amended by Pub. L. 111–30, §2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, §§1–4, June 9, 2010, 124 Stat. 1275, 1276, provided that:
+Pub. L. 108–237, title II, §211, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–30, §2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, §1, June 9, 2010, 124 Stat. 1275, which provided a sunset date for sections 211 to 214 of Pub. L. 108–237, with exceptions, was repealed by Pub. L. 116–159, div. D, title III, §4303(a), Oct. 1, 2020, 134 Stat. 742, with continuity provision for markers and agreements existing on or before June 22, 2020.
 
-#### "SEC. 211. SUNSET.
+Pub. L. 108–237, title II, §212, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, §2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, §4303(b)(2), Oct. 1, 2020, 134 Stat. 742, which defined terms for sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a of this title.
 
-"(a)
+Pub. L. 108–237, title II, §213, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, §3, June 9, 2010, 124 Stat. 1275, which provided limitation on recovery, was transferred to section 7a–1 of this title.
 
-In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 of this subtitle \[this note\] shall cease to have effect 16 years after the date of enactment of this Act \[June 22, 2004\].
-
-"(b)
-
-Exceptions.—With respect to—
-
-&emsp;"(1) a person who receives a marker on or before the date on which the provisions of section 211 through 214 of this subtitle shall cease to have effect that later results in the execution of an antitrust leniency agreement; or
-
-&emsp;"(2) an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle shall cease to have effect,
-
-> the provisions of sections 211 through 214 of this subtitle shall continue in effect.
-
-#### "SEC. 212. DEFINITIONS.
-
-"In this subtitle \[subtitle A (§§211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note\]:
-
-&emsp;"(1)
-
-Antitrust division.—The term 'Antitrust Division' means the United States Department of Justice Antitrust Division.
-
-&emsp;"(2)
-
-Antitrust leniency agreement.—The term 'antitrust leniency agreement,' or 'agreement,' means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
-
-&emsp;"(3)
-
-Antitrust leniency applicant.—The term 'antitrust leniency applicant,' or 'applicant,' means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
-
-&emsp;"(4)
-
-Claimant.—The term 'claimant' means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\] or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
-
-&emsp;"(5)
-
-Cooperating individual.—The term 'cooperating individual' means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
-
-&emsp;"(6)
-
-Marker.—The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.
-
-&emsp;"(7)
-
-Person.—The term 'person' has the meaning given it in subsection (a) of the first section of the Clayton Act \[15 U.S.C. 12(a)\].
-
-#### "SEC. 213. LIMITATION ON RECOVERY.
-
-"(a)
-
-In General.—Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
-
-"(b)
-
-Requirements.—Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—
-
-&emsp;"(1) providing a full account to the claimant of all facts known to the applicant or cooperating individual, as the case may be, that are potentially relevant to the civil action;
-
-&emsp;"(2) furnishing all documents or other items potentially relevant to the civil action that are in the possession, custody, or control of the applicant or cooperating individual, as the case may be, wherever they are located; and
-
-&emsp;"(3)(A) in the case of a cooperating individual—
-
-&emsp;&emsp;"(i) making himself or herself available for such interviews, depositions, or testimony in connection with the civil action as the claimant may reasonably require; and
-
-&emsp;&emsp;"(ii) responding completely and truthfully, without making any attempt either falsely to protect or falsely to implicate any person or entity, and without intentionally withholding any potentially relevant information, to all questions asked by the claimant in interviews, depositions, trials, or any other court proceedings in connection with the civil action; or
-
-&emsp;"(B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A).
-
-"(c)
-
-Timeliness.—The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's or cooperating individual's cooperation with the claimant.
-
-"(d)
-
-Cooperation After Expiration of Stay or Protective Order.—If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
-
-"(e)
-
-Continuation.—Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 4, 4A, and 4C of the Clayton Act \[15 U.S.C. 15, 15a, 15c\] relating to the recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
-
-#### "SEC. 214. RIGHTS, AUTHORITIES, AND LIABILITIES NOT AFFECTED.
-
-"Nothing in this subtitle \[subtitle A (§§211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note\] shall be construed to—
-
-&emsp;"(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 213(b) of this subtitle from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
-
-&emsp;"(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
-
-&emsp;"(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a) of this subtitle, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this subtitle."
-
-\[Pub. L. 111–190, §6, June 9, 2010, 124 Stat. 1276, provided that: "The amendments made by section 1 \[amending section 211 of Pub. L. 108–237, set out above\] shall take effect immediately before June 22, 2010."\]
-
-\[Pub. L. 111–30, §3, June 19, 2009, 123 Stat. 1775, provided that: "The amendment made by section 2 \[amending section 211(a) of Pub. L. 108–237, set out above\] shall take effect immediately before June 22, 2009."\]
+Pub. L. 108–237, title II, §214, June 22, 2004, 118 Stat. 667, as amended by Pub. L. 111–190, §4, June 9, 2010, 124 Stat. 1276, which provided rights, authorities, and liabilities not affected by sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a–2 of this title.
 
 #### Antitrust Modernization Commission
 
@@ -450,7 +366,7 @@ In general.—For the purpose of completing the study under subsection (a)(1), a
 
 &emsp;&emsp;"(A) collect and maintain for each academic year until the study under subsection (a)(1) is completed—
 
-&emsp;&emsp;&emsp;"(i) student-level data that is sufficient, in the judgment of the Comptroller General, to permitthe analysis of expected family contributions, identified need, and undergraduate grant aid awards; and
+&emsp;&emsp;&emsp;"(i) student-level data that is sufficient, in the judgment of the Comptroller General, to permit the analysis of expected family contributions, identified need, and undergraduate grant aid awards; and
 
 &emsp;&emsp;&emsp;"(ii) information on formulas used by the institution to determine need; and
 

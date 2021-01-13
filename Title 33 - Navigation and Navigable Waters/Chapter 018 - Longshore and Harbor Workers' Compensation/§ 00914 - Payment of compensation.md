@@ -18,7 +18,7 @@ If the employer controverts the right to compensation he shall file with the dep
 
 #### (e) Additional compensation for overdue installment payments payable without award
 
-If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to 10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d)of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
+If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to 10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d) of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
 
 #### (f) Additional compensation for overdue installment payments payable under terms of award
 
@@ -26,7 +26,7 @@ If any compensation, payable under the terms of an award, is not paid within ten
 
 #### (g) Notice of payment; penalty
 
-Within sixteen days after final payment of compensation has been made, the employer shall send to the deputy commissioner a notice, in accordance with a form prescribed by the Secretary, stating that such final payment has been made, the total amount of compensation paid, the name of the employee and of any other person to whom compensation has been paid, the date of the injury or death, and the date to which compensation has been paid. If the employer fails to so notify the deputy commissioner within such time the Secretary shall assess against such employer a civil penalty in the amount of $100.
+Within sixteen days after final payment of compensation has been made, the employer shallsend to the deputy commissioner a notice, in accordance with a form prescribed by the Secretary, stating that such final payment has been made, the total amount of compensation paid, the name of the employee and of any other person to whom compensation has been paid, the date of the injury or death, and the date to which compensation has been paid. If the employer fails to so notify the deputy commissioner within such time the Secretary shall assess against such employer a civil penalty in the amount of $100.
 
 #### (h) Investigations, examinations, and hearings for controverted, stopped, or suspended payments
 
@@ -46,6 +46,8 @@ An injured employee, or in case of death his dependents or personal representati
 
 (Mar. 4, 1927, ch. 509, §14, 44 Stat. 1432; May 26, 1934, ch. 354, §4, 48 Stat. 807; June 25, 1938, ch. 685, §7, 52 Stat. 1167; June 24, 1948, ch. 623, §5, 62 Stat. 603; July 26, 1956, ch. 735, §5, 70 Stat. 655; Pub. L. 87–87, §3, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§5(e), 15(d), Oct. 27, 1972, 86 Stat. 1254, 1262; Pub. L. 98–426, §§13, 27(a)(2), Sept. 28, 1984, 98 Stat. 1649, 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–426, §13(a), substituted "employer has been notified pursuant to section 912 of this title, or the employer," for "employer".
@@ -62,11 +64,13 @@ Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate m
 
 <b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section 908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
 
-<b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neitherlimitation shall apply for permanent total disability or death.
+<b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neither limitation shall apply for permanent total disability or death.
 
 <b>1938</b>—Subsec. (f). Act June 25, 1938, inserted "and an interlocutory injunction staying payments is allowed by the court as provided therein".
 
 <b>1934</b>—Subsec. (j). Act May 26, 1934, substituted "in the interest of justice" for "for the best interests of a person entitled to compensation", inserted "or any part thereof as determined by the deputy commissioner with the approval of the Commission", and inserted provision for determining probability of remarriage.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -18,6 +18,8 @@ In second paragraph, words "or member of the Armed Forces of the United States" 
 
 Changes in phraseology were also made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

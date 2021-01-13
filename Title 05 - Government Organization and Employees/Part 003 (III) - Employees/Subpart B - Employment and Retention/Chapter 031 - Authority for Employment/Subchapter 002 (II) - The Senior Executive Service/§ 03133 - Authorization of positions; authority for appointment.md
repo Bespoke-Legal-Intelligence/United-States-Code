@@ -32,6 +32,8 @@
 
 (Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1158; amended Pub. L. 114–328, div. A, title XI, §1109(c), Dec. 23, 2016, 130 Stat. 2449.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1109 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (c), is section 1109 of Pub. L. 114–328, set out as a note below.
@@ -43,6 +45,8 @@ The date of such Act, referred to in subsec. (e)(1), probably means Oct. 13, 197
 #### Amendments
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–328 inserted at end "Beginning in 2023, the number of such positions authorized under the preceding sentence for the Department of Defense may not exceed the limitation provided in section 1109 of the National Defense Authorization Act for Fiscal Year 2017."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -110,7 +114,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 &emsp;&emsp;"(ii) authority to employ a specific number of noncareer appointees.
 
-"(2) The Office of Personnel Management shall review the designations and requests of each agency under paragraph (1) of this subsection, and shall establish interim authorizations in accordance with sections 3133and 3134 of title 5, United States Code (as added by this Act), and shall publish the titles of the authorized positions in the Federal Register.
+"(2) The Office of Personnel Management shall review the designations and requests of each agency under paragraph (1) of this subsection, and shall establish interim authorizations in accordance with sections 3133 and 3134 of title 5, United States Code (as added by this Act), and shall publish the titles of the authorized positions in the Federal Register.
 
 "(c)(1) Each employee serving in a position at the time it is designated as a Senior Executive Service position under subsection (b) of this section shall elect to—
 
@@ -142,7 +146,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 "(f) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a career reserved position under subsection (b) of this section shall be appointed as a noncareer appointee to an appropriate general position in the Senior Executive Service or shall be separated.
 
-"(g) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a Senior Executive Service position and who has reinstatement eligibility to a position in the competitive service, may, on request to the Office, be appointed as a career appointee to a Senior Executive Service position. The name of, and basis for reinstatement eligibility for, each employee appointed as a career appointee under this subsection shall be published in the Federal Register.
+"(g) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a Senior Executive Service position and who has reinstatement eligibility to a position in the competitive service, may, on request to the Office, be appointed as a career appointee to a Senior Executive Service position. The name of, and basis for reinstatement eligibility for, each employee appointed as a career appointee under this subsection shall be published in the Federal Register.
 
 "(h) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under a limited executive assignment under subpart F of part 305 of title 5, Code of Federal Regulations, shall—
 

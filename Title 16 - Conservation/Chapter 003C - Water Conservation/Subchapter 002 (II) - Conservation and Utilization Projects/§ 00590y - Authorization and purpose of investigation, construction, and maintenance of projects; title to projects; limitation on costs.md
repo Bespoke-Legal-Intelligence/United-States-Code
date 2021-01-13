@@ -18,5 +18,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Angostura Project
 
-Act Aug. 9, 1955, ch. 630, 69 Stat. 552, provided: "That the provisions of sections 41(g), 43, and 51 of the Bankhead-Jones Farm Tenant Act, as amended \[sections 1015(g), 1017, and 1025 of Title 7, Agriculture\], are hereby extended to apply on the obligations of settlers on the Angostura project in South Dakota developed under the Act of August 11, 1939, as amended \[this section\]."
+Act Aug. 9, 1955, ch. 630, 69 Stat. 552, provided: "That the provisions of sections 41(g), 43, and 51 of the Bankhead-Jones Farm Tenant Act, as amended \[sections 1015(g), 1017, and 1025 of Title 7, Agriculture\], are hereby extended to apply on the obligations of settlers on the Angostura project in South Dakota developedunder the Act of August 11, 1939, as amended \[this section\]."
 

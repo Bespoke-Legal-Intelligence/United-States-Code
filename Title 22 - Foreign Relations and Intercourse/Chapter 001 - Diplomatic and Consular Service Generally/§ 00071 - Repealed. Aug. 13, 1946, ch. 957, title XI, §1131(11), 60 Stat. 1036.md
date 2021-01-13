@@ -2,6 +2,8 @@
 
 Section, R.S. §1714, related to construction of powers and duties of consular officers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.

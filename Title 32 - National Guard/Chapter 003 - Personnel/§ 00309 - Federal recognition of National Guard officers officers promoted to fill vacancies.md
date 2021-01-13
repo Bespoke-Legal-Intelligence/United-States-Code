@@ -20,9 +20,13 @@ Sept. 3, 1954, ch. 1257, §319, 68 Stat. 1160.
 
 The words "authorized under section 1227(a) of this title" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 substituted "National Guard officers: officers" for "officers: Army National Guard; officers" in section catchline and amended text generally. Prior to amendment, text read as follows: "Each officer of the Army National Guard who is promoted to fill a vacancy in a federally recognized unit thereof, and who is eligible for promotion under section 3363(b) of title 10, shall be examined for Federal recognition in the grade to which he is promoted. However, a second lieutenant or first lieutenant of the Army National Guard who has served creditably for at least one year in a position prescribed to be filled by a captain, and who has not previously been federally recognized under this section, may be examined for Federal recognition in the next higher grade without regard to section 3363(b) of title 10."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

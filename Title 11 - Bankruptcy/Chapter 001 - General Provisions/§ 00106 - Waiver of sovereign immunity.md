@@ -36,6 +36,8 @@ Though this subsection creates a partial waiver of immunity when the governmenta
 
 This section does not confer sovereign immunity on any governmental unit that does not already have immunity. It simply recognizes any immunity that exists and prescribes the proper treatment of claims by and against that sovereign.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), are set out in the Appendix to this title.
@@ -55,6 +57,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), a
 &emsp;"(1) a provision of this title that contains 'creditor', 'entity', or 'governmental unit' applies to governmental units; and
 
 &emsp;"(2) a determination by the court of an issue arising under such a provision binds governmental units."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

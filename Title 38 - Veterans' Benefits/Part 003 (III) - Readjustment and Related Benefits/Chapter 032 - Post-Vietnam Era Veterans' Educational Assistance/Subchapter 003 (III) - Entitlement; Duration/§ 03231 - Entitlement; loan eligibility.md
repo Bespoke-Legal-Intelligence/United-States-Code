@@ -40,7 +40,7 @@
 
 (d)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
-(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter whileresiding in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
+(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
 (e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
@@ -51,6 +51,8 @@
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979; Pub. L. 109–461, title X, §1002(c), Dec. 22, 2006, 120 Stat. 3465.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -112,13 +114,15 @@ Subsec. (d). Pub. L. 97–35, §2005(a), struck out subsec. (d) which related to
 
 Subsec. (b). Pub. L. 96–466, §403, substituted reference to enrolling in a course, courses, or program of education for the purpose of attaining a secondary school diploma or an equivalency certificate during the last six months of such member's first enlistment and at any time thereafter, for reference to participating in the Predischarge Education Program authorized by subchapter VI of chapter 34 of this title during the last 6 months of such member's first enlistment.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–568 applicable to flight training received under this chapter, chapter 30 of thistitle, and chapter 106 of Title 10, Armed Forces, after Sept. 30, 1992, see section 310(d) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
+Amendment by Pub. L. 102–568 applicable to flight training received under this chapter, chapter 30 of this title, and chapter 106 of Title 10, Armed Forces, after Sept. 30, 1992, see section 310(d) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
 
 #### Effective Date of 1991 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Economic Regulation.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
+Economic Regulation.—In carrying out subpart II of this part and those provisions ofsubpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
 
 &emsp;(1) assigning and maintaining safety as the highest priority in air commerce.
 
@@ -38,7 +38,7 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 &emsp;(10) avoiding unreasonable industry concentration, excessive market domination, monopoly powers, and other conditions that would tend to allow at least one air carrier or foreign air carrier unreasonably to increase prices, reduce services, or exclude competition in air transportation.
 
-&emsp;(11) maintaining a complete and convenient system of continuous scheduled interstate airtransportation for small communities and isolated areas with direct financial assistance from the United States Government when appropriate.
+&emsp;(11) maintaining a complete and convenient system of continuous scheduled interstate air transportation for small communities and isolated areas with direct financial assistance from the United States Government when appropriate.
 
 &emsp;(12) encouraging, developing, and maintaining an air transportation system relying on actual and potential competition—
 
@@ -80,7 +80,7 @@ General Safety Considerations.—In carrying out subpart III of this part and th
 
 (d)
 
-Safety Considerations in Public Interest.—In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator shall consider the following matters, among others, as being in the public interest:
+Safety Considerations in Public Interest.—In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator shallconsider the following matters, among others, as being in the public interest:
 
 &emsp;(1) assigning, maintaining, and enhancing safety and security as the highest priorities in air commerce.
 
@@ -248,7 +248,7 @@ Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3)
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–95, §3, Feb. 14, 2012, 126 Stat. 15, provided that: "Except as otherwise expressly provided, this Act \[see Tables for classification\] and the amendmentsmade by this Act shall take effect on the date of enactment of this Act \[Feb. 14, 2012\]."
+Pub. L. 112–95, §3, Feb. 14, 2012, 126 Stat. 15, provided that: "Except as otherwise expressly provided, this Act \[see Tables for classification\] and the amendments made by this Act shall take effect on the date of enactment of this Act \[Feb. 14, 2012\]."
 
 #### Effective Date of 2000 Amendment
 
@@ -257,6 +257,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. V, title I, §101(a), Dec. 27, 2020, 134 Stat. 2309, provided that: "This title \[see Tables for classification\] may be cited as the 'Aircraft Certification, Safety, and Accountability Act'."
+
+Pub. L. 116–190, §1, Oct. 30, 2020, 134 Stat. 974, provided that: "This Act \[amending section 47107 of this title\] may be cited as the 'Friendly Airports for Mothers Improvement Act'."
 
 #### Short Title of 2019 Amendment
 
@@ -322,7 +328,7 @@ Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: "This Act \
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: "This Act \[see Tables for classification\]may be cited as the 'Vision 100—Century of Aviation Reauthorization Act'."
+Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: "This Act \[see Tables for classification\] may be cited as the 'Vision 100—Century of Aviation Reauthorization Act'."
 
 Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: "This title \[enacting subchapter III of chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as 'Aviation Streamlining Approval Process Act of 2003'."
 
@@ -356,7 +362,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: "This Act \
 
 Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Aviation Reauthorization Act of 1996'."
 
-Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121,40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
 
 Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: "This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the 'Rural Air Service Survival Act'."
 
@@ -375,6 +381,190 @@ Pub. L. 104–264, title XI, §1101, Oct. 9, 1996, 110 Stat. 3278, provided that
 Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: "This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the 'Federal Aviation Administration Authorization Act of 1994'."
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: "This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the 'Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994'."
+
+#### National Air Grant Fellowship Program
+
+Pub. L. 116–260, div. V, title I, §131, Dec. 27, 2020, 134 Stat. 2350, provided that:
+
+"(a)
+
+Program.—
+
+&emsp;"(1)
+
+Program maintenance.—The Administrator \[of the Federal Aviation Administration\] shall maintain within the FAA \[Federal Aviation Administration\] a program to be known as the 'National Air Grant Fellowship Program'.
+
+&emsp;"(2)
+
+Program elements.—The National Air Grant Fellowship Program shall provide support for the fellowship program under subsection (b).
+
+&emsp;"(3)
+
+Responsibilities of administrator.—
+
+&emsp;&emsp;"(A)
+
+Guidelines.—The Administrator shall establish guidelines related to the activities and responsibilities of air grant fellowships under subsection (b).
+
+&emsp;&emsp;"(B)
+
+Qualifications.—The Administrator shall by regulation prescribe the qualifications required for designation of air grant fellowships under subsection (b).
+
+&emsp;&emsp;"(C)
+
+Authority.—In order to carry out the provisions of this section, the Administrator may—
+
+&emsp;&emsp;&emsp;"(i) appoint, assign the duties, transfer, and fix the compensation of such personnel as may be necessary, in accordance with civil service laws;
+
+&emsp;&emsp;&emsp;"(ii) make appointments with respect to temporary and intermittent services to the extent authorized by section 3109 of title 5, United States Code;
+
+&emsp;&emsp;&emsp;"(iii) enter into contracts, cooperative agreements, and other transactions without regard to section 6101 of title 41, United States Code;
+
+&emsp;&emsp;&emsp;"(iv) notwithstanding section 1342 of title 31, United States Code, accept donations and voluntary and uncompensated services;
+
+&emsp;&emsp;&emsp;"(v) accept funds from other Federal departments and agencies, including agencies within the FAA, to pay for and add to activities authorized by this section; and
+
+&emsp;&emsp;&emsp;"(vi) promulgate such rules and regulations as may be necessary and appropriate.
+
+&emsp;"(4)
+
+Director of national air grant fellowship program.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall appoint, as the Director of the National Air Grant Fellowship Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to aerospace. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5, United States Code.
+
+&emsp;&emsp;"(B)
+
+Duties.—Subject to the supervision of the Administrator, the Director shall administer the National Air Grant Fellowship Program. In addition to any other duty prescribed by law or assigned by the Administrator, the Director shall—
+
+&emsp;&emsp;&emsp;"(i) cooperate with institutions of higher education that offer degrees in fields related to aerospace;
+
+&emsp;&emsp;&emsp;"(ii) encourage the participation of graduate and post-graduate students in the National Air Grant Fellowship Program; and
+
+&emsp;&emsp;&emsp;"(iii) cooperate and coordinate with other Federal activities in fields related to aerospace.
+
+"(b)
+
+Fellowships.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be in fields related to aerospace and awarded pursuant to guidelines established by the Administrator. The Administrator shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this paragraph.
+
+&emsp;"(2)
+
+Aerospace policy fellowship.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall award aerospace policy fellowships to support the placement of individuals at the graduate level of education in fields related to aerospace in positions with—
+
+&emsp;&emsp;&emsp;"(i) the executive branch of the United States Government; and
+
+&emsp;&emsp;&emsp;"(ii) the legislative branch of the United States Government.
+
+&emsp;&emsp;"(B)
+
+Placement priorities for legislative fellowships.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—In considering the placement of individuals receiving a fellowship for a legislative branch position under subparagraph (A)(ii),the Administrator shall give priority to placement of such individuals in the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Positions in offices of, or with Members on, committees of Congress that have jurisdiction over the FAA.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Positions in offices of Members of Congress that have a demonstrated interest in aerospace policy.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Equitable distribution.—In placing fellows in positions described under clause (i), the Administrator shall ensure that placements are equally distributed among the political parties.
+
+&emsp;&emsp;"(C)
+
+Duration.—A fellowship awarded under this paragraph shall be for a period of not more than 1 year.
+
+&emsp;"(3)
+
+Restriction on use of funds.—Amounts available for fellowships under this subsection, including amounts accepted under subsection (a)(3)(C)(v) or appropriated under subsection (d) to carry out this subsection, shall be used only for award of such fellowships and administrative costs of implementing this subsection.
+
+"(c)
+
+Interagency Cooperation.—Each department, agency, or other instrumentality of the Federal Government that is engaged in or concerned with, or that has authority over, matters relating to aerospace—
+
+&emsp;"(1) may, upon a written request from the Administrator, make available, on a reimbursable basis or otherwise, any personnel (with their consent and without prejudice to their position and rating), service, or facility that the Administrator deems necessary to carry out any provision of this section;
+
+&emsp;"(2) shall, upon a written request from the Administrator, furnish any available data or other information that the Administrator deems necessary to carry out any provision of this section; and
+
+&emsp;"(3) shall cooperate with the FAA and duly authorized officials thereof.
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2021 through 2025 to carry out this section. Amounts appropriated under the preceding sentence shall remain available until expended.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Director.—The term 'Director' means the Director of the National Air Grant Fellowship Program, appointed pursuant to subsection (a)(4).
+
+&emsp;"(2)
+
+Fields related to aerospace.—The term 'fields related to aerospace' means any discipline or field that is concerned with, or likely to improve, the development, assessment, operation, safety, or repair of aircraft and other airborne objects and systems, including the following:
+
+&emsp;&emsp;"(A) Aerospace engineering.
+
+&emsp;&emsp;"(B) Aerospace physiology.
+
+&emsp;&emsp;"(C) Aeronautical engineering.
+
+&emsp;&emsp;"(D) Airworthiness engineering.
+
+&emsp;&emsp;"(E) Electrical engineering.
+
+&emsp;&emsp;"(F) Human factors.
+
+&emsp;&emsp;"(G) Software engineering.
+
+&emsp;&emsp;"(H) Systems engineering."
+
+#### Emerging Safety Trends in Aviation
+
+Pub. L. 116–260, div. V, title I, §132, Dec. 27, 2020, 134 Stat. 2352, provided that:
+
+"(a)
+
+General.—Not later than 180 days after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall enter into an agreement with the Transportation Research Board for the purposes of developing an annual report identifying, categorizing, and analyzing emerging safety trends in air transportation.
+
+"(b)
+
+Factors.—The emerging safety trends report should be based on the following data:
+
+&emsp;"(1) The National Transportation Safety Board's investigation of accidents under section 1132 of title 49, United States Code.
+
+&emsp;"(2) The Administrator's investigations of accidents and incidents under section 40113 of title 49, United States Code.
+
+&emsp;"(3) Information provided by air operators pursuant to safety management systems.
+
+&emsp;"(4) International investigations of accidents and incidents, including reports, data, and information from foreign authorities and ICAO.
+
+&emsp;"(5) Other sources deemed appropriate for establishing emerging safety trends in the aviation sector, including the FAA's annual safety culture assessment required under subsection (c).
+
+"(c)
+
+Safety Culture Assessment.—The Administrator shall conduct an annual safety culture assessment through fiscal year 2031, which shall include surveying all employees in the FAA's Aviation Safety organization (AVS) to determine the employees' collective opinion regarding, and to assess the health of, AVS' safety culture and implementation of any voluntary safety reporting program.
+
+"(d)
+
+Existing Reporting Systems.—The Executive Director of the Transportation Research Board, in consultation with the Secretary of Transportation and Administrator, may take into account and, as necessary, harmonize data and sources from existing reporting systems within the Department of Transportation and FAA.
+
+"(e)
+
+Biennial Report to Congress.—One year after the Administrator enters into the agreement with the Transportation Research Board as set forth in subsection (a), and biennially thereafter through fiscal year 2031, the Executive Director, in consultation with the Secretary and Administrator, shall submit to the congressional committees of jurisdiction a report identifying the emerging safety trends in air transportation."
+
+\[For definitions of terms used in section 132 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note below.\]
 
 #### FAA Leadership on Civil Supersonic Aircraft
 
@@ -722,7 +912,7 @@ Project Grants.—
 
 &emsp;"(1)
 
-In general.—Out of amounts made available under section 48105 of title 49, United States Code, not more than $5,000,000 for each of fiscal years 2019 through 2023 is authorized to be expended to provide grants under the program established under subsection (a)(1), and $5,000,000 for each of fiscal years 2019 through 2023 is authorized to provide grantsunder the program established under subsection (a)(2).
+In general.—Out of amounts made available under section 48105 of title 49, United States Code, not more than $5,000,000 for each of fiscal years 2019 through 2023 is authorized to be expended to provide grants under the program established under subsection (a)(1), and $5,000,000 for each of fiscal years 2019 through 2023 is authorized to provide grants under the program established under subsection (a)(2).
 
 &emsp;"(2)
 
@@ -844,7 +1034,7 @@ Unmanned Aircraft System Defined.—In this section, the term 'unmanned aircraft
 
 #### Cyber Testbed
 
-Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
+Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 monthsafter the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
 
 #### Mitigation of Operational Risks Posed to Certain Military Aircraft by Automatic Dependent Surveillance-Broadcast Equipment
 
@@ -944,7 +1134,7 @@ Reassessment of Determination of Public Interest.—The Secretary—
 
 In General.—The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government—
 
-&emsp;"(1) should, as appropriate, use their authority to conduct international negotiations, including using their authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
+&emsp;"(1) should, as appropriate, use their authority to conduct international negotiations, including usingtheir authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
 
 &emsp;"(2) shall, as appropriate and except as provided in subsection (b), take other actions under existing authorities that are in the public interest necessary to hold operators of civil aircraft of the United States harmless from the emissions trading scheme referred to under section 2.
 
@@ -1058,7 +1248,7 @@ Contents.—At a minimum, the review to be conducted under subsection (a) shall�
 
 &emsp;"(1) highlight the technical activities, including human-system design, organizational design, and other safety and human factor aspects of the system, that will be necessary to successfully transition current and planned modernization programs to the future system envisioned by the Joint Planning and Development Office of the Administration;
 
-&emsp;"(2) assess technical, cost, and schedule risk for the software development that will be necessary to achieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects; and
+&emsp;"(2) assess technical, cost, and schedule risk for the software development that will be necessary toachieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects; and
 
 &emsp;"(3) determine how risks with automation efforts for the NextGen can be mitigated based on the experiences of other public or private entities in developing complex, software-intensive systems.
 
@@ -1146,7 +1336,7 @@ Implementation plan for non-oep airports.—A plan for implementation of the pro
 
 &emsp;&emsp;&emsp;"(iii) coordination and communications mechanisms with qualified third parties;
 
-&emsp;&emsp;&emsp;"(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in the en route and terminal environments, including in a mixed operational environment;
+&emsp;&emsp;&emsp;"(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in theen route and terminal environments, including in a mixed operational environment;
 
 &emsp;&emsp;&emsp;"(v) baseline and performance metrics for—
 
@@ -1486,7 +1676,7 @@ Pub. L. 112–95, title II, §225, Feb. 14, 2012, 126 Stat. 55, provided that:
 
 "(a)
 
-Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], theAdministrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
+Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
 
 "(b)
 
@@ -1594,7 +1784,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men and women in uniform and those charged with homeland security.
 
-&emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviation system safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
+&emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviationsystem safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
 
 &emsp;"(6) Revitalization and coordination of the United States efforts to maintain its leadership in aviation and aeronautics are critical and must begin now.
 
@@ -1752,7 +1942,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifyingeach Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -1944,7 +2134,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404,Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -2178,7 +2368,7 @@ Collateral source.—The term 'collateral source' means all collateral sources, 
 
 &emsp;"(7)
 
-Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
+Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractoror subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
 &emsp;"(8)
 
@@ -2284,7 +2474,7 @@ Contents.—The form developed under subparagraph (A) shall request—
 
 &emsp;&emsp;&emsp;"(i) information from the claimant concerning the physical harm that the claimant suffered, or in the case of a claim filed on behalf of a decedent information confirming the decedent's death, as a result of the terrorist-related aircraft crashes of September 11, 2001, or debris removal during the immediate aftermath;
 
-&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic lossesthat the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
+&emsp;&emsp;&emsp;"(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
 
 &emsp;&emsp;&emsp;"(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
 
@@ -2436,7 +2626,7 @@ Individuals.—A claimant is an individual described in this paragraph if the cl
 
 &emsp;&emsp;"(A) an individual who—
 
-&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
+&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington,Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
 
 &emsp;&emsp;&emsp;"(ii) suffered physical harm or death as a result of such an air crash or debris removal;
 
@@ -2710,7 +2900,7 @@ Priority of claims payments.—Payments to plaintiffs who obtain a settlement or
 
 &emsp;&emsp;"(B) If there are no funds available as described in subparagraph (A) or (B) of paragraph (4), the funds described in subparagraph (C) of such paragraph.
 
-&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), thefunds described in subparagraph (D) of such paragraph.
+&emsp;&emsp;"(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), the funds described in subparagraph (D) of such paragraph.
 
 &emsp;&emsp;"(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
 
@@ -2836,7 +3026,7 @@ Use of funds.—For fiscal year 2017, and each fiscal year thereafter, amounts i
 
 #### "SEC. 601. SEPARABILITY.
 
-"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
+"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
 
 \[Pub. L. 107–134, title I, §114(b), Jan. 23, 2002, 115 Stat. 2436, provided that: "The amendment made by this section \[amending Pub. L. 107–42, set out above\] shall take effect as if included in section 301 of the Air Transportation Safety and System Stabilization Act (Public Law 107–42)."\]
 
@@ -3066,7 +3256,7 @@ Report to secretary.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
+In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis tothe Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -3396,7 +3586,7 @@ Revision.—The Secretary shall revise the list required under subsection (a) on
 
 "(c)
 
-Publication.—The Secretary shall publish the list required under subsection (a) not later than 30 daysafter the date of the enactment of this Act \[Aug. 23, 1994\]. The Secretary shall publish a revision to the list not later than 30 days after completing the revision under subsection (b)."
+Publication.—The Secretary shall publish the list required under subsection (a) not later than 30 days after the date of the enactment of this Act \[Aug. 23, 1994\]. The Secretary shall publish a revision to the list not later than 30 days after completing the revision under subsection (b)."
 
 #### General Aviation Revitalization Act of 1994
 
@@ -3410,7 +3600,7 @@ Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–10
 
 "(a)
 
-In General.—Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
+In General.—Except as provided in subsection (b), no civil action for damages for death or injury topersons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
 &emsp;"(1) after the applicable limitation period beginning on—
 
@@ -3465,6 +3655,42 @@ Application of Act.—This Act shall not apply with respect to civil actions com
 #### National Commission to Ensure a Strong Competitive Airline Industry
 
 Pub. L. 102–581, title II, §204, Oct. 31, 1992, 106 Stat. 4891, as amended Pub. L. 103–13, §1, Apr. 7, 1993, 107 Stat. 43, provided for establishment of National Commission to Ensure a Strong Competitive Airline Industry to make a complete investigation and study of financial condition of the airline industry, adequacy of competition in the airline industry, and legal impediments to a financially strong and competitive airline industry, to report to President and Congress not later than 90 days after the date on which initial appointments of members to the Commission were completed, and to terminate on the 30th day following transmission of report.
+
+#### Definitions of Terms in Title I of Div. V of Pub. L. 116–260
+
+Pub. L. 116–260, div. V, title I, §137, Dec. 27, 2020, 134 Stat. 2360, provided that: "In this title \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Administration; faa.—The terms 'Administration' and 'FAA' mean the Federal Aviation Administration.
+
+&emsp;"(2)
+
+Administrator.—The term 'Administrator' means the Administrator of the FAA.
+
+&emsp;"(3)
+
+Congressional committees of jurisdiction.—The term 'congressional committees of jurisdiction' means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;"(4)
+
+ICAO.—The term 'ICAO' means the International Civil Aviation Organization.
+
+&emsp;"(5)
+
+Organization designation authorization.—The term 'organization designation authorization' has the same meaning given such term in section 44736(c) of title 49, United States Code.
+
+&emsp;"(6)
+
+Transport airplane.—The term 'transport airplane' means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.
+
+&emsp;"(7)
+
+Type certificate.—The term 'type certificate'—
+
+&emsp;&emsp;"(A) means a type certificate issued pursuant to section 44704(a) of title 49, United States Code, or an amendment to such certificate; and
+
+&emsp;&emsp;"(B) does not include a supplemental type certificate issued under section 44704(b) of such section."
 
 #### Definitions of Terms in Pub. L. 115–254
 

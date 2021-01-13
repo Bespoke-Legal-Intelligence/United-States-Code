@@ -40,6 +40,8 @@
 
 (Added Pub. L. 106–531, §3(a), Nov. 22, 2000, 114 Stat. 2537; amended Pub. L. 108–330, §4(a), Oct. 16, 2004, 118 Stat. 1277.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2222 of title 10, referred to in subsec. (a)(2)(B)(i), was repealed by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
@@ -49,6 +51,8 @@ Section 874(b)(2) of the Homeland Security Act of 2002, referred to in subsec. (
 #### Amendments
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–330 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -84,7 +88,7 @@ Reaching an Unqualified Audit Opinion.—In order to ensure compliance with the 
 
 "(c)
 
-Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118 Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
+Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
 
 &emsp;"(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans and resources needed to meet the deadlines under subsection (b);
 

@@ -32,7 +32,7 @@ No State program may be authorized by the Administrator under this section unles
 
 &emsp;(1) such program provides for the public availability of information obtained by the State regarding facilities and sites for the treatment, storage, and disposal of hazardous waste; and
 
-&emsp;(2) such information is available to the public in substantially the same manner, and to the same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
+&emsp;(2) such information is available to the public in substantially the same manner, and tothe same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
 
 #### (g) Amendments made by 1984 act
 

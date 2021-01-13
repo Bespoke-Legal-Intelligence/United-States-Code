@@ -18,6 +18,7 @@
 
 |  |  |
 | :--- | ---: |
+| [2319C.](%C2%A7%2002319C%20-%20Illicit%20digital%20transmission%20services.md) | Illicit digital transmission services. |
 | [2320\.](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md) | Trafficking in counterfeit goods or services. |
 | [2321\.](%C2%A7%2002321%20-%20Trafficking%20in%20certain%20motor%20vehicles%20or%20motor%20vehicle%20parts.md) | Trafficking in certain motor vehicles or motor vehicle parts. |
 | [2322\.](%C2%A7%2002322%20-%20Chop%20shops.md) | Chop shops. |
@@ -25,7 +26,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. Q, title II, §211(b), Dec. 27, 2020, 134 Stat. 2176, added item 2319C.
 
 <b>2008</b>—Pub. L. 110–403, title II, §206(b), Oct. 13, 2008, 122 Stat. 4263, added item 2323.
 
@@ -69,6 +74,7 @@ Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 217
 - [&sect; 02319 - Criminal infringement of a copyright](%C2%A7%2002319%20-%20Criminal%20infringement%20of%20a%20copyright.md)
 - [&sect; 02319A - Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances](%C2%A7%2002319A%20-%20Unauthorized%20fixation%20of%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos%20of%20live%20musical%20performances.md)
 - [&sect; 02319B - Unauthorized recording of Motion pictures in a Motion picture exhibition facility](%C2%A7%2002319B%20-%20Unauthorized%20recording%20of%20Motion%20pictures%20in%20a%20Motion%20picture%20exhibition%20facility.md)
+- [&sect; 02319C - Illicit digital transmission services](%C2%A7%2002319C%20-%20Illicit%20digital%20transmission%20services.md)
 - [&sect; 02320 - Trafficking in counterfeit goods or services](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md)
 - [&sect; 02321 - Trafficking in certain motor vehicles or motor vehicle parts](%C2%A7%2002321%20-%20Trafficking%20in%20certain%20motor%20vehicles%20or%20motor%20vehicle%20parts.md)
 - [&sect; 02322 - Chop shops](%C2%A7%2002322%20-%20Chop%20shops.md)

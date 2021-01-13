@@ -6,7 +6,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 (b) Any former Indian or non-Indian owner of a tract of such land, whether title was held in trust or fee, may purchase such tract from the Secretary of the Interior under the following terms and conditions:
 
-&emsp;(1) The purchase price to a former Indian owner shall be the total amount paid by theUnited States to acquire such tract and all interests therein, plus interest thereon from the date of acquisition at a rate determined by the Secretary of the Treasury taking into consideration the average market yield of all outstanding marketable obligations of the United States at the time the tract was acquired by the United States, adjusted to the nearest one-eighth of 1 per centum. The purchase price to a former non-Indian owner shall be present fair market value of the tract as determined by the Secretary of the Interior.
+&emsp;(1) The purchase price to a former Indian owner shall be the total amount paid by the United States to acquire such tract and all interests therein, plus interest thereon from the date of acquisition at a rate determined by the Secretary of the Treasury taking into consideration the average market yield of all outstanding marketable obligations of the United States at the time the tract was acquired by the United States, adjusted to the nearest one-eighth of 1 per centum. The purchase price to a former non-Indian owner shall be present fair market value of the tract as determined by the Secretary of the Interior.
 
 &emsp;(2) Not less than $100 or 20 per centum of the purchase price, whichever is less, shall be paid at the time of purchase, and the balance shall be payable in not to exceed 20 years with interest at a rate determined by the Secretary of the Treasury taking into account the current average market yield on outstanding marketable obligations of the United States with twenty years remaining to date of maturity, adjusted to the nearest one-eighth of 1 per centum.
 
@@ -24,7 +24,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 #### Codification
 
-In subpar. (D) of introductory provisions, "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subpar. (D) of introductory provisions, "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I oftitle 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Change of Name
 

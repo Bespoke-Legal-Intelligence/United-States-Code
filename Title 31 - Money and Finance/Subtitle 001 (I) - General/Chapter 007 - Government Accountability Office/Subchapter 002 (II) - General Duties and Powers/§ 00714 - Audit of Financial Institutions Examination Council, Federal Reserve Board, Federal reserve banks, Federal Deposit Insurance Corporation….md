@@ -28,7 +28,7 @@
 
 (2) The Comptroller General shall prevent unauthorized access to records, copies of any record, or property of or used by an agency or any person or entity described in paragraph (3)(A) that the Comptroller General obtains during an audit.
 
-(3)(A) For purposes of conducting audits and examinations under subsection (e) or (f), the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things or property belonging to or in use by—
+(3)(A) For purposes of conducting audits and examinations under subsection (e) or (f), theComptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things or property belonging to or in use by—
 
 &emsp;(i) any entity established by any action taken by the Board or the Federal Reserve banks described under subsection (e) or (f);
 
@@ -36,7 +36,7 @@
 
 &emsp;(iii) the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entity described under clause (i) or (ii); to the extent that the access and request relates to that assistance;
 
-(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copiesnecessary to carry out a <sup>1</sup> audit or examination under this subsection.
+(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a <sup>1</sup> audit or examination under this subsection.
 
 (C) Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) or (f) shall provide for access by the Comptroller General in accordance with this paragraph.
 
@@ -150,6 +150,8 @@ In subsection (d)(1), the words "To carry out this section, all records and prop
 
 In subsection (d)(2), the words "records and property of or used by an agency" are substituted for "agency materials described in subparagraph (A)" for consistency. The words "The Comptroller General shall prevent unauthorized access to records or property" are substituted for 31:67(e)(7)(D)(last sentence) for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The third undesignated paragraph of section 13 of the Federal Reserve Act, referred in subsec. (e), is deemed to be a reference to section 13(3) of the Federal Reserve Act, which is classified to section 343(3) of Title 12, Banks and Banking. See section 1101(c) of Pub. L. 111–203, set out as a note under section 343 of Title 12.
@@ -190,9 +192,11 @@ Subsec. (e). Pub. L. 111–22, §801(d), added subsec. (e).
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) "An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities." and amended par. (2)generally. Prior to amendment, par. (2) read as follows: "Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property."
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) "An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities." and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property."
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

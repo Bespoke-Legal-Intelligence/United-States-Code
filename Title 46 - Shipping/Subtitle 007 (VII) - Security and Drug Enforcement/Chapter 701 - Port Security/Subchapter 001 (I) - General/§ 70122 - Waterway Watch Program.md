@@ -44,6 +44,8 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 (Added Pub. L. 111–281, title VIII, §801(a), Oct. 15, 2010, 124 Stat. 2988; amended Pub. L. 114–120, title III, §306(a)(11), Feb. 8, 2016, 130 Stat. 55.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–120 substituted "Watch Program" for "watch program" in section catchline.

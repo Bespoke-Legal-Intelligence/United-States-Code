@@ -26,7 +26,7 @@ For the purpose of making direct payments and counter-cyclical payments under th
 
 #### (3) Use of partial county average yield
 
-&emsp;If the yield per planted acre for a crop of a designated oilseed or pulse crop for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield forthat designated oilseed or pulse crop, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
+&emsp;If the yield per planted acre for a crop of a designated oilseed or pulse crop for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that designated oilseed or pulse crop, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
 
 #### (4) No historic yield data available
 

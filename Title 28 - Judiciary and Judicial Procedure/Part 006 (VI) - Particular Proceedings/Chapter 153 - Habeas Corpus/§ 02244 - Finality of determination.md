@@ -32,7 +32,7 @@
 
 &emsp;(B) the date on which the impediment to filing an application created by State action in violation of the Constitution or laws of the United States is removed, if the applicant was prevented from filing by such State action;
 
-&emsp;(C) the date on which the constitutional right asserted was initially recognized by the Supreme Court, if the right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or
+&emsp;(C) the date on which the constitutional right asserted was initially recognized by theSupreme Court, if the right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or
 
 &emsp;(D) the date on which the factual predicate of the claim or claims presented could have been discovered through the exercise of due diligence.
 
@@ -44,11 +44,13 @@
 
 This section makes no material change in existing practice. Notwithstanding the opportunity open to litigants to abuse the writ, the courts have consistently refused to entertain successive "nuisance" applications for habeas corpus. It is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress by Chairman Hatton Sumners of the Committee on the Judiciary and referred to that Committee.
 
-The practice of suing out successive, repetitious, and unfounded writs of habeas corpus imposes an unnecessary burden on the courts. See <i>Dorsey v. Gill</i>, 1945, 148F.2d 857, 862, in which Miller, J., notes that "petitions for the writ are used not only as they should be to protect unfortunate persons against miscarriages of justice, but also as a device for harassing court, custodial, and enforcement officers with a multiplicity of repetitious, meritless requests for relief. The most extreme example is that of a person who, between July 1, 1939, and April 1944 presented in the District Court 50 petitions for writs of habeas corpus; another person has presented 27 petitions; a third, 24; a fourth, 22; a fifth, 20. One hundred nineteen persons have presented 597 petitions—an average of 5."
+The practice of suing out successive, repetitious, and unfounded writs of habeas corpus imposes an unnecessary burden on the courts. See <i>Dorsey v. Gill</i>, 1945, 148 F.2d 857, 862, in which Miller, J., notes that "petitions for the writ are used not only as they should be to protect unfortunate persons against miscarriages of justice, but also as a device for harassing court, custodial, and enforcement officers with a multiplicity of repetitious, meritless requests for relief. The most extreme example is that of a person who, between July 1, 1939, and April 1944 presented in the District Court 50 petitions for writs of habeas corpus; another person has presented 27 petitions; a third, 24; a fourth, 22; a fifth, 20. One hundred nineteen persons have presented 597 petitions—an average of 5."
 
 #### Senate Revision Amendments
 
 Section amended to modify original language which denied Federal judges power to entertain application for writ where legality of detention had been determined on prior application and later application presented no new grounds, and to omit reference to rehearing in section catch line and original provision authorizing hearing judge to grant rehearing. 80th Congress, Senate Report No. 1559, Amendment No. 45.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

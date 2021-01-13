@@ -6,7 +6,7 @@
 | [1002\.](%C2%A7%2001002%20-%20Additional%20training%20or%20duty%20without%20pay%20Reserves%20and%20members%20of%20National%20Guard.md) | Additional training or duty without pay: Reserves and members of National Guard. |
 | [1003\.](%C2%A7%2001003%20-%20Assimilation%20of%20pay%20and%20allowances.md) | Assimilation of pay and allowances. |
 | [1004\.](%C2%A7%2001004%20-%20Computation%20of%20pay%20and%20allowances%20for%20month%20or%20part%20of%20month.md) | Computation of pay and allowances for month or part of month. |
-| [1005\.](%C2%A7%2001005%20-%20Army%20and%20Air%20Force%20prompt%20payments%20required.md) | Army and Air Force: prompt payments required. |
+| [1005\.](%C2%A7%2001005%20-%20Army%2C%20Air%20Force%2C%20and%20Space%20Force%20prompt%20payments%20required.md) | Army, Air Force, and Space Force: prompt payments required. |
 | [1006\.](%C2%A7%2001006%20-%20Advance%20payments.md) | Advance payments. |
 | [1007\.](%C2%A7%2001007%20-%20Deductions%20from%20pay.md) | Deductions from pay. |
 | [1008\.](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md) | Presidential recommendations concerning adjustments and changes in pay and allowances. |
@@ -25,7 +25,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §925(k)(1)(C), Jan. 1, 2021, 134 Stat. 3829, which directed amendment of the analysis for chapter 15 by striking item 803 and inserting a new item 1005, was executed to the analysis for this chapter by adding item 1005 and striking out former item 1005 "Army and Air Force: prompt payments required", to reflect the probable intent of Congress.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VI, §662(b), Nov. 25, 2015, 129 Stat. 859, added item 1015.
 
@@ -64,7 +68,7 @@ Pub. L. 99–399, title VIII, §806(e)(2), Aug. 27, 1986, 100 Stat. 889, added i
 - [&sect; 01002 - Additional training or duty without pay Reserves and members of National Guard](%C2%A7%2001002%20-%20Additional%20training%20or%20duty%20without%20pay%20Reserves%20and%20members%20of%20National%20Guard.md)
 - [&sect; 01003 - Assimilation of pay and allowances](%C2%A7%2001003%20-%20Assimilation%20of%20pay%20and%20allowances.md)
 - [&sect; 01004 - Computation of pay and allowances for month or part of month](%C2%A7%2001004%20-%20Computation%20of%20pay%20and%20allowances%20for%20month%20or%20part%20of%20month.md)
-- [&sect; 01005 - Army and Air Force prompt payments required](%C2%A7%2001005%20-%20Army%20and%20Air%20Force%20prompt%20payments%20required.md)
+- [&sect; 01005 - Army, Air Force, and Space Force prompt payments required](%C2%A7%2001005%20-%20Army%2C%20Air%20Force%2C%20and%20Space%20Force%20prompt%20payments%20required.md)
 - [&sect; 01006 - Advance payments](%C2%A7%2001006%20-%20Advance%20payments.md)
 - [&sect; 01007 - Deductions from pay](%C2%A7%2001007%20-%20Deductions%20from%20pay.md)
 - [&sect; 01008 - Presidential recommendations concerning adjustments and changes in pay and allowances](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md)

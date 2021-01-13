@@ -2,7 +2,7 @@
 
 #### (a) Transporting of persons; required equipment and capabilities; safety catches; daily examinations; operators
 
-Every hoist used to transport persons at a coal mine shall be equipped with overspeed,overwind, and automatic stop controls. Every hoist handling platforms, cages, or other devices used to transport persons shall be equipped with brakes capable of stopping the fully loaded platform, cage, or other device; with hoisting cable adequately strong to sustain the fully loaded platform, cage, or other device; and have a proper margin of safety. Cages, platforms, or other devices which are used to transport persons in shafts and slopes shall be equipped with safety catches or other no less effective devices approved by the Secretary that act quickly and effectively in an emergency, and such catches shall be tested at least once every two months. Hoisting equipment, including automatic elevators, that is used to transport persons shall be examined daily. Where persons are transported into, or out of, a coal mine by hoists, a qualified hoisting engineer shall be on duty while any person is underground, except that no such engineer shall be required for automatically operated cages, platforms, or elevators.
+Every hoist used to transport persons at a coal mine shall be equipped with overspeed, overwind, and automatic stop controls. Every hoist handling platforms, cages, or other devices used to transport persons shall be equipped with brakes capable of stopping the fully loaded platform, cage, or other device; with hoisting cable adequately strong to sustain the fully loaded platform, cage, or other device; and have a proper margin of safety. Cages, platforms, or other devices which are used to transport persons in shafts and slopes shall be equipped with safety catches or other no less effective devices approved by the Secretary that act quickly and effectively in an emergency, and such catches shall be tested at least once every two months. Hoisting equipment, including automatic elevators, that is used to transport persons shall be examined daily. Where persons are transported into, or out of, a coal mine by hoists, a qualified hoisting engineer shall be on duty while any person is underground, except that no such engineer shall be required for automatically operated cages, platforms, or elevators.
 
 #### (b) Promulgation of other safeguards
 
@@ -26,9 +26,13 @@ All haulage equipment acquired by an operator of a coal mine on or after one yea
 
 (Pub. L. 91–173, title III, §314, Dec. 30, 1969, 83 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsec. (f), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

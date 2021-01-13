@@ -22,7 +22,9 @@ Limitation.—No person shall be prosecuted, tried, or punished for a securities
 
 (Added Pub. L. 111–203, title X, §1079A(b)(1), July 21, 2010, 124 Stat. 2079.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, setout as a note under section 5301 of Title 12, Banks and Banking.
 

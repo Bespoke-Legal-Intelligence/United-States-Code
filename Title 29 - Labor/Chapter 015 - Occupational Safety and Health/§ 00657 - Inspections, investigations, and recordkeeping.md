@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner
 
-In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriatecredentials to the owner, operator, or agent in charge, is authorized—
+In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
 
 &emsp;(1) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
 
@@ -30,7 +30,7 @@ Subject to regulations issued by the Secretary, a representative of the employer
 
 #### (f) Request for inspection by employees or representative of employees; grounds; procedure; determination of request; notification of Secretary or representative prior to or during any inspection of violations; procedure for review of refusal by representative of Secretary to issue citation for alleged violations
 
-(1) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. Any such noticeshall be reduced to writing, shall set forth with reasonable particularity the grounds for the notice, and shall be signed by the employees or representative of employees, and a copy shall be provided the employer or his agent no later than at the time of inspection, except that, upon the request of the person giving such notice, his name and the names of individual employees referred to therein shall not appear in such copy or on any record published, released, or made available pursuant to subsection (g) of this section. If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
+(1) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. Any such notice shall be reduced to writing, shall set forth with reasonable particularity the grounds for the notice, and shall be signed by the employees or representative of employees, and a copy shall be provided the employer or his agent no later than at the time of inspection, except that, upon the request of the person giving such notice, hisname and the names of individual employees referred to therein shall not appear in such copy or on any record published, released, or made available pursuant to subsection (g) of this section. If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
 
 (2) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary's final disposition of the case.
 
@@ -46,6 +46,8 @@ The Secretary shall not use the results of enforcement activities, such as the n
 
 (Pub. L. 91–596, §8, Dec. 29, 1970, 84 Stat. 1598; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–198, §1, July 16, 1998, 112 Stat. 640.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
 For information regarding constitutionality of certain provisions of section 8 of Pub. L. 91–596, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
@@ -53,6 +55,8 @@ For information regarding constitutionality of certain provisions of section 8 o
 #### Amendments
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–198 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

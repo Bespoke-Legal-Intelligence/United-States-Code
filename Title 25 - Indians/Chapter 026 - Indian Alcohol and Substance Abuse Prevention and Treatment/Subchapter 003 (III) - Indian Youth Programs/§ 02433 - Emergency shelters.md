@@ -42,7 +42,9 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII,§703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr.18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

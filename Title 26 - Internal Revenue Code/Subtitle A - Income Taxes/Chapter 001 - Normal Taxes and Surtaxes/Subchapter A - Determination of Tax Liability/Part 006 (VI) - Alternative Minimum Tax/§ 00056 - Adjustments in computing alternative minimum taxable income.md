@@ -30,7 +30,7 @@ In determining the amount of the alternative minimum taxable income for any taxa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to property placed in service after December 31, 1986, to which the amendments made by section 201 of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d) of such Act.
+&emsp;&emsp;&emsp;This paragraph shall not apply to property placed in service after December 31, 1986, to which the amendments made bysection 201 of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d) of such Act.
 
 #### (ii) Treatment of certain property placed in service before 1987
 
@@ -134,7 +134,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (C) Exception for certain research and experimental expenditures
 
-&emsp;&emsp;If the taxpayer materially participates (within the meaning of section 469(h)) in anactivity, this paragraph shall not apply to any amount allowable as a deduction under section 174(a) for expenditures paid or incurred in connection with such activity.
+&emsp;&emsp;If the taxpayer materially participates (within the meaning of section 469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section 174(a) for expenditures paid or incurred in connection with such activity.
 
 #### (3) Treatment of incentive stock options
 
@@ -190,7 +190,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term "qualified housing interest" means interest which is qualified residence interest (as defined in section 163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which—
+&emsp;The term "qualified housing interest" means interest which is qualified residence interest (as defined in section 163(h)(3)) and ispaid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which—
 
 &emsp;&emsp;(A) is the principal residence (within the meaning of section 121) of the taxpayer at the time such interest accrues, or
 
@@ -244,7 +244,7 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Prior Provisions
 
-A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4),2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
 
@@ -430,7 +430,7 @@ Subsec. (g)(4)(B)(i). Pub. L. 101–239, §7611(f)(2), inserted at end "The prec
 
 Subsec. (g)(4)(B)(iii). Pub. L. 101–239, §7611(f)(3), repealed cl. (iii) which read as follows: "In the case of any annuity contract, the income on such contract (as determined under section 72(u)(2)) shall be treated as includible in gross income for such year. The preceding sentence shall not apply to any annuity contract which is held under a plan described in section 403(a) or which is described in section 72(u)(3)(C)."
 
-Subsec. (g)(4)(C)(ii). Pub. L. 101–239, §7611(d), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "Clause (i) shall not apply to any deduction allowable under section 243 or 245 for a 100-percent dividend—
+Subsec. (g)(4)(C)(ii). Pub. L. 101–239, §7611(d), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "Clause (i) shall not apply to any deduction allowable under section 243 or 245 for a 100-percent dividend—
 
 &emsp;"(I) if the corporation receiving such dividend and the corporation paying such dividend could not be members of the same affiliated group under section 1504 by reason of section 1504(b),
 
@@ -524,7 +524,7 @@ Subsec. (f)(3)(A)(iii). Pub. L. 100–647, §1007(b)(8), inserted "for a substan
 
 Subsec. (f)(3)(B). Pub. L. 100–647, §1007(b)(9), substituted "this subsection" for "paragraph (3)(A)" in penultimate sentence.
 
-Subsec. (f)(3)(C). Pub. L. 100–647, §1007(b)(10), inserted at end "If the taxpayer has 2 or more statements described in the clause (or subclause) with the lowest number designation, the applicable financial statementshall be the one of such statements specified in regulations."
+Subsec. (f)(3)(C). Pub. L. 100–647, §1007(b)(10), inserted at end "If the taxpayer has 2 or more statements described in the clause (or subclause) with the lowest number designation, the applicable financial statement shall be the one of such statements specified in regulations."
 
 Subsec. (g)(4)(A)(vi), (vii). Pub. L. 100–647, §1007(b)(17), added cls. (vi) and (vii).
 
@@ -620,7 +620,7 @@ Pub. L. 110–343, div. C, title VII, §706(d), Oct. 3, 2008, 122 Stat. 3923, pr
 
 "(1)
 
-In general.—Except as provided by paragraph (2), the amendments made by this section \[amending this section and sections 63, 139, 165, 172, 1033, and 7508Aof this title\] shall apply to disasters declared in taxable years beginning after December 31, 2007.
+In general.—Except as provided by paragraph (2), the amendments made by this section \[amending this section and sections 63, 139, 165, 172, 1033, and 7508A of this title\] shall apply to disasters declared in taxable years beginning after December 31, 2007.
 
 "(2)
 
@@ -892,7 +892,7 @@ Pub. L. 100–647, title I, §1007(b)(14)(C), Nov. 10, 1988, 102 Stat. 3430, pro
 
 Amendment by sections 1002(a)(12) and 1007(b)(1)–(13), (15)–(19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title II, §2001(e), Nov. 10, 1988, 102 Stat. 3597, provided that: "Except as otherwise providedin this section, the amendments made by this section \[amending this section, sections 59A, 882, 4041, 4081, 4091, 4662, 4672, 6416, 6421, and 6427 of this title, and provisions set out as a note under section 4081 of this title\] shall take effect as if included in the provision of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\] to which it relates."
+Pub. L. 100–647, title II, §2001(e), Nov. 10, 1988, 102 Stat. 3597, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 59A, 882, 4041, 4081, 4091, 4662, 4672, 6416, 6421, and 6427 of this title, and provisions set out as a note under section 4081 of this title\] shall take effect as if included in the provision of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\] to which it relates."
 
 Pub. L. 100–647, title II, §2004(u), Nov. 10, 1988, 102 Stat. 3610, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 163, 244, 280H, 301, 304, 355, 384, 444, 453, 453A, 469, 514, 811, 812, 816, 842, 904, 1201, 1363, 1503, 1561, 4093, 5113, 5123, 5276, 5881, 6427, 6655, 7519, and 7704 of this title, and provisions set out as notes under sections 21, 219, 243, 301, 304, 444, 453, 1503, and 7704 of this title\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[Pub. L. 100–203, title X\] to which such amendment relates."
 
@@ -928,7 +928,7 @@ Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, prov
 
 #### Installment Sales; Taxable Years Beginning in 1987
 
-Pub. L. 101–239, title VII, §7821(a)(5), Dec. 19, 1989, 103 Stat. 2424, provided that: "In the case of taxable years beginning in 1987, the reference to section 453 contained in section 56(a)(6) of the Internal Revenue Code of 1986 shall be treated as including a reference to section 453A."
+Pub. L. 101–239, title VII, §7821(a)(5), Dec. 19, 1989, 103 Stat. 2424, provided that: "In the case of taxable yearsbeginning in 1987, the reference to section 453 contained in section 56(a)(6) of the Internal Revenue Code of 1986 shall be treated as including a reference to section 453A."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

@@ -4,7 +4,7 @@
 
 #### (1) Consultation required
 
-&emsp;The Director of the Bureau of Consumer Financial Protection, with the assistance of the Secretary, the Director of the Bureau of the Census, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Bureau deems appropriate, shall develop or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
+&emsp;The Director of the Bureau of Consumer Financial Protection, with the assistance of the Secretary, the Director of the Bureau of the Census, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Bureau deems appropriate, shall develop or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions inas economical a manner as possible with the requirements of this chapter.
 
 #### (2) Authorization of appropriations
 
@@ -20,9 +20,13 @@ The Director of the Bureau of Consumer Financial Protection shall recommend to t
 
 (Pub. L. 94–200, title III, §307, as added Pub. L. 111–203, title X, §1094(6), July 21, 2010, 124 Stat. 2101.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2806, Pub. L. 94–200, title III, §307, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, §1087(c), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, §744(p)(3), Aug. 9, 1989, 103 Stat. 440, which related to research and improved methods; authorization of appropriations; recommendations to congressional committees, was repealed by Pub. L. 111–203, title X, §1094(6), July 21, 2010, 124 Stat. 2101.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

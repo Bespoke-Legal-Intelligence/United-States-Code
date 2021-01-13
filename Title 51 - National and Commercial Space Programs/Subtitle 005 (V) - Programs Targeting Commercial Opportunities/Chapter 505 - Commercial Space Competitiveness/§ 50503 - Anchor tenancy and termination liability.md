@@ -26,7 +26,7 @@ In general.—Contracts entered into under subsection (a) may provide for the pa
 
 &emsp;(2)
 
-Fixed schedule of payments and limitation on liability.—Contracts that provide for the payment of termination liability, as described in paragraph (1), shall include a fixed schedule of such termination liability payments. Liability under such contracts shall not exceed the total payments which the Government would have made after the date of termination to purchase the good or service if the contract were not terminated.
+Fixed schedule of payments and limitation on liability.—Contracts that provide for the payment of termination liability, as described in paragraph (1), shall include a fixed schedule of such termination liability payments. Liability under such contracts shallnot exceed the total payments which the Government would have made after the date of termination to purchase the good or service if the contract were not terminated.
 
 &emsp;(3)
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988;Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
 
 Historical and Revision Notes
 
@@ -37,6 +37,8 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §21; added Feb. 4, 1935, ch. 5, §5, 49 S
 June 30, 1967, Pub. L. 90–39, §2, 81 Stat. 99.
 
 In subsection (a), the words "is deemed to be" are substituted for "shall be considered . . . to be" because a legal fiction is intended.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Pub. L. 98–342 substituted "$1,573,000,000,000" for "$1,389,000,000,000, or $1
 <b>1983</b>—Subsec. (b). Pub. L. 98–161 inserted ", or $1,490,000,000,000 on and after October 1, 1983," after "$1,389,000,000,000".
 
 Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Temporary Debt Limit Extension
 
@@ -286,7 +290,7 @@ Contents of joint resolution.—For the purpose of this subsection, the term 'jo
 
 &emsp;&emsp;"(B) which does not have a preamble;
 
-&emsp;&emsp;"(C) the title of which is only as follows: 'Joint resolution relating to the disapproval of the President's exercise of authority to suspend the debtlimit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_\_\_\_\_\_\_' (with the blank containing the date of such submission); and
+&emsp;&emsp;"(C) the title of which is only as follows: 'Joint resolution relating to the disapproval of the President's exercise of authority to suspend the debt limit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_\_\_\_\_\_\_' (with the blank containing the date of such submission); and
 
 &emsp;&emsp;"(D) the matter after the resolving clause of which is only as follows: 'That Congress disapproves of the President's exercise of authority to suspend the debt limit, as exercised pursuant to the certification under section 1002(b) of the Continuing Appropriations Act, 2014.'.
 
@@ -424,7 +428,7 @@ Aug. 7, 1989, Pub. L. 101–72, §1, 103 Stat. 182—Increase of $70,000,000,000
 
 Aug. 10, 1987, Pub. L. 100–84, 101 Stat. 550—Increase to $2,352,000,000,000 for the period Aug. 10, 1987, to Sept. 23, 1987.
 
-May 15, 1987, Pub. L. 100–40, §1(a), 101 Stat. 308, as amended July 30, 1987, Pub. L. 100–80, §1(a), 101 Stat. 542—Increase to $2,320,000,000,000 for the period May 15, 1987, to August 6, 1987. \[Section 1(b) of Pub. L. 100–80 provided that: "The amendment made by subsection (a) \[amending section 1(a) of Pub. L. 100–40\] shall take effect on the date of the enactment of this Act \[July 30, 1987\]."\]
+May 15, 1987, Pub. L. 100–40, §1(a), 101 Stat. 308, as amended July 30, 1987, Pub. L. 100–80, §1(a), 101 Stat. 542—Increase to $2,320,000,000,000 for the period May 15, 1987, to August 6, 1987. \[Section 1(b) of Pub. L. 100–80 provided that: "The amendment made by subsection (a)\[amending section 1(a) of Pub. L. 100–40\] shall take effect on the date of the enactment of this Act \[July 30, 1987\]."\]
 
 Nov. 14, 1985, Pub. L. 99–155, §1, 99 Stat. 814—Provided for a temporary increase of an amount determined by the Secretary of the Treasury as necessary, but not to exceed a public debt limit of $1,903,800,000,000 for the period Nov. 14, 1985, to Dec. 6, 1985.
 
@@ -464,7 +468,7 @@ Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary inc
 
 Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
 
-Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the publicdebt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
+Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the public debt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
 
 Pub. L. 94–3, §1, Feb. 19, 1975, 89 Stat. 5, providing for a temporary increase of $131,000,000,000 in the public debt limit for the period Feb. 19, 1975, to June 30, 1975, was also repealed by Pub. L. 94–47, §2, June 30, 1975, 89 Stat. 246.
 

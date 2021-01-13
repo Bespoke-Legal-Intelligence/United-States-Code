@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this subchapter, and if such individual qualifies as a trustee under section 322 of this title, then that individual shall serve as trustee in any case under this subchapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case, as necessary.
+In General.—If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this subchapter, and if such individual qualifies as a trustee under section 322 of thistitle, then that individual shall serve as trustee in any case under this subchapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case, as necessary.
 
 (b)
 
@@ -24,7 +24,7 @@ Duties.—The trustee shall—
 
 &emsp;(4) ensure that the debtor commences making timely payments required by a plan confirmed under this subchapter;
 
-&emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in section704(a)(8) and paragraphs (1), (2), and (6) of section 1106(a) of this title, including operating the business of the debtor;
+&emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of section 1106(a) of this title, including operating the business of the debtor;
 
 &emsp;(6) if there is a claim for a domestic support obligation with respect to the debtor, perform the duties specified in section 704(c) of this title; and
 
@@ -43,6 +43,8 @@ In general.—If the plan of the debtor is confirmed under section 1191(a) of th
 Service of notice of substantial consummation.—Not later than 14 days after the plan of the debtor is substantially consummated, the debtor shall file with the court and serve on the trustee, the United States trustee, and all parties in interest notice of such substantial consummation.
 
 (Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1079.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

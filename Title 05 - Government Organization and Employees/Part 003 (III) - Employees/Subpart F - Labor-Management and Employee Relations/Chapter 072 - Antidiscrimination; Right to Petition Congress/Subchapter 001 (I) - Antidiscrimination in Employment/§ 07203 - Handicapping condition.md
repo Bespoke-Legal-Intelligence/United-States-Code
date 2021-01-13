@@ -22,11 +22,15 @@ The authority of the President to prescribe rules is added on authority of forme
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454, §703(a)(1), renumbered section 7153 of this title as this section.
 
 Pub. L. 95–454, §§101(b)(2), 906(a)(2), substituted "Handicapping condition" for "Physical handicap" in section catchline, "handicapping condition" for "physical handicap" wherever appearing in text, and "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

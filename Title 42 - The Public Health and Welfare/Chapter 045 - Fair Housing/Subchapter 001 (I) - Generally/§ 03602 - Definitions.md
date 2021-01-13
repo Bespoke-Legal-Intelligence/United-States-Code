@@ -54,7 +54,7 @@ As used in this subchapter—
 
 (o) "Prevailing party" has the same meaning as such term has in section 1988 of this title.
 
-(Pub. L. 90–284, title VIII, §802, Apr. 11, 1968, 82 Stat. 81; Pub. L. 95–598, title III, §331, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 100–430, §5, Sept. 13, 1988, 102 Stat. 1619.)
+(Pub. L. 90–284, title VIII, §802, Apr. 11, 1968, 82 Stat. 81; Pub. L. 95–598, title III, §331, Nov. 6,1978, 92 Stat. 2679; Pub. L. 100–430, §5, Sept. 13, 1988, 102 Stat. 1619.)
 
 #### Amendments
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Transvestism
 
-Section 6(b)(3) of Pub. L. 100–430 provided that: "For the purposes of this Act \[see Short Title of 1988 Amendment note set out under section 3601 of this title\] as well as chapter 16 of title 29 of the United States Code \[29 U.S.C. 701 et seq.\], neither the term 'individual withhandicaps' nor the term 'handicap' shall apply to an individual solely because that individual is a transvestite."
+Section 6(b)(3) of Pub. L. 100–430 provided that: "For the purposes of this Act \[see Short Title of 1988 Amendment note set out under section 3601 of this title\] as well as chapter 16 of title 29 of the United States Code \[29 U.S.C. 701 et seq.\], neither the term 'individual with handicaps' nor the term 'handicap' shall apply to an individual solely because that individual is a transvestite."
 

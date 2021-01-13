@@ -1,6 +1,6 @@
 ### §913. Transitional provisions
 
-(a) No application for registration under section 908 may be filed, and no civil action under section 910 or other enforcement proceeding under this chapter may be instituted, until sixty days after the date of the enactment of this chapter.
+(a) No application for registration under section 908 may be filed, and no civil action under section 910 or other enforcement proceedingunder this chapter may be instituted, until sixty days after the date of the enactment of this chapter.
 
 (b) No monetary relief under section 911 may be granted with respect to any conduct that occurred before the date of the enactment of this chapter, except as provided in subsection (d).
 
@@ -13,6 +13,8 @@
 (3) In the event that a person imports or distributes infringing semiconductor chip product units described in paragraph (2) of this subsection without first paying or offering to pay the reasonable royalty specified in such paragraph, or if the person refuses or fails to make such payment, the mask work owner shall be entitled to the relief provided in sections 910 and 911.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3354.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

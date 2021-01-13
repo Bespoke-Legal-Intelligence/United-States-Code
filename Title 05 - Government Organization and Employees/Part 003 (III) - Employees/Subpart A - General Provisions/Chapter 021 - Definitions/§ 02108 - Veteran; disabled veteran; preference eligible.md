@@ -26,7 +26,7 @@ For the purpose of this title—
 
 &emsp;&emsp;(D) the unmarried widow or widower of a veteran as defined by paragraph (1)(A) of this section;
 
-&emsp;&emsp;(E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointmentin the civil service or in the government of the District of Columbia;
+&emsp;&emsp;(E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointment in the civil service or in the government of the District of Columbia;
 
 &emsp;&emsp;(F) the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
 
@@ -110,6 +110,8 @@ Act
 
 Mar. 3, 1966, Pub. L. 89–358, §11, 80 Stat. 28.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Par. (3)(F), (G). Pub. L. 114–62 added subpars. (F) and (G) and struck out former subpars. (F) and (G) which included in the definition of "preference eligible" certain mothers of individuals who lost their lives under honorable conditions in the armed forces and certain mothers of service-connected permanently and totally disabled veterans.
@@ -165,6 +167,8 @@ Par. (5). Pub. L. 95–454, §401(d), inserted "; but does not include applican
 Par. (3)(E). Pub. L. 92–187 inserted "or husband" after "the wife".
 
 <b>1968</b>—Par. (3)(D). Pub. L. 90–623 inserted "as defined by paragraph (1)(A) of this section" after "veteran".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -40,7 +40,7 @@
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerningan order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -84,7 +84,7 @@
 
 (j) The district courts of the United States shall have jurisdiction to enter orders as provided in this section without regard to the location of any property which may be subject to forfeiture under this section or which has been ordered forfeited under this section.
 
-(k) In order to facilitate the identification or location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the UnitedStates the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
+(k) In order to facilitate the identification or location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
 
 (l)(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
@@ -122,6 +122,8 @@
 
 (Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, §1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, §23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, §3561, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 111–16, §3(4), May 7, 2009, 123 Stat. 1607.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -155,6 +157,8 @@ Pub. L. 98–473, §302, added subsec. (d).
 Subsecs. (e) to (m). Pub. L. 98–473, §302, added subsecs. (d) to (m).
 
 Subsec. (m)(1). Pub. L. 98–473, §2301(c), struck out "for at least seven successive court days" after "dispose of the property".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

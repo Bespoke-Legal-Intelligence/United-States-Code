@@ -16,7 +16,7 @@
 
 #### (2) Domestic objectives
 
-&emsp;In pursuing the objectives described in paragraph (1), United States negotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the laws and regulations related thereto.
+&emsp;In pursuing the objectives described in paragraph (1), United States negotiators shall takeinto account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the laws and regulations related thereto.
 
 #### (b) Foreign direct investment
 

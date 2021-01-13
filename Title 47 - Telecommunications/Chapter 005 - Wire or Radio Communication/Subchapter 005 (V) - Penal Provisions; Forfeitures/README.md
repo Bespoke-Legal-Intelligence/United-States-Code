@@ -15,3 +15,4 @@
 - [&sect; 00508 - Disclosure of payments to individuals connected with broadcasts](%C2%A7%2000508%20-%20Disclosure%20of%20payments%20to%20individuals%20connected%20with%20broadcasts.md)
 - [&sect; 00509 - Prohibited practices in contests of knowledge, skill, or chance](%C2%A7%2000509%20-%20Prohibited%20practices%20in%20contests%20of%20knowledge%2C%20skill%2C%20or%20chance.md)
 - [&sect; 00510 - Forfeiture of communications devices](%C2%A7%2000510%20-%20Forfeiture%20of%20communications%20devices.md)
+- [&sect; 00511 - Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting](%C2%A7%2000511%20-%20Enhanced%20penalties%20for%20pirate%20radio%20broadcasting%3B%20enforcement%20sweeps%3B%20reporting.md)

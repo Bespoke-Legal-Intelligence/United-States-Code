@@ -2,7 +2,7 @@
 
 (a) An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 
-(b) An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
+(b) An employee or Member who is separated from the service after becoming 60 years of ageand completing 20 years of service is entitled to an annuity.
 
 (c) An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
@@ -54,6 +54,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, §535(b)(2), Dec. 26, 2007, 121 Stat. 2076.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (d)(1), (2). Pub. L. 110–161 substituted "nuclear materials courier, or customs and border protection officer," for "or nuclear materials courier,".
@@ -66,6 +68,8 @@
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment; Transition Rules
 
 Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
@@ -76,5 +80,5 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17,1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 

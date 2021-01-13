@@ -34,6 +34,8 @@
 
 (Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, §9(a)(1), Apr. 10, 1989, 103 Stat. 34; Pub. L. 114–302, §2, Dec. 16, 2016, 130 Stat. 1516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–302 substituted "an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—" for "any employee of the Bureau as a reprisal for a disclosure of information by the employee to the Attorney General (or an employee designated by the Attorney General for such purpose) which the employee or applicant reasonably believes evidences—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
@@ -43,6 +45,8 @@
 "(2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety".
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–12 substituted "applicable provisions of sections 1214 and 1221" for "the provisions of section 1206".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 
@@ -97,6 +101,8 @@ Definitions.—In this subsection:
 &emsp;"(A) The term 'contractor employee' means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of the Federal Bureau of Investigation.
 
 &emsp;"(B) The term 'personnel action' means any action described in clauses (i) through (x) of section 2302(a)(2)(A) of title 5, United States Code, with respect to a contractor employee."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Responsibilities Concerning FBI Employees Under the Civil Service Reform Act of 1978
 

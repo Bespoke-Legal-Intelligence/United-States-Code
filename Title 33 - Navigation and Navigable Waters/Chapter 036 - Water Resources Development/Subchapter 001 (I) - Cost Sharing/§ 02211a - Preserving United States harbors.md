@@ -6,7 +6,7 @@ Upon a request from a non-Federal interest, the Secretary shall review a report 
 
 #### (b) Justification of investment
 
-A report submitted under subsection (a) may provide for an economic justification of Federalinvestment in the operation and maintenance of a federally authorized harbor based on—
+A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
 
 &emsp;(1) the projected economic benefits, including transportation savings and job creation; and
 
@@ -26,9 +26,13 @@ Nothing in this section may be construed to preclude the operation and maintenan
 
 (Pub. L. 113–121, title II, §2107, June 10, 2014, 128 Stat. 1281.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

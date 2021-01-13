@@ -130,6 +130,8 @@ As used in this section—
 
 (Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §578\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 108–458, title VII, §7102(d)(1)–(3), Dec. 17, 2004, 118 Stat. 3777, 3778; Pub. L. 108–487, title VII, §701(a), Dec. 23, 2004, 118 Stat. 3961.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4605(j) of title 50, referred to in subsecs. (a)(1)(A)(ii), (2) and (d)(5)(B)(i), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -172,11 +174,13 @@ Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated exist
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–246 substituted "April 30" for "March 31".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendments
 
 Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\]."
 
-Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise expressly provided in this Act, this Act \[enacting sections 1912, 3032, 3201 to 3205, 3221, 3523, and 3617 of Title 50, War and National Defense, amending this section and sections 1902, 1903, 1910, 1911, 3036, 3361, and 3519a of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 1902, 3001, 3032, 3036, 3106, and 3322 of Title 50, and amending provisions set out as a note under section 8331 of Title 5, Government Organization and Employees\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\]."
+Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise expressly provided in this Act, this Act \[enacting sections 1912, 3032, 3201 to 3205, 3221, 3523, and 3617 of Title 50, War and National Defense, amending this section and sections 1902, 1903, 1910, 1911, 3036, 3361, and 3519a of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 1902, 3001,3032, 3036, 3106, and 3322 of Title 50, and amending provisions set out as a note under section 8331 of Title 5, Government Organization and Employees\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\]."
 
 Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: "The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year."
 

@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 105–34, §1032(e)(4), substituted "taxable fuels" for "ga
 
 "(1) For provisions to relieve farmers from excise tax in the case of gasoline used on the farm for farming purposes, see section 6420.
 
-"(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certainnonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
+"(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
 
 "(3) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline not used for taxable purposes, see section 6427."
 
@@ -140,7 +140,7 @@ Pub. L. 112–95, title XI, §1103(d)(2), Feb. 14, 2012, 126 Stat. 151, provided
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11123(c), Aug. 10, 2005, 119 Stat. 1952, provided that: "The amendments made by this section \[amending this section and section 4261 of this title\] shall apply to transportation beginning after September 30, 2005."
+Pub. L. 109–59, title XI, §11123(c), Aug. 10, 2005, 119 Stat. 1952, provided that: "The amendments made bythis section \[amending this section and section 4261 of this title\] shall apply to transportation beginning after September 30, 2005."
 
 #### Effective Date of 2004 Amendment
 

@@ -146,7 +146,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(vi) providing check cashing, check collection, or check guaranty services;
 
-&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through anonline banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
+&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
 
@@ -166,7 +166,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) provides the information described in item (aa) to an affiliate of such person; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) provides information that is used or expected to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) provides information that is used or expected to be used solely in any decision regarding the offering orprovision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the information described in subclause (I)(aa) is not used by such person or affiliate in connection with any decision regarding the offering or provision of a consumer financial product or service to the consumer, other than credit described in section 5517(a)(2)(A) of this title;
 
@@ -292,7 +292,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(i) any director, officer, or employee charged with managerial responsibility for, or controlling shareholder of, or agent for, such covered person;
 
-&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participatesin the conduct of the affairs of such covered person; and
+&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participates in the conduct of the affairs of such covered person; and
 
 &emsp;&emsp;&emsp;(iii) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in any—
 
@@ -330,7 +330,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term "stored value" means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
+&emsp;&emsp;The term "stored value" means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storageon electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
 
 #### (B) Exclusion
 
@@ -351,6 +351,8 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 &emsp;The term "transmitting or exchanging funds" means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
 
 (Pub. L. 111–203, title X, §1002, July 21, 2010, 124 Stat. 1955.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -382,7 +384,7 @@ The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L
 
 The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289,July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -404,13 +406,15 @@ The Investment Advisers Act of 1940, referred to in par. (21)(B), is title II of
 
 The Investment Company Act of 1940, referred to in par. (21)(C), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
 #### Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection
 
-Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendmentsmade by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
+Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

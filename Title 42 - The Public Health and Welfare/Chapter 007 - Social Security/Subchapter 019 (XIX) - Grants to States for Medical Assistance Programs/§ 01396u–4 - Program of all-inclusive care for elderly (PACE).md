@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) to entities subject to a demonstration project waiver under subsection (h); and
 
-&emsp;&emsp;&emsp;(ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings described in subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
+&emsp;&emsp;&emsp;(ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings describedin subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
 
 #### (4) "PACE program agreement" defined
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII (for individuals enrolled under section 1395eee of this title) and allitems and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) a written plan of quality assurance and improvement, and procedures implementing such plan, in accordance with regulations, and
 
-&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this subchapter and Federal and State law designed for the protection of patients.
+&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations andwith other requirements of this subchapter and Federal and State law designed for the protection of patients.
 
 #### (3) Treatment of medicare services furnished by noncontract physicians and other entities
 
@@ -158,7 +158,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected tomeet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;&emsp;(iv) shall require a PACE provider to meet all applicable State and local laws and requirements; and
 
-&emsp;&emsp;&emsp;(v) shall contain such additional terms and conditions as the parties may agree to,so long as such terms and conditions are consistent with this section and regulations.
+&emsp;&emsp;&emsp;(v) shall contain such additional terms and conditions as the parties may agree to, so long as such terms and conditions are consistent with this section and regulations.
 
 #### (B) Service area overlap
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -454,7 +454,7 @@ A prior section 1934 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 

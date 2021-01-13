@@ -10,6 +10,8 @@ Any cash or funds received by the Secretary under subsection (a) shall be deposi
 
 (Pub. L. 102–580, title II, §203, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §236(a), Oct. 12, 1996, 110 Stat. 3705.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -17,6 +19,8 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted "(8862)" for "(8662)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

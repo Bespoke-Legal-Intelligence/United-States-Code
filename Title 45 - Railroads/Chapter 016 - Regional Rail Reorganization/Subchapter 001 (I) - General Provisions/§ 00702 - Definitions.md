@@ -10,7 +10,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(4) "Commuter service" means short-haul rail passenger service operated in metropolitan and suburban areas, whether within or across the geographical boundaries of a State, usually characterized by reduced fare, multiple-ride, and commutation tickets, and by morning and evening peak period operations;
 
-&emsp;(5) "Corporation" means the Consolidated Rail Corporation required to be establishedunder section 741 of this title or its successor by merger, consolidation or other form of succession carried out under applicable law for the purpose of changing the State of its incorporation;
+&emsp;(5) "Corporation" means the Consolidated Rail Corporation required to be established under section 741 of this title or its successor by merger, consolidation or other form of succession carried out under applicable law for the purpose of changing the State of its incorporation;
 
 &emsp;(6) "effective date of the final system plan" means the date on which the final system plan or any revised final system plan is deemed approved by Congress, in accordance with section 718 of this title;
 
@@ -47,6 +47,8 @@ As used in this chapter, unless the context otherwise requires—
 &emsp;(21) "supplemental transaction" means any transaction set forth in a proposal under section 745 of this title under which the Corporation or a subsidiary thereof would (A) acquire rail properties not designated for transfer or conveyance to it under the final system plan, (B) convey rail properties to a profitable railroad, a subsidiary of the Corporation or, other than as designated in the final system plan, to the National Railroad Passenger Corporation or to a State or a local or regional transportation authority, or to any other responsible person for use in providing rail service, or (C) enter into contractual or other arrangements with any person for the joint use of rail properties or the coordination or separation of rail operations or services.
 
 (Pub. L. 93–236, title I, §102, Jan. 2, 1974, 87 Stat. 986; Pub. L. 94–210, title VI, §§601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, 90 Stat. 86, 88, 98, 100; Pub. L. 94–248, §1, Mar. 25, 1976, 90 Stat. 286; Pub. L. 94–555, title II, §211(a), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 96–448, title V, §508(b), title VI, §601(b), Oct. 14, 1980, 94 Stat. 1957, 1958; Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646; Pub. L. 99–509, title IV, §4033(b)(1), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §327(1), Dec. 29, 1995, 109 Stat. 951.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Pub. L. 94–210, §§601(f), (g), 610(a)(1), redesignated former par. (14) as (
 Par. (17). Pub. L. 94–210, §§601(g), 610(a)(2), redesignated former par. (15) as (17) and substituted a semicolon for a period.
 
 Pars. (18), (19). Pub. L. 94–210, §610(a)(3), added pars. (18) and (19).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

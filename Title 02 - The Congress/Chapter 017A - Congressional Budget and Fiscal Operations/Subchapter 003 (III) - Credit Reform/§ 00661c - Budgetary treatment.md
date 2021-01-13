@@ -6,7 +6,7 @@ Beginning with fiscal year 1992, the President's budget shall reflect the costs 
 
 #### (b) Appropriations required
 
-Notwithstanding any other provision of law, new direct loan obligations may be incurred and new loan guarantee commitments may be made for fiscal year 1992 and thereafter only to the extent that—
+Notwithstanding any other provision of law, new direct loan obligations may be incurred andnew loan guarantee commitments may be made for fiscal year 1992 and thereafter only to the extent that—
 
 &emsp;(1) new budget authority to cover their costs is provided in advance in an appropriations Act;
 
@@ -43,6 +43,8 @@ When the estimated cost for a group of direct loans or loan guarantees for a giv
 All funding for an agency's administration of a direct loan or loan guarantee program shall be displayed as distinct and separately identified subaccounts within the same budget account as the program's cost.
 
 (Pub. L. 93–344, title V, §504, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–612; amended Pub. L. 105–33, title X, §10117(b), Aug. 5, 1997, 111 Stat. 693.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

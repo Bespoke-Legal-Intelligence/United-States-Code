@@ -10,7 +10,7 @@
 
 (2) In the case of any State which is not certified under paragraph (1), such State shall be certified if the Director determines—
 
-&emsp;(A) that, when taken as a whole, the laws and regulations of the State applicable to the sale or lease of lots not exempt under section 1702 of this title provide sufficient protectionfor purchasers and lessees with respect to the matters for which information is required to be disclosed by section 1707 of this title but which is not required to be disclosed by such State's laws and regulations; and
+&emsp;(A) that, when taken as a whole, the laws and regulations of the State applicable to the sale or lease of lots not exempt under section 1702 of this title provide sufficient protection for purchasers and lessees with respect to the matters for which information is required to be disclosed by section 1707 of this title but which is not required to be disclosed by such State's laws and regulations; and
 
 &emsp;(B) that the State's administration of such laws and regulations provides, to the maximum extent practicable, that (i) information required to be disclosed by such laws and regulations is accurate, and (ii) sufficient protection for purchasers and lessees is made available with respect to the matters for which information is not required to be disclosed.
 

@@ -2,7 +2,7 @@
 
 #### (1) Approval by Secretary; public hearing; definition
 
-The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take place after a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not own the coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
+The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take placeafter a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not own the coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
 
 #### (2) Mining plan; requirements
 
@@ -28,7 +28,7 @@ Leases issued before the date of enactment of this Act may be included with the 
 
 #### (6) Lessee required to form unit
 
-By regulation the Secretary may require a lessee under this chapter to form a logical miningunit, and may provide for determination of participating acreage within a unit.
+By regulation the Secretary may require a lessee under this chapter to form a logical mining unit, and may provide for determination of participating acreage within a unit.
 
 #### (7) Required acreage
 
@@ -39,6 +39,8 @@ No logical mining unit shall be approved by the Secretary if the total acreage (
 Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in section 184(a) of this title.
 
 (Feb. 25, 1920, ch. 85, §2(d), as added Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086; amended Pub. L. 109–58, title IV, §433, Aug. 8, 2005, 119 Stat. 761.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added 
 #### Amendments
 
 <b>2005</b>—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

@@ -14,7 +14,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Managed travel program.—The term "managed travel program" includes air, rental car, train, bus, dining, lodging, and travel management, but does not include rebates or refunds attributable to the use of the Government travel card, the Government PurchaseCard, or Government travel arranged by Government Contracted Travel Management Centers.
+Managed travel program.—The term "managed travel program" includes air, rental car, train, bus, dining, lodging, and travel management, but does not include rebates or refunds attributable to the use of the Government travel card, the Government Purchase Card, or Government travel arranged by Government Contracted Travel Management Centers.
 
 &emsp;(2)
 

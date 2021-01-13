@@ -122,7 +122,7 @@ The Advisory Board shall—
 
 #### (1) Duties of Advisory Board
 
-&emsp;In carrying out this section, the Advisory Board shall consult with any appropriate agencies of the Department of Agriculture and solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
+&emsp;In carrying out this section, the Advisory Board shall consult with any appropriate agencies of the Department of Agriculture and solicit opinions and recommendations frompersons who will benefit from and use federally funded agricultural research, extension, education, and economics.
 
 #### (2) Duties of Secretary
 
@@ -130,7 +130,7 @@ The Advisory Board shall—
 
 &emsp;&emsp;(A) solicit the written opinions and recommendations of the Advisory Board; and
 
-&emsp;&emsp;(B) provide a written response to the Advisory Board regarding the manner and extentto which the Secretary will implement recommendations submitted by the Advisory Board.
+&emsp;&emsp;(B) provide a written response to the Advisory Board regarding the manner and extent to which the Secretary will implement recommendations submitted by the Advisory Board.
 
 #### (e) Appointment
 

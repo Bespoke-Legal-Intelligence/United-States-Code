@@ -98,7 +98,7 @@ Amendment by Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(b)(1)(A)
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this titlefor quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

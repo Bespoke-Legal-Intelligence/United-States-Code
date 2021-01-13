@@ -16,9 +16,13 @@
 
 (Added Pub. L. 108–83, title I, §1302(a), Sept. 30, 2003, 117 Stat. 1033; amended Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

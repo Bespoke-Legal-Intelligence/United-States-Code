@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any arrangement described in subparagraph (B), such arrangement shallbe treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer.
+&emsp;&emsp;In the case of any arrangement described in subparagraph (B), such arrangement shall be treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer.
 
 #### (B) Description of arrangements
 

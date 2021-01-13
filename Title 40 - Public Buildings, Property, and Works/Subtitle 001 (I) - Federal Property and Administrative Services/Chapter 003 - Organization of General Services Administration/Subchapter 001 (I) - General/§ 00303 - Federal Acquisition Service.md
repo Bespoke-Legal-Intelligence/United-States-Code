@@ -44,7 +44,9 @@ In subsection (a)(1), the text of 40:752(a) (2d, last sentences) is omitted as e
 
 Subsection (a)(2) is substituted for 40:752(c) to eliminate obsolete language.
 
-In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted because the Bureau of Public Roads was transferred to the Department of Commerce under section 1 of Reorganization Plan No. 7 of 1949 (eff. Aug. 20, 1949, 63 Stat. 1070), and subsequently transferred to the Department of Transportation under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). The text of 40:753(a) (last sentence related to Federal Works Agency transfers) and (b) is omitted as executed.
+In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted because the Bureau of Public Roads was transferred to the Department of Commerce under section 1 of Reorganization Plan No. 7 of 1949 (eff.Aug. 20, 1949, 63 Stat. 1070), and subsequently transferred to the Department of Transportation under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). The text of 40:753(a) (last sentence related to Federal Works Agency transfers) and (b) is omitted as executed.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -80,9 +82,11 @@ Federal Works Agency and Commissioner of Public Buildings.—The functions of th
 
 &emsp;"(3) the Commissioner of Public Buildings."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any reference in any other Federal law,Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
+Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
 
 &emsp;"(1) to the Federal Supply Service is deemed to refer to the Federal Acquisition Service;
 
@@ -95,6 +99,8 @@ Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any ref
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Emergency Preparedness Functions
 

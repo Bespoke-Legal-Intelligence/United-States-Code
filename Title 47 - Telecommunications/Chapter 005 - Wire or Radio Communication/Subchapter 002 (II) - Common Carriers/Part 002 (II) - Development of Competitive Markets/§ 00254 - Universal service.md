@@ -8,7 +8,7 @@
 
 #### (2) Commission action
 
-&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation.Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
+&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
 
 #### (b) Universal service principles
 
@@ -46,7 +46,7 @@ The Joint Board and the Commission shall base policies for the preservation and 
 
 #### (1) In general
 
-&emsp;Universal service is an evolving level of telecommunications services that the Commission shall establish periodically under this section, taking into account advances in telecommunications and information technologies and services. The Joint Board in recommending, and the Commission in establishing, the definition of the services that are supported by Federal universal service support mechanisms shall consider the extent to which such telecommunications services—
+&emsp;Universal service is an evolving level of telecommunications services that the Commissionshall establish periodically under this section, taking into account advances in telecommunications and information technologies and services. The Joint Board in recommending, and the Commission in establishing, the definition of the services that are supported by Federal universal service support mechanisms shall consider the extent to which such telecommunications services—
 
 &emsp;&emsp;(A) are essential to education, public health, or public safety;
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one publichearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -164,7 +164,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (D) Disabling during adult use
 
-&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned,during use by an adult, to enable access for bona fide research or other lawful purpose.
 
 #### (E) Timing of implementation
 
@@ -194,7 +194,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such secondyear program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -274,7 +274,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;Subject to clause (ii) in the case of any library covered by this paragraph as of the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than120 days after the beginning of such program funding year; and
+&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than 120 days after the beginning of such program funding year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to any subsequent program funding year, as part of the application process for such program funding year.
 
@@ -292,7 +292,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
-> &emsp;&emsp;&emsp;&emsp;Any library that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such library comes into compliance with this paragraph.
+> &emsp;&emsp;&emsp;&emsp;Any library that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such secondyear and all subsequent program years under this subsection, until such time as such library comes into compliance with this paragraph.
 
 #### (III) Waivers
 
@@ -430,7 +430,9 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104; Pub. L. 114–95, title IX, §9215(s), Dec. 10, 2015, 129 Stat. 2171; Pub. L. 114–182, title II, §202(a), June 22, 2016, 130 Stat. 512.)
+(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104; Pub. L. 114–95, title IX, §9215(s), Dec. 10, 2015, 129 Stat. 2171; Pub. L. 114–182, title II, §202(a), June 22, 2016, 130 Stat. 512.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -467,6 +469,8 @@ Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1
 Subsec. (l). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (l).
 
 <b>1996</b>—Subsec. (h)(4). Pub. L. 104–208 substituted "library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act" for "library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 
@@ -505,6 +509,96 @@ Pub. L. 114–182, title II, §202(b), June 22, 2016, 130 Stat. 512, provided th
 #### Separability
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
+
+#### FCC COVID–19 Telehealth Program
+
+Pub. L. 116–260, div. N, title IX, §903, Dec. 27, 2020, 134 Stat. 2128, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Energy and Commerce of the House of Representatives;
+
+&emsp;"(2) the term 'Commission' means the Federal Communications Commission; and
+
+&emsp;"(3) the term 'COVID–19 Telehealth Program' or 'Program' means the COVID–19 Telehealth Program established by the Commission under the authority provided under the heading '
+
+salaries and expenses' under the heading '
+
+Federal Communications Commission' under the heading 'INDEPENDENT AGENCIES' in title V of division B of the CARES Act (Public Law 116–136; 134 Stat. 531).
+
+"(b)
+
+Additional Appropriation.—Out of amounts in the Treasury not otherwise appropriated, there is appropriated $249,950,000 in additional funds for the COVID–19 Telehealth Program, of which $50,000 shall be transferred by the Commission to the Inspector General of the Commission for oversight of the COVID–19 Telehealth Program.
+
+"(c)
+
+Administrative Provisions.—
+
+&emsp;"(1)
+
+Evaluation of applications.—
+
+&emsp;&emsp;"(A)
+
+Public notice.—Not later than 10 days after the date of enactment of this Act \[Dec. 27, 2020\], the Commission shall issue a Public Notice establishing a 10-day period during which the Commission will seek comments on—
+
+&emsp;&emsp;&emsp;"(i) the metrics the Commission should use to evaluate applications for funding under this section; and
+
+&emsp;&emsp;&emsp;"(ii) how the Commission should treat applications filed during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 \[116–136\]; 134 Stat. 281).
+
+&emsp;&emsp;"(B)
+
+Congressional notice.—After the end of the comment period under subparagraph (A), and not later than 15 days before the Commission first commits funds under this section, the Commission shall provide notice to the appropriate congressional committees of the metrics the Commission plans to use to evaluate applications for those funds.
+
+&emsp;"(2)
+
+Equitable distribution.—To the extent feasible, the Commission shall ensure, in providing assistance under the COVID–19 Telehealth Program from amounts made available under subsection (b), that not less than 1 applicant in each of the 50 States and the District of Columbia has received funding from the Program since the inception of the Program, unless there is no such applicant eligible for such assistance in a State or in the District of Columbia, as the case may be.
+
+&emsp;"(3)
+
+Previous applicants.—The Commission shall allow an applicant who filed an application during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 \[116–136\]; 134 Stat. 281) the opportunity to update or amend that application as necessary.
+
+&emsp;"(4)
+
+Information.—To the extent feasible, the Commission shall provide each applicant for funding from the COVID–19 Telehealth Program, if requested, with—
+
+&emsp;&emsp;"(A) information on the status of the application; and
+
+&emsp;&emsp;"(B) a rationale for the final funding decision for the application, after making that decision.
+
+&emsp;"(5)
+
+Denial.—If the Commission chooses to deny an application for funding from the COVID–19 Telehealth Program, the Commission shall—
+
+&emsp;&emsp;"(A) issue notice to the applicant of the intent of the Commission to deny the application and the grounds for that decision;
+
+&emsp;&emsp;"(B) provide the applicant with 10 days to submit any supplementary information that the applicant determines relevant; and
+
+&emsp;&emsp;"(C) consider any supplementary information submitted under subparagraph (B) in making any final decision with respect to the application.
+
+"(d)
+
+Report to Congress.—Not later than 90 days after the date of enactment of this Act, and every 30 days thereafter until all funds made available under this section have been expended, the Commission shall submit to the appropriate congressional committees a report on the distribution of funds appropriated for the COVID–19 Telehealth Program under the CARES Act (Public Law 116–36 \[116–136\]; 134 Stat. 281) or under this section, which shall include—
+
+&emsp;"(1) non-identifiable and aggregated data on deficient and rejected applications;
+
+&emsp;"(2) non-identifiable and aggregated data on applications for which no award determination was made;
+
+&emsp;"(3) information on the total number of applicants;
+
+&emsp;"(4) information on the total dollar amount of requests for awards made under this section; and
+
+&emsp;"(5) information on applicant outreach and technical assistance.
+
+"(e)
+
+Paperwork Reduction Act Requirements.—A collection of information conducted or sponsored under any regulations required to implement this section shall not constitute a collection of information for the purposes of subchapter I of chapter 35 of title 44, United States Code (commonly referred to as the 'Paperwork Reduction Act')."
 
 #### Methodology for Collection of Mobile Service Coverage Data
 

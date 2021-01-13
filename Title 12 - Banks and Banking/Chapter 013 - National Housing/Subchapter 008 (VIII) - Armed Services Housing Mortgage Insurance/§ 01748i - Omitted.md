@@ -1,5 +1,7 @@
 ### §1748i. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 28, 1951, ch. 434, title V, §505, 65 Stat. 365, related to appropriation and expenditure of funds for acquisition of land, installation of outside utilities, and site preparation for housing projects constructed under this subchapter.

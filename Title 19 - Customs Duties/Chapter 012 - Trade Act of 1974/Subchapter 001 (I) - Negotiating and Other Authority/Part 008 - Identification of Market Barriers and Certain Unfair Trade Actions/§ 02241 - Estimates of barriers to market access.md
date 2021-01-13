@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance ofthe interagency advisory committee established under section 2171(d)(2) of this title, shall—
+&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance of the interagency advisory committee established under section 2171(d)(2) of this title, shall—
 
 &emsp;&emsp;(A) identify and analyze acts, policies, or practices of each foreign country which constitute significant barriers to, or distortions of—
 
@@ -50,7 +50,7 @@
 
 #### (3) Inclusion of certain discriminatory laws, policies, and practices of the Russian Federation
 
-&emsp;For calender <sup>4</sup> year 2012 and each succeeding calendar year, the Trade Representative shall include in the analyses and estimates under paragraph (1) an identification and analysis of any laws, policies, or practices of the Russian Federation that deny fair and equitable market access to United States digital trade.
+&emsp;For calender <sup>4</sup> year 2012 and each succeeding calendar year, the Trade Representative shallinclude in the analyses and estimates under paragraph (1) an identification and analysis of any laws, policies, or practices of the Russian Federation that deny fair and equitable market access to United States digital trade.
 
 #### (4) Annual revisions and updates
 

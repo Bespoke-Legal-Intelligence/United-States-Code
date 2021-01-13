@@ -10,7 +10,7 @@
 
 #### (B) Determination by Secretary
 
-&emsp;&emsp;With respect to small businesses and very small businesses (as such terms are defined in the regulation promulgated under subparagraph (A)) that produce and harvestthose types of fruits and vegetables that are raw agricultural commodities that the Secretary has determined are low risk and do not present a risk of serious adverse health consequences or death, the Secretary may determine not to include production and harvesting of such fruits and vegetables in such rulemaking, or may modify the applicable requirements of regulations promulgated pursuant to this section.
+&emsp;&emsp;With respect to small businesses and very small businesses (as such terms are defined in the regulation promulgated under subparagraph (A)) that produce and harvest those types of fruits and vegetables that are raw agricultural commodities that the Secretary has determined are low risk and do not present a risk of serious adverse health consequences or death, the Secretary may determine not to include production and harvesting of such fruits and vegetables in such rulemaking, or may modify the applicable requirements of regulations promulgated pursuant to this section.
 
 #### (2) Public input
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) provide sufficient flexibility to be practicable for all sizes and types of businesses, including small businesses such as a small food processing facility co-located on a farm;
 
-&emsp;&emsp;(C) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) ofsuch title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
+&emsp;&emsp;(C) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
 
 &emsp;&emsp;(D) acknowledge differences in risk and minimize, as appropriate, the number of separate standards that apply to separate foods; and
 
@@ -186,11 +186,15 @@ This section shall not apply to activities of a facility that are subject to sec
 
 (June 25, 1938, ch. 675, §419, as added Pub. L. 111–353, title I, §105(a), Jan. 4, 2011, 124 Stat. 3899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Organic Foods Production Act of 1990, referred to in subsec. (a)(1)(A), (3)(E), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 The FDA Food Safety Modernization Act, referred to in subsec. (a)(3)(E), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, which enacted chapter 27 (§2201 et seq.) and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 
@@ -212,7 +216,7 @@ Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided t
 
 #### Small Entity Compliance Policy Guide
 
-Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after theissuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
+Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
 
 #### No Effect on HACCP Authorities
 

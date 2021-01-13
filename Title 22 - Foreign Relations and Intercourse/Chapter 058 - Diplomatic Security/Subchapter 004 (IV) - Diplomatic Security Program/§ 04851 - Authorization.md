@@ -32,7 +32,7 @@ Section 2696(d) of this title shall not apply with respect to any amounts author
 
 #### (e) Security requirements of other foreign affairs agencies
 
-Based solely on security requirements and within the total amount of funds available for security, the Secretary of State shall ensure that an equitable level of funding is provided for the security requirements of other foreign affairs agencies.
+Based solely on security requirements and within the total amount of funds available forsecurity, the Secretary of State shall ensure that an equitable level of funding is provided for the security requirements of other foreign affairs agencies.
 
 #### (f) Insufficiency of funds
 
@@ -54,6 +54,8 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A), $3
 
 (Pub. L. 99–399, title IV, §401, Aug. 27, 1986, 100 Stat. 862; Pub. L. 100–204, title I, §101(c), Dec. 22, 1987, 101 Stat. 1336; Pub. L. 103–236, title I, §§101(c), 122(b), Apr. 30, 1994, 108 Stat. 388, 392.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section 401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec.
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
 <b>1987</b>—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -44,7 +44,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) 1;
 
-&emsp;&emsp;&emsp;(ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years; plus
+&emsp;&emsp;&emsp;(ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to totalcosts of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years; plus
 
 &emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (U.S. City Average; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years.
 
@@ -68,7 +68,7 @@ The Secretary shall—
 
 #### (B) Application
 
-&emsp;&emsp;To qualify for the exception under this paragraph, a small business shall submit to the Secretary a written request for such exception, in a format specified by the Secretary in guidance, certifying its gross annual sales for the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which fees under this subsection are assessed. Any such applicationshall be submitted to the Secretary not later than April 30 of such immediately preceding fiscal year.
+&emsp;&emsp;To qualify for the exception under this paragraph, a small business shall submit to the Secretary a written request for such exception, in a format specified by the Secretary in guidance, certifying its gross annual sales for the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which fees under this subsection are assessed. Any such application shall be submitted to the Secretary not later than April 30 of such immediately preceding fiscal year.
 
 #### (5) Crediting of fees
 

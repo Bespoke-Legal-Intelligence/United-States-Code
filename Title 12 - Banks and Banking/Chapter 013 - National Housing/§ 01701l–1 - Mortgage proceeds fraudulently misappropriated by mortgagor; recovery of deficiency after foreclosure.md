@@ -4,6 +4,8 @@ The Secretary of Housing and Urban Development shall take action to secure the p
 
 (Pub. L. 93–383, title VIII, §819, Aug. 22, 1974, 88 Stat. 740.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the National Housing Act which comprises this chapter.

@@ -22,6 +22,8 @@ Except as provided in section 510 of this title, unless all other customer net e
 
 Section 747 subordinates to other customer claims, all claims of a customer who is an insider, a five percent owner of the debtor, or otherwise in control of the debtor.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–222 substituted "the transaction giving rise to such claim occurred" for "such claim arose" in provisions preceding par. (1).

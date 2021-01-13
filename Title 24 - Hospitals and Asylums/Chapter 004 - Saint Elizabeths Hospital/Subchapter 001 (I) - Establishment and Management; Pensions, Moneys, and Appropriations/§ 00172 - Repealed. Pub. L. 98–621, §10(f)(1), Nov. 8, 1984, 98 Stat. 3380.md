@@ -2,6 +2,8 @@
 
 Section, act Aug. 7, 1882, ch. 433, 22 Stat. 330, related to sale of surplus products and waste materials of Saint Elizabeths Hospital.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.

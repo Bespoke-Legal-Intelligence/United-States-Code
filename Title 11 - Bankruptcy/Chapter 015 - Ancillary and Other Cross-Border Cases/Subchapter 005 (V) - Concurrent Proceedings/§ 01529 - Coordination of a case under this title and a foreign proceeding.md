@@ -20,11 +20,15 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 144; amended Pub. L. 111–327, §2(a)(48), Dec. 22, 2010, 124 Stat. 3562.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (1). Pub. L. 111–327, which directed amendment of par. (1) by inserting "is" after "States", was executed by making the insertion only in introductory provisions to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under thistitle before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

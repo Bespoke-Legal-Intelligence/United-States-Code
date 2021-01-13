@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $7,140,000 of which not to exceed $3,270,000 may be appropriated for the fiscal year 1964;
 
-&emsp;&emsp;(B) for use in the American Republics, not to exceed $5,360,000, of which not to exceed$4,030,000 may be appropriated for the fiscal year 1964;
+&emsp;&emsp;(B) for use in the American Republics, not to exceed $5,360,000, of which not to exceed $4,030,000 may be appropriated for the fiscal year 1964;
 
 &emsp;&emsp;(C) for use in Europe, not to exceed $6,839,000, of which not to exceed $1,820,000 may be appropriated for the fiscal year 1964;
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $850,000, of which not to exceed $631,000 may be appropriated for the fiscal year 1974;
 
-&emsp;&emsp;(B) for use in the American Republics, not to exceed $240,000, of which not to exceed $240,000 may be appropriated for the fiscal year 1974;
+&emsp;&emsp;(B) for use in the American Republics, not to exceed $240,000, of which not to exceed$240,000 may be appropriated for the fiscal year 1974;
 
 &emsp;&emsp;(C) for use in Europe, not to exceed $682,000, of which not to exceed $204,000 may be appropriated for the fiscal year 1974;
 
@@ -84,7 +84,7 @@
 
 &emsp;(2) for use to carry out the other purposes of this chapter for fiscal years 1976 and 1977, $73,058,000, of which not to exceed $32,840,000 may be appropriated for fiscal year 1976.
 
-(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made outof foreign currencies owned by or owed to the United States.
+(i)(1) Sums appropriated under authority of this chapter shall remain available until expended. To the maximum extent feasible, expenditures under this chapter shall be made out of foreign currencies owned by or owed to the United States.
 
 (2) Not to exceed 10 per centum of the funds authorized by any subparagraph under paragraph (1) of subsections (d), (f), (g), and (h) of this section may be used for any of the purposes for which funds are authorized under any other subparagraph of any of such paragraph (1).
 
@@ -100,6 +100,8 @@
 
 (May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327; Pub. L. 114–323, title I, §113, Dec. 16, 2016, 130 Stat. 1911.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 295b of this title, referred to in subsec. (b), was omitted from the Code.
@@ -112,7 +114,7 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 <b>1993</b>—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: "For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended."
 
-<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted "$225,000" for "$6,725,000" in subpar. (A), "$12,885,000" for "$8,005,000" in subpar. (B), "$3,400,000" for "$3,745,000" in subpar. (C), "$150,000" for "$420,000" in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
+<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted "$225,000" for "$6,725,000" in subpar. (A), "$12,885,000" for "$8,005,000" in subpar. (B), "$3,400,000" for"$3,745,000" in subpar. (C), "$150,000" for "$420,000" in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
 
 <b>1976</b>—Subsec. (h)(2). Pub. L. 94–350, §109(1), increased appropriations authorization for fiscal years 1976 and 1977 to $73,058,000 from $71,600,000.
 
@@ -157,6 +159,8 @@ Subsec. (d). Pub. L. 88–94, §1, added subsec. (d).
 Subsec. (b). Act June 19, 1952, added subsec. (b).
 
 <b>1952</b>—Act June 19, 1952, designated existing provisions as subsec. (a), permitted the expenditure of the authorized and appropriated funds for continuing alterations, repairs, and furnishings, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

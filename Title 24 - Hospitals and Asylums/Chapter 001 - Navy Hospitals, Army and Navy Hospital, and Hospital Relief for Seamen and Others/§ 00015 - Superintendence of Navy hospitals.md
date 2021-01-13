@@ -4,6 +4,8 @@ The Secretary of the Navy shall have the general charge and superintendence of N
 
 (R.S. §4807.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §4807 derived from acts Feb. 26, 1811, ch. 26, §1, 2 Stat. 650; July 10, 1832, ch. 194, §5, 4 Stat. 573.

@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Eligibility of Additional Employees for Reimbursement for Professional Liability Insurance
 
 Pub. L. 106–567, title IV, §406, Dec. 27, 2000, 114 Stat. 2849, as amended by Pub. L. 107–108, title IV, §404, Dec. 28, 2001, 115 Stat. 1404, provided that:
@@ -22,7 +24,7 @@ Pub. L. 106–346, §101(a) \[title III, §348\], Oct. 23, 2000, 114 Stat. 1356,
 
 #### Reimbursements Relating to Professional Liability Insurance
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, §642(a), Sept. 29, 1999, 113 Stat. 477; Pub. L. 110–161, div. F, title IV, §429(a), Dec. 26, 2007, 121 Stat. 2151, provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, §642(a), Sept. 29, 1999, 113 Stat. 477; Pub. L. 110–161, div. F, title IV, §429(a), Dec. 26, 2007, 121 Stat. 2151; Pub. L. 116–283, div. C, title XXXI, §3143, Jan. 1, 2021, 134 Stat. 4386, provided that:
 
 "(a)
 
@@ -44,7 +46,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(1) the term 'agency' means an Executive agency, as defined by section 105 of title 5, United States Code, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
 
-&emsp;"(2) the term 'law enforcement officer' means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
+&emsp;"(2) the term 'law enforcement officer' means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, any special agent under section 203 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4823), or any nuclear materials courier (as defined in section 8331(27) of such title 5);
 
 &emsp;"(3) the terms 'supervisor' and 'management official' have the respective meanings given them by section 7103(a) of such title 5, and, with regard to the Judicial Branch, mean a justice or judge of the United States as defined in 28 U.S.C. 451 in regular active service or retired from regular active service, other judicial officers as authorized by the Judicial Conference of the United States, and supervisors and managers within the Judicial Branch as authorized by the Judicial Conference of the United States;
 

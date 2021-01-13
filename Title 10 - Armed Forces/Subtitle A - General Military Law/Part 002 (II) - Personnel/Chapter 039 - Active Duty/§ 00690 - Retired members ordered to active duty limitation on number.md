@@ -40,7 +40,7 @@ Provisions similar to those in subsecs. (a) and (c) of this section were contain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 applicable with respect to officers serving on active duty as a defenseattaché or service attaché on or after Dec. 28, 2001, see section 509(c) of Pub. L. 107–107, set out as a note under section 688 of this title.
+Amendment by Pub. L. 107–107 applicable with respect to officers serving on active duty as a defense attaché or service attaché on or after Dec. 28, 2001, see section 509(c) of Pub. L. 107–107, set out as a note under section 688 of this title.
 
 #### Effective Date
 

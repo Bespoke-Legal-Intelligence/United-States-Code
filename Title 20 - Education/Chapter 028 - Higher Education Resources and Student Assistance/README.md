@@ -189,6 +189,8 @@
 | [1063a.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063a%20-%20Applications.md) | Applications. |
 | [1063b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063b%20-%20Professional%20or%20graduate%20institutions.md) | Professional or graduate institutions. |
 | [1063c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063c%20-%20Reporting%20and%20audit%20requirements.md) | Reporting and audit requirements. |
+| [1063d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063d%20-%20Strengthening%20HBCUS%20through%20Federal%20agency%20plans.md) | Strengthening HBCUS through Federal agency plans. |
+| [1063e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063e%20-%20President%27s%20Board%20of%20Advisors%20on%20HBCUS.md) | President's Board of Advisors on HBCUS. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -578,6 +580,7 @@
 | [1087tt.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md) | Discretion of student financial aid administrators. |
 | [1087uu.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md) | Disregard of student aid in other Federal programs. |
 | 1087uu–1. | Native American students. |
+| 1087uu–2. | Special rules for independent students. |
 | [1087vv.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087vv%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

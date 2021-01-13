@@ -64,7 +64,7 @@ Nuclear Regulatory Commission Requirements and Criteria.—
 
 &emsp;"(1)
 
-Modifications.—Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear WastePolicy Act of 1982 (42 U.S.C. 10141(b)), as necessary, to be consistent with the Administrator's standards promulgated under subsection (a).
+Modifications.—Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141(b)), as necessary, to be consistent with the Administrator's standards promulgated under subsection (a).
 
 &emsp;"(2)
 

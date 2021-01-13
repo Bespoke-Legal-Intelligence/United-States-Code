@@ -22,7 +22,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;&emsp;(A) including service-learning as a key component of the preservice teacher curricula of the institution to strengthen the instructional capacity of teachers to provide service-learning at the elementary and secondary levels;
 
-&emsp;&emsp;(B) including service-learning as a component of other curricula or academic programs (other than education curricula or programs), such as curricula or programs relating to nursing, medicine, criminal justice, or public policy; and
+&emsp;&emsp;(B) including service-learning as a component of other curricula or academic programs (other than education curricula orprograms), such as curricula or programs relating to nursing, medicine, criminal justice, or public policy; and
 
 &emsp;&emsp;(C) encouraging the faculty of the institution to use service-learning methods throughout their curriculum;
 

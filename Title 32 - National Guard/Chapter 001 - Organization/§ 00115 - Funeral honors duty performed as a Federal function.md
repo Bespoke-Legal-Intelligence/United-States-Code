@@ -2,7 +2,7 @@
 
 (a)
 
-Order to Duty.—A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under section 1491 of title 10. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+Order to Duty.—A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under section 1491 of title 10. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 <sup>1</sup> of title 37.
 
 (b)
 
@@ -12,7 +12,7 @@ Service Credit.—A member ordered to funeral honors duty under this section sha
 
 &emsp;(2) as directed by the Secretary concerned, either—
 
-&emsp;&emsp;(A) the allowance under section 495 of title 37; or
+&emsp;&emsp;(A) the allowance under section 495 <sup>1</sup> of title 37; or
 
 &emsp;&emsp;(B) compensation under section 206 of title 37.
 
@@ -26,6 +26,12 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 (Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 495 of title 37, referred to in subsecs. (a) and (b)(2)(A), was renumbered section 435 of title 37 by Pub. L. 116–283, div. A, title VI, §604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
+
 #### Amendments
 
 <b>2013</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -35,6 +41,8 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end "Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37."
 
 <b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "if authorized by the Secretary concerned, the allowance under section 435 of title 37."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 
@@ -47,4 +55,6 @@ Amendment by Pub. L. 107–107 applicable to funeral honors duty performed on or
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 \[\[div. A\], title V, §575(c)\] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §8046. Staff Judge Advocate to the Commandant of the Marine Corps
 
-(a) An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
+(a) An officer of the Marine Corps who is a judge advocate and a member of the bar of aFederal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
 
 (b)(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
@@ -56,5 +56,7 @@ Pub. L. 99–661, div. A, title V, §509(b), Nov. 14, 1986, 100 Stat. 3868, prov
 
 #### Transition Provision for Retirement of Staff Judge Advocates
 
-Pub. L. 99–661, div. A, title V, §509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: "Notwithstanding section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act \[Nov. 14, 1986\], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
+Pub. L. 99–661, div. A, title V, §509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: "Notwithstanding \[former\] section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act \[Nov. 14, 1986\], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
+
+\[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 insuch determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.\]
 

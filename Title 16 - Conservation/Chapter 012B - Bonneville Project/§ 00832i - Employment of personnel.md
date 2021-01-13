@@ -36,7 +36,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Secretary of the Interior" in subsec. (a) pursuant to Pub. L. 95–91, §302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+"Secretary of Energy" substituted for "Secretary of the Interior" in subsec. (a) pursuant to Pub. L. 95–91,§302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
 "Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42.
 

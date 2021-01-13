@@ -74,6 +74,8 @@ Definitions.—In this section—
 
 (Added Pub. L. 112–56, title II, §234(a), Nov. 21, 2011, 125 Stat. 721; amended Pub. L. 113–128, title V, §512(gg)(3), July 22, 2014, 128 Stat. 1719.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(1)(B) and (c)(1)(A), is classified to section 3102 of Title 29, Labor.
@@ -90,7 +92,9 @@ A prior section 4104A, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Sta
 
 <b>2014</b>—Subsecs. (b)(1)(B), (c)(1)(A). Pub. L. 113–128 substituted "the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)" for "the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801))".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

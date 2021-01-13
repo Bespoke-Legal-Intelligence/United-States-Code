@@ -82,11 +82,11 @@ Subsecs. (c), (d). Pub. L. 108–168, §2(c), added subsecs. (c) and (d).
 
 "(a)
 
-In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997,$44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
+In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
 
 "(b)
 
-Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
+Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of theBoard, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
 
 &emsp;"(1) $1,000,000 to establish the fund.
 

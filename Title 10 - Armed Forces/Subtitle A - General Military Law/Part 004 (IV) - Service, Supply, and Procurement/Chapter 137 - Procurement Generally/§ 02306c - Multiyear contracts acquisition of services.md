@@ -78,9 +78,51 @@ Multiyear Contract Defined.—For the purposes of this section, a multiyear cont
 
 Military Installation Defined.—In this section, the term "military installation" has the meaning given such term in section 2801(c)(4) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, §1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, §1073(a)(22), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 116–283, div. A, title XVIII, §1822(n)(1), (o), (p), (q)(2), (r), (s)(1), Jan. 1, 2021, 134 Stat. 4203, 4204.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1822(n)(1), (o), (p), (q)(2), (r), (s)(1), Jan. 1, 2021, 134 Stat. 4151, 4203, 4204, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsections (a) and (b) to section 3531(a) and (b), respectively, of this title;</i>
+
+<i>(2) by transferring subsection (c) to section 3532 of this title;</i>
+
+<i>(3) by transferring subsection (d) as follows:</i>
+
+<i>(A) paragraphs (1) and (3) to section 3535(a) and (b), respectively, of this title;</i>
+
+<i>(B) paragraph (2) to section 3534 of this title; and</i>
+
+<i>(C) paragraphs (4) and (5) to section 3533(b)(1) and (2), respectively, of this title;</i>
+
+<i>(4) by transferring subsection (e) to section 3533(a) of this title; and</i>
+
+<i>(5) by transferring subsections (f) and (h) to section 3531(c) and (d), respectively, of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283, §1822(n)(1), redesignated subsecs. (a) and (b) as section 3531(a) and (b), respectively, of this title.
+
+Subsec. (c). Pub. L. 116–283, §1822(o), redesignated subsec. (c) as section 3532 of this title.
+
+Subsec. (d)(1). Pub. L. 116–283, §1822(s)(1), redesignated par. (1) as section 3535(a) of this title.
+
+Subsec. (d)(2). Pub. L. 116–283, §1822(r), redesignated par. (2) as section 3534 of this title.
+
+Subsec. (d)(3). Pub. L. 116–283, §1822(s)(1), redesignated par. (3) as section 3535(b) of this title.
+
+Subsec. (d)(4), (5). Pub. L. 116–283, §1822(q)(2), redesignated pars. (4) and (5) as section 3533(b)(1) and (2), respectively, of this title.
+
+Subsec. (e). Pub. L. 116–283, §1822(p), redesignated subsec. (e) as section 3533(a) of this title.
+
+Subsecs. (f), (h). Pub. L. 116–283, §1822(n)(1), redesignated subsecs. (f) and (h) as section 3531(c) and (d), respectively, of this title.
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted "section 2801(c)(4)" for "section 2801(c)(2)".
 
@@ -113,6 +155,14 @@ Additional Definitions.—In this section:
 Subsec. (g). Pub. L. 107–314, §811(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 107–314, §827(b), added subsec. (h).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2002 Amendment
 

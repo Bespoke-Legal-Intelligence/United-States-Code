@@ -44,7 +44,7 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for"Labor and Public Welfare", could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
+<b>1994</b>—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for "Labor and Public Welfare", could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
 Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
 

@@ -42,7 +42,7 @@
 
 #### (A) Aggregate reduction
 
-&emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
+&emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of dutyon any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
 
 &emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(i) a provision approving a trade agreement entered into under this subsection and approving the statement of administrative action, if any, proposed to implement such trade agreement; and
 
-&emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, only such provisions as are strictly necessary or appropriate to implement such trade agreement or agreements, either repealing or amending existing laws or providing new statutory authority.
+&emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, only such provisions as are strictly necessary or appropriate to implement such trade agreement or agreements, either repealing oramending existing laws or providing new statutory authority.
 
 #### (c) Extension disapproval process for congressional trade authorities procedures
 
@@ -176,7 +176,7 @@
 
 #### (d) Commencement of negotiations
 
-In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title.
+In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medicalequipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title.
 
 (Pub. L. 114–26, title I, §103, June 29, 2015, 129 Stat. 333.)
 

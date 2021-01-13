@@ -38,7 +38,7 @@
 
 #### (ii) Types of intervention activities
 
-&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substanceabuse, improve mental health, and promote healthy lifestyles among the target population.
+&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substance abuse, improve mental health, and promote healthy lifestyles among the target population.
 
 #### (C) Community preventive screenings
 
@@ -70,7 +70,7 @@
 
 #### (I) Identification and determination of status
 
-&emsp;&emsp;&emsp;&emsp;With respect to each individual with risk factors for or having heart disease, stroke, diabetes, or any other condition for which such individual was screened under subparagraph (C), a grantee under this section shall determine whether or not such individual is covered under any public or private health insurance program.
+&emsp;&emsp;&emsp;&emsp;With respect to each individual with risk factors for or having heart disease,stroke, diabetes, or any other condition for which such individual was screened under subparagraph (C), a grantee under this section shall determine whether or not such individual is covered under any public or private health insurance program.
 
 #### (II) Insured individuals
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, includingexercise, diet, and self-management of chronic diseases.
+&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, including exercise, diet, and self-management of chronic diseases.
 
 #### (B) Evaluation
 

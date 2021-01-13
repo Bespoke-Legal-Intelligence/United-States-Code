@@ -36,7 +36,7 @@ A plan submitted by a State pursuant to section 6611(d), 7113(c), 7173, or 7842 
 
 #### (c) Limitation
 
-A plan submitted under section 6611(d), 7113(c), 7173, or 7842 of this title shall not be approved ordisapproved based upon the nature of the activities proposed within such plan if such proposed activities meet the applicable program requirements.
+A plan submitted under section 6611(d), 7113(c), 7173, or 7842 of this title shall not be approved or disapproved based upon the nature of the activities proposed within such plan if such proposed activities meet the applicable program requirements.
 
 #### (d) Peer-review requirements
 

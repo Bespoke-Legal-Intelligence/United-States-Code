@@ -42,7 +42,9 @@ Definition of Sea Duty.—(1) In this section, the term "sea duty" means duty pe
 
 &emsp;(B) in a port that is more than 50 miles from its homeport.
 
-(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 104–106, div. A, title VI, §618, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §620, Nov. 18, 1997, 111 Stat. 1790; Pub. L. 106–398, §1\[\[div. A\], title VI, §630(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156; Pub. L. 110–181, div. A, title VI, §618, Jan. 28, 2008, 122 Stat. 151.)
+(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6,1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 104–106, div. A, title VI, §618, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §620, Nov. 18, 1997, 111 Stat. 1790; Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156; Pub. L. 110–181, div. A, title VI, §618, Jan. 28, 2008, 122 Stat. 151.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -102,9 +104,11 @@ Pub. L. 100–26 substituted "In this section," for "For the purposes of this se
 
 Subsec. (b). Pub. L. 96–579 substituted special monthly pay table for enlisted members, warrant officers, and commissioned officers for prior special monthly rate for enlisted members for sea duty above prescribed number of years: $29, 3 yrs.; $40, 5 yrs.; $52, 7 yrs.; $63, 9 yrs.; $75, 10 yrs.; $86, 11 yrs.; and $115, 12 yrs.
 
-Pub. L. 96–343 substituted provision authorizing monthly rates of special pay of $29 for over 3 years, $40 for over 5 years, $52 for over 7 years, $63 for over 10 years, $86 for over 11 years, and $115 for over 12 years for provision authorizing monthly rates of special pay during fiscal year 1979 or 1980 of $25 for over 3 years, $35 for over 5 years, and $55 for over 12 years and for fiscal year 1981 rates of $25 for over 3 years, $35 for over 5 years, $45 for over 7 years, and $55 for over 12 years.
+Pub. L. 96–343 substituted provision authorizing monthly rates of special pay of $29 for over 3 years, $40 for over 5 years, $52 for over 7 years, $63 for over 10 years, $86 for over 11 years, and $115 for over 12 yearsfor provision authorizing monthly rates of special pay during fiscal year 1979 or 1980 of $25 for over 3 years, $35 for over 5 years, and $55 for over 12 years and for fiscal year 1981 rates of $25 for over 3 years, $35 for over 5 years, $45 for over 7 years, and $55 for over 12 years.
 
 Subsecs. (c), (d). Pub. L. 96–579 added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

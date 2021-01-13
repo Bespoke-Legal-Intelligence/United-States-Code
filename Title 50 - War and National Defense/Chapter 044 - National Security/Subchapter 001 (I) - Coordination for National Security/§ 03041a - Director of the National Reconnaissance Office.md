@@ -32,7 +32,7 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
+&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director fromamong individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
 
 #### (ii) Notification
 
@@ -44,7 +44,7 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 #### (C) Vacancy
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termfor which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
 
 #### (D) Chair
 

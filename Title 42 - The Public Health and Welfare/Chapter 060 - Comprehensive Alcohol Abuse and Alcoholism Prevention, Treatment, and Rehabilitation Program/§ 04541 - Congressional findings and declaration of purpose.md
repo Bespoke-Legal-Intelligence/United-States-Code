@@ -24,7 +24,7 @@
 
 &emsp;(2) the development of methods for diverting problem drinkers from criminal justice systems into prevention and treatment programs;
 
-&emsp;(3) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
+&emsp;(3) the development and encouragement of prevention programs designed to combat thespread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
 
 &emsp;(4) the development and encouragement of effective occupational prevention and treatment programs within government and in cooperation with the private sector; and
 
@@ -54,7 +54,7 @@ Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and 
 
 <b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–622 added par. (6) and redesignated former par. (6) as (7).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federalcommitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
+<b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federal commitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
 
 #### Short Title of 1980 Amendment
 

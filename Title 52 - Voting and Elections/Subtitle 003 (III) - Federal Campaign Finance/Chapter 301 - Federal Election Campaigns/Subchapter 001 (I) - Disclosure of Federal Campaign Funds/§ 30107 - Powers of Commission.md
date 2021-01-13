@@ -42,6 +42,8 @@ Except as provided in section 30109(a)(8) of this title, the power of the Commis
 
 (Pub. L. 92–225, title III, §307, formerly §311, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1282; renumbered §310 and amended Pub. L. 94–283, title I, §§105, 107, 115(b), May 11, 1976, 90 Stat. 481, 495; renumbered §307 and amended Pub. L. 96–187, title I, §§105(3), 106, Jan. 8, 1980, 93 Stat. 1354, 1356; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(6), (8), and (e), means the Federal Election Campaign Act of 1971, as defined by section 30101 of this title.
@@ -58,7 +60,7 @@ A prior section 307 of Pub. L. 92–225 was renumbered section 305, and is class
 
 <b>1986</b>—Subsec. (a)(6), (8). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted "under oath, such written reports and answers to questions as the Commission may prescribe" for "in writing such reports and answers to questions as the Commission may prescribe" and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out "of this subsection" after "paragraph (3)"; in par. (6) substituted "section 437g(a)(8)" for "section 437g(a)(9)", and substituted "to enforce the provisions of this Act" for "for the purpose of enforcing the provisions of this Act"; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted "under oath, such written reports and answersto questions as the Commission may prescribe" for "in writing such reports and answers to questions as the Commission may prescribe" and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out "of this subsection" after "paragraph (3)"; in par. (6) substituted "section 437g(a)(8)" for "section 437g(a)(9)", and substituted "to enforce the provisions of this Act" for "for the purpose of enforcing the provisions of this Act"; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
 
 Subsec. (b). Pub. L. 96–187, §106, reworded subsec. (b) without substantive changes.
 
@@ -79,6 +81,8 @@ Subsec. (a)(9). Pub. L. 94–283, §107(a)(2), substituted "and chapter 95 and c
 Subsecs. (a)(10), (11). Pub. L. 94–283, §107(a)(3), redesignated par. (11) as par. (10). Former par. (10), which covered the development of prescribed forms under subsection (a)(1) of this section, was struck out.
 
 Subsec. (e). Pub. L. 94–283, §107(b)(2), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

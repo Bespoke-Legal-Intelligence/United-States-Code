@@ -14,17 +14,21 @@ An employee for whom a waiver under this section is in effect shall not be consi
 
 (Aug. 1, 1956, ch. 841, title I, §61, as added Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441; amended Pub. L. 111–32, title XI, §1115(c)(2), June 24, 2009, 123 Stat. 1905; Pub. L. 114–323, title IV, §405(b), Dec. 16, 2016, 130 Stat. 1929.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which directed that this section be added at the end of title I of the Department of State Basic Authorities Act of 1956, was executed by adding this section at the end of title I of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–323 amended subsec. (a) generally. Prior to amendment, subsec. (a) related toauthority of the Secretary of State to waive application of provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of certain annuitants to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan and terminated the Secretary's authority as of Oct. 1, 2010.
+<b>2016</b>—Subsec. (a). Pub. L. 114–323 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authority of the Secretary of State to waive application of provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of certain annuitants to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan and terminated the Secretary's authority as of Oct. 1, 2010.
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–32 inserted ", Pakistan," after "Iraq" in two places.
 
 Subsec. (a)(2). Pub. L. 111–32 substituted "2010" for "2008".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Extension of Authority
 

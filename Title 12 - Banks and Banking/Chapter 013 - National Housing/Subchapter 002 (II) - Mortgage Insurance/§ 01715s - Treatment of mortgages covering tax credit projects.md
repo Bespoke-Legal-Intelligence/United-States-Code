@@ -30,9 +30,13 @@ In the case of an insured mortgage covering a tax credit project for which proje
 
 (June 27, 1934, ch. 847, title II, §228, as added Pub. L. 110–289, div. B, title VIII, §2834(c), July 30, 2008, 122 Stat. 2870.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1715s, which was based in part on act Aug. 2, 1954, ch. 649, title VIII, §814, 68 Stat. 647, provided for the keeping of records with respect to multifamily housing and examination and audit thereof. Section 814 of act Aug. 2, 1954, was transferred and is classified in full to section 1434 of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Approvals by Department of Housing and Urban Development
 

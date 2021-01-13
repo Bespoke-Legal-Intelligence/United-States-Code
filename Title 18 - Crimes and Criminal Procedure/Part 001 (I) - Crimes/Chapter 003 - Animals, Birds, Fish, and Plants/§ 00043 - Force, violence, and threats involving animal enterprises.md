@@ -114,6 +114,8 @@ Rules of Construction.—Nothing in this section shall be construed—
 
 (Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, §601(r)(3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–188, title III, §336, June 12, 2002, 116 Stat. 681; Pub. L. 109–374, §2(a), Nov. 27, 2006, 120 Stat. 2652.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, §2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, §7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
@@ -124,11 +126,13 @@ A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pu
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting "Penalties" for "Aggravated Offense" in heading and list of penalties for propertydamage, personal injury and death for reference to serious bodily injury and death in text.
+Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting "Penalties" for "Aggravated Offense" in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
 Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted "or 3663A" after "section 3663" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -136,7 +140,7 @@ Pub. L. 102–346, §1, Aug. 26, 1992, 106 Stat. 928, provided that: "This Act \
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
 
-Section 3 of Pub. L. 102–346 directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
+Pub. L. 102–346, §3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture tojointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

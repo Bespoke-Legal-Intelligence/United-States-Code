@@ -38,7 +38,7 @@ Subsecs. (c), (d). Pub. L. 112–166, §2(a)(1)(B), (C), which directed that sub
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §10704(a)(1), added par. (3).
 
-Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struck out former subsecs. (d) and (e), which amended section 5315 of Title 5, Government Organization and Employees, and section 3128 of this titleand repealed sections 2212 to 2212c of this title and section 2 of Reorg. Plan No. 2 of 1953, set out as a note under section 2201 of this title.
+Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struck out former subsecs. (d) and (e), which amended section 5315 of Title 5, Government Organization and Employees, and section 3128 of this title and repealed sections 2212 to 2212c of this title and section 2 of Reorg. Plan No. 2 of 1953, set out as a note under section 2201 of this title.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), substituted a period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "Assistant Secretary of Agriculture for Marketing and Regulatory Programs."
 

@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 99–348, §305(a)(1), designated existing provisions as pa
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "For the purposes of subsections (b) and (c), a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded".
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of the Department of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of theDepartment of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
 
 Pub. L. 96–342 amended subsec. (c) generally, designating existing provisions as pars. (1) to (4) and, as so amended, in par. (1) designated existing provisions as subpar. (A), as so designated, inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B), in par. (2) inserted reference to section 1402a of this title, and in par. (4) added applicability to monthly retainer pay base.
 

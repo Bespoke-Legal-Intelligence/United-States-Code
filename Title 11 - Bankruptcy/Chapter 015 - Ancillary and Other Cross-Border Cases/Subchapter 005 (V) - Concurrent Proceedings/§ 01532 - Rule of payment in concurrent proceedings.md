@@ -1,8 +1,10 @@
 ### §1532. Rule of payment in concurrent proceedings
 
-Without prejudice to secured claims or rights in rem, a creditor who has received payment with respect to its claim in a foreign proceeding pursuant to a law relating to insolvency may not receive a payment for the same claim in a case under any other chapter of this title regarding the debtor, so long as the payment to other creditors of the same class is proportionately less than the payment the creditor has already received.
+Without prejudice to secured claims or rights in rem, a creditor who has received paymentwith respect to its claim in a foreign proceeding pursuant to a law relating to insolvency may not receive a payment for the same claim in a case under any other chapter of this title regarding the debtor, so long as the payment to other creditors of the same class is proportionately less than the payment the creditor has already received.
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 145.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -49,6 +51,8 @@ Section 151163, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656, related to appoin
 Section 151302, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656; Pub. L. 98–353, title III, §§311(b)(4), 534, July 10, 1984, 98 Stat. 355, 390, related to trustees.
 
 Section 151326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2657, related to payments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 Effective date and applicability of repeal by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28, Judiciary and Judicial Procedure.
 

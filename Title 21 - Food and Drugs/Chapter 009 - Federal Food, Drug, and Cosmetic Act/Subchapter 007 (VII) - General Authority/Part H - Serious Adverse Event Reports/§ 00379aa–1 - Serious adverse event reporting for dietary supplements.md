@@ -88,7 +88,7 @@ A serious adverse event report submitted to the Secretary under this section, in
 
 &emsp;(1) a safety report under section 379v of this title and may be accompanied by a statement, which shall be a part of any report that is released for public disclosure, that denies that the report or the records constitute an admission that the product involved caused or contributed to the adverse event; and
 
-&emsp;(2) a record about an individual under section 552a of title 5 (commonly referred to as the "Privacy Act of 1974") and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title 5 (commonly referred to as the "Freedom of Information Act"), and shall not be publicly disclosed unless all personally identifiable information is redacted.
+&emsp;(2) a record about an individual under section 552a of title 5 (commonly referred to as the "Privacy Act of 1974") and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title5 (commonly referred to as the "Freedom of Information Act"), and shall not be publicly disclosed unless all personally identifiable information is redacted.
 
 #### (g) Rule of construction
 
@@ -112,7 +112,7 @@ The submission of any adverse event report in compliance with this section shall
 
 &emsp;&emsp;&emsp;(i) be made publicly available pursuant to any State or other law requiring disclosure of information or records; or
 
-&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consentof the Secretary and the person submitting such information to the Secretary.
+&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consent of the Secretary and the person submitting such information to the Secretary.
 
 #### (C) Use of safety reports
 
@@ -123,6 +123,8 @@ The submission of any adverse event report in compliance with this section shall
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
 (June 25, 1938, ch. 675, §761, as added Pub. L. 109–462, §3(a), Dec. 22, 2006, 120 Stat. 3472.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

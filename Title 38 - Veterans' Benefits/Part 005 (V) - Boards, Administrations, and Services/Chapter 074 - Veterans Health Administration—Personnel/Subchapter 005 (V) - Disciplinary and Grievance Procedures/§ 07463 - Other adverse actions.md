@@ -1,6 +1,6 @@
 ### §7463. Other adverse actions
 
-(a) The Secretary shall prescribe by regulation procedures for the consideration of grievances of section 7401(1) employees arising from adverse personnel actions in which each action taken either—
+(a) The Secretary shall prescribe by regulation procedures for the consideration of grievances ofsection 7401(1) employees arising from adverse personnel actions in which each action taken either—
 
 &emsp;(1) is not a major adverse action; or
 
@@ -36,6 +36,8 @@
 
 (Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 205; amended Pub. L. 115–41, title II, §208(c), June 23, 2017, 131 Stat. 878; Pub. L. 115–407, title VII, §702(a)(2), Dec. 31, 2018, 132 Stat. 5381.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in section 4110 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
@@ -46,7 +48,7 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–41, §208(c)(1), substituted "notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of section 7462(b)(1) of this title, but within the time periods specified in paragraph (3)" for "the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of section 7462(b)(1) of this title".
 
-Subsec. (c)(2). Pub. L. 115–41, §208(c)(2)(A), in introductory provisions, inserted ", within the aggregatetime period specified in paragraph (3)(A)," after "is entitled".
+Subsec. (c)(2). Pub. L. 115–41, §208(c)(2)(A), in introductory provisions, inserted ", within the aggregate time period specified in paragraph (3)(A)," after "is entitled".
 
 Subsec. (c)(2)(A). Pub. L. 115–41, §208(c)(2)(B), substituted "written notice" for "an advance written notice".
 

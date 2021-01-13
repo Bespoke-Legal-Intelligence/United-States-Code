@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(i) "public officer" shall mean a person who is either elected to public office or who is directly appointed by a person elected to public office;
 
-&emsp;(j) "undue hardship or extreme inconvenience", as a basis for excuse from immediatejury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
+&emsp;(j) "undue hardship or extreme inconvenience", as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
 
 &emsp;(k) "jury summons" shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
@@ -30,9 +30,11 @@ For purposes of this chapter—
 
 Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Stat. 1166). Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare,prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsecs. (j) to (l). Pub. L. 95–572, §4, added subsecs. (j) to (l).
 <b>1968</b>—Pub. L. 90–274 substituted provisions defining "clerk", "clerk of the court", "chief judge", "voter registration lists", "list of actual voters", "division", "district court", "jury wheel", "juror qualification form", and "public officer" for provisions allowing the challenge of a petit juror who had been summoned and attended court as a petit juror at any session held within one year prior to the challenge.
 
 <b>1963</b>—Pub. L. 88–139 substituted "session" for "term".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

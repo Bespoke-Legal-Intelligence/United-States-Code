@@ -22,7 +22,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing morethan 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option. Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option.
 
@@ -92,7 +92,7 @@ A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Such term shall not include anyoption if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option."
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option."
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 422A of this title as this section.
 
@@ -102,7 +102,7 @@ Subsec. (c)(5) to (8). Pub. L. 101–508, §11801(c)(9)(C)(ii), redesignated par
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end "Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option."
 
-Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
+Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendaryear (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
 
 Subsec. (c)(1). Pub. L. 100–647, §1003(d)(2)(C), substituted "subsection (d)" for "paragraph (7) of subsection (b)".
 
@@ -178,7 +178,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;"(B)
 
-Election and designation of options.—In the case of an option granted before January 1, 1981, theamendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
+Election and designation of options.—In the case of an option granted before January 1, 1981, the amendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
 
 "(2)
 

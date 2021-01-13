@@ -22,7 +22,7 @@ The report required by subsection (a), and each updated report required by subse
 
 &emsp;&emsp;(C) the anticipated schedule of such arrivals and departures.
 
-&emsp;(2) Such recommendations as the Office of Economic Adjustment of the Department of Defense considers appropriate for means of assisting affected local educational agencies in accommodating increases in enrollment of military dependent students as a result of any such event.
+&emsp;(2) Such recommendations as the Office of Economic Adjustment of the Department ofDefense considers appropriate for means of assisting affected local educational agencies in accommodating increases in enrollment of military dependent students as a result of any such event.
 
 &emsp;(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a).
 
@@ -100,7 +100,7 @@ Subsec. (e)(3)(C). Pub. L. 110–181 added subpar. (C).
 
 #### Information To Be Included With Future Requests for Extension
 
-Pub. L. 114–328, div. A, title V, §572(b), Dec. 23, 2016, 130 Stat. 2141, as amended by Pub. L. 115–91, div. A, title V, §552(b), Dec. 12, 2017, 131 Stat. 1401, provided that: "The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) shall include, with respect to section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 20 U.S.C. 7703b note \[now 20 U.S.C. 7703c\]), the following:
+Pub. L. 114–328, div. A, title V, §572(b), Dec. 23, 2016, 130 Stat. 2141, as amended by Pub. L. 115–91, div. A, titleV, §552(b), Dec. 12, 2017, 131 Stat. 1401, provided that: "The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) shall include, with respect to section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 20 U.S.C. 7703b note \[now 20 U.S.C. 7703c\]), the following:
 
 &emsp;"(1) A full accounting of the expenditure of funds pursuant to such section 574(c) during the last fiscal year ending before the date of the submittal of the budget.
 

@@ -2,7 +2,7 @@
 
 Section 32, act Feb. 25, 1903, ch. 755, §1, 32 Stat. 904, granted immunity from prosecution to witnesses testifying or producing evidence, documentary or otherwise, in any proceeding, suit, or prosecution under section 1 to 11 of this title. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-Section 33, act June 30, 1906, ch. 3920, 34 Stat. 798, provided that, under the immunity provisions of former section 32 of this title, immunity was to extend only toa natural person who, in obedience to a subpoena, testified or produced evidence.
+Section 33, act June 30, 1906, ch. 3920, 34 Stat. 798, provided that, under the immunity provisions of former section 32 of this title, immunity was to extend only to a natural person who, in obedience to a subpoena, testified or produced evidence.
 
 #### Effective Date of Repeal
 

@@ -48,6 +48,8 @@ Subsection (e) makes the approval of a State's program a contractual obligation 
 
 Subsection (f) allows a State to submit a combined boating safety and facility improvement program if it meets the requirements of all of the objectives of both programs.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 13103 was renumbered section 13104 of this title.
@@ -80,7 +82,7 @@ Subsec. (a)(4). Pub. L. 99–626, §4(b), inserted "out" after "carrying".
 
 Pub. L. 99–307 substituted "carrying out the State" for "carrying the State".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1011(c)(1), (2), in provisions preceding par. (1) substituted "shall" for"may" and struck out "and facilities improvement" after "boating safety".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1011(c)(1), (2), in provisions preceding par. (1) substituted "shall" for "may" and struck out "and facilities improvement" after "boating safety".
 
 Subsec. (a)(2). Pub. L. 98–369, §1011(c)(1), (3), struck out ", (d), or (f)" after "requirements of subsection (c)" and struck out "and facilities improvement" after "boating safety".
 
@@ -91,6 +93,8 @@ Subsec. (c)(4). Pub. L. 98–557 inserted provisions relating to dissemination o
 Subsecs. (d), (e). Pub. L. 98–369, §1011(c)(4), redesignated subsec. (e) as (d). Former subsec. (d), which related to approval of a State recreational boating facilities improvement program by the Secretary, was struck out.
 
 Subsec. (f). Pub. L. 98–369, §1011(c)(4), struck out subsec. (f) which related to submission by a State to the Secretary of a combined program for the improvement of recreational boating safety and recreational boating facilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendments
 

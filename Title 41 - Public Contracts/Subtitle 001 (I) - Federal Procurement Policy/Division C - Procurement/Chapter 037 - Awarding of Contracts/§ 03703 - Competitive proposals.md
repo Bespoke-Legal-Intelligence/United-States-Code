@@ -18,7 +18,7 @@ Criteria for Awarding Contract.—Except as otherwise provided in section 3701(b
 
 (d)
 
-Notice of Award.—The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to that source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
+Notice of Award.—The executive agency shall award the contract by transmitting, inwriting or by electronic means, notice of the award to that source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3771.)
 

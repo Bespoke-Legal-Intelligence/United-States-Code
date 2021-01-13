@@ -12,13 +12,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
-Section 521 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1139, cited as a credit in an amendment to thisanalysis, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 
 <i><sup>1</sup></i><i> Editorially supplied. Sections 4351 and 4352 added by Pub. L. 93–415 without corresponding enactment of chapter analysis.</i>
 

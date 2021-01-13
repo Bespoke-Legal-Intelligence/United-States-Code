@@ -206,6 +206,8 @@ Administrative remedies.—The suspension or revocation of a license or the impo
 
 <i>Pub. L. 100–649, §2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking "this subsection, subsection (b), (c), or (f) of this section, or in section 929" and inserting "this chapter", subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as Title 26, Internal Revenue Code.
@@ -398,6 +400,8 @@ Subsec. (b). Pub. L. 90–618 inserted "or any ammunition" after "a firearm".
 
 Subsecs. (c), (d). Pub. L. 90–618 added subsec. (c), redesignated former subsec. (c) as (d), and as so redesignated, substituted "section 5845(a) of that Code" for "section 5848(1) of said Code".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–391, title IV, §403(b), Dec. 21, 2018, 132 Stat. 5222, provided that: "This section \[amending this section\], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act \[Dec. 21, 2018\], if a sentence for the offense has not been imposed as of such date of enactment."
@@ -410,7 +414,7 @@ Amendment by section 5(c)(2) of Pub. L. 109–92 effective 180 days after Oct. 2
 
 Pub. L. 104–294, title VI, §603(m)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
-Pub. L. 104–294, title VI, §603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
+Pub. L. 104–294, title VI, §603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub.L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
 #### Effective and Termination Dates of 1994 Amendment
 

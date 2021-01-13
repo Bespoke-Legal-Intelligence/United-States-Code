@@ -78,7 +78,7 @@ The Secretary may not make a grant under subsection (a) unless the State involve
 
 The Secretary may not make a grant under subsection (a) unless the State office of rural health involved agrees—
 
-&emsp;(1) to submit to the Secretary reports or performance data containing such information as the Secretary may require regarding activities carried out under this section; and
+&emsp;(1) to submit to the Secretary reports or performance data containing such information asthe Secretary may require regarding activities carried out under this section; and
 
 &emsp;(2) to submit such a report or performance data not later than September 30 of each fiscal year immediately following any fiscal year for which the State office of rural health has received such a grant.
 

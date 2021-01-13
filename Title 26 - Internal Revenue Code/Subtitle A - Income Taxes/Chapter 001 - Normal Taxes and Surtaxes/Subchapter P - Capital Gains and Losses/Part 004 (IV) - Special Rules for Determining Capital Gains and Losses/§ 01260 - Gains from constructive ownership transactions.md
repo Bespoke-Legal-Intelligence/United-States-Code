@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (3) Long position under notional principal contract
 
-&emsp;A person shall be treated as holding a long position under a notional principal contractwith respect to any financial asset if such person—
+&emsp;A person shall be treated as holding a long position under a notional principal contract with respect to any financial asset if such person—
 
 &emsp;&emsp;(A) has the right to be paid (or receive credit for) all or substantially all of the investment yield (including appreciation) on such financial asset for a specified period, and
 

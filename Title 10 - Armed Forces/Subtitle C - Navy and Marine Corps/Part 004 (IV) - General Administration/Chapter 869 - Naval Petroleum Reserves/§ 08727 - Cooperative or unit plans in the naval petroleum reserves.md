@@ -1,6 +1,6 @@
 ### §8727. Cooperative or unit plans in the naval petroleum reserves
 
-The Secretary, with the consent of the President, may make agreements, with respect to lands inside the naval petroleum reserves, of the same type as the Secretary of the Interior may make under section 17(m) of the Act of February25, 1920 (30 U.S.C. 226(m)). No such agreement made by the Secretary may extend the term of any lease unless the agreement so provides.
+The Secretary, with the consent of the President, may make agreements, with respect to lands inside the naval petroleum reserves, of the same type as the Secretary of the Interior may make under section 17(m) of the Act of February 25, 1920 (30 U.S.C. 226(m)). No such agreement made by the Secretary may extend the term of any lease unless the agreement so provides.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 460, §7427; Pub. L. 94–258, title II, §201(8), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, §513(33), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 100–456, div. A, title XII, §1233(g)(3), Sept. 29, 1988, 102 Stat. 2058; renumbered §8727, Pub. L. 115–232, div. A, title VIII, §807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 

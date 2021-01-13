@@ -38,7 +38,7 @@
 
 &emsp;(8) to otherwise fail or refuse to comply with any provision of this chapter.
 
-> Nothing in paragraph (7) of this subsection shall result in any informational picketing which does not interfere with an agency's operations being considered as an unfair labor practice.
+> Nothing in paragraph (7) of this subsection shall result in any informational picketing whichdoes not interfere with an agency's operations being considered as an unfair labor practice.
 
 (c) For the purpose of this chapter it shall be an unfair labor practice for an exclusive representative to deny membership to any employee in the appropriate unit represented by such exclusive representative except for failure—
 
@@ -48,7 +48,7 @@
 
 > This subsection does not preclude any labor organization from enforcing discipline in accordance with procedures under its constitution or bylaws to the extent consistent with the provisions of this chapter.
 
-(d) Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 7121(e) and (f) of this title, an employee has an option of using the negotiated grievance procedure or an appeals procedure, issues which canbe raised under a grievance procedure may, in the discretion of the aggrieved party, be raised under the grievance procedure or as an unfair labor practice under this section, but not under both procedures.
+(d) Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 7121(e) and (f) of this title, an employee has an option of using the negotiated grievance procedure or an appeals procedure, issues which can be raised under a grievance procedure may, in the discretion of the aggrieved party, be raised under the grievance procedure or as an unfair labor practice under this section, but not under both procedures.
 
 (e) The expression of any personal view, argument, opinion or the making of any statement which—
 
@@ -61,6 +61,8 @@
 > shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1204.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

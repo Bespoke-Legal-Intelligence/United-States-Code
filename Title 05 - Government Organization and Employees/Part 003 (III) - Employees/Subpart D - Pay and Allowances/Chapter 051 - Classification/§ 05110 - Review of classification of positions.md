@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management, from time to time, shall review such number of positions in each agency as will enable the Office to determine whether the agency is placing positions in classes and grades in conformance with or consistently with published standards.
 
-(b) When the Office finds under subsection (a) of this section that a position is not placed in its proper class and grade in conformance with published standards or that a position for whichthere is no published standard is not placed in the class and grade consistently with published standards, it shall, after consultation with appropriate officials of the agency concerned, place the position in its appropriate class and grade and shall certify this action to the agency. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
+(b) When the Office finds under subsection (a) of this section that a position is not placed in its proper class and grade in conformance with published standards or that a position for which there is no published standard is not placed in the class and grade consistently with published standards, it shall, after consultation with appropriate officials of the agency concerned, place the position in its appropriate class and grade and shall certify this action to the agency. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 455; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
@@ -32,9 +32,13 @@ In subsection (b), the words "to which this chapter applies" are omitted as unne
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

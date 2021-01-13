@@ -28,7 +28,7 @@ The Secretary shall establish in the Department of Energy a waste energy recover
 
 #### (A) In general
 
-&emsp;&emsp;In the case of waste energy recovery, a grant under this section shall be made at the rate of $10 per megawatt hour of documented electricity produced from recoverable waste energy (or by prevention of waste energy in the case of a new facility) by the projectduring the first 3 calendar years of production, beginning on or after December 19, 2007.
+&emsp;&emsp;In the case of waste energy recovery, a grant under this section shall be made at the rate of $10 per megawatt hour of documented electricity produced from recoverable waste energy (or by prevention of waste energy in the case of a new facility) by the project during the first 3 calendar years of production, beginning on or after December 19, 2007.
 
 #### (B) Utilities
 
@@ -36,7 +36,7 @@ The Secretary shall establish in the Department of Energy a waste energy recover
 
 #### (4) Useful thermal energy
 
-&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project at the rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
+&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project atthe rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
 
 #### (c) Grants to States
 

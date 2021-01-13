@@ -2,7 +2,7 @@
 
 #### (a) Issuance of permits
 
-No permit under section 1342 of this title for a discharge into the territorial sea, the waters of the contiguous zone, or the oceans shall be issued, after promulgation of guidelines established under subsection (c) of this section, except in compliance with such guidelines. Prior to the promulgation of such guidelines, a permit may be issued under such section 1342 of this title if the Administrator determines it to be in the public interest.
+No permit under section 1342 of this title for a discharge into the territorial sea, the waters ofthe contiguous zone, or the oceans shall be issued, after promulgation of guidelines established under subsection (c) of this section, except in compliance with such guidelines. Prior to the promulgation of such guidelines, a permit may be issued under such section 1342 of this title if the Administrator determines it to be in the public interest.
 
 #### (b) Waiver
 
@@ -30,9 +30,13 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 (June 30, 1948, ch. 758, title IV, §403, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 883.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption; Conditions
 
 Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributable to the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea and Contiguous Zone of United States
 

@@ -82,13 +82,13 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 #### (1) Determinations to be made under funding method
 
-&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
+&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, andexperience gains and losses shall be determined under the funding method used to determine costs under the plan.
 
 #### (2) Valuation of assets
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the value of the plan's assets shall be determined on thebasis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this section, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary.
 
 #### (B) Dedicated bond portfolio
 
@@ -437,7 +437,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Controlled group
 
-&emsp;&emsp;The term "controlled group" means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414.
+&emsp;&emsp;The term "controlled group" means any group treated as a single employer undersubsections (b), (c), (m), and (o) of section 414.
 
 #### (h) Current liability
 
@@ -539,7 +539,7 @@ Notwithstanding any other provisions of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, for purposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
+&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, forpurposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
 
 &emsp;&emsp;&emsp;(i) the amount described in subsection (a), or
 

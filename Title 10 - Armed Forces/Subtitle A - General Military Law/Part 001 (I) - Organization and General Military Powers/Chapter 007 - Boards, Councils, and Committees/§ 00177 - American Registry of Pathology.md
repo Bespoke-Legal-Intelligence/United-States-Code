@@ -24,7 +24,7 @@
 
 (c) In the performance of the functions set forth in subsection (b), the American Registry of Pathology is authorized to—
 
-&emsp;(1) enter into such other contracts, leases, cooperative agreements, or other transactions as the Board deems appropriate to conduct the activities of the American Registry of Pathology; and
+&emsp;(1) enter into such other contracts, leases, cooperative agreements, or other transactions as the Board deems appropriate to conduct theactivities of the American Registry of Pathology; and
 
 &emsp;(2) charge such fees for professional services as the Board deems reasonable and appropriate.
 

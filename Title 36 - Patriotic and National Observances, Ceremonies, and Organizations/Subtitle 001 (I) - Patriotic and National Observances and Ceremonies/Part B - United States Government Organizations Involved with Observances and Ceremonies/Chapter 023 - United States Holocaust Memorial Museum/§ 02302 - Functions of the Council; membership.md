@@ -48,6 +48,8 @@ Associated Committees.—Subject to appointment by the Chairperson, an individua
 
 (Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1031.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2302, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related to the membership of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.

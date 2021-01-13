@@ -86,7 +86,7 @@
 
 > of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Director, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Director of the determination, and shall publish in the Federal Register a notice of such determination.
 
-(B)(i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulationspromulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director <sup>1</sup> of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Assistant Secretary for Marketing and Inspection Services.
+(B)(i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director <sup>1</sup> of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Assistant Secretary for Marketing and Inspection Services.
 
 (ii) The Secretary making a determination under clause (i) shall notify the Director of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the 60-day period beginning on the publication of a determination, the Secretary making the determination to hold an informal hearing on the determination. If such a request is made within such period, such Secretary shall hold such hearing not later than 30 days after the date of the request, or at the request of the person making the request, not later than 60 days after such date. The Secretary who is holding the hearing shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within 30 days after the completion of the hearing, such Secretary shall affirm or revise the determination which was the subject of the hearing and shall notify the Director of any revision of the determination and shall publish any such revision in the Federal Register.
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(i) the period beginning on the date a major health or environmental effects test on the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
 
-&emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedingswere finally resolved and commercial marketing was permitted.
+&emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
 
 &emsp;(3)(A) In the case of a product which is a medical device, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;(i) no request for an exemption described in paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted,
 
-&emsp;&emsp;&emsp;(ii) no major health or environmental effects test described in paragraph (2)(B) or (4)(B) was initiated and no petition for a regulation or application for registration described in such paragraph was submitted, or
+&emsp;&emsp;&emsp;(ii) no major health or environmental effects test described in paragraph (2)(B) or\(4)(B) was initiated and no petition for a regulation or application for registration described in such paragraph was submitted, or
 
 &emsp;&emsp;&emsp;(iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submitted,
 
@@ -243,6 +243,8 @@
 &emsp;(D) the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
 
 (Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, §37(a), Sept. 16, 2011, 125 Stat. 341; Pub. L. 114–89, §2(c), Nov. 25, 2015, 129 Stat. 700.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -357,6 +359,8 @@ Subsec. (g)(6)(B)(i). Pub. L. 100–670, §201(h)(5)(A), substituted "paragraph 
 Subsec. (g)(6)(B)(ii). Pub. L. 100–670, §201(h)(5)(B), substituted "paragraph (2)(B) or (4)(B)" for "paragraph (2)".
 
 Subsec. (g)(6)(C). Pub. L. 100–670, §201(h)(5)(C), inserted "or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years" after "exceed two years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

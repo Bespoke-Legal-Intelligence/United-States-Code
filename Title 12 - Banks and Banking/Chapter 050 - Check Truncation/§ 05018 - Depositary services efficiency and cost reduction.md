@@ -26,7 +26,7 @@ The Congress finds as follows:
 
 #### (b) Authorization of appropriations for services rendered by depositaries and financial agencies of the United States
 
-There are authorized to be appropriated for fiscal years beginning after fiscal year 2003 to the Secretary of the Treasury such sums as may be necessary for reimbursing financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or a designee of the Secretary, to be performed by such financial institutions on behalf of the Secretary of the Treasury or another Federal agency, including services rendered before fiscal year 2004.
+There are authorized to be appropriated for fiscal years beginning after fiscal year 2003 to the Secretary of the Treasury such sums as may be necessary for reimbursing financial institutions in their capacity as depositaries and financial agents of the United States for all servicesrequired or directed by the Secretary of the Treasury, or a designee of the Secretary, to be performed by such financial institutions on behalf of the Secretary of the Treasury or another Federal agency, including services rendered before fiscal year 2004.
 
 #### (c) Orderly transition
 
@@ -88,6 +88,8 @@ Notwithstanding section 20,<sup>1</sup> this section shall take effect on Octobe
 
 (Pub. L. 108–100, §19, Oct. 28, 2003, 117 Stat. 1191.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 20, referred to in subsec. (e), means section 20 of Pub. L. 108–100, which is set out as an Effective Date note under section 5001 of this title.
@@ -95,6 +97,8 @@ Section 20, referred to in subsec. (e), means section 20 of Pub. L. 108–100, w
 #### Codification
 
 Section is comprised of section 19 of Pub. L. 108–100. Subsec. (d) of section 19 of Pub. L. 108–100 amended section 412 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Funds for Reimbursement for Depositary and Financial Agency Services
 

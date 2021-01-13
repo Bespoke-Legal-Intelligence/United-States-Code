@@ -46,7 +46,7 @@ In this section—
 
 &emsp;&emsp;(F) the procedures, protocols, and guidance concerning the communications that State, Tribal, and local governments shall issue to the public following a false alert issued under the public alert and warning system;
 
-&emsp;&emsp;(G) a plan by which State, Tribal, and local government officials may, during an emergency, contact each other as well as Federal officials and participants in the Emergency Alert System and the Wireless Emergency Alert System, when appropriate and necessary, by telephone, text message, or other means of communication regarding an alert that has been distributed to the public; and
+&emsp;&emsp;(G) a plan by which State, Tribal, and local government officials may, during anemergency, contact each other as well as Federal officials and participants in the Emergency Alert System and the Wireless Emergency Alert System, when appropriate and necessary, by telephone, text message, or other means of communication regarding an alert that has been distributed to the public; and
 
 &emsp;&emsp;(H) any other procedure the Administrator considers appropriate for maintaining the integrity of and providing for public confidence in the public alert and warning system.
 
@@ -207,6 +207,8 @@ The Administrator shall, on an annual basis, report to the appropriate congressi
 Each State shall be given a reasonable amount of time to comply with any new rules, regulations, or requirements imposed under this section.
 
 (Pub. L. 116–92, div. A, title XVII, §1756, Dec. 20, 2019, 133 Stat. 1855.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

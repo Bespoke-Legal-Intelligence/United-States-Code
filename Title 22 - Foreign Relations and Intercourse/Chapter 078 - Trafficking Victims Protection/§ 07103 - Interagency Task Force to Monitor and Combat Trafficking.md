@@ -36,7 +36,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 during the preceding fiscal year;
 
-&emsp;&emsp;(D) the number of persons who have applied for, been granted, or been denied a visa or status under clause (ii) of section 1101(a)(15)(T) of title 8 during the preceding fiscal year, broken down by the number of such persons described in subclauses (I), (II), and (III) of such clause (ii);
+&emsp;&emsp;(D) the number of persons who have applied for, been granted, or been denied a visa or status under clause (ii) of section 1101(a)(15)(T) of title 8 during the preceding fiscal year, broken down by the number ofsuch persons described in subclauses (I), (II), and (III) of such clause (ii);
 
 &emsp;&emsp;(E) the amount of Federal funds expended in direct benefits paid to individuals described in subparagraph (D) in conjunction with T visa status;
 
@@ -94,7 +94,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
 
-&emsp;&emsp;&emsp;(viii) the number of convictions obtained under chapter 77 of title 18, aggregatedseparately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and <sup>4</sup>
+&emsp;&emsp;&emsp;(viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and <sup>4</sup>
 
 &emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>3</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
 
@@ -152,13 +152,15 @@ Each regional bureau in the Department of State shall contribute to the realizat
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, §121(a), title II, §201, Jan. 8,2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, §902(85), div. C, title XXXV, §3562, div. F, title LXXI, §7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, §121(a), title II, §201, Jan. 8, 2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, §902(85), div. C, title XXXV, §3562, div. F, title LXXI, §7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original "this division" meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
+Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f)of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
 Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in the original "sections 202 and 204 of the Trafficking Victims Protection Act of 2005", and was translated as reading "sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005", which enacted sections 20702 and 20705 of Title 34, Crime Control and Law Enforcement, to reflect the probable intent of Congress.
 
@@ -236,13 +238,17 @@ Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of seco
 
 Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
-Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: "The individual who holds the positionof Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) \[amending this section\]."
+Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: "The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) \[amending this section\]."
 
 #### Senior Policy Operating Group
 
 Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, §6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (f) of this section.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13257. President's Interagency Task Force To Monitor and Combat Trafficking in Persons
 
@@ -320,7 +326,7 @@ Sec. 5. <i>Enhanced Prevention of Trafficking in Persons</i>. (a) The Secretary 
 
 (d) The Secretary of State shall have responsibility to initiate appropriate regulatory implementation of the requirements set out in section 106(g) of the Act with respect to contracts, including proposing appropriate amendments to the Federal Acquisition Regulation. Each affected executive branch department or agency shall implement, within that department or agency, the requirements set out in section 106(g) of the Act with respect to grants and cooperative agreements.
 
-Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
+Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
 
 Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exercising authority delegated by, or performing functions assigned in, this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to:
 

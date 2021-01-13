@@ -36,7 +36,7 @@ Par. (7). Pub. L. 115–97, §12001(b)(12), struck out par. (7) which read as fo
 
 Amendment by section 12001(b)(12) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
-Amendment by section 13001(b)(2)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(2)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 1986 Amendment
 

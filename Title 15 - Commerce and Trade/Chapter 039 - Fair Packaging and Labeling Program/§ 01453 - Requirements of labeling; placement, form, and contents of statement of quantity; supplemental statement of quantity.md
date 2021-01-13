@@ -12,7 +12,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(A)(i) if on a package labeled in terms of weight, shall be expressed in pounds, with any remainder in terms of ounces or common or decimal fractions of the pound; or in the case of liquid measure, in the largest whole unit (quarts, quarts and pints, or pints, as appropriate) with any remainder in terms of fluid ounces or common or decimal fractions of the pint or quart;
 
-&emsp;&emsp;(ii) if on a random package, may be expressed in terms of pounds and decimal fractions of the pound carried out to not morethan three decimal places and is not required to, but may, include a statement in terms of the SI metric system carried out to not more than three decimal places;
+&emsp;&emsp;(ii) if on a random package, may be expressed in terms of pounds and decimal fractions of the pound carried out to not more than three decimal places and is not required to, but may, include a statement in terms of the SI metric system carried out to not more than three decimal places;
 
 &emsp;&emsp;(iii) if on a package labeled in terms of linear measure, shall be expressed in terms of the largest whole unit (yards, yards and feet, or feet, as appropriate) with any remainder in terms of inches or common or decimal fractions of the foot or yard;
 
@@ -22,7 +22,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(C) shall contain letters or numerals in a type size which shall be (i) established in relationship to the area of the principal display panel of the package, and (ii) uniform for all packages of substantially the same size; and
 
-&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statement are generally parallel to the base on which the package rests as it is designed to be displayed; and
+&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statementare generally parallel to the base on which the package rests as it is designed to be displayed; and
 
 &emsp;(4) The label of any package of a consumer commodity which bears a representation as to the number of servings of such commodity contained in such package shall bear a statement of the net quantity (in terms of weight or mass, measure, or numerical count) of each such serving.
 

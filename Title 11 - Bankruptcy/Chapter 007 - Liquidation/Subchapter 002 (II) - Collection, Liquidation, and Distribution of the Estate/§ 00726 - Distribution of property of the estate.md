@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) proof of such claim is filed in time to permit payment of such claim;
 
-&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filed under section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
+&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filedunder section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
 
 &emsp;(4) fourth, in payment of any allowed claim, whether secured or unsecured, for any fine, penalty, or forfeiture, or for multiple, exemplary, or punitive damages, arising before the earlier of the order for relief or the appointment of a trustee, to the extent that such fine, penalty, forfeiture, or damages are not compensation for actual pecuniary loss suffered by the holder of such claim;
 
@@ -64,7 +64,7 @@ Paragraph (4) provides that punitive penalties, including prepetition tax penalt
 
 Paragraph (5) provides that postpetition interest on prepetition claims is also to be paid to the creditor in a subordinated position. Like prepetition penalties, such interest will be paid from the estate only if and to the extent that a surplus of assets would otherwise remain for return to the debtor at the close of the case.
 
-This section also specifies that interest accrued on all claims (including priority and nonpriority tax claims) which accrued before the date of the filing of the title 11 petition is to be paid in the same order ofdistribution of the estate's assets as the principal amount of the related claims.
+This section also specifies that interest accrued on all claims (including priority and nonpriority tax claims) which accrued before the date of the filing of the title 11 petition is to be paid in the same order of distribution of the estate's assets as the principal amount of the related claims.
 
 Any surplus is paid to the debtor under paragraph (6).
 
@@ -75,6 +75,8 @@ Subsection (c) governs distributions in cases in which there is community proper
 Second, community claims against the debtor, to the extent not paid under the first provision, are paid from community property that is solely liable for the debts of the debtor. Third, community claims, to the extent they remain unpaid, and all other claims against the debtor, are paid from noncommunity property. Fourth, if any community claims against the debtor or the debtor's spouse remain unpaid, they are paid from whatever property remains in the estate. This would occur if community claims against the debtor's spouse are large in amount and most of the estate's property is property solely liable, under nonbankruptcy law, for debts of the debtor.
 
 The marshalling rules in this section apply only to property of the estate. However, they will provide a guide to the courts in the interpretation of proposed 11 U.S.C. 725, relating to distribution of collateral, in cases in which there is community property. If a secured creditor has a lien on both community and noncommunity property, the marshalling rules here—by analogy would dictate that the creditor be satisfied first out of community property, and then out of separate property.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -97,6 +99,8 @@ Pub. L. 99–554, §257(r), inserted reference to section 1208 of this title.
 Subsec. (c)(1). Pub. L. 98–353, §479(b)(1), substituted "Claims allowed under section 503 of this title" for "Administrative expenses".
 
 Subsec. (c)(2). Pub. L. 98–353, §479(b)(2), substituted "Allowed claims, other than claims allowed under section 503 of this title," for "Claims other than for administrative expenses".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

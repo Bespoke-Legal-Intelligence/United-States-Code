@@ -26,9 +26,13 @@ The section is rewritten to reflect expansion of authority of the Commission to 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted provisions respecting powers of the Director of the Office of Personnel Management in administering oaths in matters before the Office for provisions respecting powers of the Chairman of the Civil Service Commission and each Commissioner in administering oaths in matters before the Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -74,6 +74,8 @@ Limitation on liability of u.s.—Except as may be expressly agreed to in an Eme
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720; Pub. L. 112–239, div. C, title XXXV, §3508(g), Jan. 2, 2013, 126 Stat. 2225.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
@@ -84,5 +86,5 @@ The date of enactment of the National Defense Authorization Act for Fiscal Year 
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–84 added par. (3).
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–304 substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)" in introductory provisions and "sections 55302(a), 55304, 55305, and 55314 of this title and section 2631 of title 10"for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), and sections 901(a), 901(b), and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), and 1241b)" in par. (2).
+<b>2006</b>—Subsec. (f). Pub. L. 109–304 substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)" in introductory provisions and "sections 55302(a), 55304, 55305, and 55314 of this title and section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), and sections 901(a), 901(b), and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), and 1241b)" in par. (2).
 

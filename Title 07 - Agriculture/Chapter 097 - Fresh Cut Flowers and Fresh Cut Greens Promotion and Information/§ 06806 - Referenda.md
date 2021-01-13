@@ -34,7 +34,7 @@
 
 #### (c) Suspension or termination referenda
 
-If an order is approved in a referendum conducted under subsection (a), effective beginning on the date that is 3 years after the date of the approval, the Secretary—
+If an order is approved in a referendum conducted under subsection (a), effective beginningon the date that is 3 years after the date of the approval, the Secretary—
 
 &emsp;(1) at the discretion of the Secretary, may conduct at any time a referendum of qualified handlers required to pay assessments under the order, as provided in section 6804(h)(1) of this title, subject to the voting requirements of subsection (b), to ascertain whether qualified handlers favor suspension or termination of the order; and
 
@@ -42,7 +42,7 @@ If an order is approved in a referendum conducted under subsection (a), effectiv
 
 #### (d) Suspension or termination
 
-If, as a result of the referendum conducted under subsection (a), the Secretary determines that the order has not been approved by a simplemajority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c), the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
+If, as a result of the referendum conducted under subsection (a), the Secretary determines that the order has not been approved by a simple majority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c), the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
 
 &emsp;(1) not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
 

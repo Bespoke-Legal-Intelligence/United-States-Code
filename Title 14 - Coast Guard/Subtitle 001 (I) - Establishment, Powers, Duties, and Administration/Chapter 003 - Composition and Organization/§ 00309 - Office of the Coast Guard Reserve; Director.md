@@ -30,6 +30,8 @@ Annual Report.—The Director of the Coast Guard Reserve shall submit to the Sec
 
 (Added Pub. L. 106–65, div. A, title V, §557(a), Oct. 5, 1999, 113 Stat. 619, §53; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; renumbered §309, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, §11, 64 Stat. 407, authorized retirement of warrant officers with grade of commissioned warrant officer in case of special commendation, prior to repeal by Pub. L. 86–155, §10(a)(1), (b), Aug. 11, 1959, 73 Stat. 338, effective Nov. 1, 1959, and by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.
@@ -39,6 +41,8 @@ A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch.
 <b>2018</b>—Pub. L. 115–282 renumbered section 53 of this title as this section.
 
 <b>2002</b>—Subsecs. (b)(3), (d), (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -76,7 +76,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (2) Amount of reserve
 
-&emsp;The amount of the reserve determined under this paragraph with respect to any contractshall be determined by using the tax reserve method applicable to such contract.
+&emsp;The amount of the reserve determined under this paragraph with respect to any contract shall be determined by using the tax reserve method applicable to such contract.
 
 #### (3) Tax reserve method
 
@@ -116,7 +116,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) CARVM
 
-&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
+&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve ValuationMethod prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
@@ -178,7 +178,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified foreign contract, the amount of the reserve shall be not less than the minimum reserve required by the laws, regulations, or administrative guidance of the regulatory authority of theforeign country referred to in subparagraph (B) (but not to exceed the net level reserves for such contract).
+&emsp;&emsp;In the case of any qualified foreign contract, the amount of the reserve shall be not less than the minimum reserve required by the laws, regulations, or administrative guidance of the regulatory authority of the foreign country referred to in subparagraph (B) (but not to exceed the net level reserves for such contract).
 
 #### (B) Qualified foreign contract
 
@@ -256,7 +256,7 @@ A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjus
 
 <b>2018</b>—Subsec. (e)(5)(A)(i). Pub. L. 115–141 substituted "subparagraph (B)" for "subparagraph (C)".
 
-<b>2017</b>—Subsec. (c). Pub. L. 115–97, §13517(a)(1), directed the general amendment of the second sentence of subsec. (c), which was executed by substituting "For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association ofInsurance Commissioners as of the date the reserve is determined." for "For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit." in concluding provisions.
+<b>2017</b>—Subsec. (c). Pub. L. 115–97, §13517(a)(1), directed the general amendment of the second sentence of subsec. (c), which was executed by substituting "For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association of Insurance Commissioners as of the date the reserve is determined." for "For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit." in concluding provisions.
 
 Subsec. (d)(1), (2). Pub. L. 115–97, §13517(a)(2)(A), (C), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -340,7 +340,7 @@ Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end "When the Secret
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–97, title I, §13513(b), Dec. 22, 2017, 131 Stat. 2143, provided that: "The amendments made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13513(b), Dec. 22, 2017, 131 Stat. 2143, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 Pub. L. 115–97, title I, §13517(c), Dec. 22, 2017, 131 Stat. 2147, provided that:
 
@@ -384,7 +384,7 @@ Pub. L. 108–218, title II, §205(c), Apr. 10, 2004, 118 Stat. 610, provided th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending aftersuch date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -440,7 +440,7 @@ Statutory reserves.—For purposes of this subsection, the term 'statutory reser
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: "A company shall be treated as meeting the requirementsof section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: "A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
 &emsp;"(1) such company—
 

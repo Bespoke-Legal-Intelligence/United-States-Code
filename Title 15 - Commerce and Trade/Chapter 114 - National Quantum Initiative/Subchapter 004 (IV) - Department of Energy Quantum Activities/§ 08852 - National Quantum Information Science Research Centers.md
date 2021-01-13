@@ -26,7 +26,7 @@ A collaboration that receives an award under this section may include multiple t
 
 #### (c) Requirements
 
-To the maximum extent practicable, the Centers developed, constructed, operated, or maintained under this section shall serve the needs of the Department of Energy, industry, the academic community, and other relevant entities to create and develop processes for the purpose of advancing basic research in quantum information science and improving the competitiveness of the United States.
+To the maximum extent practicable, the Centers developed, constructed, operated, or maintained under this section shall serve the needs ofthe Department of Energy, industry, the academic community, and other relevant entities to create and develop processes for the purpose of advancing basic research in quantum information science and improving the competitiveness of the United States.
 
 #### (d) Coordination
 

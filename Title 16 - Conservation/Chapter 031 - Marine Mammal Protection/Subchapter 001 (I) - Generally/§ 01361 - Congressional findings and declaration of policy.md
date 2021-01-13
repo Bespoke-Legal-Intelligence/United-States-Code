@@ -54,7 +54,7 @@ Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: "This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the 'Marine Mammal Protection Act Amendments of 1994'."
+Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: "This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372,1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the 'Marine Mammal Protection Act Amendments of 1994'."
 
 #### Short Title of 1992 Amendments
 

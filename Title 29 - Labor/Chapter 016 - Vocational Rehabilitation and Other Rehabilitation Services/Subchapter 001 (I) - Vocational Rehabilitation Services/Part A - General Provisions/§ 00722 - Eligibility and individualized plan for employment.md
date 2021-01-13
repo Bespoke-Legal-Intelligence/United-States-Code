@@ -20,7 +20,7 @@
 
 #### (B) Responsibilities
 
-&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) of this title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
+&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) ofthis title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
 
 #### (3) Presumption of eligibility
 
@@ -44,7 +44,7 @@
 
 #### (B) Determinations by officials of other agencies
 
-&emsp;&emsp;Determinations made by officials of other agencies, particularly education officials described in section 721(a)(11)(D) of this title, regarding whether an individual satisfies one or more factors relating to whether anindividual is an individual with a disability under section 705(20)(A) of this title or an individual with a significant disability under section 705(21)(A) of this title shall be used, to the extent appropriate and consistent with the requirements of this part, in assisting the designated State unit in making such determinations.
+&emsp;&emsp;Determinations made by officials of other agencies, particularly education officials described in section 721(a)(11)(D) of this title, regarding whether an individual satisfies one or more factors relating to whether an individual is an individual with a disability under section 705(20)(A) of this title or an individual with a significant disability under section 705(21)(A) of this title shall be used, to the extent appropriate and consistent with the requirements of this part, in assisting the designated State unit in making such determinations.
 
 #### (C) Basis
 
@@ -108,7 +108,7 @@
 
 #### (2) Individuals desiring to enter the workforce
 
-&emsp;For an individual entitled to benefits under title II or XVI of the Social Security Act (42U.S.C. 401 et seq., 1381 et seq.) on the basis of a disability or blindness, the designated State unit shall provide to the individual general information on additional supports and assistance for individuals with disabilities desiring to enter the workforce, including assistance with benefits planning.
+&emsp;For an individual entitled to benefits under title II or XVI of the Social Security Act (42 U.S.C. 401 et seq., 1381 et seq.) on the basis of a disability or blindness, the designated State unit shall provide to the individual general information on additional supports and assistance for individuals with disabilities desiring to enter the workforce, including assistance with benefits planning.
 
 #### (3) Mandatory procedures
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;(ii) timelines for the achievement of the employment outcome and for the initiation of the services;
 
-&emsp;&emsp;(C) a description of the entity chosen by the eligible individual or, as appropriate, the individual's representative, that will providethe vocational rehabilitation services, and the methods used to procure such services;
+&emsp;&emsp;(C) a description of the entity chosen by the eligible individual or, as appropriate, the individual's representative, that will provide the vocational rehabilitation services, and the methods used to procure such services;
 
 &emsp;&emsp;(D) a description of criteria to evaluate progress toward achievement of the employment outcome;
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;(i) is voluntary on the part of the parties;
 
-&emsp;&emsp;&emsp;(ii) is not used to deny or delay the right of an individual to a hearing under thissubsection, or to deny any other right afforded under this subchapter; and
+&emsp;&emsp;&emsp;(ii) is not used to deny or delay the right of an individual to a hearing under this subsection, or to deny any other right afforded under this subchapter; and
 
 &emsp;&emsp;&emsp;(iii) is conducted by a qualified and impartial mediator who is trained in effective mediation techniques.
 
@@ -322,7 +322,7 @@
 
 &emsp;&emsp;&emsp;(ii) not overturn or modify the decision of the hearing officer, or part of the decision, that supports the position of the applicant or eligible individual unless the reviewing official concludes, based on clear and convincing evidence, that the decision of the impartial hearing officer is clearly erroneous on the basis of being contrary to the approved State plan, this chapter (including regulations implementing this chapter) or any State regulation or policy that is consistent with the Federal requirements specified in this subchapter;
 
-&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative orindividual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
+&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative or individual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
 
 &emsp;&emsp;&emsp;(iv) not delegate the responsibility for making the final decision to any officer or employee of the designated State unit.
 
@@ -362,7 +362,7 @@
 
 #### (B) Application
 
-&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do not apply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
+&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do notapply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
 
 #### (7) Impact on provision of services
 
@@ -400,7 +400,7 @@
 
 #### (d) Policies and procedures
 
-Each designated State agency, in consultation with the State Rehabilitation Council, if theState has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
+Each designated State agency, in consultation with the State Rehabilitation Council, if the State has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
 
 &emsp;(1) to inform each such applicant and eligible individual (including students with disabilities who are making the transition from programs under the responsibility of an educational agency to programs under the responsibility of the designated State unit), through appropriate modes of communication, about the availability of, and opportunities to exercise, informed choice, including the availability of support services for individuals with cognitive or other disabilities who require assistance in exercising informed choice, throughout the vocational rehabilitation process;
 
@@ -424,9 +424,11 @@ Each designated State agency, in consultation with the State Rehabilitation Coun
 
 (Pub. L. 93–112, title I, §102, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1138; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 113–128, title IV, §413, July 22, 2014, 128 Stat. 1649.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat.620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -479,6 +481,8 @@ Subsec. (c)(5)(A). Pub. L. 113–128, §413(c)(3)(A), added subpar. (A) and stru
 Subsec. (c)(5)(B). Pub. L. 113–128, §413(c)(3)(B), substituted "about Federal laws" for "in laws" in introductory provisions.
 
 <b>1998</b>—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Terms in Pub. L. 113–128
 

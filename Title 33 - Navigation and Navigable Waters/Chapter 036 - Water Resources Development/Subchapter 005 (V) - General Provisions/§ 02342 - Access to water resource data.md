@@ -10,7 +10,7 @@ Using available funds, the Secretary shall make publicly available, including on
 
 #### (b) Limitation
 
-Nothing in this section may be construed to compel or authorize the disclosure of data orother information determined by the Secretary to be confidential information, privileged information, law enforcement information, national security information, infrastructure security information, personal information, or information the disclosure of which is otherwise prohibited by law.
+Nothing in this section may be construed to compel or authorize the disclosure of data or other information determined by the Secretary to be confidential information, privileged information, law enforcement information, national security information, infrastructure security information, personal information, or information the disclosure of which is otherwise prohibited by law.
 
 #### (c) Timing
 
@@ -22,6 +22,8 @@ In carrying out this section, the Secretary may develop partnerships, including 
 
 (Pub. L. 110–114, title II, §2017, Nov. 8, 2007, 121 Stat. 1077; Pub. L. 114–322, title I, §1135, Dec. 16, 2016, 130 Stat. 1656.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -29,6 +31,12 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–322 amended section generally. Prior to amendment, section related to access to water resource data.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Data Transparency
+
+Pub. L. 116–260, div. AA, title I, §158(b), Dec. 27, 2020, 134 Stat. 2662, provided that: "The Secretary \[of the Army\] shall prioritize making publicly available water resources data in the custody of the Corps of Engineers, as authorized by section 2017 of the Water Resources Development Act of 2007 (33 U.S.C. 2342)."
 
 #### "Secretary" Defined
 

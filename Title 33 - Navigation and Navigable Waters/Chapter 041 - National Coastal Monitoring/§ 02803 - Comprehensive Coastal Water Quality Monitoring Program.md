@@ -148,7 +148,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (2) Consultation
 
-&emsp;The Administrator and the Under Secretary shall consult with the National Academy of Sciences, the Director of the United States Fish and Wildlife Service, the Director of the Minerals Management Service, the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary of Agriculture, theheads of any other relevant Federal or regional agencies, and the Governors of coastal States in developing the Strategy.
+&emsp;The Administrator and the Under Secretary shall consult with the National Academy of Sciences, the Director of the United States Fish and Wildlife Service, the Director of the Minerals Management Service, the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary of Agriculture, the heads of any other relevant Federal or regional agencies, and the Governors of coastal States in developing the Strategy.
 
 #### (3) Public comment
 
@@ -160,17 +160,25 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 (Pub. L. 92–532, title V, §503, as added Pub. L. 102–567, title V, §501, Oct. 29, 1992, 106 Stat. 4294.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsec. (b)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. Title III of the Act is classified generally to subchapter III (§1311 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Title IV of this Act, referred to in subsec. (d)(3)(B), is title IV of Pub. L. 92–532 which is classified generally to chapter 32A (§1447 et seq.) of Title 16, Conservation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

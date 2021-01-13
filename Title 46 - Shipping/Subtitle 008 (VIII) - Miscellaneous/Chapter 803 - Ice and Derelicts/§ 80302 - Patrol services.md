@@ -54,6 +54,8 @@ June 25, 1936, ch. 807, §2, 49 Stat. 1922; Pub. L. 89–670, §6(b)(1), Oct. 15
 
 In subsection (d), the words "Secretary of the department in which the Coast Guard is operating" are substituted for "Secretary of Transportation" because of the transfer of the Coast Guard to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249). See also sections 1 and 3 of title 14, as amended by section 1704(a) of such Act (116 Stat. 2314).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–232 struck out "of the Coast Guard" after "The Commandant".
@@ -63,6 +65,8 @@ In subsection (d), the words "Secretary of the department in which the Coast Gua
 Subsec. (c)(1). Pub. L. 113–281, §314(a)(2)(B), substituted "The ice patrol" for "An ice patrol vessel" in introductory provisions.
 
 Subsec. (d). Pub. L. 113–281, §314(a)(2)(C), substituted "aircraft" for "vessels".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

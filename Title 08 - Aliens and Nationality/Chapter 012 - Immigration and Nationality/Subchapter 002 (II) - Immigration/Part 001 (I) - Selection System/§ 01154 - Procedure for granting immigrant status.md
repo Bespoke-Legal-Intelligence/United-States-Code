@@ -2,7 +2,7 @@
 
 #### (a) Petitioning procedure
 
-(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming that an alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section 1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
+(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming that an alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
 
 (ii) An alien spouse described in the second sentence of section 1151(b)(2)(A)(i) of this title also may file a petition with the Attorney General under this subparagraph for classification of the alien (and the alien's children) under such section.
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(aaa) whose spouse lost status within the past 2 years due to an incident of domestic violence; or
 
-&emsp;&emsp;(bbb) who demonstrates a connection between the legal termination of the marriagewithin the past 2 years and battering or extreme cruelty by the lawful permanent resident spouse;
+&emsp;&emsp;(bbb) who demonstrates a connection between the legal termination of the marriage within the past 2 years and battering or extreme cruelty by the lawful permanent resident spouse;
 
 &emsp;(bb) who is a person of good moral character;
 
@@ -116,7 +116,7 @@
 
 (C) Notwithstanding section 1101(f) of this title, an act or conviction that is waivable with respect to the petitioner for purposes of a determination of the petitioner's admissibility under section 1182(a) of this title or deportability under section 1227(a) of this title shall not bar the Attorney General from finding the petitioner to be of good moral character under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty.
 
-(D)(i)(I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii) that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1), (2), or (3) of section 1153(a) of this title, whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii). No new petition shall be required to be filed.
+(D)(i)(I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii) that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1),\(2), or (3) of section 1153(a) of this title, whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii). No new petition shall be required to be filed.
 
 (II) Any individual described in subclause (I) is eligible for deferred action and work authorization.
 
@@ -130,7 +130,7 @@
 
 (iv) Any alien who benefits from this subparagraph may adjust status in accordance with subsections (a) and (c) of section 1255 of this title as an alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii).
 
-(v) For purposes of this paragraph, an individual who is not less than 21 years of age, who qualified to file a petition under subparagraph (A)(iv) or (B)(iii) as of the day before the date on which the individual attained 21 years of age, and who did not file such a petition before such day, shall be treated as having filed a petition under such subparagraph as of such day if a petition is filed for the status described in such subparagraph before the individual attains 25 years of age and the individual shows that the abuse was at least one central reason for the filingdelay. Clauses (i) through (iv) of this subparagraph shall apply to an individual described in this clause in the same manner as an individual filing a petition under subparagraph (A)(iv) or (B)(iii).
+(v) For purposes of this paragraph, an individual who is not less than 21 years of age, who qualified to file a petition under subparagraph (A)(iv) or (B)(iii) as of the day before the date on which the individual attained 21 years of age, and who did not file such a petition before such day, shall be treated as having filed a petition under such subparagraph as of such day if a petition is filed for the status described in such subparagraph before the individual attains 25 years of age and the individual shows that the abuse was at least one central reason for the filing delay. Clauses (i) through (iv) of this subparagraph shall apply to an individual described in this clause in the same manner as an individual filing a petition under subparagraph (A)(iv) or (B)(iii).
 
 (E) Any alien desiring to be classified under section 1153(b)(1)(A) of this title, or any person on behalf of such an alien, may file a petition with the Attorney General for such classification.
 
@@ -162,7 +162,7 @@
 
 (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
-(2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien, by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
+(2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien,by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
 
 &emsp;(i) a period of 5 years has elapsed after the date the alien acquired the status of an alien lawfully admitted for permanent residence, or
 
@@ -250,7 +250,7 @@ A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose appl
 
 #### (2) Exception
 
-&emsp;Paragraph (1) does not apply if the son or daughter files with the Attorney General a written statement that he or she elects not to have such conversion occur (or if it has occurred, to have such conversion revoked). Where such an election has been made, any determination with respect to the son or daughter's eligibility for admission as a family-sponsored immigrant shall be made as if such naturalization had not taken place.
+&emsp;Paragraph (1) does not apply if the son or daughter files with the Attorney General awritten statement that he or she elects not to have such conversion occur (or if it has occurred, to have such conversion revoked). Where such an election has been made, any determination with respect to the son or daughter's eligibility for admission as a family-sponsored immigrant shall be made as if such naturalization had not taken place.
 
 #### (3) Priority date
 
@@ -286,6 +286,8 @@ A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose appl
 
 (June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762; Pub. L. 111–83, title V, §568(d)(1), Oct. 28, 2009, 123 Stat. 2187; Pub. L. 113–4, title VIII, §803, Mar. 7, 2013, 127 Stat. 111; Pub. L. 113–6, div. D, title V, §563, Mar. 26, 2013, 127 Stat. 380.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -298,7 +300,7 @@ Subsection (a)(4)(D) and subsection (a)(1)(D), referred to in subsecs. (i)(1) an
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). Text read as follows: "Each petition to compete for consideration for a visa under section 1153(c) of this title shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts." See Effective and Termination Dates of 2013 Amendment note below.
+<b>2013</b>—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). Text read as follows: "Each petition to compete for consideration for a visa under section 1153(c) of this title shall be accompanied by a fee equalto $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts." See Effective and Termination Dates of 2013 Amendment note below.
 
 Subsec. (l)(2)(F), (G). Pub. L. 113–4 added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -447,6 +449,8 @@ Subsec. (d). Pub. L. 89–236 substituted provisions requiring the Attorney Gene
 Subsec. (e). Pub. L. 89–236 added subsec. (e).
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–885 provided for submission of reports to Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2013 Amendment
 

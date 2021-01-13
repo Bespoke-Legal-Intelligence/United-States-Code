@@ -50,7 +50,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(D) how students desiring scholarships or fellowships can be encouraged to work for an agency or office of the Federal Government involved in national security affairs or national security policy upon completion of their education; and
 
-&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens).
+&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced Englishlanguage studies by heritage community citizens).
 
 &emsp;(5) Encourage applications for fellowships under this chapter from graduate students having an educational background in any academic discipline, particularly in the areas of science or technology.
 
@@ -122,7 +122,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2002 Amendment
 

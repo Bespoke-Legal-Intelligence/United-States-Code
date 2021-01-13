@@ -12,7 +12,7 @@ It shall be the responsibility of the head of each Federal agency (not including
 
 &emsp;(4) consult with the Secretary with regard to the adequacy as to form and content of records kept pursuant to subsection (a)(3) of this section; and
 
-&emsp;(5) make an annual report to the Secretary with respect to occupational accidents and injuries and the agency's program under thissection. Such report shall include any report submitted under section 7902(e)(2) of title 5.
+&emsp;(5) make an annual report to the Secretary with respect to occupational accidents and injuries and the agency's program under this section. Such report shall include any report submitted under section 7902(e)(2) of title 5.
 
 #### (b) Report by Secretary to President
 
@@ -26,6 +26,8 @@ The Secretary shall have access to records and reports kept and filed by Federal
 
 (Pub. L. 91–596, §19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, §110(c), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–241, §2(b)(1), Sept. 28, 1998, 112 Stat. 1572.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (c) of this section amended section 7902 of Title 5, Government Organization and Employees.
@@ -35,6 +37,8 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 <b>1998</b>—Subsec. (a). Pub. L. 105–241 inserted "(not including the United States Postal Service)" after "each Federal agency".
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
+
+#### <b>Executive Documents</b>
 
 #### Occupational Safety and Health Programs for Federal Employees
 

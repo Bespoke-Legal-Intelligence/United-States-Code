@@ -36,7 +36,7 @@ Each advisory board under this section shall consist of persons with appropriate
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into appropriate arrangements with the National Academy ofSciences to conduct periodic reviews and assessments of—
+&emsp;The Secretary shall enter into appropriate arrangements with the National Academy of Sciences to conduct periodic reviews and assessments of—
 
 &emsp;&emsp;(A) the research, development, demonstration, and commercial application programs authorized by this Act and amendments made by this Act;
 

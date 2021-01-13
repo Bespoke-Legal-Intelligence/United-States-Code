@@ -30,6 +30,8 @@ Recordkeeping requirement.—The term "recordkeeping requirement" means a requir
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1165; amended Pub. L. 104–121, title II, §241(a)(2), Mar. 29, 1996, 110 Stat. 864.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in par. (3), is classified to section 632 of Title 15, Commerce and Trade.
@@ -38,13 +40,15 @@ Section 3 of the Small Business Act, referred to in par. (3), is classified to s
 
 <b>1996</b>—Pars. (7), (8). Pub. L. 104–121 added pars. (7) and (8).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–121, title II, §245, Mar. 29, 1996, 110 Stat. 868, provided that: "This subtitle \[subtitle D (§§241–245) of title II of Pub. L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title\] shall become effective on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment."
 
 #### Effective Date
 
-Pub. L. 96–354, §4, Sept. 19, 1980, 94 Stat. 1170, provided that: "The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981."
+Pub. L. 96–354, §4, Sept. 19, 1980, 94 Stat. 1170, provided that: "The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that therequirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981."
 
 #### Short Title of 1996 Amendment
 
@@ -96,7 +100,7 @@ Content.—The initial report under paragraph (1) shall include information with
 
 &emsp;"(4)
 
-Definitions in reports.—Each report under this subsection shall include definitions selected at the discretion of the reporting agency of the terms'enforcement actions', 'reduction or waiver', and 'small entity' as used in the report."
+Definitions in reports.—Each report under this subsection shall include definitions selected at the discretion of the reporting agency of the terms 'enforcement actions', 'reduction or waiver', and 'small entity' as used in the report."
 
 #### Assessment of Federal Regulations and Policies on Families
 
@@ -292,7 +296,7 @@ Reporting.—Not later than 1 year after the date of enactment of the Fair Minim
 
 "(b)
 
-Comprehensive Source of Information.—Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other available information on statutory and regulatory requirements affecting small entities.
+Comprehensive Source of Information.—Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other availableinformation on statutory and regulatory requirements affecting small entities.
 
 "(c)
 
@@ -418,7 +422,9 @@ Pub. L. 96–354, §2, Sept. 19, 1980, 94 Stat. 1164, provided that:
 
 &emsp;"(8) the process by which Federal regulations are developed and adopted should be reformed to require agencies to solicit the ideas and comments of small businesses, small organizations, and small governmental jurisdictions to examine the impact of proposed and existing rules on such entities, and to review the continued need for existing rules.
 
-"(b) It is the purpose of this Act \[enacting this chapter\] to establish as a principle of regulatory issuancethat agencies shall endeavor, consistent with the objectives of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration."
+"(b) It is the purpose of this Act \[enacting this chapter\] to establish as a principle of regulatory issuance that agencies shall endeavor, consistent with the objectives of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12291
 
@@ -444,7 +450,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitution provides that private property shall not be taken for public use without just compensation. Government historically has used the formal exercise of the power of eminent domain, which provides orderly processes for paying just compensation, to acquire private property for public use. Recent Supreme Court decisions, however, in reaffirming the fundamental protection of private property rights provided by the Fifth Amendment and in assessing the nature of governmental actions that have an impact on constitutionally protected property rights, have also reaffirmed that governmental actions that do not formally invoke the condemnation power, including regulations, may result in a taking for which just compensation is required.
 
-(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
+(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions onconstitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
 
 (c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
@@ -598,7 +604,7 @@ Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process
 
 (c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office of the President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
 
-Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) "Advisors" refers to such regulatory policy advisors to the President as the President and Vice President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Assistant to the President for Science and Technology; (7) the Assistant to the President for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Deputy Assistant to the President and Director of the White House Office on Environmental Policy; and (12) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
+Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) "Advisors" refers to such regulatory policy advisors to the President as the President and Vice President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Assistant to the President for Science and Technology; (7) the Assistant to the President forIntergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Deputy Assistant to the President and Director of the White House Office on Environmental Policy; and (12) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
 
 (b) "Agency," unless otherwise indicated, means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
@@ -714,7 +720,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 &emsp;&emsp;(C) The review process may be extended (1) once by no more than 30 calendar days upon the written approval of the Director and (2) at the request of the agency head.
 
-&emsp;(3) For each regulatory action that the Administrator of OIRA returns to an agency for further consideration of some or all of its provisions, the Administrator of OIRA shall provide the issuing agency a written explanation for such return, setting forth the pertinent provision of this Executive order on which OIRA is relying. If the agency head disagrees withsome or all of the bases for the return, the agency head shall so inform the Administrator of OIRA in writing.
+&emsp;(3) For each regulatory action that the Administrator of OIRA returns to an agency for further consideration of some or all of its provisions, the Administrator of OIRA shall provide the issuing agency a written explanation for such return, setting forth the pertinent provision of this Executive order on which OIRA is relying. If the agency head disagrees with some or all of the bases for the return, the agency head shall so inform the Administrator of OIRA in writing.
 
 &emsp;(4) Except as otherwise provided by law or required by a Court, in order to ensure greater openness, accessibility, and accountability in the regulatory review process, OIRA shall be governed by the following disclosure requirements:
 
@@ -762,7 +768,7 @@ Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, which provided for the reducti
 
 #### Executive Order No. 13083
 
-Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, which listed fundamental federalism principles and federalism policymaking criteria to guide agencies in formulating and implementing policies and required agencies to have a process to permit State and local governments to provide input into the development of regulatorypolicies that have federalism implications and to streamline the State and local government waiver process, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, which listed fundamental federalism principles and federalism policymaking criteria to guide agencies in formulating and implementing policies and required agencies to have a process to permit State and local governments to provide input into the development of regulatory policies that have federalism implications and to streamline the State and local government waiver process, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 #### Executive Order No. 13095
 
@@ -784,7 +790,7 @@ Sec. 2. <i>Responsibility of Executive Departments and Agencies</i>. (a) All exe
 
 Sec. 3. <i>Human Rights Inquiries and Complaints</i>. Each agency shall take lead responsibility, in coordination with other appropriate agencies, for responding to inquiries, requests for information, and complaints about violations of human rights obligations that fall within its areas of responsibility or, if the matter does not fall within its areas of responsibility, referring it to the appropriate agency for response.
 
-Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is hereby established an Interagency Working Group on Human Rights Treaties for the purpose of providing guidance, oversight, and coordination with respect to questions concerning the adherence to and implementation of human rights obligations and related matters.
+Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is hereby established an InteragencyWorking Group on Human Rights Treaties for the purpose of providing guidance, oversight, and coordination with respect to questions concerning the adherence to and implementation of human rights obligations and related matters.
 
 (b) The designee of the Assistant to the President for National Security Affairs shall chair the Interagency Working Group, which shall consist of appropriate policy and legal representatives at the Assistant Secretary level from the Department of State, the Department of Justice, the Department of Labor, the Department of Defense, the Joint Chiefs of Staff, and other agencies as the chair deems appropriate. The principal members may designate alternates to attend meetings in their stead.
 
@@ -878,7 +884,7 @@ Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the 
 
 Sec. 4. <i>Special Requirements for Preemption</i>. Agencies, in taking action that preempts State law, shall act in strict accordance with governing law.
 
-(a) Agencies shall construe, in regulations and otherwise, a Federal statute to preempt State law onlywhere the statute contains an express preemption provision or there is some other clear evidence that the Congress intended preemption of State law, or where the exercise of State authority conflicts with the exercise of Federal authority under the Federal statute.
+(a) Agencies shall construe, in regulations and otherwise, a Federal statute to preempt State law only where the statute contains an express preemption provision or there is some other clear evidence that the Congress intended preemption of State law, or where the exercise of State authority conflicts with the exercise of Federal authority under the Federal statute.
 
 (b) Where a Federal statute does not preempt State law (as addressed in subsection (a) of this section), agencies shall construe any authorization in the statute for the issuance of regulations as authorizing preemption of State law by rulemaking only when the exercise of State authority directly conflicts with the exercise of Federal authority under the Federal statute or there is clear evidence to conclude that the Congress intended the agency to have the authority to preempt State law.
 
@@ -908,7 +914,7 @@ Sec. 6. <i>Consultation.</i>
 
 &emsp;&emsp;(A) consulted with State and local officials early in the process of developing the proposed regulation;
 
-&emsp;&emsp;(B) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a federalism summary impact statement, which consists of a description of the extent of the agency's prior consultation with State and local officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of State and local officials have been met; and
+&emsp;&emsp;(B) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a federalism summary impact statement, which consists of a description of the extent of the agency's prior consultation with State and local officials, a summaryof the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of State and local officials have been met; and
 
 &emsp;&emsp;(C) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by State and local officials.
 
@@ -942,7 +948,7 @@ Sec. 9. <i>Independent Agencies</i>. Independent regulatory agencies are encoura
 
 Sec. 10. <i>General Provisions.</i>
 
-(a) This order shall supplement but not supersede the requirements contained in Executive Order 12372\("Intergovernmental Review of Federal Programs") \[31 U.S.C. 6506 note\], Executive Order 12866 ("Regulatory Planning and Review") \[set out above\], Executive Order 12988 ("Civil Justice Reform" \[28 U.S.C. 519 note\]), and OMB Circular A–19.
+(a) This order shall supplement but not supersede the requirements contained in Executive Order 12372 ("Intergovernmental Review of Federal Programs") \[31 U.S.C. 6506 note\], Executive Order 12866 ("Regulatory Planning and Review") \[set out above\], Executive Order 12988 ("Civil Justice Reform" \[28 U.S.C. 519 note\]), and OMB Circular A–19.
 
 (b) Executive Order 12612 ("Federalism"), Executive Order 12875 ("Enhancing the Intergovernmental Partnership"), Executive Order 13083 ("Federalism"), and Executive Order 13095 ("Suspension of Executive Order 13083") are revoked.
 
@@ -972,7 +978,7 @@ Sec. 3. <i>Responsibilities of Executive Department Centers for Faith and Opport
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in department programs and initiatives to the greatest extent possible;
 
-(c) propose initiatives to remove barriers identified pursuant to section 3(a) of this order, including but not limited to reform of regulations, procurement, and other internal policies and practices, and outreach activities;
+(c) propose initiatives to remove barriers identified pursuant to section 3(a) of this order, including but notlimited to reform of regulations, procurement, and other internal policies and practices, and outreach activities;
 
 (d) propose the development of innovative pilot and demonstration programs to increase the participation of faith-based and other community organizations in Federal as well as State and local initiatives; and
 
@@ -1026,7 +1032,7 @@ Sec. 3. <i>Responsibilities of Federal Agencies</i>. Consistent with the require
 
 Sec. 4. <i>Definitions</i>. Terms defined in section 601 of title 5, United States Code, including the term "agency," shall have the same meaning in this order.
 
-Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority of the Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
+Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority ofthe Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
 
 Sec. 6. <i>Reporting</i>. For the purpose of promoting compliance with this order, Advocacy shall submit a report not less than annually to the Director of the Office of Management and Budget on the extent of compliance with this order by agencies.
 
@@ -1110,7 +1116,7 @@ Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies 
 
 (e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution, as well as other applicable law, and must monitor and enforce standards regarding the relationship between religion and government in ways that avoid excessive entanglement between religious bodies and governmental entities.
 
-(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
+(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, orproselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
 
 (g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
 
@@ -1374,7 +1380,7 @@ Sec. 2. <i>Implementation</i>. (a) The Attorney General shall:
 
 Sec. 3. <i>Specific Exclusions</i>. Nothing in this order shall be construed to prohibit a taking of private property by the Federal Government, that otherwise complies with applicable law, for the purpose of:
 
-(a) public ownership or exclusive use of the property by the public, such as for a public medical facility, roadway, park, forest, governmental office building, or military reservation;
+(a) public ownership or exclusive use of the property by the public, such as for a public medical facility,roadway, park, forest, governmental office building, or military reservation;
 
 (b) projects designated for public, common carrier, public transportation, or public utility use, including those for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
 
@@ -1438,7 +1444,7 @@ Sec. 2. <i>Public Participation</i>. (a) Regulations shall be adopted through a 
 
 (c) Before issuing a notice of proposed rulemaking, each agency, where feasible and appropriate, shall seek the views of those who are likely to be affected, including those who are likely to benefit from and those who are potentially subject to such rulemaking.
 
-Sec. 3. <i>Integration and Innovation</i>. Some sectors and industries face a significant number of regulatory requirements, some of which may be redundant, inconsistent, or overlapping. Greater coordination across agencies could reduce these requirements, thus reducing costs and simplifying and harmonizing rules. In developing regulatory actions and identifying appropriate approaches, each agency shall attempt to promote such coordination, simplification, and harmonization. Each agency shall also seek to identify, as appropriate, means to achieve regulatory goals that are designed to promote innovation.
+Sec. 3. <i>Integration and Innovation</i>. Some sectors and industries face a significant number of regulatory requirements, some of which may be redundant, inconsistent, or overlapping. Greater coordination across agencies could reduce these requirements, thus reducing costs and simplifying and harmonizing rules. In developing regulatory actions and identifying appropriateapproaches, each agency shall attempt to promote such coordination, simplification, and harmonization. Each agency shall also seek to identify, as appropriate, means to achieve regulatory goals that are designed to promote innovation.
 
 Sec. 4. <i>Flexible Approaches</i>. Where relevant, feasible, and consistent with regulatory objectives, and to the extent permitted by law, each agency shall identify and consider regulatory approaches that reduce burdens and maintain flexibility and freedom of choice for the public. These approaches include warnings, appropriate default rules, and disclosure requirements as well as provision of information to the public in a form that is clear and intelligible.
 
@@ -1472,7 +1478,7 @@ Section 1. <i>Policy</i>. (a) Wise regulatory decisions depend on public partici
 
 (b) Executive Order 13563 of January 18, 2011, "Improving Regulation and Regulatory Review," directed to executive agencies, was meant to produce a regulatory system that protects "public health, welfare, safety, and our environment while promoting economic growth, innovation, competitiveness, and job creation." Independent regulatory agencies, no less than executive agencies, should promote that goal.
 
-(c) Executive Order 13563 set out general requirements directed to executive agencies concerning publicparticipation, integration and innovation, flexible approaches, and science. To the extent permitted by law, independent regulatory agencies should comply with these provisions as well.
+(c) Executive Order 13563 set out general requirements directed to executive agencies concerning public participation, integration and innovation, flexible approaches, and science. To the extent permitted by law, independent regulatory agencies should comply with these provisions as well.
 
 Sec. 2. <i>Retrospective Analyses of Existing Rules</i>. (a) To facilitate the periodic review of existing significant regulations, independent regulatory agencies should consider how best to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and to modify, streamline, expand, or repeal them in accordance with what has been learned. Such retrospective analyses, including supporting data and evaluations, should be released online whenever possible.
 
@@ -1512,7 +1518,7 @@ Sec. 2. <i>Steering Committee on Federal Infrastructure Permitting and Review Pr
 
 (a) <i>Infrastructure Projects Covered by this Order</i>. The Steering Committee shall facilitate improvements in Federal permitting and review processes for infrastructure projects in sectors including surface transportation, aviation, ports and waterways, water resource projects, renewable energy generation, electricity transmission, broadband, pipelines, and other such sectors as determined by the Steering Committee.
 
-(b) <i>Membership</i>. Each of the following agencies (Member Agencies) shall be represented on the SteeringCommittee by a Deputy Secretary or equivalent officer of the United States:
+(b) <i>Membership</i>. Each of the following agencies (Member Agencies) shall be represented on the Steering Committee by a Deputy Secretary or equivalent officer of the United States:
 
 (i) the Department of Defense;
 
@@ -1604,7 +1610,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), states that our regulatory system must protect public health, welfare, safety, and our environment while promoting economic growth, innovation, competitiveness, and job creation. In an increasingly global economy, international regulatory cooperation, consistent with domestic law and prerogatives and U.S. trade policy, can be an important means of promoting the goals of Executive Order 13563.
 
-The regulatory approaches taken by foreign governments may differ from those taken by U.S. regulatory agencies to address similar issues. In some cases, the differences between the regulatory approaches of U.S.agencies and those of their foreign counterparts might not be necessary and might impair the ability of American businesses to export and compete internationally. In meeting shared challenges involving health, safety, labor, security, environmental, and other issues, international regulatory cooperation can identify approaches that are at least as protective as those that are or would be adopted in the absence of such cooperation. International regulatory cooperation can also reduce, eliminate, or prevent unnecessary differences in regulatory requirements.
+The regulatory approaches taken by foreign governments may differ from those taken by U.S. regulatory agencies to address similar issues. In some cases, the differences between the regulatory approaches of U.S. agencies and those of their foreign counterparts might not be necessary and might impair the ability of American businesses to export and compete internationally. In meeting shared challenges involving health, safety, labor, security, environmental, and other issues, international regulatory cooperation can identify approaches that are at least as protective as those that are or would be adopted in the absence of such cooperation. International regulatory cooperation can also reduce, eliminate, or prevent unnecessary differences in regulatory requirements.
 
 Sec. 2. <i>Coordination of International Regulatory Cooperation</i>. (a) The Regulatory Working Group (Working Group) established by Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review), which was reaffirmed by Executive Order 13563, shall, as appropriate:
 
@@ -1696,7 +1702,7 @@ In response to Executive Order 13563, agencies have developed and made available
 
 As a matter of longstanding practice and to satisfy statutory obligations, many agencies engaged in periodic review of existing regulations prior to the issuance of Executive Order 13563. But further steps should be taken, consistent with law, agency resources, and regulatory priorities, to promote public participation in retrospective review, to modernize our regulatory system, and to institutionalize regular assessment of significant regulations.
 
-Sec. 2. <i>Public Participation in Retrospective Review</i>. Members of the public, including those directly and indirectly affected by regulations, as well as State, local, and tribal governments, have important information about the actual effects of existing regulations. For this reason, and consistent with Executive Order 13563, agencies shall invite, on a regular basis (to be determined by the agency head in consultation with the Office of Information and Regulatory Affairs (OIRA)), public suggestions about regulations in need of retrospective review and about appropriate modifications to such regulations. To promote an open exchange of information, retrospective analyses of regulations, including supporting data, shall be released to the public online wherever practicable.
+Sec. 2. <i>Public Participation in Retrospective Review</i>. Members of the public, including those directly and indirectly affected by regulations, as well as State, local, and tribal governments, have important information about the actual effects of existing regulations. For this reason, and consistent with Executive Order 13563, agencies shall invite, on a regular basis (to be determined by the agency head in consultation with the Office of Information and Regulatory Affairs (OIRA)),public suggestions about regulations in need of retrospective review and about appropriate modifications to such regulations. To promote an open exchange of information, retrospective analyses of regulations, including supporting data, shall be released to the public online wherever practicable.
 
 Sec. 3. <i>Setting Priorities</i>. In implementing and improving their retrospective review plans, and in considering retrospective review suggestions from the public, agencies shall give priority, consistent with law, to those initiatives that will produce significant quantifiable monetary savings or significant quantifiable reductions in paperwork burdens while protecting public health, welfare, safety, and our environment. To the extent practicable and permitted by law, agencies shall also give special consideration to initiatives that would reduce unjustified regulatory burdens or simplify or harmonize regulatory requirements imposed on small businesses. Consistent with Executive Order 13563 and Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review), agencies shall give consideration to the cumulative effects of their own regulations, including cumulative burdens, and shall to the extent practicable and consistent with law give priority to reforms that would make significant progress in reducing those burdens while protecting public health, welfare, safety, and our environment.
 
@@ -1724,7 +1730,7 @@ A growing body of evidence demonstrates that behavioral science insights—resea
 
 Where Federal policies have been designed to reflect behavioral science insights, they have substantially improved outcomes for the individuals, families, communities, and businesses those policies serve. For example, automatic enrollment and automatic escalation in retirement savings plans have made it easier to save for the future, and have helped Americans accumulate billions of dollars in additional retirement savings. Similarly, streamlining the application process for Federal financial aid has made college more financially accessible for millions of students.
 
-To more fully realize the benefits of behavioral insights and deliver better results at a lower cost for theAmerican people, the Federal Government should design its policies and programs to reflect our best understanding of how people engage with, participate in, use, and respond to those policies and programs. By improving the effectiveness and efficiency of Government, behavioral science insights can support a range of national priorities, including helping workers to find better jobs; enabling Americans to lead longer, healthier lives; improving access to educational opportunities and support for success in school; and accelerating the transition to a low-carbon economy.
+To more fully realize the benefits of behavioral insights and deliver better results at a lower cost for the American people, the Federal Government should design its policies and programs to reflect our best understanding of how people engage with, participate in, use, and respond to those policies and programs. By improving the effectiveness and efficiency of Government, behavioral science insights can support a range of national priorities, including helping workers to find better jobs; enabling Americans to lead longer, healthier lives; improving access to educational opportunities and support for success in school; and accelerating the transition to a low-carbon economy.
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States, I hereby direct the following:
 
@@ -1752,7 +1758,7 @@ Section 1. <i>Behavioral Science Insights Policy Directive</i>.
 
 (c) For policies with a regulatory component, agencies are encouraged to combine this behavioral science insights policy directive with their ongoing review of existing significant regulations to identify and reduce regulatory burdens, as appropriate and consistent with Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), and Executive Order 13610 of May 10, 2012 (Identifying and Reducing Regulatory Burdens).
 
-Sec. 2. <i>Implementation of the Behavioral Science Insights Policy Directive</i>. (a) The Social and Behavioral Sciences Team (SBST), under the National Science and Technology Council (NSTC) and chaired by the Assistant to the President for Science and Technology, shall provide agencies with advice and policy guidance to help them execute the policy objectives outlined in section 1 of this order, as appropriate.
+Sec. 2. <i>Implementation of the Behavioral Science Insights Policy Directive</i>. (a) The Social and BehavioralSciences Team (SBST), under the National Science and Technology Council (NSTC) and chaired by the Assistant to the President for Science and Technology, shall provide agencies with advice and policy guidance to help them execute the policy objectives outlined in section 1 of this order, as appropriate.
 
 (b) The NSTC shall release a yearly report summarizing agency implementation of section 1 of this order each year until 2019. Member agencies of the SBST are expected to contribute to this report.
 
@@ -1950,7 +1956,7 @@ Ex. Ord. No. 13771, Jan. 30, 2017, 82 F.R. 9339, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Budget and Accounting Act of 1921, as amended (31 U.S.C. 1101 <i>et seq</i>.), section 1105 of title 31, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. It is the policy of the executive branch to be prudent and financially responsible in theexpenditure of funds, from both public and private sources. In addition to the management of the direct expenditure of taxpayer dollars through the budgeting process, it is essential to manage the costs associated with the governmental imposition of private expenditures required to comply with Federal regulations. Toward that end, it is important that for every one new regulation issued, at least two prior regulations be identified for elimination, and that the cost of planned regulations be prudently managed and controlled through a budgeting process.
+Section 1. <i>Purpose</i>. It is the policy of the executive branch to be prudent and financially responsible in the expenditure of funds, from both public and private sources. In addition to the management of the direct expenditure of taxpayer dollars through the budgeting process, it is essential to manage the costs associated with the governmental imposition of private expenditures required to comply with Federal regulations. Toward that end, it is important that for every one new regulation issued, at least two prior regulations be identified for elimination, and that the cost of planned regulations be prudently managed and controlled through a budgeting process.
 
 Sec. 2. <i>Regulatory Cap for Fiscal Year 2017</i>. (a) Unless prohibited by law, whenever an executive department or agency (agency) publicly proposes for notice and comment or otherwise promulgates a new regulation, it shall identify at least two existing regulations to be repealed.
 
@@ -2050,7 +2056,7 @@ Sec. 3. <i>Regulatory Reform Task Forces</i>. (a) Each agency shall establish a 
 
 Sec. 4. <i>Accountability</i>. Consistent with the policy set forth in section 1 of this order, each agency should measure its progress in performing the tasks outlined in section 3 of this order.
 
-(a) Agencies listed in section 901(b)(1) of title 31, United States Code, shall incorporate in their annual performance plans (required under the Government Performance and Results Act, as amended (see 31 U.S.C. 1115(b))), performance indicators that measure progress toward the two goals listed in section 3(g) of this order. Within 60 days of the date of this order, the Director of the Office of Management and Budget (Director) shall issue guidance regarding the implementation of this subsection. Such guidance may also address how agencies not otherwise covered under this subsection should be held accountable for compliance with this order.
+(a) Agencies listed in section 901(b)(1) of title 31, United States Code, shall incorporate in their annual performance plans (required under the Government Performance and Results Act, as amended (see 31 U.S.C. 1115(b))), performance indicators that measure progress toward the two goals listed in section 3(g) of this order. Within 60 days of the date of this order, the Director ofthe Office of Management and Budget (Director) shall issue guidance regarding the implementation of this subsection. Such guidance may also address how agencies not otherwise covered under this subsection should be held accountable for compliance with this order.
 
 (b) The head of each agency shall consider the progress toward the two goals listed in section 3(g) of this order in assessing the performance of the Regulatory Reform Task Force and, to the extent permitted by law, those individuals responsible for developing and issuing agency regulations.
 
@@ -2164,7 +2170,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Departments and agencies (agencies) in the executive branch adopt regulations that impose legally binding requirements on the public even though, in our constitutional democracy, only Congress is vested with the legislative power. The Administrative Procedure Act (APA) \[see subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of this title\] generally requires agencies, in exercising that solemn responsibility, to engage in notice-and-comment rulemaking to provide public notice of proposed regulations under section 553 of title 5, United States Code, allow interested parties an opportunity to comment, consider and respond to significant comments, and publish final regulations in the Federal Register.
 
-Agencies may clarify existing obligations through non-binding guidance documents, which the APA exempts from notice-and-comment requirements. Yet agencies have sometimes used this authority inappropriately in attempts to regulate the public without following the rulemaking procedures of the APA. Even when accompanied by a disclaimer that it is non-binding, a guidance document issued by an agency may carry the implicit threat of enforcement action if the regulated public does not comply. Moreover, the public frequently has insufficient notice of guidance documents, which are not always published in the Federal Register or distributed to all regulated parties.
+Agencies may clarify existing obligations through non-binding guidance documents, which the APA exempts from notice-and-comment requirements. Yet agencies have sometimes used this authority inappropriately in attempts to regulate the public without following the rulemaking procedures of the APA. Even when accompanied by a disclaimer that it is non-binding, a guidance document issued by an agency may carry the implicit threat of enforcement action if the regulated public does not comply. Moreover, the publicfrequently has insufficient notice of guidance documents, which are not always published in the Federal Register or distributed to all regulated parties.
 
 Americans deserve an open and fair regulatory process that imposes new obligations on the public only when consistent with applicable law and after an agency follows appropriate procedures. Therefore, it is the policy of the executive branch, to the extent consistent with applicable law, to require that agencies treat guidance documents as non-binding both in law and in practice, except as incorporated into a contract, take public input into account when appropriate in formulating guidance documents, and make guidance documents readily available to the public. Agencies may impose legally binding requirements on the public only through regulations and on parties on a case-by-case basis through adjudications, and only after appropriate process, except as authorized by law or as incorporated into a contract.
 
@@ -2200,7 +2206,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order:
 
 Sec. 3. <i>Ensuring Transparent Use of Guidance Documents</i>. (a) Within 120 days of the date on which the Office of Management and Budget (OMB) issues an implementing memorandum under section 6 of this order, each agency or agency component, as appropriate, shall establish or maintain on its website a single, searchable, indexed database that contains or links to all guidance documents in effect from such agency or component. The website shall note that guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.
 
-(b) Within 120 days of the date on which OMB issues an implementing memorandum under section 6 of this order, each agency shall review its guidance documents and, consistent with applicable law, rescind those guidance documents that it determines should no longer be in effect. No agency shall retain in effect any guidance document without including it in the relevant databasereferred to in subsection (a) of this section, nor shall any agency, in the future, issue a guidance document without including it in the relevant database. No agency may cite, use, or rely on guidance documents that are rescinded, except to establish historical facts. Within 240 days of the date on which OMB issues an implementing memorandum, an agency may reinstate a guidance document rescinded under this subsection without complying with any procedures adopted or imposed pursuant to section 4 of this order, to the extent consistent with applicable law, and shall include the guidance document in the relevant database.
+(b) Within 120 days of the date on which OMB issues an implementing memorandum under section 6 of this order, each agency shall review its guidance documents and, consistent with applicable law, rescind those guidance documents that it determines should no longer be in effect. No agency shall retain in effect any guidance document without including it in the relevant database referred to in subsection (a) of this section, nor shall any agency, in the future, issue a guidance document without including it in the relevant database. No agency may cite, use, or rely on guidance documents that are rescinded, except to establish historical facts. Within 240 days of the date on which OMB issues an implementing memorandum, an agency may reinstate a guidance document rescinded under this subsection without complying with any procedures adopted or imposed pursuant to section 4 of this order, to the extent consistent with applicable law, and shall include the guidance document in the relevant database.
 
 (c) The Director of OMB (Director), or the Director's designee, may waive compliance with subsections (a) and (b) of this section for particular guidance documents or categories of guidance documents, or extend the deadlines set forth in those subsections.
 
@@ -2291,6 +2297,288 @@ Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 (ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13924. Regulatory Relief To Support Economic Recovery
+
+Ex. Ord. No. 13924, May 19, 2020, 85 F.R. 31353, provided:
+
+In December 2019, a novel coronavirus known as SARS–CoV–2 ("the virus") was first detected in Wuhan, Hubei Province, People's Republic of China, causing an outbreak of the disease COVID–19, which has now spread globally. The Secretary of Health and Human Services declared a public health emergency on January 31, 2020, under section 319 of the Public Health Service Act (42 U.S.C. 247d), in response to COVID–19. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared that the COVID–19 outbreak in the United States constituted a national emergency, beginning March 1, 2020.
+
+I have taken sweeping action to control the spread of the virus in the United States, including by suspending entry of certain foreign nationals who present a risk of transmitting the virus; implementing policies to accelerate acquisition of personal protective equipment and bring new diagnostic capabilities to laboratories; and pressing forward rapidly in the search for effective treatments and vaccines. Our States, tribes, territories, local communities, health authorities, hospitals, doctors and nurses, manufacturers, and critical infrastructure workers have all performed heroic service on the front lines battling COVID–19. Executive departments and agencies (agencies), under my leadership, have helped them by taking hundreds of administrative actions since March, many of which provided flexibility regarding burdensome requirements that stood in the way of implementing the most effective strategies to stop the virus's spread.
+
+The virus has attacked our Nation's economy as well as its health. Many businesses and non-profits have been forced to close or lay off workers, and in the last 8 weeks, the Nation has seen more than 36 million new unemployment insurance claims. I have worked with the Congress to provide vital relief to small businesses to keep workers employed and to bring assistance to those who have lost their jobs. On April 16, 2020, I announced Guidelines for Opening Up America Again, a framework for safely re-opening the country and putting millions of Americans back to work.
+
+Just as we continue to battle COVID–19 itself, so too must we now join together to overcome the effects the virus has had on our economy. Success will require the efforts not only of the Federal Government, but also of every State, tribe, territory, and locality; of businesses, non-profits, and houses of worship; and of the American people. To aid those efforts, agencies must continue to remove barriers to the greatest engine of economic prosperity the world has ever known: the innovation, initiative, and drive of the American people.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to combat the economic consequences of COVID–19 with the same vigor and resourcefulness with which the fight against COVID–19 itself has been waged. Agencies should address this economic emergency by rescinding, modifying, waiving, or providing exemptions from regulations and other requirements that may inhibit economic recovery, consistent with applicable law and with protection of the public health and safety, with national and homeland security, and with budgetary priorities and operational feasibility. They should also give businesses, especially small businesses, the confidence they need to re-open by providing guidance on what the law requires; by recognizing the efforts of businesses to comply with often-complex regulations in complicated and swiftly changing circumstances; and by committing to fairness in administrative enforcement and adjudication.
+
+Sec. 2. <i>Definitions</i>. (a) "Emergency authorities" means any statutory or regulatory authorities or exceptions that authorize action in an emergency, in exigent circumstances, for good cause, or in similar situations.
+
+(b) "Agency" has the meaning given in section 3502 of title 44, United States Code.
+
+(c) "Administrative enforcement" includes investigations, assertions of statutory or regulatory violations, and adjudications by adjudicators as defined herein.
+
+(d) "Adjudicator" means an agency official who makes a determination that has legal consequence, as defined in section 2(d) of Executive Order 13892 of October 9, 2019 (Promoting the Rule of Law Through Transparency and Fairness in Civil Administrative Enforcement and Adjudication) \[5 U.S.C. 551 note\], for a person, except that it does not mean the head of an agency, a member of a multi-member board that heads an agency, or a Presidential appointee.
+
+(e) "Pre-enforcement ruling" has the meaning given it in section 2(f) of Executive Order 13892.
+
+(f) "Regulatory standard" includes any requirement imposed on the public by a Federal regulation, as defined in section 2(g) of Executive Order 13892, or any recommendation, best practice, standard, or other, similar provision of a Federal guidance document as defined in section 2(c) of Executive Order 13892.
+
+(g) "Unfair surprise" has the meaning given it in section 2(e) of Executive Order 13892.
+
+Sec. 3. <i>Federal Response</i>. The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, any emergency authorities that I have previously invoked in response to the COVID–19 outbreak or that are otherwise available to them to support the economic response to the COVID–19 outbreak. The heads of all agencies are also encouraged to promote economic recovery through non-regulatory actions.
+
+Sec. 4. <i>Rescission and waiver of regulatory standards</i>. The heads of all agencies shall identify regulatory standards that may inhibit economic recovery and shall consider taking appropriate action, consistent with applicable law, including by issuing proposed rules as necessary, to temporarily or permanently rescind, modify, waive, or exempt persons or entities from those requirements, and to consider exercising appropriate temporary enforcement discretion or appropriate temporary extensions of time as provided for in enforceable agreements with respect to those requirements, for the purpose of promoting job creation and economic growth, insofar as doing so is consistent with the law and with the policy considerations identified in section 1 of this order.
+
+Sec. 5. <i>Compliance assistance for regulated entities</i>. (a) The heads of all agencies, excluding the Department of Justice, shall accelerate procedures by which a regulated person or entity may receive a pre-enforcement ruling under Executive Order 13892 with respect to whether proposed conduct in response to the COVID–19 outbreak, including any response to legislative or executive economic stimulus actions, is consistent with statutes and regulations administered by the agency,insofar as doing so is consistent with the law and with the policy considerations identified in section 1 of this order. Pre-enforcement rulings under this subsection may be issued without regard to the requirements of section 6(a) of Executive Order 13892.
+
+(b) The heads of all agencies shall consider whether to formulate, and make public, policies of enforcement discretion that, as permitted by law and as appropriate in the context of particular statutory and regulatory programs and the policy considerations identified in section 1 of this order, decline enforcement against persons and entities that have attempted in reasonable good faith to comply with applicable statutory and regulatory standards, including those persons and entities acting in conformity with a pre-enforcement ruling.
+
+(c) As a result of the ongoing COVID–19 pandemic, the Department of Health and Human Services, including through the Centers for Disease Control and Prevention, and other agencies have issued, or plan to issue in the future, guidance on action suggested to stem the transmission and spread of that disease. In formulating any policies of enforcement discretion under subsection (b) of this section, an agency head should consider a situation in which a person or entity makes a reasonable attempt to comply with such guidance, which the person or entity reasonably deems applicable to its circumstances, to be a rationale for declining enforcement under subsection (b) of this section. Non-adherence to guidance shall not by itself form the basis for an enforcement action by a Federal agency.
+
+Sec. 6. <i>Fairness in Administrative Enforcement and Adjudication</i>. The heads of all agencies shall consider the principles of fairness in administrative enforcement and adjudication listed below, and revise their procedures and practices in light of them, consistent with applicable law and as they deem appropriate in the context of particular statutory and regulatory programs and the policy considerations identified in section 1 of this order.
+
+(a) The Government should bear the burden of proving an alleged violation of law; the subject of enforcement should not bear the burden of proving compliance.
+
+(b) Administrative enforcement should be prompt and fair.
+
+(c) Administrative adjudicators should be independent of enforcement staff.
+
+(d) Consistent with any executive branch confidentiality interests, the Government should provide favorable relevant evidence in possession of the agency to the subject of an administrative enforcement action.
+
+(e) All rules of evidence and procedure should be public, clear, and effective.
+
+(f) Penalties should be proportionate, transparent, and imposed in adherence to consistent standards and only as authorized by law.
+
+(g) Administrative enforcement should be free of improper Government coercion.
+
+(h) Liability should be imposed only for violations of statutes or duly issued regulations, after notice and an opportunity to respond.
+
+(i) Administrative enforcement should be free of unfair surprise.
+
+(j) Agencies must be accountable for their administrative enforcement decisions.
+
+Sec. 7. <i>Review of Regulatory Response</i>. The heads of all agencies shall review any regulatory standards they have temporarily rescinded, suspended, modified, or waived during the public health emergency, any such actions they take pursuant to section 4 of this order, and other regulatory flexibilities they have implemented in response to COVID–19, whether before or after issuance of this order, and determine which, if any, would promote economic recovery if made permanent, insofar as doing so is consistent with the policy considerations identified in section 1 of this order, and report the results of such review to the Director of the Office of Management and Budget, the Assistant to the President for Domestic Policy, and the Assistant to the President for Economic Policy.
+
+Sec. 8. <i>Implementation</i>. The Director of the Office of Management and Budget, in consultation with the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, shall monitor compliance with this order and may also issue memoranda providing guidance for implementing this order, including by setting deadlines for the reviews and reports required under section 7 of this order.
+
+Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Notwithstanding any other provision in this order, nothing in this order shall apply to any action that pertains to foreign or military affairs, or to a national security or homeland security function of the United States (other than procurement actions and actions involving the import or export of non-defense articles and services).
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13927. Accelerating the Nation's Economic Recovery From the COVID–19 Emergency by Expediting Infrastructure Investments and Other Activities
+
+Ex. Ord. No. 13927, June 4, 2020, 85 F.R. 35165, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and authorize as follows:
+
+Section 1. <i>Purpose</i>. The 2019 novel coronavirus known as SARS–CoV–2, the virus causing outbreaks of the disease COVID–19, has significantly disrupted the lives of Americans. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared, pursuant to the National Emergencies Act, 50 U.S.C. 1601 et seq., that the COVID–19 outbreak in the United States constituted a national emergency that posed a threat to our national security ("the national emergency"). I also determined that same day that the COVID–19 outbreak constituted an emergency of nationwide scope, pursuant to section 501(b) of the \[Robert T.\] Stafford \[Disaster Relief and Emergency Assistance\] Act (42 U.S.C. 5191(b)).
+
+Since I declared this national emergency, the American people have united behind a policy of mitigation strategies, such as social distancing, to reduce the spread of COVID–19. The unavoidable result of the COVID–19 outbreak and these necessary mitigation measures has been a dramatic downturn in our economy. National unemployment claims have reached historic levels. In the days between the national emergency declaration and May 23, 2020, more than 41 million Americans filed for unemployment, and the unemployment rate reached 14.7 percent. In light of this and other developments, I have determined that, without intervention, the United States faces the likelihood of a potentially protracted economic recovery with persistent high unemployment.
+
+From the beginning of my Administration, I have focused on reforming and streamlining an outdated regulatory system that has held back our economy with needless paperwork and costly delays. Antiquated regulations and bureaucratic practices have hindered American infrastructure investments, kept America's building trades workers from working, and prevented our citizens from developing and enjoying the benefits of world-class infrastructure.
+
+The need for continued progress in this streamlining effort is all the more acute now, due to the ongoing economic crisis. Unnecessary regulatory delays will deny our citizens opportunities for jobs and economic security, keeping millions of Americans out of work and hindering our economic recovery from the national emergency.
+
+In tandem with this regulatory reform, I will continue to use existing legal authorities to respond to the full dimensions of the national emergency and its economic consequences. These authorities include statutes and regulations that allow for expedited government decision making in exigent circumstances.
+
+Sec. 2. <i>Policy</i>. Agencies, including executive departments, should take all appropriate steps to use their lawful emergency authorities and other authorities to respond to the national emergency and to facilitate the Nation's economic recovery. As set forth in this order, agencies should take all reasonable measures to speed infrastructure investments and to speed other actions in addition to such investments that will strengthen the economy and return Americans to work, while providing appropriate protection for public health and safety, natural resources, and the environment, as required by law. For purposes of this order, the term "agencies" has the meaning given that term in section 3502(1), of title 44, United States Code, except for the agencies described in section 3502(5) of title 44.
+
+Sec. 3. <i>Expediting the Delivery of Transportation Infrastructure Projects</i>. (a) To facilitate the Nation's economic recovery, the Secretary of Transportation shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated highway and other infrastructure projects that are within the authority of the Secretary to perform or to advance.
+
+(b) No later than 30 days of the date of this order \[June 4, 2020\], the Secretary of Transportation shall provide a summary report, listing all projects that have been expedited pursuant to subsection (a) of this section ("expedited transportation projects"), to the Director of the Office of Management and Budget (OMB), the Assistant to the President for Economic Policy, and the Chairman of the Council on Environmental Quality (CEQ). Such report may be combined, as appropriate, with any other reports required by this order.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (b) of this section, the Secretary of Transportation shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ that shall list any additions or other changes to the list described in subsection (b) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency, and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 4. <i>Expediting the Delivery of Civil Works Projects Within the Purview of the Army Corps of Engineers</i>. (a) To facilitate the Nation's economic recovery, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated civil works projects that are within the authority of the Secretary of the Army to perform or to advance.
+
+(b) No later than 30 days of the date of this order, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall provide a summary report, listing all such projects that have been expedited ("expedited Army Corps of Engineers projects"), to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (b) of this section, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list the status of all expedited Army Corps of Engineers projects and shall list any additions or other changes to the list described in subsection (b) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 5. <i>Expediting the Delivery of Infrastructure and Other Projects on Federal Lands</i>. (a) As used in this section, the term "Federal lands" means any land or interests in land owned by the United States, including leasehold interests held by the United States, except Indian trust land.
+
+(b) To facilitate the Nation's economic recovery, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated infrastructure, energy, environmental, and natural resources projects on Federal lands that are within the authority of each of the Secretaries to perform or to advance.
+
+(c) No later than 30 days of the date of this order, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall each provide a summary report, listing all such projects that have been expedited ("expedited Federal lands projects"), to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(d) Within 30 days following the submission of the initial summary report described in subsection (c) of this section, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall each provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list the status of all expedited Federal lands projects and shall list any additions or other changes to the list described in subsection (c) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 6. <i>National Environmental Policy Act (NEPA) Emergency Regulations and Emergency Procedures</i>. The Council on Environmental Quality has provided appropriate flexibility to agencies for complying with the National Environmental Policy Act \[of 1969\] (NEPA), 42 U.S.C. 4321 <i>et seq</i>., in emergency situations. Such flexibility is expressly authorized in CEQ's regulations, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of NEPA (the "NEPA regulations"), which were first issued in 1978. These regulations provide that when emergency circumstances make it necessary to take actions with significant environmental impacts without observing the regulations, agencies may consult with CEQ to make alternative arrangements to take such actions. Using this authority, CEQ has appropriately approved alternative arrangements in a wide variety of pressing emergency situations. These emergencies have included not only natural disasters and threats to the national defense, but also threats to human and animal health, energy security, agriculture and farmers, and employment and economic prosperity.
+
+(a) No later than 30 days of the date of this order, the heads of all agencies:
+
+(i) shall identify planned or potential actions to facilitate the Nation's economic recovery that:
+
+&emsp;(A) may be subject to emergency treatment as alternative arrangements pursuant to CEQ's NEPA regulations and agencies' own NEPA procedures;
+
+&emsp;(B) may be subject to statutory exemptions from NEPA;
+
+&emsp;(C) may be subject to the categorical exclusions that agencies have included in their NEPA procedures pursuant to the NEPA regulations;
+
+&emsp;(D) may be covered by already completed NEPA analyses that obviate the need for new analyses; or
+
+&emsp;(E) may otherwise use concise and focused NEPA environmental analyses; and
+
+(ii) shall provide a summary report, listing such actions, to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) To facilitate the Nation's economic recovery, the heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, emergency procedures, statutory exemptions, categorical exclusions, analyses that have already been completed, and concise and focused analyses, consistent with NEPA, CEQ's NEPA regulations, and agencies' NEPA procedures.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, each agency shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list actions taken within the categories described in subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions within these categories. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Chairman of CEQ shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of CEQ's NEPA emergency regulations.
+
+Sec. 7. <i>Endangered Species Act (ESA) Emergency Consultation Regulations</i>. (a) No later than 30 days of the date of this order, the heads of all agencies:
+
+(i) shall identify planned or potential actions to facilitate the Nation's economic recovery that may be subject to the regulation on consultations in emergencies, see 50 C.F.R. 402.05, promulgated by the Secretary of the Interior and the Secretary of Commerce pursuant to the Endangered Species Act \[of 1973\] (ESA), 16 U.S.C. 1531 <i>et seq</i>.; and
+
+(ii) shall provide a summary report, listing such actions, to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. (The Secretary of the Interior and the Secretary of Commerce shall provide such summary reports, listing such actions on behalf of their respective agencies, to each other and for internal use throughout their respective agencies, as well as to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ.) Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, the ESA regulation on consultations in emergencies, to facilitate the Nation's economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, the head of each agency shall provide a status report to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. (The Secretary of the Interior and the Secretary of Commerce shall provide such status reports, listing such actions on behalf of their respective agencies, to each other and for internal use throughout their respective agencies, as well as to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ.) Each such report shall list actions taken within the categories described in subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions within these categories. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Secretary of the Interior shall ensure that the Director of the Fish and Wildlife Service, or the Director's authorized representative, shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the ESA's emergency regulations. The Secretary of Commerce shall ensure that the Assistant Administrator for Fisheries for the National Marine Fisheries Service, or the Assistant Administrator's authorized representative, shall be available for such consultation and to take such other action.
+
+Sec. 8. <i>Emergency Regulations and Nationwide Permits Under the Clean Water Act (CWA) and Other Statutes Administered by the Army Corps of Engineers</i>. (a) No later than 30 days of the date of this order, the heads of all agencies, including the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works:
+
+(i) shall identify planned or potential actions to facilitate the Nation's economic recovery that may be subject to emergency treatment pursuant to the regulations and nationwide permits promulgated by the Army Corps of Engineers, or jointly by the Corps and the Environmental Protection Agency (EPA), pursuant to section 404 of the Clean Water Act, 33 U.S.C. 1344, section 10 of the Rivers and Harbors Act of March 3, 1899 \[probably means Rivers and Harbors Appropriation Act of 1899\], 33 U.S.C. 403, and section 103 of the Marine Protection\[,\] Research\[,\] and Sanctuaries Act of 1972, 33 U.S.C. 1413 (collectively, the "emergency Army Corps permitting provisions"); and
+
+(ii) shall provide a summary report, listing such actions, to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the OMB Director; the Assistant to the President for Economic Policy; and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, the emergency Army Corps permitting provisions, to facilitate the Nation's economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, each agency shall provide a status report to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the OMB Director; the Assistant to the President for Economic Policy; and the Chairman of CEQ. Each such report shall list actions taken within subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions that fall within subsection (a)(i). Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the emergency Army Corps permitting provisions. The Administrator of the EPA shall provide prompt cooperation to the Secretary of the Army and to agencies in connection with the discharge of the responsibilities described in this section.
+
+Sec. 9. <i>Other Authorities Providing for Emergency or Expedited Treatment of Infrastructure Improvements and Other Activities</i>. (a) No later than 30 days of the date of this order, all heads of agencies:
+
+(i) shall review all statutes, regulations, and guidance documents that may provide for emergency or expedited treatment (including waivers, exemptions, or other streamlining) with regard to agency actions pertinent to infrastructure, energy, environmental, or natural resources matters;
+
+(ii) shall identify planned or potential actions, including actions to facilitate the Nation's economic recovery, that may be subject to emergency or expedited treatment (including waivers, exemptions, or other streamlining) pursuant to those statutes and regulations; and
+
+(iii) shall provide a summary report, listing such actions, to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) Consistent with applicable law, agencies shall use such statutes and regulations to the fullest extent permitted to facilitate the Nation's economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(iii) of this section, each agency shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list actions taken within subsection (a)(ii) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions that fall within subsection (a)(ii). Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the OMB Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13966. Increasing Economic and Geographic Mobility
+
+Ex. Ord. No. 13966, Dec. 14, 2020, 85 F.R. 81777, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 305 of title 5, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy and Principles</i>. As expressed in Executive Order 13777 of February 24, 2017 (Enforcing the Regulatory Reform Agenda) \[set out above\], it is the policy of the United States to alleviate unnecessary regulatory burdens placed on the American people. Overly burdensome occupational licensing requirements can impede job creation and slow economic growth, which undermines our Nation's prosperity and the economic well-being of the American people. Such regulations can prevent American workers and job seekers from earning a living, maximizing their personal and economic potential, and achieving the American Dream. The purpose of this order is to reduce the burden of occupational regulations in order to promote the free practice of commerce, lower consumer costs, and increase economic and geographic mobility, including for military spouses.
+
+My Administration is committed to continuing this important work by partnering with State, local, territorial, and tribal leaders throughout the country to eliminate harmful occupational regulations, which are frequently designed to protect politically connected interest groups. To this end, in October 2019, my Administration announced the establishment of the Governors' Initiative on Regulatory Innovation, which works with State, local, and tribal leaders to advance occupational licensing reforms, better align State and Federal regulations, and eliminate unnecessary regulations that drive up consumer costs.
+
+Occupational regulations can protect practitioners from competition rather than protect the public from malpractice. Unfortunately, the number of occupational regulations has substantially increased over the last few decades. Since the 1950s, the percentage of jobs requiring a government-mandated occupational license has increased from less than 5 percent to between 25 and 30 percent. By requiring workers to acquire new licenses when they move to a new jurisdiction, occupational regulations reduce worker mobility, disproportionately harm low-income Americans, and are particularly burdensome to military spouses who must relocate to support the service members committed to keeping our country safe. Additionally, blanket prohibitions that prevent individuals with criminal records from obtaining occupational licenses may exacerbate disparities in employment opportunity and increase the likelihood of recidivism, particularly as regulatory barriers to enter lower- and middle-income occupations are associated with higher recidivism rates. Licensing requirements unnecessary to protect consumers from significant and demonstrable harm also frequently impose expensive educational requirements on potential job seekers, even for occupations with limited future earnings potential. According to recent research, licensing requirements have cost our country an estimated 2.85 million jobs and over $200 billion annually in increased consumer costs.
+
+Therefore, it is the policy of the United States Government to support occupational regulation reform throughout the Nation, building on occupational licensing reforms enacted most recently in Arizona, Florida, Iowa, Missouri, and South Dakota, guided by six principles:
+
+<i>Principle 1</i>. All recognized occupational licensure boards should be subject to active supervision of \[sic\] a designated governmental agency or office.
+
+<i>Principle 2</i>. All occupational licensure boards recognized by a State, territorial, or tribal government that oversee personal qualifications related to the practice of an occupation should adopt and maintain the criteria and methods of occupational regulation that are least restrictive to competition sufficient to protect consumers from significant and demonstrable harm to their health and safety. The policies and procedures of such boards should be designed to protect consumer and worker safety and to encourage competition.
+
+<i>Principle 3</i>. State, territorial, and tribal governments should review existing occupational regulations, including associated scope-of-practice provisions, to ensure that their requirements are the least restrictive to competition sufficient to protect consumers from significant and demonstrable harm. State, territorial, and tribal governments should also regularly review and analyze all occupational regulations, including associated personal qualifications required to obtain an occupational license, to ensure the adoption of the least restrictive requirements necessary to protect consumers from significant and demonstrable harm.
+
+<i>Principle 4</i>. Individuals with criminal records should be encouraged to submit to the appropriate licensure board a preliminary application for an occupational license for a determination as to whether the criminal record would preclude their attainment of the appropriate occupational license.
+
+<i>Principle 5</i>. A State, territorial, or tribal government should issue an occupational license to a person in the discipline applied for and at the same level of practice if the individual satisfies four requirements:
+
+(a) the individual holds an occupational license for that discipline from another jurisdiction in the United States and is in good standing;
+
+(b) the individual verifies having met, as applicable, the minimum examination, education, work, or clinical-supervision requirements imposed by the State, territory, or tribe;
+
+(c) the individual:
+
+(i) has not had the license previously revoked or suspended;
+
+(ii) has not been disciplined related to the license by any other regulating entity; and
+
+(iii) is not subject to any pending complaint, allegation, or investigation related to the license; and
+
+(d) the individual pays all applicable fees required to obtain the new license.
+
+<i>Principle 6</i>. Accommodations should be made for any applicant for an occupational license who is the spouse of an active duty member of the uniformed services and who is relocating with the member due to the member's official permanent change of station orders.
+
+Sec. 2. <i>Review of and Report on Authorities, Regulations, Guidance, and Policies</i>. The head of each executive department and agency (agency) shall, within 90 days of the date of this order \[Dec. 14, 2020\] and every 2 years thereafter:
+
+(a) review the agency's authorities, regulations, guidance, and polices to identify changes necessary to ensure alignment with the principles set forth in section 1 of this order; and
+
+(b) submit a report to the Director of the Office of Management and Budget (Director of OMB), the Assistant to the President for Domestic Policy, and the Assistant to the President and Director of Intergovernmental Affairs (Director of IGA) identifying all necessary changes identified pursuant to subsection (a) of this section.
+
+Sec. 3. <i>Identification and Report of Opportunities to Encourage Occupational Regulation Reform</i>. (a) Within 90 days of the date of this order, and every 2 years thereafter, the head of each agency shall submit a report to the Director of OMB, the Assistant to the President for Domestic Policy, and the Director of IGA identifying a list of recommended actions available to any and all agencies to recognize and reward State, territorial, and tribal governments that have in place policies and procedures regarding occupational regulation that are consistent with the principles set forth in section 1 of this order; and
+
+(b) Within 120 days of the date of this order, and every 2 years thereafter, the Assistant to the President for Domestic Policy, in consultation with the Secretary of Commerce, the Secretary of Labor, the Director of OMB, the Administrator of the Small Business Administration, the Director of IGA, and the heads of other agencies and offices as appropriate, shall submit a report to the President identifying:
+
+(i) recommended changes to Federal law, regulations, guidance, and other policies to ensure alignment with the principles set forth in section 1 of this order;
+
+(ii) recommended actions to be taken by agencies to recognize and reward State, territorial, and tribal governments that have in place policies and procedures regarding occupational regulation that are consistent with the principles set forth in section 1 of this order; and
+
+(iii) a list of criteria that may be used to evaluate whether a State, territorial, or tribal government has in place policies and procedures that are consistent with the principles set forth in section 1 of this order.
+
+Sec. 4. <i>Implementation of Recommendations to Recognize and Reward State, Territorial, and Tribal Regulatory Reform</i>. (a) Within 180 days of the date of this order, and every 2 years thereafter, the Administrator of the Small Business Administration, in consultation with the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, and the heads of other agencies as appropriate, shall seek and report on information from State, territorial, and tribal governments regarding whether they have in place policies and procedures consistent with the principles set forth in section 1 of this order and shall make the report publicly available, including on agencies' websites. The information sought shall be consistent with the criteria identified as required by section 3(b)(iii) of this order.
+
+(b) Consistent with applicable law, and to the extent that the President approves any of the actions recommended pursuant to section 3(b)(ii) of this order, agencies shall implement such actions for the purpose of recognizing and rewarding a State, territorial, or tribal government that has in place policies and procedures regarding occupational regulation that are consistent with the principles set forth in section 1 of this order.
+
+Sec. 5. <i>Definitions</i>. For the purposes of this order:
+
+(a) "Active supervision" means:
+
+(i) reviewing proposed occupational licensure board rules, policies, or other regulatory actions that may restrict market competition prior to issuance;
+
+(ii) ensuring that any entity seeking to impose occupational licensing criteria adopts the criteria that are least restrictive to competition sufficient to protect consumers from significant and demonstrable harm to their health or safety; and
+
+(iii) analyzing, where information is readily available, the effects of proposed rules, policies, and other regulatory actions on employment opportunities, consumer costs, market competition, and administrative costs.
+
+(b) "Agency" has the meaning given that term in section 3502(1) of title 44, United States Code, except that the term does not include the agencies described in section 3502(5) of title 44, United States Code, other than the Bureau of Consumer Financial Protection.
+
+(c) "Occupational license" means a license, registration, or certification without which an individual lacks the legal permission of a State, local, territorial, or tribal government to perform certain defined services for compensation.
+
+(d) "Occupational regulation" includes:
+
+(i) licensing or government certification, by which a government body requires personal qualifications in order to be permitted to practice an occupation; and
+
+(ii) registration, bonding, or inspections, by which a government body does not require personal qualifications in order to be permitted to practice an occupation.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -2518,7 +2806,7 @@ Memorandum of President of the United States, May 17, 2013, 78 F.R. 30733, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Reliable, safe, and resilient infrastructure is the backbone of an economy built to last. Investing in our Nation's infrastructure serves as an engine for job creation and economic growth, while bringing immediate and long-term economic benefits to communities across the country. The quality of our infrastructure is critical to maintaining our Nation's competitive edge in a global economy and to securing our path to energy independence. In taking steps to improve our infrastructure, we must remember that the protection and continued enjoyment of our Nation's environmental, historical, and cultural resources remain an equally important driver of economic opportunity, resiliency, and quality of life.
+Reliable, safe, and resilient infrastructure is the backbone of an economy built to last. Investing in our Nation's infrastructure serves as an engine for job creation and economic growth, while bringing immediate and long-term economic benefits to communities across the country. The quality of our infrastructure iscritical to maintaining our Nation's competitive edge in a global economy and to securing our path to energy independence. In taking steps to improve our infrastructure, we must remember that the protection and continued enjoyment of our Nation's environmental, historical, and cultural resources remain an equally important driver of economic opportunity, resiliency, and quality of life.
 
 Through the implementation of Executive Order 13604 of March 22, 2012 (Improving Performance of Federal Permitting and Review of Infrastructure Projects), executive departments and agencies (agencies) have achieved better outcomes for communities and the environment and realized substantial time savings in review and permitting by prioritizing the deployment of resources to specific sectors and projects, and by implementing best-management practices.
 
@@ -2652,7 +2940,7 @@ Sec. 3. <i>Federal Action to Support Predevelopment Activities</i>. Agencies sha
 
 (f) the other members of the Working Group established in section 3 of my memorandum of July 17, 2014 (Expanding Public-Private Collaboration on Infrastructure Development and Financing), shall take such steps as appropriate to clarify program eligibilities related to predevelopment activities for nonfederal domestic infrastructure assets.
 
-Sec. 4. <i>Implementation, Public Education, and Best Practices</i>. The Departments of Agriculture, Commerce, Labor, Housing and Urban Development, Transportation, Energy, and Homeland Security, and the Environmental Protection Agency shall develop plans for implementing the requirements of this memorandum, providing technical assistance to nonfederal actors engaged in predevelopment activities, and educating grantees and the public on the benefits of predevelopment and the Federal resources available for these activities. These agencies shall also work together to develop a guide for nonfederal actors undertaking nonfederal predevelopment activities that includes best practices on how to evaluate and compare traditional and alternative financing strategies. No later than 60 days after the date of this memorandum, these agencies shall provide these plans and the best practice guide to the Director of the National Economic Council. Subsequently, these agencies shall provide regular updates to the Director of the NationalEconomic Council on their progress in increasing support for predevelopment activities.
+Sec. 4. <i>Implementation, Public Education, and Best Practices</i>. The Departments of Agriculture, Commerce, Labor, Housing and Urban Development, Transportation, Energy, and Homeland Security, and the Environmental Protection Agency shall develop plans for implementing the requirements of this memorandum, providing technical assistance to nonfederal actors engaged in predevelopment activities, and educating grantees and the public on the benefits of predevelopment and the Federal resources available for these activities. These agencies shall also work together to develop a guide for nonfederal actors undertaking nonfederal predevelopment activities that includes best practices on how to evaluate and compare traditional and alternative financing strategies. No later than 60 days after the date of this memorandum, these agencies shall provide these plans and the best practice guide to the Director of the National Economic Council. Subsequently, these agencies shall provide regular updates to the Director of the National Economic Council on their progress in increasing support for predevelopment activities.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

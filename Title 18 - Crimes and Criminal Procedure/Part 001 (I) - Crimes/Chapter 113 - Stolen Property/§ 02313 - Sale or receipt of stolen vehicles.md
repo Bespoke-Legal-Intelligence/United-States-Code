@@ -20,6 +20,8 @@ The first sentence of said section 408, providing the short title, and the fifth
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177 substituted "motor vehicle, vessel, or aircraft" for "motor vehicle or aircraft".

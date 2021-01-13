@@ -1,8 +1,10 @@
 ### §5122. Personal services in office of Speaker; payments
 
-There shall be paid from the applicable accounts of the House of Representatives until otherwise provided by law, for personal services in the office of the Speaker of the House, an additional basic sum of $10,000 per annum.
+There shall be paid from the applicable accounts of the House of Representatives untilotherwise provided by law, for personal services in the office of the Speaker of the House, an additional basic sum of $10,000 per annum.
 
 (Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693; Pub. L. 104–186, title II, §204(14), Aug. 20, 1996, 110 Stat. 1732.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

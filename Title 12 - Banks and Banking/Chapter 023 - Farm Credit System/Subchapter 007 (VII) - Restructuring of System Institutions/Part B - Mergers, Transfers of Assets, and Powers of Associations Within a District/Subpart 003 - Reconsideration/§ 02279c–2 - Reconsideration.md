@@ -44,7 +44,9 @@ A stockholder vote in favor of—
 
 &emsp;If a petition for reconsideration of such vote is either not filed prior to the 60th day after the vote or, if timely filed, is not signed by at least 15 percent of the stockholders, the merger, transfer, or termination shall become effective in accordance with the plan of merger, transfer, or termination.
 
-(Pub. L. 92–181, title VII, §7.9, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1648;amended Pub. L. 100–399, title IV, §408(n), (o), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 115–334, title V, §5411(40), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title VII, §7.9, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, §408(n), (o), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 115–334, title V, §5411(40), Dec. 20, 2018, 132 Stat. 4683.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -67,6 +69,8 @@ Pub. L. 100–399, §408(n)(4), substituted "section 2279f" for "section 2279f�
 Subsec. (a)(7). Pub. L. 100–399, §408(n)(5), redesignated par. (7) as (6).
 
 Subsec. (b)(2). Pub. L. 100–399, §408(o), struck out comma before "shall not take effect" and substituted "such banks or" for "such".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

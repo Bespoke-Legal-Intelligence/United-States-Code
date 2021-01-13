@@ -24,7 +24,7 @@ Not later than 9 months after August 3, 2007, and based upon the previous and on
 
 #### (c) Contents
 
-In the National Strategy for Public Transportation Security, the Secretary shall describe prioritized goals, objectives, policies, actions, and schedules to improve the security of public transportation.
+In the National Strategy for Public Transportation Security, the Secretary shall describeprioritized goals, objectives, policies, actions, and schedules to improve the security of public transportation.
 
 #### (d) Responsibilities
 
@@ -43,6 +43,8 @@ In developing the National Strategy for Public Transportation Security, the Secr
 There is authorized to be appropriated to the Secretary to carry out this section $2,000,000 for fiscal year 2008.
 
 (Pub. L. 110–53, title XIV, §1404, Aug. 3, 2007, 121 Stat. 401.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

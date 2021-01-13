@@ -120,7 +120,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Prohibition.—No person may provide any information (including the sale or rentalof any name or address) derived from a list described in subparagraph (B) to another person for commercial use.
+Prohibition.—No person may provide any information (including the sale or rental of any name or address) derived from a list described in subparagraph (B) to another person for commercial use.
 
 &emsp;&emsp;(B)
 
@@ -147,6 +147,8 @@ In general.—Any promoter—
 Enforcement.—The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
 
 (Added Pub. L. 106–168, title I, §108(a), Dec. 12, 1999, 113 Stat. 1814.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

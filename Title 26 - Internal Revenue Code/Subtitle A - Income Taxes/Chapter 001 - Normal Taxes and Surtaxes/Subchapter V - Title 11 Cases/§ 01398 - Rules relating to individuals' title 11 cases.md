@@ -62,7 +62,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (F) Annualization
 
-&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph\(A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
+&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph (A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
 
 #### (3) Commencement date defined
 
@@ -160,7 +160,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (i) Debtor succeeds to tax attributes of estate
 
-In the case of a termination of an estate, the debtor shall succeed to and take into account the items referred to in paragraphs (1), (2), (3), (4), (5), and (6) of subsection (g) in a manner similar to that provided in such paragraphs (but taking into account that the transfer is from the estate to the debtor instead of from the debtor to the estate). In addition, the debtor shall succeed to and take into account the other tax attributes of the estate, to the extent provided in regulations prescribed by the Secretary as necessary or appropriate to carry out the purposes of this section.
+In the case of a termination of an estate, the debtor shall succeed to and take into account the items referred to in paragraphs (1), (2), (3), (4), (5), and (6) of subsection (g) in a manner similar to that provided in such paragraphs (but taking into account that the transfer is from the estate to the debtor instead of from the debtor to the estate). In addition, the debtor shall succeed to and take into account the othertax attributes of the estate, to the extent provided in regulations prescribed by the Secretary as necessary or appropriate to carry out the purposes of this section.
 
 #### (j) Other special rules
 

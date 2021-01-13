@@ -50,6 +50,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–158, §2(b), Mar. 27, 2018, 132 Stat. 1242, added item 1355. Item was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language amending the analysis for subchapter III of this chapter.

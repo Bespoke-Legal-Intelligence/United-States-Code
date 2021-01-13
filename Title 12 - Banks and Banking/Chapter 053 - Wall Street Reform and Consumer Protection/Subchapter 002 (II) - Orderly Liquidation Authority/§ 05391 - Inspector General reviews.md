@@ -58,7 +58,7 @@
 
 #### (3) Reports and testimony
 
-&emsp;The Inspector General of the Department of the Treasury shall include in the semiannualreports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+&emsp;The Inspector General of the Department of the Treasury shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
 
 #### (4) Termination of responsibilities
 
@@ -84,6 +84,8 @@
 
 (Pub. L. 111–203, title II, §211, July 21, 2010, 124 Stat. 1514.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (d)(1), (2), (4)(B), (5), (e)(1), (2), and (f)(2), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
@@ -95,6 +97,8 @@ The Inspector General Act of 1978, referred to in subsecs. (d)(3) and (e)(3), is
 #### Codification
 
 Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of section 211 of Pub. L. 111–203 amended section 4403 of this title and section 1032 of title 18, Crimes and Criminal Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

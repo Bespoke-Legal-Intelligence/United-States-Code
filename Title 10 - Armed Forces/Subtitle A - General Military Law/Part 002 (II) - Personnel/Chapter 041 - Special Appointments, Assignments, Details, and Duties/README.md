@@ -6,23 +6,20 @@
 | [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
 | [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
 | [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
-| \[714. | Repealed.\] |
-| [715\.](%C2%A7%2000715%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md) | Attending Physician to the Congress: grade <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [714\.](%C2%A7%2000714%20-%20Senior%20leaders%20of%20the%20Department%20of%20Defense%20and%20other%20specified%20persons%20authority%20to%20provide%20protection%20within%20the%20United%20States.md) | Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States. |
+| [715\.](%C2%A7%2000715%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md) | Attending Physician to the Congress: grade. |
 | [716\.](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md) | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
 | [717\.](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md) | Members of the armed forces: participation in international sports. |
 | \[718. | Repealed.\] |
 | [719\.](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration. |
 | \[720 to 722. Repealed.\] |  |
-| 714\.<sup>2</sup> | Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States. |
+| [723\.](%C2%A7%2000723%20-%20Support%20of%20Federal%20authorities%20in%20response%20to%20civil%20disturbances%20requirement%20for%20use%20of%20members%20of%20the%20Armed%20Forces%20and%20Federal%20law%E2%80%A6.md) | Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §§1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title V, §508(b), Aug. 13, 2018, 132 Stat. 1749, added item 715.
 
@@ -198,10 +195,6 @@ Covered Legislative Detail or Fellowship Defined.—In this section, the term 'c
 
 &emsp;"(2) A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> See 2016 Amendment note below.</i>
-
 
 ---
 
@@ -220,3 +213,4 @@ Covered Legislative Detail or Fellowship Defined.—In this section, the term 'c
 - [&sect; 00720 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(g)(1), Dec. 23, 2016, 130 Stat. 2103](%C2%A7%2000720%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28g%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202103.md)
 - [&sect; 00721 - Repealed. Pub. L. 111&#8211;84, div. A, title V, &sect;502(i)(1), Oct. 28, 2009, 123 Stat. 2276](%C2%A7%2000721%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28i%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202276.md)
 - [&sect; 00722 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(h)(1), Dec. 23, 2016, 130 Stat. 2103](%C2%A7%2000722%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28h%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202103.md)
+- [&sect; 00723 - Support of Federal authorities in response to civil disturbances requirement for use of members of the Armed Forces and Federal law&#8230;](%C2%A7%2000723%20-%20Support%20of%20Federal%20authorities%20in%20response%20to%20civil%20disturbances%20requirement%20for%20use%20of%20members%20of%20the%20Armed%20Forces%20and%20Federal%20law%E2%80%A6.md)

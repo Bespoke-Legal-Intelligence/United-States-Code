@@ -46,6 +46,110 @@
 
 &emsp;Nothing in this chapter shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
 
+#### (6) Public-private partnership for waste, fraud, and abuse detection
+
+#### (A) In general
+
+&emsp;&emsp;Under the program described in paragraph (1), there is established a public-private partnership (in this paragraph referred to as the "partnership") of health plans, Federal and State agencies, law enforcement agencies, health care anti-fraud organizations, and any other entity determined appropriate by the Secretary (in this paragraph referred to as "partners") for purposes of detecting and preventing health care waste, fraud, and abuse.
+
+#### (B) Contract with trusted third party
+
+&emsp;&emsp;In carrying out the partnership, the Secretary shall enter into a contract with a trusted third party for purposes of carrying out the duties of the partnership described in subparagraph (C).
+
+#### (C) Duties of partnership
+
+&emsp;&emsp;The partnership shall—
+
+&emsp;&emsp;&emsp;(i) provide technical and operational support to facilitate data sharing between partners in the partnership;
+
+&emsp;&emsp;&emsp;(ii) analyze data so shared to identify fraudulent and aberrant billing patterns;
+
+&emsp;&emsp;&emsp;(iii) conduct aggregate analyses of health care data so shared across Federal, State, and private health plans for purposes of detecting fraud, waste, and abuse schemes;
+
+&emsp;&emsp;&emsp;(iv) identify outlier trends and potential vulnerabilities of partners in the partnership with respect to such schemes;
+
+&emsp;&emsp;&emsp;(v) refer specific cases of potential unlawful conduct to appropriate governmental entities;
+
+&emsp;&emsp;&emsp;(vi) convene, not less than annually, meetings with partners in the partnership for purposes of providing updates on the partnership's work and facilitating information sharing between the partners;
+
+&emsp;&emsp;&emsp;(vii) enter into data sharing and data use agreements with partners in the partnership in such a manner so as to ensure thepartnership has access to data necessary to identify waste, fraud, and abuse while maintaining the confidentiality and integrity of such data;
+
+&emsp;&emsp;&emsp;(viii) provide partners in the partnership with plan-specific, confidential feedback on any aberrant billing patterns or potential fraud identified by the partnership with respect to such partner;
+
+&emsp;&emsp;&emsp;(ix) establish a process by which entities described in subparagraph (A) may enter the partnership and requirements such entities must meet to enter the partnership;
+
+&emsp;&emsp;&emsp;(x) provide appropriate training, outreach, and education to partners based on the results of data analyses described in clauses (ii) and (iii); and
+
+&emsp;&emsp;&emsp;(xi) perform such other duties as the Secretary determines appropriate.
+
+#### (D) Substance use disorder treatment analysis
+
+&emsp;&emsp;Not later than 2 years after December 27, 2020, the trusted third party with a contract in effect under subparagraph (B) shall perform an analysis of aberrant or fraudulent billing patterns and trends with respect to providers and suppliers of substance use disorder treatments from data shared with the partnership.
+
+#### (E) Executive board
+
+#### (i) Executive board composition
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;There shall be an executive board of the partnership comprised of representatives of the Federal Government and representatives of the private sector selected by the Secretary.
+
+#### (II) Chairs
+
+&emsp;&emsp;&emsp;&emsp;The executive board shall be co-chaired by one Federal Government official and one representative from the private sector.
+
+#### (ii) Meetings
+
+&emsp;&emsp;&emsp;The executive board of the partnership shall meet at least once per year.
+
+#### (iii) Executive board duties
+
+&emsp;&emsp;&emsp;The duties of the executive board shall include the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Providing strategic direction for the partnership, including membership criteria and a mission statement.
+
+&emsp;&emsp;&emsp;&emsp;(II) Communicating with the leadership of the Department of Health and Human Services and the Department of Justice and the various private health sector associations.
+
+#### (F) Reports
+
+&emsp;&emsp;Not later than January 1, 2023, and every 2 years thereafter, the Secretary shall submit to Congress and make available on the public website of the Centers for Medicare \& Medicaid Services a report containing—
+
+&emsp;&emsp;&emsp;(i) a review of activities conducted by the partnership over the 2-year period ending on the date of the submission of such report, including any progress to any objectives established by the partnership;
+
+&emsp;&emsp;&emsp;(ii) any savings voluntarily reported by health plans participating in the partnership attributable to the partnership during such period;
+
+&emsp;&emsp;&emsp;(iii) any savings to the Federal Government attributable to the partnership during such period;
+
+&emsp;&emsp;&emsp;(iv) any other outcomes attributable to the partnership, as determined by the Secretary, during such period; and
+
+&emsp;&emsp;&emsp;(v) a strategic plan for the 2-year period beginning on the day after the date of the submission of such report, including a description of any emerging fraud and abuse schemes, trends, or practices that the partnership intends to study during such period.
+
+#### (G) Funding
+
+&emsp;&emsp;The partnership shall be funded by amounts otherwise made available to the Secretary for carrying out the program described in paragraph (1).
+
+#### (H) Transitional provisions
+
+&emsp;&emsp;To the extent consistent with this subsection, all functions, personnel, assets, liabilities, and administrative actions applicable on the date before December 27, 2020, to the National Fraud Prevention Partnership established on September 17, 2012, by charter of the Secretary shall be transferred to the partnership established under subparagraph (A) as of December 27, 2020.
+
+#### (I) Nonapplicability of FACA
+
+&emsp;&emsp;The provisions of the Federal Advisory Committee Act shall not apply to the partnership established by subparagraph (A).
+
+#### (J) Implementation
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may implement the partnership established by subparagraph (A) by program instruction or otherwise.
+
+#### (K) Definition
+
+&emsp;&emsp;For purposes of this paragraph, the term "trusted third party" means an entity that—
+
+&emsp;&emsp;&emsp;(i) demonstrates the capability to carry out the duties of the partnership described in subparagraph (C);
+
+&emsp;&emsp;&emsp;(ii) complies with such conflict of interest standards determined appropriate by the Secretary; and
+
+&emsp;&emsp;&emsp;(iii) meets such other requirements as the Secretary may prescribe.
+
 #### (b) Additional use of funds by Inspector General
 
 #### (1) Reimbursements for investigations
@@ -54,7 +158,7 @@
 
 #### (2) Crediting
 
-&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement for costs of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
+&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement forcosts of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
 
 #### (c) "Health plan" defined
 
@@ -66,13 +170,17 @@ For purposes of this section, the term "health plan" means a plan or program tha
 
 &emsp;(3) a membership agreement with a health maintenance organization or other prepaid health plan.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992; amended Pub. L. 111–148, title VI, §6403(c), Mar. 23, 2010, 124 Stat. 766.)
+(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992; amended Pub. L. 111–148, title VI, §6403(c), Mar. 23, 2010, 124 Stat. 766; Pub. L. 116–260, div. CC, title I, §124(a), Dec. 27, 2020, 134 Stat. 2957.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Paragraphs (3) through (9) of section 6 of the Act probably mean paragraphs (3) through (9) of section 6(a) of the Act, which set out various activities authorized to be performed by Inspectors General.
 
+The Federal Advisory Committee Act, referred to in subsec. (a)(6)(I), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(6). Pub. L. 116–260 added par. (6).
 
 <b>2010</b>—Subsec. (a)(1)(C) to (E). Pub. L. 111–148 inserted "and" at end of subpar. (C), substituted period for ", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title."
 

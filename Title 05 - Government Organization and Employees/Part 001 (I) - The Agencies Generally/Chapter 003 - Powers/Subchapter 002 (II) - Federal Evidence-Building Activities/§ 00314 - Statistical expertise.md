@@ -10,6 +10,8 @@ Membership on Interagency Council on Statistical Policy.—Each statistical offi
 
 (Added Pub. L. 115–435, title I, §101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of this title.

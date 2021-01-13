@@ -26,6 +26,8 @@ In subsection (b)(2), the word "appropriate" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".

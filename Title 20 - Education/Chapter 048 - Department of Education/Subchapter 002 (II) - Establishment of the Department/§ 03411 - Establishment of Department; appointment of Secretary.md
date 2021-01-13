@@ -18,7 +18,7 @@ Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Depart
 
 #### Executive Order No. 13230
 
-Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, §4(a), Oct. 19, 2010, 75 F.R. 65420, set out below.
+Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, §4(a), Oct. 19, 2010, 75 F.R. 65420, formerly set out below.
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
@@ -32,121 +32,13 @@ Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, extended term until S
 
 Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
-#### Ex. Ord. No. 13555. White House Initiative on Educational Excellence for Hispanics
+#### Executive Order No. 13555
 
-Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, to restore the country to its role as the global leader in education, to strengthen the Nation by expanding educational opportunities and improving educational outcomes for Hispanics and Latinos (Hispanics) of all ages, and to help ensure that all Hispanics receive an education that properly prepares them for college, productive careers, and satisfying lives, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
-
-Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
-
-Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
-
-Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
-
-(a) <i>Establishment</i>. There is established the White House Initiative on Educational Excellence for Hispanics (Initiative), to be housed in the Department of Education (Department). The mission of the Initiative shall be to help restore the United States to its role as the global leader in education and to strengthen the Nation by expanding educational opportunities and improving educational outcomes for Hispanics of all ages and by helping to ensure that all Hispanics receive a complete and competitive education that prepares them for college, a career, and productive and satisfying lives.
-
-(b) <i>Initiative Administration</i>. There shall be an Executive Director of the Initiative, to be appointed by the Secretary of Education (Secretary). The Initiative shall be advised by the Commission established under section 3 of this order and supported by the Working Group established under subsection (c) of this section.The Department shall provide the staff, resources, and assistance for the Initiative and the Working Group. To the extent permitted by law, departments, agencies, and offices represented on the Working Group shall provide resources, including personnel detailed to the Initiative, to assist the Department in meeting the objectives of this order.
-
-(c) <i>Interagency Working Group.</i>
-
-(1) There is established the Federal Interagency Working Group on Educational Excellence for Hispanics (Working Group), which shall be convened and chaired by the Initiative's Executive Director.
-
-(2) The Working Group shall consist of senior officials from the Department, the White House Domestic Policy Council, the Department of Labor, and the Department of Health and Human Services, as well as such additional departments, agencies, and offices as the President may designate. Senior officials shall be designated by the heads of their respective departments, agencies, and offices.
-
-(3) The Initiative's Executive Director may establish subgroups of the Working Group to focus on different aspects of the educational system or educational challenges facing Hispanics, such as early childhood education, K?12 \[sic\] education, higher education, career and technical education, language acquisition, and adult education.
-
-(d) <i>Initiative Objectives.</i>
-
-(1) To expand educational opportunities, improve education outcomes, and deliver a complete and competitive education for all Hispanics, the Initiative shall, consistent with law, promote, encourage, and undertake efforts designed to meet the following objectives:
-
-&emsp;(i) increasing general understanding of the causes of the educational challenges faced by Hispanic students;
-
-&emsp;(ii) increasing the percentage of Hispanic children who enter kindergarten ready for success by improving access by Hispanics to high-quality programs and services that encourage the early learning and development of children from birth through age 5;
-
-&emsp;(iii) implementing successful and innovative education reform strategies and practices in America's public schools to ensure that Hispanic students, like their peers, receive a rigorous and well-rounded education, and have access to student support services that will prepare them for college, a career, and civic participation;
-
-&emsp;(iv) ensuring that all Hispanic students have access to excellent teachers and school leaders, in part by supporting efforts to improve the recruitment, preparation, development, and retention of successful Hispanic teachers and school leaders and other effective teachers and school leaders responsible for the education of Hispanic students;
-
-&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youths in their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
-
-&emsp;(vi) increasing college access and success for Hispanic students and providing support to help ensure that a greater percentage of Hispanics complete college and contribute to the goal of having America again lead the world in the proportion of college graduates by 2020, in part through strategies to strengthen the capacity of Hispanic-Serving Institutions, community colleges, and other institutions of higher education serving large numbers of Hispanic students; and
-
-&emsp;(vii) enhancing the educational and life opportunities of Hispanics by fostering positive family and community engagement, improving the quality of, and expanding access to, adult education, literacy, and career and technical education, as well as increasing opportunities for education and career advancement in the fields of science, technology, engineering, and mathematics.
-
-(2) In working to fulfill its mission and objectives, the Initiative shall, consistent with law:
-
-&emsp;(i) help ensure that Federal programs and initiatives administered by the Department and other agencies are serving and meeting the needs of Hispanic children, youths, and adults;
-
-&emsp;(ii) work closely with the Executive Office of the President on key Administration priorities related to the education of Hispanics;
-
-&emsp;(iii) increase the Hispanic community's participation in, and capacity to participate in, the Department's programs and education-related programs at other executive departments and agencies;
-
-&emsp;(iv) advise Department officials and, through the Working Group, other agency officials on issues related to the Hispanic community and the educational attainment of Hispanic students;
-
-&emsp;(v) advise the Secretary on the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies designed to improve educational opportunities and outcomes for Hispanics of all ages;
-
-&emsp;(vi) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve Hispanics' readiness for school, college, and career, as well as their college persistence and completion; and
-
-&emsp;(vii) develop a national network of individuals, organizations, and communities to share and implement best practices related to the education of Hispanics.
-
-(3) The Initiative shall periodically publish reports on its activities. The Secretary and the Executive Director of the Initiative, in consultation with the Interagency Working Group and the Chair of the Commission established under section 3 of this order, may develop and submit to the President recommendations designed to advance and promote educational opportunities and attainment for Hispanics, including recommendations for short- and long-term initiatives.
-
-(e) <i>Collaboration Among White House Initiatives</i>. The White House Initiatives on Educational Excellence for Hispanics, Historically Black Colleges and Universities, Tribal Colleges and Universities, and Asian-American and Pacific Islanders shall work together whenever appropriate in light of their shared objectives.
-
-Sec. 3. <i>President's Advisory Commission on Educational Excellence for Hispanics</i>. There is established the President's Advisory Commission on Educational Excellence for Hispanics (Commission) in the Department.
-
-(a) <i>Commission Mission and Scope</i>. The Commission shall advise the President and the Secretary on matters pertaining to the educational attainment of the Hispanic community, including:
-
-(1) developing, implementing, and coordinating educational programs and initiatives at the Department and other agencies to improve educational opportunities and outcomes for Hispanics of all ages;
-
-(2) increasing the participation of the Hispanic community and Hispanic-Serving Institutions in the Department's programs and in education programs at other agencies;
-
-(3) engaging the philanthropic, business, nonprofit, and education communities in a national dialogue regarding the mission and objectives of this order; and
-
-(4) establishing partnerships with public, private, philanthropic, and nonprofit stakeholders to meet the mission and policy objectives of this order.
-
-The Commission shall meet periodically, but at least twice a year, and may work through task forces composed exclusively of Commission members, as appropriate.
-
-(b) <i>Commission Membership and Chair.</i>
-
-(1) The Commission shall consist of no more than 30 members appointed by the President. The Commission may include individuals with relevant experience or subject matter expertise that the President deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education, career and technical education, and adult education), labor organizations, research institutions, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
-
-(2) The President shall designate one of the members to serve as Chair of the Commission, who shall work with the Initiative's Executive Director to convene regular meetings of the Commission, determine its agenda, and direct its work, consistent with this order.
-
-(c) <i>Commission Administration</i>. The Executive Director of the Initiative shall also serve as the Executive Director of the Commission and administer the work of the Commission. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
-
-Sec. 4. <i>General Provisions.</i>
-
-(a) This order supersedes Executive Order 13230 of October 12, 2001.
-
-(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Ex. Ord. No. 13634. Reestablishment of Advisory Commission
-
-Ex. Ord. No. 13634, Dec. 21, 2012, 77 F.R. 77249, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Reestablishing the President's Advisory Commission on Educational Excellence for Hispanics</i>. The President's Advisory Commission on Educational Excellence for Hispanics (Commission), as set forth under the provisions of Executive Order 13555 of October 19, 2010, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Commission on October 19, 2012, are hereby reappointed to the Commission as reestablished by this order, as if the Commission had continued without termination through the date of this Executive Order.
-
-Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(1) the authority granted by law to an executive department, agency, or the head thereof; or
-
-(2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, which established the White House Initiative on Educational Excellence for Hispanics and the President's Advisory Commission on Educational Excellence for Hispanics in the Department of Education and established the Federal Interagency Working Group on Educational Excellence for Hispanics, was superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, set out below.
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, §1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, set out below.
 
 Previous extensions of term of President's Advisory Commission on Educational Excellence for Hispanics were contained in the following prior Executive Orders:
 
@@ -156,6 +48,8 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
+Ex. Ord. No. 13634, Dec. 21, 2012, 77 F.R. 77249, reestablished Commission and extended term until Sept. 30, 2013.
+
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 
 Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, provided:
@@ -164,7 +58,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Over the course of America's history, African American men and women have strengthened our Nation, including by leading reforms, overcoming obstacles, and breaking down barriers. In the less than 60 years since the <i>Brown</i> v. <i>Board of Education</i> decision put America on a path toward equal educational opportunity, America's educational system has undergone a remarkable transformation, and many African American children who attended the substandard segregated schools of the 1950s have grown up to see their children attend integrated elementary and secondary schools, colleges, and universities.
 
-However, substantial obstacles to equal educational opportunity still remain in America's educational system. African Americans lack equal access to highly effective teachers and principals, safe schools, and challenging college-preparatory classes, and they disproportionately experience school discipline and referrals to special education. African American student achievement not only lags behind that of their domestic peers by an average of two grade levels, but also behind students in almost every other developed nation. Over a third of African American students do not graduate from high school on time with a regular high school diploma, and only four percent of African American high school graduates interested in college are college-ready across a range of subjects. An even greater number of African American males do not graduate with a regular high school diploma, and African American males also experience disparate rates of incarceration.
+However, substantial obstacles to equal educational opportunity still remain in America's educational system. African Americans lack equal access to highly effective teachers and principals, safe schools, and challenging college-preparatory classes, and they disproportionately experience school discipline and referrals to special education. African American student achievement not only lags behind that of their domestic peers by an average of two grade levels, but also behind students in almost every other developed nation. Over a third of African American students do not graduate from high school on time with a regular high school diploma, and only four percent of African American high school graduates interested in college are college-ready across a range of subjects. An even greaternumber of African American males do not graduate with a regular high school diploma, and African American males also experience disparate rates of incarceration.
 
 Significantly improving the educational outcomes of African Americans will provide substantial benefits for our country by, among other things, increasing college completion rates, productivity, employment rates, and the number of African American teachers. Enhanced educational outcomes lead to more productive careers, improved economic opportunity, and greater social well-being for all Americans. Complementing the role of Historically Black Colleges and Universities (HBCUs) in preparing generations of African American students for successful careers, and the work of my Administration's separate White House Initiative on Historically Black Colleges and Universities, this new Initiative's focus on improving all the sequential levels of education will produce a more effective educational continuum for all African American students.
 
@@ -281,6 +175,184 @@ Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30,
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+#### Ex. Ord. No. 13935. White House Hispanic Prosperity Initiative
+
+Ex. Ord. No. 13935, July 9, 2020, 85 F.R. 42683, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve Hispanic Americans' access to educational and economic opportunities, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The success of Hispanic Americans is integral to the economic future of our country. As more than 60 million Hispanics live in the United States today, Hispanics are the largest minority group in the country. Hispanics are also the Nation's youngest major racial or ethnic group. Generations of Hispanics constituting different backgrounds and cultures have contributed to building a strong and prosperous America. Their collective contributions continue a legacy of inspiration that is a cherished part of the American experience.
+
+While we celebrate the many ways Hispanic Americans have contributed to our Nation, we also recognize that they face challenges in accessing educational and economic opportunities. In the last 3 years, my Administration has supported school choice, Hispanic-Serving Institutions (HSIs), and new career pathways, including apprenticeships and work-based learning initiatives, because quality education options offering multiple pathways to economic success are critical to developing our Nation's potential for the jobs of tomorrow. My Administration has also supported investment in economically distressed communities, including through Opportunity Zones, and economic opportunities for small and minority-owned businesses. The initiative set forth in this order increases emphasis on the connection between educational and economic opportunities, and exploring and promoting opportunities for Hispanic Americans, both through and outside traditional education options, that lead to economic prosperity. Today, Americans have more paths to prosperity than any previous generation, and it is necessary to ensure that Hispanic Americans have every opportunity to access these pathways and to fulfill their educational and economic aspirations.
+
+Sec. 2. <i>White House Hispanic Prosperity Initiative</i>. There is established the White House Hispanic Prosperity Initiative (Initiative), housed in the Department of Education (Department).
+
+(a) The mission of the Initiative shall be to improve access by Hispanic Americans to educational and economic opportunities. Consistent with its mission, the Initiative shall:
+
+(i) identify and promote educational and workforce development practices that have improved educational, professional, and economic outcomes for Hispanic Americans;
+
+(ii) encourage private-sector initiatives and foster public-private partnerships that improve access to educational and economic opportunities for Hispanic Americans;
+
+(iii) develop a national network of individuals, organizations, and communities, with which to consult and collaborate regarding practices and policies that improve access to educational and economic opportunities for Hispanic Americans;
+
+(iv) monitor the development, implementation, and coordination of Federal Government educational, workforce, and business development programs designed to improve outcomes for Hispanic Americans; and
+
+(v) advise the President, through the Secretary of Education (Secretary), on issues of importance to Hispanic Americans and policies relating to Hispanic Americans' prosperity.
+
+(b) The Initiative shall be led by an Executive Director, designated by the Secretary. The Executive Director shall also serve as Executive Director of the Commission created by section 3 of this order. In addition to leading the work of the Initiative, the Executive Director shall coordinate the work of, and provide administrative support for, the Commission. As appropriate, the Department shall provide the Initiative with staff, resources, and administrative support, to the extent permitted by law and subject to the availability of appropriations.
+
+(c) All executive departments and agencies (agencies) shall, to the extent permitted by law, provide such information, support, and assistance to the Initiative as the Secretary may request.
+
+(d) The Initiative, acting through the Executive Director, shall provide regular reports on its activities to appropriate officials in the Executive Office of the President, including the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, the Assistant to the President for the Office of American Innovation, the Assistant to the President for the Office of Economic Initiatives, the Assistant to the President for Domestic Policy, the Director of the Office of Public Liaison, and the Director of Intergovernmental Affairs.
+
+(e) As part of the Initiative, there is established an Interagency Working Group (Working Group) to collaborate regarding resources and opportunities available across the Federal Government to increase educational and economic opportunities for Hispanic Americans. The Working Group shall also serve as a channel for communication between the Initiative and other agencies.
+
+(i) The Working Group shall be chaired by the Executive Director of the Initiative and shall consist of a senior official from the Domestic Policy Council, the Office of American Innovation, the Office of Public Liaison, and each agency that develops or implements policies relating to Hispanic American prosperity, as identified by the Secretary.
+
+(ii) The Department shall provide the Working Group with administrative support to the extent permitted by law and subject to the availability of appropriations.
+
+Sec. 3. <i>The President's Advisory Commission on Hispanic Prosperity</i>. There is established in the Department the President's Advisory Commission on Hispanic Prosperity (Commission).
+
+(a) The Commission shall be composed of not more than 20 members, who shall be appointed by the President. The Commission may include individuals from outside the Federal Government with relevant experience or subject matter expertise in promoting educational opportunities and economic success in the Hispanic American community. The Commission shall also include the following officers, or their designees:
+
+(i) the Secretary of Commerce;
+
+(ii) the Secretary of Labor;
+
+(iii) the Secretary of Housing and Urban Development;
+
+(iv) the Secretary of Education; and
+
+(v) the Administrator of the Small Business Administration.
+
+(b) The functions of the Commission shall be to:
+
+(i) promote pathways to in-demand jobs for Hispanic American students, including apprenticeships, internships, fellowships, mentorships, and work-based learning initiatives;
+
+(ii) strengthen HSIs, as defined by the Higher Education Act of 1965 \[Pub. L. 89–329, 20 U.S.C. 1001 et seq.\], as amended, and increase the participation of the Hispanic American community, Hispanic-serving school districts, and HSIs in the programs of the Department and other agencies;
+
+(iii) promote local-based and national private-public partnerships to promote high-quality education, training, and economic opportunities for Hispanic Americans;
+
+(iv) promote awareness of educational opportunities for Hispanic American students, including options to enhance school choice, personalized learning, family engagement, and civics education;
+
+(v) promote public awareness of the educational and training challenges that Hispanic Americans face and the causes of these challenges;
+
+(vi) monitor changes in Hispanic Americans' access to educational and economic opportunities; and
+
+(vii) advise the President and the Initiative on educational and economic opportunities for the Hispanic American community.
+
+(c) The Commission shall periodically report to the President, through the Secretary and after consulting with the Executive Director, on progress in providing Hispanic American students, workers, and communities with increased access to educational and economic opportunities. The reports shall identify efforts of agencies to improve educational and economic opportunities for Hispanic Americans. The reports shall also include, as appropriate, recommendations for improving Federal education, workforce, small business, and other programs.
+
+(d) The Commission shall have a Chair and two Vice Chairs, designated by the President from among the members of the Commission. The Chair and Vice Chairs shall work with the Executive Director to convene regular meetings of the Commission, determine its agenda, and direct its work, consistent with this order.
+
+(i) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and subject to the availability of appropriations.
+
+(ii) Members of the Commission shall serve without compensation but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+
+(iii) Insofar as the Federal Advisory Committee Act \[Pub. L. 92–463\], as amended (5 U.S.C. App.), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
+
+(e) The Commission shall terminate 2 years after the date of this order \[July 9, 2020\] unless extended by the President.
+
+Sec. 4. <i>General Provisions</i>. (a) This order supersedes Executive Order 13555 of October 19, 2010 (White House Initiative on Educational Excellence for Hispanics) \[formerly set out above\], and section 1(u) of Executive Order 13889 of September 27, 2019 (Continuance of Certain Federal Advisory Committees) \[5 U.S.C. App. 14 note\].
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13958. Establishing the President's Advisory 1776 Commission
+
+Ex. Ord. No. 13958, Nov. 2, 2020, 85 F.R. 70951, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to better enable a rising generation to understand the history and principles of the founding of the United States in 1776, and, through this, form a more perfect Union, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The American founding envisioned a political order in harmony with the design of "the Laws of Nature and of Nature's God," seeing the rights to life, liberty, and the pursuit of happiness as embodied in and sanctioned by natural law and its traditions.
+
+The formation of a republic around these principles marked a clear departure from previous forms of government, securing rights through a form of government that derives its legitimate power from the consent of the governed. Throughout its national life, our Republic's exploration of the full meaning of these principles has led it through the ratification of a Constitution, civil war, the abolition of slavery, Reconstruction, and a series of domestic crises and world conflicts. Those events establish a clear historical record of an exceptional Nation dedicated to the ideas and ideals of its founding.
+
+Against this history, in recent years, a series of polemics grounded in poor scholarship has vilified our Founders and our founding. Despite the virtues and accomplishments of this Nation, many students are now taught in school to hate their own country, and to believe that the men and women who built it were not heroes, but rather villains. This radicalized view of American history lacks perspective, obscures virtues, twists motives, ignores or distorts facts, and magnifies flaws, resulting in the truth being concealed and history disfigured. Failing to identify, challenge, and correct this distorted perspective could fray and ultimately erase the bonds that knit our country and culture together.
+
+The recent attacks on our founding have highlighted America's history related to race. These one-sided and divisive accounts too often ignore or fail to properly honor and recollect the great legacy of the American national experience—our country's valiant and successful effort to shake off the curse of slavery and to use the lessons of that struggle to guide our work toward equal rights for all citizens in the present. Viewing America as an irredeemably and systemically racist country cannot account for the extraordinary role of the great heroes of the American movement against slavery and for civil rights—a great moral endeavor that, from Abraham Lincoln to Martin Luther King, Jr., was marked by religious fellowship, good will, generosity of heart, an emphasis on our shared principles, and an inclusive vision for the future.
+
+As these heroes demonstrated, the path to a renewed and confident national unity is through a rediscovery of a shared identity rooted in our founding principles. A loss of national confidence in these principles would place rising generations in jeopardy of a crippling self-doubt that could cause them to abandon faith in the common story that binds us to one another across our differences. Without our common faith in the equal right of every individual American to life, liberty, and the pursuit of happiness, authoritarian visions of government and society could become increasingly alluring alternatives to self-government based on the consent of the people. Thus it is necessary to provide America's young people access to what is genuinely inspiring and unifying in our history, as well as to thelessons imparted by the American experience of overcoming great national challenges. This is what makes possible the informed and honest patriotism that is essential for a successful republic.
+
+A restoration of American education grounded in the principles of our founding that is accurate, honest, unifying, inspiring, and ennobling must ultimately succeed at the local level. Parents and local school boards must be empowered to achieve greater choice and variety in curriculum at the State and local levels.
+
+The role of the Federal Government is to protect and preserve State and local control over the curriculum, program of instruction, administration, and personnel of educational institutions, schools, and school systems. Indeed, that is why my Administration rejects the Common Core curriculum and all efforts to have the Federal Government impose a national curriculum or national standards in education.
+
+Vigorous participation in local government has always been America's laboratory of liberty and a key to what makes us exceptional. The best way to preserve the story of America's founding principles is to live it in action by local communities reasserting control of how children receive patriotic education in their schools.
+
+Sec. 2. <i>The President's Advisory 1776 Commission</i>. (a) Within 120 days of the date of this order \[Nov. 2, 2020\], the Secretary of Education shall establish in the Department of Education the President's Advisory 1776 Commission ("the 1776 Commission") to better enable a rising generation to understand the history and principles of the founding of the United States in 1776 and to strive to form a more perfect Union.
+
+(b) The 1776 Commission shall be composed of not more than 20 members, who shall be appointed by the President. Members shall serve for a term of 2 years and shall not be removed except for inefficiency, neglect of duty, or malfeasance. The 1776 Commission may include individuals from outside the Federal Government with relevant experience or subject-matter expertise. The 1776 Commission shall also include the following ex-officio members or such senior officials as those members may designate:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of Defense;
+
+(iii) the Secretary of the Interior;
+
+(iv) the Secretary of Housing and Urban Development;
+
+(v) the Secretary of Education;
+
+(vi) the Assistant to the President for Domestic Policy; and
+
+(vii) the Assistant to the President for Intergovernmental Affairs.
+
+(c) The 1776 Commission shall:
+
+(i) produce a report for the President, within 1 year of the date of this order, which shall be publicly disseminated, regarding the core principles of the American founding and how these principles may be understood to further enjoyment of "the blessings of liberty" and to promote our striving "to form a more perfect Union." The Commission may solicit statements and contributions from intellectual and cultural figures in addition to the views of the Commission members;
+
+(ii) advise and offer recommendations to the President and the United States Semiquincentennial Commission regarding the Federal Government's plans to celebrate the 250th anniversary of American Independence and coordinate with relevant external stakeholders on their plans;
+
+(iii) facilitate the development and implementation of a "Presidential 1776 Award" to recognize student knowledge of the American founding, including knowledge about the Founders, the Declaration of Independence, the Constitutional Convention, and the great soldiers and battles of the American Revolutionary War;
+
+(iv) advise executive departments and agencies (agencies) with regard to their efforts to ensure patriotic education—meaning the presentation of the history of the American founding and foundational principles, the examination of how the United States has grown closer to those principles throughout its history, and the explanation of why commitment to America's aspirations is beneficial and justified—is provided to the public at national parks, battlefields, monuments, museums, installations, landmarks, cemeteries, and other places important to the American Revolution and the American founding, as appropriate and consistent with applicable law;
+
+(v) advise agencies on prioritizing the American founding in Federal grants and initiatives, including those described in section 4 of this order, and as appropriate and consistent with applicable law; and
+
+(vi) facilitate, advise upon, and promote other activities to support public knowledge and patriotic education on the American Revolution and the American founding, as appropriate and consistent with applicable law.
+
+(d) The 1776 Commission shall have a Chair and Vice Chair, designated by the President from among its members. An Executive Director, designated by the Secretary of Education in consultation with the Assistant to the President for Domestic Policy, shall coordinate the work of the 1776 Commission. The Chair and Vice Chair shall work with the Executive Director to convene regular meetings of the 1776 Commission, determine its agenda, and direct its work, consistent with this order.
+
+(e) The Department of Education shall provide funding and administrative support for the 1776 Commission, to the extent permitted by law and subject to the availability of appropriations.
+
+(f) Members of the 1776 Commission shall serve without compensation but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701—5707).
+
+(g) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the 1776 Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
+
+(h) The 1776 Commission shall terminate 2 years from the date of this order, unless extended by the President.
+
+Sec. 3. <i>Celebration of Constitution Day</i>. All relevant agencies shall monitor compliance with \[section 111(b) of\] Title I of Division J of Public Law 108–447 \[36 U.S.C. 106 note\], which provides that "each educational institution that receives Federal funds for a fiscal year shall hold an educational program on the United States Constitution on September 17 of such year for the students served by the educational institution," including by verifying compliance with each educational institution that receives Federal funds. All relevant agencies shall take action, as appropriate, to enhance compliance with that law.
+
+Sec. 4. <i>Prioritize the American Founding in Available Federal Resources</i>. The following agencies shall prioritize Federal resources, consistent with applicable law, to promote patriotic education:
+
+(a) the Department of Education, through the American History and Civics Academies and American History and Civics Education-National Activities;
+
+(b) the Department of Defense, through the Pilot Program on Enhanced Civics Education; and
+
+(c) the Department of State, through the Bureau of Educational and Cultural Affairs, and through opportunities in the Fulbright, U.S. Speakers, and International Visitors Leadership programs, as well as in American Spaces.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 

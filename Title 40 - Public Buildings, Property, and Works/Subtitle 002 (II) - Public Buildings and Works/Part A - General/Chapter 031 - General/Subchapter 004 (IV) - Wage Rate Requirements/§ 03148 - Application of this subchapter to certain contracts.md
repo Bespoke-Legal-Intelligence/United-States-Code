@@ -22,6 +22,8 @@ Mar. 23, 1941, ch. 26 (last proviso in 5th complete par. on p. 53), 55 Stat. 53;
 
 The words "this subchapter" are substituted for "such Act" to correct the reference as stated in 40:276a–7.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)".

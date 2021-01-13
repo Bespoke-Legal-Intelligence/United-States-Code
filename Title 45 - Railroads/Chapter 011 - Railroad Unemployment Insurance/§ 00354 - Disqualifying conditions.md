@@ -26,7 +26,7 @@ The disqualification provided in subsection (a–2)(iii) of this section shall n
 
 &emsp;(i) the employee is not participating in or financing or directly interested in the strike which causes the stoppage of work: <i>Provided</i>, That payment of regular union dues shall not be construed to constitute financing a strike or direct interest in a strike within the meaning of this and the following paragraphs; and
 
-&emsp;(ii) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed in the establishment, premises, or enterprise at which the stoppage occurs, any of whom are participating in or financing or directly interested in the dispute: <i>Provided</i>, That if separate types of work are commonly conducted in separate departments of a single enterprise, each such department shall, for the purposes of this subsection, bedeemed to be a separate establishment, enterprise, or other premises.
+&emsp;(ii) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed in the establishment, premises, or enterprise at which the stoppage occurs, any of whom are participating in or financing or directly interested in the dispute: <i>Provided</i>, That if separate types of work are commonly conducted in separate departments of a single enterprise, each such department shall, for the purposes of this subsection, be deemed to be a separate establishment, enterprise, or other premises.
 
 #### (c) Unsuitable work
 
@@ -51,6 +51,8 @@ In determining, within the limitations of subsection (c) of this section, whethe
 For the purposes of subsection (a–2)(i) of this section, no voluntary leaving of work shall be deemed to have been without good cause if the Board finds that such work would not have been suitable for the purposes of subsection (a–2)(ii) of this section.
 
 (June 25, 1938, ch. 680, §4, 52 Stat. 1098; June 20, 1939, ch. 227, §11, 53 Stat. 846; Oct. 10, 1940, ch. 842, §§14–18, 54 Stat. 1097, 1098; July 31, 1946, ch. 709, §§309, 310, 60 Stat. 737, 738; Oct. 30, 1951, ch. 632, §27, 65 Stat. 691; Pub. L. 85–927, pt. II, §202, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §305, May 19, 1959, 73 Stat. 31; Pub. L. 88–133, title III, §302(a), Oct. 5, 1963, 77 Stat. 222; Pub. L. 90–257, title II, §204, Feb. 15, 1968, 82 Stat. 24; Pub. L. 93–445, title IV, §402, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 98–76, title IV, §411(a)(3), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §7101(d), Nov. 10, 1988, 102 Stat. 3758.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -104,6 +106,8 @@ Subsec. (b). Act June 20, 1939, substituted provisions setting forth criteria fo
 
 Subsecs. (c) to (e). Act June 20, 1939, substituted references to subsec. (a)(ii) of this section for references to subsec. (a)(iii) or (iv) of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, see section 411(b) of Pub. L. 98–76, set out as a note under section 351 of this title.
@@ -130,7 +134,7 @@ Amendment by Pub. L. 85–927 effective with respect to days in benefit years af
 
 #### Effective Date of 1951 Amendment
 
-Amendment by act Oct. 30, 1951, effective with respect to registration periods beginning on and after Jan. 1, 1952, see section 28 of act Oct. 30, 1951, set out as a note under section 351 of this title.
+Amendment by act Oct. 30, 1951, effective with respect to registration periods beginning on and afterJan. 1, 1952, see section 28 of act Oct. 30, 1951, set out as a note under section 351 of this title.
 
 #### Effective Date of 1946 Amendment
 

@@ -6,9 +6,11 @@ Each range of frequencies described in this chapter shall be construed to be inc
 
 #### (b) Assessment of electromagnetic spectrum reallocation
 
-Nothing in this chapter shall be construed to affect any requirement under section 156 of theNational Telecommunications and Information Administration Organization Act (47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000.
+Nothing in this chapter shall be construed to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000.
 
 (Pub. L. 115–141, div. P, title VI, §621, Mar. 23, 2018, 132 Stat. 1115.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

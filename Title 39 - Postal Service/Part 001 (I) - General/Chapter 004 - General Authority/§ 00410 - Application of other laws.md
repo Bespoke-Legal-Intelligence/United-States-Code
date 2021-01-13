@@ -4,7 +4,7 @@
 
 (b) The following provisions shall apply to the Postal Service:
 
-&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 <sup>1</sup> (dual pay) of title 5, except that no regulation issued under suchchapters or section shall apply to the Postal Service unless expressly made applicable;
+&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 <sup>1</sup> (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
 
 &emsp;(2) all provisions of title 18 dealing with the Postal Service, the mails, and officers or employees of the Government of the United States;
 
@@ -51,6 +51,8 @@
 (3) Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382; Pub. L. 107–217, §3(k), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–178, §4(j), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(k), Jan. 4, 2011, 124 Stat. 3850.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -133,6 +135,8 @@ Subsec. (b)(8). Pub. L. 94–541 added par. (8).
 <b>1974</b>—Subsec. (b)(1). Pub. L. 93–340 inserted "section 5520 (withholding city income or employment taxes)," before "and section 5532 (dual pay)".
 
 <b>1971</b>—Subsec. (b)(1). Pub. L. 91–656 inserted "section 3110 (restrictions on employment of relatives)," before "section 3333" and substituted "no regulation" for "not regulation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

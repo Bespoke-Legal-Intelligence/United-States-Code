@@ -12,9 +12,13 @@ Language relating to seizures under warrant is in section 3107 of this title.
 
 Minor changes were made in phraseology particularly with respect to omission of provision covered by rule 5(a) of Federal Rules of Criminal Procedure.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Jan. 10, 1951, allowed F. B. I. personnel to make arrests without a warrant for any offense against the United States committed in their presence.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

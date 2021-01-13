@@ -28,13 +28,19 @@ The words "In instances determined by the President to warrant such action" are 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Par. (1). Pub. L. 95–454 inserted "or achieves a significant reduction in paperwork".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–454, title V, §504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

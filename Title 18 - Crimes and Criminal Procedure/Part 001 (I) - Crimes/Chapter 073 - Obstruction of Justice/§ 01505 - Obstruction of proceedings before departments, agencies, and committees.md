@@ -16,6 +16,8 @@ Word "agency" was substituted for the words "independent establishment, board, c
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
@@ -33,6 +35,8 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 <b>1970</b>—Pub. L. 91–452 inserted reference to section 1968 of this title.
 
 <b>1962</b>—Pub. L. 87–664 substituted section catchline "Obstruction of proceedings before departments, agencies, and committees" for "Influencing or injuring witness before agencies and committees" and punished the willful removal, concealment, destruction, mutilation, alteration or falsification of documents which were the subject of a demand under the Antitrust Civil Process Act if done with the intent to prevent compliance with a civil investigative demand.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

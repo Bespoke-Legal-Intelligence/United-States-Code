@@ -4,7 +4,7 @@
 
 Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
-&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
+&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas byother states, as recognized under general principles of international law;
 
 &emsp;(2) will not conflict with any international obligation of the United States established by any treaty or international convention in force with respect to the United States;
 
@@ -46,6 +46,8 @@ Prior to making a determination to issue, transfer, modify, or renew a license o
 
 (Pub. L. 96–283, title I, §105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
@@ -55,6 +57,8 @@ The Fishery Conservation Zone, referred to in subsec. (d), probably means the fi
 <b>1996</b>—Subsec. (d). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

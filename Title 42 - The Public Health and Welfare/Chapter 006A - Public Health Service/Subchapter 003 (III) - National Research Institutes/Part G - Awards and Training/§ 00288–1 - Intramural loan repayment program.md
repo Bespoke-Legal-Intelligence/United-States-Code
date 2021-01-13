@@ -36,7 +36,7 @@ With respect to the National Health Service Corps Loan Repayment Program establi
 
 Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which such amounts are made available.
 
-(July 1, 1944, ch. 373, title IV, §487A, as added Pub. L. 100–607, title VI, §634(a), Nov. 4, 1988, 102Stat. 3148; amended Pub. L. 103–43, title XVI, §1611(a), June 10, 1993, 107 Stat. 181; Pub. L. 105–392, title IV, §410(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 109–482, title I, §103(b)(48), Jan. 15, 2007, 120 Stat. 3688; Pub. L. 114–255, div. A, title II, §2022(a), Dec. 13, 2016, 130 Stat. 1052.)
+(July 1, 1944, ch. 373, title IV, §487A, as added Pub. L. 100–607, title VI, §634(a), Nov. 4, 1988, 102 Stat. 3148; amended Pub. L. 103–43, title XVI, §1611(a), June 10, 1993, 107 Stat. 181; Pub. L. 105–392, title IV, §410(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 109–482, title I, §103(b)(48), Jan. 15, 2007, 120 Stat. 3688; Pub. L. 114–255, div. A, title II, §2022(a), Dec. 13, 2016, 130 Stat. 1052.)
 
 #### Amendments
 

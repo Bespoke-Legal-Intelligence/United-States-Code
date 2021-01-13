@@ -36,6 +36,8 @@ No action may be brought by a mortgagor under subsection (a) later than 2 years 
 
 (Pub. L. 105–216, §8, July 29, 1998, 112 Stat. 905.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.

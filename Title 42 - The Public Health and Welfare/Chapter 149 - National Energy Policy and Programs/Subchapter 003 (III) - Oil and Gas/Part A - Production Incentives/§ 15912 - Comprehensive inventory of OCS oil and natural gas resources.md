@@ -4,7 +4,7 @@
 
 The Secretary shall conduct an inventory and analysis of oil and natural gas resources beneath all of the waters of the United States Outer Continental Shelf ("OCS"). The inventory and analysis shall—
 
-&emsp;(1) use available data on oil and gas resources in areas offshore of Mexico and Canadathat will provide information on trends of oil and gas accumulation in areas of the OCS;
+&emsp;(1) use available data on oil and gas resources in areas offshore of Mexico and Canada that will provide information on trends of oil and gas accumulation in areas of the OCS;
 
 &emsp;(2) use any available technology, except drilling, but including 3–D seismic technology to obtain accurate resource estimates;
 

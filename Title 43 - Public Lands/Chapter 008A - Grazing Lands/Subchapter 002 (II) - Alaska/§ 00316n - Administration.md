@@ -1,10 +1,12 @@
 ### §316n. Administration
 
-(a) The Secretary shall promulgate all rules and regulations necessary to the administrationof this subchapter,<sup>1</sup> shall execute its provisions, and may (1) in accordance with the civil service laws appoint such employees and in accordance with chapter 51 and subchapter III of chapter 53 of title 5 fix their compensation, and (2) make such expenditures (including expenditures for personal service and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and for printing and binding) as may be necessary efficiently to execute the provisions of this subchapter.<sup>1</sup>
+(a) The Secretary shall promulgate all rules and regulations necessary to the administration of this subchapter,<sup>1</sup> shall execute its provisions, and may (1) in accordance with the civil service laws appoint such employees and in accordance with chapter 51 and subchapter III of chapter 53 of title 5 fix their compensation, and (2) make such expenditures (including expenditures for personal service and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and for printing and binding) as may be necessary efficiently to execute the provisions of this subchapter.<sup>1</sup>
 
 (b) The Secretary of Agriculture is authorized to continue investigations, experiments and demonstrations for the welfare, improvement, and increase of the reindeer industry in Alaska, and upon the request of the Secretary of the Interior to cooperate in matters pertaining to the care of plant and animal life, including reindeer.
 
 (Mar. 4, 1927, ch. 513, §15, 44 Stat. 1455; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -20,9 +22,13 @@ Section was formerly classified to section 471n of Title 48, Territories and Ins
 
 <b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, §8, Sept. 6, 1966, 80 Stat. 632, 655.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

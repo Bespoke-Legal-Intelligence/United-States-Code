@@ -1,8 +1,12 @@
 ### §701. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 87–624, title I, §102, Aug. 31, 1962, 76 Stat. 419, which related to Congressional declaration of policy and purpose, ceased to be effective Apr. 15, 2005, pursuant to section 765d(4) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2003 Amendment
 
@@ -32,7 +36,7 @@ Policy.—The Congress declares that it is the policy of the United States—
 
 &emsp;"(1) as a party to the International Telecommunications Satellite Organization (hereafter in this section referred to as 'Intelsat'), to foster and support the global commercial communications satellite system owned and operated by Intelsat;
 
-&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional suchfacilities which are found to be in the national interest and which—
+&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional such facilities which are found to be in the national interest and which—
 
 &emsp;&emsp;"(A) are technically compatible with the use of the radio frequency spectrum and orbital space by the existing or planned Intelsat space segment, and
 

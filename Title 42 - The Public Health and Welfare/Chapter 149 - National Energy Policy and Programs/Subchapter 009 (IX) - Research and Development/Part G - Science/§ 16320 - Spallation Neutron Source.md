@@ -14,7 +14,7 @@ In this section:
 
 #### (3) SNS second target station
 
-&emsp;The term "SNS second target station" means the Spallation Neutron Source secondtarget station described in the 20-year facilities plan of the Office of Science of the Department.
+&emsp;The term "SNS second target station" means the Spallation Neutron Source second target station described in the 20-year facilities plan of the Office of Science of the Department.
 
 #### (4) Spallation Neutron Source Facility
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) is based on peer review of proposals submitted for use of the Facility;
 
-&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full use of a variety of high quality scientific instruments; and
+&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full useof a variety of high quality scientific instruments; and
 
 &emsp;&emsp;&emsp;(iii) phases in systems upgrades to ensure that the Facility remains at the forefront of international scientific endeavors in the field of the Facility throughout the operating life of the Facility;
 

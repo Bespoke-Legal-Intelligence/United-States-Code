@@ -4,7 +4,7 @@
 
 It shall be unlawful for any person—
 
-&emsp;(1) To sell or offer to sell, contract to sell, or otherwise dispose of distilled spirits in bulk except, under regulations of the Secretary of the Treasury, for export or to the following, or to import distilled spirits in bulk except, under such regulations, for sale to or for use by the following: A distiller, rectifier of distilled spirits, person operating a bonded warehouse qualified under the internal-revenuelaws or a class 8 bonded warehouse qualified under the customs laws, a winemaker for the fortification of wines, a proprietor of an industrial alcohol plant, or an agency of the United States or any State or political subdivision thereof.
+&emsp;(1) To sell or offer to sell, contract to sell, or otherwise dispose of distilled spirits in bulk except, under regulations of the Secretary of the Treasury, for export or to the following, or to import distilled spirits in bulk except, under such regulations, for sale to or for use by the following: A distiller, rectifier of distilled spirits, person operating a bonded warehouse qualified under the internal-revenue laws or a class 8 bonded warehouse qualified under the customs laws, a winemaker for the fortification of wines, a proprietor of an industrial alcohol plant, or an agency of the United States or any State or political subdivision thereof.
 
 &emsp;(2) To sell or offer to sell, contract to sell, or otherwise dispose of warehouse receipts for distilled spirits in bulk unless such warehouse receipts require that the warehouseman shall package such distilled spirits, before delivery, in bottles labeled and marked in accordance with law, or deliver such distilled spirits in bulk only to persons to whom it is lawful to sell or otherwise dispose of distilled spirits in bulk.
 
@@ -19,6 +19,8 @@ Any person who violates the requirements of this section shall, upon conviction 
 The term "in bulk" mean in containers having a capacity in excess of one wine gallon.
 
 (Aug. 29, 1935, ch. 814, title I, §106, formerly §6, 49 Stat. 985; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §106, Pub. L. 100–690, title VIII, §8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

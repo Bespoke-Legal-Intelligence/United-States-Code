@@ -48,7 +48,7 @@ In general.—The Administrator shall, upon approval of the application, provide
 
 &emsp;(2)
 
-Contracts.—The Administrator shall, to the extent practicable, enter into a contract with a private screening company from the list provided under paragraph (1) for the provision of screening at the airport not later than 120 days after the date of approval of an application submitted by the airport operator under subsection (a) if—
+Contracts.—The Administrator shall, to the extent practicable, enter into a contract with a private screening company from thelist provided under paragraph (1) for the provision of screening at the airport not later than 120 days after the date of approval of an application submitted by the airport operator under subsection (a) if—
 
 &emsp;&emsp;(A) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter;
 

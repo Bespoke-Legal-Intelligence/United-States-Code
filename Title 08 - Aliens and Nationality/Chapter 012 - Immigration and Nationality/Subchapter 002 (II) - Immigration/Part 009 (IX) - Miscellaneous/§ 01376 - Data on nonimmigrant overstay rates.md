@@ -10,9 +10,13 @@ Not later than June 30, 1999, and not later than June 30 of each year thereafter
 
 (Pub. L. 105–173, §2, Apr. 27, 1998, 112 Stat. 56.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -40,13 +40,15 @@ Whenever the Secretary determines that any State designated under this paragraph
 
 #### (4) Periodic review; report to Congressional committees
 
-The Secretary shall promptly upon December 15, 1967, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required under section 691 <sup>1</sup> of this title.
+The Secretary shall promptly upon December 15, 1967, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition,and Forestry of the Senate in the report required under section 691 <sup>1</sup> of this title.
 
 #### (d) "State" defined
 
 As used in this section, the term "State" means any State (including the Commonwealth of Puerto Rico) or organized Territory.
 
 (Mar. 4, 1907, ch. 2907, title III §301, as added Pub. L. 90–201, §15, Dec. 15, 1967, 81 Stat. 595; amended Pub. L. 98–487, §1, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, §8(2), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ In subsec. (c)(1), (4), "December 15, 1967" substituted for "enactment of the Wh
 <b>1994</b>—Subsec. (c)(4). Pub. L. 103–437 substituted "Agriculture, Nutrition, and Forestry" for "Agriculture and Forestry".
 
 <b>1984</b>—Subsec. (c)(2). Pub. L. 98–487 inserted provisions relating to operations conducted at a restaurant central kitchen facility.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

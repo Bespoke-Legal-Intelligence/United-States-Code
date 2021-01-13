@@ -50,9 +50,13 @@ June 30, 1949, ch. 288, title III, §306(<i>l</i>)(1), as added Pub. L. 100–70
 
 41:256(m)(2).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (2). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

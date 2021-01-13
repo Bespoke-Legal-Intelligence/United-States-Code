@@ -12,7 +12,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–193 struck out "603(a)," before "1203(a),", "and part A of subchapter IV," after "XVI,", and ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV" after "the Virgin Islands, and Guam, mean 75 per centum".
+<b>1996</b>—Pub. L. 104–193 struck out "603(a)," before "1203(a),", "and part A of subchapter IV," after "XVI,",and ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV" after "the Virgin Islands, and Guam, mean 75 per centum".
 
 <b>1988</b>—Pub. L. 100–485 inserted before period at end ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV".
 

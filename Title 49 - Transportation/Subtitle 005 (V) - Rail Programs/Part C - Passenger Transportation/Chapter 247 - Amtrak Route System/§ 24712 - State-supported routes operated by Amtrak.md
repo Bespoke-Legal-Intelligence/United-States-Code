@@ -78,7 +78,7 @@ Requirements.—The cost allocation methodology shall—
 
 (b)
 
-Invoices and Reports.—Not later than April 15, 2016, and monthly thereafter, Amtrak shall provide to each State that sponsors a State-supported route a monthly invoice of thecost of operating such route, including fixed costs and third-party costs. The Committee shall determine the frequency and contents of financial and performance reports that Amtrak shall provide to the States, as well as the planning and demand reports that the States shall provide to Amtrak.
+Invoices and Reports.—Not later than April 15, 2016, and monthly thereafter, Amtrak shall provide to each State that sponsors a State-supported route a monthly invoice of the cost of operating such route, including fixed costs and third-party costs. The Committee shall determine the frequency and contents of financial and performance reports that Amtrak shall provide to the States, as well as the planning and demand reports that the States shall provide to Amtrak.
 
 (c)
 

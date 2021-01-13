@@ -20,15 +20,7 @@ Amounts appropriated to carry out this part shall be available for economic prog
 
 (Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
 
-#### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-
-Pub. L. 92–226, pt. II, §202(b), Feb. 7, 1972, 86 Stat. 27, provided that: "Chapter 4 of part I of the Foreign Assistance Act of 1961 \[part IV of subchapter I of this chapter (sections 2241 to 2243 of this title)\] is hereby repealed. References to such chapter \[4 of part I of the Foreign Assistance Act of 1961 (former sections 2241 to 2243 of this title)\] or any sections thereof shall hereafter \[on and after Feb. 7, 1972\] be deemed to be references to chapter 4 of part II of the Foreign Assistance Act of 1961, as added by subsection (a) of this section \[this part\], or to appropriate sections thereof. All references to part I of the Foreign Assistance Act of 1961 \[subchapter I of this chapter\] shall hereafter be deemed to be references also to chapter 4 of part II \[this part\], and all references to part II of such Act \[subchapter II of this chapter\] shall be deemed not to include chapter 4 of such part II \[this part\]".
-
-References to subchapter I of this chapter are deemed to include parts VI (§2348 et seq.) and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See sections 2348c and 2349aa–5 of this title.
-
-#### Reference to Part I Deemed To Include Section 2293
-
-Reference to part I of subchapter I of this chapter deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -40,13 +32,21 @@ A prior section 2346, Pub. L. 87–195, pt. II, §531, as added Pub. L. 92–226
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–513 inserted "or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter" after "part I of subchapter I of this chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+
+Pub. L. 92–226, pt. II, §202(b), Feb. 7, 1972, 86 Stat. 27, provided that: "Chapter 4 of part I of the Foreign Assistance Act of 1961 \[part IV of subchapter I of this chapter (sections 2241 to 2243 of this title)\] is hereby repealed. References to such chapter \[4 of part I of the Foreign Assistance Act of 1961 (former sections 2241 to 2243 of this title)\] or any sections thereof shall hereafter \[on and after Feb. 7, 1972\] be deemed to be references to chapter 4 of part II of the Foreign Assistance Act of 1961, as added by subsection (a) of this section \[this part\], or to appropriate sections thereof. All references to part I of the Foreign Assistance Act of 1961 \[subchapter I of this chapter\] shall hereafter be deemed to be references also to chapter 4 of part II \[this part\], and all references to part II of such Act \[subchapter II of this chapter\] shall be deemed not to include chapter 4 of such part II \[this part\]".
+
+References to subchapter I of this chapter are deemed to include parts VI (§2348 et seq.) and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See sections 2348c and 2349aa–5 of this title.
+
+#### Reference to Part I Deemed To Include Section 2293
+
+Reference to part I of subchapter I of this chapter deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Assistance to Lebanon
 
@@ -54,7 +54,7 @@ Pub. L. 107–228, div. B, title XII, §1224, Sept. 30, 2002, 116 Stat. 1432, pr
 
 "(a)
 
-Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year that are allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
+Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year thatare allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
 
 &emsp;"(1) the armed forces of Lebanon have been deployed to the internationally recognized border between Lebanon and Israel; and
 
@@ -103,4 +103,10 @@ Pub. L. 95–384, §10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: "Afte
 #### Security Supporting Assistance Program for Egypt
 
 Pub. L. 95–92, §9, Aug. 4, 1977, 91 Stat. 619, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: "It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

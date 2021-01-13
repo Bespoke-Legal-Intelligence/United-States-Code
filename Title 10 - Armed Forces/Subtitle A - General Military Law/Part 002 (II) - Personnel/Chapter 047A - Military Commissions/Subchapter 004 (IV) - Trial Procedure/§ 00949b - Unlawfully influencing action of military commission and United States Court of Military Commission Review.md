@@ -2,7 +2,7 @@
 
 (a)
 
-Military Commissions.—(1) No authority convening a military commission under thischapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
+Military Commissions.—(1) No authority convening a military commission under this chapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
 
 (2) No person may attempt to coerce or, by any unauthorized means, influence—
 

@@ -8,7 +8,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 &emsp;(2) complying with applicable environmental requirements;
 
-&emsp;(3) achieving the control of sulfur oxides, oxides of nitrogen, air toxics, solid and liquidwastes, greenhouse gases, or other emissions resulting from coal use or conversion at levels of proficiency greater than or equal to applicable currently available commercial technology;
+&emsp;(3) achieving the control of sulfur oxides, oxides of nitrogen, air toxics, solid and liquid wastes, greenhouse gases, or other emissions resulting from coal use or conversion at levels of proficiency greater than or equal to applicable currently available commercial technology;
 
 &emsp;(4) achieving the cost competitive conversion of coal into energy forms usable in the transportation sector;
 
@@ -32,7 +32,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 &emsp;(B) It will increase the overall efficiency of the utilization of coal, including energy conversion efficiency and, where applicable, production of products derived from coal.
 
-&emsp;(C) It will be a more cost-effective technological alternative, based on life cycle capital and operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
+&emsp;(C) It will be a more cost-effective technological alternative, based on life cycle capitaland operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
 
 > Priority in selection shall be given to those projects which, in the judgment of the Secretary, best meet one or more of these criteria.
 
@@ -72,7 +72,7 @@ Within 240 days after October 24, 1992, the Secretary shall transmit to the Comm
 
 #### (d) Status reports
 
-Within one year after transmittal of the report described in subsection (c), and every 2 years thereafter for a period of 6 years, the Secretary shall transmit to the Congress a report that provides a detailed description of the statusof development of the advanced coal-based technologies and the research, development, demonstration, and commercial application activities undertaken to carry out the programs required by this part.
+Within one year after transmittal of the report described in subsection (c), and every 2 years thereafter for a period of 6 years, the Secretary shall transmit to the Congress a report that provides a detailed description of the status of development of the advanced coal-based technologies and the research, development, demonstration, and commercial application activities undertaken to carry out the programs required by this part.
 
 #### (e) Consultation
 

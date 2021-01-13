@@ -24,6 +24,8 @@ If—
 
 (Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Pub. L. 92–569, §1, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, §403(a)(1), Apr. 13, 1976, 90 Stat. 360; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 98–364, title III, §303(a), July 17, 1984, 98 Stat. 444; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
@@ -32,13 +34,15 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 <b>1996</b>—Par. (2)(C). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
-<b>1984</b>—Pub. L. 98–364, in par. (1), substituted "any vessel of the United States is seized by a foreign countryon the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States;" for "any vessel of the United States is seized by a foreign country on the basis of claims in territorial waters or the high seas which are not recognized by the United States; or", and in provisions following par. (2)(D), substituted "the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary" for "and there is no dispute as to the material facts with respect to the location or activity of such vessel at the time of such seizure, the Secretary of State shall immediately take such steps as are necessary".
+<b>1984</b>—Pub. L. 98–364, in par. (1), substituted "any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States;" for "any vessel of the United States is seized by a foreign country on the basis of claims in territorial waters or the high seas which are not recognized by the United States; or", and in provisions following par. (2)(D), substituted "the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary" for "and there is no dispute as to the material facts with respect to the location or activity of such vessel at the time of such seizure, the Secretary of State shall immediately take such steps as are necessary".
 
 <b>1980</b>—Par. (2)(C). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
 <b>1976</b>—Pub. L. 94–265 redesignated existing subsecs. (a) and (b) as pars. (1) and (2), respectively, and, in par. (1) struck out reference to rights in territorial waters, and in par. (2) substituted provisions relating to any general claim of any foreign country, conditions, and restrictions of seizure, lack of dispute as to material facts, and steps authorized for Secretary of State upon seizure, for provisions relating to lack of dispute as to material facts and actions authorized for Secretary of State upon seizure.
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–569 required the Secretary of State to take appropriate action to immediately ascertain the fees, fines, and other direct charges paid by a United States vessel owner to the seizing foreign country for the release of the vessel and its crew.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

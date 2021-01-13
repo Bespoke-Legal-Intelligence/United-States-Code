@@ -12,7 +12,7 @@ Uniform Implementation.—The Secretary shall ensure that, to the maximum extent
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, provided that: "Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, provided that: "Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Short Title
 
@@ -21,6 +21,10 @@ Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, prov
 #### Regulations
 
 Pub. L. 101–510, div. A, title XII, §1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: "Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\]."
+
+#### Continuation of Pay
+
+Pub. L. 116–283, div. A, title XI, §1114(c)(2), Jan. 1, 2021, 134 Stat. 3895, provided that: "The repeal in paragraph (1) \[repealing section 1111 of Pub. L. 114–92, formerly set out as a note below\] shall not be interpreted to prohibit the payment of basic pay at rates fixed under such section 1111 before the date of the enactment of this Act \[Jan. 1, 2021\] for positions having terms that continue after that date."
 
 #### Exchange Program for Acquisition Workforce Employees
 
@@ -66,7 +70,7 @@ Guidance and Implementation.—
 
 &emsp;"(1)
 
-Guidance.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], theUnder Secretary shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] interim guidance on the form and contours of the exchange program established under subsection (a).
+Guidance.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Under Secretary shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] interim guidance on the form and contours of the exchange program established under subsection (a).
 
 &emsp;"(2)
 
@@ -74,7 +78,7 @@ Implementation.—Not later than 180 days after the date of the enactment of thi
 
 #### Pilot Program on Temporary Exchange of Financial Management and Acquisition Personnel
 
-Pub. L. 114–92, div. A, title XI, §1110, Nov. 25, 2015, 129 Stat. 1030, provided that:
+Pub. L. 114–92, div. A, title XI, §1110, Nov. 25, 2015, 129 Stat. 1030, as amended by Pub. L. 116–283, div. A, title XVIII, §1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 "(a)
 
@@ -120,7 +124,7 @@ Debt to the united states.—An amount for which an employee is liable under par
 
 "(d)
 
-Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the nontraditional defense contractor concerned.
+Termination.—An assignment under this section may, at any time and for any reason, be terminated bythe Department of Defense or the nontraditional defense contractor concerned.
 
 "(e)
 
@@ -182,65 +186,11 @@ Nontraditional defense contractor employees.—The total number of nontraditiona
 
 Termination of Authority for Assignments.—No assignment of an employee may commence under this section after September 30, 2019."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 1110(b)(2) of Pub. L. 114–92, set out above, is amended by substituting "section 3014" for "section 2302(9)".\]</i>
+
 #### Pilot Program on Enhanced Pay Authority for Certain Acquisition and Technology Positions in the Department of Defense
 
-Pub. L. 114–92, div. A, title XI, §1111, Nov. 25, 2015, 129 Stat. 1032, as amended by Pub. L. 116–92, div. A, title IX, §902(9), Dec. 20, 2019, 133 Stat. 1543, provided that:
-
-"(a)
-
-Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Office of the Secretary of Defense and the military departments in attracting and retaining high-quality acquisition and technology experts in positions responsible for managing and developing complex, high-cost, technological acquisition efforts of the Department of Defense.
-
-"(b)
-
-Approval Required.—The pilot program may be carried out only with approval as follows:
-
-&emsp;"(1) Approval of the Under Secretary of Defense for Acquisition and Sustainment, in the case of positions in the Office of the Secretary of Defense.
-
-&emsp;"(2) Approval of the Service Acquisition Executive of the military department concerned, in the case of positions in a military department.
-
-"(c)
-
-Positions.—The positions described in this subsection are positions that—
-
-&emsp;"(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
-
-&emsp;"(2) are critical to the successful accomplishment of an important acquisition or technology development mission.
-
-"(d)
-
-Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:
-
-&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition and Sustainment or the Service Acquisition Executive concerned, as applicable.
-
-&emsp;"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
-
-"(e)
-
-Limitations.—
-
-&emsp;"(1)
-
-In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
-
-&emsp;"(2)
-
-Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time.
-
-&emsp;"(3)
-
-Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years.
-
-"(f)
-
-Termination.—
-
-&emsp;"(1)
-
-In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2020.
-
-&emsp;"(2)
-
-Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2020, of basic pay at rates fixed under this section before that date for positions whose terms continue after that date."
+Pub. L. 114–92, div. A, title XI, §1111, Nov. 25, 2015, 129 Stat. 1032, as amended by Pub. L. 116–92, div. A, title IX, §902(9), Dec. 20, 2019, 133 Stat. 1543, which authorized a pilot program on enhanced pay authority for certain acquisition and technology positions in the Department of Defense, was repealed by Pub. L. 116–283, div. A, title XI, §1114(c)(1), Jan. 1, 2021, 134 Stat. 3895. See Continuation of Pay note above and section 1701b of this title.
 
 #### Pilot Program on Direct Hire Authority for Veteran Technical Experts Into the Defense Acquisition Workforce
 
@@ -292,7 +242,7 @@ Applicability.—Positions described in this subsection are scientific and engin
 
 "(c)
 
-Limitation.—Authority under this section may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—Authority under this section may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineeringpositions within the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(d)
 
@@ -320,7 +270,7 @@ Requirement to Seek and Obtain Written Opinion.—
 
 &emsp;"(1)
 
-Request.—An official or former official of the Department of Defense described in subsection (c)who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
+Request.—An official or former official of the Department of Defense described in subsection (c) who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
 
 &emsp;"(2)
 

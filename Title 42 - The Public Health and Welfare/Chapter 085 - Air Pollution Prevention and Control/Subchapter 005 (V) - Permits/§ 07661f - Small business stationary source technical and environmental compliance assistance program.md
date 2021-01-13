@@ -8,7 +8,7 @@ Consistent with sections 7410 and 7412 of this title, each State shall, after re
 
 &emsp;(2) Adequate mechanisms for assisting small business stationary sources with pollution prevention and accidental release detection and prevention, including providing information concerning alternative technologies, process changes, products, and methods of operation that help reduce air pollution.
 
-&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman forsmall business stationary sources in connection with the implementation of this chapter.
+&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman for small business stationary sources in connection with the implementation of this chapter.
 
 &emsp;(4) A compliance assistance program for small business stationary sources which assists small business stationary sources in determining applicable requirements and in receiving permits under this chapter in a timely and efficient manner.
 
@@ -62,7 +62,7 @@ The Administrator shall direct the Agency's Office of Small and Disadvantaged Bu
 
 &emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>3</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
-&emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
+&emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sourcesto ensure that the information is understandable by the layperson; and
 
 &emsp;(4) have the Small Business Stationary Source Technical and Environmental Compliance Assistance Program serve as the secretariat for the development and dissemination of such reports and advisory opinions.
 

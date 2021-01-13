@@ -50,6 +50,8 @@ Victim Defined.—For purposes of this section, the term "victim" means the indi
 
 (Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1928; amended Pub. L. 104–132, title II, §205(d), Apr. 24, 1996, 110 Stat. 1231; Pub. L. 115–334, title XII, §12502(a)(3), Dec. 20, 2018, 132 Stat. 4983.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(3)(F), (G). Pub. L. 115–334 added subpar. (F) and redesignated former subpar. (F) as (G).
@@ -58,7 +60,7 @@ Victim Defined.—For purposes of this section, the term "victim" means the indi
 
 Subsec. (b)(1). Pub. L. 104–132, §205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The order of restitution under this section shall direct that—
 
-&emsp;"(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
+&emsp;"(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of thevictim's losses as determined by the court, pursuant to paragraph (3); and
 
 &emsp;"(B) the United States Attorney enforce the restitution order by all available and reasonable means."
 
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 104–132, §205(d)(3), (4), added subsec. (c) and struck o
 Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney's delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit."
 
 Subsecs. (d) to (g). Pub. L. 104–132, §205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

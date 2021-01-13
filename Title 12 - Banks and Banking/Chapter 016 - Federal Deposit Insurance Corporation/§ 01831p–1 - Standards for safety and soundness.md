@@ -72,7 +72,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(A) to preserve the safety and soundness of the institution; or
 
-&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issued by the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application orother request by the institution, which is enforceable under section 1818 of this title.
+&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issuedby the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
 
 #### (e) Failure to meet standards
 
@@ -142,6 +142,8 @@ The authority granted by this section is in addition to any other authority of t
 
 (Sept. 21, 1950, ch. 967, §2\[39\], as added Pub. L. 102–242, title I, §132(a), Dec. 19, 1991, 105 Stat. 2267; amended Pub. L. 102–550, title IX, §956, Oct. 28, 1992, 106 Stat. 3895; Pub. L. 103–325, title III, §318(a)–(c), Sept. 23, 1994, 108 Stat. 2223, 2224.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1831s of this title.
@@ -185,6 +187,8 @@ Subsec. (e)(2)(A), (B). Pub. L. 103–325, §318(c)(2)(A), struck out "or compan
 <b>1992</b>—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: "Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation."
 
 Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted "(a) or (b)" for "(a), (b), or (c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

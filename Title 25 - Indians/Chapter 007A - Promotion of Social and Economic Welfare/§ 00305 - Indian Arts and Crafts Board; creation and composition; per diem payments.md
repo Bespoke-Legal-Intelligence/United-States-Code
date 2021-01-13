@@ -2,9 +2,11 @@
 
 A board is created in the Department of the Interior to be known as "Indian Arts and Crafts Board", and hereinafter referred to as the Board. The Board shall be composed of five commissioners, who shall be appointed by the Secretary of the Interior as soon as possible after August 27, 1935 and shall continue in office, two for a term of two years, one for a term of three years, and two for a term of four years from the date of their appointment, the term of each to be designated by the Secretary of the Interior, but their successors shall be appointed for a term of four years except that any person chosen to fill a vacancy shall be appointed for the unexpired term of the commissioner whom he succeeds. Both public officers and private citizens shall be eligible for membership on the Board. The Board shall elect one of the commissioners as chairman. One or two vacancies on the Board shall not impair the right of the remaining commissioners to exercise all the powers of the Board.
 
-The commissioner shall serve without compensation: <i>Provided</i>, That each Commissioner shall be paid per diem in lieu of subsistence and other expenses at a rate that does not exceed the rate authorized by section 5703 of title 5 to be paid to persons serving without compensation.
+The commissioner shall serve without compensation: <i>Provided</i>, That each Commissionershall be paid per diem in lieu of subsistence and other expenses at a rate that does not exceed the rate authorized by section 5703 of title 5 to be paid to persons serving without compensation.
 
 (Aug. 27, 1935, ch. 748, §1, 49 Stat. 891; Pub. L. 87–23, §1, Apr. 24, 1961, 75 Stat. 45.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ The commissioner shall serve without compensation: <i>Provided</i>, That each Co
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–23 substituted authorization for payment of per diem to Board members at the rate authorized for other persons serving without compensation for former provision reimbursing actual expenses, including travel expenses, subsistence and office overhead, incurred incidental to performance of duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2010 Amendment
 
@@ -25,6 +29,8 @@ Pub. L. 106–497, §1, Nov. 9, 2000, 114 Stat. 2219, provided that: "This Act \
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–644, title I, §101, Nov. 29, 1990, 104 Stat. 4662, provided that: "This title \[enacting sections 305d and 305e of this title, amending section 305a of this title and sections 1158 and 1159 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 305e of this title\] may be cited as the 'Indian Arts and Crafts Act of 1990'."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -90,6 +90,8 @@ The purpose of this section is to strengthen the public educational systems in p
 
 (Pub. L. 108–458, title VII, §7114, Dec. 17, 2004, 118 Stat. 3798; Pub. L. 110–53, title XX, §2012, Aug. 3, 2007, 121 Stat. 509.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
@@ -103,6 +105,8 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–53 amended section catchline and text generally, substituting provisions relating to purpose of section, authority of President to establish an International Muslim Youth Opportunity Fund as a separate fund in the Treasury or through an international organization or financial institution, and authority of Fund to support specified activities, for provisions setting forth congressional findings and authorizing the Secretary of State to establish an International Youth Opportunity Fund through an existing international organization.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings; Policy
 
@@ -129,6 +133,8 @@ Policy.—It is the policy of the United States—
 &emsp;"(3) to offer additional incentives to increase the availability of modern basic education in predominantly Muslim countries; and
 
 &emsp;"(4) to work to prevent financing of educational institutions that support radical Islamic fundamentalism."
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Specified Reporting and Determination Functions Relating to Afghanistan, Pakistan, Saudi Arabia, and Certain Education Abroad
 

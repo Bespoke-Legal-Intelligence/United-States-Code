@@ -4,9 +4,13 @@ The Secretary of the Interior may, in his discretion, authorize superintendents 
 
 (May 11, 1938, ch. 198, §5, 52 Stat. 348.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeal of Inconsistent Acts
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

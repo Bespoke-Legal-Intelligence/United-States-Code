@@ -10,9 +10,9 @@
 
 &emsp;(4) cast alloys into bars for minting coins.
 
-(b) A person owning gold or silver bullion may deposit the bullion with the Secretary to be cast into fine, standard fineness, or unrefined bars weighing at least 5 troy ounces. When practicable, the Secretary shall weigh the bullion in front of the depositor. The Secretary shall give the depositor a receipt for the bullion stating the description and weight of the bullion. When the Secretary has to melt the bullion or remove base metals before the value of the bullion can be determined, the weight is the weight after the melting or removal of the metals. The Secretary may refuse a deposit of gold bullion if the deposit is less than $100 in value or the bullion is so base that it is unsuitable for the operations of the Bureau of the Mint.
+(b) A person owning gold or silver bullion may deposit the bullion with the Secretary to be cast into fine, standard fineness, or unrefined bars weighing at least 5 troy ounces. When practicable, the Secretary shall weigh the bullion in front of the depositor. The Secretary shall give the depositor a receipt for the bullion stating the description and weight of the bullion. When the Secretary has to melt the bullion or remove base metals before the value of the bullion can be determined, the weight is the weight after the melting or removal of the metals. The Secretary may refuse a deposit of gold bullion if the deposit is less than $100 in value or the bullionis so base that it is unsuitable for the operations of the Bureau of the Mint.
 
-(c) When the gold and silver are combined in bullion that is deposited and either the gold or silver is so little that it cannot be separated economically, the Secretary may not pay thedepositor for the gold or silver that cannot be separated.
+(c) When the gold and silver are combined in bullion that is deposited and either the gold or silver is so little that it cannot be separated economically, the Secretary may not pay the depositor for the gold or silver that cannot be separated.
 
 (d)(1) Under conditions prescribed by the Secretary, a person may exchange unrefined bullion for fine bars when—
 
@@ -133,6 +133,8 @@ In subsection (d)(1), before clause (A), the words "at any of the mints" in 31:3
 In subsection (d)(2), the words "in an exchange under this subsection" are added for clarity. The word "refining" is substituted for "refining or parting" for consistency in the revised chapter.
 
 In subsection (e), the word "suitable" is substituted for "expedient" in 31:325(words between 4th and last commas) for clarity. The words "but the fineness thereof shall be ascertained and" in 31:347 are omitted as unnecessary because of the source provisions restated in section 5121(a) of the revised title.
+
+#### <b>Executive Documents</b>
 
 #### Possession of Gold Coins and Bullion
 

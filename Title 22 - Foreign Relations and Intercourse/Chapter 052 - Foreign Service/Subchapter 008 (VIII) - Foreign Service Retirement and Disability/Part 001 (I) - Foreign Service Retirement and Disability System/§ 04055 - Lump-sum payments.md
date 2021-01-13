@@ -28,7 +28,7 @@ If all annuity rights under this part based on the service of a deceased partici
 
 #### (d) Lack of eligible survivors
 
-If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individual or individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f).
+If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individualor individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f).
 
 #### (e) Death of annuitant who was former participant
 
@@ -48,7 +48,7 @@ Payments under subsections (c) through (e) shall be paid in the following order 
 
 &emsp;(5) If none of the above, to the duly appointed executor or administrator of the estate of the participant.
 
-&emsp;(6) If none of the above, to such other next of kin of the participant as may be determined in the judgment of the Secretary of State to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 daysafter the death of the participant or annuitant.
+&emsp;(6) If none of the above, to such other next of kin of the participant as may be determined in the judgment of the Secretary of State to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days after the death of the participant or annuitant.
 
 #### (g) Death of survivor annuitant
 
@@ -78,6 +78,8 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 <i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–238 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees' Retirement System Act of 1986."
@@ -87,6 +89,8 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 Subsecs. (c), (d). Pub. L. 99–335, §402(a)(2), substituted "part" for "subchapter".
 
 Subsec. (i). Pub. L. 99–335, §404(c), inserted provision defining "creditable service" as service creditable under part I or II of this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -14,7 +14,7 @@ If a person who shall have been naturalized after December 24, 1952 shall within
 
 #### (d) Applicability to citizenship through naturalization of parent or spouse
 
-Any person who claims United States citizenship through the naturalization of a parent or spouse in whose case there is a revocation and setting aside of the order admitting such parent or spouse to citizenship under the provisions of subsection (a) of this section on the ground that the order and certificate of naturalization were procured by concealment of a material fact or by willful misrepresentation shall be deemed to have lost and to lose his citizenship and any right or privilege of citizenship which he may have, now has, or may hereafter acquire under and by virtue of such naturalization of such parent or spouse, regardless of whether such person is residing within or without the United States at the time of the revocation and setting aside of the order admitting such parent or spouse to citizenship. Any person who claims United States citizenship through the naturalization of a parent or spouse in whose case there is a revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization under the provisions of subsection (c) of this section, or under the provisions of section 1440(c) of this title on any ground other than that the order and certificate of naturalization were procured by concealment of a material fact or by willful misrepresentation, shall be deemed tohave lost and to lose his citizenship and any right or privilege of citizenship which would have been enjoyed by such person had there not been a revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization, unless such person is residing in the United States at the time of the revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization.
+Any person who claims United States citizenship through the naturalization of a parent or spouse in whose case there is a revocation and setting aside of the order admitting such parent or spouse to citizenship under the provisions of subsection (a) of this section on the ground that the order and certificate of naturalization were procured by concealment of a material fact or by willful misrepresentation shall be deemed to have lost and to lose his citizenship and any right or privilege of citizenship which he may have, now has, or may hereafter acquire under and by virtue of such naturalization of such parent or spouse, regardless of whether such person is residing within or without the United States at the time of the revocation and setting aside of the order admitting such parent or spouse to citizenship. Any person who claims United States citizenship through the naturalization of a parent or spouse in whose case there is a revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization under the provisions of subsection (c) of this section, or under the provisions of section 1440(c) of this title on any ground other than that the order and certificate of naturalization were procured by concealment of a material fact or by willful misrepresentation, shall be deemed to have lost and to lose his citizenship and any right or privilege of citizenship which would have been enjoyed by such person had there not been a revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization, unless such person is residing in the United States at the time of the revocation and setting aside of the order admitting such parent or spouse to citizenship and the cancellation of the certificate of naturalization.
 
 #### (e) Citizenship unlawfully procured
 
@@ -33,6 +33,8 @@ The provisions of this section shall apply not only to any naturalization grante
 Nothing contained in this section shall be regarded as limiting, denying, or restricting the power of the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §340, 66 Stat. 260; Sept. 3, 1954, ch. 1263, §18, 68 Stat. 1232; Pub. L. 87–301, §18, Sept. 26, 1961, 75 Stat. 656; Pub. L. 99–653, §17, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §9(dd), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(d)(18), Nov. 29, 1990, 104 Stat. 5046; Pub. L. 102–232, title III, §305(k), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §104(b), (c), Oct. 25, 1994, 108 Stat. 4308.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsecs. (e) to (j). Pub. L. 100–525, §9(dd)(2), (3), redesignated former sub
 Subsec. (b). Pub. L. 87–301, §18(b), inserted "illegally procured or" before "procured by concealment".
 
 <b>1954</b>—Subsec. (a). Act Sept. 3, 1954, substituted "United States attorneys" for "United States district attorneys".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

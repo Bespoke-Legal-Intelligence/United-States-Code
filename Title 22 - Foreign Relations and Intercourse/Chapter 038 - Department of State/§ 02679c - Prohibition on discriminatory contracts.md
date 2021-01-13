@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchasethreshold (as defined in section 134 of title 41— <sup>1</sup>
+(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 134 of title 41— <sup>1</sup>
 
 &emsp;(A) with a foreign person that complies with the Arab League boycott of Israel, or
 
@@ -54,6 +54,8 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (Pub. L. 103–236, title V, §565, Apr. 30, 1994, 108 Stat. 484; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(3), Oct. 21, 1998, 112 Stat. 2681–790.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4607(a) of title 50, referred to in subsecs. (a)(2)(A), (3) and (c)(3), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -69,6 +71,8 @@ In subsec. (a)(1), "section 134 of title 41" substituted for "section 4(11) of t
 #### Amendments
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–277 struck out heading and text of subsec. (e). Text read as follows: "The provisions of this section shall apply to the United States Information Agency in the same manner and extent to which such provisions apply to the Department of State. In the application of this section to the United States Information Agency, the Director of the United States Information Agency or a designee shall have the authorities and responsibilities of the Secretary of State."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

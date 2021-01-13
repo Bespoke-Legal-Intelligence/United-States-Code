@@ -24,7 +24,7 @@ A person who willfully commits, willfully attempts to commit, or willfully consp
 
 "(a) A civil penalty of not to exceed $50,000 may be imposed on any person who violates, or attempts to violate, any license, order, or regulation issued under this chapter.
 
-"(b) Whoever willfully violates, or willfully attempts to violate, any license, order, or regulation issued under this chapter shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than twenty years, or both; and any officer, director, or agent of any corporation who knowingly participates in such violation may be punished by a like fine, imprisonment, or both."
+"(b) Whoever willfully violates, or willfully attempts to violate, any license, order, or regulation issued under this chapter shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than twenty years, or both; andany officer, director, or agent of any corporation who knowingly participates in such violation may be punished by a like fine, imprisonment, or both."
 
 #### Effective Date of 2007 Amendment
 

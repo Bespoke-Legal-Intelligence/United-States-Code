@@ -14,7 +14,7 @@ Proclamation.—The President may issue each year a proclamation calling on Unit
 
 (d)
 
-State and Local Observances.—The civil and educational authorities of States, counties, cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
+State and Local Observances.—The civil and educational authorities of States, counties,cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255; Pub. L. 108–447, div. J, title I, §111(c)(1), Dec. 8, 2004, 118 Stat. 3344.)
 
@@ -54,6 +54,8 @@ Feb. 29, 1952, ch. 49, §1, 66 Stat. 9.
 
 In subsection (d), the text of 36:153 (last par.) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447, §111(c)(1)(A), inserted "Constitution Day and" before "Citizenship Day" in section catchline.
@@ -65,6 +67,8 @@ Subsec. (b). Pub. L. 108–447, §111(c)(1)(C), inserted "Constitution Day and" 
 Subsec. (c). Pub. L. 108–447, §111(c)(1)(D), inserted "Constitution Day and" before "Citizenship Day" in two places.
 
 Subsec. (d). Pub. L. 108–447, §111(c)(1)(E), inserted "Constitution Day and" before "Citizenship Day".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Educational and Training Materials for New Federal Employees Concerning the U.S. Constitution
 

@@ -68,7 +68,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, asif amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -78,7 +78,7 @@ Amendment by section 142(a) of Pub. L. 107–210 effective on the date that is 1
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
 
 #### Effective Date of 1982 Amendment
 

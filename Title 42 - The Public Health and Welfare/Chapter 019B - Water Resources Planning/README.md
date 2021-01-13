@@ -6,6 +6,7 @@
 | 1962–1. | Effect on existing laws. |
 | 1962–2. | Congressional statement of objectives. |
 | 1962–3. | Water resources principles and guidelines. |
+| 1962–4. | Implementation of water resources principles and requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,6 +97,7 @@
 - [&sect; 01962&#8211;1 - Effect on existing laws](%C2%A7%2001962%E2%80%931%20-%20Effect%20on%20existing%20laws.md)
 - [&sect; 01962&#8211;2 - Congressional statement of objectives](%C2%A7%2001962%E2%80%932%20-%20Congressional%20statement%20of%20objectives.md)
 - [&sect; 01962&#8211;3 - Water resources principles and guidelines](%C2%A7%2001962%E2%80%933%20-%20Water%20resources%20principles%20and%20guidelines.md)
+- [&sect; 01962&#8211;4 - Implementation of water resources principles and requirements](%C2%A7%2001962%E2%80%934%20-%20Implementation%20of%20water%20resources%20principles%20and%20requirements.md)
 - [Subchapter 001 (I) - Water Resources Council](Subchapter%20001%20%28I%29%20-%20Water%20Resources%20Council/README.md)
 - [Subchapter 002 (II) - River Basin Commissions](Subchapter%20002%20%28II%29%20-%20River%20Basin%20Commissions/README.md)
 - [Subchapter 003 (III) - Financial Assistance to States for Comprehensive Planning Grant Authorizations](Subchapter%20003%20%28III%29%20-%20Financial%20Assistance%20to%20States%20for%20Comprehensive%20Planning%20Grant%20Authorizations/README.md)

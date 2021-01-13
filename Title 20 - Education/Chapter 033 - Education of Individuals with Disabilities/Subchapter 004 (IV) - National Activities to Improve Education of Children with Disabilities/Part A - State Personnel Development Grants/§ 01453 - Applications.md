@@ -50,7 +50,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;(7) describe how the State educational agency will recruit and retain teachers who meet the qualifications described in section 1412(a)(14)(C) of this title and other qualified personnel in geographic areas of greatest need;
 
-&emsp;(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher rates by teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title; and
+&emsp;(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher ratesby teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title; and
 
 &emsp;(9) describe how the State educational agency will assess, on a regular basis, the extent to which the strategies implemented under this part have been effective in meeting the performance goals described in section 1412(a)(15) of this title.
 
@@ -90,7 +90,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 8
 
 #### Prior Provisions
 
-A prior section 1453, Pub. L. 91–230, title VI, §653, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1453, Pub. L. 91–230, title VI, §653, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1453, Pub. L. 91–230, title VI, §653, Apr. 13, 1970, 84 Stat. 187; Pub. L. 94–142, §6(b), Nov. 29, 1975, 89 Stat. 795; Pub. L. 99–386, title II, §204, Aug. 22, 1986, 100 Stat. 823, related to establishment and operation of centers on educational media and materials for handicapped, prior to repeal by Pub. L. 99–457, title III, §316, Oct. 8, 1986, 100 Stat. 1171.
 

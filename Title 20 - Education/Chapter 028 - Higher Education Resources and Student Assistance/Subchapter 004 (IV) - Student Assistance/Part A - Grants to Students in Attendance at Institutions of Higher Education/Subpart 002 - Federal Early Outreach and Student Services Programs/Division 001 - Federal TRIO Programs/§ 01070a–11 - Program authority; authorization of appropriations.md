@@ -54,7 +54,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (5) Number of applications for grants and contracts
 
-&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if the additional applications describe programs serving different populations or different campuses.
+&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if theadditional applications describe programs serving different populations or different campuses.
 
 #### (6) Coordination with other programs for disadvantaged students
 
@@ -104,7 +104,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;&emsp;(I) review such evidence and provide a timely response to the applicant; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of the application appropriately and quickly, so as not to interfere with the timely awarding of grants for the applicable grant competition.
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of theapplication appropriately and quickly, so as not to interfere with the timely awarding of grants for the applicable grant competition.
 
 #### (iv) Error in peer review process
 
@@ -256,7 +256,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;(D) For programs authorized under section 1070a–15 of this title, the extent to which the entity met or exceeded the entity's objectives for such program regarding—
 
-&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, as agreed upon by the entity and the Secretary for the period;
+&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, asagreed upon by the entity and the Secretary for the period;
 
 &emsp;&emsp;&emsp;(ii) the provision of appropriate scholarly and research activities for the students served by the program;
 
@@ -338,7 +338,7 @@ For the purpose of this division:
 
 The General Education Provisions Act, referred to in subsec. (c)(8)(A)(i), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 

@@ -22,9 +22,13 @@ For purposes of this subchapter, the critical capital level for each enterprise 
 
 (Pub. L. 102–550, title XIII, §1363, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, §1141(a), July 30, 2008, 122 Stat. 2730.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–289 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

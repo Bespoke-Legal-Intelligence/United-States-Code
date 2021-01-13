@@ -2,7 +2,7 @@
 
 #### (a) Compliance with chapter 83 of title 41
 
-No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity, in expending the funds, complies with chapter 83 of title 41.
+No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity,in expending the funds, complies with chapter 83 of title 41.
 
 #### (b) Debarment of persons convicted of fraudulent use of "Made in America" labels
 

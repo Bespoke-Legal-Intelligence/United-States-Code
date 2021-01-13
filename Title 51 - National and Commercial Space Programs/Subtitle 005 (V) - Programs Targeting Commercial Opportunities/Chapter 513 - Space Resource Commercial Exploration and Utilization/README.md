@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90, title IV, §402(a), Nov. 25, 2015, 129 Stat. 720, added chapter 513 and items 51301 to 51303.

@@ -52,7 +52,7 @@
 
 #### (iii) Credibility determination
 
-&emsp;&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, a trier of fact may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoodsin such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility, however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
+&emsp;&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, a trier of fact may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoods in such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility, however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
 
 #### (2) Exceptions
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (B) Continued classification of certain aliens as children
 
@@ -186,9 +186,11 @@
 
 #### (e) Commonwealth of the Northern Mariana Islands
 
-The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of theNorthern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
+The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
 
 (June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -219,6 +221,8 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end "The Attorney General 
 <b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–649 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -18,17 +18,21 @@
 
 (Aug. 1, 1956, ch. 841, title I, §15, 70 Stat. 892; Pub. L. 92–226, pt. IV, §407(b), Feb. 7, 1972, 86 Stat. 35; Pub. L. 92–352, title I, §102, July 13, 1972, 86 Stat. 490; Pub. L. 93–475, §11, Oct. 26, 1974, 88 Stat. 1442; H. Res. 163, Mar. 19, 1975; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par. 3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted "enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972" of ", no appropriation shall be made to the Department of State under any law for any fiscal year commencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.", in par. (1) preceding subpar. (A), and "section" for "subsection" in par. (3).
+<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par.3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted "enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972" of ", no appropriation shall be made to the Department of State under any law for any fiscal year commencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.", in par. (1) preceding subpar. (A), and "section" for "subsection" in par. (3).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–352 inserted provisions that this subsection shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts administered by the Department as authorized by law.
 
 Pub. L. 92–226 substituted provisions constituting subsecs. (a) and (b) and prohibiting any State Department appropriation on and after July 1, 1972, without a prior congressional legislative authorization, and requiring the State Department and Federal agencies to furnish information to congressional committees for former provisions constituting the entire section and authorizing and making appropriations available for the State Department.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Funding
 

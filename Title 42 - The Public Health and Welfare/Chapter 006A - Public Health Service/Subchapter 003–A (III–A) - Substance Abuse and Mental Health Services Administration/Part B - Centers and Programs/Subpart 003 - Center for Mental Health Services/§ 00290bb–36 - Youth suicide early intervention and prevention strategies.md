@@ -32,7 +32,11 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 #### (3) Consideration
 
-&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including the incidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
+&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including theincidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
+
+#### (4) Consultation
+
+&emsp;An entity described in paragraph (1)(A) or (1)(B) that applies for a grant or cooperative agreement under this section shall agree to consult or confer with entities described in paragraph (1)(C) and Native Hawaiian Health Care Systems, as applicable, in the applicable State with respect to the development and implementation of a statewide early intervention strategy.
 
 #### (c) Preference
 
@@ -88,7 +92,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 &emsp;&emsp;(D) youth who are at risk for suicide, who have survived suicide attempts, or who are currently receiving care from early intervention services;
 
-&emsp;&emsp;(E) families and friends of youth who are at risk for suicide, who have survived suicide attempts, who are currently receiving care from early intervention and prevention services, or who have completed suicide;
+&emsp;&emsp;(E) families and friends of youth who are at risk for suicide, who have survived suicide attempts, who are currently receiving carefrom early intervention and prevention services, or who have completed suicide;
 
 &emsp;&emsp;(F) qualified professionals who possess the specialized knowledge, skills, experience, and relevant attributes needed to serve youth at risk for suicide and their families; and
 
@@ -170,7 +174,7 @@ In this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13, 2016, 130 Stat. 1203, 1242.)
+(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13,2016, 130 Stat. 1203, 1242; Pub. L. 116–260, div. BB, title III, §315, Dec. 27, 2020, 134 Stat. 2932.)
 
 #### References in Text
 
@@ -189,6 +193,8 @@ The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107
 A prior section 290bb–36, act July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 106–310, div. B, title XXXI, §3111, Oct. 17, 2000, 114 Stat. 1186, and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by Pub. L. 108–355, §3(b)(2), Oct. 21, 2004, 118 Stat. 1409, and transferred to section 290bb–36a of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(4). Pub. L. 116–260 added par. (4).
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" in introductory provisions.
 
@@ -226,7 +232,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(6) From 1980 to 1997, the rate of suicide among children ages 10 to 14 increased 109 percent.
 
-&emsp;"(7) According to the National Center of Health Statistics, suicide rates among Native Americansrange from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
+&emsp;"(7) According to the National Center of Health Statistics, suicide rates among Native Americans range from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
 
 &emsp;"(8) Congress has recognized that youth suicide is a public health tragedy linked to underlying mental health problems and that youth suicide early intervention and prevention activities are national priorities.
 
@@ -238,7 +244,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(12) There is clear evidence of an increased incidence of depression among college students. According to a survey described in the Chronicle of Higher Education (February 1, 2002), depression among freshmen has nearly doubled (from 8.2 percent to 16.3 percent). Without treatment, researchers recently noted that 'depressed adolescents are at risk for school failure, social isolation, promiscuity, self-medication with drugs and alcohol, and suicide—now the third leading cause of death among 10–24 year olds.'.
 
-&emsp;"(13) Researchers who conducted the study 'Changes in Counseling Center Client Problems Across 13 Years' (1989–2001) at Kansas State University stated that 'students are experiencing more stress, more anxiety, more depression than they were a decade ago.' (The Chronicle of Higher Education, February 14, 2003).
+&emsp;"(13) Researchers who conducted the study 'Changes in Counseling Center Client ProblemsAcross 13 Years' (1989–2001) at Kansas State University stated that 'students are experiencing more stress, more anxiety, more depression than they were a decade ago.' (The Chronicle of Higher Education, February 14, 2003).
 
 &emsp;"(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
 

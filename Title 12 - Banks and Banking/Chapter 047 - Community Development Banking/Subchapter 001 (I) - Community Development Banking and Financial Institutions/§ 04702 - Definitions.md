@@ -84,7 +84,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (13) Insured community development financial institution
 
-&emsp;The term "insured community development financial institution" means any community development financial institution that is aninsured depository institution or an insured credit union.
+&emsp;The term "insured community development financial institution" means any community development financial institution that is an insured depository institution or an insured credit union.
 
 #### (14) Insured credit union
 
@@ -137,6 +137,8 @@ For purposes of this subchapter, the following definitions shall apply:
 &emsp;The term "training program" means the training program operated by the Fund under section 4708 of this title.
 
 (Pub. L. 103–325, title I, §103, Sept. 23, 1994, 108 Stat. 2163.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

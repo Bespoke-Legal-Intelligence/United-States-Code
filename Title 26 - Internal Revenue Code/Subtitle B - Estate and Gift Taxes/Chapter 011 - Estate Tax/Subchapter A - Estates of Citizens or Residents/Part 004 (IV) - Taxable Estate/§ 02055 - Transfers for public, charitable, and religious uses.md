@@ -22,7 +22,7 @@ Property includible in the decedent's gross estate under section 2041 (relating 
 
 #### (c) Death taxes payable out of bequests
 
-If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes, are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
+If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes,are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
 
 #### (d) Limitation on deduction
 
@@ -180,7 +180,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
 
-&emsp;&emsp;<b>(7) For treatment of gifts or bequests of money accepted by the Attorney General for credit to "Commissary Funds, Federal Prisons," as gifts or bequests to or for the use of the United States, see section 4043 of title 18, United States Code.</b>
+&emsp;&emsp;<b>(7) For treatment of gifts or bequests of money accepted by the Attorney General for credit to "Com</b><b>missary Funds, Federal Prisons," as gifts or bequests to or for the use of the United States, see section 4043 of title 18, United States Code.</b>
 
 &emsp;&emsp;<b>(8) For payment of tax on gifts and bequests of United States obligations to the United States, see section 3113(e) of title 31, United States Code.</b>
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

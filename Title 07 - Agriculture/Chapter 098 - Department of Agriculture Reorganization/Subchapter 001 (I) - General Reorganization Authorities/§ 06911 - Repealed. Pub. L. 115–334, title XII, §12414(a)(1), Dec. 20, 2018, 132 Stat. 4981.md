@@ -1,6 +1,6 @@
 ### §6911. Repealed. Pub. L. 115–334, title XII, §12414(a)(1), Dec. 20, 2018, 132 Stat. 4981
 
-Section, Pub. L. 103–354, title II, §211, Oct. 13, 1994, 108 Stat. 3209; Pub. L. 104–127, title VII, §722(c), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 107–171, title VI, §6201(d)(3), May13, 2002, 116 Stat. 419, related to transfer of Department functions to Secretary of Agriculture.
+Section, Pub. L. 103–354, title II, §211, Oct. 13, 1994, 108 Stat. 3209; Pub. L. 104–127, title VII, §722(c), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 107–171, title VI, §6201(d)(3), May 13, 2002, 116 Stat. 419, related to transfer of Department functions to Secretary of Agriculture.
 
 #### Construction of 2018 Amendment
 

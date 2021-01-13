@@ -18,5 +18,5 @@ For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–146 effective Oct. 1, 1996, and amendment by section 6(c)(1)(A) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, and amendment by section 6(c)(1)(A) of Pub. L. 104–146effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 

@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted "; Enhanced-Use Leases of Real Property" in item for chapter 81.

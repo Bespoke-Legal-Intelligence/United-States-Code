@@ -42,9 +42,9 @@ For purposes of this section:
 
 #### (d) Special rule for certain property not held on September 6, 2008
 
-The Secretary of the Treasury or the Secretary's delegate may extend the application ofthis section to all or a portion of the gain or loss from a sale or exchange in any case where—
+The Secretary of the Treasury or the Secretary's delegate may extend the application of this section to all or a portion of the gain or loss from a sale or exchange in any case where—
 
-&emsp;(1) an applicable financial institution sells or exchanges applicable preferred stock after September 6, 2008, which the applicable financial institution did not hold on such date, but the basis of which in the hands of the applicable financial institution at the time of the sale or exchange is the same as the basis in the hands of the person which held such stock on such date, or
+&emsp;(1) an applicable financial institution sells or exchanges applicable preferred stock afterSeptember 6, 2008, which the applicable financial institution did not hold on such date, but the basis of which in the hands of the applicable financial institution at the time of the sale or exchange is the same as the basis in the hands of the person which held such stock on such date, or
 
 &emsp;(2) the applicable financial institution is a partner in a partnership which—
 
@@ -61,6 +61,8 @@ The Secretary of the Treasury or the Secretary's delegate may prescribe such gui
 This section shall apply to sales or exchanges occurring after December 31, 2007, in taxable years ending after such date.
 
 (Pub. L. 110–343, div. A, title III, §301, Oct. 3, 2008, 122 Stat. 3802.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

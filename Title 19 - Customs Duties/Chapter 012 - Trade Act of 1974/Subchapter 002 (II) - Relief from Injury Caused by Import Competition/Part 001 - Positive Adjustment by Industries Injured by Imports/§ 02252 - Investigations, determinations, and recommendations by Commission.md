@@ -18,7 +18,7 @@
 
 (4) A petitioner under paragraph (1) may submit to the Commission and the United States Trade Representative (hereafter in this part referred to as the "Trade Representative"), either with the petition, or at any time within 120 days after the date of filing of the petition, a plan to facilitate positive adjustment to import competition.
 
-(5)(A) Before submitting an adjustment plan under paragraph (4), the petitioner and other entities referred to in paragraph (1) that wish to participate may consult with the Trade Representative and the officers and employees of any Federal agency that is considered appropriate by the Trade Representative, for purposes of evaluating the adequacy of the proposals being considered for inclusion in the plan in relation to specific actions that may be taken under this part.
+(5)(A) Before submitting an adjustment plan under paragraph (4), the petitioner and other entities referred to in paragraph (1) that wish to participate may consult with the Trade Representative and the officers and employees of any Federal agency that is considered appropriate by the Trade Representative, for purposesof evaluating the adequacy of the proposals being considered for inclusion in the plan in relation to specific actions that may be taken under this part.
 
 (B) A request for any consultation under subparagraph (A) must be made to the Trade Representative. Upon receiving such a request, the Trade Representative shall confer with the petitioner and provide such assistance, including publication of appropriate notice in the Federal Register, as may be practicable in obtaining other participants in the consultation. No consultation may occur under subparagraph (A) unless the Trade Representative, or his delegate, is in attendance.
 
@@ -40,11 +40,11 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, title III of the United States–Korea Free Trade Agreement Implementation Act, title III of the United States–Colombia Trade Promotion Agreement Implementation Act, and title III of the United States–Panama Trade Promotion Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act, title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, title III of the United States–Korea Free Trade Agreement Implementation Act, title III of the United States–Colombia Trade Promotion Agreement Implementation Act,,<sup>1</sup> title III of the United States-Panama Trade Promotion Agreement Implementation Act, and subtitle C of title III of the United States-Mexico-Canada Agreement Implementation Act \[19 U.S.C. 4571 et seq.\]. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
-(1)(A) Upon the filing of a petition under subsection (a), the request of the President or theTrade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
+(1)(A) Upon the filing of a petition under subsection (a), the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
 
 (B) For purposes of this section, the term "substantial cause" means a cause which is important and not less than any other cause.
 
@@ -94,7 +94,7 @@
 
 &emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
-(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, orother remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
+(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
 (6) For purposes of this section:
 
@@ -116,7 +116,7 @@
 
 &emsp;(ii) there is a reasonable indication that such product is being imported into the United States in such increased quantities as to be, or likely to be, a substantial cause of serious injury, or the threat thereof, to such domestic industry.
 
-(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Trade Representative shall request, under section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\], the Commission to monitor and investigate the imports concerned for a period not to exceed 2 years. The monitoring and investigation may include the collection and analysis of information that would expedite an investigation under subsection (b).
+(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Trade Representative shall request, under section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\], the Commission to monitor and investigate the imports concerned for a period not to exceed 2 years. The monitoring and investigation may include the collection and analysis of informationthat would expedite an investigation under subsection (b).
 
 (C) If a petition filed under subsection (a)—
 
@@ -164,7 +164,7 @@
 
 (B) Any suspension of liquidation ordered under paragraph (3) with respect to an imported article shall terminate on the day on which provisional relief is terminated under subparagraph (A) with respect to the article.
 
-(C) If an increase in, or the imposition of, a duty that is proclaimed under section 2253 of this title on an imported article is different from a duty increase or imposition that was proclaimed for such an article under this section, then the entry of any such article for which liquidation was suspended under paragraph (3) shall be liquidated at whichever of such rates of duty is lower.
+(C) If an increase in, or the imposition of, a duty that is proclaimed under section 2253 ofthis title on an imported article is different from a duty increase or imposition that was proclaimed for such an article under this section, then the entry of any such article for which liquidation was suspended under paragraph (3) shall be liquidated at whichever of such rates of duty is lower.
 
 (D) If provisional relief in the form of an increase in, or the imposition of, a duty is proclaimed under this section with respect to an imported article and neither a duty increase nor a duty imposition is proclaimed under section 2253 of this title regarding such article, the entry of any such article for which liquidation was suspended under paragraph (3) may be liquidated at the rate of duty that applied before provisional relief was provided.
 
@@ -258,7 +258,7 @@
 
 &emsp;(G) A description of—
 
-&emsp;&emsp;(i) the short- and long-term effects that implementation of the action recommended under subection <sup>1</sup> (e) is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers, and
+&emsp;&emsp;(i) the short- and long-term effects that implementation of the action recommended under subection <sup>2</sup> (e) is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers, and
 
 &emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
@@ -290,7 +290,7 @@ If the Commission makes an affirmative determination under subsection (b)(1), th
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527; Pub. L. 116–113, title III, §325, Jan. 29, 2020, 134 Stat. 60.)
 
 #### Amendment of Section
 
@@ -320,7 +320,7 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 #### References in Text
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which was classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title, prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020). For complete classification of this Act to the Code, see Short Title note under former section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
@@ -346,9 +346,13 @@ Title III of the United States–Colombia Trade Promotion Agreement Implementati
 
 Title III of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 112–43, Oct. 21, 2011, 125 Stat. 523, which is set out in a note under section 3805 of this title.
 
+Subtitle C of title III of the United States-Mexico-Canada Agreement Implementation Act, referred to in subsec. (a)(8), is subtitle C (§§321–327) of title III of Pub. L. 116–113, which enacted part C (§4571 et seq.) of subchapter III of chapter 29 of this title and amended this section and sections 13902 and 13905 of Title 49, Transportation. For complete classification of subtitle C to the Code, see Tables.
+
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(8). Pub. L. 116–113 substituted ", title III of the United States-Panama Trade Promotion Agreement Implementation Act, and subtitle C of title III of the United States-Mexico-Canada Agreement Implementation Act" for "and title III of the United States–Panama Trade Promotion Agreement Implementation Act".
 
 <b>2011</b>—Subsec. (a)(8). Pub. L. 112–43, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States–Colombia Trade Promotion Agreement Implementation Act" and inserted before period at end ", and title III of the United States–Panama Trade Promotion Agreement Implementation Act". See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -358,7 +362,7 @@ Pub. L. 112–41, §§107(c), 316, in first sentence, temporarily struck out "an
 
 <b>2007</b>—Subsec. (a)(8). Pub. L. 110–138, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States-Oman Free Trade Agreement Implementation Act" and inserted before period at end ", and title III of the United States-Peru Trade Promotion Agreement Implementation Act". See Effective and Termination Dates of 2007 Amendment note below.
 
-<b>2006</b>—Subsec. (a)(8). Pub. L. 109–283, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States-Bahrain Free Trade Agreement Implementation Act" and inserted before period at end ", and title III of the United States-Oman Free Trade Agreement Implementation Act". See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–283, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States-Bahrain Free TradeAgreement Implementation Act" and inserted before period at end ", and title III of the United States-Oman Free Trade Agreement Implementation Act". See Effective and Termination Dates of 2006 Amendment note below.
 
 Pub. L. 109–169, §§106(c), 316, in first sentence, temporarily struck out "and" before "title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act" and inserted before period at end ", and title III of the United States-Bahrain Free Trade Agreement Implementation Act". See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -482,7 +486,7 @@ Section 301(b).—The amendment made by section 301(b) \[amending this section\]
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 318 of Pub. L. 103–182, set out as an Effective Date note under section 3351 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 318 of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3351 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -492,5 +496,7 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -22,6 +22,8 @@ July 23, 1947, ch. 298, §17, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, §1(
 
 The words "sole and" and "have and" are omitted as unnecessary. The word "adopts" is substituted for "may lawfully adopt" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–241 substituted "AMVETS (American Veterans)" for "AMVETS (American Veterans of World War II, Korea, and Vietnam)".

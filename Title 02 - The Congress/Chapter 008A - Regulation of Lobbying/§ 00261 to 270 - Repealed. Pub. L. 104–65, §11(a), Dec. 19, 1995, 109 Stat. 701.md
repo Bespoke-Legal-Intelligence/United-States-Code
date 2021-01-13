@@ -22,11 +22,13 @@ Section 270, act Aug. 2, 1946, ch. 753, title III, §311, 60 Stat. 842, related 
 
 For provisions relating to disclosure of lobbying activities to influence the Federal Government, see section 1601 et seq. of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of this title.
 
 #### Short Title
 
-Act Aug. 2, 1946, title III, §301, 60 Stat. 839, provided that title III of act Aug. 2, 1946 (enacting this chapter),could be cited as the "Federal Regulation of Lobbying Act", prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701.
+Act Aug. 2, 1946, title III, §301, 60 Stat. 839, provided that title III of act Aug. 2, 1946 (enacting this chapter), could be cited as the "Federal Regulation of Lobbying Act", prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701.
 

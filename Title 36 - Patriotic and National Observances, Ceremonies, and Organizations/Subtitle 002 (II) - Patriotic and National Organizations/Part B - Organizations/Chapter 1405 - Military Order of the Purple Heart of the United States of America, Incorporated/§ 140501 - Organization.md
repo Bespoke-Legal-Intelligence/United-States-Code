@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Military Order of the Purple Heart of the United States of America,Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
+Federal Charter.—Military Order of the Purple Heart of the United States of America, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

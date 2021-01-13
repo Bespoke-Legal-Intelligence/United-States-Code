@@ -42,6 +42,8 @@ Any Federal responsibility—
 
 (Pub. L. 99–662, title I, §102, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 113–121, title II, §2013, June 10, 2014, 128 Stat. 1271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title III of this Act, referred to in subsecs. (a)(1) and (d)(1), is title III of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4109, consisting of sections 301 and 302. The projects authorized by title III probably mean the projects authorized by section 301 of Pub. L. 99–662, which is not classified to the Code. Section 302 of Pub. L. 99–662, which established the Inland Waterways Users Board, is classified to section 2251 of this title.
@@ -51,6 +53,12 @@ Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 8
 #### Amendments
 
 <b>2014</b>—Subsecs. (c), (d). Pub. L. 113–121 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Inland Waterway Projects
+
+Pub. L. 116–260, div. AA, title I, §109, Dec. 27, 2020, 134 Stat. 2624, provided that: "Notwithstanding section 102 of the Water Resources Development Act of 1986 (33 U.S.C. 2212), for a project for navigation on the inland waterways receiving a construction appropriation during any of fiscal years 2021 through 2031, 35 percent of the costs of construction of the project shall be paid from amounts appropriated from the Inland Waterways Trust Fund until such construction of the project is complete."
 
 #### Acceptance of Contributed Funds To Increase Lock Operations
 

@@ -10,7 +10,7 @@
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions ofthis section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) the alien was otherwise not conforming to the requirements of section 1153(b)(5) of this title,
 
-> &emsp;then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alienchild) involved as of the date of the determination.
+> &emsp;then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
 
 #### (2) Hearing in removal proceeding
 
@@ -84,7 +84,7 @@
 
 #### (C) Termination if adverse determination
 
-&emsp;&emsp;If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
+&emsp;&emsp;If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent residentstatus of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
 
 #### (D) Hearing in removal proceeding
 
@@ -114,7 +114,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure tofile a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -135,6 +135,8 @@ In this section:
 &emsp;(3) The term "commercial enterprise" includes a limited partnership.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -173,6 +175,8 @@ Subsec. (d)(2)(C). Pub. L. 104–208 substituted "removal" for "deportation" whe
 <b>1991</b>—Subsec. (c)(2)(A). Pub. L. 102–232, §302(b)(3)(A), in closing provisions inserted parenthetical provision relating to alien's spouse and children.
 
 Subsecs. (c)(3)(B), (d)(2)(A). Pub. L. 102–232, §302(b)(3)(B), struck out "obtaining the status of" before "lawful admission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -356,7 +360,7 @@ Determinations after petition.—If a petition is filed by an eligible alien in 
 
 &emsp;&emsp;"(F)
 
-Removal of conditional basis if favorable determination.—If the Attorney General rendersan affirmative determination with respect to clauses (ii) and (iii) of subparagraph (E), and if the Attorney General renders a negative determination with respect to clause (i) of such subparagraph, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Removal of conditional basis if favorable determination.—If the Attorney General renders an affirmative determination with respect to clauses (ii) and (iii) of subparagraph (E), and if the Attorney General renders a negative determination with respect to clause (i) of such subparagraph, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;"(G)
 
@@ -438,7 +442,7 @@ Petition.—In order for a conditional basis established under this section for 
 
 Determination.—In carrying out section 216A(c)(3) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)) with respect to an alien described in paragraph (1), the Attorney General, in lieu of the determination described in such section 216A(c)(3), shall make a determination, within 90 days of the date of such filing, whether—
 
-&emsp;&emsp;"(A) the petition described in paragraph (1) contains any material misrepresentation in the factsand information alleged in the petition with respect to the commercial enterprises included in the petition;
+&emsp;&emsp;"(A) the petition described in paragraph (1) contains any material misrepresentation in the facts and information alleged in the petition with respect to the commercial enterprises included in the petition;
 
 &emsp;&emsp;"(B) subject to subparagraphs (B) and (C) of section 11031(c)(1), all such enterprises, considered together, created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on either of the dates described in paragraph (3); and
 

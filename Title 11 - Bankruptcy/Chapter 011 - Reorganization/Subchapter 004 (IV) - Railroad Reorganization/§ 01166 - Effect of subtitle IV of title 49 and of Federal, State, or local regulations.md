@@ -28,6 +28,8 @@ Section 1164 \[enacted as section 1166\] makes the debtor railroad subject to th
 
 \[Section 1165 (enacted as section 1166)\] The same rules apply with respect to Federal, State, or local regulations. The trustee is subject to the orders of a Federal, State, or local regulatory body to the same extent as the debtor would be if the case had not been commenced. However, any order that would require the expenditure, or the incurring of an obligation for the expenditure, of money is not effective under \[until\] approved by the court.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 601(b) of the Regional Rail Reorganization Act of 1973, referred to in par. (2), is classified to section 791(b) of Title 45, Railroads.
@@ -40,7 +42,9 @@ Section 601(b) of the Regional Rail Reorganization Act of 1973, referred to in p
 
 <b>1983</b>—Pub. L. 97–449 substituted "subtitle IV of title 49" for "Interstate Commerce Act" in section catchline, and "subtitle IV of title 49" for "the Interstate Commerce Act (49 U.S.C. 1 et seq.)" in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 

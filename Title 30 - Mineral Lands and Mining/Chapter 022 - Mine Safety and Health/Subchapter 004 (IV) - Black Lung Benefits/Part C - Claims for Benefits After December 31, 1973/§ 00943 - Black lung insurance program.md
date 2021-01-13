@@ -32,7 +32,7 @@ The Secretary may by regulation provide for general terms and conditions of insu
 
 #### (e) Premium schedule studies and investigations
 
-The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis which is (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
+The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis whichis (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
 
 #### (f) Regulations relating to premium rates
 
@@ -70,6 +70,8 @@ There are authorized to be appropriated to the insurance fund, as repayable adva
 
 (Pub. L. 91–173, title IV, §433, as added Pub. L. 95–239, §13, Mar. 1, 1978, 92 Stat. 101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 97–119, title I, §103(b), Dec. 29, 1981, 95 Stat. 1638. See section 9501(c) of Title 26, Internal Revenue Code.
@@ -77,6 +79,8 @@ Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 
 #### Codification
 
 Subsec. (h) of this section, which required the Secretary to report to Congress not later than April 1 of each year on the financial condition and operation of the insurance fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 124 of House Document No. 103–7.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

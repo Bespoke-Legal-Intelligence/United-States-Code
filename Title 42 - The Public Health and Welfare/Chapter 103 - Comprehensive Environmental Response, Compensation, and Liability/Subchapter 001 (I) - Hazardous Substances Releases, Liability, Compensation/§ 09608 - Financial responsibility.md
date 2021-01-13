@@ -40,7 +40,7 @@
 
 #### (2) Other liability
 
-&emsp;Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual, or common law liability of a guarantor, including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed, interpreted, or applied to diminish the liability of any personunder section 9607 of this title or other applicable law.
+&emsp;Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual, or common law liability of a guarantor, including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed, interpreted, or applied to diminish the liability of any person under section 9607 of this title or other applicable law.
 
 (Pub. L. 96–510, title I, §108, Dec. 11, 1980, 94 Stat. 2785; Pub. L. 99–499, title I, §§108, 127(c), Oct. 17, 1986, 100 Stat. 1631, 1692.)
 

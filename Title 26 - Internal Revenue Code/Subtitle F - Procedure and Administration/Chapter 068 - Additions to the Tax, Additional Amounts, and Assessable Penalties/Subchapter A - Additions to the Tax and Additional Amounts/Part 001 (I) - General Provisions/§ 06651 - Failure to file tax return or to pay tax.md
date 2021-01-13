@@ -26,7 +26,7 @@ For purposes of—
 
 #### (1) Additions under more than one paragraph
 
-&emsp;With respect to any return, the amount of the addition under paragraph (1) of subsection (a) shall be reduced by the amount of the addition under paragraph (2) of subsection (a) for any month (or fraction thereof) to which an addition to tax applies under both paragraphs (1) and (2). In any case described in the last sentence of subsection (a), the amount of the addition under paragraph (1) of subsection (a) shall not be reduced under the preceding sentence below the amount provided in such last sentence.
+&emsp;With respect to any return, the amount of the addition under paragraph (1) of subsection (a) shall be reduced by the amount of the addition under paragraph (2) of subsection (a) for any month (or fraction thereof) to which an addition to tax applies under both paragraphs (1) and (2). In any case described in the last sentence of subsection (a), the amount of the addition under paragraph (1) of subsection (a)shall not be reduced under the preceding sentence below the amount provided in such last sentence.
 
 #### (2) Amount of tax shown more than amount required to be shown
 
@@ -192,7 +192,7 @@ Pub. L. 105–206, title III, §3303(b), July 22, 1998, 112 Stat. 742, provided 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 303(b)(2) of Pub. L. 104–168 applicable in case of any notice and demand given afterDec. 31, 1996, see section 303(c) of Pub. L. 104–168, set out as a note under section 6601 of this title.
+Amendment by section 303(b)(2) of Pub. L. 104–168 applicable in case of any notice and demand given after Dec. 31, 1996, see section 303(c) of Pub. L. 104–168, set out as a note under section 6601 of this title.
 
 Pub. L. 104–168, title XIII, §1301(b), July 30, 1996, 110 Stat. 1475, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply in the case of any return the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[July 30, 1996\]."
 

@@ -4,9 +4,13 @@ Part E of subchapter I shall apply with respect to functions of the Attorney Gen
 
 (Pub. L. 91–513, title III, §1015, Oct. 27, 1970, 84 Stat. 1291; Pub. L. 95–633, title III, §301(b), Nov. 10, 1978, 92 Stat. 3778.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–633 inserted "or 881" after "880" wherever appearing.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

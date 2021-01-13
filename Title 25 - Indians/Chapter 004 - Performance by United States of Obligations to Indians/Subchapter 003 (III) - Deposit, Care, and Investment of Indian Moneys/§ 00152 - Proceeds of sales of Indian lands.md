@@ -4,6 +4,8 @@ All moneys received from the sales of lands that have been, or may be, ceded to 
 
 (R.S. §2093.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2093 derived from act Jan. 9, 1837, ch. 1, §1, 5 Stat. 135.

@@ -6,6 +6,8 @@
 
 (Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, §533(b)(8), Dec. 8, 1994, 108 Stat. 4990; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out "of this title" after "252".
@@ -15,6 +17,8 @@
 <b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–465 substituted "used within the United States, or imported into the United States, anything" for "used anything".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

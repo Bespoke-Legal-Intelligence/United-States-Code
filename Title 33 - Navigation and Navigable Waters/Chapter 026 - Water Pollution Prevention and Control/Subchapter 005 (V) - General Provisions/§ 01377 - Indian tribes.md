@@ -42,7 +42,7 @@ The Administrator is authorized to treat an Indian tribe as a State for purposes
 
 &emsp;(3) the Indian tribe is reasonably expected to be capable, in the Administrator's judgment, of carrying out the functions to be exercised in a manner consistent with the terms and purposes of this chapter and of all applicable regulations.
 
-> Such treatment as a State may include the direct provision of funds reserved under subsection (c) to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution ofany unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
+> Such treatment as a State may include the direct provision of funds reserved under subsection (c) to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
 
 #### (f) Grants for nonpoint source programs
 
@@ -68,6 +68,8 @@ For purposes of this section, the term—
 
 (June 30, 1948, ch. 758, title V, §518, as added Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, §207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, §6, Oct. 10, 2000, 114 Stat. 876; Pub. L. 113–121, title V, §5013, June 10, 2014, 128 Stat. 1328.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§5101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
@@ -84,7 +86,9 @@ Subsec. (c)(1). Pub. L. 113–121, §5013(2), substituted "each of fiscal years 
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–284 substituted "1344, and 1346 of this title" for "and 1344 of this title" in introductory provisions.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–581 inserted ", as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203" before period at end.
+<b>1988</b>—Subsec. (c). Pub. L. 100–581 inserted ", as defined in subsection (h) and former Indian reservationsin Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grants for Construction of Water Facilities and for Water Quality Protection
 

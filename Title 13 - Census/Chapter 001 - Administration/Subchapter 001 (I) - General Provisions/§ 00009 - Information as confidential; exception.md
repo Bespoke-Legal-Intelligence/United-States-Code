@@ -18,7 +18,7 @@
 
 Based on title 13, U.S.C., 1952 ed., §§73, 83, 122, 208, 211, 252, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (Aug. 7, 1916, ch. 274, §3, 39 Stat. 437; Apr. 2, 1924, ch. 80, §3, 43 Stat. 31; June 18, 1929, ch. 28, §§8, 11, 21, 46 Stat. 23, 25, 26; July 25, 1947, ch. 331, 61 Stat. 457; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441; Sept. 7, 1950, ch. 910, §2, 64 Stat. 784).
 
-Section consolidates parts of sections 73 and 83 of title 13, U.S.C., 1952 ed., part of section 208 of such title, section 211 of such title, that part of section 122 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of manufacturers, the mineral industries, and other businesses (see subchapter I of chapter 5 of this revised title), that part of section 252 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of governments (see subchapter III of chapter 5 of this revised title), the second proviso in such section 252, and that part ofsubsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such sections 208 and 211 applicable to the decennial censuses of housing (see subchapter II of chapter 5 of this revised title).
+Section consolidates parts of sections 73 and 83 of title 13, U.S.C., 1952 ed., part of section 208 of such title, section 211 of such title, that part of section 122 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of manufacturers, the mineral industries, and other businesses (see subchapter I of chapter 5 of this revised title), that part of section 252 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of governments (see subchapter III of chapter 5 of this revised title), the second proviso in such section 252, and that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such sections 208 and 211 applicable to the decennial censuses of housing (see subchapter II of chapter 5 of this revised title).
 
 Words "except as provided in section 8 of this title" were inserted in opening phrase of subsection (a) for the purpose of clarity.
 
@@ -29,6 +29,8 @@ The penal provisions of sections 73, 83, and 208 of title 13, U.S.C., 1952 ed., 
 Changes were made in phraseology.
 
 For remainder of sections 122, 208, and 252 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

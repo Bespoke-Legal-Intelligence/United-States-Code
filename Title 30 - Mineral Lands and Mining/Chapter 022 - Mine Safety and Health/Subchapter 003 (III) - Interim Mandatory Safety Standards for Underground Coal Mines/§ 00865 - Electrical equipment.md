@@ -12,7 +12,7 @@
 
 &emsp;(D) all other electric face equipment which is taken into or used inby the last crosscut of any coal mine, except a coal mine referred to in paragraph (2) of this subsection, which has not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter shall be permissible.
 
-(2) Effective four years after the operative date of this subchapter, all electric face equipment, other than equipment referred to in paragraph (1)(B) of this subsection, which is taken into or used inby the last open crosscut of any coal mine which is operated entirely in coal seams located above the watertable and whichhas not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter and in which one or more openings were made prior to December 30, 1969, shall be permissible, except that any operator of such mine who is unable to comply with the provisions of this paragraph on such effective date may file with the Panel an application for a permit for noncompliance ninety days prior to such date. If the Panel determines, after notice to all interested persons and an opportunity for a public hearing under section 804 of this title, that such application satisfies the provisions of paragraph (10) of this subsection and that such operator, despite his diligent efforts, will be unable to comply with such provisions, the Panel may issue to such operator such a permit. Such permit shall entitle the permittee to an additional extension of time to comply with the provisions of this paragraph of not to exceed twenty-four months, as determined by the Panel, from such effective date.
+(2) Effective four years after the operative date of this subchapter, all electric face equipment, other than equipment referred to in paragraph (1)(B) of this subsection, which is taken into or used inby the last open crosscut of any coal mine which is operated entirely in coal seams located above the watertable and which has not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter and in which one or more openings were made prior to December 30, 1969, shall be permissible, except that any operator of such mine who is unable to comply with the provisions of this paragraph on such effective date may file with the Panel an application for a permit for noncompliance ninety days prior to such date. If the Panel determines, after notice to all interested persons and an opportunity for a public hearing under section 804 of this title, that such application satisfies the provisions of paragraph (10) of this subsection and that such operator, despite his diligent efforts, will be unable to comply with such provisions, the Panel may issue to such operator such a permit. Such permit shall entitle the permittee to an additional extension of time to comply with the provisions of this paragraph of not to exceed twenty-four months, as determined by the Panel, from such effective date.
 
 (3) The operator of each coal mine shall maintain in permissible condition all electric face equipment required by this subsection to be permissible which is taken into or used inby the last open crosscut of any such mine.
 
@@ -88,7 +88,7 @@ Power wires and cables, except trolley wires, trolley feeder wires, and bare sig
 
 #### (m) Circuit breakers; overload protection for three-phase motors
 
-Automatic circuit-breaking devices or fuses of the correct type and capacity shall be installed so as to protect all electric equipment and circuits against short circuit and overloads. Three-phase motors on all electric equipment shall be provided with overload protection that will deenergize all three phases in the event that any phase is overloaded.
+Automatic circuit-breaking devices or fuses of the correct type and capacity shall be installed so as to protect all electric equipment and circuits against short circuit and overloads. Three-phase motors on all electric equipment shall beprovided with overload protection that will deenergize all three phases in the event that any phase is overloaded.
 
 #### (n) Disconnecting switches for main power circuits; location and installation
 
@@ -112,9 +112,13 @@ An authorized representative of the Secretary may require in any mine that elect
 
 (Pub. L. 91–173, title III, §305, Dec. 30, 1969, 83 Stat. 775.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), (4) to (6), (10)(B), (C), (11), (12), and (c), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

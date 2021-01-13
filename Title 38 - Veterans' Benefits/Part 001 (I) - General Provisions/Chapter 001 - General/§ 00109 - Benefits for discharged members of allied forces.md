@@ -10,9 +10,11 @@
 
 (c)(1) Any person who served during World War I or World War II as a member of any armed force of the Government of Czechoslovakia or Poland and participated while so serving in armed conflict with an enemy of the United States and has been a citizen of the United States for at least ten years shall, by virtue of such service, and upon satisfactory evidence thereof, be entitled to hospital and domiciliary care and medical services within the United States under chapter 17 of this title to the same extent as if such service had been performed in the Armed Forces of the United States unless such person is entitled to, or would, upon application thereof, be entitled to, payment for equivalent care and services under a program established by the foreign government concerned for persons who served in its armed forces in World War I or World War II.
 
-(2) In order to assist the Secretary in making a determination of proper service eligibility under this subsection, each applicant for the benefits thereof shall furnish an authenticated certification from the French Ministry of Defense or the British War Office as to records in either such Office which clearly indicate military service of the applicant in the Czechoslovakian or Polish armed forces and subsequent service in or with the armed forces of France or Great Britain during the period of World War I or World War II.
+(2) In order to assist the Secretary in making a determination of proper service eligibility under this subsection, each applicant for the benefits thereof shall furnish an authenticated certification from the French Ministry of Defense or the British War Office as to records ineither such Office which clearly indicate military service of the applicant in the Czechoslovakian or Polish armed forces and subsequent service in or with the armed forces of France or Great Britain during the period of World War I or World War II.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1112; Pub. L. 94–491, Oct. 14, 1976, 90 Stat. 2363; Pub. L. 99–576, title VII, §701(8), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

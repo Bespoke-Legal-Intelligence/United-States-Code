@@ -16,6 +16,8 @@ Mandatory punishment provisions phrased in alternative.
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".

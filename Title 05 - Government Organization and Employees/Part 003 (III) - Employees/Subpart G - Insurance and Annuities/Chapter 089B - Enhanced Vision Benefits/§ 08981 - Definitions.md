@@ -26,6 +26,8 @@ In this chapter:
 
 (Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4006; amended Pub. L. 109–356, title I, §117(a)(2), Oct. 16, 2006, 120 Stat. 2027; Pub. L. 114–328, div. A, title VII, §715(a)(2), Dec. 23, 2016, 130 Stat. 2221.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Par. (3). Pub. L. 114–328, §715(a)(2)(A), substituted "paragraph (1), (2), or (8)" for "paragraph (1) or (2)".
@@ -34,9 +36,11 @@ Par. (8). Pub. L. 114–328, §715(a)(2)(B), added par. (8).
 
 <b>2006</b>—Par. (1). Pub. L. 109–356, which directed insertion of "and an employee of the District of Columbia courts" at end of par. (1), was executed by making the insertion before the period, to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of this title.
+Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89Bof this title, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of this title.
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §2233. Rescue of seized property
 
-Whoever forcibly rescues, dispossesses, or attempts to rescue or dispossess any property, articles, or objects after the same shall have been taken, detained, or seized by any officer or other person under the authority of any revenue law of the United States, or by any person authorized to make searches and seizures, shall befined under this title or imprisoned not more than two years, or both.
+Whoever forcibly rescues, dispossesses, or attempts to rescue or dispossess any property, articles, or objects after the same shall have been taken, detained, or seized by any officer or other person under the authority of any revenue law of the United States, or by any person authorized to make searches and seizures, shall be fined under this title or imprisoned not more than two years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -21,6 +21,8 @@ This revised section adopts the maximum fine provisions of section 121 of title 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

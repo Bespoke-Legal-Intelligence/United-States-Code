@@ -4,9 +4,13 @@ The Postal Service may contract for the transportation of mail by vessel without
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 773; Pub. L. 109–435, title X, §1002(b)(3), Dec. 20, 2006, 120 Stat. 3255.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–438 struck out "for periods of not in excess of 4 years" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

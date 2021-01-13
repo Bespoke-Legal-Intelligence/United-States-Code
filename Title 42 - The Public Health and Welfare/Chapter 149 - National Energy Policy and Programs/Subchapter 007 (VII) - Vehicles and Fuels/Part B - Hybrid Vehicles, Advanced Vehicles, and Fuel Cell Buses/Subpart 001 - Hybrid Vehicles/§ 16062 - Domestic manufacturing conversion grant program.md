@@ -12,7 +12,7 @@
 
 #### (3) Priority
 
-&emsp;Priority shall be given to the refurbishment or retooling of manufacturing facilities thathave recently ceased operation or will cease operation in the near future.
+&emsp;Priority shall be given to the refurbishment or retooling of manufacturing facilities that have recently ceased operation or will cease operation in the near future.
 
 #### (b) Coordination with State and local programs
 

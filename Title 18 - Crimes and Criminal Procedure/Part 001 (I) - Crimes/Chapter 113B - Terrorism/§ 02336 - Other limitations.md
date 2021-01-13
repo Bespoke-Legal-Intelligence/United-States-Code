@@ -16,9 +16,13 @@ Stay of Action for Civil Remedies.—(1) The Attorney General may intervene in a
 
 (Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

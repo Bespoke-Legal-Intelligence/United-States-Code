@@ -10,7 +10,7 @@
 
 (2) No disclosure shall be made under paragraph (1) with respect to an indebtedness while a decision regarding waiver of collection of the indebtedness is pending under section 2774 of this title or section 716 of title 32, or while a decision regarding remission or cancellation of the indebtedness is pending under section 7837, 8271, or 9837 of this title, unless the Secretary concerned (as defined in section 101(5) of title 37) determines that disclosure under that paragraph pending such decision is in the best interests of the United States.
 
-(Added Pub. L. 99–661, div. A, title XIII, §1309(a), Nov. 14, 1986, 100 Stat. 3982; amended Pub. L. 104–316, title I, §115(g)(2)(C), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, §672(a), Oct. 17, 2006, 120 Stat. 2270; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 99–661, div. A, title XIII, §1309(a), Nov. 14, 1986, 100 Stat. 3982; amended Pub. L.104–316, title I, §115(g)(2)(C), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, §672(a), Oct. 17, 2006, 120 Stat. 2270; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Application to prior actions.—Paragraph (2) of section 2780(b) of title 10, Un
 
 #### Contracts for Recovery of Indebtedness
 
-Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: "During the current fiscal year andhereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code."
+Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: "During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code."
 

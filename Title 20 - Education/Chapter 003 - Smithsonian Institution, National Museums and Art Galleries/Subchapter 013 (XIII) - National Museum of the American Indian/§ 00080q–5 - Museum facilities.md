@@ -58,7 +58,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (c) Museum Support Center facility
 
-The Board of Regents shall plan, design, and construct a facility for the conservation andstorage of the collections of the National Museum at the Museum Support Center of the Smithsonian Institution.
+The Board of Regents shall plan, design, and construct a facility for the conservation and storage of the collections of the National Museum at the Museum Support Center of the Smithsonian Institution.
 
 #### (d) Minimum square footage
 
@@ -116,7 +116,7 @@ Location.—The memorial shall be located at a site determined to be suitable by
 
 "(c)
 
-Design and Plans.—(1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existing design plans for the Museum's structure and its surroundings.
+Design and Plans.—(1) The National Congress of American Indians and the National Museum of theAmerican Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existing design plans for the Museum's structure and its surroundings.
 
 "(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 

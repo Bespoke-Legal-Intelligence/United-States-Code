@@ -52,11 +52,15 @@ The Advisory Committee shall annually submit to the Secretary of State and to th
 
 (Aug. 1, 1956, ch. 841, title IV, §404, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 687; amended Pub. L. 107–228, div. A, title II, §205, Sept. 30, 2002, 116 Stat. 1363.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–228, §205(a), substituted "Annual reports by the Advisory Committee" for "Reporting requirement" in heading and inserted "and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives" after "Secretary of State" in text.
 
 Subsec. (e). Pub. L. 107–228, §205(b), substituted "Annual reports by the Secretary" for "Report to Congress" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

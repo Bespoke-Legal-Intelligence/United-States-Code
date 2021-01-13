@@ -52,6 +52,8 @@ By Senate amendments, all provisions relating to the Tax Court were eliminated. 
 
 This section restores certain provisions of the original statute, R.S. §848, which were inadvertently omitted from revised title 28, U.S.C., §1821.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (c) of section 5702 of title 5, referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of section 5702 of title 5, was redesignated as subsec. (c), by Pub. L. 99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756.
@@ -84,13 +86,15 @@ Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
 Act May 10, 1949, increased witnesses' fees from $2 to $4 per day, mileage allowance from 5 cents to 7 cents a mile, subsistence allowance from $3 to $5 per day, and inserted provisos.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States Magistrate Judge" substituted for "United States Magistrate" in subsec. (a)(1) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1992 Amendment
 

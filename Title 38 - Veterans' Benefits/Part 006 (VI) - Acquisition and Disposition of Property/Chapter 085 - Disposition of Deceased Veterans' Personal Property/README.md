@@ -33,9 +33,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS'ADMINISTRATION" in headings for subchapters I and II.
+<b>1991</b>—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS' ADMINISTRATION" in headings for subchapters I and II.
 
 Pub. L. 102–40, title III, §305(b)(2), title IV, §402(c)(1), May 7, 1991, 105 Stat. 210, 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted "PATIENT" for "INMATE" in heading for subchapter II.
 

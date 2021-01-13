@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §512(a)(2), Oct. 28, 2004, 118 Stat. 1880, added item for chapter 9.
@@ -543,9 +545,11 @@ Rep.
 
 713
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Positive Law; Citation
 
-This title has been made positive law by section 2 of act Aug. 10, 1956, ch. 1041, 70A Stat. 596, which provided in part that: "Title 32 of the United States Code, entitled 'National Guard', is revised, codified, and enacted into law, and may be cited as 'Title 32, United States Code, §—.' "
+This title has been made positive law by section 2 of act Aug. 10, 1956, ch. 1041, 70A Stat. 596, which providedin part that: "Title 32 of the United States Code, entitled 'National Guard', is revised, codified, and enacted into law, and may be cited as 'Title 32, United States Code, §—.' "
 
 #### Repeals
 

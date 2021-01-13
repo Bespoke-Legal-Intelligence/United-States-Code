@@ -174,6 +174,8 @@ The codification of the laws in this chapter is not intended to alter the existi
 
 In paragraph (2)(A)(iii), the word "trade" is substituted for "commerce" for consistency in the chapter.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 506 of the Merchant Marine Act, 1936, referred to in par. (8), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
@@ -189,6 +191,8 @@ Pars. (8), (9). Pub. L. 115–232, §3546(q)(2), (4), added par. (8) and redesig
 <b>2007</b>—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted "noncontiguous domestic, or short sea transportation trade" for "or noncontiguous domestic".
 
 Par. (7). Pub. L. 110–140, §1122(a)(2), added par. (7) relating to short sea transportation trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

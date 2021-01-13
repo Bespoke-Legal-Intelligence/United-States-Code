@@ -6,7 +6,7 @@ A taxpayer engaged in the business of farming may treat expenditures which are p
 
 #### (b) Limitation
 
-The amount deductible under subsection (a) for any taxable year shall not exceed 25 percent of the gross income derived from farming during the taxable year. If for any taxable year the total of the expenditures treated as expenses which are not chargeable to capital account exceeds 25 percent of the gross income derived from farming during the taxable year, such excess shall be deductible for succeeding taxable years in order of time; but the amount deductible under this section for any one such succeeding taxable year (including the expenditures actually paid or incurred during the taxable year) shall not exceed 25 percent of the gross income derived from farming during the taxable year.
+The amount deductible under subsection (a) for any taxable year shall not exceed 25 percent of the gross income derived from farming during the taxable year. If for any taxable year the total of the expenditures treated as expenses which are not chargeable to capital account exceeds 25 percent of the gross income derived from farming during the taxable year, such excess shall be deductible for succeeding taxableyears in order of time; but the amount deductible under this section for any one such succeeding taxable year (including the expenditures actually paid or incurred during the taxable year) shall not exceed 25 percent of the gross income derived from farming during the taxable year.
 
 #### (c) Definitions
 

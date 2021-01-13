@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Incumbent service provider
 
-&emsp;The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, isproviding broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+&emsp;The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area
 
@@ -410,7 +410,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (C) Unobligated amounts
 
-&emsp;&emsp;Any amounts in the reserve established for a State for a fiscal year under subparagraph\(B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
+&emsp;&emsp;Any amounts in the reserve established for a State for a fiscal year under subparagraph (B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
 
 #### (k) Termination of authority
 

@@ -102,6 +102,8 @@ Preservation of Public Interest Consideration.—Nothing in this section shall b
 
 (Added Pub. L. 109–59, title VI, §6003(a), Aug. 10, 2005, 119 Stat. 1865.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.

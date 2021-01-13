@@ -1,8 +1,12 @@
 ### §101. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Feb. 11, 1897, ch. 216, 29 Stat. 526, related to entry of mineral oil lands under placer mining laws. See section 181 et seq. of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

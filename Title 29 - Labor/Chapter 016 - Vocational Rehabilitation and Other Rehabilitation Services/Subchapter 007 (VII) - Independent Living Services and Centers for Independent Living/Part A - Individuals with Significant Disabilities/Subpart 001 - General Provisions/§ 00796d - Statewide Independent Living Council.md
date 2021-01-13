@@ -130,7 +130,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 #### (d) Hearings and forums
 
-The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
+The Council is authorized to hold such hearings and forums as the Council may determineto be necessary to carry out the duties of the Council.
 
 #### (e) Plan
 
@@ -151,6 +151,8 @@ The Council is authorized to hold such hearings and forums as the Council may de
 The Council may use available resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (such as personal assistance services), and to pay reasonable compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
 (Pub. L. 93–112, title VII, §705, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 113–128, title IV, §475, July 22, 2014, 128 Stat. 1687.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

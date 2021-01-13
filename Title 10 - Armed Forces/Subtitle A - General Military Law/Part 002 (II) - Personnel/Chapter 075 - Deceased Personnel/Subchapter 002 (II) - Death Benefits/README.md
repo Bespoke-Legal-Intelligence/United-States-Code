@@ -20,10 +20,13 @@
 | [1489\.](%C2%A7%2001489%20-%20Death%20gratuity%20members%20and%20employees%20dying%20outside%20the%20United%20States%20while%20assigned%20to%20intelligence%20duties.md) | Death gratuity: members and employees dying outside the United States while assigned to intelligence duties. |
 | [1490\.](%C2%A7%2001490%20-%20Transportation%20of%20remains%20certain%20retired%20members%20and%20dependents%20who%20die%20in%20military%20medical%20facilities.md) | Transportation of remains: certain retired members and dependents who die in military medical facilities. |
 | [1491\.](%C2%A7%2001491%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | Funeral honors functions at funerals for veterans. |
+| [1492\.](%C2%A7%2001492%20-%20Authority%20to%20provide%20travel%20and%20transportation%20allowances%20in%20connection%20with%20transfer%20ceremonies%20of%20certain%20civilian%20employees%20who%20die%E2%80%A6.md) | Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XI, §1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
 
@@ -86,3 +89,4 @@ Briefing.—Not later than April 1, 2020, the Under Secretary of Defense for Per
 - [&sect; 01489 - Death gratuity members and employees dying outside the United States while assigned to intelligence duties](%C2%A7%2001489%20-%20Death%20gratuity%20members%20and%20employees%20dying%20outside%20the%20United%20States%20while%20assigned%20to%20intelligence%20duties.md)
 - [&sect; 01490 - Transportation of remains certain retired members and dependents who die in military medical facilities](%C2%A7%2001490%20-%20Transportation%20of%20remains%20certain%20retired%20members%20and%20dependents%20who%20die%20in%20military%20medical%20facilities.md)
 - [&sect; 01491 - Funeral honors functions at funerals for veterans](%C2%A7%2001491%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md)
+- [&sect; 01492 - Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die&#8230;](%C2%A7%2001492%20-%20Authority%20to%20provide%20travel%20and%20transportation%20allowances%20in%20connection%20with%20transfer%20ceremonies%20of%20certain%20civilian%20employees%20who%20die%E2%80%A6.md)

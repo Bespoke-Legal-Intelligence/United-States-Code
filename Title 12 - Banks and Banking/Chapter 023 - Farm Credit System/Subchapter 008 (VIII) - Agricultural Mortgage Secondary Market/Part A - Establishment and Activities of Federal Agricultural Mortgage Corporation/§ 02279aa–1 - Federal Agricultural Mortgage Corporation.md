@@ -34,6 +34,8 @@ The Corporation shall—
 
 (Pub. L. 92–181, title VIII, §8.1, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1687; amended Pub. L. 104–105, title I, §103, Feb. 10, 1996, 110 Stat. 163.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–105 added par. (4).

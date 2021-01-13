@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) a delineation of the amount and account of each transfer made pursuant to subsection (b) or (c);
 
-&emsp;&emsp;(B) a table for each appropriation with a separate column to display the fiscal year 2020 enacted levels, adjustments made by Congress, adjustments due to enacted rescissions, if appropriate, and adjustments made pursuant to the transfer authority in subsection (b) or (c), and the resulting fiscal year level;
+&emsp;&emsp;(B) a table for each appropriation with a separate column to display the fiscal year 2020 enacted levels, adjustments made byCongress, adjustments due to enacted rescissions, if appropriate, and adjustments made pursuant to the transfer authority in subsection (b) or (c), and the resulting fiscal year level;
 
 &emsp;&emsp;(C) a delineation in the table for each appropriation, adjusted as described in paragraph (2), both by budget activity and program, project, and activity as detailed in the Budget Appendix; and
 

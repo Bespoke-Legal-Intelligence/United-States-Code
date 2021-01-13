@@ -7,6 +7,7 @@
 
 - [&sect; 16181 - Goals](%C2%A7%2016181%20-%20Goals.md)
 - [&sect; 16182 - Definitions](%C2%A7%2016182%20-%20Definitions.md)
+- [&sect; 16183 - Energy and water for sustainability](%C2%A7%2016183%20-%20Energy%20and%20water%20for%20sustainability.md)
 - [Part A - Energy Efficiency](Part%20A%20-%20Energy%20Efficiency/README.md)
 - [Part B - Distributed Energy and Electric Energy Systems](Part%20B%20-%20Distributed%20Energy%20and%20Electric%20Energy%20Systems/README.md)
 - [Part C - Renewable Energy](Part%20C%20-%20Renewable%20Energy/README.md)

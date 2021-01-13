@@ -16,13 +16,15 @@ For purposes of section 1754(b) of this title, the Commission shall be deemed to
 
 #### (c) Official reception and representational expenses
 
-Not to exceed $6,000 of the funds appropriated to the Commission for each fiscal year may be used for official reception and representational expenses.
+Not to exceed $6,000 of the funds appropriated to the Commission for each fiscal year may beused for official reception and representational expenses.
 
 #### (d) Foreign travel for official purposes
 
 Foreign travel for official purposes by Commission members and staff may be authorized by either the Chairman or the Cochairman.
 
 (Pub. L. 94–304, §7, June 3, 1976, 90 Stat. 662; Pub. L. 94–534, Oct. 17, 1976, 90 Stat. 2495; Pub. L. 95–426, title VII, §702, Oct. 7, 1978, 92 Stat. 992; Pub. L. 96–60, title IV, §401, Aug. 15, 1979, 93 Stat. 403; Pub. L. 99–7, §§3, 4, Mar. 27, 1985, 99 Stat. 19.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (d). Pub. L. 99–7, §4, added subsec. (d).
 <b>1978</b>—Subsec. (a). Pub. L. 95–426 substituted "$550,000" for "$350,000".
 
 <b>1976</b>—Pub. L. 94–534 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

@@ -24,6 +24,8 @@ Except with the approval of the Secretary of State, the Peace Corps shall not be
 
 (Pub. L. 87–293, title I, §4, Sept. 22, 1961, 75 Stat. 612; Pub. L. 88–426, title III, §305(27), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–352, §2, July 24, 1970, 84 Stat. 464; Pub. L. 97–113, title VI, §601(d)(1), Dec. 29, 1981, 95 Stat. 1541.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
@@ -36,17 +38,11 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Director and Deputy Director. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, §501(a), Aug. 14, 1964, 78 Stat. 435.
-
-#### Transfer of Functions
-
-Transfer to President of the United States of functions conferred upon Director of Peace Corps by subsec. (c)(4) of this section, see section 2(b) of Reorg. Plan No. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Delegation of Functions
-
-Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries
 
@@ -74,7 +70,7 @@ Failure to Meet Deadline.—
 
 &emsp;"(1)
 
-Requirement to submit report.—If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
+Requirement to submit report.—If, by the date that is 180 days after the date of the enactmentof this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
 
 &emsp;"(2)
 
@@ -83,4 +79,14 @@ Committees of congress specified.—The committees of Congress specified in this
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
 Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: "The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer to President of the United States of functions conferred upon Director of Peace Corps by subsec. (c)(4) of this section, see section 2(b) of Reorg. Plan No. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+
+Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 

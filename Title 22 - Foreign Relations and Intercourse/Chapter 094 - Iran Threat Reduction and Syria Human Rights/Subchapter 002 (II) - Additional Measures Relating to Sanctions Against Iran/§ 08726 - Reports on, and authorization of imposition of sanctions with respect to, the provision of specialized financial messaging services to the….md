@@ -22,7 +22,7 @@ It is the sense of Congress that—
 
 #### (2) Enabling or facilitation of access to specialized financial messaging services through intermediary financial institutions
 
-&emsp;For purposes of paragraph (1) and subsection (c), enabling or facilitating direct or indirect access to specialized financial messaging services for the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) includes doing so by serving as an intermediary financial institution with access to such messaging services.
+&emsp;For purposes of paragraph (1) and subsection (c), enabling or facilitating direct or indirectaccess to specialized financial messaging services for the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) includes doing so by serving as an intermediary financial institution with access to such messaging services.
 
 #### (3) Form of report
 
@@ -59,6 +59,8 @@ Nothing in this section shall be construed to limit the authority of the Preside
 #### Termination of Section
 
 <i>For termination of section, see section 8785(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

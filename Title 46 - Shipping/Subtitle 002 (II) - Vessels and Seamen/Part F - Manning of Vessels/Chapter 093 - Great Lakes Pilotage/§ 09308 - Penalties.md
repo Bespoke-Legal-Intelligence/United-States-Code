@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 Section 9308 prescribes the penalties for violations of sections 9302 and 9303.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsecs. (a) to (c). Pub. L. 101–380 substituted "no more than $10,000" for "$500".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

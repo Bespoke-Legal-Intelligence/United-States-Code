@@ -86,7 +86,7 @@
 
 #### (1) Designated 9–1–1 charges
 
-&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 
 #### (2) Certification
 
@@ -180,6 +180,8 @@ In this section, the following definitions shall apply:
 
 (Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543; Pub. L. 110–283, title I, §102, July 23, 2008, 122 Stat. 2623; Pub. L. 112–96, title VI, §6503, Feb. 22, 2012, 126 Stat. 237.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–96 amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office.
@@ -189,6 +191,8 @@ In this section, the following definitions shall apply:
 Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

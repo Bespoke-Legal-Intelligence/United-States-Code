@@ -50,7 +50,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (B) Notwithstanding section 7701(c)(1)(B) of title 5, the Merit Systems Protection Board shall uphold the decision of the Secretary to remove, demote, or suspend an employee under subsection (a) if the decision is supported by substantial evidence.
 
-(C) Notwithstanding title 5 or any other provision of law, if the decision of the Secretary issupported by substantial evidence, the Merit Systems Protection Board shall not mitigate the penalty prescribed by the Secretary.
+(C) Notwithstanding title 5 or any other provision of law, if the decision of the Secretary is supported by substantial evidence, the Merit Systems Protection Board shall not mitigate the penalty prescribed by the Secretary.
 
 (4) In any case in which the administrative judge cannot issue a decision in accordance with the 180-day requirement under paragraph (1), the Merit Systems Protection Board shall, not later than 14 business days after the expiration of the 180-day period, submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that explains the reasons why a decision was not issued in accordance with such requirement.
 
@@ -58,7 +58,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (B) Any decision by such Court shall be in compliance with section 7462(f)(2) of this title.
 
-(6) The Merit Systems Protection Board may not stay any removal or demotion under this section, except as provided in section 1214(b) of title 5.
+(6) The Merit Systems Protection Board may not stay any removal or demotion under thissection, except as provided in section 1214(b) of title 5.
 
 (7) During the period beginning on the date on which a covered individual appeals a removal from the civil service under subsection (c) and ending on the date that the United States Court of Appeals for the Federal Circuit issues a final decision on such appeal, such covered individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits related to the employment of the individual by the Department.
 
@@ -119,6 +119,8 @@ Definitions.—In this section:
 &emsp;(6) The term "whistleblower disclosure" has the meaning given such term in section 323(g) of this title.
 
 (Added Pub. L. 115–41, title II, §202(a), June 23, 2017, 131 Stat. 869; amended Pub. L. 116–61, §6(1), Sept. 30, 2019, 133 Stat. 1116.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

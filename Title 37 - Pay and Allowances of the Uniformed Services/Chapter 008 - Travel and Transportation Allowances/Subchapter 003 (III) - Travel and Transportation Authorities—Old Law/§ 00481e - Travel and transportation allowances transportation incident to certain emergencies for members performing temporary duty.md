@@ -8,6 +8,8 @@
 
 (Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004, §411e; amended Pub. L. 100–456, div. A, title VI, §623(a), Sept. 29, 1988, 102 Stat. 1984; renumbered §481e and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(19), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -20,9 +22,11 @@ Subsec. (c). Pub. L. 112–81, §631(e)(19), added subsec. (c).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted "incident to a personal emergency of the member" for "incident to the serious illness or injury or the death of a dependent of the member".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1988 Amendment
 

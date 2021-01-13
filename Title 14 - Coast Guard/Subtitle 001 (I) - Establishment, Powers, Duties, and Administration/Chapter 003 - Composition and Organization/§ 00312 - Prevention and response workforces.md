@@ -20,7 +20,7 @@ Qualifications for Certain Assignments.—An officer, member, or civilian employ
 
 &emsp;&emsp;(C) the qualifications and training of vessel personnel;
 
-&emsp;(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to marine transportation system management; or
+&emsp;(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to maritime transportation system management; or
 
 &emsp;(5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
 
@@ -30,7 +30,7 @@ Apprenticeship Requirement To Qualify for Certain Careers.—The Commandant may 
 
 (d)
 
-Management Information System.—The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on persons serving in those workforces:
+Management Information System.—The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on individuals serving in those workforces:
 
 &emsp;(1) Qualifications, assignment history, and tenure in assignments.
 
@@ -50,9 +50,11 @@ Signatories of Letter of Qualification for Certain Prevention Personnel.—Each 
 
 (g)
 
-Sector Chief of Response.—There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 ofthe General Schedule in each Coast Guard sector.
+Sector Chief of Response.—There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
 
-(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2953, §57; amended Pub. L. 113–281, title II, §§203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038; renumbered §312, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
+(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2953, §57; amended Pub. L. 113–281, title II, §§203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038; renumbered §312, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §§8504(a), 8505(a)(1), Jan. 1, 2021, 134 Stat. 4747.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -60,11 +62,15 @@ A prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(4). Pub. L. 116–283, §8504(a), substituted "maritime transportation system" for "marine transportation system".
+
+Subsec. (d). Pub. L. 116–283, §8505(a)(1), substituted "individuals" for "persons" in introductory provisions.
+
 <b>2018</b>—Pub. L. 115–282 renumbered section 57 of this title as this section.
 
 <b>2014</b>—Subsec. (b)(4), (5). Pub. L. 113–281, §203(1), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 113–281, §203(2), substituted "marine safety engineer, waterways operations manager, or port and facility safety and security specialist" for "or marine safety engineer".
+Subsec. (c). Pub. L. 113–281, §203(2), substituted "marine safety engineer, waterways operations manager, orport and facility safety and security specialist" for "or marine safety engineer".
 
 Subsec. (e). Pub. L. 113–281, §221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
 

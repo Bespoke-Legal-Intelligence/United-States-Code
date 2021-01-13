@@ -4,7 +4,7 @@ In this subtitle, the term "nondevelopmental item" means—
 
 &emsp;(1) a commercial product;
 
-&emsp;(2) a previously developed item of supply that is in use by a department or agency of theFederal Government, a State or local government, or a foreign government with which the United States has a mutual defense cooperation agreement;
+&emsp;(2) a previously developed item of supply that is in use by a department or agency of the Federal Government, a State or local government, or a foreign government with which the United States has a mutual defense cooperation agreement;
 
 &emsp;(3) an item of supply described in paragraph (1) or (2) that requires only minor modification or modification of the type customarily available in the commercial marketplace to meet the requirements of the procuring department or agency; or
 
@@ -36,9 +36,13 @@ June 30, 1949, ch. 288, title III, §314A ("nondevelopmental item"), as added Pu
 
 Pub. L. 93–400, §4(13), as added Pub. L. 103–355, title VIII, §8001(a), Oct. 13, 1994, 108 Stat. 3385.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (1). Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

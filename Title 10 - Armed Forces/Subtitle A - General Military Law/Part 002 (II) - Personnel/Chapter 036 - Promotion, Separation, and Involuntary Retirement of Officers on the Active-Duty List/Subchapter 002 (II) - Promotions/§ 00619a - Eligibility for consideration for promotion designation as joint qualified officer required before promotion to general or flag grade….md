@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title.
+General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, Marine Corps, or Space Force may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title.
 
 (b)
 
@@ -44,9 +44,11 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 Limitation for General and Flag Officers Previously Receiving Joint Duty Assignment Waiver.—A general officer or flag officer who before January 1, 1999, received a waiver of subsection (a) under the authority of this subsection (as in effect before that date) may not be appointed to the grade of lieutenant general or vice admiral until the officer completes a full tour of duty in a joint duty assignment.
 
-(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099; Pub. L. 108–375, div. A, title V, §533, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 110–417, \[div. A\], title V, §521(a), (b)(1), Oct. 14, 2008, 122 Stat. 4444.)
+(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099; Pub. L. 108–375, div. A, title V, §533, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 110–417, \[div. A\], title V, §521(a), (b)(1), Oct. 14, 2008, 122 Stat. 4444; Pub. L. 116–283, div. A, title IX, §924(b)(3)(F), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2008</b>—Pub. L. 110–417, §521(b)(1), substituted "Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions" for "Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions" in section catchline.
 
@@ -90,7 +92,7 @@ Pub. L. 103–160, div. A, title IX, §931(d), Nov. 30, 1993, 107 Stat. 1734, di
 
 #### Plan for Service by Qualified Nuclear Propulsion Officers in Joint Duty Assignments by January 1, 1997; Implementation; Report
 
-Pub. L. 103–160, div. A, title IX, §931(f)(2), Nov. 30, 1993, 107 Stat. 1734, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
+Pub. L. 103–160, div. A, title IX, §931(f)(2), Nov. 30, 1993, 107 Stat. 1734, as amended by Pub. L. 103–337, div.A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 
 Pub. L. 100–456, div. A, title V, §515(a)(3), Sept. 29, 1988, 102 Stat. 1970, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 

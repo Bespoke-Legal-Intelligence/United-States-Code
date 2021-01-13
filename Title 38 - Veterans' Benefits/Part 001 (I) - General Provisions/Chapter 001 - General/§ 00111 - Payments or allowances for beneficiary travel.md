@@ -10,7 +10,7 @@
 
 &emsp;(C) A veteran receiving pension under section 1521 of this title.
 
-&emsp;(D) A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
+&emsp;(D) A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of thetravel for which payment under this section is claimed.
 
 &emsp;(E) Subject to paragraph (3) of this subsection, a veteran or other person whose travel to or from a Department facility is medically required to be performed by a special mode of travel and who is determined under such regulations to be unable to defray the expenses of the travel for which payment under this section is claimed.
 
@@ -72,7 +72,9 @@
 
 (2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152; Pub. L.112–56, title II, §263, Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title VII, §704, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 112–260, title II, §202(b)(1)–(3), Jan. 10, 2013, 126 Stat. 2424; Pub. L. 114–58, title VI, §601(1), Sept. 30, 2015, 129 Stat. 538; Pub. L. 114–223, div. A, title II, §250(a), Sept. 29, 2016, 130 Stat. 892.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152; Pub. L. 112–56, title II, §263, Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title VII, §704, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 112–260, title II, §202(b)(1)–(3), Jan. 10, 2013, 126 Stat. 2424; Pub. L. 114–58, title VI, §601(1), Sept. 30, 2015, 129 Stat. 538; Pub. L. 114–223, div. A, title II, §250(a), Sept. 29, 2016, 130 Stat. 892.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -108,7 +110,7 @@ Subsec. (c)(5). Pub. L. 110–387, §401(a)(1)(A), struck out par. (5) which rea
 
 Subsec. (g)(1). Pub. L. 110–387, §401(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In carrying out the purposes of this section, the Secretary, in consultation with the Administrator of General Services, the Secretary of Transportation, the Comptroller General of the United States, and representatives of organizations of veterans, shall conduct periodic investigations of the actual cost of travel (including lodging and subsistence) to beneficiaries while traveling to or from a Department facility or other place pursuant to the provisions of this section, and the estimated cost of alternative modes of travel, including public transportation and the operation of privately owned vehicles. The Secretary shall conduct such investigations immediately following any alteration in the rates described in paragraph (3)(C) of this subsection, and, in any event, immediately following the enactment of this subsection and not less often than annually thereafter, and based thereon, shall determine rates of allowances or reimbursement to be paid under this section."
 
-Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck out former par. (3) which related to the Secretary's review and analysis of factors in conducting investigations and determining rates of mileage allowance or reimbursement.
+Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck out former par. (3) which related tothe Secretary's review and analysis of factors in conducting investigations and determining rates of mileage allowance or reimbursement.
 
 Subsec. (g)(4). Pub. L. 110–387, §401(b)(2), struck out par. (4) which read as follows: "Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section."
 
@@ -156,7 +158,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 Subsecs. (b), (c). Pub. L. 100–322, §108(a)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted "The mileage" for "the mileage" and "of this section." for "hereof;", in par. (2) substituted "Actual" for "actual"and a period for a semicolon, and in par. (3) substituted "The expense" for "the expense". Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted "The mileage" for "the mileage" and "of this section." for "hereof;", in par. (2) substituted "Actual" for "actual" and a period for a semicolon, and in par. (3) substituted "The expense" for "the expense". Former subsec. (d) redesignated (f).
 
 Subsecs. (e), (f). Pub. L. 100–322, §108(a)(1), redesignated subsecs. (c) and (d) as (e) and (f), respectively. Former subsec. (e) redesignated (g).
 
@@ -177,6 +179,8 @@ Subsec. (e). Pub. L. 94–581, §101(2), added subsec. (e).
 Subsec. (b). Pub. L. 89–455 authorized the prepayment of actual local travel expenses and the expense of hiring an automobile or ambulance, or the fee authorized for the services of a nonemployee attendant.
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–590 allowed reimbursement for actual cost of ferry fares, and bridge, road, and tunnel tolls.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 
@@ -222,6 +226,8 @@ Pub. L. 98–160, title I, §108, Nov. 21, 1983, 97 Stat. 999, provided that pro
 
 Pub. L. 96–330, title IV, §406, Aug. 26, 1980, 94 Stat. 1052, provided that: "No provision of law enacted after the date of the enactment of this Act \[Aug. 26, 1980\] which imposes any restriction or limitation on the availability of funds for the travel and transportation of officers and employees of the executive branch of the Government and their dependents, or on the transportation of things of such officers and employees and their dependents, shall be applicable to the travel of eligible veterans, dependents, or survivors, for which reimbursement is authorized under title 38, United States Code, pursuant to the terms and conditions of section 111 of such title, unless such provision is expressly made applicable to the travel of such veterans, dependents, or survivors."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 10810
 
 Ex. Ord. No. 10810, Apr. 22, 1959, 24 F.R. 3179, as amended by Ex. Ord. No. 10881, July 6, 1960, 25 F.R. 6414, which prescribed regulations governing allowances, was superseded by Ex. Ord. No. 11142, Feb. 12, 1964, 29 F.R. 2479.
@@ -232,7 +238,7 @@ Ex. Ord. No. 11142, Feb. 12, 1964, 29 F.R. 2479, which prescribed regulations go
 
 #### Ex. Ord. No. 11302. Regulations Governing Allowances
 
-Ex. Ord. No. 11302, Sept. 6, 1966, 31 F.R. 11741, as amended Ex. Ord. No. 11429, Sept. 9, 1968, 33 F.R. 12817; Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, provided:
+Ex. Ord. No. 11302, Sept. 6, 1966, 31 F.R. 11741, as amended by Ex. Ord. No. 11429, Sept. 9, 1968, 33 F.R. 12817; Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, provided:
 
 By virtue of the authority vested in me by Section 111 of Title 38 of the United States Code, as amended by the Act of June 18, 1966 (Public Law 89–455), it is hereby ordered as follows:
 

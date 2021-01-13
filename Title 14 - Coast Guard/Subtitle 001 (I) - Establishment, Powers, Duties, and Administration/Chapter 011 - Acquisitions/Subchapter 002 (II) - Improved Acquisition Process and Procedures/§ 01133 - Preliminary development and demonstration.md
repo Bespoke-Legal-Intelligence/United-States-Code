@@ -36,7 +36,7 @@ Asset already in low, initial, or full-rate production.—The Commandant shall e
 
 &emsp;&emsp;(A) the Commandant, through the Assistant Commandant for Capability, shall notify the program manager and the Chief Acquisition Officer of the safety concern as soon as practicable, but not later than 30 days after the completion of the test and evaluation event or activity that identified the safety concern; and
 
-&emsp;&emsp;(B) the Deputy Commandant for Mission Support shall notify the Commandant and the Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification—
+&emsp;&emsp;(B) the Deputy Commandant for Mission Support shall notify the Commandant andthe Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification—
 
 &emsp;&emsp;&emsp;(i) an explanation of the actions that will be taken to correct or mitigate the safety concern in all capabilities or assets and subsystems of the capabilities or assets yet to be produced, and the date by which those actions will be taken;
 
@@ -80,6 +80,8 @@ Aircraft airworthiness.—The Commandant shall cause all aircraft and aircraft e
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2944, §573; amended Pub. L. 112–213, title II, §210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 115–232, div. C, title XXXV, §3522, Aug. 13, 2018, 132 Stat. 2314; renumbered §1133 and amended Pub. L. 115–282, title I, §§108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1132(d)(1), referred to in subsec. (b)(1), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 572(d)(1) of this title, which was redesignated section 572(f)(1) of this title by Pub. L. 114–120, title II, §204(a)(1), Feb. 8, 2016, 130 Stat. 34. Section 572 of this title was renumbered section 1132 of this title by Pub. L. 115–282, title I, §108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
@@ -108,11 +110,13 @@ Subsec. (c)(2)(A). Pub. L. 115–232, §3522(4)(A), struck out "and that are del
 
 Subsec. (c)(5). Pub. L. 115–232, §3522(4)(B), struck out "and delivered after the date of enactment of the Coast Guard Authorization Act of 2010" after "acquired by the Coast Guard".
 
-<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: "Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class."
+<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: "Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificateof classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Security Cutters
 
-Pub. L. 115–282, title III, §311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: "The Secretary of the departmentin which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment."
+Pub. L. 115–282, title III, §311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: "The Secretary of the department in which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment."
 
 Pub. L. 115–282, title VIII, §818(a), Dec. 4, 2018, 132 Stat. 4307, provided that: "The Commandant of the Coast Guard may not certify an eighth National Security Cutter as Ready for Operations before the date on which the Commandant provides to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 

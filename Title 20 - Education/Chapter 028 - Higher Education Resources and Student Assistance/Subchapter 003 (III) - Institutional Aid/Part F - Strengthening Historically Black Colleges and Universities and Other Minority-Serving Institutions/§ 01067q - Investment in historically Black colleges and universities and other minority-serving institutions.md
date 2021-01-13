@@ -24,7 +24,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (A) Provision of funds
 
-&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
+&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in theTreasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
 
 #### (B) Availability
 
@@ -96,7 +96,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) the purchase of library books, periodicals, microfilm, and other educational materials;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) funds and administrative management, and acquisition of equipment for use in strengthening funds management;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) funds and administrative management, and acquisition of equipmentfor use in strengthening funds management;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) the joint use of facilities such as laboratories and libraries; and
 

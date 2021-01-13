@@ -8,6 +8,8 @@
 
 (Added Pub. L. 100–322, title III, §331(b)(1), May 20, 1988, 102 Stat. 536, §762; renumbered §1962 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 762 of this title as this section.

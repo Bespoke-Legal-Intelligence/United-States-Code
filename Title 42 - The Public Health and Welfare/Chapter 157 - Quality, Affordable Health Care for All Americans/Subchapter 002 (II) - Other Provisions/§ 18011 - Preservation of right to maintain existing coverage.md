@@ -12,7 +12,7 @@
 
 #### (3) Application of certain provisions
 
-&emsp;The provisions of sections 2715 \[42 U.S.C. 300gg–15\] and 2718 \[42 U.S.C. 300gg–18\] of the Public Health Service Act (as added by subtitle A) shall apply to grandfathered health plans for plan years beginning on or after March 23, 2010.
+&emsp;The provisions of sections 2715 \[42 U.S.C. 300gg–15\] and 2718 \[42 U.S.C. 300gg–18\] of thePublic Health Service Act (as added by subtitle A) shall apply to grandfathered health plans for plan years beginning on or after March 23, 2010.
 
 #### (4) Application of certain provisions
 
@@ -38,6 +38,10 @@
 
 &emsp;&emsp;&emsp;For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act \[42 U.S.C. 300gg–14\] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
 
+#### (5) Application of additional provisions
+
+&emsp;Sections 300gg–111, 300gg–112, and 300gg–117 of this title shall apply to grandfathered health plans for plan years beginning on or after January 1, 2022.
+
 #### (b) Allowance for family members to join current coverage
 
 With respect to a group health plan or health insurance coverage in which an individual was enrolled on March 23, 2010, and which is renewed after such date, family members of such individual shall be permitted to enroll in such plan or coverage if such enrollment is permitted under the terms of the plan in effect as of March 23, 2010.
@@ -54,7 +58,11 @@ In the case of health insurance coverage maintained pursuant to one or more coll
 
 In this title,<sup>1</sup> the term "grandfathered health plan" means any group health plan or health insurance coverage to which this section applies.
 
-(Pub. L. 111–148, title I, §1251, title X, §10103(d), Mar. 23, 2010, 124 Stat. 161, 895; Pub. L. 111–152, title II, §2301(a), Mar. 30, 2010, 124 Stat. 1081.)
+(Pub. L. 111–148, title I, §1251, title X, §10103(d), Mar. 23, 2010, 124 Stat. 161, 895; Pub. L. 111–152, title II, §2301(a), Mar. 30, 2010, 124 Stat. 1081; Pub. L. 116–260, div. BB, title I, §102(d)(2), Dec. 27, 2020, 134 Stat. 2797.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 102(d)(2) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### References in Text
 
@@ -66,15 +74,21 @@ Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§
 
 The Public Health Service Act, referred to in subsec. (a)(4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130,which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(5). Pub. L. 116–260 added par. (5).
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–148, §10103(d)(1), substituted "Except as provided in paragraph (3), with" for "With".
 
 Subsec. (a)(3). Pub. L. 111–148, §10103(d)(2), added par. (3).
 
 Subsec. (a)(4). Pub. L. 111–152 added par. (4).
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

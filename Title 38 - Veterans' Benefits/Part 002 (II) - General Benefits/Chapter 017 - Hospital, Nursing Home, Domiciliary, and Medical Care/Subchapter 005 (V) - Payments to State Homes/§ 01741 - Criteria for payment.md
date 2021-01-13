@@ -6,7 +6,7 @@
 
 &emsp;(B) $20.35 for nursing home care and hospital care,
 
-> for each veteran receiving such care in a State home, if such veteran is eligible for such care in a Department facility.
+> for each veteran receiving such care in a State home, if such veteran is eligible for such care under the laws administered by the Secretary.
 
 (2) The Secretary may pay each State per diem at a rate determined by the Secretary for each veteran receiving extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home, if such veteran is eligible for such care under laws administered by the Secretary.
 
@@ -20,13 +20,21 @@
 
 (f) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(o), Oct. 21, 1976, 90Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, §101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, §202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, §211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420.)
+(g) In this subchapter, the term "State" means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(o), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, §101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, §202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, §211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420; Pub. L. 116–315, title III, §§3004(b), 3007(b), Jan. 5, 2021, 134 Stat. 4992, 4996.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this title, respectively.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §3007(b), substituted "under the laws administered by the Secretary" for "in a Department facility" in concluding provisions.
+
+Subsec. (g). Pub. L. 116–315, §3004(b), added subsec. (g).
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–461, §211(a)(3)(A), substituted "Except as provided in section 1745 of this title, the" for "The".
 
@@ -92,6 +100,8 @@ Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–625 substituted "at the per diem rate of $2.50 per diem for each veteran" for "at the annual rate of $700.00 for each veteran".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 211(a)(3)(A) of Pub. L. 109–461 effective 90 days after Dec. 22, 2006, see section 211(a)(5) of Pub. L. 109–461, set out as a note under section 1710 of this title.
@@ -120,7 +130,7 @@ Pub. L. 94–417, §1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
 
 "(1) The amendments made by subsection (a) of this section \[amending this section\] shall be effective on October 1, 1976.
 
-"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976."
+"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection\(a) of this section had been effective on January 1, 1976."
 
 #### Effective Date of 1973 Amendment
 
@@ -130,7 +140,117 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 Pub. L. 88–450, §3(c), Aug. 19, 1964, 78 Stat. 501, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except that subsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date."
 
+#### Modification of State Home Program; Technical Support and Assistance
+
+Pub. L. 116–315, title III, §3004(d)–(f), Jan. 5, 2021, 134 Stat. 4992, 4993, provided that:
+
+"(d)
+
+Additional Legislative or Administrative Action.—
+
+&emsp;"(1)
+
+Consultation with indian tribes.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall consult with Indian tribes to determine if any legislative or administrative action is necessary to modify the State home program to function efficiently in support of State homes operated by Indian tribes pursuant to the amendments made by this section \[amending this section and sections 101, 8131 and 8132 of this title\].
+
+&emsp;"(2)
+
+Report to congress.—Not later than 90 days after completing consultations under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report recommending legislative action that the Secretary considers appropriate to modify the State home program described in such paragraph in light of those consultations.
+
+&emsp;"(3)
+
+Modifications.—Not later than 180 days after completing consultations under paragraph (1), the Secretary shall make any modifications to regulations implementing the State home program, for which legislative action is not necessary, as the Secretary considers appropriate in light of those consultations.
+
+"(e)
+
+Technical Support and Assistance.—The Secretary of Veterans Affairs shall provide technical support and assistance to Indian tribes in carrying out the State home program at State homes operated by Indian tribes pursuant to the amendments made by this section.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Veterans' Affairs and the Committee on Indian Affairs of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Veterans' Affairs and the Subcommittee for Indigenous Peoples of the United States of the Committee on Natural Resources of the House of Representatives.
+
+&emsp;"(2)
+
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+&emsp;"(3)
+
+State home.—The term 'State home' has the meaning given that term in section 101(19) of title 38, United States Code.
+
+&emsp;"(4)
+
+State home program.—The term 'State home program' means the program of the Department of Veterans Affairs for which payments are made under subchapter V of chapter 17 of title 38, United States Code, and assistance is provided under subchapter III of chapter 81 of such title."
+
+#### Waiver of Requirements of Department of Veterans Affairs for Receipt of Per Diem Payments for Domiciliary Care at State Homes and Modification of Eligibility for Such Payments
+
+Pub. L. 116–315, title III, §3007, Jan. 5, 2021, 134 Stat. 4996, provided that:
+
+"(a)
+
+Waiver of Requirements.—Notwithstanding section 1741 of title 38, United States Code (as amended by subsection (b)), the Secretary of Veterans Affairs shall modify section 51.51(b) of title 38, Code of Federal Regulations (or successor regulations), to provide the Secretary the authority to waive the requirements under such section 51.51(b) for a veteran to be eligible for per diem payments for domiciliary care at a State home if—
+
+&emsp;"(1) the veteran has met not fewer than four of the requirements set forth in such section; or
+
+&emsp;"(2) such waiver would be in the best interest of the veteran.
+
+"(b)
+
+Modification of Eligibility.—\[Amended this section.\]
+
+"(c)
+
+State Home Defined.—In this section, the term 'State home' has the meaning given that term in section 101(19) of title 38, United States Code."
+
+#### Treatment of State Homes During Public Health Emergency
+
+Pub. L. 116–136, div. B, title X, §20005, Mar. 27, 2020, 134 Stat. 586, provided that:
+
+"(a)
+
+Waiver of Occupancy Rate Requirements.—During a public health emergency, occupancy rate requirements for State homes for purposes of receiving per diem payments set forth in section 51.40(c) of title 38, Code of Federal Regulations, or successor regulations, shall not apply.
+
+"(b)
+
+Waiver of Veteran Percentage Requirements.—During a public health emergency, the veteran percentage requirements for State homes set forth in section 51.210(d) of title 38, Code of \[Federal\] Regulations, or successor regulations, and in agreements for grants to construct State homes, shall not apply.
+
+"(c)
+
+Provision of Medicine, Equipment, and Supplies.—
+
+&emsp;"(1)
+
+In general.—During a public health emergency, the Secretary of Veterans Affairs may provide to State homes medicines, personal protective equipment, medical supplies, and any other equipment, supplies, and assistance available to the Department of Veterans Affairs.
+
+&emsp;"(2)
+
+Provision of equipment.—Personal protective equipment may be provided under paragraph (1) through the All Hazards Emergency Cache of the Department of Veterans Affairs or any other source available to the Department.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Personal protective equipment.—The term 'personal protective equipment' means any protective equipment required to prevent the wearer from contracting COVID–19, including gloves, N–95 respirator masks, gowns, goggles, face shields, or other equipment required for safety.
+
+&emsp;"(2)
+
+Public health emergency.—The term 'public health emergency' means an emergency with respect to COVID–19 declared by a Federal, State, or local authority.
+
+&emsp;"(3)
+
+State home.—The term 'State home' has the meaning given that term in section 101(19) of title 38, United States Code."
+
+\[For definition of "public health emergency" as used in section 20005 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
+
 #### Payments to States for Nursing Home Care
 
-Pub. L. 88–450, §3(b), Aug. 19, 1964, 78 Stat. 501, provided that: "No payment shall be made to any State home solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\]."
+Pub. L. 88–450, §3(b), Aug. 19, 1964, 78 Stat. 501, provided that: "No payment shall be made to any Statehome solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\]."
 

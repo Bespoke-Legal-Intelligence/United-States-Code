@@ -18,6 +18,8 @@ Deceased Veteran Described.—A deceased veteran described in this subsection is
 
 (Added Pub. L. 112–260, title I, §103(a), Jan. 10, 2013, 126 Stat. 2419.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 112–260, title I, §103(c), Jan. 10, 2013, 126 Stat. 2420, provided that: "Section 2414 of title 38, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Jan. 10, 2013\] and shall apply with respect to deaths occurring on or after the date that is 180 days after the date of the enactment of this Act."

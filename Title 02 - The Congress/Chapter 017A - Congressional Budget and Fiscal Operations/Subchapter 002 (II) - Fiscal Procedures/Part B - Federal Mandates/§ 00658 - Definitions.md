@@ -62,7 +62,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(ii) would reduce or eliminate the amount of authorization of appropriations for—
 
-&emsp;&emsp;&emsp;&emsp;(I) Federal financial assistance that would be provided to State, local, or tribal governments for the purpose of complying with any such previously imposed duty unless such duty is reduced or eliminated by a corresponding amount; or
+&emsp;&emsp;&emsp;&emsp;(I) Federal financial assistance that would be provided to State, local, or tribal governments for the purpose ofcomplying with any such previously imposed duty unless such duty is reduced or eliminated by a corresponding amount; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the control of borders by the Federal Government; or reimbursement to State, local, or tribal governments for the net cost associated with illegal, deportable, and excludable aliens, including court-mandated expenses related to emergency health care, education or criminal justice; when such a reduction or elimination would result in increased net costs to State, local, or tribal governments in providing education or emergency health care to, or incarceration of, illegal aliens; except that this subclause shall not be in effect with respect to a State, local, or tribal government, to the extent that such government has not fully cooperated in the efforts of the Federal Government to locate, apprehend, and deport illegal aliens;
 
@@ -112,9 +112,11 @@ For purposes of this part:
 
 #### (13) Tribal government
 
-&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
 (Pub. L. 93–344, title IV, §421, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, §122(14), Dec. 26, 2013, 127 Stat. 1176.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 #### Amendments
 
 <b>2013</b>—Par. (5)(A)(i)(II). Pub. L. 113–67 substituted "subparagraph (B)" for "subparagraph (B))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

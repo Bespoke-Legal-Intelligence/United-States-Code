@@ -35,6 +35,8 @@
 
 This chapter provides for the measurement of vessels for the purpose of the application of domestic laws.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–281, title III, §303(j), Oct. 15, 2010, 124 Stat. 2926, added item 14514.

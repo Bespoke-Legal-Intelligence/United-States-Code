@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(B) presented or used a false claim;
 
-&emsp;&emsp;(C) gave, offered, received, or attempted to obtain money, property, or advantage, or a promise of money, property, or advantage, for acting or forbearing to act; or
+&emsp;&emsp;(C) gave, offered, received, or attempted to obtain money, property, or advantage, or apromise of money, property, or advantage, for acting or forbearing to act; or
 
-&emsp;&emsp;(D) withheld from an officer of the estate entitled to possession under this title, anyrecorded information, including books, documents, records, and papers, relating to the debtor's property or financial affairs;
+&emsp;&emsp;(D) withheld from an officer of the estate entitled to possession under this title, any recorded information, including books, documents, records, and papers, relating to the debtor's property or financial affairs;
 
 &emsp;(5) the debtor has failed to explain satisfactorily, before determination of denial of discharge under this paragraph, any loss of assets or deficiency of assets to meet the debtor's liabilities;
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(B) the date the case is closed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986,100 Stat. 3101, 3116; Pub. L. 109–8, title I, §106(b), title III, §§312(1), 330(a), title VI, §603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116; Pub. L. 109–8, title I, §106(b), title III, §§312(1), 330(a), title VI, §603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
 
 #### Historical and Revision Notes
 
@@ -112,13 +112,15 @@ The eighth ground for denial of discharge is derived from §14c(5) of the Bankru
 
 The ninth ground is approval by the court of a waiver of discharge.
 
-Subsection (b) specifies that the discharge granted under this section discharges the debtor from all debts that arose before the date of the order for relief. It is irrelevant whether or not a proof of claim was filed with respect to the debt, and whether or not the claim based on the debt was allowed.
+Subsection (b) specifies that the discharge granted under this section discharges the debtor from all debtsthat arose before the date of the order for relief. It is irrelevant whether or not a proof of claim was filed with respect to the debt, and whether or not the claim based on the debt was allowed.
 
 Subsection (c) permits the trustee, or a creditor, to object to discharge. It also permits the court, on request of a party in interest, to order the trustee to examine the acts and conduct of the debtor to determine whether a ground for denial of discharge exists.
 
 Subsection (d) requires the court to revoke a discharge already granted in certain circumstances. If the debtor obtained the discharge through fraud, if he acquired and concealed property of the estate, or if he refused to obey a court order or to testify, the discharge is to be revoked.
 
 Subsection (e) permits the trustee or a creditor to request revocation of a discharge within 1 year after the discharge is granted, on the grounds of fraud, and within one year of discharge or the date of the closing of the case, whichever is later, on other grounds.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -155,6 +157,8 @@ Subsec. (a)(8). Pub. L. 98–353, §480(a)(3), substituted "371," for "371".
 Subsec. (c)(1). Pub. L. 98–353, §480(b), substituted "to the granting of a discharge" for "to discharge".
 
 Subsec. (e)(2)(A). Pub. L. 98–353, §480(c), substituted "or" for "and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

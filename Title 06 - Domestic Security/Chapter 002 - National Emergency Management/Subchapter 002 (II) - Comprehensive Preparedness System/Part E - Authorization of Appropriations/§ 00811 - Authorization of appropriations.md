@@ -10,9 +10,11 @@ There are authorized to be appropriated to carry out this title <sup>1</sup> an
 
 (Pub. L. 109–295, title VI, §699, Oct. 4, 2006, 120 Stat. 1462.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, seeShort Title note set out under section 701 of this title and Tables.
+This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and clinical teaching experiences designed to prepare stipend recipients to teach in elementary schools and secondary schools served by a high need local educational agency, including such preparation as is necessary to meet requirements for teacher certification or licensing; and
 
-&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
+&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, tofulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
 
 #### (4) Eligibility requirement
 
@@ -50,9 +50,11 @@
 
 &emsp;In awarding grants under this section, the Director shall ensure that the eligible entities (and participating institutions of higher education of the consortia, if applicable) represent a variety of types of institutions of higher education. In support of this goal, the Director shall broadly disseminate information about when and how to apply for grants under this section, including by conducting outreach to—
 
-&emsp;&emsp;(A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)); and
+&emsp;&emsp;(A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2));
 
-&emsp;&emsp;(B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k(3)).
+&emsp;&emsp;(B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k(3)); and
+
+&emsp;&emsp;(C) higher education programs that serve or support veterans.
 
 #### (6) Supplement not supplant
 
@@ -66,7 +68,7 @@
 
 &emsp;&emsp;(A) in the case of an applicant that is submitting an application on behalf of a consortium of institutions of higher education, a description of the participating institutions of higher education and the roles and responsibilities of each such institution;
 
-&emsp;&emsp;(B) a description of the program that the applicant intends to operate, including the number of scholarships and summer internships or the size and number of stipends theapplicant intends to award, the type of activities proposed for the recruitment of students to the program, and the selection process that will be used in awarding the scholarships or stipends;
+&emsp;&emsp;(B) a description of the program that the applicant intends to operate, including the number of scholarships and summer internships or the size and number of stipends the applicant intends to award, the type of activities proposed for the recruitment of students to the program, and the selection process that will be used in awarding the scholarships or stipends;
 
 &emsp;&emsp;(C) evidence that the applicant has the capability to administer the program in accordance with the provisions of this section, which may include a description of any existing programs at the applicant eligible entity (and participating institutions of higher education of the consortium, if applicable) that are targeted to the education of mathematics and science teachers and the number of teachers graduated annually from such programs;
 
@@ -98,7 +100,7 @@
 
 &emsp;&emsp;(E) the number and academic qualifications of the students who will be served by the program; and
 
-&emsp;&emsp;(F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools and students who are individuals identified in section 1885a or 1885b of this title.
+&emsp;&emsp;(F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools, students who are individuals identified in section 1885a or 1885b of this title, and veterans.
 
 #### (c) Scholarship requirements
 
@@ -112,7 +114,7 @@
 
 #### (2) Selection
 
-&emsp;Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+&emsp;Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 #### (3) Amount
 
@@ -130,7 +132,7 @@
 
 #### (2) Selection
 
-&emsp;Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+&emsp;Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 #### (3) Amount and duration
 
@@ -208,7 +210,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (C) Repayments
 
-&emsp;&emsp;The loans described under subparagraphs (A) and (B) shall be payable to the FederalGovernment, consistent with the provisions of part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\], and shall be subject to repayment in accordance with terms and conditions specified by the Director (in consultation with the Secretary of Education) in regulations promulgated to carry out this paragraph.
+&emsp;&emsp;The loans described under subparagraphs (A) and (B) shall be payable to the Federal Government, consistent with the provisions of part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\], and shall be subject to repayment in accordance with terms and conditions specified by the Director (in consultation with the Secretary of Education) in regulations promulgated to carry out this paragraph.
 
 #### (3) Exceptions
 
@@ -234,7 +236,7 @@ In this section—
 
 &emsp;(4) the term "high need local educational agency" has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
-&emsp;(5) the term "mathematics and science teacher" means a science, technology, engineering, mathematics, or computer science, including cybersecurity, teacher at the elementary school or secondary school level;
+&emsp;(5) the term "mathematics and science teacher" means a science, technology, engineering, mathematics, or computer science and artificial intelligence, including cybersecurity, teacher at the elementary school or secondary school level;
 
 &emsp;(6) the term "scholarship" means an award under subsection (c);
 
@@ -260,7 +262,7 @@ Not later than 4 years after August 9, 2007, the Director shall transmit to the 
 
 Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
-(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541; Pub. L. 115–91, div. A, title XVI, §1649C, Dec. 12, 2017, 131 Stat. 1756; Pub. L. 115–303, §2(a)(1), Dec. 11, 2018, 132 Stat. 4399.)
+(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541; Pub. L. 115–91, div. A, title XVI, §1649C, Dec. 12, 2017, 131 Stat. 1756; Pub. L. 115–303, §2(a)(1), Dec. 11, 2018, 132 Stat. 4399; Pub. L. 116–115, §3(d), Feb. 11, 2020, 134 Stat. 107; Pub. L. 116–283, div. E, title LIV, §5401(e)(2)(C), Jan. 1, 2021, 134 Stat. 4543.)
 
 #### References in Text
 
@@ -274,11 +276,21 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
+<b>2021</b>—Subsec. (i)(5). Pub. L. 116–283 inserted "and artificial intelligence" after "computer science".
+
+<b>2020</b>—Subsec. (a)(5)(C). Pub. L. 116–115, §3(d)(1), added subpar. (C).
+
+Subsec. (b)(2)(F). Pub. L. 116–115, §3(d)(2), substituted ", students" for "and students" and inserted ", and veterans" before period at end.
+
+Subsec. (c)(2). Pub. L. 116–115, §3(d)(3), inserted "and veterans" before period at end.
+
+Subsec. (d)(2). Pub. L. 116–115, §3(d)(4), inserted "and veterans" before period at end.
+
 <b>2018</b>—Subsec. (a)(3)(A)(iv). Pub. L. 115–303 inserted ", including research experiences at national laboratories and NASA centers" before semicolon.
 
 <b>2017</b>—Subsec. (i)(5). Pub. L. 115–91, §1649C(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "the term 'mathematics and science teacher' means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;".
 
-Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'science, technology, engineering, ormathematics professional' means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and".
+Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'science, technology, engineering, or mathematics professional' means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and".
 
 <b>2015</b>—Subsec. (i)(5). Pub. L. 114–59 inserted "computer science," after "means a science,".
 

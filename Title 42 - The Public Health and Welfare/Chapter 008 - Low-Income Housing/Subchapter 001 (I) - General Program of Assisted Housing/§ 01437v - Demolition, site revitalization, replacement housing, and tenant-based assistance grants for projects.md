@@ -106,7 +106,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (3) Applicability of selection criteria
 
-&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories ofrevitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
+&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
 
 #### (f) Cost limits
 
@@ -256,7 +256,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Application
 
-&emsp;&emsp;Pursuant to subsection (e)(1), the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+&emsp;&emsp;Pursuant to subsection (e)(1), the Secretary shall provide for smaller communitiesto apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
 
 #### (B) Selection criteria
 
@@ -348,7 +348,7 @@ Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted "Septemb
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selectioncriteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out "large-scale" after "for managing".
 

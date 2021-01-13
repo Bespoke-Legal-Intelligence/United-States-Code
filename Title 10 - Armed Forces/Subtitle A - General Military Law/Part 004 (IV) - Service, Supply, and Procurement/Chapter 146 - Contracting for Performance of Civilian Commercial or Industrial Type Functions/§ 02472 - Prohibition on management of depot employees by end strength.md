@@ -14,7 +14,7 @@ The text of section 2466(b) of this title, which was transferred to this section
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 inserted first sentence and struck out former first sentence which read as follows: "The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis ofany end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year."
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 inserted first sentence and struck out former first sentence which read as follows: "The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106, §312(b), renumbered section 2466(b) of this title as subsec. (a) of this section.
 

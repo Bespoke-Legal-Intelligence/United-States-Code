@@ -10,7 +10,7 @@ In carrying out its duties under this section, the Committee shall—
 
 &emsp;(1) monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
-&emsp;(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions,and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
+&emsp;(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
 
 &emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with <sup>1</sup> respect to the strategic plan developed under paragraph (5);
 

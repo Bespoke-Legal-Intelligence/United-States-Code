@@ -24,6 +24,7 @@
 | [1596\.](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for intelligence interests. |
 | [1596a.](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for other national security interests. |
 | [1596b.](%C2%A7%2001596b%20-%20Foreign%20language%20proficiency%20National%20Foreign%20Language%20Skills%20Registry.md) | Foreign language proficiency: National Foreign Language Skills Registry. |
+| [1596c.](%C2%A7%2001596c%20-%20Programming%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20national%20security%20interests.md) | Programming language proficiency: special pay for proficiency beneficial for national security interests. |
 | [1597\.](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md) | Civilian positions: guidelines for reductions. |
 | [1598\.](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%27%20aides.md) | Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers' aides. |
 | \[1599. | Renumbered.\] |
@@ -35,10 +36,13 @@
 | [1599f.](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md) | United States Cyber Command recruitment and retention. |
 | [1599g.](%C2%A7%2001599g%20-%20Public-private%20talent%20exchange.md) | Public-private talent exchange. |
 | [1599h.](%C2%A7%2001599h%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%20and%20engineering.md) | Personnel management authority to attract experts in science and engineering. |
+| [1599i.](%C2%A7%2001599i%20-%20Recruitment%20incentives%20for%20placement%20at%20remote%20locations.md) | Recruitment incentives for placement at remote locations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
 
@@ -66,7 +70,7 @@ Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, 
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §593(b)(2), title X, §1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 "Prohibition on payment of lodging expenses when adequate Government quarters are available", 1590 "Management of civilian intelligence personnel of the military departments", and 1599 "Postemployment assistance: certain terminated intelligence employees", struck out "Sec." at beginning of item 1599a, and added items 1599b and 1599c.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 "Prohibition on payment of lodging expenses when adequate Government quarters are available", 1590 "Management of civilian intelligence personnel of the military departments", and 1599 "Postemploymentassistance: certain terminated intelligence employees", struck out "Sec." at beginning of item 1599a, and added items 1599b and 1599c.
 
 Pub. L. 104–106, div. A, title X, §1040(d)(2), Feb. 10, 1996, 110 Stat. 433, inserted ": reprisals" after "instrumentalities" in item 1587.
 
@@ -86,7 +90,7 @@ Pub. L. 102–25, title VII, §701(e)(4), (8)(B), Apr. 6, 1991, 105 Stat. 114, 1
 
 <b>1989</b>—Pub. L. 101–193, title V, §501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 "Foreign language proficiency: special pay".
 
-Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(b)(2), title XI, §1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 "Prohibitionon payment of severance pay to foreign nationals in the event of certain overseas base closures.", and items 1593 to 1595.
+Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(b)(2), title XI, §1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 "Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.", and items 1593 to 1595.
 
 <b>1987</b>—Pub. L. 100–180, div. A, title VI, §617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
 
@@ -106,9 +110,191 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 <b>1958</b>—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions
+
+Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provided that:
+
+"(a)
+
+Pilot Program.—Beginning not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant's work, as described in subsection (b).
+
+"(b)
+
+Activities.—Under the pilot program, the human resources manager of each organization of the Department of Defense participating in the program, in consultation with relevant subject matter experts, shall—
+
+&emsp;"(1) identify a subset of technical positions for which the evaluation of electronic portfolios would be appropriate as part of the hiring process; and
+
+&emsp;"(2) as appropriate, assess applicants for such positions by reviewing electronic portfolios of the applicants' best work, as selected by the applicant concerned.
+
+"(c)
+
+Scope of Program.—The Secretary of Defense shall carry out the pilot program under subsection (a) in—
+
+&emsp;"(1) the Joint Artificial Intelligence Center;
+
+&emsp;"(2) the Defense Digital Service;
+
+&emsp;"(3) at least one activity of each military department, as identified by the Secretary of the department concerned; and
+
+&emsp;"(4) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
+
+"(d)
+
+Report.—Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the program. At a minimum, the report shall—
+
+&emsp;"(1) describe how the use of electronic portfolios in the hiring process affected the timeliness of the hiring process for technical positions in organizations of the Department of Defense participating in the program;
+
+&emsp;"(2) assess the level of satisfaction of organization leaders, hiring authorities, and subject matter experts with the quality of applicants who were hired based on evaluations of electronic portfolios;
+
+&emsp;"(3) identify other job series that could benefit from the use of electronic portfolios in the hiring process;
+
+&emsp;"(4) recommend whether the use of electronic portfolios in the hiring process should be expanded or made permanent; and
+
+&emsp;"(5) recommend any statutory, regulatory, or policy changes required to support the goals of the pilot program under subsection (a).
+
+"(e)
+
+Technical Position Defined.—In this section, the term 'technical position' means a position in the Department of Defense that—
+
+&emsp;"(1) requires expertise in artificial intelligence, data science, or software development; and
+
+&emsp;"(2) is eligible for direct hire authority under section 9905 of title 5, United States Code, or section 2358a of title 10, United States Code.
+
+"(f)
+
+Termination.—The authority to carry out the pilot program under subsection (a) shall terminate 5 years after the date of the enactment of this Act."
+
+#### Coordination of Scholarship and Employment Programs of the Department of Defense
+
+Pub. L. 116–283, div. A, title II, §251, Jan. 1, 2021, 134 Stat. 3496, provided that:
+
+"(a)
+
+Establishment or Designation of Organization.—The Secretary of Defense shall establish or designate an organization within the Department of Defense which shall have primary responsibility for building cohesion and collaboration across the various scholarship and employment programs of the Department.
+
+"(b)
+
+Duties.—The organization established or designated under subsection (a) shall have the following duties:
+
+&emsp;"(1) To establish an interconnected network and database across the scholarship and employment programs of the Department.
+
+&emsp;"(2) To aid in matching scholarships to individuals pursuing courses of study in high demand skill areas.
+
+&emsp;"(3) To build a network of current and former program participants for potential engagement or employment with Department activities.
+
+"(c)
+
+Annual Listing.—On an annual basis, the organization established or designated under subsection (a) shall publish, on a publicly accessible website of the Department, a listing of scholarship and employment programs carried out by the Department."
+
+#### Temporary Authority To Appoint Retired Members of the Armed Forces to Positions in the Department of Defense
+
+Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, provided that:
+
+"(a)
+
+In General.—Notwithstanding the requirements of section 3326 of title 5, United States Code, the Secretary of Defense may appoint retired members of the Armed Forces to positions in the Department of Defense described in subsection (b).
+
+"(b)
+
+Positions.—
+
+&emsp;"(1)
+
+In general.—The positions in the Department described in this subsection are positions classified at or below GS–13 under the General Schedule under subchapter III of chapter 53 of title 5, United States Code, or an equivalent level under another wage system, in the competitive service—
+
+&emsp;&emsp;"(A) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); and
+
+&emsp;&emsp;"(B) that have been certified by the Secretary of the military department concerned as lacking sufficient numbers of potential applicants.
+
+&emsp;"(2)
+
+Limitation on delegation of certification.—The Secretary of a military department may not delegate the authority to make a certification described in paragraph (1)(B) to an individual in a grade lower than colonel, captain in the Navy, or an equivalent grade in the Space Force, or an individual with an equivalent civilian grade.
+
+"(c)
+
+Report.—Not later than two years after the date of enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on this section and the authority provided by this section. The report shall include the following:
+
+&emsp;"(1) A description of the use of such authority, including the positions to which appointments are authorized to be made under such authority and the number of retired members appointed to each such position under such authority.
+
+&emsp;"(2) Any other matters in connection with such section or such authority that the Secretary considers appropriate.
+
+"(d)
+
+Sunset.—Effective on the date that is 3 years after the date of enactment of this Act, the authority provided under subsection (a) shall expire.
+
+"(e)
+
+Definitions.—In this section, the terms 'member' and 'Secretary concerned' have the meaning given those terms in section 101 of title 37, United States Code."
+
+#### Pilot Program on Enhanced Pay Authority for Certain High-Level Management Positions in the Department of Defense
+
+Pub. L. 116–283, div. A, title XI, §1119, Jan. 1, 2021, 134 Stat. 3897, provided that:
+
+"(a)
+
+Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Department of Defense in attracting and retaining personnel with significant experience in high-level management of complex organizations and enterprise functions in order to lead implementation by the Department of the National Defense Strategy.
+
+"(b)
+
+Approval Required.—The pilot program may be carried out only with approval as follows:
+
+&emsp;"(1) Approval of the Deputy Secretary of Defense, in the case of a position not under the authority, direction, and control of an Under Secretary of Defense and not under the authority, direction, and control of the Under Secretary of a military department.
+
+&emsp;"(2) Approval of the applicable Under Secretary of Defense, in the case of a position under the authority, direction, and control of an Under Secretary of Defense.
+
+&emsp;"(3) Approval of the Under Secretary or an Assistant Secretary of the military department concerned, in the case of a position in a military department.
+
+"(c)
+
+Positions.—The positions described in this subsection are positions that require expertise of an extremely high level in innovative leadership and management of enterprise-wide business operations, including financial management, health care, supply chain and logistics, information technology, real property stewardship, and human resources, across a large and complex organization.
+
+"(d)
+
+Rate of Basic Pay.—Without regard to the basic pay authorities in sections 5376, 5382, 5383 and 9903 of title 5, United States Code, the pay authority specified in this subsection is authority as follows:
+
+&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the applicable official under subsection (b).
+
+&emsp;"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
+
+"(e)
+
+Limitations.—
+
+&emsp;"(1)
+
+In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+&emsp;"(2)
+
+Number of positions.—The authority in subsection (a) may not be used with respect to—
+
+&emsp;&emsp;"(A) more than 10 positions in the Office of the Secretary of Defense and components of the Department of Defense other than the military departments at any one time; and
+
+&emsp;&emsp;"(B) more than five positions in each military department at any one time.
+
+&emsp;"(3)
+
+Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years.
+
+&emsp;"(4)
+
+Past service.—An individual may not be appointed to a position pursuant to the authority provided by subsection (a) if the individual separated or retired from Federal civil service or service as a commissioned officer of an Armed Force on a date that is less than five years before the date of such appointment of the individual.
+
+"(f)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2025.
+
+&emsp;"(2)
+
+Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2025, of basic pay at rates fixed under this section before that date for positions whose terms continue after that date."
+
 #### Technology and National Security Fellowship
 
-Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provided that:
+Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, as amended by Pub. L. 116–283, div. A, title II, §243, Jan. 1, 2021, 134 Stat. 3488, provided that:
 
 "(a)
 
@@ -134,7 +320,7 @@ Assignments.—Each individual selected for participation in the fellows program
 
 Pay and benefits.—To the extent practicable, each individual assigned to a position under paragraph (3)—
 
-&emsp;&emsp;"(A) shall be compensated at a rate of basic pay that is equivalent to the rate of basic pay payable for a position at level 10 of the General Schedule; and
+&emsp;&emsp;"(A) shall be compensated at a rate of basic pay that is not less than the minimum rate of basic pay payable for a position at GS–10 of the General Schedule (subchapter III of chapter 53 of title 5, United States Code) and not more than the maximum rate of basic pay payable for a position at GS–15 of such Schedule; and
 
 &emsp;&emsp;"(B) shall be treated as an employee of the United States during the assignment.
 
@@ -163,6 +349,10 @@ Eligibility for congressional assignment.—Subject to subsection (e), an indivi
 &emsp;&emsp;"(A) meets the requirements specified in paragraph (1); and
 
 &emsp;&emsp;"(B) has not less than 3 years of relevant work experience in the field of science, technology, engineering, or mathematics.
+
+&emsp;"(3)
+
+Background check requirement.—No individual may participate in the fellows program without first undergoing a background check that the Secretary of Defense considers appropriate for participation in the program.
 
 "(c)
 
@@ -344,7 +534,7 @@ Regulations.—The Secretary of Defense shall carry out this section in accordan
 
 "(i)
 
-Funding.—Of the amounts authorized to be appropriated for each fiscal year for the Department of Defense for operation and maintenance, Defense-wide,$10,000,000 may be available to carry out the fellows program in such fiscal year."
+Funding.—Of the amounts authorized to be appropriated for each fiscal year for the Department of Defense for operation and maintenance, Defense-wide, $10,000,000 may be available to carry out the fellows program in such fiscal year."
 
 #### Pilot Programs on Appointment in the Excepted Service in the Department of Defense of Physically Disqualified Former Cadets and Midshipmen
 
@@ -494,7 +684,7 @@ Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provi
 
 "(a)
 
-Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
+Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity andlegal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
 
 "(b)
 
@@ -574,7 +764,7 @@ Performance awards.—Individuals serving with the Department as cybersecurity o
 
 &emsp;"(4)
 
-Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productivecybersecurity and legal professionals to and with the Department.
+Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productive cybersecurity and legal professionals to and with the Department.
 
 "(g)
 
@@ -598,7 +788,7 @@ Particular conditions.—In prescribing conditions for the renewal of appointmen
 
 &emsp;&emsp;"(A) The necessity for the continuation of the position concerned based on mission requirements and other applicable justifications for the position.
 
-&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individuals with satisfactory or better performance afforded preference in renewal.
+&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individualswith satisfactory or better performance afforded preference in renewal.
 
 &emsp;&emsp;"(C) Input from employees on conditions for renewal.
 
@@ -858,7 +1048,7 @@ Termination.—The authority to make appointments under this section shall not b
 
 #### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation
 
-Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597, provided that:
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92,div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597, provided that:
 
 "(a)
 
@@ -928,7 +1118,7 @@ Coordination.—The Under Secretary of Defense (Comptroller), in consultation wi
 
 "(c)
 
-Limitations.—The regulations required under subsection (a) shall not be restricted by any civilian full-time equivalent or end-strength limitation, nor shall such regulations require offsetting civilian payfunding, civilian full-time equivalents, or civilian end-strengths."
+Limitations.—The regulations required under subsection (a) shall not be restricted by any civilian full-time equivalent or end-strength limitation, nor shall such regulations require offsetting civilian pay funding, civilian full-time equivalents, or civilian end-strengths."
 
 #### Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense
 
@@ -950,7 +1140,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 "(c)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
+Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority insubsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
 
 &emsp;"(1) The amount of funds used under the authority in subsection (a) to provide compensation for civilian employees.
 
@@ -1052,7 +1242,7 @@ Objective, merit-based principles for personnel decisions.—The Secretary shall
 
 &emsp;&emsp;"(D) The access of participants in the program to training, mentoring, and educational opportunities under the program.
 
-&emsp;&emsp;"(E) The consideration of participants in the program for selection into the senior management,functional, and technical workforce of the Department.
+&emsp;&emsp;"(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
 
 &emsp;"(7)
 
@@ -1072,7 +1262,7 @@ Applicability.—This section applies with respect to candidates for scientific 
 
 "(c)
 
-Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of theclose of the fiscal year last ending before the start of such calendar year.
 
 "(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
 
@@ -1167,6 +1357,7 @@ Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which
 - [&sect; 01596 - Foreign language proficiency special pay for proficiency beneficial for intelligence interests](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md)
 - [&sect; 01596a - Foreign language proficiency special pay for proficiency beneficial for other national security interests](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md)
 - [&sect; 01596b - Foreign language proficiency National Foreign Language Skills Registry](%C2%A7%2001596b%20-%20Foreign%20language%20proficiency%20National%20Foreign%20Language%20Skills%20Registry.md)
+- [&sect; 01596c - Programming language proficiency special pay for proficiency beneficial for national security interests](%C2%A7%2001596c%20-%20Programming%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20national%20security%20interests.md)
 - [&sect; 01597 - Civilian positions guidelines for reductions](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md)
 - [&sect; 01598 - Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers' aides](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%27%20aides.md)
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
@@ -1178,3 +1369,4 @@ Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which
 - [&sect; 01599f - United States Cyber Command recruitment and retention](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md)
 - [&sect; 01599g - Public-private talent exchange](%C2%A7%2001599g%20-%20Public-private%20talent%20exchange.md)
 - [&sect; 01599h - Personnel management authority to attract experts in science and engineering](%C2%A7%2001599h%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%20and%20engineering.md)
+- [&sect; 01599i - Recruitment incentives for placement at remote locations](%C2%A7%2001599i%20-%20Recruitment%20incentives%20for%20placement%20at%20remote%20locations.md)

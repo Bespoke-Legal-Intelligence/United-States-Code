@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are providedwith educational opportunities that equal or exceed those for all other students in the United States.
+&emsp;The purpose of the accreditation required under this section shall be to ensure that Indian students being served by a school funded by the Bureau of Indian Affairs are provided with educational opportunities that equal or exceed those for all other students in the United States.
 
 #### (2) Declarations of purpose
 
@@ -186,11 +186,11 @@
 
 #### (iii) Proposal amendments
 
-&emsp;&emsp;&emsp;The tribal governing body shall have 60 days to amend the plan developed pursuantto clause (ii), including identifying another outside entity to operate the school. The Secretary shall reach agreement with the tribal governing body on the proposal and any such amendments to the plan not later than 30 days after the expiration of the 60-day period described in the preceding sentence. After the approval of the proposal and any amendments, the Secretary, with continuing consultation with such tribal governing body, shall implement the proposal.
+&emsp;&emsp;&emsp;The tribal governing body shall have 60 days to amend the plan developed pursuant to clause (ii), including identifying another outside entity to operate the school. The Secretary shall reach agreement with the tribal governing body on the proposal and any such amendments to the plan not later than 30 days after the expiration of the 60-day period described in the preceding sentence. After the approval of the proposal and any amendments, the Secretary, with continuing consultation with such tribal governing body, shall implement the proposal.
 
 #### (iv) Accreditation
 
-&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying with the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
+&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume theoperation and administration of the school as a contract school after complying with the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
 
 #### (v) Retrocede
 
@@ -248,7 +248,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In a case in which closure, transfer to another authority, consolidation, or substantial curtailment of a school is under active consideration or review by any division ofthe Bureau or the Department of the Interior, the affected tribe, tribal governing body, and designated local school board will be notified immediately in writing, kept fully and currently informed, and afforded an opportunity to comment with respect to such consideration or review.
+&emsp;&emsp;In a case in which closure, transfer to another authority, consolidation, or substantial curtailment of a school is under active consideration or review by any division of the Bureau or the Department of the Interior, the affected tribe, tribal governing body, and designated local school board will be notified immediately in writing, kept fully and currently informed, and afforded an opportunity to comment with respect to such consideration or review.
 
 #### (B) Decision to close
 
@@ -328,7 +328,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph\(1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
+&emsp;&emsp;Not later than 180 days after the date on which an application described in paragraph (1)(A) is submitted to the Secretary, the Secretary shall make a determination of whether to approve the application.
 
 #### (B) Failure to make determination
 
@@ -346,7 +346,7 @@
 
 #### (B) Included information
 
-&emsp;&emsp;Each application described in paragraph (1)(A) shall include information concerning each of the factors described in paragraph (1)(B).
+&emsp;&emsp;Each application described in paragraph (1)(A) shall include information concerningeach of the factors described in paragraph (1)(B).
 
 #### (4) Denial of applications
 
@@ -402,6 +402,8 @@ Funds received by Bureau-funded schools from the Bureau of Indian Affairs, and u
 
 (Pub. L. 95–561, title XI, §1121, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007; amended Pub. L. 109–54, title I, §127, Aug. 2, 2005, 119 Stat. 525.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (b)(4) and the second place appearing in subsec. (c)(1), mean section 1121 of Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110. See Prior Provisions notes below.
@@ -414,7 +416,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
@@ -427,6 +429,8 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 &emsp;"(B) any program of such a school that is operated on or after January 1, 1999; or
 
 &emsp;"(C) any school board of a school operated under a grant under the Tribally Controlled Schools Act of 1988."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

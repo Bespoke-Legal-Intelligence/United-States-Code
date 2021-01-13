@@ -16,6 +16,8 @@
 
 (Added Pub. L. 95–67, §1(a), July 19, 1977, 91 Stat. 271.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 95–67, §1(c), July 19, 1977, 91 Stat. 271, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding section 101 of this title\] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act \[July 19, 1977\]."

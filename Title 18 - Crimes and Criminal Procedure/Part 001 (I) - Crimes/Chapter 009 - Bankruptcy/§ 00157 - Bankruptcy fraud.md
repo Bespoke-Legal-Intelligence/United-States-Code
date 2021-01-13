@@ -1,6 +1,6 @@
 ### §157. Bankruptcy fraud
 
-A person who, having devised or intending to devise a scheme or artifice to defraud and forthe purpose of executing or concealing such a scheme or artifice or attempting to do so—
+A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
 
 &emsp;(1) files a petition under title 11, including a fraudulent involuntary petition under section 303 of such title;
 
@@ -12,6 +12,8 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 (Added Pub. L. 103–394, title III, §312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, §332(c), Apr. 20, 2005, 119 Stat. 103; Pub. L. 111–327, §2(b), Dec. 22, 2010, 124 Stat. 3562.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (1). Pub. L. 111–327, §2(b)(1), struck out "bankruptcy" after "involuntary".
@@ -19,6 +21,8 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 Pars. (2), (3). Pub. L. 111–327, §2(b)(2), struck out ", including a fraudulent involuntary bankruptcy petition under section 303 of such title" after "title 11".
 
 <b>2005</b>—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of ", including a fraudulent involuntary bankruptcy petition under section 303 of such title" after "title 11", was executed by making the insertion after "title 11" wherever appearing, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

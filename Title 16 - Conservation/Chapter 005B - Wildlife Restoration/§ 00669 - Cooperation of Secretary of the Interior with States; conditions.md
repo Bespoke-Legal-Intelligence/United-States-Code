@@ -26,7 +26,7 @@ Pub. L. 91–503, title I, §103, Oct. 23, 1970, 84 Stat. 1101, provided that: "
 
 #### Short Title
 
-Act Sept. 2, 1937, ch. 899, §13, as added by Pub. L. 106–408, title I, §101(b), Nov. 1, 2000, 114 Stat. 1763, provided that: "This Act \[enacting this chapter\] may be cited as the 'Pittman-Robertson Wildlife Restoration Act'."
+Act Sept. 2, 1937, ch. 899, §14, formerly §13, as added by Pub. L. 106–408, title I, §101(b), Nov. 1, 2000, 114 Stat. 1763, and amended and renumbered by Pub. L. 116–188, title III, §303(1), Oct. 30, 2020, 134 Stat. 941, provided that: "This Act \[enacting this chapter\] may be cited as the 'Pittman-Robertson Wildlife Restoration Act'."
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the "Federal Aid in Wildlife Restoration Act".
 
@@ -44,7 +44,7 @@ Purposes.—The purposes of this section \[amending sections 669a, 669b, 669c, 6
 
 &emsp;"(1) to extend financial and technical assistance to the States under the Federal Aid to \[in\] Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] for the benefit of a diverse array of wildlife and associated habitats, including species that are not hunted or fished, to fulfill unmet needs of wildlife within the States in recognition of the primary role of the States to conserve all wildlife;
 
-&emsp;"(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan;
+&emsp;"(2) to assure sound conservation policies through the development, revision, and implementation of acomprehensive wildlife conservation and restoration plan;
 
 &emsp;"(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\]; and
 
@@ -56,7 +56,7 @@ Reference to Law.—In this section, the term 'Federal Aid in Wildlife Restorati
 
 #### Inapplicability of Federal Advisory Committee Act
 
-Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Except for thepreceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
+Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Except for the preceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
 
 #### Prohibition Against Diversion
 

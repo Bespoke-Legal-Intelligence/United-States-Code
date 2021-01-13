@@ -188,7 +188,7 @@ The Secretary may award grants to, and enter into contracts with, entities that 
 
 #### (1) Promotion of safe, family-friendly physical environments for visitation and exchange
 
-&emsp;The Secretary may award grants under this subsection to entities to assist such entities inestablishing and operating safe, family-friendly physical environments—
+&emsp;The Secretary may award grants under this subsection to entities to assist such entities in establishing and operating safe, family-friendly physical environments—
 
 &emsp;&emsp;(A) for court-ordered, supervised visitation between children and abusing parents; and
 
@@ -330,7 +330,7 @@ Subsec. (e)(3)(A). Pub. L. 102–295, §112(c)(3), amended subpar. (A) generally
 
 <b>1989</b>—Subsecs. (a)(2)(A), (b)(3). Pub. L. 101–126, §3(b)(3), made technical amendments to references to sections 5104, 5106, and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
-<b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to research and assistanceactivities of the National Center on Child Abuse and Neglect for provisions relating to Advisory Board on Child Abuse and Neglect. See section 5102 of this title.
+<b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to research and assistance activities of the National Center on Child Abuse and Neglect for provisions relating to Advisory Board on Child Abuse and Neglect. See section 5102 of this title.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–401, §104(1), inserted after first sentence "The Advisory Board shall meet at least every six months."
 
@@ -360,7 +360,7 @@ Pub. L. 100–294, title I, §104, Apr. 25, 1988, 102 Stat. 118, directed Direct
 
 #### High Risk Study
 
-Pub. L. 100–294, title I, §105, Apr. 25, 1988, 102 Stat. 118, directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
+Pub. L. 100–294, title I, §105, Apr. 25, 1988, 102 Stat. 118, directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groupswhich have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to clauses (i) through (xi).</i>
 

@@ -1,12 +1,16 @@
 ### §262. Powers
 
-The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserveconditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
+The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
 
 (Dec. 23, 1913, ch. 6, §12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section is comprised of second par. of section 12 of act Dec. 23, 1913. First par. of section 12 is classified to section 261 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -248,7 +248,7 @@ The functions of the CAN are to—
 
 #### (C) The cures acceleration flexible research awards
 
-&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this sectioncannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
+&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this section cannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
 
 #### (4) Suspension of awards for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds
 
@@ -284,7 +284,7 @@ Any grant, cooperative agreement, or contract awarded under this section shall b
 
 #### References in Text
 
-Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
+Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and wastranslated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
 
 #### Codification
 

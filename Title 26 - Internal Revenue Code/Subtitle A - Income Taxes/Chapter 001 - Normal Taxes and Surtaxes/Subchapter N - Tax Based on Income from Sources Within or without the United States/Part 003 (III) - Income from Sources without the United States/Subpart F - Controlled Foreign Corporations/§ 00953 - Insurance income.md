@@ -188,7 +188,7 @@ For purposes of subsection (a)—
 
 #### (B) Termination
 
-&emsp;&emsp;If a corporation which made an election under paragraph (1) for any taxable year fails to meet the requirements of subparagraphs (A), (B), and (C), of paragraph (1) for any subsequent taxable year, such electionshall not apply to any taxable year beginning after such subsequent taxable year.
+&emsp;&emsp;If a corporation which made an election under paragraph (1) for any taxable year fails to meet the requirements of subparagraphs (A), (B), and (C), of paragraph (1) for any subsequent taxable year, such election shall not apply to any taxable year beginning after such subsequent taxable year.
 
 #### (3) Treatment of losses
 
@@ -436,7 +436,7 @@ Subsec. (b)(2) to (4). Pub. L. 100–647, §1012(i)(7)(A), (C), redesignated par
 
 Subsec. (c)(1)(C). Pub. L. 100–647, §1012(i)(2)(A), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 100–647, §1012(i)(3)(A), (4)(B), (5), substituted "insurance income (within the meaning of subsection (a)) attributable" for "insurance income attributable", "with respect to which the person (directly or indirectly) insured is" for "with respect to which the primary insured is", and "related person" for "related person (within the meaning of section 954(d)(3))".
+Subsec. (c)(2). Pub. L. 100–647, §1012(i)(3)(A), (4)(B), (5), substituted "insurance income (within the meaning ofsubsection (a)) attributable" for "insurance income attributable", "with respect to which the person (directly or indirectly) insured is" for "with respect to which the primary insured is", and "related person" for "related person (within the meaning of section 954(d)(3))".
 
 Subsec. (c)(3)(A). Pub. L. 100–647, §1012(i)(3)(B), (4)(B), substituted "persons who are (directly or indirectly) insured" for "persons who are the primary insured" and "to any such person" for "(within the meaning of section 954(d)(3)) to any such primary insured".
 
@@ -534,7 +534,7 @@ Pub. L. 112–240, title III, §322(c), Jan. 2, 2013, 126 Stat. 2332, provided t
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §750(c), Dec. 17, 2010, 124 Stat. 3320, provided that: "The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2009, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends."
+Pub. L. 111–312, title VII, §750(c), Dec. 17, 2010, 124 Stat. 3320, provided that: "The amendments made bythis section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2009, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends."
 
 #### Effective Date of 2002 Amendment
 

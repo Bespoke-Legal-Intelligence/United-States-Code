@@ -6,7 +6,7 @@ A prior section 917, Pub. L. 93–203, title IV, §407, Dec. 28, 1973, 87 Stat. 
 
 Provisions similar to those comprising this section were contained in former section 895a of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 918, Pub. L. 93–203, title IV, §443, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1990, related to special conditions for financial assistance for youth employment demonstration programs.
+Section 918, Pub. L. 93–203, title IV, §443, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1990, related tospecial conditions for financial assistance for youth employment demonstration programs.
 
 A prior section 918, Pub. L. 93–203, title IV, §408, Dec. 28, 1973, 87 Stat. 866, related to activities of the program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

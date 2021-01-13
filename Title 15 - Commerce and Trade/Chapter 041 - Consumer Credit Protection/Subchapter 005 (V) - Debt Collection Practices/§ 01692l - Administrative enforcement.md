@@ -8,7 +8,7 @@ The Federal Trade Commission shall be authorized to enforce compliance with this
 
 Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance with any requirements imposed under this subchapter shall be enforced under—
 
-&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriateFederal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
+&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
 &emsp;&emsp;(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;
 
@@ -60,7 +60,7 @@ Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power toenforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule."
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule."
 
 Subsec. (b). Pub. L. 111–203, §1089(3)(B)(i), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance" for "Compliance" in introductory provisions.
 
@@ -70,7 +70,7 @@ Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck o
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 

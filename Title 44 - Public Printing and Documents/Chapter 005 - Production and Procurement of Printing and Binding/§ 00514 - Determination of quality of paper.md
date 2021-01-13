@@ -8,6 +8,8 @@ The Joint Committee on Printing shall determine differences of opinion between t
 
 Based on 44 U.S. Code, 1964 ed., §10 (Jan. 12, 1895, ch. 23, §8, 28 Stat. 602; Mar. 3, 1917, ch. 163, §6, 39 Stat. 1121).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".

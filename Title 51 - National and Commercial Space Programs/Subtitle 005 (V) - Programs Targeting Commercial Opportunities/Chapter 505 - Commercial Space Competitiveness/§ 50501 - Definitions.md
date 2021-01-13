@@ -80,6 +80,8 @@ Historical and Revision Notes
 
 Pub. L. 102–588, title V, §502, Nov. 4, 1992, 106 Stat. 5123.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 102–588, title V, §501, Nov. 4, 1992, 106 Stat. 5122, provided that: "The Congress finds that—

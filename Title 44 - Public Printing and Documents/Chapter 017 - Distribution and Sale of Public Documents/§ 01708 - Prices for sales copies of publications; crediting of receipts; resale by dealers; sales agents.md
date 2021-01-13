@@ -4,11 +4,13 @@ The price at which additional copies of Government publications are offered for 
 
 The Superintendent of Documents may prescribe terms and conditions under which he authorizes the resale of Government publications by book dealers, and he may designate any Government officer his agent for the sale of Government publications under regulations agreed upon by the Superintendent of Documents and the head of the respective department or establishment of the Government.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1280; Pub. L. 95–94, title IV, §409(a), Aug. 5, 1977, 91 Stat. 683; Pub. L. 103–69, title II, §207(b), Aug. 11, 1993,107 Stat. 708; Pub. L. 108–447, div. G, title I, §1301, Dec. 8, 2004, 118 Stat. 3191; Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1280; Pub. L. 95–94, title IV, §409(a), Aug. 5, 1977, 91 Stat. 683; Pub. L. 103–69, title II, §207(b), Aug. 11, 1993, 107 Stat. 708; Pub. L. 108–447, div. G, title I, §1301, Dec. 8, 2004, 118 Stat. 3191; Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §72a (June 30, 1932, ch. 314, §307, 47 Stat. 409).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ Based on 44 U.S. Code, 1964 ed., §72a (June 30, 1932, ch. 314, §307, 47 Stat. 
 <b>1993</b>—Pub. L. 103–69, in first par., struck out at end "Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts."
 
 <b>1977</b>—Pub. L. 95–94 substituted "Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer," for "Surplus receipts from sales".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

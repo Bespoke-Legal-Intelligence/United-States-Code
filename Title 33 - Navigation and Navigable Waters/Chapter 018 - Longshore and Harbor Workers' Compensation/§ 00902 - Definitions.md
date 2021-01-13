@@ -28,7 +28,7 @@ When used in this chapter—
 
 &emsp;(4) The term "employer" means an employer any of whose employees are employed in maritime employment, in whole or in part, upon the navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
 
-&emsp;(5) The term "carrier" means any person or fund authorized under section 932 of this title to insure under this chapter and includes self-insurers.
+&emsp;(5) The term "carrier" means any person or fund authorized under section 932 of this titleto insure under this chapter and includes self-insurers.
 
 &emsp;(6) The term "Secretary" means the Secretary of Labor.
 
@@ -46,7 +46,7 @@ When used in this chapter—
 
 &emsp;(13) The term "wages" means the money rate at which the service rendered by an employee is compensated by an employer under the contract of hiring in force at the time of the injury, including the reasonable value of any advantage which is received from the employer and included for purposes of any withholding of tax under subtitle C of title 26 (relating to employment taxes). The term wages does not include fringe benefits, including (but not limited to) employer payments for or contributions to a retirement, pension, health and welfare, life insurance, training, social security or other employee or dependent benefit plan for the employee's or dependent's benefit, or any other employee's dependent entitlement.
 
-&emsp;(14) "Child" shall include a posthumous child, a child legally adopted prior to the injury of the employee, a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury, and a stepchild or acknowledged illegitimate child dependent upon the deceased, but does not include married children unlesswholly dependent on him. "Grandchild" means a child as above defined of a child as above defined. "Brother" and "sister" includes stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers nor married sisters unless wholly dependent on the employee. "Child", "grandchild", "brother", and "sister" include only a person who is under eighteen years of age, or who, though eighteen years of age or over, is (1) wholly dependent upon the employee and incapable of self-support by reason of mental or physical disability, or (2) a student as defined in paragraph (19) of this section.
+&emsp;(14) "Child" shall include a posthumous child, a child legally adopted prior to the injury of the employee, a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury, and a stepchild or acknowledged illegitimate child dependent upon the deceased, but does not include married children unless wholly dependent on him. "Grandchild" means a child as above defined of a child as above defined. "Brother" and "sister" includes stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers nor married sisters unless wholly dependent on the employee. "Child", "grandchild", "brother", and "sister" include only a person who is under eighteen years of age, or who, though eighteen years of age or over, is (1) wholly dependent upon the employee and incapable of self-support by reason of mental or physical disability, or (2) a student as defined in paragraph (19) of this section.
 
 &emsp;(15) The term "parent" includes step-parents and parents by adoption, parents-in-law, and any person who for more than three years prior to the death of the deceased employee stood in the place of a parent to him, if dependent on the injured employee.
 
@@ -70,11 +70,13 @@ When used in this chapter—
 
 &emsp;(20) The term "Board" shall mean the Benefits Review Board.
 
-&emsp;(21) Unless the context requires otherwise, the term "vessel" means any vessel upon which or in connection with which any person entitled to benefits under this chapter suffers injury or death arising out of or in the course of his employment, and said vessel's owner, owner pro hac vice, agent, operator, charter or bare boat charterer, master, officer, or crew member.
+&emsp;(21) Unless the context requires otherwise, the term "vessel" means any vessel upon which or in connection with which any person entitled to benefits under this chapter suffers injury or death arising out of or in the course of his employment, and said vessel's owner, owner pro hac vice, agent, operator, charter orbare boat charterer, master, officer, or crew member.
 
 &emsp;(22) The singular includes the plural and the masculine includes the feminine and neuter.
 
 (Mar. 4, 1927, ch. 509, §2, 44 Stat. 1424; June 25, 1938, ch. 685, §1, 52 Stat. 1164; Pub. L. 92–576, §§2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654; Pub. L. 111–5, div. A, title VIII, §803, Feb. 17, 2009, 123 Stat. 187.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -118,6 +120,8 @@ Par. (22). Pub. L. 92–576, §§3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignate
 
 <b>1938</b>—Par. (14). Act June 25, 1938, included within definition of child, "a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury" and within definition of child, grandchild, brother, and sister "persons who though eighteen years of age or over, are wholly dependent upon the deceased employee and incapable of self-support by reason of mental or physical disability".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by section 2(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending as of such date, and amendment by sections 2(c) and 27(a)(1) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (c), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
@@ -128,7 +132,9 @@ Pub. L. 92–576, §20(c)(3), Oct. 27, 1972, 86 Stat. 1265, provided that: "The 
 
 Pub. L. 92–576, §22, Oct. 27, 1972, 86 Stat. 1265, provided that: "The amendments made by this Act \[see Short Title note set out under section 901 of this title\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\]."
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Prior to the amendment of this chapter by Pub. L. 98–426 the word "Secretary" meaning the Secretary of Labor had been substituted for the word "commission" meaning the United States Employees' Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
+Prior to the amendment of this chapter by Pub. L. 98–426, the word "Secretary" meaning the Secretary of Labor had been substituted for the word "commission" meaning the United States Employees' CompensationCommission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
 

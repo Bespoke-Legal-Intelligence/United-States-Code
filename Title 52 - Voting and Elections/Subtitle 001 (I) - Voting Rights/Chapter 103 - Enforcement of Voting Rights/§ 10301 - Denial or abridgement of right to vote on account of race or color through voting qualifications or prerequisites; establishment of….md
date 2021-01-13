@@ -2,9 +2,11 @@
 
 (a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 10303(f)(2) of this title, as provided in subsection (b).
 
-(b) A violation of subsection (a) is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: <i>Provided</i>, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.
+(b) A violation of subsection (a) is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: <i>Provided</i>, That nothing in this section establishes a right to have members of aprotected class elected in numbers equal to their proportion in the population.
 
 (Pub. L. 89–110, title I, §2, Aug. 6, 1965, 79 Stat. 437; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §206, Aug. 6, 1975, 89 Stat. 402; Pub. L. 97–205, §3, June 29, 1982, 96 Stat. 134.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -16,9 +18,15 @@ Section was formerly classified to section 1973 of Title 42, The Public Health a
 
 <b>1975</b>—Pub. L. 94–73 substituted "race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title" for "race or color".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–205, §6, June 29, 1982, 96 Stat. 135, provided that: "Except as otherwise provided in this Act \[see Tables for classification\], the amendments made by this Act shall take effect on the date of the enactment of this Act \[June 29, 1982\]."
+
+#### Separability
+
+Pub. L. 94–73, title II, §208, Aug. 6, 1975, 89 Stat. 402, provided that: "If any amendments made by this Act \[see Tables for classification\] or the application of any provision thereof to any person or circumstance is judicially determined to be invalid, the remainder of the Voting Rights Act of 1965 \[this chapter and chapters 105 and 107 of this title\], or the application of such provision to other persons or circumstances shall not be affected by such determination."
 
 #### Congressional Purpose and Findings
 
@@ -57,8 +65,4 @@ Findings.—The Congress finds the following:
 &emsp;"(8) Present day discrimination experienced by racial and language minority voters is contained in evidence, including the objections interposed by the Department of Justice in covered jurisdictions; the section 2 \[52 U.S.C. 10301\] litigation filed to prevent dilutive techniques from adversely affecting minority voters; the enforcement actions filed to protect language minorities; and the tens of thousands of Federal observers dispatched to monitor polls in jurisdictions covered by the Voting Rights Act of 1965.
 
 &emsp;"(9) The record compiled by Congress demonstrates that, without the continuation of the Voting Rights Act of 1965 protections, racial and language minority citizens will be deprived of the opportunity to exercise their right to vote, or will have their votes diluted, undermining the significant gains made by minorities in the last 40 years."
-
-#### Separability
-
-Pub. L. 94–73, title II, §208, Aug. 6, 1975, 89 Stat. 402, provided that: "If any amendments made by this Act \[see Tables for classification\] or the application of any provision thereof to any person or circumstance is judicially determined to be invalid, the remainder of the Voting Rights Act of 1965 \[this chapter and chapters 105 and 107 of this title\], or the application of such provision to other persons or circumstances shall not be affected by such determination."
 

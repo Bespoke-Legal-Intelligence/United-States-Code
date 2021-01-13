@@ -2,7 +2,7 @@
 
 The Congress finds and declares the following:
 
-&emsp;(1) All 50 States, and the Commonwealth of Puerto Rico, are vulnerable to the hazards of earthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, Oregon, South Carolina Tennessee,,<sup>1</sup> Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
+&emsp;(1) All 50 States, and the Commonwealth of Puerto Rico, are vulnerable to the hazards ofearthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, Oregon, South Carolina Tennessee,,<sup>1</sup> Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
 
 &emsp;(2) Earthquakes have caused, and can cause in the future, enormous loss of life, injury, destruction of property, and economic and social disruption. With respect to future earthquakes, such loss, destruction, and disruption can be substantially reduced through the development and implementation of earthquake hazards reduction measures, including (A) improved design and construction methods and practices, (B) land-use controls and redevelopment, (C) early-warning systems, (D) coordinated emergency preparedness plans, and (E) public education and involvement programs.
 
@@ -62,19 +62,19 @@ Pub. L. 106–503, title II, §201, Nov. 13, 2000, 114 Stat. 2304, provided that
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–614, §1, Nov. 16, 1990, 104 Stat. 3231, provided that: "This Act \[enacting sections 7705a to 7705e,amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the 'National Earthquake Hazards Reduction Program Reauthorization Act'."
+Pub. L. 101–614, §1, Nov. 16, 1990, 104 Stat. 3231, provided that: "This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the 'National Earthquake Hazards Reduction Program Reauthorization Act'."
 
 #### Short Title
 
 Pub. L. 95–124, §1, Oct. 7, 1977, 91 Stat. 1098, provided: "That this Act \[enacting this chapter\] may be cited as the 'Earthquake Hazards Reduction Act of 1977'."
 
-#### Delegation of Functions
-
-Functions of President under Earthquake Hazards Reduction Act of 1977 delegated, transferred, or reassigned to Secretary of Homeland Security pursuant to sections 1–104 and 4–204 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
-
 #### Report on At-Risk Populations
 
 Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+
+#### Delegation of Functions
+
+Functions of President under Earthquake Hazards Reduction Act of 1977 delegated, transferred, or reassigned to Secretary of Homeland Security pursuant to sections 1–104 and 4–204 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

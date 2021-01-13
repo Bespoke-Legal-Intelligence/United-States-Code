@@ -26,6 +26,8 @@ The President shall annually report to the Congress on measures taken in complia
 
 (June 30, 1948, ch. 758, title V, §508, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 103–355, title VIII, §8301(a), Oct. 13, 1994, 108 Stat. 3396; Pub. L. 115–232, div. A, title VIII, §836(g)(5), Aug. 13, 2018, 132 Stat. 1873.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (c) of this section authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
@@ -38,6 +40,8 @@ Subsec. (f)(2). Pub. L. 115–232, §836(g)(5)(B), substituted "the terms 'comme
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–355 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
@@ -45,6 +49,8 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
 
 #### Administration of Chapter With Respect to Federal Contracts, Grants, or Loans
 

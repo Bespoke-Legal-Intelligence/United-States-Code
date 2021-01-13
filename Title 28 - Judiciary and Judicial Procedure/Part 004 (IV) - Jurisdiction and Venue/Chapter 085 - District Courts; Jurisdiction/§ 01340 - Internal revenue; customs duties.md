@@ -14,9 +14,13 @@ Words "any civil action" were substituted for "all cases" in view of Rule 2 of t
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

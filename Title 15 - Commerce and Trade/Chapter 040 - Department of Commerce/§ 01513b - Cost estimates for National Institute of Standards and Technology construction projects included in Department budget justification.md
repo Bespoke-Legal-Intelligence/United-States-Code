@@ -12,6 +12,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1240.
+
 Pub. L. 116–93, div. B, title I, Dec. 20, 2019, 133 Stat. 2390.
 
 Pub. L. 116–6, div. C, title I, Feb. 15, 2019, 133 Stat. 96.

@@ -2,11 +2,11 @@
 
 #### (a) Establishment of scholarship program
 
-The Administrator of the Agency for International Development is authorized to establish and administer a program of scholarship assistance, in cooperation with State governments, universities, community colleges, and businesses, to provide scholarships to enable students from Poland and Hungary to study in the United States.
+The Administrator of the Agency for International Development is authorized to establishand administer a program of scholarship assistance, in cooperation with State governments, universities, community colleges, and businesses, to provide scholarships to enable students from Poland and Hungary to study in the United States.
 
 #### (b) Emphasis on business and economics
 
-The scholarship program provided for in this section shall emphasize scholarships to enablestudents from Poland and Hungary to study business and economics in the United States. Such scholarships may be provided for study in programs that range from the standard management courses to more specialized assistance in commercial banking and the creation of a stock market.
+The scholarship program provided for in this section shall emphasize scholarships to enable students from Poland and Hungary to study business and economics in the United States. Such scholarships may be provided for study in programs that range from the standard management courses to more specialized assistance in commercial banking and the creation of a stock market.
 
 #### (c) Grants to States
 
@@ -46,9 +46,13 @@ As used in this section, the term "State" means each of the several States, the 
 
 (Pub. L. 101–179, title IV, §402, Nov. 28, 1989, 103 Stat. 1315.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

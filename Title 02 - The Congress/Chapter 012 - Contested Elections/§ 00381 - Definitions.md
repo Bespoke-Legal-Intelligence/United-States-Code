@@ -22,6 +22,8 @@ For purposes of this chapter:
 
 (Pub. L. 91–138, §2, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, §211(1), (2), Aug. 20, 1996, 110 Stat. 1743, 1744.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186, §211(1)(A)–(C), substituted "chapter:" for "chapter—" in introductory provisions, redesignated subdivs. (a) to (i) as pars. (1) to (9), respectively, and realigned margins of pars. (1) to (9).
@@ -34,7 +36,7 @@ Pub. L. 104–186, §211(1)(D), redesignated pars. (1) and (2) as subpars. (A) a
 
 Pars. (3), (4). Pub. L. 104–186, §211(2)(C), (D), struck out "of the United States" after "House of Representatives".
 
-Par. (5). Pub. L. 104–186, §211(2)(E), substituted "term 'Member of the House of Representatives' means an incumbent Representative in, or Delegate or Resident Commissioner to, the Congress, or an individual who has been elected to such office" for "term 'Member' means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices".
+Par. (5). Pub. L. 104–186, §211(2)(E), substituted "term 'Member of the House of Representatives' means an incumbent Representative in, or Delegate or ResidentCommissioner to, the Congress, or an individual who has been elected to such office" for "term 'Member' means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices".
 
 Par. (6). Pub. L. 104–186, §211(2)(F), struck out "of the United States" after "House of Representatives".
 
@@ -43,6 +45,8 @@ Par. (7). Pub. L. 104–186, §211(2)(G), substituted "House Oversight of the Ho
 Par. (8). Pub. L. 104–186, §211(2)(H), substituted "means a State of the United States and any territory or" for "includes territory and".
 
 Par. (9). Pub. L. 104–186, §211(1)(A), (C), redesignated former subsec. (i) as par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

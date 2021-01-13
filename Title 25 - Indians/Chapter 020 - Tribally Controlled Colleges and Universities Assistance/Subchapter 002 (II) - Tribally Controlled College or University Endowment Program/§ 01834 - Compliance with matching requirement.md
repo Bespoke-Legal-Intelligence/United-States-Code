@@ -4,11 +4,15 @@ For the purpose of complying with the contribution requirement of section 1832(b
 
 (Pub. L. 95–471, title III, §304, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 101–477, §1(d)(1)(C), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 105–244, title IX, §901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–244 substituted "controlled college or university" for "controlled community college" in two places and "such college or university" for "such college" in two places.
 
 <b>1990</b>—Pub. L. 101–477 inserted at end "Any real or personal property received by a tribally controlled community college as a donation or gift on or after October 30, 1990, may, to the extent of its fair market value as determined by the Secretary, be used by such college as its contribution pursuant to section 1832(b)(2)(B) of this title, or as part of such contribution, as the case may be. In any case in which any such real or personal property so used is thereafter sold or otherwise disposed of by such college, the proceeds therefrom shall be deposited pursuant to section 1832(b)(2)(B) of this title but shall not again be considered for Federal capital contribution purposes."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

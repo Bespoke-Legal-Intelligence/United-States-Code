@@ -30,11 +30,11 @@
 
 &emsp;(3) sections 10721, 13712, and 15504 of title 49 or an equivalent arrangement or an exemption.
 
-(e) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50 percent of the overpayment identified by contract audit.
+(e) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50percent of the overpayment identified by contract audit.
 
 (f) At least annually, and as determined by the Administrator, after making adequate provision for expense of refunds to carriers, transportation audit postpayment contracts, contract administration, and other expenses authorized in subsection (e), overpayments collected by the General Services Administration shall be transferred to miscellaneous receipts of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress. This reporting requirement expires December 31, 1998.
 
-(g) The Administrator may delegate any authority conferred by this section to anotheragency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
+(g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
 (h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
@@ -92,6 +92,8 @@ In subsection (d)(1), the words "may request" are substituted for "Nothing in su
 
 In subsection (d)(2), the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–264, §3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
@@ -141,6 +143,8 @@ Subsec. (d). Pub. L. 103–272, §4(f)(1)(N), which directed the substitution of
 Subsecs. (c) to (g). Pub. L. 99–627, §1(2), (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–443 substituted "Secretary of Transportation with respect to foreign air transportation (as defined in the Federal Aviation Act of 1958)" for "Civil Aeronautics Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

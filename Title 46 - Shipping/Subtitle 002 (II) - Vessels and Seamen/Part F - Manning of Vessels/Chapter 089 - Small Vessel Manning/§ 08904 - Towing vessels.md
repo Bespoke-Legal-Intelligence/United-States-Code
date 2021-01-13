@@ -20,11 +20,15 @@ Historical and Revision Notes
 
 Section 8904 requires that a 26-foot or larger towing vessel be operated by a licensed individual for that type of vessel and for a particular geographic area.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–293 added subsec. (c).
 
 <b>1986</b>—Pub. L. 99–640 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

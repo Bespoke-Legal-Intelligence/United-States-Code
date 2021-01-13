@@ -12,7 +12,7 @@ Not later than 60 days after November 25, 2002, the President shall transmit to 
 
 The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including the following:
 
-&emsp;(1) Identification of any functions of agencies transferred to the Department pursuant to this chapter that will not be transferred to the Department under the plan.
+&emsp;(1) Identification of any functions of agencies transferred to the Department pursuantto this chapter that will not be transferred to the Department under the plan.
 
 &emsp;(2) Specification of the steps to be taken by the Secretary to organize the Department, including the delegation or assignment of functions transferred to the Department among officers of the Department in order to permit the Department to carry out the functions transferred under the plan.
 
@@ -48,9 +48,13 @@ The President may, on the basis of consultations with the appropriate congressio
 
 (Pub. L. 107–296, title XV, §1502, Nov. 25, 2002, 116 Stat. 2308.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### DEPARTMENT OF HOMELAND SECURITY
 
@@ -322,7 +326,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• In carrying out the foregoing responsibilities, ensure the speedy, orderly, and efficient flow of lawful traffic and commerce.
 
-&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6 U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
+&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
 
 &emsp;&emsp;&emsp;b. <i>Assistant Secretary for Border Security:</i> Will report directly to the Under Secretary for Border and Transportation Security, and whose responsibilities will include the following:
 

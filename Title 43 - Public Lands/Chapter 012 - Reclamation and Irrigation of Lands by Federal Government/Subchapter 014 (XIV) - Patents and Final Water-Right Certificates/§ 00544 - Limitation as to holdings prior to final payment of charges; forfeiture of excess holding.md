@@ -1,8 +1,10 @@
 ### §544. Limitation as to holdings prior to final payment of charges; forfeiture of excess holding
 
-No person shall at any one time or in any manner, except as hereinafter otherwise provided, acquire, own, or hold irrigable land for which entry or water-right application shall have been made under the said reclamation Act of June 17, 1902 and Acts supplementary thereto and amendatory thereof, before final payment infull of all installments of building and betterment charges shall have been made on account of such land in excess of one farm unit as fixed by the Secretary of the Interior as the limit of area per entry of public land or per single ownership of private land for which a water right may be purchased respectively, nor in any case in excess of one hundred and sixty acres, nor shall water be furnished under said Acts nor a water right sold or recognized for such excess; but any such excess land acquired by foreclosure or other process of law, by conveyance in satisfaction of mortgages, by inheritance, or by devise, may be held for five years and no longer after its acquisition, and water may be temporarily furnished during that time; and every excess holding prohibited as aforesaid shall be forfeited to the United States by proceedings instituted by the Attorney General for that purpose in any court of competent jurisdiction. The above provision shall be recited in every patent and water-right certificate issued by the United States under the provisions of this subchapter.
+No person shall at any one time or in any manner, except as hereinafter otherwise provided, acquire, own, or hold irrigable land for which entry or water-right application shall have been made under the said reclamation Act of June 17, 1902 and Acts supplementary thereto and amendatory thereof, before final payment in full of all installments of building and betterment charges shall have been made on account of such land in excess of one farm unit as fixed by the Secretary of the Interior as the limit of area per entry of public land or per single ownership of private land for which a water right may be purchased respectively, nor in any case in excess of one hundred and sixty acres, nor shall water be furnished under said Acts nor a water right sold or recognized for such excess; but any such excess land acquired by foreclosureor other process of law, by conveyance in satisfaction of mortgages, by inheritance, or by devise, may be held for five years and no longer after its acquisition, and water may be temporarily furnished during that time; and every excess holding prohibited as aforesaid shall be forfeited to the United States by proceedings instituted by the Attorney General for that purpose in any court of competent jurisdiction. The above provision shall be recited in every patent and water-right certificate issued by the United States under the provisions of this subchapter.
 
 (Aug. 9, 1912, ch. 278, §3, 37 Stat. 266; July 11, 1956, ch. 563, §2, 70 Stat. 524.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -15,6 +17,8 @@ Section comprises part of section 3 of act Aug. 9, 1912. Remainder of section 3 
 #### Amendments
 
 <b>1956</b>—Act July 11, 1956, increased period during which land could be held from two years to five years, and to authorize delivery of water for that period.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Amendment of Existing Contracts
 

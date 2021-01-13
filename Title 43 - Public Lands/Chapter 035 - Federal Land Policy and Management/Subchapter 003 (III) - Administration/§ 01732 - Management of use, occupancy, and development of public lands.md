@@ -16,7 +16,7 @@ The Secretary shall insert in any instrument providing for the use, occupancy, o
 
 (1) The Secretary of the Interior, after consultation with the Governor of Alaska, may issue to the Secretary of Defense or to the Secretary of a military department within the Department of Defense or to the Commandant of the Coast Guard a nonrenewable general authorization to utilize public lands in Alaska (other than within a conservation system unit or the Steese National Conservation Area or the White Mountains National Recreation Area) for purposes of military maneuvering, military training, or equipment testing not involving artillery firing, aerial or other gunnery, or other use of live ammunition or ordnance.
 
-(2) Use of public lands pursuant to a general authorization under this subsection shall be limited to areas where such use would not be inconsistent with the plans prepared pursuant to section 1712 of this title. Each such use shall be subject to a requirement that the using department shall be responsible for any necessarycleanup and decontamination of the lands used, and to such other terms and conditions (including but not limited to restrictions on use of off-road or all-terrain vehicles) as the Secretary of the Interior may require to—
+(2) Use of public lands pursuant to a general authorization under this subsection shall be limited to areas where such use would not be inconsistent with the plans prepared pursuant to section 1712 of this title. Each such use shall be subject to a requirement that the using department shall be responsible for any necessary cleanup and decontamination of the lands used, and to such other terms and conditions (including but not limited to restrictions on use of off-road or all-terrain vehicles) as the Secretary of the Interior may require to—
 
 &emsp;(A) minimize adverse impacts on the natural, environmental, scientific, cultural, and other resources and values (including fish and wildlife habitat) of the public lands involved; and
 
@@ -34,6 +34,8 @@ The Secretary shall insert in any instrument providing for the use, occupancy, o
 
 (Pub. L. 94–579, title III, §302, Oct. 21, 1976, 90 Stat. 2762; Pub. L. 100–586, Nov. 3, 1988, 102 Stat. 2980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
@@ -43,6 +45,8 @@ The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152
 #### Amendments
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–586 added subsec. (d).
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Transfer of Functions
 

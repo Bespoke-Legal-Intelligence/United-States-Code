@@ -38,9 +38,7 @@ To carry out the purposes of subsection (a), the Committee shall—
 
 (Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amended Pub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -54,9 +52,15 @@ Subsec. (g). Pub. L. 95–424, §502(d)(2), substituted "section 2394 of this ti
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
-Subsec. (d). Pub. L. 95–88, §127(b), substituted "less developed countries" for "low-income countries" in thedescription of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
+Subsec. (d). Pub. L. 95–88, §127(b), substituted "less developed countries" for "low-income countries" in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
 
 Subsecs. (e) to (g). Pub. L. 95–88, §127(c), added subsecs. (e) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -66,11 +70,13 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

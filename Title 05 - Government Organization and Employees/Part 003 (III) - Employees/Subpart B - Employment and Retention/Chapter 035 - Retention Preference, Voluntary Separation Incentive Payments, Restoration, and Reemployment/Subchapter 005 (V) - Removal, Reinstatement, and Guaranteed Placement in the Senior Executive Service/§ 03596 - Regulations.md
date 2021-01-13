@@ -4,9 +4,13 @@ The Office of Personnel Management shall prescribe regulations to carry out the 
 
 (Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1167, §3595; renumbered §3596, Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 renumbered section 3596 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

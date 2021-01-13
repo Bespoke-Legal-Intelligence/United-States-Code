@@ -28,9 +28,13 @@ Each State or local government that receives a homeland security grant shall, no
 
 (Pub. L. 109–347, title VII, §702, Oct. 13, 2006, 120 Stat. 1943.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

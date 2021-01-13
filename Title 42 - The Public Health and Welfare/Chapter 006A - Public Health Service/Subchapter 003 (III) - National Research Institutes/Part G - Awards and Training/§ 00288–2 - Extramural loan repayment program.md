@@ -40,7 +40,7 @@ The provisions of sections 254l–1, 254m, and 254o of this title shall, except 
 
 Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
 
-(July 1, 1944, ch. 373, title IV, §487B, as added Pub. L. 103–43, title X, §1002, June 10, 1993, 107 Stat. 166; amended Pub. L. 105–392, title IV, §410(b), Nov. 13, 1998, 112 Stat. 3589; Pub. L.110–154, §1(b)(8), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 114–255, div. A, title II, §2022(b), Dec. 13, 2016, 130 Stat. 1053.)
+(July 1, 1944, ch. 373, title IV, §487B, as added Pub. L. 103–43, title X, §1002, June 10, 1993, 107 Stat. 166; amended Pub. L. 105–392, title IV, §410(b), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 110–154, §1(b)(8), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 114–255, div. A, title II, §2022(b), Dec. 13, 2016, 130 Stat. 1053.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The purposes of the corporation are—
 
 &emsp;(3) to act in matters of voluntary relief and in accordance with the military authorities as a medium of communication between the people of the United States and the Armed Forces of the United States and to act in those matters between similar national societies of governments of other countries through the International Committee of the Red Cross and the Government, the people, and the Armed Forces of the United States;
 
-&emsp;(4) to carry out a system of national and international relief in time of peace, and to apply that system in mitigating the suffering caused by pestilence, famine, fire, floods, and other great national calamities, and to deviseand carry out measures for preventing those calamities; and
+&emsp;(4) to carry out a system of national and international relief in time of peace, and to apply that system in mitigating the suffering caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry out measures for preventing those calamities; and
 
 &emsp;(5) to conduct other activities consistent with the foregoing purposes.
 
@@ -45,6 +45,8 @@ In clause (2), the words "in carrying out the purposes described in clause (1) o
 In clause (3), the words "International Committee of the Red Cross" are substituted for "Comité International de Secours" because the name has been changed.
 
 In clause (4), the word "continue" is omitted as included in "carry out".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -40,9 +40,13 @@ Covered Costs.—For purposes of subsection (a)(2), costs relating to a course o
 
 (Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1464; amended Pub. L. 115–251, title II, §211(a)(12), Sept. 29, 2018, 132 Stat. 3176.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–251 substituted "will be eligible for appointment" for "is hired".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Preference
 

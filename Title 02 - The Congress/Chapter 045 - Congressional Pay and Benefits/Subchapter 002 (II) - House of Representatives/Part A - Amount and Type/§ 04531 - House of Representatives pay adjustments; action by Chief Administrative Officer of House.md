@@ -10,7 +10,7 @@
 
 > &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
 
-&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
+&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined bythe Chief Administrative Officer, made by the pay adjustment by the President; and
 
 &emsp;(3) shall transmit to the appropriate pay-fixing authority concerned in the House of Representatives a copy of his determinations with respect to the pay of those employees whose pay is fixed and adjusted by that authority.
 
@@ -23,6 +23,8 @@
 (e) No rate of pay for any position shall be adjusted under this section to an amount in excess of the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
 (Pub. L. 91–656, §5, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–298, §3(b), May 17, 1972, 86 Stat. 146; Pub. L. 92–392, §14(b), Aug. 19, 1972, 86 Stat. 575; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(F), (10)\], Nov. 5, 1990, 104 Stat. 1427, 1440, 1442; Pub. L. 102–378, §5(b), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 104–186, title II, §204(1), Aug. 20, 1996, 110 Stat. 1729; Pub. L. 116–94, div. E, title II, §212(b)(2), Dec. 20, 2019, 133 Stat. 2776.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -66,6 +68,8 @@ Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(ii)\], sub
 
 <b>1972</b>—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made identical substitutions in introductory provisions of "effective on the first day of the month in which such pay adjustments by the President" for "effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under section 282b of this title.
@@ -76,7 +80,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section5341 of Title 5, Government Organization and Employees.
 
 #### Directive of the Speaker of the House of Representatives Implementing the Salary Comparability Policy in 1969 for Officers and Employees of the House of Representatives Required by Section 212 of the Federal Salary Act of 1967 \[5 U.S.C. 5304 note\]
 

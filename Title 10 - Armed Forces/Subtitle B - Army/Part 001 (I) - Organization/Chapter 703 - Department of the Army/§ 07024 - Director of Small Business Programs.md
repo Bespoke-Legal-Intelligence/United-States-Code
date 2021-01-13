@@ -2,7 +2,7 @@
 
 (a)
 
-Director.—There is a Director of Small Business Programs in the Department of theArmy. The Director is appointed by the Secretary of the Army.
+Director.—There is a Director of Small Business Programs in the Department of the Army. The Director is appointed by the Secretary of the Army.
 
 (b)
 

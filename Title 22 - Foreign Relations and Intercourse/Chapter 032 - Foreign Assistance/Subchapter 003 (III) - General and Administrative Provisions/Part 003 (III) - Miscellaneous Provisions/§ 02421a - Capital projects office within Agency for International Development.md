@@ -26,7 +26,7 @@ The Administrator of AID (acting through the capital projects office), in coordi
 
 &emsp;(5) shall coordinate, where appropriate, funds available to AID for tied-aid purposes; and
 
-&emsp;(6) shall play a special role in helping to meet the infrastructure needs of countries making the transition from nonmarket to market economies by meeting the challenge ofinfrastructure assistance provided by foreign governments to those countries, including by undertaking a comprehensive study of the infrastructure needs of the various countries making the transition from nonmarket to market economies—
+&emsp;(6) shall play a special role in helping to meet the infrastructure needs of countriesmaking the transition from nonmarket to market economies by meeting the challenge of infrastructure assistance provided by foreign governments to those countries, including by undertaking a comprehensive study of the infrastructure needs of the various countries making the transition from nonmarket to market economies—
 
 &emsp;&emsp;(A) to identify those sectors in the economies of these countries that are most in need of rebuilding, and
 
@@ -36,9 +36,13 @@ The Administrator of AID (acting through the capital projects office), in coordi
 
 (Pub. L. 102–549, title III, §302, Oct. 28, 1992, 106 Stat. 3658.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Aid, Trade, and Competitiveness Act of 1992 and also as part of the Jobs Through Exports Act of 1992, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1992 Amendment
 

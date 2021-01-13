@@ -6,6 +6,8 @@
 
 (Pub. L. 91–173, title IV, §401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §16, Mar. 1, 1978, 92 Stat. 105; Pub. L. 97–119, title II, §203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–119 struck out "or who were totally disabled by this disease at the time of their deaths" after "due to this disease" and "due to such disease".
@@ -13,6 +15,8 @@
 <b>1978</b>—Pub. L. 95–239 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1972</b>—Pub. L. 92–303, §3(a), inserted "or who were totally disabled by this disease at the time of their deaths" after "disease" the first and third times it appeared and struck out "underground" before "coal mines".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 
@@ -46,5 +50,5 @@ Pub. L. 97–119, title II, §202(e), Dec. 29, 1981, 95 Stat. 1643, directed Sec
 
 #### Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers' Compensation Programs Applicable; Report to Congress
 
-Pub. L. 97–119, title II, §203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers' compensation programs applicablein lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, §203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers' compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 

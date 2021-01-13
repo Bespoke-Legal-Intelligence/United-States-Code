@@ -96,7 +96,7 @@ In this subchapter:
 
 #### (10) Local government
 
-&emsp;The term "local government" means any borough, city, county, parish, town, township, village, or other political subdivision of a State.
+&emsp;The term "local government" means any borough, city, county, parish, town, township,village, or other political subdivision of a State.
 
 #### (11) Malicious cyber command and control
 
@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term "non-Federal entity" includes a government agency or department of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the NorthernMariana Islands, and any other territory or possession of the United States.
+&emsp;&emsp;The term "non-Federal entity" includes a government agency or department of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
 
 #### (C) Exclusion
 
@@ -151,6 +151,8 @@ In this subchapter:
 &emsp;The term "tribal" has the meaning given the term "Indian tribe" in section 5304 of title 25.
 
 (Pub. L. 114–113, div. N, title I, §102, Dec. 18, 2015, 129 Stat. 2936.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

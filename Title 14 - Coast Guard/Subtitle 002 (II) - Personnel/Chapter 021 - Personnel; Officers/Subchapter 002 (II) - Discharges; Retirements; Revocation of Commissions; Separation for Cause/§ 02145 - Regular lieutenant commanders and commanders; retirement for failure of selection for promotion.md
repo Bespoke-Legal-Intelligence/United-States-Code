@@ -14,6 +14,8 @@
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 185, §285; amended Pub. L. 93–283, §1(7), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(24), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 107–295, title IV, §412, Nov. 25, 2002, 116 Stat. 2118; renumbered §2145 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 285 of this title as this section.
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "sec
 <b>1976</b>—Pub. L. 94–546 substituted "promotion year" for "fiscal year" in cl. (1).
 
 <b>1974</b>—Pub. L. 93–283 substituted "if he has completed at least 20 years of active service or is eligible" for "if eligible" in cl. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Retired Pay on or Prior to September 24, 1963
 

@@ -14,7 +14,7 @@ In addition to other authority under applicable law, the Secretary shall establi
 
 #### (b) Deferral period
 
-In determining the terms and conditions of assistance provided under this subchapter, the Secretary may establish a deferral period of not shorter than the buildout period established forthe project involved in order to support the financial feasibility and long-term sustainability of the project.
+In determining the terms and conditions of assistance provided under this subchapter, the Secretary may establish a deferral period of not shorter than the buildout period established for the project involved in order to support the financial feasibility and long-term sustainability of the project.
 
 (May 20, 1936, ch. 432, title VI, §606, as added Pub. L. 115–334, title VI, §6206, Dec. 20, 2018, 132 Stat. 4739.)
 

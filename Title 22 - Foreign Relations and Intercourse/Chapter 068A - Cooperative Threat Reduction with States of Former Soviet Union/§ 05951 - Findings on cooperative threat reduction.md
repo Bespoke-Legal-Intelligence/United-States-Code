@@ -20,6 +20,8 @@ The Congress finds that it is in the national security interest of the United St
 
 (Pub. L. 103–160, div. A, title XII, §1202, Nov. 30, 1993, 107 Stat. 1777.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–136, div. C, title XXXVI, §3601, Nov. 24, 2003, 117 Stat. 1822, provided that: "This title \[enacting provisions set out as notes under this section and sections 1928, 5959, and 6321 of this title\] may be cited as the 'Nuclear Security Initiative Act of 2003'."
@@ -134,7 +136,7 @@ Availability of Transferred Funds.—(1) Notwithstanding any restriction or limi
 
 Limitation.—(1) Of the amounts authorized to be appropriated by this title or any other Act for the program referred to in subsection (a), the Administrator for Nuclear Security may not obligate any funds for construction, or obligate or expend more than $100,000,000 for that program, until 30 days after the later of—
 
-&emsp;"(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committee on Foreign Relations of the Senate, acopy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
+&emsp;"(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
 
 &emsp;"(B) the date on which the Administrator submits to the committees specified in subparagraph (A) a report on a plan to achieve international participation in the program referred to in subsection (a), including cost sharing.
 
@@ -228,7 +230,7 @@ Coordination.—The provision of assistance under subsection (b) shall be closel
 
 #### Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union
 
-Pub. L. 107–107, div. A, title XII, §1205, Dec. 28, 2001, 115 Stat. 1247, as amended by Pub. L. 107–314, div. A,title XII, §1205, Dec. 2, 2002, 116 Stat. 2664, provided that:
+Pub. L. 107–107, div. A, title XII, §1205, Dec. 28, 2001, 115 Stat. 1247, as amended by Pub. L. 107–314, div. A, title XII, §1205, Dec. 2, 2002, 116 Stat. 2664, provided that:
 
 "(a)
 

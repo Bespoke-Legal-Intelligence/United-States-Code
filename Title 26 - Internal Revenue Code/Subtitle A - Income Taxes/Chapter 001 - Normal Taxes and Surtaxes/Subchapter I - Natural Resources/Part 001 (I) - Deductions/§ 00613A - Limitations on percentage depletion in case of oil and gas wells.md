@@ -90,7 +90,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(ii) so much of the taxpayer's average daily marginal production of domestic natural gas as does not exceed the taxpayer's depletable natural gas quantity (determined without regard to paragraph (3)(A)(ii)),
 
-> &emsp;&emsp;and the applicable percentage shall be deemed to be specified in subsection (b) of section 613 for purposes of subsection (a) of that section.
+> &emsp;&emsp;and the applicable percentage shall be deemed to be specified in subsection (b) ofsection 613 for purposes of subsection (a) of that section.
 
 #### (B) Election to have paragraph apply to pro rata portion of marginal production
 
@@ -152,7 +152,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (D) Partnerships
 
-&emsp;&emsp;In the case of a partnership, the depletion allowance shall be computed separately by the partners and not by the partnership. The partnership shall allocate to each partner his proportionate share of the adjusted basis of each partnership oil or gas property. The allocation is to be made as of the later of the date of acquisition of the oil or gas property by the partnership, or January 1, 1975. A partner's proportionate share of the adjusted basis of partnership property shall be determined in accordance with his interest in partnership capital or income and, in the case of property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share. Each partner shall separately keep records of his share of the adjusted basis in each oil and gas property of the partnership, adjust such share of the adjusted basis for any depletion taken on such property, and use such adjusted basis each year in the computation of his cost depletion or in the computation of his gain or loss on the disposition of such property by the partnership. For purposes of section 732 (relating to basis of distributed property other than money), the partnership's adjusted basis in mineral property shall be an amount equal to the sum of the partners' adjusted basis in such property as determined under this paragraph.
+&emsp;&emsp;In the case of a partnership, the depletion allowance shall be computed separately by the partners and not by the partnership. The partnership shall allocate to each partner his proportionate share of the adjusted basis of each partnership oil or gas property. Theallocation is to be made as of the later of the date of acquisition of the oil or gas property by the partnership, or January 1, 1975. A partner's proportionate share of the adjusted basis of partnership property shall be determined in accordance with his interest in partnership capital or income and, in the case of property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share. Each partner shall separately keep records of his share of the adjusted basis in each oil and gas property of the partnership, adjust such share of the adjusted basis for any depletion taken on such property, and use such adjusted basis each year in the computation of his cost depletion or in the computation of his gain or loss on the disposition of such property by the partnership. For purposes of section 732 (relating to basis of distributed property other than money), the partnership's adjusted basis in mineral property shall be an amount equal to the sum of the partners' adjusted basis in such property as determined under this paragraph.
 
 #### (8) Business under common control; members of the same family
 
@@ -174,7 +174,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(i) the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that section 1563(b)(2) shall not apply and except that "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a),
 
-&emsp;&emsp;&emsp;(ii) a person is a related person to another person if such persons are members of the same controlled group of corporations or if the relationship between suchpersons would result in a disallowance of losses under section 267 or 707(b), except that for this purpose the family of an individual includes only his spouse and minor children.
+&emsp;&emsp;&emsp;(ii) a person is a related person to another person if such persons are members of the same controlled group of corporations or if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b), except that for this purpose the family of an individual includes only his spouse and minor children.
 
 &emsp;&emsp;&emsp;(iii) the family of an individual includes only his spouse and minor children, and
 
@@ -228,7 +228,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(ii) given authority, pursuant to an agreement or contract with the taxpayer or a related person, to occupy any retail outlet owned, leased, or in any way controlled by the taxpayer or a related person.
 
-> &emsp;Notwithstanding the preceding sentence this paragraph shall not apply in any case where the combined gross receipts from the sale of such oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account for purposes of this paragraph do not exceed $5,000,000. For purposes of this paragraph, sales of oil, natural gas, or any product derived from oil or natural gas shall not include sales made of such items outside the United States, if no domestic production of the taxpayer or a related person isexported during the taxable year or the immediately preceding taxable year.
+> &emsp;Notwithstanding the preceding sentence this paragraph shall not apply in any case where the combined gross receipts from the sale of such oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account for purposes of this paragraph do not exceed $5,000,000. For purposes of this paragraph, sales of oil, natural gas, or any product derived from oil or natural gas shall not include sales made of such items outside the United States, if no domestic production of the taxpayer or a related person is exported during the taxable year or the immediately preceding taxable year.
 
 #### (3) Related person
 
@@ -384,7 +384,7 @@ Subsec. (c)(9)(B). Pub. L. 94–455, §2115(b)(1), (e), added cls. (iii) to (vi)
 
 Subsec. (d)(1). Pub. L. 94–455, §2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted "(excluding bulk sales of such items to commercial or industrial users)" before ", or any product derived" andinserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
+Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted "(excluding bulk sales of such items to commercial or industrial users)" before ", or any product derived" and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
 
 Subsec. (d)(3). Pub. L. 94–455, §2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(86) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(86) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Pub. L. 94–455, title XXI, §2115(f), Oct. 4, 1976, 90 Stat. 1910, provided that: "The amendments made by this section \[amending this section and sections 703 and 705 of this title\] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974."
 

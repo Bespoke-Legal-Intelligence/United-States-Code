@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized to establish in the Department the position of Under Secretary ofAgriculture for Natural Resources and Environment.
+The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Natural Resources and Environment.
 
 #### (b) Confirmation required
 

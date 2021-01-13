@@ -134,6 +134,8 @@
 
 (Added Pub. L. 99–399, title VIII, §803(a), Aug. 27, 1986, 100 Stat. 879; amended Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–189, §2(b)(2), Dec. 19, 2003, 117 Stat. 2865.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Victims of Terrorism Compensation Act \[title VIII of Pub. L. 99–399\], referred to in subsec. (d)(1), is Aug. 27, 1986.
@@ -149,6 +151,8 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 
 Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted "servicemember" for "person in the military service".
 
 <b>1991</b>—Subsec. (f)(3)(A). Pub. L. 102–83 substituted "section 3524 of title 38" for "section 1724 of title 38".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1986 Amendment
 
@@ -178,11 +182,13 @@ Definition.—For the purpose of this subsection, 'pay and allowances' has the m
 
 #### Regulations
 
-Pub. L. 99–399, title VIII, §807, Aug. 27, 1986, 100 Stat. 889, provided that: "Any regulation required by this title or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\]."
+Pub. L. 99–399, title VIII, §807, Aug. 27, 1986, 100 Stat. 889, provided that: "Any regulation required by thistitle or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\]."
 
 #### Effective Date of Entitlements
 
 Pub. L. 99–399, title VIII, §808, Aug. 27, 1986, 100 Stat. 889, provided that: "Provisions enacted by this title \[see Short Title note above\] which provide new spending authority described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(C)\] shall not be effective until October 1, 1986."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12576
 
@@ -196,7 +202,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5569 are delegated to the Secretary of State.
 
-Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
+Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
 
 Sec. 3. The functions vested in the President by section 806(a) (to be codified at 37 U.S.C. 559), section 806(c) (to be codified at 10 U.S.C. 1095 \[now 10 U.S.C. 1095a\]), and section 806(d) (to be codified at 10 U.S.C. 2181–2185) are delegated to the Secretary of Defense.
 

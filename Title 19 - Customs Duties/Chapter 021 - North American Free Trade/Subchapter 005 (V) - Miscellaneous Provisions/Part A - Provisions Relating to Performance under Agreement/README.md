@@ -5,6 +5,4 @@ Part A—Provisions Relating to Performance Under Agreement
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03461 - Discriminatory taxes](%C2%A7%2003461%20-%20Discriminatory%20taxes.md)
-- [&sect; 03462 - Review of operation and effects of Agreement](%C2%A7%2003462%20-%20Review%20of%20operation%20and%20effects%20of%20Agreement.md)
-- [&sect; 03463 - Report on impact of NAFTA on motor vehicle exports to Mexico](%C2%A7%2003463%20-%20Report%20on%20impact%20of%20NAFTA%20on%20motor%20vehicle%20exports%20to%20Mexico.md)
+- [&sect; 03461 to 3463 - Repealed. Pub. L. 116&#8211;113, title VI, &sect;601, Jan. 29, 2020, 134 Stat. 78](%C2%A7%2003461%20to%203463%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93113%2C%20title%20VI%2C%20%C2%A7601%2C%20Jan.%2029%2C%202020%2C%20134%20Stat.%2078.md)

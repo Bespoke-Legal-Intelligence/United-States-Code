@@ -1,6 +1,6 @@
 ### §742. Powers and duties of Corporation
 
-The Corporation shall have all of the powers and is subject to all of the duties vested in itunder this chapter, in addition to the powers conferred upon it under the laws of the State or States in which it is incorporated and the powers of a railroad in any State in which it operates. The Corporation is authorized and directed to—
+The Corporation shall have all of the powers and is subject to all of the duties vested in it under this chapter, in addition to the powers conferred upon it under the laws of the State or States in which it is incorporated and the powers of a railroad in any State in which it operates. The Corporation is authorized and directed to—
 
 &emsp;(a) acquire rail properties designated in the final system plan to be transferred or conveyed to it;
 
@@ -13,6 +13,8 @@ The Corporation shall have all of the powers and is subject to all of the duties
 > So long as 50 per centum or more, as determined by the Secretary of the Treasury, of the outstanding indebtedness of the Corporation consists of obligations of the Association or other debts owing to or guaranteed by the United States, the Corporation shall not engage in activities which are not related to transportation.
 
 (Pub. L. 93–236, title III, §302, Jan. 2, 1974, 87 Stat. 1005.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

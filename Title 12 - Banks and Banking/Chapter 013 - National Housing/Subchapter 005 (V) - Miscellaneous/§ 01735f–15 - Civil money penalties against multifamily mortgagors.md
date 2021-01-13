@@ -36,7 +36,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(i) Conveyance, transfer, or encumbrance of any of the mortgaged property, or permitting the conveyance, transfer, or encumbrance of such property, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of theproject, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
+&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
 
 &emsp;&emsp;(iii) Conveyance, assignment, or transfer of any beneficial interest in any trust holding title to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
 
@@ -154,7 +154,9 @@ In this section, the terms "agent employed to manage the property that has an id
 
 &emsp;(3) over which the ownership entity exerts effective control.
 
-(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat.2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414; Pub. L. 108–447, div. I, title II, §219(b), (c), Dec. 8, 2004, 118 Stat. 3319.)
+(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat. 2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414; Pub. L. 108–447, div. I, title II, §219(b), (c), Dec. 8, 2004, 118 Stat. 3319.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -182,6 +184,8 @@ Subsec. (f). Pub. L. 105–65, §561(a)(5), (6), substituted "Civil money penalt
 
 Subsec. (k). Pub. L. 105–65, §561(a)(7), added subsec. (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–65, title V, §561(c), Oct. 27, 1997, 111 Stat. 1416, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only with respect to—
@@ -204,5 +208,5 @@ Public comment.—The Secretary shall implement the amendments made by this sect
 
 "(2)
 
-Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
+Timing.—A proposed rule implementing the amendments made by this section shall be publishednot later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
 

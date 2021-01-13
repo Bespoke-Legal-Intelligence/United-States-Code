@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Assistance made available under grants awarded under this subpart shall be directedto the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
+&emsp;Assistance made available under grants awarded under this subpart shall be directed to the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
 
 #### (2) Requirements
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
 
-&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminatingdisparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
 &emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Secretary shall establish an experienced services program (referred to in this section as the "program") for the purpose of utilizing the talents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
+The Secretary shall establish an experienced services program (referred to in this section as the "program") for the purpose of utilizing thetalents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
 
 &emsp;(1) technical services in support of the conservation-related programs and authorities carried out by the Secretary, including conservation planning assistance, technical consultation, and assistance with design and implementation of conservation practices; and
 
@@ -60,7 +60,7 @@ An individual providing technical, professional, or administrative services, as 
 
 #### References in Text
 
-The Community Service Senior Opportunities Act, referred to in subsec. (b)(1), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapterIX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Community Service Senior Opportunities Act, referred to in subsec. (b)(1), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 

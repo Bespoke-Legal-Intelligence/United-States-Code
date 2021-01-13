@@ -36,7 +36,7 @@
 
 &emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term "total indebtedness", with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrument and permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
 
-(2)(A) Except as provided in subparagraph (B) of this paragraph, this subsection applies to any case in which the holder of a defaulted loan undertakes to liquidate the loan by means of a liquidation sale.
+(2)(A) Except as provided in subparagraph (B) of this paragraph, this subsection applies to anycase in which the holder of a defaulted loan undertakes to liquidate the loan by means of a liquidation sale.
 
 (B) This subsection does not apply to a case in which the Secretary proceeds under subsection (a)(2) of this section.
 
@@ -72,7 +72,7 @@
 
 (10)(A) Except as provided in subparagraphs (B) and (C) of this paragraph, the date referred to in paragraph (1)(D)(ii) of this subsection shall be the date of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Secretary may specify pursuant to regulations prescribed by the Secretary to implement this subsection).
 
-(B)(i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forebearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forebearance was requested and prior to the date of such sale,as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
+(B)(i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forebearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forebearance was requested and prior to the date of such sale, as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
 (ii) The Secretary may specify a date under subdivision (i) of this subparagraph only if, based on the use of a date so specified for the purposes of such paragraph (1)(D)(ii), the Secretary is authorized, under paragraph (5)(A) or (7)(A) of this subsection, to accept conveyance of the property.
 
@@ -84,9 +84,11 @@
 
 > the date referred to in paragraph (1)(D)(ii) of this subsection shall be a date, earlier than the date of such liquidation sale, which the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
-(D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
+(D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B),the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, §503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, §802(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–191, title II, §201, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–37, §2(h), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title III, §302, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title II, §202, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, §202, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, §201, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §124, Sept. 29, 2018, 132 Stat. 3169.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -142,7 +144,7 @@ Subsec. (c)(9). Pub. L. 102–83, §5(c)(1), substituted "3703(b)" for "1803(b)"
 
 Subsec. (c)(11). Pub. L. 102–54, §3(a), substituted "December 31, 1992" for "October 1, 1991".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–237, §313(b)(1), (2), substituted "Secretary", "Secretary's", and "Departmentof Veterans Affairs' " for "Administrator", "Administrator's", and "Veterans' Administration's", respectively, wherever appearing.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §313(b)(1), (2), substituted "Secretary", "Secretary's", and "Department of Veterans Affairs' " for "Administrator", "Administrator's", and "Veterans' Administration's", respectively, wherever appearing.
 
 Pub. L. 101–237, §304(b), substituted "Except as provided in section 1803(e) of this title, if" for "If" in last sentence of par. (1).
 
@@ -181,6 +183,8 @@ Subsec. (c). Pub. L. 98–369, §2512(a)(2), added subsec. (c).
 Subsec. (b). Pub. L. 94–324 substituted "the Administrator" for "he" wherever appearing.
 
 <b>1965</b>—Pub. L. 89–117 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -26,6 +26,12 @@ Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words "Congress hereby declares that", "to persons", and "Congress determines that" are omitted as surplus. The words "motor vehicle" before "equipment" are added for consistency. The words "and to expand the national driver register" are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. N, title IV, §440, Dec. 27, 2020, 134 Stat. 2068, provided that: "This subtitle \[subtitle C (§§440, 441) of title IV of div. N of Pub. L. 116–260, enacting provisions set out as a note under section 31102 of this title\] may be cited as the 'Motor Carrier Safety Grant Relief Act of 2020'."
+
+Pub. L. 116–260, div. U, title X, §1001(a), Dec. 27, 2020, 134 Stat. 2304, provided that: "This title \[enacting provisions set out as a note under section 30301 of this title and amending provisions set out as a note under section 30301 of this title\] may be cited as the 'REAL ID Modernization Act'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–323, §1, Dec. 17, 2018, 132 Stat. 4443, provided that: "This Act \[amending provisions set out as a note under section 30301 of this title\] may be cited as the 'REAL ID Act Modification for Freely Associated States Act'."
@@ -42,7 +48,7 @@ Pub. L. 114–94, div. B, title XXIV, §24109(a), Dec. 4, 2015, 129 Stat. 1706, 
 
 Pub. L. 114–94, div. B, title XXIV, §24321, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part II (§§24321, 24322) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending section 32302 of this title\] may be cited as the 'Safety Through Informed Consumers Act of 2015'."
 
-Pub. L. 114–94, div. B, title XXIV, §24331, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part III (§§24331–24335) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending sections 30117 and 32304A of this title and enacting provisions set out as a note under section 30119 of this title\] may be cited as the 'Tire Efficiency, Safety, and Registration Act of 2015' or the 'TESR Act'."
+Pub. L. 114–94, div. B, title XXIV, §24331, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part III (§§24331–24335) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending sections 30117 and 32304A ofthis title and enacting provisions set out as a note under section 30119 of this title\] may be cited as the 'Tire Efficiency, Safety, and Registration Act of 2015' or the 'TESR Act'."
 
 Pub. L. 114–94, div. B, title XXIV, §24351, Dec. 4, 2015, 129 Stat. 1716, provided that: "This part \[part V (§§24351, 24352) of subtitle C of title XXIV of div. B of Pub. L. 114–94, enacting section 30172 of this title and provisions set out as a note under section 30172 of this title\] may be cited as the 'Motor Vehicle Safety Whistleblower Act'."
 
@@ -272,7 +278,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### "SEC. 2509. HEAD INJURY IMPACT STUDY.
 
-"The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for whichthe Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter."
+"The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter."
 
 #### Fuel System Integrity Standard
 

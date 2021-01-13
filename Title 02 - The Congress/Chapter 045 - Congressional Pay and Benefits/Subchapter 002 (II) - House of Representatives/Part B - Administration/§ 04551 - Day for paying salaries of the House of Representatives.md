@@ -4,13 +4,17 @@ The usual day for paying salaries in or under the House of Representatives shall
 
 (Pub. L. 107–68, title I, §116(a), Nov. 12, 2001, 115 Stat. 573.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 60d–1 of this title prior to editorial reclassification and renumbering as this section.
 
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 107–68, title I, §116(c), Nov. 12, 2001, 115 Stat. 573, provided that: "This section \[enacting this sectionand repealing sections 60d, 60e, and 60e–1 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act \[Nov. 12, 2001\]."
+Pub. L. 107–68, title I, §116(c), Nov. 12, 2001, 115 Stat. 573, provided that: "This section \[enacting this section and repealing sections 60d, 60e, and 60e–1 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act \[Nov. 12, 2001\]."
 

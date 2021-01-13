@@ -70,6 +70,8 @@ The Secretary may award to any individual (other than an officer or employee of 
 
 (June 25, 1938, ch. 675, §307, as added Pub. L. 102–282, §3, May 13, 1992, 106 Stat. 159; amended Pub. L. 103–80, §3(g), Aug. 13, 1993, 107 Stat. 776.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 307 of act June 25, 1938, was renumbered section 310 and is classified to section 337 of this title.
@@ -77,6 +79,8 @@ A prior section 307 of act June 25, 1938, was renumbered section 310 and is clas
 #### Amendments
 
 <b>1993</b>—Subsec. (b)(3)(A). Pub. L. 103–80 made technical amendment to reference to May 13, 1992, to reflect correction of corresponding provision of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

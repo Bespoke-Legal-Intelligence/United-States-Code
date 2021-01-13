@@ -22,7 +22,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury, General Counsel of Department of the Treasury, or Department of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 were transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
+Functions of Secretary of the Treasury, General Counsel of Department of the Treasury, or Department of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 were transferred to Secretaryof Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
 Act May 10, 1934, ch. 277, §512(b), 48 Stat. 759, abolished offices of General Counsel and Assistant General Counsel for Bureau of Internal Revenue, and office of Solicitor and Assistant Solicitor of the Treasury and transferred powers, duties, and functions thereof to General Counsel for Department of the Treasury.
 

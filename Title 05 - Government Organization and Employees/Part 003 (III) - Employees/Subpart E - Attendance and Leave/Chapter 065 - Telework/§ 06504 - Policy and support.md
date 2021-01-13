@@ -78,6 +78,8 @@ Policy Guidance on Purchasing Computer Systems.—Not later than 120 days after 
 
 (Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3167.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsecs. (c)(1) and (f), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.

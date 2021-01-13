@@ -26,7 +26,7 @@ Payment.—The Secretary of Labor shall pay the amount administratively determin
 
 (c)
 
-Right of Action and Intervention Against Contractors and Sureties.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor's sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defense that the laborers and mechanics accepted or agreed to accept less than the required rate of wages or voluntarily made refunds.
+Right of Action and Intervention Against Contractors and Sureties.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor's sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defensethat the laborers and mechanics accepted or agreed to accept less than the required rate of wages or voluntarily made refunds.
 
 (d)
 
@@ -99,6 +99,8 @@ In subsection (a), the words "or possession" are omitted for consistency in this
 In subsection (c), the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" (meaning the Commissioner of the District of Columbia) because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
 
 In subsection (d)(4), the words "United States Court of Federal Claims" are substituted for "United States Claims Court" because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Public Law 102–572, 106 Stat. 4516).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

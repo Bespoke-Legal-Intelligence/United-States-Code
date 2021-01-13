@@ -26,6 +26,8 @@ The words "shall be guilty of a misdemeanor" are omitted as unnecessary in view 
 
 The words "and upon conviction thereof" are omitted as unnecessary because punishment can be imposed only after conviction.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

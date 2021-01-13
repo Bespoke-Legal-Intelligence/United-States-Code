@@ -4,7 +4,7 @@
 
 #### (1) Filing of claim
 
-&emsp;To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which is filed after the deadline applicable under subsection (d).
+&emsp;To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which isfiled after the deadline applicable under subsection (d).
 
 #### (2) Contents of claim
 
@@ -60,6 +60,8 @@ A covered employee may not file a claim under this section with respect to an al
 
 (Pub. L. 104–1, title IV, §402, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–397, title I, §102(a), Dec. 21, 2018, 132 Stat. 5301.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Part A of subchapter II, referred to in subsec. (a)(1), (3)(B), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
@@ -70,7 +72,9 @@ This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original 
 
 <b>2018</b>—Pub. L. 115–397 amended section generally. Prior to amendment, section related to counseling prior to commencing a proceeding.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018,with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 

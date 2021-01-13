@@ -12,7 +12,7 @@
 
 &emsp;(2) the term "physician" means a doctor of medicine or osteopathy legally authorized to practice medicine and surgery by the State in which the doctor performs such activity, or any other individual legally authorized by the State to perform abortions: <i>Provided, however,</i> That any individual who is not a physician or not otherwise legally authorized by the State to perform abortions, but who nevertheless directly performs a partial-birth abortion, shall be subject to the provisions of this section.
 
-(c)(1) The father, if married to the mother at the time she receives a partial-birth abortion procedure, and if the mother has not attained the age of 18 years at the time of the abortion, the maternal grandparents of the fetus, may in a civil action obtain appropriate relief, unless the pregnancy resulted from the plaintiff's criminal conduct or the plaintiff consented to the abortion.
+(c)(1) The father, if married to the mother at the time she receives a partial-birth abortionprocedure, and if the mother has not attained the age of 18 years at the time of the abortion, the maternal grandparents of the fetus, may in a civil action obtain appropriate relief, unless the pregnancy resulted from the plaintiff's criminal conduct or the plaintiff consented to the abortion.
 
 (2) Such relief shall include—
 
@@ -28,9 +28,13 @@
 
 (Added Pub. L. 108–105, §3(a), Nov. 5, 2003, 117 Stat. 1206.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment, referred to in subsec. (a), probably means the date of the enactment of Pub. L. 108–105, which enacted this section and was approved Nov. 5, 2003.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -46,7 +50,7 @@ Pub. L. 108–105, §2, Nov. 5, 2003, 117 Stat. 1201, provided that: "The Congre
 
 &emsp;"(3) In Stenberg v. Carhart, 530 U.S. 914, 932 (2000), the United States Supreme Court opined 'that significant medical authority supports the proposition that in some circumstances, \[partial birth abortion\] would be the safest procedure' for pregnant women who wish to undergo an abortion. Thus, the Court struck down the State of Nebraska's ban on partial-birth abortion procedures, concluding that it placed an 'undue burden' on women seeking abortions because it failed to include an exception for partial-birth abortions deemed necessary to preserve the 'health' of the mother.
 
-&emsp;"(4) In reaching this conclusion, the Court deferred to the Federal district court's factual findings thatthe partial-birth abortion procedure was statistically and medically as safe as, and in many circumstances safer than, alternative abortion procedures.
+&emsp;"(4) In reaching this conclusion, the Court deferred to the Federal district court's factual findings that the partial-birth abortion procedure was statistically and medically as safe as, and in many circumstances safer than, alternative abortion procedures.
 
 &emsp;"(5) However, substantial evidence presented at the Stenberg trial and overwhelming evidence presented and compiled at extensive congressional hearings, much of which was compiled after the district court hearing in Stenberg, and thus not included in the Stenberg trial record, demonstrates that a partial-birth abortion is never necessary to preserve the health of a woman, poses significant health risks to a woman upon whom the procedure is performed and is outside the standard of medical care.
 
@@ -56,7 +60,7 @@ Pub. L. 108–105, §2, Nov. 5, 2003, 117 Stat. 1201, provided that: "The Congre
 
 &emsp;"(8) However, under well-settled Supreme Court jurisprudence, the United States Congress is not bound to accept the same factual findings that the Supreme Court was bound to accept in Stenberg under the 'clearly erroneous' standard. Rather, the United States Congress is entitled to reach its own factual findings—findings that the Supreme Court accords great deference—and to enact legislation based upon these findings so long as it seeks to pursue a legitimate interest that is within the scope of the Constitution, and draws reasonable inferences based upon substantial evidence.
 
-&emsp;"(9) In Katzenbach v. Morgan, 384 U.S. 641 (1966), the Supreme Court articulated its highly deferential review of congressional factual findings when it addressed the constitutionality of section 4(e) of the Voting Rights Act of 1965 \[52 U.S.C. 10303(e)\]. Regarding Congress' factual determination that section 4(e) would assist the Puerto Rican community in 'gaining nondiscriminatory treatment in public services,' the Court stated that '\[i\]t was for Congress, as the branch that made this judgment, to assess and weigh the various conflicting considerations \* \* \*. It is not for us to review the congressional resolution of these factors. It is enough that we be able to perceive a basis upon which the Congress might resolve the conflict as it did. There plainly was such a basis to support section 4(e) in the application in question in this case.'. Id. at 653.
+&emsp;"(9) In Katzenbach v. Morgan, 384 U.S. 641 (1966), the Supreme Court articulated its highly deferential review of congressional factual findings when it addressed the constitutionality of section 4(e) of the Voting Rights Act of 1965 \[52 U.S.C. 10303(e)\]. Regarding Congress' factual determination that section 4(e) would assist the Puerto Rican community in 'gaining nondiscriminatory treatment in public services,' the Court stated that '\[i\]t was for Congress, as the branch that made this judgment, to assess and weigh thevarious conflicting considerations \* \* \*. It is not for us to review the congressional resolution of these factors. It is enough that we be able to perceive a basis upon which the Congress might resolve the conflict as it did. There plainly was such a basis to support section 4(e) in the application in question in this case.'. Id. at 653.
 
 &emsp;"(10) Katzenbach's highly deferential review of Congress' factual conclusions was relied upon by the United States District Court for the District of Columbia when it upheld the 'bail-out' provisions of the Voting Rights Act of 1965 (42 U.S.C. 1973c) \[now 52 U.S.C. 10304\], stating that 'congressional fact finding, to which we are inclined to pay great deference, strengthens the inference that, in those jurisdictions covered by the Act, state actions discriminatory in effect are discriminatory in purpose'. City of Rome, Georgia v. U.S., 472 F. Supp. 221 (D.D.C. 1979) aff'd City of Rome, Georgia v. U.S., 446 U.S. 156 (1980).
 

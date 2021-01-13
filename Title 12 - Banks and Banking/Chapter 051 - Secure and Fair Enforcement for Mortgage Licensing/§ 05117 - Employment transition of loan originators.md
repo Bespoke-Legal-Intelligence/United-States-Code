@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(C) on which the application State grants a State license; or
 
-&emsp;&emsp;(D) that is 120 days after the date on which the State-licensed loan originator submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+&emsp;&emsp;(D) that is 120 days after the date on which the State-licensed loan originator submitsthe application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
 
 #### (d) Applicability
 
@@ -83,6 +83,8 @@ In this section:
 &emsp;Any individual who is deemed to have temporary authority to act as a loan originator in an application State under this section and who engages in residential mortgage loan origination activities shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
 
 (Pub. L. 110–289, div. A, title V, §1518, as added Pub. L. 115–174, title I, §106(a), May 24, 2018, 132 Stat. 1302.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §7702. Actions involving discrimination
 
-(a)(1) Notwithstanding any other provision of law, and except as provided in paragraph (2) ofthis subsection, in the case of any employee or applicant for employment who—
+(a)(1) Notwithstanding any other provision of law, and except as provided in paragraph (2) of this subsection, in the case of any employee or applicant for employment who—
 
 &emsp;(A) has been affected by an action which the employee or applicant may appeal to the Merit Systems Protection Board, and
 
@@ -28,7 +28,7 @@
 
 (3) Any decision of the Board under paragraph (1) of this subsection shall be a judicially reviewable action as of—
 
-&emsp;(A) the date of issuance of the decision if the employee or applicant does not file a petition with the Equal Employment Opportunity Commission under subsection (b)(1) of this section, or
+&emsp;(A) the date of issuance of the decision if the employee or applicant does not file a petitionwith the Equal Employment Opportunity Commission under subsection (b)(1) of this section, or
 
 &emsp;(B) the date the Commission determines not to consider the decision under subsection (b)(2) of this section.
 
@@ -114,6 +114,8 @@
 
 (Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1140; amended Pub. L. 96–54, §2(a)(46), Aug. 14, 1979, 93 Stat. 384.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (d)(6)(B), is set out under section 5332 of this title.
@@ -125,6 +127,8 @@ The General Schedule, referred to in subsec. (d)(6)(B), is set out under section
 Subsec. (a)(1)(B)(i). Pub. L. 96–54, §2(a)(46)(B), substituted "2000e–16" for "2000e–16c".
 
 Subsec. (e)(1). Pub. L. 96–54, §2(a)(46)(C), (D), substituted "of this section" for "of this title" in subpar. (C), and "216(b)" for "216(d)" in provision following subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

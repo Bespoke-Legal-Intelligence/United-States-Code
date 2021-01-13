@@ -6,7 +6,7 @@ As used in this subchapter, the term—
 
 &emsp;(2) "financial assistance" includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-&emsp;(3) "Indian reservation or Alaska Native village" includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
+&emsp;(3) "Indian reservation or Alaska Native village" includes the reservation of any federally or State recognized Indian Tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian Tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
 
 &emsp;(4) "Native Hawaiian" means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
@@ -16,7 +16,7 @@ As used in this subchapter, the term—
 
 &emsp;(7) the term "Native American Pacific Islander" means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
 
-(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 109–394, §3, Dec. 14, 2006, 120 Stat. 2707.)
+(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 109–394, §3, Dec. 14, 2006, 120 Stat. 2707; Pub. L. 116–261, §5(d)(1), Dec. 30, 2020, 134 Stat. 3314.)
 
 #### References in Text
 
@@ -24,13 +24,15 @@ The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92�
 
 #### Amendments
 
+<b>2020</b>—Par. (3). Pub. L. 116–261 substituted "Tribe" for "tribe" in two places.
+
 <b>2006</b>—Pub. L. 109–394 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
 <b>1993</b>—Par. (2). Pub. L. 103–171, §5(6)(A), substituted "selected by Alaska Natives" for "selected by Alaskan Natives".
 
 Par. (4). Pub. L. 103–171, §5(6)(B), inserted semicolon at end.
 
-<b>1992</b>—Par. (2). Pub. L. 102–375 substituted "Alaska Native village" for "Alaskan Native village" in two places and "Alaska Native organizations" for "Alaskan Native organizations".
+<b>1992</b>—Par. (2). Pub. L. 102–375 substituted "Alaska Native village" for "Alaskan Native village" in two placesand "Alaska Native organizations" for "Alaskan Native organizations".
 
 Par. (6). Pub. L. 102–497 added par. (6).
 

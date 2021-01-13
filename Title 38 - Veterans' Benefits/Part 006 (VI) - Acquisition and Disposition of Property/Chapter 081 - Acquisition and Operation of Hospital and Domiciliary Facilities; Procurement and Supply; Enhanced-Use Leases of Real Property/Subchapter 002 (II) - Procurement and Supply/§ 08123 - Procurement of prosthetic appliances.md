@@ -4,6 +4,8 @@ The Secretary may procure prosthetic appliances and necessary services required 
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, §5013; amended Pub. L. 94–581, title II, §210(e)(8), Oct. 21, 1976, 90 Stat. 2865; renumbered §5023, Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61; renumbered §8123, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5023 of this title as this section.
@@ -11,6 +13,8 @@ The Secretary may procure prosthetic appliances and necessary services required 
 Pub. L. 102–83 substituted "Secretary" for "Administrator" in two places.
 
 <b>1976</b>—Pub. L. 94–581 substituted "the Administrator" for "he".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

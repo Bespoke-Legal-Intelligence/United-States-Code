@@ -12,3 +12,4 @@
 - [&sect; 12105 - Issuance of documentation](%C2%A7%2012105%20-%20Issuance%20of%20documentation.md)
 - [&sect; 12106 - Surrender of title and number](%C2%A7%2012106%20-%20Surrender%20of%20title%20and%20number.md)
 - [&sect; 12107 - Wrecked vessels](%C2%A7%2012107%20-%20Wrecked%20vessels.md)
+- [&sect; 12108 - Authority to extend duration of vessel certificates](%C2%A7%2012108%20-%20Authority%20to%20extend%20duration%20of%20vessel%20certificates.md)

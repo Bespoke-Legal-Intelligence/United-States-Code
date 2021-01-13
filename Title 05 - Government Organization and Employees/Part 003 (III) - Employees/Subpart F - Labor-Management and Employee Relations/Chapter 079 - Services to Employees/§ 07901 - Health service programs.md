@@ -60,6 +60,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, effective June 25, 1966, 80 Stat. 1610, section 1 of which transferred all functions of the Public Health Service to the Secretary of Health, Education, and Welfare.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The health programs conducted by the following agencies are not affected by this section—
@@ -69,6 +71,8 @@ This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, eff
 &emsp;"(2) the Canal Zone Government; and
 
 &emsp;"(3) the Panama Canal Company."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

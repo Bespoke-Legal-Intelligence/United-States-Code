@@ -8,7 +8,7 @@
 
 &emsp;(3) Providing assistance may not cause an increase in amounts required for the operation of the Coast Guard.
 
-(b) An individual (or the estate of that individual) who is authorized by the Coast Guard toprovide a service under a program established under subsection (a) and who is acting within the scope of that individual's duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
+(b) An individual (or the estate of that individual) who is authorized by the Coast Guard to provide a service under a program established under subsection (a) and who is acting within the scope of that individual's duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
 
 (Added Pub. L. 97–295, §2(6)(A), Oct. 12, 1982, 96 Stat. 1301, §147a; renumbered §708, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
 
@@ -28,6 +28,8 @@ July 1, 1977, Pub. L. 95–61, §8, 91 Stat. 260.
 
 In subsection (a), the words "Secretary of Health and Human Services" are substituted for "Department of Health, Education, and Welfare" because of 20:3508(b) and because the responsibility is in the head of the Department. The word "may" is substituted for "is authorized to" for clarity. The word "conditions" is substituted for "terms and conditions" because it is inclusive. The words "deems appropriate" are omitted as unnecessary. The words "The following . . . limitations apply" are substituted for "shall be subject to the following . . . limitations" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 708 was renumbered section 3708 of this title.
@@ -35,6 +37,8 @@ A prior section 708 was renumbered section 3708 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 147a of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

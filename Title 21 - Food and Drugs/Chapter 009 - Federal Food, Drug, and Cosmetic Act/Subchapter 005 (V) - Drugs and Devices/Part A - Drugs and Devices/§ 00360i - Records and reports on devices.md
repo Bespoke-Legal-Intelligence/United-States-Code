@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
@@ -52,11 +52,11 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 > &emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>2</sup>
 
-> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
+> In prescribing such regulations, the Secretary shall have due regard for the professional ethicsof the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
 #### (b) User reports
 
-(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case ofdeaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
+(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case of deaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
 
 (B) Whenever a device user facility receives or otherwise becomes aware of—
 
@@ -198,7 +198,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (1) In general
 
-&emsp;In order to provide timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section andsection 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
+&emsp;In order to provide timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section and section 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
 
 &emsp;&emsp;(A) are designed to efficiently generate reliable and timely safety and active surveillance data for use by the Secretary or manufacturers of the devices that are involved in the pilot project;
 
@@ -310,7 +310,9 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061;Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -384,6 +386,8 @@ Subsecs. (d), (e). Pub. L. 101–629, §3(b)(1), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 101–629, §7, added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -424,7 +428,7 @@ Pub. L. 101–629, §3(b)(3), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. 
 
 #### Regulations
 
-Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: "The Secretary of Health and Human Services shall promulgate regulations to implement section519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information."
+Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: "The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information."
 
 Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 

@@ -126,6 +126,8 @@ In subsection (d), the words "at any time thereafter" are omitted as unnecessary
 
 In subsection (f)(2)(A), the word "first" is omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
@@ -137,6 +139,8 @@ Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to i
 <b>2007</b>—Subsec. (b)(7). Pub. L. 110–140, §323(a), added par. (7).
 
 Subsecs. (f) to (h). Pub. L. 110–140, §323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

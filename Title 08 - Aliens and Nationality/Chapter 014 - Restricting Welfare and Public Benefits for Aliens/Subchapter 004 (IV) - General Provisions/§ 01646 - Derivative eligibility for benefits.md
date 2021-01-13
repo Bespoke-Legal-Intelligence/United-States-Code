@@ -4,9 +4,13 @@ Notwithstanding any other provision of law, an alien who under the provisions of
 
 (Pub. L. 104–193, title IV, §436, as added Pub. L. 105–33, title V, §5305(a), Aug. 5, 1997, 111 Stat. 601.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22,1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -14,5 +18,5 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 #### Effective Date
 
-Section effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1612 of this title.
+Section effective, except as otherwise provided, as if included in the enactment of title IV of the PersonalResponsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1612 of this title.
 

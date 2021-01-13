@@ -20,7 +20,7 @@
 
 &emsp;(ii) in excess of 50 per centum up to 100 per centum of the net book worth of the purchaser, the buy-out cost shall be 10 per centum of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out; or
 
-&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out cost shall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
+&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out costshall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
 
 (B) For purposes of this paragraph, the term "net book worth" does not include the value of any outstanding uncut Federal timber sales contracts.
 
@@ -56,7 +56,7 @@
 
 #### (b) Extension of time for performance of contracts; covered contracts; damages for default
 
-(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
+(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28,1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
 
 (2) Notwithstanding any other provision of law, timber contracts extended pursuant to the President's program of July 28, 1983, as implemented by the Secretary of Agriculture shall not be subject to inclusion of additional provisions for calculating damages for default.
 

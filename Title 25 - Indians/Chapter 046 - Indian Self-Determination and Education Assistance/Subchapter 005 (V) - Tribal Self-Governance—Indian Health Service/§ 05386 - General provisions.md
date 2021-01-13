@@ -30,7 +30,7 @@ Indian tribes participating in self-governance under this subchapter shall ensur
 
 #### (e) Redesign and consolidation
 
-An Indian tribe may redesign or consolidate programs, services, functions, and activities (or portions thereof) included in a funding agreement under section 5385 of this title and reallocate or redirect funds for such programs, services, functions, and activities (or portions thereof) in any manner which the Indian tribe deems to be in the best interest of the health and welfare of the Indian community being served, only if the redesign or consolidation does not have the effect of denying eligibility for services to population groups otherwise eligible to be served under applicable Federal law.
+An Indian tribe may redesign or consolidate programs, services, functions, and activities (or portions thereof) included in a funding agreement under section 5385 of this title and reallocate or redirect funds for such programs, services, functions, and activities (or portions thereof) in any manner which the Indian tribe deems to be in the best interest of the health and welfare of the Indian community being served, only if the redesign or consolidation does not have the effect of denying eligibility for services topopulation groups otherwise eligible to be served under applicable Federal law.
 
 #### (f) Retrocession
 
@@ -81,6 +81,8 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 For the period for which, and to the extent to which, funding is provided under this subchapter or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under section 5321 of this title, except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
 
 (Pub. L. 93–638, title V, §506, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 717.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

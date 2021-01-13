@@ -28,9 +28,13 @@ Not later than 30 days after the date of cancellation or termination of a privat
 
 (Pub. L. 105–216, §5, July 29, 1998, 112 Stat. 903.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was redesignated section 4902(a)(4) of this title by Pub. L. 106–569, title IV, §404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -8,9 +8,13 @@ Except as otherwise provided by this chapter, the Board shall have all the usual
 
 Based on 44 U.S. Code, 1964 ed., §300ff (July 9, 1941, ch. 284, §6, 55 Stat. 582).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 amended section generally, inserting "Except as otherwise provided by this chapter,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

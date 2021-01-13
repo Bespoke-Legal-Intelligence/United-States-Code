@@ -42,6 +42,8 @@ Comprehensive plan.—To carry out this section, the Secretary shall develop a d
 
 (Added Pub. L. 109–59, title V, §5302(a), Aug. 10, 2005, 119 Stat. 1805; amended Pub. L. 112–141, div. E, title III, §53001, July 6, 2012, 126 Stat. 897.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows:
@@ -53,6 +55,8 @@ In General.—For each fiscal year, not more than $250,000 of the funds made ava
 "(b)
 
 Applicability.—Subsection (a) shall not apply to intelligent transportation system training, scholarships, or the publication or distribution of research findings, technical guidance, or similar documents."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

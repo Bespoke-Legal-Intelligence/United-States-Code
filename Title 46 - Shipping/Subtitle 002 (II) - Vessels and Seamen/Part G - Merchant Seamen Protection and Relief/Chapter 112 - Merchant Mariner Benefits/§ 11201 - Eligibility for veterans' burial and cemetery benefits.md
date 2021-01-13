@@ -6,7 +6,7 @@ Eligibility.—
 
 &emsp;(1)
 
-In general.—The qualified service of a person referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
+In general.—The qualified service of an individual referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
 
 &emsp;&emsp;(A) Chapter 23 (relating to burial benefits).
 
@@ -14,7 +14,7 @@ In general.—The qualified service of a person referred to in paragraph (2) sha
 
 &emsp;(2)
 
-Covered individuals.—Paragraph (1) applies to a person who—
+Covered individuals.—Paragraph (1) applies to an individual who—
 
 &emsp;&emsp;(A) receives an honorable service certificate under section 11203 of this title; and
 
@@ -22,7 +22,7 @@ Covered individuals.—Paragraph (1) applies to a person who—
 
 (b)
 
-Reimbursement for Benefits Provided.—The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for a person by reason of eligibility under this section.
+Reimbursement for Benefits Provided.—The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for an individual by reason of eligibility under this section.
 
 (c)
 
@@ -36,9 +36,15 @@ General rule.—Benefits may be provided under the provisions of law referred to
 
 Burials, etc. in national cemeteries.—Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
 
-(Added Pub. L. 105–368, title IV, §402(a), Nov. 11, 1998, 112 Stat. 3336.)
+(Added Pub. L. 105–368, title IV, §402(a), Nov. 11, 1998, 112 Stat. 3336; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(11), Jan. 1, 2021, 134 Stat. 4751.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (c), is the date of enactment of Pub. L. 105–368, which was approved Nov. 11, 1998.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "an individual" for "a person" wherever appearing.
 

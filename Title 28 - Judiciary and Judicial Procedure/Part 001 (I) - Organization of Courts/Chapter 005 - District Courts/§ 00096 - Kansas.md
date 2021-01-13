@@ -18,11 +18,15 @@ The provision respecting court accommodations at Hutchinson was omitted as cover
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–554 provided for holding court at Lawrence.
 
 <b>1949</b>—Act Aug. 27, 1949, abolished the three divisions which constituted the judicial district, and added Dodge City as an additional place for holding court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

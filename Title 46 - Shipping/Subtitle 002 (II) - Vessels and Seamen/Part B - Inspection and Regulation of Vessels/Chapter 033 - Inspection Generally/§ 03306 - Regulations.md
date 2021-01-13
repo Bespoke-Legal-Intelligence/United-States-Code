@@ -1,6 +1,6 @@
 ### §3306. Regulations
 
-(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
+(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, including covered small passenger vessels (as defined in subsection (n)(5)), the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
 
 &emsp;(1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) inspections and tests related to paragraphs (1), (2), and (3) of this subsection; and
 
-&emsp;(5) the use of vessel stores and other supplies of a dangerous nature.
+&emsp;(5) the use of vessel stores and other supplies of a dangerous nature, including rechargeable devices utilized for personal or commercial electronic equipment.
 
 (b)(1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
 
@@ -64,7 +64,85 @@
 
 (2) Records maintained under paragraph (1) shall be stored, in paper or electronic form, onboard such vessels for not less than 3 years and shoreside for the life of the vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c),title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, §415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, §15(12), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 111–281, title VI, §612, Oct. 15, 2010, 124 Stat. 2970; Pub. L. 115–232, div. C, title XXXV, §3542(b), Aug. 13, 2018, 132 Stat. 2324; Pub. L. 115–265, title II, §206(a)(1), Oct. 11, 2018, 132 Stat. 3746.)
+(n)
+
+Covered Small Passenger Vessels.—
+
+&emsp;(1)
+
+Regulations.—The Secretary shall prescribe additional regulations to secure the safety of individuals and property on board covered small passenger vessels.
+
+&emsp;(2)
+
+Comprehensive review.—In order to prescribe the regulations under paragraph (1), the Secretary shall conduct a comprehensive review of all requirements (including calculations), in existence on the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, that apply to coveredsmall passenger vessels, with respect to fire detection, protection, and suppression systems, and avenues of egress, on board such vessels.
+
+&emsp;(3)
+
+Requirements.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), the regulations prescribed under paragraph (1) shall include, with respect to covered small passenger vessels, regulations for—
+
+&emsp;&emsp;&emsp;(i) marine firefighting training programs to improve crewmember training and proficiency, including emergency egress training for each member of the crew, to occur for all members on the crew—
+
+&emsp;&emsp;&emsp;&emsp;(I) at least monthly while such members are employed on board the vessel; and
+
+&emsp;&emsp;&emsp;&emsp;(II) each time a new crewmember joins the crew of such vessel;
+
+&emsp;&emsp;&emsp;(ii) in all areas on board the vessel where passengers and crew have access, including dining areas, sleeping quarters, and lounges—
+
+&emsp;&emsp;&emsp;&emsp;(I) interconnected fire detection equipment, including audible and visual alarms; and
+
+&emsp;&emsp;&emsp;&emsp;(II) additional fire extinguishers and other firefighting equipment;
+
+&emsp;&emsp;&emsp;(iii) the installation and use of monitoring devices to ensure the wakefulness of the required night watch;
+
+&emsp;&emsp;&emsp;(iv) increased fire detection and suppression systems (including additional fire extinguishers) on board such vessels in unmanned areas with machinery or areas with other potential heat sources;
+
+&emsp;&emsp;&emsp;(v) all general areas accessible to passengers to have no less than 2 independent avenues of escape that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) constructed and arranged to allow for free and unobstructed egress from such areas;
+
+&emsp;&emsp;&emsp;&emsp;(II) located so that if one avenue of escape is not available, another avenue of escape is available; and
+
+&emsp;&emsp;&emsp;&emsp;(III) not located directly above, or dependent on, a berth;
+
+&emsp;&emsp;&emsp;(vi) the handling, storage, and operation of flammable items, such as rechargeable batteries, including lithium ion batteries utilized for commercial purposes on board such vessels;
+
+&emsp;&emsp;&emsp;(vii) passenger emergency egress drills for all areas on the vessel to which passengers have access, which shall occur prior to the vessel beginning each excursion; and
+
+&emsp;&emsp;&emsp;(viii) all passengers to be provided a copy of the emergency egress plan for the vessel.
+
+&emsp;&emsp;(B)
+
+Applicability to certain covered small passenger vessels.—The requirements described in clauses (iii), (v), (vii), and (viii) of subparagraph (A) shall only apply to a covered small passenger vessel that has overnight passenger accommodations.
+
+&emsp;(4)
+
+Interim requirements.—
+
+&emsp;&emsp;(A)
+
+Interim requirements.—The Secretary shall, prior to issuing final regulations under paragraph (1), implement interim requirements to enforce the requirements under paragraph (3).
+
+&emsp;&emsp;(B)
+
+Implementation.—The Secretary shall implement the interim requirements under subparagraph (A) without regard to chapters 5 and 6 of title 5 and Executive Order Nos. 12866 and 13563 (5 U.S.C. 601 note; relating to regulatory planning and review and relating to improving regulation and regulatory review).
+
+&emsp;(5)
+
+Definition of covered small passenger vessel.—In this subsection, the term "covered small passenger vessel"—
+
+&emsp;&emsp;(A) except as provided in subparagraph (B), means a small passenger vessel (as defined in section 2101) that—
+
+&emsp;&emsp;&emsp;(i) has overnight passenger accommodations; or
+
+&emsp;&emsp;&emsp;(ii) is operating on a coastwise or oceans route; and
+
+&emsp;&emsp;(B) does not include a ferry (as defined in section 2101) or fishing vessel (as defined in section 2101).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, §415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, §15(12), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 111–281, title VI, §612, Oct. 15, 2010, 124 Stat. 2970; Pub. L. 115–232, div. C, title XXXV, §3542(b), Aug. 13, 2018, 132 Stat. 2324; Pub. L. 115–265, title II, §206(a)(1), Oct. 11, 2018, 132 Stat. 3746; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8441(a), Jan. 1, 2021, 134 Stat. 4742.)
 
 Historical and Revision Notes
 
@@ -166,11 +244,21 @@ Historical and Revision Notes
 
 Section 3306 contains broad authority to prescribe regulations for the proper inspection and certification of vessels. It provides regulatory flexibility for meeting technological changes. The section also permits flexibility in prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy. The Secretary may suspend or grant exemptions to certain limited inspection requirements when the Secretary finds that this is necessary in the public interest. It also contains the requirement that in regulating offshore supply vessels consideration must be given to the special nature of their operations.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Maritime Safety Act of 2010, referred to in subsec. (k)(1), is the date of enactment of title VI of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
+The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (n)(2), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8441(a)(1)(A), inserted ", including covered small passenger vessels (as defined in subsection (n)(5))" after "vessels subject to inspection" in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 116–283, §8441(a)(1)(B), inserted ", including rechargeable devices utilized for personal or commercial electronic equipment" before period at end.
+
+Subsec. (n). Pub. L. 116–283, §8441(a)(2), added subsec. (n).
 
 <b>2018</b>—Subsec. (i). Pub. L. 115–232 substituted "section 2113(4)" for "section 2113(5)".
 
@@ -193,6 +281,8 @@ Subsec. (i). Pub. L. 104–324, §712(2), inserted "as measured under section 14
 <b>1993</b>—Subsecs. (h), (i). Pub. L. 103–206 added subsecs. (h) and (i).
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–364 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -224,7 +314,7 @@ Pub. L. 115–265, title II, §208(a)(1), Oct. 11, 2018, 132 Stat. 3747, provide
 
 #### Towing Vessels
 
-Pub. L. 111–281, title VII, §701(c), Oct. 15, 2010, 124 Stat. 2980, provided that: "No later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under section 3306(j) of title 46, United StatesCode. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act."
+Pub. L. 111–281, title VII, §701(c), Oct. 15, 2010, 124 Stat. 2980, provided that: "No later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under section 3306(j) of title 46, United States Code. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act."
 
 \["Secretary" as used in section 701(c) of Pub. L. 111–281, set out above, probably means the Secretary of the department in which the Coast Guard is operating, see section 701(a)(1) of Pub. L. 111–281, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.\]
 
@@ -234,5 +324,5 @@ Pub. L. 104–324, title VI, §604(b), Oct. 19, 1996, 110 Stat. 3931, provided t
 
 #### International Convention for Safety of Life at Sea
 
-For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+For International Conventions for the Safety of Life at Sea to which the United States has been a party, seesection 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 

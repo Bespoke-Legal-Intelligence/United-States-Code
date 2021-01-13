@@ -10,6 +10,8 @@ Receipts from the commissions and charges set forth in subsection (a) of this se
 
 (Pub. L. 100–458, title III, §306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, §204(64), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 108–447, div. G, title I, §102(d), Dec. 8, 2004, 118 Stat. 3174.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 117f of this title prior to editorial reclassification and renumbering as this section.
@@ -22,7 +24,9 @@ Section is from the Legislative Branch Appropriations Act, 1989.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(64)(A), substituted "Chief Administrative Officer" for "Clerk".
 
-Subsec. (b). Pub. L. 104–186, §204(64)(B), substituted "Chief Administrative Officer" for "Clerk", struck out "but not limited to Legislative Service Organizations," after "entity, including", and substituted ", except that no amount charged to the Members' Representational Allowance" for ": <i>Provided</i>, That no amounts charged to the official expense allowances of Members of the House".
+Subsec. (b). Pub. L. 104–186, §204(64)(B), substituted "Chief Administrative Officer" for "Clerk", struck out "but not limited to Legislative Service Organizations,"after "entity, including", and substituted ", except that no amount charged to the Members' Representational Allowance" for ": <i>Provided</i>, That no amounts charged to the official expense allowances of Members of the House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

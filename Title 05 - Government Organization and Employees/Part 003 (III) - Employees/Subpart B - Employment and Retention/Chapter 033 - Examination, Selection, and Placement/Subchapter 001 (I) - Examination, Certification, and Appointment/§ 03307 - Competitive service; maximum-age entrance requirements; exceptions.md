@@ -46,6 +46,8 @@ The prohibition is restated in positive form. The word "officers" is omitted as 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Secretary, referred to in subsec. (b), see section 2109 of this title.
@@ -71,6 +73,8 @@ Subsec. (e). Pub. L. 100–238, §103(a)(1)(B), added subsec. (e).
 Subsec. (d). Pub. L. 93–350, §1(2), added subsec. (d).
 
 <b>1972</b>—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
@@ -148,7 +152,7 @@ Definition.—For purposes of this subsection, the term 'customs and border prot
 
 "(5)
 
-Exclusion.—Nothing in this section or any amendment made by this section shall be considered toafford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
+Exclusion.—Nothing in this section or any amendment made by this section shall be considered to afford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
 
 &emsp;"(A) holds a position within U.S. Customs and Border Protection; and
 
@@ -164,7 +168,7 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
+Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments madeby sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
 
 #### Effective Date of 1972 Amendment
 
@@ -177,6 +181,8 @@ Pub. L. 110–161, div. E, title V, §535(d), Dec. 26, 2007, 121 Stat. 2077, pro
 #### United States Park Police; Age Limits for Original Appointments
 
 Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for appointments to the United States Park Police, was repealed by Pub. L. 92–297, §11, May 16, 1972, 86 Stat. 145, effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11817. Office of Personnel Management Designated Agent To Concur With Agency Determination Fixing Age Limits for Making Original Appointments Respecting Law Enforcement Officer and Firefighter Positions
 

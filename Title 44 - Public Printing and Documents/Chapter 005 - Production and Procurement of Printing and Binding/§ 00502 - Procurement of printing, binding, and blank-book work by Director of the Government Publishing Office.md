@@ -8,9 +8,13 @@ Printing, binding, and blank-book work authorized by law, which the Director of 
 
 Based on 44 U.S. Code, 1964 ed., §111a (Feb. 28, 1929, ch. 367, §1, 45 Stat. 1400).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c), substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

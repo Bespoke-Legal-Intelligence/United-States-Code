@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(B) the identification of the administrative, technical and operational challenges that are unique to the fluoridation of small water systems;
 
-&emsp;&emsp;(C) the development of a practical model that may be easily utilized by other tribal,State, county or local governments in improving the quality of water fluoridation with emphasis on small water systems; and
+&emsp;&emsp;(C) the development of a practical model that may be easily utilized by other tribal, State, county or local governments in improving the quality of water fluoridation with emphasis on small water systems; and
 
 &emsp;&emsp;(D) the measurement of any increased percentage of Native Americans or Alaskan Natives who receive the benefits of optimally fluoridated water.
 
@@ -102,7 +102,7 @@ For purposes of this section, the term "Indian tribe" means an Indian tribe or t
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §317M, as added Pub. L. 106–310, div. A, title XVI, §1602, Oct. 17, 2000, 114 Stat. 1148; amended Pub. L. 111–148, title IV, §4102(b), (c), Mar. 23, 2010, 124 Stat. 551, 552.)
 

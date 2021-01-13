@@ -99,6 +99,7 @@
 | :--- | ---: |
 | 3030g–21. | Nutrition. |
 | 3030g–22. | Payment requirement. |
+| 3030g–23. | Nutrition services impact study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,13 +267,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—General Provisions
+#### Part D—Supportive Services for Healthy Aging and Independence
+
+|  |  |
+| :--- | ---: |
+| 3057k–21. | Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—General Provisions
 
 |  |  |
 | :--- | ---: |
 | 3057<i>l.</i> | Administration. |
-| [3057m.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20D%20-%20General%20Provisions/%C2%A7%2003057m%20-%20Payments.md) | Payments. |
-| [3057n.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20D%20-%20General%20Provisions/%C2%A7%2003057n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3057m.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20E%20-%20General%20Provisions/%C2%A7%2003057m%20-%20Payments.md) | Payments. |
+| [3057n.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20E%20-%20General%20Provisions/%C2%A7%2003057n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 3057<i>o.</i> | Funding set aside. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

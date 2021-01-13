@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title VIII, §801(a), Oct. 15, 2008, 122 Stat. 4803.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 110–422, title VIII, §802, Oct. 15, 2008, 122 Stat. 4803, provided that: "Congress makes the following findings:

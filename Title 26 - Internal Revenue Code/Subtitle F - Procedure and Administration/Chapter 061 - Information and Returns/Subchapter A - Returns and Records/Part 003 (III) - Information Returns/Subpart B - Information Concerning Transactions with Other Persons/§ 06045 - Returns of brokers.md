@@ -114,7 +114,7 @@ If any broker—
 
 #### (1) In general
 
-&emsp;Any person engaged in a trade or business and making a payment (in the course of such trade or business) to which this subsection applies shall file a return under subsection (a) and a statement under subsection (b) with respect to such payment.
+&emsp;Any person engaged in a trade or business and making a payment (in the course of suchtrade or business) to which this subsection applies shall file a return under subsection (a) and a statement under subsection (b) with respect to such payment.
 
 #### (2) Application of subsection
 
@@ -168,7 +168,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;(i) was acquired through a transaction in the account in which such security is held, or
 
-&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was acovered security, but only if the broker received a statement under section 6045A with respect to the transfer.
+&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was a covered security, but only if the broker received a statement under section 6045A with respect to the transfer.
 
 #### (B) Specified security
 
@@ -208,7 +208,7 @@ If any broker—
 
 #### (1) Exercise of option
 
-&emsp;For purposes of this section, if a covered security is acquired or disposed of pursuant to the exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
+&emsp;For purposes of this section, if a covered security is acquired or disposed of pursuant tothe exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
 
 #### (2) Lapse or closing transaction
 
@@ -244,7 +244,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into accountits cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
+Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
 
 <b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
 

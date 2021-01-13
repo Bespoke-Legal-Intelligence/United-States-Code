@@ -1,6 +1,6 @@
 ### §24. Subpoenas, witnesses
 
-The clerk of any United States court for the district wherein testimony is to be taken for usein any contested case in the Patent and Trademark Office, shall, upon the application of any party thereto, issue a subpoena for any witness residing or being within such district, commanding him to appear and testify before an officer in such district authorized to take depositions and affidavits, at the time and place stated in the subpoena. The provisions of the Federal Rules of Civil Procedure relating to the attendance of witnesses and to the production of documents and things shall apply to contested cases in the Patent and Trademark Office.
+The clerk of any United States court for the district wherein testimony is to be taken for use in any contested case in the Patent and Trademark Office, shall, upon the application of any party thereto, issue a subpoena for any witness residing or being within such district, commanding him to appear and testify before an officer in such district authorized to take depositions and affidavits, at the time and place stated in the subpoena. The provisions of the Federal Rules of Civil Procedure relating to the attendance of witnesses and to the production of documents and things shall apply to contested cases in the Patent and Trademark Office.
 
 Every witness subpoenaed and in attendance shall be allowed the fees and traveling expenses allowed to witnesses attending the United States district courts.
 
@@ -14,6 +14,8 @@ Based on Title 35, U.S.C., 1946 ed., §§54, 55 and 56 (R.S. 4906, amended Feb. 
 
 Three sections of the existing statute are combined with some changes in language and placed in part 1 since they apply to trade-mark cases in the Patent Office as well as to patent cases. Reference to a repealed statute in the first paragraph is replaced by reference to the Federal Rules of Civil Procedure and certain rules are made applicable.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -21,6 +23,8 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 #### Amendments
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

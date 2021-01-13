@@ -2,7 +2,9 @@
 
 The Secretary shall increase the monthly basic educational assistance allowance paid to an individual who is entitled to supplemental educational assistance under this subchapter by the monthly amount of the supplemental educational assistance to which the individual is entitled.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1423; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103Stat. 2092; renumbered §3023, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1423; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3023, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -13,6 +15,8 @@ Prior section 3023 was renumbered section 5123 of this title.
 <b>1991</b>—Pub. L. 102–83 renumbered section 1423 of this title as this section.
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

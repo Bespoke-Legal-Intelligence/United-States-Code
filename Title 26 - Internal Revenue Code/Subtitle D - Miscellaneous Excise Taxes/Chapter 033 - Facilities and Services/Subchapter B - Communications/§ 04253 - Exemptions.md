@@ -22,7 +22,7 @@ Only one payment of tax under section 4251 shall be required with respect to the
 
 #### (f) Common carriers and communications companies
 
-No tax shall be imposed under section 4251 on the amount paid for any toll telephone servicedescribed in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
+No tax shall be imposed under section 4251 on the amount paid for any toll telephone service described in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
 
 #### (g) Installation charges
 
@@ -38,7 +38,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### (j) Exemption for nonprofit educational organizations
 
-Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 onany amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 #### (k) Exemption for qualified blood collector organizations
 

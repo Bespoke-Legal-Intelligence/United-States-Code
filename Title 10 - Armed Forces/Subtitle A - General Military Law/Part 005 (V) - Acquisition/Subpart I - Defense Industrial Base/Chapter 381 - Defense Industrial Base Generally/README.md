@@ -1,12 +1,18 @@
 ### <b>CHAPTER 381—DEFENSE INDUSTRIAL BASE GENERALLY</b>
 
-#### Amendments
+| Sec. |  |
+| :--- | ---: |
+| [4801\.](%C2%A7%2004801%20-%20Definitions.md) | Definitions. |
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1831, added chapter heading.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Prior Provisions
+
+A prior chapter 381 "DEFENSE INDUSTRIAL BASE GENERALLY", consisting of reserved section 4801, was repealed by Pub. L. 116–283, div. A, title XVIII, §1866(b), Jan. 1, 2021, 134 Stat. 4279.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04801 - \[Reserved](%C2%A7%2004801%20-%20%5BReserved.md)
+- [&sect; 04801 - Definitions](%C2%A7%2004801%20-%20Definitions.md)

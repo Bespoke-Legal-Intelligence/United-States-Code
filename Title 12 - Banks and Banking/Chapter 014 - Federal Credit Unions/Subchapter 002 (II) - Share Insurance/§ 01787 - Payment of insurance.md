@@ -94,7 +94,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iii) Rule of construction
 
-&emsp;&emsp;&emsp;This subsection shall not be construed as limiting any rights that the Board, in anycapacity, might otherwise have under section 1786(p) of this title.
+&emsp;&emsp;&emsp;This subsection shall not be construed as limiting any rights that the Board, in any capacity, might otherwise have under section 1786(p) of this title.
 
 #### (J) Incidental powers
 
@@ -186,7 +186,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (D) Authority to disallow claims
 
-&emsp;&emsp;The liquidating agent may disallow any portion of any claim by a creditor or claimof security, preference, or priority which is not proved to the satisfaction of the liquidating agent.
+&emsp;&emsp;The liquidating agent may disallow any portion of any claim by a creditor or claim of security, preference, or priority which is not proved to the satisfaction of the liquidating agent.
 
 #### (E) No judicial review of determination pursuant to subparagraph (D)
 
@@ -272,7 +272,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (C) Period for filing or renewing suit
 
-&emsp;&emsp;Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the appointment of the liquidating agent, seeking a determination of the claimant's rightswith respect to such security interest after the earlier of—
+&emsp;&emsp;Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the appointment of the liquidating agent, seeking a determination of the claimant's rights with respect to such security interest after the earlier of—
 
 &emsp;&emsp;&emsp;(i) the end of the 90-day period beginning on the date of the filing of a request for expedited relief; or
 
@@ -554,7 +554,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
+&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue aftersuch date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
 
 &emsp;&emsp;&emsp;(ii) the conservator or liquidating agent shall—
 
@@ -606,7 +606,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(ii) any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination value, payment amount, orother transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
+&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
 
 #### (B) Applicability of other provisions
 
@@ -702,7 +702,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
-&emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in acommercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term;
+&emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term;
 
 &emsp;&emsp;&emsp;&emsp;(III) means any combination of agreements or transactions referred to in subclauses (I) and (IV);
 
@@ -734,7 +734,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (vii) Treatment of master agreement as one agreement
 
-&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any preceding clause of this subparagraph (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contract. If a master agreement contains provisions relating toagreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
+&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any preceding clause of this subparagraph (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contract. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
 
 #### (viii) Transfer
 
@@ -752,7 +752,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(ii) any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination values, payment amounts, or other transfer obligations arising under or in connection with such qualified financial contracts.
+&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination values, payment amounts, orother transfer obligations arising under or in connection with such qualified financial contracts.
 
 #### (F) Clarification
 
@@ -858,7 +858,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (D) "Business day" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "business day" means any day other thanany Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+&emsp;&emsp;For purposes of this paragraph, the term "business day" means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
 
 #### (11) Disaffirmance or repudiation of qualified financial contracts
 
@@ -924,7 +924,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (3) Resolution of disputes
 
-&emsp;A determination by the Administration regarding any claim for insurance coverage shall be treated as a final determination for purposes of this section. In its discretion, the Board may promulgate regulations prescribing procedures for resolving any disputed claim relating to any insured deposit or any determination of insurance coverage with respectto any deposit. A final determination made by the Board regarding any claim for insurance coverage shall be a final agency action reviewable in accordance with chapter 7 of title 5 by the United States district court for the Federal judicial district where the principal place of business of the credit union is located.
+&emsp;A determination by the Administration regarding any claim for insurance coverage shall be treated as a final determination for purposes of this section. In its discretion, the Board may promulgate regulations prescribing procedures for resolving any disputed claim relating to any insured deposit or any determination of insurance coverage with respect to any deposit. A final determination made by the Board regarding any claim for insurance coverage shall be a final agency action reviewable in accordance with chapter 7 of title 5 by the United States district court for the Federal judicial district where the principal place of business of the credit union is located.
 
 #### (4) Statute of limitations
 
@@ -1066,7 +1066,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (A) Pass-through insurance
 
-&emsp;&emsp;The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
+&emsp;&emsp;The Administration shall provide pass-through share insurance for the deposits orshares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
 
 #### (B) Treatment of IOLTAs
 
@@ -1112,7 +1112,7 @@ The Board may withhold payment of such portion of the insured account of any mem
 
 #### (o) Unclaimed insured accounts; limitations
 
-If, after the Board shall have given at least four months' notice to the member by mailing a copy thereof to his last-known address appearing on the records of the closed credit union, any member of the closed credit union shall fail to claim his insured account from the Boardwithin 18 months after the appointment of the liquidating agent for the closed credit union, all rights of the member against the Board with respect to the insured accounts shall be barred, and all rights of the member against the closed credit union, or the estate to which the Board may have become subrogated, shall thereupon revert to the member.
+If, after the Board shall have given at least four months' notice to the member by mailing a copy thereof to his last-known address appearing on the records of the closed credit union, any member of the closed credit union shall fail to claim his insured account from the Board within 18 months after the appointment of the liquidating agent for the closed credit union, all rights of the member against the Board with respect to the insured accounts shall be barred, and all rights of the member against the closed credit union, or the estate to which the Board may have become subrogated, shall thereupon revert to the member.
 
 #### (p) Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it
 
@@ -1157,6 +1157,8 @@ The Board, as conservator or liquidating agent of any insured credit union and f
 &emsp;(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
 (June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, §301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, §2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, §1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545; Pub. L. 113–252, §2, Dec. 18, 2014, 128 Stat. 2893.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1328,7 +1330,7 @@ Subsec. (b). Pub. L. 101–73, §1217(a)(3), (4), added subsec. (b) and redesign
 
 Subsec. (c). Pub. L. 101–73, §1217(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (k).
 
-Subsec. (d). Pub. L. 101–73, §1217(a)(2), (4), added subsec. (d) and struck out former subsec. (d) which provided for subrogation by the Board to all rights of amember against a closed credit union to the extent of the Board's payment to the member.
+Subsec. (d). Pub. L. 101–73, §1217(a)(2), (4), added subsec. (d) and struck out former subsec. (d) which provided for subrogation by the Board to all rights of a member against a closed credit union to the extent of the Board's payment to the member.
 
 Subsecs. (e) to (i). Pub. L. 101–73, §1217(a)(3), (4), added subsecs. (e) to (i) and redesignated former subsecs. (e) to (i) as (l) to (p), respectively.
 
@@ -1359,6 +1361,8 @@ Subsecs. (d) to (i). Pub. L. 95–630, §502(b), substituted "Board" for "Admini
 <b>1974</b>—Subsec. (c)(1). Pub. L. 93–495, §§101(c)(1), (2), 104(a), redesignated existing provisions as par. (1), substituted "Subject to the provisions of paragraph (2), for the purposes of this subsection" for "For the purposes of this subsection", and substituted "$40,000" for "$20,000". As enacted section 104(a) of Pub. L. 93–495 amended the first sentence; however the amendment was executed to the second sentence editorially since this would appear to be the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 93–495, §101(c)(3), added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -1412,7 +1416,7 @@ Pub. L. 93–495, title I, §104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provided
 
 #### Temporary Adjustment in Standard Maximum Share Insurance Amount
 
-Subsec. (k)(5) of this section to apply with "$250,000" substituted for "$100,000" during period beginning onOct. 3, 2008, and ending on Dec. 31, 2009, see section 5241(b)(1) of this title.
+Subsec. (k)(5) of this section to apply with "$250,000" substituted for "$100,000" during period beginning on Oct. 3, 2008, and ending on Dec. 31, 2009, see section 5241(b)(1) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

@@ -20,7 +20,7 @@
 
 Whenever the Secretary finds that a member of a foreign mission, a member of the family of such member, or an individual described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946—
 
-&emsp;(1) is at fault for personal injury, death, or property damage arising out of the operation of a motor vehicle, vessel, or aircraft in the United States,
+&emsp;(1) is at fault for personal injury, death, or property damage arising out of the operationof a motor vehicle, vessel, or aircraft in the United States,
 
 &emsp;(2) is not covered by liability insurance, and
 
@@ -38,9 +38,13 @@ For purposes of this section—
 
 (Aug. 1, 1956, ch. 841, title II, §204A, as added Pub. L. 98–164, title VI, §603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, §162(o)(4), Apr. 30, 1994, 108 Stat. 410.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–236 substituted "Secretary" for "Director" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

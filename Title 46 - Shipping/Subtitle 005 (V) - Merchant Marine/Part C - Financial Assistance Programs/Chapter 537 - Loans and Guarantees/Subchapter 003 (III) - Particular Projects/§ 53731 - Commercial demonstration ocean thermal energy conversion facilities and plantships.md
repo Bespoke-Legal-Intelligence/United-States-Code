@@ -26,7 +26,7 @@ Amount of Obligation.—The total principal amount of an obligation guaranteed u
 
 &emsp;(1) the actual cost or depreciated actual cost of the facility or plantship; or
 
-&emsp;(2) if the facility or plantship is supported with appropriated Federal funds, the total principal amount of that portion of the actualcost or depreciated actual cost for which the obligor is obligated to secure financing under the agreement between the obligor and the Department of Energy or other Federal agency.
+&emsp;(2) if the facility or plantship is supported with appropriated Federal funds, the total principal amount of that portion of the actual cost or depreciated actual cost for which the obligor is obligated to secure financing under the agreement between the obligor and the Department of Energy or other Federal agency.
 
 (f)
 
@@ -116,11 +116,13 @@ In subsection (f)(1), the words "account established under section 53717(b)(1) o
 
 In subsection (f)(2)(B), the word "conversion" is substituted for "conversional" to correct an apparent error.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(H). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(9)(D), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(H), into this section by substituting "Administrator" for "Secretary" wherever appearing, except when followed by "of Energy". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(H), which directed the amendment of section 1279c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(H), which directed the amendment of section 1279c of the former Appendixto this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

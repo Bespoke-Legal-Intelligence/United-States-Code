@@ -26,11 +26,11 @@ For purposes of this section, the term "public housing" has the meaning given th
 
 #### (d) Regulations
 
-This section shall take effect upon the date of the effectiveness of regulations issued by the Secretary to carry out this section. Such regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5 applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).
+This section shall take effect upon the date of the effectiveness of regulations issued by theSecretary to carry out this section. Such regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5 applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).
 
 (Sept. 1, 1937, ch. 896, title I, §31, as added Pub. L. 105–276, title V, §526, Oct. 21, 1998, 112 Stat. 2568.)
 
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 

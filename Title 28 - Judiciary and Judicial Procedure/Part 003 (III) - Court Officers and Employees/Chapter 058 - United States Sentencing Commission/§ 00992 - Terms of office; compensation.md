@@ -18,13 +18,15 @@
 
 &emsp;(A) the date on which a successor has taken office; or
 
-&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member's term expired.
+&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress thatcommences after the date on which the member's term expired.
 
 (c) The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,<sup>1</sup> shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge's appointment as a Federal judge.
 
 (d) Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
 
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2018; amended Pub. L. 99–646, §§4, 6(a), Nov. 10, 1986, 100 Stat. 3592; Pub. L. 102–349, §1, Aug. 26, 1992, 106 Stat. 933; Pub. L. 103–322, title XXVIII, §280005(b), (c)(1), (3), Sept. 13, 1994, 108 Stat. 2096, 2097.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 103–322, §280005(b), (c)(3), amended first sentence gene
 <b>1986</b>—Subsec. (c). Pub. L. 99–646, §4, substituted "section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984" for "section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983".
 
 Subsec. (d). Pub. L. 99–646, §6(a), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

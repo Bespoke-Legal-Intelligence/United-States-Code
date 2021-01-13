@@ -22,14 +22,18 @@
 | [1918\.](%C2%A7%2001918%20-%20Disloyalty%20and%20asserting%20the%20right%20to%20strike%20against%20the%20Government.md) | Disloyalty and asserting the right to strike against the Government. |
 | [1919\.](%C2%A7%2001919%20-%20False%20statement%20to%20obtain%20unemployment%20compensation%20for%20Federal%20service.md) | False statement to obtain unemployment compensation for Federal service. |
 | [1920\.](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%27%20compensation.md) | False statement or fraud to obtain Federal employees' compensation. |
-| [1921\.](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%27%20compensation%20after%20marriage.md) | Receiving Federal employees' compensation after marriage. |
+| \[1921. | Repealed.\] |
 | [1922\.](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%27%20compensation.md) | False or withheld report concerning Federal employees' compensation. |
 | [1923\.](%C2%A7%2001923%20-%20Fraudulent%20receipt%20of%20payments%20of%20missing%20persons.md) | Fraudulent receipt of payments of missing persons. |
 | [1924\.](%C2%A7%2001924%20-%20Unauthorized%20removal%20and%20retention%20of%20classified%20documents%20or%20material.md) | Unauthorized removal and retention of classified documents or material. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(e), Dec. 27, 2020, 134 Stat. 2156, struck out item 1921 "Receiving Federal employees' compensation after marriage".
 
 <b>1996</b>—Pub. L. 104–294, title VI, §604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted "employees' " for "employee's" in item 1920.
 
@@ -68,7 +72,7 @@ Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, s
 - [&sect; 01918 - Disloyalty and asserting the right to strike against the Government](%C2%A7%2001918%20-%20Disloyalty%20and%20asserting%20the%20right%20to%20strike%20against%20the%20Government.md)
 - [&sect; 01919 - False statement to obtain unemployment compensation for Federal service](%C2%A7%2001919%20-%20False%20statement%20to%20obtain%20unemployment%20compensation%20for%20Federal%20service.md)
 - [&sect; 01920 - False statement or fraud to obtain Federal employees' compensation](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%27%20compensation.md)
-- [&sect; 01921 - Receiving Federal employees' compensation after marriage](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%27%20compensation%20after%20marriage.md)
+- [&sect; 01921 - Repealed. Pub. L. 116&#8211;260, div. O, title X, &sect;1002(9), Dec. 27, 2020, 134 Stat. 2155](%C2%A7%2001921%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20O%2C%20title%20X%2C%20%C2%A71002%289%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202155.md)
 - [&sect; 01922 - False or withheld report concerning Federal employees' compensation](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%27%20compensation.md)
 - [&sect; 01923 - Fraudulent receipt of payments of missing persons](%C2%A7%2001923%20-%20Fraudulent%20receipt%20of%20payments%20of%20missing%20persons.md)
 - [&sect; 01924 - Unauthorized removal and retention of classified documents or material](%C2%A7%2001924%20-%20Unauthorized%20removal%20and%20retention%20of%20classified%20documents%20or%20material.md)

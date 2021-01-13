@@ -14,11 +14,13 @@
 
 (Added Pub. L. 98–151, §115(a), Nov. 14, 1983, 97 Stat. 976; amended Pub. L. 101–647, title XXXV, §3514, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§602(e), 606(b), Oct. 11, 1996, 110 Stat. 3503, 3511; Pub. L. 107–273, div. B, title IV, §4002(a)(1), Nov. 2, 2002, 116 Stat. 1806.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "fine under this title" for "fine of under this title".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–294, §602(e), struck out "that in fact is stolen or bears a forged or falsely made endorsement or signature" after "bond or security of the United States".
+<b>1996</b>—Subsec. (b). Pub. L. 104–294, §602(e), struck out "that in fact is stolen or bears a forged or falsely madeendorsement or signature" after "bond or security of the United States".
 
 Subsec. (c). Pub. L. 104–294, §606(b), substituted "$1,000" for "$500".
 

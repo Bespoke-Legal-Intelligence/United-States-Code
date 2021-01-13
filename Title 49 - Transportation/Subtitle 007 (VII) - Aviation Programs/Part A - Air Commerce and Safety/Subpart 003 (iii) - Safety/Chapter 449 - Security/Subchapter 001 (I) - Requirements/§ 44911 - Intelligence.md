@@ -38,7 +38,7 @@ Designation of Intelligence Officer.—At the request of the Secretary of Homela
 
 (e)
 
-Written Working Agreements.—The heads of units in the intelligence community, the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.
+Written Working Agreements.—The heads of units in the intelligence community,the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212; Pub. L. 107–71, title I, §§101(f)(7), (9), 102(b), (c), Nov. 19, 2001, 115 Stat. 603, 605; Pub. L. 115–254, div. K, title I, §1991(d)(9), Oct. 5, 2018, 132 Stat. 3633.)
 

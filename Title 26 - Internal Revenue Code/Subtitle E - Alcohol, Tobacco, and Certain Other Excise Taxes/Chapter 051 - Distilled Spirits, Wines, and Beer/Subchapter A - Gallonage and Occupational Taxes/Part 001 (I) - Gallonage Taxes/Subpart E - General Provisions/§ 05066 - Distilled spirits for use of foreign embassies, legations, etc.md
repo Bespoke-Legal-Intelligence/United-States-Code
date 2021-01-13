@@ -4,7 +4,7 @@
 
 #### (1) Bottled distilled spirits withdrawn from bonded premises
 
-&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
+&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
 
 #### (2) Bottled distilled spirits eligible for export with benefit of drawback
 
@@ -26,11 +26,11 @@ Distilled spirits entered into customs bonded warehouses as authorized by this s
 
 No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(4) are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
 
-(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2),July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, §401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, §401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
 
 #### Prior Provisions
 
-A prior section 5066 was renumbered 5067 of this title.
+A prior section 5066 was renumbered 5068 of this title.
 
 #### Amendments
 

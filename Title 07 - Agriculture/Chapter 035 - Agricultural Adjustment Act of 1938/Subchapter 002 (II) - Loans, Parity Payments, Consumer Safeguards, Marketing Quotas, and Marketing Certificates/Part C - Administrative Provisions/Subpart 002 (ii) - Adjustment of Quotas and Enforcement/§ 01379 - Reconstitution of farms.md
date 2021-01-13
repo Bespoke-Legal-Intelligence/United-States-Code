@@ -8,7 +8,7 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 &emsp;(3) the parent farm resulted from a combination of two or more tracts of land and records are available showing the contribution of each tract to the allotments, histories, and bases of the parent farm;
 
-&emsp;(4) the appropriate county committee determines that a division based on cropland proportions would result in allotments and bases not representative of the operations normally carried out on any transferred tract during the base period;
+&emsp;(4) the appropriate county committee determines that a division based on cropland proportions would result in allotments and basesnot representative of the operations normally carried out on any transferred tract during the base period;
 
 &emsp;(5) the parent farm is divided among heirs in settling an estate; or
 

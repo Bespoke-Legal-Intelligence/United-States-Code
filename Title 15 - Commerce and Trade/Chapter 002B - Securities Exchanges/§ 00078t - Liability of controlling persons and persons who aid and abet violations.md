@@ -18,7 +18,7 @@ Wherever communicating, or purchasing or selling a security while in possession 
 
 #### (e) Prosecution of persons who aid and abet violations
 
-For purposes of any action brought by the Commission under paragraph (1) or (3) of section78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
+For purposes of any action brought by the Commission under paragraph (1) or (3) of section 78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
 #### (f) Limitation on Commission authority
 
@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 111–203, §929O, inserted "or recklessly" after "knowingl
 
 Subsec. (f). Pub. L. 111–203, §762(d)(6)(B), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreements".
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title III, §303(i)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation."
+<b>2000</b>—Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title III, §303(i)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or sellerof the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation."
 
 Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(3)\], substituted ", privilege, or security futures product" for "or privilege".
 

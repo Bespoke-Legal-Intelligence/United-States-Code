@@ -1,5 +1,7 @@
 ### §1223. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 24, 1954, ch. 900, §3, 68 Stat. 790, which provided that nothing in former sections 1221 to 1223 of this title would affect valid existing rights, was omitted from the Code as being of special and not general application.

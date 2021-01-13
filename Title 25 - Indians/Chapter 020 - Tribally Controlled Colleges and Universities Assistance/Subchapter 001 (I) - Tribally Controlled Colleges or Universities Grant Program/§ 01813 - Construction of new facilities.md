@@ -26,7 +26,7 @@ If, within twenty years after completion of construction of a facility which has
 
 &emsp;(2) the tribe with which the applicant is affiliated fails to use the facility for a public purpose approved by the tribal government in furtherance of the general welfare of the community served by the tribal government,
 
-> title to the facility shall vest in the United States and the applicant (or such tribe if such tribe is the successor in title to the facility) shall be entitled to recover from the United States an amount which bears the same ratio to the present value of the facility as the amount of the applicant's contribution (excluding any funds provided under section 13 of this title) bore to the original cost of the facility. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is located.
+> title to the facility shall vest in the United States and the applicant (or such tribe if suchtribe is the successor in title to the facility) shall be entitled to recover from the United States an amount which bears the same ratio to the present value of the facility as the amount of the applicant's contribution (excluding any funds provided under section 13 of this title) bore to the original cost of the facility. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is located.
 
 #### (e) Religious use
 
@@ -41,6 +41,8 @@ For the purposes of this section—
 &emsp;(2) the term "academic facilities" has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
 
 (Pub. L. 95–471, title I, §113, formerly §112, Oct. 17, 1978, 92 Stat. 1329; renumbered §113 and amended Pub. L. 98–192, §§4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, §6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, §102(a)(8)(C), title IX, §901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,9 @@ Subsec. (c)(2). Pub. L. 105–244, §901(b)(5), (7), (12), in introductory provi
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–428 substituted "Secretary under" for "Administrator of General Services under".
 
-<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirementsfor grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining "construction" and "academic facilities" for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
+<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirements for grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining "construction" and "academic facilities" for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

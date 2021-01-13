@@ -4,6 +4,8 @@ In order to carry out the purposes of section 1942 of this title, there is autho
 
 (Pub. L. 86–735, §2, Sept. 8, 1960, 74 Stat. 870; Pub. L. 88–205, pt. IV, §401(b), Dec. 16, 1963, 77 Stat. 390.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was not enacted as part of the Mutual Security Act of 1954 which comprises this chapter.
@@ -11,6 +13,8 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 #### Amendments
 
 <b>1963</b>—Pub. L. 88–205 substituted "$680,000,000" for "$500,000,000".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

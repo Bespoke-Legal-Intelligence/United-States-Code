@@ -8,7 +8,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (1) In general
 
-&emsp;The amount of the tax imposed by subsection (a) on any failure with respect to any applicable individual shall be $100 for each day in the noncompliance period with respect to such failure.
+&emsp;The amount of the tax imposed by subsection (a) on any failure with respect to any applicable individual shall be $100 for each dayin the noncompliance period with respect to such failure.
 
 #### (2) Noncompliance period
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) each participant in the plan, and
 
-&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
+&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section 414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
 
 > &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
 

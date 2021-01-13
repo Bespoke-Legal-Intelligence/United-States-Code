@@ -50,7 +50,7 @@
 
 &emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
 
-&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the FederalRegister, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
+&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
 
 (2) When a final rule is published in the Federal Register, the agency shall explain—
 
@@ -70,7 +70,7 @@
 
 &emsp;(D) from disapproving any collection of information contained in a final rule, if—
 
-&emsp;&emsp;(i) the Director determines that the agency has substantially modified in the final rule the collection of information contained in the proposed rule; and
+&emsp;&emsp;(i) the Director determines that the agency has substantially modified in the finalrule the collection of information contained in the proposed rule; and
 
 &emsp;&emsp;(ii) the agency has not given the Director the information required under paragraph (1) with respect to the modified collection of information, at least 60 days before the issuance of the final rule.
 
@@ -136,6 +136,8 @@
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 176; amended Pub. L. 104–106, div. E, title LVI, §5605(d), Feb. 10, 1996, 110 Stat. 700; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
@@ -147,6 +149,8 @@ Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, prov
 <b>2000</b>—Subsecs. (e)(3)(B), (h), (j). Pub. L. 106–398 substituted "subchapter" for "chapter" wherever appearing.
 
 <b>1996</b>—Subsec. (j)(2). Pub. L. 104–106 substituted "180 days" for "90 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

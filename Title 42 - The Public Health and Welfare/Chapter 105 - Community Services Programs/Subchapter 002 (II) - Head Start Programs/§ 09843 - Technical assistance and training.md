@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) give priority consideration to—
 
-&emsp;&emsp;&emsp;(i) activities to correct program and management deficiencies identifiedthrough reviews carried out pursuant to section 9836a(c) of this title (including the provision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title);
+&emsp;&emsp;&emsp;(i) activities to correct program and management deficiencies identified through reviews carried out pursuant to section 9836a(c) of this title (including the provision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title);
 
 &emsp;&emsp;&emsp;(ii) assisting Head Start agencies in ensuring the school readiness of children; and
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance and training, either directly or through a grant, contract, or cooperative agreement with an entity that has experience in the development and operation of successful family literacy services programs, for the purpose of—
 
-&emsp;&emsp;&emsp;&emsp;(I) assisting Head Start agencies providing family literacy services, in order to improve the quality of such family literacy services; and
+&emsp;&emsp;&emsp;&emsp;(I) assisting Head Start agencies providing family literacy services, in orderto improve the quality of such family literacy services; and
 
 &emsp;&emsp;&emsp;&emsp;(II) enabling those Head Start agencies that demonstrate effective provision of family literacy services, based on improved outcomes for children and their parents, to provide technical assistance and training to other Head Start agencies and to service providers that work in collaboration with such agencies to provide family literacy services;
 
@@ -132,7 +132,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(I) Additional activities deemed appropriate to the improvement of Head Start programs, as determined by the technical assistance and training plans of the Head Start agencies.
 
-&emsp;(2) To support enhanced early language and literacy development of children in Head Start programs, and to provide the children with high-quality oral language skills and with environments that are rich in literature in whichto acquire language and early literacy skills. Each Head Start agency, in consultation with the State-based training and technical assistance system, as appropriate, shall ensure that—
+&emsp;(2) To support enhanced early language and literacy development of children in Head Start programs, and to provide the children with high-quality oral language skills and with environments that are rich in literature in which to acquire language and early literacy skills. Each Head Start agency, in consultation with the State-based training and technical assistance system, as appropriate, shall ensure that—
 
 &emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as "literacy training"), including appropriate curricula and assessment to improve instruction and learning;
 
@@ -146,7 +146,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(F) the literacy training shall be tailored to the early childhood literacy background and experience of the teachers involved;
 
-> &emsp;except that funds made available under section 9835(a)(2)(C)(i) of this title shall not be used for long-distance travel expenses for training activities available locally or regionally or for training activities substantially similar to locally or regionally available training activities.
+> &emsp;except that funds made available under section 9835(a)(2)(C)(i) of this title shall not be used for long-distance travel expenses fortraining activities available locally or regionally or for training activities substantially similar to locally or regionally available training activities.
 
 #### (e) State-based training and technical assistance system
 
@@ -242,7 +242,7 @@ Subsec. (c)(3). Pub. L. 105–285, §114(a)(2)(G), added par. (3). Former par. (
 
 Subsec. (c)(4). Pub. L. 105–285, §114(a)(2)(G), added par. (4). Former par. (4) redesignated (6).
 
-Pub. L. 105–285, §114(a)(2)(C), inserted "and implementing" after "developing" and substituted "the day, and assist the agencies and programs in expediting thesharing of information about innovative models for providing full-working-day, full calendar year services for children" for "a longer day" before semicolon.
+Pub. L. 105–285, §114(a)(2)(C), inserted "and implementing" after "developing" and substituted "the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children" for "a longer day" before semicolon.
 
 Subsec. (c)(5), (6). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
@@ -264,7 +264,7 @@ Subsec. (e). Pub. L. 105–285, §114(b), inserted "(including services to promo
 
 Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children."
 
-Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
+Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connectionwith Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
 
 Subsec. (b). Pub. L. 103–252, §114(4), (5), added subsec. (b) and struck out former subsec. (b) which related to teacher qualifications and waiver of same.
 

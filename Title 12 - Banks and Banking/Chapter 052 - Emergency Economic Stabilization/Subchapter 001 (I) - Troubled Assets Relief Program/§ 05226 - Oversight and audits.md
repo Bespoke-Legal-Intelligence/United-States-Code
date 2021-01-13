@@ -80,7 +80,7 @@
 
 #### (3) Reporting
 
-&emsp;The Comptroller General shall submit reports of findings under this section annuallyto the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
+&emsp;The Comptroller General shall submit reports of findings under this section annually to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
 
 #### (b) Comptroller General audits
 
@@ -133,6 +133,8 @@ Any oversight, reporting, or audit requirement under this section shall terminat
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 
 (Pub. L. 110–343, div. A, title I, §116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, §601, May 20, 2009, 123 Stat. 1659; Pub. L. 114–301, §3(a), Dec. 16, 2016, 130 Stat. 1514.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 The purpose of this subpart is to reduce domestic violence, dating violence, sexual assault, and stalking, and to prevent homelessness by—
 
-&emsp;(1) protecting the safety of victims of domestic violence, dating violence, sexual assault, and stalking who reside in homeless shelters, public housing, assisted housing, tribally designated housing, or other emergency, transitional, permanent, or affordable housing, and ensuring that such victims have meaningful access to the criminal justice system without jeopardizing such housing;
+&emsp;(1) protecting the safety of victims of domestic violence, dating violence, sexual assault,and stalking who reside in homeless shelters, public housing, assisted housing, tribally designated housing, or other emergency, transitional, permanent, or affordable housing, and ensuring that such victims have meaningful access to the criminal justice system without jeopardizing such housing;
 
 &emsp;(2) creating long-term housing solutions that develop communities and provide sustainable living solutions for victims of domestic violence, dating violence, sexual assault, and stalking;
 
@@ -11,6 +11,8 @@ The purpose of this subpart is to reduce domestic violence, dating violence, sex
 &emsp;(4) enabling public and assisted housing agencies, tribally designated housing entities, private landlords, property management companies, and other housing providers and agencies to respond appropriately to domestic violence, dating violence, sexual assault, and stalking, while maintaining a safe environment for all housing residents.
 
 (Pub. L. 103–322, title IV, §41402, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3031; amended Pub. L. 113–4, title VI, §601(a)(2), Mar. 7, 2013, 127 Stat. 102.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

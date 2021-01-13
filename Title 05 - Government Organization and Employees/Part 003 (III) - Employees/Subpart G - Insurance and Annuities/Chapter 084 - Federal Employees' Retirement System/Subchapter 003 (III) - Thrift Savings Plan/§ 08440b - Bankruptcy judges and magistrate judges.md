@@ -20,11 +20,13 @@
 
 (6) For purposes of this section, the terms "retirement" and "retire" include removal from office under section 377(d) of title 28 on the sole ground of mental or physical disability.
 
-(7) In the case of a bankruptcy judge or magistrate judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity tobe received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
+(7) In the case of a bankruptcy judge or magistrate judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
 
 (8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate judge retires under circumstances making such bankruptcy judge or magistrate judge eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
 (Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §§1(d)(5), 3(2), Dec. 21, 2004, 118 Stat. 3892, 3893.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,9 +70,11 @@ Subsec. (b)(9). Pub. L. 103–226, §9(f)(4), redesignated par. (9) as (8).
 
 <b>1990</b>—Pub. L. 101–335, §9(a), renumbered section 8440a of this title as this section.
 
-Subsec. (b)(7). Pub. L. 101–335, §3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: "Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title."
+Subsec. (b)(7). Pub. L. 101–335, §3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: "Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earningsattributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title."
 
 Subsec. (b)(8), (9). Pub. L. 101–335, §6(b)(3), added pars. (8) and (9). Former par. (8) redesignated (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -78,7 +82,7 @@ Words "magistrate judge", "magistrate judges", and "magistrate judge's" substitu
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

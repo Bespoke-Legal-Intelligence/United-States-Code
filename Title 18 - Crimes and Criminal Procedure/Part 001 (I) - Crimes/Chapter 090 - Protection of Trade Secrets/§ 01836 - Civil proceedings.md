@@ -170,6 +170,8 @@ Period of Limitations.—A civil action under subsection (b) may not be commence
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, §4002(e)(9), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 114–153, §2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(A)(ii)(I), (F)(iv), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -183,6 +185,8 @@ Subsecs. (b) to (d). Pub. L. 114–153, §2(a), added subsecs. (b) to (d) and st
 <b>2002</b>—Subsec. (a). Pub. L. 107–273, §4002(e)(9)(A), substituted "this chapter" for "this section".
 
 Subsec. (b). Pub. L. 107–273, §4002(e)(9)(B), substituted "this section" for "this subsection".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

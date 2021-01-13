@@ -22,9 +22,11 @@ Lands acquired by the Secretary pursuant to this section or section 1716 of this
 
 (Pub. L. 94–579, title II, §205, Oct. 21, 1976, 90 Stat. 2755; Pub. L. 99–632, §5, Nov. 7, 1986, 100 Stat. 3521.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976.For complete classification of this Act to the Code, see Tables.
 
 Act of June 9, 1916, referred to in subsec. (e), is not classified to the Code.
 

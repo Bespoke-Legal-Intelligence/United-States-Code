@@ -26,7 +26,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of determining the aggregate amount of expenditures from personal funds under subparagraph (A), such amount shall include the gross receipts advantage of the candidate's authorized committee.
+&emsp;&emsp;&emsp;For purposes of determining the aggregate amount of expenditures from personalfunds under subparagraph (A), such amount shall include the gross receipts advantage of the candidate's authorized committee.
 
 #### (ii) Gross receipts advantage
 
@@ -112,17 +112,21 @@
 
 (Pub. L. 92–225, title III, §315A, as added Pub. L. 107–155, title III, §319(a), Mar. 27, 2002, 116 Stat. 109.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of section 30116 of this title.
 
-#### Constitutionality
-
-For information regarding constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Codification
 
 Section was formerly classified to section 441a–1 of Title 2, The Congress, prior to editorial reclassification and renumbering as this section.
+
+#### Constitutionality
+
+For information regarding constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

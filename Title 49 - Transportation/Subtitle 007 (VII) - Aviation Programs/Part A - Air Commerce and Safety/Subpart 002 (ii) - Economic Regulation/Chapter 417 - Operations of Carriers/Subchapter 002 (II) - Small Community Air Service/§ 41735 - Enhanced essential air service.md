@@ -52,7 +52,7 @@ Review.—(1) The Secretary shall review periodically the enhanced essential air
 
 (e)
 
-Ending, Suspending, and Reducing Air Transportation.—An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of enhanced essential air service established for that place by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation for that service at least 30 days' notice before ending, suspending, or reducing the service. This subsection does not relieve the carrier of an obligation under section 41734 of this title.
+Ending, Suspending, and Reducing Air Transportation.—An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of enhanced essential air service established for that place by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person payingcompensation for that service at least 30 days' notice before ending, suspending, or reducing the service. This subsection does not relieve the carrier of an obligation under section 41734 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1148.)
 

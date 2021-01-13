@@ -14,7 +14,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Applicability of section 3031 to running of period.—Subsections (b), (c), and (d) of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+Applicability of section 3031 to running of period.—Subsections (b), (c), and (d) <sup>1</sup> ofsection 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Determination of last discharge or release.—For purposes of subsection (a), an
 
 &emsp;(4)
 
-Applicability to children of deceased members.—The period during which a child entitled to educational assistance by reason of section 3311(b)(9) of this title may use such child's entitlement—
+Applicability to children of deceased members.—The period during which a child entitled to educational assistance by reason of section 3311(b)(8) of this title may use such child's entitlement—
 
 &emsp;&emsp;(A) in the case of a child who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date of such child's eighteenth birthday; or
 
@@ -34,7 +34,7 @@ Applicability to children of deceased members.—The period during which a child
 
 &emsp;(5)
 
-Applicability to spouses of deceased members.—The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) may use such spouse's entitlement—
+Applicability to spouses of deceased members.—The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) <sup>2</sup> may use such spouse's entitlement—
 
 &emsp;&emsp;(A) in the case of a spouse who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date on which the spouse first becomes entitled to such entitlement; or
 
@@ -42,9 +42,11 @@ Applicability to spouses of deceased members.—The period during which a spouse
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984; Pub. L. 116–61, §6(4), Sept. 30, 2019, 133 Stat. 1117.)
 
-#### Amendment of Subsection (b)(4)
+#### <b>Editorial Notes</b>
 
-<i>Pub. L. 115–48, title I, §105(c)(5), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (b)(4) of this section is amended by striking "section 3311(b)(9)" and inserting "section 3311(b)(8)". See 2017 Amendment note below.</i>
+#### References in Text
+
+Subsection (b)(9) of section 3311 of this title, referred to in subsec. (b)(5), was redesignated subsection (b)(8) by Pub. L. 115–48, title I, §105(a)(3), Aug. 16, 2017, 131 Stat. 975.
 
 #### Amendments
 
@@ -64,6 +66,8 @@ Subsec. (b)(5). Pub. L. 115–48, §112(c), added par. (5).
 
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 105(c)(5) of Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
@@ -79,4 +83,20 @@ Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of 
 #### Effective Date
 
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+
+#### Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance
+
+Pub. L. 116–140, §6(b)(1), Apr. 28, 2020, 134 Stat. 632, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3321(b)(1) of such title as if it were amended—
+
+&emsp;"(A) by inserting '(A)' before 'Subsections';
+
+&emsp;"(B) by striking 'and (d)' and inserting '(d), and (i)'; and \[(C)\] by adding at the end the following new subparagraph:
+
+&emsp;" '(B) Subsection (i) of section 3031 (as described in section 6 of the Student Veteran Coronavirus Response Act of 2020 \[see section 6(a) of Pub. L. 116–140, 38 U.S.C. 3031 note\]) shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).'."
+
+\[The term "covered period" as used in section 6(b)(1) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+
+<i><sup>1</sup></i><i> See Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

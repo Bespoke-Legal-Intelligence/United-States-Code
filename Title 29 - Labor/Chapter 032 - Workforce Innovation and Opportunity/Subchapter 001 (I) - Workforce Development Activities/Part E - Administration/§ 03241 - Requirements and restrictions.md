@@ -48,7 +48,7 @@
 
 #### (5) Employment conditions
 
-&emsp;Individuals in on-the-job training or individuals employed in programs and activities under this subchapter shall be provided benefits and working conditions at the same level and to the same extent as other trainees or employees working a similar length of time and doing the same type of work.
+&emsp;Individuals in on-the-job training or individuals employed in programs and activities under this subchapter shall be provided benefits and working conditions at the same level and to the same extent as other trainees oremployees working a similar length of time and doing the same type of work.
 
 #### (6) Opportunity to submit comments
 
@@ -128,7 +128,7 @@ No funds available to carry out an activity under this subchapter shall be used 
 
 &emsp;&emsp;In sanctioning participants in a program under part B who test positive for the use of controlled substances—
 
-&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 6 months; and
+&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, a State may exclude the participant fromthe program for a period not to exceed 6 months; and
 
 &emsp;&emsp;&emsp;(ii) with respect to the second occurrence and each subsequent occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 2 years.
 
@@ -150,9 +150,13 @@ A recipient of grant funds under this subchapter shall have the authority to ent
 
 (Pub. L. 113–128, title I, §181, July 22, 2014, 128 Stat. 1586.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

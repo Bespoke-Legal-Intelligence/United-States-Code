@@ -4,6 +4,8 @@ If the owner of any bridge and the Secretary shall agree that in order to remove
 
 (June 21, 1940, ch. 409, §13, 54 Stat. 502; July 16, 1952, ch. 889, §4, 66 Stat. 733; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, §306(b)(4)(D), Feb. 8, 2016, 130 Stat. 55.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–120 substituted "Secretary of the department in which the Coast Guard is operating" for "Secretary of Transportation".
@@ -11,6 +13,8 @@ If the owner of any bridge and the Secretary shall agree that in order to remove
 <b>1983</b>—Pub. L. 97–449 substituted "Secretary of Transportation" for "Secretary of War". See Transfer of Functions note below.
 
 <b>1952</b>—Act July 16, 1952, struck out "used for railroad traffic" after "owner of any bridge".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

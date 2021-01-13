@@ -92,7 +92,7 @@
 
 #### (3) Department opinion
 
-&emsp;On the timely request of a lender, the General Counsel of the Department of Agricultureshall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
+&emsp;On the timely request of a lender, the General Counsel of the Department of Agriculture shall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
 
 #### (e) Authorization of appropriations
 
@@ -108,7 +108,7 @@
 
 The authority provided under this section shall terminate on September 30, 2023.
 
-(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958; Pub. L. 113–79, title VI, §6102, Feb. 7, 2014, 128 Stat. 851; Pub. L. 115–334, title VI, §§6504(d), 6505(a), Dec. 20, 2018, 132 Stat. 4774.)
+(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002,116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958; Pub. L. 113–79, title VI, §6102, Feb. 7, 2014, 128 Stat. 851; Pub. L. 115–334, title VI, §§6504(d), 6505(a), Dec. 20, 2018, 132 Stat. 4774.)
 
 #### Codification
 

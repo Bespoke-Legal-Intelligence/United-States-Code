@@ -30,5 +30,5 @@
 - [&sect; 02211 - Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception&#8230;](%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md)
 - [&sect; 02212 - Transferred](%C2%A7%2002212%20-%20Transferred.md)
 - [&sect; 02213 - Repealed. Pub. L. 109&#8211;58, title VI, &sect;637(b), Aug. 8, 2005, 119 Stat. 791](%C2%A7%2002213%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20VI%2C%20%C2%A7637%28b%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20791.md)
-- [&sect; 02214 - NRC user fees and annual charges](%C2%A7%2002214%20-%20NRC%20user%20fees%20and%20annual%20charges.md)
+- [&sect; 02214 - Repealed. Pub. L. 115&#8211;439, title I, &sect;101(b), Jan. 14, 2019, 132 Stat. 5568](%C2%A7%2002214%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93439%2C%20title%20I%2C%20%C2%A7101%28b%29%2C%20Jan.%2014%2C%202019%2C%20132%20Stat.%205568.md)
 - [&sect; 02215 - Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter](%C2%A7%2002215%20-%20Nuclear%20Regulatory%20Commission%20user%20fees%20and%20annual%20charges%20for%20fiscal%20year%202021%20and%20each%20fiscal%20year%20thereafter.md)

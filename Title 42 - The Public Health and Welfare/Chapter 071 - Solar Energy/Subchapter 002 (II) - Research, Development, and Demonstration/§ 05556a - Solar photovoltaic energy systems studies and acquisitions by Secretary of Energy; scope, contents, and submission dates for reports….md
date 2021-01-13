@@ -38,7 +38,7 @@ This Act, referred to in subsec. (a)(4), means Pub. L. 95–238, Feb. 25, 1978, 
 
 #### Codification
 
-Section was enacted as part of the Department of Energy Act of 1978—Civilian Applications, and not as part of the Solar Energy Research, Development, and Demonstration Act of 1974 which comprises this subchapter.
+Section was enacted as part of the Department of Energy Act of 1978—Civilian Applications, and not as part of the Solar Energy Research, Development, and Demonstration Act of 1974 which formerly comprised this subchapter.
 
 #### Transfer of Functions
 
@@ -46,5 +46,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
-Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, set out as a note under section 5821 of this title.
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy,etc., see section 209 of Pub. L. 95–238, set out as a note under section 5821 of this title.
 

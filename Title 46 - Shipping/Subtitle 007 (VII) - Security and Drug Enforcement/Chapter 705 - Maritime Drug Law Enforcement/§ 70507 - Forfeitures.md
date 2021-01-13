@@ -58,6 +58,8 @@ Historical and Revision Notes
 
 Pub. L. 96–350, §4, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, §3202, Oct. 27, 1986, 100 Stat. 3207–97; Pub. L. 99–640, §17, Nov. 10, 1986, 100 Stat. 3554; Pub. L. 107–295, title IV, §418(b), Nov. 25, 2002, 116 Stat. 2123.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–120 substituted "section 70503 or 70508" for "section 70503".

@@ -8,7 +8,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards.
 
-&emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of thistitle when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
+&emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 
 &emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 
@@ -106,7 +106,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(B) for an unlicensed driver or a driver holding a foreign non-commercial driver's license, each conviction relating to the operation of a commercial motor vehicle.
 
-&emsp;(23) Not later than 1 year after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall implement a system and practices for the exclusive electronic exchange of driver history record information on the system the Secretary maintains under section 31309, including the posting of convictions, withdrawals, and disqualifications.
+&emsp;(23) Not later than 1 year after the date of enactment of the Commercial Motor VehicleSafety Enhancement Act of 2012, the State shall implement a system and practices for the exclusive electronic exchange of driver history record information on the system the Secretary maintains under section 31309, including the posting of convictions, withdrawals, and disqualifications.
 
 &emsp;(24) Before renewing or issuing a commercial driver's license to an individual, the State shall request information pertaining to the individual from the drug and alcohol clearinghouse maintained under section 31306a.
 

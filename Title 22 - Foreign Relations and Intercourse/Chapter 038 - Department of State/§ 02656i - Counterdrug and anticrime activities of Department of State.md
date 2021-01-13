@@ -28,7 +28,7 @@
 
 #### (3) Reports
 
-&emsp;Not later than February 15 of each year subsequent to the submission of the strategy described in paragraph (1), the Secretary shall submit to Congress an update of the strategy. The update shall include—
+&emsp;Not later than February 15 of each year subsequent to the submission of the strategy described in paragraph (1), the Secretary shallsubmit to Congress an update of the strategy. The update shall include—
 
 &emsp;&emsp;(A) an outline of the proposed activities with respect to the strategy during the succeeding year, including the manner in which such activities will meet the objectives set forth in paragraph (2); and
 
@@ -69,6 +69,8 @@
 &emsp;Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
 
 (Pub. L. 105–277, div. G, subdiv. B, title XXII, §2214, Oct. 21, 1998, 112 Stat. 2681–812.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -16,6 +16,8 @@
 
 (Pub. L. 95–351, title I, §109, Aug. 20, 1978, 92 Stat. 509; Pub. L. 97–35, title III, §392(a), Aug. 13, 1981, 95 Stat. 434; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter T of chapter 1 of title 26, referred to in subsec. (b), is set out as section 1381 et seq. of Title 26, Internal Revenue Code.
@@ -25,6 +27,8 @@ Subchapter T of chapter 1 of title 26, referred to in subsec. (b), is set out as
 <b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), struck out applicability of Final Government Equity Redemption Date to provisions, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

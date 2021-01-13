@@ -1,5 +1,7 @@
 ### §§561 to 570. Omitted
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Provisions of these sections were incorporated in Title 26, Internal Revenue Code, as follows:

@@ -38,7 +38,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (c) Conflicts of interest
 
-Eligible intermediaries selected under subsection (b) to disburse assistance under section 4143 of this title shall certify that they willserve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+Eligible intermediaries selected under subsection (b) to disburse assistance under section4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
 &emsp;(1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 
@@ -61,6 +61,8 @@ For purposes of this section, the term "eligible intermediary" means a State, re
 &emsp;(6) meets standards of fiscal responsibility established by the Secretary.
 
 (Pub. L. 100–242, title II, §255, as added Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3767.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

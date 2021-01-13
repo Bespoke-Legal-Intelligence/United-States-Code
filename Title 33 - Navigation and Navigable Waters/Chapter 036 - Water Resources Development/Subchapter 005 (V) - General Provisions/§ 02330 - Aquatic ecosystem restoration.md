@@ -16,6 +16,22 @@
 
 &emsp;A project under this section may include removal of a dam.
 
+#### (3) Anadromous fish habitat and passage
+
+#### (A) Measures
+
+&emsp;&emsp;A project under this section may include measures to improve habitat or passage for anadromous fish, including—
+
+&emsp;&emsp;&emsp;(i) installing fish bypass structures on small water diversions;
+
+&emsp;&emsp;&emsp;(ii) modifying tide gates; and
+
+&emsp;&emsp;&emsp;(iii) restoring or reconnecting floodplains and wetlands that are important for anadromous fish habitat or passage.
+
+#### (B) Benefits
+
+&emsp;&emsp;A project that includes measures under this paragraph shall be formulated to maximize benefits for the anadromous fish species benefitted by the project.
+
 #### (b) Cost sharing
 
 #### (1) In general
@@ -48,13 +64,23 @@ In carrying out a project to restore and protect an aquatic ecosystem or estuary
 
 There is authorized to be appropriated to carry out this section $62,500,000 for each fiscal year.
 
-(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(g), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §§1149(a), 1157(f), Oct. 23, 2018, 132 Stat. 3787, 3794.)
+#### (g) Prioritization
+
+The Secretary shall give projects that include measures described in subsection (a)(3) equal priority for implementation as other projects under this section.
+
+(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(g), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §§1149(a), 1157(f), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, §126(a), Dec. 27, 2020, 134 Stat. 2640.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(3). Pub. L. 116–260, §126(a)(1), added par. (3).
+
+Subsec. (g). Pub. L. 116–260, §126(a)(2), added subsec. (g).
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–270, §1149(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -77,6 +103,8 @@ Subsec. (e). Pub. L. 110–114, §2020(2), substituted "$50,000,000" for "$25,00
 <b>1999</b>—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 106–53, §210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

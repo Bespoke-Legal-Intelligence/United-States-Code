@@ -4,7 +4,7 @@
 
 (b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shallappoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
 
 (2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Army Reserve unless the officer—
 
@@ -56,7 +56,7 @@ Prior sections 7048 to 7050 were renumbered sections 8548 to 8550 of this title.
 
 <b>2017</b>—Subsec. (f). Pub. L. 115–91 struck out par. (1) designation before "The Chief of Army Reserve" and struck out par. (2) which read as follows: "The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress."
 
-<b>2016</b>—Subsec. (c). Pub. L. 114–328 struck out "; Grade" after "Reappointment" in heading, and in text struck out par. (1) designation before "The Chief of Army Reserve" and struck out par. (2) which read as follows: "The Chief of Army Reserve, while so serving, holds the grade of lieutenant general."
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 struck out "; Grade" after "Reappointment" in heading, and in text struck out par. (1) designation before "The Chief of Army Reserve" and struck out par. (2) which read as follows:"The Chief of Army Reserve, while so serving, holds the grade of lieutenant general."
 
 <b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted "December 31, 2006" for "December 31, 2004" in introductory provisions.
 

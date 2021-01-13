@@ -36,7 +36,7 @@ The Director of the Central Intelligence Agency shall—
 
 #### (f) Coordination with foreign governments
 
-Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the Director of National Intelligence and in a manner consistentwith section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
 (July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 111–259, title VIII, §804(4), Oct. 7, 2010, 124 Stat. 2747; Pub. L. 112–87, title IV, §412(a), Jan. 3, 2012, 125 Stat. 1890; Pub. L. 116–92, div. E, title LXIV, §6414(a), Dec. 20, 2019, 133 Stat. 2199.)
 

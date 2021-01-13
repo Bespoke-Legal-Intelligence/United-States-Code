@@ -130,7 +130,7 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 #### Effective Date
 

@@ -16,7 +16,7 @@
 
 (2) The Director shall ensure that the information utilized to determine the inclusion, or deletion or omission, of an individual or organization on or from the list is derived from all-source intelligence.
 
-(3) The Director shall ensure that the list is maintained in accordance with existing law andregulations governing the collection, storage, and dissemination of intelligence concerning United States persons.
+(3) The Director shall ensure that the list is maintained in accordance with existing law and regulations governing the collection, storage, and dissemination of intelligence concerning United States persons.
 
 #### (c) Information sharing
 
@@ -30,7 +30,7 @@ Subject to section 3024(i) of this title, relating to the protection of intellig
 
 #### (e) System administration requirements
 
-(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
+(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification Systemwith relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
 
 (2) The Director shall ensure that the System utilizes technologies that are effective in aiding the identification of individuals in the field.
 

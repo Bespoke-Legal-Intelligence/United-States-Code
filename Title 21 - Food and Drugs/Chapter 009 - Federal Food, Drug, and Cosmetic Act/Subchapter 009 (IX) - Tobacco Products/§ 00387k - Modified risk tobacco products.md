@@ -32,7 +32,7 @@ In this section:
 
 #### (B) Limitation
 
-&emsp;&emsp;No tobacco product shall be considered to be "sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products", except as described in subparagraph (A).
+&emsp;&emsp;No tobacco product shall be considered to be "sold or distributed for use to reduceharm or the risk of tobacco-related disease associated with commercially marketed tobacco products", except as described in subparagraph (A).
 
 #### (C) Smokeless tobacco product
 
@@ -82,7 +82,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an orderthat a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
+&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an order that a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
 
 &emsp;&emsp;(A) significantly reduce harm and the risk of tobacco-related disease to individual tobacco users; and
 
@@ -257,6 +257,8 @@ A product for which the Secretary has issued an order pursuant to subsection (g)
 Except as provided in this section, no distributor may take any action, after June 22, 2009, with respect to a tobacco product that would reasonably be expected to result in consumers believing that the tobacco product or its smoke may present a lower risk of disease or is less harmful than one or more commercially marketed tobacco products, or presents a reduced exposure to, or does not contain or is free of, a substance or substances.
 
 (June 25, 1938, ch. 675, §911, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1812.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

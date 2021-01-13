@@ -16,6 +16,8 @@ In sections 60101 to 60104 of this title:
 
 (Pub. L. 106–560, §3, Dec. 21, 2000, 114 Stat. 2784.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13726a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

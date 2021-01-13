@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;(iii) provide for the designation of additional rail properties to the Corporation or to a subsidiary thereof to enable the Corporation to serve efficiently a line of railroad designated to the Corporation in the final system plan if such line does not connect with any other line of railroad so designated to the Corporation or if such line would be served more efficiently as a consequence of such designation.
 
-> Any designation to a profitable railroad pursuant to this paragraph shall comply with the second sentence of section 716(d)(4) of this title, and shall only be made upon a finding by the Association that such designation is integrally related to an offer of rail properties to a profitable railroad in the final system plan, that the goals of the final system plan require that the rail properties be operated as a part of the rail properties included in such offer, and that the implementation of such designation will not materially and adversely affect the impact of such offer on the profitability of the Corporation or any profitable railroad operating in the region. Any designation to a profitable railroad pursuant to this subsection, which amends any prior offer, shall terminate 30 days after February 5, 1976, unless, prior to such date, such profitable railroad has notified the Association in writingof its acceptance of such amendment to the prior offer.
+> Any designation to a profitable railroad pursuant to this paragraph shall comply with the second sentence of section 716(d)(4) of this title, and shall only be made upon a finding by the Association that such designation is integrally related to an offer of rail properties to a profitable railroad in the final system plan, that the goals of the final system plan require that the rail properties be operated as a part of the rail properties included in such offer, and that the implementation of such designation will not materially and adversely affect the impact of such offer on the profitability of the Corporation or any profitable railroad operating in the region. Any designation to a profitable railroad pursuant to this subsection, which amends any prior offer, shall terminate 30 days after February 5, 1976, unless, prior to such date, such profitable railroad has notified the Association in writing of its acceptance of such amendment to the prior offer.
 
 (B) If a line of railroad or any segment thereof is designated for rail service in the final system plan, no designation may be made by the Association pursuant to this paragraph which would result in such line or segment not being so designated. Any designations made pursuant to this paragraph shall be treated for all purposes as if they had been included in the final system plan adopted by the Association and reviewed by the Congress. The final system plan shall for all purposes be deemed to be approved as amended by such designations.
 
@@ -40,6 +40,8 @@ For purposes of this section—
 
 (Pub. L. 93–236, title II, §208, Jan. 2, 1974, 87 Stat. 999; Pub. L. 94–210, title VI, §601(e), Feb. 5, 1976, 90 Stat. 84; S. Res. 4, Feb. 4, 1977; H. Res. 549, Mar. 25, 1980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 778 of this title, referred to in subsec. (d)(3)(D), was repealed by Pub. L. 97–35, title XI, §1144(a)(1), Aug. 13, 1981, 95 Stat. 669.
@@ -47,6 +49,8 @@ Section 778 of this title, referred to in subsec. (d)(3)(D), was repealed by Pub
 #### Amendments
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–210 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

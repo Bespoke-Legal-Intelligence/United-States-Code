@@ -14,7 +14,7 @@ Nothing in sections 285l–2 to 285l–5 of this title shall be construed to req
 
 #### (d) Submission of tests and data
 
-Nothing in sections 285l–2 to 285l–5 of this title precludes a party from submitting a test methodor scientific data directly to a Federal agency for use in a regulatory program.
+Nothing in sections 285l–2 to 285l–5 of this title precludes a party from submitting a test method or scientific data directly to a Federal agency for use in a regulatory program.
 
 (Pub. L. 106–545, §5, Dec. 19, 2000, 114 Stat. 2724.)
 

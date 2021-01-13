@@ -148,7 +148,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title VI, §631(b), Dec. 23, 2016, 130 Stat. 2162, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) \[amending this section\], to which the amendments made by subsection (a) relate."
+Pub. L. 114–328, div. A, title VI, §631(b), Dec. 23, 2016, 130 Stat. 2162, provided that: "The amendments madeby subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) \[amending this section\], to which the amendments made by subsection (a) relate."
 
 #### Effective Date of 2015 Amendment; Implementation
 

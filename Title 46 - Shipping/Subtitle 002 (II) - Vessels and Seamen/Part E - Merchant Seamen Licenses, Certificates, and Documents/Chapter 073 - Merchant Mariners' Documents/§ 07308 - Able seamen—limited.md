@@ -16,9 +16,13 @@ Historical and Revision Notes
 
 Section 7308 establishes the minimum service requirements for an individual to qualify for an endorsement as able seamen—limited.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Acceptance of Certain Services Toward Endorsement as Able Seaman
 

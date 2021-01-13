@@ -34,5 +34,5 @@ Notwithstanding subchapter XIII, the demonstration project shall not be eligible
 
 #### References in Text
 
-Subchapter XIII, referred to in subsec. (f), was in the original "title XIV", meaning title XIV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 1061, which enacted subchapter XIII of this chapter and section 13557 of this title. For complete classification of title XIV to the Code, see Tables.
+Subchapter XIII, referred to in subsec. (f), was in the original "title XIV", meaning title XIV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 1061, which enacted subchapter XIII of this chapter and section 13557 of thistitle. For complete classification of title XIV to the Code, see Tables.
 

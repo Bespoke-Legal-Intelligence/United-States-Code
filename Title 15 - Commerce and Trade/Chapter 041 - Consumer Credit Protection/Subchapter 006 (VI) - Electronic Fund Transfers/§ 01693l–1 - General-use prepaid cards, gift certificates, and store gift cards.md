@@ -60,7 +60,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(v) issued in paper form only (including for tickets and events); or
 
-&emsp;&emsp;&emsp;(vi) redeemable solely for admission to events or venues at a particular locationor group of affiliated locations, which may also include services or goods obtainable—
+&emsp;&emsp;&emsp;(vi) redeemable solely for admission to events or venues at a particular location or group of affiliated locations, which may also include services or goods obtainable—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the event or venue after admission; or
 
@@ -162,7 +162,7 @@ A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classi
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
@@ -178,7 +178,7 @@ Exception.—
 
 &emsp;"(1)
 
-In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C. 1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
+In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C.1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
 
 &emsp;&emsp;"(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693l–1(b)(1), (2)\];
 

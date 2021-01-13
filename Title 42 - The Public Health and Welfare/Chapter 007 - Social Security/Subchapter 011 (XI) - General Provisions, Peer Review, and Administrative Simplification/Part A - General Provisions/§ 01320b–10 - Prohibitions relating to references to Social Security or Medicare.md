@@ -8,11 +8,11 @@
 
 &emsp;(B) a symbol or emblem of the Social Security Administration, Centers for Medicare \& Medicaid Services, or Department of Health and Human Services (including the design of, or a reasonable facsimile of the design of, the social security card issued pursuant to section 405(c)(2)(F) of this title or the Medicare card,,<sup>1</sup> the check used for payment of benefits under subchapter II, or envelopes or other stationery used by the Social Security Administration, Centers for Medicare \& Medicaid Services, or Department of Health and Human Services), or any other combination or variation of such symbols or emblems,
 
-> in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
+> in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration,the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
 
 (2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
 
-(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, writtenauthorization for such activity in accordance with regulations which the Secretary shall prescribe.
+(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
 
 (3) Any determination of whether the use of one or more words, letters, symbols, or emblems (or any combination or variation thereof) in connection with an item described in paragraph (1) or the reproduction, reprinting, or distribution of an item described in paragraph (2) is a violation of this subsection shall be made without regard to any inclusion in such item (or any so reproduced, reprinted, or distributed copy thereof) of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
@@ -128,29 +128,7 @@ Pub. L. 100–360, title IV, §428(c), July 1, 1988, 102 Stat. 817, provided tha
 
 #### Reports on Operation of this Section
 
-Pub. L. 103–296, title III, §312(k), Aug. 15, 1994, 108 Stat. 1527, provided that:
-
-"(1)
-
-In general.—The Secretary of Health and Human Services and the Commissioner of Social Security shall each submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate 3 reports on the operation of section 1140 of the Social Security Act \[this section\] with respect to the Social Security Administration or the Department of Health and Human Services during the period covered by the report, which shall specify—
-
-&emsp;"(A) the number of complaints of violations of such section received by the Social Security Administration or the Department of Health and Human Services during the period,
-
-&emsp;"(B) the number of cases in which the Social Security Administration or the Department, during the period, sent a notice of violation of such section requesting that an individual cease activities in violation of such section,
-
-&emsp;"(C) the number of cases in which the Social Security Administration or the Department formally proposed a civil money penalty in a demand letter during the period,
-
-&emsp;"(D) the total amount of civil money penalties assessed by the Social Security Administration or the Department under this section during the period,
-
-&emsp;"(E) the number of requests for hearings filed during the period by the Social Security Administration or the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
-
-&emsp;"(F) the disposition during the period of hearings filed pursuant to sections 1140(c)(1) and 1128A(c)(2) of the Social Security Act, and
-
-&emsp;"(G) the total amount of civil money penalties collected under this section and deposited into the Federal Old-Age and Survivors Insurance Trust Fund or the Health Insurance and Supplementary Medical Insurance Trust Funds, as applicable, during the period.
-
-"(2)
-
-When due.—The reports required by paragraph (1) shall be submitted not later than December 1, 1995, not later than December 1, 1997, and not later than December 1, 1999, respectively."
+Pub. L. 103–296, title III, §312(k), Aug. 15, 1994, 108 Stat. 1527, required the Secretary of Health and Human Services and the Commissioner of Social Security each to submit 3 reports related to violations of this section, hearings, and penalties, due no later than Dec. 1, 1995, Dec. 1, 1997, and Dec. 1, 1999.
 
 #### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
 

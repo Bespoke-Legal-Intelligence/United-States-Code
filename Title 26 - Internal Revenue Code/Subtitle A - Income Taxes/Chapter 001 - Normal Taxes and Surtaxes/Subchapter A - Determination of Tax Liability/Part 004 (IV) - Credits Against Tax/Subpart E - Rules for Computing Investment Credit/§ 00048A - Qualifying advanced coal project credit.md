@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (7) Integrated gasification combined cycle
 
-&emsp;The term "integrated gasification combined cycle" means an electric generation unitwhich produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
+&emsp;The term "integrated gasification combined cycle" means an electric generation unit which produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
 
 #### (d) Qualifying advanced coal project program
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the fuel input for the project, when completed, is at least 75 percent coal;
 
-&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, will have a total nameplate generating capacity of at least 400 megawatts;
+&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, willhave a total nameplate generating capacity of at least 400 megawatts;
 
 &emsp;&emsp;(D) the applicant provides evidence that a majority of the output of the project is reasonably expected to be acquired or utilized;
 
@@ -245,7 +245,7 @@ For purposes of this section—
 
 #### (3) Existing units
 
-&emsp;In the case of any electric generation unit in existence on the date of the enactment of thissection, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
+&emsp;In the case of any electric generation unit in existence on the date of the enactment of this section, such unit uses advanced coal-based generation technology if, in lieu of the requirements under paragraph (1)(A)(ii), such unit achieves a minimum efficiency of 35 percent and an overall thermal design efficiency improvement, compared to the efficiency of the unit as operated, of not less than—
 
 &emsp;&emsp;(A) 7 percentage points for coal of more than 9,000 Btu,
 
@@ -345,7 +345,7 @@ Disclosure of allocations.—The amendment made by subsection (d) \[amending thi
 
 Clerical amendment.—The amendment made by subsection (c)(5) \[amending this section\] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58\]."
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 18, 2008\] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment."
 

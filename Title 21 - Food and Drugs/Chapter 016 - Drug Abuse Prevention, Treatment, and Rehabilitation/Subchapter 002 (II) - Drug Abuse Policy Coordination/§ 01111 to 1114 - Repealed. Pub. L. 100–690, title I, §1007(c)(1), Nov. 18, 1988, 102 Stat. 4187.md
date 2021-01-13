@@ -26,9 +26,13 @@ Another prior section 1114, Pub. L. 92–255, title II, §204, Mar. 21, 1972, 86
 
 Provisions similar to this section were contained in section 1117 of this title prior to the general revision of this subchapter by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Jan. 21, 1989, see section 1012 of Pub. L. 100–690.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12368
 

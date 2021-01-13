@@ -118,11 +118,15 @@ The text of 16 U.S.C. 5405(b)(2) is omitted as obsolete.
 
 In subsection (a)(1)(C), before subparagraph (i), the words "whether collected before or after October 28, 2009" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–328, §3507(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to availability of remainder of funds.
 
 Subsec. (b)(1). Pub. L. 114–328, §3507(a)(2), amended par. (1) generally. Prior to amendment, par. (1) related to use of amounts for certain projects under the National Maritime Heritage Grants Program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling
 
@@ -164,7 +168,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 1
 
 "(b)
 
-Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (\[former\] 16 U.S.C. 5405(c)(1)) \[see 54 U.S.C. 308704(c)(1)\] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities takinginto consideration, among other things, the ability of facilities to scrap vessels—
+Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (\[former\] 16 U.S.C. 5405(c)(1)) \[see 54 U.S.C. 308704(c)(1)\] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
 
 &emsp;"(1) at least cost to the Government;
 

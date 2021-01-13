@@ -1,6 +1,6 @@
 ### §3330b. Preference eligibles; judicial redress
 
-(a) In lieu of continuing the administrative redress procedure provided under section 3330a(d), a preference eligible, or a veteran described by section 3330a(a)(1)(B) with respect to a violation described by such section, may elect, in accordance with this section, to terminate those administrative proceedings and file an action with the appropriate United States district court not later than 60 days after the date of the election.
+(a) In lieu of continuing the administrative redress procedure provided under section 3330a(d), a preference eligible, or a veteran described by section 3330a(a)(1)(B) with respect to a violation described by such section, may elect, in accordance with this section, to terminate those administrative proceedings and file an action withthe appropriate United States district court not later than 60 days after the date of the election.
 
 (b) An election under this section may not be made—
 
@@ -11,6 +11,8 @@
 (c) An election under this section shall be made, in writing, in such form and manner as the Merit Systems Protection Board shall by regulation prescribe. The election shall be effective as of the date on which it is received, and the administrative proceeding to which it relates shall terminate immediately upon the receipt of such election.
 
 (Added Pub. L. 105–339, §3(a), Oct. 31, 1998, 112 Stat. 3184; amended Pub. L. 108–454, title VIII, §804(b), Dec. 10, 2004, 118 Stat. 3626.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

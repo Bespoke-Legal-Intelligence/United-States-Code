@@ -12,15 +12,19 @@ For the purposes of this subchapter:
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 55, §5001; renumbered §8101, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title II, §207(a), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 115–182, title V, §503(a), June 6, 2018, 132 Stat. 1476.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Par. (3). Pub. L. 115–182, which directed substitution of "Secretary, or as otherwise authorized by law, for the provision of health-care services (including hospital, outpatient clinic, nursing home," for "Secretary for the provision of health-care services (including hospital, nursing home," in section 8101(3), without specifying the Code title to be amended, was executed by making the substitution in par. (3) of this section, to reflect the probable intent of Congress.
+<b>2018</b>—Par. (3). Pub. L. 115–182, which directed substitution of "Secretary, or as otherwise authorized bylaw, for the provision of health-care services (including hospital, outpatient clinic, nursing home," for "Secretary for the provision of health-care services (including hospital, nursing home," in section 8101(3), without specifying the Code title to be amended, was executed by making the substitution in par. (3) of this section, to reflect the probable intent of Congress.
 
 <b>1996</b>—Par. (2). Pub. L. 104–262 substituted "construction documents" for "working drawings" and "design development" for "preliminary plans".
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5001 of this title as this section.
 
 Par. (3). Pub. L. 102–83 substituted "Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

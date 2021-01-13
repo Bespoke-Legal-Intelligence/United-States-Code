@@ -4,7 +4,9 @@ The representatives provided for in section 2021 of this title, when representin
 
 (Pub. L. 85–177, §4, Aug. 28, 1957, 71 Stat. 454.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Authority Under This Section
 
-Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to anamendment to the Statute of the Agency, see section 2026 of this title.
+Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
 

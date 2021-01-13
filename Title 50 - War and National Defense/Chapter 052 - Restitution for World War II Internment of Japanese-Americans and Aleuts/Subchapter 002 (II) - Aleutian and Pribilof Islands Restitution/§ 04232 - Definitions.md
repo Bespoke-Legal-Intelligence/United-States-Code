@@ -4,7 +4,7 @@ As used in this subchapter—
 
 &emsp;(1) the term "Administrator" means the person appointed by the Secretary under section 4234 of this title;
 
-&emsp;(2) the term "affected Aleut villages" means the surviving Aleut villages of Akutan, Atka,Nikolski, Saint George, Saint Paul, and Unalaska, and the Aleut village of Attu, Alaska;
+&emsp;(2) the term "affected Aleut villages" means the surviving Aleut villages of Akutan, Atka, Nikolski, Saint George, Saint Paul, and Unalaska, and the Aleut village of Attu, Alaska;
 
 &emsp;(3) the term "Association" means the Aleutian/Pribilof Islands Association, Inc., a nonprofit regional corporation established for the benefit of the Aleut people and organized under the laws of the State of Alaska;
 

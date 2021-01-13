@@ -28,7 +28,7 @@
 
 #### (3) Exceptions
 
-&emsp;The responsibilities described in paragraphs (1) and (2) may not be performed to the extent that the decedent has left or there is otherwise appointed, in the country where the death occurred or where the decedent was domiciled, a legal representative, partner in trade, or trustee appointed to take care of his personal estate. If the decedent's legal representative shall appear at any time prior to transmission of the estate to the Secretary and demand the proceeds and effects being held by the consular officer, the officer shall deliver them to the representative after having collected any prescribed fee for the services performed under this section.
+&emsp;The responsibilities described in paragraphs (1) and (2) may not be performed to the extent that the decedent has left or there is otherwise appointed, in the country where the death occurred or where the decedent was domiciled, a legal representative, partner in trade, or trustee appointed to take care of his personal estate. If the decedent's legal representativeshall appear at any time prior to transmission of the estate to the Secretary and demand the proceeds and effects being held by the consular officer, the officer shall deliver them to the representative after having collected any prescribed fee for the services performed under this section.
 
 #### (4) Additional requirement
 
@@ -98,9 +98,13 @@ The Secretary of State may prescribe such regulations as may be necessary to car
 
 (Aug. 1, 1956, ch. 841, title I, §43B, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §234(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IV of the Act, which was classified generally to subchapter III (§511 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 7 (§701 et seq.) of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IV of the Act, which was classified generally to subchapter III (§511 et seq.) of chapter 10 of former Title 40, PublicBuildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 7 (§701 et seq.) of Title 40, Public Buildings, Property, and Works.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

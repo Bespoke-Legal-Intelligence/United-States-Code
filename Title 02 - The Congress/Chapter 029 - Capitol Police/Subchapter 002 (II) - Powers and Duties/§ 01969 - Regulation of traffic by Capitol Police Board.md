@@ -18,6 +18,8 @@ It shall be the duty of the Mayor of the District of Columbia, or any officer or
 
 (July 31, 1946, ch. 707, §14, 60 Stat. 720; July 11, 1947, ch. 221, 61 Stat. 308; Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171; Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 91–358, title I, §155(a), July 29, 1970, 84 Stat. 570; Pub. L. 93–198, title IV, §421, title VII, §739(g)(6), Dec. 24, 1973, 87 Stat. 789, 829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The District of Columbia Traffic Act of 1925, as amended, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
@@ -28,11 +30,13 @@ Section was classified to section 212b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out ", except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia".
+<b>1973</b>—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out ", except on those streets and roadways shown on themap referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia".
 
 <b>1947</b>—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
 Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -46,5 +50,5 @@ Pub. L. 93–198, title VII, §771(d), Dec. 24, 1973, 87 Stat. 836, provided tha
 
 #### Transfer of Functions
 
-Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noonJan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, "Mayor" substituted in subsec. (d) for "commissioner".
+Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, "Mayor" substituted in subsec. (d) for "commissioner".
 

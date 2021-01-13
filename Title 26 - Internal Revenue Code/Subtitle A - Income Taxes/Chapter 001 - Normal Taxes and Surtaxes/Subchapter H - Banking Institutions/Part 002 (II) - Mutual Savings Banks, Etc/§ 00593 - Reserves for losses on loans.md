@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) the amount determined to be a reasonable addition to the reserve for losses on nonqualifying loans, computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), plus
 
-&emsp;&emsp;(B) the amount determined by the taxpayer to be a reasonable addition to the reserve for losses on qualifying real property loans, but such amount shall not exceed the amount determined under paragraph (2) or (3), whichever is the larger, but the amount determined under this subparagraph shall in no case be greater than the larger of—
+&emsp;&emsp;(B) the amount determined by the taxpayer to be a reasonable addition to the reserve for losses on qualifying real property loans, but such amount shall not exceed the amount determined under paragraph (2) or\(3), whichever is the larger, but the amount determined under this subparagraph shall in no case be greater than the larger of—
 
 &emsp;&emsp;&emsp;(i) the amount determined under paragraph (3), or
 
@@ -66,7 +66,7 @@
 
 #### (3) Experience method
 
-&emsp;The amount determined under this paragraph for the taxable year shall be computedin the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2).
+&emsp;The amount determined under this paragraph for the taxable year shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2).
 
 #### (c) Treatment of reserves for bad debts
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) then out of such other accounts as may be proper.
 
-> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection\(g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
+> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
 
 #### (2) Amounts charged to reserve accounts and included in gross income
 
@@ -194,7 +194,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a bank which meets the residential loan requirement of subparagraph\(B) for the first taxable year beginning after December 31, 1995, or for the following taxable year—
+&emsp;&emsp;In the case of a bank which meets the residential loan requirement of subparagraph (B) for the first taxable year beginning after December 31, 1995, or for the following taxable year—
 
 &emsp;&emsp;&emsp;(i) no adjustment shall be taken into account under paragraph (1) for such taxable year, and
 
@@ -360,7 +360,7 @@ Subsec. (f). Pub. L. 91–172, §432(b), excepted the application of par. (1) to
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -410,7 +410,7 @@ Amendment by section 245(b), (c) of Pub. L. 97–34 applicable with respect to t
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1976 Amendment
 

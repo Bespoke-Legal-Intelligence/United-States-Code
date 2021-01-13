@@ -14,6 +14,8 @@ The Archivist shall promulgate regulations, not inconsistent with this chapter, 
 
 Based on 44 U.S. Code, 1964 ed., §367 (July 7, 1943, ch. 192, §2, 57 Stat. 381; June 30, 1949, ch. 288, title I, §104, 63 Stat. 381).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Par. (1). Pub. L. 113–187, §8(12), substituted "the Archivist" for "him".
@@ -23,6 +25,8 @@ Par. (3). Pub. L. 113–187, §5(b), substituted "photographic, microphotographi
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services".
 
 <b>1976</b>—Pub. L. 94–575 struck out "; approval by President" after "standards for reproduction" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

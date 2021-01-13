@@ -22,7 +22,7 @@
 
 &emsp;(A) the amount in effect under such paragraph (1) for the preceding fiscal year (determined after application of this paragraph), plus
 
-&emsp;(B) such amount multiplied by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of the previous fiscal year.
+&emsp;(B) such amount multiplied by the annual percentage increase in the consumer priceindex (all items; U.S. city average) as of September of the previous fiscal year.
 
 #### (b) Enterprise architecture for intelligence community business systems
 
@@ -182,7 +182,7 @@ Requirement for implementation plan.—In developing such an enterprise architec
 
 &emsp;&emsp;"(i) An acquisition strategy for new systems that are expected to be needed to complete such enterprise architecture, including specific time-phased milestones, performance metrics, and a statement of the financial and nonfinancial resource needs.
 
-&emsp;&emsp;"(ii) An identification of the intelligence community business systems in operation or planned as of the date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
+&emsp;&emsp;"(ii) An identification of the intelligence community business systems in operation or planned as ofthe date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
 
 &emsp;&emsp;"(iii) An identification of the intelligence community business systems in operation or planned as of such date, that will be a part of such enterprise architecture, together with a strategy for modifying such systems to ensure that such systems comply with such enterprise architecture.
 

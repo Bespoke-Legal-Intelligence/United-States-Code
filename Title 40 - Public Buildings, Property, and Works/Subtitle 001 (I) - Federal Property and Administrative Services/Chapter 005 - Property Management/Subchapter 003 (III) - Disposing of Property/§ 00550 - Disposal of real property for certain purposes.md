@@ -148,7 +148,7 @@ Conveyance.—
 
 &emsp;&emsp;(A)
 
-In general.—Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interestof the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
+In general.—Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interest of the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
 
 &emsp;&emsp;(B)
 
@@ -247,6 +247,8 @@ In subsection (h)(1)(B), the words "National Park System Advisory Board" are sub
 In subsection (h)(2)(A), the words "this subsection" are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words "this subsection" should probably be "this paragraph", meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as "this subsection" to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words "or the Surplus Property Act of 1944, as amended" are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
 In subsection (h)(3), the words "this subsection" are used to reflect the probable intent of Congress. In 40:484(k)(3)(B), the words "this subsection" should probably be "this paragraph", meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as "this subsection" to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

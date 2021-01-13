@@ -4,7 +4,7 @@
 
 #### (1) Study
 
-&emsp;The Secretary shall conduct a comprehensive study of the Great Lakes region to ensure the future use, management, and protection of water resources and related resources of the Great Lakes basin.
+&emsp;The Secretary shall conduct a comprehensive study of the Great Lakes region to ensurethe future use, management, and protection of water resources and related resources of the Great Lakes basin.
 
 #### (2) Report
 

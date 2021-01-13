@@ -66,7 +66,7 @@ Composition.—The membership of the Advisory Committee shall consist of individ
 
 &emsp;&emsp;(C)
 
-Representation.—The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
+Representation.—The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-basedbusinesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
 
 &emsp;(2)
 
@@ -102,7 +102,7 @@ Attendance.—The Advisory Committee shall maintain a record of the persons pres
 
 &emsp;(5)
 
-Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Administrator shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without suchcause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
+Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Administrator shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
 
 &emsp;(6)
 
@@ -180,7 +180,7 @@ Inclusions.—The term "perimeter security" includes the fence area surrounding 
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

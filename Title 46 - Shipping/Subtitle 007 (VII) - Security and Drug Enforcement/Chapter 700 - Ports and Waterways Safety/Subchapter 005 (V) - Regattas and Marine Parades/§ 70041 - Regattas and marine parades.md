@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Commandant of the Coast Guard may issue regulations to promote the safety of life on navigable waters during regattas or marine parades.
+In General.—The Commandant of the Coast Guard may issue regulations to promotethe safety of life on navigable waters during regattas or marine parades.
 
 (b)
 

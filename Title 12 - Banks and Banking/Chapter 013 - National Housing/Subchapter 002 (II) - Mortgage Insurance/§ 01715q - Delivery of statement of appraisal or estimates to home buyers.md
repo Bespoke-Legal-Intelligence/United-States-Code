@@ -4,6 +4,8 @@ The Secretary is authorized and directed to require that in connection with any 
 
 (June 27, 1934, ch. 847, title II, §226, as added Aug. 2, 1954, ch. 649, title I, §126, 68 Stat. 607; amended Pub. L. 85–104, title I, §115, July 12, 1957, 71 Stat. 298; Pub. L. 87–70, title VI, §612(j), June 30, 1961, 75 Stat. 182; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §102(b), Aug. 1, 1968, 82 Stat. 486.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1715m of this title, referred to in text, was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(5), July 30, 2008, 122 Stat. 2835.
@@ -16,7 +18,7 @@ Section 1715z–2 of this title, referred to in text, was repealed by Pub. L. 11
 
 <b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing, and "Secretary's" for "Commissioner's".
 
-<b>1961</b>—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted "or on thebasis of any other estimates of the Commissioner, that a written statement setting forth such estimate or estimates, as the case may be," for "that a written statement setting forth such estimate".
+<b>1961</b>—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted "or on the basis of any other estimates of the Commissioner, thata written statement setting forth such estimate or estimates, as the case may be," for "that a written statement setting forth such estimate".
 
 <b>1957</b>—Pub. L. 85–104 inserted sentence authorizing estimate of replacement cost in lieu of an estimate of value where mortgage amount is based upon replacement cost.
 

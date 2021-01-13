@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of any withholdable payment to a foreign financial institution which does not meet the requirements of subsection (b), the withholding agent with respect to such payment shall deduct and withhold from such payment a tax equal to 30 percent of the amount of such payment.
+In the case of any withholdable payment to a foreign financial institution which does not meet the requirements of subsection (b), the withholding agent with respect to such paymentshall deduct and withhold from such payment a tax equal to 30 percent of the amount of such payment.
 
 #### (b) Reporting requirements, etc.
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with respect to United States accounts maintained by the foreign financial institution, and
 
-&emsp;&emsp;(B) except as otherwise provided by the Secretary, with respect to United States accounts maintained by each other foreign financial institution (other than any foreignfinancial institution which meets the requirements of subsection (b)) which is a member of the same expanded affiliated group as such foreign financial institution.
+&emsp;&emsp;(B) except as otherwise provided by the Secretary, with respect to United States accounts maintained by each other foreign financial institution (other than any foreign financial institution which meets the requirements of subsection (b)) which is a member of the same expanded affiliated group as such foreign financial institution.
 
 #### (2) Expanded affiliated group
 

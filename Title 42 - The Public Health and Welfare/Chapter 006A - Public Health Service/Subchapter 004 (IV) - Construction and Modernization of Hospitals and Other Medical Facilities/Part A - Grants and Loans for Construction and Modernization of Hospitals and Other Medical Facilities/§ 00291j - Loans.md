@@ -14,7 +14,7 @@ Except as provided in this section, an application for a loan with respect to an
 
 (2) The Surgeon General may enter into agreements modifying any of the terms and conditions of a loan made under this part whenever he determines such action is necessary to protect the financial interest of the United States.
 
-(3) If, at any time before a loan for a project has been repaid in full, any of the events specified in clause (a) or clause (b) of section 291i <sup>1</sup> of this title occurs with respect to such project, the unpaid balance of the loan shall become immediately due and payable by the applicant, and any transferee of the facility shall be liable to the United States for such repayment.
+(3) If, at any time before a loan for a project has been repaid in full, any of the events specified in clause (a) or clause (b) of section 291i <sup>1</sup> ofthis title occurs with respect to such project, the unpaid balance of the loan shall become immediately due and payable by the applicant, and any transferee of the facility shall be liable to the United States for such repayment.
 
 #### (d) Funds; miscellaneous receipts
 

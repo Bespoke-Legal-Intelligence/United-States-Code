@@ -7,10 +7,13 @@
 | [2033\.](%C2%A7%2002033%20-%20Instructor%20qualifications.md) | Instructor qualifications. |
 | [2034\.](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%27%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md) | Educational institutions not maintaining units of Junior Reserve Officers' Training Corps: issuance of arms, tentage, and equipment. |
 | [2035\.](%C2%A7%2002035%20-%20Flexibility%20in%20authorities%20for%20management%20of%20programs%20and%20units.md) | Flexibility in authorities for management of programs and units. |
+| [2036\.](%C2%A7%2002036%20-%20Grants%20to%20support%20science%2C%20technology%2C%20engineering%2C%20and%20mathematics%20education.md) | Grants to support science, technology, engineering, and mathematics education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §513(a)(2), Jan. 1, 2021, 134 Stat. 3588, added item 2036.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title V, §557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
 
@@ -36,3 +39,4 @@
 - [&sect; 02033 - Instructor qualifications](%C2%A7%2002033%20-%20Instructor%20qualifications.md)
 - [&sect; 02034 - Educational institutions not maintaining units of Junior Reserve Officers' Training Corps issuance of arms, tentage, and equipment](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%27%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md)
 - [&sect; 02035 - Flexibility in authorities for management of programs and units](%C2%A7%2002035%20-%20Flexibility%20in%20authorities%20for%20management%20of%20programs%20and%20units.md)
+- [&sect; 02036 - Grants to support science, technology, engineering, and mathematics education](%C2%A7%2002036%20-%20Grants%20to%20support%20science%2C%20technology%2C%20engineering%2C%20and%20mathematics%20education.md)

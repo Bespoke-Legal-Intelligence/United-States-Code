@@ -100,7 +100,7 @@ For purposes of this subchapter—
 
 #### (c) Coordination of tax where transportation subject to tax imposed by section 4042
 
-No tax shall be imposed under this subchapter with respect to the loading or unloading of any cargo on or from a vessel if any fuel of such vessel has been (or will be) subject to the tax imposed by section 4042 (relating to tax on fuelused in commercial transportation on inland waterways).
+No tax shall be imposed under this subchapter with respect to the loading or unloading of any cargo on or from a vessel if any fuel of such vessel has been (or will be) subject to the tax imposed by section 4042 (relating to tax on fuel used in commercial transportation on inland waterways).
 
 #### (d) Nonapplicability of tax to exports
 

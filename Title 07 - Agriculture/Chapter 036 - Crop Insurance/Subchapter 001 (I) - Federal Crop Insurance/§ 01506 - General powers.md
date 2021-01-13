@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, orin the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -96,7 +96,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 #### (4) "Substantial beneficial interest" defined
 
-&emsp;For purposes of this subsection, the term "substantial beneficial interest" means not less than 5 percent of all beneficial interests in the policyholder.
+&emsp;For purposes of this subsection, the term "substantial beneficial interest" means notless than 5 percent of all beneficial interests in the policyholder.
 
 #### (n) Actuarial soundness
 
@@ -132,7 +132,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### (2) Notice requirement
 
-&emsp;In providing financial assistance to, or entering into any contract with, any entity forthe purchase of equipment and products to carry out this subchapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
+&emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this subchapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
 
 #### (r) <sup>3</sup> Procedures for responding to certain inquiries
 
@@ -156,7 +156,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### References in Text
 
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents,prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
@@ -350,7 +350,7 @@ Pub. L. 103–354, title I, §118, Oct. 13, 1994, 108 Stat. 3205, provided that:
 
 "(a)
 
-In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the 'Corporation') shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the 'Corporation')shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
 
 "(b)
 
@@ -404,7 +404,7 @@ Information.—
 
 &emsp;"(1)
 
-Privacy.—In conducting the evaluation required by this section, the Comptroller General andthe Corporation shall maintain the privacy of proprietary information.
+Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
 
 &emsp;"(2)
 

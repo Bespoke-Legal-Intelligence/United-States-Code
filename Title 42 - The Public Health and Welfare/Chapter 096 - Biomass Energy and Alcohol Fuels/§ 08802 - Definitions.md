@@ -78,7 +78,7 @@ As used in this chapter—
 
 &emsp;&emsp;(i) the production of biomass fuel (and byproducts) from municipal waste; or
 
-&emsp;&emsp;(ii) the combustion of municipal waste for the purpose of generating steam or forms ofuseful energy, including industrial process heat, mechanical power, or electricity (including cogeneration).
+&emsp;&emsp;(ii) the combustion of municipal waste for the purpose of generating steam or forms of useful energy, including industrial process heat, mechanical power, or electricity (including cogeneration).
 
 &emsp;(B) Such term includes any necessary transportation, preparation, and disposal equipment and machinery for use in or at the site of the facility involved.
 
@@ -94,7 +94,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in introductory provisions and pars. (11)(A) and (14)(B), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in introductory provisions and pars. (11)(A) and (14)(B), was in the original "thistitle", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 Subchapter III, referred to in par. (2)(B), was in the original "subtitle C", meaning subtitle C (§§251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 3104, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 

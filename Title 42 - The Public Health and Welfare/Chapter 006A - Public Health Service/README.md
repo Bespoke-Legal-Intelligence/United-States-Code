@@ -144,7 +144,7 @@
 | [243\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000243%20-%20General%20grant%20of%20authority%20for%20cooperation.md) | General grant of authority for cooperation. |
 | [244\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244%20-%20Public%20access%20defibrillation%20programs.md) | Public access defibrillation programs. |
 | 244–1, 244a. | Repealed. |
-| [245\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245%20-%20Public%20access%20defibrillation%20demonstration%20projects.md) | Public access defibrillation demonstration projects. |
+| [245\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245%20-%20Public%20awareness%20campaign%20on%20the%20importance%20of%20vaccinations.md) | Public awareness campaign on the importance of vaccinations. |
 | [245a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20V%2C%20%C2%A7503%28b%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202300.md) | Repealed. |
 | [246\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246%20-%20Grants%20and%20services%20to%20States.md) | Grants and services to States. |
 | [246a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246a%20-%20Bureau%20of%20State%20Services%20management%20fund%3B%20establishment%3B%20advancements%3B%20availability.md) | Bureau of State Services management fund; establishment; advancements; availability. |
@@ -213,6 +213,7 @@
 | 247d–8. | Coordinated program to improve pediatric oral health. |
 | 247d–9. | Dental education for parents of newborns. |
 | 247d–10. | Pilot program for public health laboratories to detect fentanyl and other synthetic opioids. |
+| 247d–11. | State All Payer Claims Databases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -268,6 +269,7 @@
 | 254c–17. | Repealed. |
 | 254c–18. | Telemedicine; incentive grants regarding coordination among States. |
 | 254c–19. | Pediatric mental health care access grants. |
+| 254c–20. | Expanding capacity for health outcomes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1625,8 +1627,8 @@
 
 |  |  |
 | :--- | ---: |
-| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20and%20quality%20grants.md) | Nurse education, practice, and quality grants. |
-| 296p–1. | Nurse retention grants. |
+| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20quality%2C%20and%20retention%20grants.md) | Nurse education, practice, quality, and retention grants. |
+| 296p–1. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1661,8 +1663,7 @@
 
 |  |  |
 | :--- | ---: |
-| [297w.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20Public%20Service%20Announcements/%C2%A7%2000297w%20-%20Public%20service%20announcements.md) | Public service announcements. |
-| [297x.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20Public%20Service%20Announcements/%C2%A7%2000297x%20-%20State%20and%20local%20public%20service%20announcements.md) | State and local public service announcements. |
+| 297w, 297x. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1825,13 +1826,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Sudden Infant Death Syndrome
+#### Part B—Sudden Unexpected Infant Death, Sudden Infant Death Syndrome, and Sudden Unexpected Death in Childhood
 
 |  |  |
 | :--- | ---: |
-| 300c–11. | Repealed. |
+| 300c–11. | Addressing sudden unexpected infant death and sudden unexpected death in childhood. |
 | 300c–12. | Sudden infant death syndrome research. |
 | 300c–13. | Continuing activities related to stillbirth, sudden unexpected infant death and sudden unexplained death in childhood. |
+| 300c–14. | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2798,6 +2800,7 @@
 | 300gg–43. | Certification of coverage. |
 | 300gg–44. | State flexibility in individual market reforms. |
 | 300gg–45. | Relief for high risk pools. |
+| 300gg–46. | Disclosure to enrollees of individual market coverage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2831,6 +2834,38 @@
 | 300gg–93. | Health insurance consumer information. |
 | 300gg–94. | Ensuring that consumers get value for their dollars. |
 | 300gg–95. | Uniform fraud and abuse referral format. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Additional Coverage Provisions
+
+|  |  |
+| :--- | ---: |
+| 300gg–111. | Preventing surprise medical bills. |
+| 300gg–112. | Ending surprise air ambulance bills. |
+| 300gg–113. | Continuity of care. |
+| 300gg–114. | Maintenance of price comparison tool. |
+| 300gg–115. | Protecting patients and improving the accuracy of provider directory information. |
+| 300gg–117. | Other patient protections. |
+| 300gg–118. | Air ambulance report requirements. |
+| 300gg–119. | Increasing transparency by removing gag clauses on price and quality information. |
+| 300gg–120. | Reporting on pharmacy benefits and drug costs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Health Care Provider Requirements
+
+|  |  |
+| :--- | ---: |
+| 300gg–131. | Balance billing in cases of emergency services. |
+| 300gg–132. | Balance billing in cases of non-emergency services performed by nonparticipating providers at certain participating facilities. |
+| 300gg–133. | Provider requirements with respect to disclosure on patient protections against balance billing. |
+| 300gg–134. | Enforcement. |
+| 300gg–135. | Air ambulance services. |
+| 300gg–136. | Provision of information upon request and for scheduled appointments. |
+| 300gg–137. | Patient-provider dispute resolution. |
+| 300gg–138. | Continuity of care. |
+| 300gg–139. | Provider requirements to protect patients and improve the accuracy of provider directory information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2872,6 +2907,7 @@
 | :--- | ---: |
 | 300hh–31. | Epidemiology-laboratory capacity grants. |
 | 300hh–32. | Enhanced support to assist health departments in addressing vector-borne diseases. |
+| 300hh–33. | Public health data system modernization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2882,7 +2918,7 @@
 | [300ii.](Subchapter%20027%20%28XXVII%29%20-%20Lifespan%20Respite%20Care/%C2%A7%2000300ii%20-%20Definitions.md) | Definitions. |
 | 300ii–1. | Lifespan respite care grants and cooperative agreements. |
 | 300ii–2. | National lifespan respite resource center. |
-| 300ii–3. | Report. |
+| 300ii–3. | Data collection and reporting. |
 | 300ii–4. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

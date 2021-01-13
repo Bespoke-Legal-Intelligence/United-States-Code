@@ -26,7 +26,7 @@ For the purpose of this section—
 
 (1) In the case of a contract involving a real property loan which was made or assumed, including a transfer of the liened property subject to the real property loan, during the period beginning on the date a State adopted a constitutional provision or statute prohibiting the exercise of due-on-sale clauses, or the date on which the highest court of such State has rendered a decision (or if the highest court has not so decided, the date on which the next highest appellate court has rendered a decision resulting in a final judgment if such decision applies State-wide) prohibiting such exercise, and ending on October 15, 1982, the provisions of subsection (b) shall apply only in the case of a transfer which occurs on or after the expiration of 3 years after October 15, 1982, except that—
 
-&emsp;(A) a State, by a State law enacted by the State legislature prior to the close of such 3-year period, with respect to real property loans originated in the State by lenders other than national banks, Federal savings and loanassociations, Federal savings banks, and Federal credit unions, may otherwise regulate such contracts, in which case subsection (b) shall apply only if such State law so provides; and
+&emsp;(A) a State, by a State law enacted by the State legislature prior to the close of such 3-year period, with respect to real property loans originated in the State by lenders other than national banks, Federal savings and loan associations, Federal savings banks, and Federal credit unions, may otherwise regulate such contracts, in which case subsection (b) shall apply only if such State law so provides; and
 
 &emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate such contracts, in which case subsection (b) shall apply only if such regulation so provides.
 
@@ -62,7 +62,7 @@ With respect to a real property loan secured by a lien on residential real prope
 
 (1) The Federal Home Loan Bank Board, in consultation with the Comptroller of the Currency and the National Credit Union Administration Board, is authorized to issue rules and regulations and to publish interpretations governing the implementation of this section.
 
-(2) Notwithstanding the provisions of subsection (d), the rules and regulations prescribed under this section may permit a lender to exercise its option pursuant to a due-on-sale clause with respect to a real property loan and any related agreement pursuant to which a borrower obtains the right to receive future income.
+(2) Notwithstanding the provisions of subsection (d), the rules and regulations prescribedunder this section may permit a lender to exercise its option pursuant to a due-on-sale clause with respect to a real property loan and any related agreement pursuant to which a borrower obtains the right to receive future income.
 
 #### (f) Effective date for enforcement of Corporation-owned loans with due-on-sale options
 
@@ -74,6 +74,8 @@ Federal Home Loan Bank Board regulations restricting the use of a balloon paymen
 
 (Pub. L. 97–320, title III, §341, Oct. 15, 1982, 96 Stat. 1505; Pub. L. 98–181, title I \[title IV, §473\], Nov. 30, 1983, 97 Stat. 1237.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Thrift Institutions Restructuring Act and also as part of the Garn-St Germain Depository Institutions Act of 1982, and not as part of the National Housing Act which comprises this chapter.
@@ -81,6 +83,8 @@ Section was enacted as part of the Thrift Institutions Restructuring Act and als
 #### Amendments
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–181 substituted "With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender" for "A lender".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

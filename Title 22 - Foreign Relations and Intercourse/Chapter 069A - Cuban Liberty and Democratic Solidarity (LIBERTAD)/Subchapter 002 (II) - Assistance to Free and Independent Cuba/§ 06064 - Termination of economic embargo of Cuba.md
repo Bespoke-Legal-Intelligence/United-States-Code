@@ -58,6 +58,8 @@ On the date on which the President submits a determination under section 6063(c)
 
 (Pub. L. 104–114, title II, §204, Mar. 12, 1996, 110 Stat. 810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 902(c) of the Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(4), is section 902(c) of Pub. L. 99–198, which is set out as a note under section 1446g of Title 7, Agriculture.
@@ -65,6 +67,8 @@ Section 902(c) of the Food Security Act of 1985, referred to in subsecs. (b)(4) 
 Section 204(a) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, referred to in subsec. (e)(2), is subsec. (a) of this section.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (e)(4)(A), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -96,7 +96,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (5) Federal share
 
-&emsp;(A) Subject to subparagraph (B), the Federal share of a grant under this subsection may notexceed 75 percent of the total costs of the projects described in the application for which the grant was made.
+&emsp;(A) Subject to subparagraph (B), the Federal share of a grant under this subsection may not exceed 75 percent of the total costs of the projects described in the application for which the grant was made.
 
 &emsp;(B) The requirement of subparagraph (A)—
 
@@ -110,9 +110,13 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 (Pub. L. 90–351, title I, §104, as added Pub. L. 109–162, title XI, §1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3712b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

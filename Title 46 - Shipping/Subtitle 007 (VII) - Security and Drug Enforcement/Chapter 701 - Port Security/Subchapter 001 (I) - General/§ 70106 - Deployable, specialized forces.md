@@ -10,7 +10,7 @@ In general.—To enhance the domestic maritime security capability of the United
 
 &emsp;(2)
 
-Enhanced teams.—Such specialized forces shall include no less than two enhanced teams to serve as deployable forces capable of combating terrorism, engaging in interdiction, law enforcement, and advanced tactical maritime security operations to address known or potentially armed security threats (including non-compliant actors at sea), and participating in homeland security, homeland defense, and counterterrorism exercises in the maritime environment.
+Enhanced teams.—Such specialized forces shall include no less than two enhanced teams to serve as deployable forces capable of combating terrorism, engaging in interdiction, law enforcement, and advanced tactical maritime security operations to address known orpotentially armed security threats (including non-compliant actors at sea), and participating in homeland security, homeland defense, and counterterrorism exercises in the maritime environment.
 
 (b)
 
@@ -44,11 +44,15 @@ Coordination With Other Agencies.—To the maximum extent feasible, the combined
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2074; amended Pub. L. 109–241, title III, §305, July 11, 2006, 120 Stat. 528; Pub. L. 111–281, title VIII, §804(a), Oct. 15, 2010, 124 Stat. 2990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–281 amended section generally. Prior to amendment, section related to maritime safety and security teams.
 
 <b>2006</b>—Subsec. (b)(8). Pub. L. 109–241 substituted "any other missions of the Coast Guard" for "other security missions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coast Guard Detection Canine Team Program Expansion
 

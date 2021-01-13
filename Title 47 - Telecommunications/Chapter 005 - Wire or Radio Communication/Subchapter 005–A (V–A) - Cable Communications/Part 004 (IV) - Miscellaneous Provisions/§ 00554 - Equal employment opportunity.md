@@ -12,7 +12,7 @@ Equal opportunity in employment shall be afforded by each entity specified in su
 
 Any entity specified in subsection (a) shall establish, maintain, and execute a positive continuing program of specific practices designed to ensure equal opportunity in every aspect of its employment policies and practices. Under the terms of its program, each such entity shall—
 
-&emsp;(1) define the responsibility of each level of management to ensure a positive applicationand vigorous enforcement of its policy of equal opportunity, and establish a procedure to review and control managerial and supervisory performance;
+&emsp;(1) define the responsibility of each level of management to ensure a positive application and vigorous enforcement of its policy of equal opportunity, and establish a procedure to review and control managerial and supervisory performance;
 
 &emsp;(2) inform its employees and recognized employee organizations of the equal employment opportunity policy and program and enlist their cooperation;
 
@@ -80,7 +80,7 @@ Any entity specified in subsection (a) shall establish, maintain, and execute a 
 
 (1) On an annual basis, the Commission shall certify each entity described in subsection (a) as in compliance with this section if, on the basis of information in the possession of the Commission, including the report filed pursuant to subsection (d)(3), such entity was in compliance, during the annual period involved, with the requirements of subsections (b), (c), and (d).
 
-(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a), in the aggregate, aswell as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d), including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) accurately reflect employee responsibilities in the reported job classifications.
+(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a), in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d), including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) accurately reflect employee responsibilities in the reported job classifications.
 
 #### (f) Substantial failure to comply; penalties; notice to public and franchising authorities
 
@@ -119,6 +119,8 @@ Employees or applicants for employment who believe they have been discriminated 
 (3) The provisions of this section shall apply to any cable operator, whether operating pursuant to a franchise granted before, on, or after October 30, 1984.
 
 (June 19, 1934, ch. 652, title VI, §634, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2797; amended Pub. L. 102–385, §22(b)–(e), Oct. 5, 1992, 106 Stat. 1498, 1499; Pub. L. 103–414, title III, §303(a)(24), Oct. 25, 1994, 108 Stat. 4295.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -160,6 +162,8 @@ Subsec. (f)(2). Pub. L. 102–385, §22(d), substituted "$500" for "$200".
 
 Subsec. (h)(1). Pub. L. 102–385, §22(e), inserted before period at end "and any multichannel video programming distributor".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as a note under section 325 of this title.
@@ -180,5 +184,5 @@ Pub. L. 102–385, §22(a), Oct. 5, 1992, 106 Stat. 1498, provided that: "The Co
 
 #### Study and Report on Effect and Operation of Amendments by Section 22 of Pub. L. 102–385
 
-Pub. L. 102–385, §22(g), Oct. 5, 1992, 106 Stat. 1500, provided that: "Not later than 2 years after the date of enactment of this Act \[Oct. 5, 1992\], the Commission shall submit to the Congress a report pursuant to a proceeding to review and obtain public comment on the effect and operation of the amendments made by this section \[enacting section 334 of this title and amending this section\]. In conducting such review, the Commission shall consider the effectiveness of its procedures, regulations, policies, standards, and guidelines in promoting equality of employment opportunity and promotion opportunity, and particularly the effectiveness of its procedures, regulations, policies, standards, and guidelines in promoting the congressional policy favoring increased employment opportunity for women and minorities in positions of management authority. The Commission shall forward to the Congress such legislative recommendations to improve equal employment opportunity in the broadcasting and cable industries as it deems necessary."
+Pub. L. 102–385, §22(g), Oct. 5, 1992, 106 Stat. 1500, provided that: "Not later than 2 years after the date of enactment of this Act \[Oct. 5, 1992\], the Commission shall submit to the Congress a report pursuant to a proceeding to review and obtain public comment on the effect and operation of the amendments made by this section \[enacting section 334 of this title and amending this section\]. In conducting such review, the Commission shall consider the effectiveness of its procedures, regulations, policies, standards, and guidelines in promoting equality of employment opportunity and promotion opportunity, and particularly the effectivenessof its procedures, regulations, policies, standards, and guidelines in promoting the congressional policy favoring increased employment opportunity for women and minorities in positions of management authority. The Commission shall forward to the Congress such legislative recommendations to improve equal employment opportunity in the broadcasting and cable industries as it deems necessary."
 

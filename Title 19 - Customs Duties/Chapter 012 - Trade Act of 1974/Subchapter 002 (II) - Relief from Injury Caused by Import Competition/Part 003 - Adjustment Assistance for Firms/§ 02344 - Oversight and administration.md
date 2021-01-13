@@ -70,7 +70,7 @@ Pub. L. 111–5, div. B, title I, §1864(e), Feb. 17, 2009, 123 Stat. 399, provi
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, this section and the repeal of former section 2344 of this title not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if this section and the repeal had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat.403, effective Oct. 21, 2011. See Codification and Prior Provisions notes above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, this section and the repeal of former section 2344 of this title not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if this section and the repeal had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification and Prior Provisions notes above.
 
 Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

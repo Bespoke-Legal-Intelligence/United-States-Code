@@ -100,6 +100,8 @@ In this section:
 
 (Pub. L. 115–331, §2, Dec. 19, 2018, 132 Stat. 4484.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of Homeland Security Data Framework Act of 2018, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

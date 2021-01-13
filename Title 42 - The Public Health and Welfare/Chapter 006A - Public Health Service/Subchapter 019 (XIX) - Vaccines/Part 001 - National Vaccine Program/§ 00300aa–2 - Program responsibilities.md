@@ -8,7 +8,7 @@
 
 #### (2) Vaccine development
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for activities carried out in or through the National Institutes of Health, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development to develop the techniques needed to produce safe and effective vaccines.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for activities carried out in or through the NationalInstitutes of Health, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development to develop the techniques needed to produce safe and effective vaccines.
 
 #### (3) Safety and efficacy testing of vaccines
 

@@ -4,9 +4,13 @@ The map and profile of definite location of such railroad, wagon road, or tramwa
 
 (May 14, 1898, ch. 299, §9, 30 Stat. 413.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 419 of Title 48, Territories and Insular Possessions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal; Savings Provision
 

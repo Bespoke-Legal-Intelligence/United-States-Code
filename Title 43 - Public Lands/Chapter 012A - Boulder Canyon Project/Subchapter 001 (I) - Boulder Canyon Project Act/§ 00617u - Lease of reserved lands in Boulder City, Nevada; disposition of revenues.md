@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized and empowered, under such rules and 
 
 (June 18, 1940, ch. 395, 54 Stat. 437.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Boulder Canyon Project Act which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Boulder City Act of 1958
 

@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–443, title IV, §401(b)(2), Oct. 15, 1974, 88 Stat. 1290, substituted "candidacies" for "political activity" in item 1503.

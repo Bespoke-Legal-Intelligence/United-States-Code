@@ -16,17 +16,21 @@ In addition to such sums as may otherwise be authorized to be appropriated, ther
 
 &emsp;&emsp;(A) To increase personnel for the program development office to enhance marketing programming in the People's Republic of China and neighboring countries.
 
-&emsp;&emsp;(B) To enable Radio Free Asia's expansion of news research, production, call-in showcapability, and web site/Internet enhancement for the People's Republic of China and neighboring countries.
+&emsp;&emsp;(B) To enable Radio Free Asia's expansion of news research, production, call-in show capability, and web site/Internet enhancement for the People's Republic of China and neighboring countries.
 
 &emsp;&emsp;(C) VOA enhancements, including the opening of new news bureaus in Taipei and Shanghai, enhancement of TV Mandarin, and an increase of stringer presence abroad.
 
 (Pub. L. 106–286, div. B, title VII, §701, Oct. 10, 2000, 114 Stat. 907; Pub. L. 107–228, div. A, title I, §121(b), Sept. 30, 2002, 116 Stat. 1361.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–228, §121(b)(1), substituted "2003" for "2001".
 
 Subsec. (b)(1). Pub. L. 107–228, §121(b)(2), substituted "2001, 2002, and 2003" for "2001 and 2002".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

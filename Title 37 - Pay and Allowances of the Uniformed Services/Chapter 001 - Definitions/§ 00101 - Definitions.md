@@ -8,9 +8,9 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;(2) The term "possessions" includes Guam, American Samoa, and the guano islands.
 
-&emsp;(3) The term "uniformed services" means the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
+&emsp;(3) The term "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
 
-&emsp;(4) The term "armed forces" means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+&emsp;(4) The term "armed forces" means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.
 
 &emsp;(5) The term "Secretary concerned" means—
 
@@ -18,7 +18,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
 
-&emsp;&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force;
+&emsp;&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;
 
 &emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy;
 
@@ -100,13 +100,13 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(G) the Coast Guard Reserve; or
 
-&emsp;&emsp;(H) the Reserve Corps of the Public Health Service.
+&emsp;&emsp;(H) the Reserve Corps <sup>1</sup> of the Public Health Service.
 
 &emsp;(25) The term "regular compensation" or "regular military compensation (RMC)" means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
 
 &emsp;(26) The term "contingency operation" has the meaning given that term in section 101 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, §603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(a), Dec. 2, 2002, 116 Stat. 2581; Pub. L. 109–163, div. A, title V, §515(d)(1)(A), Jan. 6, 2006, 119 Stat. 3235.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, §603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(a), Dec. 2, 2002, 116 Stat. 2581; Pub. L. 109–163, div. A, title V, §515(d)(1)(A), Jan. 6, 2006, 119 Stat. 3235; Pub. L. 116–283, div. A, title IX, §925(a), Jan. 1, 2021, 134 Stat. 3826.)
 
 Historical and Revision Notes
 
@@ -236,11 +236,17 @@ Clause (22) is substituted for section 231(i) of existing title 37.
 
 In clause (23), section 231(b) (less 1st sentence) of existing title 37 is omitted as executed by the express coverage of members of the Fleet Reserve and Fleet Marine Corps Reserve.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2021</b>—Pars. (3), (4). Pub. L. 116–283, §925(a)(1), inserted "Space Force," after "Marine Corps,".
+
+Par. (5)(C). Pub. L. 116–283, §925(a)(2), which directed insertion of "and the Space Force" after "Air Force", was executed by making the insertion after "Air Force" the second place appearing, to reflect the probable intent of Congress.
 
 <b>2006</b>—Par. (24)(C). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
@@ -290,6 +296,12 @@ Cl. (25). Pub. L. 96–579 defined "regular compensation" or "regular military c
 
 <b>1966</b>—Cls. (3), (5)(E). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
@@ -320,7 +332,7 @@ Pub. L. 96–579, §1, Dec. 23, 1980, 94 Stat. 3359, provided that: "This Act \[
 
 Pub. L. 96–343, §1, Sept. 8, 1980, 94 Stat. 1123, provided that: "This Act \[enacting section 5142a of Title 10, Armed Forces, amending sections 203, 301, 301a, 305a, 403, 404, 411, 907, and 1006 of this title and sections 1201, 1203, 3914, 3925, 3962, 5142, 5703, 5787c, 5787d, 8072, 8914, 8925, and 8962 of Title 10, enacting provisions set out as notes under sections 301, 305a, 402, 403, 404, and 907 of this title and sections 3914 and 3962 of Title 10, and amending provisions set out as notes under sections 5707 and 8202 of Title 10\] may be cited as the 'Military Personnel and Compensation Amendments of 1980'."
 
-Pub. L. 96–284, §1, June 28, 1980, 94 Stat. 587, provided that: "This Act \[enacting sections 302c and 303a of this title, amending sections 302 to 302b, 303, 306, 311, and 313 of this title, and enacting and repealing provisions set out as notes under section 302 of this title\] may be cited as the 'Uniformed Services Health Professionals Special Pay Act of 1980'."
+Pub. L. 96–284, §1, June 28, 1980, 94 Stat. 587, provided that: "This Act \[enacting sections 302c and 303a of thistitle, amending sections 302 to 302b, 303, 306, 311, and 313 of this title, and enacting and repealing provisions set out as notes under section 302 of this title\] may be cited as the 'Uniformed Services Health Professionals Special Pay Act of 1980'."
 
 #### Short Title of 1976 Amendment
 
@@ -330,7 +342,7 @@ Pub. L. 94–356, §1, July 12, 1976, 90 Stat. 901, provided: "That this Act \[e
 
 Pub. L. 93–294, §1, May 31, 1974, 88 Stat. 177, provided: "That this Act \[amending section 301 of this title, enacting section 301a of this title, and enacting provisions set out as notes under section 301a of this title\] may be cited as the 'Aviation Career Incentive Act of 1974'."
 
-Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: "That this Act \[amending sections 308 and 308a of thistitle and enacting provisions set out as notes under section 308 of this title\] may be cited as the 'Armed Forces Enlisted Personnel Bonus Revision Act of 1974'."
+Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: "That this Act \[amending sections 308 and 308a of this title and enacting provisions set out as notes under section 308 of this title\] may be cited as the 'Armed Forces Enlisted Personnel Bonus Revision Act of 1974'."
 
 #### Short Title of 1963 Amendment
 
@@ -339,4 +351,6 @@ Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: "That this Act \[en
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

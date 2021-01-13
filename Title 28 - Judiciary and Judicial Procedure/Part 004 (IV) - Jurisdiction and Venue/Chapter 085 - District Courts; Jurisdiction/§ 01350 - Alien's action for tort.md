@@ -12,6 +12,8 @@ Words "civil action" were substituted for "suits," in view of Rule 2 of the Fede
 
 Changes in phraseology were made.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Torture Victim Protection
 
 Pub. L. 102–256, Mar. 12, 1992, 106 Stat. 73, provided that:

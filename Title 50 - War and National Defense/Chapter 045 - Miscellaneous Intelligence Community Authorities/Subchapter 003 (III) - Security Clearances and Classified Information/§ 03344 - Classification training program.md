@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The head of each Executive agency, in accordance with Executive Order 13526, shall require annual training for each employee who has original classification authority. For employees who perform derivative classification, or are responsible for analysis, dissemination, preparation, production, receipt, publication, or otherwise communication of classified information, training shall be provided at least every two years. Such training shall—
+The head of each Executive agency, in accordance with Executive Order 13526, shall require annual training for each employee who has original classification authority. For employees who perform derivative classification, or are responsible for analysis, dissemination, preparation, production, receipt, publication, or otherwise communication of classified information,training shall be provided at least every two years. Such training shall—
 
 &emsp;(1) educate the employee, as appropriate, regarding—
 

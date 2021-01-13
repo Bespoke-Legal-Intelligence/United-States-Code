@@ -1,6 +1,6 @@
 ### §7653. Ordnance and ordnance stores: District of Columbia high schools
 
-The Secretary of the Army, under regulations to be prescribed by him, may issue to the high schools of the District of Columbia ordnance and ordnance stores required for military instruction and practice. The Secretary shall require a bond in double the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
+The Secretary of the Army, under regulations to be prescribed by him, may issue to the high schools of the District of Columbia ordnance and ordnance stores required for military instruction and practice. The Secretary shall require a bond in double the value of the property issued under this section, for the care and safekeepingof that property and, except for property properly expended, for its return when required.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 261, §4653; renumbered §7653, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 

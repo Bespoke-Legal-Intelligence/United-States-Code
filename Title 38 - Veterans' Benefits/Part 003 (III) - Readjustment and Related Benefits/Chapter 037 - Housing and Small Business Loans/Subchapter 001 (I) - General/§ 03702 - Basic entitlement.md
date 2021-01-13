@@ -24,6 +24,8 @@
 
 &emsp;(F) Each veteran who was discharged or released from a period of active duty of 90 days or more by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
 
+&emsp;(G) Each individual described in section 3701(b)(7) of this title.
+
 (3) Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
 
 (4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used by the veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
@@ -54,7 +56,7 @@
 
 (e) The Secretary may at any time upon thirty days' notice require housing loans to be made by any lender or class of lenders to be submitted to the Secretary for prior approval. No guaranty or insurance liability shall exist with respect to any such loan unless evidence of guaranty or insurance is issued by the Secretary.
 
-(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
+(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may bemade by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
 
 &emsp;(1) ratio of amount of loan to the value of the property;
 
@@ -66,9 +68,13 @@
 
 &emsp;(5) percentage of assets which may be invested in real estate loans.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83,§5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, §405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, §6(a), Aug. 29, 2008, 122 Stat. 3528.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, §405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, §6(a), Aug. 29, 2008, 122 Stat. 3528; Pub. L. 116–315, title II, §2101(b), Jan. 5, 2021, 134 Stat. 4981.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(G). Pub. L. 116–315 added subpar. (G).
 
 <b>2008</b>—Subsec. (a)(2)(F). Pub. L. 110–317 added subpar. (F).
 
@@ -159,6 +165,12 @@ Subsec. (d). Pub. L. 90–19 substituted "mortgagee approved by the Secretary of
 <b>1961</b>—Subsec. (b). Pub. L. 87–84 substituted in last sentence "by a World War II veteran at any time before July 26, 1967, and by a Korean conflict veteran at any time before February 1, 1975" for "at any time before February 1, 1965".
 
 <b>1959</b>—Subsec. (d)(3). Pub. L. 86–73 added cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–315 applicable with respect to full-time National Guard duty (as defined in section 101 of title 10, United States Code) performed before, on, or after Jan. 5, 2021, see section 2101(c) of Pub. L. 116–315, set out as a note under section 3701 of this title.
 
 #### Effective Date of 2008 Amendment
 

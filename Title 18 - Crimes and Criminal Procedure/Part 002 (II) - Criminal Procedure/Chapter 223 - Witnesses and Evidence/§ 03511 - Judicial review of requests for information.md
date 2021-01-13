@@ -1,6 +1,6 @@
 ### §3511. Judicial review of requests for information
 
-(a) The recipient of a request for records, a report, or other information under section 2709(b)of this title, section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947 may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the request. The court may modify or set aside the request if compliance would be unreasonable, oppressive, or otherwise unlawful.
+(a) The recipient of a request for records, a report, or other information under section 2709(b) of this title, section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947 may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the request. The court may modify or set aside the request if compliance would be unreasonable, oppressive, or otherwise unlawful.
 
 (b)
 
@@ -24,7 +24,7 @@ Consideration.—A district court of the United States that receives a petition 
 
 &emsp;(2)
 
-Application contents.—An application for a nondisclosure order or extension thereof or a response to a petition filed under paragraph (1) shall include a certification from the Attorney General, Deputy Attorney General, an Assistant Attorney General, or the Director of the Federal Bureau of Investigation, or a designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, or in the case of a request by a department, agency, or instrumentality of the Federal Government other than the Department of Justice, the head or deputy head of the department, agency, or instrumentality, containing a statement of specific facts indicating that the absence of a prohibition of disclosure under this subsection may result in—
+Application contents.—An application for a nondisclosure order or extension thereof or a response to a petition filed under paragraph (1) shall include a certification from theAttorney General, Deputy Attorney General, an Assistant Attorney General, or the Director of the Federal Bureau of Investigation, or a designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, or in the case of a request by a department, agency, or instrumentality of the Federal Government other than the Department of Justice, the head or deputy head of the department, agency, or instrumentality, containing a statement of specific facts indicating that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;(A) a danger to the national security of the United States;
 
@@ -54,6 +54,8 @@ Standard.—A district court of the United States shall issue a nondisclosure or
 
 (Added Pub. L. 109–177, title I, §115(2), Mar. 9, 2006, 120 Stat. 211; amended Pub. L. 114–23, title V, §502(g), June 2, 2015, 129 Stat. 288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 626(a), (b) and 627(a) of the Fair Credit Reporting Act, referred to in subsecs. (a), (c), and (d), are classified to sections 1681u(a), (b) and 1681v(a), respectively, of Title 15, Commerce and Trade.
@@ -65,6 +67,8 @@ Section 802(a) of the National Security Act of 1947, referred to in subsecs. (a)
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–23 added subsec. (b) and struck out former subsec. (b) which related to petitions for court orders modifying or setting aside a nondisclosure requirement imposed in connection with a request for records, reports, or other information.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reports on National Security Letters
 

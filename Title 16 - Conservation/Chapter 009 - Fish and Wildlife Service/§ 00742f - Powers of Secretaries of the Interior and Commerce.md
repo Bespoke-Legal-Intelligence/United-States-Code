@@ -52,7 +52,7 @@ Matching.—Subject to the availability of appropriations and the requirements o
 
 (6)
 
-Senior volunteer corps.—The Secretary of the Interior may establish a Senior Volunteer Corps, consisting of volunteers over the age of 50. To assist in the recruitment and retention of the volunteers, the Secretary may provide for additional incidental expenses to members ofthe Corps beyond the incidental expenses otherwise provided to volunteers under this subsection. The members of the Corps shall be subject to the other provisions of this subsection.
+Senior volunteer corps.—The Secretary of the Interior may establish a Senior Volunteer Corps, consisting of volunteers over the age of 50. To assist in the recruitment and retention of the volunteers, the Secretary may provide for additional incidental expenses to members of the Corps beyond the incidental expenses otherwise provided to volunteers under this subsection. The members of the Corps shall be subject to the other provisions of this subsection.
 
 #### (d) Community partnership enhancement
 
@@ -118,7 +118,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (2) Refuge programs
 
-&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior maydevelop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
+&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
 
 #### (f) Report
 
@@ -194,7 +194,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the National Wildlife Refuge System Improvement Act of 1997 (Public Law 105–57; 111 Stat. 1252) \[see Tables for classification\] significantly improved the law governing the System, although the financial resources for implementing this law and managing the System remain limited;
 
-&emsp;"(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships withrefuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
+&emsp;"(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships with refuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
 
 &emsp;"(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted.
 

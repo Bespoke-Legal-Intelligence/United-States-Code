@@ -4,7 +4,7 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 
 (a) That an annual rental of such sum as the Secretary of the Interior may fix for the use of the lands shall be paid to the United States.
 
-(b) That the lessee shall maintain the lands in such condition, and provide for the furnishing of such facilities, service, fuel, and other supplies, as are necessary to make the lands available for public use as an airport of a rating which may be prescribed by the Administrator of the Federal Aviation Agency.
+(b) That the lessee shall maintain the lands in such condition, and provide for the furnishing ofsuch facilities, service, fuel, and other supplies, as are necessary to make the lands available for public use as an airport of a rating which may be prescribed by the Administrator of the Federal Aviation Agency.
 
 (c) That the lessee shall make reasonable regulations to govern the use of the airport, but such regulations shall take effect only upon approval by the Administrator of the Federal Aviation Agency.
 
@@ -13,6 +13,8 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 (e) That whenever the President may deem it necessary for military purposes, the Secretary of the Army may assume full control of the airport.
 
 (May 24, 1928, ch. 728, §2, 45 Stat. 728; June 23, 1938, ch. 601, §1107(b), 52 Stat. 1027; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 85–726, title XIV, §§1401(b), 1402(a), Aug. 23, 1958, 72 Stat. 806.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -24,6 +26,8 @@ Section was previously classified to section 212 of former Title 49, Transportat
 
 <b>1938</b>—Subsecs. (b), (c). Act June 23, 1938, substituted "Civil Aeronautics Authority" for "Secretary of Commerce".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of a Secretary of the Army.
@@ -31,6 +35,8 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Effective Date of 1958 Amendment
 
 Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 811, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office Oct. 31, 1958.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

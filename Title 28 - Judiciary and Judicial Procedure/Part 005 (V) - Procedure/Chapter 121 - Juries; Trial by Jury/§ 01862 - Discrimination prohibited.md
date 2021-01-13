@@ -8,11 +8,15 @@ No citizen shall be excluded from service as a grand or petit juror in the distr
 
 This section makes provision for specific exemption of classes of citizens usually excused from jury service in the interest of the public health, safety, or welfare. The inclusion in the jury list of persons so exempted usually serves only to waste the time of the court.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–417 prohibited discrimination against service as juror in the Court of International Trade.
 
 <b>1968</b>—Pub. L. 90–274 substituted provisions prohibiting discrimination against citizens in their service as jurors because of race, color, religion, sex, national origin, or economic status for provisions identifying three groups as exempt from jury service, including members of the armed forces on active duty, members of fire or police departments, and public officers actively engaged in the performance of official duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

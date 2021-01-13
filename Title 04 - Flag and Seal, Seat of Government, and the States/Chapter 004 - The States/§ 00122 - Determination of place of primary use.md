@@ -14,9 +14,13 @@ Address Under Existing Agreements.—Except as provided in section 121, a taxing
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 630.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Mobile Telecommunications Sourcing Act, referred to in subsec. (b), is the date of enactment of Pub. L. 106–252, which was approved July 28, 2000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Application of Amendment
 

@@ -42,7 +42,7 @@ When used in this chapter—
 
 #### (h) Export warehouse
 
-"Export warehouse" means a bonded internal revenue warehouse for the storage of tobacco products or cigarette papers or tubes or anyprocessed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
+"Export warehouse" means a bonded internal revenue warehouse for the storage of tobacco products or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
 
 #### (i) Export warehouse proprietor
 
@@ -118,7 +118,7 @@ Subsec. (o). Pub. L. 111–3, §702(d)(1), inserted "or cigars, or for use as wr
 
 Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined "cigarette papers".
+<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struckout former subsec. (f), which defined "cigarette papers".
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -202,7 +202,7 @@ Pub. L. 112–141, div. F, title I, §100122(b), July 6, 2012, 126 Stat. 915, pr
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3,set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: "The amendments made by this subsection \[amending this section and sections 5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009."
 

@@ -8,7 +8,7 @@ To assure the continued dedication of the United States to the fundamental human
 
 &emsp;(2) imposes more than a nominal tax on the visas or other documents required for emigration described in paragraph (1); or
 
-&emsp;(3) imposes more than a nominal tax, levy, fine, fee, or other charge on any citizen as aconsequence of the desire of such citizen to emigrate as described in paragraph (1),
+&emsp;(3) imposes more than a nominal tax, levy, fine, fee, or other charge on any citizen as a consequence of the desire of such citizen to emigrate as described in paragraph (1),
 
 > and ending on the date on which the President determines that such country is no longer in violation of paragraph (1), (2), or (3).
 

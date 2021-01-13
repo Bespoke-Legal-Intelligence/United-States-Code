@@ -6,7 +6,7 @@ Within 6 months after January 14, 1983, the Secretary and the Governor of Alaska
 
 #### (b) Inspection, etc., of rail properties and records; terms and conditions; restrictions
 
-During the period from January 14, 1983, until the date of transfer, the State shall have the right to inspect, analyze, photograph, photocopy and otherwise evaluate all of the rail properties of the Alaska Railroad and all records related to the rail properties of the Alaska Railroad maintained by any agency of the United States under conditions established by the Secretary to protect the confidentiality of proprietary business data, personnel records, and other information, the public disclosure of which is prohibited by law. During that period, the Secretary and the Alaska Railroad shall not, without the consent of the State and only in conformity with applicable law and the Memorandum of Understanding referred to in section 1205(b)(3) of this title—
+During the period from January 14, 1983, until the date of transfer, the State shall have the right to inspect, analyze, photograph, photocopy and otherwise evaluate all of the rail properties of the Alaska Railroad and all records related to the rail properties of the Alaska Railroad maintained by any agency of the United States under conditions established by the Secretary to protect the confidentiality of proprietary businessdata, personnel records, and other information, the public disclosure of which is prohibited by law. During that period, the Secretary and the Alaska Railroad shall not, without the consent of the State and only in conformity with applicable law and the Memorandum of Understanding referred to in section 1205(b)(3) of this title—
 
 &emsp;(1) make or incur any obligation to make any individual capital expenditure of money from the Alaska Railroad Revolving Fund in excess of $300,000;
 
@@ -26,6 +26,8 @@ Prior to transfer of the rail properties of the Alaska Railroad to the State, th
 
 (Pub. L. 97–468, title VI, §605(a)–(d), Jan. 14, 1983, 96 Stat. 2562, 2563.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter V of chapter 107 of title 49, referred to in subsec. (d)(2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804.
@@ -35,6 +37,8 @@ Subchapter V of chapter 107 of title 49, referred to in subsec. (d)(2), was omit
 In subsec. (a), references to section 1202(10)(C) and (D) of this title were in the original references to section 603(8)(C) and (D) of title VI of Pub. L. 97–468, and were editorially translated as section 1202(10)(C) and (D), as the probable intent of Congress, in view of section 1202(8) containing no subpars. (C) and (D) and the subject matter of section 1202(10)(C), which relates to money in the Alaska Railroad Revolving Fund being withheld from the State, and section 1202(10)(D), which relates to personal property being withheld.
 
 Section is comprised of subsecs. (a) to (d) of section 605 of Pub. L. 97–468. Subsec. (e) of section 605 of Pub. L. 97–468 amended section 712 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

@@ -40,7 +40,7 @@
 
 #### (6) Use of amounts collected after fiscal year 2002
 
-&emsp;After September 30, 2002, the unobligated balance in the Agricultural Quarantine Inspection User Fee Account and fees and other amounts collected under this subsection shall be credited to the Department of Agriculture accounts that incur the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. The fees and other amounts shall remain available to the Secretary until expended without fiscal year limitation.
+&emsp;After September 30, 2002, the unobligated balance in the Agricultural Quarantine Inspection User Fee Account and fees and other amounts collected under this subsection shall be credited to the Department of Agriculture accounts that incur the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. The fees and other amountsshall remain available to the Secretary until expended without fiscal year limitation.
 
 #### (7) Staff years
 
@@ -126,6 +126,8 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 (Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10418(b)(5), May 13, 2002, 116 Stat. 509.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
@@ -183,6 +185,8 @@ Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted "Subject to the limits
 Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end "Any such reimbursement shall be subject to appropriations under clause (v)."
 
 Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

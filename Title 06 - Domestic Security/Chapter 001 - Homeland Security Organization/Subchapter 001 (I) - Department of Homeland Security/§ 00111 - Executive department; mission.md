@@ -32,6 +32,8 @@ There is established a Department of Homeland Security, as an executive departme
 
 (Pub. L. 107–296, title I, §101, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VIII, §8302, Dec. 17, 2004, 118 Stat. 3867.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
@@ -39,6 +41,8 @@ This chapter, referred to in subsec. (b)(2), was in the original "this Act", mea
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(1)(G), (H). Pub. L. 108–458 added subpar. (G) and redesignated former subpar. (G) as (H).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Certain OPM Authority to Department of Homeland Security
 
@@ -51,6 +55,8 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 109–90, title V, §516, Oct. 18, 2005, 119 Stat. 2084.
 
 Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security
 
@@ -142,7 +148,7 @@ Sec. 41. \[Amended Ex. Ord. No. 12657, set out as a note under section 5195 of T
 
 Sec. 42. \[(a) to (i) amended Ex. Ord. No. 12656, set out as a note under section 5195 of Title 42, The Public Health and Welfare.\]
 
-Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specific Federal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of Homeland Security pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
+Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specific Federal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of HomelandSecurity pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
 
 Sec. 43. \[Amended Ex. Ord. No. 12580, set out as a note under section 9615 of Title 42, The Public Health and Welfare.\]
 

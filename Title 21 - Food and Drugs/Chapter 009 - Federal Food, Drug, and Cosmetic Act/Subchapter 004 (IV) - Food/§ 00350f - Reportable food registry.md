@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Reportable food
 
-&emsp;The term "reportable food" means an article of food (other than infant formula) for which there is a reasonable probability that the use of, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
+&emsp;The term "reportable food" means an article of food (other than infant formula) for which there is a reasonable probability that the useof, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
 
 #### (b) Establishment
 
@@ -228,9 +228,11 @@ A report or notification under this section shall not be considered an admission
 
 #### (n) Homeland Security notification
 
-If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall makerelevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
+If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall make relevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
 
 (June 25, 1938, ch. 675, §417, as added Pub. L. 110–85, title X, §1005(b), Sept. 27, 2007, 121 Stat. 965; amended Pub. L. 111–353, title II, §211(a), Jan. 4, 2011, 124 Stat. 3951.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -239,6 +241,8 @@ Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), w
 #### Amendments
 
 <b>2011</b>—Subsecs. (f) to (n). Pub. L. 111–353 added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -262,7 +266,7 @@ Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided th
 
 #### Guidance
 
-Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
+Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\]\(as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

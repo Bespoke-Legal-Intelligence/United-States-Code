@@ -1,6 +1,6 @@
 ### <b>CHAPTER 63—OUTREACH ACTIVITIES</b>
 
-| Sec. <sup>1</sup> |
+| Sec.<sup>1</sup> |
 | :--- |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

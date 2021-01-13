@@ -20,7 +20,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 #### (c) Reduction for government pension system benefits
 
-(1) The benefit amount of any individual under this section for any month shall be reduced (butnot below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
+(1) The benefit amount of any individual under this section for any month shall be reduced (but not below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
 
 (2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
 
@@ -40,7 +40,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 (7) If any benefit amount computed under the foregoing provisions of this section is not a multiple of $0.10, it shall be raised to the next higher multiple of $0.10.
 
-(8) Under regulations prescribed by the Commissioner of Social Security, benefit payments under this section to an individual (or aggregate benefit payments under this section in the case of a husband and wife) of less than $5 may be accumulated until they equal or exceed $5.
+(8) Under regulations prescribed by the Commissioner of Social Security, benefit paymentsunder this section to an individual (or aggregate benefit payments under this section in the case of a husband and wife) of less than $5 may be accumulated until they equal or exceed $5.
 
 #### (d) Suspension for months in which cash payments are made under public assistance or in which supplemental security income benefits are payable
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 &emsp;(3) any loss in interest to such Trust Fund resulting from such payments and expenses,
 
-> in order to place such Trust Fund in the same position at the end of such fiscal year as itwould have been in if such payments had not been made.
+> in order to place such Trust Fund in the same position at the end of such fiscal year as it would have been in if such payments had not been made.
 
 #### (h) Definitions
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to section 5(l) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to section 5(l) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) ofchapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 

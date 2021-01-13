@@ -22,7 +22,7 @@
 
 &emsp;Each report required under subsection (a) shall identify the cumulative effects of offset agreements on—
 
-&emsp;&emsp;(A) the full range of domestic defense productive capability (with special attentionpaid to the firms serving as lower-tier subcontractors or suppliers); and
+&emsp;&emsp;(A) the full range of domestic defense productive capability (with special attention paid to the firms serving as lower-tier subcontractors or suppliers); and
 
 &emsp;&emsp;(B) the domestic defense technology base as a consequence of the technology transfers associated with such offset agreements.
 
@@ -77,10 +77,6 @@ This chapter, referred to in subsec. (d)(1)(B), was in the original "this Act", 
 #### Codification
 
 Section was formerly classified to section 2172 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
-
-#### Delegation of Functions
-
-For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under section 4553 of this title.
 
 #### Report on Impact of Offsets on Domestic Contractors and Lower Tier Subcontractors
 
@@ -140,7 +136,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) In some cases, United States contractors are required to provide indirect offsets which can negatively impact nondefense industrial sectors.
 
-&emsp;"(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era of globalization and would severely hinder the competitiveness of the United States defense industry in the global market.
+&emsp;"(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era ofglobalization and would severely hinder the competitiveness of the United States defense industry in the global market.
 
 &emsp;"(8) The development of global standards to manage and restrict demands for offsets would enhance United States efforts to mitigate the negative impact of offsets.
 
@@ -258,7 +254,7 @@ Commission Report.—Not later than 12 months after the Commission is establishe
 
 &emsp;&emsp;"(A) the collateral impact of offsets on industry sectors that may be different than those of the contractor providing the offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors;
 
-&emsp;&emsp;"(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and
+&emsp;&emsp;"(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to theability of United States contractors to compete if offsets were prohibited or limited; and
 
 &emsp;&emsp;"(C) the impact on United States national security, and upon United States nonproliferation objectives, of the use of coproduction, subcontracting, and technology transfer with foreign governments or companies that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology;
 
@@ -388,6 +384,10 @@ Recommendations for modifications.—The interagency team shall submit to the Pr
 
 &emsp;&emsp;"(B) the reciprocal procurement of defense items."
 
+#### Delegation of Functions
+
+For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under section 4553 of this title.
+
 #### Ex. Ord. No. 13177. National Commission on the Use of Offsets in Defense Trade and President's Council on the Use of Offsets in Commercial Trade
 
 Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 13316, §3(f), Sept. 17, 2003, 68 F.R. 55256, provided:
@@ -402,7 +402,7 @@ Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission 
 
 Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
 
-(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including traveltime) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
+(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 

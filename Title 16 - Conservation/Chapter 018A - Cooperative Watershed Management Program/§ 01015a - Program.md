@@ -10,15 +10,13 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 &emsp;(2) to conduct 1 or more projects in accordance with the goals of a watershed group.
 
-#### (b) Application
+#### (b) Establishment of application process; criteria
 
-#### (1) Establishment of application process; criteria
+Not later than September 30, 2021, the Secretary shall update—
 
-&emsp;Not later than 1 year after March 30, 2009, the Secretary shall establish—
+&emsp;(1) the application process for the program; and
 
-&emsp;&emsp;(A) an application process for the program; and
-
-&emsp;&emsp;(B) in consultation with the States, prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
+&emsp;(2) in consultation with the States, the prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
 
 #### (c) Distribution of grant funds
 
@@ -84,7 +82,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A watershed group may apply for and receive second-phase grants of $1,000,000 each year for a period of not more than 4 years if—
+&emsp;&emsp;&emsp;A watershed group may apply for and receive second-phase grants of $1,000,000 eachyear for a period of not more than 4 years if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the watershed group has applied for and received watershed grants under subparagraph (A); or
 
@@ -212,7 +210,15 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(3) $10,000,000 for fiscal year 2011; and
 
-&emsp;(4) $20,000,000 for each of fiscal years 2012 through 2020.
+&emsp;(4) $20,000,000 for each of fiscal years 2012 through 2026.
 
-(Pub. L. 111–11, title VI, §6002, Mar. 30, 2009, 123 Stat. 1166.)
+(Pub. L. 111–11, title VI, §6002, Mar. 30, 2009, 123 Stat. 1166; Pub. L. 116–260, div. D, title II, §206, div. FF, title XI, §1107(b), Dec. 27, 2020, 134 Stat. 1363, 3243.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260, §1107(b)(1), added subsec. (b) and struck out former subsec. (b) which required Secretary to establish application process not later than 1 year after March 30, 2009.
+
+Subsec. (g)(4). Pub. L. 116–260, §1107(b)(2), which directed substitution of "2026" for "2020", was executed by making the substitution for "2021" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, §206. See below.
+
+Pub. L. 116–260, §206, substituted "2021" for "2020".
 

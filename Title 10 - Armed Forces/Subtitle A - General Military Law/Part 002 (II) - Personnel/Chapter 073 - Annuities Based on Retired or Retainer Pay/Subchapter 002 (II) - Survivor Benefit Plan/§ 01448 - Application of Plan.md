@@ -282,7 +282,7 @@ Former spouse and child coverage.—A person who elects to provide an annuity fo
 
 &emsp;(5)
 
-Disclosure of whether election of former spouse coverage is required.—A person who elects to provide an annuity to aformer spouse under paragraph (2) or (3) shall, at the time of making the election, provide the Secretary concerned with a written statement (in a form to be prescribed by that Secretary and signed by such person and the former spouse) setting forth—
+Disclosure of whether election of former spouse coverage is required.—A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) shall, at the time of making the election, provide the Secretary concerned with a written statement (in a form to be prescribed by that Secretary and signed by such person and the former spouse) setting forth—
 
 &emsp;&emsp;(A) whether the election is being made pursuant to the requirements of a court order; or
 
@@ -368,7 +368,7 @@ Optional annuity when there is an eligible surviving spouse.—In the case of a 
 
 &emsp;(3)
 
-Mandatory former spouse annuity.—If a member described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouseupon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
+Mandatory former spouse annuity.—If a member described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
 &emsp;&emsp;(A) may not pay an annuity under paragraph (1) or (2); but
 
@@ -432,7 +432,7 @@ Optional annuity when there is an eligible surviving spouse.—The Secretary may
 
 &emsp;(3)
 
-Mandatory former spouse annuity.—If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
+Mandatory former spouse annuity.—If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse uponbecoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
 &emsp;&emsp;(A) may not pay an annuity under paragraph (1) or (2); but
 
@@ -454,7 +454,7 @@ Election To Increase Coverage Upon Remarriage.—
 
 Election.—A person—
 
-&emsp;&emsp;(A) who is a participant in the Plan and is providing coverage under subsection (a) for aspouse or a spouse and child, but at less than the maximum level; and
+&emsp;&emsp;(A) who is a participant in the Plan and is providing coverage under subsection (a) for a spouse or a spouse and child, but at less than the maximum level; and
 
 &emsp;&emsp;(B) who remarries,
 
@@ -520,7 +520,7 @@ Subsec. (d)(6)(A). Pub. L. 109–364, §1071(a)(8), struck out second comma afte
 
 Subsec. (d)(1). Pub. L. 108–136, §645(a)(2), substituted "Except as provided in paragraph (2)(B), the Secretary concerned" for "The Secretary concerned" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 108–136, §645(a)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The Secretary concernedshall pay an annuity under this subchapter to the dependent child of a member described in paragraph (1) if there is no surviving spouse or if the member's surviving spouse subsequently dies."
+Subsec. (d)(2). Pub. L. 108–136, §645(a)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The Secretary concerned shall pay an annuity under this subchapter to the dependent child of a member described in paragraph (1) if there is no surviving spouse or if the member's surviving spouse subsequently dies."
 
 Subsec. (d)(6). Pub. L. 108–136, §645(c), added par. (6).
 
@@ -666,7 +666,7 @@ Payment.—No annuity benefit under subchapter II of chapter 73 of title 10, Uni
 
 "(2)
 
-Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependent children of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination."
+Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependentchildren of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination."
 
 #### Effective Date of 2015 Amendment
 
@@ -682,7 +682,7 @@ Pub. L. 108–136, div. A, title VI, §644(c), Nov. 24, 2003, 117 Stat. 1518, pr
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title VI, §642(d), Dec. 28, 2001, 115 Stat. 1152, provided that: "The amendments madeby this section \[amending this section and section 1451 of this title\] shall take effect as of September 10, 2001, and shall apply with respect to deaths of members of the Armed Forces occurring on or after that date."
+Pub. L. 107–107, div. A, title VI, §642(d), Dec. 28, 2001, 115 Stat. 1152, provided that: "The amendments made by this section \[amending this section and section 1451 of this title\] shall take effect as of September 10, 2001, and shall apply with respect to deaths of members of the Armed Forces occurring on or after that date."
 
 #### Effective Date of 2000 Amendment
 
@@ -758,7 +758,7 @@ Pub. L. 109–364, div. A, title VI, §643(c), Oct. 17, 2006, 120 Stat. 2261, pr
 
 "(1)
 
-Transition period.—In the case of a participant in the Survivor Benefit Plan who made a covered insurable-interest election (as defined in paragraph (2)) and whose designated beneficiary under that election dies before the date of the enactment of this Act \[Oct. 17,2006\] or during the 18-month period beginning on such date, the time period applicable for purposes of the limitation in the third sentence of subparagraph (G)(i) of section 1448(b)(1) of title 10, United States Code, as added by subsection (a), shall be the two-year period beginning on the date of the enactment of this Act (rather than the 180-day period specified in that sentence).
+Transition period.—In the case of a participant in the Survivor Benefit Plan who made a covered insurable-interest election (as defined in paragraph (2)) and whose designated beneficiary under that election dies before the date of the enactment of this Act \[Oct. 17, 2006\] or during the 18-month period beginning on such date, the time period applicable for purposes of the limitation in the third sentence of subparagraph (G)(i) of section 1448(b)(1) of title 10, United States Code, as added by subsection (a), shall be the two-year period beginning on the date of the enactment of this Act (rather than the 180-day period specified in that sentence).
 
 "(2)
 
@@ -938,7 +938,7 @@ Pub. L. 104–106, div. A, title VI, §635, Feb. 10, 1996, 110 Stat. 366, author
 
 #### Open Enrollment Period for Survivor Benefit Plan Commencing April 1, 1992
 
-Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(l)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
+Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(l)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425,provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
 
 #### Definitions for 1989 Amendments
 
@@ -1080,7 +1080,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 &emsp;"(3) The term 'Secretary concerned' has the meaning given such term in section 101(8) of title 10, United States Code, and includes the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service."
 
-Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after such date, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
+Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after suchdate, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
 
 #### Election To Participate in the Survivor Benefit Plan and Withdraw From the Retired Serviceman's Family Protection Plan
 
@@ -1092,7 +1092,7 @@ Pub. L. 92–425, §3, Sept. 21, 1972, 86 Stat. 711, as amended by Pub. L. 93–
 
 &emsp;"(2) to participate in that Plan, if he is a person covered by section 1448(b) of title 10, United States Code.
 
-"(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteenmonths after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
+"(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteen months after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
 
 &emsp;"(1) to participate in the Plan and continue his participation under chapter 73 of that title \[this chapter\] as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], except that the total of the annuities elected may not exceed 100 percent of his retired or retainer pay; or
 
@@ -1134,7 +1134,7 @@ Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–
 
 "(b) The annuity under subsection (a) of this section shall be in an amount which when added to the widow's income determined under subsection (a)(3) of this section, plus the amount of any annuity being received under sections 1431–1436 of title 10, United States Code, but exclusive of a pension described in subsection (a)(2) of this section, equals the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code. In addition, the Secretary concerned shall pay to the widow, described in the last sentence of subsection (a) of this section, an amount equal to the pension she would otherwise have been eligible to receive under subchapter III of chapter 15 of title 38, United States Code, if the service of her deceased spouse was considered active duty under section 101(21) of that title.
 
-"(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) of this section, shall not be considered to affect the eligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
+"(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) ofthis section, shall not be considered to affect the eligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
 
 "(d) Subsection 1450(i) and section 1453 as added to title 10, United States Code, by clause 3 of the first section of this Act, are applicable to persons covered by this section.
 

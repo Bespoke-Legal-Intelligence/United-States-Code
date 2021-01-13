@@ -26,7 +26,7 @@ Funds made available under this chapter for career and technical education activ
 
 &emsp;&emsp;&emsp;(i) continuing to use the State's fiscal effort per student, or aggregate expenditures of such State, with respect to career and technical education, as was in effect on the day before July 31, 2018; or
 
-&emsp;&emsp;&emsp;(ii) establishing a new level of fiscal effort per student, or aggregate expenditures of such State, with respect to career and technical education, which is not less than 95 percent of the State's fiscal effort per student, or the aggregate expenditures of such State, with respect to career and technical education for the preceding fiscal year.
+&emsp;&emsp;&emsp;(ii) establishing a new level of fiscal effort per student, or aggregate expenditures of such State, with respect to career and technical education, which is not less than 95 percent of the State's fiscal effort per student, or the aggregate expenditures ofsuch State, with respect to career and technical education for the preceding fiscal year.
 
 #### (2) Failure to meet
 

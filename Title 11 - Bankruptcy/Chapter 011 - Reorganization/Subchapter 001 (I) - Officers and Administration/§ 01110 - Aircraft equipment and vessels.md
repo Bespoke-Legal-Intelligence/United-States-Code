@@ -28,7 +28,7 @@
 
 &emsp;(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
 
-(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
+(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its ownbehalf or acting as trustee or otherwise in behalf of another party.
 
 (b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the approval of the court, to extend the 60-day period specified in subsection (a)(1).
 
@@ -60,6 +60,8 @@ The section overrides the automatic stay or any power of the court to enjoin tak
 
 The effect of this section will be the same if the debtor has granted the security interest to the financer or if the debtor is leasing equipment from a financer that has leveraged the lease and leased the equipment subject to a security interest of a third party.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(3)(A)(ii). Pub. L. 109–304 substituted "vessel documented under chapter 121 of title 46" for "documented vessel (as defined in section 30101(1) of title 46)".
@@ -70,7 +72,7 @@ The effect of this section will be the same if the debtor has granted the securi
 
 "(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, or vessels of the United States, as defined in section 30101 of title 46, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, a debtor that is an air carrier operating under a certificate of convenience and necessity issued by the Secretary of Transportation, or a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission, as the case may be, to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 
-&emsp;"(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to thecourt's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
+&emsp;"(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
 
 &emsp;"(2) any default, other than a default of a kind specified in section 365(b)(2) of this title, under such security agreement, lease, or conditional sale contract, as the case may be—
 
@@ -85,6 +87,8 @@ The effect of this section will be the same if the debtor has granted the securi
 "(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section."
 
 Subsec. (a). Pub. L. 103–272 substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)", "section 30101 of title 46" for "subsection B(4) of the Ship Mortgage Act, 1920 (46 U.S.C. 911(4))", and "Secretary of Transportation" for "Civil Aeronautics Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

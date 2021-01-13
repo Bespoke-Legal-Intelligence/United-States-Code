@@ -4,13 +4,17 @@ Any citizen of the United States, company, or corporation desiring to secure the
 
 (Apr. 12, 1910, ch. 155, §2, 36 Stat. 296; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeal; Savings Provision
 
 Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-"Officer, as the Secretary of the Interior may designate" substituted for "register" on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary ofthe Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
+"Officer, as the Secretary of the Interior may designate" substituted for "register" on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 

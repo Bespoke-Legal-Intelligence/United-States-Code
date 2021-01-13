@@ -26,9 +26,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 728; Pub. L. 109–435, title VI, §604(a), Dec. 20, 2006, 120 Stat. 3241.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -54,7 +58,7 @@ Pub. L. 91–375, §8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–
 
 Pub. L. 91–375, §13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
-"(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appointpostmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
+"(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appoint postmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
 
 &emsp;"(1) by selection of a qualified employee serving at the post office where the vacancy occurs, including an acting postmaster who was serving on January 1, 1969, who shall acquire a competitive status upon being appointed postmaster;
 
@@ -68,5 +72,5 @@ Pub. L. 91–375, §13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 "(2) This subsection does not apply to the selection and appointment of officers whose appointment is vested in the President, by and with the advice and consent of the Senate, or to the selection, appointment, or promotion to a position designated by the Civil Service Commission as a position of a confidential or policy-determining character or as a position to be filled by a noncareer executive assignment."
 
-Provisions of section 13 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+\[Provisions of section 13 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 

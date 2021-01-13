@@ -22,7 +22,7 @@
 
 (e) When an amount of money is expended under law for a treaty or relations with a foreign country, the President may—
 
-&emsp;(1) authorize the amount to be accounted for each year specifically by settlement of theComptroller General when the President decides the amount expended may be made public; or
+&emsp;(1) authorize the amount to be accounted for each year specifically by settlement of the Comptroller General when the President decides the amount expended may be made public; or
 
 &emsp;(2) make, or have the Secretary of State make, a certificate of the amount expended if the President decides the amount is not to be accounted for specifically. The certificate is a sufficient voucher for the amount stated in the certificate.
 
@@ -128,7 +128,7 @@ Subsection (c)(3) is substituted for 31:82i(last proviso) to eliminate unnecessa
 
 In subsection (c)(4), before clause (A), the words "<i>Provided</i>, That" and "<i>Provided further</i>, That" are omitted because of the restatement. In clause (A), the words "from any payee" and "to such payee" are omitted as surplus. In clause (B), the words "disbursing, accountable, or certifying", "found . . . made", and "as provided in this section" are omitted as surplus. In clause (C), the words "of his right at any time" and "existing" are omitted as surplus.
 
-In subsection (d), the text of 31:44(last sentence) is omitted as executed. The words "final and" are omitted as surplus. The words "an account of the Government" are substituted for "public" for consistency. The words "On the initiative of" and "after settlement" are added for clarity.
+In subsection (d), the text of 31:44(last sentence) is omitted as executed. The words "final and" are omittedas surplus. The words "an account of the Government" are substituted for "public" for consistency. The words "On the initiative of" and "after settlement" are added for clarity.
 
 In subsection (e), before clause (1), the words "is expended" are substituted for "has been or shall be issued, from the Treasury" for clarity. The words "the purposes of" are omitted as surplus. The word "country" is substituted for "nations" for consistency in the revised title and with other titles of the Code. The words "in pursuance of any law" are omitted as surplus. In clause (1), the word "duly" is omitted as surplus. In clause (2), the words "if the President decides the amount is not to be accounted for specifically" are substituted for "as he may think it advisable not to specify" for clarity. The words "to have been expended" are omitted as surplus.
 

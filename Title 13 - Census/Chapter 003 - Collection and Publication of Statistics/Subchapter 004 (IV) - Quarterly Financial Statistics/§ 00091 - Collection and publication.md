@@ -44,6 +44,8 @@
 
 <i>For termination of section by section 4(b) of Pub. L. 97–454, see Effective and Termination Date note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (b), is Jan. 12, 1983, see Effective and Termination Date note set out below.
@@ -60,13 +62,15 @@ Section 3(a) of the Small Business Act, referred to in subsec. (d)(4)(A), is cla
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–13 effective Oct. 1, 1995, see section 4(a) of Pub. L. 104–13, set out as an Effective Date note under section 3501 of Title 44, Public Printing and Documents.
 
 #### Effective and Termination Date; Report to Congress
 
-Pub. L. 97–454, §4, Jan. 12, 1983, 96 Stat. 2495, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030; Pub. L. 105–252, §1, Oct. 9, 1998, 112 Stat. 1886; Pub. L. 109–79, §1, Sept. 30, 2005, 119 Stat. 2044; Pub. L. 114–72, §2, Oct. 22, 2015, 129 Stat. 566, provided that:
+Pub. L. 97–454, §4, Jan. 12, 1983, 96 Stat. 2495, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat.1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030; Pub. L. 105–252, §1, Oct. 9, 1998, 112 Stat. 1886; Pub. L. 109–79, §1, Sept. 30, 2005, 119 Stat. 2044; Pub. L. 114–72, §2, Oct. 22, 2015, 129 Stat. 566, provided that:
 
 "(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
 

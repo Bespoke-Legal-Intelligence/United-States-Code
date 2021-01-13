@@ -66,11 +66,11 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;&emsp;&emsp;(i) made based upon meeting previously established performance criteria (which may include hours of work, efficiency, or productivity) of any business unit consisting of at least 10 employees or of a facility, except that, any determinations may be based on length of service or minimum schedule of hours or days of work; or
 
-&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the solediscretion of the employer and not pursuant to any prior contract.
+&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the sole discretion of the employer and not pursuant to any prior contract.
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweekapplicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -104,7 +104,7 @@ No public agency shall be deemed to have violated subsection (a) with respect to
 
 &emsp;(1) in a work period of 28 consecutive days the employee receives for tours of duty which in the aggregate exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975; or
 
-&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
+&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28 days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
 
 > compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
@@ -226,13 +226,15 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(B) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
 
-(2) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
+(2) An employer shall not be required to compensate an employee receiving reasonable breaktime under paragraph (1) for any work time spent for such purpose.
 
 (3) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer's business.
 
 (4) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
 
 (June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309; Pub. L. 111–148, title IV, §4207, Mar. 23, 2010, 124 Stat. 577.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -282,7 +284,7 @@ Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer notqualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, andgranting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
 Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -322,6 +324,8 @@ Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 
 <b>1941</b>—Subsec. (b)(2) amended by act Oct. 29, 1941.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date that is 90 days after the date of enactment of this Act \[May 18, 2000\]."
@@ -358,10 +362,6 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: "The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act \[amending this section\]."
 
-#### Transfer of Functions
-
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Applicability; Liability of Employers
 
 Pub. L. 110–244, title III, §306, June 6, 2008, 122 Stat. 1620, provided that:
@@ -384,7 +384,7 @@ Limitation on liability.—An employer shall not be liable for a violation of se
 
 &emsp;"(2)
 
-Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
+Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of thisAct \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
 
 "(c)
 
@@ -436,6 +436,16 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
 
+#### Definition of "Administrator"
+
+The term "Administrator" as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
 #### Ex. Ord. No. 9607. Forty-Eight Hour Wartime Workweek
 
 Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
@@ -443,10 +453,6 @@ Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definition of "Administrator"
-
-The term "Administrator" as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

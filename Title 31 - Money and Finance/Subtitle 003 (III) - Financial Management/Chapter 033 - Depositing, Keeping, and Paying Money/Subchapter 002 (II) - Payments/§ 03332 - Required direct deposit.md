@@ -134,13 +134,15 @@ In subsection (b), before clause (1), the words "Notwithstanding subsection (a) 
 
 In subsection (c), the words "(except for a financial organization designated by an officer or employee of either House of Congress)" are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words "to which such check is sent" are omitted because of the restatement.
 
-In subsection (d), the words "to whom a payment is to be made" are omitted as surplus. The words "uponthe written request of such employee" are omitted as unnecessary. The words "accompanied by a schedule" are added for clarity.
+In subsection (d), the words "to whom a payment is to be made" are omitted as surplus. The words "upon the written request of such employee" are omitted as unnecessary. The words "accompanied by a schedule" are added for clarity.
 
 In subsection (e), the word "payment" is substituted for "acquittance" for clarity and consistency.
 
 Subsection (f) is substituted for 31:492(d)(1st–50th words) to eliminate unnecessary words.
 
 In subsection (g), the words "rules and" in section 1(b) and (c) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -157,6 +159,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369, §2814(a), inserted "without charge" after "shall be sent".
 
 Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–78, §1(b), Dec. 5, 2019, 133 Stat. 1176, substituted "Government Publishing Office" for "Printing contracts" in item 442.

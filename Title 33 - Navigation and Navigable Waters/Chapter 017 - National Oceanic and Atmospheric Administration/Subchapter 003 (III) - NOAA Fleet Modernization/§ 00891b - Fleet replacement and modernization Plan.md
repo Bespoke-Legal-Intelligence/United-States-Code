@@ -30,6 +30,8 @@ The Secretary may not enter into any contract for the construction, lease, or se
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Fishery Survey Vessel Acquisition
 
 Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that:
@@ -68,7 +70,7 @@ Pub. L. 102–567, title IV, §401(b)(4), Oct. 29, 1992, 106 Stat. 4291, provide
 
 "(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational.
 
-"(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Science, Space, and Technology\] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and AtmosphericAdministration, if an equivalent replacement vessel will not become operational at the time of deactivation."
+"(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Science, Space, and Technology\] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

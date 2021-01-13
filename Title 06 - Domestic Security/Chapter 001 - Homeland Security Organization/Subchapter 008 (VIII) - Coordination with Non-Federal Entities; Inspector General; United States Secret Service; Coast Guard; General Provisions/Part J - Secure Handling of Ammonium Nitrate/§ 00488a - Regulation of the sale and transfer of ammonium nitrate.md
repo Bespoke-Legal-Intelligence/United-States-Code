@@ -104,7 +104,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (B) Initial six-month registration period
 
-&emsp;&emsp;The Secretary shall take steps to maximize the number of registration applicationsthat are submitted and processed during the six-month period described in section 488e(e) of this title.
+&emsp;&emsp;The Secretary shall take steps to maximize the number of registration applications that are submitted and processed during the six-month period described in section 488e(e) of this title.
 
 #### (2) Check of terrorist screening database
 
@@ -177,6 +177,8 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 &emsp;&emsp;The Secretary shall, as appropriate, provide prior notice to a person whose registration number is revoked under this section and such person shall have an opportunity to appeal, as provided in paragraph (4).
 
 (Pub. L. 107–296, title VIII, §899B, as added Pub. L. 110–161, div. E, title V, §563(a), Dec. 26, 2007, 121 Stat. 2084; amended Pub. L. 115–278, §2(g)(5)(B), Nov. 16, 2018, 132 Stat. 4179.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

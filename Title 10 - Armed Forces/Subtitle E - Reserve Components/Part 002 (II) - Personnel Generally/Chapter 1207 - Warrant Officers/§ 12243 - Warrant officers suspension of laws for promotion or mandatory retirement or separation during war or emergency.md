@@ -1,6 +1,6 @@
 ### §12243. Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency
 
-In time of war, or of emergency declared after May 29, 1954, by Congress or the President, thePresident may suspend the operation of any provision of law relating to promotion, or mandatory retirement or separation, of permanent reserve warrant officers of any armed force.
+In time of war, or of emergency declared after May 29, 1954, by Congress or the President, the President may suspend the operation of any provision of law relating to promotion, or mandatory retirement or separation, of permanent reserve warrant officers of any armed force.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 26, §599; renumbered §12243, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
 

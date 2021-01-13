@@ -22,7 +22,7 @@ Act
 
 June 30, 1945, ch. 212, §605, 59 Stat. 304.
 
-The words "an Executive agency" are substituted for "the executive branch of the Government" to conformto the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
+The words "an Executive agency" are substituted for "the executive branch of the Government" to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
 
 The remainder of the authority is covered by sections 5504 and 6101.
 
@@ -52,6 +52,8 @@ July 19, 1966, Pub. L. 89–512, §1 "Sec. 804(4) (6th through 9th words)", 80 S
 
 This section consolidates into 5 U.S.C. 5548(b) general regulatory authority granted to the Civil Service Commission by section 1101 of the Classification Act of 1949 (as applicable to sec. 804 of that act, added by Public Law 89–512) and the specific requirement in section 804(4) of that act that the Commission prescribe regulations.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "section 5545(d)" for "sections 5545(d) and 5550 of this title".
@@ -62,6 +64,8 @@ This section consolidates into 5 U.S.C. 5548(b) general regulatory authority gra
 
 Subsec. (b). Pub. L. 92–392, §12(b), inserted reference to section 5550 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
@@ -69,6 +73,8 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -44,6 +44,8 @@ Subsection (a) requires the Secretary of Transportation to evaluate the manning,
 
 Subsection (b) authorizes the Secretary to specify the number of tankermen required on a foreign tank vessel and to have certified tankermen who can understand English when transferring oil or hazardous material in the United States. This requirement is to be made part of the terminal operating procedures.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–380 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary shall—
@@ -51,6 +53,8 @@ Subsection (b) authorizes the Secretary to specify the number of tankermen requi
 &emsp;"(1) periodically evaluate the manning, training, qualification, and watchkeeping standards prescribed by the certificating country of a foreign vessel to which chapter 37 of this title applies, that operates on the navigable waters of the United States and transfers oil or hazardous material in a port or place under the jurisdiction of the United States; and
 
 &emsp;"(2) after each evaluation made under clause (1) of this subsection, decide whether the foreign country, whose system for licensing and certification of seamen was evaluated, has standards that are equivalent to or more stringent than United States standards or international standards accepted by the United States."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

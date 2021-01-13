@@ -88,7 +88,7 @@ In subsection (b) the words "under this section" are substituted for the words "
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 etseq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
@@ -168,10 +168,6 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Delegation of Functions
-
-Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section 1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
-
 #### Minimum Selling Price of United States Share of Petroleum
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: "That the requirements of 10 U.S.C. 7430(b)(2)(B) \[now 8730(b)(2)(B)\] shall not apply to fiscal year 2001 and any fiscal year thereafter".
@@ -199,4 +195,8 @@ Pub. L. 103–337, div. C, title XXXV, §3502, Oct. 5, 1994, 108 Stat. 3111.
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
+
+#### Delegation of Functions
+
+Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section 1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
 

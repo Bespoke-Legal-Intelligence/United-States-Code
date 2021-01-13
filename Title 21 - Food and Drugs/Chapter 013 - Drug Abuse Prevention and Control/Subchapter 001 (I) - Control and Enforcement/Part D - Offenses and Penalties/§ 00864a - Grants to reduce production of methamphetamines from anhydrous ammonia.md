@@ -24,7 +24,7 @@ In this section:
 
 #### (b) Grant authority
 
-The Secretary may make a grant to an eligible entity to enable the eligible entity to obtain and add to an anhydrous ammonia fertilizer nurse tank a physical lock or a substance to reduce the amount of methamphetamine that can be produced from any anhydrous ammonia removed from the nurse tank.
+The Secretary may make a grant to an eligible entity to enable the eligible entity to obtainand add to an anhydrous ammonia fertilizer nurse tank a physical lock or a substance to reduce the amount of methamphetamine that can be produced from any anhydrous ammonia removed from the nurse tank.
 
 #### (c) Grant amount
 
@@ -40,6 +40,8 @@ There is authorized to be appropriated to the Secretary to make grants under thi
 
 (Pub. L. 110–234, title XIV, §14203, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, §4(a), title XIV, §14203, June 18, 2008, 122 Stat. 1664, 2220.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this Act, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -49,6 +51,8 @@ The date of the enactment of this Act, referred to in subsec. (a)(2), is the dat
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

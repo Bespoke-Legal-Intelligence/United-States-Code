@@ -4,11 +4,15 @@ Notwithstanding any provision to the contrary in any contract which is entered i
 
 (Pub. L. 98–63, title I, §903(a), July 30, 1983, 97 Stat. 336.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 111b of this title prior to editorial reclassification and renumbering as this section.
 
 Section is from the Supplemental Appropriations Act, 1983.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

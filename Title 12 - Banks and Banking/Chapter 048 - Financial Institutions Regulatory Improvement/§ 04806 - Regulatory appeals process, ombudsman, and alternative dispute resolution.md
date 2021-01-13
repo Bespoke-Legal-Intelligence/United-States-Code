@@ -56,7 +56,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 &emsp;&emsp;(C) the extent to which parties to disputes were offered alternative means of dispute resolution and the frequency with which the parties, including the agencies, accepted or declined to use such means; and
 
-&emsp;&emsp;(D) any recommendations of the Conference to improve the alternative dispute resolution procedures of the Federal banking agencies and the National Credit Union Administration Board.
+&emsp;&emsp;(D) any recommendations of the Conference to improve the alternative disputeresolution procedures of the Federal banking agencies and the National Credit Union Administration Board.
 
 #### (4) Implementation of program
 
@@ -113,6 +113,8 @@ For purposes of this section, the following definitions shall apply:
 Nothing in this section shall affect the authority of an appropriate Federal banking agency or the National Credit Union Administration Board to take enforcement or supervisory action.
 
 (Pub. L. 103–325, title III, §309, Sept. 23, 1994, 108 Stat. 2218.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Administrative Conference of United States
 

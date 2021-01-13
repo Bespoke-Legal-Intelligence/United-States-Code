@@ -88,7 +88,7 @@ In this chapter:
 
 &emsp;The term "fetal alcohol syndrome" or "FAS" means a syndrome in which, with a history of maternal alcohol consumption during pregnancy, the following criteria are met:
 
-&emsp;&emsp;(A) Central nervous system involvement such as mental retardation, developmental delay, intellectual deficit, microencephaly, or neurologic abnormalities.
+&emsp;&emsp;(A) Central nervous system involvement such as mental retardation, developmentaldelay, intellectual deficit, microencephaly, or neurologic abnormalities.
 
 &emsp;&emsp;(B) Craniofacial abnormalities with at least 2 of the following: microophthalmia, short palpebral fissures, poorly developed philtrum, thin upper lip, flat nasal bridge, and short upturned nose.
 
@@ -246,7 +246,7 @@ In this chapter:
 
 #### (23) Telemedicine
 
-&emsp;The term "telemedicine" means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patientsand health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
+&emsp;The term "telemedicine" means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patients and health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
 
 #### (24) Tribal college or university
 
@@ -274,6 +274,8 @@ In this chapter:
 
 (Pub. L. 94–437, §4, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 96–537, §2, Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title II, §§201(b), 203(b), title V, §502, Nov. 23, 1988, 102 Stat. 4803, 4804, 4824; Pub. L. 102–573, §3(c), title IX, §902(1), Oct. 29, 1992, 106 Stat. 4529, 4591; Pub. L. 104–313, §2(a), Oct. 19, 1996, 110 Stat. 3820; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -292,7 +294,7 @@ Subsection (c)(1) through (4) of this section, referred to in par. (28), was red
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 

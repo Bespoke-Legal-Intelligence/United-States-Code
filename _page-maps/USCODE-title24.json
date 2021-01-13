@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-2019-title24",
+ "package": "USCODE-2020-title24",
  "pieces": [
   {
    "id": "24_",
@@ -59,10 +59,14 @@
    "id": "24_6a",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 2]",
-     true
+     "I",
+     2,
+     [
+      [
+       238,
+       "[Page 2]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00006a - Disposition of amounts deducted from pensions.md",
@@ -129,10 +133,14 @@
    "id": "24_16a",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 3]",
-     true
+     "I",
+     2,
+     [
+      [
+       237,
+       "[Page 3]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00016a - Additional personnel for patients of Department of Veterans Affairs in naval hospitals.md",
@@ -188,26 +196,26 @@
   },
   {
    "id": "24_21a_to_25",
-   "marks": [],
-   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00021a to 25 - Repealed. Pub. L. 101–510, div. A, title XV, §1532(a), Nov. 5, 1990, 104 Stat. 1732.md",
-   "printed_pages": [
-    3,
-    3
-   ]
-  },
-  {
-   "id": "24_26_to_28",
    "marks": [
     [
      "L",
-     8,
+     10,
      "[Page 4]",
      true
     ]
    ],
-   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00026 to 28 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
+   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00021a to 25 - Repealed. Pub. L. 101–510, div. A, title XV, §1532(a), Nov. 5, 1990, 104 Stat. 1732.md",
    "printed_pages": [
     3,
+    4
+   ]
+  },
+  {
+   "id": "24_26_to_28",
+   "marks": [],
+   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00026 to 28 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
+   "printed_pages": [
+    4,
     4
    ]
   },
@@ -249,30 +257,30 @@
   },
   {
    "id": "24_34",
-   "marks": [],
-   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00034 - Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of….md",
-   "printed_pages": [
-    4,
-    4
-   ]
-  },
-  {
-   "id": "24_35",
    "marks": [
     [
      "I",
      2,
      [
       [
-       330,
+       944,
        "[Page 5]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00035 - Limitation of medical, surgical or hospital services.md",
+   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00034 - Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of….md",
    "printed_pages": [
     4,
+    5
+   ]
+  },
+  {
+   "id": "24_35",
+   "marks": [],
+   "path": "Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others/§ 00035 - Limitation of medical, surgical or hospital services.md",
+   "printed_pages": [
+    5,
     5
    ]
   },
@@ -305,11 +313,22 @@
   },
   {
    "id": "24_41_to_43",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       108,
+       "[Page 6]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00041 to 43 - Repealed. Pub. L. 101–510, div. A, title XV, §1532(b)(1)–(3), Nov. 5, 1990, 104 Stat. 1733.md",
    "printed_pages": [
     5,
-    5
+    6
    ]
   },
   {
@@ -317,8 +336,8 @@
    "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00044 - Repealed. Pub. L. 101–189, div. A, title III, §347(1), Nov. 29, 1989, 103 Stat. 1422.md",
    "printed_pages": [
-    5,
-    5
+    6,
+    6
    ]
   },
   {
@@ -326,8 +345,8 @@
    "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00044a - Repealed. Pub. L. 94–454, §2(b), Oct. 2, 1976, 90 Stat. 1518.md",
    "printed_pages": [
-    5,
-    5
+    6,
+    6
    ]
   },
   {
@@ -335,8 +354,8 @@
    "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00044b - Repealed. Pub. L. 101–510, div. A, title XV, §1532(b)(4), Nov. 5, 1990, 104 Stat. 1733.md",
    "printed_pages": [
-    5,
-    5
+    6,
+    6
    ]
   },
   {
@@ -344,23 +363,16 @@
    "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00044c - Repealed. Pub. L. 101–189, div. A, title III, §347(4), Nov. 29, 1989, 103 Stat. 1422.md",
    "printed_pages": [
-    5,
-    5
+    6,
+    6
    ]
   },
   {
    "id": "24_45_to_46b",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 6]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00045 to 46b - Repealed. Pub. L. 101–510, div. A, title XV, §1532(b)(1), (2), (5), (6), Nov. 5, 1990, 104 Stat. 1733.md",
    "printed_pages": [
-    5,
+    6,
     6
    ]
   },
@@ -420,11 +432,18 @@
   },
   {
    "id": "24_59",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 7]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00059 - Repealed. Pub. L. 101–510, div. A, title XV, §1532(b)(2), Nov. 5, 1990, 104 Stat. 1733.md",
    "printed_pages": [
     6,
-    6
+    7
    ]
   },
   {
@@ -432,8 +451,8 @@
    "marks": [],
    "path": "Chapter 002 - Soldiers' and Airmen's Home/§ 00060 - Repealed. Pub. L. 101–189, div. A, title III, §347(2), Nov. 29, 1989, 103 Stat. 1422.md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
@@ -441,8 +460,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/README.md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
@@ -450,23 +469,16 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 001 (I) - Establishment and Management/README.md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
    "id": "24_71_to_77a",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 7]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 001 (I) - Establishment and Management/§ 00071 to 77a - Repealed. Pub. L. 85–857, §14(1), (6), (9), (16), (35), (59), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272.md",
    "printed_pages": [
-    6,
+    7,
     7
    ]
   },
@@ -526,11 +538,18 @@
   },
   {
    "id": "24_91",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 8]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 002 (II) - Officers and Employees/§ 00091 - Repealed. Pub. L. 85–857, §14(1), Sept. 2, 1958, 72 Stat. 1268.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
@@ -538,8 +557,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 002 (II) - Officers and Employees/§ 00092 - Repealed. Pub. L. 85–56, title XXII, §2202(66), June 17, 1957, 71 Stat. 162.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -547,8 +566,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 002 (II) - Officers and Employees/§ 00093 to 96 - Repealed. Pub. L. 85–857, §14(16), (23), (25), Sept. 2, 1958, 72 Stat. 1269, 1270.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -556,8 +575,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 002 (II) - Officers and Employees/§ 00097 - Omitted.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -565,23 +584,16 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 003 (III) - Funds and Accounts/README.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
    "id": "24_111_to_123",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 8]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 003 (III) - Funds and Accounts/§ 00111 to 123 - Repealed. Pub. L. 85–857, §14(1), (2), (7), (9), (14)–(16), (22), (25), (27), (34), (46), Sept. 2, 1958, 72 Stat. 1268–1271.md",
    "printed_pages": [
-    7,
+    8,
     8
    ]
   },
@@ -596,11 +608,18 @@
   },
   {
    "id": "24_131",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 9]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00131 - Repealed. Pub. L. 85–857, §14(49), Sept. 2, 1958, 72 Stat. 1271.md",
    "printed_pages": [
     8,
-    8
+    9
    ]
   },
   {
@@ -608,8 +627,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00131a, 131b - Omitted.md",
    "printed_pages": [
-    8,
-    8
+    9,
+    9
    ]
   },
   {
@@ -617,8 +636,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00132 - Repealed. Pub. L. 85–56, title XXII, §2202(100), June 17, 1957, 71 Stat. 166.md",
    "printed_pages": [
-    8,
-    8
+    9,
+    9
    ]
   },
   {
@@ -626,8 +645,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00133 to 135 - Repealed. Pub. L. 85–857, §14(1), (10), (12), (50), (52), (64), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272.md",
    "printed_pages": [
-    8,
-    8
+    9,
+    9
    ]
   },
   {
@@ -635,8 +654,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00136 - Repealed. Pub. L. 85–56, title XXII, §2202(1), (85), June 17, 1957, 71 Stat. 162, 165.md",
    "printed_pages": [
-    8,
-    8
+    9,
+    9
    ]
   },
   {
@@ -644,27 +663,16 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00137 - Repealed. July 3, 1930, ch. 863, §7, 46 Stat. 1018.md",
    "printed_pages": [
-    8,
-    8
+    9,
+    9
    ]
   },
   {
    "id": "24_138,_139",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       113,
-       "[Page 9]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 004 (IV) - Beneficiaries and Pensions/§ 00138, 139 - Repealed. Pub. L. 85–857, §14(4), (5), (26), Sept. 2, 1958, 72 Stat. 1269, 1270.md",
    "printed_pages": [
-    8,
+    9,
     9
    ]
   },
@@ -688,11 +696,22 @@
   },
   {
    "id": "24_152",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       223,
+       "[Page 10]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 005 (V) - Battle Mountain Sanitarium Reserve/§ 00152 - Name; control, rules and regulations.md",
    "printed_pages": [
     9,
-    9
+    10
    ]
   },
   {
@@ -700,8 +719,8 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 005 (V) - Battle Mountain Sanitarium Reserve/§ 00153 - Perfecting bona fide claims to lands; exchange of private lands.md",
    "printed_pages": [
-    9,
-    9
+    10,
+    10
    ]
   },
   {
@@ -709,27 +728,16 @@
    "marks": [],
    "path": "Chapter 003 - National Home for Disabled Volunteer Soldiers/Subchapter 005 (V) - Battle Mountain Sanitarium Reserve/§ 00154 - Unlawful intrusion, or violation of rules and regulations.md",
    "printed_pages": [
-    9,
-    9
+    10,
+    10
    ]
   },
   {
    "id": "24_-ch4",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       58,
-       "[Page 10]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/README.md",
    "printed_pages": [
-    9,
+    10,
     10
    ]
   },
@@ -762,11 +770,22 @@
   },
   {
    "id": "24_164,_165",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       419,
+       "[Page 11]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00164, 165 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
     10,
-    10
+    11
    ]
   },
   {
@@ -774,8 +793,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00165a - Omitted.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
@@ -783,8 +802,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00166 - Repealed. Pub. L. 98–621, §10(b), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
@@ -792,8 +811,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00167 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 644.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
@@ -801,8 +820,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00168 - Repealed. Pub. L. 98–621, §10(c), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
@@ -810,33 +829,33 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00168a - Repealed. Pub. L. 98–621, §10(d)(1), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
    "id": "24_168b",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 11]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00168b - Computation of maximum amount available from Federal sources.md",
    "printed_pages": [
-    10,
+    11,
     11
    ]
   },
   {
    "id": "24_169,_169a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 12]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00169, 169a - Repealed. Pub. L. 98–621, §10(d)(1), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
@@ -844,8 +863,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00170 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    11,
-    11
+    12,
+    12
    ]
   },
   {
@@ -853,8 +872,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00170a - Maximum amount available from Federal sources.md",
    "printed_pages": [
-    11,
-    11
+    12,
+    12
    ]
   },
   {
@@ -862,23 +881,16 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00171 - Repealed. Pub. L. 98–621, §10(e), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    11,
-    11
+    12,
+    12
    ]
   },
   {
    "id": "24_172",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 12]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00172 - Repealed. Pub. L. 98–621, §10(f)(1), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
@@ -893,11 +905,18 @@
   },
   {
    "id": "24_175",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 13]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00175 - Repealed. Pub. L. 98–621, §10(g), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
@@ -905,8 +924,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00176 - Repealed. Pub. L. 98–621, §10(c), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -914,8 +933,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00177 - Repealed. Pub. L. 98–621, §10(h), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -923,8 +942,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00178 - Repealed. Oct. 31, 1951, ch. 654, §1(46), 65 Stat. 703.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -932,8 +951,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00179 - Repealed. Aug. 7, 1946, ch. 770, §1(59), 60 Stat. 871.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -941,8 +960,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00180 - Repealed. Pub. L. 98–621, §10(i), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -950,8 +969,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00181 to 184 - Repealed. Pub. L. 98–621, §10(j), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -959,8 +978,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 001 (I) - Establishment and Management; Pensions, Moneys, and Appropriations/§ 00185 - Repealed. Pub. L. 98–621, §10(d)(1), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -968,8 +987,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/README.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -977,28 +996,24 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00191 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
    "id": "24_191a",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       114,
-       "[Page 13]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00191a - Repealed. Pub. L. 86–571, §10(a), July 5, 1960, 74 Stat. 310.md",
    "printed_pages": [
-    12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -1006,8 +1021,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00192 - Repealed. Pub. L. 98–621, §10(k), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1015,8 +1030,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00193 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1024,8 +1039,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00194 - Repealed. Pub. L. 98–621, §10(l), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1033,8 +1048,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00195 - Repealed. Pub. L. 98–621, §10(f)(2), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1042,8 +1057,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00195a - Repealed. Pub. L. 98–621, §10(d)(1), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1051,8 +1066,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00196 - Repealed. Pub. L. 98–621, §10(m), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1060,8 +1075,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00196a - Repealed. Pub. L. 86–571, §10(b), July 5, 1960, 74 Stat. 310.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1069,8 +1084,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00196b - Repealed. Pub. L. 98–621, §10(n), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -1078,33 +1093,33 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00197 - Repealed. Pub. L. 98–621, §10(o), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
    "id": "24_198",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 15]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00198 - Repealed. Pub. L. 98–621, §10(p), Nov. 8, 1984, 98 Stat. 3381.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    15
    ]
   },
   {
    "id": "24_199,_200",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 14]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00199, 200 - Repealed. Pub. L. 98–621, §10(k)(2), Nov. 8, 1984, 98 Stat. 3380.md",
    "printed_pages": [
-    13,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1112,8 +1127,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00201 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1121,8 +1136,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00202 - Repealed. Pub. L. 98–621, §10(u), Nov. 8, 1984, 98 Stat. 3381.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1130,8 +1145,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00203 - Repealed. Pub. L. 98–621, §10(v), Nov. 8, 1984, 98 Stat. 3381.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1139,8 +1154,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00204 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1148,8 +1163,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00205 - Repealed. Pub. L. 88–597, §19(d), Sept. 15, 1964, 78 Stat. 953.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1157,8 +1172,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00206 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1166,8 +1181,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00207 - Omitted.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
@@ -1175,37 +1190,37 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00208 to 210h - Repealed. Pub. L. 89–183, §8, Sept. 14, 1965, 79 Stat. 784, 785, 787.md",
    "printed_pages": [
-    14,
-    14
+    15,
+    15
    ]
   },
   {
    "id": "24_211_to_211b",
-   "marks": [],
-   "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00211 to 211b - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
-   "printed_pages": [
-    14,
-    14
-   ]
-  },
-  {
-   "id": "24_212_to_214",
    "marks": [
     [
      "I",
      2,
      [
       [
-       242,
-       "[Page 15]"
+       116,
+       "[Page 16]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00211 to 211b - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
+   "printed_pages": [
+    15,
+    16
+   ]
+  },
+  {
+   "id": "24_212_to_214",
+   "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00212 to 214 - Repealed. Pub. L. 98–621, §10(q), Nov. 8, 1984, 98 Stat. 3381.md",
    "printed_pages": [
-    14,
-    15
+    16,
+    16
    ]
   },
   {
@@ -1213,8 +1228,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00215 to 220 - Repealed. Pub. L. 88–597, §19(c), Sept. 15, 1964, 78 Stat. 953.md",
    "printed_pages": [
-    15,
-    15
+    16,
+    16
    ]
   },
   {
@@ -1222,8 +1237,8 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 002 (II) - Inmates; Burden of Expenses Thereof; Detention of Insane/§ 00221, 222 - Repealed. Pub. L. 98–621, §10(a), Nov. 8, 1984, 98 Stat. 3379.md",
    "printed_pages": [
-    15,
-    15
+    16,
+    16
    ]
   },
   {
@@ -1231,73 +1246,62 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/README.md",
    "printed_pages": [
-    15,
-    15
+    16,
+    16
    ]
   },
   {
    "id": "24_225",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       136,
-       "[Page 16]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225 - Findings and purposes.md",
    "printed_pages": [
-    15,
-    16
+    16,
+    17
    ]
   },
   {
    "id": "24_225a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 18]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225a - Definitions.md",
    "printed_pages": [
-    16,
-    16
+    17,
+    18
    ]
   },
   {
    "id": "24_225b",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       92,
-       "[Page 17]"
-      ]
-     ]
-    ],
-    [
      "L",
-     50,
-     "[Page 18]",
+     42,
+     "[Page 19]",
      true
     ],
     [
-     "I",
-     110,
-     [
-      [
-       108,
-       "[Page 19]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 20]",
+     true
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225b - Development of plan for mental health system for the District.md",
    "printed_pages": [
-    16,
-    19
+    18,
+    20
    ]
   },
   {
@@ -1305,24 +1309,28 @@
    "marks": [],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225c - Congressional review of system implementation plan.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
    "id": "24_225d",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 20]",
-     true
+     "I",
+     16,
+     [
+      [
+       96,
+       "[Page 21]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225d - Transition provisions for employees of Hospital.md",
    "printed_pages": [
-    19,
-    20
+    20,
+    21
    ]
   },
   {
@@ -1330,28 +1338,35 @@
    "marks": [
     [
      "I",
-     36,
+     18,
      [
       [
-       184,
-       "[Page 21]"
+       140,
+       "[Page 22]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225e - Conditions of employment for former employees of Hospital.md",
    "printed_pages": [
-    20,
-    21
+    21,
+    22
    ]
   },
   {
    "id": "24_225f",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 23]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225f - Property transfer.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    23
    ]
   },
   {
@@ -1359,39 +1374,35 @@
    "marks": [
     [
      "I",
-     8,
+     46,
      [
       [
-       93,
-       "[Page 22]"
+       284,
+       "[Page 24]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225g - Financing provisions.md",
    "printed_pages": [
-    21,
-    22
+    23,
+    24
    ]
   },
   {
    "id": "24_225h",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       145,
-       "[Page 23]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 25]",
+     true
     ]
    ],
    "path": "Chapter 004 - Saint Elizabeths Hospital/Subchapter 003 (III) - Mental Health Service for District of Columbia/§ 00225h - Buy American provisions.md",
    "printed_pages": [
-    22,
-    23
+    24,
+    25
    ]
   },
   {
@@ -1399,8 +1410,8 @@
    "marks": [],
    "path": "Chapter 005 - Columbia Institution for the Deaf/README.md",
    "printed_pages": [
-    23,
-    23
+    25,
+    25
    ]
   },
   {
@@ -1408,8 +1419,8 @@
    "marks": [],
    "path": "Chapter 005 - Columbia Institution for the Deaf/§ 00231 to 250 - Omitted.md",
    "printed_pages": [
-    23,
-    23
+    25,
+    25
    ]
   },
   {
@@ -1417,8 +1428,8 @@
    "marks": [],
    "path": "Chapter 006 - Freedmen's Hospital/README.md",
    "printed_pages": [
-    23,
-    23
+    25,
+    25
    ]
   },
   {
@@ -1426,8 +1437,8 @@
    "marks": [],
    "path": "Chapter 006 - Freedmen's Hospital/§ 00261 to 264 - Omitted.md",
    "printed_pages": [
-    23,
-    23
+    25,
+    25
    ]
   },
   {
@@ -1435,39 +1446,28 @@
    "marks": [
     [
      "I",
-     12,
+     134,
      [
       [
-       227,
-       "[Page 24]"
+       101,
+       "[Page 26]"
       ]
      ]
     ]
    ],
    "path": "Chapter 007 - National Cemeteries/README.md",
    "printed_pages": [
-    23,
-    24
+    25,
+    26
    ]
   },
   {
    "id": "24_271_to_276",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       107,
-       "[Page 25]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00271 to 276 - Repealed. Pub. L. 93–43, §7(a)(1)–(3), (61), June 18, 1973, 87 Stat. 82, 88.md",
    "printed_pages": [
-    24,
-    25
+    26,
+    26
    ]
   },
   {
@@ -1475,8 +1475,8 @@
    "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00277 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 646.md",
    "printed_pages": [
-    25,
-    25
+    26,
+    26
    ]
   },
   {
@@ -1484,17 +1484,24 @@
    "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00278 to 279d - Repealed. Pub. L. 93–43, §7(a)(1), (4), (5), (7), June 18, 1973, 87 Stat. 82.md",
    "printed_pages": [
-    25,
-    25
+    26,
+    26
    ]
   },
   {
    "id": "24_280_to_280b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 27]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - National Cemeteries/§ 00280 to 280b - Repealed. July 1, 1948, ch. 791, §4, 62 Stat. 1216.md",
    "printed_pages": [
-    25,
-    25
+    26,
+    27
    ]
   },
   {
@@ -1502,33 +1509,33 @@
    "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00281 to 282 - Repealed. Pub. L. 93–43, §7(a)(6), (8), (10)–(12), (60), June 18, 1973, 87 Stat. 82, 88.md",
    "printed_pages": [
-    25,
-    25
+    27,
+    27
    ]
   },
   {
    "id": "24_283_to_285",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 26]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00283 to 285 - Omitted.md",
    "printed_pages": [
-    25,
-    26
+    27,
+    27
    ]
   },
   {
    "id": "24_286_to_290",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 28]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - National Cemeteries/§ 00286 to 290 - Repealed. Pub. L. 93–43, §7(a)(1), (13)–(18), (42), (44)–(46), June 18, 1973, 87 Stat. 82, 83, 85.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    28
    ]
   },
   {
@@ -1536,28 +1543,17 @@
    "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00291 to 295 - Repealed. Pub. L. 86–694, §2, Sept. 2, 1960, 74 Stat. 739.md",
    "printed_pages": [
-    26,
-    26
+    28,
+    28
    ]
   },
   {
    "id": "24_295a",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       477,
-       "[Page 27]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00295a - Arlington Memorial Amphitheater.md",
    "printed_pages": [
-    26,
-    27
+    28,
+    28
    ]
   },
   {
@@ -1565,8 +1561,8 @@
    "marks": [],
    "path": "Chapter 007 - National Cemeteries/§ 00296 - Repealed. Pub. L. 93–43, §7(a)(9), June 18, 1973, 87 Stat. 82.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    28
    ]
   },
   {
@@ -1574,8 +1570,8 @@
    "marks": [],
    "path": "Chapter 007A - Private and Commercial Cemeteries/README.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    28
    ]
   },
   {
@@ -1583,8 +1579,8 @@
    "marks": [],
    "path": "Chapter 007A - Private and Commercial Cemeteries/§ 00298 - Repealed. Oct. 31, 1951, ch. 654, §1(47), 65 Stat. 703.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    28
    ]
   },
   {
@@ -1592,8 +1588,8 @@
    "marks": [],
    "path": "Chapter 008 - Gorgas Hospital/README.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    28
    ]
   },
   {
@@ -1601,17 +1597,28 @@
    "marks": [],
    "path": "Chapter 008 - Gorgas Hospital/§ 00301 - Ancon Hospital to be known as Gorgas Hospital.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    28
    ]
   },
   {
    "id": "24_302",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 29]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Gorgas Hospital/§ 00302 - Change of name as affecting various rights; records, maps, and public documents.md",
    "printed_pages": [
-    27,
-    27
+    28,
+    29
    ]
   },
   {
@@ -1619,28 +1626,17 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/README.md",
    "printed_pages": [
-    27,
-    27
+    29,
+    29
    ]
   },
   {
    "id": "24_321",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       111,
-       "[Page 28]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00321 - Definitions.md",
    "printed_pages": [
-    27,
-    28
+    29,
+    29
    ]
   },
   {
@@ -1648,17 +1644,28 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00322 - Reception of eligible persons at ports of entry or debarkation.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
    "id": "24_323",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       99,
+       "[Page 30]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00323 - Transfer and release to State of residence or legal domicile, or to relative.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    30
    ]
   },
   {
@@ -1666,28 +1673,17 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00324 - Care and treatment of eligible persons until transfer and release.md",
    "printed_pages": [
-    28,
-    28
+    30,
+    30
    ]
   },
   {
    "id": "24_325",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       236,
-       "[Page 29]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00325 - Examination of persons admitted.md",
    "printed_pages": [
-    28,
-    29
+    30,
+    30
    ]
   },
   {
@@ -1695,17 +1691,28 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00326 - Release of patient.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
    "id": "24_327",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 31]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00327 - Notification to committing court of discharge or conditional release.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    31
    ]
   },
   {
@@ -1713,8 +1720,8 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00328 - Payment for care and treatment.md",
    "printed_pages": [
-    29,
-    29
+    31,
+    31
    ]
   },
   {
@@ -1722,48 +1729,33 @@
    "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/§ 00329 - Availability of appropriations for transportation.md",
    "printed_pages": [
-    29,
-    29
+    31,
+    31
    ]
   },
   {
    "id": "24_-ch10",
-   "marks": [
-    [
-     "I",
-     13,
-     [
-      [
-       39,
-       "[Page 30]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/README.md",
    "printed_pages": [
-    29,
-    30
+    31,
+    31
    ]
   },
   {
    "id": "24_401",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       670,
-       "[Page 31]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 32]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/§ 00401 - Definitions.md",
    "printed_pages": [
-    30,
-    31
+    31,
+    32
    ]
   },
   {
@@ -1771,8 +1763,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/README.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -1780,41 +1772,51 @@
    "marks": [
     [
      "L",
-     48,
-     "[Page 32]",
+     14,
+     "[Page 33]",
      true
     ],
     [
-     "L",
-     112,
-     "[Page 33]",
-     true
+     "I",
+     76,
+     [
+      [
+       95,
+       "[Page 34]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     138,
+     [
+      [
+       263,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00411 - Establishment of the Armed Forces Retirement Home.md",
    "printed_pages": [
-    31,
-    33
+    32,
+    35
    ]
   },
   {
    "id": "24_412",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       97,
-       "[Page 34]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 36]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00412 - Residents of Retirement Home.md",
    "printed_pages": [
-    33,
-    34
+    35,
+    36
    ]
   },
   {
@@ -1822,39 +1824,35 @@
    "marks": [
     [
      "I",
-     28,
+     48,
      [
       [
-       360,
-       "[Page 35]"
+       167,
+       "[Page 37]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413 - Services provided to residents.md",
    "printed_pages": [
-    34,
-    35
+    36,
+    37
    ]
   },
   {
    "id": "24_413a",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       221,
-       "[Page 36]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 38]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413a - Oversight of health care provided to residents.md",
    "printed_pages": [
-    35,
-    36
+    37,
+    38
    ]
   },
   {
@@ -1862,39 +1860,35 @@
    "marks": [
     [
      "I",
-     64,
+     68,
      [
       [
-       264,
-       "[Page 37]"
+       95,
+       "[Page 39]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00414 - Fees paid by residents.md",
    "printed_pages": [
-    36,
-    37
+    38,
+    39
    ]
   },
   {
    "id": "24_415",
    "marks": [
     [
-     "I",
-     74,
-     [
-      [
-       117,
-       "[Page 38]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 40]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Chief Operating Officer.md",
    "printed_pages": [
-    37,
-    38
+    39,
+    40
    ]
   },
   {
@@ -1902,19 +1896,19 @@
    "marks": [
     [
      "I",
-     70,
+     60,
      [
       [
-       96,
-       "[Page 39]"
+       89,
+       "[Page 41]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416 - Advisory Council.md",
    "printed_pages": [
-    38,
-    39
+    40,
+    41
    ]
   },
   {
@@ -1922,8 +1916,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416a - Resident Advisory Committees.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    41
    ]
   },
   {
@@ -1931,15 +1925,21 @@
    "marks": [
     [
      "L",
-     44,
-     "[Page 40]",
+     32,
+     "[Page 42]",
+     true
+    ],
+    [
+     "L",
+     118,
+     "[Page 43]",
      true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00417 - Administrators, Ombudsmen, and staff of facilities.md",
    "printed_pages": [
-    39,
-    40
+    41,
+    43
    ]
   },
   {
@@ -1947,25 +1947,15 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 41]",
+     72,
+     "[Page 44]",
      true
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       110,
-       "[Page 42]"
-      ]
-     ]
     ]
    ],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.md",
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Periodic inspection of retirement home facilities.md",
    "printed_pages": [
-    40,
-    42
+    43,
+    44
    ]
   },
   {
@@ -1973,50 +1963,50 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00419 - Armed Forces Retirement Home Trust Fund.md",
    "printed_pages": [
-    42,
-    42
+    44,
+    44
    ]
   },
   {
    "id": "24_420",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       186,
-       "[Page 43]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 45]",
+     true
     ],
     [
      "L",
-     60,
-     "[Page 44]",
+     74,
+     "[Page 46]",
      true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
    "printed_pages": [
-    42,
-    44
+    44,
+    46
    ]
   },
   {
    "id": "24_421",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 45]",
-     true
+     "I",
+     34,
+     [
+      [
+       117,
+       "[Page 47]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
    "printed_pages": [
-    44,
-    45
+    46,
+    47
    ]
   },
   {
@@ -2024,8 +2014,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
    "printed_pages": [
-    45,
-    45
+    47,
+    47
    ]
   },
   {
@@ -2036,16 +2026,16 @@
      8,
      [
       [
-       84,
-       "[Page 46]"
+       128,
+       "[Page 48]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00423 - Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington.md",
    "printed_pages": [
-    45,
-    46
+    47,
+    48
    ]
   },
   {
@@ -2053,8 +2043,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00424 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(a)(5), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -2062,8 +2052,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/README.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -2071,8 +2061,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00431 to 433 - Repealed. Pub. L. 112–81, div. A, title V, §567(a), Dec. 31, 2011, 125 Stat. 1425.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -2080,8 +2070,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -2089,11 +2079,11 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2019-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2020-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

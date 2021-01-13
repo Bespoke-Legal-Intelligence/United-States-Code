@@ -12,9 +12,11 @@
 
 (2) The Manual shall be developed after careful evaluation of the plans implemented under section 472 of this title, the demonstration program conducted under section 104 of the Civil Justice Reform Act of 1990, and the pilot program conducted under section 105 of the Civil Justice Reform Act of 1990.
 
-(3) The Manual shall contain a description and analysis of the litigation management, cost and delay reduction principles and techniques, and alternative dispute resolution programs considered most effective by the Judicial Conference, the Director of the Federal Judicial Center, and the Director of the Administrative Office of the United States Courts.
+(3) The Manual shall contain a description and analysis of the litigation management, cost anddelay reduction principles and techniques, and alternative dispute resolution programs considered most effective by the Judicial Conference, the Director of the Federal Judicial Center, and the Director of the Administrative Office of the United States Courts.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

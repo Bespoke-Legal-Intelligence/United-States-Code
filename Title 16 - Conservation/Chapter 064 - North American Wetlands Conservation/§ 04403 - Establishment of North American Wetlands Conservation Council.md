@@ -6,7 +6,7 @@
 
 &emsp;(A) one shall be the Director of the United States Fish and Wildlife Service, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-&emsp;(B) one shall be the Secretary of the Board of the National Fish and Wildlife Foundation appointed pursuant to section 3702(g)(2)(B) of this title;
+&emsp;(B) one shall be the Executive Director of the Board of the National Fish and Wildlife Foundation appointed pursuant to section 3702(g)(2)(B) of this title;
 
 &emsp;(C) four shall be individuals who shall be appointed by the Secretary, who shall reside in different flyways and who shall each be a Director of the State fish and wildlife agency; and
 
@@ -62,7 +62,7 @@ The Director of the United States Fish and Wildlife Service shall appoint an ind
 
 &emsp;(3) who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
 
-(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
+(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448; Pub. L. 116–188, title I, §107(a)(2), Oct. 30, 2020, 134 Stat. 917.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A),
 Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–188 substituted "Executive Director of the Board" for "Secretary of the Board".
 
 <b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–308, §8(b)(1), amended directory language of Pub. L. 101–593, §112(1). See 1990 Amendment note below.
 
@@ -86,7 +88,7 @@ Subsec. (f). Pub. L. 101–593, §112(3), inserted ", and the Chairman shall ta
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–308, §8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: "Paragraph (1) of this subsection \[amending this section\] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) \[Nov. 16, 1990\]."
+Pub. L. 107–308, §8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: "Paragraph (1) of this subsection\[amending this section\] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) \[Nov. 16, 1990\]."
 
 #### Membership of North American Wetlands Conservation Council
 

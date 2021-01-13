@@ -2,11 +2,11 @@
 
 (a)
 
-Discrimination Against Airline Employees.—No air carrier or contractor or subcontractor of an air carrier may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
+Prohibited Discrimination.—A holder of a certificate under section 44704 or 44705 of this title, or a contractor, subcontractor, or supplier of such holder, may not discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
-&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
-&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
 &emsp;(3) testified or is about to testify in such a proceeding; or
 
@@ -78,7 +78,7 @@ Review.—
 
 &emsp;&emsp;(A)
 
-Appeal to court of appeals.—Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5, United States Code. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+Appeal to court of appeals.—Any person adversely affected or aggrieved by anorder issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5, United States Code. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 &emsp;&emsp;(B)
 
@@ -106,13 +106,25 @@ Mandamus.—Any nondiscretionary duty imposed by this section shall be enforceab
 
 (d)
 
-Nonapplicability to Deliberate Violations.—Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States.
+Nonapplicability to Deliberate Violations.—Subsection (a) shall not apply with respect to an employee of a holder of a certificate issued under section 44704 or 44705, or a contractor or subcontractor thereof, who, acting without direction from such certificate-holder, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to aviation safety under this subtitle or any other law of the United States.
 
 (e)
 
-Contractor Defined.—In this section, the term "contractor" means a company that performs safety-sensitive functions by contract for an air carrier.
+Contractor Defined.—In this section, the term "contractor" means—
 
-(Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145.)
+&emsp;(1) a person that performs safety-sensitive functions by contract for an air carrier or commercial operator; or
+
+&emsp;(2) a person that performs safety-sensitive functions related to the design or production of an aircraft, aircraft engine, propeller, appliance, or component thereof by contract for a holder of a certificate issued under section 44704.
+
+(Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145; amended Pub. L. 116–260, div. V, title I, §118, Dec. 27, 2020, 134 Stat. 2337.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §118(1), added subsec. (a) and struck out former subsec. (a) which related to discrimination against airline employees.
+
+Subsec. (d). Pub. L. 116–260, §118(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States."
+
+Subsec. (e). Pub. L. 116–260, §118(3), added subsec. (e) and struck out former subsec. (e) which defined the term "contractor" as a company that performs safety-sensitive functions by contract for an air carrier.
 
 #### Effective Date
 

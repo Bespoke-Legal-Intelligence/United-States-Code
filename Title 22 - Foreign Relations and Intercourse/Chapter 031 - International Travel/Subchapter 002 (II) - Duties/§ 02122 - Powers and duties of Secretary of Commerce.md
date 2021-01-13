@@ -18,9 +18,11 @@ In order to carry out the national tourism policy established in section 2121(b)
 
 (Pub. L. 87–63, title II, §201, formerly §2, June 29, 1961, 75 Stat. 129; Pub. L. 93–623, §6, Jan. 3, 1975, 88 Stat. 2105; renumbered and amended Pub. L. 97–63, §3(b), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §6(a), Sept. 30, 1992, 106 Stat. 1175; Pub. L. 104–288, §10, Oct. 11, 1996, 110 Stat. 3407.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct.11, 1996, 110 Stat. 3407, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 2121 of this title and Tables.
+The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 2121 of this title and Tables.
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Par. (8). Pub. L. 102–372, §6(5), added par. (8).
 <b>1981</b>—Pub. L. 97–63, §3(b), substituted "In order to carry out the national tourism policy established by section 2121(b) of this title" for "In order to carry out the purpose of this chapter".
 
 <b>1975</b>—Par. (6). Pub. L. 93–623 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

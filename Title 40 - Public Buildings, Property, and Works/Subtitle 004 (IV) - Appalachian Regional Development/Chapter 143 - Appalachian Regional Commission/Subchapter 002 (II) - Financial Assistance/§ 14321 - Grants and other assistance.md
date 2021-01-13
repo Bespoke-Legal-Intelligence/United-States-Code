@@ -50,7 +50,7 @@ Grants to which percentage limitation doesn't apply.—Discretionary grants made
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year.
+Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Assistance for Demonstrations of Enterprise Development.—
 
 &emsp;(1)
 
-In general.—The Commission may provide assistance under this section for demonstrations of enterprise development, including site acquisition or development where necessary for the feasibility of the project, in connection with the development of the region'senergy resources and the development and stimulation of indigenous arts and crafts of the region.
+In general.—The Commission may provide assistance under this section for demonstrations of enterprise development, including site acquisition or development where necessary for the feasibility of the project, in connection with the development of the region's energy resources and the development and stimulation of indigenous arts and crafts of the region.
 
 &emsp;(2)
 
@@ -92,7 +92,7 @@ Commission.—The Commission, as required by the President, shall maintain accur
 
 Recipients of federal assistance.—Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be <sup>1</sup> available for audit by the President, the Comptroller General, and the Commission.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, §2(a), Oct. 8, 2008, 122 Stat. 4037.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, §2(a), Oct. 8, 2008, 122 Stat. 4037; Pub. L. 116–136, div. B, title IV, §14004, Mar. 27, 2020, 134 Stat. 526.)
 
 Historical and Revision Notes
 
@@ -138,11 +138,15 @@ In subsection (c)(1), the words "or their duly authorized representatives" are o
 
 In subsection (c)(2), the words "or their duly authorized representatives" are omitted because of 3:301 and 31:711(2) and because of the inferred authority of the Commission to delegate in the absence of a prohibition. See section 14301(d) of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2)(B)(ii). Pub. L. 116–136 inserted before period at end ", except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount".
 
 <b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: "the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;".
 

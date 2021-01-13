@@ -6,13 +6,15 @@ In General.—A person who, in the course of an offense under this chapter, or s
 
 (Added Pub. L. 103–322, title VI, §60010(a)(2), Sept. 13, 1994, 108 Stat. 1972; amended Pub. L. 109–248, title II, §206(a)(3), July 27, 2006, 120 Stat. 613.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2245 was renumbered section 2246 of this title.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–248 amended section catchline and text generally. Prior to amendment, text read as follows: "A person who, in the course of an offense underthis chapter, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for any term of years or for life."
+<b>2006</b>—Pub. L. 109–248 amended section catchline and text generally. Prior to amendment, text read as follows: "A person who, in the course of an offense under this chapter, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for any term of years or for life."
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

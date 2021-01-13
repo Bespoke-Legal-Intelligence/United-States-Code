@@ -108,5 +108,5 @@ Section was enacted as part of the Water and Waste Act of 2016, and also as part
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

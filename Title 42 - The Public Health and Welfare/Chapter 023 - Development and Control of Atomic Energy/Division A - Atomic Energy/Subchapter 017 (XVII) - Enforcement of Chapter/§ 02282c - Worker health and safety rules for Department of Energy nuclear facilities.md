@@ -32,7 +32,7 @@
 
 #### (2) Continuing violations
 
-&emsp;If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
+&emsp;If any violation under this subsection is a continuing violation, each day of the violationshall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
 
 #### (c) Contract penalties
 

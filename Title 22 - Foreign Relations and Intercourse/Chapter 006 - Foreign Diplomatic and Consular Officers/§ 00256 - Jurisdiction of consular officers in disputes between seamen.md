@@ -4,6 +4,8 @@ Whenever it is stipulated by treaty or convention between the United States and 
 
 (R.S. §4079.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §4079 derived from act June 11, 1864, ch. 116, §1, 13 Stat. 121.

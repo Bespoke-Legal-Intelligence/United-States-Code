@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
-> the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+> the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct theTrade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
@@ -60,7 +60,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(B) impose duties or other import restrictions on the goods of, and, notwithstanding any other provision of law, fees or restrictions on the services of, such foreign country for such time as the Trade Representative determines appropriate;
 
-&emsp;(C) in a case in which the act, policy, or practice also fails to meet the eligibility criteria for receiving duty-free treatment under subsections (b) and (c) of section 2462 of this title, subsections (b) and (c) of section 2702 of this title, or subsections (c) and (d) of section 3202 of this title, withdraw, limit, or suspendsuch treatment under such provisions, notwithstanding the provisions of subsection (a)(3) of this section; or
+&emsp;(C) in a case in which the act, policy, or practice also fails to meet the eligibility criteria for receiving duty-free treatment under subsections (b) and (c) of section 2462 of this title, subsections (b) and (c) of section 2702 of this title, or subsections (c) and (d) of section 3202 of this title, withdraw, limit, or suspend such treatment under such provisions, notwithstanding the provisions of subsection (a)(3) of this section; or
 
 &emsp;(D) enter into binding agreements with such foreign country that commit such foreign country to—
 

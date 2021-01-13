@@ -76,7 +76,7 @@ Pub. L. 115–6, §2, Feb. 28, 2017, 131 Stat. 11, provided that: "The Congress 
 
 &emsp;"(3) only 26 percent of women who do attain degrees in STEM fields work in STEM jobs;
 
-&emsp;"(4) there is an increasing demand for individuals with STEM degrees to extend their focus beyond the laboratory so they can be leaders in discovery commercialization;
+&emsp;"(4) there is an increasing demand for individuals with STEM degrees to extend their focus beyond thelaboratory so they can be leaders in discovery commercialization;
 
 &emsp;"(5) studies have shown that technology and commercialization ventures are successful when women are in top management positions; and
 
@@ -238,7 +238,7 @@ Employment Status.—Members of the Commission shall not be deemed to be employe
 
 "(a)
 
-Director.—The Commission shall appoint a Director who shall be paid at a rate not to exceed themaximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
+Director.—The Commission shall appoint a Director who shall be paid at a rate not to exceed the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
 
 "(b)
 
@@ -342,7 +342,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 "(a) It is the purpose of this section to establish a task force on women, minorities, and the handicapped in science and technology to—
 
-&emsp;"(1) examine the current status of women, minorities, and the handicapped in science and engineeringpositions in the Federal Government and in federally assisted research programs;
+&emsp;"(1) examine the current status of women, minorities, and the handicapped in science and engineering positions in the Federal Government and in federally assisted research programs;
 
 &emsp;"(2) coordinate existing Federal programs designed to promote the employment of women, minorities, and the handicapped in such positions;
 

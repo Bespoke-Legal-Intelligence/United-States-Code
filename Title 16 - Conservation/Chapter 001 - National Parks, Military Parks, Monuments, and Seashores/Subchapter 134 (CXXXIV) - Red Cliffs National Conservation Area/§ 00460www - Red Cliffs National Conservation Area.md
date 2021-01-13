@@ -174,7 +174,7 @@ Northeastern washington county wilderness map.—The term 'Northeastern Washingt
 
 &emsp;"(5)
 
-Northwestern washington county wilderness map.—The term 'Northwestern Washington County Wilderness Map' means the map entitled 'Northwestern Washington County Wilderness' and dated June 21, 2008.
+Northwestern washington county wilderness map.—The term 'Northwestern WashingtonCounty Wilderness Map' means the map entitled 'Northwestern Washington County Wilderness' and dated June 21, 2008.
 
 &emsp;"(6)
 

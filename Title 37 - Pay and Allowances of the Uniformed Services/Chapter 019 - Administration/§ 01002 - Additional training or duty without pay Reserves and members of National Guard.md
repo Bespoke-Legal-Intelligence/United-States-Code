@@ -50,6 +50,8 @@ In subsection (b), the words "section 404(a)–(d), and (f), of this title" are 
 
 Subsection (d) is substituted for section 301(e) of existing title 37.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -60,11 +62,13 @@ Subsection (d) is substituted for section 301(e) of existing title 37.
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §672(c), Oct. 5, 1999, 113 Stat. 674, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of February 10, 1996, as if included in section 1039 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 432 \[amending section 6323 of Title 5, Government Organization and Employees\]).
+Pub. L. 106–65, div. A, title VI, §672(c), Oct. 5, 1999, 113 Stat. 674, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of February 10, 1996, as if included in section 1039 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 432 \[amending section 6323 of Title 5, Government Organization and Employees\])."
 

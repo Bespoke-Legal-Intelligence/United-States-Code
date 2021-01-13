@@ -185,7 +185,7 @@
 | [6342\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006342%20-%20Survey%20and%20Registry.md) | Survey and Registry. |
 | [6343\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006343%20-%20Waste%20energy%20recovery%20incentive%20grant%20program.md) | Waste energy recovery incentive grant program. |
 | [6344\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006344%20-%20Additional%20incentives%20for%20recovery%2C%20use%2C%20and%20prevention%20of%20industrial%20waste%20energy.md) | Additional incentives for recovery, use, and prevention of industrial waste energy. |
-| [6345\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006345%20-%20Clean%20Energy%20Application%20Centers.md) | Clean Energy Application Centers. |
+| [6345\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006345%20-%20CHP%20Technical%20Assistance%20Partnership%20Program.md) | CHP Technical Assistance Partnership Program. |
 | 6346, 6347. Repealed or Omitted. |  |
 | [6348\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md) | Energy efficiency in industrial facilities. |
 | [6349\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md) | Process-oriented industrial energy efficiency. |
@@ -221,6 +221,7 @@
 | 6371h–1. | Energy sustainability and efficiency grants and loans for institutions. |
 | [6371i.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371i%20-%20Records.md) | Records. |
 | [6371j.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371j%20-%20Application%20of%20sections%203141%E2%80%933144%2C%203146%2C%20and%203147%20of%20title%2040.md) | Application of sections 3141–3144, 3146, and 3147 of title 40. |
+| [6371k.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371k%20-%20Coordination%20of%20energy%20retrofitting%20assistance%20for%20schools.md) | Coordination of energy retrofitting assistance for schools. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

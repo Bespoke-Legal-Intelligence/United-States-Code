@@ -6,7 +6,7 @@ Blood Alcohol Concentration Level.—In this section, the blood alcohol concentr
 
 (b)
 
-First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualify from operating a commercial motor vehicle for at least one year an individual—
+First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualifyfrom operating a commercial motor vehicle for at least one year an individual—
 
 &emsp;(A) committing a first violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
@@ -44,7 +44,7 @@ Lifetime Disqualification Without Reinstatement.—
 
 &emsp;(1)
 
-Controlled substance violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle incommitting a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+Controlled substance violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
 
 &emsp;(2)
 
@@ -82,7 +82,7 @@ Issuance of regulations.—The Secretary shall issue regulations providing for t
 
 &emsp;(2)
 
-Requirements for regulations.—Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periods based on the seriousness of the offenses on which the convictions are based.
+Requirements for regulations.—Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periodsbased on the seriousness of the offenses on which the convictions are based.
 
 (h)
 
@@ -192,7 +192,7 @@ Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–141, §32507, inserted "section 521 or" before "section 5102" in pars. (1) and (2).
 
-Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 year after the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 yearafter the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
 
 Subsec. (k). Pub. L. 112–141, §32204, added subsec. (k).
 

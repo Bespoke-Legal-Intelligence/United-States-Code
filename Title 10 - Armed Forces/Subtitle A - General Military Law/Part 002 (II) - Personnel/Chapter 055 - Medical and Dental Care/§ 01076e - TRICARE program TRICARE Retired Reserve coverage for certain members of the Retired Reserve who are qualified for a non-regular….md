@@ -42,7 +42,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
 
-(Added Pub. L. 111–84, div. A, title VII, §705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, §701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(b), Dec.12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title XVII, §1731(a)(25), Dec. 20, 2019, 133 Stat. 1813.)
+(Added Pub. L. 111–84, div. A, title VII, §705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, §701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(b), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title XVII, §1731(a)(25), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### Amendments
 

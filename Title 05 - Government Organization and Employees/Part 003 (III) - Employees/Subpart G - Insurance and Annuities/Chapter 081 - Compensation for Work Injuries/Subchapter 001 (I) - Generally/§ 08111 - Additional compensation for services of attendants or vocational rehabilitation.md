@@ -50,6 +50,8 @@ Act
 
 July 4, 1966, Pub. L. 89–488, §4(a), 80 Stat. 253.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–534 substituted "$1,500" for "$500".
@@ -58,13 +60,15 @@ July 4, 1966, Pub. L. 89–488, §4(a), 80 Stat. 253.
 
 Subsec. (b). Pub. L. 93–416, §7(b), substituted "$200" for "$100".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–534, §3, Nov. 7, 1990, 104 Stat. 2352, provided that: "The amendment made by section 2 \[amending this section\] shall take effect October 1, 1990."
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974,see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by 1967 Increase
 

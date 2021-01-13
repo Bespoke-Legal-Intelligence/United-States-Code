@@ -36,7 +36,7 @@ In carrying out a memorandum of understanding pursuant to this section, the Serg
 
 &emsp;(A) in the case of a reimbursement for salaries or agency contributions and related expenses, shall be deposited in the account under the heading "
 
-Office of the sergeant at arms and doorkeeper" or "
+Office of the sergeant at armsand doorkeeper" or "
 
 agency contributions and related expenses", under the heading "
 
@@ -55,6 +55,8 @@ Contingent Expenses of the Senate".
 This section and the amendment made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
 (Pub. L. 108–447, div. G, title II, §215, Dec. 8, 2004, 118 Stat. 3197.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

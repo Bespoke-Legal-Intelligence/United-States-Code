@@ -36,7 +36,7 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (1) Proposed list
 
-&emsp;The Secretary shall prepare and publish a proposed list of health professional shortage areas and entities that would receive priority under subsection (a)(1) in the assignment of Corps members. The list shall contain the information described in paragraph (2), and the relative scores and relative priorities of the entities submitting applications under section 254f of this title, in a proposed format. All such entities shall have 30 days after the date of publication of the list to provide additional data and information in support of inclusion on the list or in support of a higher priority determination and the Secretary shall reasonably consider such data and information in preparing the final list under paragraph (2).
+&emsp;The Secretary shall prepare and publish a proposed list of health professional shortage areas and entities that would receive priority under subsection (a)(1) in the assignment of Corps members. The list shall contain the information described in paragraph (2), and the relative scores and relative priorities of the entities submitting applications under section 254f of this title, in a proposed format. Allsuch entities shall have 30 days after the date of publication of the list to provide additional data and information in support of inclusion on the list or in support of a higher priority determination and the Secretary shall reasonably consider such data and information in preparing the final list under paragraph (2).
 
 #### (2) Preparation of list for applicable period
 
@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 107–251, §304(7), redesignated subsec. (e) as (d). Forme
 
 Subsec. (d)(1). Pub. L. 107–251, §304(4)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (d)(2). Pub. L. 107–251, §304(4)(C), in introductory provisions, substituted "paragraph (3)" for "paragraph (2)" and "prepare and, as appropriate, update a list of health professional shortage areas and entities" for "prepare a list of health professional shortage areas" and struck out "for the period applicable under subsection (f) of this section" after "Corps members".
+Subsec. (d)(2). Pub. L. 107–251, §304(4)(C), in introductory provisions, substituted "paragraph (3)" for "paragraph (2)" and "prepare and, as appropriate, update alist of health professional shortage areas and entities" for "prepare a list of health professional shortage areas" and struck out "for the period applicable under subsection (f) of this section" after "Corps members".
 
 Pub. L. 107–251, §304(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 

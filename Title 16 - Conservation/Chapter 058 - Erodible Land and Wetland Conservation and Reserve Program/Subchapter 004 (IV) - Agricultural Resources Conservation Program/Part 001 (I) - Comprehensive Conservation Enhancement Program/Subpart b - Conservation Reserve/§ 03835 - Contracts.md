@@ -78,7 +78,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (A) In general
 
-&emsp;&emsp;During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate thecontract at any time if the contract has been in effect for at least 5 years.
+&emsp;&emsp;During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate the contract at any time if the contract has been in effect for at least 5 years.
 
 #### (B) Liability for contract violation
 

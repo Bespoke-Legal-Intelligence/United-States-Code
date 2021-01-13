@@ -19,7 +19,7 @@ The timetable with respect to this subchapter for any budget year is as follows:
 
 #### (b) Submission and availability of reports
 
-Each report required by this section shall be submitted, in the case of CBO, to the House ofRepresentatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
+Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
 
 #### (c) Sequestration preview reports
 
@@ -37,7 +37,7 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 &emsp;&emsp;(A) The amount of net deficit increase or decrease, if any, calculated under section 902(b) of this title.
 
-&emsp;&emsp;(B) A list identifying each law enacted and sequestration implemented after November 5, 1990, included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
+&emsp;&emsp;(B) A list identifying each law enacted and sequestration implemented after November5, 1990, included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
 
 &emsp;&emsp;(C) The sequestration percentage or (if the required sequestration percentage is greater than the maximum allowable percentage for medicare) percentages necessary to eliminate a deficit increase under section 902(c) of this title.
 
@@ -93,7 +93,7 @@ On the dates specified in subsection (a), OMB and CBO shall issue a sequestratio
 
 #### (4) Explanation of differences
 
-&emsp;The OMB report shall explain any differences between OMB and CBO estimates ofthe amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>1</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
+&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>1</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
 #### (5) Presidential order
 
@@ -101,7 +101,7 @@ On the dates specified in subsection (a), OMB and CBO shall issue a sequestratio
 
 #### (g) Within-session sequestration reports and order
 
-If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an orderfully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
 #### (h) GAO compliance report
 
@@ -124,6 +124,8 @@ At any time, CBO shall notify the Congress if—
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
 (Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, §103, Aug. 2, 2011, 125 Stat. 246; Pub. L. 113–67, div. A, title I, §121(3), (4), Dec. 26, 2013, 127 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -176,6 +178,8 @@ Subsec. (i). Pub. L. 104–316, §102(d)(2), in introductory provisions substitu
 <b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–119, §102(b)(1), substituted "the Director of OMB" for "the Comptroller General".
 
 Subsec. (b)(1)(E). Pub. L. 100–119, §106(e)(2), inserted provisions relating to maximum deficit amount for fiscal year 1988 or 1989.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Budget Office Excepted From Certain Requirements
 
@@ -249,7 +253,7 @@ Final Order of the President of the United States, Oct. 15, 1990, 55 F.R. 41977,
 
 By the authority vested in me as President by the statutes of the United States of America, including section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) \[2 U.S.C. 902\], as amended by the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 (Public Law 100–119) (hereafter referred to as "the Act"), I hereby order that the following actions shall be taken to implement the sequestrations and reductions determined by the Director of the Office of Management and Budget as set forth in his report dated October 15, 1990, under section 251 of the Act \[2 U.S.C. 901\]:
 
-(1) Each automatic spending increase that would, but for the provisions of the Act, take effect during fiscal year 1991 is permanently sequestered or reduced as provided in section 252.
+(1) Each automatic spending increase that would, but for the provisions of the Act, take effect during fiscalyear 1991 is permanently sequestered or reduced as provided in section 252.
 
 (2) The following are sequestered as provided in section 252: new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; spending authority as defined in section 401(c)(2) of the Congressional Budget Act of 1974, as amended \[2 U.S.C. 651(c)(2)\]; and obligation limitations.
 
@@ -287,13 +291,13 @@ Order Rescinded.—(1) Upon the issuance of a new final order by the President u
 
 Adjusted Reduction.—
 
-&emsp;"(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act\[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] for the final report issued under section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
+&emsp;"(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act \[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] for the final report issued under section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
 
 &emsp;"(2) Notwithstanding any provision of law other than this paragraph, the reductions and cancellations in the student loan programs described in section 256(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 906(c)\] achieved by the order issued by the President on October 16, 1989, shall remain in effect through December 31, 1989, and no reductions or cancellations in such programs shall be made by the order issued under paragraph (4).
 
 &emsp;"(3) Notwithstanding any provision of law other than this paragraph, any automatic spending increase suspended or cancelled by the order issued by the President on October 16, 1989, shall be paid at a rate that is 130/365ths less than the rate that would have been paid under the laws providing for such automatic spending increase.
 
-&emsp;"(4) On the date that the Director submits a revised report to the President under paragraph (1) for fiscal year 1990, the President shall issue a new final order to make all of the reductions and cancellations specified in such report in conformity with section 252(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(a)(2)\]. Such order shall be deemed to have become effective on October 16, 1989.
+&emsp;"(4) On the date that the Director submits a revised report to the President under paragraph (1) for fiscal year 1990, the President shall issue a new final orderto make all of the reductions and cancellations specified in such report in conformity with section 252(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(a)(2)\]. Such order shall be deemed to have become effective on October 16, 1989.
 
 "(c)
 

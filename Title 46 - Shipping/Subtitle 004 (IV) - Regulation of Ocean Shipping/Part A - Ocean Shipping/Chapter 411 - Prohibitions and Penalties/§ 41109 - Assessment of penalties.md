@@ -70,6 +70,8 @@ Pub. L. 98–237, §13(c)–(f), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–258, 
 
 46 App.:1712(e).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Pars. (1) and (2) of section 41104 of this title, referred to in subsec. (c), were redesignated as pars. (1) and (2), respectively, of section 41104(a) of this title by Pub. L. 115–282, title VII, §708(a)(1), Dec. 4, 2018, 132 Stat. 4295.

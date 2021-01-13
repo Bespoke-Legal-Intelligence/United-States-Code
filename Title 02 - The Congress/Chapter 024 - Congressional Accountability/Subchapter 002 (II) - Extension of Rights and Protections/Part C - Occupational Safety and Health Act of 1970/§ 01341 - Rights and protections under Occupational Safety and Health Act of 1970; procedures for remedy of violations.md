@@ -76,7 +76,7 @@ The remedy for a violation of subsection (a) shall be an order to correct the vi
 
 &emsp;On the basis of each periodic inspection, the General Counsel shall prepare and submit a report—
 
-&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore ofthe Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
+&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
 
 &emsp;&emsp;(B) containing the results of the periodic inspection, identifying the employing office responsible for correcting the violation of this section uncovered by such inspection, describing any steps necessary to correct any violation of this section, and assessing any risks to employee health and safety associated with any violation.
 
@@ -104,6 +104,8 @@ The period from January 23, 1995, until December 31, 1996, shall be available to
 
 (Pub. L. 104–1, title II, §215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, §422(b)(4), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 115–141, div. I, title I, §153(a)(2)(D), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §308(b)(9), Dec. 21, 2018, 132 Stat. 5326.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
@@ -121,6 +123,8 @@ Subsec. (e)(1). Pub. L. 115–397 substituted "Office of Congressional Workplace
 <b>2004</b>—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 Subsec. (g)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -4,7 +4,7 @@
 
 Officers in Pay Grades O–1
 
-and O–2.—An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (junior grade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
+and O–2.—An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (juniorgrade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
 
 &emsp;(1) Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
 

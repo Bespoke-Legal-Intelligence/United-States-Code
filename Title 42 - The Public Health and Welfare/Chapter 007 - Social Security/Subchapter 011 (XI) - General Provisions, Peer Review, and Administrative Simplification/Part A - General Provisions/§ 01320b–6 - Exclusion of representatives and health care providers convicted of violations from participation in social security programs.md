@@ -12,7 +12,7 @@ The Commissioner of Social Security shall exclude from participation in the soci
 
 #### (b) Notice, effective date, and period of exclusion
 
-(1) An exclusion under this section shall be effective at such time, for such period, and uponsuch reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
+(1) An exclusion under this section shall be effective at such time, for such period, and upon such reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
 
 (2) Such an exclusion shall be effective with respect to services furnished to any individual on or after the effective date of the exclusion. Nothing in this section may be construed to preclude, in determining disability under subchapter II or subchapter XVI, consideration of any medical evidence derived from services provided by a health care provider before the effective date of the exclusion of the health care provider under this section.
 
@@ -64,7 +64,7 @@ The Commissioner shall—
 
 #### (g) Availability of records of excluded representatives and health care providers
 
-Nothing in this section shall be construed to have the effect of limiting access by any applicant or beneficiary under subchapter II or XVI, any State agency acting under section 421 or 1383b(a) of this title, or the Commissioner to records maintained by any representative or health care provider in connection with services provided to the applicant or beneficiary prior to the exclusion of such representative or health care provider under this section.
+Nothing in this section shall be construed to have the effect of limiting access by any applicant or beneficiary under subchapter II or XVI,any State agency acting under section 421 or 1383b(a) of this title, or the Commissioner to records maintained by any representative or health care provider in connection with services provided to the applicant or beneficiary prior to the exclusion of such representative or health care provider under this section.
 
 #### (h) Reporting requirement
 

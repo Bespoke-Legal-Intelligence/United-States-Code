@@ -22,9 +22,11 @@ Not later than 5 years after June 22, 2009, the Comptroller General of the Unite
 
 #### (c) Public availability
 
-The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection <sup>1</sup> (a) and (b) available to the public, including by posting such reports onthe respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
+The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection <sup>1</sup> (a) and (b) available to the public, including by posting such reports on the respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
 
 (Pub. L. 111–31, div. A, title I, §106, June 22, 2009, 123 Stat. 1841.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -34,9 +36,11 @@ This division, referred to in subsecs. (a)(1), (2), (4) and (b)(1), is div. A of
 
 Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Modification of Deadlines for Secretarial Action
 
-With respect to any time periods specified in div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+With respect to any time periods specified in div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscalquarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be plural.</i>
 

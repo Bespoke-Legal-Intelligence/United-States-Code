@@ -1,6 +1,6 @@
 ### §532. Qualifications for original appointment as a commissioned officer
 
-(a) Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
+(a) Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force may be given only to a person who—
 
 &emsp;(1) is a citizen of the United States;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
 
-(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, andoriginal appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
+(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
@@ -30,9 +30,11 @@
 
 (f) The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) with respect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title, when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.
 
-(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 108–375, div. A, title V, §501(a)(1)–(3)(A), Oct. 28, 2004, 118 Stat. 1872; Pub. L. 109–163, div. A, title V, §534(c), Jan. 6, 2006, 119 Stat. 3248; Pub. L. 111–383, div. A, title V, §501(a), Jan. 7, 2011, 124 Stat. 4206; Pub. L. 115–232, div. A, title V, §501(a), (b), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1739, 1840.)
+(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 108–375, div. A, title V, §501(a)(1)–(3)(A), Oct. 28, 2004, 118 Stat. 1872; Pub. L. 109–163, div. A, title V, §534(c), Jan. 6, 2006, 119 Stat. 3248; Pub. L. 111–383, div. A, title V, §501(a), Jan. 7, 2011, 124 Stat. 4206; Pub. L. 115–232, div. A, title V, §501(a), (b), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1739, 1840; Pub. L. 116–283, div. A, title IX, §924(b)(4)(B), Jan. 1, 2021, 134 Stat. 3822.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps" in introductory provisions.
 
 <b>2018</b>—Subsec. (a)(2) to (5). Pub. L. 115–232, §501(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "is able to complete 20 years of active commissioned service before his sixty-second birthday;".
 
@@ -78,5 +80,5 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 
-Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islandswho indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers' Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
+Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers' Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 

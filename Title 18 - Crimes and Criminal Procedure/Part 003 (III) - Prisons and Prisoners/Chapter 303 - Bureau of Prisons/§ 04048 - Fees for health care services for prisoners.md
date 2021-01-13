@@ -36,7 +36,7 @@ Fees for Health Care Services.—
 
 &emsp;(1)
 
-In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee forhealth care services provided in connection with each health care visit requested by a prisoner.
+In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connection with each health care visit requested by a prisoner.
 
 &emsp;(2)
 
@@ -117,6 +117,8 @@ Reports to Congress.—Not later than 1 year after the date of the enactment of 
 Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 
 (Added Pub. L. 106–294, §2(a), Oct. 12, 2000, 114 Stat. 1038.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

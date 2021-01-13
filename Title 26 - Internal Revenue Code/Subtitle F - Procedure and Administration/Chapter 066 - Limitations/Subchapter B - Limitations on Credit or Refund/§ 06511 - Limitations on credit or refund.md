@@ -50,7 +50,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 &emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of—
 
-&emsp;&emsp;(A) The deductibility by the taxpayer, under section 166 or section 832(c), of a debt as a debt which became worthless, or, under section 165(g), of a loss from worthlessness of a security, or
+&emsp;&emsp;(A) The deductibility by the taxpayer, under section 166 or section 832(c), of a debtas a debt which became worthless, or, under section 165(g), of a loss from worthlessness of a security, or
 
 &emsp;&emsp;(B) The effect that the deductibility of a debt or loss described in subparagraph (A) has on the application to the taxpayer of a carryover,
 
@@ -94,7 +94,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (A) Period of limitation
 
-&emsp;&emsp;If the claim for credit or refund relates to an overpayment attributable to a creditcarryback, in lieu of the 3-year period of limitation prescribed in subsection (a), the period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the unused credit which results in such carryback (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, the period shall be that period which ends 3 years after the time prescribed by law for filing the return, including extensions thereof, for such subsequent taxable year) or the period prescribed in subsection (c) in respect of such taxable year, whichever expires later. In the case of such a claim, the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b)(2) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to such carryback.
+&emsp;&emsp;If the claim for credit or refund relates to an overpayment attributable to a credit carryback, in lieu of the 3-year period of limitation prescribed in subsection (a), the period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the unused credit which results in such carryback (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, the period shall be that period which ends 3 years after the timeprescribed by law for filing the return, including extensions thereof, for such subsequent taxable year) or the period prescribed in subsection (c) in respect of such taxable year, whichever expires later. In the case of such a claim, the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b)(2) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to such carryback.
 
 #### (B) Applicable rules
 
@@ -428,7 +428,7 @@ Amendment by section 101(h) of Pub. L. 91–172 effective Jan. 1, 1970, see sect
 
 Amendment by section 311(d)(3) of Pub. L. 91–172 applicable with respect to computation years (within the meaning of section 1302(c)(1) of this title) beginning after Dec. 31, 1969, and to base period years (within the meaning of section 1302(c)(3) of this title) applicable to such computation years, see section 311(e) of Pub. L. 91–172, set out as a note under section 1301 of this title.
 
-Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained intaxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1967 Amendment
 
@@ -440,7 +440,7 @@ Amendment by Pub. L. 89–331 effective Nov. 8, 1965, see section 14 of Pub. L. 
 
 #### Effective Date of 1964 Amendments
 
-Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under section 6501 of this title.
+Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts,for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under section 6501 of this title.
 
 Amendment by Pub. L. 88–272, applicable to taxable years beginning after Dec. 31, 1964, see section 232(g) of Pub. L. 88–272, set out as an Effective Date note under section 1301 of this title.
 

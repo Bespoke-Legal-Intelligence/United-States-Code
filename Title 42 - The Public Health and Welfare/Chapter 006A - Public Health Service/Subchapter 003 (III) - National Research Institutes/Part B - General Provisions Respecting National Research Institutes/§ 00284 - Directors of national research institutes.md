@@ -38,7 +38,7 @@
 
 #### (b) Duties and authority; grants, contracts, and cooperative agreements
 
-(1) In carrying out the purposes of section 241 of this title with respect to human diseases or disorders or other aspects of human health for which the national research institutes were established, the Secretary, acting through the Director of each national research institute—
+(1) In carrying out the purposes of section 241 of this title with respect to human diseases ordisorders or other aspects of human health for which the national research institutes were established, the Secretary, acting through the Director of each national research institute—
 
 &emsp;(A) shall encourage and support research, investigations, experiments, demonstrations, and studies in the health sciences related to—
 
@@ -76,7 +76,7 @@
 
 > The indemnification provisions of section 2354 of title 10 shall apply with respect to contracts entered into under this subsection and section 282(b) of this title.
 
-(2) Support for an activity or program under this subsection may be provided through grants,contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
+(2) Support for an activity or program under this subsection may be provided through grants, contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
 
 &emsp;(A) may enter into a contract for research, training, or demonstrations only if the contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title;
 

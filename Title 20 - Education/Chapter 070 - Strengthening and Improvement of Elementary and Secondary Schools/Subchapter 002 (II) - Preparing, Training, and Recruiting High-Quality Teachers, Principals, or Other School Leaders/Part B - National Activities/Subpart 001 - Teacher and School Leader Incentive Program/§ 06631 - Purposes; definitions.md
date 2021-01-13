@@ -30,7 +30,7 @@ In this subpart:
 
 #### (2) High-need school
 
-&emsp;The term "high-need school" means a public elementary school or secondary school that is located in an area in which the percentage of students from families with incomes below the poverty line is 30 percent or more.
+&emsp;The term "high-need school" means a public elementary school or secondary school that islocated in an area in which the percentage of students from families with incomes below the poverty line is 30 percent or more.
 
 #### (3) Human capital management system
 

@@ -22,9 +22,13 @@ The President should establish a working group—
 
 (Pub. L. 101–216, title I, §105, Dec. 11, 1989, 103 Stat. 1854.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Arms Control and Disarmament Amendments Act of 1989, and not as part of the Arms Control and Disarmament Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

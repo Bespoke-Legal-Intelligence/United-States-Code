@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—ORGANIZATION
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter I of this chapter consisting of sections 4101 to 4120, related to organization of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under sections 4101 to 4110A of this title.
@@ -19,3 +21,5 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 - [&sect; 07308 - Office of Rural Health](%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md)
 - [&sect; 07309 - Readjustment Counseling Service](%C2%A7%2007309%20-%20Readjustment%20Counseling%20Service.md)
 - [&sect; 07309A - Office of Patient Advocacy](%C2%A7%2007309A%20-%20Office%20of%20Patient%20Advocacy.md)
+- [&sect; 07310 - Office of Women's Health](%C2%A7%2007310%20-%20Office%20of%20Women%27s%20Health.md)
+- [&sect; 07310A - Annual reports on Women's Health](%C2%A7%2007310A%20-%20Annual%20reports%20on%20Women%27s%20Health.md)

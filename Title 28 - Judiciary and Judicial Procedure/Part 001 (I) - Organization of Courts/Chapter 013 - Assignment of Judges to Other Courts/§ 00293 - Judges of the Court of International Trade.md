@@ -20,6 +20,8 @@ The term "chief judge" was substituted for "presiding judge." (See reviser's not
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–164, §110(b), substituted "the Court of International Trade" for "other courts" in section catchline.
@@ -49,6 +51,8 @@ Subsec. (b). Pub. L. 85–755 designated existing second par. as subsec. (b).
 Subsecs. (c), (d). Pub. L. 85–755 added subsecs. (c) and (d).
 
 <b>1956</b>—Act July 14, 1956, authorized the Chief Justice of the United States to designate and assign temporarily a judge of the Customs Court to perform judicial duties in a district court in any circuit.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -44,7 +44,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall pay from time to time from the Vaccine Injury CompensationTrust Fund into the general fund of the Treasury amounts equivalent to amounts paid under section 4132(b) and section 6416 with respect to the taxes imposed by section 4131.
+&emsp;&emsp;The Secretary shall pay from time to time from the Vaccine Injury Compensation Trust Fund into the general fund of the Treasury amounts equivalent to amounts paid under section 4132(b) and section 6416 with respect to the taxes imposed by section 4131.
 
 #### (B) Transfers based on estimates
 

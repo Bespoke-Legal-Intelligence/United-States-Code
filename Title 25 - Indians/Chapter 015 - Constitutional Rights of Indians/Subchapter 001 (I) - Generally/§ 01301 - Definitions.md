@@ -12,11 +12,15 @@ For purposes of this subchapter, the term—
 
 (Pub. L. 90–284, title II, §201, Apr. 11, 1968, 82 Stat. 77; Pub. L. 101–511, title VIII, §8077(b), (c), Nov. 5, 1990, 104 Stat. 1892.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Par. (2). Pub. L. 101–511, §8077(b), inserted at end "means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;".
 
 Par. (4). Pub. L. 101–511, §8077(c), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -24,5 +28,5 @@ Title II of Pub. L. 90–284, which is classified generally to this subchapter, 
 
 #### Time Limitation on Criminal Misdemeanor Jurisdiction of Tribal Courts Over Non-Member Indians
 
-Pub. L. 101–511, title VIII, §8077(d), Nov. 5, 1990, 104 Stat. 1893, as amended by Pub. L. 102–124, §1, Oct. 9,1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, §8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting "1993" for "1991".
+Pub. L. 101–511, title VIII, §8077(d), Nov. 5, 1990, 104 Stat. 1893, as amended by Pub. L. 102–124, §1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, §8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting "1993" for "1991".
 

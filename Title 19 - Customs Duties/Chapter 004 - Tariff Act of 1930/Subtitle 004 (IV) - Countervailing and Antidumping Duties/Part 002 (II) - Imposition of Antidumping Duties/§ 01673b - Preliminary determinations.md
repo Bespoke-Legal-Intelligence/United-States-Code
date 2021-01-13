@@ -158,7 +158,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 > by reason of imports of the merchandise which is the subject of the investigation by the administering authority. If that determination is negative, the investigation shall be terminated."
 
-Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end "If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated averageamount by which the foreign market value exceeds the United States price."
+Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end "If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price."
 
 Pub. L. 103–465, §§212(b)(2)(C)(i), 233(a)(6)(A)(viii), substituted "140 days after the date on which the administering authority initiates an investigation under section 1673a(c) of this title" for "160 days after the date on which a petition is filed under section 1673a(b) of this title", "initiated" for "commenced", and "information" for "best information".
 
@@ -168,7 +168,7 @@ Subsec. (b)(2). Pub. L. 103–465, §233(a)(6)(A)(ix), (B), substituted "initiat
 
 Subsec. (b)(3). Pub. L. 103–465, §213(a), added par. (3).
 
-Subsec. (c)(1). Pub. L. 103–465, §§212(b)(2)(D), 233(a)(6)(A)(x), in concluding provisions, substituted "190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title" for "210th day after the date on which a petition is filed under section 1673a(b) of this title" and "initiated" for "commenced".
+Subsec. (c)(1). Pub. L. 103–465, §§212(b)(2)(D), 233(a)(6)(A)(x), in concluding provisions, substituted"190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title" for "210th day after the date on which a petition is filed under section 1673a(b) of this title" and "initiated" for "commenced".
 
 Subsec. (d). Pub. L. 103–465, §215(b)(1)(B), inserted concluding provisions.
 

@@ -44,7 +44,7 @@ For purposes of this section, the term "qualified tax collection contract" means
 
 &emsp;&emsp;&emsp;(i) at any time after assessment, the Internal Revenue Service removes such receivable from the active inventory for lack of resources or inability to locate the taxpayer,
 
-&emsp;&emsp;&emsp;(ii) more than 1/3 of the period of the applicable statute of limitation has lapsed and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
+&emsp;&emsp;&emsp;(ii) more than 2 years has passed since assessment and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
 
 &emsp;&emsp;&emsp;(iii) in the case of a receivable which has been assigned for collection, more than 365 days have passed without interaction with the taxpayer or a third party for purposes of furthering the collection of such receivable.
 
@@ -66,9 +66,13 @@ A tax receivable shall not be eligible for collection pursuant to a qualified ta
 
 &emsp;&emsp;(B) under the age of 18,
 
-&emsp;&emsp;(C) in a designated combat zone, or
+&emsp;&emsp;(C) in a designated combat zone,
 
 &emsp;&emsp;(D) a victim of tax-related identity theft,
+
+&emsp;&emsp;(E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or
+
+&emsp;&emsp;(F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),
 
 &emsp;(4) is currently under examination, litigation, criminal investigation, or levy, or
 
@@ -94,7 +98,7 @@ The provisions of the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.
 
 #### (h) Contracting priority
 
-In contracting for the services of any person under this section, the Secretary shall utilizeprivate collection contractors and debt collection centers on the schedule required under section 3711(g) of title 31, United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
+In contracting for the services of any person under this section, the Secretary shall utilize private collection contractors and debt collection centers on the schedule required under section 3711(g) of title 31, United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
 
 #### (i) Taxpayers in presidentially declared disaster areas
 
@@ -134,21 +138,11 @@ Not later than 90 days after the last day of each fiscal year (beginning with th
 
 (Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736; Pub. L. 115–141, div. U, title IV, §401(a)(351), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–25, title I, §1205(a)–(c), July 1, 2019, 133 Stat. 989.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–25, title I, §1205(a), (b), (e), July 1, 2019, 133 Stat. 989, applicable to tax receivables identified by the Secretary (or the Secretary's delegate) after Dec. 31, 2020, amended this section as follows:</i>
-
-<i>(1) in subsection (c)(2)(A)(ii), by striking "more than 1/3 of the period of the applicable statute of limitation has lapsed" and inserting "more than 2 years has passed since assessment"; and</i>
-
-<i>(2) in subsection (d)(3), by striking "or" at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs:</i>
-
-&emsp;&emsp;<i>"(E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or</i>
-
-&emsp;&emsp;<i>"(F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),".</i>
-
-<i>See 2019 Amendment notes below.</i>
-
 #### References in Text
+
+The Social Security Act, referred to in subsec. (d)(3)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 1616 of the Act are classified to sections 423 and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 212 of Public Law 93–66, referred to in subsec. (d)(3)(E), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -168,7 +162,7 @@ Subsec. (d). Pub. L. 114–94, §32102(b), added subsec. (d). Former subsec. (d)
 
 Subsec. (e). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 114–94, §32103(a), as amended by Pub. L. 115–141, §401(a)(351), substituted "to fund the special compliance personnel program account undersection 6307" for "for collection enforcement activities of the Internal Revenue Service".
+Subsec. (e)(2). Pub. L. 114–94, §32103(a), as amended by Pub. L. 115–141, §401(a)(351), substituted "to fund the special compliance personnel program account under section 6307" for "for collection enforcement activities of the Internal Revenue Service".
 
 Subsec. (f). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
 
